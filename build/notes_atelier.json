@@ -3102,6 +3102,20 @@
    "w": 1,
    "original": true,
    "editeLe": 1785085045908
+  },
+  "auteurs-celebres_jane-austen": {
+   "cx": 0.5,
+   "cy": 0.3577890625,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785085064214
+  },
+  "auteurs-celebres_walter-scott": {
+   "cx": 0.5,
+   "cy": 0.440703125,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785085067619
   }
  },
  "notes": [

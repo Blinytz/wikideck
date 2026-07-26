@@ -4292,6 +4292,20 @@
    "w": 1,
    "original": true,
    "editeLe": 1785094526783
+  },
+  "scientifiques-celebres_nikola-tesla": {
+   "cx": 0.5,
+   "cy": 0.43447265625,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785094549661
+  },
+  "scientifiques-celebres_thomas-edison": {
+   "cx": 0.5,
+   "cy": 0.33154296875,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785094553494
   }
  },
  "notes": [

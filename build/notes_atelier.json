@@ -4768,6 +4768,17 @@
    "statut": "traitee",
    "creeLe": 1783714470244,
    "majLe": 1784582952062
+  },
+  {
+   "id": "n1785095996531",
+   "tags": [],
+   "texte": "Cette carte n'a pas l'air de vouloir valider mon image. Elle remet le drapeau alors que c'est bien le portrait de Subrahmanyan Chandrasekhar en noir et balnc que je veux",
+   "images": [
+    "scientifiques-celebres_subrahmanyan-chandrasekhar"
+   ],
+   "statut": "ouverte",
+   "creeLe": 1785095996531,
+   "majLe": 1785095996531
   }
  ]
 }

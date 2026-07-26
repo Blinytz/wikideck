@@ -3214,6 +3214,20 @@
    "w": 1,
    "original": true,
    "editeLe": 1785085316340
+  },
+  "auteurs-celebres_leon-tolstoi": {
+   "cx": 0.5,
+   "cy": 0.33836805555555555,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785085342340
+  },
+  "auteurs-celebres_gustave-flaubert": {
+   "cx": 0.5,
+   "cy": 0.4177578125000001,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785085345819
   }
  },
  "notes": [

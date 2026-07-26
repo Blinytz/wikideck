@@ -3865,6 +3865,20 @@
    "w": 0.7513148009015775,
    "original": true,
    "editeLe": 1785089362906
+  },
+  "auteurs-celebres_lu-xun-ecrivain": {
+   "cx": 0.5,
+   "cy": 0.37005182317682317,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785089391826
+  },
+  "auteurs-celebres_mo-yan": {
+   "cx": 0.5,
+   "cy": 0.36584375,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785089396371
   }
  },
  "notes": [

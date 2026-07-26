@@ -11,7 +11,6 @@ function etatInitial() {
     creeLe: Date.now(),
     cartes: {},              // id de carte -> quantité possédée
     eclats: 0,
-    tauxEclats: null,        // initialisé par eclats.js
     paquets: null,           // initialisé par paquets.js
     station: null,           // phase C
     configUtilisateur: {},   // surcharges des paramètres (voir config.js)

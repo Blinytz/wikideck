@@ -1,72 +1,41 @@
-// Écran Éclats dédié : compteur, taux en direct, courbe (fenêtre au choix),
-// consommation manuelle. Accessible par l'onglet ◆ et la pastille de l'entête.
+// Écran Éclats : compteur et barème de vente des doublons.
+//
+// Le taux fluctuant, sa courbe et la consommation manuelle ont été retirés le
+// 26/07/2026 : une carte vaut un montant fixe selon sa rareté, et la conversion
+// en euros se fait désormais dans Cagnottes.
 
 import { etat } from './etat.js';
-import { config } from './config.js';
-import { tauxActuel, svgHistorique, consommerEclats } from './eclats.js';
-import { formaterNombre, confirmer } from './ui.js';
-
-const FENETRES = [3, 6, 12, 24, 48];   // heures proposées pour la courbe
-let fenetreChoisie = null;             // null = valeur de la config
-
-function fenetre() {
-  return fenetreChoisie ?? config.get('fenetreGraphiqueEclats');
-}
+import { BAREME_VENTE } from './eclats.js';
+import { formaterNombre, NOMS_RARETE } from './ui.js';
 
 export function rendreEcranEclats(section) {
+  const lignes = Object.entries(BAREME_VENTE).map(([rarete, valeur]) => `
+    <li class="ligne-bareme">
+      <span class="badge-rarete rarete-${rarete}">${NOMS_RARETE[rarete]}</span>
+      <b>${formaterNombre(valeur)} ◆</b>
+    </li>`).join('');
+
   section.innerHTML = `
     <div class="carte-panneau">
       <h2>Éclats</h2>
       <div class="ligne-eclats">
         <div class="total-eclats"><span class="gemme">◆</span>
           <b id="ecl-total">${formaterNombre(etat.eclats)}</b></div>
-        <div class="taux-eclats">taux <b id="ecl-taux">×${tauxActuel().toFixed(2)}</b></div>
       </div>
-      <div id="ecl-graphe">${svgHistorique(fenetre())}</div>
-      <div class="rangee-boutons choix-fenetre">
-        ${FENETRES.map(h => `<button class="btn btn-discret ${h === fenetre() ? 'actif-fenetre' : ''}"
-          data-fenetre="${h}">${h}h</button>`).join('')}
-      </div>
-      <p class="texte-doux">Régime haut : vendre — régime bas : attendre. Le taux
-      évolue toutes les ${config.get('frequenceRafraichissementTauxEclats')} s,
-      même app fermée (rattrapage au retour).</p>
+      <p class="texte-doux">Les Éclats se gagnent en vendant les doublons de ta
+      collection. Ils restent pour l'instant propres à WikiDeck.</p>
     </div>
 
     <div class="carte-panneau">
-      <h2>Consommer des Éclats</h2>
-      <div class="rangee-boutons">
-        <input type="number" id="ecl-conso" min="1" step="1"
-               placeholder="Quantité…" class="champ-conso">
-        <button id="ecl-btn-consommer" class="btn">Consommer</button>
-      </div>
-      <p class="texte-doux">Simple décompte manuel — la conversion en valeur
-      réelle reste à ta discrétion, hors de l'app.</p>
+      <h2>Valeur d'un doublon</h2>
+      <ul class="liste-bareme">${lignes}</ul>
+      <p class="texte-doux">Montant fixe, connu d'avance : plus de taux à guetter.
+      Le dernier exemplaire d'une carte n'est jamais vendable.</p>
     </div>`;
-
-  for (const btn of section.querySelectorAll('[data-fenetre]')) {
-    btn.addEventListener('click', () => {
-      fenetreChoisie = Number(btn.dataset.fenetre);
-      rendreEcranEclats(section);
-    });
-  }
-  section.querySelector('#ecl-btn-consommer').addEventListener('click', () => {
-    const champ = section.querySelector('#ecl-conso');
-    const montant = Math.floor(Number(champ.value));
-    if (!Number.isFinite(montant) || montant <= 0) { alert('Quantité invalide.'); return; }
-    if (montant > etat.eclats) { alert(`Tu n'as que ${formaterNombre(etat.eclats)} Éclats.`); return; }
-    if (!confirmer(`Consommer ${formaterNombre(montant)} Éclats ? (simple décompte, irréversible)`)) return;
-    consommerEclats(montant);
-    champ.value = '';
-    document.dispatchEvent(new CustomEvent('gacha:eclats-changes'));
-    majEclatsUI(section);
-  });
 }
 
-// Rafraîchissement léger appelé au tick quand l'écran est visible.
+// Rafraîchissement léger appelé quand l'écran est visible.
 export function majEclatsUI(section) {
   const total = section.querySelector('#ecl-total');
-  if (!total) return;
-  total.textContent = formaterNombre(etat.eclats);
-  section.querySelector('#ecl-taux').textContent = `×${tauxActuel().toFixed(2)}`;
-  section.querySelector('#ecl-graphe').innerHTML = svgHistorique(fenetre());
+  if (total) total.textContent = formaterNombre(etat.eclats);
 }

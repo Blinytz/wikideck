@@ -9,7 +9,7 @@ import { rendreEcranStation, majStationUI } from './ecran-station.js';
 import { initStation } from './station.js';
 import { rendreEcranReglages } from './ecran-reglages.js';
 import { rendreEcranEclats, majEclatsUI } from './ecran-eclats.js';
-import { initEclats, tickEclats, tauxActuel } from './eclats.js';
+import { initEclats } from './eclats.js';
 import './vente.js';   // branche la vente de doublons sur le détail de carte
 
 const ecrans = {
@@ -35,7 +35,6 @@ export function afficherEcran(nom, options = {}) {
 
 export function rafraichirEntete() {
   document.getElementById('eclats-total').textContent = formaterNombre(etat.eclats);
-  document.getElementById('eclats-taux').textContent = `×${tauxActuel().toFixed(2)}`;
 }
 
 async function demarrer() {
@@ -49,7 +48,7 @@ async function demarrer() {
   }
   document.getElementById('chargement').remove();
 
-  initEclats();          // création ou rattrapage hors-ligne du taux
+  initEclats();          // purge de l'ancien état de taux, s'il subsiste
   initStation();         // création de la Station (rattrapage via tickPaquets)
 
   for (const btn of document.querySelectorAll('#navbar button')) {
@@ -63,7 +62,6 @@ async function demarrer() {
 
   // Horloge : 1 tick/s pour l'UI et les moteurs (chacun gère sa propre cadence).
   setInterval(() => {
-    tickEclats();
     tickPaquets();
     if (ecranActif === 'paquets') {
       rendreEcranPaquets(document.getElementById('ecran-paquets'), { tick: true });
@@ -82,7 +80,7 @@ async function demarrer() {
   // Retour au premier plan : rattrapage immédiat.
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible') {
-      tickEclats(); tickPaquets(); rafraichirEntete();
+      tickPaquets(); rafraichirEntete();
       afficherEcran(ecranActif);
     }
   });

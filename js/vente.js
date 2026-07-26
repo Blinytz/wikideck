@@ -2,9 +2,9 @@
 // l'écran Collection). Module séparé pour éviter tout cycle d'imports.
 
 import { etat } from './etat.js';
-import { tauxActuel, vendreDoublon } from './eclats.js';
+import { valeurVente, vendreDoublon } from './eclats.js';
 import { definirDetailOptions } from './ecran-collection.js';
-import { formaterNombre, confirmer } from './ui.js';
+import { formaterNombre, confirmer, NOMS_RARETE } from './ui.js';
 
 definirDetailOptions((carte, surMaj) => {
   const qte = etat.cartes[carte.id] || 0;
@@ -13,17 +13,14 @@ definirDetailOptions((carte, surMaj) => {
     actions: `
       <div class="panneau-vente">
         <button class="btn btn-vendre">◆ Vendre un doublon —
-          ${formaterNombre(Math.round(carte.pv * tauxActuel()))} Éclats
-          <small>(${carte.pv} PV × taux ${tauxActuel().toFixed(2)})</small></button>
-        <p class="note-vente">Le taux fluctue : consulte la courbe dans les
-        Réglages avant de vendre. Le dernier exemplaire n'est jamais vendable.</p>
+          ${formaterNombre(valeurVente(carte))} Éclats
+          <small>(valeur fixe d'une ${NOMS_RARETE[carte.rarete].toLowerCase()})</small></button>
+        <p class="note-vente">Le dernier exemplaire n'est jamais vendable.</p>
       </div>`,
     brancherActions(overlay, fermer) {
       overlay.querySelector('.btn-vendre').addEventListener('click', () => {
-        // Taux relu au moment du clic : c'est le montant réellement crédité.
-        const taux = tauxActuel();
-        const montant = Math.round(carte.pv * taux);
-        if (!confirmer(`Vendre un doublon de « ${carte.nom} » au taux ×${taux.toFixed(2)} pour ${formaterNombre(montant)} Éclats ?`)) return;
+        const montant = valeurVente(carte);
+        if (!confirmer(`Vendre un doublon de « ${carte.nom} » pour ${formaterNombre(montant)} Éclats ?`)) return;
         if (vendreDoublon(carte) === null) return;
         document.dispatchEvent(new CustomEvent('gacha:eclats-changes'));
         fermer();

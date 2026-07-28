@@ -5916,6 +5916,20 @@
    "w": 0.7,
    "original": true,
    "editeLe": 1785270399083
+  },
+  "inventions-importantes_code-barres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 1785270425055
+  },
+  "inventions-importantes_fermeture-eclair": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785270429088
   }
  },
  "notes": [

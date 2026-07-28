@@ -5804,6 +5804,13 @@
    "w": 0.9004444444444444,
    "original": true,
    "editeLe": 1785269876130
+  },
+  "inventions-importantes_radar": {
+   "cx": 0.5,
+   "cy": 0.375,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785269963618
   }
  },
  "notes": [

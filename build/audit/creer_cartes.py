@@ -136,6 +136,10 @@ def main():
     restru = json.loads((ICI / 'restructuration.json').read_text(encoding='utf-8'))
     pages = json.loads((ICI / 'resolution_pages.json').read_text(encoding='utf-8'))
     par_slug = {c['slug']: c for c in plan['collections']}
+    # Une page corrigée a été résolue sous le slug de sa collection d'origine
+    # (films-cultes), mais la carte atterrit dans la collection issue de la
+    # scission (cinema-moderne) : on retrouve la fiche par le nom seul.
+    par_nom = {norm(v['nom']): v for v in pages.values()}
     images = Images(essai)
     journal, collections = [], []
 
@@ -159,7 +163,7 @@ def main():
             c['thumbUrl'] = f'images/thumbs/{slug}/{fslug}.webp'
             if c.pop('_regenerer', None) or c.pop('_aVerifier', None):
                 cle = f'{slug}|{c["nom"]}'
-                r = pages.get(cle)
+                r = pages.get(cle) or par_nom.get(norm(c['nom']))
                 if r:
                     c['titrePage'], c['description'] = r['titre'], r['extrait']
                     c['lienWikipedia'] = r['lien']
@@ -206,22 +210,29 @@ def main():
 
     # --- rareté par quotas, puis surcharges du document
     for col in collections:
-        spec = par_slug[col['slug']]
         vues = [c['pageviews'] for c in col['cartes']]
         paliers, rangs = rarete_pv.raretes(vues)
         for c, palier, rang in zip(col['cartes'], paliers, rangs):
             c['rarete'], c['pv'] = palier, rarete_pv.pv(rang)
-        forcees = {norm(k): v for k, v in spec['raretes_forcees'].items()}
-        vues_par_nom = {norm(c['nom']): c for c in col['cartes']}
-        for nom, rar in spec['raretes_forcees'].items():
-            c = vues_par_nom.get(norm(nom))
-            if c is None:
-                journal.append(f"{col['slug']} : rareté forcée pour « {nom} », "
-                               'carte absente')
-                continue
-            c['rarete'], c['rareteManuel'] = rar, True
         for i, c in enumerate(col['cartes'], 1):
             c['numero'] = i
+
+    # Les tableaux « Raretés à forcer » d'une section couvrent parfois les DEUX
+    # collections qu'elle crée (§4.5 mêle Mont Rushmore et Pompéi). On applique
+    # donc par nom sur l'ensemble du jeu, et on ne signale que les introuvables.
+    partout = {}
+    for col in collections:
+        for c in col['cartes']:
+            partout.setdefault(norm(c['nom']), []).append((col['slug'], c))
+    for spec in plan['collections']:
+        for nom, rar in spec['raretes_forcees'].items():
+            trouvees = partout.get(norm(nom))
+            if not trouvees:
+                journal.append(f'rareté forcée « {nom} » ({rar}) : carte absente '
+                               'du jeu')
+                continue
+            for _, c in trouvees:
+                c['rarete'], c['rareteManuel'] = rar, True
 
     print(f'\n{len(collections)} collections, {total} cartes, '
           f'{images.deplacees} fichier(s) image déplacé(s)')

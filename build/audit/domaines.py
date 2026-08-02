@@ -1,0 +1,247 @@
+#!/usr/bin/env python3
+"""Domaine attendu de chaque collection : de quoi parle une bonne page.
+
+Trois usages, par collection :
+
+`MOTS`      — au moins un de ces mots doit apparaître dans le résumé de la
+              page, sinon la page est refusée. C'est le filtre qui empêche
+              « Sif » de devenir l'actrice Jaimie Alexander ou « Min » le
+              rappeur Suga. Mêmes principes que EXPECT dans resolve_titles.py,
+              transposés aux collections issues de l'audit.
+`CONTEXTE`  — ajouté à la requête de recherche. « Sif mythologie nordique »
+              trouve ce que « Sif » seul ne trouve jamais.
+`QUALIFS`   — parenthèses d'homonymie usuelles du domaine. fr.wikipedia
+              désambiguïse par suffixe : essayer « Min (dieu) » avant de
+              chercher en texte intégral évite l'essentiel des erreurs.
+"""
+
+_MYTHO = (['mytholog', 'dieu', 'deesse', 'divinite', 'religion', 'folklore',
+           'legend', 'esprit', 'creature', 'heros', 'panthéon', 'culte',
+           'sacre', 'rituel', 'monde souterrain', 'genie'],
+          ['mythologie', 'divinite', 'dieu', 'deesse', 'mythologie grecque'])
+
+MOTS = {
+    'corps-celestes': ['lune', 'planete', 'etoile', 'asteroide', 'comete',
+                       'satellite', 'galaxie', 'naine', 'soleil', 'nebuleuse',
+                       'amas', 'trou noir', 'ceinture', 'systeme solaire',
+                       'exoplanete', 'astronomi', 'celeste', 'orbite', 'nuage'],
+    'constellations': ['constellation', 'ciel', 'astronom'],
+    'dieux-et-figures-mythologiques-grecques':
+        ['mytholog', 'dieu', 'deesse', 'divinite', 'heros', 'titan', 'nymphe',
+         'muse', 'gorgone', 'centaure', 'oracle', 'grec', 'creature', 'legend'],
+    'souverains-et-conquerants': ['roi', 'reine', 'empereur', 'imperatrice',
+        'pharaon', 'tsar', 'sultan', 'khan', 'calife', 'monarque', 'conquerant',
+        'dirigeant', 'regne', 'regna', 'duc', 'prince', 'consul', 'shogun',
+        'general', 'chef', 'militaire', 'fondateur', 'unificateur', 'dynastie'],
+    'dirigeants-contemporains': ['president', 'dirigeant', 'homme d etat',
+        'femme d etat', 'chancelier', 'premier ministre', 'roi', 'reine',
+        'empereur', 'revolutionnaire', 'politique', 'militaire', 'general',
+        'dictateur', 'chef', 'independance', 'regne'],
+    'monuments-emblematiques': ['monument', 'edifice', 'batiment', 'eglise',
+        'cathedrale', 'basilique', 'mosquee', 'temple', 'palais', 'chateau',
+        'tour', 'pont', 'arc', 'architecture', 'construit', 'gratte-ciel',
+        'fontaine', 'abbaye', 'pagode', 'statue', 'musee', 'tunnel', 'mur'],
+    'sites-antiques': ['site', 'archeolog', 'ruine', 'vestige', 'antique',
+        'cite', 'temple', 'necropole', 'grotte', 'fouille', 'megalith',
+        'pyramide', 'palais', 'sanctuaire', 'ville', 'civilisation', 'peinture'],
+    'empires-et-civilisations': ['empire', 'civilisation', 'royaume', 'califat',
+        'etat', 'monarchie', 'sultanat', 'khanat', 'republique', 'periode',
+        'union', 'confederation', 'cite-etat', 'peuple', 'dynastie'],
+    'dynasties-regnantes': ['dynastie', 'maison', 'famille', 'lignee', 'regna',
+        'shogunat', 'califat', 'souverain', 'empereur', 'roi', 'branche'],
+    'grandes-batailles-historiques': ['bataille', 'siege', 'guerre', 'operation',
+        'debarquement', 'affrontement', 'combat', 'attaque', 'campagne', 'raid'],
+    'grandes-guerres': ['guerre', 'conflit', 'revolte', 'revolution', 'croisade',
+                        'genocide', 'insurrection', 'unification', 'reconquete'],
+    'dinosaures-celebres': ['dinosaure', 'genre', 'fossile', 'cretace',
+        'jurassique', 'trias', 'reptile', 'especes', 'theropode', 'sauropode',
+        'ornithischien', 'paleonto'],
+    'creatures-prehistoriques': ['genre', 'fossile', 'especes', 'eteint',
+        'disparu', 'prehistor', 'cretace', 'jurassique', 'trias', 'permien',
+        'pleistocene', 'miocene', 'reptile', 'mammifere', 'oiseau', 'poisson',
+        'ptérosaure', 'pterosaure', 'arthropode', 'paleonto', 'requin'],
+    'grands-explorateurs': ['explorateur', 'exploratrice', 'explorat',
+        'navigateur', 'expedition', 'voyageur', 'conquistador', 'aventurier',
+        'archeologue', 'decouvr', 'traversee', 'cartographe'],
+    'pionniers-de-lextreme': ['explorateur', 'exploratrice', 'astronaute',
+        'cosmonaute', 'spationaute', 'alpiniste', 'aeronaute', 'plongeur',
+        'aventurier', 'expedition', 'pole', 'everest', 'stratosphere',
+        'oceanographe', 'record', 'ascension', 'parachutiste', 'realisateur'],
+    'auteurs-classiques': ['ecrivain', 'auteur', 'autrice', 'poete', 'poetesse',
+        'romancier', 'romanciere', 'dramaturge', 'philosophe', 'litterature',
+        'fabuliste', 'historien', 'moraliste', 'conteur', 'tragique', 'lettres'],
+    'auteurs-modernes': ['ecrivain', 'auteur', 'autrice', 'poete', 'poetesse',
+        'romancier', 'romanciere', 'dramaturge', 'philosophe', 'litterature',
+        'journaliste', 'essayiste', 'scenariste', 'nobel', 'lettres'],
+    'scientifiques-celebres': ['physicien', 'chimiste', 'mathematicien',
+        'mathematicienne', 'biologiste', 'astronome', 'scientifique', 'medecin',
+        'naturaliste', 'informaticien', 'economiste', 'psych', 'neuro',
+        'geneticien', 'paleontologue', 'geologue', 'astrophysicien', 'savant',
+        'physicienne', 'chercheu', 'anthropologue', 'ethologue', 'botaniste',
+        'zoologiste', 'logicien', 'chimie', 'science', 'nobel', 'theorie'],
+    'inventeurs-et-ingenieurs': ['inventeur', 'inventrice', 'ingenieur',
+        'ingenieure', 'industriel', 'constructeur', 'pionnier', 'entrepreneur',
+        'brevet', 'invention', 'imprimeur', 'informaticien', 'physicien'],
+    'inventions-importantes': ['invention', 'technique', 'appareil', 'procede',
+        'dispositif', 'machine', 'technologie', 'systeme', 'instrument',
+        'materiau', 'methode', 'outil', 'permet', 'utilise', 'designe'],
+    'grands-peintres': ['peintre', 'peintresse', 'artiste', 'peinture',
+                        'graveur', 'plasticien', 'dessinateur'],
+    'tableaux-celebres': ['tableau', 'peinture', 'toile', 'huile', 'fresque',
+        'panneau', 'estampe', 'oeuvre', 'polyptyque', 'retable', 'diptyque',
+        'serie', 'realise', 'peint'],
+    'aviateurs-celebres': ['aviateur', 'aviatrice', 'pilote', 'aeronaute',
+        'aviation', 'as de', 'constructeur', 'avion', 'aeronautique', 'vol'],
+    'mammiferes': ['mammifere', 'espece', 'famille', 'genre', 'carnivore',
+                   'rongeur', 'primate', 'cetace', 'marsupial', 'felin',
+                   'ongule', 'sous-espece', 'domestique', 'animal'],
+    'oiseaux': ['oiseau', 'espece', 'passereau', 'rapace', 'famille', 'genre',
+                'sous-espece', 'echassier', 'palmipede', 'volatile'],
+    'reptiles-et-amphibiens': ['reptile', 'amphibien', 'serpent', 'lezard',
+        'tortue', 'grenouille', 'espece', 'crocodil', 'salamandre', 'crapaud',
+        'gecko', 'vipere', 'famille', 'genre', 'ordre', 'batracien', 'anoure'],
+    'poissons-et-vie-marine': ['poisson', 'marin', 'requin', 'espece', 'mer',
+        'ocean', 'cetace', 'mollusque', 'crustace', 'famille', 'genre',
+        'corail', 'meduse', 'cephalopode', 'aquatique', 'krill', 'plancton'],
+    'insectes': ['insecte', 'espece', 'papillon', 'coleoptere', 'fourmi',
+        'abeille', 'famille', 'genre', 'larve', 'arthropode', 'diptere',
+        'orthoptere', 'hymenoptere', 'phasme', 'mante', 'punaise'],
+    'races-de-chien': ['chien', 'race', 'berger', 'chasse', 'canine', 'chienne'],
+    'races-de-chat': ['chat', 'race', 'feline', 'chatte', 'felin'],
+    'coupes-du-monde-fifa': ['coupe du monde', 'football'],
+    'legendes-du-football': ['football', 'footballeur', 'gardien', 'attaquant',
+                             'milieu', 'defenseur', 'entraineur', 'joueur'],
+    'football-ere-moderne': ['football', 'footballeur', 'gardien', 'attaquant',
+                             'milieu', 'defenseur', 'entraineur', 'joueur'],
+    'creatures-et-legendes': ['creature', 'legend', 'mytholog', 'folklore',
+        'monstre', 'cryptide', 'fantastique', 'esprit', 'bete', 'demon',
+        'fee', 'revenant', 'mort-vivant'],
+    'classiques-du-cinema': ['film', 'cinema', 'realise', 'long metrage'],
+    'cinema-moderne': ['film', 'cinema', 'realise', 'long metrage', 'animation'],
+    'age-dor-du-jeu-video': ['jeu video', 'jeux video', 'jeu d', 'console',
+                             'developpe', 'edite', 'arcade'],
+    'jeu-video-moderne': ['jeu video', 'jeux video', 'jeu d', 'console',
+                          'developpe', 'edite', 'arcade'],
+    # Un article de personnage s'ouvre presque toujours sur « est un
+    # personnage de fiction ». Des mots comme « film », « serie » ou « manga »
+    # seraient au contraire vrais de l'oeuvre ET de l'acteur qui l'incarne :
+    # ils laissaient passer Michael Shanks pour Shanks et Ursula von der Leyen
+    # pour Ursula. On s'en tient donc aux ancrages qui disent « fiction ».
+    'personnages-litterature': ['personnage', 'protagoniste', 'heroine',
+                                'fiction', 'heros de', 'heros eponyme'],
+    'personnages-cinema-serie': ['personnage', 'protagoniste', 'antagoniste',
+                                 'heroine', 'fiction'],
+    'personnages-bd-comics': ['personnage', 'super-heros', 'super-vilain',
+                              'super heros', 'protagoniste', 'fiction'],
+    'personnages-jeu-video': ['personnage', 'protagoniste', 'heroine',
+                              'fiction', 'mascotte'],
+    'personnages-animation': ['personnage', 'protagoniste', 'antagoniste',
+                              'heroine', 'fiction'],
+    'personnages-manga-anime': ['personnage', 'protagoniste', 'antagoniste',
+                                'heroine', 'fiction'],
+}
+for _s in ('mythologie-nordique', 'mythologie-egyptienne', 'mythologie-hindoue',
+           'mythologie-celtique', 'mythologies-asie-est',
+           'mythologies-mesoamericaines', 'mythologies-proche-orient',
+           'mythologies-slaves', 'mythologies-africaines',
+           'mythologies-oceanie-ameriques'):
+    MOTS[_s] = _MYTHO[0]
+
+CONTEXTE = {
+    'corps-celestes': 'astronomie', 'constellations': 'constellation',
+    'dieux-et-figures-mythologiques-grecques': 'mythologie grecque',
+    'mythologie-nordique': 'mythologie nordique',
+    'mythologie-egyptienne': 'mythologie égyptienne divinité',
+    'mythologie-hindoue': 'mythologie hindoue divinité',
+    'mythologie-celtique': 'mythologie celtique',
+    'mythologies-asie-est': 'mythologie japonaise chinoise divinité',
+    'mythologies-mesoamericaines': 'mythologie aztèque maya inca',
+    'mythologies-proche-orient': 'mythologie mésopotamienne perse divinité',
+    'mythologies-slaves': 'mythologie slave',
+    'mythologies-africaines': 'mythologie africaine divinité',
+    'mythologies-oceanie-ameriques': 'mythologie polynésienne amérindienne',
+    'creatures-et-legendes': 'créature légendaire folklore',
+    'souverains-et-conquerants': 'roi empereur souverain',
+    'dirigeants-contemporains': 'homme politique dirigeant',
+    'monuments-emblematiques': 'monument architecture',
+    'sites-antiques': 'site archéologique',
+    'empires-et-civilisations': 'empire civilisation',
+    'dynasties-regnantes': 'dynastie maison régnante',
+    'grandes-batailles-historiques': 'bataille',
+    'grandes-guerres': 'guerre conflit',
+    'dinosaures-celebres': 'dinosaure genre',
+    'creatures-prehistoriques': 'genre préhistorique fossile',
+    'grands-explorateurs': 'explorateur',
+    'pionniers-de-lextreme': 'explorateur alpiniste astronaute',
+    'auteurs-classiques': 'écrivain', 'auteurs-modernes': 'écrivain',
+    'scientifiques-celebres': 'scientifique',
+    'inventeurs-et-ingenieurs': 'inventeur ingénieur',
+    'inventions-importantes': 'invention technique',
+    'grands-peintres': 'peintre', 'tableaux-celebres': 'tableau peinture',
+    'aviateurs-celebres': 'aviateur aviation',
+    'mammiferes': 'mammifère espèce', 'oiseaux': 'oiseau espèce',
+    'reptiles-et-amphibiens': 'reptile amphibien espèce',
+    'poissons-et-vie-marine': 'espèce marine',
+    'insectes': 'insecte espèce', 'races-de-chien': 'race de chien',
+    'races-de-chat': 'race de chat',
+    'coupes-du-monde-fifa': 'coupe du monde football',
+    'legendes-du-football': 'footballeur',
+    'football-ere-moderne': 'footballeur',
+    'classiques-du-cinema': 'film', 'cinema-moderne': 'film',
+    'age-dor-du-jeu-video': 'jeu vidéo', 'jeu-video-moderne': 'jeu vidéo',
+    'personnages-litterature': 'personnage de fiction roman',
+    'personnages-cinema-serie': 'personnage de fiction film série',
+    'personnages-bd-comics': 'personnage de comics bande dessinée',
+    'personnages-jeu-video': 'personnage de jeu vidéo',
+    'personnages-animation': 'personnage de dessin animé',
+    'personnages-manga-anime': 'personnage de manga anime',
+}
+
+QUALIFS = {
+    'corps-celestes': ['astronomie', 'étoile', 'astéroïde', 'comète', 'galaxie'],
+    'constellations': ['constellation'],
+    'dieux-et-figures-mythologiques-grecques':
+        ['mythologie', 'mythologie grecque', 'divinité'],
+    'creatures-et-legendes': ['créature', 'folklore', 'mythologie', 'légende'],
+    'souverains-et-conquerants': ['roi de France', 'empereur', 'roi'],
+    'dirigeants-contemporains': ['homme politique', 'président'],
+    'monuments-emblematiques': ['monument', 'édifice'],
+    'sites-antiques': ['site archéologique', 'archéologie'],
+    'empires-et-civilisations': ['empire', 'civilisation', 'royaume'],
+    'dynasties-regnantes': ['dynastie', 'famille'],
+    'dinosaures-celebres': ['dinosaure', 'genre'],
+    'creatures-prehistoriques': ['genre', 'animal'],
+    'inventions-importantes': ['technique', 'invention', 'informatique'],
+    'tableaux-celebres': ['tableau', 'peinture', 'Rembrandt', 'Picasso'],
+    'mammiferes': ['mammifère', 'animal'], 'oiseaux': ['oiseau'],
+    'reptiles-et-amphibiens': ['reptile', 'amphibien'],
+    'poissons-et-vie-marine': ['poisson', 'animal'],
+    'insectes': ['insecte'], 'races-de-chien': ['chien'],
+    'races-de-chat': ['chat'],
+    'legendes-du-football': ['football', 'footballeur'],
+    'football-ere-moderne': ['football', 'footballeur'],
+    'classiques-du-cinema': ['film'], 'cinema-moderne': ['film'],
+    'age-dor-du-jeu-video': ['jeu vidéo'], 'jeu-video-moderne': ['jeu vidéo'],
+    'personnages-litterature': ['personnage', 'homonymie'],
+    'personnages-cinema-serie': ['personnage', 'Star Wars'],
+    'personnages-bd-comics': ['personnage', 'comics', 'Marvel Comics',
+                              'DC Comics', 'bande dessinée'],
+    'personnages-jeu-video': ['personnage', 'jeu vidéo', 'Castlevania',
+                              'Minecraft'],
+    'personnages-animation': ['personnage', 'Disney'],
+    'personnages-manga-anime': ['personnage', 'manga', 'One Piece',
+                                'Dragon Ball', 'Berserk'],
+}
+for _s in MOTS:
+    if _s.startswith('mytholog'):
+        QUALIFS.setdefault(_s, _MYTHO[1])
+QUALIFS.setdefault('auteurs-classiques', ['écrivain'])
+QUALIFS.setdefault('auteurs-modernes', ['écrivain'])
+QUALIFS.setdefault('grands-peintres', ['peintre'])
+QUALIFS.setdefault('scientifiques-celebres', ['scientifique', 'physicien'])
+QUALIFS.setdefault('inventeurs-et-ingenieurs', ['inventeur', 'ingénieur'])
+QUALIFS.setdefault('grandes-batailles-historiques', ['bataille'])
+QUALIFS.setdefault('grandes-guerres', ['guerre'])
+QUALIFS.setdefault('aviateurs-celebres', ['aviateur'])
+QUALIFS.setdefault('grands-explorateurs', ['explorateur'])
+QUALIFS.setdefault('pionniers-de-lextreme', ['explorateur', 'alpiniste'])

@@ -41,6 +41,42 @@ ROLES = {
     'films-cultes': 'terrain',
 }
 
+# Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
+# des cartes : chaque nouvelle collection hérite du rôle et du déclencheur de
+# celle dont elle est issue. C'est le point de départ, réglable dans l'atelier.
+HERITAGES = {
+    'souverains-et-conquerants': 'grands-dirigeants',
+    'dirigeants-contemporains': 'grands-dirigeants',
+    'sites-antiques': 'monuments-emblematiques',
+    'empires-et-civilisations': 'dynasties-et-empires-historiques',
+    'dynasties-regnantes': 'dynasties-et-empires-historiques',
+    'creatures-prehistoriques': 'dinosaures-celebres',
+    'pionniers-de-lextreme': 'grands-explorateurs',
+    'auteurs-classiques': 'auteurs-celebres',
+    'auteurs-modernes': 'auteurs-celebres',
+    'inventeurs-et-ingenieurs': 'inventions-importantes',
+    'races-de-chat': 'races-de-chien',
+    'legendes-du-football': 'plus-grands-joueurs-de-football',
+    'football-ere-moderne': 'plus-grands-joueurs-de-football',
+    'classiques-du-cinema': 'films-cultes',
+    'cinema-moderne': 'films-cultes',
+    'age-dor-du-jeu-video': 'jeux-video-cultes',
+    'jeu-video-moderne': 'jeux-video-cultes',
+    **{s: 'mythologies-du-monde-hors-grece' for s in (
+        'mythologie-nordique', 'mythologie-egyptienne', 'mythologie-hindoue',
+        'mythologie-celtique', 'mythologies-asie-est',
+        'mythologies-mesoamericaines', 'mythologies-proche-orient',
+        'mythologies-slaves', 'mythologies-africaines',
+        'mythologies-oceanie-ameriques')},
+    **{s: 'personnages-de-fiction-celebres' for s in (
+        'personnages-litterature', 'personnages-cinema-serie',
+        'personnages-bd-comics', 'personnages-jeu-video',
+        'personnages-animation', 'personnages-manga-anime')},
+}
+
+for _nouveau, _source in HERITAGES.items():
+    ROLES.setdefault(_nouveau, ROLES[_source])
+
 # --- Section 4.2 Variable 1 : déclencheur par collection (catalogue 4.4)
 DECLENCHEURS = {
     'merveilles-du-monde': 'au début du combat',
@@ -76,6 +112,9 @@ DECLENCHEURS = {
     'jeux-video-cultes': "si l'adversaire n'a joué aucune carte Attaque",
     'films-cultes': 'au premier tour uniquement',
 }
+
+for _nouveau, _source in HERITAGES.items():
+    DECLENCHEURS.setdefault(_nouveau, DECLENCHEURS[_source])
 
 # Catalogue de déclencheurs proposés dans l'atelier (section 4.4)
 CATALOGUE_DECLENCHEURS = [

@@ -38,10 +38,24 @@ MEMO_LISTES = {
     'grands-explorateurs': ['grandes_explorations'],
     'inventions-importantes': ['inventions_majeures'],
     'corps-celestes': ['lunes'],
+    # collections nées de l'audit : elles héritent des listes memo de leur
+    # collection d'origine, le vivier de correspondances est le même
+    'souverains-et-conquerants': ['chefs_etat', 'rois_france'],
+    'dirigeants-contemporains': ['chefs_etat', 'rois_france'],
+    'auteurs-classiques': ['litterature', 'philosophes'],
+    'auteurs-modernes': ['litterature', 'philosophes'],
+    'inventeurs-et-ingenieurs': ['grands_scientifiques', 'inventions_majeures'],
+    'empires-et-civilisations': ['civilisations'],
+    'dynasties-regnantes': ['civilisations'],
+    'grands-explorateurs': ['grandes_explorations'],
+    'pionniers-de-lextreme': ['grandes_explorations'],
+    'classiques-du-cinema': ['films'],
+    'cinema-moderne': ['films'],
+    'sites-antiques': [],
 }
 ANIMAUX = {'mammiferes', 'oiseaux', 'reptiles-et-amphibiens',
            'poissons-et-vie-marine', 'insectes', 'races-de-chien',
-           'dinosaures-celebres'}
+           'races-de-chat', 'dinosaures-celebres', 'creatures-prehistoriques'}
 CONTEXTE_BING = {
     'mammiferes': 'animal photo', 'oiseaux': 'oiseau photo',
     'reptiles-et-amphibiens': 'reptile photo', 'insectes': 'insecte photo',
@@ -54,6 +68,30 @@ CONTEXTE_BING = {
     'monuments-emblematiques': 'photo', 'merveilles-du-monde': 'photo',
     'constellations': 'constellation carte du ciel',
     'elements-chimiques': 'élément chimique échantillon',
+    # collections nées de l'audit
+    'races-de-chat': 'chat race photo',
+    'creatures-prehistoriques': 'préhistorique reconstitution',
+    'sites-antiques': 'site archéologique photo',
+    'monuments-emblematiques': 'monument photo',
+    'classiques-du-cinema': 'affiche film poster',
+    'cinema-moderne': 'affiche film poster',
+    'age-dor-du-jeu-video': 'jeu vidéo cover art',
+    'jeu-video-moderne': 'jeu vidéo cover art',
+    'legendes-du-football': 'footballeur photo',
+    'football-ere-moderne': 'footballeur photo',
+    'personnages-litterature': 'personnage illustration',
+    'personnages-cinema-serie': 'personnage film',
+    'personnages-bd-comics': 'personnage comics',
+    'personnages-jeu-video': 'personnage jeu vidéo art',
+    'personnages-animation': 'personnage dessin animé',
+    'personnages-manga-anime': 'personnage anime art',
+    'creatures-et-legendes': 'créature mythologie art',
+    **{s: 'dieu mythologie art' for s in (
+        'mythologie-nordique', 'mythologie-egyptienne', 'mythologie-hindoue',
+        'mythologie-celtique', 'mythologies-asie-est',
+        'mythologies-mesoamericaines', 'mythologies-proche-orient',
+        'mythologies-slaves', 'mythologies-africaines',
+        'mythologies-oceanie-ameriques')},
 }
 
 

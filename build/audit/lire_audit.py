@@ -31,8 +31,16 @@ RE_ITAL = re.compile(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)')
 EFFECTIF = r'\((\d+)(?:\s+cartes?)?\)'
 
 
+# Le commentaire en italique d'une puce est souvent la clé de la page :
+# « Les Trois Grâces *(Rubens)* » ne se résout pas sans « Rubens », fr.wikipedia
+# ayant aussi celles de Raphaël et de Canova. On le retient donc au lieu de le
+# jeter — d'où ce registre, rempli au fil du nettoyage.
+COMMENTAIRES = {}
+
+
 def nettoyer(s):
     s = s.strip()
+    commentaire = RE_COMMENT.search(s)
     s = RE_COMMENT.sub('', s)
     s = RE_GRAS.sub(r'\1', s)
     s = RE_ITAL.sub(r'\1', s)
@@ -41,7 +49,10 @@ def nettoyer(s):
     # « Nanotyrannus — taxon contesté… », « Coyote → renommer … » : le document
     # accroche motif ou consigne au nom lui-même. Le nom s'arrête au tiret.
     s = re.split(r'\s+[—→]\s+', s)[0]
-    return s.strip(' .·')
+    s = s.strip(' .·')
+    if commentaire and s:
+        COMMENTAIRES.setdefault(s, commentaire.group(0).strip(' *()'))
+    return s
 
 
 def noms_dune_ligne(ligne):

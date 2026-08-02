@@ -468,6 +468,7 @@ def construire():
         'transferts': [dict(zip(('de', 'noms', 'vers', 'raison'), r)) for r in TRANSFERTS],
         'suppressions': suppressions_seches(secs),
         'alias': ALIAS,
+        'indices': {},        # nom -> commentaire du document (voir COMMENTAIRES)
         'collections': [],
     }
     for c in cibles(secs):
@@ -482,6 +483,7 @@ def construire():
             'raretes_forcees': {k: v[0] for k, v in rar.items()
                                 if f is None or v[1] is None or v[1] == f},
         })
+    plan['indices'] = {k: v for k, v in L.COMMENTAIRES.items() if v}
     return plan, secs, csv_par_nom
 
 

@@ -34,6 +34,8 @@ PERSONNAGES = {'personnages-litterature', 'personnages-cinema-serie',
                'personnages-animation', 'personnages-manga-anime'}
 OEUVRES = {'classiques-du-cinema', 'cinema-moderne',
            'age-dor-du-jeu-video', 'jeu-video-moderne'}
+PARTICULES = {'van', 'von', 'der', 'den', 'dos', 'del', 'della', 'jean',
+              'saint', 'pierre', 'louis', 'anne', 'marie', 'jose', 'juan'}
 
 
 def norm(s):
@@ -63,9 +65,15 @@ def main():
             par_nom[norm(c['nom'])].append((d['slug'], c['nom']))
     for cle, occ in sorted(par_nom.items()):
         slugs = {s for s, _ in occ}
-        if len(slugs) > 1:
-            dur.append('homonyme « {} » dans {}'.format(
-                occ[0][1], ', '.join(sorted(slugs))))
+        if len(slugs) < 2:
+            continue
+        # La consigne vise les noms EXACTEMENT identiques. « Hades » le jeu et
+        # « Hadès » le dieu n'en sont pas : l'un s'écrit ainsi, et les qualifier
+        # serait corriger une collision qui n'existe que pour l'accent.
+        exact = len({n.casefold() for _, n in occ}) == 1
+        msg = 'homonyme « {} » dans {}'.format(occ[0][1], ', '.join(sorted(slugs)))
+        (dur if exact else doux).append(
+            msg if exact else msg + "  (les noms ne diffèrent que par l'accent)")
 
     # 2. numérotation
     for d in cols:
@@ -88,15 +96,29 @@ def main():
                 dur.append(f"{d['slug']} · {c['nom']} : image absente du dépôt")
 
     # 4. tout tableau implique son peintre
-    peintres = {norm(c['nom']) for d in cols if d['slug'] == 'grands-peintres'
-                for c in d['cartes']}
+    # Le nom du peintre peut porter une parenthèse (« Léonard de Vinci
+    # (peintre) », consigne 8) : c'est le nom nu qui figure dans le résumé.
+    # On cherche le PATRONYME, pas le nom complet : le résumé d'un tableau dit
+    # « Hokusai » là où la carte s'appelle « Katsushika Hokusai », et le nom
+    # complet ne s'y retrouve jamais tel quel.
+    peintres = set()
+    for d in cols:
+        if d['slug'] != 'grands-peintres':
+            continue
+        for c in d['cartes']:
+            nu = re.sub(r'\s*\([^)]*\)$', '', c['nom'])
+            for mot in re.split(r"[\s'’-]+", nu):
+                # « Jan van Eyck » n'a aucun mot de 5 lettres : on descend à 4,
+                # en écartant les particules, qui ne désignent personne.
+                if len(mot) >= 4 and norm(mot) not in PARTICULES:
+                    peintres.add(norm(mot))
     tableaux = next((d for d in cols if d['slug'] == 'tableaux-celebres'), None)
     if tableaux and peintres:
         for c in tableaux['cartes']:
-            auteur = (c.get('description') or '')[:400]
-            if not any(p and len(p) > 5 and p in norm(auteur) for p in peintres):
+            resume = norm((c.get('description') or '')[:500])
+            if not any(p in resume for p in peintres):
                 doux.append(f"tableau orphelin ? « {c['nom']} » — aucun peintre "
-                            'de la collection cité dans son résumé')
+                            'de Grands peintres nommé dans son résumé')
 
     # 5. personnage ↔ œuvre
     noms_perso = {norm(c['nom']): c['nom'] for d in cols if d['slug'] in PERSONNAGES

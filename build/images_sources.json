@@ -6885,7 +6885,7 @@
 "source": "bing"
 },
 "dieux-et-figures-mythologiques-grecques_cronos": {
-"source": "memo:mythologie"
+"source": "wiki-fr"
 },
 "inventions-importantes_telegraphie-electrique": {
 "source": "memo:inventions_majeures"
@@ -6910,5 +6910,281 @@
 },
 "cinema-moderne_le-seigneur-des-anneaux-la-communaute-de-l-anneau": {
 "source": "tmdb"
+},
+"corps-celestes_soleil": {
+"source": "wiki-fr"
+},
+"corps-celestes_betelgeuse": {
+"source": "bing"
+},
+"corps-celestes_sirius": {
+"source": "bing"
+},
+"corps-celestes_proxima-centauri": {
+"source": "wiki-fr"
+},
+"corps-celestes_alpha-centauri": {
+"source": "wiki-fr"
+},
+"corps-celestes_vega": {
+"source": "wiki-fr"
+},
+"corps-celestes_rigel": {
+"source": "wiki-fr"
+},
+"corps-celestes_antares": {
+"source": "wiki-fr"
+},
+"corps-celestes_aldebaran": {
+"source": "wiki-fr"
+},
+"corps-celestes_arcturus": {
+"source": "bing"
+},
+"corps-celestes_deneb": {
+"source": "bing"
+},
+"corps-celestes_altair": {
+"source": "wiki-fr"
+},
+"corps-celestes_etoile-polaire": {
+"source": "wiki-fr"
+},
+"corps-celestes_voie-lactee": {
+"source": "wiki-fr"
+},
+"corps-celestes_galaxie-d-andromede": {
+"source": "wiki-fr"
+},
+"corps-celestes_m51-galaxie": {
+"source": "wiki-fr"
+},
+"corps-celestes_m104-galaxie": {
+"source": "wiki-fr"
+},
+"corps-celestes_grand-nuage-de-magellan": {
+"source": "wiki-fr"
+},
+"corps-celestes_petit-nuage-de-magellan": {
+"source": "wiki-fr"
+},
+"corps-celestes_galaxie-du-triangle": {
+"source": "wiki-fr"
+},
+"corps-celestes_centaurus-a": {
+"source": "wiki-fr"
+},
+"corps-celestes_pleiades-astronomie": {
+"source": "wiki-fr"
+},
+"corps-celestes_amas-d-hercule": {
+"source": "wiki-fr"
+},
+"corps-celestes_amas-de-la-vierge": {
+"source": "bing"
+},
+"corps-celestes_ceinture-d-asteroides": {
+"source": "bing"
+},
+"corps-celestes_ceinture-de-kuiper": {
+"source": "wiki-fr"
+},
+"corps-celestes_nuage-de-oort": {
+"source": "bing"
+},
+"corps-celestes_comete-de-halley": {
+"source": "wiki-fr"
+},
+"corps-celestes_c-1995-o1-hale-bopp": {
+"source": "wiki-fr"
+},
+"corps-celestes_67p-tchourioumov-guerassimenko": {
+"source": "wiki-fr"
+},
+"corps-celestes_shoemaker-levy-9": {
+"source": "wiki-fr"
+},
+"corps-celestes_c-2020-f3-neowise": {
+"source": "wiki-fr"
+},
+"corps-celestes_1i-oumuamua": {
+"source": "wiki-fr"
+},
+"corps-celestes_4-vesta": {
+"source": "bing"
+},
+"corps-celestes_2-pallas": {
+"source": "bing"
+},
+"corps-celestes_101955-benou": {
+"source": "wiki-fr"
+},
+"corps-celestes_99942-apophis": {
+"source": "bing"
+},
+"corps-celestes_162173-ryugu": {
+"source": "bing"
+},
+"corps-celestes_90377-sedna": {
+"source": "bing"
+},
+"corps-celestes_trappist-1": {
+"source": "wiki-fr"
+},
+"corps-celestes_proxima-centauri-b": {
+"source": "wiki-fr"
+},
+"corps-celestes_kepler-452-b": {
+"source": "wiki-fr"
+},
+"corps-celestes_51-pegasi-b": {
+"source": "bing"
+},
+"corps-celestes_hd-189733-b": {
+"source": "wiki-fr"
+},
+"corps-celestes_nebuleuse-de-la-lagune": {
+"source": "wiki-fr"
+},
+"corps-celestes_nebuleuse-trifide": {
+"source": "wiki-fr"
+},
+"corps-celestes_nebuleuse-de-l-il-de-chat": {
+"source": "wiki-fr"
+},
+"corps-celestes_nebuleuse-de-la-tarentule": {
+"source": "wiki-fr"
+},
+"corps-celestes_m17-nebuleuse": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_gaia": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_ouranos": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_rhea-mythologie": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_atlas-mythologie": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_chronos": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_styx": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_helios": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_hephaistos": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_eros": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_pan": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_asclepios": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_iris-mythologie": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_les-muses": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_heracles": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_ulysse": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_persee": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_thesee": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_jason": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_bellerophon": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_icare": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_dedale": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_dipe": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_hector": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_paris": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_helene-de-troie-rossetti": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_agamemnon": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_cassandre": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_pandore": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_narcisse-mythologie": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_ariane-mythologie": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_penelope": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_circe": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_antigone-montpellier": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_minotaure": {
+"source": "bing"
+},
+"dieux-et-figures-mythologiques-grecques_pegase": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_hydre-de-lerne": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_chimere-mythologie": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_sirene-mythologie-grecque": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_polypheme": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_sphinx": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_arachne": {
+"source": "memo:mythologie"
+},
+"dieux-et-figures-mythologiques-grecques_charybde": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_harpies": {
+"source": "wiki-fr"
 }
 }

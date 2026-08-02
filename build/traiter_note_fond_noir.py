@@ -15,7 +15,11 @@ du logo laisse un halo clair sur le fond noir.
 La vignette est régénérée depuis la version full retouchée (mêmes réglages
 d'encodage que build/images_lib.py).
 
-Usage : python traiter_note_fond_noir.py [--verifier]
+L'edition 1958 ne figurait pas dans la selection de la note — 21 des 22
+cartes. Elle a ete traitee ensuite, a la demande : un seul logo sur fond blanc
+au milieu de vingt-et-un sur fond noir se lisait comme un oubli.
+
+Usage : python traiter_note_fond_noir.py [--verifier] [id de carte...]
 """
 import sys, json, io
 from pathlib import Path
@@ -99,10 +103,15 @@ def encoder(img, qualite):
 
 def main():
     verifier = '--verifier' in sys.argv
-    notes = json.loads((ROOT / 'build' / 'notes_atelier.json').read_text(encoding='utf-8'))
-    note = next(n for n in notes['notes'] if n['id'] == NOTE)
+    explicites = [a for a in sys.argv[1:] if not a.startswith('--')]
+    if explicites:
+        cibles = explicites
+    else:
+        notes = json.loads((ROOT / 'build' / 'notes_atelier.json')
+                           .read_text(encoding='utf-8'))
+        cibles = next(n for n in notes['notes'] if n['id'] == NOTE)['images']
 
-    for cid in note['images']:
+    for cid in cibles:
         col, slug = cid.split('_', 1)
         full = ROOT / 'images' / 'full' / col / f'{slug}.webp'
         thumb = ROOT / 'images' / 'thumbs' / col / f'{slug}.webp'
@@ -123,7 +132,7 @@ def main():
             o, _ = sur_fond_noir(Image.open(orig))
             orig.write_bytes(encoder(o, 92))
 
-    print(f'{len(note["images"])} images traitées' if not verifier else 'contrôle seul')
+    print(f'{len(cibles)} image(s) traitée(s)' if not verifier else 'contrôle seul')
 
 
 if __name__ == '__main__':

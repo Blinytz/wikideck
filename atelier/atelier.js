@@ -3,10 +3,10 @@
 
 import { getToken, setToken, testerToken, getFichierTexte, putFichier,
          supprimerFichier, commitLot, getSha, blobVersBase64, enfiler,
-         surFileChangee, reessayerErreurs, DEPOT } from './github.js';
-import { Editeur } from './editeur.js';
+         surFileChangee, reessayerErreurs, DEPOT } from './github.js?v=20260802a';
+import { Editeur } from './editeur.js?v=20260802a';
 import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
-         ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js';
+         ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js?v=20260802a';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g,
   c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -50,6 +50,9 @@ let remplacementEnCours = false;
 // aperçus locaux (blob) des cartes éditées cette session : la grille les
 // utilise en priorité, sans attendre la republication GitHub Pages
 const apercusLocaux = {};
+// sources pleine résolution des images enregistrées pendant la session :
+// l'éditeur les reprend telles quelles, sans repasser par le réseau
+const originauxLocaux = {};
 // les fichiers fraîchement committés sont servis IMMÉDIATEMENT par raw
 // (Pages met ~1 min à republier)
 const RAW = `https://raw.githubusercontent.com/${DEPOT}/main/`;
@@ -453,12 +456,17 @@ async function ouvrirEditeur(carte) {
   // ordre : original (raw = frais immédiatement) puis full (raw) puis full
   // relatif — jamais d'échec juste parce que Pages n'a pas fini de republier
   const sources = [];
+  // l'image enregistrée pendant cette session passe avant tout : c'est elle
+  // qu'on vient de voir dans la vignette, elle ne doit pas être reperdue
+  if (originauxLocaux[carte.id]) sources.push(originauxLocaux[carte.id]);
   if (cad?.original) sources.push(RAW + cheminsDe(carte).orig);
   sources.push(RAW + carte.imageUrl, carte.imageUrl);
   let chargee = false;
   for (const s of sources) {
     try {
-      await editeur.chargerDepuisURL(s + `?v=${Date.now()}`);
+      // un blob: de session n'accepte pas de paramètre : l'anti-cache ne
+      // concerne que les adresses réseau
+      await editeur.chargerDepuisURL(/^blob:/.test(s) ? s : s + `?v=${Date.now()}`);
       chargee = true;
       break;
     } catch { /* source suivante */ }
@@ -642,6 +650,10 @@ async function enregistrerCadrage() {
   // aperçu local : la grille l'affichera tant que la session est ouverte,
   // sans attendre la republication GitHub Pages
   apercusLocaux[carte.id] = URL.createObjectURL(thumb);
+  // ...et la MÊME source pour l'éditeur. Sans ça, rouvrir la carte redemandait
+  // l'image au réseau : tant que la file d'envoi n'avait pas abouti, on
+  // retrouvait l'ancienne image alors que la vignette montrait la nouvelle.
+  if (blobOriginal) originauxLocaux[carte.id] = URL.createObjectURL(blobOriginal);
 
   // `original: true` est une ATTESTATION qu'un fichier images/originaux/ à jour
   // existe vraiment sur GitHub — c'est lui que l'éditeur rechargera en priorité

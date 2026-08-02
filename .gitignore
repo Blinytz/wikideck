@@ -2,3 +2,4 @@ __pycache__/
 build/.cache.pkl
 build/.cache_pageviews.pkl
 build/.cache_images.pkl
+build/audit/restructuration.json

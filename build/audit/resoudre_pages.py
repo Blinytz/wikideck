@@ -91,6 +91,10 @@ SURCHARGES = {
     'personnages-jeu-video|Joel': 'Joel Miller',
     'mythologie-nordique|Sigurd': 'Siegfried (mythologie)',
     'personnages-manga-anime|Lupin III': 'Arsène Lupin III',
+    # « Anu » etait resolu vers la deesse irlandaise : le juge de domaine
+    # passe (« divinite celtique ») et le titre est identique. Seul le
+    # contexte de la collection tranche, et il n'est pas dans le titre.
+    'mythologies-proche-orient|Anu': 'An (mythologie)',
 }
 
 

@@ -8929,11 +8929,6 @@
   "source": "wikipedia",
   "aVerifier": false
  },
- "Plus grands joueurs de football|Jamal Musiala": {
-  "nomCarte": "Jamal Musiala",
-  "source": "wikipedia",
-  "aVerifier": false
- },
  "Plus grands joueurs de football|Rodri": {
   "nomCarte": "Rodri",
   "source": "wikipedia",
@@ -11563,5 +11558,10 @@
   "nomCarte": "Train to Busan",
   "source": "excel-brut",
   "aVerifier": true
+ },
+ "Plus grands joueurs de football|Michael Olise": {
+  "nomCarte": "Michael Olise",
+  "source": "wikipedia",
+  "aVerifier": false
  }
 }

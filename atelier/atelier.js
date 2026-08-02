@@ -643,7 +643,15 @@ async function enregistrerCadrage() {
   // sans attendre la republication GitHub Pages
   apercusLocaux[carte.id] = URL.createObjectURL(thumb);
 
-  notes.cadrages[carte.id] = { ...cadrage, original: true, editeLe: Date.now() };
+  // `original: true` est une ATTESTATION qu'un fichier images/originaux/ à jour
+  // existe vraiment sur GitHub — c'est lui que l'éditeur rechargera en priorité
+  // à la prochaine ouverture. Tant que le commit n'est pas passé, l'attester
+  // serait un mensonge : si la file échoue définitivement, la carte pointerait
+  // sur l'original PRÉCÉDENT et l'éditeur remettrait l'ancienne image, en
+  // boucle, quel que soit le nombre de remplacements (note n1785095996531).
+  const envoiOriginal = !!blobOriginal;
+  notes.cadrages[carte.id] = { ...cadrage, editeLe: Date.now(),
+                               original: dejaOriginal && !envoiOriginal };
   planifierSauvegardeNotes();
   rendreGrille();
 
@@ -658,6 +666,10 @@ async function enregistrerCadrage() {
                          base64: await blobVersBase64(blobOriginal) });
     }
     await commitLot(fichiers, `Atelier : ${carte.id}`);
+    if (envoiOriginal && notes.cadrages[carte.id]) {
+      notes.cadrages[carte.id].original = true;
+      planifierSauvegardeNotes();
+    }
   });
   fermerEditeur();
 }

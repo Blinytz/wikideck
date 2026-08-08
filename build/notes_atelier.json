@@ -8121,6 +8121,18 @@
    "statut": "ouverte",
    "creeLe": 1785704271989,
    "majLe": 1785704271989
+  },
+  {
+   "id": "n1786210673307",
+   "tags": [],
+   "texte": "Inverse les images de ces deux cartes.",
+   "images": [
+    "dieux-et-figures-mythologiques-grecques_ulysse",
+    "dieux-et-figures-mythologiques-grecques_thesee"
+   ],
+   "statut": "ouverte",
+   "creeLe": 1786210673307,
+   "majLe": 1786210673307
   }
  ]
 }

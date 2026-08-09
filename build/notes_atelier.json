@@ -8176,6 +8176,13 @@
    "cy": 0.5000000000000001,
    "w": 0.9091934574168077,
    "editeLe": 1786306932959,
+   "original": true
+  },
+  "sites-antiques_deir-el-bahari": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9766666666666667,
+   "editeLe": 1786306935981,
    "original": false
   }
  },

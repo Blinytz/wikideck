@@ -9472,6 +9472,20 @@
    "w": 0.75,
    "editeLe": 1786313371646,
    "original": true
+  },
+  "grandes-guerres_guerre-civile-yemenite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1786313388075,
+   "original": true
+  },
+  "grandes-guerres_guerre-russo-ukrainienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786313391684,
+   "original": false
   }
  },
  "notes": [

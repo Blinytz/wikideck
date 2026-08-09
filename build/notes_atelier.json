@@ -7291,9 +7291,9 @@
   },
   "dirigeants-contemporains_adolf-hitler": {
    "cx": 0.5,
-   "cy": 0.2731422147750855,
+   "cy": 0.36612626445086704,
    "w": 1,
-   "editeLe": 1785996138641,
+   "editeLe": 1786306192543,
    "original": true
   },
   "dieux-et-figures-mythologiques-grecques_cronos": {
@@ -7918,6 +7918,13 @@
    "w": 0.9090909090909091,
    "editeLe": 1786306167879,
    "original": true
+  },
+  "dirigeants-contemporains_benito-mussolini": {
+   "cx": 0.5,
+   "cy": 0.3362052628695965,
+   "w": 1,
+   "editeLe": 1786306196694,
+   "original": false
   }
  },
  "notes": [

@@ -8275,6 +8275,20 @@
    "w": 0.7619047619047619,
    "editeLe": 1786307153012,
    "original": true
+  },
+  "sites-antiques_alignements-de-carnac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8892473118279569,
+   "editeLe": 1786307182826,
+   "original": true
+  },
+  "sites-antiques_newgrange": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786307187045,
+   "original": false
   }
  },
  "notes": [

@@ -8526,6 +8526,20 @@
    "cy": 0.5,
    "w": 0.8966666666666667,
    "editeLe": 1786308214879,
+   "original": true
+  },
+  "monuments-emblematiques_krak-des-chevaliers": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8933333333333333,
+   "editeLe": 1786308218204,
+   "original": false
+  },
+  "monuments-emblematiques_mosquee-hassan-ii": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.8333333333333335,
+   "editeLe": 1786308220552,
    "original": false
   }
  },

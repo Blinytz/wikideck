@@ -8211,6 +8211,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786306992070,
+   "original": true
+  },
+  "sites-antiques_massada": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786306995187,
    "original": false
   }
  },

@@ -8506,6 +8506,20 @@
    "w": 0.885,
    "editeLe": 1786308173990,
    "original": true
+  },
+  "monuments-emblematiques_palais-du-parlement-bucarest": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.8333333333333335,
+   "editeLe": 1786308206930,
+   "original": true
+  },
+  "monuments-emblematiques_dome-du-rocher": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.945,
+   "editeLe": 1786308209900,
+   "original": false
   }
  },
  "notes": [

@@ -8156,6 +8156,20 @@
    "w": 1,
    "editeLe": 1786306895770,
    "original": true
+  },
+  "sites-antiques_moai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1786306923297,
+   "original": true
+  },
+  "sites-antiques_sphinx-de-gizeh": {
+   "cx": 0.4441666666666667,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786306927868,
+   "original": false
   }
  },
  "notes": [

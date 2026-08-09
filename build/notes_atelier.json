@@ -9052,6 +9052,20 @@
    "w": 0.8080808080808081,
    "editeLe": 1786311974370,
    "original": true
+  },
+  "grandes-batailles-historiques_bataille-de-pharsale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786312065420,
+   "original": true
+  },
+  "grandes-batailles-historiques_siege-d-alesia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786312069058,
+   "original": false
   }
  },
  "notes": [

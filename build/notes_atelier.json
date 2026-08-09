@@ -9199,6 +9199,20 @@
    "w": 0.8883333333333334,
    "editeLe": 1786312527802,
    "original": true
+  },
+  "grandes-batailles-historiques_bataille-de-little-bighorn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9166666666666667,
+   "editeLe": 1786312533206,
+   "original": true
+  },
+  "grandes-batailles-historiques_bataille-de-tsushima": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786312536546,
+   "original": false
   }
  },
  "notes": [

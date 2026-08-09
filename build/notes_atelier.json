@@ -9290,6 +9290,20 @@
    "w": 0.9795918367346939,
    "editeLe": 1786312818654,
    "original": true
+  },
+  "grandes-batailles-historiques_bataille-d-iwo-jima": {
+   "cx": 0.5,
+   "cy": 0.4381109185218811,
+   "w": 1,
+   "editeLe": 1786312829841,
+   "original": true
+  },
+  "grandes-batailles-historiques_bataille-de-berlin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1786312832755,
+   "original": false
   }
  },
  "notes": [

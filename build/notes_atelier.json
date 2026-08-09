@@ -8198,6 +8198,20 @@
    "w": 0.5816666666666667,
    "editeLe": 1786306967103,
    "original": true
+  },
+  "sites-antiques_porte-d-ishtar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9988888888888889,
+   "editeLe": 1786306988760,
+   "original": true
+  },
+  "sites-antiques_baalbek": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786306992070,
+   "original": false
   }
  },
  "notes": [

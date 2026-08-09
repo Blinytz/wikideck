@@ -8519,6 +8519,13 @@
    "cy": 0.5,
    "w": 0.945,
    "editeLe": 1786308209900,
+   "original": true
+  },
+  "monuments-emblematiques_mosquee-al-haram": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8966666666666667,
+   "editeLe": 1786308214879,
    "original": false
   }
  },

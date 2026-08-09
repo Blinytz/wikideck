@@ -8492,6 +8492,13 @@
    "w": 0.8888888888888888,
    "editeLe": 1786308162956,
    "original": true
+  },
+  "monuments-emblematiques_mur-de-berlin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786308168408,
+   "original": false
   }
  },
  "notes": [

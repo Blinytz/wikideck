@@ -8184,6 +8184,20 @@
    "w": 0.9766666666666667,
    "editeLe": 1786306935981,
    "original": true
+  },
+  "sites-antiques_persepolis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8853333333333333,
+   "editeLe": 1786306964023,
+   "original": true
+  },
+  "sites-antiques_ziggurat-d-ur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5816666666666667,
+   "editeLe": 1786306967103,
+   "original": false
   }
  },
  "notes": [

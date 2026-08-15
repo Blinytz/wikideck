@@ -12755,6 +12755,20 @@
    "w": 0.7272727272727272,
    "editeLe": 1786835155939,
    "original": true
+  },
+  "inventions-importantes_helicoptere": {
+   "cx": 0.43064448070526123,
+   "cy": 0.5,
+   "w": 0.795,
+   "editeLe": 1786835160013,
+   "original": true
+  },
+  "inventions-importantes_turboreacteur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786835162588,
+   "original": false
   }
  },
  "notes": [

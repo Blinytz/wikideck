@@ -13910,6 +13910,20 @@
    "w": 0.8264462809917354,
    "editeLe": 1786837099854,
    "original": true
+  },
+  "mammiferes_panthere-des-neiges": {
+   "cx": 0.5,
+   "cy": 0.56466796875,
+   "w": 1,
+   "editeLe": 1786837104860,
+   "original": true
+  },
+  "mammiferes_raton-laveur": {
+   "cx": 0.4619834710743802,
+   "cy": 0.49555966362186465,
+   "w": 0.8264462809917353,
+   "editeLe": 1786837108913,
+   "original": false
   }
  },
  "notes": [

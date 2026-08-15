@@ -12460,6 +12460,13 @@
    "cy": 0.5,
    "w": 0.9433333333333332,
    "editeLe": 1786833713547,
+   "original": true
+  },
+  "tableaux-celebres_le-cafe-de-nuit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786833716711,
    "original": false
   }
  },

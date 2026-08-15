@@ -11284,6 +11284,20 @@
    "cy": 0.3498223011016846,
    "w": 1,
    "editeLe": 1786829197213,
+   "original": true
+  },
+  "scientifiques-celebres_david-hilbert": {
+   "cx": 0.5,
+   "cy": 0.4806805584881756,
+   "w": 1,
+   "editeLe": 1786829200663,
+   "original": false
+  },
+  "scientifiques-celebres_kurt-godel": {
+   "cx": 0.5,
+   "cy": 0.3643162988424301,
+   "w": 1,
+   "editeLe": 1786829204882,
    "original": false
   }
  },

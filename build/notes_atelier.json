@@ -12685,6 +12685,20 @@
    "w": 1,
    "editeLe": 1786834957378,
    "original": true
+  },
+  "inventions-importantes_thermometre": {
+   "cx": 0.5837500095367432,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1786834977544,
+   "original": true
+  },
+  "inventions-importantes_barometre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786834980607,
+   "original": false
   }
  },
  "notes": [

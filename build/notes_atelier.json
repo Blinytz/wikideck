@@ -13952,6 +13952,20 @@
    "w": 0.928888888888889,
    "editeLe": 1786837154172,
    "original": true
+  },
+  "merveilles-du-monde_chichen-itza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.85,
+   "editeLe": 1786837799655,
+   "original": true
+  },
+  "merveilles-du-monde_machu-picchu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786837801463,
+   "original": false
   }
  },
  "notes": [

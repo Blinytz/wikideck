@@ -13349,7 +13349,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836187258,
-   "original": false
+   "original": true
   },
   "mammiferes_elephant-d-afrique": {
    "cx": 0.49999999999999994,
@@ -13391,6 +13391,20 @@
    "cy": 0.4476562440395355,
    "w": 1,
    "editeLe": 1786836211389,
+   "original": false
+  },
+  "mammiferes_okapi": {
+   "cx": 0.5,
+   "cy": 0.46184056782893995,
+   "w": 1,
+   "editeLe": 1786836214554,
+   "original": false
+  },
+  "mammiferes_equus-quagga": {
+   "cx": 0.5558333333333334,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836218020,
    "original": false
   }
  },

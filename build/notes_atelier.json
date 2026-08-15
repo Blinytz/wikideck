@@ -10494,6 +10494,20 @@
    "w": 1,
    "editeLe": 1786826803130,
    "original": true
+  },
+  "auteurs-classiques_luis-de-camoes": {
+   "cx": 0.41898737949795195,
+   "cy": 0.5000000000000001,
+   "w": 0.7488888888888888,
+   "editeLe": 1786826817584,
+   "original": true
+  },
+  "auteurs-classiques_lope-de-vega": {
+   "cx": 0.5,
+   "cy": 0.3845057089924812,
+   "w": 1,
+   "editeLe": 1786826821408,
+   "original": false
   }
  },
  "notes": [

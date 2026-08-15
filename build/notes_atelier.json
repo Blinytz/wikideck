@@ -13630,6 +13630,20 @@
    "w": 0.9090909090909091,
    "editeLe": 1786836600210,
    "original": true
+  },
+  "mammiferes_blaireau-europeen": {
+   "cx": 0.5867768595041324,
+   "cy": 0.5128279741145362,
+   "w": 0.8264462809917353,
+   "editeLe": 1786836604400,
+   "original": true
+  },
+  "mammiferes_ecureuil-roux": {
+   "cx": 0.44974182215406877,
+   "cy": 0.5483241856262375,
+   "w": 0.7479338842975206,
+   "editeLe": 1786836609492,
+   "original": false
   }
  },
  "notes": [

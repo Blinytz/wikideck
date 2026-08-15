@@ -13805,6 +13805,20 @@
    "w": 0.8011888608903535,
    "editeLe": 1786836896586,
    "original": true
+  },
+  "mammiferes_chameau-de-bactriane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836901935,
+   "original": true
+  },
+  "mammiferes_dromadaire": {
+   "cx": 0.49858903667355375,
+   "cy": 0.5019714187327824,
+   "w": 0.734159779614325,
+   "editeLe": 1786836906317,
+   "original": false
   }
  },
  "notes": [

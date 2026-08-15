@@ -13196,6 +13196,20 @@
    "w": 1,
    "editeLe": 1786836002075,
    "original": true
+  },
+  "aviateurs-celebres_hugo-junkers": {
+   "cx": 0.501365934718739,
+   "cy": 0.4368048705940181,
+   "w": 0.9090909090909092,
+   "editeLe": 1786836024983,
+   "original": true
+  },
+  "aviateurs-celebres_andrei-tupolev": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836028474,
+   "original": false
   }
  },
  "notes": [

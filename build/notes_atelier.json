@@ -13377,7 +13377,7 @@
    "cy": 0.5,
    "w": 0.7233333333333333,
    "editeLe": 1786836203589,
-   "original": false
+   "original": true
   },
   "mammiferes_hippopotamidae": {
    "cx": 0.5,
@@ -13447,6 +13447,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836238406,
+   "original": false
+  },
+  "mammiferes_coyote": {
+   "cx": 0.5,
+   "cy": 0.3663162540793419,
+   "w": 1,
+   "editeLe": 1786836243995,
    "original": false
   }
  },

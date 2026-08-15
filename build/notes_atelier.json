@@ -12846,6 +12846,20 @@
    "w": 0.8885416666666666,
    "editeLe": 1786835348775,
    "original": true
+  },
+  "inventions-importantes_antibiotique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786835356704,
+   "original": true
+  },
+  "inventions-importantes_contraception": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786835359948,
+   "original": false
   }
  },
  "notes": [

@@ -13279,13 +13279,20 @@
    "cy": 0.5,
    "w": 0.9633333333333334,
    "editeLe": 1786836155704,
-   "original": false
+   "original": true
   },
   "mammiferes_guepard": {
    "cx": 0.5000000000000002,
    "cy": 0.3535290888547897,
    "w": 1,
    "editeLe": 1786836159189,
+   "original": false
+  },
+  "mammiferes_puma": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836161905,
    "original": false
   }
  },

@@ -13356,7 +13356,7 @@
    "cy": 0.5,
    "w": 0.9033333333333333,
    "editeLe": 1786836190346,
-   "original": false
+   "original": true
   },
   "mammiferes_elephant-d-asie": {
    "cx": 0.5,
@@ -13405,6 +13405,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836218020,
+   "original": false
+  },
+  "mammiferes_gnou": {
+   "cx": 0.5087239742279054,
+   "cy": 0.5,
+   "w": 0.8333333333333335,
+   "editeLe": 1786836223314,
    "original": false
   }
  },

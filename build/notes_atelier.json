@@ -10780,13 +10780,20 @@
    "cy": 0.4588042168085935,
    "w": 0.9999999999999999,
    "editeLe": 1786827382307,
-   "original": false
+   "original": true
   },
   "auteurs-modernes_jean-cocteau": {
    "cx": 0.5,
    "cy": 0.4350152525901795,
    "w": 1,
    "editeLe": 1786827386296,
+   "original": false
+  },
+  "auteurs-modernes_samuel-beckett": {
+   "cx": 0.5000000000000002,
+   "cy": 0.43331408119201653,
+   "w": 1,
+   "editeLe": 1786827390558,
    "original": false
   }
  },

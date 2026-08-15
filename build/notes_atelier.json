@@ -13931,6 +13931,20 @@
    "w": 1,
    "editeLe": 1786837113622,
    "original": true
+  },
+  "mammiferes_porc-epic": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.9995764506565015,
+   "editeLe": 1786837131651,
+   "original": true
+  },
+  "mammiferes_marmota-marmota": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1786837135692,
+   "original": false
   }
  },
  "notes": [

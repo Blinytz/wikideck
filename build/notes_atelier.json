@@ -12418,6 +12418,13 @@
    "cy": 0.5,
    "w": 0.9866666666666666,
    "editeLe": 1786833647579,
+   "original": true
+  },
+  "tableaux-celebres_un-bar-aux-folies-bergere": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.995,
+   "editeLe": 1786833652784,
    "original": false
   }
  },

@@ -13265,6 +13265,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836149141,
+   "original": true
+  },
+  "mammiferes_leopard": {
+   "cx": 0.4675,
+   "cy": 0.5,
+   "w": 0.935,
+   "editeLe": 1786836152232,
    "original": false
   }
  },

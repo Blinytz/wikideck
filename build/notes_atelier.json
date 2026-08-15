@@ -13972,13 +13972,27 @@
    "cy": 0.5,
    "w": 0.9633333333333334,
    "editeLe": 1786837805000,
-   "original": false
+   "original": true
   },
   "merveilles-du-monde_grande-muraille": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9983333333333333,
    "editeLe": 1786837808026,
+   "original": false
+  },
+  "merveilles-du-monde_taj-mahal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9216666666666667,
+   "editeLe": 1786837810869,
+   "original": false
+  },
+  "merveilles-du-monde_colisee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9333333333333335,
+   "editeLe": 1786837812539,
    "original": false
   }
  },

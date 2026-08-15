@@ -12775,6 +12775,13 @@
    "cy": 0.5,
    "w": 0.965,
    "editeLe": 1786835165231,
+   "original": true
+  },
+  "inventions-importantes_parachute": {
+   "cx": 0.5,
+   "cy": 0.26329351586561933,
+   "w": 1,
+   "editeLe": 1786835169511,
    "original": false
   }
  },

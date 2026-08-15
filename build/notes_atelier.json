@@ -13440,14 +13440,14 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836236144,
-   "original": false
+   "original": true
   },
   "mammiferes_fennec": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836238406,
-   "original": false
+   "original": true
   },
   "mammiferes_coyote": {
    "cx": 0.5,
@@ -13489,6 +13489,20 @@
    "cy": 0.35792600685358056,
    "w": 1,
    "editeLe": 1786836286084,
+   "original": false
+  },
+  "mammiferes_orang-outan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836289361,
+   "original": false
+  },
+  "mammiferes_hylobatidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836294124,
    "original": false
   }
  },

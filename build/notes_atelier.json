@@ -12608,6 +12608,20 @@
    "w": 0.8862745098039216,
    "editeLe": 1786834648726,
    "original": true
+  },
+  "inventions-importantes_verre": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786834672516,
+   "original": true
+  },
+  "inventions-importantes_monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786834675834,
+   "original": false
   }
  },
  "notes": [

@@ -12986,6 +12986,20 @@
    "w": 0.7439236111111112,
    "editeLe": 1786835652995,
    "original": true
+  },
+  "inventions-importantes_savon": {
+   "cx": 0.5,
+   "cy": 0.583215634226799,
+   "w": 1,
+   "editeLe": 1786835658420,
+   "original": true
+  },
+  "inventions-importantes_allumette": {
+   "cx": 0.5,
+   "cy": 0.598809722483158,
+   "w": 1,
+   "editeLe": 1786835662252,
+   "original": false
   }
  },
  "notes": [

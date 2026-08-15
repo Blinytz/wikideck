@@ -12666,11 +12666,18 @@
    "original": true
   },
   "inventions-importantes_moulin-a-eau": {
+   "cx": 0.5255111884197462,
+   "cy": 0.5022513535038856,
+   "w": 0.7349776170798896,
+   "editeLe": 1786834893625,
+   "original": true
+  },
+  "inventions-importantes_etrier-equitation": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "editeLe": 1786834868153,
-   "original": true
+   "editeLe": 1786834897486,
+   "original": false
   }
  },
  "notes": [

@@ -13307,7 +13307,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836172754,
-   "original": false
+   "original": true
   },
   "mammiferes_caracal": {
    "cx": 0.5,
@@ -13335,6 +13335,13 @@
    "cy": 0.5,
    "w": 0.9766666666666667,
    "editeLe": 1786836181313,
+   "original": false
+  },
+  "mammiferes_panda-geant": {
+   "cx": 0.5,
+   "cy": 0.4244287073612213,
+   "w": 1,
+   "editeLe": 1786836184822,
    "original": false
   }
  },

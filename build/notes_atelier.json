@@ -12377,6 +12377,20 @@
    "w": 0.855,
    "editeLe": 1786833613558,
    "original": true
+  },
+  "tableaux-celebres_l-angelus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786833617778,
+   "original": true
+  },
+  "tableaux-celebres_des-glaneuses": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9983333333333333,
+   "editeLe": 1786833620356,
+   "original": false
   }
  },
  "notes": [

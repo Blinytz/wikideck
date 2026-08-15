@@ -13286,13 +13286,20 @@
    "cy": 0.3535290888547897,
    "w": 1,
    "editeLe": 1786836159189,
-   "original": false
+   "original": true
   },
   "mammiferes_puma": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836161905,
+   "original": false
+  },
+  "mammiferes_lynx-boreal": {
+   "cx": 0.5,
+   "cy": 0.4027191374599933,
+   "w": 1,
+   "editeLe": 1786836169301,
    "original": false
   }
  },

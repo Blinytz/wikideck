@@ -13300,7 +13300,7 @@
    "cy": 0.4027191374599933,
    "w": 1,
    "editeLe": 1786836169301,
-   "original": false
+   "original": true
   },
   "mammiferes_ocelot": {
    "cx": 0.5,
@@ -13314,6 +13314,27 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836175177,
+   "original": false
+  },
+  "mammiferes_ours-blanc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836177369,
+   "original": false
+  },
+  "mammiferes_ours-brun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836179380,
+   "original": false
+  },
+  "mammiferes_ours-noir-d-amerique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9766666666666667,
+   "editeLe": 1786836181313,
    "original": false
   }
  },

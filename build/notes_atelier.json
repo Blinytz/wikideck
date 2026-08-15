@@ -12965,6 +12965,20 @@
    "w": 1,
    "editeLe": 1786835588105,
    "original": true
+  },
+  "inventions-importantes_blockchain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883969747279099,
+   "editeLe": 1786835631945,
+   "original": true
+  },
+  "inventions-importantes_chasse-d-eau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786835634981,
+   "original": false
   }
  },
  "notes": [

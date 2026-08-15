@@ -13762,6 +13762,13 @@
    "cy": 0.5,
    "w": 0.89,
    "editeLe": 1786836816438,
+   "original": true
+  },
+  "mammiferes_cerf-elaphe": {
+   "cx": 0.5558333333333334,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836820624,
    "original": false
   }
  },

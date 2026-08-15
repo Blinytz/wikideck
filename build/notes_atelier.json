@@ -13818,6 +13818,20 @@
    "cy": 0.5019714187327824,
    "w": 0.734159779614325,
    "editeLe": 1786836906317,
+   "original": true
+  },
+  "mammiferes_lama-animal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836909337,
+   "original": false
+  },
+  "mammiferes_alpaga": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836912051,
    "original": false
   }
  },

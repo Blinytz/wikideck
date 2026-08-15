@@ -13426,7 +13426,7 @@
    "cy": 0.5,
    "w": 0.8433333333333334,
    "editeLe": 1786836231719,
-   "original": false
+   "original": true
   },
   "mammiferes_canis-lupus": {
    "cx": 0.5,
@@ -13475,6 +13475,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836267882,
+   "original": false
+  },
+  "mammiferes_chimpanze": {
+   "cx": 0.438959102840214,
+   "cy": 0.5,
+   "w": 0.832967032967033,
+   "editeLe": 1786836281567,
    "original": false
   }
  },

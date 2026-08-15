@@ -11221,6 +11221,13 @@
    "cy": 0.3841109194755554,
    "w": 1,
    "editeLe": 1786829081615,
+   "original": true
+  },
+  "scientifiques-celebres_leonhard-euler": {
+   "cx": 0.5,
+   "cy": 0.3742931062581486,
+   "w": 1,
+   "editeLe": 1786829084764,
    "original": false
   }
  },

@@ -10710,6 +10710,20 @@
    "cy": 0.4696013479232788,
    "w": 1,
    "editeLe": 1786827286436,
+   "original": true
+  },
+  "auteurs-classiques_joaquim-maria-machado-de-assis": {
+   "cx": 0.5,
+   "cy": 0.37972712457180025,
+   "w": 1,
+   "editeLe": 1786827290913,
+   "original": false
+  },
+  "auteurs-classiques_natsume-soseki": {
+   "cx": 0.5,
+   "cy": 0.43098477959632875,
+   "w": 1,
+   "editeLe": 1786827294438,
    "original": false
   }
  },

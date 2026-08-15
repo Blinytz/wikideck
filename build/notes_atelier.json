@@ -13693,6 +13693,20 @@
    "w": 0.985,
    "editeLe": 1786836693126,
    "original": true
+  },
+  "mammiferes_narval": {
+   "cx": 0.5770926837921143,
+   "cy": 0.5000000000000001,
+   "w": 0.7488888888888888,
+   "editeLe": 1786836730858,
+   "original": true
+  },
+  "mammiferes_beluga-cetace": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9,
+   "editeLe": 1786836734569,
+   "original": false
   }
  },
  "notes": [

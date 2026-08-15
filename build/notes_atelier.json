@@ -13475,7 +13475,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836267882,
-   "original": false
+   "original": true
   },
   "mammiferes_chimpanze": {
    "cx": 0.438959102840214,
@@ -13503,6 +13503,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836294124,
+   "original": false
+  },
+  "mammiferes_babouin": {
+   "cx": 0.5015484631061554,
+   "cy": 0.5,
+   "w": 0.8875,
+   "editeLe": 1786836321263,
    "original": false
   }
  },

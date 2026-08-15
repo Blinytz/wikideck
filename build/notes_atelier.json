@@ -3982,8 +3982,8 @@
    "cx": 0.3756874156905265,
    "cy": 0.49158136113198103,
    "w": 0.6310759738633516,
-   "original": true,
-   "editeLe": 1785271376359
+   "editeLe": 1786834513895,
+   "original": true
   },
   "aviateurs-celebres_wilbur-wright": {
    "cx": 0.5,
@@ -12573,6 +12573,13 @@
    "w": 1,
    "editeLe": 1786834118017,
    "original": true
+  },
+  "inventions-importantes_domestication-du-feu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786834517341,
+   "original": false
   }
  },
  "notes": [

@@ -11264,6 +11264,20 @@
    "w": 1,
    "editeLe": 1786829184281,
    "original": true
+  },
+  "scientifiques-celebres_bernhard-riemann": {
+   "cx": 0.5,
+   "cy": 0.36571212685108184,
+   "w": 1,
+   "editeLe": 1786829190303,
+   "original": true
+  },
+  "scientifiques-celebres_georg-cantor": {
+   "cx": 0.5,
+   "cy": 0.44010379464285715,
+   "w": 1,
+   "editeLe": 1786829193498,
+   "original": false
   }
  },
  "notes": [

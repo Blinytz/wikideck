@@ -12923,6 +12923,20 @@
    "w": 0.6678353785791801,
    "editeLe": 1786835459904,
    "original": true
+  },
+  "inventions-importantes_souris-informatique": {
+   "cx": 0.5,
+   "cy": 0.44225511537298845,
+   "w": 1,
+   "editeLe": 1786835464809,
+   "original": true
+  },
+  "inventions-importantes_ecran-tactile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "editeLe": 1786835469566,
+   "original": false
   }
  },
  "notes": [

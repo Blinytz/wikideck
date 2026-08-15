@@ -10522,6 +10522,20 @@
    "w": 1,
    "editeLe": 1786826851054,
    "original": true
+  },
+  "auteurs-classiques_matsuo-basho": {
+   "cx": 0.5406874309886586,
+   "cy": 0.44047553870149636,
+   "w": 0.9090909090909092,
+   "editeLe": 1786826871803,
+   "original": true
+  },
+  "auteurs-classiques_pierre-corneille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786826875539,
+   "original": false
   }
  },
  "notes": [

@@ -13545,7 +13545,7 @@
    "cy": 0.5,
    "w": 0.89,
    "editeLe": 1786836338284,
-   "original": false
+   "original": true
   },
   "mammiferes_wallaby": {
    "cx": 0.5278552678625623,
@@ -13566,6 +13566,13 @@
    "cy": 0.5867768595041323,
    "w": 0.734159779614325,
    "editeLe": 1786836376799,
+   "original": false
+  },
+  "mammiferes_diable-de-tasmanie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9766666666666667,
+   "editeLe": 1786836379277,
    "original": false
   }
  },

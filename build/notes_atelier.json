@@ -13832,13 +13832,20 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836912051,
-   "original": false
+   "original": true
   },
   "mammiferes_cheval-de-przewalski": {
    "cx": 0.5,
    "cy": 0.580857654185022,
    "w": 1,
    "editeLe": 1786836915862,
+   "original": false
+  },
+  "mammiferes_hydrochoerus-hydrochaeris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.885,
+   "editeLe": 1786836919442,
    "original": false
   }
  },

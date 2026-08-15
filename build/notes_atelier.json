@@ -12432,6 +12432,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786833656875,
+   "original": true
+  },
+  "tableaux-celebres_l-absinthe": {
+   "cx": 0.5,
+   "cy": 0.31944461488723763,
+   "w": 1,
+   "editeLe": 1786833661190,
    "original": false
   }
  },

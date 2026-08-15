@@ -13252,6 +13252,20 @@
    "w": 0.8883333333333334,
    "editeLe": 1786836135440,
    "original": true
+  },
+  "mammiferes_lion": {
+   "cx": 0.5,
+   "cy": 0.4427708435058594,
+   "w": 1,
+   "editeLe": 1786836145257,
+   "original": true
+  },
+  "mammiferes_tigre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836149141,
+   "original": false
   }
  },
  "notes": [

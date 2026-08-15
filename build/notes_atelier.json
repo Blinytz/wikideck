@@ -13672,6 +13672,20 @@
    "w": 0.755,
    "editeLe": 1786836665819,
    "original": true
+  },
+  "mammiferes_physeteroidea": {
+   "cx": 0.4794127463588009,
+   "cy": 0.5,
+   "w": 0.6940740740740742,
+   "editeLe": 1786836687927,
+   "original": true
+  },
+  "mammiferes_orque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1786836690725,
+   "original": false
   }
  },
  "notes": [

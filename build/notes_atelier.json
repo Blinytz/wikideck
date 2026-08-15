@@ -13538,7 +13538,7 @@
    "cy": 0.46098049411022374,
    "w": 1,
    "editeLe": 1786836335765,
-   "original": false
+   "original": true
   },
   "mammiferes_kangourou-roux": {
    "cx": 0.49999999999999994,
@@ -13559,6 +13559,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836344899,
+   "original": false
+  },
+  "mammiferes_quokka": {
+   "cx": 0.4299788333702112,
+   "cy": 0.5867768595041323,
+   "w": 0.734159779614325,
+   "editeLe": 1786836376799,
    "original": false
   }
  },

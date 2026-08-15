@@ -13055,6 +13055,20 @@
    "cy": 0.4074562435150147,
    "w": 1,
    "editeLe": 1786835803713,
+   "original": true
+  },
+  "aviateurs-celebres_edward-vernon-rickenbacker": {
+   "cx": 0.5,
+   "cy": 0.35097733330726627,
+   "w": 1,
+   "editeLe": 1786835807210,
+   "original": false
+  },
+  "aviateurs-celebres_erich-hartmann-aviateur": {
+   "cx": 0.5,
+   "cy": 0.5622497409011549,
+   "w": 1,
+   "editeLe": 1786835810834,
    "original": false
   }
  },

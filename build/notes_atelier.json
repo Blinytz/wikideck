@@ -13685,6 +13685,13 @@
    "cy": 0.5,
    "w": 0.8866666666666667,
    "editeLe": 1786836690725,
+   "original": true
+  },
+  "mammiferes_grand-dauphin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.985,
+   "editeLe": 1786836693126,
    "original": false
   }
  },

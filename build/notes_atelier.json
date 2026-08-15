@@ -9941,6 +9941,13 @@
    "w": 0.9988888888888889,
    "editeLe": 1786824339533,
    "original": true
+  },
+  "creatures-prehistoriques_mastodonte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786824358861,
+   "original": true
   }
  },
  "notes": [

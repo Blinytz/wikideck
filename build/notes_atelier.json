@@ -12902,6 +12902,20 @@
    "w": 0.7537777777777779,
    "editeLe": 1786835414402,
    "original": true
+  },
+  "inventions-importantes_processeur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9966666666666666,
+   "editeLe": 1786835423227,
+   "original": true
+  },
+  "inventions-importantes_disque-dur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786835426150,
+   "original": false
   }
  },
  "notes": [

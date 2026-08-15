@@ -10773,6 +10773,20 @@
    "cy": 0.3274427956067599,
    "w": 1,
    "editeLe": 1786827379128,
+   "original": true
+  },
+  "auteurs-modernes_jean-giono": {
+   "cx": 0.49999999999999994,
+   "cy": 0.4588042168085935,
+   "w": 0.9999999999999999,
+   "editeLe": 1786827382307,
+   "original": false
+  },
+  "auteurs-modernes_jean-cocteau": {
+   "cx": 0.5,
+   "cy": 0.4350152525901795,
+   "w": 1,
+   "editeLe": 1786827386296,
    "original": false
   }
  },

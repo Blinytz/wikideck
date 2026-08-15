@@ -9731,6 +9731,20 @@
    "w": 0.8197009674582234,
    "editeLe": 1786823199132,
    "original": true
+  },
+  "corps-celestes_c-1995-o1-hale-bopp": {
+   "cx": 0.5,
+   "cy": 0.625,
+   "w": 1,
+   "editeLe": 1786823214379,
+   "original": true
+  },
+  "corps-celestes_67p-tchourioumov-guerassimenko": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786823217183,
+   "original": false
   }
  },
  "notes": [

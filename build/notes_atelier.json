@@ -12880,6 +12880,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786835376670,
+   "original": true
+  },
+  "inventions-importantes_transfusion-sanguine": {
+   "cx": 0.5,
+   "cy": 0.46519140625000005,
+   "w": 1,
+   "editeLe": 1786835380552,
    "original": false
   }
  },

@@ -13384,7 +13384,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836206699,
-   "original": false
+   "original": true
   },
   "mammiferes_girafe": {
    "cx": 0.5,
@@ -13454,6 +13454,13 @@
    "cy": 0.3663162540793419,
    "w": 1,
    "editeLe": 1786836243995,
+   "original": false
+  },
+  "mammiferes_hyene-tachetee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836247690,
    "original": false
   }
  },

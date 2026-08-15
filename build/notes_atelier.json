@@ -12327,6 +12327,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786833521506,
+   "original": true
+  },
+  "tableaux-celebres_marat-assassine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786833525148,
    "original": false
   }
  },

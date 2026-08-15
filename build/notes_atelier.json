@@ -13328,7 +13328,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836179380,
-   "original": false
+   "original": true
   },
   "mammiferes_ours-noir-d-amerique": {
    "cx": 0.5,
@@ -13363,6 +13363,13 @@
    "cy": 0.47088376784324654,
    "w": 1,
    "editeLe": 1786836193895,
+   "original": false
+  },
+  "mammiferes_rhinoceros-noir": {
+   "cx": 0.5408747272491454,
+   "cy": 0.5,
+   "w": 0.8366666666666666,
+   "editeLe": 1786836198294,
    "original": false
   }
  },

@@ -13706,6 +13706,13 @@
    "cy": 0.5,
    "w": 0.9,
    "editeLe": 1786836734569,
+   "original": true
+  },
+  "mammiferes_phoque-commun": {
+   "cx": 0.5251133734385173,
+   "cy": 0.5,
+   "w": 0.8466666666666667,
+   "editeLe": 1786836738374,
    "original": false
   }
  },

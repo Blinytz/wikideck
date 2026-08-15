@@ -13749,6 +13749,20 @@
    "w": 0.8888888888888888,
    "editeLe": 1786836797785,
    "original": true
+  },
+  "mammiferes_hermine": {
+   "cx": 0.5559895833333334,
+   "cy": 0.5,
+   "w": 0.8880208333333333,
+   "editeLe": 1786836813271,
+   "original": true
+  },
+  "mammiferes_sanglier": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1786836816438,
+   "original": false
   }
  },
  "notes": [

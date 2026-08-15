@@ -13391,7 +13391,7 @@
    "cy": 0.4476562440395355,
    "w": 1,
    "editeLe": 1786836211389,
-   "original": false
+   "original": true
   },
   "mammiferes_okapi": {
    "cx": 0.5,
@@ -13461,6 +13461,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786836247690,
+   "original": false
+  },
+  "mammiferes_lycaon-animal": {
+   "cx": 0.5,
+   "cy": 0.47895729601682735,
+   "w": 1,
+   "editeLe": 1786836250839,
    "original": false
   }
  },

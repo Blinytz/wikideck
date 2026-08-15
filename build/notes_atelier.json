@@ -13524,7 +13524,7 @@
    "cy": 0.34306689453124994,
    "w": 1,
    "editeLe": 1786836328344,
-   "original": false
+   "original": true
   },
   "mammiferes_aye-aye": {
    "cx": 0.5558333333333334,
@@ -13548,10 +13548,10 @@
    "original": false
   },
   "mammiferes_wallaby": {
-   "cx": 0.5,
-   "cy": 0.5000000000000001,
-   "w": 1,
-   "editeLe": 1786836341954,
+   "cx": 0.5278552678625623,
+   "cy": 0.4890332292919317,
+   "w": 0.7386686348298054,
+   "editeLe": 1786836365876,
    "original": false
   },
   "mammiferes_wombat": {

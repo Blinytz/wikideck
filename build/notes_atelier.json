@@ -13482,7 +13482,7 @@
    "cy": 0.5,
    "w": 0.832967032967033,
    "editeLe": 1786836281567,
-   "original": false
+   "original": true
   },
   "mammiferes_bonobo": {
    "cx": 0.5,
@@ -13510,6 +13510,20 @@
    "cy": 0.5,
    "w": 0.8875,
    "editeLe": 1786836321263,
+   "original": false
+  },
+  "mammiferes_macaque": {
+   "cx": 0.4918867483139038,
+   "cy": 0.5,
+   "w": 0.93,
+   "editeLe": 1786836325283,
+   "original": false
+  },
+  "mammiferes_lemur-catta": {
+   "cx": 0.5,
+   "cy": 0.34306689453124994,
+   "w": 1,
+   "editeLe": 1786836328344,
    "original": false
   }
  },

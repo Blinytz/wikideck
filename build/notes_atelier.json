@@ -13363,7 +13363,7 @@
    "cy": 0.47088376784324654,
    "w": 1,
    "editeLe": 1786836193895,
-   "original": false
+   "original": true
   },
   "mammiferes_rhinoceros-noir": {
    "cx": 0.5408747272491454,
@@ -13412,6 +13412,13 @@
    "cy": 0.5,
    "w": 0.8333333333333335,
    "editeLe": 1786836223314,
+   "original": false
+  },
+  "mammiferes_buffle-d-afrique": {
+   "cx": 0.5,
+   "cy": 0.430416068866571,
+   "w": 1,
+   "editeLe": 1786836227207,
    "original": false
   }
  },

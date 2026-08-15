@@ -13496,7 +13496,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836289361,
-   "original": false
+   "original": true
   },
   "mammiferes_hylobatidae": {
    "cx": 0.5,
@@ -13538,6 +13538,13 @@
    "cy": 0.46098049411022374,
    "w": 1,
    "editeLe": 1786836335765,
+   "original": false
+  },
+  "mammiferes_kangourou-roux": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1786836338284,
    "original": false
   }
  },

@@ -13433,7 +13433,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836233966,
-   "original": false
+   "original": true
   },
   "mammiferes_renard-roux": {
    "cx": 0.5,
@@ -13482,6 +13482,13 @@
    "cy": 0.5,
    "w": 0.832967032967033,
    "editeLe": 1786836281567,
+   "original": false
+  },
+  "mammiferes_bonobo": {
+   "cx": 0.5,
+   "cy": 0.35792600685358056,
+   "w": 1,
+   "editeLe": 1786836286084,
    "original": false
   }
  },

@@ -13370,7 +13370,7 @@
    "cy": 0.5,
    "w": 0.8366666666666666,
    "editeLe": 1786836198294,
-   "original": false
+   "original": true
   },
   "mammiferes_rhinoceros-blanc": {
    "cx": 0.5,
@@ -13426,6 +13426,20 @@
    "cy": 0.5,
    "w": 0.8433333333333334,
    "editeLe": 1786836231719,
+   "original": false
+  },
+  "mammiferes_canis-lupus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836233966,
+   "original": false
+  },
+  "mammiferes_renard-roux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786836236144,
    "original": false
   }
  },

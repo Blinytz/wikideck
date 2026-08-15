@@ -11208,6 +11208,20 @@
    "w": 0.7317660274412259,
    "editeLe": 1786829049522,
    "original": true
+  },
+  "scientifiques-celebres_leonardo-fibonacci": {
+   "cx": 0.5,
+   "cy": 0.4527725659516223,
+   "w": 1,
+   "editeLe": 1786829077594,
+   "original": true
+  },
+  "scientifiques-celebres_pierre-de-fermat": {
+   "cx": 0.5,
+   "cy": 0.3841109194755554,
+   "w": 1,
+   "editeLe": 1786829081615,
+   "original": false
   }
  },
  "notes": [

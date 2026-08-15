@@ -13321,7 +13321,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786836177369,
-   "original": false
+   "original": true
   },
   "mammiferes_ours-brun": {
    "cx": 0.5,
@@ -13356,6 +13356,13 @@
    "cy": 0.5,
    "w": 0.9033333333333333,
    "editeLe": 1786836190346,
+   "original": false
+  },
+  "mammiferes_elephant-d-asie": {
+   "cx": 0.5,
+   "cy": 0.47088376784324654,
+   "w": 1,
+   "editeLe": 1786836193895,
    "original": false
   }
  },

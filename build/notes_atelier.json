@@ -13412,7 +13412,7 @@
    "cy": 0.5,
    "w": 0.8333333333333335,
    "editeLe": 1786836223314,
-   "original": false
+   "original": true
   },
   "mammiferes_buffle-d-afrique": {
    "cx": 0.5,
@@ -13468,6 +13468,13 @@
    "cy": 0.47895729601682735,
    "w": 1,
    "editeLe": 1786836250839,
+   "original": false
+  },
+  "mammiferes_gorille-de-l-ouest": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786836267882,
    "original": false
   }
  },

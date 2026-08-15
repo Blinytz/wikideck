@@ -13272,6 +13272,20 @@
    "cy": 0.5,
    "w": 0.935,
    "editeLe": 1786836152232,
+   "original": true
+  },
+  "mammiferes_jaguar": {
+   "cx": 0.4816666666666667,
+   "cy": 0.5,
+   "w": 0.9633333333333334,
+   "editeLe": 1786836155704,
+   "original": false
+  },
+  "mammiferes_guepard": {
+   "cx": 0.5000000000000002,
+   "cy": 0.3535290888547897,
+   "w": 1,
+   "editeLe": 1786836159189,
    "original": false
   }
  },

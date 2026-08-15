@@ -13923,6 +13923,13 @@
    "cy": 0.49555966362186465,
    "w": 0.8264462809917353,
    "editeLe": 1786837108913,
+   "original": true
+  },
+  "mammiferes_mephitis-mephitis": {
+   "cx": 0.5,
+   "cy": 0.5397792968749999,
+   "w": 1,
+   "editeLe": 1786837113622,
    "original": false
   }
  },

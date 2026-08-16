@@ -14798,6 +14798,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786906611631,
+   "original": true
+  },
+  "poissons-et-vie-marine_poisson-globe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786906615600,
    "original": false
   }
  },

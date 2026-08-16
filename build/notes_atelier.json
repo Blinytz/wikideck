@@ -15506,6 +15506,20 @@
    "w": 0.9426666666666667,
    "editeLe": 1786908997698,
    "original": true
+  },
+  "races-de-chien_border-collie": {
+   "cx": 0.5246993127147767,
+   "cy": 0.5,
+   "w": 0.6872852233676977,
+   "editeLe": 1786909011229,
+   "original": true
+  },
+  "races-de-chien_colley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909013942,
+   "original": false
   }
  },
  "notes": [

@@ -15814,6 +15814,20 @@
    "w": 0.9233333333333333,
    "editeLe": 1786909480212,
    "original": true
+  },
+  "races-de-chien_staffordshire-bull-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786909484702,
+   "original": true
+  },
+  "races-de-chien_american-staffordshire-terrier": {
+   "cx": 0.5,
+   "cy": 0.3772783372827804,
+   "w": 1,
+   "editeLe": 1786909488108,
+   "original": false
   }
  },
  "notes": [

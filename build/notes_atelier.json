@@ -15856,6 +15856,20 @@
    "w": 0.888888888888889,
    "editeLe": 1786909559494,
    "original": true
+  },
+  "races-de-chien_fila-brasileiro": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786909575841,
+   "original": true
+  },
+  "races-de-chien_chien-de-montagne-des-pyrenees": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786909578528,
+   "original": false
   }
  },
  "notes": [

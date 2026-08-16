@@ -15429,6 +15429,20 @@
    "w": 0.89,
    "editeLe": 1786908856384,
    "original": true
+  },
+  "insectes_ephemeroptera": {
+   "cx": 0.42738894628099183,
+   "cy": 0.48031163911845737,
+   "w": 0.8264462809917354,
+   "editeLe": 1786908873478,
+   "original": true
+  },
+  "insectes_drosophile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908876444,
+   "original": false
   }
  },
  "notes": [

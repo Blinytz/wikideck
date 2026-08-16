@@ -14624,6 +14624,20 @@
    "w": 0.9753086419753085,
    "editeLe": 1786900228322,
    "original": true
+  },
+  "reptiles-et-amphibiens_axolotl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "editeLe": 1786900244374,
+   "original": true
+  },
+  "reptiles-et-amphibiens_rainette-verte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786900247422,
+   "original": false
   }
  },
  "notes": [

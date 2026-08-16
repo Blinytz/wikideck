@@ -14294,7 +14294,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899576095,
-   "original": false
+   "original": true
   },
   "oiseaux_mesange-bleue": {
    "cx": 0.5,
@@ -14315,6 +14315,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899585879,
+   "original": false
+  },
+  "oiseaux_chardonneret-elegant": {
+   "cx": 0.36776859504132225,
+   "cy": 0.5867768595041323,
+   "w": 0.7355371900826445,
+   "editeLe": 1786899591361,
    "original": false
   }
  },

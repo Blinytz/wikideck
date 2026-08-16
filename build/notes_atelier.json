@@ -15491,6 +15491,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786908976595,
+   "original": true
+  },
+  "races-de-chien_golden-retriever": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786908981995,
    "original": false
   }
  },

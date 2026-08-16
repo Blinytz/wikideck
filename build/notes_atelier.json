@@ -15897,6 +15897,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909610343,
+   "original": true
+  },
+  "races-de-chien_lhassa-apso": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786909612588,
    "original": false
   }
  },

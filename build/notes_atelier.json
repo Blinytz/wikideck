@@ -14581,6 +14581,13 @@
    "cy": 0.5,
    "w": 0.7766666666666667,
    "editeLe": 1786900159920,
+   "original": true
+  },
+  "reptiles-et-amphibiens_tortue-de-floride": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786900165012,
    "original": false
   }
  },

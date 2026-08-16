@@ -15526,6 +15526,20 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909017017,
+   "original": true
+  },
+  "races-de-chien_bulldog-anglais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786909022431,
+   "original": false
+  },
+  "races-de-chien_bouledogue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8362779740871613,
+   "editeLe": 1786909024782,
    "original": false
   }
  },

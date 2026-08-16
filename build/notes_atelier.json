@@ -14287,7 +14287,7 @@
    "cy": 0.484384765625,
    "w": 1,
    "editeLe": 1786899571978,
-   "original": false
+   "original": true
   },
   "oiseaux_merle-noir": {
    "cx": 0.5,
@@ -14301,6 +14301,20 @@
    "cy": 0.5,
    "w": 0.9533333333333333,
    "editeLe": 1786899578461,
+   "original": false
+  },
+  "oiseaux_moineau-domestique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899582305,
+   "original": false
+  },
+  "oiseaux_pinson-des-arbres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899585879,
    "original": false
   }
  },

@@ -15533,7 +15533,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786909022431,
-   "original": false
+   "original": true
   },
   "races-de-chien_bouledogue": {
    "cx": 0.5,
@@ -15547,6 +15547,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909027047,
+   "original": false
+  },
+  "races-de-chien_rottweiler": {
+   "cx": 0.5,
+   "cy": 0.43623046875,
+   "w": 1,
+   "editeLe": 1786909031249,
    "original": false
   }
  },

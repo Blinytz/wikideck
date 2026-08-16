@@ -16066,6 +16066,20 @@
    "w": 0.800925925925926,
    "editeLe": 1786909948941,
    "original": true
+  },
+  "races-de-chien_terrier-kerry-blue": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786909966067,
+   "original": true
+  },
+  "races-de-chien_terrier-irlandais": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 1,
+   "editeLe": 1786909969326,
+   "original": false
   }
  },
  "notes": [

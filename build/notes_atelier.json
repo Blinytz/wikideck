@@ -16094,6 +16094,20 @@
    "w": 0.8885416666666666,
    "editeLe": 1786909999764,
    "original": true
+  },
+  "races-de-chien_bichon-havanais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786910011412,
+   "original": true
+  },
+  "races-de-chien_coton-de-tulear": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.996078431372549,
+   "editeLe": 1786910014491,
+   "original": false
   }
  },
  "notes": [

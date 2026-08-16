@@ -14785,6 +14785,20 @@
    "w": 1,
    "editeLe": 1786906592477,
    "original": true
+  },
+  "poissons-et-vie-marine_acanthuridae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786906608433,
+   "original": true
+  },
+  "poissons-et-vie-marine_pterois-volitans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786906611631,
+   "original": false
   }
  },
  "notes": [

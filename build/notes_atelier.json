@@ -14106,6 +14106,27 @@
    "w": 1,
    "editeLe": 1786899243642,
    "original": true
+  },
+  "oiseaux_flamant-rose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899247994,
+   "original": true
+  },
+  "oiseaux_cygne-tubercule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899250203,
+   "original": false
+  },
+  "oiseaux_cygne-noir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899252795,
+   "original": false
   }
  },
  "notes": [

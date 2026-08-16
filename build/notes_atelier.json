@@ -16156,6 +16156,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786910099138,
+   "original": true
+  },
+  "races-de-chien_basset-fauve-de-bretagne": {
+   "cx": 0.4444444444444445,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786910103836,
    "original": false
   }
  },

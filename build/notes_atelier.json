@@ -14441,6 +14441,13 @@
    "cy": 0.5,
    "w": 0.9,
    "editeLe": 1786899831089,
+   "original": true
+  },
+  "reptiles-et-amphibiens_crocodile-du-nil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899836568,
    "original": false
   }
  },

@@ -15680,6 +15680,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909232376,
+   "original": true
+  },
+  "races-de-chien_bichon-a-poil-frise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9633333333333334,
+   "editeLe": 1786909235196,
    "original": false
   }
  },

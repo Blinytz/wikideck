@@ -14315,7 +14315,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899585879,
-   "original": false
+   "original": true
   },
   "oiseaux_chardonneret-elegant": {
    "cx": 0.36776859504132225,
@@ -14336,6 +14336,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899601255,
+   "original": false
+  },
+  "oiseaux_grand-geocoucou": {
+   "cx": 0.5,
+   "cy": 0.406875,
+   "w": 1,
+   "editeLe": 1786899608816,
    "original": false
   }
  },

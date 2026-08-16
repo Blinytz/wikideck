@@ -14322,7 +14322,7 @@
    "cy": 0.5867768595041323,
    "w": 0.7355371900826445,
    "editeLe": 1786899591361,
-   "original": false
+   "original": true
   },
   "oiseaux_coucou-gris": {
    "cx": 0.5,
@@ -14343,6 +14343,13 @@
    "cy": 0.406875,
    "w": 1,
    "editeLe": 1786899608816,
+   "original": false
+  },
+  "oiseaux_martin-chasseur-geant": {
+   "cx": 0.5,
+   "cy": 0.33208203125,
+   "w": 1,
+   "editeLe": 1786899614104,
    "original": false
   }
  },

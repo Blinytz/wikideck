@@ -15603,6 +15603,13 @@
    "cy": 0.5,
    "w": 0.995,
    "editeLe": 1786909117609,
+   "original": true
+  },
+  "races-de-chien_shiba-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909120473,
    "original": false
   }
  },

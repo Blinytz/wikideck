@@ -15996,6 +15996,20 @@
    "w": 1,
    "editeLe": 1786909827981,
    "original": true
+  },
+  "races-de-chien_barbet-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8807017543859649,
+   "editeLe": 1786909847608,
+   "original": true
+  },
+  "races-de-chien_terrier-ecossais": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.8216666666666668,
+   "editeLe": 1786909851844,
+   "original": false
   }
  },
  "notes": [

@@ -14280,7 +14280,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899567059,
-   "original": false
+   "original": true
   },
   "oiseaux_rouge-gorge": {
    "cx": 0.5,
@@ -14294,6 +14294,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899576095,
+   "original": false
+  },
+  "oiseaux_mesange-bleue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9533333333333333,
+   "editeLe": 1786899578461,
    "original": false
   }
  },

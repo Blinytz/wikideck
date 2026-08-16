@@ -14176,6 +14176,20 @@
    "w": 1,
    "editeLe": 1786899405459,
    "original": true
+  },
+  "oiseaux_colibri": {
+   "cx": 0.4678911372600914,
+   "cy": 0.4534112964733741,
+   "w": 0.5634861006761832,
+   "editeLe": 1786899435601,
+   "original": true
+  },
+  "oiseaux_martin-pecheur-d-europe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899438907,
+   "original": false
   }
  },
  "notes": [

@@ -15064,6 +15064,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786907705661,
+   "original": true
+  },
+  "poissons-et-vie-marine_krill-antarctique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.905,
+   "editeLe": 1786907709309,
    "original": false
   }
  },

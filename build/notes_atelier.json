@@ -15693,7 +15693,7 @@
    "cx": 0.46221590909090915,
    "cy": 0.49641828804651683,
    "w": 0.9090909090909091,
-   "editeLe": 1786909253685,
+   "editeLe": 1786909379227,
    "original": true
   },
   "races-de-chien_irish-wolfhound": {
@@ -15743,6 +15743,13 @@
    "cy": 0.5,
    "w": 0.8873184138201806,
    "editeLe": 1786909369466,
+   "original": true
+  },
+  "races-de-chien_levrier-whippet": {
+   "cx": 0.5,
+   "cy": 0.46603260869565216,
+   "w": 1,
+   "editeLe": 1786909375694,
    "original": true
   }
  },

@@ -14974,6 +14974,20 @@
    "w": 0.8205128205128206,
    "editeLe": 1786907410820,
    "original": true
+  },
+  "poissons-et-vie-marine_cubozoa": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.9973333333333334,
+   "editeLe": 1786907436284,
+   "original": true
+  },
+  "poissons-et-vie-marine_aurelia-aurita": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786907439484,
+   "original": false
   }
  },
  "notes": [

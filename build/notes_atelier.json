@@ -15149,6 +15149,20 @@
    "w": 0.87527352297593,
    "editeLe": 1786908158386,
    "original": true
+  },
+  "insectes_paon-du-jour": {
+   "cx": 0.48334999823910596,
+   "cy": 0.48326759328825447,
+   "w": 0.6667918858001501,
+   "editeLe": 1786908191583,
+   "original": true
+  },
+  "insectes_machaon-papillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786908195843,
+   "original": false
   }
  },
  "notes": [

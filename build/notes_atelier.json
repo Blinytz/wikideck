@@ -14350,7 +14350,7 @@
    "cy": 0.33208203125,
    "w": 1,
    "editeLe": 1786899614104,
-   "original": false
+   "original": true
   },
   "oiseaux_menura": {
    "cx": 0.49999999999999994,
@@ -14364,6 +14364,13 @@
    "cy": 0.37716015625,
    "w": 1,
    "editeLe": 1786899621462,
+   "original": false
+  },
+  "oiseaux_dinde-domestique": {
+   "cx": 0.44433333333333336,
+   "cy": 0.5,
+   "w": 0.8886666666666667,
+   "editeLe": 1786899641688,
    "original": false
   }
  },

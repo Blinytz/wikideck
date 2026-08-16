@@ -14252,6 +14252,20 @@
    "cy": 0.5,
    "w": 0.9433333333333332,
    "editeLe": 1786899556351,
+   "original": true
+  },
+  "oiseaux_pie-bavarde": {
+   "cx": 0.5558333333333334,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899559563,
+   "original": false
+  },
+  "oiseaux_geai-des-chenes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9116666666666667,
+   "editeLe": 1786899561887,
    "original": false
   }
  },

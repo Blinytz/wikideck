@@ -16598,6 +16598,20 @@
    "w": 0.888888888888889,
    "editeLe": 1786916159852,
    "original": true
+  },
+  "races-de-chat_scottish-fold-highland-fold-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "editeLe": 1786916175365,
+   "original": true
+  },
+  "races-de-chat_bobtail-japonais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9538461538461539,
+   "editeLe": 1786916179675,
+   "original": false
   }
  },
  "notes": [

@@ -14196,6 +14196,20 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899441538,
+   "original": true
+  },
+  "oiseaux_albatros-hurleur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899445116,
+   "original": false
+  },
+  "oiseaux_fregate-superbe": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.9083333333333333,
+   "editeLe": 1786899449019,
    "original": false
   }
  },

@@ -14490,6 +14490,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899918661,
+   "original": true
+  },
+  "reptiles-et-amphibiens_cobra-royal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9983333333333333,
+   "editeLe": 1786899922053,
    "original": false
   }
  },

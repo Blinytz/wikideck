@@ -16283,6 +16283,20 @@
    "w": 1,
    "editeLe": 1786910304379,
    "original": true
+  },
+  "races-de-chien_berger-du-caucase": {
+   "cx": 0.5673333333333334,
+   "cy": 0.5,
+   "w": 0.8653333333333334,
+   "editeLe": 1786910327346,
+   "original": true
+  },
+  "races-de-chien_dogue-du-tibet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7866666666666667,
+   "editeLe": 1786910330343,
+   "original": false
   }
  },
  "notes": [

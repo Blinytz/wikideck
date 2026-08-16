@@ -15988,6 +15988,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909823709,
+   "original": true
+  },
+  "races-de-chien_berger-picard": {
+   "cx": 0.5,
+   "cy": 0.5487646293888166,
+   "w": 1,
+   "editeLe": 1786909827981,
    "original": false
   }
  },

@@ -15562,6 +15562,20 @@
    "w": 0.800925925925926,
    "editeLe": 1786909051594,
    "original": true
+  },
+  "races-de-chien_dogue-allemand": {
+   "cx": 0.5454545454545454,
+   "cy": 0.5240617011160991,
+   "w": 0.9090909090909091,
+   "editeLe": 1786909066896,
+   "original": true
+  },
+  "races-de-chien_saint-bernard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909069322,
+   "original": false
   }
  },
  "notes": [

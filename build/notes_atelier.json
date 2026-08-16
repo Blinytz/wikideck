@@ -14126,13 +14126,27 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899252795,
-   "original": false
+   "original": true
   },
   "oiseaux_canard-colvert": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899255179,
+   "original": false
+  },
+  "oiseaux_paon-bleu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899257808,
+   "original": false
+  },
+  "oiseaux_toucan-toco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899260678,
    "original": false
   }
  },

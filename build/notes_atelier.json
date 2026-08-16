@@ -14308,7 +14308,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899582305,
-   "original": false
+   "original": true
   },
   "oiseaux_pinson-des-arbres": {
    "cx": 0.5,
@@ -14329,6 +14329,13 @@
    "cy": 0.376953125,
    "w": 1,
    "editeLe": 1786899596734,
+   "original": false
+  },
+  "oiseaux_pic-epeiche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899601255,
    "original": false
   }
  },

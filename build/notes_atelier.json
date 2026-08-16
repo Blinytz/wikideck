@@ -16325,6 +16325,20 @@
    "w": 1,
    "editeLe": 1786910390369,
    "original": true
+  },
+  "races-de-chien_chien-d-eau-portugais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786910433932,
+   "original": true
+  },
+  "races-de-chien_chien-chinois-a-crete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.935,
+   "editeLe": 1786910437543,
+   "original": false
   }
  },
  "notes": [

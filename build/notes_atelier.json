@@ -14239,6 +14239,20 @@
    "w": 1,
    "editeLe": 1786899542174,
    "original": true
+  },
+  "oiseaux_heron-cendre": {
+   "cx": 0.5000000000000002,
+   "cy": 0.3042890625,
+   "w": 1,
+   "editeLe": 1786899552993,
+   "original": true
+  },
+  "oiseaux_grand-corbeau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9433333333333332,
+   "editeLe": 1786899556351,
+   "original": false
   }
  },
  "notes": [

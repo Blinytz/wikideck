@@ -14273,7 +14273,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786899564307,
-   "original": false
+   "original": true
   },
   "oiseaux_martinet-noir": {
    "cx": 0.5,
@@ -14287,6 +14287,13 @@
    "cy": 0.484384765625,
    "w": 1,
    "editeLe": 1786899571978,
+   "original": false
+  },
+  "oiseaux_merle-noir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899576095,
    "original": false
   }
  },

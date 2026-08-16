@@ -15198,6 +15198,20 @@
    "w": 1,
    "editeLe": 1786908255644,
    "original": true
+  },
+  "insectes_bombyx-du-murier": {
+   "cx": 0.608306884765625,
+   "cy": 0.5,
+   "w": 0.76171875,
+   "editeLe": 1786908282160,
+   "original": true
+  },
+  "insectes_coccinella-septempunctata": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908286748,
+   "original": false
   }
  },
  "notes": [

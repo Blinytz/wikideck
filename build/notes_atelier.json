@@ -15981,6 +15981,13 @@
    "cy": 0.4999999999999999,
    "w": 1,
    "editeLe": 1786909819864,
+   "original": true
+  },
+  "races-de-chien_berger-de-beauce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909823709,
    "original": false
   }
  },

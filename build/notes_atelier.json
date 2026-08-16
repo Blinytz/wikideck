@@ -15646,6 +15646,20 @@
    "w": 0.7602339181286549,
    "editeLe": 1786909192239,
    "original": true
+  },
+  "races-de-chien_cocker-spaniel": {
+   "cx": 0.6249999999999999,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1786909208459,
+   "original": true
+  },
+  "races-de-chien_cavalier-king-charles-spaniel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9744331886155331,
+   "editeLe": 1786909211445,
+   "original": false
   }
  },
  "notes": [

@@ -14428,6 +14428,20 @@
    "w": 0.9260416666666667,
    "editeLe": 1786899822017,
    "original": true
+  },
+  "oiseaux_rossignol-philomele": {
+   "cx": 0.5,
+   "cy": 0.38861132812499993,
+   "w": 1,
+   "editeLe": 1786899827840,
+   "original": true
+  },
+  "oiseaux_etourneau-sansonnet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9,
+   "editeLe": 1786899831089,
+   "original": false
   }
  },
  "notes": [

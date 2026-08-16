@@ -15757,13 +15757,27 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909383291,
-   "original": false
+   "original": true
   },
   "races-de-chien_braque-allemand-a-poil-court": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8853333333333334,
    "editeLe": 1786909385967,
+   "original": false
+  },
+  "races-de-chien_shetland-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909388240,
+   "original": false
+  },
+  "races-de-chien_berger-blanc-suisse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909390476,
    "original": false
   }
  },

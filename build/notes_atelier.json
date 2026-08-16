@@ -14518,6 +14518,13 @@
    "cy": 0.5,
    "w": 0.9016666666666667,
    "editeLe": 1786900022007,
+   "original": true
+  },
+  "reptiles-et-amphibiens_couleuvre-a-collier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "editeLe": 1786900027662,
    "original": false
   }
  },

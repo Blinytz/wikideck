@@ -15884,6 +15884,20 @@
    "w": 0.8893333333333333,
    "editeLe": 1786909595457,
    "original": true
+  },
+  "races-de-chien_spitz-nain": {
+   "cx": 0.5,
+   "cy": 0.5446998722860793,
+   "w": 1,
+   "editeLe": 1786909607938,
+   "original": true
+  },
+  "races-de-chien_epagneul-nain-continental-papillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909610343,
+   "original": false
   }
  },
  "notes": [

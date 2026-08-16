@@ -14301,7 +14301,7 @@
    "cy": 0.5,
    "w": 0.9533333333333333,
    "editeLe": 1786899578461,
-   "original": false
+   "original": true
   },
   "oiseaux_moineau-domestique": {
    "cx": 0.5,
@@ -14322,6 +14322,13 @@
    "cy": 0.5867768595041323,
    "w": 0.7355371900826445,
    "editeLe": 1786899591361,
+   "original": false
+  },
+  "oiseaux_coucou-gris": {
+   "cx": 0.5,
+   "cy": 0.376953125,
+   "w": 1,
+   "editeLe": 1786899596734,
    "original": false
   }
  },

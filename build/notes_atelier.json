@@ -14651,13 +14651,20 @@
    "cy": 0.48125,
    "w": 1,
    "editeLe": 1786900254647,
-   "original": false
+   "original": true
   },
   "reptiles-et-amphibiens_rainette-aux-yeux-rouges": {
    "cx": 0.5,
    "cy": 0.4466080402010051,
    "w": 1,
    "editeLe": 1786900259189,
+   "original": false
+  },
+  "reptiles-et-amphibiens_centrolenidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786900261519,
    "original": false
   }
  },

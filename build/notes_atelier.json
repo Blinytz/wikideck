@@ -15667,6 +15667,20 @@
    "w": 0.9183333333333333,
    "editeLe": 1786909213683,
    "original": true
+  },
+  "races-de-chien_fox-terrier": {
+   "cx": 0.47854356306892065,
+   "cy": 0.5,
+   "w": 0.9570871261378413,
+   "editeLe": 1786909229522,
+   "original": true
+  },
+  "races-de-chien_yorkshire-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909232376,
+   "original": false
   }
  },
  "notes": [

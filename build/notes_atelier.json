@@ -14644,6 +14644,20 @@
    "cy": 0.5,
    "w": 0.8716666666666667,
    "editeLe": 1786900250672,
+   "original": true
+  },
+  "reptiles-et-amphibiens_dendrobates": {
+   "cx": 0.5,
+   "cy": 0.48125,
+   "w": 1,
+   "editeLe": 1786900254647,
+   "original": false
+  },
+  "reptiles-et-amphibiens_rainette-aux-yeux-rouges": {
+   "cx": 0.5,
+   "cy": 0.4466080402010051,
+   "w": 1,
+   "editeLe": 1786900259189,
    "original": false
   }
  },

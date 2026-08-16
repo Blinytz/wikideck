@@ -662,10 +662,10 @@
   },
   "races-de-chien_samoyede-chien": {
    "cx": 0.5,
-   "cy": 0.3531381876291321,
+   "cy": 0.35589990637913216,
    "w": 1,
-   "original": true,
-   "editeLe": 1783723281716
+   "editeLe": 1786909114543,
+   "original": true
   },
   "monuments-emblematiques_chateau-de-neuschwanstein": {
    "cx": 0.4493510589554448,
@@ -15589,6 +15589,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909099076,
+   "original": true
+  },
+  "races-de-chien_malamute-de-l-alaska": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909111014,
    "original": true
   }
  },

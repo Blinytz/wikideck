@@ -15519,6 +15519,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909013942,
+   "original": true
+  },
+  "races-de-chien_caniche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909017017,
    "original": false
   }
  },

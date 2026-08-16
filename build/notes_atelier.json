@@ -16016,6 +16016,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786909855503,
+   "original": true
+  },
+  "races-de-chien_west-highland-white-terrier": {
+   "cx": 0.5558333333333334,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786909859828,
    "original": false
   }
  },

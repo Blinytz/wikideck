@@ -15100,6 +15100,20 @@
    "w": 0.8084753787878787,
    "editeLe": 1786908039586,
    "original": true
+  },
+  "insectes_vespa-velutina": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8890625,
+   "editeLe": 1786908057522,
+   "original": true
+  },
+  "insectes_lasius-niger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908061537,
+   "original": false
   }
  },
  "notes": [

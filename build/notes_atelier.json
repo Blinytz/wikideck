@@ -16311,6 +16311,20 @@
    "w": 1,
    "editeLe": 1786910370761,
    "original": true
+  },
+  "races-de-chien_retriever-a-poil-plat": {
+   "cx": 0.4197916666666667,
+   "cy": 0.5000000000000001,
+   "w": 0.8395833333333333,
+   "editeLe": 1786910387416,
+   "original": true
+  },
+  "races-de-chien_griffon-d-arret-a-poil-dur-korthals": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786910390369,
+   "original": false
   }
  },
  "notes": [

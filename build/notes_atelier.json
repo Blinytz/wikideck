@@ -14064,6 +14064,20 @@
    "w": 1,
    "editeLe": 1786899140482,
    "original": true
+  },
+  "oiseaux_autruche": {
+   "cx": 0.5139850852272727,
+   "cy": 0.5164342286501379,
+   "w": 0.7348484848484848,
+   "editeLe": 1786899156854,
+   "original": true
+  },
+  "oiseaux_dromaius": {
+   "cx": 0.5,
+   "cy": 0.4160887656033287,
+   "w": 1,
+   "editeLe": 1786899160820,
+   "original": false
   }
  },
  "notes": [

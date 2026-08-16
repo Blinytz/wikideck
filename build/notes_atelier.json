@@ -14329,7 +14329,7 @@
    "cy": 0.376953125,
    "w": 1,
    "editeLe": 1786899596734,
-   "original": false
+   "original": true
   },
   "oiseaux_pic-epeiche": {
    "cx": 0.5,
@@ -14350,6 +14350,20 @@
    "cy": 0.33208203125,
    "w": 1,
    "editeLe": 1786899614104,
+   "original": false
+  },
+  "oiseaux_menura": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1786899618109,
+   "original": false
+  },
+  "oiseaux_quetzal-resplendissant": {
+   "cx": 0.5,
+   "cy": 0.37716015625,
+   "w": 1,
+   "editeLe": 1786899621462,
    "original": false
   }
  },

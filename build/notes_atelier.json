@@ -15345,6 +15345,20 @@
    "w": 0.8883333333333334,
    "editeLe": 1786908693670,
    "original": true
+  },
+  "insectes_culex-pipiens": {
+   "cx": 0.5,
+   "cy": 0.509375,
+   "w": 1,
+   "editeLe": 1786908724144,
+   "original": true
+  },
+  "insectes_aedes-albopictus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "editeLe": 1786908727383,
+   "original": false
   }
  },
  "notes": [

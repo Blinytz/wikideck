@@ -14259,13 +14259,27 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899559563,
-   "original": false
+   "original": true
   },
   "oiseaux_geai-des-chenes": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9116666666666667,
    "editeLe": 1786899561887,
+   "original": false
+  },
+  "oiseaux_hirondelle-rustique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899564307,
+   "original": false
+  },
+  "oiseaux_martinet-noir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899567059,
    "original": false
   }
  },

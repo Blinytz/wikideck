@@ -16108,6 +16108,20 @@
    "w": 0.996078431372549,
    "editeLe": 1786910014491,
    "original": true
+  },
+  "races-de-chien_berger-hollandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786910029352,
+   "original": true
+  },
+  "races-de-chien_berger-de-brie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8016666666666665,
+   "editeLe": 1786910032004,
+   "original": false
   }
  },
  "notes": [

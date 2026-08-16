@@ -15366,6 +15366,20 @@
    "w": 0.7349776170798896,
    "editeLe": 1786908743537,
    "original": true
+  },
+  "insectes_mouche-tse-tse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786908748119,
+   "original": true
+  },
+  "insectes_tabanidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908750935,
+   "original": false
   }
  },
  "notes": [

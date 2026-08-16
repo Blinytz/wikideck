@@ -14477,6 +14477,20 @@
    "w": 0.888888888888889,
    "editeLe": 1786899908868,
    "original": true
+  },
+  "reptiles-et-amphibiens_python-reticule": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.9083333333333333,
+   "editeLe": 1786899915244,
+   "original": true
+  },
+  "reptiles-et-amphibiens_boa-constricteur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786899918661,
+   "original": false
   }
  },
  "notes": [

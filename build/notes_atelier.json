@@ -15331,6 +15331,20 @@
    "w": 0.8893229166666666,
    "editeLe": 1786908683529,
    "original": true
+  },
+  "insectes_halyomorpha-halys": {
+   "cx": 0.5,
+   "cy": 0.5093632812500001,
+   "w": 1,
+   "editeLe": 1786908690313,
+   "original": true
+  },
+  "insectes_aphidoidea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1786908693670,
+   "original": false
   }
  },
  "notes": [

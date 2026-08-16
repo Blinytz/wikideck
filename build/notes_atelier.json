@@ -14680,6 +14680,20 @@
    "w": 0.8333333333333335,
    "editeLe": 1786900316147,
    "original": true
+  },
+  "reptiles-et-amphibiens_protee-anguillard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.986111111111111,
+   "editeLe": 1786900337498,
+   "original": true
+  },
+  "reptiles-et-amphibiens_sphenodon": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 1,
+   "editeLe": 1786900340866,
+   "original": false
   }
  },
  "notes": [

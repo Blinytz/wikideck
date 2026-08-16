@@ -15471,6 +15471,20 @@
    "w": 0.8080808080808081,
    "editeLe": 1786908964282,
    "original": true
+  },
+  "insectes_phylliidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908967878,
+   "original": true
+  },
+  "insectes_punaise-de-lit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.935,
+   "editeLe": 1786908971719,
+   "original": false
   }
  },
  "notes": [

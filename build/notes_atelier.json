@@ -14539,6 +14539,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786900075732,
+   "original": true
+  },
+  "reptiles-et-amphibiens_furcifer-pardalis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786900081228,
    "original": false
   }
  },

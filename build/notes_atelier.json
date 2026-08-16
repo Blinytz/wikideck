@@ -14119,13 +14119,20 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899250203,
-   "original": false
+   "original": true
   },
   "oiseaux_cygne-noir": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786899252795,
+   "original": false
+  },
+  "oiseaux_canard-colvert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786899255179,
    "original": false
   }
  },

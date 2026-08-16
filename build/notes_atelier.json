@@ -14904,6 +14904,20 @@
    "w": 1,
    "editeLe": 1786906972040,
    "original": true
+  },
+  "poissons-et-vie-marine_sphyraena": {
+   "cx": 0.6074380165289257,
+   "cy": 0.5240616391184574,
+   "w": 0.7346189164370981,
+   "editeLe": 1786906992973,
+   "original": true
+  },
+  "poissons-et-vie-marine_poisson-pierre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786906995680,
+   "original": false
   }
  },
  "notes": [

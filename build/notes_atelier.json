@@ -16171,6 +16171,20 @@
    "w": 0.8016666666666665,
    "editeLe": 1786910108127,
    "original": true
+  },
+  "races-de-chien_grand-bleu-de-gascogne": {
+   "cx": 0.530549188619146,
+   "cy": 0.5043474517906334,
+   "w": 0.8214962121212118,
+   "editeLe": 1786910128573,
+   "original": true
+  },
+  "races-de-chien_beagle-harrier": {
+   "cx": 0.4545454545454545,
+   "cy": 0.4959280303030303,
+   "w": 0.909090909090909,
+   "editeLe": 1786910132541,
+   "original": false
   }
  },
  "notes": [

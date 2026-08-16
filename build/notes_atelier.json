@@ -16009,6 +16009,13 @@
    "cy": 0.5,
    "w": 0.8216666666666668,
    "editeLe": 1786909851844,
+   "original": true
+  },
+  "races-de-chien_cairn-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786909855503,
    "original": false
   }
  },

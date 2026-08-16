@@ -14708,6 +14708,20 @@
    "w": 0.9816666666666666,
    "editeLe": 1786900346897,
    "original": true
+  },
+  "reptiles-et-amphibiens_monstre-de-gila": {
+   "cx": 0.440234375,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1786900365094,
+   "original": true
+  },
+  "reptiles-et-amphibiens_tortue-verte": {
+   "cx": 0.5867768595041324,
+   "cy": 0.44995695592286505,
+   "w": 0.8264462809917353,
+   "editeLe": 1786900371299,
+   "original": false
   }
  },
  "notes": [

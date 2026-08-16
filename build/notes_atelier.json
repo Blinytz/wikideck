@@ -15659,6 +15659,13 @@
    "cy": 0.5,
    "w": 0.9744331886155331,
    "editeLe": 1786909211445,
+   "original": true
+  },
+  "races-de-chien_jack-russell-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9183333333333333,
+   "editeLe": 1786909213683,
    "original": false
   }
  },

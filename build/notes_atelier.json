@@ -15162,6 +15162,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1786908195843,
+   "original": true
+  },
+  "insectes_pieride-du-chou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786908198306,
    "original": false
   }
  },

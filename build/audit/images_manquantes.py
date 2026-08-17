@@ -54,6 +54,19 @@ CHOISIES = {
         ('url', 'https://upload.wikimedia.org/wikipedia/commons/9/9c/'
                 'Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29'
                 '_%2827843153986%29.jpg'),
+    # Lieux légendaires : ces pages n'ont pas d'image de tête, et la recherche
+    # par nom leur donnait un téléphone pliant, un évêque et un fond d'écran
+    # Alienware. Fichiers repérés un par un sur Commons.
+    'Tour de Babel': ('commons', 'Pieter Bruegel the Elder - The Tower of '
+                                 'Babel (Vienna) - Google Art Project - edited.jpg'),
+    # « Cibola.jpg » sur Commons est un vapeur qui porte ce nom.
+    # La marche de Coronado a la recherche des sept cites, elle, est du sujet.
+    "Cités d'or": ('commons', 'Frederic Remington - Coronado sets out to the north.jpg'),
+    'Mu (continent)': ('commons', 'Golden-age-mu-map.jpg'),
+    'Kitej': ('commons', 'Kitezh.jpg'),
+    'Shambhala (mythe)': ('commons', 'Shambhala.jpg'),
+    'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
+                                 'Land of Punt by Σταύρος.jpg'),
 }
 
 
@@ -94,8 +107,12 @@ def main():
     sources = json.loads(sources_f.read_text(encoding='utf-8'))
 
     reprendre = '--reprendre-recherche' in sys.argv
+    filtre = (sys.argv[sys.argv.index('--collection') + 1]
+              if '--collection' in sys.argv else None)
     vides = []
     for c in idx['collections']:
+        if filtre and c['slug'] != filtre:
+            continue
         d = json.loads((RACINE / c['fichier']).read_text(encoding='utf-8'))
         for x in d['cartes']:
             venue_du_web = (sources.get(x['id']) or {}).get('source', '').startswith('bing')

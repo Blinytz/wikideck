@@ -4268,27 +4268,6 @@
 "creatures-et-legendes_ogre": {
 "source": "wiki-fr"
 },
-"creatures-et-legendes_atlantide": {
-"source": "wiki-fr"
-},
-"creatures-et-legendes_el-dorado-film-1966": {
-"source": "wiki-sans-filtre"
-},
-"creatures-et-legendes_shangri-la": {
-"source": "wiki-sans-filtre"
-},
-"creatures-et-legendes_camelot": {
-"source": "wiki-fr"
-},
-"creatures-et-legendes_eden": {
-"source": "wiki-fr"
-},
-"creatures-et-legendes_lemurie": {
-"source": "wiki-fr"
-},
-"creatures-et-legendes_avalon": {
-"source": "wiki-fr"
-},
 "personnages-de-fiction-celebres_thor-comics": {
 "source": "wiki-fr"
 },
@@ -11419,5 +11398,83 @@
 },
 "mythologies-proche-orient_an-dieu": {
 "source": "wiki-sans-filtre"
+},
+"lieux-legendaires_atlantide": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_shangri-la": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_camelot": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_eden": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_lemurie": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_avalon": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_eldorado": {
+"source": "wiki-en"
+},
+"lieux-legendaires_hyperboreens": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_thule-mythologie": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_ys": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_broceliande": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_agartha": {
+"source": "wiki-en"
+},
+"lieux-legendaires_shambhala-mythe": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_cites-d-or": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_mu-continent": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_aztlan": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_ile-de-brasil": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_kitej": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_pays-de-pount": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_fontaine-de-jouvence": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_pays-de-cocagne": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_ile-de-saint-brendan": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_tour-de-babel": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_jerusalem-celeste": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_sodome-et-gomorrhe": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_iles-des-bienheureux": {
+"source": "wiki-en"
 }
 }

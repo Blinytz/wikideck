@@ -31,10 +31,32 @@ function jobModifierCollection(colSlug, message, muter) {
     const chemin = `data/${colSlug}.json`;
     const { texte, sha } = await getFichierTexte(chemin);
     const d = JSON.parse(texte);
+    const avant = d.cartes.length;
     muter(d);
+    // Une suppression retirait la carte sans renuméroter ni corriger
+    // l'effectif annoncé : chaque carte supprimée laissait un trou dans la
+    // numérotation et un compte faux dans collections.json — les deux que le
+    // contrôle final réclame. On renumérote systématiquement, c'est sans
+    // effet quand rien n'a bougé et ça répare tout seul.
+    d.cartes.forEach((c, i) => { c.numero = i + 1; });
     await putFichier(chemin,
       btoa(unescape(encodeURIComponent(JSON.stringify(d)))), message, sha);
+    if (d.cartes.length !== avant) await majEffectif(colSlug, d.cartes.length);
   });
+}
+
+// `nbCartes` de l'index doit suivre le fichier de collection, sinon l'app
+// affiche une progression fausse (« 44 / 45 » sur une collection complète).
+async function majEffectif(colSlug, nbCartes) {
+  const chemin = 'data/collections.json';
+  const { texte, sha } = await getFichierTexte(chemin);
+  const idx = JSON.parse(texte);
+  const entree = idx.collections.find(c => c.slug === colSlug);
+  if (!entree || entree.nbCartes === nbCartes) return;
+  entree.nbCartes = nbCartes;
+  await putFichier(chemin,
+    btoa(unescape(encodeURIComponent(JSON.stringify(idx, null, 1)))),
+    `Atelier : effectif ${colSlug} -> ${nbCartes}`, sha);
 }
 
 let collections = [];          // [{slug, nom, cartes:[...]}]

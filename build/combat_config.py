@@ -39,6 +39,11 @@ ROLES = {
     'personnages-de-fiction-celebres': 'attaque',
     'jeux-video-cultes': 'terrain',
     'films-cultes': 'terrain',
+    # Les lieux légendaires sortent des Créatures et légendes, mais n'en
+    # héritent pas : une cité perdue n'attaque pas, elle occupe le terrain.
+    # Même rôle et même déclencheur que les monuments, qu'ils rejoignent par
+    # la nature de ce qu'ils sont.
+    'lieux-legendaires': 'terrain',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -111,6 +116,7 @@ DECLENCHEURS = {
     'personnages-de-fiction-celebres': 'si au moins 2 cartes jouées ce tour partagent un tag',
     'jeux-video-cultes': "si l'adversaire n'a joué aucune carte Attaque",
     'films-cultes': 'au premier tour uniquement',
+    'lieux-legendaires': 'quand la Base passe sous 50 % de ses PV',
 }
 
 for _nouveau, _source in HERITAGES.items():

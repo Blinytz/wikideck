@@ -9,7 +9,7 @@
   {
    "slug": "dieux-et-figures-mythologiques-grecques",
    "nom": "Dieux et figures mythologiques grecques",
-   "nbCartes": 82,
+   "nbCartes": 81,
    "fichier": "data/dieux-et-figures-mythologiques-grecques.json"
   },
   {
@@ -51,7 +51,7 @@
   {
    "slug": "dynasties-regnantes",
    "nom": "Dynasties et maisons régnantes",
-   "nbCartes": 38,
+   "nbCartes": 37,
    "fichier": "data/dynasties-regnantes.json"
   },
   {
@@ -123,13 +123,13 @@
   {
    "slug": "tableaux-celebres",
    "nom": "Tableaux celebres",
-   "nbCartes": 109,
+   "nbCartes": 107,
    "fichier": "data/tableaux-celebres.json"
   },
   {
    "slug": "inventions-importantes",
    "nom": "Inventions importantes",
-   "nbCartes": 129,
+   "nbCartes": 128,
    "fichier": "data/inventions-importantes.json"
   },
   {
@@ -201,8 +201,14 @@
   {
    "slug": "creatures-et-legendes",
    "nom": "Creatures et legendes",
-   "nbCartes": 45,
+   "nbCartes": 38,
    "fichier": "data/creatures-et-legendes.json"
+  },
+  {
+   "slug": "lieux-legendaires",
+   "nom": "Lieux légendaires",
+   "nbCartes": 26,
+   "fichier": "data/lieux-legendaires.json"
   },
   {
    "slug": "classiques-du-cinema",

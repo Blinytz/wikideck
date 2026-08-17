@@ -17082,55 +17082,6 @@
    "editeLe": 1786981355679,
    "original": true
   },
-  "creatures-et-legendes_atlantide": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7619047619047619,
-   "editeLe": 1786981385876,
-   "original": true
-  },
-  "creatures-et-legendes_el-dorado-film-1966": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8888888888888888,
-   "editeLe": 1786981456479,
-   "original": true
-  },
-  "creatures-et-legendes_shangri-la": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.888888888888889,
-   "editeLe": 1786981504816,
-   "original": true
-  },
-  "creatures-et-legendes_camelot": {
-   "cx": 0.4444444444444445,
-   "cy": 0.5,
-   "w": 0.888888888888889,
-   "editeLe": 1786981525935,
-   "original": true
-  },
-  "creatures-et-legendes_eden": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8893229166666666,
-   "editeLe": 1786981559050,
-   "original": true
-  },
-  "creatures-et-legendes_lemurie": {
-   "cx": 0.42380952380952386,
-   "cy": 0.5,
-   "w": 0.761904761904762,
-   "editeLe": 1786981583915,
-   "original": true
-  },
-  "creatures-et-legendes_avalon": {
-   "cx": 0.5017534722222222,
-   "cy": 0.5,
-   "w": 0.5611111111111112,
-   "editeLe": 1786981773886,
-   "original": true
-  },
   "creatures-et-legendes_bete-du-gevaudan": {
    "cx": 0.7026974219346667,
    "cy": 0.3611502399343479,
@@ -17241,6 +17192,55 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786982801022,
+   "original": true
+  },
+  "lieux-legendaires_atlantide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7619047619047619,
+   "editeLe": 1786981385876,
+   "original": true
+  },
+  "lieux-legendaires_eldorado": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "editeLe": 1786981456479,
+   "original": true
+  },
+  "lieux-legendaires_shangri-la": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786981504816,
+   "original": true
+  },
+  "lieux-legendaires_camelot": {
+   "cx": 0.4444444444444445,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1786981525935,
+   "original": true
+  },
+  "lieux-legendaires_eden": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "editeLe": 1786981559050,
+   "original": true
+  },
+  "lieux-legendaires_lemurie": {
+   "cx": 0.42380952380952386,
+   "cy": 0.5,
+   "w": 0.761904761904762,
+   "editeLe": 1786981583915,
+   "original": true
+  },
+  "lieux-legendaires_avalon": {
+   "cx": 0.5017534722222222,
+   "cy": 0.5,
+   "w": 0.5611111111111112,
+   "editeLe": 1786981773886,
    "original": true
   }
  },
@@ -17704,8 +17704,8 @@
     "creatures-et-legendes_chupacabra",
     "creatures-et-legendes_basilic-mythologie",
     "creatures-et-legendes_rokh",
-    "creatures-et-legendes_el-dorado-film-1966",
-    "creatures-et-legendes_shangri-la",
+    "lieux-legendaires_eldorado",
+    "lieux-legendaires_shangri-la",
     "creatures-et-legendes_tarasque",
     "classiques-du-cinema_docteur-folamour",
     "classiques-du-cinema_macadam-cowboy",

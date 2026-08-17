@@ -17010,6 +17010,13 @@
    "cy": 0.4090919384057971,
    "w": 1,
    "editeLe": 1786980950047,
+   "original": true
+  },
+  "creatures-et-legendes_monstre-du-loch-ness": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786980954551,
    "original": false
   }
  },

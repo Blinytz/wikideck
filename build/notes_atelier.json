@@ -16936,10 +16936,17 @@
    "original": false
   },
   "creatures-et-legendes_dragon-oriental": {
-   "cx": 0.4006857638888889,
+   "cx": 0.375,
    "cy": 0.5,
-   "w": 0.7477777777777778,
-   "editeLe": 1786979141531,
+   "w": 0.75,
+   "editeLe": 1786979178640,
+   "original": true
+  },
+  "creatures-et-legendes_phenix": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.7017543859649124,
+   "editeLe": 1786979192065,
    "original": false
   }
  },

@@ -57,6 +57,14 @@ const originauxLocaux = {};
 // (Pages met ~1 min à republier)
 const RAW = `https://raw.githubusercontent.com/${DEPOT}/main/`;
 
+// … mais raw n'est PAS une origine à charger en masse : il limite le débit et
+// répond 429 dès qu'une page lui demande des centaines de fichiers. La grille
+// le faisait pour toute carte ayant un cadrage — 1 085 vignettes sur 3 660 —
+// et l'atelier mettait des minutes à s'afficher sur une bonne connexion.
+// raw ne sert donc plus que pendant la fenêtre où Pages n'a pas republié.
+const FRAICHEUR_RAW = 10 * 60 * 1000;
+const toutJuste = (cad) => cad && Date.now() - (cad.editeLe || 0) < FRAICHEUR_RAW;
+
 const $ = s => document.querySelector(s);
 
 /* ================= chargement ================= */
@@ -179,7 +187,8 @@ function rendreGrille() {
         const sel = selection.has(c.id) ? ' selectionnee' : '';
         const cad = notes.cadrages[c.id];
         const src = apercusLocaux[c.id]
-          || (cad ? `${RAW}${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
+          || (toutJuste(cad) ? `${RAW}${c.thumbUrl}?v=${cad.editeLe}`
+              : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
           <img src="${esc(src)}" loading="lazy" alt="">
@@ -453,14 +462,19 @@ async function ouvrirEditeur(carte) {
     return;
   }
   const cad = notes.cadrages[carte.id];
-  // ordre : original (raw = frais immédiatement) puis full (raw) puis full
-  // relatif — jamais d'échec juste parce que Pages n'a pas fini de republier
   const sources = [];
   // l'image enregistrée pendant cette session passe avant tout : c'est elle
   // qu'on vient de voir dans la vignette, elle ne doit pas être reperdue
   if (originauxLocaux[carte.id]) sources.push(originauxLocaux[carte.id]);
-  if (cad?.original) sources.push(RAW + cheminsDe(carte).orig);
-  sources.push(RAW + carte.imageUrl, carte.imageUrl);
+  // Puis Pages, qui répond toujours. raw ne passe devant que dans la minute
+  // qui suit une écriture, le temps que Pages republie — le reste du temps il
+  // est plus lent, et sous quota il renvoie 429 au lieu de l'image.
+  if (toutJuste(cad)) {
+    if (cad.original) sources.push(RAW + cheminsDe(carte).orig);
+    sources.push(RAW + carte.imageUrl);
+  }
+  if (cad?.original) sources.push(cheminsDe(carte).orig);
+  sources.push(carte.imageUrl, RAW + carte.imageUrl);
   let chargee = false;
   for (const s of sources) {
     try {
@@ -643,8 +657,8 @@ async function enregistrerCadrage() {
   const { full, thumb } = await editeur.exporter();
   const blobOriginal = (remplacement || !dejaOriginal)
     ? (remplacement ? await editeur.exporterOriginal()
-                    : await (await fetch(RAW + carte.imageUrl + `?v=${Date.now()}`)
-                             .catch(() => fetch(carte.imageUrl))).blob())
+                    : await (await fetch(carte.imageUrl + `?v=${Date.now()}`)
+                             .catch(() => fetch(RAW + carte.imageUrl))).blob())
     : null;
 
   // aperçu local : la grille l'affichera tant que la session est ouverte,

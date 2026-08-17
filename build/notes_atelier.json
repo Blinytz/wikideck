@@ -16947,7 +16947,7 @@
    "cy": 0.5,
    "w": 0.7017543859649124,
    "editeLe": 1786980445899,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_licorne": {
    "cx": 0.5045289855072462,
@@ -16961,49 +16961,49 @@
    "cy": 0.5,
    "w": 0.87890625,
    "editeLe": 1786980380671,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_kraken": {
    "cx": 0.49999999999999994,
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1786980601592,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_sirene-mythologie-grecque": {
    "cx": 0.5129132231404959,
    "cy": 0.5086174242424243,
    "w": 0.6611570247933884,
    "editeLe": 1786980628801,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_lycanthrope": {
    "cx": 0.5,
    "cy": 0.3768439874832365,
    "w": 1,
    "editeLe": 1786980654475,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_vampire": {
    "cx": 0.5,
    "cy": 0.28616446578631455,
    "w": 1,
    "editeLe": 1786980842972,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_golem": {
    "cx": 0.5,
    "cy": 0.390625,
    "w": 1,
    "editeLe": 1786980906133,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_yeti": {
    "cx": 0.6264254817145104,
    "cy": 0.5,
    "w": 0.7471490365709792,
    "editeLe": 1786980926848,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_bigfoot": {
    "cx": 0.5,
@@ -17017,21 +17017,21 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786980954551,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_chupacabra": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8893229166666666,
    "editeLe": 1786980983261,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_homme-papillon": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
    "editeLe": 1786981002806,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_basilic-mythologie": {
    "cx": 0.5250270003756573,
@@ -17045,28 +17045,28 @@
    "cy": 0.5,
    "w": 0.76171875,
    "editeLe": 1786981136349,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_rokh": {
    "cx": 0.48913333333333325,
    "cy": 0.5,
    "w": 0.8893333333333333,
    "editeLe": 1786981202290,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_fee": {
    "cx": 0.5,
    "cy": 0.478125,
    "w": 1,
    "editeLe": 1786981263744,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_elfe": {
    "cx": 0.5,
    "cy": 0.4671875,
    "w": 1,
    "editeLe": 1786981295852,
-   "original": false
+   "original": true
   },
   "creatures-et-legendes_gobelin-folklore": {
    "cx": 0.5,
@@ -17234,6 +17234,13 @@
    "cy": 0.26458333333333334,
    "w": 1,
    "editeLe": 1786982770477,
+   "original": true
+  },
+  "creatures-et-legendes_gnome": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786982801022,
    "original": true
   }
  },

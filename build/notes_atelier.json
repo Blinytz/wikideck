@@ -16997,6 +16997,20 @@
    "w": 1,
    "editeLe": 1786980906133,
    "original": false
+  },
+  "creatures-et-legendes_yeti": {
+   "cx": 0.6264254817145104,
+   "cy": 0.5,
+   "w": 0.7471490365709792,
+   "editeLe": 1786980926848,
+   "original": false
+  },
+  "creatures-et-legendes_bigfoot": {
+   "cx": 0.5,
+   "cy": 0.4090919384057971,
+   "w": 1,
+   "editeLe": 1786980950047,
+   "original": false
   }
  },
  "notes": [

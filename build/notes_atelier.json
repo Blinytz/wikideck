@@ -17879,6 +17879,20 @@
    "w": 1,
    "editeLe": 1787081527821,
    "original": true
+  },
+  "cinema-moderne_les-aventuriers-de-l-arche-perdue": {
+   "cx": 0.5036286157024794,
+   "cy": 0.48252212196539257,
+   "w": 0.8264462809917353,
+   "editeLe": 1787081537049,
+   "original": true
+  },
+  "cinema-moderne_retour-vers-le-futur": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1787081541122,
+   "original": false
   }
  },
  "notes": [

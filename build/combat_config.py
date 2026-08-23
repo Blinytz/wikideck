@@ -50,6 +50,9 @@ ROLES = {
     # Un objet mythique est ce qui PROTÈGE ou confère : le marteau, l'égide,
     # l'arche, le Graal. Défense.
     'objets-mythiques': 'defense',
+    # Une croyance n'attaque pas et n'occupe pas le terrain : elle ordonne et
+    # protege. Defense, comme les objets.
+    'croyances-et-notions-sacrees': 'defense',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -125,6 +128,7 @@ DECLENCHEURS = {
     'lieux-legendaires': 'quand la Base passe sous 50 % de ses PV',
     'evenements-mythiques': "quand une carte Terrain vient d'être détruite",
     'objets-mythiques': "quand elle est sur le point d'être détruite",
+    'croyances-et-notions-sacrees': 'si au moins 2 cartes jouées ce tour partagent un tag',
 }
 
 for _nouveau, _source in HERITAGES.items():

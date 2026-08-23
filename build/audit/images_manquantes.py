@@ -68,6 +68,13 @@ CHOISIES = {
     # la page « Anna Karenine » n'expose que la page de titre de l'edition
     # de 1878, trop petite ; le portrait de Vroubel est du sujet et lisible
     'Anna Karénine': ('commons', 'Anna Karenina Wrubel.jpg'),
+    # le taijitu est sur la page fr, mais son nom de fichier contient
+    # « symbol » et le filtre anti-logo l'ecartait : la carte tombait alors sur
+    # une photo de lagon rendue par la recherche web
+    'Yin et yang': ('commons', 'Yin and Yang symbol.svg'),
+    # aucune image ni sur fr ni sur en ; Pythagore est celui a qui la doctrine
+    # est attribuee en Occident, son buste capitolin fait l'affaire
+    'Métempsycose': ('commons', 'Kapitolinischer Pythagoras adjusted.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }
@@ -134,6 +141,9 @@ def main():
 
     restent = []
     for slug, x in vides:
+        # un fichier de CHOISIES a ete ouvert et verifie a la main : il ne doit
+        # pas repartir dans la note des images a relire
+        sur_mesure = x['titrePage'] in CHOISIES
         url = (choisie(x['titrePage']) or fr.get(x['titrePage'])
                or en.get(en_par_fr.get(x['titrePage'], ''))
                or commons(x['titrePage']))
@@ -152,7 +162,7 @@ def main():
             f = RACINE / rel
             f.parent.mkdir(parents=True, exist_ok=True)
             f.write_bytes(octets)
-        sources[x['id']] = {'source': 'wiki-sans-filtre'}
+        sources[x['id']] = {'source': 'choisie' if sur_mesure else 'wiki-sans-filtre'}
 
     if not essai:
         sources_f.write_text(json.dumps(sources, ensure_ascii=False, indent=0),

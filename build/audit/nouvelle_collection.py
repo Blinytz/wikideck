@@ -59,6 +59,32 @@ PLANS = {
         # traitent d'un LIVRE et non de l'événement ; « Fin du monde » et
         # « Cataclysme », qui sont des notions générales et non des récits.
     ),
+    'croyances-et-notions-sacrees': dict(
+        nom='Croyances et notions sacrées',
+        # Le Temps du reve n'etait ni un personnage, ni un lieu, ni un objet,
+        # ni un evenement : c'est un CADRE de croyance. Il fonde la collection.
+        transferts=[('mythologies-oceanie-ameriques', 'Temps du rêve')],
+        ajouts=[
+            ('Karma', 'Karma'),
+            ('Saṃsāra', 'Saṃsāra'),
+            ('Réincarnation', 'Réincarnation'),
+            ('Métempsycose', 'Métempsycose'),
+            ('Yin et yang', 'Yin et yang'),
+            ('Au-delà', 'Séjour des morts'),
+            ('Enfer', 'Enfer'),
+            ('Paradis', 'Paradis'),
+            ('Purgatoire', 'Purgatoire'),
+            ('Âme', 'Âme'),
+            ('Destin', 'Destin'),
+            ('Axis mundi', 'Axis mundi'),
+            ('Arbre de vie', 'Arbre de vie'),
+            ('Chamanisme', 'Chamanisme'),
+            ('Animisme', 'Animisme'),
+            ('Tabou', 'Tabou'),
+        ],
+        # Ecartes : Nirvana, Tao, Totem et Mana, qui sont des pages
+        # d'homonymie ; la Pesee du coeur, qui n'a pas d'article.
+    ),
     'objets-mythiques': dict(
         nom='Objets mythiques',
         transferts=[('mythologie-nordique', 'Mjöllnir')],

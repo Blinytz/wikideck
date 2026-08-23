@@ -291,7 +291,7 @@
   {
    "slug": "mythologies-oceanie-ameriques",
    "nom": "Mythologies océaniennes et amérindiennes",
-   "nbCartes": 25,
+   "nbCartes": 24,
    "fichier": "data/mythologies-oceanie-ameriques.json"
   },
   {
@@ -359,6 +359,12 @@
    "nom": "Objets mythiques",
    "nbCartes": 20,
    "fichier": "data/objets-mythiques.json"
+  },
+  {
+   "slug": "croyances-et-notions-sacrees",
+   "nom": "Croyances et notions sacrées",
+   "nbCartes": 17,
+   "fichier": "data/croyances-et-notions-sacrees.json"
   }
  ]
 }

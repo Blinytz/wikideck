@@ -31,18 +31,32 @@ def main():
                          .read_text(encoding='utf-8'))
     idx = json.loads((RACINE / 'data' / 'collections.json').read_text(encoding='utf-8'))
 
-    cibles, par_collection = [], {}
+    # Une carte reprise dans l'atelier a un cadrage : c'est la trace du passage
+    # de l'utilisateur. On la retire de la note — la reproposer effacerait son
+    # travail de la selection et lui ferait relire ce qu'il a deja tranche.
+    # (`images_sources.json` ne bouge pas lors d'un recadrage : le cadrage est
+    #  le seul temoin fiable.)
+    notes_deja = json.loads((RACINE / 'build' / 'notes_atelier.json')
+                            .read_text(encoding='utf-8'))
+    vues = set(notes_deja.get('cadrages', {})) | set(notes_deja.get('statuts', {}))
+
+    cibles, par_collection, epargnees = [], {}, 0
     for c in idx['collections']:
         d = json.loads((RACINE / c['fichier']).read_text(encoding='utf-8'))
         for x in d['cartes']:
             src = (sources.get(x['id']) or {}).get('source', '')
-            if src in DOUTEUSES:
-                cibles.append(x['id'])
-                par_collection[c['slug']] = par_collection.get(c['slug'], 0) + 1
+            if src not in DOUTEUSES:
+                continue
+            if x['id'] in vues:
+                epargnees += 1
+                continue
+            cibles.append(x['id'])
+            par_collection[c['slug']] = par_collection.get(c['slug'], 0) + 1
 
     for slug, n in sorted(par_collection.items(), key=lambda kv: -kv[1]):
         print(f'  {slug:<34} {n:>4}')
-    print(f'{len(cibles)} carte(s) à relire')
+    print(f'{len(cibles)} carte(s) à relire'
+          f" ({epargnees} deja reprises dans l'atelier, laissees de cote)")
 
     if essai:
         return

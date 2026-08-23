@@ -7656,7 +7656,7 @@
 "source": "wiki-fr"
 },
 "empires-et-civilisations_union-des-republiques-socialistes-sovietiques": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "empires-et-civilisations_califat-de-cordoue": {
 "source": "wiki-fr"
@@ -7695,7 +7695,7 @@
 "source": "bing"
 },
 "dynasties-regnantes_dynastie-shang": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "dynasties-regnantes_dynastie-zhou": {
 "source": "wiki-sans-filtre"
@@ -7974,13 +7974,13 @@
 "source": "wiki-fr"
 },
 "grandes-guerres_guerre-civile-syrienne": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "grandes-guerres_guerre-civile-yemenite": {
 "source": "bing"
 },
 "grandes-guerres_guerre-russo-ukrainienne": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "dinosaures-celebres_megalosaurus": {
 "source": "wiki-fr"
@@ -10988,9 +10988,6 @@
 "mythologies-oceanie-ameriques_hine-nui-te-po": {
 "source": "wiki-fr"
 },
-"mythologies-oceanie-ameriques_temps-du-reve": {
-"source": "wiki-fr"
-},
 "mythologies-oceanie-ameriques_serpent-arc-en-ciel": {
 "source": "wiki-fr"
 },
@@ -11376,7 +11373,7 @@
 "source": "wiki-sans-filtre"
 },
 "mythologies-proche-orient_an-dieu": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_atlantide": {
 "source": "wiki-fr"
@@ -11415,13 +11412,13 @@
 "source": "wiki-en"
 },
 "lieux-legendaires_shambhala-mythe": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_cites-d-or": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_mu-continent": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_aztlan": {
 "source": "wiki-fr"
@@ -11430,10 +11427,10 @@
 "source": "wiki-sans-filtre"
 },
 "lieux-legendaires_kitej": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_pays-de-pount": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_fontaine-de-jouvence": {
 "source": "wiki-fr"
@@ -11445,7 +11442,7 @@
 "source": "wiki-fr"
 },
 "lieux-legendaires_tour-de-babel": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "lieux-legendaires_jerusalem-celeste": {
 "source": "wiki-fr"
@@ -11628,7 +11625,7 @@
 "source": "wiki-sans-filtre"
 },
 "personnages-litterature_anna-karenine": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "personnages-cinema-serie_omar-little": {
 "source": "bing"
@@ -11662,5 +11659,56 @@
 },
 "objets-mythiques_caducee": {
 "source": "bing"
+},
+"croyances-et-notions-sacrees_temps-du-reve": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_karma": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_samsara": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_reincarnation": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_metempsycose": {
+"source": "choisie"
+},
+"croyances-et-notions-sacrees_yin-et-yang": {
+"source": "choisie"
+},
+"croyances-et-notions-sacrees_sejour-des-morts": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_enfer": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_paradis": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_purgatoire": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_ame": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_destin": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_axis-mundi": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_arbre-de-vie": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_chamanisme": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_animisme": {
+"source": "wiki-fr"
+},
+"croyances-et-notions-sacrees_tabou": {
+"source": "wiki-fr"
 }
 }

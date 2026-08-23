@@ -44,6 +44,12 @@ ROLES = {
     # Même rôle et même déclencheur que les monuments, qu'ils rejoignent par
     # la nature de ce qu'ils sont.
     'lieux-legendaires': 'terrain',
+    # Un événement mythique est ce qui FRAPPE — Ragnarök, le Déluge, la
+    # Titanomachie : ce sont des cataclysmes, pas des figures.
+    'evenements-mythiques': 'attaque',
+    # Un objet mythique est ce qui PROTÈGE ou confère : le marteau, l'égide,
+    # l'arche, le Graal. Défense.
+    'objets-mythiques': 'defense',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -117,6 +123,8 @@ DECLENCHEURS = {
     'jeux-video-cultes': "si l'adversaire n'a joué aucune carte Attaque",
     'films-cultes': 'au premier tour uniquement',
     'lieux-legendaires': 'quand la Base passe sous 50 % de ses PV',
+    'evenements-mythiques': "quand une carte Terrain vient d'être détruite",
+    'objets-mythiques': "quand elle est sur le point d'être détruite",
 }
 
 for _nouveau, _source in HERITAGES.items():

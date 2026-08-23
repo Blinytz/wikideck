@@ -237,7 +237,7 @@
   {
    "slug": "mythologie-nordique",
    "nom": "Mythologie nordique",
-   "nbCartes": 34,
+   "nbCartes": 32,
    "fichier": "data/mythologie-nordique.json"
   },
   {
@@ -297,37 +297,37 @@
   {
    "slug": "personnages-litterature",
    "nom": "Personnages de littérature",
-   "nbCartes": 56,
+   "nbCartes": 60,
    "fichier": "data/personnages-litterature.json"
   },
   {
    "slug": "personnages-cinema-serie",
    "nom": "Personnages de cinéma et de série",
-   "nbCartes": 47,
+   "nbCartes": 55,
    "fichier": "data/personnages-cinema-serie.json"
   },
   {
    "slug": "personnages-bd-comics",
    "nom": "Personnages de bande dessinée et de comics",
-   "nbCartes": 53,
+   "nbCartes": 55,
    "fichier": "data/personnages-bd-comics.json"
   },
   {
    "slug": "personnages-jeu-video",
    "nom": "Personnages de jeu vidéo",
-   "nbCartes": 49,
+   "nbCartes": 55,
    "fichier": "data/personnages-jeu-video.json"
   },
   {
    "slug": "personnages-animation",
    "nom": "Personnages d'animation",
-   "nbCartes": 46,
+   "nbCartes": 50,
    "fichier": "data/personnages-animation.json"
   },
   {
    "slug": "personnages-manga-anime",
    "nom": "Personnages de manga et d'anime",
-   "nbCartes": 36,
+   "nbCartes": 45,
    "fichier": "data/personnages-manga-anime.json"
   },
   {
@@ -347,6 +347,18 @@
    "nom": "Elements chimiques",
    "nbCartes": 118,
    "fichier": "data/elements-chimiques.json"
+  },
+  {
+   "slug": "evenements-mythiques",
+   "nom": "Événements mythiques",
+   "nbCartes": 11,
+   "fichier": "data/evenements-mythiques.json"
+  },
+  {
+   "slug": "objets-mythiques",
+   "nom": "Objets mythiques",
+   "nbCartes": 20,
+   "fichier": "data/objets-mythiques.json"
   }
  ]
 }

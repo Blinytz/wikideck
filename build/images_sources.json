@@ -10403,13 +10403,7 @@
 "mythologie-nordique_valkyrie": {
 "source": "wiki-fr"
 },
-"mythologie-nordique_ragnarok": {
-"source": "wiki-fr"
-},
 "mythologie-nordique_nornes": {
-"source": "wiki-fr"
-},
-"mythologie-nordique_mjollnir": {
 "source": "wiki-fr"
 },
 "mythologie-nordique_siegfried-mythologie": {
@@ -11476,5 +11470,197 @@
 },
 "dieux-et-figures-mythologiques-grecques_helene-mythologie": {
 "source": "wiki-sans-filtre"
+},
+"evenements-mythiques_ragnarok": {
+"source": "wiki-fr"
+},
+"objets-mythiques_mjollnir": {
+"source": "wiki-fr"
+},
+"personnages-litterature_emma-bovary": {
+"source": "wiki-sans-filtre"
+},
+"personnages-litterature_meursault": {
+"source": "wiki-sans-filtre"
+},
+"personnages-litterature_romeo-et-juliette": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_travis-bickle": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_amelie-poulain": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_jack-torrance": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_maximus": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_jack-bauer": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_oss-117": {
+"source": "wiki-sans-filtre"
+},
+"personnages-bd-comics_blake-et-mortimer": {
+"source": "wiki-sans-filtre"
+},
+"personnages-bd-comics_rahan": {
+"source": "wiki-sans-filtre"
+},
+"personnages-jeu-video_pyramid-head": {
+"source": "wiki-sans-filtre"
+},
+"personnages-jeu-video_2b": {
+"source": "wiki-sans-filtre"
+},
+"personnages-jeu-video_nemesis": {
+"source": "wiki-sans-filtre"
+},
+"personnages-jeu-video_cuphead-personnage": {
+"source": "wiki-sans-filtre"
+},
+"personnages-animation_wall-e-personnage": {
+"source": "wiki-sans-filtre"
+},
+"personnages-animation_vaiana": {
+"source": "wiki-sans-filtre"
+},
+"personnages-animation_stitch": {
+"source": "wiki-sans-filtre"
+},
+"personnages-animation_sulli": {
+"source": "wiki-sans-filtre"
+},
+"personnages-manga-anime_tanjiro-kamado": {
+"source": "wiki-sans-filtre"
+},
+"personnages-manga-anime_gojo-satoru": {
+"source": "wiki-sans-filtre"
+},
+"personnages-manga-anime_denji": {
+"source": "wiki-sans-filtre"
+},
+"personnages-manga-anime_lelouch-lamperouge": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_deluge": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_armageddon": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_jugement-dernier": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_guerre-de-troie": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_titanomachie": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_gigantomachie": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_travaux-d-heracles": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_jugement-de-paris": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_barattage-de-la-mer-de-lait": {
+"source": "wiki-sans-filtre"
+},
+"evenements-mythiques_bataille-de-kurukshetra": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_arche-de-noe": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_arche-d-alliance": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_excalibur": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_graal": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_table-ronde": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_durandal": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_toison-d-or": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_cheval-de-troie": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_boite-de-pandore": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_egide": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_corne-d-abondance": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_gungnir": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_draupnir": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_vajra": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_sampo": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_baton-de-moise": {
+"source": "wiki-sans-filtre"
+},
+"objets-mythiques_pierre-philosophale": {
+"source": "wiki-sans-filtre"
+},
+"personnages-litterature_anna-karenine": {
+"source": "wiki-sans-filtre"
+},
+"personnages-cinema-serie_omar-little": {
+"source": "bing"
+},
+"personnages-cinema-serie_e-t": {
+"source": "bing"
+},
+"personnages-jeu-video_sackboy": {
+"source": "bing"
+},
+"personnages-jeu-video_big-daddy": {
+"source": "bing"
+},
+"personnages-manga-anime_levi-ackerman": {
+"source": "bing"
+},
+"personnages-manga-anime_gon-freecss": {
+"source": "bing"
+},
+"personnages-manga-anime_killua-zoldyck": {
+"source": "bing"
+},
+"personnages-manga-anime_portgas-d-ace": {
+"source": "bing"
+},
+"personnages-manga-anime_shanks": {
+"source": "bing"
+},
+"objets-mythiques_joyeuse-epee": {
+"source": "wiki-fr"
+},
+"objets-mythiques_caducee": {
+"source": "bing"
 }
 }

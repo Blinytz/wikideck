@@ -65,6 +65,9 @@ CHOISIES = {
     'Mu (continent)': ('commons', 'Golden-age-mu-map.jpg'),
     'Kitej': ('commons', 'Kitezh.jpg'),
     'Shambhala (mythe)': ('commons', 'Shambhala.jpg'),
+    # la page « Anna Karenine » n'expose que la page de titre de l'edition
+    # de 1878, trop petite ; le portrait de Vroubel est du sujet et lisible
+    'Anna Karénine': ('commons', 'Anna Karenina Wrubel.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

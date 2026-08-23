@@ -58,7 +58,9 @@
   "personnages-manga-anime": "attaque",
   "merveilles-du-monde": "terrain",
   "pilotes-f1-champions-du-monde": "attaque",
-  "elements-chimiques": "terrain"
+  "elements-chimiques": "terrain",
+  "evenements-mythiques": "attaque",
+  "objets-mythiques": "defense"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -118,7 +120,9 @@
   "personnages-manga-anime": "si au moins 2 cartes jouées ce tour partagent un tag",
   "merveilles-du-monde": "au début du combat",
   "pilotes-f1-champions-du-monde": "après avoir gagné le duel du tour",
-  "elements-chimiques": "au début du combat"
+  "elements-chimiques": "au début du combat",
+  "evenements-mythiques": "quand une carte Terrain vient d'être détruite",
+  "objets-mythiques": "quand elle est sur le point d'être détruite"
  },
  "catalogueDeclencheurs": [
   "au début du combat",

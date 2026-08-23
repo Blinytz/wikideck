@@ -99,6 +99,15 @@ async function demarrer() {
 
   const bust = `?v=${Date.now()}`;
   const index = await (await fetch('data/collections.json' + bust)).json();
+  // Le total etait ecrit en dur dans atelier.html — « 2304 cartes » — et n'a
+  // plus rien dit des que le jeu a grossi. L'index le connait : on le lui
+  // demande des qu'il arrive, avant meme d'avoir telecharge les collections.
+  const attente = document.getElementById('chargement');
+  const total = index.collections.reduce((n, c) => n + (c.nbCartes || 0), 0);
+  if (attente) {
+    attente.textContent = `Chargement des ${total.toLocaleString('fr-FR')} cartes`
+      + ` de ${index.collections.length} collections…`;
+  }
   const fichiers = await Promise.all(index.collections.map(c =>
     fetch(c.fichier + bust).then(r => r.json())));
   collections = fichiers.map(f => ({ slug: f.slug, nom: f.collection, cartes: f.cartes }));

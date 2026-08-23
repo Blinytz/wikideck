@@ -7073,9 +7073,6 @@
 "dieux-et-figures-mythologiques-grecques_iris-mythologie": {
 "source": "wiki-fr"
 },
-"dieux-et-figures-mythologiques-grecques_les-muses": {
-"source": "wiki-fr"
-},
 "dieux-et-figures-mythologiques-grecques_heracles": {
 "source": "memo:mythologie"
 },
@@ -7107,9 +7104,6 @@
 "source": "wiki-fr"
 },
 "dieux-et-figures-mythologiques-grecques_paris": {
-"source": "wiki-fr"
-},
-"dieux-et-figures-mythologiques-grecques_helene-de-troie-rossetti": {
 "source": "wiki-fr"
 },
 "dieux-et-figures-mythologiques-grecques_agamemnon": {
@@ -10406,13 +10400,7 @@
 "mythologie-nordique_hugin-et-munin": {
 "source": "wiki-fr"
 },
-"mythologie-nordique_yggdrasil": {
-"source": "wiki-sans-filtre"
-},
 "mythologie-nordique_valkyrie": {
-"source": "wiki-fr"
-},
-"mythologie-nordique_valhalla": {
 "source": "wiki-fr"
 },
 "mythologie-nordique_ragnarok": {
@@ -10800,9 +10788,6 @@
 "source": "wiki-fr"
 },
 "mythologies-proche-orient_adad": {
-"source": "wiki-fr"
-},
-"mythologies-proche-orient_apsu": {
 "source": "wiki-fr"
 },
 "mythologies-proche-orient_lamashtu": {
@@ -11476,5 +11461,20 @@
 },
 "lieux-legendaires_iles-des-bienheureux": {
 "source": "wiki-en"
+},
+"lieux-legendaires_valhalla": {
+"source": "wiki-fr"
+},
+"lieux-legendaires_yggdrasil": {
+"source": "wiki-sans-filtre"
+},
+"lieux-legendaires_apsu": {
+"source": "wiki-fr"
+},
+"dieux-et-figures-mythologiques-grecques_muses": {
+"source": "wiki-sans-filtre"
+},
+"dieux-et-figures-mythologiques-grecques_helene-mythologie": {
+"source": "wiki-sans-filtre"
 }
 }

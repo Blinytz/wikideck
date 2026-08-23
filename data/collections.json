@@ -207,7 +207,7 @@
   {
    "slug": "lieux-legendaires",
    "nom": "Lieux légendaires",
-   "nbCartes": 26,
+   "nbCartes": 29,
    "fichier": "data/lieux-legendaires.json"
   },
   {
@@ -237,7 +237,7 @@
   {
    "slug": "mythologie-nordique",
    "nom": "Mythologie nordique",
-   "nbCartes": 36,
+   "nbCartes": 34,
    "fichier": "data/mythologie-nordique.json"
   },
   {
@@ -273,7 +273,7 @@
   {
    "slug": "mythologies-proche-orient",
    "nom": "Mythologies du Proche-Orient ancien",
-   "nbCartes": 32,
+   "nbCartes": 31,
    "fichier": "data/mythologies-proche-orient.json"
   },
   {

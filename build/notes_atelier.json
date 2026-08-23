@@ -7380,13 +7380,6 @@
    "editeLe": 1786210350493,
    "original": true
   },
-  "dieux-et-figures-mythologiques-grecques_les-muses": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7619047619047619,
-   "editeLe": 1786210466882,
-   "original": true
-  },
   "dieux-et-figures-mythologiques-grecques_heracles": {
    "cx": 0.5,
    "cy": 0.44322917040656595,
@@ -7455,13 +7448,6 @@
    "cy": 0.4516758669178019,
    "w": 0.6296733569460841,
    "editeLe": 1786211335260,
-   "original": true
-  },
-  "dieux-et-figures-mythologiques-grecques_helene-de-troie-rossetti": {
-   "cx": 0.5,
-   "cy": 0.4142329430883856,
-   "w": 1,
-   "editeLe": 1786211392407,
    "original": true
   },
   "dieux-et-figures-mythologiques-grecques_agamemnon": {
@@ -19868,13 +19854,6 @@
    "editeLe": 1787516371075,
    "original": true
   },
-  "mythologie-nordique_yggdrasil": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8888888888888888,
-   "editeLe": 1787516396783,
-   "original": true
-  },
   "mythologie-nordique_valkyrie": {
    "cx": 0.482421875,
    "cy": 0.5,
@@ -19882,11 +19861,18 @@
    "editeLe": 1787516431111,
    "original": true
   },
-  "mythologie-nordique_valhalla": {
+  "lieux-legendaires_valhalla": {
    "cx": 0.625,
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1787516470532,
+   "original": true
+  },
+  "lieux-legendaires_yggdrasil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "editeLe": 1787516396783,
    "original": true
   }
  },
@@ -20078,6 +20064,8 @@
     "corps-celestes_162173-ryugu",
     "corps-celestes_90377-sedna",
     "corps-celestes_51-pegasi-b",
+    "dieux-et-figures-mythologiques-grecques_muses",
+    "dieux-et-figures-mythologiques-grecques_helene-mythologie",
     "dieux-et-figures-mythologiques-grecques_minotaure",
     "souverains-et-conquerants_k-inich-janaab-pakal-ier",
     "souverains-et-conquerants_guillaume-ier-d-orange-nassau",
@@ -20152,7 +20140,6 @@
     "dynasties-regnantes_maison-de-habsbourg",
     "dynasties-regnantes_maison-de-hohenstaufen",
     "dynasties-regnantes_maison-de-hohenzollern",
-    "dynasties-regnantes_maison-de-savoie",
     "dynasties-regnantes_maison-d-orange-nassau",
     "dynasties-regnantes_maison-romanov",
     "dynasties-regnantes_maison-piast",
@@ -20350,9 +20337,16 @@
     "creatures-et-legendes_chupacabra",
     "creatures-et-legendes_basilic-mythologie",
     "creatures-et-legendes_rokh",
-    "lieux-legendaires_eldorado",
-    "lieux-legendaires_shangri-la",
     "creatures-et-legendes_tarasque",
+    "lieux-legendaires_shangri-la",
+    "lieux-legendaires_shambhala-mythe",
+    "lieux-legendaires_cites-d-or",
+    "lieux-legendaires_mu-continent",
+    "lieux-legendaires_ile-de-brasil",
+    "lieux-legendaires_kitej",
+    "lieux-legendaires_pays-de-pount",
+    "lieux-legendaires_tour-de-babel",
+    "lieux-legendaires_yggdrasil",
     "classiques-du-cinema_docteur-folamour",
     "classiques-du-cinema_macadam-cowboy",
     "classiques-du-cinema_le-salaire-de-la-peur",
@@ -20454,7 +20448,6 @@
     "mythologie-nordique_freyr",
     "mythologie-nordique_jormungand",
     "mythologie-nordique_njord",
-    "mythologie-nordique_yggdrasil",
     "mythologie-egyptienne_re",
     "mythologie-egyptienne_horus",
     "mythologie-egyptienne_seth",
@@ -20601,7 +20594,7 @@
    ],
    "statut": "ouverte",
    "creeLe": 1785704271989,
-   "majLe": 1785704271989
+   "majLe": 1787517008966
   },
   {
    "id": "n1786210673307",

@@ -21960,6 +21960,20 @@
    "w": 0.4656909922943663,
    "editeLe": 1787821984642,
    "original": true
+  },
+  "personnages-litterature_hamlet-personnage": {
+   "cx": 0.49999999999999994,
+   "cy": 0.32048828125,
+   "w": 0.9999999999999999,
+   "editeLe": 1787821991187,
+   "original": true
+  },
+  "personnages-litterature_faust": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1787821995310,
+   "original": false
   }
  },
  "notes": [

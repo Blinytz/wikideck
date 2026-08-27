@@ -297,7 +297,7 @@
   {
    "slug": "personnages-litterature",
    "nom": "Personnages de littérature",
-   "nbCartes": 60,
+   "nbCartes": 59,
    "fichier": "data/personnages-litterature.json"
   },
   {

@@ -23276,6 +23276,13 @@
    "w": 1,
    "editeLe": 1787868842246,
    "original": true
+  },
+  "personnages-animation_bart-simpson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "editeLe": 1787868859161,
+   "original": false
   }
  },
  "notes": [

@@ -22886,17 +22886,17 @@
    "original": true
   },
   "personnages-jeu-video_cloud-strife": {
-   "cx": 0.5,
+   "cx": 0.49999999999999994,
    "cy": 0.5,
-   "w": 0.7511111111111112,
-   "editeLe": 1787853059574,
+   "w": 0.75,
+   "editeLe": 1787866720026,
    "original": true
   },
   "personnages-jeu-video_sephiroth-final-fantasy": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "editeLe": 1787853112477,
+   "editeLe": 1787866724287,
    "original": true
   },
   "personnages-jeu-video_chun-li": {

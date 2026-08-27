@@ -303,7 +303,7 @@
   {
    "slug": "personnages-cinema-serie",
    "nom": "Personnages de cinéma et de série",
-   "nbCartes": 54,
+   "nbCartes": 53,
    "fichier": "data/personnages-cinema-serie.json"
   },
   {

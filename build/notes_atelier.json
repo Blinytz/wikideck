@@ -1,6 +1,8 @@
 {
  "version": 1,
- "statuts": {},
+ "statuts": {
+  "races-de-chat_maine-coon": "revoir"
+ },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
    "cx": 0.48827284946236554,

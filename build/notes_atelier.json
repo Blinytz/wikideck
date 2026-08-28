@@ -16337,9 +16337,9 @@
   },
   "races-de-chat_maine-coon": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8866666666666667,
-   "editeLe": 1787949388789,
+   "cy": 0.5000000000000001,
+   "w": 0.890357086676105,
+   "editeLe": 1787949448803,
    "original": true
   },
   "races-de-chat_persan-chat": {

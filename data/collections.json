@@ -33,7 +33,7 @@
   {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
-   "nbCartes": 79,
+   "nbCartes": 90,
    "fichier": "data/monuments-emblematiques.json"
   },
   {
@@ -45,7 +45,7 @@
   {
    "slug": "empires-et-civilisations",
    "nom": "Empires et civilisations",
-   "nbCartes": 60,
+   "nbCartes": 77,
    "fichier": "data/empires-et-civilisations.json"
   },
   {
@@ -63,7 +63,7 @@
   {
    "slug": "grandes-guerres",
    "nom": "Grandes guerres",
-   "nbCartes": 59,
+   "nbCartes": 66,
    "fichier": "data/grandes-guerres.json"
   },
   {
@@ -105,7 +105,7 @@
   {
    "slug": "scientifiques-celebres",
    "nom": "Scientifiques celebres",
-   "nbCartes": 160,
+   "nbCartes": 181,
    "fichier": "data/scientifiques-celebres.json"
   },
   {
@@ -117,7 +117,7 @@
   {
    "slug": "grands-peintres",
    "nom": "Grands peintres",
-   "nbCartes": 119,
+   "nbCartes": 120,
    "fichier": "data/grands-peintres.json"
   },
   {
@@ -129,7 +129,7 @@
   {
    "slug": "inventions-importantes",
    "nom": "Inventions importantes",
-   "nbCartes": 128,
+   "nbCartes": 139,
    "fichier": "data/inventions-importantes.json"
   },
   {

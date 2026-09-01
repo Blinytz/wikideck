@@ -24328,6 +24328,20 @@
    "w": 0.60745775890609,
    "editeLe": 1788293229490,
    "original": true
+  },
+  "grandes-guerres_guerres-d-independance-hispano-americaines": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7766666666666667,
+   "editeLe": 1788293284699,
+   "original": true
+  },
+  "grandes-guerres_revolution-haitienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788293288725,
+   "original": false
   }
  },
  "notes": [

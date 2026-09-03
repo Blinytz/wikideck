@@ -9,13 +9,13 @@
   {
    "slug": "dieux-et-figures-mythologiques-grecques",
    "nom": "Dieux et figures mythologiques grecques",
-   "nbCartes": 81,
+   "nbCartes": 82,
    "fichier": "data/dieux-et-figures-mythologiques-grecques.json"
   },
   {
    "slug": "souverains-et-conquerants",
    "nom": "Souverains et conquérants",
-   "nbCartes": 90,
+   "nbCartes": 91,
    "fichier": "data/souverains-et-conquerants.json"
   },
   {
@@ -365,6 +365,78 @@
    "nom": "Croyances et notions sacrées",
    "nbCartes": 16,
    "fichier": "data/croyances-et-notions-sacrees.json"
+  },
+  {
+   "slug": "grands-compositeurs",
+   "nom": "Grands compositeurs",
+   "nbCartes": 60,
+   "fichier": "data/grands-compositeurs.json"
+  },
+  {
+   "slug": "oeuvres-musicales",
+   "nom": "Œuvres musicales majeures",
+   "nbCartes": 45,
+   "fichier": "data/oeuvres-musicales.json"
+  },
+  {
+   "slug": "musique-populaire",
+   "nom": "Musique populaire",
+   "nbCartes": 60,
+   "fichier": "data/musique-populaire.json"
+  },
+  {
+   "slug": "sculptures-celebres",
+   "nom": "Sculptures célèbres",
+   "nbCartes": 22,
+   "fichier": "data/sculptures-celebres.json"
+  },
+  {
+   "slug": "architectes",
+   "nom": "Architectes",
+   "nbCartes": 29,
+   "fichier": "data/architectes.json"
+  },
+  {
+   "slug": "champignons",
+   "nom": "Champignons",
+   "nbCartes": 35,
+   "fichier": "data/champignons.json"
+  },
+  {
+   "slug": "arbres",
+   "nom": "Arbres",
+   "nbCartes": 40,
+   "fichier": "data/arbres.json"
+  },
+  {
+   "slug": "fleurs",
+   "nom": "Fleurs",
+   "nbCartes": 40,
+   "fichier": "data/fleurs.json"
+  },
+  {
+   "slug": "plantes-cultivees",
+   "nom": "Plantes cultivées",
+   "nbCartes": 39,
+   "fichier": "data/plantes-cultivees.json"
+  },
+  {
+   "slug": "fromages",
+   "nom": "Fromages",
+   "nbCartes": 38,
+   "fichier": "data/fromages.json"
+  },
+  {
+   "slug": "plats-francais",
+   "nom": "Plats français",
+   "nbCartes": 59,
+   "fichier": "data/plats-francais.json"
+  },
+  {
+   "slug": "cuisines-du-monde",
+   "nom": "Cuisines du monde",
+   "nbCartes": 64,
+   "fichier": "data/cuisines-du-monde.json"
   }
  ]
 }

@@ -53,6 +53,28 @@ ROLES = {
     # Une croyance n'attaque pas et n'occupe pas le terrain : elle ordonne et
     # protege. Defense, comme les objets.
     'croyances-et-notions-sacrees': 'defense',
+    # Musique : le compositeur soutient et amplifie (defense), l'oeuvre pose
+    # le decor du tour (terrain), l'interprete populaire emporte le duel
+    # (attaque).
+    'grands-compositeurs': 'defense',
+    'oeuvres-musicales': 'terrain',
+    'musique-populaire': 'attaque',
+    # Une sculpture occupe l'espace : terrain, comme les monuments.
+    # Un architecte batit et protege : defense.
+    'sculptures-celebres': 'terrain',
+    'architectes': 'defense',
+    # Un champignon agit par ce qu'il libere : attaque. Un arbre tient le
+    # terrain, au sens propre.
+    'champignons': 'attaque',
+    'arbres': 'terrain',
+    # Une fleur seduit et desarme (defense), une plante cultivee nourrit la
+    # base (terrain), un fromage se partage a table (defense).
+    'fleurs': 'defense',
+    'plantes-cultivees': 'terrain',
+    'fromages': 'defense',
+    # Un plat restaure : defense, comme les fromages.
+    'plats-francais': 'defense',
+    'cuisines-du-monde': 'defense',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -129,6 +151,18 @@ DECLENCHEURS = {
     'evenements-mythiques': "quand une carte Terrain vient d'être détruite",
     'objets-mythiques': "quand elle est sur le point d'être détruite",
     'croyances-et-notions-sacrees': 'si au moins 2 cartes jouées ce tour partagent un tag',
+    'grands-compositeurs': 'au début du combat',
+    'oeuvres-musicales': 'au premier tour uniquement',
+    'musique-populaire': 'après avoir gagné le duel du tour',
+    'sculptures-celebres': 'quand la Base passe sous 50 % de ses PV',
+    'architectes': 'si au moins 2 cartes du même type sont jouées ce tour',
+    'champignons': 'si une autre carte de sa collection est en jeu',
+    'arbres': 'si elle survit 2 tours',
+    'fleurs': "si le joueur a moins de cartes en main que l'adversaire",
+    'plantes-cultivees': 'au début du combat',
+    'fromages': 'si une autre carte de sa collection est en jeu',
+    'plats-francais': 'quand la Base passe sous 50 % de ses PV',
+    'cuisines-du-monde': 'quand la Base passe sous 50 % de ses PV',
 }
 
 for _nouveau, _source in HERITAGES.items():

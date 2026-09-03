@@ -75,6 +75,13 @@ CHOISIES = {
     # aucune image ni sur fr ni sur en ; Pythagore est celui a qui la doctrine
     # est attribuee en Occident, son buste capitolin fait l'affaire
     'Métempsycose': ('commons', 'Kapitolinischer Pythagoras adjusted.jpg'),
+    # La page fr d'Hebe prend en tete un vase ou Zeus enleve Ganymede, celui
+    # qui la REMPLACE comme echanson : le sujet de la carte n'y est pas. Le
+    # tableau de Landi la montre elle, dans sa fonction.
+    'Hébé': ('commons', 'Hebe, Cup-bearer of the Gods - Gaspare Landi (1790).jpg'),
+    # La page ne propose qu'un denier de trois centimetres, illisible en
+    # vignette ; le tableau de Bouguereau montre la reine.
+    'Septimia Bathzabbai Zénobie': ('commons', 'Bouguereau-Zenobia-1850.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

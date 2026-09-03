@@ -31,6 +31,18 @@ AJOUTS = {
     # sciences humaines aucune : ni economie, ni linguistique, ni sociologie,
     # ni anthropologie. Second angle mort : l'Antiquite et le monde medieval
     # non europeen, alors qu'Al-Khwarizmi et Ibn Sina y figuraient deja.
+    # Deux cartes demandees a la lecture de l'atelier. Zenobie manquait alors
+    # que Boadicee, Cleopatre et Amanitore y figurent : la reine de Palmyre est
+    # du meme registre, souveraine qui tient tete a Rome.
+    'souverains-et-conquerants': [
+        # « Zenobie » seul est une page d'homonymie
+        ('Zénobie', 'Septimia Bathzabbai Zénobie'),
+    ],
+    # Hebe manquait au pantheon grec, alors que Hestia, Selene et Helios y sont :
+    # elle est l'echanson des dieux, fille de Zeus et d'Hera.
+    'dieux-et-figures-mythologiques-grecques': [
+        ('Hébé', 'Hébé'),
+    ],
     'scientifiques-celebres': [
         ('Adam Smith', 'Adam Smith'),
         ('Karl Marx', 'Karl Marx'),

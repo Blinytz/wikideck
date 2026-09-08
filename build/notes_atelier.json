@@ -26289,6 +26289,20 @@
    "w": 1,
    "editeLe": 1788902203487,
    "original": true
+  },
+  "arbres_sapin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "editeLe": 1788902250778,
+   "original": true
+  },
+  "arbres_pin-parasol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8933333333333333,
+   "editeLe": 1788902253923,
+   "original": false
   }
  },
  "notes": [

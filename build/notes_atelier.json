@@ -25638,6 +25638,20 @@
    "w": 0.6836876402093792,
    "editeLe": 1788900417617,
    "original": true
+  },
+  "architectes_antoni-gaudi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1788900495613,
+   "original": true
+  },
+  "architectes_le-corbusier": {
+   "cx": 0.5,
+   "cy": 0.4640625238418579,
+   "w": 1,
+   "editeLe": 1788900498539,
+   "original": false
   }
  },
  "notes": [

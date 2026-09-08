@@ -25862,6 +25862,13 @@
    "w": 1,
    "editeLe": 1788900891012,
    "original": true
+  },
+  "champignons_truffe-champignon": {
+   "cx": 0.50625,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1788900945133,
+   "original": true
   }
  },
  "notes": [

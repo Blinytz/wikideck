@@ -26121,6 +26121,20 @@
    "w": 0.8337777777777777,
    "editeLe": 1788901524351,
    "original": true
+  },
+  "arbres_pin-sylvestre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1788901540149,
+   "original": true
+  },
+  "arbres_cedre-du-liban": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901542578,
+   "original": false
   }
  },
  "notes": [

@@ -25091,6 +25091,13 @@
    "cy": 0.2911601637303829,
    "w": 1,
    "editeLe": 1788898730851,
+   "original": true
+  },
+  "musique-populaire_elvis-presley": {
+   "cx": 0.5,
+   "cy": 0.3171484375,
+   "w": 1,
+   "editeLe": 1788898734477,
    "original": false
   }
  },

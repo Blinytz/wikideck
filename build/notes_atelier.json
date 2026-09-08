@@ -25231,6 +25231,20 @@
    "cy": 0.40789453125,
    "w": 1,
    "editeLe": 1788899022019,
+   "original": true
+  },
+  "musique-populaire_edith-piaf": {
+   "cx": 0.5,
+   "cy": 0.40192307692307694,
+   "w": 1,
+   "editeLe": 1788899026454,
+   "original": false
+  },
+  "musique-populaire_jacques-brel": {
+   "cx": 0.5,
+   "cy": 0.44375,
+   "w": 1,
+   "editeLe": 1788899030070,
    "original": false
   }
  },

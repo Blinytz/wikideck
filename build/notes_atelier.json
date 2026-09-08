@@ -25798,6 +25798,13 @@
    "cy": 0.32298828125,
    "w": 1,
    "editeLe": 1788900721427,
+   "original": true
+  },
+  "architectes_santiago-calatrava-valls": {
+   "cx": 0.5,
+   "cy": 0.445537109375,
+   "w": 1,
+   "editeLe": 1788900725917,
    "original": false
   }
  },

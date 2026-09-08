@@ -26310,6 +26310,20 @@
    "w": 0.8893229166666666,
    "editeLe": 1788902342354,
    "original": true
+  },
+  "arbres_sequoia-sempervirens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8846153846153846,
+   "editeLe": 1788902360823,
+   "original": true
+  },
+  "arbres_dragonnier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902363935,
+   "original": false
   }
  },
  "notes": [

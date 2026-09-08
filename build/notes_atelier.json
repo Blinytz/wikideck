@@ -25953,6 +25953,20 @@
    "w": 1,
    "editeLe": 1788901129753,
    "original": true
+  },
+  "champignons_chanterelle": {
+   "cx": 0.5866666666666666,
+   "cy": 0.5,
+   "w": 0.8266666666666667,
+   "editeLe": 1788901156817,
+   "original": true
+  },
+  "champignons_trompette-de-la-mort": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901159754,
+   "original": false
   }
  },
  "notes": [

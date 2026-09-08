@@ -25904,6 +25904,20 @@
    "w": 0.7513148009015775,
    "editeLe": 1788901075683,
    "original": true
+  },
+  "champignons_agaricus-bisporus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901096920,
+   "original": true
+  },
+  "champignons_lentinula-edodes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901101534,
+   "original": false
   }
  },
  "notes": [

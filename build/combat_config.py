@@ -69,7 +69,9 @@ ROLES = {
     'champions-olympiques': 'attaque',
     'jeux-olympiques': 'terrain',
     'legendes-du-sport': 'attaque',
-    'conquete-spatiale': 'attaque',
+    'astronautes-et-cosmonautes': 'attaque',
+    # la collection ne garde que des engins et des lieux : terrain
+    'conquete-spatiale': 'terrain',
     'mineraux-et-pierres': 'defense',
     'villes-du-monde': 'terrain',
     'montagnes-et-volcans': 'terrain',
@@ -187,6 +189,7 @@ DECLENCHEURS = {
     'champions-olympiques': 'si la carte adverse a une rareté inférieure',
     'jeux-olympiques': 'si au moins 2 cartes de sport sont en jeu',
     'legendes-du-sport': 'si la ligne compte au moins 2 cartes',
+    'astronautes-et-cosmonautes': 'si un engin spatial allié est en jeu',
     'conquete-spatiale': 'si un corps céleste est en jeu',
     'mineraux-et-pierres': 'si la carte a survécu à un tour complet',
     'villes-du-monde': 'si la ligne compte au moins 3 cartes',

@@ -4622,21 +4622,6 @@
 "dynasties-regnantes_califat-abbasside": {
 "source": "memo:civilisations"
 },
-"pionniers-de-lextreme_valentina-terechkova": {
-"source": "wiki-fr"
-},
-"pionniers-de-lextreme_michael-collins-astronaute": {
-"source": "wiki-fr"
-},
-"pionniers-de-lextreme_sally-ride": {
-"source": "wiki-fr"
-},
-"pionniers-de-lextreme_eileen-collins": {
-"source": "wiki-fr"
-},
-"pionniers-de-lextreme_chris-hadfield": {
-"source": "wiki-fr"
-},
 "pionniers-de-lextreme_felix-baumgartner": {
 "source": "wiki-fr"
 },
@@ -4657,15 +4642,6 @@
 },
 "pionniers-de-lextreme_tensing-norgay": {
 "source": "wiki-fr"
-},
-"pionniers-de-lextreme_youri-gagarine": {
-"source": "wiki-fr"
-},
-"pionniers-de-lextreme_neil-armstrong": {
-"source": "memo:grandes_explorations"
-},
-"pionniers-de-lextreme_buzz-aldrin": {
-"source": "wiki-sans-filtre"
 },
 "pionniers-de-lextreme_auguste-piccard": {
 "source": "wiki-fr"
@@ -8263,9 +8239,6 @@
 },
 "pionniers-de-lextreme_paul-emile-victor": {
 "source": "wiki-sans-filtre"
-},
-"pionniers-de-lextreme_alexei-leonov": {
-"source": "wiki-fr"
 },
 "pionniers-de-lextreme_ranulph-fiennes": {
 "source": "wiki-fr"
@@ -14852,12 +14825,6 @@
 "conquete-spatiale_spoutnik-1": {
 "source": "wiki-sans-filtre"
 },
-"conquete-spatiale_alan-shepard": {
-"source": "wiki-sans-filtre"
-},
-"conquete-spatiale_john-glenn": {
-"source": "wiki-sans-filtre"
-},
 "conquete-spatiale_apollo-8": {
 "source": "wiki-sans-filtre"
 },
@@ -14871,9 +14838,6 @@
 "source": "wiki-sans-filtre"
 },
 "conquete-spatiale_programme-vostok": {
-"source": "wiki-sans-filtre"
-},
-"conquete-spatiale_laika": {
 "source": "wiki-sans-filtre"
 },
 "conquete-spatiale_saturn-v": {
@@ -14946,9 +14910,6 @@
 "source": "wiki-sans-filtre"
 },
 "conquete-spatiale_cap-canaveral": {
-"source": "wiki-sans-filtre"
-},
-"conquete-spatiale_thomas-pesquet": {
 "source": "wiki-sans-filtre"
 },
 "conquete-spatiale_chang-e-4": {
@@ -16033,5 +15994,227 @@
 },
 "series-televisees_fargo-serie-televisee": {
 "source": "attente"
+},
+"astronautes-et-cosmonautes_alan-shepard": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_john-glenn": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_laika": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_thomas-pesquet": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_youri-gagarine": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_valentina-terechkova": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_neil-armstrong": {
+"source": "memo:grandes_explorations"
+},
+"astronautes-et-cosmonautes_buzz-aldrin": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_michael-collins-astronaute": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_alexei-leonov": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_sally-ride": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_eileen-collins": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_chris-hadfield": {
+"source": "wiki-fr"
+},
+"astronautes-et-cosmonautes_sophie-adenot": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_jean-loup-chretien": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_claudie-haignere": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_jean-francois-clervoy": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_michel-tognini": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_leopold-eyharts": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_philippe-perrin": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_patrick-baudry": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_virgil-grissom": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_walter-schirra": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_gordon-cooper": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_donald-slayton": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_scott-carpenter": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_james-lovell": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_frank-borman": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_william-anders": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_charles-conrad": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_alan-bean": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_charles-duke": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_john-young-astronaute": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_eugene-cernan": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_harrison-schmitt": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_david-scott": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_jack-swigert": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_fred-haise": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_guerman-titov": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_vladimir-komarov": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_svetlana-savitskaia": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_guennadi-padalka": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_serguei-krikaliov": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_valeri-poliakov": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_mae-jemison": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_guion-bluford": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_kathryn-d-sullivan": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_peggy-whitson": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_christina-koch": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_jessica-meir": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_sunita-williams": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_scott-kelly": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_samantha-cristoforetti": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_luca-parmitano": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_alexander-gerst": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_timothy-peake": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_helen-sharman": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_sigmund-jahn": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_ulf-merbold": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_franz-viehbock": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_thomas-reiter": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_yang-liwei": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_rakesh-sharma": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_roberta-bondar": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_marc-garneau": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_julie-payette": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_dennis-tito": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_anousheh-ansari": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_felicette": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_ham-chimpanze": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_belka-et-strelka": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_enos-chimpanze": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_baker-singe-ecureuil": {
+"source": "wiki-sans-filtre"
+},
+"astronautes-et-cosmonautes_jean-pierre-haignere": {
+"source": "choisie-faute-de-mieux"
 }
 }

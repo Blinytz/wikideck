@@ -188,6 +188,12 @@ CHOISIES = {
     "Convention relative aux droits de l'enfant": ('faute-de-mieux', 'Convention on the Rights of the Child (UNCRC).jpg'),
     # le couturier ou sa maison
     'Emilio Pucci': ('faute-de-mieux', 'Felgekleurde gedessineerde zijden japon in overwegend roze en groen, ‘Emilio Pucci’, objectnr 75236-1.JPG'),
+    # La page fr de Jean-Pierre Haignere n'a pas d'image de tete, et la
+    # recherche par nom ne rendait que des photos de Claudie Haignere.
+    # Son seul portrait libre fait 111 px de large. La photo d'equipage de
+    # Soyouz TM-29, dont il etait le commandant, est lisible mais montre
+    # trois hommes : la carte part a relire.
+    'Jean-Pierre Haigneré': ('faute-de-mieux', 'Soyuz TM-29 Crew Portrait.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

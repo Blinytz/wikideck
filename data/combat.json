@@ -85,7 +85,7 @@
   "champions-olympiques": "attaque",
   "jeux-olympiques": "terrain",
   "legendes-du-sport": "attaque",
-  "conquete-spatiale": "attaque",
+  "conquete-spatiale": "terrain",
   "mineraux-et-pierres": "defense",
   "vehicules-mythiques": "terrain",
   "langues-du-monde": "defense",
@@ -93,7 +93,8 @@
   "mode-et-couturiers": "defense",
   "instruments-de-musique": "attaque",
   "races-de-cheval": "attaque",
-  "series-televisees": "terrain"
+  "series-televisees": "terrain",
+  "astronautes-et-cosmonautes": "attaque"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -188,7 +189,8 @@
   "mode-et-couturiers": "si la carte a survécu à un tour complet",
   "instruments-de-musique": "si une œuvre musicale est en jeu",
   "races-de-cheval": "si aucun terrain adverse n'est en jeu",
-  "series-televisees": "si la même collection occupe déjà une ligne"
+  "series-televisees": "si la même collection occupe déjà une ligne",
+  "astronautes-et-cosmonautes": "si un engin spatial allié est en jeu"
  },
  "catalogueDeclencheurs": [
   "au début du combat",

@@ -87,7 +87,7 @@
   {
    "slug": "pionniers-de-lextreme",
    "nom": "Pionniers de l'extrême",
-   "nbCartes": 38,
+   "nbCartes": 29,
    "fichier": "data/pionniers-de-lextreme.json"
   },
   {
@@ -507,7 +507,7 @@
   {
    "slug": "conquete-spatiale",
    "nom": "Conquête spatiale",
-   "nbCartes": 37,
+   "nbCartes": 33,
    "fichier": "data/conquete-spatiale.json"
   },
   {
@@ -557,6 +557,12 @@
    "nom": "Séries télévisées",
    "nbCartes": 57,
    "fichier": "data/series-televisees.json"
+  },
+  {
+   "slug": "astronautes-et-cosmonautes",
+   "nom": "Astronautes et cosmonautes",
+   "nbCartes": 74,
+   "fichier": "data/astronautes-et-cosmonautes.json"
   }
  ]
 }

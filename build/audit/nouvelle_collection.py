@@ -1768,6 +1768,102 @@ PLANS = {
             ('Falabella', 'Falabella'),
         ],
     ),
+    'astronautes-et-cosmonautes': dict(
+        nom='Astronautes et cosmonautes',
+        # « Conquete spatiale » melangeait les ENGINS et les GENS. Les gens
+        # partent ici, les fusees, sondes, stations, agences et pas de tir
+        # restent la-bas. Meme regle que pour le Valhalla : ce qui n'est pas
+        # de la meme nature ne partage pas la collection.
+        #
+        # Les transferts viennent de deux endroits. De « Conquete spatiale »
+        # d'abord. Des « Pionniers de l'extreme » ensuite, ou Gagarine et
+        # Armstrong voisinaient avec Amundsen et Cousteau : le vol spatial est
+        # bien de l'exploration extreme, mais il fait desormais collection.
+        # Baumgartner et les Piccard restent pionniers, ils sont montes en
+        # ballon ou en stratosphere, pas en orbite. Yeager, Crossfield et
+        # Fossett restent aviateurs : aucun n'a atteint l'espace.
+        #
+        # Les animaux sont ici, avec les equipages, parce qu'ils ont vole :
+        # Laika, Felicette, Ham, Belka et Strelka, Enos, Baker.
+        transferts=[
+            ('conquete-spatiale', 'Alan Shepard'),
+            ('conquete-spatiale', 'John Glenn'),
+            ('conquete-spatiale', 'Laïka'),
+            ('conquete-spatiale', 'Thomas Pesquet'),
+            ('pionniers-de-lextreme', 'Youri Gagarine'),
+            ('pionniers-de-lextreme', 'Valentina Terechkova'),
+            ('pionniers-de-lextreme', 'Neil Armstrong'),
+            ('pionniers-de-lextreme', 'Buzz Aldrin'),
+            ('pionniers-de-lextreme', 'Michael Collins'),
+            ('pionniers-de-lextreme', 'Alexeï Leonov'),
+            ('pionniers-de-lextreme', 'Sally Ride'),
+            ('pionniers-de-lextreme', 'Eileen Collins'),
+            ('pionniers-de-lextreme', 'Chris Hadfield'),
+        ],
+        ajouts=[
+            ('Sophie Adenot', 'Sophie Adenot'),
+            ('Jean-Loup Chrétien', 'Jean-Loup Chrétien'),
+            ('Claudie Haigneré', 'Claudie Haigneré'),
+            ('Jean-François Clervoy', 'Jean-François Clervoy'),
+            ('Michel Tognini', 'Michel Tognini'),
+            ('Léopold Eyharts', 'Léopold Eyharts'),
+            ('Philippe Perrin', 'Philippe Perrin'),
+            ('Patrick Baudry', 'Patrick Baudry'),
+            ('Jean-Pierre Haigneré', 'Jean-Pierre Haigneré'),
+            ('Gus Grissom', 'Gus Grissom'),
+            ('Wally Schirra', 'Wally Schirra'),
+            ('Gordon Cooper', 'Gordon Cooper'),
+            ('Deke Slayton', 'Deke Slayton'),
+            ('Scott Carpenter', 'Scott Carpenter'),
+            ('Jim Lovell', 'Jim Lovell'),
+            ('Frank Borman', 'Frank Borman'),
+            ('William Anders', 'William Anders'),
+            ('Pete Conrad', 'Pete Conrad'),
+            ('Alan Bean', 'Alan Bean'),
+            ('Charles Duke', 'Charles Duke'),
+            ('John Young', 'John Young (astronaute)'),
+            ('Eugene Cernan', 'Eugene Cernan'),
+            ('Harrison Schmitt', 'Harrison Schmitt'),
+            ('David Scott', 'David Scott'),
+            ('Jack Swigert', 'Jack Swigert'),
+            ('Fred Haise', 'Fred Haise'),
+            ('Guerman Titov', 'Guerman Titov'),
+            ('Vladimir Komarov', 'Vladimir Komarov'),
+            ('Svetlana Savitskaïa', 'Svetlana Savitskaïa'),
+            ('Guennadi Padalka', 'Guennadi Padalka'),
+            ('Sergueï Krikaliov', 'Sergueï Krikaliov'),
+            ('Valeri Poliakov', 'Valeri Poliakov'),
+            ('Mae Jemison', 'Mae Jemison'),
+            ('Guion Bluford', 'Guion Bluford'),
+            ('Kathryn Sullivan', 'Kathryn Sullivan'),
+            ('Peggy Whitson', 'Peggy Whitson'),
+            ('Christina Koch', 'Christina Koch'),
+            ('Jessica Meir', 'Jessica Meir'),
+            ('Sunita Williams', 'Sunita Williams'),
+            ('Scott Kelly', 'Scott Kelly'),
+            ('Samantha Cristoforetti', 'Samantha Cristoforetti'),
+            ('Luca Parmitano', 'Luca Parmitano'),
+            ('Alexander Gerst', 'Alexander Gerst'),
+            ('Tim Peake', 'Tim Peake'),
+            ('Helen Sharman', 'Helen Sharman'),
+            ('Sigmund Jähn', 'Sigmund Jähn'),
+            ('Ulf Merbold', 'Ulf Merbold'),
+            ('Franz Viehböck', 'Franz Viehböck'),
+            ('Thomas Reiter', 'Thomas Reiter'),
+            ('Yang Liwei', 'Yang Liwei'),
+            ('Rakesh Sharma', 'Rakesh Sharma'),
+            ('Roberta Bondar', 'Roberta Bondar'),
+            ('Marc Garneau', 'Marc Garneau'),
+            ('Julie Payette', 'Julie Payette'),
+            ('Dennis Tito', 'Dennis Tito'),
+            ('Anousheh Ansari', 'Anousheh Ansari'),
+            ('Félicette', 'Félicette'),
+            ('Ham', 'Ham (chimpanzé)'),
+            ('Belka et Strelka', 'Belka et Strelka'),
+            ('Enos', 'Enos (chimpanzé)'),
+            ('Baker', 'Baker (singe écureuil)'),
+        ],
+    ),
     'objets-mythiques': dict(
         nom='Objets mythiques',
         transferts=[('mythologie-nordique', 'Mjöllnir')],

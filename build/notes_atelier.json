@@ -5206,41 +5206,6 @@
    "original": true,
    "editeLe": 1784496955484
   },
-  "pionniers-de-lextreme_valentina-terechkova": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8683333333333333,
-   "original": true,
-   "editeLe": 1785271904354
-  },
-  "pionniers-de-lextreme_michael-collins-astronaute": {
-   "cx": 0.5,
-   "cy": 0.3975,
-   "w": 1,
-   "original": true,
-   "editeLe": 1785271908916
-  },
-  "pionniers-de-lextreme_sally-ride": {
-   "cx": 0.5454545454545454,
-   "cy": 0.35150479403409096,
-   "w": 0.9090909090909092,
-   "original": true,
-   "editeLe": 1785272439531
-  },
-  "pionniers-de-lextreme_eileen-collins": {
-   "cx": 0.5,
-   "cy": 0.3825,
-   "w": 1,
-   "original": true,
-   "editeLe": 1785272444066
-  },
-  "pionniers-de-lextreme_chris-hadfield": {
-   "cx": 0.5,
-   "cy": 0.37125,
-   "w": 1,
-   "original": true,
-   "editeLe": 1785272447386
-  },
   "pionniers-de-lextreme_felix-baumgartner": {
    "cx": 0.5,
    "cy": 0.42987890624999997,
@@ -5289,27 +5254,6 @@
    "w": 1,
    "original": true,
    "editeLe": 1785083811011
-  },
-  "pionniers-de-lextreme_youri-gagarine": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8876190476190476,
-   "original": true,
-   "editeLe": 1785083867195
-  },
-  "pionniers-de-lextreme_neil-armstrong": {
-   "cx": 0.5867768595041324,
-   "cy": 0.3431273279111247,
-   "w": 0.8264462809917353,
-   "original": true,
-   "editeLe": 1785083911275
-  },
-  "pionniers-de-lextreme_buzz-aldrin": {
-   "cx": 0.5227272727272728,
-   "cy": 0.4420181274414063,
-   "w": 0.909090909090909,
-   "original": true,
-   "editeLe": 1785083934801
   },
   "pionniers-de-lextreme_auguste-piccard": {
    "cx": 0.5,
@@ -10335,13 +10279,6 @@
    "cy": 0.5,
    "w": 0.7479166666666667,
    "editeLe": 1786826096926,
-   "original": true
-  },
-  "pionniers-de-lextreme_alexei-leonov": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9226666666666666,
-   "editeLe": 1786826121352,
    "original": true
   },
   "pionniers-de-lextreme_ranulph-fiennes": {
@@ -26639,6 +26576,69 @@
    "w": 0.888,
    "editeLe": 1788902901305,
    "original": true
+  },
+  "astronautes-et-cosmonautes_youri-gagarine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8876190476190476,
+   "original": true,
+   "editeLe": 1785083867195
+  },
+  "astronautes-et-cosmonautes_valentina-terechkova": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8683333333333333,
+   "original": true,
+   "editeLe": 1785271904354
+  },
+  "astronautes-et-cosmonautes_neil-armstrong": {
+   "cx": 0.5867768595041324,
+   "cy": 0.3431273279111247,
+   "w": 0.8264462809917353,
+   "original": true,
+   "editeLe": 1785083911275
+  },
+  "astronautes-et-cosmonautes_buzz-aldrin": {
+   "cx": 0.5227272727272728,
+   "cy": 0.4420181274414063,
+   "w": 0.909090909090909,
+   "original": true,
+   "editeLe": 1785083934801
+  },
+  "astronautes-et-cosmonautes_michael-collins-astronaute": {
+   "cx": 0.5,
+   "cy": 0.3975,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785271908916
+  },
+  "astronautes-et-cosmonautes_alexei-leonov": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9226666666666666,
+   "editeLe": 1786826121352,
+   "original": true
+  },
+  "astronautes-et-cosmonautes_sally-ride": {
+   "cx": 0.5454545454545454,
+   "cy": 0.35150479403409096,
+   "w": 0.9090909090909092,
+   "original": true,
+   "editeLe": 1785272439531
+  },
+  "astronautes-et-cosmonautes_eileen-collins": {
+   "cx": 0.5,
+   "cy": 0.3825,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785272444066
+  },
+  "astronautes-et-cosmonautes_chris-hadfield": {
+   "cx": 0.5,
+   "cy": 0.37125,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785272447386
   }
  },
  "notes": [
@@ -27357,14 +27357,11 @@
     "legendes-du-sport_tony-hawk",
     "legendes-du-sport_kelly-slater",
     "conquete-spatiale_spoutnik-1",
-    "conquete-spatiale_alan-shepard",
-    "conquete-spatiale_john-glenn",
     "conquete-spatiale_apollo-8",
     "conquete-spatiale_apollo-11",
     "conquete-spatiale_apollo-13",
     "conquete-spatiale_programme-apollo",
     "conquete-spatiale_programme-vostok",
-    "conquete-spatiale_laika",
     "conquete-spatiale_saturn-v",
     "conquete-spatiale_navette-spatiale-americaine",
     "conquete-spatiale_station-spatiale-internationale",
@@ -27389,7 +27386,6 @@
     "conquete-spatiale_national-aeronautics-and-space-administration",
     "conquete-spatiale_cosmodrome-de-baikonour",
     "conquete-spatiale_cap-canaveral",
-    "conquete-spatiale_thomas-pesquet",
     "conquete-spatiale_chang-e-4",
     "conquete-spatiale_sortie-extravehiculaire",
     "mineraux-et-pierres_diamant",
@@ -27731,11 +27727,76 @@
     "series-televisees_le-bureau-des-legendes",
     "series-televisees_engrenages-serie-televisee",
     "series-televisees_dix-pour-cent",
-    "series-televisees_fargo-serie-televisee"
+    "series-televisees_fargo-serie-televisee",
+    "astronautes-et-cosmonautes_alan-shepard",
+    "astronautes-et-cosmonautes_john-glenn",
+    "astronautes-et-cosmonautes_laika",
+    "astronautes-et-cosmonautes_thomas-pesquet",
+    "astronautes-et-cosmonautes_sophie-adenot",
+    "astronautes-et-cosmonautes_jean-loup-chretien",
+    "astronautes-et-cosmonautes_claudie-haignere",
+    "astronautes-et-cosmonautes_jean-francois-clervoy",
+    "astronautes-et-cosmonautes_michel-tognini",
+    "astronautes-et-cosmonautes_leopold-eyharts",
+    "astronautes-et-cosmonautes_philippe-perrin",
+    "astronautes-et-cosmonautes_patrick-baudry",
+    "astronautes-et-cosmonautes_jean-pierre-haignere",
+    "astronautes-et-cosmonautes_virgil-grissom",
+    "astronautes-et-cosmonautes_walter-schirra",
+    "astronautes-et-cosmonautes_gordon-cooper",
+    "astronautes-et-cosmonautes_donald-slayton",
+    "astronautes-et-cosmonautes_scott-carpenter",
+    "astronautes-et-cosmonautes_james-lovell",
+    "astronautes-et-cosmonautes_frank-borman",
+    "astronautes-et-cosmonautes_william-anders",
+    "astronautes-et-cosmonautes_charles-conrad",
+    "astronautes-et-cosmonautes_alan-bean",
+    "astronautes-et-cosmonautes_charles-duke",
+    "astronautes-et-cosmonautes_john-young-astronaute",
+    "astronautes-et-cosmonautes_eugene-cernan",
+    "astronautes-et-cosmonautes_harrison-schmitt",
+    "astronautes-et-cosmonautes_david-scott",
+    "astronautes-et-cosmonautes_jack-swigert",
+    "astronautes-et-cosmonautes_fred-haise",
+    "astronautes-et-cosmonautes_guerman-titov",
+    "astronautes-et-cosmonautes_vladimir-komarov",
+    "astronautes-et-cosmonautes_svetlana-savitskaia",
+    "astronautes-et-cosmonautes_guennadi-padalka",
+    "astronautes-et-cosmonautes_serguei-krikaliov",
+    "astronautes-et-cosmonautes_valeri-poliakov",
+    "astronautes-et-cosmonautes_mae-jemison",
+    "astronautes-et-cosmonautes_guion-bluford",
+    "astronautes-et-cosmonautes_kathryn-d-sullivan",
+    "astronautes-et-cosmonautes_peggy-whitson",
+    "astronautes-et-cosmonautes_christina-koch",
+    "astronautes-et-cosmonautes_jessica-meir",
+    "astronautes-et-cosmonautes_sunita-williams",
+    "astronautes-et-cosmonautes_scott-kelly",
+    "astronautes-et-cosmonautes_samantha-cristoforetti",
+    "astronautes-et-cosmonautes_luca-parmitano",
+    "astronautes-et-cosmonautes_alexander-gerst",
+    "astronautes-et-cosmonautes_timothy-peake",
+    "astronautes-et-cosmonautes_helen-sharman",
+    "astronautes-et-cosmonautes_sigmund-jahn",
+    "astronautes-et-cosmonautes_ulf-merbold",
+    "astronautes-et-cosmonautes_franz-viehbock",
+    "astronautes-et-cosmonautes_thomas-reiter",
+    "astronautes-et-cosmonautes_yang-liwei",
+    "astronautes-et-cosmonautes_rakesh-sharma",
+    "astronautes-et-cosmonautes_roberta-bondar",
+    "astronautes-et-cosmonautes_marc-garneau",
+    "astronautes-et-cosmonautes_julie-payette",
+    "astronautes-et-cosmonautes_dennis-tito",
+    "astronautes-et-cosmonautes_anousheh-ansari",
+    "astronautes-et-cosmonautes_felicette",
+    "astronautes-et-cosmonautes_ham-chimpanze",
+    "astronautes-et-cosmonautes_belka-et-strelka",
+    "astronautes-et-cosmonautes_enos-chimpanze",
+    "astronautes-et-cosmonautes_baker-singe-ecureuil"
    ],
    "statut": "ouverte",
    "creeLe": 1785704271989,
-   "majLe": 1788903025848
+   "majLe": 1788903889607
   },
   {
    "id": "n1786210673307",

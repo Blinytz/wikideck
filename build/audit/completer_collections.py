@@ -43,6 +43,57 @@ AJOUTS = {
     'dieux-et-figures-mythologiques-grecques': [
         ('Hébé', 'Hébé'),
     ],
+    # Une oeuvre par grand compositeur. Sur 60 compositeurs, 25 seulement
+    # avaient une oeuvre au jeu : la collection des oeuvres suivait la
+    # notoriete des morceaux, pas la liste des compositeurs. Les 31 ajouts
+    # ci-dessous comblent l'ecart nom par nom.
+    # Restent quatre compositeurs sans oeuvre, et c'est faute de page :
+    # Morricone, Rota, Zimmer et Takemitsu n'ont pas d'article de bande
+    # originale sur fr.wikipedia, et les films eux-memes sont deja cartes
+    # ailleurs — la regle 5 interdit de les reprendre ici.
+    'oeuvres-musicales': [
+        ("L'Orfeo", "L'Orfeo"),                                  # Monteverdi
+        ('Symphonie nº 94 « La Surprise »', 'Symphonie no 94 de Joseph Haydn'),
+        ("Scènes d'enfants", "Scènes d'enfants de Schumann"),
+        ('Danses hongroises', 'Danses hongroises'),              # Brahms
+        ('Symphonie nº 5 de Mahler', 'Symphonie no 5 de Mahler'),
+        ('Concerto pour piano nº 2 de Rachmaninov',
+         'Concerto pour piano no 2 de Rachmaninov'),
+        ('Symphonie nº 7 de Chostakovitch', 'Symphonie no 7 de Chostakovitch'),
+        ('Le Château de Barbe-Bleue', 'Le Château de Barbe-Bleue'),   # Bartok
+        ('Pierrot lunaire', 'Pierrot lunaire'),                  # Schoenberg
+        ('Appalachian Spring', 'Appalachian Spring (ballet)'),    # Copland
+        ('Quatuor pour la fin du Temps', 'Quatuor pour la fin du Temps'),
+        ('4′33″', '4′33″'),                                       # Cage
+        ('Einstein on the Beach', 'Einstein on the Beach'),       # Glass
+        ('Music for 18 Musicians', 'Music for 18 Musicians'),     # Reich
+        ('Les Indes galantes', 'Les Indes galantes'),             # Rameau
+        ('Didon et Énée', 'Dido and Æneas'),                      # Purcell
+        ('Sonates pour clavier de Scarlatti',
+         'Sonates pour clavier de Domenico Scarlatti'),
+        ('Orphée et Eurydice (Gluck)', 'Orphée et Eurydice (Gluck)'),
+        ('Requiem de Fauré', 'Requiem (Fauré)'),
+        ('Symphonie en ré mineur de Franck', 'Symphonie en ré mineur de Franck'),
+        ("Tableaux d'une exposition", "Tableaux d'une exposition"),  # Moussorgski
+        ('Schéhérazade (Rimski-Korsakov)', 'Schéhérazade (Rimski-Korsakov)'),
+        ('Finlandia', 'Finlandia (poème symphonique)'),           # Sibelius
+        ('Peer Gynt (suites)', 'Peer Gynt (suites orchestrales)'),  # Grieg
+        ('Orphée aux Enfers', 'Orphée aux Enfers'),               # Offenbach
+        ('Symphonie nº 7 de Bruckner', 'Symphonie no 7 de Bruckner'),
+        ('Concerto pour violon de Mendelssohn',
+         'Concerto pour violon no 2 de Mendelssohn'),
+        ('Libertango', 'Libertango'),                             # Piazzolla
+        ('Take the "A" Train', 'Take the "A" Train'),             # Ellington
+        ('Maple Leaf Rag', 'Maple Leaf Rag'),                     # Joplin
+        ('Musique de Star Wars', 'Musique de Star Wars'),         # John Williams
+    ],
+    # Trois oeuvres du jeu n'avaient pas leur auteur : « Ainsi parlait
+    # Zarathoustra », « Le Beau Danube bleu » et « Adagio pour cordes ».
+    'grands-compositeurs': [
+        ('Richard Strauss', 'Richard Strauss'),
+        ('Johann Strauss fils', 'Johann Strauss II'),
+        ('Samuel Barber', 'Samuel Barber'),
+    ],
     'scientifiques-celebres': [
         ('Adam Smith', 'Adam Smith'),
         ('Karl Marx', 'Karl Marx'),
@@ -144,6 +195,14 @@ CORRECTIONS = [
     # pointait sur la page du THEME iconographique, pas sur une oeuvre
     ('tableaux-celebres', 'Judith décapitant Holopherne',
      'Judith décapitant Holopherne (Artemisia Gentileschi)'),
+    # Trois cartes d'oeuvres musicales pointaient a cote, et l'appariement
+    # compositeur/oeuvre l'a revele : leur resume ne nommait aucun compositeur.
+    # « Rhapsodie hongroise » renvoyait a un film hongrois de 1979 ;
+    # « Gymnopedies » aux fetes religieuses de Sparte ; « Carmina Burana » au
+    # manuscrit medieval, pas a la cantate d'Orff.
+    ('oeuvres-musicales', 'Rhapsodie hongroise', 'Rhapsodies hongroises'),
+    ('oeuvres-musicales', 'Gymnopédies', 'Gymnopédies (Satie)'),
+    ('oeuvres-musicales', 'Carmina Burana', 'Carmina Burana (cantate)'),
 ]
 
 

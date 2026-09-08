@@ -118,6 +118,13 @@ CHOISIES = {
     # d'elle, ce n'est pas un portrait : la carte part a relire.
     'Sylvia Rivera': ('faute-de-mieux',
         "Sylvia Rivera e Marcella Di Folco al World Pride di Roma - Foto Giovanni Dall'Orto, 8 july 2000.JPG"),
+    # Deux oeuvres musicales sans image de tete. On prend ce qui montre
+    # l'oeuvre : une photo de production pour l'opera de Purcell, l'illustration
+    # de Peer et Solveig pour la suite de Grieg. Une page de partition serait
+    # exacte mais illisible en vignette.
+    'Dido and Æneas': ('commons', 'Dido and Aeneas - 49598118091.jpg'),
+    'Peer Gynt (suites orchestrales)': ('commons',
+        '1936 edition of Peer Gynt 006 Peer and Solvieg at the wedding.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

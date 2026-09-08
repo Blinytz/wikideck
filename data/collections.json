@@ -369,13 +369,13 @@
   {
    "slug": "grands-compositeurs",
    "nom": "Grands compositeurs",
-   "nbCartes": 60,
+   "nbCartes": 63,
    "fichier": "data/grands-compositeurs.json"
   },
   {
    "slug": "oeuvres-musicales",
    "nom": "Œuvres musicales majeures",
-   "nbCartes": 45,
+   "nbCartes": 76,
    "fichier": "data/oeuvres-musicales.json"
   },
   {

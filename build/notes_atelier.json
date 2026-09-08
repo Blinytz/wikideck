@@ -25778,6 +25778,20 @@
    "w": 1,
    "editeLe": 1788900691319,
    "original": true
+  },
+  "architectes_hector-guimard": {
+   "cx": 0.5236226399739583,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "editeLe": 1788900713087,
+   "original": true
+  },
+  "architectes_auguste-perret": {
+   "cx": 0.5,
+   "cy": 0.312294921875,
+   "w": 1,
+   "editeLe": 1788900716985,
+   "original": false
   }
  },
  "notes": [

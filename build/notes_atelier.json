@@ -25938,6 +25938,20 @@
    "cy": 0.4545454545454545,
    "w": 0.909090909090909,
    "editeLe": 1788901123760,
+   "original": true
+  },
+  "champignons_amadouvier": {
+   "cx": 0.5549999999999999,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1788901126938,
+   "original": false
+  },
+  "champignons_polypore-soufre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901129753,
    "original": false
   }
  },

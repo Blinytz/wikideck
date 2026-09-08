@@ -25262,11 +25262,18 @@
    "original": true
   },
   "musique-populaire_charles-aznavour": {
-   "cx": 0.5234970524589907,
-   "cy": 0.5108682381667919,
-   "w": 0.7317493112947658,
-   "editeLe": 1788899055391,
+   "cx": 0.5093663194444444,
+   "cy": 0.5,
+   "w": 0.7493055555555556,
+   "editeLe": 1788899069419,
    "original": true
+  },
+  "musique-populaire_barbara": {
+   "cx": 0.5,
+   "cy": 0.459375,
+   "w": 1,
+   "editeLe": 1788899073229,
+   "original": false
   }
  },
  "notes": [

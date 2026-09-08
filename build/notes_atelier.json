@@ -26393,6 +26393,13 @@
    "cy": 0.682738264143467,
    "w": 1,
    "editeLe": 1788902522781,
+   "original": true
+  },
+  "fleurs_pivoine": {
+   "cx": 0.5,
+   "cy": 0.4979740680713128,
+   "w": 1,
+   "editeLe": 1788902525695,
    "original": false
   }
  },

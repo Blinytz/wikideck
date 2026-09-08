@@ -25651,6 +25651,20 @@
    "cy": 0.4640625238418579,
    "w": 1,
    "editeLe": 1788900498539,
+   "original": true
+  },
+  "architectes_frank-lloyd-wright": {
+   "cx": 0.5,
+   "cy": 0.387761733263731,
+   "w": 1,
+   "editeLe": 1788900502480,
+   "original": false
+  },
+  "architectes_zaha-hadid": {
+   "cx": 0.5,
+   "cy": 0.4423815865217495,
+   "w": 1,
+   "editeLe": 1788900505995,
    "original": false
   }
  },

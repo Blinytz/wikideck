@@ -25882,6 +25882,20 @@
    "cy": 0.5,
    "w": 0.9466666666666668,
    "editeLe": 1788900962890,
+   "original": true
+  },
+  "champignons_coprin-chevelu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1788900967089,
+   "original": false
+  },
+  "champignons_psilocybe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788900969391,
    "original": false
   }
  },

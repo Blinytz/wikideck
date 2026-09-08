@@ -26400,6 +26400,20 @@
    "cy": 0.4979740680713128,
    "w": 1,
    "editeLe": 1788902525695,
+   "original": true
+  },
+  "fleurs_marguerite-commune": {
+   "cx": 0.5,
+   "cy": 0.374609375,
+   "w": 1,
+   "editeLe": 1788902530231,
+   "original": false
+  },
+  "fleurs_coquelicot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902532438,
    "original": false
   }
  },

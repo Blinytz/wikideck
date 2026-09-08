@@ -25869,6 +25869,20 @@
    "w": 0.75,
    "editeLe": 1788900945133,
    "original": true
+  },
+  "champignons_morchella": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9319165682802045,
+   "editeLe": 1788900960505,
+   "original": true
+  },
+  "champignons_cantharellus-cibarius": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9466666666666668,
+   "editeLe": 1788900962890,
+   "original": false
   }
  },
  "notes": [

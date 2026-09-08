@@ -25224,6 +25224,13 @@
    "cy": 0.41433789062500004,
    "w": 1,
    "editeLe": 1788899018394,
+   "original": true
+  },
+  "musique-populaire_frank-sinatra": {
+   "cx": 0.5,
+   "cy": 0.40789453125,
+   "w": 1,
+   "editeLe": 1788899022019,
    "original": false
   }
  },

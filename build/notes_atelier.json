@@ -25337,6 +25337,20 @@
    "w": 0.8466666666666667,
    "editeLe": 1788899269235,
    "original": true
+  },
+  "musique-populaire_u2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8819982773471146,
+   "editeLe": 1788899283345,
+   "original": true
+  },
+  "musique-populaire_prince-musicien": {
+   "cx": 0.5,
+   "cy": 0.34124609375,
+   "w": 1,
+   "editeLe": 1788899287497,
+   "original": false
   }
  },
  "notes": [

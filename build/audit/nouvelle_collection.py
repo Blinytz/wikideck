@@ -789,6 +789,145 @@ PLANS = {
         # Emilie du Chatelet, deja carte et physicienne ; Ban Zhao,
         # historienne ; Diotime, sans page et d'existence douteuse.
     ),
+    'figures-religieuses': dict(
+        nom='Fondateurs et figures religieuses',
+        # « Croyances et notions sacrees » traite des notions : karma, samsara,
+        # yin et yang. Les PERSONNES n'existaient nulle part. Ni Jesus, ni
+        # Bouddha, ni Mahomet, ni Moise. C'etait le trou le plus net du jeu.
+        # Ecartes : Rumi, deja carte chez les auteurs classiques ou il est a sa
+        # place de poete ; Averroes, Al-Ghazali, Augustin, Thomas d'Aquin et
+        # Ibn Khaldoun, deja aux sciences ou a la philosophie ; Salomon, qui
+        # est un roi et releve des souverains.
+        transferts=[],
+        ajouts=[
+            # Fondateurs et prophetes
+            ('Jésus', 'Jésus de Nazareth'),
+            ('Bouddha', 'Siddhartha Gautama'),
+            ('Mahomet', 'Mahomet'),
+            ('Moïse', 'Moïse'),
+            ('Abraham', 'Abraham'),
+            ('Zarathoustra', 'Zoroastre'),
+            ('Mahâvîra', 'Mahāvīra'),
+            ('Guru Nanak', 'Guru Nanak'),
+            # le titre porte une lettre modificative, pas une apostrophe
+            ('Bahaullah', "Baháʼu'lláh"),
+            ('Joseph Smith', 'Joseph Smith'),
+            ('Mani', 'Mani (prophète)'),
+            # Judaisme
+            ('Hillel', 'Hillel Hazaken'),
+            ('Baal Shem Tov', 'Baal Shem Tov'),
+            # Christianisme des origines
+            ('Paul de Tarse', 'Paul de Tarse'),
+            ('Pierre (apôtre)', 'Pierre (apôtre)'),
+            ('Marie (mère de Jésus)', 'Marie (mère de Jésus)'),
+            ('Jean le Baptiste', 'Jean le Baptiste'),
+            ('Marie Madeleine', 'Marie Madeleine'),
+            # Saints, moines et reformateurs chretiens
+            ("François d'Assise", "François d'Assise"),
+            ("Jeanne d'Arc", "Jeanne d'Arc"),
+            ('Martin Luther', 'Martin Luther'),
+            ('Jean Calvin', 'Jean Calvin'),
+            ('Ignace de Loyola', 'Ignace de Loyola'),
+            ("Thérèse d'Avila", "Thérèse d'Avila"),
+            ('Hildegarde de Bingen', 'Hildegarde de Bingen'),
+            ('Mère Teresa', 'Mère Teresa'),
+            ('Jean-Paul II', 'Jean-Paul II'),
+            ('Benoît de Nursie', 'Benoît de Nursie'),
+            ('Bernard de Clairvaux', 'Bernard de Clairvaux'),
+            ('Savonarole', 'Jérôme Savonarole'),
+            ('Grégoire Ier', 'Grégoire Ier'),
+            ('Cyrille et Méthode', 'Cyrille et Méthode'),
+            ('Sainte Geneviève', 'Geneviève de Paris'),
+            ('Saint Nicolas', 'Nicolas de Myre'),
+            ('Saint Patrick', "Patrick d'Irlande"),
+            # Islam
+            ('Ali ibn Abi Talib', 'Ali ibn Abi Talib'),
+            ('Abou Bakr', 'Abou Bakr As-Siddiq'),
+            ('Fatima Zahra', 'Fatima Zahra'),
+            ('Ibn Arabi', 'Ibn Arabi'),
+            ('Aïcha', 'Aïcha'),
+            ('Rabia al-Adawiyya', 'Rabia al Adawiyya'),
+            # Bouddhisme et hindouisme
+            ('Bodhidharma', 'Bodhidharma'),
+            ('Dalaï-lama', 'Tenzin Gyatso'),
+            ('Milarepa', 'Milarepa'),
+            ('Padmasambhava', 'Padmasambhava'),
+            ('Nichiren', 'Nichiren'),
+            ('Kukai', 'Kūkai'),
+            ('Ramakrishna', 'Râmakrishna'),
+            ('Vivekananda', 'Vivekananda'),
+        ],
+    ),
+    'figures-emancipation': dict(
+        nom="Figures de l'émancipation",
+        # Les revolutionnaires devenus chefs d'Etat etaient chez les dirigeants
+        # contemporains : Gandhi, Mandela, Lenine, Mao, Bolivar, Robespierre,
+        # Toussaint Louverture, Lumumba, Sankara, Nkrumah, Ho Chi Minh. Ceux
+        # qui n'ont jamais pris le pouvoir n'etaient nulle part. La regle 5
+        # interdit de dedoubler les premiers : ils ne sont pas repris ici.
+        # Ecarte aussi Aime Cesaire, poete avant tout, qui manque aux auteurs
+        # modernes, et Andrei Sakharov, deja carte chez les scientifiques.
+        transferts=[],
+        ajouts=[
+            # Esclavage, segregation, droits civiques
+            ('Martin Luther King', 'Martin Luther King'),
+            ('Malcolm X', 'Malcolm X'),
+            ('Rosa Parks', 'Rosa Parks'),
+            ('Frederick Douglass', 'Frederick Douglass'),
+            ('Harriet Tubman', 'Harriet Tubman'),
+            ('Sojourner Truth', 'Sojourner Truth'),
+            ('W. E. B. Du Bois', 'W. E. B. Du Bois'),
+            ('Ida B. Wells', 'Ida B. Wells'),
+            ('Nat Turner', 'Nat Turner'),
+            ('Angela Davis', 'Angela Davis'),
+            ('William Wilberforce', 'William Wilberforce'),
+            ('Victor Schœlcher', 'Victor Schœlcher'),
+            ('Ruth Bader Ginsburg', 'Ruth Bader Ginsburg'),
+            # Apartheid
+            ('Steve Biko', 'Steve Biko'),
+            ('Desmond Tutu', 'Desmond Tutu'),
+            ('Winnie Mandela', 'Winnie Mandela'),
+            # Droits des femmes
+            ('Olympe de Gouges', 'Olympe de Gouges'),
+            ('Emmeline Pankhurst', 'Emmeline Pankhurst'),
+            ('Emily Davison', 'Emily Davison'),
+            ('Susan B. Anthony', 'Susan B. Anthony'),
+            ('Elizabeth Cady Stanton', 'Elizabeth Cady Stanton'),
+            ('Simone Veil', 'Simone Veil'),
+            ('Gisèle Halimi', 'Gisèle Halimi'),
+            ('Louise Michel', 'Louise Michel'),
+            ('Flora Tristan', 'Flora Tristan'),
+            ('Clara Zetkin', 'Clara Zetkin'),
+            ('Rosa Luxemburg', 'Rosa Luxemburg'),
+            ('Malala Yousafzai', 'Malala Yousafzai'),
+            # Peuples autochtones
+            ('Sitting Bull', 'Sitting Bull'),
+            ('Geronimo', 'Geronimo'),
+            # « Crazy Horse » seul est le cabaret parisien
+            ('Crazy Horse', 'Crazy Horse (chef amérindien)'),
+            ('Chef Joseph', 'Chef Joseph'),
+            ('Rigoberta Menchú', 'Rigoberta Menchú'),
+            # Decolonisation et anticolonialisme
+            ('Frantz Fanon', 'Frantz Fanon'),
+            ('Amílcar Cabral', 'Amílcar Cabral'),
+            ('Emiliano Zapata', 'Emiliano Zapata'),
+            ('Pancho Villa', 'Pancho Villa'),
+            ('Che Guevara', 'Che Guevara'),
+            # Castes, travail, environnement
+            ('Bhimrao Ramji Ambedkar', 'Bhimrao Ramji Ambedkar'),
+            ('César Chávez', 'César Chávez'),
+            ('Dolores Huerta', 'Dolores Huerta'),
+            ('Wangari Maathai', 'Wangari Muta Maathai'),
+            # Dissidence dans le bloc de l'Est
+            ('Lech Wałęsa', 'Lech Wałęsa'),
+            ('Václav Havel', 'Václav Havel'),
+            ('Aung San Suu Kyi', 'Aung San Suu Kyi'),
+            # Droits LGBT
+            ('Harvey Milk', 'Harvey Milk'),
+            ('Marsha P. Johnson', 'Marsha P. Johnson'),
+            ('Sylvia Rivera', 'Sylvia Rivera'),
+        ],
+    ),
     'objets-mythiques': dict(
         nom='Objets mythiques',
         transferts=[('mythologie-nordique', 'Mjöllnir')],

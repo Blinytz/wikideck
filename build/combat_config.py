@@ -55,6 +55,10 @@ ROLES = {
     'croyances-et-notions-sacrees': 'defense',
     # doctrine, pas force : meme famille que les croyances
     'philosophes': 'defense',
+    # la foi protege : meme famille que les croyances
+    'figures-religieuses': 'defense',
+    # ces cartes poussent contre un pouvoir en place
+    'figures-emancipation': 'attaque',
     # Musique : le compositeur soutient et amplifie (defense), l'oeuvre pose
     # le decor du tour (terrain), l'interprete populaire emporte le duel
     # (attaque).
@@ -154,6 +158,8 @@ DECLENCHEURS = {
     'objets-mythiques': "quand elle est sur le point d'être détruite",
     'croyances-et-notions-sacrees': 'si au moins 2 cartes jouées ce tour partagent un tag',
     'philosophes': 'si la ligne compte au moins 2 cartes de collections différentes',
+    'figures-religieuses': 'si une carte alliée a été détruite ce tour',
+    'figures-emancipation': "si la carte adverse a une rareté supérieure",
     'grands-compositeurs': 'au début du combat',
     'oeuvres-musicales': 'au premier tour uniquement',
     'musique-populaire': 'après avoir gagné le duel du tour',

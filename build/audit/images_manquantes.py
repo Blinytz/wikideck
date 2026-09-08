@@ -91,6 +91,33 @@ CHOISIES = {
     # la carte part a relire plutot que d'etre donnee pour reglee.
     'Philippa Foot': ('faute-de-mieux', '15 Walton Street, Oxford, with blue '
                       'plaque to Philippa Foot - geograph.org.uk - 8084209.jpg'),
+    # Ces deux pages n'ont pas d'image de tete : la representation figuree est
+    # evitee. Commons a des miniatures ottomanes et persanes, qui sont la forme
+    # sous laquelle la tradition les a bien representes.
+    'Abou Bakr As-Siddiq': ('commons',
+        'Siyer-i-Nebi Mohamed and Abu Bakr in Thaur cave.jpg'),
+    # « Ibn Arabi with students.jpg » est du bon sujet mais fait 200 px :
+    # illisible en vignette. Le meme portrait existe en 1280 px sous un
+    # nom en minuscules.
+    # « Ibn arabi.png » fait 1280 px mais c'est un DIAGRAMME, pas un portrait.
+    # Le seul portrait libre fait 218 px de large : assez pour une vignette,
+    # d'ou le seuil abaisse.
+    'Ibn Arabi': ('commons-petit', 'Ibn Arabi.jpg'),
+    # La recherche par nom donnait la couverture d'une traduction francaise de
+    # 1925. Le thangka du LACMA montre le yogi lui-meme.
+    'Milarepa': ('commons', 'Milarepa (1040-1123) LACMA M.82.165.2.jpg'),
+    # La page fr de Biko illustre avec l'hotel de ville d'East London : c'est
+    # le lieu du memorial, pas lui. Aucune photo libre de Biko n'existe, ses
+    # portraits sont sous droits ; le flyer du memorial reproduit son visage,
+    # donc c'est lui, mais sur une affiche. La carte part a relire.
+    'Steve Biko': ('faute-de-mieux',
+        'Steve Biko on Flyer for Steve Biko Memorial at the Carver Cultural Center.jpg'),
+    # La page fr montre la banniere de son organisation ; cette photo la montre
+    # elle, au World Pride de Rome en 2000.
+    # ... mais dans une foule, ou on ne la distingue pas en vignette. C'est
+    # d'elle, ce n'est pas un portrait : la carte part a relire.
+    'Sylvia Rivera': ('faute-de-mieux',
+        "Sylvia Rivera e Marcella Di Folco al World Pride di Roma - Foto Giovanni Dall'Orto, 8 july 2000.JPG"),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }
@@ -123,7 +150,7 @@ def choisie(titre):
     if not mode_valeur:
         return None
     mode, valeur = mode_valeur
-    if mode in ('commons', 'faute-de-mieux'):
+    if mode in ('commons', 'faute-de-mieux', 'commons-petit'):
         return il.commons_thumb(valeur)
     return valeur
 
@@ -166,7 +193,8 @@ def main():
         url = (choisie(x['titrePage']) or fr.get(x['titrePage'])
                or en.get(en_par_fr.get(x['titrePage'], ''))
                or commons(x['titrePage']))
-        data = il.telecharger_image(url, min_cote=300, navigateur=False) if url else None
+        mini = 200 if (CHOISIES.get(x['titrePage']) or ('',''))[0] == 'commons-petit' else 300
+        data = il.telecharger_image(url, min_cote=mini, navigateur=False) if url else None
         if not data:
             restent.append(f"{slug} · {x['nom']}")
             continue

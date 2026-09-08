@@ -443,6 +443,18 @@
    "nom": "Philosophes",
    "nbCartes": 59,
    "fichier": "data/philosophes.json"
+  },
+  {
+   "slug": "figures-religieuses",
+   "nom": "Fondateurs et figures religieuses",
+   "nbCartes": 49,
+   "fichier": "data/figures-religieuses.json"
+  },
+  {
+   "slug": "figures-emancipation",
+   "nom": "Figures de l'émancipation",
+   "nbCartes": 48,
+   "fichier": "data/figures-emancipation.json"
   }
  ]
 }

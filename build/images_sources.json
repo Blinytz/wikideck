@@ -13585,5 +13585,296 @@
 },
 "philosophes_philippa-foot": {
 "source": "choisie-faute-de-mieux"
+},
+"figures-religieuses_jesus-de-nazareth": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_siddhartha-gautama": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_mahomet": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_moise": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_abraham": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_zoroastre": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_mahavira": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_guru-nanak": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_baha-u-llah": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_joseph-smith": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_mani-prophete": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_hillel-hazaken": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_baal-shem-tov": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_paul-de-tarse": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_pierre-apotre": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_marie-mere-de-jesus": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_jean-le-baptiste": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_marie-madeleine": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_francois-d-assise": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_jeanne-d-arc": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_martin-luther": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_jean-calvin": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_ignace-de-loyola": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_therese-d-avila": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_hildegarde-de-bingen": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_mere-teresa": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_jean-paul-ii": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_benoit-de-nursie": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_bernard-de-clairvaux": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_jerome-savonarole": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_gregoire-ier": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_cyrille-et-methode": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_genevieve-de-paris": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_nicolas-de-myre": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_patrick-d-irlande": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_ali-ibn-abi-talib": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_fatima-zahra": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_aicha": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_rabia-al-adawiyya": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_bodhidharma": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_tenzin-gyatso": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_milarepa": {
+"source": "choisie"
+},
+"figures-religieuses_padmasambhava": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_nichiren": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_kukai": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_ramakrishna": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_vivekananda": {
+"source": "wiki-sans-filtre"
+},
+"figures-religieuses_abou-bakr-as-siddiq": {
+"source": "choisie"
+},
+"figures-religieuses_ibn-arabi": {
+"source": "choisie"
+},
+"figures-emancipation_martin-luther-king": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_malcolm-x": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_rosa-parks": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_frederick-douglass": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_harriet-tubman": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_sojourner-truth": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_w-e-b-du-bois": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_ida-b-wells": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_nat-turner": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_angela-davis": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_william-wilberforce": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_victor-sch-lcher": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_ruth-bader-ginsburg": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_steve-biko": {
+"source": "choisie-faute-de-mieux"
+},
+"figures-emancipation_desmond-tutu": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_winnie-mandela": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_olympe-de-gouges": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_emmeline-pankhurst": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_emily-davison": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_susan-b-anthony": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_elizabeth-cady-stanton": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_simone-veil": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_gisele-halimi": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_louise-michel": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_flora-tristan": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_clara-zetkin": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_rosa-luxemburg": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_malala-yousafzai": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_sitting-bull": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_geronimo": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_crazy-horse-chef-amerindien": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_chef-joseph": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_rigoberta-menchu": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_frantz-fanon": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_amilcar-cabral": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_emiliano-zapata": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_pancho-villa": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_che-guevara": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_bhimrao-ramji-ambedkar": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_cesar-chavez": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_dolores-huerta": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_wangari-muta-maathai": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_lech-wa-esa": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_vaclav-havel": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_aung-san-suu-kyi": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_harvey-milk": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_marsha-p-johnson": {
+"source": "wiki-sans-filtre"
+},
+"figures-emancipation_sylvia-rivera": {
+"source": "choisie-faute-de-mieux"
 }
 }

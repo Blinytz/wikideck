@@ -24724,9 +24724,9 @@
   },
   "grands-compositeurs_johannes-brahms": {
    "cx": 0.5,
-   "cy": 0.41288476562500004,
+   "cy": 0.420044921875,
    "w": 1,
-   "editeLe": 1788897791176,
+   "editeLe": 1788897798592,
    "original": true
   },
   "grands-compositeurs_piotr-ilitch-tchaikovski": {
@@ -24734,7 +24734,7 @@
    "cy": 0.34443749999999995,
    "w": 1,
    "editeLe": 1788897795321,
-   "original": false
+   "original": true
   }
  },
  "notes": [

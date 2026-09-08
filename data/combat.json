@@ -92,7 +92,8 @@
   "traites-et-textes-fondateurs": "defense",
   "mode-et-couturiers": "defense",
   "instruments-de-musique": "attaque",
-  "races-de-cheval": "attaque"
+  "races-de-cheval": "attaque",
+  "series-televisees": "terrain"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -186,7 +187,8 @@
   "traites-et-textes-fondateurs": "si une carte alliée est ciblée",
   "mode-et-couturiers": "si la carte a survécu à un tour complet",
   "instruments-de-musique": "si une œuvre musicale est en jeu",
-  "races-de-cheval": "si aucun terrain adverse n'est en jeu"
+  "races-de-cheval": "si aucun terrain adverse n'est en jeu",
+  "series-televisees": "si la même collection occupe déjà une ligne"
  },
  "catalogueDeclencheurs": [
   "au début du combat",

@@ -967,13 +967,14 @@ PLANS = {
             ('Champ profond de Hubble', 'Champ profond de Hubble'),
         ],
     ),
-    # NON LIVREE. Le plan est garde tel quel, mais la collection n'a pas ete
-    # publiee : sur 56 series, 25 n'ont AUCUNE image libre, et les 31 autres
-    # n'ont qu'un logo en lettrage. Affiches et photogrammes sont sous droits,
-    # et fr.wikipedia ne peut donc offrir que le sigle. La consigne 10 interdit
-    # de livrer une carte sans image, et une collection de rectangles noirs
-    # avec du texte ne vaut pas les autres. A rejouer si une source d'images
-    # est trouvee.
+    # Livree SANS images. Aucune image libre n'existe pour une serie :
+    # fr.wikipedia refuse le non-libre, et Commons n'a que les logos en
+    # lettrage, sous le seuil d'originalite. Ce que la chaine trouve ensuite
+    # est du hors-sujet : un acteur pour Breaking Bad, des cosplayeurs pour
+    # Game of Thrones, un groupe homonyme pour Mad Men, une ambulance pour
+    # Urgences. Decision de l'utilisateur : poser une image d'attente
+    # identique partout et remplacer a la main depuis l'atelier. Voir
+    # image_attente.py.
     'series-televisees': dict(
         nom='Séries télévisées',
         # Le cinema avait deux collections, la television aucune. Columbo n'y

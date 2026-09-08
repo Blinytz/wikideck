@@ -551,6 +551,12 @@
    "nom": "Races de cheval",
    "nbCartes": 37,
    "fichier": "data/races-de-cheval.json"
+  },
+  {
+   "slug": "series-televisees",
+   "nom": "Séries télévisées",
+   "nbCartes": 56,
+   "fichier": "data/series-televisees.json"
   }
  ]
 }

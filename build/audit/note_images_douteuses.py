@@ -23,7 +23,9 @@ RACINE = ICI.parent.parent
 # sources dont le sujet n'est pas garanti, de la moins sûre à la moins pire
 DOUTEUSES = ('bing', 'bing-retry', 'bing-retry2', 'wiki-sans-filtre',
              # fichier choisi a la main faute d'image libre du sujet
-             'choisie-faute-de-mieux')
+             'choisie-faute-de-mieux',
+             # image d'attente : la carte n'a pas encore sa vraie image
+             'attente')
 ID_NOTE = 'n-audit-images-douteuses'
 
 

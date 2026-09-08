@@ -25484,6 +25484,20 @@
    "w": 0.9090909090909091,
    "editeLe": 1788899841161,
    "original": true
+  },
+  "sculptures-celebres_venus-de-milo": {
+   "cx": 0.5,
+   "cy": 0.25056640625,
+   "w": 1,
+   "editeLe": 1788899849733,
+   "original": true
+  },
+  "sculptures-celebres_victoire-de-samothrace": {
+   "cx": 0.5,
+   "cy": 0.36038671875,
+   "w": 1,
+   "editeLe": 1788899864175,
+   "original": false
   }
  },
  "notes": [

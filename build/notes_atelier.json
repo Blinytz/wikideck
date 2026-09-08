@@ -24636,6 +24636,20 @@
    "cy": 0.41990595611285264,
    "w": 1,
    "editeLe": 1788897663046,
+   "original": true
+  },
+  "grands-compositeurs_jean-sebastien-bach": {
+   "cx": 0.5000000000000001,
+   "cy": 0.33276562499999995,
+   "w": 1.0000000000000002,
+   "editeLe": 1788897666437,
+   "original": false
+  },
+  "grands-compositeurs_georg-friedrich-haendel": {
+   "cx": 0.5,
+   "cy": 0.36294531250000006,
+   "w": 1,
+   "editeLe": 1788897669967,
    "original": false
   }
  },

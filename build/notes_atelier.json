@@ -26037,6 +26037,20 @@
    "w": 0.8883333333333334,
    "editeLe": 1788901260601,
    "original": true
+  },
+  "champignons_scleroderma": {
+   "cx": 0.4999999999999999,
+   "cy": 0.5,
+   "w": 0.9541666666666666,
+   "editeLe": 1788901293152,
+   "original": true
+  },
+  "champignons_bolet-bai": {
+   "cx": 0.5,
+   "cy": 0.5250998003992016,
+   "w": 1,
+   "editeLe": 1788901297577,
+   "original": false
   }
  },
  "notes": [

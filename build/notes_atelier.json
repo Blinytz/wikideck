@@ -26505,7 +26505,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1788902646445,
-   "original": false
+   "original": true
   },
   "fleurs_hibiscus": {
    "cx": 0.5,
@@ -26519,6 +26519,13 @@
    "cy": 0.5,
    "w": 0.9888888888888889,
    "editeLe": 1788902663907,
+   "original": false
+  },
+  "fleurs_nelumbo-nucifera": {
+   "cx": 0.46666666666666673,
+   "cy": 0.5,
+   "w": 0.9333333333333335,
+   "editeLe": 1788902668405,
    "original": false
   }
  },

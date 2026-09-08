@@ -455,6 +455,36 @@
    "nom": "Figures de l'émancipation",
    "nbCartes": 48,
    "fichier": "data/figures-emancipation.json"
+  },
+  {
+   "slug": "photographies-celebres",
+   "nom": "Photographies célèbres",
+   "nbCartes": 21,
+   "fichier": "data/photographies-celebres.json"
+  },
+  {
+   "slug": "villes-du-monde",
+   "nom": "Villes du monde",
+   "nbCartes": 49,
+   "fichier": "data/villes-du-monde.json"
+  },
+  {
+   "slug": "montagnes-et-volcans",
+   "nom": "Montagnes et volcans",
+   "nbCartes": 34,
+   "fichier": "data/montagnes-et-volcans.json"
+  },
+  {
+   "slug": "fleuves-mers-et-oceans",
+   "nom": "Fleuves, mers et océans",
+   "nbCartes": 46,
+   "fichier": "data/fleuves-mers-et-oceans.json"
+  },
+  {
+   "slug": "iles",
+   "nom": "Îles",
+   "nbCartes": 44,
+   "fichier": "data/iles.json"
   }
  ]
 }

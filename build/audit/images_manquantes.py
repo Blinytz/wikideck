@@ -125,6 +125,15 @@ CHOISIES = {
     'Dido and Æneas': ('commons', 'Dido and Aeneas - 49598118091.jpg'),
     'Peer Gynt (suites orchestrales)': ('commons',
         '1936 edition of Peer Gynt 006 Peer and Solvieg at the wedding.jpg'),
+    # Six pages dont l'image de tete est un drapeau ou une carte de position,
+    # et dont la recherche par nom ne rendait rien d'utilisable. Fichiers
+    # choisis un par un sur Commons.
+    'Dubaï (ville)': ('commons', 'Dubai skyline.jpg'),
+    'Singapour': ('commons', 'Singapore Skyline-01.jpg'),
+    'Groenland': ('commons', 'Helicopter is taking off Greenland ice sheet 1.jpg'),
+    'Hawaï (île)': ('commons', 'Kailua Beach, Hawaii Island, USA3.jpg'),
+    'Sainte-Hélène (île)': ('commons', 'Saint Helena Island.jpg'),
+    'Zanzibar (archipel)': ('commons', 'Roofs of Zanzibar stone town (3068175720).jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }
@@ -197,11 +206,21 @@ def main():
         # pas repartir dans la note des images a relire
         sur_mesure = x['titrePage'] in CHOISIES
         faute_de_mieux = (CHOISIES.get(x['titrePage']) or ('', ''))[0] == 'faute-de-mieux'
-        url = (choisie(x['titrePage']) or fr.get(x['titrePage'])
-               or en.get(en_par_fr.get(x['titrePage'], ''))
-               or commons(x['titrePage']))
+        # On ESSAIE chaque source dans l'ordre au lieu de s'arreter a la
+        # premiere qui rend une URL. La page fr d'une ville expose son drapeau,
+        # un SVG que le telechargement refuse : sans cette boucle, la carte
+        # restait vide alors que la page anglaise avait une photo.
         mini = 200 if (CHOISIES.get(x['titrePage']) or ('',''))[0] == 'commons-petit' else 300
-        data = il.telecharger_image(url, min_cote=mini, navigateur=False) if url else None
+        data, url = None, None
+        for candidat in (choisie(x['titrePage']), fr.get(x['titrePage']),
+                         en.get(en_par_fr.get(x['titrePage'], '')),
+                         commons(x['titrePage'])):
+            if not candidat:
+                continue
+            data = il.telecharger_image(candidat, min_cote=mini, navigateur=False)
+            if data:
+                url = candidat
+                break
         if not data:
             restent.append(f"{slug} · {x['nom']}")
             continue

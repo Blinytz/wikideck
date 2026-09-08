@@ -59,6 +59,12 @@ ROLES = {
     'figures-religieuses': 'defense',
     # ces cartes poussent contre un pouvoir en place
     'figures-emancipation': 'attaque',
+    'photographies-celebres': 'terrain',
+    'villes-du-monde': 'terrain',
+    'montagnes-et-volcans': 'terrain',
+    'fleuves-mers-et-oceans': 'terrain',
+    'iles': 'terrain',
+    'series-televisees': 'terrain',
     # Musique : le compositeur soutient et amplifie (defense), l'oeuvre pose
     # le decor du tour (terrain), l'interprete populaire emporte le duel
     # (attaque).
@@ -160,6 +166,12 @@ DECLENCHEURS = {
     'philosophes': 'si la ligne compte au moins 2 cartes de collections différentes',
     'figures-religieuses': 'si une carte alliée a été détruite ce tour',
     'figures-emancipation': "si la carte adverse a une rareté supérieure",
+    'photographies-celebres': "si aucun terrain adverse n'est en jeu",
+    'villes-du-monde': 'si la ligne compte au moins 3 cartes',
+    'montagnes-et-volcans': 'si aucune carte alliée n\'a été détruite ce tour',
+    'fleuves-mers-et-oceans': 'si un autre terrain allié est en jeu',
+    'iles': 'si la ligne ne compte aucune autre carte',
+    'series-televisees': 'si la même collection occupe déjà une ligne',
     'grands-compositeurs': 'au début du combat',
     'oeuvres-musicales': 'au premier tour uniquement',
     'musique-populaire': 'après avoir gagné le duel du tour',

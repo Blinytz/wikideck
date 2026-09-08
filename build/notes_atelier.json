@@ -25351,6 +25351,20 @@
    "w": 1,
    "editeLe": 1788899287497,
    "original": true
+  },
+  "musique-populaire_madonna": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "editeLe": 1788899312536,
+   "original": true
+  },
+  "musique-populaire_whitney-houston": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.971111111111111,
+   "editeLe": 1788899315741,
+   "original": false
   }
  },
  "notes": [

@@ -26065,6 +26065,20 @@
    "w": 0.8874505573534699,
    "editeLe": 1788901380408,
    "original": true
+  },
+  "champignons_ergot-du-seigle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901389969,
+   "original": true
+  },
+  "champignons_tricholome-de-la-saint-georges": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9433333333333332,
+   "editeLe": 1788901392663,
+   "original": false
   }
  },
  "notes": [

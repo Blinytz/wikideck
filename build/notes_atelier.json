@@ -25987,6 +25987,13 @@
    "cy": 0.5,
    "w": 0.96,
    "editeLe": 1788901167386,
+   "original": true
+  },
+  "champignons_clitocybe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901186541,
    "original": false
   }
  },

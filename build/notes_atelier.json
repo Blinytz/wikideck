@@ -26051,6 +26051,20 @@
    "w": 1,
    "editeLe": 1788901297577,
    "original": true
+  },
+  "champignons_flammulina-velutipes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1788901363166,
+   "original": true
+  },
+  "champignons_aspergillus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1788901366584,
+   "original": false
   }
  },
  "notes": [

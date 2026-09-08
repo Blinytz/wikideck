@@ -26450,6 +26450,20 @@
    "w": 0.888888888888889,
    "editeLe": 1788902597196,
    "original": true
+  },
+  "fleurs_illet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8971354166666666,
+   "editeLe": 1788902611454,
+   "original": true
+  },
+  "fleurs_chrysantheme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.99,
+   "editeLe": 1788902614255,
+   "original": false
   }
  },
  "notes": [

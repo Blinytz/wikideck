@@ -24518,6 +24518,34 @@
    "w": 1,
    "editeLe": 1788896604898,
    "original": true
+  },
+  "scientifiques-celebres_aristote": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785089684165
+  },
+  "scientifiques-celebres_rene-descartes": {
+   "cx": 0.5,
+   "cy": 0.43368055555555557,
+   "w": 1,
+   "original": true,
+   "editeLe": 1785090128263
+  },
+  "scientifiques-celebres_karl-marx": {
+   "cx": 0.5,
+   "cy": 0.4387148437499999,
+   "w": 1,
+   "editeLe": 1788896150522,
+   "original": true
+  },
+  "scientifiques-celebres_hypatie": {
+   "cx": 0.5,
+   "cy": 0.5197916666666667,
+   "w": 1,
+   "editeLe": 1788896604898,
+   "original": true
   }
  },
  "notes": [

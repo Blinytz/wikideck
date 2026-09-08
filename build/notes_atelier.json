@@ -26498,7 +26498,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1788902642495,
-   "original": false
+   "original": true
   },
   "fleurs_bougainvillea": {
    "cx": 0.5,
@@ -26512,6 +26512,13 @@
    "cy": 0.434375,
    "w": 1,
    "editeLe": 1788902649412,
+   "original": false
+  },
+  "fleurs_nenuphar": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.9888888888888889,
+   "editeLe": 1788902663907,
    "original": false
   }
  },

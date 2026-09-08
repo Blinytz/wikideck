@@ -25764,6 +25764,20 @@
    "w": 1,
    "editeLe": 1788900673112,
    "original": true
+  },
+  "architectes_christopher-wren": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.8893333333333333,
+   "editeLe": 1788900688014,
+   "original": true
+  },
+  "architectes_eugene-viollet-le-duc": {
+   "cx": 0.5,
+   "cy": 0.3942842223650386,
+   "w": 1,
+   "editeLe": 1788900691319,
+   "original": false
   }
  },
  "notes": [

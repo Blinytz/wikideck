@@ -26016,6 +26016,20 @@
    "w": 0.888888888888889,
    "editeLe": 1788901223447,
    "original": true
+  },
+  "champignons_cordyceps": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.885128205128205,
+   "editeLe": 1788901254806,
+   "original": true
+  },
+  "champignons_armillaria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1788901258137,
+   "original": false
   }
  },
  "notes": [

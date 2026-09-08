@@ -25245,13 +25245,20 @@
    "cy": 0.44375,
    "w": 1,
    "editeLe": 1788899030070,
-   "original": false
+   "original": true
   },
   "musique-populaire_georges-brassens": {
    "cx": 0.5038095238095238,
    "cy": 0.5,
    "w": 0.9923809523809524,
    "editeLe": 1788899033893,
+   "original": false
+  },
+  "musique-populaire_serge-gainsbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8683333333333333,
+   "editeLe": 1788899036770,
    "original": false
   }
  },

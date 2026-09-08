@@ -1703,9 +1703,6 @@
 "grands-explorateurs_leif-erikson": {
 "source": "wiki-fr"
 },
-"scientifiques-celebres_aristote": {
-"source": "wiki-fr"
-},
 "scientifiques-celebres_archimede": {
 "source": "memo:grands_scientifiques"
 },
@@ -1741,9 +1738,6 @@
 },
 "scientifiques-celebres_francis-bacon-philosophe": {
 "source": "wiki-fr"
-},
-"scientifiques-celebres_rene-descartes": {
-"source": "wiki-sans-filtre"
 },
 "scientifiques-celebres_blaise-pascal": {
 "source": "wiki-fr"
@@ -11714,9 +11708,6 @@
 "scientifiques-celebres_adam-smith": {
 "source": "wiki-fr"
 },
-"scientifiques-celebres_karl-marx": {
-"source": "wiki-fr"
-},
 "scientifiques-celebres_john-maynard-keynes": {
 "source": "bing"
 },
@@ -11755,9 +11746,6 @@
 },
 "scientifiques-celebres_eratosthene": {
 "source": "bing"
-},
-"scientifiques-celebres_hypatie": {
-"source": "wiki-fr"
 },
 "scientifiques-celebres_averroes": {
 "source": "bing"
@@ -13420,5 +13408,182 @@
 },
 "souverains-et-conquerants_septimia-bathzabbai-zenobie": {
 "source": "choisie"
+},
+"philosophes_aristote": {
+"source": "wiki-fr"
+},
+"philosophes_rene-descartes": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_karl-marx": {
+"source": "wiki-fr"
+},
+"philosophes_hypatie": {
+"source": "wiki-fr"
+},
+"philosophes_socrate": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_platon": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_heraclite": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_parmenide": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_democrite": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_epicure": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_diogene-de-sinope": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_zenon-de-kition": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_plotin": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_epictete": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_lao-tseu": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_tchouang-tseu": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_mencius": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_nagarjuna": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_adi-shankara": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_augustin-d-hippone": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_thomas-d-aquin": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_moise-maimonide": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_al-ghazali": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_ibn-khaldoun": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_guillaume-d-ockham": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_nicolas-machiavel": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_thomas-hobbes": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_baruch-spinoza": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_john-locke": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_david-hume": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_montesquieu": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_emmanuel-kant": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_john-stuart-mill": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_mary-wollstonecraft": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_elisabeth-de-boheme-1618-1680": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_anne-conway": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_georg-wilhelm-friedrich-hegel": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_arthur-schopenhauer": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_s-ren-kierkegaard": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_friedrich-nietzsche": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_henri-bergson": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_edmund-husserl": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_bertrand-russell": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_ludwig-wittgenstein": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_martin-heidegger": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_karl-popper": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_hannah-arendt": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_maurice-merleau-ponty": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_simone-weil": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_g-e-m-anscombe": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_michel-foucault": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_jacques-derrida": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_gilles-deleuze": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_jurgen-habermas": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_john-rawls-philosophe": {
+"source": "choisie"
+},
+"philosophes_martha-nussbaum": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_judith-butler": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_donna-haraway": {
+"source": "wiki-sans-filtre"
+},
+"philosophes_philippa-foot": {
+"source": "choisie-faute-de-mieux"
 }
 }

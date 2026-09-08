@@ -82,6 +82,15 @@ CHOISIES = {
     # La page ne propose qu'un denier de trois centimetres, illisible en
     # vignette ; le tableau de Bouguereau montre la reine.
     'Septimia Bathzabbai Zénobie': ('commons', 'Bouguereau-Zenobia-1850.jpg'),
+    # Le portrait de tete est celui d'un lyceen de 1937 ; celui de 1971 est
+    # l'annee de « Theorie de la justice », et montre l'homme qu'on connait.
+    'John Rawls (philosophe)': ('commons', 'John Rawls (1971 photo portrait).jpg'),
+    # Aucune photo libre de Philippa Foot n'existe : elle est morte en 2010 et
+    # ses portraits sont sous droits. Commons n'a que la plaque bleue posee sur
+    # sa maison d'Oxford. C'est du sujet, mais ce n'est pas un portrait, donc
+    # la carte part a relire plutot que d'etre donnee pour reglee.
+    'Philippa Foot': ('faute-de-mieux', '15 Walton Street, Oxford, with blue '
+                      'plaque to Philippa Foot - geograph.org.uk - 8084209.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }
@@ -114,7 +123,9 @@ def choisie(titre):
     if not mode_valeur:
         return None
     mode, valeur = mode_valeur
-    return il.commons_thumb(valeur) if mode == 'commons' else valeur
+    if mode in ('commons', 'faute-de-mieux'):
+        return il.commons_thumb(valeur)
+    return valeur
 
 
 def main():
@@ -151,6 +162,7 @@ def main():
         # un fichier de CHOISIES a ete ouvert et verifie a la main : il ne doit
         # pas repartir dans la note des images a relire
         sur_mesure = x['titrePage'] in CHOISIES
+        faute_de_mieux = (CHOISIES.get(x['titrePage']) or ('', ''))[0] == 'faute-de-mieux'
         url = (choisie(x['titrePage']) or fr.get(x['titrePage'])
                or en.get(en_par_fr.get(x['titrePage'], ''))
                or commons(x['titrePage']))
@@ -169,7 +181,8 @@ def main():
             f = RACINE / rel
             f.parent.mkdir(parents=True, exist_ok=True)
             f.write_bytes(octets)
-        sources[x['id']] = {'source': 'choisie' if sur_mesure else 'wiki-sans-filtre'}
+        sources[x['id']] = {'source': 'choisie-faute-de-mieux' if faute_de_mieux
+                            else 'choisie' if sur_mesure else 'wiki-sans-filtre'}
 
     if not essai:
         sources_f.write_text(json.dumps(sources, ensure_ascii=False, indent=0),

@@ -699,6 +699,96 @@ PLANS = {
             ('Katsudon', 'Katsudon'),
         ],
     ),
+    'philosophes': dict(
+        nom='Philosophes',
+        # La philosophie n'avait pas de collection : elle etait rangee par
+        # metier d'appoint. Aristote et Descartes chez les scientifiques,
+        # Voltaire et Seneque chez les auteurs. Les quatre transferts sont ceux
+        # dont la page fr dit « philosophe » en premier — Hypatie comprise,
+        # « philosophe neoplatonicienne, astronome et mathematicienne ».
+        # Restent aux sciences Bourdieu, Durkheim, Weber et Adam Smith, qui
+        # sont sociologues et economistes ; restent aux auteurs Ciceron,
+        # Voltaire, Rousseau, Confucius, Seneque, Sartre et Camus, qu'on lit
+        # comme ecrivains. Avicenne et Leibniz sont deja au jeu sous « Ibn
+        # Sina » et « Gottfried Leibniz » : les reprendre doublerait la
+        # personne.
+        transferts=[('scientifiques-celebres', 'Aristote'),
+                    ('scientifiques-celebres', 'René Descartes'),
+                    ('scientifiques-celebres', 'Karl Marx'),
+                    ('scientifiques-celebres', 'Hypatie')],
+        ajouts=[
+            # Antiquite grecque et romaine
+            ('Socrate', 'Socrate'),
+            ('Platon', 'Platon'),
+            ('Héraclite', 'Héraclite'),
+            ('Parménide', 'Parménide'),
+            ('Démocrite', 'Démocrite'),
+            ('Épicure', 'Épicure'),
+            ('Diogène de Sinope', 'Diogène de Sinope'),
+            ('Zénon de Kition', 'Zénon de Kition'),
+            ('Plotin', 'Plotin'),
+            ('Épictète', 'Épictète'),
+            # Pensees d'Asie
+            ('Lao Tseu', 'Lao Tseu'),
+            # « Zhuangzi » sans parenthese est le LIVRE, pas l'auteur
+            ('Zhuangzi', 'Tchouang-tseu'),
+            ('Mencius', 'Mencius'),
+            ('Nagarjuna', 'Nagarjuna'),
+            ('Adi Shankara', 'Adi Shankara'),
+            # Monde medieval chretien, juif et musulman
+            ('Saint Augustin', "Augustin d'Hippone"),
+            ("Thomas d'Aquin", "Thomas d'Aquin"),
+            ('Maïmonide', 'Moïse Maïmonide'),
+            ('Al-Ghazali', 'Al-Ghazali'),
+            ('Ibn Khaldoun', 'Ibn Khaldoun'),
+            ("Guillaume d'Ockham", "Guillaume d'Ockham"),
+            # Age classique et Lumieres
+            ('Machiavel', 'Nicolas Machiavel'),
+            ('Thomas Hobbes', 'Thomas Hobbes'),
+            ('Baruch Spinoza', 'Baruch Spinoza'),
+            ('John Locke', 'John Locke'),
+            ('David Hume', 'David Hume'),
+            ('Montesquieu', 'Montesquieu'),
+            ('Emmanuel Kant', 'Emmanuel Kant'),
+            ('John Stuart Mill', 'John Stuart Mill'),
+            # Les femmes de la philosophie moderne, absentes de ma premiere
+            # liste : elle comptait cinquante noms et deux femmes.
+            ('Mary Wollstonecraft', 'Mary Wollstonecraft'),
+            ('Élisabeth de Bohême', 'Élisabeth de Bohême (1618-1680)'),
+            ('Anne Conway', 'Anne Conway'),
+            # XIXe siecle
+            ('Hegel', 'Georg Wilhelm Friedrich Hegel'),
+            ('Arthur Schopenhauer', 'Arthur Schopenhauer'),
+            ('Søren Kierkegaard', 'Søren Kierkegaard'),
+            ('Friedrich Nietzsche', 'Friedrich Nietzsche'),
+            # XXe siecle
+            ('Henri Bergson', 'Henri Bergson'),
+            ('Edmund Husserl', 'Edmund Husserl'),
+            ('Bertrand Russell', 'Bertrand Russell'),
+            ('Ludwig Wittgenstein', 'Ludwig Wittgenstein'),
+            ('Martin Heidegger', 'Martin Heidegger'),
+            ('Karl Popper', 'Karl Popper'),
+            ('Hannah Arendt', 'Hannah Arendt'),
+            ('Maurice Merleau-Ponty', 'Maurice Merleau-Ponty'),
+            ('Simone Weil', 'Simone Weil'),
+            ('Elizabeth Anscombe', 'Elizabeth Anscombe'),
+            ('Philippa Foot', 'Philippa Foot'),
+            ('Michel Foucault', 'Michel Foucault'),
+            ('Jacques Derrida', 'Jacques Derrida'),
+            ('Gilles Deleuze', 'Gilles Deleuze'),
+            ('Jürgen Habermas', 'Jürgen Habermas'),
+            # « John Rawls » sans parenthese est un homonyme
+            ('John Rawls', 'John Rawls (philosophe)'),
+            ('Martha Nussbaum', 'Martha Nussbaum'),
+            ('Judith Butler', 'Judith Butler'),
+            ('Donna Haraway', 'Donna Haraway'),
+        ],
+        # Ecartes : Iris Murdoch, Susan Sontag et Christine de Pizan, dont la
+        # page dit « ecrivain » d'abord ; Rosa Luxemburg et Angela Davis,
+        # militantes ; Therese d'Avila et Hildegarde de Bingen, mystiques ;
+        # Emilie du Chatelet, deja carte et physicienne ; Ban Zhao,
+        # historienne ; Diotime, sans page et d'existence douteuse.
+    ),
     'objets-mythiques': dict(
         nom='Objets mythiques',
         transferts=[('mythologie-nordique', 'Mjöllnir')],

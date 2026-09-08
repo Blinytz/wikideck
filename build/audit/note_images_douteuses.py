@@ -21,7 +21,9 @@ ICI = Path(__file__).resolve().parent
 RACINE = ICI.parent.parent
 
 # sources dont le sujet n'est pas garanti, de la moins sûre à la moins pire
-DOUTEUSES = ('bing', 'bing-retry', 'bing-retry2', 'wiki-sans-filtre')
+DOUTEUSES = ('bing', 'bing-retry', 'bing-retry2', 'wiki-sans-filtre',
+             # fichier choisi a la main faute d'image libre du sujet
+             'choisie-faute-de-mieux')
 ID_NOTE = 'n-audit-images-douteuses'
 
 

@@ -53,6 +53,8 @@ ROLES = {
     # Une croyance n'attaque pas et n'occupe pas le terrain : elle ordonne et
     # protege. Defense, comme les objets.
     'croyances-et-notions-sacrees': 'defense',
+    # doctrine, pas force : meme famille que les croyances
+    'philosophes': 'defense',
     # Musique : le compositeur soutient et amplifie (defense), l'oeuvre pose
     # le decor du tour (terrain), l'interprete populaire emporte le duel
     # (attaque).
@@ -151,6 +153,7 @@ DECLENCHEURS = {
     'evenements-mythiques': "quand une carte Terrain vient d'être détruite",
     'objets-mythiques': "quand elle est sur le point d'être détruite",
     'croyances-et-notions-sacrees': 'si au moins 2 cartes jouées ce tour partagent un tag',
+    'philosophes': 'si la ligne compte au moins 2 cartes de collections différentes',
     'grands-compositeurs': 'au début du combat',
     'oeuvres-musicales': 'au premier tour uniquement',
     'musique-populaire': 'après avoir gagné le duel du tour',

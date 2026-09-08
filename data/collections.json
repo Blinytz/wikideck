@@ -105,7 +105,7 @@
   {
    "slug": "scientifiques-celebres",
    "nom": "Scientifiques celebres",
-   "nbCartes": 181,
+   "nbCartes": 177,
    "fichier": "data/scientifiques-celebres.json"
   },
   {
@@ -437,6 +437,12 @@
    "nom": "Cuisines du monde",
    "nbCartes": 64,
    "fichier": "data/cuisines-du-monde.json"
+  },
+  {
+   "slug": "philosophes",
+   "nom": "Philosophes",
+   "nbCartes": 59,
+   "fichier": "data/philosophes.json"
   }
  ]
 }

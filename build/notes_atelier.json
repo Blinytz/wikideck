@@ -26470,7 +26470,7 @@
    "cy": 0.407421875,
    "w": 1,
    "editeLe": 1788902618284,
-   "original": false
+   "original": true
   },
   "fleurs_hydrangea": {
    "cx": 0.5,
@@ -26484,6 +26484,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1788902622810,
+   "original": false
+  },
+  "fleurs_magnolia": {
+   "cx": 0.5,
+   "cy": 0.4594531404674054,
+   "w": 1,
+   "editeLe": 1788902626274,
    "original": false
   }
  },

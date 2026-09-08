@@ -26079,6 +26079,20 @@
    "w": 0.9433333333333332,
    "editeLe": 1788901392663,
    "original": true
+  },
+  "arbres_chene": {
+   "cx": 0.49137931034482757,
+   "cy": 0.5,
+   "w": 0.9195402298850575,
+   "editeLe": 1788901437282,
+   "original": true
+  },
+  "arbres_sequoia-geant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901440121,
+   "original": false
   }
  },
  "notes": [

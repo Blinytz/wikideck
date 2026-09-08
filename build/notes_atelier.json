@@ -24916,6 +24916,20 @@
    "cy": 0.32548437500000005,
    "w": 1,
    "editeLe": 1788898164048,
+   "original": true
+  },
+  "grands-compositeurs_gabriel-faure": {
+   "cx": 0.5,
+   "cy": 0.32953320312499995,
+   "w": 1,
+   "editeLe": 1788898169892,
+   "original": false
+  },
+  "grands-compositeurs_gioachino-rossini": {
+   "cx": 0.5,
+   "cy": 0.43043750000000003,
+   "w": 1,
+   "editeLe": 1788898173787,
    "original": false
   }
  },

@@ -485,6 +485,72 @@
    "nom": "Îles",
    "nbCartes": 44,
    "fichier": "data/iles.json"
+  },
+  {
+   "slug": "champions-olympiques",
+   "nom": "Grands champions olympiques",
+   "nbCartes": 40,
+   "fichier": "data/champions-olympiques.json"
+  },
+  {
+   "slug": "jeux-olympiques",
+   "nom": "Jeux olympiques",
+   "nbCartes": 23,
+   "fichier": "data/jeux-olympiques.json"
+  },
+  {
+   "slug": "legendes-du-sport",
+   "nom": "Légendes du sport",
+   "nbCartes": 40,
+   "fichier": "data/legendes-du-sport.json"
+  },
+  {
+   "slug": "conquete-spatiale",
+   "nom": "Conquête spatiale",
+   "nbCartes": 37,
+   "fichier": "data/conquete-spatiale.json"
+  },
+  {
+   "slug": "mineraux-et-pierres",
+   "nom": "Minéraux et pierres précieuses",
+   "nbCartes": 46,
+   "fichier": "data/mineraux-et-pierres.json"
+  },
+  {
+   "slug": "vehicules-mythiques",
+   "nom": "Véhicules mythiques",
+   "nbCartes": 33,
+   "fichier": "data/vehicules-mythiques.json"
+  },
+  {
+   "slug": "langues-du-monde",
+   "nom": "Langues du monde",
+   "nbCartes": 52,
+   "fichier": "data/langues-du-monde.json"
+  },
+  {
+   "slug": "traites-et-textes-fondateurs",
+   "nom": "Traités et textes fondateurs",
+   "nbCartes": 31,
+   "fichier": "data/traites-et-textes-fondateurs.json"
+  },
+  {
+   "slug": "mode-et-couturiers",
+   "nom": "Mode et couturiers",
+   "nbCartes": 40,
+   "fichier": "data/mode-et-couturiers.json"
+  },
+  {
+   "slug": "instruments-de-musique",
+   "nom": "Instruments de musique",
+   "nbCartes": 47,
+   "fichier": "data/instruments-de-musique.json"
+  },
+  {
+   "slug": "races-de-cheval",
+   "nom": "Races de cheval",
+   "nbCartes": 37,
+   "fichier": "data/races-de-cheval.json"
   }
  ]
 }

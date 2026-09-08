@@ -134,6 +134,60 @@ CHOISIES = {
     'Hawaï (île)': ('commons', 'Kailua Beach, Hawaii Island, USA3.jpg'),
     'Sainte-Hélène (île)': ('commons', 'Saint Helena Island.jpg'),
     'Zanzibar (archipel)': ('commons', 'Roofs of Zanzibar stone town (3068175720).jpg'),
+    # Les editions olympiques n'exposent que leur embleme, sous droits.
+    # On prend un moment de l'edition a la place.
+    # la remise de medaille du marathon
+    "Jeux olympiques d'été de 1936": ('commons', 'Sohn Kee-chung (Kitei Son) Medal Ceremony 1936 Summer Olympics.jpg'),
+    # la torche de Mexico
+    "Jeux olympiques d'été de 1968": ('commons', '1968 Summer Olympics torch (cropped).jpg'),
+    # la torche de Munich
+    "Jeux olympiques d'été de 1972": ('commons', '1972 Summer Olympics torch private collection (1) Laslovarga.jpg'),
+    # une championne de Moscou
+    "Jeux olympiques d'été de 1980": ('commons', 'RIAN archive 399455 1980 Summer Olympics Champion Nadezhda Tkachenko.jpg'),
+    # une epreuve de Los Angeles
+    "Jeux olympiques d'été de 1984": ('commons', 'Boxing competition at the 1984 Summer Olympics.jpg'),
+    # un lutteur de Barcelone
+    "Jeux olympiques d'été de 1992": ('commons', 'Rodney Smith - 1992 Summer Olympics.jpg'),
+    # la ceremonie d'ouverture de Pekin
+    "Jeux olympiques d'été de 2008": ('commons', '2008 Summer Olympics - Opening Ceremony - James Tomkins.jpg'),
+    # la finale du 100 metres de Londres
+    "Jeux olympiques d'été de 2012": ('commons', "Athletics at the 2012 Summer Olympics – Men's 100 metres, Preliminaries heat 1 (2).JPG"),
+    # la halle olympique d'Albertville
+    "Jeux olympiques d'hiver de 1992": ('commons', '1992 Winter Olympics Albertville halle olympique 01.JPG'),
+    # un site de l agence
+    'Agence spatiale européenne': ('commons', 'Rosetta Wake-Up at ESA-ESOC, Darmstadt (12069882024).jpeg'),
+    # Les portraits de Lomu sur Commons font 200 a 350 px ; celle-ci le montre
+    # en jeu, a Cardiff en 2006, et elle est lisible.
+    'Jonah Lomu': ('commons', 'Jonah Lomu played for Cardiff in 2006.jpg'),
+    # Une langue et un traite n'ont pas de portrait : ce qui les illustre
+    # est toujours de biais, une page signee ou une salle de conference.
+    # Ces cartes partent donc a relire.
+    # la langue en ecriture
+    'Mandarin standard': ('commons',
+        'Traditional and simplified Chinese characters around the world.png'),
+    # la langue
+    'Yoruba (langue)': ('faute-de-mieux', 'Macdanpets at Lagos State Yoruba Teachers conference Yoruba 4.jpg'),
+    # la langue
+    'Langues maories': ('faute-de-mieux', 'First Lessons in the Maori Language, title page 1862.jpeg'),
+    # la langue signee
+    'Langue des signes française': ('faute-de-mieux', 'Langue des signes.jpg'),
+    # la charte
+    'Charte des Nations unies': ('faute-de-mieux', 'Aklilu Habte-Wold signing UN Charter.jpg'),
+    # l'accord
+    'Accord de Paris sur le climat': ('faute-de-mieux', 'Paris agreement 2.png'),
+    # le protocole
+    'Protocole de Kyoto': ('faute-de-mieux', 'Kyoto Protocol participation map 2010.png'),
+    # l'acte
+    'Actes de navigation': ('commons',
+        'Sebastian Dadler, The Navigation Acts (reverse), 1654, NGA 76322.jpg'),
+    # le traite
+    "Traité sur l'Antarctique": ('commons', '1959 Antarctic Treaty.jpg'),
+    # le traite
+    'Traité sur la non-prolifération des armes nucléaires': ('faute-de-mieux', 'Martha Hennessy part of UN panel during the Pre Non Proliferation Treaty in May 2019.jpg'),
+    # la convention
+    "Convention relative aux droits de l'enfant": ('faute-de-mieux', 'Convention on the Rights of the Child (UNCRC).jpg'),
+    # le couturier ou sa maison
+    'Emilio Pucci': ('faute-de-mieux', 'Felgekleurde gedessineerde zijden japon in overwegend roze en groen, ‘Emilio Pucci’, objectnr 75236-1.JPG'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

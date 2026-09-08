@@ -26861,8 +26861,6 @@
     "musique-populaire_iam",
     "musique-populaire_alt-j",
     "sculptures-celebres_manneken-pis",
-    "fleurs_hydrangea",
-    "fleurs_nenuphar",
     "plantes-cultivees_ail-cultive",
     "plantes-cultivees_orange-fruit",
     "plantes-cultivees_aubergine",
@@ -27732,11 +27730,12 @@
     "series-televisees_kaamelott",
     "series-televisees_le-bureau-des-legendes",
     "series-televisees_engrenages-serie-televisee",
-    "series-televisees_dix-pour-cent"
+    "series-televisees_dix-pour-cent",
+    "series-televisees_fargo-serie-televisee"
    ],
    "statut": "ouverte",
    "creeLe": 1785704271989,
-   "majLe": 1788902453655
+   "majLe": 1788903025848
   },
   {
    "id": "n1786210673307",

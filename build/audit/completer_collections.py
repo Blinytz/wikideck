@@ -54,6 +54,11 @@ AJOUTS = {
     # Trois demandes a la lecture de l'atelier. La collection couvrait mal la
     # chanson francaise d'auteur et le rap hexagonal, et rien de la pop
     # britannique des annees 2010.
+    # « Fargo » etait bloque : le film est deja carte de cinema moderne, et la
+    # regle 5 refuse l'homonyme. La serie prend donc le titre de sa page.
+    'series-televisees': [
+        ('Fargo (série télévisée)', 'Fargo (série télévisée)'),
+    ],
     'musique-populaire': [
         ('Françoise Hardy', 'Françoise Hardy'),
         ('IAM', 'IAM'),

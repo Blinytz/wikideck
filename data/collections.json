@@ -555,7 +555,7 @@
   {
    "slug": "series-televisees",
    "nom": "Séries télévisées",
-   "nbCartes": 56,
+   "nbCartes": 57,
    "fichier": "data/series-televisees.json"
   }
  ]

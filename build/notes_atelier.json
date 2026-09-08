@@ -25042,13 +25042,20 @@
    "cy": 0.41514453125,
    "w": 1,
    "editeLe": 1788898568067,
-   "original": false
+   "original": true
   },
   "grands-compositeurs_jean-sibelius": {
    "cx": 0.5,
    "cy": 0.359375,
    "w": 1,
    "editeLe": 1788898571896,
+   "original": false
+  },
+  "grands-compositeurs_edvard-grieg": {
+   "cx": 0.5,
+   "cy": 0.3664453125,
+   "w": 1,
+   "editeLe": 1788898575190,
    "original": false
   }
  },

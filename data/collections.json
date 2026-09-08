@@ -381,7 +381,7 @@
   {
    "slug": "musique-populaire",
    "nom": "Musique populaire",
-   "nbCartes": 60,
+   "nbCartes": 59,
    "fichier": "data/musique-populaire.json"
   },
   {

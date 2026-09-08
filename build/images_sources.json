@@ -14663,47 +14663,14 @@
 "champions-olympiques_wilma-rudolph": {
 "source": "wiki-sans-filtre"
 },
-"jeux-olympiques_jeux-olympiques": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_jeux-olympiques-antiques": {
-"source": "wiki-sans-filtre"
-},
 "jeux-olympiques_jeux-olympiques-de-1896": {
-"source": "wiki-sans-filtre"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-de-1900": {
-"source": "wiki-sans-filtre"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-2024": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_jeux-olympiques-d-hiver-de-1924": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_jeux-paralympiques": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_comite-international-olympique": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_flamme-olympique": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_drapeau-olympique": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_pierre-de-coubertin": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_marathon-sport": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_decathlon": {
-"source": "wiki-sans-filtre"
-},
-"jeux-olympiques_stade-olympique-de-berlin": {
-"source": "wiki-sans-filtre"
+"source": "choisie-faute-de-mieux"
 },
 "legendes-du-sport_mohamed-ali": {
 "source": "wiki-sans-filtre"
@@ -15057,31 +15024,28 @@
 "source": "wiki-sans-filtre"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1936": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1968": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1972": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1980": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1984": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-1992": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-2008": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "jeux-olympiques_jeux-olympiques-d-ete-de-2012": {
-"source": "choisie"
-},
-"jeux-olympiques_jeux-olympiques-d-hiver-de-1992": {
-"source": "choisie"
+"source": "choisie-faute-de-mieux"
 },
 "legendes-du-sport_jonah-lomu": {
 "source": "choisie"
@@ -16215,6 +16179,144 @@
 "source": "wiki-sans-filtre"
 },
 "astronautes-et-cosmonautes_jean-pierre-haignere": {
+"source": "choisie-faute-de-mieux"
+},
+"legendes-du-sport_pierre-de-coubertin": {
+"source": "wiki-sans-filtre"
+},
+"monuments-emblematiques_stade-olympique-de-berlin": {
+"source": "wiki-sans-filtre"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1924": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1992": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1928": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1960": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-de-1908": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-de-1912": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-de-1920": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1928": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1968": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1988": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2026": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1924": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1932": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1948": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1952": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1956": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1964": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1976": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1988": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-1996": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-2000": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-2004": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-2016": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-d-ete-de-2020": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques_jeux-olympiques-de-1904": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1932": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1936": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1948": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1952": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1956": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1960": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1964": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1972": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1976": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1980": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1984": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1994": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1998": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2002": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2006": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2010": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2014": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2018": {
+"source": "choisie-faute-de-mieux"
+},
+"jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2022": {
 "source": "choisie-faute-de-mieux"
 }
 }

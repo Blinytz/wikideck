@@ -68,6 +68,7 @@ ROLES = {
     'races-de-cheval': 'attaque',
     'champions-olympiques': 'attaque',
     'jeux-olympiques': 'terrain',
+    'jeux-olympiques-hiver': 'terrain',
     'legendes-du-sport': 'attaque',
     'astronautes-et-cosmonautes': 'attaque',
     # la collection ne garde que des engins et des lieux : terrain
@@ -188,6 +189,7 @@ DECLENCHEURS = {
     'races-de-cheval': 'si aucun terrain adverse n\'est en jeu',
     'champions-olympiques': 'si la carte adverse a une rareté inférieure',
     'jeux-olympiques': 'si au moins 2 cartes de sport sont en jeu',
+    'jeux-olympiques-hiver': 'si au moins 2 cartes de sport sont en jeu',
     'legendes-du-sport': 'si la ligne compte au moins 2 cartes',
     'astronautes-et-cosmonautes': 'si un engin spatial allié est en jeu',
     'conquete-spatiale': 'si un corps céleste est en jeu',

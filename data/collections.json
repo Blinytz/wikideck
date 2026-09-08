@@ -33,7 +33,7 @@
   {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
-   "nbCartes": 88,
+   "nbCartes": 89,
    "fichier": "data/monuments-emblematiques.json"
   },
   {
@@ -495,13 +495,19 @@
   {
    "slug": "jeux-olympiques",
    "nom": "Jeux olympiques",
-   "nbCartes": 23,
+   "nbCartes": 30,
    "fichier": "data/jeux-olympiques.json"
+  },
+  {
+   "slug": "jeux-olympiques-hiver",
+   "nom": "Jeux olympiques d'hiver",
+   "fichier": "data/jeux-olympiques-hiver.json",
+   "nbCartes": 25
   },
   {
    "slug": "legendes-du-sport",
    "nom": "Légendes du sport",
-   "nbCartes": 40,
+   "nbCartes": 41,
    "fichier": "data/legendes-du-sport.json"
   },
   {

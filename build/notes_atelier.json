@@ -26576,6 +26576,20 @@
    "w": 1,
    "editeLe": 1788902769193,
    "original": true
+  },
+  "fleurs_prunus-serrulata": {
+   "cx": 0.48723987626546683,
+   "cy": 0.5,
+   "w": 0.9073865766779152,
+   "editeLe": 1788902786555,
+   "original": true
+  },
+  "fleurs_plumeria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902789170,
+   "original": false
   }
  },
  "notes": [

@@ -24671,6 +24671,20 @@
    "cy": 0.41427734375,
    "w": 1,
    "editeLe": 1788897700656,
+   "original": true
+  },
+  "grands-compositeurs_franz-schubert": {
+   "cx": 0.5,
+   "cy": 0.469857421875,
+   "w": 1,
+   "editeLe": 1788897703902,
+   "original": false
+  },
+  "grands-compositeurs_hector-berlioz": {
+   "cx": 0.5,
+   "cy": 0.421044921875,
+   "w": 1,
+   "editeLe": 1788897707217,
    "original": false
   }
  },

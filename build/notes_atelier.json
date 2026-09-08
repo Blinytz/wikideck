@@ -25658,13 +25658,27 @@
    "cy": 0.387761733263731,
    "w": 1,
    "editeLe": 1788900502480,
-   "original": false
+   "original": true
   },
   "architectes_zaha-hadid": {
    "cx": 0.5,
    "cy": 0.4423815865217495,
    "w": 1,
    "editeLe": 1788900505995,
+   "original": false
+  },
+  "architectes_oscar-niemeyer": {
+   "cx": 0.5,
+   "cy": 0.35925001677870744,
+   "w": 1,
+   "editeLe": 1788900509633,
+   "original": false
+  },
+  "architectes_tadao-ando": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788900512661,
    "original": false
   }
  },

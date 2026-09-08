@@ -25841,6 +25841,20 @@
    "w": 1,
    "editeLe": 1788900870698,
    "original": true
+  },
+  "champignons_amanite-tue-mouches": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1788900882676,
+   "original": true
+  },
+  "champignons_amanite-phalloide": {
+   "cx": 0.5,
+   "cy": 0.46080078125,
+   "w": 1,
+   "editeLe": 1788900887257,
+   "original": false
   }
  },
  "notes": [

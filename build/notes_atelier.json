@@ -24623,6 +24623,20 @@
    "w": 0.9716666666666666,
    "editeLe": 1788897593574,
    "original": true
+  },
+  "grands-compositeurs_claudio-monteverdi": {
+   "cx": 0.5,
+   "cy": 0.386328125,
+   "w": 1,
+   "editeLe": 1788897658596,
+   "original": true
+  },
+  "grands-compositeurs_antonio-vivaldi": {
+   "cx": 0.5,
+   "cy": 0.41990595611285264,
+   "w": 1,
+   "editeLe": 1788897663046,
+   "original": false
   }
  },
  "notes": [

@@ -26002,6 +26002,13 @@
    "w": 0.8933333333333333,
    "editeLe": 1788901205380,
    "original": true
+  },
+  "champignons_hericium-erinaceus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901207944,
+   "original": false
   }
  },
  "notes": [

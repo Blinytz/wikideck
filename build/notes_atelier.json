@@ -26491,6 +26491,20 @@
    "cy": 0.4594531404674054,
    "w": 1,
    "editeLe": 1788902626274,
+   "original": true
+  },
+  "fleurs_wisteria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902642495,
+   "original": false
+  },
+  "fleurs_bougainvillea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902646445,
    "original": false
   }
  },

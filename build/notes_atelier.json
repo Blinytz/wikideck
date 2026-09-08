@@ -24749,6 +24749,27 @@
    "w": 1,
    "editeLe": 1788897847777,
    "original": true
+  },
+  "grands-compositeurs_claude-debussy": {
+   "cx": 0.5,
+   "cy": 0.4050390625,
+   "w": 1,
+   "editeLe": 1788897852777,
+   "original": true
+  },
+  "grands-compositeurs_maurice-ravel": {
+   "cx": 0.5,
+   "cy": 0.428515625,
+   "w": 1,
+   "editeLe": 1788897856300,
+   "original": false
+  },
+  "grands-compositeurs_erik-satie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788897859117,
+   "original": false
   }
  },
  "notes": [

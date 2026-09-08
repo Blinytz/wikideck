@@ -26463,6 +26463,27 @@
    "cy": 0.5,
    "w": 0.99,
    "editeLe": 1788902614255,
+   "original": true
+  },
+  "fleurs_dahlia": {
+   "cx": 0.5,
+   "cy": 0.407421875,
+   "w": 1,
+   "editeLe": 1788902618284,
+   "original": false
+  },
+  "fleurs_hydrangea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.885,
+   "editeLe": 1788902620549,
+   "original": false
+  },
+  "fleurs_camellia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788902622810,
    "original": false
   }
  },

@@ -26380,6 +26380,20 @@
    "w": 1,
    "editeLe": 1788902504080,
    "original": true
+  },
+  "fleurs_orchidaceae": {
+   "cx": 0.4875,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "editeLe": 1788902518971,
+   "original": true
+  },
+  "fleurs_lys": {
+   "cx": 0.5,
+   "cy": 0.682738264143467,
+   "w": 1,
+   "editeLe": 1788902522781,
+   "original": false
   }
  },
  "notes": [

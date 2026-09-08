@@ -399,7 +399,7 @@
   {
    "slug": "champignons",
    "nom": "Champignons",
-   "nbCartes": 35,
+   "nbCartes": 34,
    "fichier": "data/champignons.json"
   },
   {

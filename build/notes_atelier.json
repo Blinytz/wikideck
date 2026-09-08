@@ -25078,6 +25078,20 @@
    "w": 0.8865800865800866,
    "editeLe": 1788898631785,
    "original": true
+  },
+  "musique-populaire_the-beatles": {
+   "cx": 0.505859375,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1788898726104,
+   "original": true
+  },
+  "musique-populaire_bob-dylan": {
+   "cx": 0.5,
+   "cy": 0.2911601637303829,
+   "w": 1,
+   "editeLe": 1788898730851,
+   "original": false
   }
  },
  "notes": [

@@ -381,13 +381,13 @@
   {
    "slug": "musique-populaire",
    "nom": "Musique populaire",
-   "nbCartes": 58,
+   "nbCartes": 61,
    "fichier": "data/musique-populaire.json"
   },
   {
    "slug": "sculptures-celebres",
    "nom": "Sculptures célèbres",
-   "nbCartes": 22,
+   "nbCartes": 23,
    "fichier": "data/sculptures-celebres.json"
   },
   {
@@ -465,7 +465,7 @@
   {
    "slug": "villes-du-monde",
    "nom": "Villes du monde",
-   "nbCartes": 49,
+   "nbCartes": 50,
    "fichier": "data/villes-du-monde.json"
   },
   {

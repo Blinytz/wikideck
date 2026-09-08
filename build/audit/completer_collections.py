@@ -51,6 +51,25 @@ AJOUTS = {
     # Morricone, Rota, Zimmer et Takemitsu n'ont pas d'article de bande
     # originale sur fr.wikipedia, et les films eux-memes sont deja cartes
     # ailleurs — la regle 5 interdit de les reprendre ici.
+    # Trois demandes a la lecture de l'atelier. La collection couvrait mal la
+    # chanson francaise d'auteur et le rap hexagonal, et rien de la pop
+    # britannique des annees 2010.
+    'musique-populaire': [
+        ('Françoise Hardy', 'Françoise Hardy'),
+        ('IAM', 'IAM'),
+        ('alt-J', 'Alt-J'),
+    ],
+    # Le Manneken-Pis manquait, alors que c'est sans doute la statue la plus
+    # visitee d'Europe du Nord.
+    'sculptures-celebres': [
+        ('Manneken-Pis', 'Manneken-Pis'),
+    ],
+    # « Paris » etait bloque tant que le prince troyen s'appelait « Pâris » :
+    # la regle 5 ne distingue pas les accents. Il est renomme « Pâris
+    # (mythologie) », la ville peut entrer.
+    'villes-du-monde': [
+        ('Paris', 'Paris'),
+    ],
     'oeuvres-musicales': [
         ("L'Orfeo", "L'Orfeo"),                                  # Monteverdi
         ('Symphonie nº 94 « La Surprise »', 'Symphonie no 94 de Joseph Haydn'),

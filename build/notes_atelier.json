@@ -25686,6 +25686,13 @@
    "cy": 0.36694242151230483,
    "w": 0.6830134553650705,
    "editeLe": 1788900529687,
+   "original": true
+  },
+  "architectes_walter-gropius": {
+   "cx": 0.5,
+   "cy": 0.4369675622542595,
+   "w": 1,
+   "editeLe": 1788900534568,
    "original": false
   }
  },

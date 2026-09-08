@@ -24944,6 +24944,20 @@
    "cy": 0.34939843749999994,
    "w": 1,
    "editeLe": 1788898189582,
+   "original": true
+  },
+  "grands-compositeurs_anton-bruckner": {
+   "cx": 0.5,
+   "cy": 0.35614062499999993,
+   "w": 1,
+   "editeLe": 1788898200439,
+   "original": false
+  },
+  "grands-compositeurs_felix-mendelssohn": {
+   "cx": 0.5,
+   "cy": 0.37143359375,
+   "w": 1,
+   "editeLe": 1788898204451,
    "original": false
   }
  },

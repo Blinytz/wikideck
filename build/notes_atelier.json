@@ -25917,6 +25917,20 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1788901101534,
+   "original": true
+  },
+  "champignons_pleurotus-ostreatus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1788901104246,
+   "original": false
+  },
+  "champignons_bolet-satan": {
+   "cx": 0.5,
+   "cy": 0.4749058971141782,
+   "w": 1,
+   "editeLe": 1788901108484,
    "original": false
   }
  },

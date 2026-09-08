@@ -26142,6 +26142,20 @@
    "w": 0.9216666666666667,
    "editeLe": 1788901560265,
    "original": true
+  },
+  "arbres_erable": {
+   "cx": 0.5,
+   "cy": 0.5828125,
+   "w": 1,
+   "editeLe": 1788901634738,
+   "original": true
+  },
+  "arbres_saule-pleureur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1788901637615,
+   "original": false
   }
  },
  "notes": [

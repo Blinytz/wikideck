@@ -26771,7 +26771,7 @@
    "cy": 0.36875,
    "w": 1,
    "editeLe": 1788972564881,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_frank-borman": {
    "cx": 0.5,
@@ -26785,6 +26785,20 @@
    "cy": 0.4575,
    "w": 1,
    "editeLe": 1788972574083,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_charles-conrad": {
+   "cx": 0.5,
+   "cy": 0.475953125,
+   "w": 1,
+   "editeLe": 1788972578712,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_alan-bean": {
+   "cx": 0.5,
+   "cy": 0.32125,
+   "w": 1,
+   "editeLe": 1788972582543,
    "original": false
   }
  },

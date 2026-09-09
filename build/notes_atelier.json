@@ -26736,6 +26736,13 @@
    "cy": 0.515328125,
    "w": 1,
    "editeLe": 1788972542491,
+   "original": true
+  },
+  "astronautes-et-cosmonautes_walter-schirra": {
+   "cx": 0.5,
+   "cy": 0.5090097656250001,
+   "w": 1,
+   "editeLe": 1788972546568,
    "original": false
   }
  },

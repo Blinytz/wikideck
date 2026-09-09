@@ -26960,7 +26960,7 @@
    "cy": 0.4225,
    "w": 1,
    "editeLe": 1788972766455,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_alexander-gerst": {
    "cx": 0.5,
@@ -26974,6 +26974,13 @@
    "cy": 0.42375,
    "w": 1,
    "editeLe": 1788972773943,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_helen-sharman": {
+   "cx": 0.5,
+   "cy": 0.37916666666666665,
+   "w": 1,
+   "editeLe": 1788972792416,
    "original": false
   }
  },

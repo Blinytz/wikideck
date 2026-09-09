@@ -11,6 +11,40 @@ import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
 const esc = s => String(s ?? '').replace(/[&<>"']/g,
   c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+// GitHub Pages limite les requêtes par IP et par salve. Un `Promise.all` sur
+// la liste des collections en tirait autant qu'il y a de collections, d'un
+// seul coup : 32 au début du projet, 95 aujourd'hui, et l'atelier recevait
+// alors la page « Rate limit exceeded » au lieu de ses données. On plafonne
+// donc le nombre de requêtes en vol, et on retente celles qui sont refusées.
+const LARGEUR_CHARGEMENT = 6;
+
+async function fetchRetente(url, essais = 4) {
+  for (let i = 0; ; i++) {
+    const r = await fetch(url);
+    if (r.ok) return r;
+    // 429 « trop de requêtes », 403 que Pages renvoie parfois à la place :
+    // les deux se résolvent en patientant, les autres non.
+    if ((r.status !== 429 && r.status !== 403) || i >= essais) {
+      throw new Error(`${url} : HTTP ${r.status}`);
+    }
+    await new Promise(t => setTimeout(t, 400 * 2 ** i));
+  }
+}
+
+async function parLots(liste, travail, largeur = LARGEUR_CHARGEMENT) {
+  const sortie = new Array(liste.length);
+  let curseur = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(largeur, liste.length) }, async () => {
+      while (curseur < liste.length) {
+        const i = curseur++;
+        sortie[i] = await travail(liste[i]);
+      }
+    })
+  );
+  return sortie;
+}
+
 const TAGS = ['hors-sujet', 'mauvaise qualité', 'style incohérent',
               'mauvaise page liée', 'recadrer', 'supprimer la carte'];
 
@@ -98,7 +132,7 @@ async function demarrer() {
   if (!getToken()) { afficherVue('config'); }
 
   const bust = `?v=${Date.now()}`;
-  const index = await (await fetch('data/collections.json' + bust)).json();
+  const index = await (await fetchRetente('data/collections.json' + bust)).json();
   // Le total etait ecrit en dur dans atelier.html — « 2304 cartes » — et n'a
   // plus rien dit des que le jeu a grossi. L'index le connait : on le lui
   // demande des qu'il arrive, avant meme d'avoir telecharge les collections.
@@ -108,8 +142,8 @@ async function demarrer() {
     attente.textContent = `Chargement des ${total.toLocaleString('fr-FR')} cartes`
       + ` de ${index.collections.length} collections…`;
   }
-  const fichiers = await Promise.all(index.collections.map(c =>
-    fetch(c.fichier + bust).then(r => r.json())));
+  const fichiers = await parLots(index.collections,
+    c => fetchRetente(c.fichier + bust).then(r => r.json()));
   collections = fichiers.map(f => ({ slug: f.slug, nom: f.collection, cartes: f.cartes }));
   for (const col of collections) for (const c of col.cartes) parId.set(c.id, c);
   try {

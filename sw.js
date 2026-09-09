@@ -3,7 +3,7 @@
 // Tout ce qui est servi (shell, data/*.json, images) est mis en cache au vol,
 // donc l'app reste 100% fonctionnelle hors-ligne après la première visite.
 
-const CACHE = 'wikideck-v3-logos';
+const CACHE = 'wikideck-v4-debit';
 
 const COQUILLE = [
   './', './index.html', './manifest.json', './css/app.css',

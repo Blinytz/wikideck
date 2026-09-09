@@ -26653,6 +26653,20 @@
    "w": 1,
    "editeLe": 1788972350776,
    "original": true
+  },
+  "astronautes-et-cosmonautes_laika": {
+   "cx": 0.4604166666666667,
+   "cy": 0.5000000000000001,
+   "w": 0.9208333333333334,
+   "editeLe": 1788972372483,
+   "original": true
+  },
+  "astronautes-et-cosmonautes_thomas-pesquet": {
+   "cx": 0.5,
+   "cy": 0.3584921875,
+   "w": 1,
+   "editeLe": 1788972376699,
+   "original": false
   }
  },
  "notes": [

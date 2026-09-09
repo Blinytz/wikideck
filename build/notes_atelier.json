@@ -26639,6 +26639,20 @@
    "w": 1,
    "original": true,
    "editeLe": 1785272447386
+  },
+  "astronautes-et-cosmonautes_alan-shepard": {
+   "cx": 0.5,
+   "cy": 0.355239898989899,
+   "w": 1,
+   "editeLe": 1788972347121,
+   "original": true
+  },
+  "astronautes-et-cosmonautes_john-glenn": {
+   "cx": 0.5,
+   "cy": 0.33388671875,
+   "w": 1,
+   "editeLe": 1788972350776,
+   "original": false
   }
  },
  "notes": [

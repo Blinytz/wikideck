@@ -26904,7 +26904,7 @@
    "cy": 0.47375,
    "w": 1,
    "editeLe": 1788972690065,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_kathryn-d-sullivan": {
    "cx": 0.5,
@@ -26925,6 +26925,13 @@
    "cy": 0.42112499999999997,
    "w": 1,
    "editeLe": 1788972716982,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_jessica-meir": {
+   "cx": 0.5,
+   "cy": 0.43875,
+   "w": 1,
+   "editeLe": 1788972720906,
    "original": false
   }
  },

@@ -26578,11 +26578,11 @@
    "original": true
   },
   "astronautes-et-cosmonautes_youri-gagarine": {
-   "cx": 0.5,
+   "cx": 0.5013869047619048,
    "cy": 0.5,
    "w": 0.8876190476190476,
-   "original": true,
-   "editeLe": 1785083867195
+   "editeLe": 1788972380640,
+   "original": true
   },
   "astronautes-et-cosmonautes_valentina-terechkova": {
    "cx": 0.5,
@@ -26666,7 +26666,7 @@
    "cy": 0.3584921875,
    "w": 1,
    "editeLe": 1788972376699,
-   "original": false
+   "original": true
   }
  },
  "notes": [

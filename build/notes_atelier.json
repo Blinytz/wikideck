@@ -26743,6 +26743,20 @@
    "cy": 0.5090097656250001,
    "w": 1,
    "editeLe": 1788972546568,
+   "original": true
+  },
+  "astronautes-et-cosmonautes_gordon-cooper": {
+   "cx": 0.5,
+   "cy": 0.43375,
+   "w": 1,
+   "editeLe": 1788972550957,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_donald-slayton": {
+   "cx": 0.5,
+   "cy": 0.41,
+   "w": 1,
+   "editeLe": 1788972555484,
    "original": false
   }
  },

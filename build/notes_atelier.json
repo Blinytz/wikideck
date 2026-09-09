@@ -26764,7 +26764,7 @@
    "cy": 0.45375,
    "w": 1,
    "editeLe": 1788972559150,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_james-lovell": {
    "cx": 0.5,
@@ -26778,6 +26778,13 @@
    "cy": 0.44125,
    "w": 1,
    "editeLe": 1788972568507,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_william-anders": {
+   "cx": 0.5,
+   "cy": 0.4575,
+   "w": 1,
+   "editeLe": 1788972574083,
    "original": false
   }
  },

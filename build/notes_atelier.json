@@ -26750,13 +26750,20 @@
    "cy": 0.43375,
    "w": 1,
    "editeLe": 1788972550957,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_donald-slayton": {
    "cx": 0.5,
    "cy": 0.41,
    "w": 1,
    "editeLe": 1788972555484,
+   "original": false
+  },
+  "astronautes-et-cosmonautes_scott-carpenter": {
+   "cx": 0.5,
+   "cy": 0.45375,
+   "w": 1,
+   "editeLe": 1788972559150,
    "original": false
   }
  },

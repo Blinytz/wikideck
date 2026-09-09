@@ -26588,15 +26588,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8683333333333333,
-   "original": true,
-   "editeLe": 1785271904354
+   "editeLe": 1788972385126,
+   "original": true
   },
   "astronautes-et-cosmonautes_neil-armstrong": {
    "cx": 0.5867768595041324,
    "cy": 0.3431273279111247,
    "w": 0.8264462809917353,
-   "original": true,
-   "editeLe": 1785083911275
+   "editeLe": 1788972388488,
+   "original": true
   },
   "astronautes-et-cosmonautes_buzz-aldrin": {
    "cx": 0.5227272727272728,
@@ -26635,10 +26635,10 @@
   },
   "astronautes-et-cosmonautes_chris-hadfield": {
    "cx": 0.5,
-   "cy": 0.37125,
+   "cy": 0.35125,
    "w": 1,
-   "original": true,
-   "editeLe": 1785272447386
+   "editeLe": 1788972393363,
+   "original": true
   },
   "astronautes-et-cosmonautes_alan-shepard": {
    "cx": 0.5,

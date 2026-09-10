@@ -28032,6 +28032,13 @@
    "w": 0.909090909090909,
    "editeLe": 1789056120094,
    "original": true
+  },
+  "plantes-cultivees_vigne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789056124349,
+   "original": false
   }
  },
  "notes": [

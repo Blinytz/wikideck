@@ -375,7 +375,7 @@
   {
    "slug": "oeuvres-musicales",
    "nom": "Œuvres musicales majeures",
-   "nbCartes": 76,
+   "nbCartes": 75,
    "fichier": "data/oeuvres-musicales.json"
   },
   {

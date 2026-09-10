@@ -28718,6 +28718,20 @@
    "w": 0.8858333333333333,
    "editeLe": 1789058995011,
    "original": true
+  },
+  "plats-francais_eclair-patisserie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8882381649585163,
+   "editeLe": 1789059042839,
+   "original": true
+  },
+  "plats-francais_mille-feuille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789059045969,
+   "original": false
   }
  },
  "notes": [

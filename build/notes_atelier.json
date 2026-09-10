@@ -28494,6 +28494,13 @@
    "w": 0.8888888888888888,
    "editeLe": 1789057917636,
    "original": true
+  },
+  "fromages_bleu-de-gex-haut-jura": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "editeLe": 1789057933473,
+   "original": true
   }
  },
  "notes": [

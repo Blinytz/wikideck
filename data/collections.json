@@ -569,6 +569,12 @@
    "nom": "Astronautes et cosmonautes",
    "nbCartes": 74,
    "fichier": "data/astronautes-et-cosmonautes.json"
+  },
+  {
+   "slug": "cepages",
+   "nom": "Cépages célèbres",
+   "nbCartes": 64,
+   "fichier": "data/cepages.json"
   }
  ]
 }

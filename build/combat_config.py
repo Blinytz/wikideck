@@ -98,6 +98,8 @@ ROLES = {
     'fleurs': 'defense',
     'plantes-cultivees': 'terrain',
     'fromages': 'defense',
+    # un cepage est un terroir avant d'etre une plante
+    'cepages': 'terrain',
     # Un plat restaure : defense, comme les fromages.
     'plats-francais': 'defense',
     'cuisines-du-monde': 'defense',
@@ -209,6 +211,7 @@ DECLENCHEURS = {
     'fleurs': "si le joueur a moins de cartes en main que l'adversaire",
     'plantes-cultivees': 'au début du combat',
     'fromages': 'si une autre carte de sa collection est en jeu',
+    'cepages': 'si un fromage ou un plat est en jeu',
     'plats-francais': 'quand la Base passe sous 50 % de ses PV',
     'cuisines-du-monde': 'quand la Base passe sous 50 % de ses PV',
 }

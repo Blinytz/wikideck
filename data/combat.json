@@ -95,7 +95,8 @@
   "instruments-de-musique": "attaque",
   "races-de-cheval": "attaque",
   "series-televisees": "terrain",
-  "astronautes-et-cosmonautes": "attaque"
+  "astronautes-et-cosmonautes": "attaque",
+  "cepages": "terrain"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -192,7 +193,8 @@
   "instruments-de-musique": "si une œuvre musicale est en jeu",
   "races-de-cheval": "si aucun terrain adverse n'est en jeu",
   "series-televisees": "si la même collection occupe déjà une ligne",
-  "astronautes-et-cosmonautes": "si un engin spatial allié est en jeu"
+  "astronautes-et-cosmonautes": "si un engin spatial allié est en jeu",
+  "cepages": "si un fromage ou un plat est en jeu"
  },
  "catalogueDeclencheurs": [
   "au début du combat",
@@ -625,6 +627,7 @@
   "Birmanie",
   "Biélorussie",
   "Bolivie",
+  "Bourgogne",
   "Brandebourg-Prusse",
   "Bretagne",
   "Brésil",
@@ -638,6 +641,7 @@
   "Cameroun",
   "Canada",
   "Cap-Vert",
+  "Charente",
   "Chili",
   "Chine",
   "Chine impériale",
@@ -705,15 +709,18 @@
   "Gabon",
   "Giraffa camelopardalis",
   "Gojoseon",
+  "Grand Est",
   "Grèce",
   "Grèce antique",
   "Grèce ottomane",
   "Guatemala",
+  "Géorgie",
   "Gévaudan",
   "Halicarnasse",
   "Hambourg",
   "Han orientaux",
   "Haut Moyen Âge",
+  "Haut-Adige",
   "Haut-Empire romain",
   "Haute Antiquité",
   "Haute Renaissance",

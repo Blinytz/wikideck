@@ -29145,6 +29145,20 @@
    "w": 1,
    "editeLe": 1789060845660,
    "original": true
+  },
+  "cuisines-du-monde_chili-con-carne": {
+   "cx": 0.5594557823129251,
+   "cy": 0.5,
+   "w": 0.8810884353741496,
+   "editeLe": 1789060861656,
+   "original": true
+  },
+  "cuisines-du-monde_guacamole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789060865896,
+   "original": false
   }
  },
  "notes": [

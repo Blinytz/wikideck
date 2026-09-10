@@ -417,7 +417,7 @@
   {
    "slug": "plantes-cultivees",
    "nom": "Plantes cultivées",
-   "nbCartes": 39,
+   "nbCartes": 38,
    "fichier": "data/plantes-cultivees.json"
   },
   {

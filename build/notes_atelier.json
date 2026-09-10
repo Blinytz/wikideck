@@ -28592,6 +28592,20 @@
    "w": 0.7346189164370981,
    "editeLe": 1789058432119,
    "original": true
+  },
+  "plats-francais_croque-monsieur": {
+   "cx": 0.43910544110087385,
+   "cy": 0.41322314049586767,
+   "w": 0.7560599470125349,
+   "editeLe": 1789058452446,
+   "original": true
+  },
+  "plats-francais_steak-frites": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.7116666666666667,
+   "editeLe": 1789058456885,
+   "original": false
   }
  },
  "notes": [

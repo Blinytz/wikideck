@@ -28340,6 +28340,13 @@
    "w": 1,
    "editeLe": 1789057162418,
    "original": true
+  },
+  "fromages_bleu-d-auvergne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9479166666666666,
+   "editeLe": 1789057199768,
+   "original": true
   }
  },
  "notes": [

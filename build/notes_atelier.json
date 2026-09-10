@@ -29243,6 +29243,20 @@
    "w": 1,
    "editeLe": 1789061229895,
    "original": true
+  },
+  "cuisines-du-monde_goulasch": {
+   "cx": 0.5,
+   "cy": 0.5625,
+   "w": 1,
+   "editeLe": 1789061248665,
+   "original": true
+  },
+  "cuisines-du-monde_escalope-a-la-viennoise": {
+   "cx": 0.5108333333333333,
+   "cy": 0.5,
+   "w": 0.9783333333333334,
+   "editeLe": 1789061253171,
+   "original": false
   }
  },
  "notes": [

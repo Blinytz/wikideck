@@ -435,7 +435,7 @@
   {
    "slug": "cuisines-du-monde",
    "nom": "Cuisines du monde",
-   "nbCartes": 64,
+   "nbCartes": 63,
    "fichier": "data/cuisines-du-monde.json"
   },
   {

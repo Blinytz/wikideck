@@ -28417,6 +28417,13 @@
    "w": 0.75,
    "editeLe": 1789057592156,
    "original": true
+  },
+  "fromages_ricotta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789057609564,
+   "original": true
   }
  },
  "notes": [

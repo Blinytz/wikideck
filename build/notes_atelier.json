@@ -29628,6 +29628,20 @@
    "w": 1,
    "editeLe": 1789146356238,
    "original": true
+  },
+  "philosophes_friedrich-nietzsche": {
+   "cx": 0.48481196260121884,
+   "cy": 0.4132231404958676,
+   "w": 0.7346189164370981,
+   "editeLe": 1789146378215,
+   "original": true
+  },
+  "philosophes_henri-bergson": {
+   "cx": 0.5,
+   "cy": 0.4944760101010101,
+   "w": 1,
+   "editeLe": 1789146382377,
+   "original": false
   }
  },
  "notes": [

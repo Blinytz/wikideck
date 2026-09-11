@@ -30125,6 +30125,20 @@
    "w": 0.7666666666666667,
    "editeLe": 1789149781731,
    "original": true
+  },
+  "figures-emancipation_frederick-douglass": {
+   "cx": 0.5,
+   "cy": 0.4651875,
+   "w": 1,
+   "editeLe": 1789149786649,
+   "original": true
+  },
+  "figures-emancipation_harriet-tubman": {
+   "cx": 0.5,
+   "cy": 0.393359375,
+   "w": 1,
+   "editeLe": 1789149791003,
+   "original": false
   }
  },
  "notes": [

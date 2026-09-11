@@ -29523,6 +29523,20 @@
    "w": 0.906910834968389,
    "editeLe": 1789145925886,
    "original": true
+  },
+  "philosophes_guillaume-d-ockham": {
+   "cx": 0.5,
+   "cy": 0.2989583651224772,
+   "w": 1,
+   "editeLe": 1789145975887,
+   "original": true
+  },
+  "philosophes_nicolas-machiavel": {
+   "cx": 0.5,
+   "cy": 0.3554335752129555,
+   "w": 1,
+   "editeLe": 1789145979844,
+   "original": false
   }
  },
  "notes": [

@@ -29488,6 +29488,20 @@
    "w": 1,
    "editeLe": 1789145822942,
    "original": true
+  },
+  "philosophes_augustin-d-hippone": {
+   "cx": 0.48508522727272735,
+   "cy": 0.4692080965909091,
+   "w": 0.9090909090909091,
+   "editeLe": 1789145829473,
+   "original": true
+  },
+  "philosophes_thomas-d-aquin": {
+   "cx": 0.5,
+   "cy": 0.38735937500000006,
+   "w": 1,
+   "editeLe": 1789145834174,
+   "original": false
   }
  },
  "notes": [

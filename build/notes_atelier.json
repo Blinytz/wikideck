@@ -29732,6 +29732,13 @@
    "cy": 0.3158482142857143,
    "w": 0.9999999999999999,
    "editeLe": 1789146948366,
+   "original": true
+  },
+  "philosophes_jurgen-habermas": {
+   "cx": 0.5,
+   "cy": 0.4602734375,
+   "w": 1,
+   "editeLe": 1789146952578,
    "original": false
   }
  },

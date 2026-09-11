@@ -29614,6 +29614,20 @@
    "w": 1,
    "editeLe": 1789146207192,
    "original": true
+  },
+  "philosophes_arthur-schopenhauer": {
+   "cx": 0.5,
+   "cy": 0.4144929846938776,
+   "w": 1,
+   "editeLe": 1789146351494,
+   "original": true
+  },
+  "philosophes_s-ren-kierkegaard": {
+   "cx": 0.5,
+   "cy": 0.398462890625,
+   "w": 1,
+   "editeLe": 1789146356238,
+   "original": false
   }
  },
  "notes": [

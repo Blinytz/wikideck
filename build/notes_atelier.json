@@ -29677,6 +29677,20 @@
    "w": 0.8080808080808081,
    "editeLe": 1789146843125,
    "original": true
+  },
+  "philosophes_hannah-arendt": {
+   "cx": 0.5,
+   "cy": 0.36699999999999994,
+   "w": 1,
+   "editeLe": 1789146847609,
+   "original": true
+  },
+  "philosophes_maurice-merleau-ponty": {
+   "cx": 0.5,
+   "cy": 0.3147023581288343,
+   "w": 1,
+   "editeLe": 1789146852297,
+   "original": false
   }
  },
  "notes": [

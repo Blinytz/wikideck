@@ -30930,6 +30930,20 @@
    "w": 0.75,
    "editeLe": 1789492894229,
    "original": true
+  },
+  "montagnes-et-volcans_kilimandjaro": {
+   "cx": 0.5541666666666667,
+   "cy": 0.5,
+   "w": 0.8916666666666667,
+   "editeLe": 1789492968755,
+   "original": true
+  },
+  "montagnes-et-volcans_cervin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "editeLe": 1789492972699,
+   "original": false
   }
  },
  "notes": [

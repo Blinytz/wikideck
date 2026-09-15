@@ -30971,7 +30971,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1789492985097,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_aconcagua": {
    "cx": 0.5,
@@ -30999,6 +30999,20 @@
    "cy": 0.5,
    "w": 0.8866666666666667,
    "editeLe": 1789492999920,
+   "original": false
+  },
+  "montagnes-et-volcans_stromboli": {
+   "cx": 0.514625,
+   "cy": 0.5,
+   "w": 0.72,
+   "editeLe": 1789493003243,
+   "original": false
+  },
+  "montagnes-et-volcans_krakatoa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1789493006592,
    "original": false
   }
  },

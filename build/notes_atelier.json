@@ -30978,7 +30978,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1789492988360,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_mont-fuji": {
    "cx": 0.5,
@@ -31013,6 +31013,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1789493006592,
+   "original": false
+  },
+  "montagnes-et-volcans_mauna-kea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1789493009662,
    "original": false
   }
  },

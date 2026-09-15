@@ -31125,6 +31125,20 @@
    "cy": 0.5,
    "w": 0.8733333333333334,
    "editeLe": 1789493174635,
+   "original": true
+  },
+  "montagnes-et-volcans_pinatubo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9766666666666667,
+   "editeLe": 1789493178979,
+   "original": false
+  },
+  "montagnes-et-volcans_teide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789493181909,
    "original": false
   }
  },

@@ -31062,6 +31062,13 @@
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1789493060127,
+   "original": true
+  },
+  "montagnes-et-volcans_mont-olympe": {
+   "cx": 0.6246666666666666,
+   "cy": 0.5000000000000001,
+   "w": 0.7506666666666666,
+   "editeLe": 1789493095544,
    "original": false
   }
  },

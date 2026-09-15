@@ -31013,7 +31013,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1789493006592,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_mauna-kea": {
    "cx": 0.5,
@@ -31041,6 +31041,20 @@
    "cy": 0.5000000000000001,
    "w": 0.9622222222222223,
    "editeLe": 1789493038785,
+   "original": false
+  },
+  "montagnes-et-volcans_mont-saint-helens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7483333333333333,
+   "editeLe": 1789493041601,
+   "original": false
+  },
+  "montagnes-et-volcans_piton-de-la-fournaise": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1789493043735,
    "original": false
   }
  },

@@ -31006,7 +31006,7 @@
    "cy": 0.5,
    "w": 0.72,
    "editeLe": 1789493003243,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_krakatoa": {
    "cx": 0.5,
@@ -31034,6 +31034,13 @@
    "cy": 0.5,
    "w": 0.885,
    "editeLe": 1789493019367,
+   "original": false
+  },
+  "montagnes-et-volcans_eyjafjallajokull": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.9622222222222223,
+   "editeLe": 1789493038785,
    "original": false
   }
  },

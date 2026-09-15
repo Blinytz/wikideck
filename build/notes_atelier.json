@@ -31083,13 +31083,20 @@
    "cy": 0.5,
    "w": 0.89,
    "editeLe": 1789493121792,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_nanga-parbat": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
    "editeLe": 1789493125531,
+   "original": false
+  },
+  "montagnes-et-volcans_elbrouz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1789493128384,
    "original": false
   }
  },

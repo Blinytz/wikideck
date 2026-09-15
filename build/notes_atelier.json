@@ -31076,6 +31076,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1789493103762,
+   "original": true
+  },
+  "montagnes-et-volcans_annapurna": {
+   "cx": 0.445,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1789493121792,
    "original": false
   }
  },

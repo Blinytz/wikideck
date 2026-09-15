@@ -30957,7 +30957,7 @@
    "cy": 0.5,
    "w": 0.8866666666666667,
    "editeLe": 1789492979381,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_everest": {
    "cx": 0.5,
@@ -30971,6 +30971,20 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1789492985097,
+   "original": false
+  },
+  "montagnes-et-volcans_aconcagua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789492988360,
+   "original": false
+  },
+  "montagnes-et-volcans_mont-fuji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1789492990857,
    "original": false
   }
  },

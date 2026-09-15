@@ -31034,7 +31034,7 @@
    "cy": 0.5,
    "w": 0.885,
    "editeLe": 1789493019367,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_eyjafjallajokull": {
    "cx": 0.5,
@@ -31055,6 +31055,13 @@
    "cy": 0.5,
    "w": 0.89,
    "editeLe": 1789493043735,
+   "original": false
+  },
+  "montagnes-et-volcans_mont-ararat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1789493060127,
    "original": false
   }
  },

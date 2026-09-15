@@ -30943,6 +30943,20 @@
    "cy": 0.5,
    "w": 0.8833333333333333,
    "editeLe": 1789492972699,
+   "original": true
+  },
+  "montagnes-et-volcans_mont-blanc": {
+   "cx": 0.5558333333333334,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1789492976283,
+   "original": false
+  },
+  "montagnes-et-volcans_k2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1789492979381,
    "original": false
   }
  },

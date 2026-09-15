@@ -30950,7 +30950,7 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1789492976283,
-   "original": false
+   "original": true
   },
   "montagnes-et-volcans_k2": {
    "cx": 0.5,
@@ -30964,6 +30964,13 @@
    "cy": 0.5,
    "w": 0.8883333333333334,
    "editeLe": 1789492981527,
+   "original": false
+  },
+  "montagnes-et-volcans_mont-mckinley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1789492985097,
    "original": false
   }
  },

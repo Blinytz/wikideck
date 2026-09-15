@@ -31112,6 +31112,20 @@
    "w": 0.8733333333333334,
    "editeLe": 1789493135293,
    "original": true
+  },
+  "montagnes-et-volcans_caldeira-de-yellowstone": {
+   "cx": 0.5069458333333333,
+   "cy": 0.5,
+   "w": 0.8890666666666668,
+   "editeLe": 1789493171527,
+   "original": true
+  },
+  "montagnes-et-volcans_mont-erebus": {
+   "cx": 0.5000000000000001,
+   "cy": 0.5,
+   "w": 0.8733333333333334,
+   "editeLe": 1789493174635,
+   "original": false
   }
  },
  "notes": [

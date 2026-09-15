@@ -31146,6 +31146,13 @@
    "cy": 0.5000000000000001,
    "w": 0.685,
    "editeLe": 1789493185449,
+   "original": true
+  },
+  "montagnes-et-volcans_sinai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "editeLe": 1789493200463,
    "original": false
   }
  },

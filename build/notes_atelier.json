@@ -2,7 +2,8 @@
  "version": 1,
  "statuts": {
   "races-de-chat_maine-coon": "revoir",
-  "grands-peintres_hiroshige": "revoir"
+  "grands-peintres_hiroshige": "revoir",
+  "fleuves-mers-et-oceans_mer-baltique": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -31797,6 +31798,13 @@
    "cy": 0.5684948979591837,
    "w": 1,
    "editeLe": 1790106479441,
+   "original": true
+  },
+  "fleuves-mers-et-oceans_mer-des-caraibes": {
+   "cx": 0.5439429928741094,
+   "cy": 0.5,
+   "w": 0.9121140142517815,
+   "editeLe": 1790106499177,
    "original": true
   }
  },

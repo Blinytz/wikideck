@@ -31504,6 +31504,20 @@
    "w": 0.9090909090909091,
    "editeLe": 1790103801481,
    "original": true
+  },
+  "oeuvres-musicales_les-indes-galantes": {
+   "cx": 0.543291163589015,
+   "cy": 0.4734848484848484,
+   "w": 0.8077651515151514,
+   "editeLe": 1790103831652,
+   "original": true
+  },
+  "oeuvres-musicales_dido-and-neas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790103836463,
+   "original": false
   }
  },
  "notes": [

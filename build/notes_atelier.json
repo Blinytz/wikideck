@@ -31252,6 +31252,20 @@
    "w": 0.75,
    "editeLe": 1790102117072,
    "original": true
+  },
+  "oeuvres-musicales_casse-noisette": {
+   "cx": 0.5027777777777778,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "editeLe": 1790102137978,
+   "original": true
+  },
+  "oeuvres-musicales_le-lac-des-cygnes": {
+   "cx": 0.4441666666666667,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790102141777,
+   "original": false
   }
  },
  "notes": [

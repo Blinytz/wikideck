@@ -32285,10 +32285,17 @@
   },
   "champions-olympiques_paavo-nurmi": {
    "cx": 0.5,
-   "cy": 0.43125,
+   "cy": 0.22636114690721645,
    "w": 1,
-   "editeLe": 1790110745692,
+   "editeLe": 1790110781292,
    "original": true
+  },
+  "champions-olympiques_emil-zatopek": {
+   "cx": 0.5,
+   "cy": 0.299970332278481,
+   "w": 1,
+   "editeLe": 1790110785891,
+   "original": false
   }
  },
  "notes": [

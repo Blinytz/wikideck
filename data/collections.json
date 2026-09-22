@@ -483,7 +483,7 @@
   {
    "slug": "iles",
    "nom": "Îles",
-   "nbCartes": 41,
+   "nbCartes": 40,
    "fichier": "data/iles.json"
   },
   {

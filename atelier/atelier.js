@@ -31,6 +31,72 @@ async function fetchRetente(url, essais = 4) {
   }
 }
 
+/* ---------- chargeur de vignettes ----------
+ * La grille compte plus de 5 500 vignettes. Le chargement « lazy » du
+ * navigateur en demandait plusieurs centaines d'un coup à chaque défilement
+ * ou changement de filtre, et GitHub Pages répondait 429 « trop de
+ * requêtes » : les images déjà en cache s'affichaient, les nouvelles jamais.
+ * Ici, une image n'est demandée que lorsqu'elle approche de l'écran, quatre
+ * au plus en vol, et un refus met toute la file en pause avant de réessayer,
+ * avec un délai qui double. Une image déjà chargée est reposée directement,
+ * sans repasser par la file. */
+const chargeur = (() => {
+  const EN_VOL_MAX = 4;
+  const file = [];
+  const deja = new Set();
+  let enVol = 0;
+  let pauseJusqua = 0;
+  let reveil = null;
+
+  const obs = new IntersectionObserver((entrees) => {
+    for (const e of entrees) {
+      if (!e.isIntersecting) continue;
+      obs.unobserve(e.target);
+      file.push(e.target);
+    }
+    pomper();
+  }, { rootMargin: '300px' });
+
+  function pomper() {
+    const attente = pauseJusqua - Date.now();
+    if (attente > 0) {
+      if (!reveil) reveil = setTimeout(() => { reveil = null; pomper(); }, attente);
+      return;
+    }
+    while (enVol < EN_VOL_MAX && file.length) {
+      const img = file.shift();
+      if (img.isConnected) charger(img);
+    }
+  }
+
+  function charger(img) {
+    const src = img.dataset.src;
+    const essai = Number(img.dataset.essai || 0);
+    enVol++;
+    img.onload = () => { enVol--; deja.add(src); pomper(); };
+    img.onerror = () => {
+      enVol--;
+      if (essai < 6) {
+        img.dataset.essai = essai + 1;
+        pauseJusqua = Math.max(pauseJusqua, Date.now() + 1500 * 2 ** essai);
+        file.unshift(img);
+      }
+      pomper();
+    };
+    img.src = essai ? `${src}${src.includes('?') ? '&' : '?'}r=${essai}` : src;
+  }
+
+  return {
+    // à appeler après chaque rendu : prend en charge les <img data-src> du bloc
+    observer(racine) {
+      for (const img of racine.querySelectorAll('img[data-src]')) {
+        if (deja.has(img.dataset.src)) img.src = img.dataset.src;
+        else obs.observe(img);
+      }
+    },
+  };
+})();
+
 async function parLots(liste, travail, largeur = LARGEUR_CHARGEMENT) {
   const sortie = new Array(liste.length);
   let curseur = 0;
@@ -256,7 +322,7 @@ function rendreGrille() {
               : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
-          <img src="${esc(src)}" loading="lazy" alt="">
+          <img data-src="${esc(src)}" alt="">
           <button class="v-statut ${st}" data-statut="${esc(c.id)}" title="statut">${pastille || '·'}</button>
           ${note}
           <div class="v-nom">${esc(c.nom)}</div>
@@ -268,6 +334,7 @@ function rendreGrille() {
   conteneur.innerHTML =
     `<nav class="sommaire">${sommaire.join('')}</nav>
      <p class="doux">${total} carte(s) affichée(s)</p>` + parts.join('');
+  chargeur.observer(conteneur);
 
   conteneur.onclick = (ev) => {
     const btnStatut = ev.target.closest('[data-statut]');
@@ -997,12 +1064,13 @@ function rendreSynergies() {
         <summary>${esc(t)} <b>${cartes.length}</b> carte(s)</summary>
         <div class="grille-mini">${cartes.map(c => `
           <div class="mini-syn" data-ouvrir="${esc(c.id)}" title="${esc(c.collection)}">
-            <img src="${esc(apercusLocaux[c.id] || c.thumbUrl)}" loading="lazy" alt="">
+            <img data-src="${esc(apercusLocaux[c.id] || c.thumbUrl)}" alt="">
             <span>${esc(c.nom)}</span>
           </div>`).join('') || '<span class="doux">Aucune carte pour ce tag.</span>'}</div>
         <button class="btn btn-discret" data-ajouter-a="${esc(t)}">＋ Ajouter une carte à ce tag</button>
       </details>`;
     }).join('')}`;
+  chargeur.observer($('#vue-synergies'));
 
   const filtre = $('#filtre-tag');
   filtre.addEventListener('input', () => {

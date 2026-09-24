@@ -26,13 +26,27 @@ export function teinteDepuisNom(nom) {
   return h;
 }
 
+// GitHub Pages refuse (429) une rafale de vignettes. Avant, le premier refus
+// supprimait l'image pour de bon et la carte restait sur son initiale : on
+// retente désormais quatre fois, avec un délai qui double, avant d'abandonner.
+window.reessayerVignette = (img) => {
+  const n = Number(img.dataset.essai || 0);
+  if (n >= 4) { img.remove(); return; }
+  img.dataset.essai = n + 1;
+  const base = img.getAttribute('src').split(/[?&]r=/)[0];
+  setTimeout(() => {
+    img.src = `${base}${base.includes('?') ? '&' : '?'}r=${n + 1}`;
+  }, 1500 * 2 ** n);
+};
+
 export function htmlImageCarte(carte, classe = '') {
   const h = teinteDepuisNom(carte.nom);
   const initiale = esc([...carte.nom][0] ?? '?');
   return `<div class="img-carte ${classe}" style="--h:${h}">
     <span class="initiale">${initiale}</span>
     <img src="${esc(carte.thumbUrl)}" alt="" loading="lazy"
-         onload="this.parentElement.classList.add('chargee')" onerror="this.remove()">
+         onload="this.parentElement.classList.add('chargee')"
+         onerror="reessayerVignette(this)">
   </div>`;
 }
 

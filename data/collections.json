@@ -575,6 +575,24 @@
    "nom": "Cépages célèbres",
    "nbCartes": 64,
    "fichier": "data/cepages.json"
+  },
+  {
+   "slug": "monnaies-du-monde",
+   "nom": "Monnaies du monde",
+   "nbCartes": 66,
+   "fichier": "data/monnaies-du-monde.json"
+  },
+  {
+   "slug": "monnaies-historiques",
+   "nom": "Monnaies historiques",
+   "nbCartes": 49,
+   "fichier": "data/monnaies-historiques.json"
+  },
+  {
+   "slug": "noeuds",
+   "nom": "Nœuds",
+   "nbCartes": 39,
+   "fichier": "data/noeuds.json"
   }
  ]
 }

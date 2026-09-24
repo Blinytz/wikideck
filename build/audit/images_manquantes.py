@@ -194,6 +194,40 @@ CHOISIES = {
     # Soyouz TM-29, dont il etait le commandant, est lisible mais montre
     # trois hommes : la carte part a relire.
     'Jean-Pierre Haigneré': ('faute-de-mieux', 'Soyuz TM-29 Crew Portrait.jpg'),
+    # Monnaies et noeuds : la page fr n'a pas d'image de tete, et la
+    # recherche par nom francais ne rend rien. Les fichiers sont sur
+    # Commons sous leur nom anglais.
+    # des billets en circulation
+    'Livre sterling': ('commons', 'Pound sterling & Queen Elisabeth II (52387995684).jpg'),
+    # les billets
+    'Kwacha zambien': ('commons', 'Zambia Currency - Zambian Kwacha.jpg'),
+    # une piece de fils, la subdivision : aucun billet libre n'existe
+    'Dinar koweïtien': ('faute-de-mieux', '100 Kuwaiti fils obverse.jpg'),
+    # une piece de 5 dollars
+    'Dollar de Hong Kong': ('commons', 'Reverse of the Hong Kong Five-Dollar coin 1997.jpg'),
+    # un billet de 100 000 dongs, mais photographie devant un monument
+    'Dong (monnaie)': ('faute-de-mieux', 'Temple of Literature in Hanoi with a 100.000 Dong banknote 2015.jpg'),
+    'Nœud plat': ('commons', 'Reef Knot.jpg'),
+    'Nœud en queue de cochon': ('commons', 'Granny-knot.jpg'),
+    'Nœud de grappin': ('commons', 'AnchorBend FinalKnot.jpg'),
+    "Nœud en tête d'alouette": ('commons', 'Cow Hitch - ABoK 1673 - USCG.jpg'),
+    'Nœud de Machard': ('commons', 'Klemheist knot WPK.jpg'),
+    'Nœud de cravate': ('commons', 'Necktie knot.jpg'),
+    # Cinq monnaies dont la page fr illustre a cote du sujet.
+    # une piece de un peso
+    'Peso chilien': ('commons', 'Peso Chile Vs.JPG'),
+    # La recherche par nom rendait un plat de la communaute guarani. Le
+    # billet de 2000 guaranies est l'image de tete de la page anglaise.
+    # Le guarani n'a AUCUNE image libre : la page fr illustre avec un plat
+    # de la communaute guarani, et le billet de la page anglaise y est
+    # heberge sous exception de courte citation, donc non libre. La carte
+    # recoit l'image d'attente, comme les series televisees.
+    # un billet de un dollar de 1969
+    'Dollar néo-zélandais': ('commons', '1969-Elizabeth-New-Zelands-1-dollar-r (edit).png'),
+    # un billet de cinq mille francs
+    'Franc CFA': ('commons', 'Cinq mille francs CFA.jpg'),
+    # un billet de dix pesos
+    'Peso mexicain': ('commons', 'MEXICO 10 PESOS BANKNOTE.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

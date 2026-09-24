@@ -100,6 +100,10 @@ ROLES = {
     'fromages': 'defense',
     # un cepage est un terroir avant d'etre une plante
     'cepages': 'terrain',
+    'monnaies-du-monde': 'defense',
+    'monnaies-historiques': 'defense',
+    # un noeud entrave la carte d'en face
+    'noeuds': 'attaque',
     # Un plat restaure : defense, comme les fromages.
     'plats-francais': 'defense',
     'cuisines-du-monde': 'defense',
@@ -212,6 +216,9 @@ DECLENCHEURS = {
     'plantes-cultivees': 'au début du combat',
     'fromages': 'si une autre carte de sa collection est en jeu',
     'cepages': 'si un fromage ou un plat est en jeu',
+    'monnaies-du-monde': 'si la ligne compte au moins 3 cartes',
+    'monnaies-historiques': "si un empire ou une dynastie est en jeu",
+    'noeuds': 'si la carte adverse est un terrain',
     'plats-francais': 'quand la Base passe sous 50 % de ses PV',
     'cuisines-du-monde': 'quand la Base passe sous 50 % de ses PV',
 }

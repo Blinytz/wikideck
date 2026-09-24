@@ -16510,5 +16510,467 @@
 },
 "cepages_assyrtiko": {
 "source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_euro": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dollar-americain": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_yen": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_yuan": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_franc-suisse": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dollar-canadien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_real-bresilien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_peso-mexicain": {
+"source": "choisie"
+},
+"monnaies-du-monde_peso-argentin": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_peso-chilien": {
+"source": "choisie"
+},
+"monnaies-du-monde_peso-colombien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_sol-monnaie-du-perou": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_boliviano": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_guarani-monnaie": {
+"source": "attente"
+},
+"monnaies-du-monde_quetzal-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_balboa-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_couronne-suedoise": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_couronne-norvegienne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_couronne-danoise": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_z-oty": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_forint": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_couronne-tcheque": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_leu-roumain": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_hryvnia": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_rouble-russe": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_livre-turque": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_rand-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_naira": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_cedi": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_shilling-kenyan": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_birr": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dirham-marocain": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dinar-algerien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dinar-tunisien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_livre-egyptienne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_franc-cfa": {
+"source": "choisie"
+},
+"monnaies-du-monde_dollar-namibien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_ariary": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_riyal-saoudien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dirham-des-emirats-arabes-unis": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_riyal-qatarien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dinar-jordanien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dinar-irakien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_rial-iranien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_shekel": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_roupie-indienne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_roupie-pakistanaise": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_taka": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_won-sud-coreen-depuis-1962": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_nouveau-dollar-de-taiwan": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dollar-de-singapour": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_baht": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_ringgit": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_roupie-indonesienne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_peso-philippin": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_kyat": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_tugrik": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_tenge-kazakh": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dollar-australien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_dollar-neo-zelandais": {
+"source": "choisie"
+},
+"monnaies-du-monde_franc-pacifique": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_drachme-grece-antique": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_statere": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_obole-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_talent-unite": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_mine-unite": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_sicle": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_denier-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_sesterce": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_as-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_aureus": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_antoninien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_follis": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_solidus-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_besant": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_hyperperion": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_denier-franc": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_gros-tournois": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_livre-tournois": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_florin": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_ducat": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_maravedis": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_ecu-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_louis-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_real-espagnol": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_doublon-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_pistole-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_piastre": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_thaler": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_souverain-piece-en-or": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_guinee-monnaie": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_farthing": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_franc-francais": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_franc-belge": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_lire-italienne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_peseta-espagnole": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_escudo-portugais": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_florin-neerlandais": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_drachme-grece-moderne": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_schilling-autrichien": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_mark-finlandais": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_deutsche-mark": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_reichsmark": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_papiermark": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_rentenmark": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_ostmark": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_rouble-sovietique": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_sapeque": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_assignat": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-historiques_collier-de-wampum": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_demi-n-ud": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-en-huit": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-en-huit-en-double": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-d-ecoute": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-carrick": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-zeppelin": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-pecheur": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-pecheur-double": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-double": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-double-ganse": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-chaise": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-chaise-double-en-huit": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-chaise-double-sur-son-double": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-papillon-alpin": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-plein-poing": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-coulant": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-pendu": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_demi-clef": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-cabestan": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-demi-cabestan": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-taquet": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-d-elingue": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-ride": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-laguis": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-galere": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-jambe-de-chien": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-fouet": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-bois": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-prusik": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-cravate-windsor": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-cravate-demi-windsor": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_petit-n-ud-de-cravate": {
+"source": "wiki-sans-filtre"
+},
+"noeuds_n-ud-de-franciscain": {
+"source": "wiki-sans-filtre"
+},
+"monnaies-du-monde_livre-sterling": {
+"source": "choisie"
+},
+"monnaies-du-monde_kwacha-zambien": {
+"source": "choisie"
+},
+"monnaies-du-monde_dinar-koweitien": {
+"source": "choisie-faute-de-mieux"
+},
+"monnaies-du-monde_dollar-de-hong-kong": {
+"source": "choisie"
+},
+"monnaies-du-monde_dong-monnaie": {
+"source": "choisie-faute-de-mieux"
+},
+"noeuds_n-ud-plat": {
+"source": "choisie"
+},
+"noeuds_n-ud-en-queue-de-cochon": {
+"source": "choisie"
+},
+"noeuds_n-ud-de-grappin": {
+"source": "choisie"
+},
+"noeuds_n-ud-en-tete-d-alouette": {
+"source": "choisie"
+},
+"noeuds_n-ud-de-machard": {
+"source": "choisie"
+},
+"noeuds_n-ud-de-cravate": {
+"source": "choisie"
 }
 }

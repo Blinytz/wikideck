@@ -32848,6 +32848,27 @@
    "cy": 0.5,
    "w": 0.885,
    "editeLe": 1790273327958,
+   "original": true
+  },
+  "conquete-spatiale_mir-station-spatiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790273330930,
+   "original": false
+  },
+  "conquete-spatiale_skylab": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 1,
+   "editeLe": 1790273333582,
+   "original": false
+  },
+  "conquete-spatiale_soyouz-vehicule-spatial": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9533333333333333,
+   "editeLe": 1790273336336,
    "original": false
   }
  },

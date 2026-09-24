@@ -16,12 +16,19 @@ UA_NAV = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
 CACHE_PATH = ROOT / 'build' / '.cache_images.pkl'
 THUMB_H, FULL_MAX = 160, 800
 
-_cache = pickle.loads(CACHE_PATH.read_bytes()) if CACHE_PATH.exists() else {}
+# Le cache pese 65 Mo. Quand la memoire manque (OneDrive qui synchronise le
+# depot en a deja epuise la reserve), WIKIDECK_SANS_CACHE=1 le saute : les
+# requetes repartent sur le reseau, rien n'est ecrit.
+SANS_CACHE = os.environ.get('WIKIDECK_SANS_CACHE') == '1'
+_cache = {} if SANS_CACHE else (
+    pickle.loads(CACHE_PATH.read_bytes()) if CACHE_PATH.exists() else {})
 _sale = 0
 
 
 def save_cache(force=False):
     global _sale
+    if SANS_CACHE:
+        return
     if force or _sale >= 20:
         CACHE_PATH.write_bytes(pickle.dumps(_cache))
         _sale = 0

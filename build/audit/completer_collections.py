@@ -242,6 +242,8 @@ CORRECTIONS = [
     ('oeuvres-musicales', 'Carmina Burana', 'Carmina Burana (cantate)'),
     # pointait sur « Maladie du balai de sorciere », une maladie des plantes
     ('vehicules-mythiques', 'Balai de sorcière', 'Balai magique'),
+    # pointait sur la marche medievale d'Autriche, pas sur la monnaie de la RDA
+    ('monnaies-historiques', 'Ostmark', 'Mark est-allemand'),
 ]
 
 

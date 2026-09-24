@@ -32898,6 +32898,20 @@
    "w": 0.8893229166666666,
    "editeLe": 1790273381604,
    "original": true
+  },
+  "conquete-spatiale_pioneer-10": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8432626500617076,
+   "editeLe": 1790273396300,
+   "original": true
+  },
+  "conquete-spatiale_cassini-huygens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790273400115,
+   "original": false
   }
  },
  "notes": [

@@ -123,7 +123,7 @@
   {
    "slug": "tableaux-celebres",
    "nom": "Tableaux celebres",
-   "nbCartes": 107,
+   "nbCartes": 108,
    "fichier": "data/tableaux-celebres.json"
   },
   {
@@ -525,7 +525,7 @@
   {
    "slug": "vehicules-mythiques",
    "nom": "Véhicules mythiques",
-   "nbCartes": 33,
+   "nbCartes": 14,
    "fichier": "data/vehicules-mythiques.json"
   },
   {
@@ -593,6 +593,12 @@
    "nom": "Nœuds",
    "nbCartes": 39,
    "fichier": "data/noeuds.json"
+  },
+  {
+   "slug": "vehicules-celebres",
+   "nom": "Navires et véhicules célèbres",
+   "nbCartes": 51,
+   "fichier": "data/vehicules-celebres.json"
   }
  ]
 }

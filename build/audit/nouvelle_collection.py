@@ -2149,6 +2149,79 @@ PLANS = {
             ('Nœud de franciscain', 'Nœud de franciscain'),
         ],
     ),
+    'vehicules-celebres': dict(
+        nom='Navires et véhicules célèbres',
+        # « Vehicules mythiques » melangeait deux natures : Argo, Skidbladnir
+        # ou le tapis volant d'un cote, le Mayflower, le Concorde ou
+        # l'Orient-Express de l'autre. Les vehicules REELS partent ici, les
+        # vehicules de mythe et de legende restent la-bas. Meme regle que
+        # pour le Valhalla : ce qui n'est pas de la meme nature ne partage pas
+        # la collection. Les types de navire (drakkar, trireme, galion...)
+        # suivent les vehicules reels : ils ont existe.
+        # Ecartes : le Titanic et le cuirasse Potemkine, deja cartes de
+        # cinema ; le rover lunaire, qui releve de la conquete spatiale ; Air
+        # Force One, qui est un indicatif d'appel et non un appareil.
+        transferts=[
+            ('vehicules-mythiques', 'Bateau-dragon'),
+            ('vehicules-mythiques', 'Drakkar'),
+            ('vehicules-mythiques', 'Jonque'),
+            ('vehicules-mythiques', 'Trirème'),
+            ('vehicules-mythiques', 'Galion'),
+            ('vehicules-mythiques', 'Caravelle'),
+            ('vehicules-mythiques', 'Mayflower'),
+            ('vehicules-mythiques', 'HMS Victory'),
+            ('vehicules-mythiques', 'Bounty'),
+            ('vehicules-mythiques', 'Kon-Tiki'),
+            ('vehicules-mythiques', 'LZ 129 Hindenburg'),
+            ('vehicules-mythiques', 'Spirit of St. Louis'),
+            ('vehicules-mythiques', 'Concorde'),
+            ('vehicules-mythiques', 'Orient-Express'),
+            ('vehicules-mythiques', 'Cutty Sark'),
+            ('vehicules-mythiques', 'Endurance'),
+            ('vehicules-mythiques', 'Santa María'),
+            ('vehicules-mythiques', 'Golden Hind'),
+            ('vehicules-mythiques', 'SS Great Eastern'),
+            ('vehicules-mythiques', 'Belem'),
+        ],
+        ajouts=[
+            # Navires
+            ('Vasa', 'Vasa'),
+            ('Mary Rose', 'Mary Rose'),
+            # la reine Victoria est deja carte : le navire prend son nom de nao
+            ('Nao Victoria', 'Victoria (bateau)'),
+            ('Batavia', 'Batavia (bateau)'),
+            ('HMS Endeavour', 'Endeavour (voilier)'),
+            ('HMS Beagle', 'HMS Beagle'),
+            ('USS Constitution', 'USS Constitution'),
+            ('Fram', 'Fram (navire)'),
+            ('Pourquoi-Pas ?', 'Pourquoi Pas ? IV'),
+            ('Calypso', 'Calypso (navire)'),
+            ('RMS Lusitania', 'RMS Lusitania'),
+            ('Normandie', 'Normandie (paquebot)'),
+            ('Queen Mary 2', 'Queen Mary 2'),
+            ('Bismarck', 'Bismarck (cuirassé)'),
+            ('Yamato', 'Yamato (cuirassé)'),
+            ('Trieste', 'Trieste (bathyscaphe)'),
+            # Aeronefs
+            ('Wright Flyer', 'Wright Flyer'),
+            ('Blériot XI', 'Blériot XI'),
+            ('LZ 127 Graf Zeppelin', 'LZ 127 Graf Zeppelin'),
+            ('Enola Gay', 'Enola Gay'),
+            ('Boeing 747', 'Boeing 747'),
+            ('Hughes H-4 Hercules', 'Hughes H-4 Hercules'),
+            ('Solar Impulse', 'Solar Impulse'),
+            # Trains
+            ('Fusée de Stephenson', 'Fusée de Stephenson'),
+            ('Mallard', 'Mallard (locomotive)'),
+            ('Shinkansen', 'Shinkansen'),
+            ('TGV', 'TGV'),
+            # Voitures
+            ('Ford T', 'Ford T'),
+            ('Volkswagen Coccinelle', 'Volkswagen Coccinelle'),
+            ('Citroën 2 CV', 'Citroën 2 CV'),
+            ('DeLorean DMC-12', 'DeLorean DMC-12'),
+        ],
+    ),
     'objets-mythiques': dict(
         nom='Objets mythiques',
         transferts=[('mythologie-nordique', 'Mjöllnir')],

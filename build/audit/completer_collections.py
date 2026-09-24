@@ -56,6 +56,19 @@ AJOUTS = {
     # britannique des annees 2010.
     # « Fargo » etait bloque : le film est deja carte de cinema moderne, et la
     # regle 5 refuse l'homonyme. La serie prend donc le titre de sa page.
+    # Separation vehicules mythiques / vehicules reels : le cote mythique
+    # garde les vaisseaux de legende, et gagne ceux qui manquaient.
+    'vehicules-mythiques': [
+        ('Hringhorni', 'Hringhorni'),
+        ('Merkabah', 'Merkabah'),
+        # Le Bateau de These est ecarte : sa page traite du paradoxe
+        # philosophique, et son image etait celle d'une ile du Titicaca.
+    ],
+    # La Nef des fous de Bosch etait rangee parmi les vehicules : c'est un
+    # tableau.
+    'tableaux-celebres': [
+        ('La Nef des fous', 'La Nef des fous (Bosch)'),
+    ],
     'series-televisees': [
         ('Fargo (série télévisée)', 'Fargo (série télévisée)'),
     ],
@@ -227,6 +240,8 @@ CORRECTIONS = [
     ('oeuvres-musicales', 'Rhapsodie hongroise', 'Rhapsodies hongroises'),
     ('oeuvres-musicales', 'Gymnopédies', 'Gymnopédies (Satie)'),
     ('oeuvres-musicales', 'Carmina Burana', 'Carmina Burana (cantate)'),
+    # pointait sur « Maladie du balai de sorciere », une maladie des plantes
+    ('vehicules-mythiques', 'Balai de sorcière', 'Balai magique'),
 ]
 
 
@@ -337,6 +352,12 @@ def main():
         f = R._cache.get('fiche:' + titre)
         if c is None or not f or f['statut'] != 'ok':
             signalements.append(f'{slug} · « {nom} » : correction impossible')
+            continue
+        # Deja corrigee : on ne touche a rien. Sans ce garde-fou, rejouer le
+        # script sur une collection effacait les images de ses cartes deja
+        # corrigees, puisque l'id ne change pas et que l'ancien fichier est
+        # supprime a la meme adresse.
+        if c['titrePage'] == f['titre']:
             continue
         ancien = c['id']
         fslug = slugifier(f['titre'])

@@ -228,6 +228,9 @@ CHOISIES = {
     'Franc CFA': ('commons', 'Cinq mille francs CFA.jpg'),
     # un billet de dix pesos
     'Peso mexicain': ('commons', 'MEXICO 10 PESOS BANKNOTE.jpg'),
+    # Meme image de tete que le Hollandais volant sur fr.wikipedia : deux
+    # cartes identiques. L'estampe d'Hokusai montre un autre vaisseau fantome.
+    'Vaisseau fantôme': ('commons', 'Hokusai Yuresen.jpg'),
     'Pays de Pount': ('commons', "Relief of Hatshepsut's expedition to the "
                                  'Land of Punt by Σταύρος.jpg'),
 }

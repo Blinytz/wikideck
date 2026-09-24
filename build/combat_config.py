@@ -61,6 +61,8 @@ ROLES = {
     'figures-emancipation': 'attaque',
     'photographies-celebres': 'terrain',
     'vehicules-mythiques': 'terrain',
+    # des engins qui ont existe : terrain, comme les monuments
+    'vehicules-celebres': 'terrain',
     'langues-du-monde': 'defense',
     'traites-et-textes-fondateurs': 'defense',
     'mode-et-couturiers': 'defense',
@@ -187,7 +189,8 @@ DECLENCHEURS = {
     'figures-religieuses': 'si une carte alliée a été détruite ce tour',
     'figures-emancipation': "si la carte adverse a une rareté supérieure",
     'photographies-celebres': "si aucun terrain adverse n'est en jeu",
-    'vehicules-mythiques': 'si la ligne compte au moins 2 cartes',
+    'vehicules-mythiques': 'au début du combat',
+    'vehicules-celebres': 'si une autre carte de sa collection est en jeu',
     'langues-du-monde': 'si deux collections différentes sont en jeu',
     'traites-et-textes-fondateurs': "si une carte alliée est ciblée",
     'mode-et-couturiers': 'si la carte a survécu à un tour complet',

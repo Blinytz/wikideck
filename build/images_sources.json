@@ -15077,74 +15077,11 @@
 "vehicules-mythiques_bouraq": {
 "source": "wiki-sans-filtre"
 },
-"vehicules-mythiques_la-nef-des-fous-bosch": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_bateau-dragon-pirogue": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_bateau-viking": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_jonque": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_triere": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_galion": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_caravelle-navire": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_mayflower": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_hms-victory-1765": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_hms-bounty": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_kon-tiki": {
-"source": "wiki-sans-filtre"
-},
 "vehicules-mythiques_nautilus-jules-verne": {
 "source": "wiki-sans-filtre"
 },
-"vehicules-mythiques_lz-129-hindenburg": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_spirit-of-st-louis": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_concorde-avion": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_orient-express": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_cutty-sark": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_endurance-bateau": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_santa-maria-1492": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_golden-hind": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_ss-great-eastern": {
-"source": "wiki-sans-filtre"
-},
-"vehicules-mythiques_belem": {
-"source": "wiki-sans-filtre"
-},
 "vehicules-mythiques_vaisseau-fantome": {
-"source": "wiki-sans-filtre"
+"source": "choisie"
 },
 "vehicules-mythiques_char-solaire": {
 "source": "wiki-sans-filtre"
@@ -16972,5 +16909,170 @@
 },
 "noeuds_n-ud-de-cravate": {
 "source": "choisie"
+},
+"vehicules-celebres_bateau-dragon-pirogue": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_bateau-viking": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_jonque": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_triere": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_galion": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_caravelle-navire": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_mayflower": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_hms-victory-1765": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_hms-bounty": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_kon-tiki": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_lz-129-hindenburg": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_spirit-of-st-louis": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_concorde-avion": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_orient-express": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_cutty-sark": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_endurance-bateau": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_santa-maria-1492": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_golden-hind": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_ss-great-eastern": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_belem": {
+"source": "wiki-sans-filtre"
+},
+"tableaux-celebres_la-nef-des-fous-bosch": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-mythiques_balai-magique": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-mythiques_hringhorni": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-mythiques_merkabah": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_vasa": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_mary-rose": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_victoria-bateau": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_batavia-bateau": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_endeavour-voilier": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_hms-beagle": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_uss-constitution": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_fram-navire": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_pourquoi-pas-iv": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_calypso-navire": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_rms-lusitania": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_normandie-paquebot": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_queen-mary-2": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_bismarck-cuirasse": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_yamato-cuirasse": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_trieste-bathyscaphe": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_wright-flyer": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_bleriot-xi": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_lz-127-graf-zeppelin": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_enola-gay": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_boeing-747": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_hughes-h-4-hercules": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_solar-impulse": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_fusee-de-stephenson": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_mallard-locomotive": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_shinkansen": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_tgv": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_ford-t": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_volkswagen-coccinelle": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_citroen-2-cv": {
+"source": "wiki-sans-filtre"
+},
+"vehicules-celebres_delorean-dmc-12": {
+"source": "wiki-sans-filtre"
 }
 }

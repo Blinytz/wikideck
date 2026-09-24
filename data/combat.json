@@ -99,7 +99,8 @@
   "cepages": "terrain",
   "monnaies-du-monde": "defense",
   "monnaies-historiques": "defense",
-  "noeuds": "attaque"
+  "noeuds": "attaque",
+  "vehicules-celebres": "terrain"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -189,7 +190,7 @@
   "legendes-du-sport": "si la ligne compte au moins 2 cartes",
   "conquete-spatiale": "si un corps céleste est en jeu",
   "mineraux-et-pierres": "si la carte a survécu à un tour complet",
-  "vehicules-mythiques": "si la ligne compte au moins 2 cartes",
+  "vehicules-mythiques": "au début du combat",
   "langues-du-monde": "si deux collections différentes sont en jeu",
   "traites-et-textes-fondateurs": "si une carte alliée est ciblée",
   "mode-et-couturiers": "si la carte a survécu à un tour complet",
@@ -200,7 +201,8 @@
   "cepages": "si un fromage ou un plat est en jeu",
   "monnaies-du-monde": "si la ligne compte au moins 3 cartes",
   "monnaies-historiques": "si un empire ou une dynastie est en jeu",
-  "noeuds": "si la carte adverse est un terrain"
+  "noeuds": "si la carte adverse est un terrain",
+  "vehicules-celebres": "si une autre carte de sa collection est en jeu"
  },
  "catalogueDeclencheurs": [
   "au début du combat",

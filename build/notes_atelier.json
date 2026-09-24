@@ -32855,7 +32855,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790273330930,
-   "original": false
+   "original": true
   },
   "conquete-spatiale_skylab": {
    "cx": 0.5,
@@ -32869,6 +32869,13 @@
    "cy": 0.5,
    "w": 0.9533333333333333,
    "editeLe": 1790273336336,
+   "original": false
+  },
+  "conquete-spatiale_hubble-telescope-spatial": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790273338757,
    "original": false
   }
  },

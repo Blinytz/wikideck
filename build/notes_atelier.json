@@ -32835,6 +32835,20 @@
    "w": 1,
    "editeLe": 1790273318579,
    "original": true
+  },
+  "conquete-spatiale_navette-spatiale-americaine": {
+   "cx": 0.5,
+   "cy": 0.3772402343749999,
+   "w": 1,
+   "editeLe": 1790273324919,
+   "original": true
+  },
+  "conquete-spatiale_station-spatiale-internationale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.885,
+   "editeLe": 1790273327958,
+   "original": false
   }
  },
  "notes": [

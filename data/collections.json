@@ -513,7 +513,7 @@
   {
    "slug": "conquete-spatiale",
    "nom": "Conquête spatiale",
-   "nbCartes": 32,
+   "nbCartes": 31,
    "fichier": "data/conquete-spatiale.json"
   },
   {

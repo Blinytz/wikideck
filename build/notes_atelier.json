@@ -32821,6 +32821,20 @@
    "w": 1,
    "editeLe": 1790273210402,
    "original": true
+  },
+  "conquete-spatiale_programme-vostok": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9038800705467371,
+   "editeLe": 1790273313413,
+   "original": true
+  },
+  "conquete-spatiale_saturn-v": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790273318579,
+   "original": false
   }
  },
  "notes": [

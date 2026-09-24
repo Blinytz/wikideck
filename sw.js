@@ -3,7 +3,7 @@
 // Tout ce qui est servi (shell, data/*.json, images) est mis en cache au vol,
 // donc l'app reste 100% fonctionnelle hors-ligne après la première visite.
 
-const CACHE = 'wikideck-v5-vignettes';
+const CACHE = 'wikideck-v6-atelier-libre';
 
 const COQUILLE = [
   './', './index.html', './manifest.json', './css/app.css',
@@ -33,21 +33,43 @@ self.addEventListener('activate', (ev) => {
   );
 });
 
+// Réponse de secours : la copie en cache, sinon la réponse reçue telle quelle.
+async function repli(req, rep) {
+  const enCache = await caches.match(req, { ignoreSearch: true });
+  if (enCache) return enCache;
+  return rep || caches.match('./index.html');
+}
+
 self.addEventListener('fetch', (ev) => {
   const req = ev.request;
-  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
-  ev.respondWith(
-    // cache: 'no-cache' force la revalidation HTTP — évite de servir un module
-    // JS périmé après une mise à jour (le repli hors-ligne reste le cache SW).
-    fetch(req, { cache: 'no-cache' })
-      .then(rep => {
-        if (rep.ok) {
-          const copie = rep.clone();
-          caches.open(CACHE).then(c => c.put(req, copie));
-        }
+  const url = new URL(req.url);
+  if (req.method !== 'GET' || url.origin !== location.origin) return;
+  // L'atelier n'est pas l'app hors-ligne. Le service worker interceptait
+  // pourtant ses 5 500 vignettes, en forçant une revalidation HTTP pour
+  // chacune : le quota de GitHub Pages s'épuisait (429) et l'atelier ne
+  // montrait plus les nouvelles images. On le laisse désormais au navigateur.
+  if (url.pathname.includes('atelier')) return;
+  ev.respondWith((async () => {
+    const client = ev.clientId ? await self.clients.get(ev.clientId) : null;
+    if (client && client.url.includes('atelier')) return fetch(req);
+
+    // Les images passent par le cache HTTP normal (pas de revalidation forcée) :
+    // une vignette ne change que lorsqu'on la régénère, et Pages la sert avec
+    // dix minutes de fraîcheur. Le reste (modules JS, données) est revalidé,
+    // pour ne jamais servir un module périmé après une mise à jour.
+    const image = url.pathname.includes('/images/');
+    try {
+      const rep = await fetch(req, image ? {} : { cache: 'no-cache' });
+      if (rep.ok) {
+        const copie = rep.clone();
+        caches.open(CACHE).then(c => c.put(req, copie));
         return rep;
-      })
-      .catch(() => caches.match(req, { ignoreSearch: true })
-        .then(r => r || caches.match('./index.html')))
-  );
+      }
+      // 429 « trop de requêtes » ou erreur serveur : la copie en cache vaut
+      // mieux qu'une image cassée. Avant, seule une coupure réseau y menait.
+      return repli(req, rep);
+    } catch {
+      return repli(req, null);
+    }
+  })());
 });

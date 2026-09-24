@@ -44,6 +44,7 @@ const chargeur = (() => {
   const EN_VOL_MAX = 4;
   const file = [];
   const deja = new Set();
+  const enCours = new Set();
   let enVol = 0;
   let pauseJusqua = 0;
   let reveil = null;
@@ -73,10 +74,25 @@ const chargeur = (() => {
     const src = img.dataset.src;
     const essai = Number(img.dataset.essai || 0);
     enVol++;
-    img.onload = () => { enVol--; deja.add(src); pomper(); };
-    img.onerror = () => {
+    // La place est rendue UNE fois, quoi qu'il arrive. Quand la grille se
+    // redessine (filtre, synchronisation des notes), une image en cours est
+    // detachee de la page et son onload ne vient parfois jamais : sans ce
+    // garde-fou, les quatre places restaient prises et plus rien ne partait.
+    let rendue = false;
+    const rendre = () => {
+      if (rendue) return;
+      rendue = true;
+      clearTimeout(minuterie);
+      enCours.delete(img);
       enVol--;
-      if (essai < 6) {
+    };
+    img._rendre = rendre;
+    enCours.add(img);
+    const minuterie = setTimeout(() => { rendre(); pomper(); }, 12000);
+    img.onload = () => { rendre(); deja.add(src); pomper(); };
+    img.onerror = () => {
+      rendre();
+      if (essai < 6 && img.isConnected) {
         img.dataset.essai = essai + 1;
         pauseJusqua = Math.max(pauseJusqua, Date.now() + 1500 * 2 ** essai);
         file.unshift(img);
@@ -86,13 +102,20 @@ const chargeur = (() => {
     img.src = essai ? `${src}${src.includes('?') ? '&' : '?'}r=${essai}` : src;
   }
 
+  // diagnostic depuis la console : window.etatChargeur()
+  window.etatChargeur = () => ({ enVol, enFile: file.length, enCours: enCours.size,
+    pauseRestanteMs: Math.max(0, pauseJusqua - Date.now()), dejaChargees: deja.size });
+
   return {
     // à appeler après chaque rendu : prend en charge les <img data-src> du bloc
     observer(racine) {
+      // les images detachees par le redessin rendent leur place tout de suite
+      for (const img of [...enCours]) if (!img.isConnected) img._rendre();
       for (const img of racine.querySelectorAll('img[data-src]')) {
         if (deja.has(img.dataset.src)) img.src = img.dataset.src;
         else obs.observe(img);
       }
+      pomper();
     },
   };
 })();

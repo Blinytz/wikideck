@@ -34691,6 +34691,13 @@
    "w": 0.888888888888889,
    "editeLe": 1790376562167,
    "original": true
+  },
+  "monnaies-du-monde_euro": {
+   "cx": 0.49999999999999994,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790376577461,
+   "original": true
   }
  },
  "notes": [

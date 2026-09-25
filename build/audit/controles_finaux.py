@@ -151,8 +151,13 @@ def main():
             dur.append(f"{d['slug']} : planche de vignettes perimee (cartes changees),"
                        " relancer planches_vignettes.py")
             continue
+        # Une carte retouchee dans l'atelier apres la planche s'affiche avec sa
+        # propre vignette : sa vignette plus recente n'est pas un defaut.
+        cad = json.loads((RACINE / 'build' / 'notes_atelier.json')
+                         .read_text(encoding='utf-8')).get('cadrages', {})
         recentes = [c['nom'] for c in d['cartes']
-                    if (RACINE / c['thumbUrl']).exists()
+                    if (cad.get(c['id']) or {}).get('editeLe', 0) <= p['genereLe']
+                    and (RACINE / c['thumbUrl']).exists()
                     and (RACINE / c['thumbUrl']).stat().st_mtime * 1000 > p['genereLe']]
         if recentes:
             dur.append(f"{d['slug']} : planche perimee, {len(recentes)} vignette(s) plus "

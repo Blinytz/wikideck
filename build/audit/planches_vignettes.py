@@ -69,6 +69,11 @@ def main():
         ids = [c['id'] for c in cartes]
         ancien = index.get(slug)
         if ancien and ancien.get('v') == empreinte and ancien.get('ids') == ids:
+            # Contenu identique, verifie a l'instant : la planche reflete les
+            # vignettes actuelles. On avance sa date, sans quoi une vignette
+            # restauree a l'identique (fichier plus recent, meme image) la
+            # ferait passer pour perimee.
+            ancien['genereLe'] = int(time.time() * 1000)
             inchangees += 1
             continue
         (dossier / f'{slug}.webp').write_bytes(octets)

@@ -33893,6 +33893,13 @@
    "w": 0.8925619834710744,
    "editeLe": 1790366517147,
    "original": true
+  },
+  "monnaies-historiques_thaler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790366561069,
+   "original": true
   }
  },
  "notes": [

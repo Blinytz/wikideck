@@ -34369,6 +34369,20 @@
    "w": 0.888888888888889,
    "editeLe": 1790373235227,
    "original": true
+  },
+  "instruments-de-musique_cor-d-harmonie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790373296886,
+   "original": true
+  },
+  "instruments-de-musique_trombone-instrument": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790373300549,
+   "original": false
   }
  },
  "notes": [

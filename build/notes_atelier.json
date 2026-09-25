@@ -34109,6 +34109,13 @@
    "cy": 0.45567375886524825,
    "w": 1,
    "editeLe": 1790371182698,
+   "original": true
+  },
+  "races-de-cheval_oldenbourg-cheval": {
+   "cx": 0.5089488636363636,
+   "cy": 0.5276658298097251,
+   "w": 0.909090909090909,
+   "editeLe": 1790371187394,
    "original": false
   }
  },

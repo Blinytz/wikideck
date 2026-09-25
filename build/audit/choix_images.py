@@ -56,8 +56,12 @@ def chercher(requete):
         l, h = ii.get('width', 0), ii.get('height', 0)
         if max(l, h) < 600:
             continue
-        # grande version : 1600 px au plus, jamais plus que l'original
-        grand = ii['thumburl'].replace('/330px-', '/1600px-') if l > 1600 else ii['url']
+        # grande version : la plus grande vignette STANDARD plus petite que
+        # l'original. Wikimedia refuse les largeurs hors liste (400) et limite
+        # le telechargement des originaux (429) : il ne sert que ses vignettes
+        # de 330, 500, 960, 1280 ou 1920 px.
+        largeur = max([w for w in (330, 500, 960, 1280) if w < l] or [330])
+        grand = ii['thumburl'].replace('/330px-', f'/{largeur}px-')
         yield {'f': f, 'v': ii['thumburl'], 'g': grand, 'l': l, 'h': h}
 
 

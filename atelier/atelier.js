@@ -289,6 +289,8 @@ async function demarrer() {
 
   remplirFiltres();
   rendreGrille();
+  // ouverture directe d'un onglet par l'adresse : atelier.html#choix
+  if (location.hash === '#choix' && getToken()) { afficherVue('choix'); rendreChoix(); }
   rendreNotes();
   brancherEditeur();
   brancherSelection();
@@ -310,6 +312,7 @@ function brancherOnglets() {
     b.addEventListener('click', () => {
       afficherVue(b.dataset.vue);
       if (b.dataset.vue === 'synergies') rendreSynergies();
+      if (b.dataset.vue === 'choix') rendreChoix();
       if (b.dataset.vue === 'collections') rendreCollections();
     });
   }
@@ -736,6 +739,67 @@ async function chargerRemplacementURL(url) {
 async function chargerRemplacement(blob) {
   await editeur.chargerDepuisBlob(blob);
   remplacementEnCours = true;
+}
+
+/* ---------- onglet Choix : photos candidates préparées par choix_images.py ----------
+ * Chercher une image était le plus long du travail manuel. Les candidates de
+ * chaque carte sont préparées à l'avance (data/choix/<slug>.json) ; un clic
+ * ouvre l'éditeur avec la photo déjà chargée, il ne reste qu'à cadrer et
+ * enregistrer. Les vignettes viennent d'upload.wikimedia.org, pas de Pages. */
+let choixIndex = null;
+const choixParSlug = {};
+const choixFaits = new Set();          // cartes enregistrées depuis cet onglet
+
+async function rendreChoix() {
+  const vue = $('#vue-choix');
+  if (!choixIndex) {
+    try { choixIndex = await (await fetchRetente(`data/choix/index.json?v=${Date.now()}`)).json(); }
+    catch { choixIndex = {}; }
+  }
+  const slugs = Object.keys(choixIndex);
+  if (!slugs.length) {
+    vue.innerHTML = '<p class="doux">Aucune candidate préparée. Lance <code>python build/audit/choix_images.py &lt;collection&gt;</code>.</p>';
+    return;
+  }
+  const courant = vue.dataset.slug && slugs.includes(vue.dataset.slug) ? vue.dataset.slug : slugs[0];
+  vue.dataset.slug = courant;
+  if (!choixParSlug[courant]) {
+    vue.innerHTML = '<p class="doux">Chargement des candidates…</p>';
+    choixParSlug[courant] = await (await fetchRetente(`data/choix/${courant}.json?v=${Date.now()}`)).json();
+  }
+  const cands = choixParSlug[courant];
+  const col = collections.find(c => c.slug === courant);
+  const cartes = (col?.cartes || []).filter(c => cands[c.id]?.length);
+  vue.innerHTML = `
+    <div class="choix-entete">
+      <select id="choix-col">${slugs.map(s => `<option value="${esc(s)}" ${s === courant ? 'selected' : ''}>
+        ${esc(collections.find(c => c.slug === s)?.nom || s)} (${choixIndex[s]})</option>`).join('')}</select>
+      <span class="doux">Clique une photo : l'éditeur s'ouvre avec elle, cadre puis Enregistrer.</span>
+    </div>
+    ${cartes.map(c => {
+      const cad = notes.cadrages[c.id];
+      const src = apercusLocaux[c.id] || (cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
+      return `<div class="choix-carte${choixFaits.has(c.id) ? ' faite' : ''}" data-id="${esc(c.id)}">
+        <div class="choix-actuelle"><img src="${esc(src)}" loading="lazy" alt="">
+          <b>${esc(c.nom)}</b><small>image actuelle</small></div>
+        <div class="choix-candidates">${cands[c.id].map((k, i) => `
+          <button data-choix="${i}" title="${esc(k.f)}">
+            <img src="${esc(k.v)}" loading="lazy" alt="">
+            <span class="taille">${k.l} × ${k.h}</span></button>`).join('')}</div>
+      </div>`;
+    }).join('')}`;
+  $('#choix-col').onchange = (ev) => { vue.dataset.slug = ev.target.value; rendreChoix(); };
+  vue.onclick = async (ev) => {
+    const b = ev.target.closest('[data-choix]');
+    if (!b) return;
+    const bloc = b.closest('.choix-carte');
+    const carte = parId.get(bloc.dataset.id);
+    const k = cands[carte.id][Number(b.dataset.choix)];
+    await ouvrirEditeur(carte);
+    await chargerRemplacementURL(k.g);
+    choixFaits.add(carte.id);
+    bloc.classList.add('faite');
+  };
 }
 
 /* ---------- fiche : rareté / nom / lien / suppression / création ---------- */

@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#12121c">
 <title>Atelier des Cartes — WikiDeck</title>
 <link rel="icon" href="icons/icon-192.png">
-<link rel="stylesheet" href="atelier/atelier.css?v=20260925c">
+<link rel="stylesheet" href="atelier/atelier.css?v=20260925e">
 </head>
 <body>
 <header id="entete">
@@ -14,6 +14,7 @@
   <div id="badge-envoi" class="badge-envoi" hidden></div>
   <nav id="onglets">
     <button data-vue="grille" class="actif">Grille</button>
+    <button data-vue="choix">Choix</button>
     <button data-vue="synergies">Synergies</button>
     <button data-vue="collections">Collections</button>
     <button data-vue="notes">Notes <span id="nb-notes"></span></button>
@@ -39,6 +40,7 @@
 
 <main>
   <section id="vue-grille" class="vue visible"><div id="chargement">Chargement des collections…</div></section>
+  <section id="vue-choix" class="vue"></section>
   <section id="vue-synergies" class="vue"></section>
   <section id="vue-collections" class="vue"></section>
   <section id="vue-notes" class="vue"></section>
@@ -132,6 +134,6 @@
 
 <div id="modale" class="modale" hidden><div class="modale-boite" id="modale-boite"></div></div>
 
-<script type="module" src="atelier/atelier.js?v=20260925d"></script>
+<script type="module" src="atelier/atelier.js?v=20260925e"></script>
 </body>
 </html>

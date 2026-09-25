@@ -34067,6 +34067,20 @@
    "cy": 0.5,
    "w": 0.835,
    "editeLe": 1790371026839,
+   "original": true
+  },
+  "races-de-cheval_connemara-cheval": {
+   "cx": 0.44333333333333336,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "editeLe": 1790371030853,
+   "original": false
+  },
+  "races-de-cheval_camargue-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790371034913,
    "original": false
   }
  },

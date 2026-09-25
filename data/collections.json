@@ -597,7 +597,7 @@
   {
    "slug": "vehicules-celebres",
    "nom": "Navires et véhicules célèbres",
-   "nbCartes": 51,
+   "nbCartes": 50,
    "fichier": "data/vehicules-celebres.json"
   }
  ]

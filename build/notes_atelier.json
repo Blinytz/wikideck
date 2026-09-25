@@ -33605,6 +33605,13 @@
    "w": 0.6048132011084083,
    "editeLe": 1790348707646,
    "original": true
+  },
+  "monnaies-historiques_reichsmark": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790348769238,
+   "original": true
   }
  },
  "notes": [

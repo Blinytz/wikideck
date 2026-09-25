@@ -16547,63 +16547,78 @@
 },
 "monnaies-du-monde_euro": {
 "source": "habillee",
-"fichier": "Euro Series Banknotes (2019) - centered.png"
+"fichier": "Euro Series Banknotes (2019) - centered.png",
+"detourage": "repare"
 },
 "monnaies-du-monde_dollar-americain": {
 "source": "habillee",
-"fichier": "USDnotesNew.png"
+"fichier": "USDnotesNew.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_yen": {
 "source": "habillee",
-"fichier": "Series F 10000 yen front.jpg"
+"fichier": "Series F 10000 yen front.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_yuan": {
 "source": "habillee",
-"fichier": "Banknotes YuanRPC.png"
+"fichier": "Banknotes YuanRPC.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_franc-suisse": {
 "source": "habillee",
-"fichier": "CHF Banknotes 9th series obverse.png"
+"fichier": "CHF Banknotes 9th series obverse.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_dollar-canadien": {
 "source": "habillee",
-"fichier": "Canadian Frontier Banknotes faces.png"
+"fichier": "Canadian Frontier Banknotes faces.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_real-bresilien": {
 "source": "habillee",
-"fichier": "Novas cedulas real thumb11-450x309.jpg"
+"fichier": "Novas cedulas real thumb11-450x309.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_peso-mexicain": {
 "source": "habillee",
-"fichier": "Mexican Currency.png"
+"fichier": "Mexican Currency.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_peso-argentin": {
 "source": "habillee",
-"fichier": "Argentina Currency.png"
+"fichier": "Argentina Currency.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_peso-chilien": {
 "source": "habillee",
-"fichier": "Billetes de Chile.png"
+"fichier": "Billetes de Chile.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_peso-colombien": {
 "source": "habillee",
-"fichier": "Colombia Currency.png"
+"fichier": "Colombia Currency.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_sol-monnaie-du-perou": {
 "source": "habillee",
-"fichier": "Peru Currency.png"
+"fichier": "Peru Currency.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_boliviano": {
 "source": "habillee",
-"fichier": "Bolivianos moneda.png"
+"fichier": "Bolivianos moneda.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_guarani-monnaie": {
 "source": "habillee",
-"fichier": "2000 dos mil guaranies anverso.jpg"
+"fichier": "2000 dos mil guaranies anverso.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_quetzal-monnaie": {
 "source": "habillee",
-"fichier": "Billete Q1 Anverso.jpg"
+"fichier": "Billete Q1 Anverso.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_balboa-monnaie": {
 "source": "habillee",
@@ -16611,195 +16626,243 @@
 },
 "monnaies-du-monde_couronne-suedoise": {
 "source": "habillee",
-"fichier": "Collage SEK.png"
+"fichier": "Collage SEK.png",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_couronne-norvegienne": {
 "source": "habillee",
-"fichier": "500_kroner_observe.jpg"
+"fichier": "500_kroner_observe.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_couronne-danoise": {
 "source": "habillee",
-"fichier": "DKK 500 obverse (2009).jpg"
+"fichier": "DKK 500 obverse (2009).jpg",
+"detourage": "repare"
 },
 "monnaies-du-monde_z-oty": {
 "source": "habillee",
-"fichier": "500 zł 1947.jpg"
+"fichier": "500 zł 1947.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_forint": {
 "source": "habillee",
-"fichier": "Uj forintok.png"
+"fichier": "Uj forintok.png",
+"detourage": "repare"
 },
 "monnaies-du-monde_couronne-tcheque": {
 "source": "habillee",
-"fichier": "CZK_Banknotes_2014.png"
+"fichier": "2000 Czech koruna Obverse.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_leu-roumain": {
 "source": "habillee",
-"fichier": "100 lei. Romania, 2005 a.jpg"
+"fichier": "100 lei. Romania, 2005 a.jpg",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_hryvnia": {
 "source": "habillee",
-"fichier": "1000 hryvnia 2019 front.png"
+"fichier": "1000 hryvnia 2019 front.png",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_rouble-russe": {
 "source": "habillee",
-"fichier": "100 rubles obverse 2022.jpg"
+"fichier": "100 rubles obverse 2022.jpg",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_livre-turque": {
 "source": "habillee",
-"fichier": "Turkish Lira Series Banknotes (Modern).png"
+"fichier": "Turkish Lira Series Banknotes (Modern).png",
+"detourage": "ia"
 },
 "monnaies-du-monde_rand-monnaie": {
 "source": "habillee",
-"fichier": "South African rand - 2023 banknotes.jpg"
+"fichier": "South African rand - 2023 banknotes.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_naira": {
 "source": "habillee",
-"fichier": "Azikiwe 500 Naira note.jpg"
+"fichier": "Azikiwe 500 Naira note.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_cedi": {
 "source": "habillee",
-"fichier": "Ghana Cedi banknotes.jpg"
+"fichier": "Ghana Cedi banknotes.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_shilling-kenyan": {
 "source": "habillee",
-"fichier": "New-Generation-100-Shillings-Observe.png"
+"fichier": "New-Generation-100-Shillings-Observe.png",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_birr": {
 "source": "habillee",
-"fichier": "Ethiopia 1Birr Reverse.jpg"
+"fichier": "Ethiopia 1Birr Reverse.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_dirham-marocain": {
 "source": "habillee",
-"fichier": "100_dirham.jpg"
+"fichier": "100_dirham.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dinar-algerien": {
 "source": "habillee",
-"fichier": "Algerian 2000 dinar banknote (Obverse).jpg"
+"fichier": "Algerian 2000 dinar banknote (Obverse).jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dinar-tunisien": {
 "source": "habillee",
-"fichier": "Tunisia BCT 50 dinars.jpg"
+"fichier": "Tunisia BCT 50 dinars.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_livre-egyptienne": {
 "source": "habillee",
-"fichier": "Kingtutcoinobv without background.png"
+"fichier": "Kingtutcoinobv without background.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_franc-cfa": {
 "source": "habillee",
-"fichier": "1 Franc CFA.jpg"
+"fichier": "1 Franc CFA.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_dollar-namibien": {
 "source": "habillee",
-"fichier": "Coins NAD 2005.jpg"
+"fichier": "Coins NAD 2005.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_ariary": {
 "source": "habillee",
-"fichier": "Madagascar BFM 20000 ariary.jpg"
+"fichier": "Madagascar BFM 20000 ariary.jpg",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_riyal-saoudien": {
 "source": "habillee",
-"fichier": "Saudi Riyal 6th Domination.png"
+"fichier": "Saudi Riyal 6th Domination.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_dirham-des-emirats-arabes-unis": {
 "source": "habillee",
-"fichier": "UAE 1 dirham coin, reverse.jpg"
+"fichier": "UAE 1 dirham coin, reverse.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_riyal-qatarien": {
 "source": "habillee",
-"fichier": "QAT001.JPG"
+"fichier": "QAT001.JPG",
+"detourage": "ia"
 },
 "monnaies-du-monde_dinar-jordanien": {
 "source": "habillee",
-"fichier": "Jordanian currency.jpg"
+"fichier": "Jordanian currency.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_dinar-irakien": {
 "source": "habillee",
-"fichier": "Dinar-25000.jpg"
+"fichier": "Quarter Iraqi Dinar 1973 Replacement Banknote RR.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_rial-iranien": {
 "source": "habillee",
-"fichier": "Iranian rial banknote 1981 1985.jpg"
+"fichier": "Iranian rial banknote 1981 1985.jpg",
+"detourage": "rectangle"
 },
 "monnaies-du-monde_shekel": {
 "source": "habillee",
-"fichier": "השטרות החדשים של ישראל.jpg"
+"fichier": "השטרות החדשים של ישראל.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_roupie-indienne": {
 "source": "habillee",
-"fichier": "Banknote of india.png"
+"fichier": "Banknote of india.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_roupie-pakistanaise": {
 "source": "habillee",
-"fichier": "Pakistani Rupee.jpg"
+"fichier": "Pakistani Rupee.jpg",
+"detourage": "repare"
 },
 "monnaies-du-monde_taka": {
 "source": "habillee",
-"fichier": "Taka_Banknotes_specimen.jpg"
+"fichier": "Taka_Banknotes_specimen.jpg",
+"detourage": "repare"
 },
 "monnaies-du-monde_won-sud-coreen-depuis-1962": {
 "source": "habillee",
-"fichier": "Currency South Korea.jpg"
+"fichier": "Currency South Korea.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_nouveau-dollar-de-taiwan": {
 "source": "habillee",
-"fichier": "Taiwan 1955 bank note - 5 new Taiwan dollars (front).jpg"
+"fichier": "Taiwan 1955 bank note - 5 new Taiwan dollars (front).jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dollar-de-singapour": {
 "source": "habillee",
-"fichier": "SGD 10000 Paper f.jpg"
+"fichier": "SGD 10000 Paper f.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_baht": {
 "source": "habillee",
-"fichier": "0.5bahtseries5.png"
+"fichier": "0.5bahtseries5.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_ringgit": {
 "source": "habillee",
-"fichier": "Rm100-original.jpg"
+"fichier": "Rm100-original.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_roupie-indonesienne": {
 "source": "habillee",
-"fichier": "Rupiah Tahun Emisi 2022.jpg"
+"fichier": "Rupiah Tahun Emisi 2022.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_peso-philippin": {
 "source": "habillee",
-"fichier": "Font 20 peso Coin Philippines.png"
+"fichier": "Font 20 peso Coin Philippines.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_kyat": {
 "source": "habillee",
-"fichier": "2020MyanmarKyat.png"
+"fichier": "2020MyanmarKyat.png",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_tugrik": {
 "source": "habillee",
-"fichier": "20000 Togrog.jpg"
+"fichier": "20000 Togrog.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_tenge-kazakh": {
 "source": "habillee",
-"fichier": "Сакский стиль 20000-ос.jpg"
+"fichier": "Сакский стиль 20000-ос.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dollar-australien": {
 "source": "habillee",
-"fichier": "2018 Australian fifty dollar note obverse.jpg"
+"fichier": "2018 Australian fifty dollar note obverse.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dollar-neo-zelandais": {
 "source": "habillee",
-"fichier": "New Zealand one hundred-dollar banknote, Series 7.jpg"
+"fichier": "New Zealand one hundred-dollar banknote, Series 7.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_franc-pacifique": {
 "source": "habillee",
-"fichier": "CFP 10000 recto.jpg"
+"fichier": "CFP 10000 recto.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-historiques_drachme-grece-antique": {
 "source": "habillee",
-"fichier": "Athens_545-510_BC_Didrachm.jpg"
+"fichier": "Athens_545-510_BC_Didrachm.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_statere": {
 "source": "habillee",
-"fichier": "Delphi_Amphictionic_issues_90020069.jpg"
+"fichier": "Delphi_Amphictionic_issues_90020069.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_obole-monnaie": {
 "source": "habillee",
-"fichier": "Athens._Circa_594-566.jpg"
+"fichier": "Athens._Circa_594-566.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_talent-unite": {
 "source": "habillee",
@@ -16811,35 +16874,43 @@
 },
 "monnaies-historiques_sicle": {
 "source": "habillee",
-"fichier": "Carthage_EL_shekel_2250013.jpg"
+"fichier": "Carthage_EL_shekel_2250013.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_denier-monnaie": {
 "source": "habillee",
-"fichier": "Octavian_and_Antony_denarius.jpg"
+"fichier": "Octavian_and_Antony_denarius.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_sesterce": {
 "source": "habillee",
-"fichier": "ArSestertiusDioscuri.jpg"
+"fichier": "ArSestertiusDioscuri.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_as-monnaie": {
 "source": "habillee",
-"fichier": "Vecchi_051_-_transparent_background.PNG"
+"fichier": "Vecchi_051_-_transparent_background.PNG",
+"detourage": "transparent"
 },
 "monnaies-historiques_aureus": {
 "source": "habillee",
-"fichier": "Aureus_of_Septimius_Severus,_AD_193.jpg"
+"fichier": "Aureus_of_Septimius_Severus,_AD_193.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_antoninien": {
 "source": "habillee",
-"fichier": "7antoninianii.jpg"
+"fichier": "7antoninianii.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_follis": {
 "source": "habillee",
-"fichier": "A_follis_from_Trier_of_Diocletian.jpg"
+"fichier": "A_follis_from_Trier_of_Diocletian.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_solidus-monnaie": {
 "source": "habillee",
-"fichier": "Theodosius_II_solidus.jpg"
+"fichier": "Theodosius_II_solidus.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_besant": {
 "source": "habillee",
@@ -16847,23 +16918,28 @@
 },
 "monnaies-historiques_hyperperion": {
 "source": "habillee",
-"fichier": "Hyperpyron-Manuel_I-sb1965.jpg"
+"fichier": "Hyperpyron-Manuel_I-sb1965.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_denier-franc": {
 "source": "habillee",
-"fichier": "Denier_Charlemagne1.jpg"
+"fichier": "Denier_Charlemagne1.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_gros-tournois": {
 "source": "habillee",
-"fichier": "Gros tournois sous Louis IX dit Saint Louis.jpg"
+"fichier": "Gros tournois sous Louis IX dit Saint Louis.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_livre-tournois": {
 "source": "habillee",
-"fichier": "FRA-A17b-La Banque Royale-100 livres Tournois (1720).jpg"
+"fichier": "FRA-A17b-La Banque Royale-100 livres Tournois (1720).jpg",
+"detourage": "rectangle"
 },
 "monnaies-historiques_florin": {
 "source": "habillee",
-"fichier": "Behrens_66.jpg"
+"fichier": "atelier",
+"detourage": "ia"
 },
 "monnaies-historiques_ducat": {
 "source": "habillee",
@@ -16871,19 +16947,23 @@
 },
 "monnaies-historiques_maravedis": {
 "source": "habillee",
-"fichier": "Alfonso VIII maravedí 701240.jpg"
+"fichier": "Alfonso VIII maravedí 701240.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_ecu-monnaie": {
 "source": "habillee",
-"fichier": "First_écu,_issued_by_Louis_IX_of_France_in_1266.jpg"
+"fichier": "First_écu,_issued_by_Louis_IX_of_France_in_1266.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_louis-monnaie": {
 "source": "habillee",
-"fichier": "France_1640_4_Louis_d’or_(Louis_XIII).jpg"
+"fichier": "France_1640_4_Louis_d’or_(Louis_XIII).jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_real-espagnol": {
 "source": "habillee",
-"fichier": "Potosi_Real.jpg"
+"fichier": "Potosi_Real.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_doublon-monnaie": {
 "source": "habillee",
@@ -16899,31 +16979,38 @@
 },
 "monnaies-historiques_thaler": {
 "source": "habillee",
-"fichier": "Thaler.jpg"
+"fichier": "atelier",
+"detourage": "ia"
 },
 "monnaies-historiques_souverain-piece-en-or": {
 "source": "habillee",
-"fichier": "1963 Gold Sovereign – Elizabeth II Obverse.png"
+"fichier": "1963 Gold Sovereign – Elizabeth II Obverse.png",
+"detourage": "ia"
 },
 "monnaies-historiques_guinee-monnaie": {
 "source": "habillee",
-"fichier": "5_Guineas,_James_II,_England,_1688_-_Bode-Museum_-_DSC02761.jpg"
+"fichier": "5_Guineas,_James_II,_England,_1688_-_Bode-Museum_-_DSC02761.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_farthing": {
 "source": "habillee",
-"fichier": "Britfarthing1954obv.png"
+"fichier": "Britfarthing1954obv.png",
+"detourage": "transparent"
 },
 "monnaies-historiques_franc-francais": {
 "source": "habillee",
-"fichier": "French franc last series banknotes.png"
+"fichier": "French franc last series banknotes.png",
+"detourage": "ia"
 },
 "monnaies-historiques_franc-belge": {
 "source": "habillee",
-"fichier": "Belgium 1835 40 Francs.jpg"
+"fichier": "Belgium 1835 40 Francs.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_lire-italienne": {
 "source": "habillee",
-"fichier": "Italian lira banknotes.JPG"
+"fichier": "Italian lira banknotes.JPG",
+"detourage": "ia"
 },
 "monnaies-historiques_peseta-espagnole": {
 "source": "habillee",
@@ -16931,11 +17018,13 @@
 },
 "monnaies-historiques_escudo-portugais": {
 "source": "habillee",
-"fichier": "Ultima Série das Notas do Escudo Português.png"
+"fichier": "Ultima Série das Notas do Escudo Português.png",
+"detourage": "transparent"
 },
 "monnaies-historiques_florin-neerlandais": {
 "source": "habillee",
-"fichier": "Netherlands, 1897 - Guilder, Welhelmina.jpg"
+"fichier": "Netherlands, 1897 - Guilder, Welhelmina.jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_drachme-grece-moderne": {
 "source": "habillee",
@@ -16943,15 +17032,18 @@
 },
 "monnaies-historiques_schilling-autrichien": {
 "source": "habillee",
-"fichier": "Austrian 20-Schilling note, circa 1988.jpg"
+"fichier": "Austrian 20-Schilling note, circa 1988.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-historiques_mark-finlandais": {
 "source": "habillee",
-"fichier": "Finlandia 1 markka.JPG"
+"fichier": "Finlandia 1 markka.JPG",
+"detourage": "ia"
 },
 "monnaies-historiques_deutsche-mark": {
 "source": "habillee",
-"fichier": "1000 Deutsche Mark (Obverse).jpg"
+"fichier": "1000 Deutsche Mark (Obverse).jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_reichsmark": {
 "source": "habillee",
@@ -16959,11 +17051,13 @@
 },
 "monnaies-historiques_papiermark": {
 "source": "habillee",
-"fichier": "GER-140-Reichsbanknote-100 Trillion Mark (1924).jpg"
+"fichier": "GER-140-Reichsbanknote-100 Trillion Mark (1924).jpg",
+"detourage": "rectangle"
 },
 "monnaies-historiques_rentenmark": {
 "source": "habillee",
-"fichier": "Rentenmark (front).jpg"
+"fichier": "Rentenmark (front).jpg",
+"detourage": "ia"
 },
 "monnaies-historiques_ostmark": {
 "source": "habillee",
@@ -16971,7 +17065,8 @@
 },
 "monnaies-historiques_rouble-sovietique": {
 "source": "habillee",
-"fichier": "Rouble-1961-Paper-1-Obverse.jpg"
+"fichier": "Rouble-1961-Paper-1-Obverse.jpg",
+"detourage": "scan-entier"
 },
 "monnaies-historiques_sapeque": {
 "source": "habillee",
@@ -16979,7 +17074,8 @@
 },
 "monnaies-historiques_assignat": {
 "source": "habillee",
-"fichier": "Assignat de 15 sols.jpg"
+"fichier": "Assignat de 15 sols.jpg",
+"detourage": "rectangle"
 },
 "monnaies-historiques_collier-de-wampum": {
 "source": "habillee",
@@ -17136,23 +17232,28 @@
 },
 "monnaies-du-monde_livre-sterling": {
 "source": "habillee",
-"fichier": "British 12 sided pound coin.png"
+"fichier": "British 12 sided pound coin.png",
+"detourage": "transparent"
 },
 "monnaies-du-monde_kwacha-zambien": {
 "source": "habillee",
-"fichier": "Zambia Currency - Zambian Kwacha.jpg"
+"fichier": "Zambia Currency - Zambian Kwacha.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_dinar-koweitien": {
 "source": "habillee",
-"fichier": "100 Kuwaitian fils in 2012 Obverse.jpg"
+"fichier": "100 Kuwaitian fils in 2012 Obverse.jpg",
+"detourage": "ia"
 },
 "monnaies-du-monde_dollar-de-hong-kong": {
 "source": "habillee",
-"fichier": "1 Trade dollar of UK 1902B.png"
+"fichier": "1 Trade dollar of UK 1902B.png",
+"detourage": "ia"
 },
 "monnaies-du-monde_dong-monnaie": {
 "source": "habillee",
-"fichier": "Temple of Literature in Hanoi with a 100.000 Dong banknote 2015.jpg"
+"fichier": "Temple of Literature in Hanoi with a 100.000 Dong banknote 2015.jpg",
+"detourage": "repare"
 },
 "noeuds_n-ud-plat": {
 "source": "commons-serie",

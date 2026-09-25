@@ -363,6 +363,10 @@ def composer(sujet, style, detoure):
         graine = zlib.crc32(style.get('_nom', '').encode('utf-8'))
         angle = ((graine % 1000) / 1000 * 2 - 1) * incl
         sujet = sujet.rotate(angle, resample=Image.BICUBIC, expand=True)
+        # l'inclinaison agrandit l'objet : il ne doit jamais deborder de la carte
+        r2 = min(1, (L - 30) / sujet.width, (H - 30) / sujet.height)
+        if r2 < 1:
+            sujet = sujet.resize((round(sujet.width * r2), round(sujet.height * r2)), Image.LANCZOS)
     x, y = (L - sujet.width) // 2, (H - sujet.height) // 2
     # ombre portee, plus douce et plus decollee quand le style le demande
     force, flou, dx, dy = style.get('ombre', (0.45, 10, 6, 10))

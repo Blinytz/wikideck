@@ -34558,6 +34558,20 @@
    "w": 1,
    "editeLe": 1790375000450,
    "original": true
+  },
+  "langues-du-monde_ecriture-cuneiforme": {
+   "cx": 0.5079521975957926,
+   "cy": 0.49891998497370393,
+   "w": 0.8264462809917353,
+   "editeLe": 1790375383648,
+   "original": true
+  },
+  "langues-du-monde_copte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790375387842,
+   "original": false
   }
  },
  "notes": [

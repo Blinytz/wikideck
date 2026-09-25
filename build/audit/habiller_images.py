@@ -42,11 +42,16 @@ STYLES = {
     'jeux-olympiques-hiver': dict(
         fond=((240, 247, 252), (181, 208, 230)), boite=(470, 470),
         cles=('logo', 'emblem', 'image')),
+    # Seconde passe (demande de l'utilisateur) : sujets plus grands, legere
+    # inclinaison et ombre plus douce, comme des billets poses sur une table,
+    # et un fond plus eclaire au centre.
     'monnaies-du-monde': dict(
-        fond=((42, 74, 60), (14, 30, 24)), boite=(660, 420),
+        fond=((56, 96, 76), (8, 20, 16)), boite=(730, 500),
+        inclinaison=4, ombre=(0.6, 16, 10, 18),
         cles=('image_1', 'image', 'image_2')),
     'monnaies-historiques': dict(
-        fond=((38, 52, 78), (10, 16, 28)), boite=(560, 440),
+        fond=((52, 70, 104), (6, 10, 20)), boite=(700, 490),
+        inclinaison=4, ombre=(0.6, 16, 10, 18),
         cles=('image_1', 'obverse', 'image', 'image_2')),
     'noeuds': dict(
         fond=((78, 92, 104), (28, 34, 40)), boite=(500, 470), tuile=460,
@@ -63,6 +68,10 @@ FORCES = {
     'Dong': ('dong banknote', 'Temple of Literature in Hanoi'),
     'Złoty': ('zlotych banknoty', '500 zł 1947'),
     'Rial iranien': ('Iranian rial banknote', 'Iranian rial banknote'),
+    # ces deux cartes n'avaient pas de source et se recomposaient a partir de
+    # leur ancienne image deja habillee : un petit sujet dans un halo
+    'Ringgit': ('Malaysian ringgit', 'Rm100-original'),
+    'Gros tournois': ('gros tournois Louis IX', 'Gros tournois sous Louis IX dit Saint Louis'),
     'Nœud de pêcheur': ("Fisherman's knot", "Fisherman's knot diagram"),
     'Nœud de cravate': ('Four-in-hand knot', 'Necktie Four-in-Hand knot'),
     'Nœud de franciscain': ('Franziskanerknoten', 'FranziskanerKnoten'),
@@ -71,7 +80,7 @@ FORCES = {
 
 # Billets dont le detourage laisse des bords dechiquetes (papier use, fond
 # irregulier) : ils sont poses encadres, tels quels.
-NE_PAS_DETOURER = {'Złoty', 'Rial iranien'}
+NE_PAS_DETOURER = {'Złoty', 'Rial iranien', 'Ringgit'}
 
 
 def fichier_force(nom):
@@ -248,18 +257,30 @@ def composer(sujet, style, detoure):
     sujet = sujet.resize((max(1, round(sujet.width * r)), max(1, round(sujet.height * r))),
                          Image.LANCZOS)
     toile = fond(*style['fond']).convert('RGBA')
-    x, y = (L - sujet.width) // 2, (H - sujet.height) // 2
     if not detoure:
         # photo encadree : un liseré clair, pour qu'elle se detache du fond
         cadre = Image.new('RGBA', (sujet.width + 12, sujet.height + 12), (245, 242, 235, 255))
         cadre.paste(sujet, (6, 6))
-        sujet, x, y = cadre, x - 6, y - 6
-    # ombre portee
+        sujet = cadre
+    # Inclinaison legere, propre a chaque carte (graine = son nom) : un billet
+    # ou une piece pose de biais sur la table, plutot qu'a plat au cordeau.
+    incl = style.get('inclinaison', 0)
+    if incl:
+        import zlib   # hash() de Python change a chaque lancement : crc32 est stable
+        graine = zlib.crc32(style.get('_nom', '').encode('utf-8'))
+        angle = ((graine % 1000) / 1000 * 2 - 1) * incl
+        sujet = sujet.rotate(angle, resample=Image.BICUBIC, expand=True)
+    x, y = (L - sujet.width) // 2, (H - sujet.height) // 2
+    # ombre portee, plus douce et plus decollee quand le style le demande
+    force, flou, dx, dy = style.get('ombre', (0.45, 10, 6, 10))
     a = sujet.getchannel('A')
     ombre = Image.new('RGBA', sujet.size, (0, 0, 0, 0))
-    ombre.putalpha(a.point(lambda v: int(v * 0.45)))
-    ombre = ombre.filter(ImageFilter.GaussianBlur(10))
-    toile.alpha_composite(ombre, (x + 6, y + 10))
+    ombre.putalpha(a.point(lambda v: int(v * force)))
+    marge = flou * 3
+    grande = Image.new('RGBA', (sujet.width + 2 * marge, sujet.height + 2 * marge), (0, 0, 0, 0))
+    grande.alpha_composite(ombre, (marge, marge))
+    grande = grande.filter(ImageFilter.GaussianBlur(flou))
+    toile.alpha_composite(grande, (x + dx - marge, y + dy - marge))
     toile.alpha_composite(sujet, (x, y))
     return toile.convert('RGB')
 
@@ -351,7 +372,7 @@ def main():
                     sujet, detoure = im, False
                 else:
                     sujet, detoure = detourer(im)
-                img = composer(sujet, style, detoure)
+                img = composer(sujet, dict(style, _nom=c['nom']), detoure)
             print(f"  {c['nom']:<34} {'detoure' if detoure else 'encadre':<8} <- {str(origine)[:60]}")
             faites += 1
             if essai:

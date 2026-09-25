@@ -16713,7 +16713,7 @@
 },
 "monnaies-du-monde_ringgit": {
 "source": "habillee",
-"fichier": "(image actuelle)"
+"fichier": "Rm100-original.jpg"
 },
 "monnaies-du-monde_roupie-indonesienne": {
 "source": "habillee",
@@ -16813,7 +16813,7 @@
 },
 "monnaies-historiques_gros-tournois": {
 "source": "habillee",
-"fichier": "(image actuelle)"
+"fichier": "Gros tournois sous Louis IX dit Saint Louis.jpg"
 },
 "monnaies-historiques_livre-tournois": {
 "source": "habillee",
@@ -16948,32 +16948,32 @@
 "fichier": "EdioHalveknoop.jpg"
 },
 "noeuds_n-ud-en-huit": {
-"source": "habillee",
-"fichier": "Figure-eight knot.svg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/huit.htm"
 },
 "noeuds_n-ud-en-huit-en-double": {
-"source": "habillee",
-"fichier": "FigureOfEightLoop.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/huit_double.htm"
 },
 "noeuds_n-ud-d-ecoute": {
-"source": "habillee",
-"fichier": "Schotstek rechts.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/ecoute.htm"
 },
 "noeuds_n-ud-de-carrick": {
-"source": "habillee",
-"fichier": "Knife-lanyard-knot-ABOK-787-Carrick-start.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/carrick.htm"
 },
 "noeuds_n-ud-de-zeppelin": {
-"source": "habillee",
-"fichier": "ZeppelinBagi.JPG"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/zeppelin.htm"
 },
 "noeuds_n-ud-de-pecheur": {
-"source": "habillee",
-"fichier": "Fisherman's knot diagram.png"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/pecheur.htm"
 },
 "noeuds_n-ud-de-pecheur-double": {
-"source": "habillee",
-"fichier": "Nœud_de_pêcheur_double_serré.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/pecheur_double.htm"
 },
 "noeuds_n-ud-double": {
 "source": "habillee",
@@ -16984,80 +16984,80 @@
 "fichier": "Noeud double ganse-5.jpg"
 },
 "noeuds_n-ud-de-chaise": {
-"source": "habillee",
-"fichier": "Palstek innen.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/noeud_chaise.htm"
 },
 "noeuds_n-ud-de-chaise-double-en-huit": {
 "source": "habillee",
 "fichier": "Karash Double Loop.jpg"
 },
 "noeuds_n-ud-de-chaise-double-sur-son-double": {
-"source": "habillee",
-"fichier": "Doppelter Palstek.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/chaise_double.htm"
 },
 "noeuds_n-ud-de-papillon-alpin": {
-"source": "habillee",
-"fichier": "Alpine_butterfly_loop.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/papillon.htm"
 },
 "noeuds_n-ud-de-plein-poing": {
-"source": "habillee",
-"fichier": "Overhand-loop-ABOK-1046.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/plein_poing.htm"
 },
 "noeuds_n-ud-coulant": {
-"source": "habillee",
-"fichier": "NooseKnot.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/coulant_simple.htm"
 },
 "noeuds_n-ud-de-pendu": {
-"source": "habillee",
-"fichier": "Henkersknoten8Wklg.JPG"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/pendu.htm"
 },
 "noeuds_demi-clef": {
-"source": "habillee",
-"fichier": "Eyes_and_turns.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/demi-cle.htm"
 },
 "noeuds_n-ud-de-cabestan": {
-"source": "habillee",
-"fichier": "Clove Hitch - ABoK 11 - USCG.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/cabestan.htm"
 },
 "noeuds_n-ud-de-demi-cabestan": {
-"source": "habillee",
-"fichier": "HMS complete.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/demicabestan.htm"
 },
 "noeuds_n-ud-de-taquet": {
-"source": "habillee",
-"fichier": "Belegen auf der Klampe.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/taquet.htm"
 },
 "noeuds_n-ud-d-elingue": {
 "source": "habillee",
 "fichier": "Jug-sling-wine-bottle-ABOK-1142.jpg"
 },
 "noeuds_n-ud-de-ride": {
-"source": "habillee",
-"fichier": "Matthew Walker knot.gif"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/ride.htm"
 },
 "noeuds_n-ud-de-laguis": {
-"source": "habillee",
-"fichier": "Running bowline.svg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/laguis.htm"
 },
 "noeuds_n-ud-de-galere": {
 "source": "habillee",
 "fichier": "Slipstek.jpg"
 },
 "noeuds_n-ud-de-jambe-de-chien": {
-"source": "habillee",
-"fichier": "Sheepshank knot.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/jambe_chien.htm"
 },
 "noeuds_n-ud-de-fouet": {
-"source": "habillee",
-"fichier": "Topsegelschotstek.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/amarrage_fouet.htm"
 },
 "noeuds_n-ud-de-bois": {
-"source": "habillee",
-"fichier": "Timber Hitch (PSF).png"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/bois.htm"
 },
 "noeuds_n-ud-de-prusik": {
-"source": "habillee",
-"fichier": "Prusik.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/prusik.htm"
 },
 "noeuds_n-ud-de-cravate-windsor": {
 "source": "habillee",
@@ -17072,8 +17072,8 @@
 "fichier": "Oriental_tie_knot.jpg"
 },
 "noeuds_n-ud-de-franciscain": {
-"source": "habillee",
-"fichier": "FranziskanerKnoten O&Z.JPG"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/capucin.htm"
 },
 "monnaies-du-monde_livre-sterling": {
 "source": "habillee",
@@ -17096,24 +17096,24 @@
 "fichier": "Temple of Literature in Hanoi with a 100.000 Dong banknote 2015.jpg"
 },
 "noeuds_n-ud-plat": {
-"source": "habillee",
-"fichier": "Square_knot.svg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/noeud_plat.htm"
 },
 "noeuds_n-ud-en-queue-de-cochon": {
-"source": "habillee",
-"fichier": "Granny_knot.svg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/noeud_plat.htm"
 },
 "noeuds_n-ud-de-grappin": {
-"source": "habillee",
-"fichier": "Roringstek.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/grappin.htm"
 },
 "noeuds_n-ud-en-tete-d-alouette": {
-"source": "habillee",
-"fichier": "Tête d'alouette.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/tete_alouette.htm"
 },
 "noeuds_n-ud-de-machard": {
-"source": "habillee",
-"fichier": "Klemheist.jpg"
+"source": "zpag.net",
+"fichier": "https://zpag.net/Noeuds/machard.htm"
 },
 "noeuds_n-ud-de-cravate": {
 "source": "habillee",

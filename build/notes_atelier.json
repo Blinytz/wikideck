@@ -34985,6 +34985,13 @@
    "w": 0.75,
    "editeLe": 1790379224737,
    "original": true
+  },
+  "monnaies-du-monde_shekel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888,
+   "editeLe": 1790379246772,
+   "original": true
   }
  },
  "notes": [

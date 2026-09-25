@@ -120,6 +120,34 @@ const chargeur = (() => {
   };
 })();
 
+/* Planches : l'image d'une collection n'est demandee que lorsque sa grille
+ * approche de l'ecran. Une fois chargee, elle est reposee immediatement aux
+ * redessins suivants (le navigateur la tient en cache). */
+const planchesPosees = new Set();
+const obsPlanches = new IntersectionObserver((entrees) => {
+  for (const e of entrees) {
+    if (!e.isIntersecting) continue;
+    obsPlanches.unobserve(e.target);
+    poserPlanche(e.target);
+  }
+}, { rootMargin: '800px' });
+
+function poserPlanche(grille) {
+  const url = grille.dataset.planche;
+  // Adresse ABSOLUE : un url() relatif place dans une variable CSS est resolu
+  // depuis la feuille de style qui l'utilise (atelier/), pas depuis la page,
+  // et la planche etait cherchee dans atelier/images/planches/.
+  grille.style.setProperty('--planche', `url("${new URL(url, location.href).href}")`);
+  planchesPosees.add(url);
+}
+
+function observerPlanches(racine) {
+  for (const g of racine.querySelectorAll('.grille[data-planche]')) {
+    if (planchesPosees.has(g.dataset.planche)) poserPlanche(g);
+    else obsPlanches.observe(g);
+  }
+}
+
 async function parLots(liste, travail, largeur = LARGEUR_CHARGEMENT) {
   const sortie = new Array(liste.length);
   let curseur = 0;
@@ -185,6 +213,10 @@ async function majEffectif(colSlug, nbCartes) {
 let collections = [];          // [{slug, nom, cartes:[...]}]
 let parId = new Map();
 let sourcesImages = {};
+// Planches de vignettes (build/audit/planches_vignettes.py) : une image par
+// collection au lieu d'une par carte. { slug: {v, genereLe, cols, lignes, ids} }
+let planches = {};
+const rangsPlanche = new Map();          // slug -> Map(id -> rang dans la planche)
 let notes = { version: 1, statuts: {}, cadrages: {}, notes: [] };
 let notesSha = null;
 let selection = new Set();
@@ -238,6 +270,12 @@ async function demarrer() {
   try {
     sourcesImages = await (await fetch('build/images_sources.json' + bust)).json();
   } catch { sourcesImages = {}; }
+  try {
+    planches = await (await fetchRetente('data/planches.json' + bust)).json();
+  } catch { planches = {}; }       // sans planches, la grille charge carte par carte
+  for (const [slug, p] of Object.entries(planches)) {
+    rangsPlanche.set(slug, new Map(p.ids.map((id, i) => [id, i])));
+  }
   try {
     const { texte, sha } = getToken()
       ? await getFichierTexte('build/notes_atelier.json')
@@ -333,8 +371,14 @@ function rendreGrille() {
     if (!visibles.length) continue;
     total += visibles.length;
     sommaire.push(`<a href="#col-${col.slug}">${esc(col.nom)} (${visibles.length})</a>`);
+    const pl = planches[col.slug];
+    const rangs = rangsPlanche.get(col.slug);
+    const attrPlanche = pl
+      ? ` data-planche="images/planches/${esc(col.slug)}.webp?v=${esc(pl.v)}"
+          style="--pw:${pl.cols * 100}%;--ph:${Math.max(1, pl.lignes) * 100}%"`
+      : '';
     parts.push(`<h2 id="col-${col.slug}">${esc(col.nom)} <small>${visibles.length}</small></h2>
-      <div class="grille">` + visibles.map(c => {
+      <div class="grille"${attrPlanche}>` + visibles.map(c => {
         const st = statutDe(c.id);
         const pastille = { revoir: '⚠', ok: '✓', editee: '✂' }[st] || '';
         const note = aUneNote(c.id) ? '<span class="v-note">📝</span>' : '';
@@ -343,9 +387,17 @@ function rendreGrille() {
         const src = apercusLocaux[c.id]
           || (toutJuste(cad) ? `${RAW}${c.thumbUrl}?v=${cad.editeLe}`
               : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
+        // La planche sert la vignette, SAUF si la carte a ete retouchee apres
+        // sa fabrication : son image individuelle est alors la seule a jour.
+        const rang = rangs?.get(c.id);
+        const surPlanche = rang !== undefined && !apercusLocaux[c.id]
+          && !(cad && (cad.editeLe || 0) > pl.genereLe);
+        const visuel = surPlanche
+          ? `<div class="v-planche" style="--bx:${pl.cols > 1 ? (rang % pl.cols) / (pl.cols - 1) * 100 : 0}%;--by:${pl.lignes > 1 ? Math.floor(rang / pl.cols) / (pl.lignes - 1) * 100 : 0}%"></div>`
+          : `<img data-src="${esc(src)}" alt="">`;
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
-          <img data-src="${esc(src)}" alt="">
+          ${visuel}
           <button class="v-statut ${st}" data-statut="${esc(c.id)}" title="statut">${pastille || '·'}</button>
           ${note}
           <div class="v-nom">${esc(c.nom)}</div>
@@ -358,6 +410,7 @@ function rendreGrille() {
     `<nav class="sommaire">${sommaire.join('')}</nav>
      <p class="doux">${total} carte(s) affichée(s)</p>` + parts.join('');
   chargeur.observer(conteneur);
+  observerPlanches(conteneur);
 
   conteneur.onclick = (ev) => {
     const btnStatut = ev.target.closest('[data-statut]');

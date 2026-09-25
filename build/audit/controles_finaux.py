@@ -137,6 +137,27 @@ def main():
             dur.append(f"{d['slug']} : collections.json annonce {d['_annonce']} "
                        f"cartes pour {len(d['cartes'])}")
 
+    # 8. planches de vignettes a jour. Une planche perimee montrerait dans
+    # l'atelier l'ancienne image d'une carte modifiee par un script : il faut
+    # relancer planches_vignettes.py apres tout changement d'images.
+    fp = RACINE / 'data' / 'planches.json'
+    planches = json.loads(fp.read_text(encoding='utf-8')) if fp.exists() else {}
+    for d in cols:
+        p = planches.get(d['slug'])
+        if not p:
+            doux.append(f"{d['slug']} : pas de planche de vignettes")
+            continue
+        if p['ids'] != [c['id'] for c in d['cartes']]:
+            dur.append(f"{d['slug']} : planche de vignettes perimee (cartes changees),"
+                       " relancer planches_vignettes.py")
+            continue
+        recentes = [c['nom'] for c in d['cartes']
+                    if (RACINE / c['thumbUrl']).exists()
+                    and (RACINE / c['thumbUrl']).stat().st_mtime * 1000 > p['genereLe']]
+        if recentes:
+            dur.append(f"{d['slug']} : planche perimee, {len(recentes)} vignette(s) plus "
+                       f"recente(s) ({recentes[0]}…), relancer planches_vignettes.py")
+
     total = sum(len(d['cartes']) for d in cols)
     print(f'{len(cols)} collections, {total} cartes\n')
     print(f'---- manquements bloquants ({len(dur)}) ----')

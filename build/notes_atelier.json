@@ -34404,6 +34404,20 @@
    "w": 1.0000000000000002,
    "editeLe": 1790373493074,
    "original": true
+  },
+  "instruments-de-musique_orgue": {
+   "cx": 0.4818851602942514,
+   "cy": 0.5578254132231406,
+   "w": 0.7356280083552811,
+   "editeLe": 1790374201362,
+   "original": true
+  },
+  "instruments-de-musique_clavecin": {
+   "cx": 0.5,
+   "cy": 0.46375,
+   "w": 1,
+   "editeLe": 1790374206320,
+   "original": false
   }
  },
  "notes": [

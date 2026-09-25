@@ -33654,6 +33654,20 @@
    "w": 1,
    "editeLe": 1790349311456,
    "original": true
+  },
+  "vehicules-celebres_bateau-viking": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9323181049069373,
+   "editeLe": 1790349346803,
+   "original": true
+  },
+  "vehicules-celebres_jonque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790349350995,
+   "original": false
   }
  },
  "notes": [

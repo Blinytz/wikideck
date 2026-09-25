@@ -330,358 +330,358 @@
 "source": "memo:f1_champions"
 },
 "elements-chimiques_hydrogene": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_helium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_lithium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_beryllium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_bore": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_carbone": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_azote": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_oxygene": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_fluor": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_neon": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_sodium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_magnesium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_aluminium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_silicium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_phosphore": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_soufre": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_chlore": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_argon": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_potassium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_calcium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_scandium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_titane": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_vanadium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_chrome": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_manganese": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_fer": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_cobalt": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_nickel": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_cuivre": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_zinc": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_gallium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_germanium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_arsenic": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_selenium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_brome": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_krypton": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_rubidium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_strontium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_yttrium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_zirconium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_niobium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_molybdene": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_technetium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_ruthenium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_rhodium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_palladium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_argent": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_cadmium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_indium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_etain": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_antimoine": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_tellure": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_iode": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_xenon": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_cesium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_baryum": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_lanthane": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_cerium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_praseodyme": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_neodyme": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_promethium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_samarium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_europium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_gadolinium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_terbium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_dysprosium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_holmium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_erbium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_thulium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_ytterbium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_lutecium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_hafnium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_tantale-chimie": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_tungstene": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_rhenium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_osmium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_iridium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_platine": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_or": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_mercure-chimie": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_thallium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_plomb": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_bismuth": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_polonium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_astate": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_radon": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_francium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_radium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_actinium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_thorium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_protactinium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_uranium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_neptunium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_plutonium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_americium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_curium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_berkelium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_californium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_einsteinium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_fermium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_mendelevium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_nobelium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_lawrencium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_rutherfordium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_dubnium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_seaborgium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_bohrium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_hassium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_meitnerium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_darmstadtium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_roentgenium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_copernicium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_nihonium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_flerovium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_moscovium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_livermorium": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_tennesse": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "elements-chimiques_oganesson": {
-"source": "memo:svg-element"
+"source": "tuile-element"
 },
 "corps-celestes_mercure-planete": {
 "source": "wiki-fr"

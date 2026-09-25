@@ -1,31 +1,32 @@
 #!/usr/bin/env python3
-"""Cartes des elements : la vraie photo de l'echantillon, en case de tableau.
+"""Cartes des elements : une case de tableau periodique, sans photo.
 
-Les schemas d'atome se ressemblaient tous, a la couleur pres. Chaque carte
-devient une case de tableau periodique sur fond sombre : a gauche le numero,
-le symbole et la famille ; au centre la PHOTO de l'element (image de tete de
-la page anglaise, detouree par rembg) ; un liseré de la couleur de sa
-famille. Les elements synthetiques, qui n'ont jamais ete vus a l'oeil nu,
-n'ont pas de photo : leur symbole occupe alors le centre, en grand.
+Les photos d'echantillon ne s'accordaient pas entre elles (fonds, echelles,
+detourages). Chaque carte devient une grande case de tableau periodique sur
+fond sombre, liseree de la couleur de sa famille : numero atomique, masse,
+symbole, nom, famille, etat, periode et groupe, configuration electronique,
+electrons par couche, electronegativite, et une petite carte du tableau qui
+situe l'element.
+
+Tout tient dans le carre central (x 100 a 700) : la grille du jeu recadre
+les cartes en carre.
+
+Donnees : build/audit/tableau_periodique.json (Bowserinator,
+Periodic-Table-JSON). Noms francais : ceux des cartes.
 
 Usage : python elements_tuiles.py [--apercu] [Z...]
 """
 import io, re, sys, json
 from pathlib import Path
+import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.stdout.reconfigure(encoding='utf-8')
 ICI = Path(__file__).resolve().parent
 RACINE = ICI.parent.parent
-sys.path.insert(0, str(RACINE / 'build')); sys.path.insert(0, str(ICI))
+sys.path.insert(0, str(RACINE / 'build'))
 import images_lib as il
-import habiller_images as hab
 
-SYMB = ('H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn '
-        'Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs Ba La Ce '
-        'Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn '
-        'Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr Rf Db Sg Bh Hs Mt Ds Rg Cn Nh Fl '
-        'Mc Lv Ts Og').split()
 FAMILLES = [
     ('Métal alcalin', (255, 107, 107), {3, 11, 19, 37, 55, 87}),
     ('Alcalino-terreux', (255, 170, 80), {4, 12, 20, 38, 56, 88}),
@@ -39,11 +40,19 @@ FAMILLES = [
     ('Halogène', (90, 220, 255), {9, 17, 35, 53, 85, 117}),
     ('Gaz noble', (170, 150, 255), {2, 10, 18, 36, 54, 86, 118}),
 ]
-# photos d'echantillon choisies quand l'image de tete n'en est pas une
-FORCES = {79: 'Gold-crystals.jpg', 83: 'Bismuth crystals and 1cm3 cube.jpg'}
-POLICE = r'C:\Windows\Fonts\segoeuib.ttf'
-POLICE_FINE = r'C:\Windows\Fonts\segoeui.ttf'
+ETATS = {'Solid': 'solide', 'Liquid': 'liquide', 'Gas': 'gazeux'}
+# sans isotope stable : masse du plus stable, entre crochets
+SANS_STABLE = {43, 61} | set(range(84, 90)) | set(range(93, 119))
+GRAS = r'C:\Windows\Fonts\segoeuib.ttf'
+FIN = r'C:\Windows\Fonts\segoeui.ttf'
+SEMI = r'C:\Windows\Fonts\seguisb.ttf'
 L, H = 800, 600
+X0, Y0, X1, Y1 = 104, 28, 696, 572          # la case, dans le carre central
+BLANC, GRIS = (246, 246, 250), (160, 164, 180)
+
+
+def police(chemin, t):
+    return ImageFont.truetype(chemin, t)
 
 
 def famille(z):
@@ -53,69 +62,149 @@ def famille(z):
     return 'Élément', (200, 200, 200)
 
 
-def photo(z, page_en):
-    f = FORCES.get(z)
-    if not f:
-        d = il.api('en.wikipedia.org', dict(action='query', titles=page_en, prop='pageimages',
-                                             piprop='name', redirects=1))
-        for p in hab.pages_de(d):
-            f = p.get('pageimage')
-    if not f or re.search(r'\.svg$|shell|diagram|spectr|orbital|structure|lattice', f, re.I):
-        return None, None
-    return hab.charger(hab.url_fichier(f, 1280)), f
+def nombre(x, dec):
+    return f'{x:.{dec}f}'.rstrip('0').rstrip('.').replace('.', ',')
 
 
-def carte(z, nom, sujet):
+def masse(z, m):
+    return f'[{round(m)}]' if z in SANS_STABLE else nombre(m, 3)
+
+
+def position(e):
+    """(periode, groupe) ; groupe None pour les lanthanides et actinides."""
+    if e['ypos'] >= 9:
+        return e['ypos'] - 3, None
+    return e['ypos'], e['xpos']
+
+
+def config(e):
+    s = e['electron_configuration_semantic'].lstrip('*')
+    coeur = re.match(r'\[\w+\]', s)
+    morceaux = re.findall(r'(\d[spdf])(1[0-4]|\d)', s)
+    return (coeur.group(0) if coeur else None), morceaux
+
+
+def texte_centre(dr, x, y, s, f, coul):
+    dr.text((x - dr.textlength(s, font=f) / 2, y), s, font=f, fill=coul)
+
+
+def dessiner_config(dr, xc, y, e, coul):
+    """[Ar] 3d⁶ 4s², exposants dessines en petit et en haut."""
+    coeur, morceaux = config(e)
+    f, fe = police(SEMI, 32), police(GRAS, 21)
+    parts = ([(coeur + ' ', f, 0, GRIS)] if coeur else [])
+    for orb, n in morceaux:
+        parts += [(orb, f, 0, BLANC), (n, fe, -6, coul), ('  ', fe, 0, coul)]
+    larg = sum(dr.textlength(t, font=p) for t, p, _, _ in parts)
+    x = xc - larg / 2
+    for t, p, dy, c in parts:
+        dr.text((x, y + dy), t, font=p, fill=c)
+        x += dr.textlength(t, font=p)
+
+
+def mini_tableau(dr, x, y, e, coul, cote=11, pas=13):
+    """Le tableau en miniature, l'element allume."""
+    for f in DONNEES:
+        cx, cy = f['xpos'], f['ypos']
+        if cy >= 9:
+            cy -= 0.6                                 # lanthanides et actinides decolles
+        px, py = x + (cx - 1) * pas, y + (cy - 1) * pas
+        moi = f['number'] == e['number']
+        _, c = famille(f['number'])
+        terne = tuple(int(v * .28 + 20) for v in c)
+        dr.rounded_rectangle((px, py, px + cote, py + cote), radius=2,
+                             fill=coul if moi else terne)
+        if moi:
+            dr.rounded_rectangle((px - 3, py - 3, px + cote + 3, py + cote + 3), radius=4,
+                                 outline=BLANC, width=2)
+
+
+def carte(e, nom):
+    z = e['number']
     fam, coul = famille(z)
-    y, x = [a.astype('float32') for a in __import__('numpy').mgrid[0:H, 0:L]]
-    np = __import__('numpy')
-    d = np.clip(np.sqrt(((x - 520) / 520) ** 2 + ((y - 300) / 420) ** 2), 0, 1)[..., None]
-    fond = np.array((34, 38, 50)) * (1 - d) + np.array((10, 11, 16)) * d
+    y, x = [a.astype('float32') for a in np.mgrid[0:H, 0:L]]
+    d = np.clip(np.sqrt(((x - 400) / 520) ** 2 + ((y - 300) / 420) ** 2), 0, 1)[..., None]
+    fond = np.array((30, 33, 44)) * (1 - d) + np.array((9, 10, 15)) * d
     toile = Image.fromarray(fond.astype('uint8'), 'RGB').convert('RGBA')
-    dr = ImageDraw.Draw(toile)
-    # halo de la couleur de famille derriere le sujet
+
+    # halo de la famille derriere la case
     halo = Image.new('RGBA', (L, H), (0, 0, 0, 0))
-    ImageDraw.Draw(halo).ellipse((330, 90, 750, 510), fill=coul + (70,))
-    toile.alpha_composite(halo.filter(ImageFilter.GaussianBlur(70)))
-    if sujet is not None:
-        bb = sujet.getchannel('A').getbbox()
-        sujet = sujet.crop(bb)
-        r = min(430 / sujet.width, 430 / sujet.height)
-        sujet = sujet.resize((round(sujet.width * r), round(sujet.height * r)), Image.LANCZOS)
-        x0, y0 = 545 - sujet.width // 2, 300 - sujet.height // 2
-        om = Image.new('RGBA', sujet.size, (0, 0, 0, 0))
-        om.putalpha(sujet.getchannel('A').point(lambda v: int(v * .6)))
-        toile.alpha_composite(om.filter(ImageFilter.GaussianBlur(14)), (x0 + 8, y0 + 16))
-        toile.alpha_composite(sujet, (x0, y0))
-    else:
-        f = ImageFont.truetype(POLICE, 260)
-        s = SYMB[z - 1]
-        w = dr.textlength(s, font=f)
-        lueur = Image.new('RGBA', (L, H), (0, 0, 0, 0))
-        ImageDraw.Draw(lueur).text((545 - w / 2, 150), s, font=f, fill=coul + (255,))
-        toile.alpha_composite(lueur.filter(ImageFilter.GaussianBlur(18)))
-        dr.text((545 - w / 2, 150), s, font=f, fill=(245, 245, 250))
-    # colonne de gauche : numero, symbole, famille
-    dr.rounded_rectangle((34, 34, 250, 566), radius=26, outline=coul + (255,), width=5,
-                         fill=(18, 20, 28, 210))
-    dr.text((62, 58), str(z), font=ImageFont.truetype(POLICE, 58), fill=coul)
-    f = ImageFont.truetype(POLICE, 150 if len(SYMB[z - 1]) < 2 else 118)
-    dr.text((142 - dr.textlength(SYMB[z - 1], font=f) / 2, 180), SYMB[z - 1], font=f,
-            fill=(250, 250, 252))
-    fn = ImageFont.truetype(POLICE, 34 if len(nom) < 11 else 26)
-    dr.text((142 - dr.textlength(nom, font=fn) / 2, 410), nom, font=fn, fill=(235, 235, 240))
-    ff = ImageFont.truetype(POLICE_FINE, 22)
-    dr.text((142 - dr.textlength(fam, font=ff) / 2, 470), fam, font=ff, fill=coul)
+    ImageDraw.Draw(halo).rounded_rectangle((X0 + 30, Y0 + 30, X1 - 30, Y1 - 30), radius=40,
+                                           fill=coul + (60,))
+    toile.alpha_composite(halo.filter(ImageFilter.GaussianBlur(40)))
+
+    calque = Image.new('RGBA', (L, H), (0, 0, 0, 0))
+    dr = ImageDraw.Draw(calque)
+    dr.rounded_rectangle((X0, Y0, X1, Y1), radius=30, fill=(17, 19, 27, 235),
+                         outline=coul + (255,), width=5)
+    # bandeau de famille en bas de case
+    dr.rounded_rectangle((X0 + 3, Y1 - 64, X1 - 3, Y1 - 3), radius=27, fill=coul + (40,))
+    dr.rectangle((X0 + 3, Y1 - 64, X1 - 3, Y1 - 36), fill=coul + (40,))
+    toile.alpha_composite(calque)
+    dr = ImageDraw.Draw(toile)
+
+    # en haut a gauche : numero atomique ; a droite : masse et electronegativite
+    dr.text((X0 + 30, Y0 + 18), str(z), font=police(GRAS, 64), fill=coul)
+    fm = police(SEMI, 30)
+    m = masse(z, e['atomic_mass'])
+    dr.text((X1 - 30 - dr.textlength(m, font=fm), Y0 + 26), m, font=fm, fill=BLANC)
+    fp = police(FIN, 19)
+    t = 'masse atomique'
+    dr.text((X1 - 30 - dr.textlength(t, font=fp), Y0 + 64), t, font=fp, fill=GRIS)
+    en = e.get('electronegativity_pauling')
+    if en:
+        t = f'χ {nombre(en, 2)}'
+        dr.text((X1 - 30 - dr.textlength(t, font=fm), Y0 + 92), t, font=fm, fill=BLANC)
+        t = 'électronégativité'
+        dr.text((X1 - 30 - dr.textlength(t, font=fp), Y0 + 130), t, font=fp, fill=GRIS)
+
+    # a gauche, sous le numero : le tableau miniature
+    mini_tableau(dr, 400 - 9 * 9.2, Y0 + 26, e, coul, cote=7.6, pas=9.2)
+
+    # electrons par couche, en colonne a droite, comme sur les vrais tableaux
+    fc = police(SEMI, 21)
+    couches = e['shells']
+    yc = Y0 + 186
+    for n in couches:
+        s = str(n)
+        dr.text((X1 - 30 - dr.textlength(s, font=fc), yc), s, font=fc, fill=GRIS)
+        yc += 25
+
+    # le symbole, grand et lumineux
+    s = e['symbol']
+    fs = police(GRAS, 170 if len(s) < 2 else 150)
+    ys = Y0 + 112 if len(s) < 2 else Y0 + 128
+    if re.search('[gpy]', s):                 # jambage : le symbole remonte
+        ys -= 22
+    lueur = Image.new('RGBA', (L, H), (0, 0, 0, 0))
+    texte_centre(ImageDraw.Draw(lueur), 400, ys, s, fs, coul + (255,))
+    toile.alpha_composite(lueur.filter(ImageFilter.GaussianBlur(22)))
+    dr = ImageDraw.Draw(toile)
+    texte_centre(dr, 400, ys, s, fs, BLANC)
+
+    # nom, puis etat, periode et groupe
+    fn = police(GRAS, 46 if len(nom) <= 12 else 38)
+    texte_centre(dr, 400, Y0 + 310, nom, fn, BLANC)
+    periode, groupe = position(e)
+    etat = ETATS.get(e['phase'], '?') if z < 100 else 'état inconnu'
+    infos = [etat, f'période {periode}'] + ([f'groupe {groupe}'] if groupe else [])
+    texte_centre(dr, 400, Y0 + 368, '  ·  '.join(infos), police(FIN, 24), GRIS)
+    dr.line((250, Y0 + 408, 550, Y0 + 408), fill=coul + (255,), width=1)
+
+    dessiner_config(dr, 400, Y0 + 422, e, coul)
+    texte_centre(dr, 400, Y1 - 55, fam.upper(), police(GRAS, 26), coul)
     return toile.convert('RGB')
+
+
+DONNEES = [e for e in json.loads((ICI / 'tableau_periodique.json').read_text(encoding='utf-8'))
+           ['elements'] if e['number'] <= 118]
 
 
 def main():
     apercu = '--apercu' in sys.argv
     zs = {int(a) for a in sys.argv[1:] if a.isdigit()}
-    from rembg import remove, new_session
-    ses = new_session('isnet-general-use')
-    cartes = json.loads((RACINE / 'data' / 'elements-chimiques.json').read_text(encoding='utf-8'))['cartes']
-    en = il.langlinks_en([c['titrePage'] for c in cartes])
+    cartes = json.loads((RACINE / 'data' / 'elements-chimiques.json')
+                        .read_text(encoding='utf-8'))['cartes']
     sf = RACINE / 'build' / 'images_sources.json'
     sources = json.loads(sf.read_text(encoding='utf-8'))
     brouillon = Path(r'C:\Users\flxjr\AppData\Local\Temp\claude'
@@ -125,24 +214,18 @@ def main():
     for z, c in enumerate(cartes, 1):
         if zs and z not in zs:
             continue
-        im, f = photo(z, en.get(c['titrePage'], c['nom']))
-        sujet = None
-        if im is not None:
-            im.thumbnail((1280, 1280))
-            sujet = remove(im.convert('RGB'), session=ses, post_process_mask=True)
-            sujet.putalpha(sujet.getchannel('A').point(lambda v: 0 if v < 40 else v))
-            if not sujet.getchannel('A').getbbox():
-                sujet = None
-        img = carte(z, c['nom'], sujet)
-        print(f"  {z:>3} {c['nom']:<16} {'photo ' + f[:50] if sujet else 'symbole'}")
+        img = carte(DONNEES[z - 1], c['nom'])
         if apercu:
-            img.save(brouillon / f'{z:03d}.png'); continue
+            img.save(brouillon / f'{z:03d}.png')
+            continue
         brut = io.BytesIO(); img.save(brut, 'PNG')
-        for rel, o in ((c['imageUrl'], il.to_full(brut.getvalue())), (c['thumbUrl'], il.to_thumb(brut.getvalue()))):
+        for rel, o in ((c['imageUrl'], il.to_full(brut.getvalue())),
+                       (c['thumbUrl'], il.to_thumb(brut.getvalue()))):
             (RACINE / rel).write_bytes(o)
-        sources[c['id']] = {'source': 'tuile-element', 'fichier': f if sujet else None}
+        sources[c['id']] = {'source': 'tuile-element'}
     if not apercu:
         sf.write_text(json.dumps(sources, ensure_ascii=False, indent=0), encoding='utf-8')
+    print(f'{len(zs) or len(cartes)} case(s)')
 
 
 if __name__ == '__main__':

@@ -34852,6 +34852,13 @@
    "w": 0.990909090909091,
    "editeLe": 1790377526500,
    "original": true
+  },
+  "monnaies-du-monde_rand-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "editeLe": 1790377543152,
+   "original": true
   }
  },
  "notes": [

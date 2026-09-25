@@ -23,6 +23,7 @@ import unifier_rembg as U
 # Planches de plusieurs billets remplacees par un billet seul, scanne plein cadre
 FICHIERS = {
     'Couronne tchèque': '2000 Czech koruna Obverse.jpg',
+    'Euro': 'EUR 50 obverse (2002 issue).jpg',
     'Dinar irakien': 'Quarter Iraqi Dinar 1973 Replacement Banknote RR.jpg',
 }
 

@@ -16547,8 +16547,8 @@
 },
 "monnaies-du-monde_euro": {
 "source": "habillee",
-"fichier": "Euro Series Banknotes (2019) - centered.png",
-"detourage": "repare"
+"fichier": "EUR 50 obverse (2002 issue).jpg",
+"detourage": "scan-entier"
 },
 "monnaies-du-monde_dollar-americain": {
 "source": "habillee",
@@ -16938,7 +16938,7 @@
 },
 "monnaies-historiques_florin": {
 "source": "habillee",
-"fichier": "atelier",
+"fichier": "Fiorino d'oro.jpg",
 "detourage": "ia"
 },
 "monnaies-historiques_ducat": {

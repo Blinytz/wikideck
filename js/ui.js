@@ -44,7 +44,7 @@ export function htmlImageCarte(carte, classe = '') {
   const initiale = esc([...carte.nom][0] ?? '?');
   return `<div class="img-carte ${classe}" style="--h:${h}">
     <span class="initiale">${initiale}</span>
-    <img src="${esc(carte.thumbUrl)}" alt="" loading="lazy"
+    <img src="${esc(carte.thumbUrl + (carte.imgV ? `?v=${carte.imgV}` : ''))}" alt="" loading="lazy"
          onload="this.parentElement.classList.add('chargee')"
          onerror="reessayerVignette(this)">
   </div>`;

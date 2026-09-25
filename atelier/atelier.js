@@ -8,6 +8,9 @@ import { Editeur } from './editeur.js?v=20260802a';
 import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
          ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js?v=20260802a';
 
+// adresse de vignette versionnee : l'empreinte change quand l'image change
+const vign = c => c.thumbUrl + (c.imgV ? `?v=${c.imgV}` : '');
+
 const esc = s => String(s ?? '').replace(/[&<>"']/g,
   c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
@@ -389,7 +392,7 @@ function rendreGrille() {
         const cad = notes.cadrages[c.id];
         const src = apercusLocaux[c.id]
           || (toutJuste(cad) ? `${RAW}${c.thumbUrl}?v=${cad.editeLe}`
-              : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
+              : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : vign(c));
         // La planche sert la vignette, SAUF si la carte a ete retouchee apres
         // sa fabrication : son image individuelle est alors la seule a jour.
         const rang = rangs?.get(c.id);
@@ -522,7 +525,7 @@ function rendreNotes() {
       <p>${esc(n.texte) || '<i>(tags seulement)</i>'}</p>
       <div class="note-images">${n.images.map(id => {
         const c = parId.get(id);
-        return c ? `<img src="${esc(c.thumbUrl)}" title="${esc(c.nom)}" data-ouvrir="${esc(id)}">` : '';
+        return c ? `<img src="${esc(vign(c))}" title="${esc(c.nom)}" data-ouvrir="${esc(id)}">` : '';
       }).join('')}</div>
       <div class="m-boutons">
         <button class="btn btn-discret" data-modifier="${n.id}">Modifier</button>
@@ -778,7 +781,7 @@ async function rendreChoix() {
     </div>
     ${cartes.map(c => {
       const cad = notes.cadrages[c.id];
-      const src = apercusLocaux[c.id] || (cad ? `${c.thumbUrl}?v=${cad.editeLe}` : c.thumbUrl);
+      const src = apercusLocaux[c.id] || (cad ? `${c.thumbUrl}?v=${cad.editeLe}` : vign(c));
       return `<div class="choix-carte${choixFaits.has(c.id) ? ' faite' : ''}" data-id="${esc(c.id)}">
         <div class="choix-actuelle"><img src="${esc(src)}" loading="lazy" alt="">
           <b>${esc(c.nom)}</b><small>image actuelle</small></div>
@@ -1204,7 +1207,7 @@ function rendreSynergies() {
         <summary>${esc(t)} <b>${cartes.length}</b> carte(s)</summary>
         <div class="grille-mini">${cartes.map(c => `
           <div class="mini-syn" data-ouvrir="${esc(c.id)}" title="${esc(c.collection)}">
-            <img data-src="${esc(apercusLocaux[c.id] || c.thumbUrl)}" alt="">
+            <img data-src="${esc(apercusLocaux[c.id] || vign(c))}" alt="">
             <span>${esc(c.nom)}</span>
           </div>`).join('') || '<span class="doux">Aucune carte pour ce tag.</span>'}</div>
         <button class="btn btn-discret" data-ajouter-a="${esc(t)}">＋ Ajouter une carte à ce tag</button>

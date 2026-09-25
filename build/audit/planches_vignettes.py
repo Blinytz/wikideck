@@ -57,7 +57,21 @@ def main():
         slug = col['slug']
         if demandes and slug not in demandes:
             continue
-        cartes = json.loads((RACINE / col['fichier']).read_text(encoding='utf-8'))['cartes']
+        donnees = json.loads((RACINE / col['fichier']).read_text(encoding='utf-8'))
+        cartes = donnees['cartes']
+        # Empreinte de chaque vignette : elle entre dans l'adresse de l'image
+        # (?v=...), si bien qu'une image regeneree a une adresse neuve et que
+        # le navigateur ne peut plus servir l'ancienne depuis son cache.
+        change = False
+        for c in cartes:
+            t = RACINE / c['thumbUrl']
+            v = hashlib.sha1(t.read_bytes()).hexdigest()[:8] if t.exists() else None
+            if v and c.get('imgV') != v:
+                c['imgV'] = v
+                change = True
+        if change:
+            (RACINE / col['fichier']).write_text(json.dumps(donnees, ensure_ascii=False),
+                                                 encoding='utf-8')
         lignes = (len(cartes) + COLS - 1) // COLS
         planche = Image.new('RGB', (CL * COLS, CH * max(1, lignes)), FOND)
         for i, c in enumerate(cartes):

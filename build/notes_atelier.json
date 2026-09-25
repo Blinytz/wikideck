@@ -33900,6 +33900,13 @@
    "w": 1,
    "editeLe": 1790366561069,
    "original": true
+  },
+  "monnaies-historiques_florin": {
+   "cx": 0.5,
+   "cy": 0.5000000000000001,
+   "w": 0.6624999999999999,
+   "editeLe": 1790366617981,
+   "original": true
   }
  },
  "notes": [

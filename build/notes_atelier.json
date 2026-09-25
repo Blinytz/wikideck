@@ -34054,6 +34054,20 @@
    "w": 1,
    "editeLe": 1790370999301,
    "original": true
+  },
+  "races-de-cheval_fjord-cheval": {
+   "cx": 0.5,
+   "cy": 0.4871412169919633,
+   "w": 1,
+   "editeLe": 1790371023066,
+   "original": true
+  },
+  "races-de-cheval_shetland-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.835,
+   "editeLe": 1790371026839,
+   "original": false
   }
  },
  "notes": [

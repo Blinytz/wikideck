@@ -33976,6 +33976,13 @@
    "w": 0.8808333333333332,
    "editeLe": 1790350624519,
    "original": true
+  },
+  "vehicules-celebres_ford-t": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888,
+   "editeLe": 1790350641204,
+   "original": false
   }
  },
  "notes": [

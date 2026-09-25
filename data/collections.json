@@ -525,7 +525,7 @@
   {
    "slug": "vehicules-mythiques",
    "nom": "Véhicules mythiques",
-   "nbCartes": 14,
+   "nbCartes": 13,
    "fichier": "data/vehicules-mythiques.json"
   },
   {

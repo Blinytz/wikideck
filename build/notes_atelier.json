@@ -34285,6 +34285,20 @@
    "w": 0.7619047619047619,
    "editeLe": 1790372403657,
    "original": true
+  },
+  "instruments-de-musique_sitar": {
+   "cx": 0.49621875000000004,
+   "cy": 0.5,
+   "w": 0.8225,
+   "editeLe": 1790372426847,
+   "original": true
+  },
+  "instruments-de-musique_banjo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790372431306,
+   "original": false
   }
  },
  "notes": [

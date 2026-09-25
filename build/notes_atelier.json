@@ -33759,6 +33759,20 @@
    "w": 0.8886143710109121,
    "editeLe": 1790349865782,
    "original": true
+  },
+  "vehicules-celebres_santa-maria-1492": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9091666666666667,
+   "editeLe": 1790349894084,
+   "original": true
+  },
+  "vehicules-celebres_golden-hind": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.93,
+   "editeLe": 1790349898591,
+   "original": false
   }
  },
  "notes": [

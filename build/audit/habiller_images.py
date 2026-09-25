@@ -47,11 +47,11 @@ STYLES = {
     # et un fond plus eclaire au centre.
     'monnaies-du-monde': dict(
         fond=((56, 96, 76), (8, 20, 16)), boite=(730, 500),
-        inclinaison=4, ombre=(0.6, 16, 10, 18),
+        inclinaison=4, ombre=(0.6, 16, 10, 18), propre=True,
         cles=('image_1', 'image', 'image_2')),
     'monnaies-historiques': dict(
         fond=((52, 70, 104), (6, 10, 20)), boite=(700, 490),
-        inclinaison=4, ombre=(0.6, 16, 10, 18),
+        inclinaison=4, ombre=(0.6, 16, 10, 18), propre=True,
         cles=('image_1', 'obverse', 'image', 'image_2')),
     'noeuds': dict(
         fond=((78, 92, 104), (28, 34, 40)), boite=(500, 470), tuile=460,
@@ -237,6 +237,99 @@ def detourer(im):
     return out, True
 
 
+def _enveloppe(points):
+    """Enveloppe convexe (chaine monotone d'Andrew) d'une liste de (x, y)."""
+    pts = sorted(set(points))
+    if len(pts) < 3:
+        return pts
+    def croix(o, a, b):
+        return (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0])
+    bas, haut = [], []
+    for p in pts:
+        while len(bas) >= 2 and croix(bas[-2], bas[-1], p) <= 0:
+            bas.pop()
+        bas.append(p)
+    for p in reversed(pts):
+        while len(haut) >= 2 and croix(haut[-2], haut[-1], p) <= 0:
+            haut.pop()
+        haut.append(p)
+    return bas[:-1] + haut[:-1]
+
+
+def detourer_propre(im):
+    """Detourage a bords NETS pour les billets et les pieces.
+
+    Le detourage par remplissage mangeait les bords clairs d'un billet et
+    laissait des contours dechiquetes (dollar de Singapour, tugrik, dinar
+    jordanien). Ici, on repere le fond comme avant, puis chaque objet trouve
+    est remplace par son ENVELOPPE CONVEXE : une piece redevient un disque, un
+    billet un rectangle, sans dent ni trou. Les debris sont ecartes. Si le
+    resultat est douteux (fond charge, objet minuscule), on rend (im, False)
+    et l'image sera encadree telle quelle, ce qui est toujours propre."""
+    rgb = im.convert('RGB')
+    arr = np.asarray(rgb).astype(np.int16)
+    bord = np.concatenate([arr[0], arr[-1], arr[:, 0], arr[:, -1]])
+    if bord.std(axis=0).mean() > 18:
+        return im, False
+    ref = np.median(bord, axis=0)
+    fond = np.abs(arr - ref).max(axis=2) < 26
+    # travail a basse resolution : etiquetage des objets
+    petit_w = 240
+    r = petit_w / rgb.width
+    ph = max(1, round(rgb.height * r))
+    m = Image.fromarray(np.where(fond, np.uint8(0), np.uint8(255))).resize((petit_w, ph), Image.NEAREST)
+    m = m.filter(ImageFilter.MaxFilter(3)).filter(ImageFilter.MinFilter(3))
+    obj = np.asarray(m) > 0
+    vus = np.zeros_like(obj)
+    hulls, aire_tot = [], obj.size
+    for y0 in range(ph):
+        for x0 in range(petit_w):
+            if not obj[y0, x0] or vus[y0, x0]:
+                continue
+            pile, pts = [(x0, y0)], []
+            vus[y0, x0] = True
+            while pile:
+                x, y = pile.pop()
+                pts.append((x, y))
+                for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+                    nx, ny = x + dx, y + dy
+                    if 0 <= nx < petit_w and 0 <= ny < ph and obj[ny, nx] and not vus[ny, nx]:
+                        vus[ny, nx] = True
+                        pile.append((nx, ny))
+            if len(pts) > aire_tot * 0.004:          # debris ecartes
+                hulls.append((_enveloppe(pts), len(pts)))
+    if not hulls:
+        return im, False
+    # Un objet dont l'enveloppe depasse nettement sa surface n'est pas UNE
+    # forme simple : deux pieces qui se touchent, un eventail de billets.
+    # L'enveloppe comblerait le vide d'un triangle de fond : on encadre
+    # l'image entiere, ce qui reste net.
+    for h, n in hulls:
+        if len(h) < 3:
+            continue
+        t = Image.new('L', (petit_w, ph), 0)
+        ImageDraw.Draw(t).polygon(h, fill=255)
+        aire_h = max(1, int(np.asarray(t).astype(bool).sum()))
+        if n / aire_h < 0.93:
+            return im, False
+    hulls = [h for h, _ in hulls]
+    masque = Image.new('L', (petit_w, ph), 0)
+    d = ImageDraw.Draw(masque)
+    for h in hulls:
+        if len(h) >= 3:
+            d.polygon(h, fill=255)
+    couvert = np.asarray(masque).mean() / 255
+    if couvert < 0.12 or couvert > 0.97:
+        return im, False
+    masque = masque.resize(rgb.size, Image.BILINEAR).filter(ImageFilter.GaussianBlur(1.2))
+    # retrait d'un pixel : le liseré de fond ne deborde pas
+    masque = masque.point(lambda v: 0 if v < 128 else 255).filter(ImageFilter.MinFilter(3))
+    masque = masque.filter(ImageFilter.GaussianBlur(0.8))
+    out = rgb.convert('RGBA')
+    out.putalpha(masque)
+    return out, True
+
+
 # ------------------------------------------------------------------- fond
 
 def fond(centre, bord):
@@ -326,6 +419,7 @@ def main():
     sf = RACINE / 'build' / 'images_sources.json'
     sources = json.loads(sf.read_text(encoding='utf-8'))
 
+    refaire = '--refaire' in sys.argv
     for slug in args:
         style = STYLES[slug]
         cartes = json.loads(par_slug[slug].read_text(encoding='utf-8'))['cartes']
@@ -339,9 +433,18 @@ def main():
         # noeud de pecheur et le noeud de pecheur double avaient recu le meme
         # fichier. Le second passe alors a la source suivante.
         deja = set()
+        cad = json.loads((RACINE / 'build' / 'notes_atelier.json')
+                         .read_text(encoding='utf-8')).get('cadrages', {})
         for c in cartes:
+            # --refaire : une carte retouchee dans l'atelier n'est jamais ecrasee,
+            # et la source deja trouvee est reprise telle quelle
+            if refaire and c['id'] in cad:
+                continue
+            connu = (sources.get(c['id']) or {}).get('fichier') if refaire else None
+            if connu == '(image actuelle)':
+                connu = None
             page = en.get(c['titrePage'])
-            f = fichier_force(c['nom'])
+            f = fichier_force(c['nom']) or connu
             if f:
                 deja.add(f)
             elif page:
@@ -371,7 +474,7 @@ def main():
                 if c['nom'] in NE_PAS_DETOURER:
                     sujet, detoure = im, False
                 else:
-                    sujet, detoure = detourer(im)
+                    sujet, detoure = (detourer_propre(im) if style.get('propre') else detourer(im))
                 img = composer(sujet, dict(style, _nom=c['nom']), detoure)
             print(f"  {c['nom']:<34} {'detoure' if detoure else 'encadre':<8} <- {str(origine)[:60]}")
             faites += 1

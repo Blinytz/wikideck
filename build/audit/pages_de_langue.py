@@ -33,23 +33,52 @@ SOURCE = 'https://raw.githubusercontent.com/eric-muller/udhr/main/data/udhr/udhr
 
 # nom de carte -> (code UDHR, police, sens d'ecriture)
 LANGUES = {
-    'Gallois': ('cym', 'Georgia', 'ltr'),
-    'Irlandais': ('gle', 'Georgia', 'ltr'),
-    'Islandais': ('isl', 'Georgia', 'ltr'),
-    'Swahili': ('swh', 'Georgia', 'ltr'),
-    'Yoruba': ('yor', 'Cambria', 'ltr'),
-    'Zoulou': ('zul', 'Georgia', 'ltr'),
-    'Amharique': ('amh', 'Ebrima', 'ltr'),
-    'Haoussa': ('hau_NG', 'Cambria', 'ltr'),
-    'Quechua': ('quz', 'Georgia', 'ltr'),
-    'Guarani': ('gug', 'Cambria', 'ltr'),
-    'Nahuatl': ('nhn', 'Georgia', 'ltr'),
-    'Langues maories': ('mri', 'Georgia', 'ltr'),
-    'Hawaïen': ('haw', 'Cambria', 'ltr'),
-    'Espéranto': ('epo', 'Georgia', 'ltr'),
-    'Tamoul': ('tam', 'Nirmala UI', 'ltr'),
-    'Vietnamien': ('vie', 'Cambria', 'ltr'),
-    'Thaï': ('tha', 'Leelawadee UI', 'ltr'),
+    # (code UDHR, polices CSS, sens d'ecriture)
+    'Latin': ('lat', "'Georgia'", 'ltr'),
+    'Grec ancien': ('ell_polytonic', "'Palatino Linotype','Cambria'", 'ltr'),
+    'Sanskrit': ('san', "'Nirmala UI'", 'ltr'),
+    'Hébreu': ('heb', "'David Libre','Times New Roman'", 'rtl'),
+    'Arabe': ('arb', "'Arial','Segoe UI'", 'rtl'),
+    'Langues chinoises': ('cmn_hant', "'Microsoft JhengHei','Microsoft YaHei','SimSun'", 'ltr'),
+    'Mandarin standard': ('cmn_hans', "'SimSun','Microsoft YaHei'", 'ltr'),
+    'Japonais': ('jpn', "'Yu Mincho','MS Mincho','Yu Gothic'", 'ltr'),
+    'Coréen': ('kor', "'Batang','Malgun Gothic'", 'ltr'),
+    'Hindi': ('hin', "'Nirmala UI'", 'ltr'),
+    'Bengali': ('ben', "'Nirmala UI'", 'ltr'),
+    'Ourdou': ('urd', "'Arial','Segoe UI'", 'rtl'),
+    'Persan (langue)': ('pes_1', "'Arial','Segoe UI'", 'rtl'),
+    'Turc': ('tur', "'Georgia'", 'ltr'),
+    'Russe': ('rus', "'Georgia'", 'ltr'),
+    'Polonais': ('pol', "'Georgia'", 'ltr'),
+    'Allemand': ('deu_1996', "'Georgia'", 'ltr'),
+    'Anglais': ('eng', "'Georgia'", 'ltr'),
+    'Français': ('fra', "'Georgia'", 'ltr'),
+    'Espagnol': ('spa', "'Georgia'", 'ltr'),
+    'Portugais': ('por_PT', "'Georgia'", 'ltr'),
+    'Italien': ('ita', "'Georgia'", 'ltr'),
+    'Néerlandais': ('nld', "'Georgia'", 'ltr'),
+    'Suédois': ('swe', "'Georgia'", 'ltr'),
+    'Finnois': ('fin', "'Georgia'", 'ltr'),
+    'Hongrois': ('hun', "'Georgia'", 'ltr'),
+    'Basque': ('eus', "'Georgia'", 'ltr'),
+    'Breton': ('bre', "'Georgia'", 'ltr'),
+    'Gallois': ('cym', "'Georgia'", 'ltr'),
+    'Irlandais': ('gle', "'Georgia'", 'ltr'),
+    'Islandais': ('isl', "'Georgia'", 'ltr'),
+    'Swahili': ('swh', "'Georgia'", 'ltr'),
+    'Yoruba': ('yor', "'Cambria'", 'ltr'),
+    'Zoulou': ('zul', "'Georgia'", 'ltr'),
+    'Amharique': ('amh', "'Ebrima'", 'ltr'),
+    'Haoussa': ('hau_NG', "'Cambria'", 'ltr'),
+    'Quechua': ('quz', "'Georgia'", 'ltr'),
+    'Guarani': ('gug', "'Cambria'", 'ltr'),
+    'Nahuatl': ('nhn', "'Georgia'", 'ltr'),
+    'Langues maories': ('mri', "'Georgia'", 'ltr'),
+    'Hawaïen': ('haw', "'Cambria'", 'ltr'),
+    'Espéranto': ('epo', "'Georgia'", 'ltr'),
+    'Tamoul': ('tam', "'Nirmala UI'", 'ltr'),
+    'Vietnamien': ('vie', "'Cambria'", 'ltr'),
+    'Thaï': ('tha', "'Leelawadee UI'", 'ltr'),
 }
 
 
@@ -73,7 +102,7 @@ html,body{{margin:0;width:800px;height:600px;overflow:hidden;background:#2a2320}
     linear-gradient(180deg,#f4ecd8,#ead9b8);
   box-shadow: inset 0 0 120px rgba(90,60,20,.35);
   padding:70px 90px;box-sizing:border-box;direction:{sens};
-  font-family:'{police}',serif;color:#2b2118;}}
+  font-family:{police},serif;color:#2b2118;}}
 h1{{font-size:44px;margin:0 0 22px;font-weight:700;letter-spacing:.5px}}
 p{{font-size:31px;line-height:1.42;margin:0 0 16px;text-align:justify}}
 .grain{{position:absolute;inset:0;opacity:.18;mix-blend-mode:multiply;

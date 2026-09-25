@@ -15101,85 +15101,112 @@
 "source": "wiki-sans-filtre"
 },
 "langues-du-monde_latin": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "lat"
 },
 "langues-du-monde_grec-ancien": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "ell_polytonic"
 },
 "langues-du-monde_sanskrit": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "san"
 },
 "langues-du-monde_hebreu": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "heb"
 },
 "langues-du-monde_arabe": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "arb"
 },
 "langues-du-monde_langues-chinoises": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "cmn_hant"
 },
 "langues-du-monde_japonais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "jpn"
 },
 "langues-du-monde_coreen": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "kor"
 },
 "langues-du-monde_hindi": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "hin"
 },
 "langues-du-monde_bengali": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "ben"
 },
 "langues-du-monde_ourdou": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "urd"
 },
 "langues-du-monde_persan": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "pes_1"
 },
 "langues-du-monde_turc": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "tur"
 },
 "langues-du-monde_russe": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "rus"
 },
 "langues-du-monde_polonais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "pol"
 },
 "langues-du-monde_allemand": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "deu_1996"
 },
 "langues-du-monde_anglais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "eng"
 },
 "langues-du-monde_francais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "fra"
 },
 "langues-du-monde_espagnol": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "spa"
 },
 "langues-du-monde_portugais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "por_PT"
 },
 "langues-du-monde_italien": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "ita"
 },
 "langues-du-monde_neerlandais": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "nld"
 },
 "langues-du-monde_suedois": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "swe"
 },
 "langues-du-monde_finnois": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "fin"
 },
 "langues-du-monde_hongrois": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "hun"
 },
 "langues-du-monde_basque": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "eus"
 },
 "langues-du-monde_breton": {
-"source": "wiki-sans-filtre"
+"source": "page-udhr",
+"code": "bre"
 },
 "langues-du-monde_gallois": {
 "source": "page-udhr",
@@ -15701,7 +15728,8 @@
 "source": "wiki-sans-filtre"
 },
 "langues-du-monde_mandarin-standard": {
-"source": "choisie"
+"source": "page-udhr",
+"code": "cmn_hans"
 },
 "langues-du-monde_yoruba-langue": {
 "source": "page-udhr",
@@ -15710,9 +15738,6 @@
 "langues-du-monde_langues-maories": {
 "source": "page-udhr",
 "code": "mri"
-},
-"langues-du-monde_langue-des-signes-francaise": {
-"source": "choisie-faute-de-mieux"
 },
 "traites-et-textes-fondateurs_charte-des-nations-unies": {
 "source": "choisie-faute-de-mieux"

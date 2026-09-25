@@ -33667,6 +33667,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790349350995,
+   "original": true
+  },
+  "vehicules-celebres_triere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333334,
+   "editeLe": 1790349354650,
    "original": false
   }
  },

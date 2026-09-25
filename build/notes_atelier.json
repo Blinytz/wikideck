@@ -34096,6 +34096,20 @@
    "w": 1,
    "editeLe": 1790371120964,
    "original": true
+  },
+  "races-de-cheval_holsteiner": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9420289855072462,
+   "editeLe": 1790371178079,
+   "original": true
+  },
+  "races-de-cheval_trakehner": {
+   "cx": 0.5,
+   "cy": 0.45567375886524825,
+   "w": 1,
+   "editeLe": 1790371182698,
+   "original": false
   }
  },
  "notes": [

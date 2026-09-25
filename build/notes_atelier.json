@@ -33682,6 +33682,20 @@
    "w": 0.8928,
    "editeLe": 1790349420938,
    "original": true
+  },
+  "vehicules-celebres_caravelle-navire": {
+   "cx": 0.5,
+   "cy": 0.44659735349716445,
+   "w": 1,
+   "editeLe": 1790349458089,
+   "original": true
+  },
+  "vehicules-celebres_mayflower": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6833333333333335,
+   "editeLe": 1790349462767,
+   "original": false
   }
  },
  "notes": [

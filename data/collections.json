@@ -591,7 +591,7 @@
   {
    "slug": "noeuds",
    "nom": "Nœuds",
-   "nbCartes": 39,
+   "nbCartes": 35,
    "fichier": "data/noeuds.json"
   },
   {

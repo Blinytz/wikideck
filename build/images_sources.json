@@ -16987,91 +16987,113 @@
 },
 "noeuds_demi-n-ud": {
 "source": "commons-serie",
-"fichier": "Knot-overhand-ABoK 514-USCG.jpg"
+"fichier": "Knot-overhand-ABoK 514-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-en-huit": {
 "source": "zpag.net",
-"fichier": "https://zpag.net/Noeuds/huit.htm"
+"fichier": "https://zpag.net/Noeuds/huit.htm",
+"detourage": "rembg"
 },
 "noeuds_n-ud-en-huit-en-double": {
 "source": "commons-serie",
-"fichier": "Loop-figure 8-ABoK 1047-USCG.jpg"
+"fichier": "Loop-figure 8-ABoK 1047-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-d-ecoute": {
 "source": "commons-serie",
-"fichier": "Sheet Bend - ABoK 1431 - USCG.jpg"
+"fichier": "Sheet Bend - ABoK 1431 - USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-carrick": {
 "source": "commons-serie",
-"fichier": "Carrick Bend - ABoK 1439 - USCG.jpg"
+"fichier": "Carrick Bend - ABoK 1439 - USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-zeppelin": {
 "source": "commons-serie",
-"fichier": "Zeppelin Bend Final.jpg"
+"fichier": "Zeppelin Bend Final.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-pecheur": {
 "source": "commons-serie",
-"fichier": "Knot-fishermans-ABoK 293-USCG.jpg"
+"fichier": "Knot-fishermans-ABoK 293-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-pecheur-double": {
 "source": "commons-serie",
-"fichier": "Doppelter Spierenstich Tropfen-3.jpg"
+"fichier": "Doppelter Spierenstich Tropfen-3.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-double": {
 "source": "commons-serie",
-"fichier": "Doppelter Überhandknoten-1.jpg"
+"fichier": "Doppelter Überhandknoten-1.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-double-ganse": {
 "source": "habillee",
-"fichier": "Noeud double ganse-5.jpg"
+"fichier": "Noeud double ganse-5.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-chaise": {
 "source": "commons-serie",
-"fichier": "Knot-bowline-ABoK 1010-USCG.jpg"
+"fichier": "Knot-bowline-ABoK 1010-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-chaise-double-en-huit": {
 "source": "commons-serie",
-"fichier": "Nœud de fusion 64.JPG"
+"fichier": "Nœud de fusion 64.JPG",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-chaise-double-sur-son-double": {
 "source": "commons-serie",
-"fichier": "Knot-bowline bight-ABoK 1080-USCG.jpg"
+"fichier": "Knot-bowline bight-ABoK 1080-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-papillon-alpin": {
 "source": "zpag.net",
-"fichier": "https://zpag.net/Noeuds/papillon.htm"
+"fichier": "https://zpag.net/Noeuds/papillon.htm",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-plein-poing": {
 "source": "commons-serie",
-"fichier": "Loop-overhand-ABoK 1046-USCG.jpg"
+"fichier": "Loop-overhand-ABoK 1046-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-coulant": {
 "source": "commons-serie",
-"fichier": "Knot-noose-ABoK 1114-USCG.jpg"
+"fichier": "Knot-noose-ABoK 1114-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-pendu": {
 "source": "commons-serie",
-"fichier": "Henkersknoten8Wklg.JPG"
+"fichier": "Henkersknoten8Wklg.JPG",
+"detourage": "rembg"
 },
 "noeuds_demi-clef": {
 "source": "commons-serie",
-"fichier": "Hitch-half-ABoK 50-USCG.jpg"
+"fichier": "Hitch-half-ABoK 50-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-cabestan": {
 "source": "commons-serie",
-"fichier": "Clove Hitch - ABoK 11 - USCG.jpg"
+"fichier": "Clove Hitch - ABoK 11 - USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-demi-cabestan": {
 "source": "commons-serie",
-"fichier": "Hitch-munter-ABoK 1818-USCG.jpg"
+"fichier": "Hitch-munter-ABoK 1818-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-taquet": {
 "source": "zpag.net",
-"fichier": "https://zpag.net/Noeuds/taquet.htm"
+"fichier": "https://zpag.net/Noeuds/taquet.htm",
+"detourage": "rembg"
 },
 "noeuds_n-ud-d-elingue": {
 "source": "commons-serie",
-"fichier": "Bottle Sling ABOK 1142 Tying Step 2.jpg"
+"fichier": "Bottle Sling ABOK 1142 Tying Step 2.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-ride": {
 "source": "commons-serie",
@@ -17079,31 +17101,38 @@
 },
 "noeuds_n-ud-de-laguis": {
 "source": "commons-serie",
-"fichier": "Nœud de laguis.jpg"
+"fichier": "Nœud de laguis.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-galere": {
 "source": "commons-serie",
-"fichier": "Knot-slip-ABoK 529-USCG.jpg"
+"fichier": "Knot-slip-ABoK 529-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-jambe-de-chien": {
 "source": "commons-serie",
-"fichier": "Knot-sheepshank-ABoK 1152-USCG.jpg"
+"fichier": "Knot-sheepshank-ABoK 1152-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-fouet": {
 "source": "commons-serie",
-"fichier": "Hitch-taut line-ABoK 1799-USCG.jpg"
+"fichier": "Hitch-taut line-ABoK 1799-USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-bois": {
 "source": "commons-serie",
-"fichier": "Timber Hitch Final.jpg"
+"fichier": "Timber Hitch Final.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-prusik": {
 "source": "commons-serie",
-"fichier": "Prusik WPK.jpg"
+"fichier": "Prusik WPK.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-franciscain": {
 "source": "zpag.net",
-"fichier": "https://zpag.net/Noeuds/capucin.htm"
+"fichier": "https://zpag.net/Noeuds/capucin.htm",
+"detourage": "rembg"
 },
 "monnaies-du-monde_livre-sterling": {
 "source": "habillee",
@@ -17127,23 +17156,28 @@
 },
 "noeuds_n-ud-plat": {
 "source": "commons-serie",
-"fichier": "Knot-square-ABoK 1204-USCG (cropped).jpg"
+"fichier": "Knot-square-ABoK 1204-USCG (cropped).jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-en-queue-de-cochon": {
 "source": "zpag.net",
-"fichier": "https://zpag.net/Noeuds/noeud_plat.htm"
+"fichier": "https://zpag.net/Noeuds/noeud_plat.htm",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-grappin": {
 "source": "commons-serie",
-"fichier": "AnchorBend FinalKnot.jpg"
+"fichier": "AnchorBend FinalKnot.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-en-tete-d-alouette": {
 "source": "commons-serie",
-"fichier": "Cow Hitch - ABoK 1673 - USCG.jpg"
+"fichier": "Cow Hitch - ABoK 1673 - USCG.jpg",
+"detourage": "rembg"
 },
 "noeuds_n-ud-de-machard": {
 "source": "commons-serie",
-"fichier": "Klemheist knot WPK.jpg"
+"fichier": "Klemheist knot WPK.jpg",
+"detourage": "rembg"
 },
 "vehicules-celebres_bateau-dragon-pirogue": {
 "source": "wiki-sans-filtre"

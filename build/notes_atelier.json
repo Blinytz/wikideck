@@ -51508,19 +51508,17 @@
   },
   "musique-populaire_kraftwerk": {
    "cx": 0.5,
-   "cy": 0.5759,
+   "cy": 0.4557,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429808083,
+   "original": true
   },
   "musique-populaire_black-sabbath": {
-   "cx": 0.4594,
+   "cx": 0.4982,
    "cy": 0.5,
    "w": 0.9187,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429811946,
+   "original": true
   },
   "musique-populaire_iron-maiden": {
    "cx": 0.5059,

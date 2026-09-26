@@ -50602,11 +50602,10 @@
   },
   "inventeurs-et-ingenieurs_bill-gates": {
    "cx": 0.5,
-   "cy": 0.502,
+   "cy": 0.4256,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417102378,
+   "original": true
   },
   "inventeurs-et-ingenieurs_konrad-zuse": {
    "cx": 0.5,

@@ -43244,9 +43244,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7908,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446462395,
+   "original": true
   },
   "photographies-celebres_jour-j-photo": {
    "cx": 0.5,
@@ -53672,6 +53671,13 @@
    "cy": 0.3148,
    "w": 0.4561,
    "editeLe": 1790443484667,
+   "original": true
+  },
+  "photographies-celebres_point-de-vue-du-gras": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9267,
+   "editeLe": 1790446458447,
    "original": true
   }
  },

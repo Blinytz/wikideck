@@ -38348,11 +38348,10 @@
   },
   "mythologie-hindoue_mahishasura": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4422,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425444592,
+   "original": true
   },
   "mythologie-hindoue_rahu": {
    "cx": 0.5,

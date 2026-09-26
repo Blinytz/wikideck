@@ -40887,19 +40887,17 @@
   },
   "figures-emancipation_robert-badinter": {
    "cx": 0.5,
-   "cy": 0.4906,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790446438504,
+   "original": true
   },
   "figures-emancipation_greta-thunberg": {
-   "cx": 0.4163,
+   "cx": 0.4316,
    "cy": 0.5,
    "w": 0.6983,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446442736,
+   "original": true
   },
   "figures-emancipation_chico-mendes": {
    "cx": 0.5,

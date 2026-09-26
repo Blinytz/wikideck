@@ -43621,11 +43621,10 @@
   },
   "tableaux-celebres_les-maries-de-la-tour-eiffel-chagall": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4128,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417495301,
+   "original": true
   },
   "tableaux-celebres_la-naissance-de-venus-bouguereau": {
    "cx": 0.5,

@@ -43298,10 +43298,9 @@
   "sculptures-celebres_la-porte-de-l-enfer": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7,
+   "editeLe": 1790443558029,
+   "original": true
   },
   "sculptures-celebres_la-valse-camille-claudel": {
    "cx": 0.5,

@@ -40415,19 +40415,17 @@
   },
   "auteurs-classiques_kalidasa": {
    "cx": 0.5,
-   "cy": 0.4179,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416146219,
+   "original": true
   },
   "auteurs-classiques_wu-cheng-en": {
    "cx": 0.5,
    "cy": 0.3762,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416149096,
+   "original": true
   },
   "auteurs-classiques_carlo-collodi": {
    "cx": 0.5,

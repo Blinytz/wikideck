@@ -49796,20 +49796,18 @@
    "original": true
   },
   "empires-et-civilisations_dynastie-qadjar": {
-   "cx": 0.59,
-   "cy": 0.51,
-   "w": 0.55,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.6381,
+   "cy": 0.5017,
+   "w": 0.4545,
+   "editeLe": 1790414356401,
+   "original": true
   },
   "empires-et-civilisations_empire-du-bresil": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7133,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414359954,
+   "original": true
   },
   "empires-et-civilisations_tolteques": {
    "cx": 0.5,

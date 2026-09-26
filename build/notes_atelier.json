@@ -47832,17 +47832,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417986267,
+   "original": true
   },
   "oiseaux_serin-des-canaries": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417989762,
+   "original": true
   },
   "oiseaux_nestor-kea": {
    "cx": 0.5,

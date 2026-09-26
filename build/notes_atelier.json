@@ -41094,19 +41094,17 @@
   },
   "personnages-litterature_harpagon": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.2884,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426525393,
+   "original": true
   },
   "personnages-litterature_don-juan": {
    "cx": 0.5,
    "cy": 0.32,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426528992,
+   "original": true
   },
   "personnages-litterature_julien-sorel": {
    "cx": 0.5,

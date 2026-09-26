@@ -44218,12 +44218,11 @@
    "auto": true
   },
   "mammiferes_ane": {
-   "cx": 0.5,
+   "cx": 0.4443,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417785934,
+   "original": true
   },
   "mammiferes_hamster-dore": {
    "cx": 0.5,

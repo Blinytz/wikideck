@@ -42550,19 +42550,17 @@
   },
   "personnages-manga-anime_ponyo-sur-la-falaise": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5828,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428979724,
+   "original": true
   },
   "personnages-manga-anime_shinji-ikari": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4484,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428983186,
+   "original": true
   },
   "personnages-manga-anime_rei-ayanami": {
    "cx": 0.5,

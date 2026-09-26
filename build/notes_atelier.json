@@ -39534,18 +39534,16 @@
   "lieux-legendaires_asgard-mythologie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790424161093,
+   "original": true
   },
   "lieux-legendaires_midgard": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424164072,
+   "original": true
   },
   "lieux-legendaires_xibalba": {
    "cx": 0.5,

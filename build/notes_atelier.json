@@ -46611,17 +46611,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443741361,
+   "original": true
   },
   "plantes-cultivees_quinoa": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443744668,
+   "original": true
   },
   "plantes-cultivees_patate-douce": {
    "cx": 0.5,

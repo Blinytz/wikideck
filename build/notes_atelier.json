@@ -47406,10 +47406,9 @@
   "villes-du-monde_budapest": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8906,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.88,
+   "editeLe": 1790447043384,
+   "original": true
   },
   "villes-du-monde_kiev": {
    "cx": 0.5,

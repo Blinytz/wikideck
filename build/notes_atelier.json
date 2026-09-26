@@ -39103,11 +39103,10 @@
   },
   "mythologies-proche-orient_lamassu": {
    "cx": 0.5,
-   "cy": 0.45,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.7473,
+   "editeLe": 1790426188464,
+   "original": true
   },
   "mythologies-proche-orient_uta-napishtim": {
    "cx": 0.5,

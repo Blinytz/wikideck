@@ -47009,18 +47009,16 @@
   "arbres_ebene": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8867,
+   "editeLe": 1790430487497,
+   "original": true
   },
   "arbres_teck": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5461,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430491431,
+   "original": true
   },
   "arbres_santalum-album": {
    "cx": 0.5,

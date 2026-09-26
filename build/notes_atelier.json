@@ -46679,11 +46679,10 @@
   },
   "plantes-cultivees_clou-de-girofle": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5531,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443867492,
+   "original": true
   },
   "plantes-cultivees_noix-de-muscade": {
    "cx": 0.5,

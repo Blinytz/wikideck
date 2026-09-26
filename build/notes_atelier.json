@@ -44281,20 +44281,18 @@
    "original": true
   },
   "mammiferes_orycterope": {
-   "cx": 0.5,
+   "cx": 0.5558,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417838902,
+   "original": true
   },
   "mammiferes_lievre-d-europe": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5212,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417842780,
+   "original": true
   },
   "mammiferes_taupe-d-europe": {
    "cx": 0.5,

@@ -42128,20 +42128,18 @@
    "original": true
   },
   "personnages-animation_wallace-et-gromit": {
-   "cx": 0.45,
+   "cx": 0.4948,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428735094,
+   "original": true
   },
   "personnages-animation_scrat": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428738443,
+   "original": true
   },
   "personnages-animation_bender-tordeur-rodriguez": {
    "cx": 0.5,

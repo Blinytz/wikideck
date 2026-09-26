@@ -47323,19 +47323,17 @@
   },
   "fleurs_passiflore": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4453,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443647958,
+   "original": true
   },
   "fleurs_strelitzia-reginae": {
-   "cx": 0.5,
+   "cx": 0.5305,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443651331,
+   "original": true
   },
   "fleurs_protea-cynaroides": {
    "cx": 0.5,

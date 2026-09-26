@@ -47344,19 +47344,17 @@
   },
   "fleurs_arum-titan": {
    "cx": 0.5,
-   "cy": 0.55,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.8893,
+   "editeLe": 1790443682977,
+   "original": true
   },
   "fleurs_dionee-attrape-mouche": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443687273,
+   "original": true
   },
   "mineraux-et-pierres_labradorite": {
    "cx": 0.5,

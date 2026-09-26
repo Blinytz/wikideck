@@ -46429,11 +46429,10 @@
   },
   "plats-francais_kougelhopf": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4896,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444238955,
+   "original": true
   },
   "plats-francais_saint-honore-patisserie": {
    "cx": 0.5,

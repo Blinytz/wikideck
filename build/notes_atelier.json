@@ -38859,12 +38859,11 @@
    "original": true
   },
   "croyances-et-notions-sacrees_ange": {
-   "cx": 0.5,
+   "cx": 0.375,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429346182,
+   "original": true
   },
   "croyances-et-notions-sacrees_resurrection": {
    "cx": 0.5,

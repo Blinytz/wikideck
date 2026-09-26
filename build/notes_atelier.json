@@ -51662,19 +51662,17 @@
   },
   "musique-populaire_mylene-farmer": {
    "cx": 0.5,
-   "cy": 0.6438,
+   "cy": 0.6437,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429947486,
+   "original": true
   },
   "musique-populaire_indochine-groupe": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429950307,
+   "original": true
   },
   "musique-populaire_mc-solaar": {
    "cx": 0.5,

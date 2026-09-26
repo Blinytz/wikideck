@@ -47522,12 +47522,11 @@
    "original": true
   },
   "poissons-et-vie-marine_physalia": {
-   "cx": 0.5,
+   "cx": 0.4441,
    "cy": 0.5,
    "w": 0.8882,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422455635,
+   "original": true
   },
   "arbres_chene-liege": {
    "cx": 0.5,

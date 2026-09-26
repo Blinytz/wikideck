@@ -41332,11 +41332,10 @@
   },
   "personnages-litterature_professeur-moriarty": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3948,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427079032,
+   "original": true
   },
   "personnages-litterature_miss-marple": {
    "cx": 0.5,
@@ -41426,10 +41425,9 @@
   "personnages-litterature_docteur-watson": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7089,
+   "editeLe": 1790427075428,
+   "original": true
   },
   "personnages-jeu-video_wario": {
    "cx": 0.5,

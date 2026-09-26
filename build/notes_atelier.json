@@ -43248,11 +43248,10 @@
   },
   "sculptures-celebres_tete-colossale-olmeque": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4901,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430059935,
+   "original": true
   },
   "sculptures-celebres_bronzes-du-benin": {
    "cx": 0.5,

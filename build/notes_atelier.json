@@ -42171,19 +42171,17 @@
   },
   "personnages-animation_marge-simpson": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.453,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428845391,
+   "original": true
   },
   "personnages-animation_lisa-simpson": {
    "cx": 0.5,
    "cy": 0.3,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428848155,
+   "original": true
   },
   "personnages-animation_charles-montgomery-burns": {
    "cx": 0.5,

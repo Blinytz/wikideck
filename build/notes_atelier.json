@@ -51623,15 +51623,14 @@
    "cy": 0.424,
    "w": 1,
    "editeLe": 1790429916967,
-   "original": false
+   "original": true
   },
   "musique-populaire_charles-trenet": {
-   "cx": 0.5,
+   "cx": 0.5455,
    "cy": 0.5,
    "w": 0.8822,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429920425,
+   "original": true
   },
   "musique-populaire_dalida": {
    "cx": 0.5,

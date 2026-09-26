@@ -49972,19 +49972,17 @@
   },
   "dynasties-regnantes_dynastie-hachemite": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.6145,
+   "w": 1,
+   "editeLe": 1790415331255,
+   "original": true
   },
   "dynasties-regnantes_dynastie-alaouite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415334366,
+   "original": true
   },
   "dynasties-regnantes_dynastie-salomonide": {
    "cx": 0.5,

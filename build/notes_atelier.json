@@ -40404,19 +40404,17 @@
   },
   "philosophes_theodor-w-adorno": {
    "cx": 0.5,
-   "cy": 0.5716,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.9767,
+   "editeLe": 1790445049977,
+   "original": true
   },
   "philosophes_herbert-marcuse": {
    "cx": 0.5,
    "cy": 0.42,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790445054244,
+   "original": true
   },
   "philosophes_antonio-gramsci": {
    "cx": 0.5,

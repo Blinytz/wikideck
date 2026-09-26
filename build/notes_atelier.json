@@ -47099,11 +47099,10 @@
   },
   "arbres_pseudotsuga-menziesii": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5738,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430749133,
+   "original": true
   },
   "oiseaux_pigeon-biset": {
    "cx": 0.5,

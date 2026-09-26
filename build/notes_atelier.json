@@ -41562,12 +41562,11 @@
    "original": true
   },
   "personnages-jeu-video_yakuza-jeu-video": {
-   "cx": 0.62,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428179459,
+   "original": true
   },
   "personnages-jeu-video_tifa-lockhart": {
    "cx": 0.5,

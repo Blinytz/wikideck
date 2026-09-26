@@ -49762,11 +49762,10 @@
   },
   "empires-et-civilisations_premier-empire-bulgare": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4708,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414238645,
+   "original": true
   },
   "empires-et-civilisations_royaume-de-vijayanagara": {
    "cx": 0.5,

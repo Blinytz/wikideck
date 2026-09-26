@@ -42404,18 +42404,17 @@
   },
   "personnages-cinema-serie_sarah-connor-terminator": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7556,
-   "editeLe": 1790427205689,
+   "cy": 0.282,
+   "w": 1,
+   "editeLe": 1790427229087,
    "original": true
   },
   "personnages-cinema-serie_robocop-personnage": {
-   "cx": 0.6,
+   "cx": 0.4758,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427233391,
+   "original": true
   },
   "personnages-cinema-serie_rick-deckard": {
    "cx": 0.5,

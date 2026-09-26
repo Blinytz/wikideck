@@ -39251,11 +39251,10 @@
   },
   "mythologie-egyptienne_heqet": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.425,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425292970,
+   "original": true
   },
   "mythologie-egyptienne_nefertoum": {
    "cx": 0.5,

@@ -39138,11 +39138,10 @@
   },
   "mythologies-proche-orient_sohrab": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4062,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426244072,
+   "original": true
   },
   "mythologies-proche-orient_moloch": {
    "cx": 0.5,

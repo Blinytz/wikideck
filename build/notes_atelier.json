@@ -47780,12 +47780,11 @@
    "original": true
   },
   "oiseaux_dinde-domestique-b": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417951345,
+   "original": true
   },
   "oiseaux_faisan-de-colchide": {
    "cx": 0.5,

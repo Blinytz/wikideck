@@ -40236,11 +40236,10 @@
   },
   "philosophes_al-farabi": {
    "cx": 0.5,
-   "cy": 0.6154,
+   "cy": 0.6058,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444872830,
+   "original": true
   },
   "philosophes_nicolas-malebranche": {
    "cx": 0.5,

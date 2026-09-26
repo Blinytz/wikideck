@@ -38771,11 +38771,10 @@
   },
   "evenements-mythiques_vol-du-feu": {
    "cx": 0.5,
-   "cy": 0.32,
+   "cy": 0.2794,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429151952,
+   "original": true
   },
   "evenements-mythiques_la-descente-d-orphee-aux-enfers": {
    "cx": 0.5,

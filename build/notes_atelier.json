@@ -43185,19 +43185,17 @@
   },
   "sculptures-celebres_venus-de-willendorf": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3877,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430025382,
+   "original": true
   },
   "sculptures-celebres_masque-funeraire-de-toutankhamon": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4125,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430028706,
+   "original": true
   },
   "sculptures-celebres_aurige-de-delphes": {
    "cx": 0.5,

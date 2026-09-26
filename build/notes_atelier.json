@@ -45539,12 +45539,11 @@
    "original": true
   },
   "jeu-video-moderne_starcraft-2-wings-of-liberty": {
-   "cx": 0.5,
+   "cx": 0.418,
    "cy": 0.5,
    "w": 0.8333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424786261,
+   "original": true
   },
   "jeux-de-societe_echecs": {
    "cx": 0.5,

@@ -37953,11 +37953,10 @@
   },
   "mythologie-celtique_bodb": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4359,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425658740,
+   "original": true
   },
   "mythologie-celtique_goibniu": {
    "cx": 0.5,

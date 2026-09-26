@@ -42452,20 +42452,18 @@
    "original": true
   },
   "personnages-cinema-serie_alien-creature": {
-   "cx": 0.5,
+   "cx": 0.5011,
    "cy": 0.5,
    "w": 0.7017,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427254699,
+   "original": true
   },
   "personnages-cinema-serie_predator-creature": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427258962,
+   "original": true
   },
   "personnages-cinema-serie_harry-callahan-personnage": {
    "cx": 0.62,

@@ -42198,12 +42198,11 @@
    "original": true
   },
   "personnages-animation_hello-kitty": {
-   "cx": 0.5,
+   "cx": 0.4489,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428864364,
+   "original": true
   },
   "personnages-animation_kirikou-et-la-sorciere": {
    "cx": 0.5,

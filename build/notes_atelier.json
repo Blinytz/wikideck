@@ -41999,11 +41999,10 @@
   },
   "personnages-bd-comics_kid-paddle": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4663,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427813742,
+   "original": true
   },
   "personnages-bd-comics_charlie-brown": {
    "cx": 0.5,

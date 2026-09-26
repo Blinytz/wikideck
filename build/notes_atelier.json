@@ -42079,20 +42079,18 @@
    "original": true
   },
   "personnages-animation_porky-pig": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4607,
+   "cy": 0.4545,
+   "w": 0.6823,
+   "editeLe": 1790428563445,
+   "original": true
   },
   "personnages-animation_speedy-gonzales": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428566645,
+   "original": true
   },
   "personnages-animation_taz-langue": {
    "cx": 0.5,

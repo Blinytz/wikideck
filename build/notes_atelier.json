@@ -47420,10 +47420,9 @@
   "villes-du-monde_marseille": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7443,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790447084141,
+   "original": true
   },
   "villes-du-monde_lyon": {
    "cx": 0.5,

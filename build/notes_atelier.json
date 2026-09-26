@@ -37530,12 +37530,11 @@
    "original": true
   },
   "creatures-prehistoriques_entelodontidae": {
-   "cx": 0.5,
+   "cx": 0.5211,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415696852,
+   "original": true
   },
   "creatures-prehistoriques_eohippus": {
    "cx": 0.5,

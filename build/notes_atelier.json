@@ -46643,20 +46643,18 @@
    "original": true
   },
   "plantes-cultivees_palmier-a-huile": {
-   "cx": 0.5,
+   "cx": 0.5444,
    "cy": 0.5,
-   "w": 0.7492,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8871,
+   "editeLe": 1790443841000,
+   "original": true
   },
   "plantes-cultivees_chanvre": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443844134,
+   "original": true
   },
   "plantes-cultivees_houblon": {
    "cx": 0.5,

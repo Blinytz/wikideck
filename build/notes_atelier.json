@@ -41757,11 +41757,10 @@
   },
   "personnages-bd-comics_carol-danvers": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3621,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427398711,
+   "original": true
   },
   "personnages-bd-comics_ant-man": {
    "cx": 0.5,

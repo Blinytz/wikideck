@@ -39892,11 +39892,10 @@
   },
   "auteurs-modernes_john-le-carre": {
    "cx": 0.5,
-   "cy": 0.384,
+   "cy": 0.3233,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416272292,
+   "original": true
   },
   "auteurs-modernes_raymond-chandler": {
    "cx": 0.5,

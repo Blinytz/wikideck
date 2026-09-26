@@ -41248,19 +41248,17 @@
   },
   "personnages-litterature_jon-snow": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.521,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426819401,
+   "original": true
   },
   "personnages-litterature_tyrion-lannister": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5525,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426822984,
+   "original": true
   },
   "personnages-litterature_holden-caulfield": {
    "cx": 0.5,

@@ -47375,12 +47375,11 @@
    "auto": true
   },
   "poissons-et-vie-marine_salmo-trutta": {
-   "cx": 0.5,
+   "cx": 0.4722,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422359827,
+   "original": true
   },
   "poissons-et-vie-marine_esox-lucius": {
    "cx": 0.5,
@@ -54692,7 +54691,7 @@
    "cy": 0.5,
    "w": 0.8883,
    "editeLe": 1790422342749,
-   "original": false
+   "original": true
   },
   "reptiles-et-amphibiens_triton-alpestre": {
    "cx": 0.5,

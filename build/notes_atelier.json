@@ -42157,11 +42157,10 @@
   },
   "personnages-animation_peter-griffin": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4828,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428791146,
+   "original": true
   },
   "personnages-animation_rick-sanchez": {
    "cx": 0.5,

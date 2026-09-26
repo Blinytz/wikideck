@@ -50909,20 +50909,18 @@
    "original": true
   },
   "scientifiques-celebres_henry-cavendish": {
-   "cx": 0.5,
-   "cy": 0.308,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4858,
+   "cy": 0.5,
+   "w": 0.6989,
+   "editeLe": 1790416803964,
+   "original": true
   },
   "scientifiques-celebres_joseph-priestley": {
    "cx": 0.5,
    "cy": 0.4609,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416807398,
+   "original": true
   },
   "scientifiques-celebres_joseph-lister": {
    "cx": 0.5,

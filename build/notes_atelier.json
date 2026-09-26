@@ -39567,12 +39567,11 @@
    "original": true
   },
   "lieux-legendaires_lyonesse": {
-   "cx": 0.5,
+   "cx": 0.525,
    "cy": 0.5,
    "w": 0.7715,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424184306,
+   "original": true
   },
   "lieux-legendaires_champs-elysees-mythologie": {
    "cx": 0.5,

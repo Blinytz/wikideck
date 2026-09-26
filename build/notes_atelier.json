@@ -52157,20 +52157,18 @@
    "original": true
   },
   "grands-compositeurs_clara-schumann": {
-   "cx": 0.45,
-   "cy": 0.35,
+   "cx": 0.5375,
+   "cy": 0.4007,
    "w": 0.7,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429688739,
+   "original": true
   },
   "grands-compositeurs_fanny-mendelssohn": {
    "cx": 0.5,
-   "cy": 0.4351,
+   "cy": 0.4594,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429692234,
+   "original": true
   },
   "grands-compositeurs_lili-boulanger": {
    "cx": 0.6162,

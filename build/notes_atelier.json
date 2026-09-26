@@ -37420,17 +37420,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430374894,
+   "original": true
   },
   "champignons_macrolepiota-procera": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9552,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430377122,
+   "original": true
   },
   "champignons_matsutake": {
    "cx": 0.5,

@@ -39865,18 +39865,16 @@
   "auteurs-modernes_frank-herbert": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7477,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790416257514,
+   "original": true
   },
   "auteurs-modernes_stanis-aw-lem": {
    "cx": 0.5,
    "cy": 0.3248,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416260592,
+   "original": true
   },
   "auteurs-modernes_robert-a-heinlein": {
    "cx": 0.5,

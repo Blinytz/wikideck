@@ -40088,19 +40088,17 @@
   },
   "auteurs-modernes_karel-capek": {
    "cx": 0.5,
-   "cy": 0.4496,
+   "cy": 0.3452,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416521235,
+   "original": true
   },
   "auteurs-modernes_nikos-kazantzakis": {
    "cx": 0.5454,
    "cy": 0.5,
    "w": 0.7645,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416523616,
+   "original": true
   },
   "auteurs-modernes_nadine-gordimer": {
    "cx": 0.5,

@@ -37523,12 +37523,11 @@
    "original": true
   },
   "creatures-prehistoriques_thylacine": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6942,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5303,
+   "cy": 0.5868,
+   "w": 0.5737,
+   "editeLe": 1790415692017,
+   "original": true
   },
   "creatures-prehistoriques_entelodontidae": {
    "cx": 0.5,

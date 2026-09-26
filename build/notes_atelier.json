@@ -46215,17 +46215,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444701032,
+   "original": true
   },
   "cuisines-du-monde_pancake": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5125,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444705232,
+   "original": true
   },
   "cuisines-du-monde_donut": {
    "cx": 0.5,

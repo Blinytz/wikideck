@@ -43272,7 +43272,7 @@
    "cy": 0.5,
    "w": 0.8885,
    "editeLe": 1790430088229,
-   "original": false
+   "original": true
   },
   "sculptures-celebres_moise-michel-ange": {
    "cx": 0.5,
@@ -43312,11 +43312,10 @@
   },
   "sculptures-celebres_la-valse-camille-claudel": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4438,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430127823,
+   "original": true
   },
   "sculptures-celebres_lion-de-belfort": {
    "cx": 0.5,

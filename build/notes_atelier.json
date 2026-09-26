@@ -40341,19 +40341,17 @@
   },
   "philosophes_willard-van-orman-quine": {
    "cx": 0.5,
-   "cy": 0.4305,
+   "cy": 0.4019,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444979108,
+   "original": true
   },
   "philosophes_daniel-dennett": {
    "cx": 0.5,
    "cy": 0.4381,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444981948,
+   "original": true
   },
   "philosophes_peter-singer": {
    "cx": 0.5,

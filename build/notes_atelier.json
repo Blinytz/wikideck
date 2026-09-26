@@ -46596,18 +46596,16 @@
   "plantes-cultivees_avoine-cultivee": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790443734703,
+   "original": true
   },
   "plantes-cultivees_seigle": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443738169,
+   "original": true
   },
   "plantes-cultivees_sorgo-commun": {
    "cx": 0.5,

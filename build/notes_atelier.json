@@ -47364,10 +47364,9 @@
   "villes-du-monde_edimbourg": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1790446908157,
+   "original": true
   },
   "villes-du-monde_dublin": {
    "cx": 0.5,

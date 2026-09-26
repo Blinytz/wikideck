@@ -40299,9 +40299,9 @@
   },
   "philosophes_mikhail-bakounine": {
    "cx": 0.5148,
-   "cy": 0.3712,
+   "cy": 0.3737,
    "w": 0.9091,
-   "editeLe": 1790444917728,
+   "editeLe": 1790444925556,
    "original": true
   },
   "philosophes_alexis-de-tocqueville": {
@@ -40313,11 +40313,10 @@
   },
   "philosophes_auguste-comte": {
    "cx": 0.5,
-   "cy": 0.3031,
+   "cy": 0.3627,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444929890,
+   "original": true
   },
   "philosophes_william-james": {
    "cx": 0.5,

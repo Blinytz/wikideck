@@ -51753,19 +51753,17 @@
   },
   "musique-populaire_celia-cruz": {
    "cx": 0.5,
-   "cy": 0.4867,
+   "cy": 0.4482,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429995374,
+   "original": true
   },
   "musique-populaire_carlos-santana": {
-   "cx": 0.5,
+   "cx": 0.5028,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429998356,
+   "original": true
   },
   "musique-populaire_antonio-carlos-jobim": {
    "cx": 0.5,

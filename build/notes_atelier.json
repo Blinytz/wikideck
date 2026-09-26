@@ -46972,20 +46972,18 @@
    "original": true
   },
   "arbres_corylus-avellana": {
-   "cx": 0.5,
+   "cx": 0.4594,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430459253,
+   "original": true
   },
   "arbres_sambucus-nigra": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430461522,
+   "original": true
   },
   "arbres_juniperus-communis": {
    "cx": 0.5,

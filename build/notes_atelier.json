@@ -53879,20 +53879,18 @@
    "original": true
   },
   "inventions-importantes_brouette": {
-   "cx": 0.5,
+   "cx": 0.4498,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417567096,
+   "original": true
   },
   "inventions-importantes_metier-a-tisser": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417569900,
+   "original": true
   },
   "inventions-importantes_boulier": {
    "cx": 0.5,

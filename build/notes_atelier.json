@@ -46083,7 +46083,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790444573093,
-   "original": false
+   "original": true
   },
   "cuisines-du-monde_jiaozi": {
    "cx": 0.5,
@@ -46103,17 +46103,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444594471,
+   "original": true
   },
   "cuisines-du-monde_banh-mi": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444597347,
+   "original": true
   },
   "cuisines-du-monde_nem-ran": {
    "cx": 0.5,

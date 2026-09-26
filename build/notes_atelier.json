@@ -51648,19 +51648,17 @@
   },
   "musique-populaire_renaud": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.4419,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429942218,
+   "original": true
   },
   "musique-populaire_jean-jacques-goldman": {
    "cx": 0.5,
-   "cy": 0.4334,
+   "cy": 0.3692,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429945003,
+   "original": true
   },
   "musique-populaire_mylene-farmer": {
    "cx": 0.5,

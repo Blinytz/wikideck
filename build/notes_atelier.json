@@ -41967,11 +41967,10 @@
   },
   "personnages-bd-comics_mafalda": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4924,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427885845,
+   "original": true
   },
   "personnages-bd-comics_milou": {
    "cx": 0.5,

@@ -40302,20 +40302,18 @@
    "original": true
   },
   "auteurs-classiques_marivaux": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5192,
+   "cy": 0.4035,
+   "w": 0.9091,
+   "editeLe": 1790415971997,
+   "original": true
   },
   "auteurs-classiques_gerard-de-nerval": {
    "cx": 0.5,
    "cy": 0.5809,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415974855,
+   "original": true
   },
   "auteurs-classiques_alphonse-daudet": {
    "cx": 0.5,

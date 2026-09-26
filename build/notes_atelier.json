@@ -38728,20 +38728,18 @@
    "original": true
   },
   "evenements-mythiques_cain-et-abel-genese": {
-   "cx": 0.5,
-   "cy": 0.55,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5574,
+   "cy": 0.5,
+   "w": 0.8853,
+   "editeLe": 1790429110447,
+   "original": true
   },
   "evenements-mythiques_dix-plaies-d-egypte": {
-   "cx": 0.5,
+   "cx": 0.5554,
    "cy": 0.5,
    "w": 0.8893,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429115104,
+   "original": true
   },
   "evenements-mythiques_passage-de-la-mer-rouge": {
    "cx": 0.5,

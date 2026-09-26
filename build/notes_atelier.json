@@ -45504,12 +45504,11 @@
    "original": true
   },
   "jeu-video-moderne_clair-obscur-expedition-33": {
-   "cx": 0.5,
+   "cx": 0.5375,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424761603,
+   "original": true
   },
   "jeu-video-moderne_factorio": {
    "cx": 0.5,

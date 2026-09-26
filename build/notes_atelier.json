@@ -47846,17 +47846,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.944,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417992270,
+   "original": true
   },
   "oiseaux_guepier-d-europe": {
-   "cx": 0.5,
+   "cx": 0.5558,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417995176,
+   "original": true
   },
   "oiseaux_nandou-d-amerique": {
    "cx": 0.5,

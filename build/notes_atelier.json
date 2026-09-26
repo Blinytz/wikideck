@@ -50616,11 +50616,10 @@
   },
   "inventeurs-et-ingenieurs_william-shockley": {
    "cx": 0.5,
-   "cy": 0.4924,
+   "cy": 0.4366,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417113782,
+   "original": true
   },
   "inventeurs-et-ingenieurs_dennis-ritchie": {
    "cx": 0.5,

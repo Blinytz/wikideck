@@ -42068,17 +42068,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428543523,
+   "original": true
   },
   "personnages-animation_les-minions": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428545923,
+   "original": true
   },
   "personnages-animation_porky-pig": {
    "cx": 0.5,

@@ -40387,19 +40387,17 @@
   },
   "auteurs-classiques_li-bai": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.443,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416119336,
+   "original": true
   },
   "auteurs-classiques_du-fu": {
    "cx": 0.5,
    "cy": 0.6473,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416121845,
+   "original": true
   },
   "auteurs-classiques_hafez-poete": {
    "cx": 0.5,

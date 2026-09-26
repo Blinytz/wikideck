@@ -47348,12 +47348,11 @@
    "original": true
   },
   "villes-du-monde_naples": {
-   "cx": 0.5,
+   "cx": 0.4917,
    "cy": 0.5,
    "w": 0.8878,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446869338,
+   "original": true
   },
   "villes-du-monde_bruxelles": {
    "cx": 0.5,

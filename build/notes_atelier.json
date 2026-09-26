@@ -41569,12 +41569,11 @@
    "original": true
   },
   "personnages-jeu-video_tifa-lockhart": {
-   "cx": 0.5,
+   "cx": 0.525,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428185415,
+   "original": true
   },
   "personnages-jeu-video_aerith-gainsborough": {
    "cx": 0.6007,
@@ -41628,9 +41627,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428188144,
+   "original": true
   },
   "personnages-jeu-video_altair-ibn-la-ahad": {
    "cx": 0.5,

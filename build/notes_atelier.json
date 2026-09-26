@@ -38334,11 +38334,10 @@
   },
   "mythologie-hindoue_ananta": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4922,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425435227,
+   "original": true
   },
   "mythologie-hindoue_vasuki": {
    "cx": 0.5,

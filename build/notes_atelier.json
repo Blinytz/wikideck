@@ -38306,19 +38306,17 @@
   },
   "mythologie-hindoue_narada": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5005,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425421544,
+   "original": true
   },
   "mythologie-hindoue_chandra-divinite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425424094,
+   "original": true
   },
   "mythologie-hindoue_kama-divinite": {
    "cx": 0.5,

@@ -47259,18 +47259,16 @@
   "villes-du-monde_washington-district-de-columbia": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9101,
+   "editeLe": 1790446637376,
+   "original": true
   },
   "villes-du-monde_boston": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9992,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446640671,
+   "original": true
   },
   "villes-du-monde_montreal": {
    "cx": 0.5,

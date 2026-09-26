@@ -41297,19 +41297,17 @@
   },
   "personnages-litterature_robin-des-bois": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4669,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426942977,
+   "original": true
   },
   "personnages-litterature_tom-sawyer": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.4043,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426947127,
+   "original": true
   },
   "personnages-litterature_les-aventures-de-huckleberry-finn": {
    "cx": 0.5,

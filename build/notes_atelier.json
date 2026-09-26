@@ -50630,11 +50630,10 @@
   },
   "inventeurs-et-ingenieurs_cai-lun": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417192801,
+   "original": true
   },
   "inventeurs-et-ingenieurs_heron-d-alexandrie": {
    "cx": 0.5,

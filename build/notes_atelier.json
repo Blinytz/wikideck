@@ -41848,11 +41848,10 @@
   },
   "personnages-bd-comics_poison-ivy-dc-comics": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3906,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427498871,
+   "original": true
   },
   "personnages-bd-comics_darkseid": {
    "cx": 0.5,

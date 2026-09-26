@@ -43607,11 +43607,10 @@
   },
   "tableaux-celebres_la-liseuse-fragonard": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.408,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417480248,
+   "original": true
   },
   "tableaux-celebres_a-l-abri-du-besoin": {
    "cx": 0.5,

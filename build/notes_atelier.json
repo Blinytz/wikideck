@@ -41764,19 +41764,17 @@
   },
   "personnages-bd-comics_ant-man": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3688,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427401404,
+   "original": true
   },
   "personnages-bd-comics_nick-fury": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4207,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427404415,
+   "original": true
   },
   "personnages-bd-comics_groot": {
    "cx": 0.5,

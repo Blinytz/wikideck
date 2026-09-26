@@ -50503,19 +50503,17 @@
   },
   "dirigeants-contemporains_francois-mitterrand": {
    "cx": 0.5,
-   "cy": 0.375,
+   "cy": 0.4078,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413342814,
+   "original": true
   },
   "dirigeants-contemporains_boris-eltsine": {
    "cx": 0.5,
-   "cy": 0.51,
+   "cy": 0.4819,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413346003,
+   "original": true
   },
   "dirigeants-contemporains_richard-nixon": {
    "cx": 0.5,

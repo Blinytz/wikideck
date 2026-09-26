@@ -331,8 +331,14 @@ function majBadgeEnvoi({ enAttente, erreurs }) {
 
 /* ================= grille ================= */
 
+// ✂ = retouchée par toi. Un cadrage posé par un script (`auto: true`, le
+// grand complément) ne compte pas : la carte reste ✦ « ajoutée, à vérifier »
+// tant que tu ne l'as ni enregistrée dans l'éditeur (le cadrage enregistré
+// remplace l'objet et perd la marque) ni marquée ⚠ ou ✓.
 function statutDe(id) {
-  if (notes.cadrages[id]) return 'editee';
+  const cad = notes.cadrages[id];
+  if (cad && !cad.auto) return 'editee';
+  if (cad?.auto) return notes.statuts[id] || 'nouvelle';
   return notes.statuts[id] || '';
 }
 
@@ -360,6 +366,7 @@ function carteVisible(carte) {
   if (ft === 'revoir' && st !== 'revoir') return false;
   if (ft === 'ok' && st !== 'ok') return false;
   if (ft === 'editee' && st !== 'editee') return false;
+  if (ft === 'nouvelle' && st !== 'nouvelle') return false;
   if (ft === 'note' && !aUneNote(carte.id)) return false;
   if (ft === 'aucun' && (st || aUneNote(carte.id))) return false;
   return true;
@@ -386,13 +393,13 @@ function rendreGrille() {
     parts.push(`<h2 id="col-${col.slug}">${esc(col.nom)} <small>${visibles.length}</small></h2>
       <div class="grille"${attrPlanche}>` + visibles.map(c => {
         const st = statutDe(c.id);
-        const pastille = { revoir: '⚠', ok: '✓', editee: '✂' }[st] || '';
+        const pastille = { revoir: '⚠', ok: '✓', editee: '✂', nouvelle: '✦' }[st] || '';
         const note = aUneNote(c.id) ? '<span class="v-note">📝</span>' : '';
         const sel = selection.has(c.id) ? ' selectionnee' : '';
         const cad = notes.cadrages[c.id];
         const src = apercusLocaux[c.id]
           || (toutJuste(cad) ? `${RAW}${c.thumbUrl}?v=${cad.editeLe}`
-              : cad ? `${c.thumbUrl}?v=${cad.editeLe}` : vign(c));
+              : (cad && !cad.auto) ? `${c.thumbUrl}?v=${cad.editeLe}` : vign(c));
         // La planche sert la vignette, SAUF si la carte a ete retouchee apres
         // sa fabrication : son image individuelle est alors la seule a jour.
         const rang = rangs?.get(c.id);

@@ -132,7 +132,7 @@ def main():
                 p = RACINE / rel
                 p.parent.mkdir(parents=True, exist_ok=True)
                 p.write_bytes(octets)
-            notes['cadrages'][cid] = dict(cad, original=True, editeLe=0)
+            notes['cadrages'][cid] = dict(cad, original=True, editeLe=0, auto=True)
             sources[cid] = {'source': 'grand-complement', 'origine': m['source'], 'url': m['url']}
             poses += 1
         print(f'{slug} : {poses} image(s) posée(s)')

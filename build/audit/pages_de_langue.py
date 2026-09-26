@@ -28,6 +28,7 @@ RACINE = ICI.parent.parent
 sys.path.insert(0, str(RACINE / 'build'))
 import images_lib as il
 
+NOTES = RACINE / 'build' / 'notes_atelier.json'
 CHROME = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
 SOURCE = 'https://raw.githubusercontent.com/eric-muller/udhr/main/data/udhr/udhr_{}.xml'
 
@@ -126,8 +127,8 @@ def texte_udhr(code):
 
 
 PAGE = """<!doctype html><html><head><meta charset="utf-8"><style>
-html,body{{margin:0;width:800px;height:600px;overflow:hidden;background:#2a2320}}
-.feuille{{position:absolute;left:-60px;top:-70px;width:940px;height:760px;
+html,body{{margin:0;width:{W}px;height:{H}px;overflow:hidden;background:#2a2320}}
+.feuille{{position:absolute;left:{fx}px;top:{fy}px;width:940px;height:760px;
   transform:rotate({angle}deg);transform-origin:50% 50%;
   background:
     radial-gradient(ellipse at 30% 20%, rgba(255,255,255,.35), transparent 60%),
@@ -140,7 +141,7 @@ h1{{font-size:44px;margin:0 0 22px;font-weight:700;letter-spacing:.5px}}
 p{{font-size:31px;line-height:1.42;margin:0 0 16px;text-align:justify}}
 .grain{{position:absolute;inset:0;opacity:.18;mix-blend-mode:multiply;
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>")}}
-.ombre{{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 45%, transparent 55%, rgba(0,0,0,.28) 100%)}}
+.ombre{{position:absolute;left:{dx}px;top:{dy}px;width:800px;height:600px;background:radial-gradient(ellipse at 50% 45%, transparent 55%, rgba(0,0,0,.28) 100%)}}
 </style></head><body><div class="feuille"><h1>{titre}</h1>{paras}</div>
 <div class="grain"></div><div class="ombre"></div></body></html>"""
 
@@ -148,14 +149,18 @@ p{{font-size:31px;line-height:1.42;margin:0 0 16px;text-align:justify}}
 def composer(nom, code, police, sens, dossier):
     titre, paras = texte_udhr(code)
     rng = random.Random(nom)                  # meme carte, meme angle
+    # La page est composee sur une table deux fois plus grande que la carte :
+    # la carte en est le centre (identique a l'ancienne composition), et
+    # l'atelier peut deplacer ou dezoomer le cadrage sans tomber dans le vide.
     page = PAGE.format(angle=round(rng.uniform(-3.5, 3.5), 2), sens=sens, police=police,
+                       W=1600, H=1200, dx=400, dy=300, fx=340, fy=230,
                        titre=html.escape(titre),
                        paras=''.join(f'<p>{html.escape(p)}</p>' for p in paras))
     f_html = dossier / f'{code}.html'
     f_png = dossier / f'{code}.png'
     f_html.write_text(page, encoding='utf-8')
     subprocess.run([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars',
-                    f'--user-data-dir={dossier / "chrome"}', '--window-size=800,600',
+                    f'--user-data-dir={dossier / "chrome"}', '--window-size=1600,1200',
                     f'--screenshot={f_png}', f_html.as_uri()],
                    capture_output=True, timeout=90)
     return Image.open(f_png).convert('RGB') if f_png.exists() else None
@@ -187,10 +192,20 @@ def main():
             print(f'  {nom:<18} apercu ecrit')
             continue
         c = cartes[nom]
-        brut = io.BytesIO(); img.save(brut, 'PNG')
+        # la carte = le centre 800 x 600 ; la page entiere devient l'original,
+        # avec un cadrage qui retombe exactement sur ce centre
+        brut = io.BytesIO(); img.crop((400, 300, 1200, 900)).save(brut, 'PNG')
         for rel, octets in ((c['imageUrl'], il.to_full(brut.getvalue())),
                             (c['thumbUrl'], il.to_thumb(brut.getvalue()))):
             (RACINE / rel).write_bytes(octets)
+        orig = RACINE / 'images' / 'originaux' / 'langues-du-monde' / (c['id'].split('_', 1)[1] + '.webp')
+        orig.parent.mkdir(parents=True, exist_ok=True)
+        img.save(orig, 'WEBP', quality=88)
+        notes = json.loads(NOTES.read_text(encoding='utf-8'))
+        if not (notes['cadrages'].get(c['id']) or {}).get('editeLe'):     # jamais une retouche
+            notes['cadrages'][c['id']] = {'cx': 0.5, 'cy': 0.5, 'w': 0.5, 'original': True,
+                                          'editeLe': 0, 'auto': True}
+            NOTES.write_text(json.dumps(notes, ensure_ascii=False, indent=1), encoding='utf-8')
         sources[c['id']] = {'source': 'page-udhr', 'code': code}
         print(f'  {nom:<18} <- DUDH [{code}]')
     if not apercu:

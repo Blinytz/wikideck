@@ -71,6 +71,7 @@ h2 small { color: var(--doux); font-weight: 600; }
 .v-statut.revoir { color: var(--or); border-color: var(--or); }
 .v-statut.ok { color: var(--ok); border-color: var(--ok); }
 .v-statut.editee { color: var(--accent-2); border-color: var(--accent-2); }
+.v-statut.nouvelle { color: #ffd166; border-color: #ffd166; }
 .v-note { position: absolute; top: 9px; right: 9px; font-size: 13px;
   background: #000000b0; border-radius: 6px; padding: 2px 4px; }
 

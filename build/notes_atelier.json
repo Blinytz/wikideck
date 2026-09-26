@@ -5,7 +5,8 @@
   "grands-peintres_hiroshige": "revoir",
   "fleuves-mers-et-oceans_mer-baltique": "revoir",
   "langues-du-monde_russe": "ok",
-  "inventeurs-et-ingenieurs_martin-cooper": "revoir"
+  "inventeurs-et-ingenieurs_martin-cooper": "revoir",
+  "mammiferes_dingo-chien-sauvage": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -44333,17 +44334,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417871831,
+   "original": true
   },
   "mammiferes_renard-polaire": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7615,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417874647,
+   "original": true
   },
   "mammiferes_dingo-chien-sauvage": {
    "cx": 0.5,

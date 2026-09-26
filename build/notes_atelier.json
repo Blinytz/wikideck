@@ -37904,11 +37904,10 @@
   },
   "mythologie-celtique_perceval": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7508,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4406,
+   "w": 1,
+   "editeLe": 1790425550670,
+   "original": true
   },
   "mythologie-celtique_tristan-et-iseut": {
    "cx": 0.5,

@@ -39272,11 +39272,10 @@
   },
   "mythologie-egyptienne_apis": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425375392,
+   "original": true
   },
   "mythologie-egyptienne_atoum": {
    "cx": 0.5,

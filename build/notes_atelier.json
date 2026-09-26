@@ -53908,11 +53908,10 @@
   },
   "inventions-importantes_chronometre-de-marine": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4641,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417580614,
+   "original": true
   },
   "inventions-importantes_arme-a-feu": {
    "cx": 0.5,

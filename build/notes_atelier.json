@@ -47818,17 +47818,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9521,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417974656,
+   "original": true
   },
   "oiseaux_marabout-d-afrique": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417977498,
+   "original": true
   },
   "oiseaux_spatule-blanche": {
    "cx": 0.5,
@@ -54670,7 +54668,7 @@
    "cy": 0.5,
    "w": 0.8883,
    "editeLe": 1790417927161,
-   "original": false
+   "original": true
   },
   "oiseaux_oie-cendree": {
    "cx": 0.5,

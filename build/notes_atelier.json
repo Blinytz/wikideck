@@ -4,7 +4,8 @@
   "races-de-chat_maine-coon": "revoir",
   "grands-peintres_hiroshige": "revoir",
   "fleuves-mers-et-oceans_mer-baltique": "revoir",
-  "langues-du-monde_russe": "ok"
+  "langues-du-monde_russe": "ok",
+  "inventeurs-et-ingenieurs_martin-cooper": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -50749,11 +50750,10 @@
   },
   "inventeurs-et-ingenieurs_erno-rubik": {
    "cx": 0.5,
-   "cy": 0.3299,
+   "cy": 0.3897,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417323083,
+   "original": true
   },
   "inventeurs-et-ingenieurs_martin-cooper": {
    "cx": 0.5,

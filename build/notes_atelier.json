@@ -38614,11 +38614,10 @@
   },
   "objets-mythiques_tables-de-la-loi": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3232,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429227365,
+   "original": true
   },
   "objets-mythiques_sceau-de-salomon-legende": {
    "cx": 0.5,

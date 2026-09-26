@@ -41388,11 +41388,10 @@
   },
   "personnages-litterature_mephistopheles": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3143,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427121918,
+   "original": true
   },
   "personnages-litterature_porthos": {
    "cx": 0.5,

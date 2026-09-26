@@ -41425,17 +41425,15 @@
    "cx": 0.5,
    "cy": 0.4,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427926579,
+   "original": true
   },
   "personnages-jeu-video_toad": {
-   "cx": 0.5,
+   "cx": 0.5023,
    "cy": 0.5,
    "w": 0.7502,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427929599,
+   "original": true
   },
   "personnages-jeu-video_fox-mccloud": {
    "cx": 0.5,

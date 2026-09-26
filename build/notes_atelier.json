@@ -40067,19 +40067,17 @@
   },
   "auteurs-modernes_friedrich-durrenmatt": {
    "cx": 0.5,
-   "cy": 0.4297,
+   "cy": 0.3995,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416493939,
+   "original": true
   },
   "auteurs-modernes_knut-hamsun": {
    "cx": 0.5,
    "cy": 0.3987,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416497580,
+   "original": true
   },
   "auteurs-modernes_selma-lagerlof": {
    "cx": 0.5,

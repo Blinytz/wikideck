@@ -40250,11 +40250,10 @@
   },
   "philosophes_george-berkeley": {
    "cx": 0.5,
-   "cy": 0.3318,
+   "cy": 0.3897,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444877002,
+   "original": true
   },
   "philosophes_nicolas-de-condorcet": {
    "cx": 0.5,

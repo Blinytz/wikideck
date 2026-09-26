@@ -53985,11 +53985,10 @@
   },
   "inventions-importantes_guichet-automatique-bancaire": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4085,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417767516,
+   "original": true
   },
   "inventions-importantes_horloge-atomique": {
    "cx": 0.5,

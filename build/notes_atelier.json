@@ -49640,20 +49640,18 @@
    "original": true
   },
   "sites-antiques_pergame": {
-   "cx": 0.5,
+   "cx": 0.55,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413941206,
+   "original": true
   },
   "sites-antiques_jerash": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413944855,
+   "original": true
   },
   "sites-antiques_saqqarah": {
    "cx": 0.5,

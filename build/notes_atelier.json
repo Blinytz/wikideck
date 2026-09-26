@@ -42094,11 +42094,10 @@
   },
   "personnages-animation_taz-langue": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.5467,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428572238,
+   "original": true
   },
   "personnages-animation_woody-woodpecker": {
    "cx": 0.5,

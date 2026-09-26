@@ -37247,17 +37247,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444072453,
+   "original": true
   },
   "fromages_cancoillotte": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444074859,
+   "original": true
   },
   "fromages_tete-de-moine": {
    "cx": 0.5,

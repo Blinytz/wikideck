@@ -41283,11 +41283,10 @@
   },
   "personnages-litterature_jane-eyre-personnage": {
    "cx": 0.5,
-   "cy": 0.33,
+   "cy": 0.3624,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426909996,
+   "original": true
   },
   "personnages-litterature_elizabeth-bennet": {
    "cx": 0.5,

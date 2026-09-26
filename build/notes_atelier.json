@@ -40193,12 +40193,11 @@
    "original": true
   },
   "philosophes_thales": {
-   "cx": 0.5,
-   "cy": 0.4699,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4976,
+   "cy": 0.4482,
+   "w": 0.7513,
+   "editeLe": 1790444761074,
+   "original": true
   },
   "philosophes_anaximandre": {
    "cx": 0.5,
@@ -40252,9 +40251,8 @@
    "cx": 0.5,
    "cy": 0.4013,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444764646,
+   "original": true
   },
   "philosophes_george-berkeley": {
    "cx": 0.5,

@@ -38236,19 +38236,17 @@
   },
   "mythologie-hindoue_varaha": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3953,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425388474,
+   "original": true
   },
   "mythologie-hindoue_parashurama": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425391326,
+   "original": true
   },
   "mythologie-hindoue_kalki": {
    "cx": 0.5,

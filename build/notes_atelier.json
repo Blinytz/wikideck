@@ -39243,19 +39243,17 @@
   },
   "mythologies-slaves_morana-deesse": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3988,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426288066,
+   "original": true
   },
   "mythologies-slaves_triglav-mythologie": {
    "cx": 0.5,
    "cy": 0.36,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426290811,
+   "original": true
   },
   "mythologies-slaves_svantovit": {
    "cx": 0.5,

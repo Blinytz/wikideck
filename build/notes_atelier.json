@@ -39313,11 +39313,10 @@
   },
   "mythologies-slaves_saule": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3902,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426328246,
+   "original": true
   },
   "mythologies-africaines_olokun": {
    "cx": 0.5,

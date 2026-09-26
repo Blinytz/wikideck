@@ -38742,12 +38742,11 @@
    "original": true
   },
   "evenements-mythiques_passage-de-la-mer-rouge": {
-   "cx": 0.5,
+   "cx": 0.4775,
    "cy": 0.5,
-   "w": 0.7617,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.955,
+   "editeLe": 1790429130532,
+   "original": true
   },
   "evenements-mythiques_ligature-d-isaac": {
    "cx": 0.5,

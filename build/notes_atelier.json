@@ -51591,20 +51591,18 @@
    "original": true
   },
   "musique-populaire_taylor-swift": {
-   "cx": 0.4446,
-   "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.448,
+   "cy": 0.5643,
+   "w": 0.7348,
+   "editeLe": 1790429890271,
+   "original": true
   },
   "musique-populaire_lady-gaga": {
    "cx": 0.5,
-   "cy": 0.6356,
+   "cy": 0.5981,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429893397,
+   "original": true
   },
   "musique-populaire_adele": {
    "cx": 0.5,

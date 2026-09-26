@@ -47407,23 +47407,21 @@
    "cy": 0.5,
    "w": 0.82,
    "editeLe": 1790422390225,
-   "original": false
+   "original": true
   },
   "poissons-et-vie-marine_morue-de-l-atlantique": {
-   "cx": 0.5,
+   "cx": 0.5486,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422393575,
+   "original": true
   },
   "poissons-et-vie-marine_sardina-pilchardus": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8433,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422396470,
+   "original": true
   },
   "poissons-et-vie-marine_clupea-harengus": {
    "cx": 0.5,

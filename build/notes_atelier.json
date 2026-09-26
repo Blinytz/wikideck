@@ -38629,20 +38629,18 @@
    "original": true
   },
   "mythologie-nordique_beowulf": {
-   "cx": 0.5,
+   "cx": 0.375,
    "cy": 0.5,
    "w": 0.7474,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424909218,
+   "original": true
   },
   "mythologie-nordique_grendel": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9123,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424912138,
+   "original": true
   },
   "objets-mythiques_pomme-d-or-de-la-discorde": {
    "cx": 0.5,

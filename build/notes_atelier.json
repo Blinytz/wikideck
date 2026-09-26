@@ -39913,11 +39913,10 @@
   },
   "auteurs-modernes_paul-claudel": {
    "cx": 0.5,
-   "cy": 0.3166,
+   "cy": 0.3483,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416285107,
+   "original": true
   },
   "auteurs-modernes_aime-cesaire": {
    "cx": 0.5,

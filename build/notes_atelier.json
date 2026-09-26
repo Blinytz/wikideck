@@ -37939,11 +37939,10 @@
   },
   "mythologie-celtique_deirdre": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4328,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425602199,
+   "original": true
   },
   "mythologie-celtique_macha-mythologie-celtique": {
    "cx": 0.5,

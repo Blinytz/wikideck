@@ -46323,11 +46323,10 @@
   },
   "plats-francais_petit-sale": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4734,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444140439,
+   "original": true
   },
   "plats-francais_magret": {
    "cx": 0.5,

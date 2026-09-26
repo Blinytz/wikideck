@@ -42375,12 +42375,11 @@
    "original": true
   },
   "personnages-cinema-serie_james-tiberius-kirk": {
-   "cx": 0.55,
+   "cx": 0.4375,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427165060,
+   "original": true
   },
   "personnages-cinema-serie_spock-star-trek": {
    "cx": 0.5,

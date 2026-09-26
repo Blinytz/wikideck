@@ -47301,10 +47301,9 @@
   "villes-du-monde_brasilia": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7018,
+   "editeLe": 1790446673316,
+   "original": false
   },
   "villes-du-monde_lima": {
    "cx": 0.5,

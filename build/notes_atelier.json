@@ -42100,20 +42100,18 @@
    "original": true
   },
   "personnages-animation_woody-woodpecker": {
-   "cx": 0.5,
+   "cx": 0.4426,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7494,
+   "editeLe": 1790428657620,
+   "original": true
   },
   "personnages-animation_droopy": {
-   "cx": 0.5,
+   "cx": 0.4109,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428661786,
+   "original": true
   },
   "personnages-animation_fred-pierrafeu": {
    "cx": 0.5,

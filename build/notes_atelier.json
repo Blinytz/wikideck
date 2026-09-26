@@ -41193,10 +41193,9 @@
   "personnages-litterature_fifi-brindacier": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9444,
+   "editeLe": 1790426590691,
+   "original": true
   },
   "personnages-litterature_mowgli": {
    "cx": 0.5,

@@ -46692,20 +46692,18 @@
    "original": true
   },
   "plantes-cultivees_laitue-cultivee": {
-   "cx": 0.5,
+   "cx": 0.6191,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443886661,
+   "original": true
   },
   "plantes-cultivees_artichaut": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443889988,
+   "original": true
   },
   "plantes-cultivees_asperge": {
    "cx": 0.5,

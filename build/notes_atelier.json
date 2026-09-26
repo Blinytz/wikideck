@@ -49619,20 +49619,18 @@
    "original": true
   },
   "sites-antiques_jericho": {
-   "cx": 0.5,
+   "cx": 0.4446,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413930341,
+   "original": true
   },
   "sites-antiques_catal-hoyuk": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8867,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413933252,
+   "original": true
   },
   "sites-antiques_hattusa": {
    "cx": 0.5,

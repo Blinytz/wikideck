@@ -40485,11 +40485,10 @@
   },
   "auteurs-classiques_adam-mickiewicz": {
    "cx": 0.5,
-   "cy": 0.4616,
+   "cy": 0.4093,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416186536,
+   "original": true
   },
   "auteurs-classiques_henryk-sienkiewicz": {
    "cx": 0.5,

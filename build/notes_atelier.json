@@ -39052,19 +39052,17 @@
   },
   "creatures-et-legendes_sorciere": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4453,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423828376,
+   "original": true
   },
   "creatures-et-legendes_fantome": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7617,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423831212,
+   "original": true
   },
   "creatures-et-legendes_nain-creature-fantastique": {
    "cx": 0.5,

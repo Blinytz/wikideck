@@ -38629,10 +38629,9 @@
   "objets-mythiques_la-lampe-d-aladin": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790429250699,
+   "original": false
   },
   "objets-mythiques_kusanagi": {
    "cx": 0.62,

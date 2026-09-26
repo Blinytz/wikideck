@@ -37897,11 +37897,10 @@
   },
   "mythologie-celtique_guenievre": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.376,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425522606,
+   "original": true
   },
   "mythologie-celtique_perceval": {
    "cx": 0.5,

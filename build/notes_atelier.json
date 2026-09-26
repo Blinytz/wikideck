@@ -42510,10 +42510,9 @@
   "personnages-cinema-serie_fox-mulder": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7493,
+   "editeLe": 1790427290019,
+   "original": false
   },
   "personnages-cinema-serie_angus-macgyver": {
    "cx": 0.5,

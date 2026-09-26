@@ -39117,19 +39117,17 @@
   },
   "mythologies-proche-orient_kingu": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7408,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.375,
+   "w": 1,
+   "editeLe": 1790426228582,
+   "original": true
   },
   "mythologies-proche-orient_asherah": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7473,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426231670,
+   "original": true
   },
   "mythologies-proche-orient_anat": {
    "cx": 0.5,

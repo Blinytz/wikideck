@@ -50643,20 +50643,18 @@
    "original": true
   },
   "inventeurs-et-ingenieurs_nicolas-joseph-cugnot": {
-   "cx": 0.5,
-   "cy": 0.4283,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.3333,
+   "cy": 0.5,
+   "w": 0.6667,
+   "editeLe": 1790417249309,
+   "original": true
   },
   "inventeurs-et-ingenieurs_gottlieb-daimler": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.3762,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417253250,
+   "original": true
   },
   "inventeurs-et-ingenieurs_louis-renault-industriel": {
    "cx": 0.5,

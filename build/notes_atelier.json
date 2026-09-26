@@ -47459,20 +47459,18 @@
    "original": true
   },
   "poissons-et-vie-marine_phycodurus-eques": {
-   "cx": 0.5,
+   "cx": 0.5166,
    "cy": 0.5,
    "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422421245,
+   "original": true
   },
   "poissons-et-vie-marine_combattant": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5188,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422425117,
+   "original": true
   },
   "poissons-et-vie-marine_poecilia-reticulata": {
    "cx": 0.5,

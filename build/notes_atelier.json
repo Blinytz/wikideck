@@ -45955,18 +45955,16 @@
   "cuisines-du-monde_petit-dejeuner-anglais": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7475,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790444496423,
+   "original": true
   },
   "cuisines-du-monde_kottbullar": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444499291,
+   "original": true
   },
   "cuisines-du-monde_gravlax": {
    "cx": 0.5,

@@ -41535,11 +41535,10 @@
   },
   "personnages-jeu-video_raiden-mortal-kombat": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4828,
+   "w": 1,
+   "editeLe": 1790428118198,
+   "original": true
   },
   "personnages-jeu-video_liu-kang": {
    "cx": 0.5,

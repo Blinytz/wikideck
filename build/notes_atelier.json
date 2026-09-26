@@ -41654,10 +41654,9 @@
   "personnages-jeu-video_dead-space-jeu-video": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790428265610,
+   "original": true
   },
   "personnages-jeu-video_cortana-personnage": {
    "cx": 0.5,

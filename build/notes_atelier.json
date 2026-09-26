@@ -41472,11 +41472,10 @@
   },
   "personnages-jeu-video_salameche-et-ses-evolutions": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.5188,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427970792,
+   "original": true
   },
   "personnages-jeu-video_toudoudou-et-ses-evolutions": {
    "cx": 0.5,

@@ -51906,19 +51906,17 @@
   },
   "grands-compositeurs_johann-pachelbel": {
    "cx": 0.5,
-   "cy": 0.4856,
+   "cy": 0.4547,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429435768,
+   "original": true
   },
   "grands-compositeurs_arcangelo-corelli": {
    "cx": 0.5,
-   "cy": 0.3371,
+   "cy": 0.3872,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429439502,
+   "original": true
   },
   "grands-compositeurs_tomaso-albinoni": {
    "cx": 0.5,

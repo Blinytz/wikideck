@@ -42143,11 +42143,10 @@
   },
   "personnages-animation_bender-tordeur-rodriguez": {
    "cx": 0.5,
-   "cy": 0.3862,
+   "cy": 0.4024,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428757424,
+   "original": true
   },
   "personnages-animation_eric-cartman": {
    "cx": 0.5,

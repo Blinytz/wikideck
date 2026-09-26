@@ -54683,6 +54683,20 @@
    "w": 1,
    "editeLe": 1790417971844,
    "original": false
+  },
+  "oiseaux_grue-cendree": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790417980164,
+   "original": false
+  },
+  "oiseaux_aigrette-garzette": {
+   "cx": 0.4417,
+   "cy": 0.5,
+   "w": 0.8833,
+   "editeLe": 1790417983590,
+   "original": false
   }
  },
  "notes": [

@@ -38355,11 +38355,10 @@
   },
   "mythologie-hindoue_rahu": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4178,
+   "w": 1,
+   "editeLe": 1790425471628,
+   "original": false
   },
   "mythologie-finnoise_vainamoinen": {
    "cx": 0.5,

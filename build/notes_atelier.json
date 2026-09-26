@@ -38763,12 +38763,11 @@
    "original": true
   },
   "evenements-mythiques_odyssee": {
-   "cx": 0.5,
+   "cx": 0.5187,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429146202,
+   "original": true
   },
   "evenements-mythiques_vol-du-feu": {
    "cx": 0.5,

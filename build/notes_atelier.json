@@ -45198,10 +45198,9 @@
   "cinema-moderne_ghost-in-the-shell-film-1995": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7225,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790424515372,
+   "original": false
   },
   "age-dor-du-jeu-video_pitfall": {
    "cx": 0.5,

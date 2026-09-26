@@ -41939,11 +41939,10 @@
   },
   "personnages-bd-comics_les-tuniques-bleues": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.5852,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427775448,
+   "original": true
   },
   "personnages-bd-comics_achille-talon": {
    "cx": 0.5,

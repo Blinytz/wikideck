@@ -47371,10 +47371,9 @@
   "villes-du-monde_dublin": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790446928562,
+   "original": true
   },
   "villes-du-monde_copenhague": {
    "cx": 0.5,

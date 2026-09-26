@@ -45161,12 +45161,11 @@
    "original": true
   },
   "cinema-moderne_la-belle-et-la-bete-film-1991": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424482188,
+   "original": true
   },
   "cinema-moderne_aladdin-film-1992": {
    "cx": 0.62,

@@ -41778,19 +41778,17 @@
   },
   "personnages-bd-comics_groot": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4066,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427408377,
+   "original": true
   },
   "personnages-bd-comics_rocket-raccoon": {
-   "cx": 0.5,
-   "cy": 0.45,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5308,
+   "cy": 0.4673,
+   "w": 0.8264,
+   "editeLe": 1790427411579,
+   "original": true
   },
   "personnages-bd-comics_bouffon-vert": {
    "cx": 0.5,

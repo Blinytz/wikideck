@@ -37510,19 +37510,17 @@
   },
   "creatures-prehistoriques_diprotodon": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415682906,
+   "original": true
   },
   "creatures-prehistoriques_aurochs": {
-   "cx": 0.5,
+   "cx": 0.4881,
    "cy": 0.5,
    "w": 0.9525,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415686855,
+   "original": true
   },
   "creatures-prehistoriques_thylacine": {
    "cx": 0.5,

@@ -41855,11 +41855,10 @@
   },
   "personnages-bd-comics_darkseid": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4644,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427513056,
+   "original": true
   },
   "personnages-bd-comics_rorschach-comics": {
    "cx": 0.5,

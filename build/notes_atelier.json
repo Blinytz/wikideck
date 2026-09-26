@@ -42114,20 +42114,18 @@
    "original": true
   },
   "personnages-animation_fred-pierrafeu": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4906,
+   "cy": 0.5,
+   "w": 0.7499,
+   "editeLe": 1790428728072,
+   "original": true
   },
   "personnages-animation_barbapapa": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9698,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428730874,
+   "original": true
   },
   "personnages-animation_wallace-et-gromit": {
    "cx": 0.45,

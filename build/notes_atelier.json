@@ -41444,11 +41444,10 @@
   },
   "personnages-litterature_eugene-de-rastignac": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4719,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426537057,
+   "original": true
   },
   "personnages-litterature_gargantua": {
    "cx": 0.5,

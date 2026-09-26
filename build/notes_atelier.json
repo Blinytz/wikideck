@@ -41981,12 +41981,11 @@
    "original": true
   },
   "personnages-animation_minnie-mouse": {
-   "cx": 0.5,
+   "cx": 0.5621,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428366893,
+   "original": true
   },
   "personnages-animation_pluto-disney": {
    "cx": 0.5,

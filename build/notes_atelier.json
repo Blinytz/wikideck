@@ -37861,12 +37861,11 @@
    "original": true
   },
   "mythologie-celtique_roi-arthur": {
-   "cx": 0.5,
+   "cx": 0.5012,
    "cy": 0.5,
    "w": 0.7556,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425482639,
+   "original": true
   },
   "mythologie-celtique_merlin": {
    "cx": 0.5,
@@ -38358,7 +38357,7 @@
    "cy": 0.4178,
    "w": 1,
    "editeLe": 1790425471628,
-   "original": false
+   "original": true
   },
   "mythologie-finnoise_vainamoinen": {
    "cx": 0.5,

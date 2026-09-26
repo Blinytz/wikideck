@@ -39081,10 +39081,9 @@
   "creatures-et-legendes_vouivre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9123,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790423864477,
+   "original": true
   },
   "creatures-et-legendes_croque-mitaine": {
    "cx": 0.5,

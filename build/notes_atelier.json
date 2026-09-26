@@ -47385,17 +47385,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422362800,
+   "original": true
   },
   "poissons-et-vie-marine_silure-glane": {
-   "cx": 0.5,
+   "cx": 0.4433,
    "cy": 0.5,
    "w": 0.8867,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422366457,
+   "original": true
   },
   "poissons-et-vie-marine_acipenser-sturio": {
    "cx": 0.5,
@@ -54698,7 +54696,7 @@
    "cy": 0.5,
    "w": 0.8733,
    "editeLe": 1790422346285,
-   "original": false
+   "original": true
   },
   "reptiles-et-amphibiens_rhinella-marina": {
    "cx": 0.4946,

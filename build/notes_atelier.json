@@ -38016,11 +38016,10 @@
   },
   "mythologie-celtique_blodeuwedd": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425841661,
+   "original": true
   },
   "mythologie-celtique_gwydion": {
    "cx": 0.5,

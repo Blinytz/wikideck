@@ -41346,11 +41346,10 @@
   },
   "personnages-litterature_rouletabille": {
    "cx": 0.5,
-   "cy": 0.33,
+   "cy": 0.3948,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427094501,
+   "original": true
   },
   "personnages-litterature_macbeth-personnage": {
    "cx": 0.5,

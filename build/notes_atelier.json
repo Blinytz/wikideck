@@ -39815,19 +39815,17 @@
   },
   "auteurs-modernes_enid-blyton": {
    "cx": 0.5,
-   "cy": 0.4726,
+   "cy": 0.4349,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416204500,
+   "original": true
   },
   "auteurs-modernes_roald-dahl": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416207607,
+   "original": true
   },
   "auteurs-modernes_astrid-lindgren": {
    "cx": 0.5,

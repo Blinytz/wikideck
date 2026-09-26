@@ -37918,19 +37918,17 @@
   },
   "mythologie-celtique_gauvain": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7508,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.3766,
+   "w": 1,
+   "editeLe": 1790425589953,
+   "original": true
   },
   "mythologie-celtique_mordred": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4063,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425593687,
+   "original": true
   },
   "mythologie-celtique_ossian": {
    "cx": 0.5,

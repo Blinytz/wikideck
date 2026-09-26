@@ -51543,19 +51543,17 @@
   },
   "musique-populaire_oasis-groupe": {
    "cx": 0.5,
-   "cy": 0.3919,
+   "cy": 0.5648,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429844728,
+   "original": true
   },
   "musique-populaire_coldplay": {
    "cx": 0.5,
    "cy": 0.473,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429847389,
+   "original": true
   },
   "musique-populaire_eminem": {
    "cx": 0.5,

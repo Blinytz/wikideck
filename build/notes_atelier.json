@@ -40471,19 +40471,17 @@
   },
   "auteurs-classiques_louisa-may-alcott": {
    "cx": 0.5,
-   "cy": 0.4282,
+   "cy": 0.3822,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416177034,
+   "original": true
   },
   "auteurs-classiques_august-strindberg": {
    "cx": 0.5,
-   "cy": 0.629,
+   "cy": 0.5721,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416181203,
+   "original": true
   },
   "auteurs-classiques_adam-mickiewicz": {
    "cx": 0.5,

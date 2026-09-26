@@ -50875,19 +50875,17 @@
   },
   "scientifiques-celebres_theodore-monod": {
    "cx": 0.5,
-   "cy": 0.5289,
+   "cy": 0.499,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416723403,
+   "original": true
   },
   "scientifiques-celebres_hubert-reeves": {
    "cx": 0.5,
    "cy": 0.4679,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416726955,
+   "original": true
   },
   "scientifiques-celebres_claude-galien": {
    "cx": 0.5,

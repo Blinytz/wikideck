@@ -38029,18 +38029,17 @@
    "original": true
   },
   "mythologie-celtique_esus": {
-   "cx": 0.5,
+   "cx": 0.5264,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790425889259,
+   "original": true
   },
   "mythologie-celtique_sucellos": {
    "cx": 0.4939,
    "cy": 0.4325,
    "w": 0.72,
-   "editeLe": 1790420990184,
+   "editeLe": 1790425892807,
    "original": true
   },
   "mythologies-asie-est_houyi": {

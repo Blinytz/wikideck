@@ -46350,20 +46350,18 @@
    "original": true
   },
   "plats-francais_moules-frites": {
-   "cx": 0.5,
+   "cx": 0.5875,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444189371,
+   "original": true
   },
   "plats-francais_jambon-beurre": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444193469,
+   "original": true
   },
   "plats-francais_tapenade": {
    "cx": 0.5,

@@ -52067,11 +52067,10 @@
   },
   "grands-compositeurs_edgard-varese": {
    "cx": 0.5,
-   "cy": 0.6103,
+   "cy": 0.5642,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429610340,
+   "original": true
   },
   "grands-compositeurs_alban-berg": {
    "cx": 0.5,

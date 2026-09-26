@@ -39596,19 +39596,17 @@
   },
   "mythologies-mesoamericaines_ixtab": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3778,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426032326,
+   "original": true
   },
   "mythologies-mesoamericaines_pachacamac-dieu": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426035879,
+   "original": true
   },
   "mythologies-mesoamericaines_mama-ocllo": {
    "cx": 0.5,

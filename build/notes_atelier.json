@@ -51431,11 +51431,10 @@
   },
   "musique-populaire_bee-gees": {
    "cx": 0.5,
-   "cy": 0.6197,
+   "cy": 0.3854,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429731258,
+   "original": true
   },
   "musique-populaire_simon-and-garfunkel": {
    "cx": 0.4996,

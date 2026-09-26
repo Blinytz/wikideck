@@ -39927,19 +39927,17 @@
   },
   "auteurs-modernes_blaise-cendrars": {
    "cx": 0.5,
-   "cy": 0.4948,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.7556,
+   "editeLe": 1790416323613,
+   "original": true
   },
   "auteurs-modernes_francoise-sagan": {
    "cx": 0.5,
    "cy": 0.42,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416326959,
+   "original": true
   },
   "auteurs-modernes_joseph-kessel": {
    "cx": 0.5,

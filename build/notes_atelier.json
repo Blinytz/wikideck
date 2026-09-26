@@ -50300,11 +50300,10 @@
   },
   "souverains-et-conquerants_cnut-le-grand": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.806,
+   "editeLe": 1790413100463,
+   "original": true
   },
   "souverains-et-conquerants_otton-ier-empereur-du-saint-empire": {
    "cx": 0.5,

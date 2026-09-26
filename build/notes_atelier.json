@@ -51783,17 +51783,15 @@
    "cx": 0.5667,
    "cy": 0.5,
    "w": 0.8667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430006371,
+   "original": true
   },
   "musique-populaire_charlie-parker": {
-   "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5054,
+   "cy": 0.5041,
+   "w": 0.9091,
+   "editeLe": 1790430011331,
+   "original": true
   },
   "musique-populaire_django-reinhardt": {
    "cx": 0.5,

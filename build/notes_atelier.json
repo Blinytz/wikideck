@@ -40215,11 +40215,10 @@
   },
   "philosophes_boece": {
    "cx": 0.5,
-   "cy": 0.3196,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.8889,
+   "editeLe": 1790444842163,
+   "original": true
   },
   "philosophes_pierre-abelard": {
    "cx": 0.5,

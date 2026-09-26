@@ -40359,11 +40359,10 @@
   },
   "auteurs-classiques_tacite": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.4622,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416049747,
+   "original": true
   },
   "auteurs-classiques_plaute": {
    "cx": 0.5,

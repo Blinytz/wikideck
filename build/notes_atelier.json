@@ -39068,19 +39068,17 @@
   },
   "mythologies-proche-orient_ea-dieu": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4547,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426106965,
+   "original": true
   },
   "mythologies-proche-orient_nabu": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.45,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426110509,
+   "original": true
   },
   "mythologies-proche-orient_assur-dieu": {
    "cx": 0.5,

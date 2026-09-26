@@ -39129,19 +39129,17 @@
   },
   "creatures-et-legendes_succube": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.763,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5469,
+   "w": 1,
+   "editeLe": 1790423969625,
+   "original": true
   },
   "creatures-et-legendes_lamia-mythologie": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9123,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423973021,
+   "original": true
   },
   "mythologies-proche-orient_ea-dieu": {
    "cx": 0.5,

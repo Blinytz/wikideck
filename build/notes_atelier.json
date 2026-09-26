@@ -40431,12 +40431,11 @@
    "original": true
   },
   "philosophes_xun-zi": {
-   "cx": 0.5,
+   "cx": 0.4425,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7212,
+   "editeLe": 1790445099471,
+   "original": true
   },
   "philosophes_wang-yangming": {
    "cx": 0.5,

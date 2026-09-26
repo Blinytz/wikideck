@@ -42634,19 +42634,17 @@
   },
   "personnages-manga-anime_tony-tony-chopper": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4915,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429062768,
+   "original": true
   },
   "personnages-manga-anime_boo-dragon-ball": {
    "cx": 0.5,
    "cy": 0.3,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429066130,
+   "original": true
   },
   "personnages-manga-anime_trunks": {
    "cx": 0.5,

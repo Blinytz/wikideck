@@ -38825,11 +38825,10 @@
   },
   "croyances-et-notions-sacrees_kami-divinite": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.2653,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429319997,
+   "original": true
   },
   "croyances-et-notions-sacrees_mantra": {
    "cx": 0.5,
@@ -38921,9 +38920,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429322831,
+   "original": true
   },
   "croyances-et-notions-sacrees_mana-spiritualite": {
    "cx": 0.5,

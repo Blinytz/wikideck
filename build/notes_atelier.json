@@ -41542,19 +41542,17 @@
   },
   "personnages-jeu-video_liu-kang": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4688,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428141489,
+   "original": true
   },
   "personnages-jeu-video_heihachi-mishima": {
-   "cx": 0.5,
+   "cx": 0.5094,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428145058,
+   "original": true
   },
   "personnages-jeu-video_dante-devil-may-cry": {
    "cx": 0.5,

@@ -38524,12 +38524,11 @@
    "auto": true
   },
   "mythologie-nordique_hod": {
-   "cx": 0.5,
+   "cx": 0.3811,
    "cy": 0.5,
-   "w": 0.7617,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7622,
+   "editeLe": 1790424810485,
+   "original": false
   },
   "mythologie-nordique_mimir": {
    "cx": 0.5,

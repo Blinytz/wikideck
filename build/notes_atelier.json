@@ -41688,11 +41688,10 @@
   },
   "personnages-jeu-video_malenia": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3984,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428356100,
+   "original": true
   },
   "personnages-jeu-video_personnages-de-the-legend-of-zelda": {
    "cx": 0.5,

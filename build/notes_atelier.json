@@ -41659,12 +41659,11 @@
    "original": true
   },
   "personnages-jeu-video_cortana-personnage": {
-   "cx": 0.5,
+   "cx": 0.6195,
    "cy": 0.5,
-   "w": 0.7518,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790428285811,
+   "original": true
   },
   "personnages-jeu-video_glados": {
    "cx": 0.5,

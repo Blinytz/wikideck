@@ -42163,12 +42163,11 @@
    "original": true
   },
   "personnages-animation_rick-sanchez": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.6901,
+   "cy": 0.451,
+   "w": 0.6198,
+   "editeLe": 1790428825243,
+   "original": true
   },
   "personnages-animation_marge-simpson": {
    "cx": 0.5,

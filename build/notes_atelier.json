@@ -37641,10 +37641,9 @@
   "grandes-guerres_guerre-americano-mexicaine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7508,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7504,
+   "editeLe": 1790415607865,
+   "original": true
   },
   "grandes-guerres_guerres-indiennes": {
    "cx": 0.5,

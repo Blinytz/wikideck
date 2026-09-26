@@ -51457,11 +51457,10 @@
   },
   "grands-explorateurs_jacques-marquette": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.3501,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415720083,
+   "original": true
   },
   "grands-explorateurs_alexander-mackenzie-explorateur": {
    "cx": 0.5,
@@ -54593,9 +54592,8 @@
    "cx": 0.5,
    "cy": 0.4274,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415723710,
+   "original": true
   },
   "football-ere-moderne_alessandro-nesta": {
    "cx": 0.5,

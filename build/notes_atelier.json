@@ -39066,11 +39066,10 @@
   },
   "creatures-et-legendes_nain-creature-fantastique": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3793,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423834185,
+   "original": true
   },
   "creatures-et-legendes_geant-mythologie": {
    "cx": 0.5,

@@ -3,8 +3,8 @@
 
 import { getToken, setToken, testerToken, getFichierTexte, putFichier,
          supprimerFichier, commitLot, getSha, blobVersBase64, enfiler,
-         surFileChangee, reessayerErreurs, DEPOT } from './github.js?v=20260802a';
-import { Editeur } from './editeur.js?v=20260802a';
+         surFileChangee, reessayerErreurs, DEPOT } from './github.js?v=20260927b';
+import { Editeur } from './editeur.js?v=20260927b';
 import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
          ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js?v=20260802a';
 
@@ -222,6 +222,10 @@ let planches = {};
 const rangsPlanche = new Map();          // slug -> Map(id -> rang dans la planche)
 let notes = { version: 1, statuts: {}, cadrages: {}, notes: [] };
 let notesSha = null;
+// Vrai une fois les notes lues sans erreur. Tant que ce n'est pas le cas, on
+// n'ecrit JAMAIS les notes : on remplacerait le fichier du depot (cadrages,
+// statuts, notes) par l'etat vide du navigateur.
+let notesChargees = false;
 let selection = new Set();
 let modeSelection = false;
 let carteEnEdition = null;
@@ -285,7 +289,12 @@ async function demarrer() {
       : { texte: await (await fetch('build/notes_atelier.json' + bust)).text(), sha: null };
     if (texte) notes = { ...notes, ...JSON.parse(texte) };
     notesSha = sha;
-  } catch { /* première utilisation */ }
+    notesChargees = true;
+  } catch (e) {
+    console.error('notes illisibles', e);
+    alert('Les notes de l’atelier n’ont pas pu être lues (' + e.message + '). '
+          + 'Rien ne sera enregistré dans les notes tant que la page n’est pas rechargée.');
+  }
 
   await chargerCombat(bust);
   remplirDatalists();
@@ -988,7 +997,7 @@ let minuterieNotes = null;
 function planifierSauvegardeNotes() {
   clearTimeout(minuterieNotes);
   minuterieNotes = setTimeout(() => {
-    if (!getToken()) return;
+    if (!getToken() || !notesChargees) return;
     enfiler('notes_atelier.json', async () => {
       try {
         notesSha = await putFichier('build/notes_atelier.json',

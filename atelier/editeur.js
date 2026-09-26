@@ -85,8 +85,9 @@ export class Editeur {
   // cadrage normalisé persistable {cx, cy, w} (fractions de l'image)
   getCadrage() {
     const r = this._rectSource();
-    return { cx: (r.x + r.w / 2) / this.iw, cy: (r.y + r.h / 2) / this.ih,
-             w: r.w / this.iw };
+    const q = v => Math.round(v * 1e4) / 1e4;     // 4 decimales : le fichier des notes reste leger
+    return { cx: q((r.x + r.w / 2) / this.iw), cy: q((r.y + r.h / 2) / this.ih),
+             w: q(r.w / this.iw) };
   }
 
   setCadrage(c) {

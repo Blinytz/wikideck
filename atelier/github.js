@@ -42,6 +42,19 @@ export async function getFichierTexte(chemin) {
   if (r.status === 404) return { texte: null, sha: null };
   if (!r.ok) throw new Error(`GET ${chemin} : HTTP ${r.status}`);
   const j = await r.json();
+  // Au-delà de 1 Mo, l'API ne renvoie plus le contenu (encoding « none »,
+  // content vide). Les notes de l'atelier ont passé ce seuil : l'atelier se
+  // chargeait alors SANS aucun cadrage (plus de ✂, éditeur sur l'image
+  // recadrée), et le prochain enregistrement aurait écrasé le fichier.
+  // Le type « raw » sert le fichier entier jusqu'à 100 Mo.
+  if (!j.content || j.encoding === 'none') {
+    const brut = await fetch(API + chemin + `?ref=${BRANCHE}&t=${Date.now()}`, {
+      headers: { ...entetes(), Accept: 'application/vnd.github.raw' }, cache: 'no-store' });
+    if (!brut.ok) throw new Error(`GET brut ${chemin} : HTTP ${brut.status}`);
+    const texte = await brut.text();
+    if (!texte) throw new Error(`GET ${chemin} : contenu vide`);
+    return { texte, sha: j.sha };
+  }
   const bin = atob(j.content.replace(/\n/g, ''));
   const octets = Uint8Array.from(bin, c => c.charCodeAt(0));
   return { texte: new TextDecoder().decode(octets), sha: j.sha };

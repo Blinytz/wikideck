@@ -40338,11 +40338,10 @@
   },
   "auteurs-classiques_lautreamont": {
    "cx": 0.5,
-   "cy": 0.37,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.9333,
+   "editeLe": 1790415999397,
+   "original": false
   },
   "auteurs-classiques_christine-de-pizan": {
    "cx": 0.5,

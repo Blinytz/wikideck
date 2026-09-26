@@ -41946,11 +41946,10 @@
   },
   "personnages-bd-comics_achille-talon": {
    "cx": 0.5,
-   "cy": 0.64,
+   "cy": 0.5913,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427823479,
+   "original": true
   },
   "personnages-bd-comics_blacksad": {
    "cx": 0.5,

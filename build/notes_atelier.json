@@ -43329,7 +43329,7 @@
    "cy": 0.3239,
    "w": 1,
    "editeLe": 1790430149552,
-   "original": false
+   "original": true
   },
   "sculptures-celebres_nana-niki-de-saint-phalle": {
    "cx": 0.5,
@@ -43356,9 +43356,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430164301,
+   "original": true
   },
   "sculptures-celebres_statue-de-la-mere-patrie-volgograd": {
    "cx": 0.5,

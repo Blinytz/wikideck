@@ -47343,10 +47343,9 @@
   "villes-du-monde_milan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1790446819630,
+   "original": true
   },
   "villes-du-monde_naples": {
    "cx": 0.5,

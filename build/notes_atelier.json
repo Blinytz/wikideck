@@ -41725,11 +41725,10 @@
   },
   "personnages-jeu-video_personnages-de-the-legend-of-zelda": {
    "cx": 0.5,
-   "cy": 0.33,
+   "cy": 0.5195,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427934721,
+   "original": true
   },
   "personnages-jeu-video_marie-animal-crossing": {
    "cx": 0.5,

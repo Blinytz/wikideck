@@ -39525,12 +39525,11 @@
    "original": true
   },
   "lieux-legendaires_hesperides": {
-   "cx": 0.5,
+   "cx": 0.5023,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790424138288,
+   "original": true
   },
   "lieux-legendaires_asgard-mythologie": {
    "cx": 0.5,

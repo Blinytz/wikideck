@@ -40257,19 +40257,17 @@
   },
   "philosophes_nicolas-de-condorcet": {
    "cx": 0.5,
-   "cy": 0.4278,
+   "cy": 0.4187,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444896582,
+   "original": true
   },
   "philosophes_jeremy-bentham": {
    "cx": 0.5,
    "cy": 0.3567,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444899475,
+   "original": true
   },
   "philosophes_johann-gottlieb-fichte": {
    "cx": 0.5,

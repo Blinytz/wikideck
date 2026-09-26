@@ -43558,11 +43558,10 @@
   },
   "tableaux-celebres_l-empire-des-lumieres": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5989,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417451367,
+   "original": true
   },
   "tableaux-celebres_anthropometrie-de-l-epoque-bleue": {
    "cx": 0.5,

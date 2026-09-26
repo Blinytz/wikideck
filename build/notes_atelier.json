@@ -47308,10 +47308,9 @@
   "villes-du-monde_lima": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790446692884,
+   "original": true
   },
   "villes-du-monde_bogota": {
    "cx": 0.5,

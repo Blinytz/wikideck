@@ -50854,19 +50854,17 @@
   },
   "scientifiques-celebres_jean-perrin": {
    "cx": 0.5,
-   "cy": 0.43,
+   "cy": 0.4039,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416714809,
+   "original": true
   },
   "scientifiques-celebres_paul-langevin": {
    "cx": 0.5,
-   "cy": 0.4535,
+   "cy": 0.4176,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416717576,
+   "original": true
   },
   "scientifiques-celebres_jacques-monod": {
    "cx": 0.4645,

@@ -51579,11 +51579,10 @@
   },
   "legendes-du-football_omar-sivori": {
    "cx": 0.5,
-   "cy": 0.284,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790423000534,
+   "original": true
   },
   "legendes-du-football_teofilo-cubillas": {
    "cx": 0.5,

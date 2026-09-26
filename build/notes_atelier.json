@@ -41290,11 +41290,10 @@
   },
   "personnages-litterature_elizabeth-bennet": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3938,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426938501,
+   "original": true
   },
   "personnages-litterature_robin-des-bois": {
    "cx": 0.5,

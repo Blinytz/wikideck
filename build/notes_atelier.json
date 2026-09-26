@@ -47282,17 +47282,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443600659,
+   "original": true
   },
   "fleurs_clematite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443602915,
+   "original": true
   },
   "fleurs_fuchsia": {
    "cx": 0.5,

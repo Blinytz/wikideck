@@ -42661,18 +42661,17 @@
    "original": true
   },
   "personnages-manga-anime_shenron": {
-   "cx": 0.5,
+   "cx": 0.5047,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429077738,
+   "original": true
   },
   "personnages-manga-anime_gaara": {
    "cx": 0.5,
-   "cy": 0.4692,
+   "cy": 0.4855,
    "w": 1,
-   "editeLe": 1790420637573,
+   "editeLe": 1790429081006,
    "original": true
   },
   "oeuvres-musicales_musique-de-star-wars": {

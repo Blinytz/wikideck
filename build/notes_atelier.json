@@ -39589,11 +39589,10 @@
   },
   "lieux-legendaires_tir-na-nog": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3891,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424213377,
+   "original": true
   },
   "mythologies-oceanie-ameriques_tiki": {
    "cx": 0.5,

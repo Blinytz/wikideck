@@ -41992,11 +41992,10 @@
   },
   "personnages-bd-comics_le-chat-bande-dessinee": {
    "cx": 0.5,
-   "cy": 0.3581,
+   "cy": 0.4044,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427780530,
+   "original": true
   },
   "personnages-bd-comics_kid-paddle": {
    "cx": 0.5,

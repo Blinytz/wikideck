@@ -47403,12 +47403,11 @@
    "original": true
   },
   "poissons-et-vie-marine_arapaima-gigas": {
-   "cx": 0.5,
+   "cx": 0.4436,
    "cy": 0.5,
-   "w": 0.6708,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.82,
+   "editeLe": 1790422390225,
+   "original": false
   },
   "poissons-et-vie-marine_morue-de-l-atlantique": {
    "cx": 0.5,

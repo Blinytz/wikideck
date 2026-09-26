@@ -47752,20 +47752,18 @@
    "original": true
   },
   "oiseaux_mesange-charbonniere": {
-   "cx": 0.5,
+   "cx": 0.4709,
    "cy": 0.5,
    "w": 0.9418,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417935617,
+   "original": true
   },
   "oiseaux_mouette-rieuse": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417939502,
+   "original": true
   },
   "oiseaux_goeland-argente": {
    "cx": 0.5,

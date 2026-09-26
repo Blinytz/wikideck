@@ -42564,11 +42564,10 @@
   },
   "personnages-manga-anime_rei-ayanami": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3589,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428986706,
+   "original": true
   },
   "personnages-manga-anime_asuka-soryu-langley": {
    "cx": 0.5833,

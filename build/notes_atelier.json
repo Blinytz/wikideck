@@ -40425,11 +40425,10 @@
   },
   "philosophes_mozi": {
    "cx": 0.5,
-   "cy": 0.625,
+   "cy": 0.4344,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790445060796,
+   "original": true
   },
   "philosophes_xun-zi": {
    "cx": 0.5,

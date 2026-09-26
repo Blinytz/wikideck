@@ -46081,10 +46081,9 @@
   "cuisines-du-monde_momo-plat-traditionnel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7475,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790444573093,
+   "original": false
   },
   "cuisines-du-monde_jiaozi": {
    "cx": 0.5,

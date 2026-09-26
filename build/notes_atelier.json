@@ -37502,12 +37502,11 @@
    "original": true
   },
   "creatures-prehistoriques_megalania-genre": {
-   "cx": 0.45,
+   "cx": 0.4225,
    "cy": 0.5,
    "w": 0.5667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415679053,
+   "original": true
   },
   "creatures-prehistoriques_diprotodon": {
    "cx": 0.5,

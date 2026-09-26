@@ -41108,19 +41108,17 @@
   },
   "personnages-litterature_julien-sorel": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4865,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426542823,
+   "original": true
   },
   "personnages-litterature_le-petit-nicolas": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4593,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426546471,
+   "original": true
   },
   "personnages-litterature_cosette": {
    "cx": 0.5,

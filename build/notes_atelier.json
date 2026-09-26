@@ -46709,17 +46709,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443892418,
+   "original": true
   },
   "plantes-cultivees_poireau": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8857,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443895566,
+   "original": true
   },
   "plantes-cultivees_pasteque": {
    "cx": 0.5,

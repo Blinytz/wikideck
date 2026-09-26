@@ -49810,11 +49810,10 @@
   },
   "architectes_richard-rogers": {
    "cx": 0.5,
-   "cy": 0.4423,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.8889,
+   "editeLe": 1790430295138,
+   "original": true
   },
   "architectes_herzog-de-meuron": {
    "cx": 0.5556,

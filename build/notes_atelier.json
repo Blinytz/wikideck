@@ -46037,20 +46037,18 @@
    "original": true
   },
   "cuisines-du-monde_thieboudiene": {
-   "cx": 0.5,
+   "cx": 0.4941,
    "cy": 0.5,
    "w": 0.7469,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444535056,
+   "original": true
   },
   "cuisines-du-monde_mafe": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444538193,
+   "original": true
   },
   "cuisines-du-monde_curry": {
    "cx": 0.5,

@@ -49481,20 +49481,18 @@
    "original": true
   },
   "monuments-emblematiques_hotel-des-invalides": {
-   "cx": 0.5,
+   "cx": 0.5554,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1790414093024,
+   "original": true
   },
   "monuments-emblematiques_palais-du-louvre": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414096985,
+   "original": true
   },
   "monuments-emblematiques_pont-charles": {
    "cx": 0.5,

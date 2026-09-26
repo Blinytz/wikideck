@@ -35117,12 +35117,11 @@
    "original": true
   },
   "races-de-chat_european-shorthair": {
-   "cx": 0.5,
+   "cx": 0.4142,
    "cy": 0.5,
    "w": 0.8284,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422468999,
+   "original": true
   },
   "races-de-chat_singapura": {
    "cx": 0.5,

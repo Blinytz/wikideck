@@ -38271,19 +38271,17 @@
   },
   "mythologie-hindoue_duryodhana": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3828,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425404371,
+   "original": true
   },
   "mythologie-hindoue_yudhishthira": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425407400,
+   "original": true
   },
   "mythologie-hindoue_jatayu": {
    "cx": 0.5,

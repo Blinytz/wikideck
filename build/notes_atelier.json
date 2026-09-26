@@ -49495,12 +49495,11 @@
    "original": true
   },
   "monuments-emblematiques_pont-charles": {
-   "cx": 0.5,
+   "cx": 0.4455,
    "cy": 0.5,
    "w": 0.8911,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414101279,
+   "original": true
   },
   "monuments-emblematiques_ponte-vecchio": {
    "cx": 0.5,

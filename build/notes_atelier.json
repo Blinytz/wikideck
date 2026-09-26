@@ -39045,11 +39045,10 @@
   },
   "creatures-et-legendes_melusine-fee": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4406,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423823080,
+   "original": true
   },
   "creatures-et-legendes_sorciere": {
    "cx": 0.5,

@@ -38752,17 +38752,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8886,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429137658,
+   "original": true
   },
   "evenements-mythiques_argonautes": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5587,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429141682,
+   "original": true
   },
   "evenements-mythiques_odyssee": {
    "cx": 0.5,

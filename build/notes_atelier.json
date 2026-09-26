@@ -42191,12 +42191,11 @@
    "original": true
   },
   "personnages-animation_peppa-pig": {
-   "cx": 0.625,
+   "cx": 0.4855,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428859863,
+   "original": true
   },
   "personnages-animation_hello-kitty": {
    "cx": 0.5,

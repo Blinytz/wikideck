@@ -41791,20 +41791,18 @@
    "original": true
   },
   "personnages-bd-comics_bouffon-vert": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5455,
+   "cy": 0.3129,
+   "w": 0.9091,
+   "editeLe": 1790427417217,
+   "original": true
   },
   "personnages-bd-comics_docteur-octopus": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4422,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427420387,
+   "original": true
   },
   "personnages-bd-comics_mystique-comics": {
    "cx": 0.5,

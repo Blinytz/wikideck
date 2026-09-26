@@ -43579,19 +43579,17 @@
   },
   "tableaux-celebres_l-enfant-bleu-gainsborough": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3421,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417463801,
+   "original": true
   },
   "tableaux-celebres_vertumne-arcimboldo": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3046,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417468456,
+   "original": true
   },
   "tableaux-celebres_vue-du-grand-canal-canaletto": {
    "cx": 0.5,

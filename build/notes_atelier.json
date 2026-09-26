@@ -40275,19 +40275,17 @@
   },
   "auteurs-classiques_francois-villon": {
    "cx": 0.5,
-   "cy": 0.4082,
+   "cy": 0.4411,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415956614,
+   "original": true
   },
   "auteurs-classiques_pierre-de-ronsard": {
    "cx": 0.5,
-   "cy": 0.4297,
+   "cy": 0.3984,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415960366,
+   "original": true
   },
   "auteurs-classiques_francois-de-la-rochefoucauld": {
    "cx": 0.5,

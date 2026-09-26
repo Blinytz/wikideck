@@ -41444,11 +41444,10 @@
   },
   "personnages-jeu-video_captain-falcon": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3286,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427941024,
+   "original": true
   },
   "personnages-jeu-video_pit-kid-icarus": {
    "cx": 0.5,

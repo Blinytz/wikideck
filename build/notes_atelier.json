@@ -38588,11 +38588,10 @@
   },
   "mythologie-nordique_regin": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4406,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424887030,
+   "original": true
   },
   "mythologie-nordique_audhumla": {
    "cx": 0.5,

@@ -42326,20 +42326,18 @@
    "auto": true
   },
   "personnages-cinema-serie_chewbacca": {
-   "cx": 0.5,
+   "cx": 0.5047,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427138346,
+   "original": true
   },
   "personnages-cinema-serie_obi-wan-kenobi": {
    "cx": 0.45,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427141207,
+   "original": true
   },
   "personnages-cinema-serie_palpatine": {
    "cx": 0.5,

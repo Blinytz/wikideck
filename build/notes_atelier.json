@@ -40726,11 +40726,10 @@
   },
   "figures-emancipation_tupac-amaru-ii": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3385,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446090054,
+   "original": true
   },
   "figures-emancipation_hubertine-auclert": {
    "cx": 0.5,

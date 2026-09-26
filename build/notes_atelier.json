@@ -44316,20 +44316,18 @@
    "original": true
   },
   "mammiferes_dugong": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5065,
+   "cy": 0.4304,
+   "w": 0.8264,
+   "editeLe": 1790417864911,
+   "original": true
   },
   "mammiferes_loutre-de-mer": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417869266,
+   "original": true
   },
   "mammiferes_chacal-dore": {
    "cx": 0.5,
@@ -54670,7 +54668,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790417848772,
-   "original": false
+   "original": true
   }
  },
  "notes": [

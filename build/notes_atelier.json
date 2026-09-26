@@ -52018,19 +52018,17 @@
   },
   "grands-compositeurs_benjamin-britten": {
    "cx": 0.5,
-   "cy": 0.4838,
+   "cy": 0.444,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429575460,
+   "original": true
   },
   "grands-compositeurs_manuel-de-falla": {
-   "cx": 0.4888,
+   "cx": 0.4935,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429579116,
+   "original": true
   },
   "grands-compositeurs_isaac-albeniz": {
    "cx": 0.5,

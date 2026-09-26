@@ -41486,19 +41486,17 @@
   },
   "personnages-jeu-video_evoli-et-ses-evolutions": {
    "cx": 0.5,
-   "cy": 0.2756,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790428007165,
+   "original": true
   },
   "personnages-jeu-video_tails-sonic-the-hedgehog": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7281,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428011005,
+   "original": true
   },
   "personnages-jeu-video_knuckles": {
    "cx": 0.5,

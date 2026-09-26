@@ -46331,18 +46331,16 @@
   "plats-francais_magret": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790444157899,
+   "original": true
   },
   "plats-francais_canard-a-l-orange": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444160886,
+   "original": true
   },
   "plats-francais_tripes-a-la-mode-de-caen": {
    "cx": 0.5,

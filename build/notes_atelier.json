@@ -43340,19 +43340,17 @@
   },
   "sculptures-celebres_balloon-dog": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4676,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430158201,
+   "original": true
   },
   "sculptures-celebres_ange-du-nord": {
-   "cx": 0.5,
+   "cx": 0.4443,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430161725,
+   "original": true
   },
   "sculptures-celebres_taureau-de-wall-street": {
    "cx": 0.5,

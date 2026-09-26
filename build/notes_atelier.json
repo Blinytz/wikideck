@@ -41262,11 +41262,10 @@
   },
   "personnages-litterature_holden-caulfield": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3355,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426836646,
+   "original": true
   },
   "personnages-litterature_jay-gatsby": {
    "cx": 0.5,

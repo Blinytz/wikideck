@@ -45301,20 +45301,18 @@
    "original": true
   },
   "age-dor-du-jeu-video_tekken-jeu-video": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5075,
+   "cy": 0.4961,
+   "w": 0.9091,
+   "editeLe": 1790424628810,
+   "original": true
   },
   "age-dor-du-jeu-video_worms-jeu-video": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424632293,
+   "original": true
   },
   "age-dor-du-jeu-video_secret-of-mana": {
    "cx": 0.5,

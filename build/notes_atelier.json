@@ -40439,19 +40439,17 @@
   },
   "philosophes_wang-yangming": {
    "cx": 0.5,
-   "cy": 0.38,
+   "cy": 0.4987,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790445111031,
+   "original": true
   },
   "philosophes_zhu-xi": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6549,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790445114524,
+   "original": true
   },
   "philosophes_dogen": {
    "cx": 0.5,

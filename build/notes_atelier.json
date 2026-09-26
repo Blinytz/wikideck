@@ -41806,19 +41806,17 @@
   },
   "personnages-bd-comics_mystique-comics": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4423,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427423775,
+   "original": true
   },
   "personnages-bd-comics_supergirl-comics": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3938,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427427252,
+   "original": true
   },
   "personnages-bd-comics_green-arrow": {
    "cx": 0.5,

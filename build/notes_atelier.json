@@ -37932,11 +37932,10 @@
   },
   "mythologie-celtique_ossian": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4125,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425597200,
+   "original": true
   },
   "mythologie-celtique_deirdre": {
    "cx": 0.5,

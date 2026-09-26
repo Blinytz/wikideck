@@ -52039,19 +52039,17 @@
   },
   "grands-compositeurs_joaquin-rodrigo": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.3598,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429585786,
+   "original": true
   },
   "grands-compositeurs_heitor-villa-lobos": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429588714,
+   "original": true
   },
   "grands-compositeurs_francis-poulenc": {
    "cx": 0.5,

@@ -53914,12 +53914,11 @@
    "original": true
   },
   "inventions-importantes_arme-a-feu": {
-   "cx": 0.5,
+   "cx": 0.4488,
    "cy": 0.5,
-   "w": 0.9525,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8197,
+   "editeLe": 1790417689997,
+   "original": true
   },
   "inventions-importantes_canon-artillerie": {
    "cx": 0.5,

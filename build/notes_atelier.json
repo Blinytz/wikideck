@@ -45232,11 +45232,10 @@
   },
   "age-dor-du-jeu-video_double-dragon-jeu-video-1987": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5016,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424548177,
+   "original": true
   },
   "age-dor-du-jeu-video_lemmings": {
    "cx": 0.5,

@@ -42438,12 +42438,11 @@
    "original": true
   },
   "personnages-cinema-serie_ca-personnage": {
-   "cx": 0.45,
+   "cx": 0.4416,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427248332,
+   "original": true
   },
   "personnages-cinema-serie_leatherface": {
    "cx": 0.555,

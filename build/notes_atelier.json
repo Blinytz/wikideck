@@ -43361,11 +43361,10 @@
   },
   "sculptures-celebres_statue-de-la-mere-patrie-volgograd": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4116,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430171162,
+   "original": true
   },
   "sculptures-celebres_kotoku-in": {
    "cx": 0.5,

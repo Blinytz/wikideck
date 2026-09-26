@@ -39244,11 +39244,10 @@
   },
   "mythologie-egyptienne_montou": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4109,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425278197,
+   "original": true
   },
   "mythologie-egyptienne_heqet": {
    "cx": 0.5,
@@ -39304,10 +39303,10 @@
    "original": true
   },
   "mythologie-egyptienne_min-dieu": {
-   "cx": 0.4967,
-   "cy": 0.326,
-   "w": 0.8264,
-   "editeLe": 1790425227214,
+   "cx": 0.6654,
+   "cy": 0.3757,
+   "w": 0.5635,
+   "editeLe": 1790425274429,
    "original": true
   },
   "mythologie-egyptienne_hapy": {

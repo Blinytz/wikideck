@@ -42509,18 +42509,16 @@
   "personnages-manga-anime_olive-et-tom": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7492,
+   "editeLe": 1790428959613,
+   "original": true
   },
   "personnages-manga-anime_ryo-saeba": {
-   "cx": 0.5,
+   "cx": 0.375,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428963314,
+   "original": true
   },
   "personnages-manga-anime_inu-yasha": {
    "cx": 0.5,

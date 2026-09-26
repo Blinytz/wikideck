@@ -39919,12 +39919,11 @@
    "original": true
   },
   "auteurs-modernes_aime-cesaire": {
-   "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5422,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790416305004,
+   "original": true
   },
   "auteurs-modernes_blaise-cendrars": {
    "cx": 0.5,

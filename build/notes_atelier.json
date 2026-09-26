@@ -44376,17 +44376,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417899698,
+   "original": true
   },
   "mammiferes_tarsier": {
-   "cx": 0.5,
+   "cx": 0.4958,
    "cy": 0.5,
    "w": 0.8858,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417903824,
+   "original": true
   },
   "mammiferes_callithrix-jacchus": {
    "cx": 0.5,

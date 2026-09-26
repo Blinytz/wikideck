@@ -42427,17 +42427,15 @@
    "cx": 0.5,
    "cy": 0.4,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427241458,
+   "original": true
   },
   "personnages-cinema-serie_chucky": {
    "cx": 0.45,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427243959,
+   "original": true
   },
   "personnages-cinema-serie_ca-personnage": {
    "cx": 0.45,

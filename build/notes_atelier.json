@@ -38567,19 +38567,17 @@
   },
   "mythologie-nordique_angrboda": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3156,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424869768,
+   "original": true
   },
   "mythologie-nordique_brunehilde-mythologie": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424873278,
+   "original": true
   },
   "mythologie-nordique_volund": {
    "cx": 0.5,

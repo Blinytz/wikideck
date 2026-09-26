@@ -41500,19 +41500,17 @@
   },
   "personnages-jeu-video_knuckles": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.2956,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428047001,
+   "original": true
   },
   "personnages-jeu-video_eggman": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428050133,
+   "original": true
   },
   "personnages-jeu-video_shadow-sonic": {
    "cx": 0.5,

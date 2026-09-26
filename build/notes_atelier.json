@@ -39115,19 +39115,17 @@
   },
   "creatures-et-legendes_lutin": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.4234,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423944307,
+   "original": true
   },
   "creatures-et-legendes_serpent-de-mer": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423947762,
+   "original": true
   },
   "creatures-et-legendes_succube": {
    "cx": 0.5,

@@ -49509,20 +49509,18 @@
    "original": true
   },
   "monuments-emblematiques_palais-des-doges": {
-   "cx": 0.5,
+   "cx": 0.5538,
    "cy": 0.5,
    "w": 0.8925,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414109093,
+   "original": true
   },
   "monuments-emblematiques_dome-de-milan": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8242,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414111586,
+   "original": true
   },
   "monuments-emblematiques_chateau-de-windsor": {
    "cx": 0.5,

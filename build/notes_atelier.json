@@ -51429,11 +51429,10 @@
   },
   "football-ere-moderne_alexia-putellas": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790423691576,
+   "original": true
   },
   "football-ere-moderne_aitana-bonmati": {
    "cx": 0.5,

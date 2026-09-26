@@ -37537,12 +37537,11 @@
    "original": true
   },
   "creatures-prehistoriques_eohippus": {
-   "cx": 0.5,
+   "cx": 0.5308,
    "cy": 0.5,
    "w": 0.9385,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415700651,
+   "original": true
   },
   "reptiles-et-amphibiens_macrochelys-temminckii": {
    "cx": 0.5,

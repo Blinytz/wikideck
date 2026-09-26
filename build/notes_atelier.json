@@ -43234,11 +43234,10 @@
   },
   "sculptures-celebres_statue-equestre-de-marc-aurele": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3828,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430051662,
+   "original": true
   },
   "sculptures-celebres_louve-capitoline": {
    "cx": 0.5,

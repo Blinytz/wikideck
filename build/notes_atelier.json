@@ -41467,9 +41467,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427966987,
+   "original": true
   },
   "personnages-jeu-video_salameche-et-ses-evolutions": {
    "cx": 0.5,
@@ -41727,12 +41726,11 @@
    "original": true
   },
   "personnages-jeu-video_marie-animal-crossing": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5034,
+   "cy": 0.5455,
+   "w": 0.6818,
+   "editeLe": 1790427963691,
+   "original": true
   },
   "personnages-bd-comics_captain-america": {
    "cx": 0.5,

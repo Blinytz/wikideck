@@ -44267,12 +44267,11 @@
    "original": true
   },
   "mammiferes_impala": {
-   "cx": 0.5,
+   "cx": 0.4327,
    "cy": 0.5,
    "w": 0.8653,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417827445,
+   "original": true
   },
   "mammiferes_oryx-gazelle": {
    "cx": 0.5,

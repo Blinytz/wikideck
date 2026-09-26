@@ -39390,11 +39390,10 @@
   },
   "mythologies-africaines_tokoloshe": {
    "cx": 0.5,
-   "cy": 0.55,
-   "w": 0.64,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790426412467,
+   "original": false
   },
   "lieux-legendaires_tartare-mythologie": {
    "cx": 0.5,

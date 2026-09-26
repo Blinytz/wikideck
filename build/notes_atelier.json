@@ -49816,20 +49816,18 @@
    "original": true
   },
   "architectes_herzog-de-meuron": {
-   "cx": 0.5556,
+   "cx": 0.4931,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430312243,
+   "original": true
   },
   "architectes_daniel-libeskind": {
    "cx": 0.5,
-   "cy": 0.5241,
+   "cy": 0.4444,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430315724,
+   "original": true
   },
   "architectes_peter-zumthor": {
    "cx": 0.5,

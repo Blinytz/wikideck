@@ -47029,11 +47029,10 @@
   },
   "arbres_arbre-a-pain": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7411,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5574,
+   "w": 1,
+   "editeLe": 1790430526434,
+   "original": true
   },
   "arbres_flamboyant-bleu": {
    "cx": 0.5,

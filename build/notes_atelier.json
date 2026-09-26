@@ -47091,12 +47091,11 @@
    "original": true
   },
   "arbres_agathis-australis": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790430692898,
+   "original": true
   },
   "arbres_pseudotsuga-menziesii": {
    "cx": 0.5,

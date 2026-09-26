@@ -42012,17 +42012,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7825,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428436458,
+   "original": true
   },
   "personnages-animation_kaa": {
-   "cx": 0.5,
+   "cx": 0.6087,
    "cy": 0.5,
    "w": 0.7825,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428439644,
+   "original": true
   },
   "personnages-animation_pocahontas-disney": {
    "cx": 0.5,

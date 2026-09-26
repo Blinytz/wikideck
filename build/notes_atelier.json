@@ -51585,11 +51585,10 @@
   },
   "musique-populaire_rihanna": {
    "cx": 0.5,
-   "cy": 0.4541,
+   "cy": 0.3859,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429885716,
+   "original": true
   },
   "musique-populaire_taylor-swift": {
    "cx": 0.4446,

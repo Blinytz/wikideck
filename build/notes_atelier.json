@@ -47085,11 +47085,10 @@
   },
   "arbres_wollemia-nobilis": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.625,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430660645,
+   "original": true
   },
   "arbres_agathis-australis": {
    "cx": 0.5,

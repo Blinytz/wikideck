@@ -38023,11 +38023,10 @@
   },
   "mythologie-celtique_gwydion": {
    "cx": 0.5,
-   "cy": 0.375,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.8889,
+   "editeLe": 1790425863971,
+   "original": true
   },
   "mythologie-celtique_esus": {
    "cx": 0.5,

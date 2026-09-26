@@ -41318,11 +41318,10 @@
   },
   "personnages-litterature_katniss-everdeen": {
    "cx": 0.5,
-   "cy": 0.4,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.9385,
+   "editeLe": 1790426991248,
+   "original": true
   },
   "personnages-litterature_lisbeth-salander": {
    "cx": 0.5,

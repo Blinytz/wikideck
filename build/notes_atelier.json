@@ -47808,12 +47808,11 @@
    "original": true
   },
   "oiseaux_buse-variable": {
-   "cx": 0.5,
+   "cx": 0.4447,
    "cy": 0.5,
    "w": 0.8893,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417967769,
+   "original": true
   },
   "oiseaux_milan-royal": {
    "cx": 0.5,
@@ -54678,6 +54677,13 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790417955369,
+   "original": false
+  },
+  "oiseaux_chouette-hulotte": {
+   "cx": 0.5,
+   "cy": 0.3947,
+   "w": 1,
+   "editeLe": 1790417971844,
    "original": false
   }
  },

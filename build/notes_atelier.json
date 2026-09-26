@@ -43326,11 +43326,10 @@
   },
   "sculptures-celebres_oiseau-dans-l-espace": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3239,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430149552,
+   "original": false
   },
   "sculptures-celebres_nana-niki-de-saint-phalle": {
    "cx": 0.5,

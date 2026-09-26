@@ -49740,11 +49740,10 @@
   },
   "architectes_andre-le-notre": {
    "cx": 0.5,
-   "cy": 0.2943,
+   "cy": 0.3677,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430198558,
+   "original": true
   },
   "architectes_sebastien-le-prestre-de-vauban": {
    "cx": 0.5,

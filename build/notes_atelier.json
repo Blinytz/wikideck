@@ -41953,11 +41953,10 @@
   },
   "personnages-bd-comics_blacksad": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.4443,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427835816,
+   "original": true
   },
   "personnages-bd-comics_lanfeust-de-troy": {
    "cx": 0.5,

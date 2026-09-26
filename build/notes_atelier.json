@@ -54667,6 +54667,20 @@
    "w": 1,
    "editeLe": 1790417848772,
    "original": true
+  },
+  "mammiferes_loup-a-criniere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883,
+   "editeLe": 1790417883132,
+   "original": false
+  },
+  "mammiferes_serval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9333,
+   "editeLe": 1790417886423,
+   "original": false
   }
  },
  "notes": [

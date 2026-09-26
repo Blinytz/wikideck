@@ -49783,11 +49783,10 @@
   },
   "empires-et-civilisations_sriwijaya": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4688,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790414338494,
+   "original": true
   },
   "empires-et-civilisations_empire-marathe": {
    "cx": 0.5,

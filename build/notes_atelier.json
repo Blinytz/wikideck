@@ -41876,11 +41876,10 @@
   },
   "personnages-bd-comics_professeur-tournesol": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3581,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427585262,
+   "original": true
   },
   "personnages-bd-comics_bianca-castafiore": {
    "cx": 0.5,

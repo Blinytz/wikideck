@@ -44355,17 +44355,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417889590,
+   "original": true
   },
   "mammiferes_herpestidae": {
-   "cx": 0.5,
+   "cx": 0.41,
    "cy": 0.5,
    "w": 0.82,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417893429,
+   "original": true
   },
   "mammiferes_gulo-gulo": {
    "cx": 0.5,

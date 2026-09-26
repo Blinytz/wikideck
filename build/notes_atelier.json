@@ -38815,12 +38815,11 @@
    "auto": true
   },
   "evenements-mythiques_mythe-d-osiris": {
-   "cx": 0.5,
+   "cx": 0.5406,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429179043,
+   "original": true
   },
   "evenements-mythiques_fondation-de-rome": {
    "cx": 0.5,

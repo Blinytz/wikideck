@@ -53971,11 +53971,10 @@
   },
   "inventions-importantes_photocopieur": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5563,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417753140,
+   "original": true
   },
   "inventions-importantes_langage-de-programmation": {
    "cx": 0.5,

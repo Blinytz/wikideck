@@ -41960,11 +41960,10 @@
   },
   "personnages-bd-comics_lanfeust-de-troy": {
    "cx": 0.5,
-   "cy": 0.6,
+   "cy": 0.5437,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427840022,
+   "original": true
   },
   "personnages-bd-comics_mafalda": {
    "cx": 0.5,

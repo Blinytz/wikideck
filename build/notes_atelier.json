@@ -41521,11 +41521,10 @@
   },
   "personnages-jeu-video_ken-masters": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.2896,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428083097,
+   "original": true
   },
   "personnages-jeu-video_m-bison": {
    "cx": 0.5,

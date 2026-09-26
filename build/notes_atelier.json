@@ -53833,17 +53833,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417520099,
+   "original": true
   },
   "inventions-importantes_stethoscope": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9104,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417522294,
+   "original": true
   },
   "inventions-importantes_diode-electroluminescente": {
    "cx": 0.5,

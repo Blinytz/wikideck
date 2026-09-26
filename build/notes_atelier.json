@@ -44260,12 +44260,11 @@
    "original": true
   },
   "mammiferes_b-uf-musque": {
-   "cx": 0.5,
+   "cx": 0.55,
    "cy": 0.5,
    "w": 0.9,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417823687,
+   "original": true
   },
   "mammiferes_impala": {
    "cx": 0.5,

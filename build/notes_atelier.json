@@ -6,7 +6,8 @@
   "fleuves-mers-et-oceans_mer-baltique": "revoir",
   "langues-du-monde_russe": "ok",
   "inventeurs-et-ingenieurs_martin-cooper": "revoir",
-  "mammiferes_dingo-chien-sauvage": "revoir"
+  "mammiferes_dingo-chien-sauvage": "revoir",
+  "oiseaux_tourterelle-turque": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -47733,17 +47734,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9167,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417917587,
+   "original": true
   },
   "oiseaux_tourterelle-turque": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417922902,
+   "original": true
   },
   "oiseaux_alouette-des-champs": {
    "cx": 0.5,
@@ -54674,7 +54673,7 @@
    "cy": 0.5,
    "w": 0.9333,
    "editeLe": 1790417886423,
-   "original": false
+   "original": true
   }
  },
  "notes": [

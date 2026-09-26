@@ -37456,15 +37456,14 @@
    "cy": 0.5,
    "w": 0.9883,
    "editeLe": 1790430398198,
-   "original": false
+   "original": true
   },
   "champignons_saccharomyces-cerevisiae": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8092,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430401613,
+   "original": true
   },
   "creatures-prehistoriques_ammonoidea": {
    "cx": 0.5,

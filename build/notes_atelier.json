@@ -41897,11 +41897,10 @@
   },
   "personnages-bd-comics_panoramix": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4781,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427668080,
+   "original": true
   },
   "personnages-bd-comics_freres-dalton-lucky-luke": {
    "cx": 0.5,
@@ -41994,9 +41993,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427664859,
+   "original": true
   },
   "personnages-bd-comics_le-chat-bande-dessinee": {
    "cx": 0.5,

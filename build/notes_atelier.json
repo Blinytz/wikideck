@@ -45905,11 +45905,10 @@
   },
   "cuisines-du-monde_churro": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3776,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444444022,
+   "original": true
   },
   "cuisines-du-monde_pastel-de-nata": {
    "cx": 0.5,

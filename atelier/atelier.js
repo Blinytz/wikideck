@@ -381,9 +381,48 @@ function carteVisible(carte) {
   return true;
 }
 
+// Reconstruire la grille (8 000 vignettes) en laissant le navigateur deviner
+// où revenir le faisait parfois sauter au milieu de la liste après un
+// enregistrement : la carte ouverte, et avec elle tout le repère visuel,
+// étaient remplacées d'un bloc. On retient donc la carte de référence (celle
+// de l'éditeur, sinon la première visible) et sa hauteur à l'écran, et on la
+// remet exactement là après la reconstruction. Si elle a quitté la grille
+// (filtre), on se cale sur la carte qui la suivait.
+function memoriserAncre(conteneur) {
+  if (!conteneur.offsetParent) return null;             // vue masquée
+  const vignettes = conteneur.querySelectorAll('.vignette');
+  if (!vignettes.length) return null;
+  let el = carteEnEdition
+    && conteneur.querySelector(`.vignette[data-id="${CSS.escape(carteEnEdition.id)}"]`);
+  if (!el) {
+    el = [...vignettes].find(v => v.getBoundingClientRect().bottom > 60);
+  }
+  if (!el) return null;
+  const ids = [];
+  for (let n = el; n && ids.length < 40; n = n.nextElementSibling) ids.push(n.dataset.id);
+  return { ids, top: el.getBoundingClientRect().top };
+}
+
+function restaurerAncre(conteneur, ancre) {
+  if (!ancre) return;
+  const recaler = () => {
+    for (const id of ancre.ids) {
+      const el = id && conteneur.querySelector(`.vignette[data-id="${CSS.escape(id)}"]`);
+      if (el) {
+        const d = el.getBoundingClientRect().top - ancre.top;
+        if (Math.abs(d) > 1) window.scrollBy(0, d);
+        return;
+      }
+    }
+  };
+  recaler();
+  requestAnimationFrame(recaler);        // après la mise en page des planches
+}
+
 function rendreGrille() {
   const fc = $('#f-collection').value;
   const conteneur = $('#vue-grille');
+  const ancre = memoriserAncre(conteneur);
   const parts = [];
   let total = 0;
   const sommaire = [];
@@ -433,6 +472,7 @@ function rendreGrille() {
      <p class="doux">${total} carte(s) affichée(s)</p>` + parts.join('');
   chargeur.observer(conteneur);
   observerPlanches(conteneur);
+  restaurerAncre(conteneur, ancre);
 
   conteneur.onclick = (ev) => {
     const btnStatut = ev.target.closest('[data-statut]');

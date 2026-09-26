@@ -205,3 +205,5 @@ h2 small { color: var(--doux); font-weight: 600; }
 .choix-candidates button:hover { border-color: var(--accent-2); }
 .choix-candidates img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; }
 .choix-candidates .taille { font-size: 9px; color: var(--doux); display: block; padding: 2px 0; }
+/* la position est recalée à la main après chaque reconstruction de la grille */
+#vue-grille { overflow-anchor: none; }

@@ -43481,11 +43481,10 @@
   },
   "tableaux-celebres_au-moulin-rouge": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4606,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417393801,
+   "original": true
   },
   "tableaux-celebres_le-berceau": {
    "cx": 0.5,

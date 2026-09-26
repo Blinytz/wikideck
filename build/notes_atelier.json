@@ -41143,11 +41143,10 @@
   },
   "personnages-litterature_aramis": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4063,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426649422,
+   "original": true
   },
   "personnages-litterature_milady-de-winter": {
    "cx": 0.5,
@@ -41430,11 +41429,10 @@
   },
   "personnages-litterature_porthos": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.5855,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426645855,
+   "original": true
   },
   "personnages-litterature_eugene-de-rastignac": {
    "cx": 0.5,

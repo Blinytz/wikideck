@@ -45476,20 +45476,18 @@
    "original": true
   },
   "jeu-video-moderne_detroit-become-human": {
-   "cx": 0.5,
+   "cx": 0.4602,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424743638,
+   "original": true
   },
   "jeu-video-moderne_horizon-zero-dawn": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424746542,
+   "original": true
   },
   "jeu-video-moderne_astro-bot": {
    "cx": 0.5,

@@ -38805,12 +38805,11 @@
    "original": true
   },
   "evenements-mythiques_ramayana": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7833,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5132,
+   "cy": 0.4869,
+   "w": 0.6474,
+   "editeLe": 1790429193982,
+   "original": true
   },
   "evenements-mythiques_mythe-d-osiris": {
    "cx": 0.5406,
@@ -38830,9 +38829,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9268,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429196685,
+   "original": true
   },
   "croyances-et-notions-sacrees_dharma": {
    "cx": 0.5,

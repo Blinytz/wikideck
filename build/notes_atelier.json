@@ -50580,11 +50580,10 @@
   },
   "dirigeants-contemporains_kim-il-sung": {
    "cx": 0.5,
-   "cy": 0.3761,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790413742096,
+   "original": true
   },
   "dirigeants-contemporains_lee-kuan-yew": {
    "cx": 0.5,

@@ -40046,11 +40046,10 @@
   },
   "auteurs-modernes_heinrich-boll": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790416471532,
+   "original": true
   },
   "auteurs-modernes_patrick-suskind": {
    "cx": 0.5739,

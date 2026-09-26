@@ -47056,20 +47056,18 @@
    "original": true
   },
   "arbres_fromager-arbre": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4945,
+   "cy": 0.4545,
+   "w": 0.9091,
+   "editeLe": 1790430620779,
+   "original": true
   },
   "arbres_arganier": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8893,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430625365,
+   "original": true
   },
   "arbres_karite": {
    "cx": 0.5,

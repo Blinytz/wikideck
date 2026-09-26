@@ -41229,17 +41229,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426769963,
+   "original": true
   },
   "personnages-litterature_albus-dumbledore": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426772900,
+   "original": true
   },
   "personnages-litterature_voldemort": {
    "cx": 0.5,

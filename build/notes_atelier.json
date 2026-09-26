@@ -50637,11 +50637,10 @@
   },
   "inventeurs-et-ingenieurs_heron-d-alexandrie": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.9767,
+   "editeLe": 1790417220637,
+   "original": true
   },
   "inventeurs-et-ingenieurs_nicolas-joseph-cugnot": {
    "cx": 0.5,

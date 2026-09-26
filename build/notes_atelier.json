@@ -37869,11 +37869,10 @@
   },
   "mythologie-celtique_merlin": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4547,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425487799,
+   "original": true
   },
   "mythologie-celtique_fee-morgane": {
    "cx": 0.5,

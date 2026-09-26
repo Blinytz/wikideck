@@ -41820,11 +41820,10 @@
   },
   "personnages-bd-comics_green-arrow": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.328,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427431400,
+   "original": true
   },
   "personnages-bd-comics_bane-comics": {
    "cx": 0.5,

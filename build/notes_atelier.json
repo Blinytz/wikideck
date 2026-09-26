@@ -49915,20 +49915,18 @@
    "original": true
   },
   "dynasties-regnantes_maison-vasa": {
-   "cx": 0.5,
+   "cx": 0.4819,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415096922,
+   "original": true
   },
   "dynasties-regnantes_riourikides": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415100540,
+   "original": true
   },
   "dynasties-regnantes_dynastie-chakri": {
    "cx": 0.5,

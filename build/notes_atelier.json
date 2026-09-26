@@ -41638,12 +41638,11 @@
    "original": true
   },
   "personnages-jeu-video_albert-wesker": {
-   "cx": 0.625,
+   "cx": 0.4729,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1790428217748,
+   "original": true
   },
   "personnages-jeu-video_chris-redfield": {
    "cx": 0.5,

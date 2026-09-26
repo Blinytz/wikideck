@@ -41478,12 +41478,11 @@
    "original": true
   },
   "personnages-jeu-video_toudoudou-et-ses-evolutions": {
-   "cx": 0.5,
+   "cx": 0.4883,
    "cy": 0.5,
-   "w": 0.9128,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790427990692,
+   "original": true
   },
   "personnages-jeu-video_evoli-et-ses-evolutions": {
    "cx": 0.5,

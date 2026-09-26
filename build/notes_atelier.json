@@ -42347,20 +42347,18 @@
    "original": true
   },
   "personnages-cinema-serie_boba-fett": {
-   "cx": 0.55,
-   "cy": 0.5,
-   "w": 0.7556,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5165,
+   "cy": 0.5541,
+   "w": 0.6244,
+   "editeLe": 1790427149006,
+   "original": true
   },
   "personnages-cinema-serie_grogu": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427152110,
+   "original": true
   },
   "personnages-cinema-serie_r2-d2": {
    "cx": 0.5,

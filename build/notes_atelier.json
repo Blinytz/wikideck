@@ -45518,20 +45518,18 @@
    "original": true
   },
   "jeu-video-moderne_kerbal-space-program": {
-   "cx": 0.5,
+   "cx": 0.375,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424774288,
+   "original": true
   },
   "jeu-video-moderne_half-life-alyx": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.6567,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424777477,
+   "original": true
   },
   "jeu-video-moderne_hearthstone": {
    "cx": 0.5,

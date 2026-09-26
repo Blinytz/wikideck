@@ -40592,19 +40592,18 @@
    "original": true
   },
   "figures-religieuses_khadija-bint-khuwaylid": {
-   "cx": 0.5,
-   "cy": 0.5906,
-   "w": 1,
-   "editeLe": 1790445444337,
+   "cx": 0.5121,
+   "cy": 0.5536,
+   "w": 0.9091,
+   "editeLe": 1790445448910,
    "original": true
   },
   "figures-religieuses_omar-ibn-al-khattab": {
    "cx": 0.5,
    "cy": 0.375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790445451571,
+   "original": true
   },
   "figures-religieuses_bilal-ibn-rabah": {
    "cx": 0.5,

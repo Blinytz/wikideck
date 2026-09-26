@@ -41996,11 +41996,10 @@
   },
   "personnages-animation_fee-clochette": {
    "cx": 0.5,
-   "cy": 0.33,
+   "cy": 0.4344,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428429959,
+   "original": true
   },
   "personnages-animation_jiminy-cricket": {
    "cx": 0.5,

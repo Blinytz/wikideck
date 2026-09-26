@@ -869,7 +869,7 @@ AJOUTS = {
         ('Florence', 'Florence'), ('Milan', 'Milan'), ('Naples', 'Naples'), ('Bruxelles', 'Bruxelles'),
         ('Édimbourg', 'Édimbourg'), ('Dublin', 'Dublin'), ('Copenhague', 'Copenhague'), ('Stockholm', 'Stockholm'),
         ('Varsovie', 'Varsovie'), ('Cracovie', 'Cracovie'), ('Budapest', 'Budapest'), ('Kiev', 'Kiev'),
-        ('Marseille', 'Marseille'), ('Lyon', 'Lyon'), ('Strasbourg', 'Strasbourg'), ('Bordeaux', 'Bordeaux'),
+        ('Marseille', 'Marseille'), ('Lyon', 'Lyon'), ('Toulouse', 'Toulouse'), ('Strasbourg', 'Strasbourg'), ('Bordeaux', 'Bordeaux'),
         ('Alexandrie', 'Alexandrie'), ('Fès', 'Fès'), ('Alger', 'Alger'), ('Tunis', 'Tunis'), ('Dakar', 'Dakar'),
         ('Kinshasa', 'Kinshasa'), ('Johannesburg', 'Johannesburg'), ('La Mecque', 'La Mecque'), ('Téhéran', 'Téhéran'),
         ('Varanasi', 'Varanasi'), ('Calcutta', 'Calcutta'), ('Jaipur', 'Jaipur'), ('Hanoï', 'Hanoï'), ('Jakarta', 'Jakarta'),

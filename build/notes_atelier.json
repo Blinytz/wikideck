@@ -53646,6 +53646,14 @@
    "w": 0.9267,
    "editeLe": 1790446458447,
    "original": true
+  },
+  "villes-du-monde_toulouse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   }
  },
  "notes": [

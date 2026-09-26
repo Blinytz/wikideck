@@ -49703,12 +49703,11 @@
    "original": true
   },
   "sites-antiques_monte-alban": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413968903,
+   "original": true
   },
   "sites-antiques_caral": {
    "cx": 0.5,

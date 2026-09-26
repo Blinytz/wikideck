@@ -1,0 +1,56 @@
+{
+ "sites-antiques_troie": {
+  "k": 8
+ },
+ "sites-antiques_babylone": {
+  "k": 1
+ },
+ "sites-antiques_jericho": {
+  "k": 2
+ },
+ "sites-antiques_catal-hoyuk": {
+  "k": 4
+ },
+ "sites-antiques_hattusa": {
+  "k": 11
+ },
+ "sites-antiques_pergame": {
+  "k": 4
+ },
+ "sites-antiques_jerash": {
+  "k": 11
+ },
+ "sites-antiques_saqqarah": {
+  "k": 10
+ },
+ "sites-antiques_temple-d-amon-louxor": {
+  "k": 6
+ },
+ "sites-antiques_phil": {
+  "k": 9
+ },
+ "sites-antiques_herculanum": {
+  "k": 2
+ },
+ "sites-antiques_mur-d-hadrien": {
+  "k": 7
+ },
+ "sites-antiques_copan": {
+  "k": 9
+ },
+ "sites-antiques_chan-chan": {
+  "k": 10
+ },
+ "sites-antiques_monte-alban": {
+  "k": 7
+ },
+ "sites-antiques_caral": {
+  "k": 8
+ },
+ "sites-antiques_sigiriya": {
+  "k": 10
+ },
+ "sites-antiques_bagan": {
+  "k": 2
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "architectes_vitruve": {
+  "k": 1
+ },
+ "architectes_bramante": {
+  "k": 10
+ },
+ "architectes_francesco-borromini": {
+  "k": 2
+ },
+ "architectes_jules-hardouin-mansart": {
+  "k": 0
+ },
+ "architectes_andre-le-notre": {
+  "k": 0
+ },
+ "architectes_sebastien-le-prestre-de-vauban": {
+  "k": 4
+ },
+ "architectes_claude-nicolas-ledoux": {
+  "k": 1
+ },
+ "architectes_georges-eugene-haussmann": {
+  "k": 4
+ },
+ "architectes_charles-garnier-architecte": {
+  "k": 1
+ },
+ "architectes_victor-horta": {
+  "k": 9
+ },
+ "architectes_louis-sullivan": {
+  "k": 1
+ },
+ "architectes_charles-rennie-mackintosh": {
+  "k": 0
+ },
+ "architectes_adolf-loos": {
+  "k": 0
+ },
+ "architectes_j-rn-utzon": {
+  "k": 4
+ },
+ "architectes_richard-rogers": {
+  "k": 1
+ },
+ "architectes_herzog-de-meuron": {
+  "k": 6
+ },
+ "architectes_daniel-libeskind": {
+  "k": 5
+ },
+ "architectes_peter-zumthor": {
+  "k": 10
+ },
+ "architectes_richard-buckminster-fuller": {
+  "k": 7
+ },
+ "architectes_eero-saarinen": {
+  "k": 11
+ },
+ "architectes_luis-barragan": {
+  "k": 3
+ },
+ "architectes_lina-bo-bardi": {
+  "k": 7
+ },
+ "architectes_diebedo-francis-kere": {
+  "k": 1
+ },
+ "architectes_kengo-kuma": {
+  "k": 5
+ },
+ "architectes_shigeru-ban": {
+  "k": 1
+ },
+ "architectes_charlotte-perriand": {
+  "k": 3
+ },
+ "architectes_jean-prouve": {
+  "k": 1
+ }
+}

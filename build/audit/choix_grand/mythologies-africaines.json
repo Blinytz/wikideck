@@ -1,0 +1,40 @@
+{
+ "mythologies-africaines_olokun": {
+  "k": 3
+ },
+ "mythologies-africaines_babalu-aye": {
+  "k": 5
+ },
+ "mythologies-africaines_oshossi": {
+  "k": 2
+ },
+ "mythologies-africaines_heviosso": {
+  "k": 11,
+  "cy": 0.32
+ },
+ "mythologies-africaines_sakpata": {
+  "k": 9
+ },
+ "mythologies-africaines_nzambi-divinite": {
+  "k": 2
+ },
+ "mythologies-africaines_kaggen": {
+  "k": 10
+ },
+ "mythologies-africaines_mwari": {
+  "k": 2,
+  "cy": 0.38
+ },
+ "mythologies-africaines_leza": {
+  "k": 7
+ },
+ "mythologies-africaines_nommo": {
+  "k": 4
+ },
+ "mythologies-africaines_tokoloshe": {
+  "k": 6,
+  "w": 0.64,
+  "cx": 0.5,
+  "cy": 0.55
+ }
+}

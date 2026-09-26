@@ -1,0 +1,109 @@
+{
+ "dieux-et-figures-mythologiques-grecques_themis": {
+  "k": 10,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_ocean-mythologie": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_hyperion-mythologie": {
+  "k": 1
+ },
+ "dieux-et-figures-mythologiques-grecques_leto": {
+  "k": 7
+ },
+ "dieux-et-figures-mythologiques-grecques_maia-pleiade": {
+  "k": 9
+ },
+ "dieux-et-figures-mythologiques-grecques_nike": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_iris-mythologie": {
+  "k": 2,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_eos": {
+  "k": 11,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_atalante": {
+  "k": 9,
+  "cy": 0.45
+ },
+ "dieux-et-figures-mythologiques-grecques_medee-mythologie": {
+  "k": 11,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_andromede-mythologie": {
+  "k": 11,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_adonis-mythologie": {
+  "k": 2
+ },
+ "dieux-et-figures-mythologiques-grecques_dioscures": {
+  "k": 3
+ },
+ "dieux-et-figures-mythologiques-grecques_midas": {
+  "k": 6,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_ajax-fils-de-telamon": {
+  "k": 6,
+  "cy": 0.35
+ },
+ "dieux-et-figures-mythologiques-grecques_enee": {
+  "k": 2
+ },
+ "dieux-et-figures-mythologiques-grecques_priam": {
+  "k": 2
+ },
+ "dieux-et-figures-mythologiques-grecques_andromaque": {
+  "k": 6
+ },
+ "dieux-et-figures-mythologiques-grecques_electre": {
+  "k": 2
+ },
+ "dieux-et-figures-mythologiques-grecques_clytemnestre": {
+  "k": 3
+ },
+ "dieux-et-figures-mythologiques-grecques_iphigenie": {
+  "k": 10
+ },
+ "dieux-et-figures-mythologiques-grecques_centaure": {
+  "k": 7,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_cyclope": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_gorgones": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_satyre": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_nymphe": {
+  "k": 11
+ },
+ "dieux-et-figures-mythologiques-grecques_talos-crete": {
+  "k": 8,
+  "cy": 0.4
+ },
+ "dieux-et-figures-mythologiques-grecques_mnemosyne": {
+  "k": 1,
+  "cy": 0.24
+ },
+ "dieux-et-figures-mythologiques-grecques_oreste": {
+  "k": 1,
+  "w": 0.7,
+  "cx": 0.49,
+  "cy": 0.5,
+  "note": "cadre serre sur le tableau de Bouguereau, marge blanche exclue"
+ },
+ "dieux-et-figures-mythologiques-grecques_phedre-mythologie": {
+  "k": 2,
+  "w": 0.95,
+  "cx": 0.47
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "mythologie-celtique_roi-arthur": {
+  "k": 7
+ },
+ "mythologie-celtique_merlin": {
+  "k": 3
+ },
+ "mythologie-celtique_fee-morgane": {
+  "k": 6,
+  "cy": 0.35
+ },
+ "mythologie-celtique_fee-viviane": {
+  "k": 10
+ },
+ "mythologie-celtique_lancelot-du-lac": {
+  "k": 0
+ },
+ "mythologie-celtique_guenievre": {
+  "k": 1
+ },
+ "mythologie-celtique_perceval": {
+  "k": 1
+ },
+ "mythologie-celtique_tristan-et-iseut": {
+  "k": 2
+ },
+ "mythologie-celtique_gauvain": {
+  "k": 2
+ },
+ "mythologie-celtique_mordred": {
+  "k": 0
+ },
+ "mythologie-celtique_ossian": {
+  "k": 8
+ },
+ "mythologie-celtique_deirdre": {
+  "k": 6
+ },
+ "mythologie-celtique_macha-mythologie-celtique": {
+  "k": 3
+ },
+ "mythologie-celtique_bodb": {
+  "k": 5
+ },
+ "mythologie-celtique_goibniu": {
+  "k": 3
+ },
+ "mythologie-celtique_diancecht": {
+  "k": 0
+ },
+ "mythologie-celtique_oidheadh-chloinne-lir": {
+  "k": 4,
+  "cy": 0.35
+ },
+ "mythologie-celtique_tuatha-de-danann": {
+  "k": 8
+ },
+ "mythologie-celtique_fomoires": {
+  "k": 11
+ },
+ "mythologie-celtique_bran-le-beni": {
+  "k": 10
+ },
+ "mythologie-celtique_taliesin": {
+  "k": 8
+ },
+ "mythologie-celtique_ceridwen": {
+  "k": 2,
+  "cy": 0.4
+ },
+ "mythologie-celtique_blodeuwedd": {
+  "k": 0
+ },
+ "mythologie-celtique_gwydion": {
+  "k": 8,
+  "cy": 0.35
+ },
+ "mythologie-celtique_esus": {
+  "k": 1
+ },
+ "mythologie-celtique_sucellos": {
+  "k": 1,
+  "w": 0.72,
+  "cx": 0.45,
+  "cy": 0.5,
+  "note": "cadre serre pour exclure le titre et la legende de l affiche"
+ }
+}

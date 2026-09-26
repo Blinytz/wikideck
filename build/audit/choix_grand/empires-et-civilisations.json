@@ -1,0 +1,59 @@
+{
+ "empires-et-civilisations_tiwanaku": {
+  "k": 1
+ },
+ "empires-et-civilisations_chavin-de-huantar": {
+  "k": 7
+ },
+ "empires-et-civilisations_cahokia": {
+  "k": 1
+ },
+ "empires-et-civilisations_empire-kouchan": {
+  "k": 11
+ },
+ "empires-et-civilisations_empire-du-monomotapa": {
+  "k": 10
+ },
+ "empires-et-civilisations_republique-de-venise": {
+  "k": 4
+ },
+ "empires-et-civilisations_hanse": {
+  "k": 10
+ },
+ "empires-et-civilisations_republique-des-deux-nations": {
+  "k": 9
+ },
+ "empires-et-civilisations_empire-suedois": {
+  "k": 4
+ },
+ "empires-et-civilisations_premier-empire-bulgare": {
+  "k": 11
+ },
+ "empires-et-civilisations_royaume-de-vijayanagara": {
+  "k": 11
+ },
+ "empires-et-civilisations_majapahit": {
+  "k": 2
+ },
+ "empires-et-civilisations_sriwijaya": {
+  "k": 1
+ },
+ "empires-et-civilisations_empire-marathe": {
+  "k": 10
+ },
+ "empires-et-civilisations_dynastie-qadjar": {
+  "k": 8,
+  "w": 0.55,
+  "cx": 0.59,
+  "cy": 0.51
+ },
+ "empires-et-civilisations_empire-du-bresil": {
+  "k": 2
+ },
+ "empires-et-civilisations_tolteques": {
+  "k": 2
+ },
+ "empires-et-civilisations_civilisation-chimu": {
+  "k": 6
+ }
+}

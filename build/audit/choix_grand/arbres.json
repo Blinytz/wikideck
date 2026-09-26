@@ -1,0 +1,65 @@
+{
+ "arbres_chene-liege": {
+  "k": 1
+ },
+ "arbres_houx": {
+  "k": 1
+ },
+ "arbres_corylus-avellana": {
+  "k": 6
+ },
+ "arbres_sambucus-nigra": {
+  "k": 0
+ },
+ "arbres_juniperus-communis": {
+  "k": 1
+ },
+ "arbres_amandier": {
+  "k": 5
+ },
+ "arbres_acajou-des-antilles": {
+  "k": 10
+ },
+ "arbres_ebene": {
+  "k": 4
+ },
+ "arbres_teck": {
+  "k": 1
+ },
+ "arbres_santalum-album": {
+  "k": 10
+ },
+ "arbres_arbre-a-pain": {
+  "k": 2
+ },
+ "arbres_flamboyant-bleu": {
+  "k": 8
+ },
+ "arbres_flamboyant": {
+  "k": 7
+ },
+ "arbres_paletuvier": {
+  "k": 2
+ },
+ "arbres_fromager-arbre": {
+  "k": 9
+ },
+ "arbres_arganier": {
+  "k": 5
+ },
+ "arbres_karite": {
+  "k": 1
+ },
+ "arbres_pin-bristlecone": {
+  "k": 4
+ },
+ "arbres_wollemia-nobilis": {
+  "k": 1
+ },
+ "arbres_agathis-australis": {
+  "k": 1
+ },
+ "arbres_pseudotsuga-menziesii": {
+  "k": 10
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "iles_grande-bretagne": {
+  "k": 3
+ },
+ "iles_irlande-ile": {
+  "k": 2
+ },
+ "iles_honshu": {
+  "k": 5
+ },
+ "iles_hokkaido": {
+  "k": 8
+ },
+ "iles_sri-lanka": {
+  "k": 5
+ },
+ "iles_taiwan-ile": {
+  "k": 2
+ },
+ "iles_martinique": {
+  "k": 9
+ },
+ "iles_guadeloupe": {
+  "k": 6
+ },
+ "iles_grande-terre-nouvelle-caledonie": {
+  "k": 1
+ },
+ "iles_bora-bora": {
+  "k": 6
+ },
+ "iles_iles-marquises": {
+  "k": 4
+ },
+ "iles_mayotte": {
+  "k": 10
+ },
+ "iles_ile-de-re": {
+  "k": 3
+ },
+ "iles_belle-ile-en-mer": {
+  "k": 9
+ },
+ "iles_jersey": {
+  "k": 10
+ },
+ "iles_ile-de-skye": {
+  "k": 11
+ },
+ "iles_ithaque": {
+  "k": 0
+ },
+ "iles_rhodes": {
+  "k": 3
+ },
+ "iles_majorque": {
+  "k": 8
+ },
+ "iles_tenerife": {
+  "k": 4
+ },
+ "iles_madere": {
+  "k": 5
+ },
+ "iles_acores": {
+  "k": 1
+ },
+ "iles_ile-de-goree": {
+  "k": 2
+ },
+ "iles_ile-d-alcatraz": {
+  "k": 7
+ },
+ "iles_manhattan": {
+  "k": 10
+ },
+ "iles_ellis-island": {
+  "k": 10
+ },
+ "iles_ile-du-diable": {
+  "k": 11
+ },
+ "iles_ile-de-la-tortue": {
+  "k": 8
+ },
+ "iles_tristan-da-cunha": {
+  "k": 10
+ },
+ "iles_iles-kerguelen": {
+  "k": 6
+ },
+ "iles_pitcairn": {
+  "k": 1
+ },
+ "iles_komodo-ile": {
+  "k": 9
+ },
+ "iles_bikini-atoll": {
+  "k": 5
+ }
+}

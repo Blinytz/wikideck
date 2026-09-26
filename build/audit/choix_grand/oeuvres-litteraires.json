@@ -1,0 +1,238 @@
+{
+ "oeuvres-litteraires_iliade": {
+  "k": 0
+ },
+ "oeuvres-litteraires_metamorphoses-ovide": {
+  "k": 11,
+  "cx": 0.5,
+  "cy": 0.46,
+  "w": 0.78
+ },
+ "oeuvres-litteraires_eneide": {
+  "k": 1
+ },
+ "oeuvres-litteraires_epopee-de-gilgamesh": {
+  "k": 0
+ },
+ "oeuvres-litteraires_les-mille-et-une-nuits": {
+  "k": 10
+ },
+ "oeuvres-litteraires_divine-comedie": {
+  "k": 1
+ },
+ "oeuvres-litteraires_les-contes-de-canterbury": {
+  "k": 0
+ },
+ "oeuvres-litteraires_pantagruel": {
+  "k": 5
+ },
+ "oeuvres-litteraires_essais-montaigne": {
+  "k": 1
+ },
+ "oeuvres-litteraires_le-misanthrope": {
+  "k": 0
+ },
+ "oeuvres-litteraires_fables-de-la-fontaine": {
+  "k": 1
+ },
+ "oeuvres-litteraires_phedre-racine": {
+  "k": 5
+ },
+ "oeuvres-litteraires_candide": {
+  "k": 0
+ },
+ "oeuvres-litteraires_les-liaisons-dangereuses": {
+  "k": 0
+ },
+ "oeuvres-litteraires_les-miserables": {
+  "k": 0
+ },
+ "oeuvres-litteraires_notre-dame-de-paris-roman": {
+  "k": 9
+ },
+ "oeuvres-litteraires_les-trois-mousquetaires": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-rouge-et-le-noir": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-pere-goriot": {
+  "k": 0
+ },
+ "oeuvres-litteraires_madame-bovary": {
+  "k": 11,
+  "cy": 0.38
+ },
+ "oeuvres-litteraires_les-fleurs-du-mal": {
+  "k": 0
+ },
+ "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-tour-du-monde-en-quatre-vingts-jours": {
+  "k": 0
+ },
+ "oeuvres-litteraires_l-etranger": {
+  "k": 0
+ },
+ "oeuvres-litteraires_la-peste": {
+  "k": 0
+ },
+ "oeuvres-litteraires_les-hauts-de-hurlevent": {
+  "k": 0
+ },
+ "oeuvres-litteraires_moby-dick": {
+  "k": 9
+ },
+ "oeuvres-litteraires_l-ile-au-tresor": {
+  "k": 0
+ },
+ "oeuvres-litteraires_guerre-et-paix": {
+  "k": 0
+ },
+ "oeuvres-litteraires_crime-et-chatiment": {
+  "k": 10
+ },
+ "oeuvres-litteraires_le-proces": {
+  "k": 0
+ },
+ "oeuvres-litteraires_gatsby-le-magnifique": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-vieil-homme-et-la-mer": {
+  "k": 6
+ },
+ "oeuvres-litteraires_les-raisins-de-la-colere": {
+  "k": 1
+ },
+ "oeuvres-litteraires_1984-roman": {
+  "k": 1
+ },
+ "oeuvres-litteraires_la-ferme-des-animaux": {
+  "k": 10
+ },
+ "oeuvres-litteraires_fahrenheit-451": {
+  "k": 11
+ },
+ "oeuvres-litteraires_le-seigneur-des-anneaux": {
+  "k": 9,
+  "cy": 0.6
+ },
+ "oeuvres-litteraires_le-hobbit": {
+  "k": 11
+ },
+ "oeuvres-litteraires_le-trone-de-fer": {
+  "k": 0,
+  "cy": 0.4
+ },
+ "oeuvres-litteraires_dune-roman": {
+  "k": 6
+ },
+ "oeuvres-litteraires_fondation-isaac-asimov": {
+  "k": 9
+ },
+ "oeuvres-litteraires_cent-ans-de-solitude": {
+  "k": 11
+ },
+ "oeuvres-litteraires_le-nom-de-la-rose-roman": {
+  "k": 0,
+  "cy": 0.6
+ },
+ "oeuvres-litteraires_lolita": {
+  "k": 0
+ },
+ "oeuvres-litteraires_l-attrape-c-urs": {
+  "k": 1
+ },
+ "oeuvres-litteraires_ne-tirez-pas-sur-l-oiseau-moqueur": {
+  "k": 0,
+  "cx": 0.6,
+  "cy": 0.55,
+  "w": 0.75
+ },
+ "oeuvres-litteraires_beloved-roman": {
+  "k": 3,
+  "cy": 0.62
+ },
+ "oeuvres-litteraires_l-archipel-du-goulag": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-journal-d-anne-frank": {
+  "k": 0
+ },
+ "oeuvres-litteraires_les-trois-royaumes-roman": {
+  "k": 1
+ },
+ "oeuvres-litteraires_mahabharata": {
+  "k": 7
+ },
+ "oeuvres-litteraires_le-chateau": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-grand-meaulnes": {
+  "k": 0
+ },
+ "oeuvres-litteraires_bel-ami": {
+  "k": 3
+ },
+ "oeuvres-litteraires_contes-de-l-enfance-et-du-foyer": {
+  "k": 4
+ },
+ "oeuvres-litteraires_la-case-de-l-oncle-tom": {
+  "k": 9
+ },
+ "oeuvres-litteraires_decameron": {
+  "k": 8
+ },
+ "oeuvres-litteraires_germinal-roman": {
+  "k": 2
+ },
+ "oeuvres-litteraires_voyage-au-bout-de-la-nuit": {
+  "k": 0
+ },
+ "oeuvres-litteraires_orgueil-et-prejuges": {
+  "k": 6
+ },
+ "oeuvres-litteraires_a-la-recherche-du-temps-perdu": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-cid-corneille": {
+  "k": 4,
+  "cx": 0.5,
+  "cy": 0.43,
+  "w": 0.8
+ },
+ "oeuvres-litteraires_les-freres-karamazov": {
+  "k": 9
+ },
+ "oeuvres-litteraires_ulysse-roman": {
+  "k": 5
+ },
+ "oeuvres-litteraires_la-metamorphose": {
+  "k": 3
+ },
+ "oeuvres-litteraires_le-meilleur-des-mondes": {
+  "k": 1
+ },
+ "oeuvres-litteraires_les-aventures-d-alice-au-pays-des-merveilles": {
+  "k": 9
+ },
+ "oeuvres-litteraires_le-maitre-et-marguerite": {
+  "k": 4
+ },
+ "oeuvres-litteraires_si-c-est-un-homme": {
+  "k": 1
+ },
+ "oeuvres-litteraires_le-reve-dans-le-pavillon-rouge": {
+  "k": 8
+ },
+ "oeuvres-litteraires_le-dit-du-genji": {
+  "k": 3
+ },
+ "oeuvres-litteraires_tout-s-effondre": {
+  "k": 0
+ },
+ "oeuvres-litteraires_le-parfum": {
+  "k": 3
+ }
+}

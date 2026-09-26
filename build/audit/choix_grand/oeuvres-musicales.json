@@ -1,0 +1,154 @@
+{
+ "oeuvres-musicales_musique-de-star-wars": {
+  "k": 0
+ },
+ "oeuvres-musicales_messe-de-notre-dame": {
+  "k": 0
+ },
+ "oeuvres-musicales_messe-du-pape-marcel": {
+  "k": 1
+ },
+ "oeuvres-musicales_le-bourgeois-gentilhomme": {
+  "k": 7
+ },
+ "oeuvres-musicales_les-barricades-mysterieuses": {
+  "k": 3,
+  "cy": 0.43,
+  "w": 0.9
+ },
+ "oeuvres-musicales_te-deum-charpentier": {
+  "k": 0
+ },
+ "oeuvres-musicales_tafelmusik-telemann": {
+  "k": 11,
+  "cy": 0.7,
+  "w": 0.7
+ },
+ "oeuvres-musicales_canon-de-pachelbel": {
+  "k": 2
+ },
+ "oeuvres-musicales_adagio-en-sol-mineur": {
+  "k": 9,
+  "cy": 0.6,
+  "w": 0.7
+ },
+ "oeuvres-musicales_stabat-mater-pergolese": {
+  "k": 10
+ },
+ "oeuvres-musicales_vingt-quatre-caprices-pour-violon-de-paganini": {
+  "k": 1
+ },
+ "oeuvres-musicales_lucia-di-lammermoor": {
+  "k": 11
+ },
+ "oeuvres-musicales_norma-opera": {
+  "k": 0
+ },
+ "oeuvres-musicales_faust-gounod": {
+  "k": 0
+ },
+ "oeuvres-musicales_manon-opera": {
+  "k": 0
+ },
+ "oeuvres-musicales_der-freischutz": {
+  "k": 5,
+  "cy": 0.45
+ },
+ "oeuvres-musicales_ma-vlast": {
+  "k": 0
+ },
+ "oeuvres-musicales_jenufa": {
+  "k": 10
+ },
+ "oeuvres-musicales_le-prince-igor": {
+  "k": 0
+ },
+ "oeuvres-musicales_une-vie-pour-le-tsar": {
+  "k": 1
+ },
+ "oeuvres-musicales_pomp-and-circumstance": {
+  "k": 11,
+  "cy": 0.62,
+  "w": 0.8
+ },
+ "oeuvres-musicales_les-planetes": {
+  "k": 0
+ },
+ "oeuvres-musicales_war-requiem": {
+  "k": 0
+ },
+ "oeuvres-musicales_l-amour-sorcier": {
+  "k": 6
+ },
+ "oeuvres-musicales_iberia-albeniz": {
+  "k": 7,
+  "cy": 0.65,
+  "w": 0.9
+ },
+ "oeuvres-musicales_concerto-d-aranjuez": {
+  "k": 0
+ },
+ "oeuvres-musicales_bachianas-brasileiras": {
+  "k": 1
+ },
+ "oeuvres-musicales_gloria-poulenc": {
+  "k": 7
+ },
+ "oeuvres-musicales_le-marteau-sans-maitre": {
+  "k": 11,
+  "cx": 0.6,
+  "cy": 0.62,
+  "w": 0.55
+ },
+ "oeuvres-musicales_ionisation-varese": {
+  "k": 0
+ },
+ "oeuvres-musicales_wozzeck": {
+  "k": 7
+ },
+ "oeuvres-musicales_gesang-der-junglinge": {
+  "k": 4
+ },
+ "oeuvres-musicales_threne-a-la-memoire-des-victimes-d-hiroshima": {
+  "k": 1
+ },
+ "oeuvres-musicales_west-side-story": {
+  "k": 8
+ },
+ "oeuvres-musicales_l-opera-de-quat-sous": {
+  "k": 6
+ },
+ "oeuvres-musicales_the-windmills-of-your-mind": {
+  "k": 11,
+  "cy": 0.5,
+  "w": 0.65
+ },
+ "oeuvres-musicales_mon-voisin-totoro-bande-originale": {
+  "k": 4
+ },
+ "oeuvres-musicales_la-chanson-de-lara": {
+  "k": 6
+ },
+ "oeuvres-musicales_les-chariots-de-feu-bande-originale": {
+  "k": 1
+ },
+ "oeuvres-musicales_concerto-pour-piano-de-clara-schumann": {
+  "k": 4,
+  "cy": 0.7,
+  "w": 0.8
+ },
+ "oeuvres-musicales_das-jahr-fanny-mendelssohn": {
+  "k": 5
+ },
+ "oeuvres-musicales_psaume-24-boulanger": {
+  "k": 6
+ },
+ "oeuvres-musicales_spiegel-im-spiegel": {
+  "k": 0
+ },
+ "oeuvres-musicales_the-ecstasy-of-gold": {
+  "k": 7,
+  "cy": 0.35,
+  "w": 0.6
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "mythologie-egyptienne_aton": {
+  "k": 2
+ },
+ "mythologie-egyptienne_neith": {
+  "k": 11
+ },
+ "mythologie-egyptienne_montou": {
+  "k": 6
+ },
+ "mythologie-egyptienne_heqet": {
+  "k": 8
+ },
+ "mythologie-egyptienne_nefertoum": {
+  "k": 4
+ },
+ "mythologie-egyptienne_oupouaout": {
+  "k": 9,
+  "cy": 0.35
+ },
+ "mythologie-egyptienne_apis": {
+  "k": 3
+ },
+ "mythologie-egyptienne_atoum": {
+  "k": 6,
+  "cy": 0.4
+ },
+ "mythologie-egyptienne_mout": {
+  "k": 7
+ },
+ "mythologie-egyptienne_taouret": {
+  "k": 7,
+  "w": 0.48,
+  "cx": 0.49,
+  "cy": 0.42
+ },
+ "mythologie-egyptienne_min-dieu": {
+  "k": 0,
+  "cy": 0.3,
+  "note": "repli : relief du temple, aucune illustration peinte trouvee apres deux relances"
+ },
+ "mythologie-egyptienne_hapy": {
+  "k": 2,
+  "cy": 0.4
+ }
+}

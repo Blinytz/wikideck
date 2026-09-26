@@ -1,0 +1,115 @@
+{
+ "auteurs-classiques_arthur-conan-doyle": {
+  "k": 9
+ },
+ "auteurs-classiques_robert-louis-stevenson": {
+  "k": 0
+ },
+ "auteurs-classiques_hans-christian-andersen": {
+  "k": 0
+ },
+ "auteurs-classiques_freres-grimm": {
+  "k": 1
+ },
+ "auteurs-classiques_henrik-ibsen": {
+  "k": 7
+ },
+ "auteurs-classiques_francois-villon": {
+  "k": 2
+ },
+ "auteurs-classiques_pierre-de-ronsard": {
+  "k": 1
+ },
+ "auteurs-classiques_francois-de-la-rochefoucauld": {
+  "k": 0
+ },
+ "auteurs-classiques_madame-de-sevigne": {
+  "k": 0
+ },
+ "auteurs-classiques_marivaux": {
+  "k": 0,
+  "cy": 0.4
+ },
+ "auteurs-classiques_gerard-de-nerval": {
+  "k": 2
+ },
+ "auteurs-classiques_alphonse-daudet": {
+  "k": 0
+ },
+ "auteurs-classiques_edmond-rostand": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "auteurs-classiques_anatole-france": {
+  "k": 3
+ },
+ "auteurs-classiques_lautreamont": {
+  "k": 10
+ },
+ "auteurs-classiques_christine-de-pizan": {
+  "k": 3
+ },
+ "auteurs-classiques_plutarque": {
+  "k": 1
+ },
+ "auteurs-classiques_tacite": {
+  "k": 0
+ },
+ "auteurs-classiques_plaute": {
+  "k": 0
+ },
+ "auteurs-classiques_lucrece": {
+  "k": 0
+ },
+ "auteurs-classiques_pindare": {
+  "k": 0
+ },
+ "auteurs-classiques_li-bai": {
+  "k": 0
+ },
+ "auteurs-classiques_du-fu": {
+  "k": 0
+ },
+ "auteurs-classiques_hafez-poete": {
+  "k": 3
+ },
+ "auteurs-classiques_saadi": {
+  "k": 2
+ },
+ "auteurs-classiques_kalidasa": {
+  "k": 11
+ },
+ "auteurs-classiques_wu-cheng-en": {
+  "k": 7
+ },
+ "auteurs-classiques_carlo-collodi": {
+  "k": 0
+ },
+ "auteurs-classiques_carlo-goldoni": {
+  "k": 0
+ },
+ "auteurs-classiques_giacomo-leopardi": {
+  "k": 1
+ },
+ "auteurs-classiques_alfred-tennyson": {
+  "k": 0
+ },
+ "auteurs-classiques_harriet-beecher-stowe": {
+  "k": 10
+ },
+ "auteurs-classiques_james-fenimore-cooper": {
+  "k": 0
+ },
+ "auteurs-classiques_louisa-may-alcott": {
+  "k": 0
+ },
+ "auteurs-classiques_august-strindberg": {
+  "k": 1
+ },
+ "auteurs-classiques_adam-mickiewicz": {
+  "k": 2
+ },
+ "auteurs-classiques_henryk-sienkiewicz": {
+  "k": 7
+ }
+}

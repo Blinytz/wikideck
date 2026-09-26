@@ -1,0 +1,142 @@
+{
+ "personnages-jeu-video_wario": {
+  "k": 10,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_toad": {
+  "k": 1
+ },
+ "personnages-jeu-video_fox-mccloud": {
+  "k": 1
+ },
+ "personnages-jeu-video_captain-falcon": {
+  "k": 4,
+  "cy": 0.35
+ },
+ "personnages-jeu-video_pit-kid-icarus": {
+  "k": 11,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_tom-nook": {
+  "k": 11
+ },
+ "personnages-jeu-video_mewtwo": {
+  "k": 1
+ },
+ "personnages-jeu-video_salameche-et-ses-evolutions": {
+  "k": 9,
+  "cy": 0.45
+ },
+ "personnages-jeu-video_toudoudou-et-ses-evolutions": {
+  "k": 5
+ },
+ "personnages-jeu-video_evoli-et-ses-evolutions": {
+  "k": 1,
+  "cy": 0.27
+ },
+ "personnages-jeu-video_tails-sonic-the-hedgehog": {
+  "k": 5
+ },
+ "personnages-jeu-video_knuckles": {
+  "k": 4,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_eggman": {
+  "k": 3
+ },
+ "personnages-jeu-video_shadow-sonic": {
+  "k": 2,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_ken-masters": {
+  "k": 6,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_m-bison": {
+  "k": 2
+ },
+ "personnages-jeu-video_raiden-mortal-kombat": {
+  "k": 2
+ },
+ "personnages-jeu-video_liu-kang": {
+  "k": 3,
+  "cy": 0.45
+ },
+ "personnages-jeu-video_heihachi-mishima": {
+  "k": 1
+ },
+ "personnages-jeu-video_dante-devil-may-cry": {
+  "k": 1
+ },
+ "personnages-jeu-video_yakuza-jeu-video": {
+  "k": 0,
+  "cx": 0.62
+ },
+ "personnages-jeu-video_tifa-lockhart": {
+  "k": 6
+ },
+ "personnages-jeu-video_aerith-gainsborough": {
+  "k": 0,
+  "cx": 0.62
+ },
+ "personnages-jeu-video_chocobo": {
+  "k": 8
+ },
+ "personnages-jeu-video_carl-johnson-grand-theft-auto": {
+  "k": 1,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_niko-bellic": {
+  "k": 2
+ },
+ "personnages-jeu-video_trevor-philips": {
+  "k": 10,
+  "cy": 0.3
+ },
+ "personnages-jeu-video_tommy-vercetti": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "personnages-jeu-video_red-dead-redemption": {
+  "k": 4
+ },
+ "personnages-jeu-video_altair-ibn-la-ahad": {
+  "k": 8,
+  "cy": 0.35
+ },
+ "personnages-jeu-video_albert-wesker": {
+  "k": 6,
+  "cx": 0.625
+ },
+ "personnages-jeu-video_chris-redfield": {
+  "k": 6
+ },
+ "personnages-jeu-video_dead-space-jeu-video": {
+  "k": 5
+ },
+ "personnages-jeu-video_cortana-personnage": {
+  "k": 5
+ },
+ "personnages-jeu-video_glados": {
+  "k": 1
+ },
+ "personnages-jeu-video_tracer-overwatch": {
+  "k": 10,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_jinx-league-of-legends": {
+  "k": 0
+ },
+ "personnages-jeu-video_malenia": {
+  "k": 7,
+  "cy": 0.4
+ },
+ "personnages-jeu-video_personnages-de-the-legend-of-zelda": {
+  "k": 9,
+  "cy": 0.33
+ },
+ "personnages-jeu-video_marie-animal-crossing": {
+  "k": 5,
+  "cy": 0.35
+ }
+}

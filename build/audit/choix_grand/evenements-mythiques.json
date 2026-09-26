@@ -1,0 +1,54 @@
+{
+ "evenements-mythiques_chute-bible": {
+  "k": 9
+ },
+ "evenements-mythiques_cain-et-abel-genese": {
+  "k": 2,
+  "cy": 0.55
+ },
+ "evenements-mythiques_dix-plaies-d-egypte": {
+  "k": 2
+ },
+ "evenements-mythiques_passage-de-la-mer-rouge": {
+  "k": 6
+ },
+ "evenements-mythiques_ligature-d-isaac": {
+  "k": 2
+ },
+ "evenements-mythiques_argonautes": {
+  "k": 7
+ },
+ "evenements-mythiques_odyssee": {
+  "k": 6
+ },
+ "evenements-mythiques_vol-du-feu": {
+  "k": 0,
+  "cy": 0.32
+ },
+ "evenements-mythiques_la-descente-d-orphee-aux-enfers": {
+  "k": 1
+ },
+ "evenements-mythiques_guerre-entre-les-ases-et-les-vanes": {
+  "k": 10
+ },
+ "evenements-mythiques_jugement-de-l-ame-egypte-antique": {
+  "k": 1
+ },
+ "evenements-mythiques_un-livre-dont-vous-etes-le-heros": {
+  "k": 0
+ },
+ "evenements-mythiques_ramayana": {
+  "k": 0
+ },
+ "evenements-mythiques_mythe-d-osiris": {
+  "k": 4,
+  "note": "Anubis et Isis autour de la momie d Osiris : suite du meurtre, aucune scene du meurtre lui-meme sans filigrane"
+ },
+ "evenements-mythiques_fondation-de-rome": {
+  "k": 10
+ },
+ "evenements-mythiques_legende-des-soleils": {
+  "k": 5,
+  "cy": 0.42
+ }
+}

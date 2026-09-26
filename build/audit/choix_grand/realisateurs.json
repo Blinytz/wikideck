@@ -1,0 +1,182 @@
+{
+ "realisateurs_alfred-hitchcock": {
+  "k": 2
+ },
+ "realisateurs_stanley-kubrick": {
+  "k": 1
+ },
+ "realisateurs_steven-spielberg": {
+  "k": 3
+ },
+ "realisateurs_akira-kurosawa": {
+  "k": 0
+ },
+ "realisateurs_francois-truffaut": {
+  "k": 1
+ },
+ "realisateurs_jean-luc-godard": {
+  "k": 3
+ },
+ "realisateurs_hayao-miyazaki": {
+  "k": 11
+ },
+ "realisateurs_federico-fellini": {
+  "k": 0
+ },
+ "realisateurs_ingmar-bergman": {
+  "k": 0
+ },
+ "realisateurs_martin-scorsese": {
+  "k": 1
+ },
+ "realisateurs_francis-ford-coppola": {
+  "k": 0
+ },
+ "realisateurs_quentin-tarantino": {
+  "k": 10
+ },
+ "realisateurs_orson-welles": {
+  "k": 1
+ },
+ "realisateurs_charlie-chaplin": {
+  "k": 0
+ },
+ "realisateurs_buster-keaton": {
+  "k": 10
+ },
+ "realisateurs_fritz-lang": {
+  "k": 2
+ },
+ "realisateurs_serguei-eisenstein": {
+  "k": 0
+ },
+ "realisateurs_jean-renoir": {
+  "k": 10
+ },
+ "realisateurs_georges-melies": {
+  "k": 0
+ },
+ "realisateurs_billy-wilder": {
+  "k": 2
+ },
+ "realisateurs_john-ford": {
+  "k": 11
+ },
+ "realisateurs_sergio-leone": {
+  "k": 0
+ },
+ "realisateurs_andrei-tarkovski": {
+  "k": 11
+ },
+ "realisateurs_luis-bunuel": {
+  "k": 1
+ },
+ "realisateurs_yasujiro-ozu": {
+  "k": 2
+ },
+ "realisateurs_satyajit-ray": {
+  "k": 4
+ },
+ "realisateurs_agnes-varda": {
+  "k": 0
+ },
+ "realisateurs_jacques-tati": {
+  "k": 7
+ },
+ "realisateurs_woody-allen": {
+  "k": 11
+ },
+ "realisateurs_david-lynch": {
+  "k": 8
+ },
+ "realisateurs_ridley-scott": {
+  "k": 4
+ },
+ "realisateurs_james-cameron": {
+  "k": 8
+ },
+ "realisateurs_christopher-nolan": {
+  "k": 4
+ },
+ "realisateurs_tim-burton": {
+  "k": 2
+ },
+ "realisateurs_pedro-almodovar": {
+  "k": 11
+ },
+ "realisateurs_wong-kar-wai": {
+  "k": 1
+ },
+ "realisateurs_bong-joon-ho": {
+  "k": 0
+ },
+ "realisateurs_joel-et-ethan-coen": {
+  "k": 8
+ },
+ "realisateurs_denis-villeneuve": {
+  "k": 0
+ },
+ "realisateurs_luc-besson": {
+  "k": 0
+ },
+ "realisateurs_jean-pierre-jeunet": {
+  "k": 0
+ },
+ "realisateurs_kathryn-bigelow": {
+  "k": 3,
+  "cy": 0.36
+ },
+ "realisateurs_sofia-coppola": {
+  "k": 0
+ },
+ "realisateurs_peter-jackson": {
+  "k": 7
+ },
+ "realisateurs_george-lucas": {
+  "k": 1,
+  "cy": 0.36
+ },
+ "realisateurs_walt-disney": {
+  "k": 9
+ },
+ "realisateurs_roman-polanski": {
+  "k": 0
+ },
+ "realisateurs_michael-haneke": {
+  "k": 3
+ },
+ "realisateurs_jane-campion": {
+  "k": 0
+ },
+ "realisateurs_greta-gerwig": {
+  "k": 3
+ },
+ "realisateurs_guillermo-del-toro": {
+  "k": 3
+ },
+ "realisateurs_alfonso-cuaron": {
+  "k": 2
+ },
+ "realisateurs_wes-anderson": {
+  "k": 0
+ },
+ "realisateurs_park-chan-wook": {
+  "k": 0
+ },
+ "realisateurs_claude-chabrol": {
+  "k": 2,
+  "cy": 0.33
+ },
+ "realisateurs_jean-pierre-melville": {
+  "k": 8
+ },
+ "realisateurs_marcel-carne": {
+  "k": 3
+ },
+ "realisateurs_gerard-oury": {
+  "k": 6
+ },
+ "realisateurs_celine-sciamma": {
+  "k": 11
+ }
+}

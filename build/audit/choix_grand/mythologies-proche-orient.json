@@ -1,0 +1,44 @@
+{
+ "mythologies-proche-orient_ea-dieu": {
+  "k": 11
+ },
+ "mythologies-proche-orient_nabu": {
+  "k": 2
+ },
+ "mythologies-proche-orient_assur-dieu": {
+  "k": 5
+ },
+ "mythologies-proche-orient_lilith": {
+  "k": 6,
+  "cy": 0.3
+ },
+ "mythologies-proche-orient_pazuzu": {
+  "k": 11,
+  "cy": 0.3
+ },
+ "mythologies-proche-orient_lamassu": {
+  "k": 6,
+  "cy": 0.45
+ },
+ "mythologies-proche-orient_uta-napishtim": {
+  "k": 6
+ },
+ "mythologies-proche-orient_kingu": {
+  "k": 2
+ },
+ "mythologies-proche-orient_asherah": {
+  "k": 3
+ },
+ "mythologies-proche-orient_anat": {
+  "k": 8
+ },
+ "mythologies-proche-orient_sohrab": {
+  "k": 2
+ },
+ "mythologies-proche-orient_moloch": {
+  "k": 4
+ },
+ "mythologies-proche-orient_kaveh": {
+  "k": 4
+ }
+}

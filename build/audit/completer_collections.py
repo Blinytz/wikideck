@@ -224,6 +224,11 @@ AJOUTS = {
     ],
 }
 
+# Le grand complement du 26/09/2026 (build/audit/grand_complement.py)
+import grand_complement
+for _slug, _lot in grand_complement.AJOUTS.items():
+    AJOUTS.setdefault(_slug, []).extend(_lot)
+
 # Cartes dont la page etait fausse (voir le brief) : le sujet change, l'image
 # aussi puisque l'ancienne illustrait autre chose.
 CORRECTIONS = [

@@ -1,0 +1,91 @@
+{
+ "dynasties-regnantes_julio-claudiens": {
+  "k": 3
+ },
+ "dynasties-regnantes_flaviens": {
+  "k": 0,
+  "cy": 0.4
+ },
+ "dynasties-regnantes_severes": {
+  "k": 1
+ },
+ "dynasties-regnantes_maison-comnene": {
+  "k": 4
+ },
+ "dynasties-regnantes_maison-paleologue": {
+  "k": 3,
+  "cy": 0.28
+ },
+ "dynasties-regnantes_dynastie-ottomane": {
+  "k": 2
+ },
+ "dynasties-regnantes_maison-grimaldi": {
+  "k": 3
+ },
+ "dynasties-regnantes_maison-de-savoie": {
+  "k": 10
+ },
+ "dynasties-regnantes_famille-borgia": {
+  "k": 6
+ },
+ "dynasties-regnantes_famille-sforza": {
+  "k": 11
+ },
+ "dynasties-regnantes_maison-de-wittelsbach": {
+  "k": 5
+ },
+ "dynasties-regnantes_maison-de-hanovre": {
+  "k": 3
+ },
+ "dynasties-regnantes_maison-de-saxe-cobourg-et-gotha": {
+  "k": 3,
+  "w": 0.6,
+  "cx": 0.52,
+  "cy": 0.47
+ },
+ "dynasties-regnantes_maison-bonaparte": {
+  "k": 6
+ },
+ "dynasties-regnantes_maisons-d-orleans": {
+  "k": 4
+ },
+ "dynasties-regnantes_maison-bernadotte": {
+  "k": 7
+ },
+ "dynasties-regnantes_maison-vasa": {
+  "k": 7
+ },
+ "dynasties-regnantes_riourikides": {
+  "k": 3
+ },
+ "dynasties-regnantes_dynastie-chakri": {
+  "k": 6
+ },
+ "dynasties-regnantes_dynastie-nguyen": {
+  "k": 4
+ },
+ "dynasties-regnantes_dynastie-pahlavi": {
+  "k": 4,
+  "w": 0.85,
+  "cx": 0.5,
+  "cy": 0.425
+ },
+ "dynasties-regnantes_maison-imperiale-du-japon": {
+  "k": 11
+ },
+ "dynasties-regnantes_clan-fujiwara": {
+  "k": 8
+ },
+ "dynasties-regnantes_famille-royale-saoudienne": {
+  "k": 11
+ },
+ "dynasties-regnantes_dynastie-hachemite": {
+  "k": 4
+ },
+ "dynasties-regnantes_dynastie-alaouite": {
+  "k": 9
+ },
+ "dynasties-regnantes_dynastie-salomonide": {
+  "k": 4
+ }
+}

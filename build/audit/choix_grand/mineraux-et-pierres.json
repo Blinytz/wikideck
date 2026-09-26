@@ -1,0 +1,21 @@
+{
+  "mineraux-et-pierres_labradorite": {"k": 1},
+  "mineraux-et-pierres_pierre-de-lune": {"k": 11},
+  "mineraux-et-pierres_tanzanite": {"k": 1},
+  "mineraux-et-pierres_alexandrite": {"k": 2},
+  "mineraux-et-pierres_spinelle": {"k": 10},
+  "mineraux-et-pierres_zircon": {"k": 1},
+  "mineraux-et-pierres_il-de-tigre": {"k": 2},
+  "mineraux-et-pierres_moldavite": {"k": 2},
+  "mineraux-et-pierres_jais": {"k": 11},
+  "mineraux-et-pierres_quartz-rose": {"k": 2},
+  "mineraux-et-pierres_azurite-mineral": {"k": 0},
+  "mineraux-et-pierres_mica": {"k": 1},
+  "mineraux-et-pierres_rose-des-sables": {"k": 1},
+  "mineraux-et-pierres_coltan": {"k": 0},
+  "mineraux-et-pierres_marbre": {"k": 0, "note": "reprise 2 : seule image propre (texture Wikipédia), les autres filigranées"},
+  "mineraux-et-pierres_granite": {"k": 11},
+  "mineraux-et-pierres_basalte": {"k": 3},
+  "mineraux-et-pierres_ardoise": {"k": 11},
+  "mineraux-et-pierres_ponce": {"k": 6}
+}

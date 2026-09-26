@@ -1,0 +1,140 @@
+{
+ "jeux-de-societe_echecs": {
+  "k": 9
+ },
+ "jeux-de-societe_dames": {
+  "k": 4
+ },
+ "jeux-de-societe_backgammon": {
+  "k": 7
+ },
+ "jeux-de-societe_mah-jong": {
+  "k": 1
+ },
+ "jeux-de-societe_go-jeu": {
+  "k": 10
+ },
+ "jeux-de-societe_shogi": {
+  "k": 8
+ },
+ "jeux-de-societe_xiangqi": {
+  "k": 8
+ },
+ "jeux-de-societe_awale": {
+  "k": 10
+ },
+ "jeux-de-societe_senet": {
+  "k": 5
+ },
+ "jeux-de-societe_jeu-royal-d-ur": {
+  "k": 1
+ },
+ "jeux-de-societe_jeu-de-l-oie-jeu-de-societe": {
+  "k": 3
+ },
+ "jeux-de-societe_jeu-des-petits-chevaux": {
+  "k": 7
+ },
+ "jeux-de-societe_dominos-jeu": {
+  "k": 10
+ },
+ "jeux-de-societe_tarot": {
+  "k": 5
+ },
+ "jeux-de-societe_belote": {
+  "k": 8
+ },
+ "jeux-de-societe_poker": {
+  "k": 2
+ },
+ "jeux-de-societe_bridge": {
+  "k": 1
+ },
+ "jeux-de-societe_monopoly": {
+  "k": 1
+ },
+ "jeux-de-societe_scrabble": {
+  "k": 7
+ },
+ "jeux-de-societe_cluedo": {
+  "k": 4
+ },
+ "jeux-de-societe_risk": {
+  "k": 1
+ },
+ "jeux-de-societe_trivial-pursuit": {
+  "k": 10
+ },
+ "jeux-de-societe_pictionary": {
+  "k": 0
+ },
+ "jeux-de-societe_uno": {
+  "k": 0
+ },
+ "jeux-de-societe_puissance-4": {
+  "k": 1
+ },
+ "jeux-de-societe_othello-jeu": {
+  "k": 1
+ },
+ "jeux-de-societe_stratego": {
+  "k": 5
+ },
+ "jeux-de-societe_mastermind": {
+  "k": 0
+ },
+ "jeux-de-societe_yahtzee": {
+  "k": 6
+ },
+ "jeux-de-societe_jenga": {
+  "k": 0
+ },
+ "jeux-de-societe_bataille-navale-jeu": {
+  "k": 11
+ },
+ "jeux-de-societe_1000-bornes": {
+  "k": 3
+ },
+ "jeux-de-societe_donjons-et-dragons": {
+  "k": 11
+ },
+ "jeux-de-societe_les-colons-de-catane": {
+  "k": 8
+ },
+ "jeux-de-societe_carcassonne-jeu": {
+  "k": 9
+ },
+ "jeux-de-societe_les-aventuriers-du-rail": {
+  "k": 0
+ },
+ "jeux-de-societe_dixit-jeu": {
+  "k": 0
+ },
+ "jeux-de-societe_dobble": {
+  "k": 1
+ },
+ "jeux-de-societe_les-loups-garous-de-thiercelieux": {
+  "k": 2
+ },
+ "jeux-de-societe_magic-l-assemblee": {
+  "k": 0
+ },
+ "jeux-de-societe_pandemie-jeu": {
+  "k": 10
+ },
+ "jeux-de-societe_7-wonders": {
+  "k": 0
+ },
+ "jeux-de-societe_warhammer-40-000": {
+  "k": 1
+ },
+ "jeux-de-societe_rubik-s-cube": {
+  "k": 4
+ },
+ "jeux-de-societe_mikado-jeu": {
+  "k": 0
+ },
+ "jeux-de-societe_tangram": {
+  "k": 0
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "creatures-et-legendes_melusine-fee": {"k": 9},
+ "creatures-et-legendes_sorciere": {"k": 4},
+ "creatures-et-legendes_fantome": {"k": 5},
+ "creatures-et-legendes_nain-creature-fantastique": {"k": 9, "cy": 0.35},
+ "creatures-et-legendes_geant-mythologie": {"k": 4},
+ "creatures-et-legendes_vouivre": {"k": 2},
+ "creatures-et-legendes_croque-mitaine": {"k": 6},
+ "creatures-et-legendes_dahu": {"k": 2},
+ "creatures-et-legendes_dame-blanche-legende": {"k": 2},
+ "creatures-et-legendes_demon-esprit": {"k": 11, "cy": 0.3},
+ "creatures-et-legendes_lutin": {"k": 2, "cy": 0.3},
+ "creatures-et-legendes_serpent-de-mer": {"k": 2},
+ "creatures-et-legendes_succube": {"k": 10},
+ "creatures-et-legendes_lamia-mythologie": {"k": 0}
+}

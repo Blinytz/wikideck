@@ -1,0 +1,36 @@
+{
+ "mythologies-mesoamericaines_k-inich-ajaw": {
+  "k": 10
+ },
+ "mythologies-mesoamericaines_ixtab": {
+  "k": 5
+ },
+ "mythologies-mesoamericaines_pachacamac-dieu": {
+  "k": 4
+ },
+ "mythologies-mesoamericaines_mama-ocllo": {
+  "k": 1
+ },
+ "mythologies-mesoamericaines_ekeko": {
+  "k": 10
+ },
+ "mythologies-mesoamericaines_mayahuel": {
+  "k": 6
+ },
+ "mythologies-mesoamericaines_mixcoatl": {
+  "k": 8
+ },
+ "mythologies-mesoamericaines_tlazolteotl": {
+  "k": 1,
+  "w": 0.6,
+  "cx": 0.5,
+  "cy": 0.38
+ },
+ "mythologies-mesoamericaines_centeotl": {
+  "k": 1,
+  "cy": 0.4
+ },
+ "mythologies-mesoamericaines_itzpapalotl": {
+  "k": 8
+ }
+}

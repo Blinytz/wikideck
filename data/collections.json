@@ -3,37 +3,37 @@
   {
    "slug": "corps-celestes",
    "nom": "Corps celestes",
-   "nbCartes": 98,
+   "nbCartes": 99,
    "fichier": "data/corps-celestes.json"
   },
   {
    "slug": "dieux-et-figures-mythologiques-grecques",
    "nom": "Dieux et figures mythologiques grecques",
-   "nbCartes": 82,
+   "nbCartes": 112,
    "fichier": "data/dieux-et-figures-mythologiques-grecques.json"
   },
   {
    "slug": "souverains-et-conquerants",
    "nom": "Souverains et conquérants",
-   "nbCartes": 91,
+   "nbCartes": 119,
    "fichier": "data/souverains-et-conquerants.json"
   },
   {
    "slug": "dirigeants-contemporains",
    "nom": "Dirigeants de l'ère contemporaine",
-   "nbCartes": 56,
+   "nbCartes": 83,
    "fichier": "data/dirigeants-contemporains.json"
   },
   {
    "slug": "sites-antiques",
    "nom": "Sites antiques et archéologiques",
-   "nbCartes": 38,
+   "nbCartes": 56,
    "fichier": "data/sites-antiques.json"
   },
   {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
-   "nbCartes": 89,
+   "nbCartes": 108,
    "fichier": "data/monuments-emblematiques.json"
   },
   {
@@ -45,25 +45,25 @@
   {
    "slug": "empires-et-civilisations",
    "nom": "Empires et civilisations",
-   "nbCartes": 72,
+   "nbCartes": 90,
    "fichier": "data/empires-et-civilisations.json"
   },
   {
    "slug": "dynasties-regnantes",
    "nom": "Dynasties et maisons régnantes",
-   "nbCartes": 37,
+   "nbCartes": 64,
    "fichier": "data/dynasties-regnantes.json"
   },
   {
    "slug": "grandes-batailles-historiques",
    "nom": "Grandes batailles historiques",
-   "nbCartes": 87,
+   "nbCartes": 103,
    "fichier": "data/grandes-batailles-historiques.json"
   },
   {
    "slug": "grandes-guerres",
    "nom": "Grandes guerres",
-   "nbCartes": 66,
+   "nbCartes": 72,
    "fichier": "data/grandes-guerres.json"
   },
   {
@@ -75,61 +75,61 @@
   {
    "slug": "creatures-prehistoriques",
    "nom": "Créatures préhistoriques",
-   "nbCartes": 40,
+   "nbCartes": 50,
    "fichier": "data/creatures-prehistoriques.json"
   },
   {
    "slug": "grands-explorateurs",
    "nom": "Grands explorateurs",
-   "nbCartes": 61,
+   "nbCartes": 71,
    "fichier": "data/grands-explorateurs.json"
   },
   {
    "slug": "pionniers-de-lextreme",
    "nom": "Pionniers de l'extrême",
-   "nbCartes": 29,
+   "nbCartes": 45,
    "fichier": "data/pionniers-de-lextreme.json"
   },
   {
    "slug": "auteurs-classiques",
    "nom": "Auteurs classiques",
-   "nbCartes": 114,
+   "nbCartes": 151,
    "fichier": "data/auteurs-classiques.json"
   },
   {
    "slug": "auteurs-modernes",
    "nom": "Auteurs modernes et contemporains",
-   "nbCartes": 143,
+   "nbCartes": 196,
    "fichier": "data/auteurs-modernes.json"
   },
   {
    "slug": "scientifiques-celebres",
    "nom": "Scientifiques celebres",
-   "nbCartes": 177,
+   "nbCartes": 197,
    "fichier": "data/scientifiques-celebres.json"
   },
   {
    "slug": "inventeurs-et-ingenieurs",
    "nom": "Inventeurs et ingénieurs",
-   "nbCartes": 48,
+   "nbCartes": 76,
    "fichier": "data/inventeurs-et-ingenieurs.json"
   },
   {
    "slug": "grands-peintres",
    "nom": "Grands peintres",
-   "nbCartes": 119,
+   "nbCartes": 176,
    "fichier": "data/grands-peintres.json"
   },
   {
    "slug": "tableaux-celebres",
    "nom": "Tableaux celebres",
-   "nbCartes": 108,
+   "nbCartes": 137,
    "fichier": "data/tableaux-celebres.json"
   },
   {
    "slug": "inventions-importantes",
    "nom": "Inventions importantes",
-   "nbCartes": 139,
+   "nbCartes": 166,
    "fichier": "data/inventions-importantes.json"
   },
   {
@@ -141,25 +141,25 @@
   {
    "slug": "mammiferes",
    "nom": "Mammiferes",
-   "nbCartes": 100,
+   "nbCartes": 128,
    "fichier": "data/mammiferes.json"
   },
   {
    "slug": "oiseaux",
    "nom": "Oiseaux",
-   "nbCartes": 70,
+   "nbCartes": 94,
    "fichier": "data/oiseaux.json"
   },
   {
    "slug": "reptiles-et-amphibiens",
    "nom": "Reptiles et amphibiens",
-   "nbCartes": 40,
+   "nbCartes": 54,
    "fichier": "data/reptiles-et-amphibiens.json"
   },
   {
    "slug": "poissons-et-vie-marine",
    "nom": "Poissons et vie marine",
-   "nbCartes": 50,
+   "nbCartes": 72,
    "fichier": "data/poissons-et-vie-marine.json"
   },
   {
@@ -177,7 +177,7 @@
   {
    "slug": "races-de-chat",
    "nom": "Races de chat",
-   "nbCartes": 45,
+   "nbCartes": 49,
    "fichier": "data/races-de-chat.json"
   },
   {
@@ -189,145 +189,145 @@
   {
    "slug": "legendes-du-football",
    "nom": "Légendes du football",
-   "nbCartes": 50,
+   "nbCartes": 67,
    "fichier": "data/legendes-du-football.json"
   },
   {
    "slug": "football-ere-moderne",
    "nom": "Football, ère moderne",
-   "nbCartes": 100,
+   "nbCartes": 132,
    "fichier": "data/football-ere-moderne.json"
   },
   {
    "slug": "creatures-et-legendes",
    "nom": "Creatures et legendes",
-   "nbCartes": 38,
+   "nbCartes": 52,
    "fichier": "data/creatures-et-legendes.json"
   },
   {
    "slug": "lieux-legendaires",
    "nom": "Lieux légendaires",
-   "nbCartes": 29,
+   "nbCartes": 40,
    "fichier": "data/lieux-legendaires.json"
   },
   {
    "slug": "classiques-du-cinema",
    "nom": "Classiques du cinéma",
-   "nbCartes": 70,
+   "nbCartes": 98,
    "fichier": "data/classiques-du-cinema.json"
   },
   {
    "slug": "cinema-moderne",
    "nom": "Cinéma moderne",
-   "nbCartes": 110,
+   "nbCartes": 136,
    "fichier": "data/cinema-moderne.json"
   },
   {
    "slug": "age-dor-du-jeu-video",
    "nom": "Âge d'or du jeu vidéo",
-   "nbCartes": 61,
+   "nbCartes": 86,
    "fichier": "data/age-dor-du-jeu-video.json"
   },
   {
    "slug": "jeu-video-moderne",
    "nom": "Jeu vidéo moderne",
-   "nbCartes": 89,
+   "nbCartes": 113,
    "fichier": "data/jeu-video-moderne.json"
   },
   {
    "slug": "mythologie-nordique",
    "nom": "Mythologie nordique",
-   "nbCartes": 32,
+   "nbCartes": 49,
    "fichier": "data/mythologie-nordique.json"
   },
   {
    "slug": "mythologie-egyptienne",
    "nom": "Mythologie égyptienne",
-   "nbCartes": 29,
+   "nbCartes": 41,
    "fichier": "data/mythologie-egyptienne.json"
   },
   {
    "slug": "mythologie-hindoue",
    "nom": "Mythologie hindoue",
-   "nbCartes": 34,
+   "nbCartes": 53,
    "fichier": "data/mythologie-hindoue.json"
   },
   {
    "slug": "mythologie-celtique",
    "nom": "Mythologie celtique",
-   "nbCartes": 25,
+   "nbCartes": 51,
    "fichier": "data/mythologie-celtique.json"
   },
   {
    "slug": "mythologies-asie-est",
    "nom": "Mythologies d'Asie de l'Est",
-   "nbCartes": 34,
+   "nbCartes": 54,
    "fichier": "data/mythologies-asie-est.json"
   },
   {
    "slug": "mythologies-mesoamericaines",
    "nom": "Mythologies mésoaméricaines et andines",
-   "nbCartes": 29,
+   "nbCartes": 39,
    "fichier": "data/mythologies-mesoamericaines.json"
   },
   {
    "slug": "mythologies-proche-orient",
    "nom": "Mythologies du Proche-Orient ancien",
-   "nbCartes": 31,
+   "nbCartes": 44,
    "fichier": "data/mythologies-proche-orient.json"
   },
   {
    "slug": "mythologies-slaves",
    "nom": "Mythologies slaves et baltes",
-   "nbCartes": 24,
+   "nbCartes": 35,
    "fichier": "data/mythologies-slaves.json"
   },
   {
    "slug": "mythologies-africaines",
    "nom": "Mythologies africaines",
-   "nbCartes": 21,
+   "nbCartes": 32,
    "fichier": "data/mythologies-africaines.json"
   },
   {
    "slug": "mythologies-oceanie-ameriques",
    "nom": "Mythologies océaniennes et amérindiennes",
-   "nbCartes": 24,
+   "nbCartes": 34,
    "fichier": "data/mythologies-oceanie-ameriques.json"
   },
   {
    "slug": "personnages-litterature",
    "nom": "Personnages de littérature",
-   "nbCartes": 49,
+   "nbCartes": 96,
    "fichier": "data/personnages-litterature.json"
   },
   {
    "slug": "personnages-cinema-serie",
    "nom": "Personnages de cinéma et de série",
-   "nbCartes": 53,
+   "nbCartes": 86,
    "fichier": "data/personnages-cinema-serie.json"
   },
   {
    "slug": "personnages-bd-comics",
    "nom": "Personnages de bande dessinée et de comics",
-   "nbCartes": 53,
+   "nbCartes": 92,
    "fichier": "data/personnages-bd-comics.json"
   },
   {
    "slug": "personnages-jeu-video",
    "nom": "Personnages de jeu vidéo",
-   "nbCartes": 55,
+   "nbCartes": 95,
    "fichier": "data/personnages-jeu-video.json"
   },
   {
    "slug": "personnages-animation",
    "nom": "Personnages d'animation",
-   "nbCartes": 50,
+   "nbCartes": 84,
    "fichier": "data/personnages-animation.json"
   },
   {
    "slug": "personnages-manga-anime",
    "nom": "Personnages de manga et d'anime",
-   "nbCartes": 45,
+   "nbCartes": 77,
    "fichier": "data/personnages-manga-anime.json"
   },
   {
@@ -351,145 +351,145 @@
   {
    "slug": "evenements-mythiques",
    "nom": "Événements mythiques",
-   "nbCartes": 11,
+   "nbCartes": 27,
    "fichier": "data/evenements-mythiques.json"
   },
   {
    "slug": "objets-mythiques",
    "nom": "Objets mythiques",
-   "nbCartes": 20,
+   "nbCartes": 37,
    "fichier": "data/objets-mythiques.json"
   },
   {
    "slug": "croyances-et-notions-sacrees",
    "nom": "Croyances et notions sacrées",
-   "nbCartes": 16,
+   "nbCartes": 31,
    "fichier": "data/croyances-et-notions-sacrees.json"
   },
   {
    "slug": "grands-compositeurs",
    "nom": "Grands compositeurs",
-   "nbCartes": 63,
+   "nbCartes": 109,
    "fichier": "data/grands-compositeurs.json"
   },
   {
    "slug": "oeuvres-musicales",
    "nom": "Œuvres musicales majeures",
-   "nbCartes": 70,
+   "nbCartes": 114,
    "fichier": "data/oeuvres-musicales.json"
   },
   {
    "slug": "musique-populaire",
    "nom": "Musique populaire",
-   "nbCartes": 61,
+   "nbCartes": 116,
    "fichier": "data/musique-populaire.json"
   },
   {
    "slug": "sculptures-celebres",
    "nom": "Sculptures célèbres",
-   "nbCartes": 23,
+   "nbCartes": 51,
    "fichier": "data/sculptures-celebres.json"
   },
   {
    "slug": "architectes",
    "nom": "Architectes",
-   "nbCartes": 29,
+   "nbCartes": 56,
    "fichier": "data/architectes.json"
   },
   {
    "slug": "champignons",
    "nom": "Champignons",
-   "nbCartes": 34,
+   "nbCartes": 41,
    "fichier": "data/champignons.json"
   },
   {
    "slug": "arbres",
    "nom": "Arbres",
-   "nbCartes": 40,
+   "nbCartes": 61,
    "fichier": "data/arbres.json"
   },
   {
    "slug": "fleurs",
    "nom": "Fleurs",
-   "nbCartes": 40,
+   "nbCartes": 57,
    "fichier": "data/fleurs.json"
   },
   {
    "slug": "plantes-cultivees",
    "nom": "Plantes cultivées",
-   "nbCartes": 38,
+   "nbCartes": 65,
    "fichier": "data/plantes-cultivees.json"
   },
   {
    "slug": "fromages",
    "nom": "Fromages",
-   "nbCartes": 38,
+   "nbCartes": 61,
    "fichier": "data/fromages.json"
   },
   {
    "slug": "plats-francais",
    "nom": "Plats français",
-   "nbCartes": 59,
+   "nbCartes": 92,
    "fichier": "data/plats-francais.json"
   },
   {
    "slug": "cuisines-du-monde",
    "nom": "Cuisines du monde",
-   "nbCartes": 63,
+   "nbCartes": 118,
    "fichier": "data/cuisines-du-monde.json"
   },
   {
    "slug": "philosophes",
    "nom": "Philosophes",
-   "nbCartes": 59,
+   "nbCartes": 101,
    "fichier": "data/philosophes.json"
   },
   {
    "slug": "figures-religieuses",
    "nom": "Fondateurs et figures religieuses",
-   "nbCartes": 48,
+   "nbCartes": 76,
    "fichier": "data/figures-religieuses.json"
   },
   {
    "slug": "figures-emancipation",
    "nom": "Figures de l'émancipation",
-   "nbCartes": 48,
+   "nbCartes": 82,
    "fichier": "data/figures-emancipation.json"
   },
   {
    "slug": "photographies-celebres",
    "nom": "Photographies célèbres",
-   "nbCartes": 21,
+   "nbCartes": 33,
    "fichier": "data/photographies-celebres.json"
   },
   {
    "slug": "villes-du-monde",
    "nom": "Villes du monde",
-   "nbCartes": 50,
+   "nbCartes": 97,
    "fichier": "data/villes-du-monde.json"
   },
   {
    "slug": "montagnes-et-volcans",
    "nom": "Montagnes et volcans",
-   "nbCartes": 34,
+   "nbCartes": 59,
    "fichier": "data/montagnes-et-volcans.json"
   },
   {
    "slug": "fleuves-mers-et-oceans",
    "nom": "Fleuves, mers et océans",
-   "nbCartes": 46,
+   "nbCartes": 83,
    "fichier": "data/fleuves-mers-et-oceans.json"
   },
   {
    "slug": "iles",
    "nom": "Îles",
-   "nbCartes": 40,
+   "nbCartes": 73,
    "fichier": "data/iles.json"
   },
   {
    "slug": "champions-olympiques",
    "nom": "Grands champions olympiques",
-   "nbCartes": 40,
+   "nbCartes": 61,
    "fichier": "data/champions-olympiques.json"
   },
   {
@@ -507,98 +507,134 @@
   {
    "slug": "legendes-du-sport",
    "nom": "Légendes du sport",
-   "nbCartes": 41,
+   "nbCartes": 67,
    "fichier": "data/legendes-du-sport.json"
   },
   {
    "slug": "conquete-spatiale",
    "nom": "Conquête spatiale",
-   "nbCartes": 31,
+   "nbCartes": 62,
    "fichier": "data/conquete-spatiale.json"
   },
   {
    "slug": "mineraux-et-pierres",
    "nom": "Minéraux et pierres précieuses",
-   "nbCartes": 46,
+   "nbCartes": 65,
    "fichier": "data/mineraux-et-pierres.json"
   },
   {
    "slug": "vehicules-mythiques",
    "nom": "Véhicules mythiques",
-   "nbCartes": 13,
+   "nbCartes": 16,
    "fichier": "data/vehicules-mythiques.json"
   },
   {
    "slug": "langues-du-monde",
    "nom": "Langues du monde",
-   "nbCartes": 51,
+   "nbCartes": 91,
    "fichier": "data/langues-du-monde.json"
   },
   {
    "slug": "traites-et-textes-fondateurs",
    "nom": "Traités et textes fondateurs",
-   "nbCartes": 31,
+   "nbCartes": 64,
    "fichier": "data/traites-et-textes-fondateurs.json"
   },
   {
    "slug": "mode-et-couturiers",
    "nom": "Mode et couturiers",
-   "nbCartes": 40,
+   "nbCartes": 61,
    "fichier": "data/mode-et-couturiers.json"
   },
   {
    "slug": "instruments-de-musique",
    "nom": "Instruments de musique",
-   "nbCartes": 47,
+   "nbCartes": 76,
    "fichier": "data/instruments-de-musique.json"
   },
   {
    "slug": "races-de-cheval",
    "nom": "Races de cheval",
-   "nbCartes": 37,
+   "nbCartes": 52,
    "fichier": "data/races-de-cheval.json"
   },
   {
    "slug": "series-televisees",
    "nom": "Séries télévisées",
-   "nbCartes": 57,
+   "nbCartes": 101,
    "fichier": "data/series-televisees.json"
   },
   {
    "slug": "astronautes-et-cosmonautes",
    "nom": "Astronautes et cosmonautes",
-   "nbCartes": 74,
+   "nbCartes": 104,
    "fichier": "data/astronautes-et-cosmonautes.json"
   },
   {
    "slug": "cepages",
    "nom": "Cépages célèbres",
-   "nbCartes": 64,
+   "nbCartes": 75,
    "fichier": "data/cepages.json"
   },
   {
    "slug": "monnaies-du-monde",
    "nom": "Monnaies du monde",
-   "nbCartes": 66,
+   "nbCartes": 81,
    "fichier": "data/monnaies-du-monde.json"
   },
   {
    "slug": "monnaies-historiques",
    "nom": "Monnaies historiques",
-   "nbCartes": 49,
+   "nbCartes": 70,
    "fichier": "data/monnaies-historiques.json"
   },
   {
    "slug": "noeuds",
    "nom": "Nœuds",
-   "nbCartes": 35,
+   "nbCartes": 36,
    "fichier": "data/noeuds.json"
   },
   {
    "slug": "vehicules-celebres",
    "nom": "Navires et véhicules célèbres",
-   "nbCartes": 50,
+   "nbCartes": 86,
    "fichier": "data/vehicules-celebres.json"
+  },
+  {
+   "slug": "realisateurs",
+   "nom": "Réalisateurs",
+   "nbCartes": 59,
+   "fichier": "data/realisateurs.json"
+  },
+  {
+   "slug": "acteurs-et-actrices",
+   "nom": "Acteurs et actrices",
+   "nbCartes": 60,
+   "fichier": "data/acteurs-et-actrices.json"
+  },
+  {
+   "slug": "oeuvres-litteraires",
+   "nom": "Œuvres littéraires",
+   "nbCartes": 74,
+   "fichier": "data/oeuvres-litteraires.json"
+  },
+  {
+   "slug": "jeux-de-societe",
+   "nom": "Jeux de société",
+   "nbCartes": 46,
+   "fichier": "data/jeux-de-societe.json"
+  },
+  {
+   "slug": "disciplines-sportives",
+   "nom": "Disciplines sportives",
+   "nbCartes": 52,
+   "fichier": "data/disciplines-sportives.json"
+  },
+  {
+   "slug": "mythologie-finnoise",
+   "nom": "Mythologie finnoise",
+   "nbCartes": 18,
+   "fichier": "data/mythologie-finnoise.json"
   }
  ]
 }

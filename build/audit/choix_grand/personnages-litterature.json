@@ -1,0 +1,172 @@
+{
+ "personnages-litterature_harpagon": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "personnages-litterature_don-juan": {
+  "k": 1,
+  "cy": 0.32
+ },
+ "personnages-litterature_julien-sorel": {
+  "k": 1,
+  "cy": 0.45
+ },
+ "personnages-litterature_le-petit-nicolas": {
+  "k": 4
+ },
+ "personnages-litterature_cosette": {
+  "k": 1,
+  "cy": 0.55
+ },
+ "personnages-litterature_gavroche": {
+  "k": 9,
+  "cy": 0.3
+ },
+ "personnages-litterature_la-esmeralda-personnage": {
+  "k": 3,
+  "cy": 0.35
+ },
+ "personnages-litterature_aramis": {
+  "k": 4,
+  "cy": 0.4
+ },
+ "personnages-litterature_milady-de-winter": {
+  "k": 5
+ },
+ "personnages-litterature_le-petit-chaperon-rouge": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "personnages-litterature_la-barbe-bleue": {
+  "k": 0,
+  "cy": 0.38
+ },
+ "personnages-litterature_le-maitre-chat-ou-le-chat-botte": {
+  "k": 3
+ },
+ "personnages-litterature_heidi-roman": {
+  "k": 10,
+  "cy": 0.6
+ },
+ "personnages-litterature_fifi-brindacier": {
+  "k": 3
+ },
+ "personnages-litterature_mowgli": {
+  "k": 3
+ },
+ "personnages-litterature_winnie-l-ourson": {
+  "k": 2
+ },
+ "personnages-litterature_babar": {
+  "k": 5
+ },
+ "personnages-litterature_le-merveilleux-voyage-de-nils-holgersson-a-travers-la-suede": {
+  "k": 9
+ },
+ "personnages-litterature_bilbon-sacquet": {
+  "k": 11,
+  "cy": 0.38
+ },
+ "personnages-litterature_sauron": {
+  "k": 1
+ },
+ "personnages-litterature_albus-dumbledore": {
+  "k": 2
+ },
+ "personnages-litterature_voldemort": {
+  "k": 11
+ },
+ "personnages-litterature_jon-snow": {
+  "k": 0
+ },
+ "personnages-litterature_tyrion-lannister": {
+  "k": 2
+ },
+ "personnages-litterature_holden-caulfield": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "personnages-litterature_jay-gatsby": {
+  "k": 3,
+  "cy": 0.3
+ },
+ "personnages-litterature_scarlett-o-hara": {
+  "k": 5,
+  "cy": 0.3
+ },
+ "personnages-litterature_jane-eyre-personnage": {
+  "k": 4,
+  "cy": 0.33
+ },
+ "personnages-litterature_elizabeth-bennet": {
+  "k": 9,
+  "cy": 0.3
+ },
+ "personnages-litterature_robin-des-bois": {
+  "k": 11
+ },
+ "personnages-litterature_tom-sawyer": {
+  "k": 3,
+  "cy": 0.42
+ },
+ "personnages-litterature_les-aventures-de-huckleberry-finn": {
+  "k": 3,
+  "cy": 0.4
+ },
+ "personnages-litterature_katniss-everdeen": {
+  "k": 9,
+  "cy": 0.4
+ },
+ "personnages-litterature_lisbeth-salander": {
+  "k": 5
+ },
+ "personnages-litterature_professeur-moriarty": {
+  "k": 9,
+  "cy": 0.3
+ },
+ "personnages-litterature_miss-marple": {
+  "k": 11,
+  "cy": 0.35
+ },
+ "personnages-litterature_rouletabille": {
+  "k": 5,
+  "cy": 0.33
+ },
+ "personnages-litterature_macbeth-personnage": {
+  "k": 3
+ },
+ "personnages-litterature_othello-personnage": {
+  "k": 0
+ },
+ "personnages-litterature_le-roi-lear": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "personnages-litterature_iago": {
+  "k": 2,
+  "cy": 0.3
+ },
+ "personnages-litterature_les-souffrances-du-jeune-werther": {
+  "k": 1,
+  "cy": 0.38
+ },
+ "personnages-litterature_mephistopheles": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "personnages-litterature_porthos": {
+  "k": 0,
+  "cy": 0.42
+ },
+ "personnages-litterature_eugene-de-rastignac": {
+  "k": 1,
+  "cy": 0.45
+ },
+ "personnages-litterature_gargantua": {
+  "k": 4,
+  "cy": 0.38
+ },
+ "personnages-litterature_docteur-watson": {
+  "k": 4
+ }
+}

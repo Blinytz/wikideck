@@ -109,6 +109,17 @@ ROLES = {
     # Un plat restaure : defense, comme les fromages.
     'plats-francais': 'defense',
     'cuisines-du-monde': 'defense',
+    # Grand complement du 26/09/2026. Le realisateur ordonne le plateau
+    # (defense, comme l'architecte), l'acteur emporte la scene (attaque),
+    # l'oeuvre litteraire pose un monde (terrain, comme l'oeuvre musicale),
+    # le jeu de societe fixe les regles de la partie (terrain), la discipline
+    # sportive est un affrontement (attaque). La mythologie finnoise suit les
+    # autres mythologies du monde.
+    'realisateurs': 'defense',
+    'acteurs-et-actrices': 'attaque',
+    'oeuvres-litteraires': 'terrain',
+    'jeux-de-societe': 'terrain',
+    'disciplines-sportives': 'attaque',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -137,7 +148,7 @@ HERITAGES = {
         'mythologie-celtique', 'mythologies-asie-est',
         'mythologies-mesoamericaines', 'mythologies-proche-orient',
         'mythologies-slaves', 'mythologies-africaines',
-        'mythologies-oceanie-ameriques')},
+        'mythologies-oceanie-ameriques', 'mythologie-finnoise')},
     **{s: 'personnages-de-fiction-celebres' for s in (
         'personnages-litterature', 'personnages-cinema-serie',
         'personnages-bd-comics', 'personnages-jeu-video',
@@ -224,6 +235,11 @@ DECLENCHEURS = {
     'noeuds': 'si la carte adverse est un terrain',
     'plats-francais': 'quand la Base passe sous 50 % de ses PV',
     'cuisines-du-monde': 'quand la Base passe sous 50 % de ses PV',
+    'realisateurs': 'si au moins 2 cartes du même type sont jouées ce tour',
+    'acteurs-et-actrices': 'après avoir gagné le duel du tour',
+    'oeuvres-litteraires': 'au premier tour uniquement',
+    'jeux-de-societe': 'si au moins 2 cartes jouées ce tour partagent un tag',
+    'disciplines-sportives': 'si une autre carte de sa collection est en jeu',
 }
 
 for _nouveau, _source in HERITAGES.items():

@@ -42,6 +42,12 @@ REFAIRE_RETOUCHEES = {'Florin', 'Thaler', 'Denier franc', 'Gros tournois', 'Aure
 
 
 def source(c, sources, cad=()):
+    # grand complement : l'image entiere choisie a l'oeil est dans originaux/,
+    # l'image de la carte n'en est qu'un recadrage 4:3 qui couperait un billet
+    if (sources.get(c['id']) or {}).get('source') == 'grand-complement':
+        f = RACINE / 'images' / 'originaux' / c['id'].split('_', 1)[0] / (c['id'].split('_', 1)[1] + '.webp')
+        if f.exists():
+            return Image.open(f).convert('RGBA'), 'grand-complement'
     if c['id'] in cad:
         return Image.open(RACINE / c['imageUrl']).convert('RGBA'), 'atelier'
     f = (sources.get(c['id']) or {}).get('fichier')
@@ -185,6 +191,7 @@ def detourer_au_mieux(im, session, c, candidats):
 
 def main():
     apercu = '--apercu' in sys.argv
+    seuls_neuves = '--neuves' in sys.argv       # grand complement seulement
     seuls = [sys.argv[i + 1] for i, a in enumerate(sys.argv) if a == '--seul']
     slugs = [a for a in sys.argv[1:] if not a.startswith('--') and a not in seuls]
     session = new_session('birefnet-general')
@@ -204,7 +211,10 @@ def main():
             cartes = [c for c in cartes if c['nom'] in seuls]
         faites, epargnees = 0, 0
         for c in cartes:
-            if c['id'] in cad and c['nom'] not in REFAIRE_RETOUCHEES:
+            neuve = (sources.get(c['id']) or {}).get('source') == 'grand-complement'
+            if seuls_neuves and not neuve:
+                continue
+            if c['id'] in cad and c['nom'] not in REFAIRE_RETOUCHEES and not neuve:
                 epargnees += 1
                 continue
             im, origine = source(c, sources, cad)

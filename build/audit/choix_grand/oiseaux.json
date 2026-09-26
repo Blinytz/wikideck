@@ -1,0 +1,21 @@
+{
+  "oiseaux_pigeon-biset": {"k": 10},
+  "oiseaux_tourterelle-turque": {"k": 11},
+  "oiseaux_alouette-des-champs": {"k": 10},
+  "oiseaux_mesange-charbonniere": {"k": 9},
+  "oiseaux_mouette-rieuse": {"k": 11},
+  "oiseaux_goeland-argente": {"k": 9},
+  "oiseaux_grand-cormoran": {"k": 9},
+  "oiseaux_dinde-domestique-b": {"k": 2},
+  "oiseaux_faisan-de-colchide": {"k": 11},
+  "oiseaux_pintade-de-numidie": {"k": 8},
+  "oiseaux_caille-des-bles": {"k": 10},
+  "oiseaux_buse-variable": {"k": 11},
+  "oiseaux_milan-royal": {"k": 0},
+  "oiseaux_marabout-d-afrique": {"k": 5},
+  "oiseaux_spatule-blanche": {"k": 2},
+  "oiseaux_serin-des-canaries": {"k": 0},
+  "oiseaux_nestor-kea": {"k": 8},
+  "oiseaux_guepier-d-europe": {"k": 0},
+  "oiseaux_nandou-d-amerique": {"k": 1}
+}

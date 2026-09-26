@@ -1,0 +1,131 @@
+{
+ "philosophes_thales": {
+  "k": 10
+ },
+ "philosophes_anaximandre": {
+  "k": 0
+ },
+ "philosophes_protagoras": {
+  "k": 1
+ },
+ "philosophes_boece": {
+  "k": 6
+ },
+ "philosophes_pierre-abelard": {
+  "k": 7
+ },
+ "philosophes_anselme-de-cantorbery": {
+  "k": 2,
+  "cy": 0.4
+ },
+ "philosophes_al-farabi": {
+  "k": 4
+ },
+ "philosophes_nicolas-malebranche": {
+  "k": 0
+ },
+ "philosophes_george-berkeley": {
+  "k": 0
+ },
+ "philosophes_nicolas-de-condorcet": {
+  "k": 0
+ },
+ "philosophes_jeremy-bentham": {
+  "k": 11
+ },
+ "philosophes_johann-gottlieb-fichte": {
+  "k": 0
+ },
+ "philosophes_friedrich-wilhelm-joseph-von-schelling": {
+  "k": 4
+ },
+ "philosophes_friedrich-engels": {
+  "k": 0
+ },
+ "philosophes_pierre-joseph-proudhon": {
+  "k": 1
+ },
+ "philosophes_mikhail-bakounine": {
+  "k": 1
+ },
+ "philosophes_alexis-de-tocqueville": {
+  "k": 1
+ },
+ "philosophes_auguste-comte": {
+  "k": 0
+ },
+ "philosophes_william-james": {
+  "k": 1
+ },
+ "philosophes_john-dewey": {
+  "k": 1
+ },
+ "philosophes_gottlob-frege": {
+  "k": 0
+ },
+ "philosophes_willard-van-orman-quine": {
+  "k": 1
+ },
+ "philosophes_daniel-dennett": {
+  "k": 5
+ },
+ "philosophes_peter-singer": {
+  "k": 5
+ },
+ "philosophes_alain-philosophe": {
+  "k": 0
+ },
+ "philosophes_gaston-bachelard": {
+  "k": 0
+ },
+ "philosophes_emmanuel-levinas": {
+  "k": 3
+ },
+ "philosophes_paul-ric-ur": {
+  "k": 0
+ },
+ "philosophes_roland-barthes": {
+  "k": 5
+ },
+ "philosophes_walter-benjamin": {
+  "k": 0
+ },
+ "philosophes_theodor-w-adorno": {
+  "k": 4
+ },
+ "philosophes_herbert-marcuse": {
+  "k": 0
+ },
+ "philosophes_antonio-gramsci": {
+  "k": 0
+ },
+ "philosophes_mozi": {
+  "k": 0
+ },
+ "philosophes_xun-zi": {
+  "k": 4
+ },
+ "philosophes_wang-yangming": {
+  "k": 1,
+  "cy": 0.38
+ },
+ "philosophes_zhu-xi": {
+  "k": 1,
+  "cy": 0.5
+ },
+ "philosophes_dogen": {
+  "k": 2
+ },
+ "philosophes_vishnugupta-chanakya": {
+  "k": 0
+ },
+ "philosophes_jiddu-krishnamurti": {
+  "k": 0
+ },
+ "philosophes_zera-yacob": {
+  "k": 6
+ },
+ "philosophes_cheikh-anta-diop": {
+  "k": 8
+ }
+}

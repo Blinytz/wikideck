@@ -1,0 +1,144 @@
+{
+ "series-televisees_the-mandalorian": {
+  "k": 3
+ },
+ "series-televisees_freres-d-armes": {
+  "k": 9
+ },
+ "series-televisees_rome-serie-televisee": {
+  "k": 7
+ },
+ "series-televisees_boardwalk-empire": {
+  "k": 3
+ },
+ "series-televisees_ozark-serie-televisee": {
+  "k": 7,
+  "cx": 0.6
+ },
+ "series-televisees_the-boys-serie-televisee": {
+  "k": 5
+ },
+ "series-televisees_house-of-cards-serie-televisee-2013": {
+  "k": 6
+ },
+ "series-televisees_a-la-maison-blanche": {
+  "k": 8
+ },
+ "series-televisees_24-heures-chrono": {
+  "k": 11
+ },
+ "series-televisees_la-quatrieme-dimension-serie-televisee": {
+  "k": 2,
+  "cx": 0.6
+ },
+ "series-televisees_dallas-serie-televisee-1978": {
+  "k": 6
+ },
+ "series-televisees_zorro-serie-televisee-1957": {
+  "k": 3,
+  "cy": 0.4
+ },
+ "series-televisees_ma-sorciere-bien-aimee": {
+  "k": 10,
+  "cy": 0.4
+ },
+ "series-televisees_la-petite-maison-dans-la-prairie": {
+  "k": 5
+ },
+ "series-televisees_happy-days-serie-televisee": {
+  "k": 8
+ },
+ "series-televisees_amicalement-votre": {
+  "k": 0
+ },
+ "series-televisees_les-mysteres-de-l-ouest": {
+  "k": 0
+ },
+ "series-televisees_scrubs": {
+  "k": 9
+ },
+ "series-televisees_malcolm-serie-televisee": {
+  "k": 0
+ },
+ "series-televisees_brooklyn-nine-nine": {
+  "k": 11
+ },
+ "series-televisees_les-griffin": {
+  "k": 4
+ },
+ "series-televisees_bojack-horseman": {
+  "k": 10
+ },
+ "series-televisees_arcane-serie-d-animation": {
+  "k": 7
+ },
+ "series-televisees_avatar-le-dernier-maitre-de-l-air": {
+  "k": 7
+ },
+ "series-televisees_neon-genesis-evangelion": {
+  "k": 10
+ },
+ "series-televisees_l-attaque-des-titans": {
+  "k": 2
+ },
+ "series-televisees_lupin-serie-televisee-2021": {
+  "k": 4
+ },
+ "series-televisees_baron-noir": {
+  "k": 8,
+  "w": 0.724,
+  "cx": 0.362,
+  "cy": 0.5
+ },
+ "series-televisees_un-village-francais": {
+  "k": 1
+ },
+ "series-televisees_les-revenants-serie-televisee": {
+  "k": 10
+ },
+ "series-televisees_camera-cafe-serie-televisee-2001": {
+  "k": 8
+ },
+ "series-televisees_plus-belle-la-vie": {
+  "k": 8
+ },
+ "series-televisees_les-brigades-du-tigre-serie-televisee": {
+  "k": 8
+ },
+ "series-televisees_belphegor-ou-le-fantome-du-louvre": {
+  "k": 4,
+  "cx": 0.65
+ },
+ "series-televisees_inspecteur-derrick": {
+  "k": 7
+ },
+ "series-televisees_borgen-une-femme-au-pouvoir": {
+  "k": 8,
+  "cy": 0.3
+ },
+ "series-televisees_bron-serie-televisee": {
+  "k": 3,
+  "cy": 0.49
+ },
+ "series-televisees_babylon-berlin": {
+  "k": 10
+ },
+ "series-televisees_gomorra-serie-televisee": {
+  "k": 8
+ },
+ "series-televisees_severance-serie-televisee": {
+  "k": 7
+ },
+ "series-televisees_the-bear-serie-televisee": {
+  "k": 7
+ },
+ "series-televisees_shogun-serie-televisee": {
+  "k": 5
+ },
+ "series-televisees_euphoria-serie-televisee": {
+  "k": 11
+ },
+ "series-televisees_fleabag": {
+  "k": 8
+ }
+}

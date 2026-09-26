@@ -1,0 +1,158 @@
+{
+ "disciplines-sportives_football": {
+  "k": 1
+ },
+ "disciplines-sportives_rugby-a-xv": {
+  "k": 0
+ },
+ "disciplines-sportives_basket-ball": {
+  "k": 5
+ },
+ "disciplines-sportives_volley-ball": {
+  "k": 5
+ },
+ "disciplines-sportives_handball": {
+  "k": 8
+ },
+ "disciplines-sportives_tennis": {
+  "k": 2
+ },
+ "disciplines-sportives_tennis-de-table": {
+  "k": 10
+ },
+ "disciplines-sportives_badminton": {
+  "k": 3
+ },
+ "disciplines-sportives_golf": {
+  "k": 2
+ },
+ "disciplines-sportives_baseball": {
+  "k": 0
+ },
+ "disciplines-sportives_cricket": {
+  "k": 3
+ },
+ "disciplines-sportives_football-americain": {
+  "k": 4
+ },
+ "disciplines-sportives_hockey-sur-glace": {
+  "k": 2
+ },
+ "disciplines-sportives_hockey-sur-gazon": {
+  "k": 5
+ },
+ "disciplines-sportives_water-polo": {
+  "k": 3
+ },
+ "disciplines-sportives_athletisme": {
+  "k": 6
+ },
+ "disciplines-sportives_marathon-sport": {
+  "k": 7
+ },
+ "disciplines-sportives_natation": {
+  "k": 6
+ },
+ "disciplines-sportives_plongeon": {
+  "k": 6
+ },
+ "disciplines-sportives_gymnastique-artistique": {
+  "k": 2
+ },
+ "disciplines-sportives_cyclisme-sur-route": {
+  "k": 4
+ },
+ "disciplines-sportives_ski-alpin": {
+  "k": 4
+ },
+ "disciplines-sportives_ski-de-fond": {
+  "k": 1
+ },
+ "disciplines-sportives_biathlon": {
+  "k": 11
+ },
+ "disciplines-sportives_patinage-artistique": {
+  "k": 3
+ },
+ "disciplines-sportives_snowboard": {
+  "k": 10
+ },
+ "disciplines-sportives_boxe-anglaise": {
+  "k": 3
+ },
+ "disciplines-sportives_judo": {
+  "k": 6
+ },
+ "disciplines-sportives_karate": {
+  "k": 3
+ },
+ "disciplines-sportives_taekwondo": {
+  "k": 3
+ },
+ "disciplines-sportives_lutte": {
+  "k": 4
+ },
+ "disciplines-sportives_sumo": {
+  "k": 1
+ },
+ "disciplines-sportives_escrime": {
+  "k": 3
+ },
+ "disciplines-sportives_tir-a-l-arc": {
+  "k": 7
+ },
+ "disciplines-sportives_equitation": {
+  "k": 4
+ },
+ "disciplines-sportives_aviron-sport": {
+  "k": 6
+ },
+ "disciplines-sportives_canoe-kayak": {
+  "k": 4
+ },
+ "disciplines-sportives_nautisme-voile": {
+  "k": 3
+ },
+ "disciplines-sportives_surf": {
+  "k": 2
+ },
+ "disciplines-sportives_skateboard": {
+  "k": 5
+ },
+ "disciplines-sportives_escalade": {
+  "k": 3
+ },
+ "disciplines-sportives_alpinisme": {
+  "k": 3
+ },
+ "disciplines-sportives_petanque": {
+  "k": 3
+ },
+ "disciplines-sportives_billard": {
+  "k": 4
+ },
+ "disciplines-sportives_formule-1": {
+  "k": 2
+ },
+ "disciplines-sportives_pelote-basque": {
+  "k": 9
+ },
+ "disciplines-sportives_polo": {
+  "k": 0
+ },
+ "disciplines-sportives_triathlon": {
+  "k": 10
+ },
+ "disciplines-sportives_halterophilie": {
+  "k": 2
+ },
+ "disciplines-sportives_arts-martiaux-mixtes": {
+  "k": 11
+ },
+ "disciplines-sportives_capoeira": {
+  "k": 10
+ },
+ "disciplines-sportives_curling": {
+  "k": 5
+ }
+}

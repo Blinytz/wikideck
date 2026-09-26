@@ -1,0 +1,117 @@
+{
+ "personnages-cinema-serie_chewbacca": {
+  "k": 7
+ },
+ "personnages-cinema-serie_obi-wan-kenobi": {
+  "k": 4,
+  "cx": 0.45
+ },
+ "personnages-cinema-serie_palpatine": {
+  "k": 4
+ },
+ "personnages-cinema-serie_boba-fett": {
+  "k": 3,
+  "cx": 0.55
+ },
+ "personnages-cinema-serie_grogu": {
+  "k": 3
+ },
+ "personnages-cinema-serie_r2-d2": {
+  "k": 7
+ },
+ "personnages-cinema-serie_c-3po": {
+  "k": 11,
+  "w": 0.75,
+  "cx": 0.48,
+  "cy": 0.55
+ },
+ "personnages-cinema-serie_james-tiberius-kirk": {
+  "k": 5,
+  "cx": 0.55
+ },
+ "personnages-cinema-serie_spock-star-trek": {
+  "k": 6
+ },
+ "personnages-cinema-serie_charlot": {
+  "k": 5
+ },
+ "personnages-cinema-serie_hal-9000": {
+  "k": 11
+ },
+ "personnages-cinema-serie_sarah-connor-terminator": {
+  "k": 4
+ },
+ "personnages-cinema-serie_robocop-personnage": {
+  "k": 7,
+  "cx": 0.6
+ },
+ "personnages-cinema-serie_rick-deckard": {
+  "k": 8
+ },
+ "personnages-cinema-serie_ghostface": {
+  "k": 1,
+  "cy": 0.4
+ },
+ "personnages-cinema-serie_chucky": {
+  "k": 10,
+  "cx": 0.45
+ },
+ "personnages-cinema-serie_ca-personnage": {
+  "k": 1,
+  "cx": 0.45
+ },
+ "personnages-cinema-serie_leatherface": {
+  "k": 8,
+  "cx": 0.555
+ },
+ "personnages-cinema-serie_alien-creature": {
+  "k": 11
+ },
+ "personnages-cinema-serie_predator-creature": {
+  "k": 2
+ },
+ "personnages-cinema-serie_harry-callahan-personnage": {
+  "k": 4,
+  "cx": 0.62
+ },
+ "personnages-cinema-serie_personnages-de-mission-impossible": {
+  "k": 1
+ },
+ "personnages-cinema-serie_jason-bourne": {
+  "k": 2,
+  "cx": 0.45
+ },
+ "personnages-cinema-serie_beatrix-kiddo": {
+  "k": 10,
+  "cx": 0.4
+ },
+ "personnages-cinema-serie_hans-landa": {
+  "k": 2
+ },
+ "personnages-cinema-serie_buffy-summers": {
+  "k": 11
+ },
+ "personnages-cinema-serie_fox-mulder": {
+  "k": 7
+ },
+ "personnages-cinema-serie_angus-macgyver": {
+  "k": 5
+ },
+ "personnages-cinema-serie_j-r-ewing": {
+  "k": 9
+ },
+ "personnages-cinema-serie_jesse-pinkman": {
+  "k": 7
+ },
+ "personnages-cinema-serie_les-visiteurs-serie-de-films": {
+  "k": 3,
+  "cx": 0.45
+ },
+ "personnages-cinema-serie_francois-pignon": {
+  "k": 3
+ },
+ "personnages-cinema-serie_ludovic-cruchot": {
+  "k": 1,
+  "cx": 0.62
+ }
+}

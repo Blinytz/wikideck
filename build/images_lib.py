@@ -222,14 +222,27 @@ def tmdb_poster(titre, cle_api):
 # ------------------------------------------------------------ recherche Bing
 
 def bing_images(requete, n=8):
-    url = ('https://www.bing.com/images/search?' +
-           urllib.parse.urlencode({'q': requete, 'count': 35, 'qft': '+filterui:imagesize-large'}))
-    data = http_get(url, navigateur=True)
-    if not data:
-        return []
-    html = data.decode('utf-8', errors='replace')
-    urls = re.findall(r'&quot;murl&quot;:&quot;(https?://[^&]+?)&quot;', html) or \
-           re.findall(r'"murl":"(https?://[^"]+?)"', html)
+    # Bing sert d'une requete a l'autre deux mises en page : les adresses
+    # sont dans les attributs « m » (murl) ou dans des liens « mediaurl=... ».
+    # Et une page sans resultat n'est pas rare : on retente, avec puis sans
+    # le filtre de taille.
+    urls = []
+    for essai, params in enumerate(({'q': requete, 'count': 35, 'qft': '+filterui:imagesize-large'},
+                                    {'q': requete, 'count': 35},
+                                    {'q': requete, 'form': 'HDRSC2', 'first': 1})):
+        url = 'https://www.bing.com/images/search?' + urllib.parse.urlencode(params)
+        data = http_get(url, cache=False, navigateur=True)
+        if not data:
+            continue
+        html = data.decode('utf-8', errors='replace')
+        trouves = re.findall(r'&quot;murl&quot;:&quot;(https?://[^&]+?)&quot;', html) or \
+            re.findall(r'"murl":"(https?://[^"]+?)"', html) or \
+            [urllib.parse.unquote(u) for u in
+             re.findall(r'[?&;]mediaurl=(https?%3a[^&"]+)', html)]
+        if len(trouves) > len(urls):
+            urls = trouves
+        if len(urls) >= 8:
+            break
     vus, out = set(), []
     for u in urls:
         u = u.replace('\\/', '/')

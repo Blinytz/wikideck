@@ -1,0 +1,21 @@
+{
+ "mythologie-hindoue_matsya": {"k": 7},
+ "mythologie-hindoue_varaha": {"k": 11, "cy": 0.35},
+ "mythologie-hindoue_parashurama": {"k": 5},
+ "mythologie-hindoue_kalki": {"k": 3, "cy": 0.4},
+ "mythologie-hindoue_lakshmana": {"k": 5},
+ "mythologie-hindoue_bhishma": {"k": 4},
+ "mythologie-hindoue_duryodhana": {"k": 11},
+ "mythologie-hindoue_yudhishthira": {"k": 11},
+ "mythologie-hindoue_jatayu": {"k": 10},
+ "mythologie-hindoue_kumbhakarna": {"k": 6},
+ "mythologie-hindoue_radha": {"k": 6, "cy": 0.4},
+ "mythologie-hindoue_narada": {"k": 7},
+ "mythologie-hindoue_chandra-divinite": {"k": 3},
+ "mythologie-hindoue_kama-divinite": {"k": 10, "cy": 0.45},
+ "mythologie-hindoue_vishvakarma": {"k": 9},
+ "mythologie-hindoue_ananta": {"k": 2},
+ "mythologie-hindoue_vasuki": {"k": 2},
+ "mythologie-hindoue_mahishasura": {"k": 8},
+ "mythologie-hindoue_rahu": {"k": 8}
+}

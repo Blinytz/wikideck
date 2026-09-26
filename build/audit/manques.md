@@ -1,0 +1,843 @@
+# Tour des 100 listes : les manques (26/09/2026)
+
+Pour chaque collection : les cartes absentes qui sautent aux yeux, les plus flagrantes d'abord.
+Les noms marqués ⚠ existent déjà ailleurs sous le même nom : ils demandent une précision (le contrôle des homonymes bloque).
+
+## 1. Les cinq trous les plus visibles
+
+- **Mythologie celtique** : aucune figure arthurienne. Roi Arthur, Merlin, Morgane, Viviane, Lancelot, Guenièvre, Perceval, Tristan et Iseult, alors qu'Excalibur, le Graal et la Table ronde sont déjà en cartes.
+- **Musique populaire** (61) : ni Elton John, ni ABBA, ni Marvin Gaye, ni Eminem, ni Taylor Swift, ni Céline Dion, ni Stromae, ni Goldman.
+- **Villes du monde** (50) : ni Los Angeles, Montréal, Madrid, Florence, Bruxelles, Marseille, Lyon, Hong Kong, Alexandrie ou La Mecque.
+- **Football** : aucune joueuse (Marta, Mia Hamm, Alexia Putellas, Aitana Bonmatí, Wendie Renard, Ada Hegerberg). Et chez les modernes, ni Lamine Yamal ni Ousmane Dembélé, Ballon d'or 2025.
+- **Grands compositeurs** : six compositeurs n'ont aucune œuvre, contre la règle « une œuvre par grand compositeur ». Il s'agit d'Arvo Pärt, Ennio Morricone, Hans Zimmer, Nino Rota, Toru Takemitsu et John Williams.
+
+## 2. Collections qui manquent entièrement
+
+- **Réalisateurs** : 180 films, mais ni Hitchcock, Kubrick, Spielberg, Kurosawa, Truffaut ou Miyazaki.
+- **Acteurs et actrices** : Chaplin, Marilyn Monroe, Alain Delon, Louis de Funès, Meryl Streep, etc.
+- **Œuvres littéraires** : 257 auteurs et 49 personnages, mais aucun livre (Les Misérables, Don Quichotte, 1984, Madame Bovary…).
+- **Jeux de société** : échecs, go, Monopoly, Scrabble, tarot, Donjons et Dragons…
+- **Disciplines sportives** : football, rugby, judo, escrime, sumo, surf…
+- **Araignées et autres arthropodes** : mygale, veuve noire, scorpion, tique, scolopendre, limule. Les insectes s'arrêtent aux six pattes.
+- **Mythologie finnoise** : Väinämöinen, Ilmarinen, Louhi, Ukko, Lemminkäinen. Le Sampo est déjà en objet mythique.
+
+## 3. Collection par collection
+
+### Mythologies
+- **Grecques** (82) :
+  - Titans et dieux : Thémis, Mnémosyne, Océan, Hypérion, Léto, Maïa, Niké, Iris, Éos.
+  - Héros et figures : Atalante, Médée, Andromède, Europe, Ganymède, Adonis, Castor et Pollux, Midas, Tantale, Ajax, Énée, Priam, Andromaque, Électre, Oreste, Clytemnestre, Iphigénie, Phèdre.
+  - Créatures : Centaure, Cyclope, Gorgones, Satyre, Nymphe, Talos.
+- **Nordique** (32) :
+  - Dieux et proches : Höd, Mímir, Ægir, Rán, Sigyn, Nanna, Angrboda.
+  - Héros : Brynhild, Völund, Regin.
+  - Créatures et origines : Audhumla, Ask et Embla, Sköll et Hati, Garm, Thrym, Beowulf, Grendel.
+- **Égyptienne** (29) :
+  - Dieux : Atoum, Aton, Mout, Neith, Taouret, Min, Montou, Hâpy, Heqet, Néfertoum, Oupouaout.
+  - Figures : Apis, Imhotep (⚠ déjà en architecte).
+- **Hindoue** (34) :
+  - Avatars de Vishnou : Matsya, Varaha, Parashurama et Kalki complètent les avatars présents.
+  - Mahabharata et Ramayana : Lakshmana, Bhishma, Duryodhana, Yudhishthira, Jatayu, Kumbhakarna.
+  - Dieux et sages : Radha, Narada, Chandra, Kama, Vishvakarma.
+  - Créatures : Kamadhenu, Shesha, Vasuki, Mahishasura, Rahu.
+- **Celtique** (25) :
+  - Cycle arthurien : voir plus haut.
+  - Irlande : Ossian, Deirdre, Macha, Badb, Goibniu, Dian Cecht, les Enfants de Lir, Tuatha Dé Danann, Fomoires.
+  - Pays de Galles : Bran le Béni, Taliesin, Ceridwen, Blodeuwedd, Gwydion.
+  - Gaule : Ésus, Sucellos.
+- **Asie de l'Est** (34) :
+  - Chine : Houyi, Yu le Grand, l'Empereur Jaune, Zhong Kui, Guandi, les Huit Immortels, Mazu, Nian, Jiangshi, le Serpent blanc, Zhu Bajie.
+  - Japon :
+    - dieux : Hotei, Bishamonten, Jizō ;
+    - yōkai : Tanuki, Yuki-onna, Baku, Namazu ;
+    - contes : Momotarō, Urashima Tarō, Kaguya-hime.
+  - Corée : Gumiho, Dokkaebi, Haetae.
+- **Mésoaméricaines et andines** (29) :
+  - Aztèques : Mayahuel, Mixcoatl, Tlazolteotl, Centeotl, Itzpapalotl.
+  - Mayas : Huracan, Kinich Ahau, Ixtab.
+  - Andes : Pachacamac, Supay, Mama Ocllo, Mama Cocha, Ekeko.
+- **Proche-Orient** (31) :
+  - Mésopotamie : Enki, Nabu, Ashur, Lilith, Pazuzu, Lamassu, Utnapishtim, Kingu.
+  - Canaan : Dagon, El, Asherah, Moloch, Anat.
+  - Perse : Sohrab, Kaveh, Péri, Div.
+- **Slaves et baltes** (24) :
+  - Dieux slaves : Marzanna, Triglav, Svetovid, Rod.
+  - Esprits : Vila, Poludnitsa, Gamayun.
+  - Héros et contes : Ilia Mouromets, Sadko, Vassilissa, Ivan Tsarévitch.
+  - Baltes : Saulė, Dievas, Velnias, Žemyna.
+- **Africaines** (21) :
+  - Yoruba : Olokun, Babalu Aye, Ochosi, Osanyin.
+  - Fon : Mawu-Lisa, Nana Buluku, Heviosso, Sakpata.
+  - Autres dieux : Nzambi a Mpungu, Nommo, Ngai, Kaang, Mwari, Leza, Kalunga.
+  - Créatures : Tokoloshe, Impundulu, Ninki Nanka, Grootslang.
+- **Océanie et Amériques** (24) :
+  - Océanie : Tiki, Rongo, Tū, Menehune, Taniwha, Baiame, Wandjina, Yowie, Makemake, Tawhaki.
+  - Amérique du Nord : le Corbeau, Iktomi, la Femme tombée du ciel, Kachina, Grand-mère Araignée, Gitche Manitou, Skinwalker.
+  - Amérique du Sud : Tupã, Curupira, Saci, Iara, Boto.
+- **Créatures et légendes** (38) : Mélusine, Sorcière, Fantôme, Nain, Géant, Wyvern, Croque-mitaine, Dahu, Dame blanche, Démon, Lutin, Serpent de mer, Doppelgänger, Succube, Lamia.
+- **Lieux légendaires** (29) :
+  - Grèce : Olympe (⚠ Mont Olympe existe), Tartare, Champs Élysées, Jardin des Hespérides.
+  - Autres mondes : Asgard, Midgard, Xibalba, Mictlan, Kunlun, Mont Meru, Lyonesse, Tír na nÓg.
+- **Événements mythiques** (11) :
+  - Bible : Chute d'Adam et Ève, Caïn et Abel, Plaies d'Égypte, Passage de la mer Rouge, Sacrifice d'Isaac.
+  - Grèce et Rome : Enlèvement de Perséphone, Expédition des Argonautes, Odyssée, Vol du feu par Prométhée, Descente d'Orphée aux Enfers, Fondation de Rome.
+  - Autres traditions :
+    - Nord et Égypte : Guerre des Ases et des Vanes, Mort de Baldr, Meurtre d'Osiris, Pesée du cœur ;
+    - Moyen Âge : Quête du Graal ;
+    - Asie : Guerre de Lanka, Houyi et les dix soleils, Nüwa répare le ciel ;
+    - Aztèques : les Cinq Soleils.
+- **Objets mythiques** (20) :
+  - Grèce : Trident de Poséidon, Casque d'Hadès, Talonnières d'Hermès, Pomme de discorde, Anneau de Gygès.
+  - Nord et monde celte : Gjallarhorn, Brisingamen, Gram, Chaudron du Dagda, Lia Fáil.
+  - Bible : Tables de la Loi, Lance de Longinus, Sceau de Salomon.
+  - Contes : Lampe d'Aladin, Bottes de sept lieues.
+  - Asie : Kusanagi, Ruyi Jingu Bang, Sudarshana Chakra, Trishula.
+  - Égypte et Mésopotamie : Oudjat, Ânkh, Tablette des destins.
+  - Épées de chanson de geste : Tizona.
+- **Véhicules mythiques** (13) : Char de feu d'Élie, Char de Thor, Barque de Charon, Nuage de Sun Wukong, Traîneau du Père Noël, Carrosse-citrouille de Cendrillon, Mortier de Baba Yaga, Navire de Thésée, Char de Freyja.
+- **Croyances et notions sacrées** (16) :
+  - Asie : Nirvana, Dharma, Tao, Qi, Kami, Ahimsa, Mantra, Mandala, Om.
+  - Chamanismes et tribus : Mana, Tabou, Totémisme.
+  - Religions : Ange, Résurrection, Oracle, Kabbale, Soufisme, Gnose.
+
+### Histoire
+- **Souverains et conquérants** (91) :
+  - Amériques : Moctezuma II (seul Moctezuma Ier est présent), Atahualpa.
+  - Antiquité : Sargon d'Akkad, Philippe II de Macédoine, Hadrien, Dioclétien, Néfertiti, Khéops, Thoutmôsis III, Chandragupta Maurya.
+  - Moyen Âge : Alfred le Grand, Canut le Grand, Otton Ier, Basile II.
+  - Europe moderne :
+    - France : Louis XI, Louis XV, Catherine de Médicis ;
+    - autres pays : Ferdinand II d'Aragon, Gustave II Adolphe, Charles XII, Jean III Sobieski, Marie Stuart.
+  - Asie : Babur, Aurangzeb, Tang Taizong, Yongle, Qianlong.
+  - Afrique : Ranavalona Ire.
+- **Dirigeants contemporains** (56) :
+  - XIXe siècle :
+    - Europe : Metternich, Talleyrand, Cavour, Louis-Philippe, Alexandre II ;
+    - Amériques : Thomas Jefferson, Benito Juárez.
+  - XXe siècle :
+    - Europe : Tito, Salazar, Adenauer, Willy Brandt, Helmut Kohl, Mitterrand, Boris Eltsine ;
+    - Amériques : Nixon, Obama, Allende, Pinochet ;
+    - Moyen-Orient et Afrique du Nord : Khomeiny, Saddam Hussein, Kadhafi, Sadate, Arafat ;
+    - Asie : Kim Il-sung, Lee Kuan Yew, Sukarno ;
+    - Afrique subsaharienne : Senghor.
+- **Sites antiques** (38) :
+  - Proche-Orient : Troie, Babylone, Jéricho, Çatal Höyük, Hattusa, Pergame, Jerash.
+  - Égypte : Saqqarah, Temple de Louxor, Philae.
+  - Monde romain : Herculanum, Mur d'Hadrien.
+  - Amériques : Tiwanaku, Copán, Chan Chan, Monte Albán, Caral.
+  - Asie : Sigiriya, Bagan.
+- **Monuments** (89) :
+  - Paris : Opéra Garnier, Panthéon de Paris, Invalides, Louvre.
+  - Reste de l'Europe : Pont Charles, Ponte Vecchio, Palais des Doges, Duomo de Milan, Château de Windsor, Place Rouge.
+  - Amérique du Nord : Barrage Hoover, Gateway Arch, Space Needle.
+  - Asie : Marina Bay Sands, Tokyo Skytree, Torii d'Itsukushima, Tōdai-ji.
+- **Empires et civilisations** (72) :
+  - Europe : République de Venise, Ligue hanséatique, République des Deux Nations, Empire suédois, Empire bulgare.
+  - Asie : Empire de Vijayanagara, Majapahit, Srivijaya, Empire kouchan, Empire marathe, Empire qadjar.
+  - Amériques : Empire du Brésil, Toltèques, Chimú, Tiwanaku.
+- **Dynasties** (37) :
+  - Rome et Byzance : Julio-Claudiens, Flaviens, Antonins, Sévères, Comnènes, Paléologues.
+  - Europe :
+    - Italie et monde ottoman : Dynastie ottomane, Grimaldi, Savoie, Borgia, Sforza ;
+    - Allemagne : Wittelsbach, Hanovre, Saxe-Cobourg-Gotha ;
+    - France : Bonaparte, Orléans ;
+    - Nord et Est : Bernadotte, Vasa, Rurikides.
+  - Asie et Afrique :
+    - Asie : Chakri, Nguyễn, Pahlavi, Maison impériale du Japon, Minamoto, Fujiwara ;
+    - Monde arabe : Saoud, Hachémites, Alaouites ;
+    - Afrique : Salomonides.
+- **Batailles** (87) :
+  - Moyen Âge : Aïn Djalout, Talas.
+  - Époque moderne : Sekigahara, Plassey, Culloden.
+  - Révolutions et Empire : Saratoga, Aboukir, Eylau.
+  - XIXe siècle : Solférino, Sadowa, Isandhlwana, Adoua.
+  - Seconde Guerre mondiale : Dunkerque, Bir Hakeim, Okinawa, golfe de Leyte.
+- **Guerres** (66) :
+  - XVIIe siècle : Guerre de Hollande.
+  - XIXe siècle : Guerre de 1812, Guerre américano-mexicaine, Guerres indiennes, Guerre anglo-zouloue.
+  - XXe siècle : Guerres de Tchétchénie.
+- **Traités et textes fondateurs** (31) :
+  - Traités de paix : Traité de Paris (1783), Traité d'Utrecht, Brest-Litovsk, Traité de Kadesh.
+  - Seconde Guerre mondiale : Accords de Munich, Pacte germano-soviétique, Yalta.
+  - Paix et Europe après 1945 : Accords d'Évian, Accords d'Oslo, Traité de l'Élysée, Schengen, OTAN, Bretton Woods, Plan Marshall.
+  - Textes français :
+    - lois : Loi de 1905, Code noir ;
+    - textes royaux et d'Empire : Édit de Villers-Cotterêts, Concordat ;
+    - Révolution et IIe République : Abolition de 1848, Déclaration des droits de la femme.
+  - Grands textes anciens et politiques : Manifeste du Parti communiste, Loi des Douze Tables, Code de Justinien, Loi salique, Bulle d'or.
+  - Colonisation et Moyen-Orient : Déclaration Balfour, Sykes-Picot, Conférence de Berlin, Traité de Waitangi, Vente de la Louisiane, Traité de Nankin.
+  - Accords récents : Protocole de Montréal, Acte final d'Helsinki.
+- **Figures de l'émancipation** (48) :
+  - Esclavage et colonisation : Spartacus, Zumbi dos Palmares, la Mulâtresse Solitude, Louis Delgrès, Olaudah Equiano, John Brown, l'abbé Grégoire, Bartolomé de las Casas, Túpac Amaru II.
+  - Droits des femmes : Hubertine Auclert, Betty Friedan, Gloria Steinem.
+  - Droits civiques américains : John Lewis, Thurgood Marshall, Ruby Bridges, Claudette Colvin, Bayard Rustin, Audre Lorde, Eleanor Roosevelt, Helen Keller.
+  - Résistances au nazisme : Jean Moulin, Lucie Aubrac, Missak Manouchian, Sophie Scholl, Joséphine Baker, Germaine Tillion, Irena Sendler.
+  - Combats récents :
+    - dissidents : Liu Xiaobo, Alexeï Navalny ;
+    - victimes et défenseurs des droits : Nadia Murad, Denis Mukwege, Robert Badinter ;
+    - écologie : Greta Thunberg, Chico Mendes.
+- **Explorateurs** (61) :
+  - Amériques : Cavelier de La Salle, Hernando de Soto, Coronado, Marquette et Jolliet, Alexander Mackenzie.
+  - Asie : Nikolaï Prjevalski, Sven Hedin, Nordenskiöld.
+  - Afrique : Mary Kingsley.
+- **Pionniers de l'extrême** (29) :
+  - Mer : Alain Bombard, Joshua Slocum, Bernard Moitessier, Éric Tabarly, Ellen MacArthur, Robin Knox-Johnston, Jacques Mayol.
+  - Montagne : Walter Bonatti, Lionel Terray, Catherine Destivelle, Jerzy Kukuczka, Nirmal Purja.
+  - Pôles : Umberto Nobile, Børge Ousland.
+  - Vertige : Philippe Petit, Alex Honnold.
+
+### Arts et lettres
+- **Auteurs classiques** (114) :
+  - Absences flagrantes : Arthur Conan Doyle, Robert Louis Stevenson, Andersen, les frères Grimm, Ibsen.
+  - France : Villon, Ronsard, La Rochefoucauld, Madame de Sévigné, Marivaux, Nerval, Daudet, Edmond Rostand, Anatole France, Lautréamont, Christine de Pizan.
+  - Antiquité : Plutarque, Tacite, Plaute, Lucrèce, Pindare.
+  - Asie et Orient : Li Bai, Du Fu, Hafez, Saadi, Kalidasa, Wu Cheng'en.
+  - Italie : Collodi, Goldoni, Leopardi.
+  - Monde anglophone : Tennyson, Harriet Beecher Stowe, Fenimore Cooper, Louisa May Alcott.
+  - Nord et Est de l'Europe : Strindberg, Mickiewicz, Sienkiewicz.
+- **Auteurs modernes** (143) :
+  - Jeunesse : Roald Dahl, Astrid Lindgren, Tove Jansson, Michael Ende, A. A. Milne, Beatrix Potter.
+  - Genres : Frank Herbert, Stanislas Lem, Robert Heinlein, Ian Fleming, John le Carré, Raymond Chandler.
+  - France :
+    - poésie : Paul Valéry, Paul Claudel, Aimé Césaire, Blaise Cendrars ;
+    - roman : Françoise Sagan, Joseph Kessel, Georges Bernanos, René Barjavel, Pierre Boulle ;
+    - romans populaires : Maurice Leblanc, Gaston Leroux.
+  - Monde anglophone :
+    - Royaume-Uni et Irlande : Bernard Shaw, Seamus Heaney, Doris Lessing ;
+    - États-Unis : Thomas Pynchon, Paul Auster, Edith Wharton, Pearl Buck, Allen Ginsberg, Charles Bukowski.
+  - Allemand : Heinrich Böll, Patrick Süskind, Elias Canetti, Friedrich Dürrenmatt.
+  - Europe du Nord, de l'Est et du Sud : Knut Hamsun, Selma Lagerlöf, Karel Čapek, Nikos Kazantzakis.
+  - Afrique : Nadine Gordimer, J. M. Coetzee.
+  - Monde arabe et Maghreb : Kateb Yacine, Tahar Ben Jelloun, Mahmoud Darwich.
+  - Amérique latine : Paulo Coelho, Clarice Lispector, Carlos Fuentes, Rubén Darío, Gabriela Mistral.
+  - Japon : Tanizaki, Akutagawa.
+- **Personnages de littérature** (49) :
+  - France :
+    - théâtre : Tartuffe, Harpagon, Dom Juan, Figaro ;
+    - roman : Candide, Gargantua, Rastignac, Julien Sorel, Bel-Ami, le Petit Nicolas ;
+    - Hugo : Cosette, Gavroche, Esmeralda ;
+    - Dumas : Athos, Porthos, Aramis, Milady de Winter.
+  - Contes : le Petit Chaperon rouge, Barbe-Bleue, le Chat botté.
+  - Jeunesse : Heidi, Fifi Brindacier, Mowgli, Winnie l'ourson, Babar, Nils Holgersson.
+  - Fantasy : Bilbon Sacquet, Sauron, Albus Dumbledore, Lord Voldemort, Jon Snow, Tyrion Lannister.
+  - Grands romans :
+    - États-Unis : Holden Caulfield, Gatsby, Atticus Finch, Scarlett O'Hara, Tom Sawyer, Huckleberry Finn ;
+    - Angleterre : Heathcliff, Jane Eyre, Elizabeth Bennet, Ivanhoé, Robin des Bois.
+  - Romans modernes : Katniss Everdeen, Lisbeth Salander, Big Brother.
+  - Enquêtes : Docteur Watson, Moriarty, Miss Marple, Rouletabille.
+  - Shakespeare : Macbeth, Othello, le Roi Lear, Iago.
+  - Allemagne : Werther, Méphistophélès.
+- **Grands peintres** (119) :
+  - Anciens :
+    - Italie : Arcimboldo, Canaletto, Cimabue, Uccello, Corrège, Tiepolo ;
+    - Nord : Cranach, Memling, Van der Weyden, Jan Steen ;
+    - Espagne : Murillo, Ribera ;
+    - France : Claude Lorrain.
+  - XVIIIe siècle :
+    - France : Boucher, Vigée Le Brun ;
+    - Angleterre : Gainsborough, Reynolds, Hogarth.
+  - XIXe siècle :
+    - Angleterre : Rossetti, Waterhouse ;
+    - France : Bouguereau, Daumier, Gustave Doré, Rosa Bonheur, Bonnard.
+  - XXe siècle :
+    - France et Paris : Dufy, Lempicka, Duchamp, Juan Gris, Balthus, Vasarely, Soutine, Suzanne Valadon ;
+    - expressionnisme : Franz Marc, Kirchner, Kokoschka, Nolde, Ensor ;
+    - surréalisme : Delvaux, Tanguy, Remedios Varo, Leonora Carrington ;
+    - États-Unis : Norman Rockwell, Rauschenberg, Jasper Johns, Cy Twombly ;
+    - Amérique latine : Siqueiros, Orozco, Tarsila do Amaral, Botero ;
+    - Asie : Utamaro, Foujita, Qi Baishi.
+- **Tableaux célèbres** (108) : une quarantaine de peintres de la collection n'ont aucun tableau. En priorité :
+  - Anciens :
+    - Espagne : L'Enterrement du comte d'Orgaz (Greco) ;
+    - France : Les Bergers d'Arcadie (Poussin), Pèlerinage à l'île de Cythère (Watteau) ;
+    - Rembrandt : Le Retour du fils prodigue.
+  - XIXe siècle :
+    - Angleterre : Pluie, vapeur et vitesse (Turner), La Charrette de foin (Constable), Ophélie (Millais) ;
+    - France : Au Moulin Rouge (Toulouse-Lautrec), Le Berceau (Morisot), La Mort de Sardanapale (Delacroix) ;
+    - Russie : Les Haleurs de la Volga (Répine), La Neuvième Vague (Aïvazovski) ;
+    - Suisse : L'Île des morts (Böcklin) ;
+    - Portrait : Madame X (Sargent).
+  - XXe siècle :
+    - Chagall : Moi et le village ;
+    - Miró : Le Carnaval d'Arlequin ;
+    - Klimt : Portrait d'Adele Bloch-Bauer ;
+    - Wyeth : Christina's World ;
+    - Magritte : L'Empire des lumières ;
+    - Klein : les Anthropométries.
+- **Sculptures** (23) :
+  - Préhistoire et Antiquité :
+    - préhistoire : Vénus de Willendorf ;
+    - Égypte : Masque de Toutânkhamon ;
+    - Grèce : Aurige de Delphes, Apollon du Belvédère, Gaulois mourant, Masque d'Agamemnon ;
+    - Rome : Auguste de Prima Porta, Marc Aurèle équestre, Louve capitoline ;
+    - hors Europe : Tête olmèque, Bronzes du Bénin.
+  - Renaissance et baroque : David de Donatello, Persée de Cellini, Moïse de Michel-Ange, Enlèvement de Proserpine.
+  - XIXe siècle : Psyché de Canova, La Marseillaise de Rude, La Porte de l'Enfer, La Valse de Camille Claudel, Lion de Belfort.
+  - XXe siècle et après :
+    - avant-gardes : Oiseau dans l'espace, Forme unique de continuité dans l'espace ;
+    - art contemporain : Nanas, Balloon Dog, Ange du Nord, Charging Bull ;
+    - monuments et statues : La Mère-Patrie appelle, Grand Bouddha de Kamakura, Petite Sirène.
+- **Architectes** (29) :
+  - Antiquité et Renaissance : Vitruve, Bramante, Borromini.
+  - France classique : Hardouin-Mansart, Le Nôtre, Vauban, Ledoux.
+  - XIXe siècle : Haussmann, Charles Garnier, Victor Horta, Louis Sullivan, Mackintosh, Adolf Loos.
+  - XXe siècle et après :
+    - Europe : Jørn Utzon, Richard Rogers, Herzog et de Meuron, Libeskind, Zumthor ;
+    - Amériques : Buckminster Fuller, Saarinen, Barragán, Lina Bo Bardi ;
+    - Afrique et Asie : Francis Kéré, Kengo Kuma, Shigeru Ban ;
+    - design : Charlotte Perriand, Jean Prouvé.
+- **Photographies célèbres** (21) :
+  - Photos de guerre : La Petite Fille au napalm, Exécution de Saïgon, Magnificent Eleven (Capa), le Saut de Conrad Schumann, Afghan Girl.
+  - Grands clichés d'auteur : Le Baiser de l'hôtel de ville, Derrière la gare Saint-Lazare, Le Violon d'Ingres, The Steerage, The Horse in Motion.
+  - Portraits : Einstein tirant la langue, The Roaring Lion (Churchill).
+  - Politique et sport : le Salut du Black Power, Ali contre Liston, Flower Power, la Marianne de Mai 68.
+  - Espace : Buzz Aldrin sur la Lune, Piliers de la Création, Premier trou noir.
+  - Canulars : les Fées de Cottingley, la Photo du chirurgien (Loch Ness).
+- **Mode et couturiers** (40) :
+  - Couture parisienne : Balmain, Paco Rabanne, Lacroix, Galliano, Margiela, Hedi Slimane, Jean Patou, Jacquemus, Olivier Rousteing.
+  - Grandes marques :
+    - maisons européennes : Hermès, Roger Vivier, Fendi, Dolce & Gabbana ;
+    - mode américaine : Levi Strauss, Tommy Hilfiger.
+  - Créatrices :
+    - Royaume-Uni : Stella McCartney, Mary Quant ;
+    - États-Unis : Diane von Fürstenberg, Carolina Herrera ;
+    - France et Pays-Bas : Agnès b., Iris van Herpen.
+
+### Musique
+- **Grands compositeurs** (63). Chaque nouveau compositeur demandera son œuvre.
+  - Moyen Âge et Renaissance : Machaut, Josquin, Palestrina.
+  - Baroque :
+    - France : Lully, Couperin, Charpentier ;
+    - Allemagne : Telemann, Pachelbel ;
+    - Italie : Corelli, Albinoni, Pergolèse.
+  - Romantisme :
+    - Italie : Paganini, Donizetti, Bellini ;
+    - France et Allemagne : Gounod, Massenet, Weber ;
+    - Europe centrale : Smetana, Janáček ;
+    - Russie : Borodine, Glinka.
+  - XXe siècle :
+    - Grande-Bretagne : Elgar, Holst, Britten ;
+    - Espagne et Amérique latine : Falla, Albéniz, Rodrigo, Villa-Lobos ;
+    - France : Poulenc, Boulez, Varèse ;
+    - modernes : Berg, Ligeti, Stockhausen, Penderecki ;
+    - Broadway : Bernstein, Kurt Weill.
+  - Cinéma : Michel Legrand, Joe Hisaishi, Bernard Herrmann, Maurice Jarre, Vangelis, Howard Shore.
+  - Compositrices : Clara Schumann, Fanny Mendelssohn, Lili Boulanger.
+- **Œuvres musicales** (70) : d'abord les six œuvres manquantes citées plus haut, puis une œuvre pour chaque compositeur ajouté.
+- **Musique populaire** (61) :
+  - Rock et pop anglophones :
+    - pop : Elton John, ABBA, Bee Gees, Simon & Garfunkel ;
+    - soul : Tina Turner, Marvin Gaye ;
+    - rock'n'roll : Little Richard ;
+    - punk et new wave : The Clash, Sex Pistols, Ramones, The Cure, Joy Division, Depeche Mode ;
+    - électronique : Kraftwerk ;
+    - hard rock et métal : Black Sabbath, Iron Maiden, Guns N' Roses ;
+    - rock des années 90 et après : Red Hot Chili Peppers, Oasis, Coldplay.
+  - Rap : Eminem, Jay-Z, The Notorious B.I.G., Kendrick Lamar.
+  - Pop actuelle : Rihanna, Taylor Swift, Lady Gaga, Adele, Shakira, BTS.
+  - Chanson française :
+    - années 50 à 70 : Charles Trenet, Joséphine Baker, Dalida, Claude François ;
+    - années 80 : Renaud, Jean-Jacques Goldman, Mylène Farmer, Indochine ;
+    - rap : MC Solaar, NTM ;
+    - années 2010 : Stromae, Aya Nakamura ;
+    - variété internationale : Céline Dion ;
+    - musiques électroniques : David Guetta, Jean-Michel Jarre.
+  - Monde :
+    - Afrique : Miriam Makeba, Youssou N'Dour ;
+    - monde arabe : Oum Kalthoum, Khaled ;
+    - Amérique latine : Celia Cruz, Santana, Jobim, Carlos Gardel ;
+    - Espagne : Paco de Lucía.
+  - Jazz : Charlie Parker, Django Reinhardt.
+- **Instruments** (47) :
+  - Cordes : Guitare basse, Lyre, Cithare, Vielle à roue, Bouzouki, Charango, Guzheng, Pipa, Viole de gambe.
+  - Percussions : Balafon, Mbira, Darbouka, Castagnettes, Gong, Carillon, Handpan, Cajón, Congas, Maracas.
+  - Vents : Flûte de Pan, Flûte à bec, Piccolo, Ocarina, Shakuhachi, Duduk, Bansuri, Cor des Alpes.
+  - Électroniques : Ondes Martenot, boîte à rythmes TR-808.
+
+### Écrans
+- **Classiques du cinéma** (70) :
+  - Muet et années 30 :
+    - Allemagne : Le Cabinet du docteur Caligari ;
+    - États-Unis : L'Aurore, Le Mécano de la General ;
+    - France : La Grande Illusion.
+  - Hollywood des années 50 et 60 :
+    - westerns : La Prisonnière du désert, Le Train sifflera trois fois ;
+    - drames : Sur les quais, Un tramway nommé désir, La Fureur de vivre ;
+    - comédies musicales : Diamants sur canapé, West Side Story, La Mélodie du bonheur ;
+    - péplums : Les Dix Commandements ;
+    - science-fiction : La Planète des singes.
+  - Europe :
+    - Italie : Le Guépard, La Strada ;
+    - Nouvelle Vague : Le Mépris, Jules et Jim, Hiroshima mon amour, Les Parapluies de Cherbourg ;
+    - comique : Les Vacances de M. Hulot ;
+    - Suède : Persona, Les Fraises sauvages.
+  - Années 70 :
+    - drames : Barry Lyndon, Annie Hall, Voyage au bout de l'enfer ;
+    - genre : Halloween, Mad Max.
+- **Cinéma moderne** (110) :
+  - Hollywood :
+    - années 80 et 90 : Terminator 2, Edward aux mains d'argent, Les Goonies ;
+    - thrillers : Mulholland Drive, Memento, Les Infiltrés, Shutter Island, Le Loup de Wall Street, Premier Contact ;
+    - grand spectacle : Pirates des Caraïbes.
+  - Drames européens : Le Pianiste, La vie est belle (Benigni).
+  - France :
+    - comédies : Les Bronzés, Le Père Noël est une ordure, Bienvenue chez les Ch'tis ;
+    - drames : Jean de Florette, Un prophète, Anatomie d'une chute, Portrait de la jeune fille en feu ;
+    - hommages : The Artist.
+  - Animation :
+    - Disney et Pixar : La Belle et la Bête (1991), Aladdin (1992), Monstres et Cie, Coco ;
+    - autres studios : Spider-Man : New Generation, Ghost in the Shell.
+- **Séries** (57) :
+  - Drames américains : The Mandalorian, Band of Brothers, Rome, Boardwalk Empire, Ozark, The Boys, House of Cards, À la Maison-Blanche, 24 heures chrono.
+  - Classiques anciens : La Quatrième Dimension, Dallas, Zorro, Ma sorcière bien-aimée, La Petite Maison dans la prairie, Happy Days, Amicalement vôtre, Les Mystères de l'Ouest.
+  - Comédies : Scrubs, Malcolm, Brooklyn Nine-Nine.
+  - Animation :
+    - pour adultes : Family Guy, BoJack Horseman, Arcane ;
+    - jeunesse : Avatar : le dernier maître de l'air ;
+    - japonaise : Neon Genesis Evangelion, L'Attaque des Titans.
+  - Séries françaises :
+    - drames : Lupin, Baron noir, Un village français, Les Revenants ;
+    - comédies et feuilletons : Caméra Café, Plus belle la vie ;
+    - classiques : Les Brigades du Tigre, Belphégor.
+  - Séries allemandes : Derrick.
+  - Europe du Nord :
+    - drames et thrillers : Borgen, Bron, Babylon Berlin ;
+    - Italie : Gomorra.
+  - Séries récentes :
+    - drames : Severance, The Bear, Shōgun, Euphoria ;
+    - comédies : Fleabag.
+- **Personnages de cinéma et de série** (53) :
+  - Science-fiction :
+    - Star Wars : Chewbacca, Obi-Wan Kenobi, Palpatine, Boba Fett, Grogu, R2-D2, C-3PO ;
+    - Star Trek : Capitaine Kirk, Spock ;
+    - autres : Charlot, HAL 9000, Sarah Connor, Mad Max, RoboCop, Rick Deckard.
+  - Horreur : Ghostface, Chucky, Pennywise, Leatherface, le Xénomorphe, Predator.
+  - Action : Inspecteur Harry, Ethan Hunt, Jason Bourne, Beatrix Kiddo, Hans Gruber, Hans Landa, le Dude.
+  - Séries :
+    - fantastique : Buffy, Mulder et Scully ;
+    - médecins et aventuriers : Dr House, MacGyver ;
+    - drames : J. R. Ewing, Thomas Shelby, Jesse Pinkman.
+  - France : Jacquouille la Fripouille, François Pignon, l'adjudant Cruchot, le roi Arthur de Kaamelott.
+- **Personnages de BD et comics** (53) :
+  - Marvel : Captain America, Black Panther, Captain Marvel, Ant-Man, Nick Fury, Groot, Rocket, Bouffon vert, Docteur Octopus, Mystique.
+  - DC : Supergirl, Green Arrow, Bane, le Pingouin, Double-Face, Poison Ivy, Darkseid, Rorschach.
+  - Tintin : Milou, Dupond et Dupont, le Professeur Tournesol, Bianca Castafiore, Rastapopoulos.
+  - Astérix : Idéfix, Panoramix.
+  - Lucky Luke : les Dalton, Rantanplan.
+  - Autres BD franco-belges :
+    - aventure et western : Blueberry, Valérian, Michel Vaillant, Les Tuniques bleues ;
+    - humour : le Chat de Geluck, Kid Paddle, Achille Talon ;
+    - fantastique : Blacksad, Lanfeust, Adèle Blanc-Sec.
+  - Ailleurs : Mafalda, Charlie Brown.
+- **Personnages de jeu vidéo** (55) :
+  - Nintendo :
+    - Mario et Zelda : Wario, Toad, Midna ;
+    - autres séries : Fox McCloud, Captain Falcon, Pit, Ness ;
+    - Animal Crossing : Tom Nook, Marie ;
+    - Pokémon : Mewtwo, Dracaufeu, Rondoudou, Évoli.
+  - Sega : Tails, Knuckles, Dr Robotnik, Shadow.
+  - Combat : Ken, M. Bison, Raiden, Liu Kang, Heihachi.
+  - Aventure et action :
+    - japonais : Dante, Kazuma Kiryu, Tifa, Aerith, Chocobo ;
+    - GTA : Carl Johnson, Niko Bellic, Trevor Philips, Tommy Vercetti ;
+    - séries occidentales : John Marston, Altaïr, Albert Wesker, Chris Redfield, Isaac Clarke.
+  - Science-fiction : Cortana, GLaDOS.
+  - Jeux récents :
+    - compétitifs : Tracer, Jinx ;
+    - fantasy et horreur : Ciri, Yennefer, Solaire, Malenia, Vaas ;
+    - indépendants : Sans, Madeline, le Chevalier de Hollow Knight.
+- **Personnages d'animation** (50) :
+  - Disney :
+    - classiques : Minnie, Pluto, Winnie l'ourson, Tigrou, Clochette, Jiminy Cricket ;
+    - Livre de la jungle : Shere Khan, Kaa ;
+    - années 90 : Pocahontas, Belle, la Bête, Jasmine ;
+    - récents : Jack Skellington, Olaf, Anna.
+  - Pixar et DreamWorks : Flash McQueen, Po, Krokmou.
+  - Illumination : Gru, les Minions.
+  - Warner et Hanna-Barbera : Porky Pig, Speedy Gonzales, Taz, Woody Woodpecker, Droopy, Fred Pierrafeu.
+  - Autres classiques : la Panthère rose, Inspecteur Gadget, Barbapapa, Wallace et Gromit, Scrat.
+  - Séries adultes : Bender, Cartman, Peter Griffin, Rick et Morty, Marge, Lisa, Mr Burns.
+  - Jeunesse : Peppa Pig, Hello Kitty, Kirikou.
+- **Manga et anime** (45) :
+  - Années 70 à 90 :
+    - robots et space opera : Goldorak, Albator, Capitaine Flam, Cobra ;
+    - shōjo et comédie : Candy, Lamu, Ranma, Sakura (Card Captor) ;
+    - sport et action : Olive (Tsubasa), Nicky Larson, Inuyasha.
+  - Ghibli : Nausicaä, Kiki, Porco Rosso, Sans-Visage, Ponyo.
+  - Evangelion et Akira : Shinji, Rei, Asuka, Kaneda.
+  - Shōnen récents : Saitama, Izuku Midoriya, All Might, Jotaro, Dio Brando, Gintoki, Frieren, Anya Forger.
+  - Compléments de séries déjà présentes :
+    - One Piece : Chopper, Trafalgar Law, Gol D. Roger ;
+    - Dragon Ball : Majin Boo, Trunks, Tortue Géniale, Shenron ;
+    - Naruto : Gaara.
+- **Jeu vidéo, âge d'or** (61) :
+  - Arcade : Pitfall!, Breakout, Out Run, Bubble Bobble, Double Dragon.
+  - Micro : Lemmings, Another World, Monkey Island, Alone in the Dark, Elite, Ultima, Zork, Dune II.
+  - Consoles 16 et 32 bits : Rayman, Tekken, Worms, Secret of Mana, EarthBound, Star Fox, Super Mario Kart, Banjo-Kazooie, Silent Hill, Shenmue.
+  - Jeux de rôle PC : Fallout, Baldur's Gate.
+- **Jeu vidéo moderne** (89) :
+  - Nintendo : Super Mario Galaxy, Super Mario Odyssey, Metroid Prime, Splatoon.
+  - Grandes licences :
+    - sport : FIFA ;
+    - super-héros : Batman : Arkham, Spider-Man (2018) ;
+    - action et aventure : Beyond Good & Evil, Prince of Persia : Les Sables du temps ;
+    - horreur et coopération : Dead Space, Left 4 Dead.
+  - Mobile : Clash of Clans, Candy Crush.
+  - Narration : Life is Strange, Detroit.
+  - Jeux récents :
+    - aventure : Horizon Zero Dawn, Astro Bot, Black Myth : Wukong, Clair Obscur : Expedition 33 ;
+    - bac à sable : Factorio, Kerbal Space Program ;
+    - réalité virtuelle : Half-Life : Alyx ;
+    - compétitif : Hearthstone, StarCraft II.
+
+### Sport
+- **Légendes du football** (50) :
+  - Europe :
+    - Angleterre : Gary Lineker, Ian Rush ;
+    - France : Jean Tigana, Alain Giresse, Marius Trésor ;
+    - Europe de l'Est : Zbigniew Boniek, Josef Bican, Sándor Kocsis ;
+    - Italie et Espagne : Paolo Rossi, Luis Suárez Miramontes.
+  - Amérique du Sud :
+    - Brésil et Uruguay : Leônidas, Obdulio Varela, Enzo Francescoli ;
+    - Argentine et reste du continent : Omar Sívori, Teófilo Cubillas, Elías Figueroa.
+  - Afrique : Salif Keïta.
+- **Football, ère moderne** (100) :
+  - Ballons d'or récents : Lamine Yamal, Ousmane Dembélé.
+  - Espagne : Puyol, Fernando Torres.
+  - France : Laurent Blanc, Lizarazu, Makélélé, Trezeguet, Lloris.
+  - Brésil : Thiago Silva, Dani Alves, Marcelo, Casemiro.
+  - Reste de l'Europe :
+    - Nord et Est : Ballack, Čech, Michael Laudrup, Henrik Larsson, Šuker ;
+    - Italie : Zola, Nesta, Inzaghi ;
+    - Belgique : Courtois.
+  - Afrique : Okocha, Essien.
+  - Asie : Park Ji-sung, Nakata.
+  - Joueuses : Marta, Mia Hamm, Alexia Putellas, Aitana Bonmatí, Wendie Renard, Ada Hegerberg.
+- **Légendes du sport** (41) :
+  - Basket : Stephen Curry, Bill Russell, Shaquille O'Neal, Tony Parker.
+  - Tennis : Suzanne Lenglen, Billie Jean King, McEnroe, Sampras, Agassi, Yannick Noah, Arthur Ashe.
+  - Boxe : Marcel Cerdan, Jack Johnson.
+  - Cyclisme : Coppi, Poulidor, Pogačar.
+  - Moto : Agostini, Márquez.
+  - Sports américains : Jackie Robinson, Tom Brady.
+  - Rugby : Serge Blanco, Antoine Dupont.
+  - Échecs : Magnus Carlsen, Karpov, Judit Polgár.
+  - Handball : Karabatić.
+- **Champions olympiques** (40) :
+  - Débuts des Jeux : Jim Thorpe, Johnny Weissmuller.
+  - Gymnastique : Věra Čáslavská, Olga Korbut.
+  - Athlétisme :
+    - demi-fond et fond : Sebastian Coe, Mo Farah, Eliud Kipchoge, Alain Mimoun ;
+    - sprint et haies : Edwin Moses, Shelly-Ann Fraser-Pryce ;
+    - épreuves combinées et saut : Jackie Joyner-Kersee, Mondo Duplantis.
+  - Sports d'hiver : Sonja Henie, Katarina Witt, Yuzuru Hanyu, Toni Sailer, Shaun White, Martin Fourcade.
+  - Natation et canoë : Léon Marchand, Laure Manaudou, Tony Estanguet.
+- **Pilotes F1, Coupes du monde, JO d'été et d'hiver** : complets.
+
+### Nature
+- **Mammifères** (100) :
+  - Domestiques : Âne, Hamster, Cochon d'Inde.
+  - Montagne : Yak, Bouquetin, Chamois, Bœuf musqué.
+  - Savane : Impala, Oryx, Oryctérope.
+  - Petits mammifères : Lièvre, Taupe, Belette, Musaraigne.
+  - Mers : Lamantin, Dugong, Loutre de mer.
+  - Carnivores :
+    - chiens sauvages : Chacal, Renard polaire, Dingo, Loup à crinière ;
+    - félins et viverridés : Serval, Fossa, Mangouste ;
+    - mustélidés : Glouton, Ratel.
+  - Primates : Tarsier, Ouistiti.
+- **Oiseaux** (70) :
+  - Villes et campagne : Pigeon, Tourterelle, Corneille, Alouette, Mésange charbonnière.
+  - Mer et côtes : Mouette, Goéland, Cormoran.
+  - Basse-cour et gibier : Dindon, Oie, Faisan, Pintade, Caille.
+  - Rapaces : Buse, Chouette hulotte, Milan royal.
+  - Échassiers : Marabout, Grue cendrée, Aigrette, Spatule.
+  - Exotiques et oiseaux de cage : Canari, Kéa, Guêpier, Nandou.
+- **Reptiles et amphibiens** (40) :
+  - Tortues et crocodiliens : Caïman, Tortue alligator, Tortue d'Hermann, Tortue caouanne.
+  - Serpents : Cobra indien, Python royal, Vipère aspic, Orvet.
+  - Lézards : Lézard des murailles, Lézard vert, Moloch, Pogona.
+  - Amphibiens : Triton, Crapaud buffle.
+- **Poissons et vie marine** (50) :
+  - Eau douce : Truite, Brochet, Silure, Esturgeon, Arapaima.
+  - Poissons de mer : Morue, Sardine, Hareng, Maquereau, Mérou, Requin mako, Requin-lutin.
+  - Aquarium : Dragon de mer feuillu, Poisson combattant, Guppy.
+  - Autres :
+    - poissons primitifs : Lamproie ;
+    - coquillages : Huître, Coquille Saint-Jacques, Bénitier ;
+    - crustacés : Bernard-l'ermite, Langouste ;
+    - méduses : Physalie.
+- **Arbres** (40) :
+  - Europe : Chêne-liège, Houx, Noisetier, Sureau, Genévrier, Amandier.
+  - Tropiques :
+    - bois précieux : Acajou, Ébénier, Teck, Santal ;
+    - fruitiers et ornementaux : Arbre à pain, Jacaranda, Flamboyant ;
+    - forêts : Palétuvier, Fromager.
+  - Afrique : Arganier, Karité.
+  - Arbres records : Pin de Bristlecone, Wollemia, Kauri, Sapin de Douglas.
+- **Fleurs** (40) :
+  - Jardin : Géranium, Primevère, Perce-neige, Jacinthe, Lilas, Myosotis, Glaïeul, Clématite, Fuchsia, Chèvrefeuille.
+  - Arbustes : Rhododendron, Azalée.
+  - Exotiques : Passiflore, Strelitzia, Protéa.
+  - Singulières : Arum titan, Dionée attrape-mouche.
+- **Plantes cultivées** (38) :
+  - Céréales et tubercules : Manioc, Avoine, Seigle, Sorgho, Quinoa, Patate douce, Igname.
+  - Plantes industrielles et oléagineux : Arachide, Palmier à huile, Chanvre, Houblon.
+  - Épices : Gingembre, Curcuma, Girofle, Muscade.
+  - Légumes : Laitue, Artichaut, Asperge, Poireau.
+  - Fruits : Pastèque, Ananas, Avocat, Poire, Pêche, Cerise, Grenade, Mangue.
+- **Champignons** (34) :
+  - Comestibles : Oronge, Coulemelle, Matsutake, Truffe blanche.
+  - Curiosités : Clathre rouge, Oreille de Judas.
+  - Utiles : Levure.
+- **Minéraux et pierres** (46) :
+  - Pierres fines : Labradorite, Pierre de lune, Tanzanite, Alexandrite, Spinelle, Zircon, Œil-de-tigre, Moldavite, Jais, Quartz rose.
+  - Minéraux : Azurite, Mica, Rose des sables, Coltan.
+  - Roches : Marbre, Granite, Basalte, Ardoise, Pierre ponce.
+- **Races de chevaux** (37) :
+  - France : Trait breton, Mérens, Pottok, Poitevin mulassier, Cob normand.
+  - Chevaux de selle : Pur-sang arabe, Knabstrupper, Paint Horse, Orlov, Hackney.
+  - Poneys et chevaux rustiques : Islandais, Cheval mongol, Brumby, Tinker, Suffolk Punch.
+- **Races de chats** (45) : Européen, Singapura, Burmilla, Lykoi.
+- **Races de chiens, dinosaures, constellations, éléments** : rien de flagrant.
+- **Créatures préhistoriques** (40) :
+  - Mers anciennes : Ammonite, Basilosaurus, Tiktaalik, Hallucigenia.
+  - Australie : Megalania, Diprotodon.
+  - Grands mammifères disparus : Aurochs, Tigre de Tasmanie, Entelodon, Eohippus.
+- **Corps célestes** (98) : Canopus. Presque complet.
+
+### Géographie
+- **Villes** (50) :
+  - Amérique du Nord : Los Angeles, Washington, Boston, Montréal, Québec, Toronto.
+  - Amérique du Sud : São Paulo, Brasília, Lima, Bogotá.
+  - Europe :
+    - Espagne et Italie : Madrid, Séville, Florence, Milan, Naples ;
+    - Europe du Nord et britannique : Bruxelles, Édimbourg, Dublin, Copenhague, Stockholm ;
+    - Europe centrale et orientale : Varsovie, Cracovie, Budapest, Kiev ;
+    - France : Marseille, Lyon, Strasbourg, Bordeaux.
+  - Afrique : Alexandrie, Fès, Alger, Tunis, Dakar, Kinshasa, Johannesburg.
+  - Moyen-Orient : La Mecque, Téhéran.
+  - Asie :
+    - Inde : Varanasi, Calcutta, Jaipur ;
+    - reste de l'Asie : Hanoï, Jakarta, Hong Kong, Osaka, Lhassa.
+  - Océanie : Melbourne, Honolulu.
+- **Montagnes et volcans** (34) :
+  - Himalaya : Kangchenjunga, Lhotse, Makalu, Cho Oyu, Dhaulagiri.
+  - Sept sommets : Vinson, Puncak Jaya, Kosciuszko.
+  - Alpes et France : Eiger, Mont Rose, Ventoux, Puy de Dôme.
+  - Volcans : Mont Pelée, Nyiragongo, Tambora, Merapi, Hekla.
+  - Amériques : Chimborazo, Huascarán, Roraima, Pain de Sucre, El Capitan.
+  - Afrique et Moyen-Orient : Damavand, Toubkal, Mont Kenya.
+- **Fleuves, mers et océans** (46) :
+  - Fleuves :
+    - Amériques : Saint-Laurent, Orénoque, Paraná, Missouri ;
+    - Europe : Tamise, Tibre, Pô, Elbe, Dniepr, Rhône, Garonne, Tage ;
+    - Asie : Ienisseï, Ob, Léna, Jourdain, Brahmapoutre, Fleuve Jaune ;
+    - Afrique : Okavango, Sénégal.
+  - Mers : Mer du Nord, Manche, Mer Égée, Adriatique, Mer des Sargasses, Golfe du Mexique, Golfe Persique.
+  - Lacs et chutes : Léman, Tanganyika, Lac Tchad, Loch Ness, Salto Ángel.
+  - Détroits et caps : Bosphore, Détroit de Béring, Détroit de Magellan, Cap Horn, Triangle des Bermudes.
+- **Îles** (40) :
+  - Grandes îles : Grande-Bretagne, Irlande, Honshū, Hokkaidō, Sri Lanka, Taïwan.
+  - Outre-mer français : Martinique, Guadeloupe, Nouvelle-Calédonie, Bora-Bora, Marquises, Mayotte.
+  - Europe : Île de Ré, Belle-Île, Jersey, Skye, Ithaque, Rhodes, Majorque.
+  - Atlantique : Tenerife, Madère, Açores, Gorée.
+  - Îles célèbres : Alcatraz, Manhattan, Ellis Island, Île du Diable, Île de la Tortue.
+  - Îles isolées : Tristan da Cunha, Kerguelen, Pitcairn, Komodo, Bikini.
+- **Langues** (51) :
+  - Europe :
+    - langues régionales : Catalan, Occitan ;
+    - langues d'État : Grec moderne, Ukrainien, Roumain, Tchèque, Serbo-croate, Albanais ;
+    - langues sans État : Yiddish, Romani.
+  - Afrique : Wolof, Afrikaans, Malgache, Berbère, Lingala.
+  - Asie :
+    - Caucase et Moyen-Orient : Arménien, Géorgien, Kurde, Pachto ;
+    - Asie centrale et Himalaya : Tibétain, Mongol ;
+    - Inde : Pendjabi, Télougou ;
+    - Asie du Sud-Est : Tagalog, Indonésien, Khmer.
+  - Amériques :
+    - langues créoles : Créole haïtien ;
+    - langues autochtones : Inuktitut, Navajo, Cherokee, Maya, Aymara.
+  - Langues et écritures anciennes :
+    - langues : Akkadien, Hittite, Étrusque, Vieux norrois ;
+    - écritures : Linéaire B, Écriture maya, Runes, Alphabet phénicien.
+- **Merveilles du monde** : complet.
+
+### Techniques et sciences
+- **Inventions** (139) :
+  - Absences flagrantes : l'Ordinateur (seul l'ordinateur personnel est présent), le Moteur électrique.
+  - Médecine : Aspirine, Stéthoscope.
+  - Électricité et électronique : LED.
+  - Transports : Métro, Dirigeable, Scaphandre autonome.
+  - Techniques anciennes : Moulin à vent, Brouette, Métier à tisser, Boulier, Cadran solaire, Chronomètre de marine.
+  - Armes : Arme à feu, Canon, Char d'assaut.
+  - Son et image :
+    - supports : Disque compact, Cassette audio, Magnétoscope ;
+    - loisirs : Jeu vidéo.
+  - Télécommunications : Téléphone mobile, Photocopieur.
+  - Informatique et services : Langage de programmation, Distributeur de billets.
+  - Mesure : Horloge atomique.
+  - Technologies récentes : Drone.
+- **Inventeurs et ingénieurs** (48) :
+  - Informatique : Steve Jobs, Bill Gates, Konrad Zuse, William Shockley, Dennis Ritchie.
+  - Antiquité et Chine : Cai Lun, Héron d'Alexandrie.
+  - Automobile : Cugnot, Daimler, Louis Renault, André Citroën, Ferdinand Porsche, Soichiro Honda.
+  - Industrie : Jacquard, Appert, Westinghouse, Joseph Swan, Charles Goodyear.
+  - Télévision : Philo Farnsworth.
+  - Objets du quotidien : Laszlo Biro, King Gillette, James Dyson, Ernő Rubik.
+  - Communications : Martin Cooper, Roland Moreno.
+  - Éclairage et mesure : Georges Claude, Torricelli, Fahrenheit.
+- **Scientifiques** (177) :
+  - France :
+    - XVIIIe siècle : Buffon, Coulomb ;
+    - XIXe siècle : Sadi Carnot, Gay-Lussac, Fresnel ;
+    - XXe siècle : Jean Perrin, Paul Langevin, Jacques Monod, Théodore Monod, Hubert Reeves.
+  - Antiquité : Galien.
+  - Physique et chimie : Ørsted, Ohm, Cavendish, Priestley.
+  - Médecine et biologie :
+    - médecine : Joseph Lister ;
+    - biologie : Ramón y Cajal, Thomas Hunt Morgan, Ernst Haeckel ;
+    - primatologie : Dian Fossey.
+- **Conquête spatiale** (31) :
+  - Programmes américains : Mercury, Gemini, Apollo 17, Artemis.
+  - Sondes et robots : Luna 9, Lunokhod, Venera, Viking 1, Mars Pathfinder, Opportunity, Ingenuity, Galileo, Juno, Hayabusa.
+  - Télescopes : Gaia, Kepler.
+  - Soviétiques : Salyut 1, Bourane, Apollo-Soyouz.
+  - Accidents : Challenger, Columbia.
+  - Autres pays : V2, Tiangong, Chandrayaan-3.
+  - Actuels : Starship, Crew Dragon, Ariane 6.
+  - Agences et bases : CNES, ISRO, JAXA, Kourou.
+- **Astronautes** (74) :
+  - Accidents : Christa McAuliffe, Kalpana Chawla, Ilan Ramon, Ed White, Roger Chaffee.
+  - Missions Apollo : Edgar Mitchell, James Irwin, Tom Stafford.
+  - Américains de la navette : Shannon Lucid, Bruce McCandless.
+  - Asie : Wang Yaping, Liu Yang, Zhai Zhigang, Chiaki Mukai, Koichi Wakata, Yi So-yeon, Pham Tuan.
+  - Premiers de leur pays :
+    - Amériques : Arnaldo Tamayo Méndez, Marcos Pontes ;
+    - Europe de l'Est : Vladimír Remek, Mirosław Hermaszewski ;
+    - monde arabe : Sultan bin Salman ;
+    - Europe de l'Ouest : Pedro Duque, Frank De Winne, André Kuipers.
+  - Touristes spatiaux : Mark Shuttleworth, Wally Funk, William Shatner.
+  - Animaux : Albert II, Dezik et Tsygan, les drosophiles de 1947.
+- **Véhicules célèbres** (50) :
+  - Navires : Titanic (à nommer « RMS Titanic », le film existe), Cuirassé Potemkine, Aurora, Hermione, Mary Celeste, Rainbow Warrior, Pen Duick, USS Nautilus.
+  - Avions : Spitfire, Boeing 747, Airbus A380, SR-71, Air Force One, Bell X-1, An-225.
+  - Trains : Transsibérien, Flying Scotsman, Big Boy, Eurostar.
+  - Automobiles :
+    - voitures populaires : Citroën DS, Mini, Fiat 500, Renault 4L, Jeep, Trabant ;
+    - voitures de sport : Porsche 911, Ferrari 250 GTO, Aston Martin DB5 ;
+    - pionnières : Fardier de Cugnot, la Jamais Contente.
+  - Deux-roues : Harley-Davidson, Vespa, Draisienne.
+  - Autres : Routemaster, Cable car de San Francisco, Rover lunaire.
+- **Monnaies du monde** (66) :
+  - Europe : Couronne islandaise, Lev.
+  - Amériques : Peso uruguayen, Bolívar, Peso cubain, Gourde.
+  - Asie et Moyen-Orient : Roupie srilankaise, Roupie népalaise, Livre libanaise, Dinar bahreïni, Rial omanais, Won nord-coréen.
+  - Afrique : Dollar zimbabwéen, Kwanza, Metical.
+  - Monnaie numérique : Bitcoin.
+- **Monnaies historiques** (49) :
+  - Monnaies primitives : Cauris, Monnaie-couteau, Pierres de Yap, Manille.
+  - Antiquité : Tétradrachme d'Athènes, Darique.
+  - Monde médiéval : Dinar d'or, Sou, Liard.
+  - France : Franc à cheval, Napoléon d'or, Franc germinal, Nouveau franc.
+  - Monde anglo-saxon : Penny, Shilling, Continental, Greenback, Dollar Morgan.
+  - Monnaies modernes :
+    - Europe et Afrique : Thaler de Marie-Thérèse, Krugerrand ;
+    - Asie : Tael, Ryō, Mohur.
+- **Nœuds** (35) : Nœud de camionneur, Pomme de touline, Tête de Turc, Nœud Palomar, Nœud de Klemheist.
+
+### Cuisine
+- **Plats français** (59) :
+  - Plats :
+    - viandes : Quenelle, Tête de veau, Petit salé aux lentilles, Magret, Canard à l'orange, Lapin à la moutarde, Tripes à la mode de Caen ;
+    - poissons et fruits de mer : Moules-frites ;
+    - en-cas : Jambon-beurre.
+  - Cuisines régionales : Tapenade, Aïoli, Soupe au pistou, Baeckeoffe, Kig ha farz, Daube provençale, Pan bagnat, Petits farcis.
+  - Desserts :
+    - gâteaux : Gâteau basque, Kouglof, Saint-Honoré, Opéra, Tropézienne ;
+    - entremets : Tarte au citron, Mousse au chocolat, Île flottante, Crème caramel, Poire Belle-Hélène, Crêpe Suzette.
+  - Viennoiseries et confiseries : Chouquette, Brioche, Pain d'épices, Religieuse, Calisson, Nougat.
+- **Cuisines du monde** (63) :
+  - Europe :
+    - Italie et Espagne : Carbonara, Panettone, Tapas, Gazpacho, Tortilla, Churros ;
+    - Portugal : Pastel de nata ;
+    - Europe centrale : Strudel, Sachertorte, Forêt-Noire ;
+    - Royaume-Uni : Haggis, Scones, English breakfast ;
+    - Europe du Nord et de l'Est : Köttbullar, Gravlax, Blinis, Pelmeni, Khachapuri.
+  - Moyen-Orient et Maghreb : Shawarma, Taboulé, Chakchouka, Pastilla.
+  - Afrique : Jollof rice, Fufu, Thiéboudienne, Mafé.
+  - Asie :
+    - Inde : Curry, Dal, Dosa ;
+    - Asie centrale et Himalaya : Plov, Momo ;
+    - Chine : Jiaozi, Hot pot, Mapo tofu ;
+    - Asie du Sud-Est : Bánh mì, Nem, Tom yum, Rendang, Adobo ;
+    - Corée et Japon : Bulgogi, Onigiri, Soupe miso ;
+    - Pacifique : Poke.
+  - Amériques :
+    - Amérique latine : Tamales, Enchiladas, Brigadeiro, Dulce de leche ;
+    - États-Unis :
+      - desserts : Cheesecake, Apple pie, Brownie, Pancakes, Donut ;
+      - plats : Bagel, Mac and cheese.
+  - Océanie : Pavlova.
+- **Fromages** (38) :
+  - France :
+    - pâtes molles : Saint-Marcellin, Pont-l'Évêque, Chaource, Langres, Coulommiers, Brillat-Savarin ;
+    - pâtes pressées : Abondance, Salers, Laguiole ;
+    - chèvres : Rocamadour, Sainte-Maure-de-Touraine, Valençay, Banon ;
+    - spécialités régionales : Brocciu, Cancoillotte.
+  - Suisse : Tête de moine.
+  - Italie : Taleggio, Provolone, Grana Padano.
+  - Espagne et Royaume-Uni : Cabrales, Wensleydale.
+  - Europe du Nord : Brunost.
+  - Inde : Paneer.
+- **Cépages** (64) :
+  - France : Pinot blanc, Altesse, Fer servadou.
+  - Italie : Glera, Corvina, Lambrusco.
+  - Espagne : Verdejo, Macabeo, Mencía.
+  - Grèce et Europe centrale : Xinomavro, Müller-Thurgau.
+  - Géorgie : Rkatsiteli.
+
+### Pensée et religions
+- **Philosophes** (59) :
+  - Antiquité : Thalès, Anaximandre, Protagoras, Boèce.
+  - Moyen Âge : Abélard, Anselme, Al-Farabi.
+  - Époque moderne : Malebranche, Berkeley, Condorcet, Bentham.
+  - Idéalisme allemand et marxisme : Fichte, Schelling, Engels.
+  - Pensée politique et sociale : Proudhon, Bakounine, Tocqueville, Auguste Comte.
+  - Pragmatisme et philosophie analytique : William James, Dewey, Frege, Quine, Dennett, Peter Singer.
+  - France au XXe siècle : Alain, Bachelard, Lévinas, Ricœur, Barthes.
+  - École de Francfort et marxisme : Walter Benjamin, Adorno, Marcuse, Gramsci.
+  - Asie : Mozi, Xunzi, Wang Yangming, Zhu Xi, Dōgen, Chanakya, Krishnamurti.
+  - Afrique : Zera Yacob, Cheikh Anta Diop.
+- **Figures religieuses** (48) :
+  - Ancien Testament : Noé, Adam et Ève, David, Salomon, Élie, Isaac, Jacob.
+  - Nouveau Testament : Joseph, Jean l'Évangéliste, Judas.
+  - Saints : Thérèse de Lisieux, Bernadette Soubirous, Vincent de Paul, Saint Martin, Saint Georges, Saint Valentin.
+  - Papes : le pape François.
+  - Protestantisme : John Wesley.
+  - Islam : Hussein, Khadija, Omar, Bilal.
+  - Judaïsme : Hillel, Rabbi Akiva, Rachi.
+  - Asie : Kabir, Guru Gobind Singh, Shinran.
+  - Autres : le Báb, Oscar Romero, l'abbé Pierre.
+
+## 4. Homonymes à surveiller
+
+Ces noms existent déjà dans une autre collection et bloqueraient les contrôles :
+
+| Nom à ajouter | Déjà présent comme |
+|---|---|
+| Thor, Loki (comics) | dieux nordiques |
+| Olympe | Mont Olympe (proche) |
+| Triangle, Serpent (instruments) | constellations |
+| Narcisse (fleur) | Narcisse le mythe |
+| Kiwi (fruit) | l'oiseau |
+| Mont-Blanc (dessert) | la montagne |
+| Vacherin glacé | le fromage |
+| Shetland (île) | le poney |
+| Mustang (avion) | le cheval |
+| Caravelle (avion) | le navire |
+| Sphinx (Batman) | la créature grecque |
+| Hercule (Disney) | la constellation |
+| Titanic (navire) | le film |
+| The Last of Us (série) | le jeu |
+| Vikings (série) | la civilisation |

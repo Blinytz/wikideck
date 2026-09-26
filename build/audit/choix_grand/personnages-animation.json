@@ -1,0 +1,118 @@
+{
+ "personnages-animation_minnie-mouse": {
+  "k": 3
+ },
+ "personnages-animation_pluto-disney": {
+  "k": 3
+ },
+ "personnages-animation_fee-clochette": {
+  "k": 11,
+  "cy": 0.33
+ },
+ "personnages-animation_jiminy-cricket": {
+  "k": 11
+ },
+ "personnages-animation_shere-khan": {
+  "k": 8
+ },
+ "personnages-animation_kaa": {
+  "k": 10
+ },
+ "personnages-animation_pocahontas-disney": {
+  "k": 6
+ },
+ "personnages-animation_belle-disney": {
+  "k": 4,
+  "cx": 0.375
+ },
+ "personnages-animation_la-bete-disney": {
+  "k": 0,
+  "cx": 0.6
+ },
+ "personnages-animation_jasmine-disney": {
+  "k": 3,
+  "cy": 0.35
+ },
+ "personnages-animation_jack-skellington": {
+  "k": 11,
+  "cy": 0.4
+ },
+ "personnages-animation_flash-mcqueen": {
+  "k": 10
+ },
+ "personnages-animation_gru-personnage": {
+  "k": 9
+ },
+ "personnages-animation_les-minions": {
+  "k": 0
+ },
+ "personnages-animation_porky-pig": {
+  "k": 6,
+  "cy": 0.35
+ },
+ "personnages-animation_speedy-gonzales": {
+  "k": 10
+ },
+ "personnages-animation_taz-langue": {
+  "k": 3,
+  "cy": 0.4
+ },
+ "personnages-animation_woody-woodpecker": {
+  "k": 6
+ },
+ "personnages-animation_droopy": {
+  "k": 2
+ },
+ "personnages-animation_fred-pierrafeu": {
+  "k": 10,
+  "cy": 0.35
+ },
+ "personnages-animation_barbapapa": {
+  "k": 3
+ },
+ "personnages-animation_wallace-et-gromit": {
+  "k": 6,
+  "cx": 0.45
+ },
+ "personnages-animation_scrat": {
+  "k": 1
+ },
+ "personnages-animation_bender-tordeur-rodriguez": {
+  "k": 2,
+  "cy": 0.35
+ },
+ "personnages-animation_eric-cartman": {
+  "k": 1
+ },
+ "personnages-animation_peter-griffin": {
+  "k": 8,
+  "cy": 0.4
+ },
+ "personnages-animation_rick-sanchez": {
+  "k": 9
+ },
+ "personnages-animation_marge-simpson": {
+  "k": 5,
+  "cy": 0.4
+ },
+ "personnages-animation_lisa-simpson": {
+  "k": 10,
+  "cy": 0.3
+ },
+ "personnages-animation_charles-montgomery-burns": {
+  "k": 2
+ },
+ "personnages-animation_peppa-pig": {
+  "k": 3,
+  "cx": 0.625
+ },
+ "personnages-animation_hello-kitty": {
+  "k": 2
+ },
+ "personnages-animation_kirikou-et-la-sorciere": {
+  "k": 4
+ },
+ "personnages-animation_tigrou": {
+  "k": 0
+ }
+}

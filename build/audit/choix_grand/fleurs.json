@@ -1,0 +1,19 @@
+{
+  "fleurs_pelargonium": {"k": 7},
+  "fleurs_primevere-officinale": {"k": 11},
+  "fleurs_perce-neige": {"k": 3},
+  "fleurs_hyacinthus-orientalis": {"k": 6},
+  "fleurs_syringa-vulgaris": {"k": 4},
+  "fleurs_myosotis": {"k": 9},
+  "fleurs_glaieul": {"k": 11},
+  "fleurs_clematite": {"k": 3},
+  "fleurs_fuchsia": {"k": 8},
+  "fleurs_chevrefeuille-des-bois": {"k": 2},
+  "fleurs_rhododendron": {"k": 11},
+  "fleurs_rhododendron-b": {"k": 4},
+  "fleurs_passiflore": {"k": 10},
+  "fleurs_strelitzia-reginae": {"k": 3},
+  "fleurs_protea-cynaroides": {"k": 11},
+  "fleurs_arum-titan": {"k": 1, "cy": 0.55},
+  "fleurs_dionee-attrape-mouche": {"k": 11}
+}

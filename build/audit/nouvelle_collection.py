@@ -2255,6 +2255,11 @@ PLANS = {
 
 # ------------------------------------------------------------------- outillage
 
+# Les six collections neuves du grand complement du 26/09/2026
+import grand_complement
+PLANS.update(grand_complement.PLANS)
+
+
 def periode():
     fin = date.today().replace(day=1) - timedelta(days=1)
     return ((fin.replace(day=1) - timedelta(days=360)).replace(day=1).strftime('%Y%m%d'),

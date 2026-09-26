@@ -1,0 +1,36 @@
+{
+ "lieux-legendaires_tartare-mythologie": {
+  "k": 11
+ },
+ "lieux-legendaires_hesperides": {
+  "k": 5
+ },
+ "lieux-legendaires_asgard-mythologie": {
+  "k": 10
+ },
+ "lieux-legendaires_midgard": {
+  "k": 6
+ },
+ "lieux-legendaires_xibalba": {
+  "k": 11
+ },
+ "lieux-legendaires_kunlun-mythologie": {
+  "k": 11,
+  "cy": 0.35
+ },
+ "lieux-legendaires_mont-meru": {
+  "k": 11
+ },
+ "lieux-legendaires_lyonesse": {
+  "k": 3
+ },
+ "lieux-legendaires_champs-elysees-mythologie": {
+  "k": 4
+ },
+ "lieux-legendaires_mictlan": {
+  "k": 1
+ },
+ "lieux-legendaires_tir-na-nog": {
+  "k": 3
+ }
+}

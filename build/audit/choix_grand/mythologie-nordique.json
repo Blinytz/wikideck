@@ -1,0 +1,19 @@
+{
+ "mythologie-nordique_hod": {"k": 1},
+ "mythologie-nordique_mimir": {"k": 8},
+ "mythologie-nordique_gir": {"k": 3},
+ "mythologie-nordique_ran": {"k": 5},
+ "mythologie-nordique_sigyn": {"k": 8, "cy": 0.45},
+ "mythologie-nordique_nanna-deesse": {"k": 5},
+ "mythologie-nordique_angrboda": {"k": 7},
+ "mythologie-nordique_brunehilde-mythologie": {"k": 5},
+ "mythologie-nordique_volund": {"k": 11, "cy": 0.24, "note": "cadre limite au haut de l'image, le titre de couverture est exclu"},
+ "mythologie-nordique_regin": {"k": 3},
+ "mythologie-nordique_audhumla": {"k": 9},
+ "mythologie-nordique_ask-et-embla": {"k": 2},
+ "mythologie-nordique_skoll": {"k": 4},
+ "mythologie-nordique_garm-mythologie": {"k": 6},
+ "mythologie-nordique_rymr": {"k": 3},
+ "mythologie-nordique_beowulf": {"k": 8},
+ "mythologie-nordique_grendel": {"k": 4}
+}

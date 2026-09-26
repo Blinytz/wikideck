@@ -1,0 +1,20 @@
+{
+ "mythologie-finnoise_vainamoinen": {"k": 1, "cy": 0.4},
+ "mythologie-finnoise_ilmarinen": {"k": 0, "cy": 0.45},
+ "mythologie-finnoise_lemminkainen": {"k": 0},
+ "mythologie-finnoise_louhi": {"k": 0},
+ "mythologie-finnoise_ukko-ylijumala": {"k": 0},
+ "mythologie-finnoise_kullervo": {"k": 9},
+ "mythologie-finnoise_tapio": {"k": 0, "cy": 0.4},
+ "mythologie-finnoise_mielikki": {"k": 10},
+ "mythologie-finnoise_tuonela": {"k": 1},
+ "mythologie-finnoise_ahti-mythologie": {"k": 0},
+ "mythologie-finnoise_joukahainen": {"k": 0},
+ "mythologie-finnoise_pohjola": {"k": 7},
+ "mythologie-finnoise_ilmatar": {"k": 0},
+ "mythologie-finnoise_hiisi": {"k": 2},
+ "mythologie-finnoise_kalevala": {"k": 11, "cy": 0.35},
+ "mythologie-finnoise_tuoni": {"k": 8},
+ "mythologie-finnoise_surma-mythologie": {"k": 9},
+ "mythologie-finnoise_kantele": {"k": 10, "cy": 0.4}
+}

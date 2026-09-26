@@ -1,0 +1,17 @@
+{
+  "races-de-cheval_breton-cheval": {"k": 3},
+  "races-de-cheval_merens-cheval": {"k": 1},
+  "races-de-cheval_pottok": {"k": 2},
+  "races-de-cheval_poitevin-mulassier": {"k": 3},
+  "races-de-cheval_cob-normand": {"k": 2, "cx": 0.54},
+  "races-de-cheval_arabe-cheval": {"k": 1},
+  "races-de-cheval_knabstrup": {"k": 7},
+  "races-de-cheval_paint-horse": {"k": 0},
+  "races-de-cheval_trotteur-d-orlov": {"k": 11},
+  "races-de-cheval_hackney-cheval": {"k": 1},
+  "races-de-cheval_islandais-cheval": {"k": 1},
+  "races-de-cheval_mongol-cheval": {"k": 1},
+  "races-de-cheval_brumby": {"k": 5},
+  "races-de-cheval_cob-gypsy": {"k": 4},
+  "races-de-cheval_suffolk-punch": {"k": 1}
+}

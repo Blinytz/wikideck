@@ -1,0 +1,49 @@
+{
+ "croyances-et-notions-sacrees_dharma": {
+  "k": 8
+ },
+ "croyances-et-notions-sacrees_kami-divinite": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "croyances-et-notions-sacrees_mantra": {
+  "k": 0
+ },
+ "croyances-et-notions-sacrees_mandala": {
+  "k": 10
+ },
+ "croyances-et-notions-sacrees_om": {
+  "k": 11
+ },
+ "croyances-et-notions-sacrees_totemisme": {
+  "k": 9
+ },
+ "croyances-et-notions-sacrees_ange": {
+  "k": 3
+ },
+ "croyances-et-notions-sacrees_resurrection": {
+  "k": 6
+ },
+ "croyances-et-notions-sacrees_kabbale": {
+  "k": 9,
+  "cy": 0.4
+ },
+ "croyances-et-notions-sacrees_soufisme": {
+  "k": 8
+ },
+ "croyances-et-notions-sacrees_gnose": {
+  "k": 2
+ },
+ "croyances-et-notions-sacrees_dao-de-jing": {
+  "k": 4
+ },
+ "croyances-et-notions-sacrees_ch-i-spiritualite": {
+  "k": 8
+ },
+ "croyances-et-notions-sacrees_ahimsa": {
+  "k": 2
+ },
+ "croyances-et-notions-sacrees_mana-spiritualite": {
+  "k": 3
+ }
+}

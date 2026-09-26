@@ -1,0 +1,12 @@
+{
+  "creatures-prehistoriques_ammonoidea": {"k": 10},
+  "creatures-prehistoriques_basilosaurus": {"k": 4},
+  "creatures-prehistoriques_tiktaalik": {"k": 2},
+  "creatures-prehistoriques_hallucigenia": {"k": 5},
+  "creatures-prehistoriques_megalania-genre": {"k": 10, "cx": 0.45},
+  "creatures-prehistoriques_diprotodon": {"k": 10},
+  "creatures-prehistoriques_aurochs": {"k": 4},
+  "creatures-prehistoriques_thylacine": {"k": 2},
+  "creatures-prehistoriques_entelodontidae": {"k": 7},
+  "creatures-prehistoriques_eohippus": {"k": 0}
+}

@@ -1,0 +1,13 @@
+{
+ "personnes-arts": ["acteurs-et-actrices", "realisateurs", "musique-populaire", "grands-compositeurs", "mode-et-couturiers"],
+ "personnes-lettres": ["auteurs-modernes", "auteurs-classiques", "philosophes", "figures-religieuses", "figures-emancipation", "grands-peintres"],
+ "personnes-histoire-sport": ["souverains-et-conquerants", "dirigeants-contemporains", "architectes", "inventeurs-et-ingenieurs", "scientifiques-celebres", "astronautes-et-cosmonautes", "pionniers-de-lextreme", "grands-explorateurs", "football-ere-moderne", "legendes-du-football", "legendes-du-sport", "champions-olympiques"],
+ "fiction": ["personnages-litterature", "personnages-jeu-video", "personnages-bd-comics", "personnages-animation", "personnages-cinema-serie", "personnages-manga-anime"],
+ "ecrans-jeux": ["series-televisees", "classiques-du-cinema", "cinema-moderne", "age-dor-du-jeu-video", "jeu-video-moderne", "jeux-de-societe", "disciplines-sportives"],
+ "mythes": ["dieux-et-figures-mythologiques-grecques", "mythologie-celtique", "mythologies-asie-est", "mythologie-hindoue", "mythologie-finnoise", "mythologie-nordique", "objets-mythiques", "evenements-mythiques", "croyances-et-notions-sacrees", "creatures-et-legendes", "mythologies-proche-orient", "mythologie-egyptienne", "mythologies-slaves", "mythologies-africaines", "lieux-legendaires", "mythologies-oceanie-ameriques", "mythologies-mesoamericaines", "vehicules-mythiques"],
+ "oeuvres": ["oeuvres-litteraires", "oeuvres-musicales", "tableaux-celebres", "sculptures-celebres", "photographies-celebres", "traites-et-textes-fondateurs"],
+ "cuisine": ["cuisines-du-monde", "plats-francais", "fromages", "cepages", "plantes-cultivees"],
+ "nature": ["mammiferes", "poissons-et-vie-marine", "arbres", "oiseaux", "fleurs", "reptiles-et-amphibiens", "champignons", "mineraux-et-pierres", "races-de-cheval", "creatures-prehistoriques"],
+ "lieux-histoire": ["villes-du-monde", "fleuves-mers-et-oceans", "iles", "montagnes-et-volcans", "monuments-emblematiques", "sites-antiques", "empires-et-civilisations", "dynasties-regnantes", "grandes-batailles-historiques", "grandes-guerres"],
+ "objets": ["vehicules-celebres", "conquete-spatiale", "instruments-de-musique", "inventions-importantes", "monnaies-historiques", "monnaies-du-monde", "langues-du-monde", "noeuds", "corps-celestes"]
+}

@@ -50903,11 +50903,10 @@
   },
   "scientifiques-celebres_georg-ohm": {
    "cx": 0.5,
-   "cy": 0.389,
+   "cy": 0.409,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416787198,
+   "original": true
   },
   "scientifiques-celebres_henry-cavendish": {
    "cx": 0.5,

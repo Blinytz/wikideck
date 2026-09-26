@@ -46987,19 +46987,17 @@
   },
   "arbres_juniperus-communis": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5984,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430465547,
+   "original": true
   },
   "arbres_amandier": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9642,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430467898,
+   "original": true
   },
   "arbres_acajou-des-antilles": {
    "cx": 0.5,

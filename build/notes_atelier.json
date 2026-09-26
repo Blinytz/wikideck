@@ -38593,11 +38593,10 @@
   },
   "objets-mythiques_anneau-de-gyges": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4953,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429210991,
+   "original": true
   },
   "objets-mythiques_collier-des-brisingar": {
    "cx": 0.5,

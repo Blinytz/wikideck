@@ -43297,11 +43297,10 @@
   },
   "sculptures-celebres_le-depart-des-volontaires-de-1792": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4058,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430107173,
+   "original": true
   },
   "sculptures-celebres_la-porte-de-l-enfer": {
    "cx": 0.5,

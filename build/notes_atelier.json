@@ -41527,12 +41527,11 @@
    "original": true
   },
   "personnages-jeu-video_m-bison": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.3409,
+   "cy": 0.4545,
+   "w": 0.6818,
+   "editeLe": 1790428088953,
+   "original": true
   },
   "personnages-jeu-video_raiden-mortal-kombat": {
    "cx": 0.5,

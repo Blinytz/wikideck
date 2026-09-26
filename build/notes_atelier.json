@@ -49875,18 +49875,16 @@
   "dynasties-regnantes_maison-de-wittelsbach": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.944,
+   "editeLe": 1790415059230,
+   "original": true
   },
   "dynasties-regnantes_maison-de-hanovre": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8817,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415063307,
+   "original": true
   },
   "dynasties-regnantes_maison-de-saxe-cobourg-et-gotha": {
    "cx": 0.52,

@@ -40222,19 +40222,17 @@
   },
   "philosophes_pierre-abelard": {
    "cx": 0.5,
-   "cy": 0.4597,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790444865709,
+   "original": true
   },
   "philosophes_anselme-de-cantorbery": {
    "cx": 0.5,
    "cy": 0.4,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444869843,
+   "original": true
   },
   "philosophes_al-farabi": {
    "cx": 0.5,

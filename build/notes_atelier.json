@@ -39650,19 +39650,17 @@
   },
   "mythologies-mesoamericaines_centeotl": {
    "cx": 0.5,
-   "cy": 0.4,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790426002212,
+   "original": true
   },
   "mythologies-mesoamericaines_itzpapalotl": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426005014,
+   "original": true
   },
   "vehicules-mythiques_tanngrisnir-et-tanngnjostr": {
    "cx": 0.5,

@@ -39086,20 +39086,18 @@
    "original": true
   },
   "creatures-et-legendes_croque-mitaine": {
-   "cx": 0.5,
+   "cx": 0.382,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6992,
+   "editeLe": 1790423881332,
+   "original": true
   },
   "creatures-et-legendes_dahu": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7565,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790423884857,
+   "original": true
   },
   "creatures-et-legendes_dame-blanche-legende": {
    "cx": 0.5,

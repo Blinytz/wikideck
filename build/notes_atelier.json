@@ -46631,18 +46631,16 @@
   "plantes-cultivees_igname": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1790443814564,
+   "original": true
   },
   "plantes-cultivees_arachide": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790443817902,
+   "original": true
   },
   "plantes-cultivees_palmier-a-huile": {
    "cx": 0.5,

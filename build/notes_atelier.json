@@ -50013,20 +50013,18 @@
    "original": true
   },
   "grandes-batailles-historiques_bataille-de-plassey": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415363088,
+   "original": true
   },
   "grandes-batailles-historiques_bataille-de-culloden": {
-   "cx": 0.5,
+   "cx": 0.461,
    "cy": 0.5,
    "w": 0.8042,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415367294,
+   "original": true
   },
   "grandes-batailles-historiques_batailles-de-saratoga": {
    "cx": 0.5,

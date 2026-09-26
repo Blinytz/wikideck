@@ -39969,19 +39969,17 @@
   },
   "auteurs-modernes_maurice-leblanc": {
    "cx": 0.5,
-   "cy": 0.7088,
+   "cy": 0.3661,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416393261,
+   "original": true
   },
   "auteurs-modernes_gaston-leroux": {
    "cx": 0.5473,
    "cy": 0.5,
    "w": 0.8803,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416395938,
+   "original": true
   },
   "auteurs-modernes_george-bernard-shaw": {
    "cx": 0.5,

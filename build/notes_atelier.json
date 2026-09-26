@@ -40032,19 +40032,17 @@
   },
   "auteurs-modernes_allen-ginsberg": {
    "cx": 0.5,
-   "cy": 0.4981,
+   "cy": 0.4559,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416451208,
+   "original": true
   },
   "auteurs-modernes_charles-bukowski": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416454416,
+   "original": true
   },
   "auteurs-modernes_heinrich-boll": {
    "cx": 0.5,

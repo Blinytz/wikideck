@@ -51416,12 +51416,11 @@
    "auto": true
   },
   "musique-populaire_elton-john": {
-   "cx": 0.4659,
+   "cx": 0.5992,
    "cy": 0.5,
    "w": 0.8017,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429722038,
+   "original": true
   },
   "musique-populaire_abba": {
    "cx": 0.556,

@@ -37876,19 +37876,17 @@
   },
   "mythologie-celtique_fee-morgane": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3169,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425491499,
+   "original": true
   },
   "mythologie-celtique_fee-viviane": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790425495039,
+   "original": true
   },
   "mythologie-celtique_lancelot-du-lac": {
    "cx": 0.5,

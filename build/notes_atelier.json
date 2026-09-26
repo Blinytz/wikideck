@@ -40081,11 +40081,10 @@
   },
   "auteurs-modernes_selma-lagerlof": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4899,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416501197,
+   "original": true
   },
   "auteurs-modernes_karel-capek": {
    "cx": 0.5,

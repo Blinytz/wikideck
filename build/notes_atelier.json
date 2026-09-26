@@ -44986,12 +44986,11 @@
    "original": true
   },
   "classiques-du-cinema_barry-lyndon": {
-   "cx": 0.5,
+   "cx": 0.5488,
    "cy": 0.5,
-   "w": 0.8025,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8,
+   "editeLe": 1790424303567,
+   "original": false
   },
   "classiques-du-cinema_annie-hall": {
    "cx": 0.5,

@@ -18971,7 +18971,7 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "editeLe": 1787088027059,
+   "editeLe": 1790424523405,
    "original": true
   },
   "jeu-video-moderne_halo-combat-evolved": {
@@ -45200,15 +45200,14 @@
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1790424515372,
-   "original": false
+   "original": true
   },
   "age-dor-du-jeu-video_pitfall": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424527519,
+   "original": true
   },
   "age-dor-du-jeu-video_breakout-jeu-video-1976": {
    "cx": 0.5,

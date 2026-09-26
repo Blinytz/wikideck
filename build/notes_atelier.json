@@ -47397,11 +47397,10 @@
   },
   "poissons-et-vie-marine_acipenser-sturio": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4588,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790422371394,
+   "original": true
   },
   "poissons-et-vie-marine_arapaima-gigas": {
    "cx": 0.5,
@@ -54703,7 +54702,7 @@
    "cy": 0.5,
    "w": 0.8867,
    "editeLe": 1790422351423,
-   "original": false
+   "original": true
   }
  },
  "notes": [

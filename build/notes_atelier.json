@@ -49710,12 +49710,11 @@
    "original": true
   },
   "sites-antiques_caral": {
-   "cx": 0.5,
+   "cx": 0.5042,
    "cy": 0.5,
    "w": 0.9917,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790413974253,
+   "original": true
   },
   "sites-antiques_sigiriya": {
    "cx": 0.5,

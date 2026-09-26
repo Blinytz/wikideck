@@ -195,7 +195,7 @@
   {
    "slug": "football-ere-moderne",
    "nom": "Football, ère moderne",
-   "nbCartes": 132,
+   "nbCartes": 133,
    "fichier": "data/football-ere-moderne.json"
   },
   {
@@ -297,7 +297,7 @@
   {
    "slug": "personnages-litterature",
    "nom": "Personnages de littérature",
-   "nbCartes": 96,
+   "nbCartes": 97,
    "fichier": "data/personnages-litterature.json"
   },
   {

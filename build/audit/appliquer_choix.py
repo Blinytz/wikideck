@@ -105,7 +105,10 @@ def main():
     notes = json.loads(fn.read_text(encoding='utf-8'))
     fs = RACINE / 'build' / 'images_sources.json'
     sources = json.loads(fs.read_text(encoding='utf-8'))
-    for slug in sys.argv[1:]:
+    # --seul <id> : ne poser que ces cartes. Rejouer tout un fichier de choix
+    # ecraserait les cartes que l'utilisateur a retouchees depuis.
+    seuls = {sys.argv[i + 1] for i, x in enumerate(sys.argv) if x == '--seul'}
+    for slug in [x for x in sys.argv[1:] if not x.startswith('--') and x not in seuls]:
         fc = CHOIX / f'{slug}.json'
         if not fc.exists():
             print(f'{slug} : pas de fichier de choix')
@@ -115,6 +118,8 @@ def main():
         cartes = {c['id']: c for c in json.loads((RACINE / e['fichier']).read_text(encoding='utf-8'))['cartes']}
         poses = 0
         for cid, ch in choix.items():
+            if seuls and cid not in seuls:
+                continue
             c = cartes.get(cid)
             if c is None or ch.get('k') is None or ch['k'] < 0:
                 continue

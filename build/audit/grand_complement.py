@@ -744,6 +744,7 @@ AJOUTS = {
         ('Park Ji-sung', 'Park Ji-sung'), ('Hidetoshi Nakata', 'Hidetoshi Nakata'),
         ('Marta', 'Marta Vieira da Silva'), ('Mia Hamm', 'Mia Hamm'), ('Alexia Putellas', 'Alexia Putellas'),
         ('Aitana Bonmatí', 'Aitana Bonmatí'), ('Wendie Renard', 'Wendie Renard'), ('Ada Hegerberg', 'Ada Hegerberg'),
+        ('Megan Rapinoe', 'Megan Rapinoe'),
     ],
     'legendes-du-sport': [
         ('Stephen Curry', 'Stephen Curry'), ('Bill Russell', 'Bill Russell'), ("Shaquille O'Neal", "Shaquille O'Neal"),
@@ -1329,7 +1330,7 @@ CORRECTIONS_TITRES.update({
     'Antonins': None, 'Clan Minamoto': None, 'Traité de Kadesh': 'Traité de paix égypto-hittite',
     "Bulle d'or de 1356": "Bulle d'or (1356)", 'John Brown': 'John Brown', 'Hernando de Soto': 'Hernando de Soto (conquistador)',
     'La Rochefoucauld': 'François de La Rochefoucauld', 'Hafez': 'Hafez (poète)', 'Tartuffe': None, 'Figaro': None,
-    'Candide': None, 'Gargantua': 'Gargantua', 'Esmeralda': 'La Esmeralda (personnage)', 'Athos': None,
+    'Candide': None, 'Gargantua': 'Gargantua', 'Esmeralda': 'La Esmeralda (personnage)', 'Athos': 'Athos',
     'Heidi': 'Heidi (roman)', 'Flûte piccolo': 'Piccolo (instrument)', 'Supergirl': 'Supergirl (comics)',
     'Carl Johnson': 'Carl Johnson (Grand Theft Auto)', 'Inspecteur Gadget': None,
     'Double Dragon': 'Double Dragon (jeu vidéo, 1987)', 'Dune II': "Dune II : La Bataille d'Arrakis",

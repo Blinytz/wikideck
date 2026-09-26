@@ -45330,11 +45330,10 @@
   },
   "age-dor-du-jeu-video_star-wing": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5516,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424642277,
+   "original": true
   },
   "age-dor-du-jeu-video_super-mario-kart": {
    "cx": 0.5,

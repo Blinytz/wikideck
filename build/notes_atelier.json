@@ -37488,20 +37488,18 @@
    "original": true
   },
   "creatures-prehistoriques_tiktaalik": {
-   "cx": 0.5,
+   "cx": 0.4699,
    "cy": 0.5,
    "w": 0.7698,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415671708,
+   "original": true
   },
   "creatures-prehistoriques_hallucigenia": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9067,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415675210,
+   "original": true
   },
   "creatures-prehistoriques_megalania-genre": {
    "cx": 0.45,

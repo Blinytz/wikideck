@@ -41988,12 +41988,11 @@
    "original": true
   },
   "personnages-animation_pluto-disney": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.2328,
+   "cy": 0.5704,
+   "w": 0.4657,
+   "editeLe": 1790428422833,
+   "original": true
   },
   "personnages-animation_fee-clochette": {
    "cx": 0.5,
@@ -42247,9 +42246,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428425777,
+   "original": true
   },
   "personnages-cinema-serie_chewbacca": {
    "cx": 0.5047,

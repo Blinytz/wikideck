@@ -37272,20 +37272,18 @@
    "original": true
   },
   "fromages_provolone-valpadana": {
-   "cx": 0.5,
+   "cx": 0.493,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444088277,
+   "original": true
   },
   "fromages_grana-padano": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444091256,
+   "original": true
   },
   "fromages_cabrales": {
    "cx": 0.45,

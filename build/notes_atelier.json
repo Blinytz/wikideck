@@ -42512,15 +42512,14 @@
    "cy": 0.5,
    "w": 0.7493,
    "editeLe": 1790427290019,
-   "original": false
+   "original": true
   },
   "personnages-cinema-serie_angus-macgyver": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8717,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427308024,
+   "original": true
   },
   "personnages-cinema-serie_j-r-ewing": {
    "cx": 0.5,

@@ -53865,20 +53865,18 @@
    "original": true
   },
   "inventions-importantes_scaphandre-autonome": {
-   "cx": 0.5,
+   "cx": 0.6048,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7619,
+   "editeLe": 1790417560757,
+   "original": true
   },
   "inventions-importantes_moulin-a-vent": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9242,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417563225,
+   "original": true
   },
   "inventions-importantes_brouette": {
    "cx": 0.5,

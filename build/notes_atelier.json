@@ -39111,10 +39111,9 @@
   "mythologies-proche-orient_uta-napishtim": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790426205447,
+   "original": true
   },
   "mythologies-proche-orient_kingu": {
    "cx": 0.5,

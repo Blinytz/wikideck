@@ -45225,11 +45225,10 @@
   },
   "age-dor-du-jeu-video_bubble-bobble": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4406,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424538627,
+   "original": true
   },
   "age-dor-du-jeu-video_double-dragon-jeu-video-1987": {
    "cx": 0.5,

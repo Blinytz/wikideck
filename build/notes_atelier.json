@@ -40697,19 +40697,18 @@
    "original": true
   },
   "figures-emancipation_olaudah-equiano": {
-   "cx": 0.5164,
+   "cx": 0.5058,
    "cy": 0.4121,
    "w": 0.7513,
-   "editeLe": 1790446013459,
+   "editeLe": 1790446045233,
    "original": true
   },
   "figures-emancipation_john-brown": {
    "cx": 0.5,
    "cy": 0.4443,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790446048565,
+   "original": true
   },
   "figures-emancipation_abbe-gregoire": {
    "cx": 0.5,

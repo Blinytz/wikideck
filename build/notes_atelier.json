@@ -46623,11 +46623,10 @@
   },
   "plantes-cultivees_patate-douce": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.375,
+   "w": 1,
+   "editeLe": 1790443762078,
+   "original": true
   },
   "plantes-cultivees_igname": {
    "cx": 0.5,

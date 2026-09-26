@@ -42384,18 +42384,16 @@
   "personnages-cinema-serie_spock-star-trek": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790427182767,
+   "original": true
   },
   "personnages-cinema-serie_charlot": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9242,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4834,
+   "cy": 0.5455,
+   "w": 0.8402,
+   "editeLe": 1790427187045,
+   "original": true
   },
   "personnages-cinema-serie_hal-9000": {
    "cx": 0.5,

@@ -44819,20 +44819,18 @@
    "auto": true
   },
   "classiques-du-cinema_le-cabinet-du-docteur-caligari": {
-   "cx": 0.5,
+   "cx": 0.4516,
    "cy": 0.5,
    "w": 0.9032,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424222968,
+   "original": true
   },
   "classiques-du-cinema_l-aurore-film-1927": {
-   "cx": 0.5,
+   "cx": 0.425,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424226654,
+   "original": true
   },
   "classiques-du-cinema_le-mecano-de-la-general": {
    "cx": 0.5,

@@ -40352,11 +40352,10 @@
   },
   "auteurs-classiques_plutarque": {
    "cx": 0.5,
-   "cy": 0.4099,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.7439,
+   "editeLe": 1790416028064,
+   "original": true
   },
   "auteurs-classiques_tacite": {
    "cx": 0.5,

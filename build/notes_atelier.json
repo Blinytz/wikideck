@@ -51892,19 +51892,17 @@
   },
   "grands-compositeurs_marc-antoine-charpentier": {
    "cx": 0.5,
-   "cy": 0.4174,
+   "cy": 0.3842,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429416696,
+   "original": true
   },
   "grands-compositeurs_georg-philipp-telemann": {
    "cx": 0.5,
-   "cy": 0.3223,
+   "cy": 0.3908,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790429420973,
+   "original": true
   },
   "grands-compositeurs_johann-pachelbel": {
    "cx": 0.5,

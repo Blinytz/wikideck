@@ -41513,12 +41513,11 @@
    "original": true
   },
   "personnages-jeu-video_shadow-sonic": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5115,
+   "cy": 0.5,
+   "w": 0.6667,
+   "editeLe": 1790428067936,
+   "original": true
   },
   "personnages-jeu-video_ken-masters": {
    "cx": 0.5,

@@ -39846,15 +39846,14 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790416227793,
-   "original": false
+   "original": true
   },
   "auteurs-modernes_alan-alexander-milne": {
    "cx": 0.5,
-   "cy": 0.409,
+   "cy": 0.3812,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416231249,
+   "original": true
   },
   "auteurs-modernes_beatrix-potter": {
    "cx": 0.5,

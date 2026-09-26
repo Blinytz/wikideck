@@ -47790,9 +47790,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417958676,
+   "original": true
   },
   "oiseaux_pintade-de-numidie": {
    "cx": 0.5,
@@ -54674,6 +54673,13 @@
    "cy": 0.5,
    "w": 0.8883,
    "editeLe": 1790417927161,
+   "original": false
+  },
+  "oiseaux_oie-cendree": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790417955369,
    "original": false
   }
  },

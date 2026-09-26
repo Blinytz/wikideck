@@ -41833,20 +41833,18 @@
    "original": true
   },
   "personnages-bd-comics_pingouin-comics": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5466,
+   "cy": 0.5,
+   "w": 0.8117,
+   "editeLe": 1790427468832,
+   "original": true
   },
   "personnages-bd-comics_double-face": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.6662,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790427472929,
+   "original": true
   },
   "personnages-bd-comics_poison-ivy-dc-comics": {
    "cx": 0.5,

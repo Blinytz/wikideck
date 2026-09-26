@@ -40327,19 +40327,17 @@
   },
   "philosophes_john-dewey": {
    "cx": 0.5,
-   "cy": 0.4143,
+   "cy": 0.3662,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444972188,
+   "original": true
   },
   "philosophes_gottlob-frege": {
    "cx": 0.5,
-   "cy": 0.4489,
+   "cy": 0.4292,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444975924,
+   "original": true
   },
   "philosophes_willard-van-orman-quine": {
    "cx": 0.5,

@@ -37454,10 +37454,9 @@
   "champignons_oreille-de-judas": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9642,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9883,
+   "editeLe": 1790430398198,
+   "original": false
   },
   "champignons_saccharomyces-cerevisiae": {
    "cx": 0.5,

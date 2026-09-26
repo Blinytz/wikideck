@@ -40492,11 +40492,10 @@
   },
   "auteurs-classiques_henryk-sienkiewicz": {
    "cx": 0.5,
-   "cy": 0.4367,
+   "cy": 0.4145,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416190413,
+   "original": true
   },
   "philosophes_thales": {
    "cx": 0.5,

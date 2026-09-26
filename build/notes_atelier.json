@@ -49859,20 +49859,18 @@
    "original": true
   },
   "dynasties-regnantes_famille-borgia": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8542,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5071,
+   "cy": 0.4545,
+   "w": 0.6374,
+   "editeLe": 1790415024695,
+   "original": true
   },
   "dynasties-regnantes_famille-sforza": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7592,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790415028453,
+   "original": true
   },
   "dynasties-regnantes_maison-de-wittelsbach": {
    "cx": 0.5,

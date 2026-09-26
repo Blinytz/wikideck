@@ -42044,20 +42044,18 @@
    "original": true
   },
   "personnages-animation_jasmine-disney": {
-   "cx": 0.5,
-   "cy": 0.375,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5104,
+   "cy": 0.5,
+   "w": 0.8333,
+   "editeLe": 1790428533539,
+   "original": true
   },
   "personnages-animation_jack-skellington": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.44,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790428537708,
+   "original": true
   },
   "personnages-animation_flash-mcqueen": {
    "cx": 0.5,

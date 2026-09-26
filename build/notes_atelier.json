@@ -39843,11 +39843,10 @@
   },
   "auteurs-modernes_michael-ende": {
    "cx": 0.5,
-   "cy": 0.6521,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790416227793,
+   "original": false
   },
   "auteurs-modernes_alan-alexander-milne": {
    "cx": 0.5,

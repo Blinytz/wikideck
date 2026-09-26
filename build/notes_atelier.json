@@ -44990,23 +44990,21 @@
    "cy": 0.5,
    "w": 0.8,
    "editeLe": 1790424303567,
-   "original": false
+   "original": true
   },
   "classiques-du-cinema_annie-hall": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424310100,
+   "original": true
   },
   "classiques-du-cinema_voyage-au-bout-de-l-enfer": {
-   "cx": 0.5,
+   "cx": 0.5457,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424313736,
+   "original": true
   },
   "classiques-du-cinema_halloween-la-nuit-des-masques": {
    "cx": 0.5,

@@ -41276,11 +41276,10 @@
   },
   "personnages-litterature_scarlett-o-hara": {
    "cx": 0.5,
-   "cy": 0.375,
+   "cy": 0.425,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426906348,
+   "original": true
   },
   "personnages-litterature_jane-eyre-personnage": {
    "cx": 0.5,

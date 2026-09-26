@@ -44298,9 +44298,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790417845630,
+   "original": true
   },
   "mammiferes_musaraigne": {
    "cx": 0.5,
@@ -54667,6 +54666,13 @@
    "w": 0.8943,
    "editeLe": 1790414053124,
    "original": true
+  },
+  "mammiferes_mustela-nivalis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790417848772,
+   "original": false
   }
  },
  "notes": [

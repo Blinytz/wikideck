@@ -46066,19 +46066,17 @@
   },
   "cuisines-du-monde_dosa": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.508,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444549143,
+   "original": true
   },
   "cuisines-du-monde_plov": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790444551932,
+   "original": true
   },
   "cuisines-du-monde_momo-plat-traditionnel": {
    "cx": 0.5,

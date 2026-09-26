@@ -39556,17 +39556,15 @@
    "cx": 0.5,
    "cy": 0.375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424172466,
+   "original": true
   },
   "lieux-legendaires_mont-meru": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790424174905,
+   "original": true
   },
   "lieux-legendaires_lyonesse": {
    "cx": 0.5,

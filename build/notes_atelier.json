@@ -47037,18 +47037,16 @@
   "arbres_flamboyant-bleu": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790430541725,
+   "original": true
   },
   "arbres_flamboyant": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790430544474,
+   "original": true
   },
   "arbres_paletuvier": {
    "cx": 0.5,

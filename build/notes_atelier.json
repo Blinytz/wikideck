@@ -39393,7 +39393,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790426412467,
-   "original": false
+   "original": true
   },
   "lieux-legendaires_tartare-mythologie": {
    "cx": 0.5,
@@ -39474,11 +39474,10 @@
   },
   "mythologies-oceanie-ameriques_tiki": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.2566,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426422411,
+   "original": true
   },
   "mythologies-oceanie-ameriques_rongo": {
    "cx": 0.5,

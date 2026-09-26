@@ -39096,11 +39096,10 @@
   },
   "mythologies-proche-orient_pazuzu": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3761,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790426156380,
+   "original": true
   },
   "mythologies-proche-orient_lamassu": {
    "cx": 0.5,

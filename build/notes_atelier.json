@@ -36385,19 +36385,17 @@
   },
   "oeuvres-litteraires_iliade": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8385,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5054,
+   "w": 1,
+   "editeLe": 1790526526396,
+   "original": true
   },
   "oeuvres-litteraires_metamorphoses-ovide": {
-   "cx": 0.5,
-   "cy": 0.46,
+   "cx": 0.5894,
+   "cy": 0.4787,
    "w": 0.78,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526531150,
+   "original": true
   },
   "oeuvres-litteraires_eneide": {
    "cx": 0.5,

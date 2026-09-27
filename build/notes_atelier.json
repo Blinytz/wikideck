@@ -44537,20 +44537,18 @@
    "original": true
   },
   "jeux-de-societe_senet": {
-   "cx": 0.5,
+   "cx": 0.4446,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528715712,
+   "original": true
   },
   "jeux-de-societe_jeu-royal-d-ur": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528718319,
+   "original": true
   },
   "jeux-de-societe_jeu-de-l-oie-jeu-de-societe": {
    "cx": 0.5,

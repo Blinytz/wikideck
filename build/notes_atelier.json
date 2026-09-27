@@ -51515,20 +51515,18 @@
    "original": true
   },
   "vehicules-celebres_renault-4": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8865,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.6072,
+   "cy": 0.5151,
+   "w": 0.6822,
+   "editeLe": 1790524760514,
+   "original": true
   },
   "vehicules-celebres_willys-mb": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.88,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524764932,
+   "original": true
   },
   "vehicules-celebres_trabant-601": {
    "cx": 0.5,

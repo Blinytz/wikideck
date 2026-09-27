@@ -53289,10 +53289,9 @@
   "grandes-competitions_24-heures-du-mans": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1790529345438,
+   "original": true
   },
   "grandes-competitions_grand-prix-automobile-de-monaco": {
    "cx": 0.5,

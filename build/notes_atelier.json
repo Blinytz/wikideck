@@ -36875,19 +36875,17 @@
   },
   "oeuvres-litteraires_si-c-est-un-homme": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4799,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528150254,
+   "original": true
   },
   "oeuvres-litteraires_le-reve-dans-le-pavillon-rouge": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7675,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528154431,
+   "original": true
   },
   "oeuvres-litteraires_le-dit-du-genji": {
    "cx": 0.5,

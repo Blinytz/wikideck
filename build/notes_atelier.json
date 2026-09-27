@@ -52017,12 +52017,11 @@
    "original": true
   },
   "instruments-de-musique_castagnettes": {
-   "cx": 0.5,
+   "cx": 0.5364,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7618,
+   "editeLe": 1790522203044,
+   "original": true
   },
   "instruments-de-musique_gong-instrument": {
    "cx": 0.5,

@@ -48298,17 +48298,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495935527,
+   "original": true
   },
   "montagnes-et-volcans_mont-kenya": {
-   "cx": 0.5,
+   "cx": 0.5554,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495939168,
+   "original": true
   },
   "monuments-emblematiques_bauhaus": {
    "cx": 0.5,

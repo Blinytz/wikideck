@@ -52913,17 +52913,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.705,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530001762,
+   "original": true
   },
   "styles-architecturaux_art-roman": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530004429,
+   "original": true
   },
   "styles-architecturaux_architecture-gothique": {
    "cx": 0.5,

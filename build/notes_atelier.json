@@ -45174,20 +45174,18 @@
    "original": true
   },
   "disciplines-sportives_capoeira": {
-   "cx": 0.5,
+   "cx": 0.4446,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529086663,
+   "original": true
   },
   "disciplines-sportives_curling": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529089566,
+   "original": true
   },
   "cuisines-du-monde_pates-a-la-carbonara": {
    "cx": 0.5558,

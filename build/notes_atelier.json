@@ -36504,11 +36504,10 @@
   },
   "oeuvres-litteraires_le-rouge-et-le-noir": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9458,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4819,
+   "w": 1,
+   "editeLe": 1790526922477,
+   "original": true
   },
   "oeuvres-litteraires_le-pere-goriot": {
    "cx": 0.5,

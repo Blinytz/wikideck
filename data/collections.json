@@ -453,7 +453,7 @@
   {
    "slug": "figures-emancipation",
    "nom": "Figures de l'émancipation",
-   "nbCartes": 77,
+   "nbCartes": 76,
    "fichier": "data/figures-emancipation.json"
   },
   {
@@ -651,7 +651,7 @@
   {
    "slug": "figures-resistance",
    "nom": "Figures de la Résistance",
-   "nbCartes": 32,
+   "nbCartes": 33,
    "fichier": "data/figures-resistance.json"
   },
   {

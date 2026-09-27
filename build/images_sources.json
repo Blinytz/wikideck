@@ -21449,11 +21449,6 @@
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/1280px-Helen_Keller_%28circa_1904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
 },
-"figures-emancipation_josephine-baker": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images.fineartamerica.com/images-medium-large-5/1-portrait-of-josephine-baker-george-hoyningen-huen.jpg"
-},
 "figures-emancipation_liu-xiaobo": {
 "source": "grand-complement",
 "origine": "web",
@@ -30466,5 +30461,10 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://goldenglobes.com/wp-content/uploads/2023/10/lumiere_festival.jpg"
+},
+"figures-resistance_josephine-baker": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://images.fineartamerica.com/images-medium-large-5/1-portrait-of-josephine-baker-george-hoyningen-huen.jpg"
 }
 }

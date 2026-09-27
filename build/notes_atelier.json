@@ -52010,12 +52010,11 @@
    "original": true
   },
   "instruments-de-musique_darbouka": {
-   "cx": 0.5,
+   "cx": 0.5525,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8884,
+   "editeLe": 1790522161370,
+   "original": true
   },
   "instruments-de-musique_castagnettes": {
    "cx": 0.5,

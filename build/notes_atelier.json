@@ -51606,12 +51606,11 @@
    "original": true
   },
   "vehicules-celebres_rover-lunaire-apollo": {
-   "cx": 0.5,
+   "cx": 0.5124,
    "cy": 0.5,
    "w": 0.8823,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524934380,
+   "original": true
   },
   "conquete-spatiale_programme-mercury": {
    "cx": 0.5,

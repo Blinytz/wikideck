@@ -46965,19 +46965,17 @@
   },
   "mineraux-et-pierres_moldavite": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4917,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517160808,
+   "original": true
   },
   "mineraux-et-pierres_jais": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517164704,
+   "original": true
   },
   "mineraux-et-pierres_quartz-rose": {
    "cx": 0.5,

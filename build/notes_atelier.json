@@ -50330,12 +50330,11 @@
    "original": true
   },
   "legendes-du-sport_bill-russell": {
-   "cx": 0.495,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790515821756,
+   "original": true
   },
   "legendes-du-sport_shaquille-o-neal": {
    "cx": 0.4485,

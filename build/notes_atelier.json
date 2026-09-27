@@ -47769,11 +47769,10 @@
   },
   "iles_madere": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.478,
+   "w": 1,
+   "editeLe": 1790513012983,
+   "original": true
   },
   "iles_acores": {
    "cx": 0.5,

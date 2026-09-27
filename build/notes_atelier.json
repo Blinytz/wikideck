@@ -46951,11 +46951,10 @@
   },
   "mineraux-et-pierres_zircon": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517070167,
+   "original": true
   },
   "mineraux-et-pierres_il-de-tigre": {
    "cx": 0.5,

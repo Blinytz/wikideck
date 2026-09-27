@@ -11,7 +11,8 @@
   "races-de-chat_european-shorthair": "revoir",
   "plats-francais_kougelhopf": "revoir",
   "oeuvres-litteraires_iliade": "revoir",
-  "jeux-de-societe_echecs": "revoir"
+  "jeux-de-societe_echecs": "revoir",
+  "disciplines-sportives_golf": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -44853,17 +44854,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8885,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528985244,
+   "original": true
   },
   "disciplines-sportives_badminton": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528987843,
+   "original": true
   },
   "disciplines-sportives_golf": {
    "cx": 0.5,

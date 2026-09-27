@@ -45050,12 +45050,11 @@
    "original": true
   },
   "disciplines-sportives_tir-a-l-arc": {
-   "cx": 0.5,
+   "cx": 0.4809,
    "cy": 0.5,
    "w": 0.8908,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529046933,
+   "original": true
   },
   "disciplines-sportives_equitation": {
    "cx": 0.5,

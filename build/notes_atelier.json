@@ -37102,17 +37102,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528529619,
+   "original": true
   },
   "cepages_lambrusco": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8942,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528531880,
+   "original": true
   },
   "cepages_verdejo": {
    "cx": 0.5,

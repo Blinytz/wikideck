@@ -53345,18 +53345,16 @@
   "grandes-competitions_masters-de-golf": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8641666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8642,
+   "editeLe": 1790529377783,
+   "original": true
   },
   "grandes-competitions_marathon-de-new-york": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790529380248,
+   "original": true
   },
   "grandes-competitions_marathon-de-boston": {
    "cx": 0.5,

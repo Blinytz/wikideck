@@ -47630,10 +47630,9 @@
   "fleuves-mers-et-oceans_golfe-persique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8893,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790509313624,
+   "original": true
   },
   "fleuves-mers-et-oceans_leman": {
    "cx": 0.5,

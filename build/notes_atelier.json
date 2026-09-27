@@ -52898,18 +52898,16 @@
   "styles-architecturaux_architecture-de-la-grece-antique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9370629370629371,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9371,
+   "editeLe": 1790529994259,
+   "original": true
   },
   "styles-architecturaux_architecture-romaine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.934375,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9344,
+   "editeLe": 1790529996929,
+   "original": true
   },
   "styles-architecturaux_architecture-byzantine": {
    "cx": 0.5,

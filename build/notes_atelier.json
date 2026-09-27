@@ -36331,19 +36331,17 @@
   },
   "grands-peintres_victor-vasarely": {
    "cx": 0.5,
-   "cy": 0.3529,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497473260,
+   "original": true
   },
   "grands-peintres_chaim-soutine": {
    "cx": 0.5,
    "cy": 0.25,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497476395,
+   "original": true
   },
   "grands-peintres_suzanne-valadon": {
    "cx": 0.5,

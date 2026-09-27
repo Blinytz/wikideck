@@ -36510,12 +36510,11 @@
    "original": true
   },
   "oeuvres-litteraires_le-pere-goriot": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.527,
+   "cy": 0.5327,
+   "w": 0.9091,
+   "editeLe": 1790526945666,
+   "original": true
   },
   "oeuvres-litteraires_madame-bovary": {
    "cx": 0.5,

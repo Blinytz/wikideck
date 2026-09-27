@@ -52927,17 +52927,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530006935,
+   "original": true
   },
   "styles-architecturaux_architecture-islamique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.94375,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9438,
+   "editeLe": 1790530009243,
+   "original": true
   },
   "styles-architecturaux_art-mudejar": {
    "cx": 0.5,

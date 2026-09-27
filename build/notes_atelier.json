@@ -42602,11 +42602,10 @@
   },
   "oeuvres-musicales_concerto-d-aranjuez": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6211,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790499666595,
+   "original": true
   },
   "oeuvres-musicales_bachianas-brasileiras": {
    "cx": 0.5,

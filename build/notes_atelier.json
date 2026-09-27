@@ -35530,19 +35530,17 @@
   },
   "acteurs-et-actrices_bourvil": {
    "cx": 0.5,
-   "cy": 0.576,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790526345371,
+   "original": true
   },
   "acteurs-et-actrices_fernandel": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.4968,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526349397,
+   "original": true
   },
   "acteurs-et-actrices_lino-ventura": {
    "cx": 0.5,

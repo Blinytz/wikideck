@@ -36469,11 +36469,10 @@
   },
   "oeuvres-litteraires_candide": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.7144,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526854615,
+   "original": true
   },
   "oeuvres-litteraires_les-liaisons-dangereuses": {
    "cx": 0.5,

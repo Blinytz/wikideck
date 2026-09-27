@@ -52504,10 +52504,9 @@
   "monnaies-du-monde_bitcoin": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.889,
+   "editeLe": 1790524433036,
+   "original": true
   },
   "langues-du-monde_akkadien": {
    "cx": 0.5,

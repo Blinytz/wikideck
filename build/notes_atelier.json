@@ -47000,11 +47000,10 @@
   },
   "mineraux-et-pierres_rose-des-sables": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4845,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517257352,
+   "original": true
   },
   "mineraux-et-pierres_coltan": {
    "cx": 0.5,

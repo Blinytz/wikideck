@@ -51503,18 +51503,16 @@
   "vehicules-celebres_mini-1959-2000": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8344,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790524732152,
+   "original": true
   },
   "vehicules-celebres_fiat-500-1957": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524735840,
+   "original": true
   },
   "vehicules-celebres_renault-4": {
    "cx": 0.5,

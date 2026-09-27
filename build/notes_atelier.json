@@ -51431,20 +51431,18 @@
    "original": true
   },
   "vehicules-celebres_airbus-a380": {
-   "cx": 0.5,
+   "cx": 0.4742,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8745,
+   "editeLe": 1790524614773,
+   "original": true
   },
   "vehicules-celebres_lockheed-sr-71-blackbird": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.93,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524618672,
+   "original": true
   },
   "vehicules-celebres_air-force-one": {
    "cx": 0.5,

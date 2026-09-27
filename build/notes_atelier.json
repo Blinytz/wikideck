@@ -52849,18 +52849,16 @@
   "figures-resistance_jan-karski": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9268035808320167,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9268,
+   "editeLe": 1790529918215,
+   "original": true
   },
   "figures-resistance_hannie-schaft": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.479,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529921337,
+   "original": true
   },
   "figures-resistance_nancy-wake": {
    "cx": 0.5,

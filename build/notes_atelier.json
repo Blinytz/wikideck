@@ -50614,11 +50614,10 @@
   },
   "champions-olympiques_sonja-henie": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.9833,
+   "editeLe": 1790516272488,
+   "original": true
   },
   "champions-olympiques_katarina-witt": {
    "cx": 0.5,

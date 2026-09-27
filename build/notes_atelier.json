@@ -50656,11 +50656,10 @@
   },
   "champions-olympiques_leon-marchand": {
    "cx": 0.5,
-   "cy": 0.4448,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.8887,
+   "editeLe": 1790516519196,
+   "original": true
   },
   "champions-olympiques_laure-manaudou": {
    "cx": 0.5,

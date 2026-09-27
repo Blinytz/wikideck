@@ -44872,12 +44872,11 @@
    "original": true
   },
   "disciplines-sportives_baseball": {
-   "cx": 0.5,
+   "cx": 0.444,
    "cy": 0.5,
    "w": 0.8854,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528997818,
+   "original": true
   },
   "disciplines-sportives_cricket": {
    "cx": 0.5,

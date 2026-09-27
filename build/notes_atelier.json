@@ -42504,11 +42504,10 @@
   },
   "oeuvres-musicales_lucia-di-lammermoor": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.999,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5169,
+   "w": 1,
+   "editeLe": 1790499318650,
+   "original": true
   },
   "oeuvres-musicales_norma-opera": {
    "cx": 0.5,

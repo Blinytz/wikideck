@@ -52124,18 +52124,16 @@
   "instruments-de-musique_ondes-martenot": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9467,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1790522565943,
+   "original": true
   },
   "instruments-de-musique_roland-tr-808": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522570409,
+   "original": true
   },
   "inventions-importantes_ordinateur": {
    "cx": 0.5,

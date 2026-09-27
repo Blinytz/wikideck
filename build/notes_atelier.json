@@ -44775,18 +44775,16 @@
   "jeux-de-societe_7-wonders": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8854,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8837,
+   "editeLe": 1790528948182,
+   "original": true
   },
   "jeux-de-societe_warhammer-40-000": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9246,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528951787,
+   "original": true
   },
   "jeux-de-societe_rubik-s-cube": {
    "cx": 0.5,

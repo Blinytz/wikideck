@@ -298,6 +298,7 @@ AJOUTS = {
         ('Alexeï Navalny', 'Alexeï Navalny'), ('Nadia Murad', 'Nadia Murad'),
         ('Denis Mukwege', 'Denis Mukwege'), ('Robert Badinter', 'Robert Badinter'),
         ('Greta Thunberg', 'Greta Thunberg'), ('Chico Mendes', 'Chico Mendes'),
+        ('Jean Jaurès', 'Jean Jaurès'),
     ],
     'grands-explorateurs': [
         ('Cavelier de La Salle', 'René-Robert Cavelier de La Salle'), ('Hernando de Soto', 'Hernando de Soto'),

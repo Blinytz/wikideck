@@ -52495,12 +52495,11 @@
    "original": true
   },
   "monnaies-du-monde_metical": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.5592,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4998,
+   "cy": 0.506,
+   "w": 0.6815,
+   "editeLe": 1790524416308,
+   "original": true
   },
   "monnaies-du-monde_bitcoin": {
    "cx": 0.5,

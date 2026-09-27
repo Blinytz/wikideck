@@ -43794,12 +43794,11 @@
    "auto": true
   },
   "series-televisees_brooklyn-nine-nine": {
-   "cx": 0.5,
+   "cx": 0.4873,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522727098,
+   "original": true
   },
   "series-televisees_les-griffin": {
    "cx": 0.5,

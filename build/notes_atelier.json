@@ -47014,19 +47014,17 @@
   },
   "mineraux-et-pierres_marbre": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4775,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517314363,
+   "original": true
   },
   "mineraux-et-pierres_granite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517317642,
+   "original": true
   },
   "mineraux-et-pierres_basalte": {
    "cx": 0.5,

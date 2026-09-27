@@ -42433,12 +42433,11 @@
    "original": true
   },
   "oeuvres-musicales_messe-de-notre-dame": {
-   "cx": 0.5,
+   "cx": 0.375,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790499100391,
+   "original": true
   },
   "oeuvres-musicales_messe-du-pape-marcel": {
    "cx": 0.5,

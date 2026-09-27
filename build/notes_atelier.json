@@ -47518,18 +47518,16 @@
   "villes-du-monde_calcutta": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7222,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1790495398596,
+   "original": true
   },
   "villes-du-monde_jaipur": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495402625,
+   "original": true
   },
   "villes-du-monde_hanoi": {
    "cx": 0.5,

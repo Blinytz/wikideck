@@ -51452,12 +51452,11 @@
    "original": true
   },
   "vehicules-celebres_bell-x-1": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.3903,
+   "cy": 0.4132,
+   "w": 0.693,
+   "editeLe": 1790524648038,
+   "original": true
   },
   "vehicules-celebres_antonov-an-225-mriya": {
    "cx": 0.5,

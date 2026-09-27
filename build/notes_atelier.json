@@ -43801,12 +43801,11 @@
    "original": true
   },
   "series-televisees_les-griffin": {
-   "cx": 0.5,
+   "cx": 0.4863,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522730940,
+   "original": true
   },
   "series-televisees_bojack-horseman": {
    "cx": 0.5,

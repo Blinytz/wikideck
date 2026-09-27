@@ -44498,17 +44498,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528635614,
+   "original": true
   },
   "jeux-de-societe_mah-jong": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8854,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528637583,
+   "original": true
   },
   "jeux-de-societe_go-jeu": {
    "cx": 0.5,

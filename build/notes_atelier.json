@@ -42497,11 +42497,10 @@
   },
   "oeuvres-musicales_vingt-quatre-caprices-pour-violon-de-paganini": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3498,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790499284555,
+   "original": true
   },
   "oeuvres-musicales_lucia-di-lammermoor": {
    "cx": 0.5,

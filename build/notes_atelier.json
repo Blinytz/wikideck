@@ -43902,11 +43902,10 @@
   },
   "series-televisees_bron-serie-televisee": {
    "cx": 0.5,
-   "cy": 0.49,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.7504,
+   "editeLe": 1790523286920,
+   "original": true
   },
   "series-televisees_babylon-berlin": {
    "cx": 0.5,

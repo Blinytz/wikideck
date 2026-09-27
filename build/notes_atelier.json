@@ -44947,20 +44947,18 @@
    "original": true
   },
   "disciplines-sportives_gymnastique-artistique": {
-   "cx": 0.5,
+   "cx": 0.5559,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529016047,
+   "original": true
   },
   "disciplines-sportives_cyclisme-sur-route": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529019734,
+   "original": true
   },
   "disciplines-sportives_ski-alpin": {
    "cx": 0.5,

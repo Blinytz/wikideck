@@ -47601,11 +47601,10 @@
   },
   "fleuves-mers-et-oceans_mer-egee": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4908,
+   "w": 1,
+   "editeLe": 1790509042203,
+   "original": true
   },
   "fleuves-mers-et-oceans_mer-adriatique": {
    "cx": 0.5,

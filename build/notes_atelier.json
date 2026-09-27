@@ -36869,11 +36869,10 @@
   },
   "oeuvres-litteraires_le-cid-corneille": {
    "cx": 0.5,
-   "cy": 0.43,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5374,
+   "w": 1,
+   "editeLe": 1790526816384,
+   "original": true
   },
   "oeuvres-litteraires_les-freres-karamazov": {
    "cx": 0.5,

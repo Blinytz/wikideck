@@ -51375,20 +51375,18 @@
    "original": true
   },
   "vehicules-celebres_potemkine-cuirasse": {
-   "cx": 0.5,
+   "cx": 0.4578,
    "cy": 0.5,
    "w": 0.9156,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524548204,
+   "original": true
   },
   "vehicules-celebres_aurore-croiseur": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524551733,
+   "original": true
   },
   "vehicules-celebres_hermione-fregate-1779": {
    "cx": 0.5,

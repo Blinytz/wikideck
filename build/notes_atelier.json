@@ -44559,19 +44559,17 @@
   },
   "jeux-de-societe_jeu-des-petits-chevaux": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4313,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528726573,
+   "original": true
   },
   "jeux-de-societe_dominos-jeu": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528728638,
+   "original": true
   },
   "jeux-de-societe_tarot": {
    "cx": 0.5,

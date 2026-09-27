@@ -36448,11 +36448,10 @@
   },
   "oeuvres-litteraires_le-misanthrope": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4666,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526712498,
+   "original": true
   },
   "oeuvres-litteraires_fables-de-la-fontaine": {
    "cx": 0.5,

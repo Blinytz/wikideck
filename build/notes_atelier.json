@@ -36756,11 +36756,10 @@
   },
   "oeuvres-litteraires_le-grand-meaulnes": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5505,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528333428,
+   "original": true
   },
   "oeuvres-litteraires_bel-ami": {
    "cx": 0.5,

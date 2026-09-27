@@ -51821,20 +51821,18 @@
    "original": true
   },
   "conquete-spatiale_programme-gemini": {
-   "cx": 0.5,
+   "cx": 0.5054,
    "cy": 0.5,
    "w": 0.9892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516772508,
+   "original": true
   },
   "conquete-spatiale_apollo-17": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516775537,
+   "original": true
   },
   "conquete-spatiale_programme-artemis": {
    "cx": 0.5,

@@ -35753,19 +35753,17 @@
   },
   "realisateurs_georges-melies": {
    "cx": 0.5,
-   "cy": 0.377,
+   "cy": 0.36,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525040547,
+   "original": true
   },
   "realisateurs_billy-wilder": {
    "cx": 0.5,
-   "cy": 0.4319,
+   "cy": 0.3916,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525044081,
+   "original": true
   },
   "realisateurs_john-ford": {
    "cx": 0.5,

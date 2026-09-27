@@ -42574,11 +42574,10 @@
   },
   "oeuvres-musicales_les-planetes": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5662,
+   "w": 0.683,
+   "editeLe": 1790499493035,
+   "original": true
   },
   "oeuvres-musicales_war-requiem": {
    "cx": 0.5,

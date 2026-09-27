@@ -53023,11 +53023,10 @@
   },
   "styles-architecturaux_ecole-de-chicago-architecture": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4493,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530061258,
+   "original": true
   },
   "styles-architecturaux_style-international": {
    "cx": 0.5,

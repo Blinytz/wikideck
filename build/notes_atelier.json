@@ -51473,12 +51473,11 @@
    "original": true
   },
   "vehicules-celebres_flying-scotsman": {
-   "cx": 0.5,
+   "cx": 0.5664,
    "cy": 0.5,
    "w": 0.8007,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524683666,
+   "original": true
   },
   "vehicules-celebres_big-boy-locomotive": {
    "cx": 0.5,

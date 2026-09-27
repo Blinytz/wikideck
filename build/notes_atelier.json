@@ -43286,11 +43286,10 @@
   },
   "traites-et-textes-fondateurs_manifeste-du-parti-communiste": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.2758,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790519672757,
+   "original": true
   },
   "traites-et-textes-fondateurs_loi-des-douze-tables": {
    "cx": 0.5,

@@ -51884,12 +51884,11 @@
    "original": true
   },
   "conquete-spatiale_ingenuity-helicoptere": {
-   "cx": 0.5,
+   "cx": 0.5955,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516834969,
+   "original": true
   },
   "conquete-spatiale_galileo-sonde-spatiale": {
    "cx": 0.5,

@@ -36525,11 +36525,10 @@
   },
   "oeuvres-litteraires_les-fleurs-du-mal": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5401,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527022183,
+   "original": true
   },
   "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
    "cx": 0.5,

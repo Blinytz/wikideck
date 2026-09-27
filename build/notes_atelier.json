@@ -53238,12 +53238,11 @@
    "original": false
   },
   "grandes-competitions_coupe-d-afrique-des-nations-de-football": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790529318335,
+   "original": false
   },
   "grandes-competitions_coupe-du-monde-de-rugby-a-xv": {
    "cx": 0.5,

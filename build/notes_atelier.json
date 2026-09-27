@@ -44600,12 +44600,11 @@
    "original": true
   },
   "jeux-de-societe_monopoly": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7083,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5229,
+   "cy": 0.5237,
+   "w": 0.6439,
+   "editeLe": 1790528752551,
+   "original": true
   },
   "jeux-de-societe_scrabble": {
    "cx": 0.5,

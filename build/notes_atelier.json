@@ -36763,11 +36763,10 @@
   },
   "oeuvres-litteraires_bel-ami": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3269,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528351978,
+   "original": true
   },
   "oeuvres-litteraires_contes-de-l-enfance-et-du-foyer": {
    "cx": 0.5,

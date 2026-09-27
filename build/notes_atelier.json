@@ -35823,19 +35823,17 @@
   },
   "realisateurs_woody-allen": {
    "cx": 0.5,
-   "cy": 0.5688,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790525091749,
+   "original": false
   },
   "realisateurs_david-lynch": {
    "cx": 0.5,
-   "cy": 0.5344,
+   "cy": 0.4952,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525095193,
+   "original": true
   },
   "realisateurs_ridley-scott": {
    "cx": 0.536,

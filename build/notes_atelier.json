@@ -50530,11 +50530,10 @@
   },
   "champions-olympiques_jim-thorpe": {
    "cx": 0.5,
-   "cy": 0.375,
+   "cy": 0.4411,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790515845851,
+   "original": true
   },
   "champions-olympiques_johnny-weissmuller": {
    "cx": 0.5,

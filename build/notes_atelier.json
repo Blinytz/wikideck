@@ -35746,11 +35746,10 @@
   },
   "realisateurs_jean-renoir": {
    "cx": 0.5,
-   "cy": 0.4882,
+   "cy": 0.446,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525036902,
+   "original": true
   },
   "realisateurs_georges-melies": {
    "cx": 0.5,

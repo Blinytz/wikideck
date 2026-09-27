@@ -36567,11 +36567,10 @@
   },
   "oeuvres-litteraires_moby-dick": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.7086,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527276886,
+   "original": true
   },
   "oeuvres-litteraires_l-ile-au-tresor": {
    "cx": 0.5,
@@ -36891,9 +36890,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527281912,
+   "original": true
   },
   "oeuvres-litteraires_le-maitre-et-marguerite": {
    "cx": 0.5,

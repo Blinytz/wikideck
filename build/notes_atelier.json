@@ -47742,10 +47742,9 @@
   "iles_iles-marquises": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9952,
+   "editeLe": 1790511776439,
+   "original": true
   },
   "iles_mayotte": {
    "cx": 0.5,

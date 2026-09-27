@@ -51967,11 +51967,10 @@
   },
   "conquete-spatiale_v2-missile": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4863,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516859573,
+   "original": true
   },
   "conquete-spatiale_station-spatiale-chinoise": {
    "cx": 0.5,

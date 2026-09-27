@@ -52799,11 +52799,10 @@
   },
   "figures-resistance_jean-cavailles": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3506,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529789330,
+   "original": true
   },
   "figures-resistance_marc-bloch": {
    "cx": 0.5,

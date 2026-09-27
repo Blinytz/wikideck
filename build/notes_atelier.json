@@ -51987,12 +51987,11 @@
    "original": true
   },
   "conquete-spatiale_starship-fusee": {
-   "cx": 0.5,
+   "cx": 0.4926,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516870040,
+   "original": true
   },
   "conquete-spatiale_spacex-dragon-2": {
    "cx": 0.5,

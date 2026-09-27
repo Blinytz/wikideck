@@ -36483,19 +36483,17 @@
   },
   "oeuvres-litteraires_les-miserables": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.622,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526895382,
+   "original": true
   },
   "oeuvres-litteraires_notre-dame-de-paris-roman": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526898424,
+   "original": true
   },
   "oeuvres-litteraires_les-trois-mousquetaires": {
    "cx": 0.5,

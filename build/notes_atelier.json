@@ -36267,11 +36267,10 @@
   },
   "grands-peintres_honore-daumier": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.417,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497332771,
+   "original": true
   },
   "grands-peintres_gustave-dore": {
    "cx": 0.5,

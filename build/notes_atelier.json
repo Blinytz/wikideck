@@ -47551,12 +47551,11 @@
    "original": true
   },
   "fleuves-mers-et-oceans_jourdain": {
-   "cx": 0.5,
+   "cx": 0.5066,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9375,
+   "editeLe": 1790508604269,
+   "original": true
   },
   "fleuves-mers-et-oceans_brahmapoutre": {
    "cx": 0.5,

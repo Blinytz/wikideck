@@ -36455,11 +36455,10 @@
   },
   "oeuvres-litteraires_fables-de-la-fontaine": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5451,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526737746,
+   "original": true
   },
   "oeuvres-litteraires_phedre-racine": {
    "cx": 0.5,

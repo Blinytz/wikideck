@@ -36400,19 +36400,17 @@
   },
   "grands-peintres_remedios-varo": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497579471,
+   "original": true
   },
   "grands-peintres_leonora-carrington": {
    "cx": 0.5,
    "cy": 0.5331,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497583082,
+   "original": true
   },
   "grands-peintres_norman-rockwell": {
    "cx": 0.5,

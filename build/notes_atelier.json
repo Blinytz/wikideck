@@ -47573,12 +47573,11 @@
    "original": true
   },
   "villes-du-monde_honolulu": {
-   "cx": 0.5,
+   "cx": 0.5833,
    "cy": 0.5,
-   "w": 0.888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8333,
+   "editeLe": 1790495615715,
+   "original": true
   },
   "fleuves-mers-et-oceans_fleuve-saint-laurent": {
    "cx": 0.5,

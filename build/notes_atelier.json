@@ -52841,11 +52841,10 @@
   },
   "figures-resistance_witold-pilecki": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3451,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529913797,
+   "original": true
   },
   "figures-resistance_jan-karski": {
    "cx": 0.5,

@@ -44527,7 +44527,7 @@
    "cy": 0.5,
    "w": 0.8887,
    "editeLe": 1790528709071,
-   "original": false
+   "original": true
   },
   "jeux-de-societe_awale": {
    "cx": 0.5,
@@ -44582,9 +44582,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528733513,
+   "original": true
   },
   "jeux-de-societe_poker": {
    "cx": 0.5,

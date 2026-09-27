@@ -51954,12 +51954,11 @@
    "original": true
   },
   "instruments-de-musique_vielle-a-roue": {
-   "cx": 0.5,
+   "cx": 0.5286,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8853,
+   "editeLe": 1790520908243,
+   "original": true
   },
   "instruments-de-musique_bouzouki": {
    "cx": 0.5,

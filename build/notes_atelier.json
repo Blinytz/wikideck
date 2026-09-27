@@ -47756,10 +47756,9 @@
   "iles_ile-de-re": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790511920444,
+   "original": true
   },
   "iles_belle-ile-en-mer": {
    "cx": 0.5,

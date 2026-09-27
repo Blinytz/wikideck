@@ -52026,25 +52026,22 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528562270,
+   "original": true
   },
   "monnaies-historiques_darique": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528564317,
+   "original": true
   },
   "monnaies-historiques_dinar-or": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528566521,
+   "original": true
   },
   "monnaies-historiques_liard-monnaie": {
    "cx": 0.5,

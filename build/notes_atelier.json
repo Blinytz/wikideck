@@ -35718,11 +35718,10 @@
   },
   "realisateurs_charlie-chaplin": {
    "cx": 0.5,
-   "cy": 0.4326,
+   "cy": 0.403,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525013533,
+   "original": true
   },
   "realisateurs_buster-keaton": {
    "cx": 0.5,

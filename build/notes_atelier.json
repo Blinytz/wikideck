@@ -36316,11 +36316,10 @@
   },
   "grands-peintres_juan-gris": {
    "cx": 0.5,
-   "cy": 0.4078,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790497459114,
+   "original": true
   },
   "grands-peintres_balthus": {
    "cx": 0.5,

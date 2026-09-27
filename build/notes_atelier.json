@@ -36827,12 +36827,11 @@
    "original": true
   },
   "oeuvres-litteraires_germinal-roman": {
-   "cx": 0.5,
+   "cx": 0.4684,
    "cy": 0.5,
    "w": 0.8815,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527005875,
+   "original": true
   },
   "oeuvres-litteraires_voyage-au-bout-de-la-nuit": {
    "cx": 0.5,

@@ -44630,18 +44630,16 @@
   "jeux-de-societe_trivial-pursuit": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790528834235,
+   "original": true
   },
   "jeux-de-societe_pictionary": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528837195,
+   "original": true
   },
   "jeux-de-societe_uno": {
    "cx": 0.5,

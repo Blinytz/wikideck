@@ -47790,11 +47790,10 @@
   },
   "iles_ile-d-alcatraz": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.331,
+   "w": 1,
+   "editeLe": 1790513704844,
+   "original": true
   },
   "iles_ellis-island": {
    "cx": 0.5,

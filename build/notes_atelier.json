@@ -50663,19 +50663,17 @@
   },
   "champions-olympiques_laure-manaudou": {
    "cx": 0.5,
-   "cy": 0.637,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790516544998,
+   "original": true
   },
   "champions-olympiques_tony-estanguet": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8878,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516549743,
+   "original": true
   },
   "musique-populaire_elton-john": {
    "cx": 0.5992,

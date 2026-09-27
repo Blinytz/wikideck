@@ -38091,11 +38091,10 @@
   },
   "mythologie-finnoise_tapio": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.5461,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529127299,
+   "original": true
   },
   "mythologie-finnoise_mielikki": {
    "cx": 0.5,

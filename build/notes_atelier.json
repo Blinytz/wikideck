@@ -52040,10 +52040,9 @@
   "instruments-de-musique_hang": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8891,
+   "editeLe": 1790522256292,
+   "original": true
   },
   "instruments-de-musique_cajon": {
    "cx": 0.5,

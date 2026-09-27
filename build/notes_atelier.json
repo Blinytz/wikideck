@@ -53047,7 +53047,7 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1790530091579,
-   "original": false
+   "original": true
   },
   "styles-architecturaux_postmodernisme-architecture": {
    "cx": 0.5,
@@ -53092,12 +53092,11 @@
    "original": true
   },
   "styles-architecturaux_pan-de-bois": {
-   "cx": 0.5,
+   "cx": 0.5012,
    "cy": 0.5,
-   "w": 0.803125,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8031,
+   "editeLe": 1790530117750,
+   "original": true
   },
   "grandes-competitions_tour-de-france": {
    "cx": 0.5,

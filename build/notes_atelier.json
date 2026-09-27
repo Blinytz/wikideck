@@ -47554,18 +47554,16 @@
   "villes-du-monde_osaka": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8867,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790495514503,
+   "original": true
   },
   "villes-du-monde_lhassa": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495519000,
+   "original": true
   },
   "villes-du-monde_melbourne": {
    "cx": 0.5,

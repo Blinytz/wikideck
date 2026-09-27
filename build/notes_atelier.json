@@ -42540,10 +42540,9 @@
   "oeuvres-musicales_ma-vlast": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8984,
+   "editeLe": 1790499355486,
+   "original": true
   },
   "oeuvres-musicales_jenufa": {
    "cx": 0.5,

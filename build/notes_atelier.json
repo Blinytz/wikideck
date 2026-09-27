@@ -53242,7 +53242,7 @@
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1790529318335,
-   "original": false
+   "original": true
   },
   "grandes-competitions_coupe-du-monde-de-rugby-a-xv": {
    "cx": 0.5,
@@ -53267,11 +53267,10 @@
   },
   "grandes-competitions_finales-nba": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4456,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529336135,
+   "original": true
   },
   "grandes-competitions_serie-mondiale": {
    "cx": 0.5,

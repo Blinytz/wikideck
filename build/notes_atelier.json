@@ -44520,7 +44520,7 @@
    "cy": 0.5,
    "w": 0.8925,
    "editeLe": 1790528682287,
-   "original": false
+   "original": true
   },
   "jeux-de-societe_xiangqi": {
    "cx": 0.5,
@@ -44551,12 +44551,11 @@
    "original": true
   },
   "jeux-de-societe_jeu-de-l-oie-jeu-de-societe": {
-   "cx": 0.5,
+   "cx": 0.5547,
    "cy": 0.5,
    "w": 0.7494,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528722601,
+   "original": true
   },
   "jeux-de-societe_jeu-des-petits-chevaux": {
    "cx": 0.5,

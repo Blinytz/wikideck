@@ -51976,11 +51976,10 @@
   },
   "instruments-de-musique_guzheng": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4494,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790520937312,
+   "original": true
   },
   "instruments-de-musique_pipa-instrument": {
    "cx": 0.5,

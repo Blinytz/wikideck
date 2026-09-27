@@ -35732,19 +35732,17 @@
   },
   "realisateurs_fritz-lang": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790525030320,
+   "original": true
   },
   "realisateurs_serguei-eisenstein": {
    "cx": 0.5,
-   "cy": 0.428,
+   "cy": 0.3632,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525033804,
+   "original": true
   },
   "realisateurs_jean-renoir": {
    "cx": 0.5,

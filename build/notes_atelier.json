@@ -35914,11 +35914,10 @@
   },
   "realisateurs_kathryn-bigelow": {
    "cx": 0.5,
-   "cy": 0.36,
+   "cy": 0.325,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525199862,
+   "original": true
   },
   "realisateurs_sofia-coppola": {
    "cx": 0.5,

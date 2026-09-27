@@ -53163,10 +53163,9 @@
   "grandes-competitions_tour-d-italie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790529188598,
+   "original": true
   },
   "grandes-competitions_tour-d-espagne": {
    "cx": 0.5,

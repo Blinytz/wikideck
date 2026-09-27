@@ -52075,17 +52075,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528579474,
+   "original": true
   },
   "monnaies-historiques_penny": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528581775,
+   "original": true
   },
   "monnaies-historiques_shilling": {
    "cx": 0.5,

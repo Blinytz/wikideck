@@ -51871,19 +51871,17 @@
   },
   "conquete-spatiale_mars-pathfinder": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4956,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516823579,
+   "original": true
   },
   "conquete-spatiale_opportunity": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516826975,
+   "original": true
   },
   "conquete-spatiale_ingenuity-helicoptere": {
    "cx": 0.5,

@@ -51961,20 +51961,18 @@
    "original": true
   },
   "instruments-de-musique_bouzouki": {
-   "cx": 0.5,
+   "cx": 0.4888,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8884,
+   "editeLe": 1790520928050,
+   "original": true
   },
   "instruments-de-musique_charango": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790520932114,
+   "original": true
   },
   "instruments-de-musique_guzheng": {
    "cx": 0.5,

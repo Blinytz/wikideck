@@ -41340,12 +41340,11 @@
    "original": true
   },
   "personnages-jeu-video_chocobo": {
-   "cx": 0.5,
+   "cx": 0.4545,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.909,
+   "editeLe": 1790498538257,
+   "original": true
   },
   "personnages-jeu-video_carl-johnson-grand-theft-auto": {
    "cx": 0.5,

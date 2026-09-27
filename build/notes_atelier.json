@@ -47643,11 +47643,10 @@
   },
   "fleuves-mers-et-oceans_lac-tanganyika": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8837,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4633,
+   "w": 1,
+   "editeLe": 1790509441727,
+   "original": true
   },
   "fleuves-mers-et-oceans_lac-tchad": {
    "cx": 0.5,

@@ -42426,12 +42426,11 @@
    "original": true
   },
   "oeuvres-musicales_musique-de-star-wars": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.3024,
+   "cy": 0.5519,
+   "w": 0.5649,
+   "editeLe": 1790499074575,
+   "original": true
   },
   "oeuvres-musicales_messe-de-notre-dame": {
    "cx": 0.5,
@@ -53541,7 +53540,7 @@
   "figures-emancipation_jean-jaures": {
    "cx": 0.5,
    "cy": 0.38831249999999995,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

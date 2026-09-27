@@ -51459,12 +51459,11 @@
    "original": true
   },
   "vehicules-celebres_antonov-an-225-mriya": {
-   "cx": 0.5,
+   "cx": 0.4442,
    "cy": 0.5,
-   "w": 0.8833,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1790524670050,
+   "original": true
   },
   "vehicules-celebres_transsiberien": {
    "cx": 0.5,

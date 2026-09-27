@@ -44790,17 +44790,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528954202,
+   "original": true
   },
   "jeux-de-societe_mikado-jeu": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528956392,
+   "original": true
   },
   "jeux-de-societe_tangram": {
    "cx": 0.5,

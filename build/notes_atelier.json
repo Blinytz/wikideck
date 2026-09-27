@@ -36672,11 +36672,10 @@
   },
   "oeuvres-litteraires_fondation-isaac-asimov": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.7521,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527862901,
+   "original": true
   },
   "oeuvres-litteraires_cent-ans-de-solitude": {
    "cx": 0.5,

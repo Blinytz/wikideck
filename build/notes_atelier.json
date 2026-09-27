@@ -42622,12 +42622,11 @@
    "original": true
   },
   "oeuvres-musicales_le-marteau-sans-maitre": {
-   "cx": 0.6,
-   "cy": 0.62,
-   "w": 0.55,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1790499927432,
+   "original": true
   },
   "oeuvres-musicales_ionisation-varese": {
    "cx": 0.5,

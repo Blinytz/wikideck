@@ -52834,11 +52834,10 @@
   },
   "figures-resistance_hans-scholl": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4871,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529909404,
+   "original": true
   },
   "figures-resistance_witold-pilecki": {
    "cx": 0.5,

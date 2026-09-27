@@ -35826,7 +35826,7 @@
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1790525091749,
-   "original": false
+   "original": true
   },
   "realisateurs_david-lynch": {
    "cx": 0.5,
@@ -35839,17 +35839,15 @@
    "cx": 0.536,
    "cy": 0.5,
    "w": 0.928,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525099903,
+   "original": true
   },
   "realisateurs_james-cameron": {
    "cx": 0.4719,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525102414,
+   "original": true
   },
   "realisateurs_christopher-nolan": {
    "cx": 0.5,

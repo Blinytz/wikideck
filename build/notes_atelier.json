@@ -35815,12 +35815,11 @@
    "original": true
   },
   "realisateurs_jacques-tati": {
-   "cx": 0.5,
+   "cx": 0.55,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525071820,
+   "original": true
   },
   "realisateurs_woody-allen": {
    "cx": 0.5,

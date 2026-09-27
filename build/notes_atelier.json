@@ -43666,17 +43666,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522668621,
+   "original": true
   },
   "series-televisees_rome-serie-televisee": {
-   "cx": 0.5,
+   "cx": 0.5567,
    "cy": 0.5,
    "w": 0.8867,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522672273,
+   "original": true
   },
   "series-televisees_boardwalk-empire": {
    "cx": 0.5,

@@ -43762,19 +43762,17 @@
   },
   "series-televisees_amicalement-votre": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5081,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522742585,
+   "original": true
   },
   "series-televisees_les-mysteres-de-l-ouest": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9781,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522746708,
+   "original": true
   },
   "series-televisees_scrubs": {
    "cx": 0.5,

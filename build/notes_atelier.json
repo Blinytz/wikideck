@@ -36574,11 +36574,10 @@
   },
   "oeuvres-litteraires_l-ile-au-tresor": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6106,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527291845,
+   "original": true
   },
   "oeuvres-litteraires_guerre-et-paix": {
    "cx": 0.5,

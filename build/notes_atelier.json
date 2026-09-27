@@ -52453,12 +52453,11 @@
    "original": true
   },
   "monnaies-du-monde_livre-libanaise": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9805,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5101,
+   "cy": 0.4545,
+   "w": 0.8078,
+   "editeLe": 1790524020900,
+   "original": true
   },
   "monnaies-du-monde_dinar-bahreini": {
    "cx": 0.5,

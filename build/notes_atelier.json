@@ -53318,17 +53318,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529362592,
+   "original": true
   },
   "grandes-competitions_route-du-rhum": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9270833333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9271,
+   "editeLe": 1790529365127,
+   "original": true
   },
   "grandes-competitions_coupe-de-l-america": {
    "cx": 0.5,

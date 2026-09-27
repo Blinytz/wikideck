@@ -47726,12 +47726,11 @@
    "original": true
   },
   "iles_grande-terre-nouvelle-caledonie": {
-   "cx": 0.5,
+   "cx": 0.5008,
    "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9984,
+   "editeLe": 1790510801673,
+   "original": true
   },
   "iles_bora-bora": {
    "cx": 0.5,

@@ -52966,12 +52966,11 @@
    "original": true
   },
   "styles-architecturaux_architecture-classique": {
-   "cx": 0.5,
+   "cx": 0.5013,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1790530030241,
+   "original": true
   },
   "styles-architecturaux_palladianisme": {
    "cx": 0.5,

@@ -44926,20 +44926,18 @@
    "auto": true
   },
   "disciplines-sportives_marathon-sport": {
-   "cx": 0.5,
+   "cx": 0.509,
    "cy": 0.5,
    "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529006837,
+   "original": true
   },
   "disciplines-sportives_natation": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8775,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529009367,
+   "original": true
   },
   "disciplines-sportives_plongeon": {
    "cx": 0.5,

@@ -43775,12 +43775,11 @@
    "original": true
   },
   "series-televisees_scrubs": {
-   "cx": 0.5,
+   "cx": 0.4705,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522758108,
+   "original": true
   },
   "series-televisees_malcolm-serie-televisee": {
    "cx": 0.5,

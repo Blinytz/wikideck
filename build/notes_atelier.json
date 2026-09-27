@@ -43610,17 +43610,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522601531,
+   "original": true
   },
   "races-de-cheval_hackney-cheval": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522604863,
+   "original": true
   },
   "races-de-cheval_islandais-cheval": {
    "cx": 0.5,

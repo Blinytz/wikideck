@@ -44995,17 +44995,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530640163,
+   "original": true
   },
   "disciplines-sportives_taekwondo": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530643097,
+   "original": true
   },
   "disciplines-sportives_lutte": {
    "cx": 0.5,

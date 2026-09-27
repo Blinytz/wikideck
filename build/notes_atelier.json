@@ -52103,18 +52103,16 @@
   "instruments-de-musique_duduk": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8853,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790522523790,
+   "original": true
   },
   "instruments-de-musique_bansuri": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8472,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522528196,
+   "original": true
   },
   "instruments-de-musique_cor-des-alpes": {
    "cx": 0.5,

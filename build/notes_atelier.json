@@ -39489,12 +39489,11 @@
    "auto": true
   },
   "vehicules-mythiques_rennes-du-pere-noel": {
-   "cx": 0.5,
+   "cx": 0.3742,
    "cy": 0.5,
-   "w": 0.7475,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7483,
+   "editeLe": 1790517736589,
+   "original": true
   },
   "vehicules-mythiques_kinto-un": {
    "cx": 0.56,

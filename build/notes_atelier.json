@@ -36643,12 +36643,11 @@
    "original": true
   },
   "oeuvres-litteraires_le-seigneur-des-anneaux": {
-   "cx": 0.5,
-   "cy": 0.6,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.465,
+   "cy": 0.6648,
+   "w": 0.9091,
+   "editeLe": 1790527725562,
+   "original": true
   },
   "oeuvres-litteraires_le-hobbit": {
    "cx": 0.5,

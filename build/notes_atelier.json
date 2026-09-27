@@ -44703,20 +44703,18 @@
    "auto": true
   },
   "jeux-de-societe_1000-bornes": {
-   "cx": 0.5,
+   "cx": 0.4896,
    "cy": 0.5,
    "w": 0.8017,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528855902,
+   "original": true
   },
   "jeux-de-societe_donjons-et-dragons": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528858813,
+   "original": true
   },
   "jeux-de-societe_les-colons-de-catane": {
    "cx": 0.5,

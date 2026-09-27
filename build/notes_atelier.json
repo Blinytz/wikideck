@@ -42560,11 +42560,10 @@
   },
   "oeuvres-musicales_une-vie-pour-le-tsar": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4787,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790499424778,
+   "original": true
   },
   "oeuvres-musicales_pomp-and-circumstance": {
    "cx": 0.5,

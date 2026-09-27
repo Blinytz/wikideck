@@ -53233,10 +53233,9 @@
   "grandes-competitions_copa-america": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790529269797,
+   "original": false
   },
   "grandes-competitions_coupe-d-afrique-des-nations-de-football": {
    "cx": 0.5,

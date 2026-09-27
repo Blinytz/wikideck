@@ -38119,11 +38119,10 @@
   },
   "mythologie-finnoise_joukahainen": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3957,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529154353,
+   "original": true
   },
   "mythologie-finnoise_pohjola": {
    "cx": 0.5,

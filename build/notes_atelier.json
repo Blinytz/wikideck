@@ -47761,12 +47761,11 @@
    "original": true
   },
   "iles_belle-ile-en-mer": {
-   "cx": 0.5,
+   "cx": 0.5728,
    "cy": 0.5,
-   "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8545,
+   "editeLe": 1790512043050,
+   "original": true
   },
   "iles_jersey": {
    "cx": 0.5,

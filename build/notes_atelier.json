@@ -51815,11 +51815,10 @@
   },
   "conquete-spatiale_programme-mercury": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5394,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516769612,
+   "original": true
   },
   "conquete-spatiale_programme-gemini": {
    "cx": 0.5,

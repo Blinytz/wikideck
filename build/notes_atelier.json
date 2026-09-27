@@ -47035,11 +47035,10 @@
   },
   "mineraux-et-pierres_ardoise": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9341,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.448,
+   "w": 1,
+   "editeLe": 1790517464656,
+   "original": true
   },
   "mineraux-et-pierres_ponce": {
    "cx": 0.5,

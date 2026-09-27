@@ -43643,11 +43643,10 @@
   },
   "races-de-cheval_cob-gypsy": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5394,
+   "w": 1,
+   "editeLe": 1790522645400,
+   "original": false
   },
   "races-de-cheval_suffolk-punch": {
    "cx": 0.5,

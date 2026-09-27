@@ -44518,10 +44518,9 @@
   "jeux-de-societe_shogi": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9413,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8925,
+   "editeLe": 1790528677258,
+   "original": false
   },
   "jeux-de-societe_xiangqi": {
    "cx": 0.5,

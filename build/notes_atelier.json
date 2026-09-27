@@ -51990,11 +51990,10 @@
   },
   "instruments-de-musique_viole-de-gambe": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5644,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522075730,
+   "original": true
   },
   "instruments-de-musique_balafon": {
    "cx": 0.5,

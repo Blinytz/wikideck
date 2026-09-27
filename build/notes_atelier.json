@@ -47481,12 +47481,11 @@
    "original": true
   },
   "villes-du-monde_kinshasa": {
-   "cx": 0.5,
+   "cx": 0.5553,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1790494971270,
+   "original": true
   },
   "villes-du-monde_johannesbourg": {
    "cx": 0.5,

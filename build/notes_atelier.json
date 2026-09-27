@@ -50643,10 +50643,9 @@
   "champions-olympiques_shaun-white": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8965,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790516384407,
+   "original": true
   },
   "champions-olympiques_martin-fourcade": {
    "cx": 0.517,

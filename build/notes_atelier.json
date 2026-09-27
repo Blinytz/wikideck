@@ -44623,10 +44623,9 @@
   "jeux-de-societe_risk": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790528815305,
+   "original": true
   },
   "jeux-de-societe_trivial-pursuit": {
    "cx": 0.5,

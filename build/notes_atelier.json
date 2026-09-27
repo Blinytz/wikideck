@@ -36025,12 +36025,11 @@
    "original": true
   },
   "realisateurs_gerard-oury": {
-   "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.3333,
+   "cy": 0.5,
+   "w": 0.6667,
+   "editeLe": 1790525734311,
+   "original": true
   },
   "realisateurs_celine-sciamma": {
    "cx": 0.5,

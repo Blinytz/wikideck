@@ -43265,11 +43265,10 @@
   },
   "traites-et-textes-fondateurs_concordat-de-1801": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4186,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790519386095,
+   "original": true
   },
   "traites-et-textes-fondateurs_decret-d-abolition-de-l-esclavage-du-27-avril-1848": {
    "cx": 0.5,

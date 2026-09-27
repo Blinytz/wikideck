@@ -49587,15 +49587,14 @@
    "cy": 0.5,
    "w": 0.75,
    "editeLe": 1790523419595,
-   "original": false
+   "original": true
   },
   "astronautes-et-cosmonautes_marcos-pontes": {
    "cx": 0.5,
    "cy": 0.3285,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790523423360,
+   "original": true
   },
   "astronautes-et-cosmonautes_vladimir-remek": {
    "cx": 0.5,

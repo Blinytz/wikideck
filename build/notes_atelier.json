@@ -43824,20 +43824,18 @@
    "original": true
   },
   "series-televisees_neon-genesis-evangelion": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "series-televisees_l-attaque-des-titans": {
-   "cx": 0.5,
+   "cx": 0.453,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522907190,
+   "original": true
+  },
+  "series-televisees_l-attaque-des-titans": {
+   "cx": 0.5475,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790522911403,
+   "original": true
   },
   "series-televisees_lupin-serie-televisee-2021": {
    "cx": 0.5,

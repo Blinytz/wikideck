@@ -47568,10 +47568,9 @@
   "villes-du-monde_melbourne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8917,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790495598127,
+   "original": true
   },
   "villes-du-monde_honolulu": {
    "cx": 0.5,

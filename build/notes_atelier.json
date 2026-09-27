@@ -36560,11 +36560,10 @@
   },
   "oeuvres-litteraires_les-hauts-de-hurlevent": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5586,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527259590,
+   "original": true
   },
   "oeuvres-litteraires_moby-dick": {
    "cx": 0.5,

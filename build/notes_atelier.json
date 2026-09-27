@@ -36497,11 +36497,10 @@
   },
   "oeuvres-litteraires_les-trois-mousquetaires": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6192,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526905419,
+   "original": true
   },
   "oeuvres-litteraires_le-rouge-et-le-noir": {
    "cx": 0.5,

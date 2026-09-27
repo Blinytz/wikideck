@@ -51543,20 +51543,18 @@
    "original": true
   },
   "vehicules-celebres_ferrari-250-gto": {
-   "cx": 0.5,
+   "cx": 0.5136,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8788,
+   "editeLe": 1790524826016,
+   "original": true
   },
   "vehicules-celebres_aston-martin-db5": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524829754,
+   "original": true
   },
   "vehicules-celebres_nicolas-joseph-cugnot": {
    "cx": 0.5,

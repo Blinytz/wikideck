@@ -36735,11 +36735,10 @@
   },
   "oeuvres-litteraires_les-trois-royaumes-roman": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.437,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528221010,
+   "original": true
   },
   "oeuvres-litteraires_mahabharata": {
    "cx": 0.5,

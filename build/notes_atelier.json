@@ -35872,19 +35872,17 @@
   },
   "realisateurs_wong-kar-wai": {
    "cx": 0.5,
-   "cy": 0.4703,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525163718,
+   "original": true
   },
   "realisateurs_bong-joon-ho": {
    "cx": 0.5,
    "cy": 0.4178,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525167886,
+   "original": true
   },
   "realisateurs_joel-et-ethan-coen": {
    "cx": 0.5,

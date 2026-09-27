@@ -53210,12 +53210,11 @@
    "original": true
   },
   "grandes-competitions_coupe-davis": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.404,
+   "cy": 0.4985,
+   "w": 0.8081,
+   "editeLe": 1790529238042,
+   "original": false
   },
   "grandes-competitions_ligue-des-champions-de-l-uefa": {
    "cx": 0.5,

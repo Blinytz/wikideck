@@ -47006,12 +47006,11 @@
    "original": true
   },
   "mineraux-et-pierres_coltan": {
-   "cx": 0.5,
+   "cx": 0.4913,
    "cy": 0.5,
    "w": 0.888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517282612,
+   "original": true
   },
   "mineraux-et-pierres_marbre": {
    "cx": 0.5,

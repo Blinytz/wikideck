@@ -47490,10 +47490,9 @@
   "villes-du-monde_johannesbourg": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790495104205,
+   "original": true
   },
   "villes-du-monde_la-mecque": {
    "cx": 0.5,

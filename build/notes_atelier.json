@@ -52757,11 +52757,10 @@
   },
   "figures-resistance_marie-madeleine-fourcade": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4025,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529700861,
+   "original": true
   },
   "figures-resistance_henri-frenay": {
    "cx": 0.5,

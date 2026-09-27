@@ -36658,11 +36658,10 @@
   },
   "oeuvres-litteraires_le-trone-de-fer": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4669,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527784024,
+   "original": true
   },
   "oeuvres-litteraires_dune-roman": {
    "cx": 0.5,

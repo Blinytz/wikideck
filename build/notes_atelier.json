@@ -38126,11 +38126,10 @@
   },
   "mythologie-finnoise_pohjola": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3911,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529160656,
+   "original": true
   },
   "mythologie-finnoise_ilmatar": {
    "cx": 0.5,
@@ -38168,9 +38167,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529157386,
+   "original": true
   },
   "mythologie-finnoise_kantele": {
    "cx": 0.5,

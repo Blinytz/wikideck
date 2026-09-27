@@ -50428,12 +50428,11 @@
    "original": true
   },
   "legendes-du-sport_tadej-pogacar": {
-   "cx": 0.5421,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.888,
+   "editeLe": 1790516715689,
+   "original": false
   },
   "legendes-du-sport_giacomo-agostini": {
    "cx": 0.5,

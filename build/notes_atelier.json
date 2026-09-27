@@ -36406,11 +36406,10 @@
   },
   "oeuvres-litteraires_epopee-de-gilgamesh": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6218,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526556177,
+   "original": true
   },
   "oeuvres-litteraires_les-mille-et-une-nuits": {
    "cx": 0.5,

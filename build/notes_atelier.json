@@ -43646,15 +43646,14 @@
    "cy": 0.5394,
    "w": 1,
    "editeLe": 1790522645400,
-   "original": false
+   "original": true
   },
   "races-de-cheval_suffolk-punch": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522649136,
+   "original": true
   },
   "series-televisees_the-mandalorian": {
    "cx": 0.5,

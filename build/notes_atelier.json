@@ -42637,11 +42637,10 @@
   },
   "oeuvres-musicales_wozzeck": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4306,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790499970749,
+   "original": true
   },
   "oeuvres-musicales_gesang-der-junglinge": {
    "cx": 0.5,

@@ -47439,12 +47439,11 @@
    "original": true
   },
   "villes-du-monde_bordeaux": {
-   "cx": 0.5,
+   "cx": 0.4626,
    "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.4583,
+   "editeLe": 1790494762720,
+   "original": true
   },
   "villes-du-monde_alexandrie": {
    "cx": 0.5,

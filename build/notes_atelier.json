@@ -51592,20 +51592,18 @@
    "original": true
   },
   "vehicules-celebres_routemaster": {
-   "cx": 0.5,
+   "cx": 0.4381,
    "cy": 0.5,
    "w": 0.83,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524921915,
+   "original": true
   },
   "vehicules-celebres_cable-cars-de-san-francisco": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524926695,
+   "original": true
   },
   "vehicules-celebres_rover-lunaire-apollo": {
    "cx": 0.5,

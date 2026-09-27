@@ -49584,11 +49584,10 @@
   },
   "astronautes-et-cosmonautes_arnaldo-tamayo-mendez": {
    "cx": 0.5,
-   "cy": 0.413,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790523419595,
+   "original": false
   },
   "astronautes-et-cosmonautes_marcos-pontes": {
    "cx": 0.5,

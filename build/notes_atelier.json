@@ -47818,11 +47818,10 @@
   },
   "iles_tristan-da-cunha": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8367,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5288,
+   "w": 1,
+   "editeLe": 1790514197827,
+   "original": true
   },
   "iles_iles-kerguelen": {
    "cx": 0.5,

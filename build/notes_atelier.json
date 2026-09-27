@@ -52117,25 +52117,22 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528593505,
+   "original": true
   },
   "monnaies-historiques_tael": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528595501,
+   "original": true
   },
   "monnaies-historiques_ryo": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528597403,
+   "original": true
   },
   "monnaies-historiques_mohur": {
    "cx": 0.5,

@@ -45039,17 +45039,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529038095,
+   "original": true
   },
   "disciplines-sportives_escrime": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7658,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529040407,
+   "original": true
   },
   "disciplines-sportives_tir-a-l-arc": {
    "cx": 0.5,

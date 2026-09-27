@@ -52820,11 +52820,10 @@
   },
   "figures-resistance_jacques-bingen": {
    "cx": 0.5,
-   "cy": 0.4,
-   "w": 0.46,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.3252,
+   "w": 1,
+   "editeLe": 1790529842694,
+   "original": true
   },
   "figures-resistance_claus-von-stauffenberg": {
    "cx": 0.5,

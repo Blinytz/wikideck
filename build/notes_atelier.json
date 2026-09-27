@@ -53191,18 +53191,16 @@
   "grandes-competitions_internationaux-de-france-de-tennis": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8966666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8967,
+   "editeLe": 1790529209118,
+   "original": true
   },
   "grandes-competitions_us-open-de-tennis": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8925,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529211552,
+   "original": true
   },
   "grandes-competitions_open-d-australie": {
    "cx": 0.5,

@@ -47811,11 +47811,10 @@
   },
   "iles_ile-de-la-tortue": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3855,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790514100398,
+   "original": true
   },
   "iles_tristan-da-cunha": {
    "cx": 0.5,

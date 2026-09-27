@@ -47425,12 +47425,11 @@
    "original": true
   },
   "villes-du-monde_lyon": {
-   "cx": 0.5,
+   "cx": 0.6046,
    "cy": 0.5,
    "w": 0.7909,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790494588752,
+   "original": true
   },
   "villes-du-monde_strasbourg": {
    "cx": 0.5,

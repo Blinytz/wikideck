@@ -36462,11 +36462,10 @@
   },
   "oeuvres-litteraires_phedre-racine": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.501,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526832008,
+   "original": true
   },
   "oeuvres-litteraires_candide": {
    "cx": 0.5,

@@ -36834,12 +36834,11 @@
    "auto": true
   },
   "oeuvres-litteraires_decameron": {
-   "cx": 0.5,
+   "cx": 0.574,
    "cy": 0.5,
    "w": 0.8521,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526575995,
+   "original": true
   },
   "oeuvres-litteraires_germinal-roman": {
    "cx": 0.5,

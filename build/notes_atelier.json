@@ -36595,11 +36595,10 @@
   },
   "oeuvres-litteraires_le-proces": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5557,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527483381,
+   "original": true
   },
   "oeuvres-litteraires_gatsby-le-magnifique": {
    "cx": 0.5,

@@ -47531,11 +47531,10 @@
   },
   "fleuves-mers-et-oceans_ienissei": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.3896,
+   "w": 1,
+   "editeLe": 1790508445138,
+   "original": true
   },
   "fleuves-mers-et-oceans_ob": {
    "cx": 0.5,

@@ -42477,10 +42477,9 @@
   "oeuvres-musicales_canon-de-pachelbel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790499256216,
+   "original": true
   },
   "oeuvres-musicales_adagio-en-sol-mineur": {
    "cx": 0.5,

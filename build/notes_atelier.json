@@ -35704,19 +35704,17 @@
   },
   "realisateurs_quentin-tarantino": {
    "cx": 0.5,
-   "cy": 0.5976,
+   "cy": 0.5683,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525006197,
+   "original": true
   },
   "realisateurs_orson-welles": {
    "cx": 0.5,
-   "cy": 0.4428,
+   "cy": 0.4123,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525009232,
+   "original": true
   },
   "realisateurs_charlie-chaplin": {
    "cx": 0.5,

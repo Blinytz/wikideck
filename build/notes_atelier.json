@@ -43568,17 +43568,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522583770,
+   "original": true
   },
   "races-de-cheval_poitevin-mulassier": {
-   "cx": 0.5,
+   "cx": 0.5462,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522587222,
+   "original": true
   },
   "races-de-cheval_cob-normand": {
    "cx": 0.54,

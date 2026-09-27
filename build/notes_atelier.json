@@ -51908,17 +51908,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7518,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516846456,
+   "original": true
   },
   "conquete-spatiale_gaia-satellite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516850161,
+   "original": true
   },
   "conquete-spatiale_kepler-telescope-spatial": {
    "cx": 0.5,

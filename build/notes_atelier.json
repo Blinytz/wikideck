@@ -52989,18 +52989,16 @@
   "styles-architecturaux_style-neogothique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8893229166666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1790530042904,
+   "original": true
   },
   "styles-architecturaux_style-beaux-arts": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8791666666666668,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8792,
+   "editeLe": 1790530046639,
+   "original": true
   },
   "styles-architecturaux_architecture-victorienne": {
    "cx": 0.5,

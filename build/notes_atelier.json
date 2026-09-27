@@ -35942,11 +35942,10 @@
   },
   "realisateurs_walt-disney": {
    "cx": 0.5,
-   "cy": 0.4179,
+   "cy": 0.4286,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525229731,
+   "original": true
   },
   "realisateurs_roman-polanski": {
    "cx": 0.5,

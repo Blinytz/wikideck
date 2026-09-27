@@ -52024,20 +52024,18 @@
    "original": true
   },
   "instruments-de-musique_gong-instrument": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.499,
+   "cy": 0.5455,
+   "w": 0.7273,
+   "editeLe": 1790522234083,
+   "original": true
   },
   "instruments-de-musique_carillon": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522238163,
+   "original": true
   },
   "instruments-de-musique_hang": {
    "cx": 0.5,

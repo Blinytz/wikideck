@@ -53067,17 +53067,15 @@
    "cx": 0.45,
    "cy": 0.42,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530105672,
+   "original": true
   },
   "styles-architecturaux_architecture-moghole": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8770833333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8771,
+   "editeLe": 1790530108516,
+   "original": true
   },
   "styles-architecturaux_architecture-khmere": {
    "cx": 0.5,

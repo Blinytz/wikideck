@@ -53235,7 +53235,7 @@
    "cy": 0.5,
    "w": 0.8889,
    "editeLe": 1790529269797,
-   "original": false
+   "original": true
   },
   "grandes-competitions_coupe-d-afrique-des-nations-de-football": {
    "cx": 0.625,
@@ -53252,20 +53252,18 @@
    "original": true
   },
   "grandes-competitions_tournoi-des-six-nations": {
-   "cx": 0.5,
+   "cx": 0.4542,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790529326065,
+   "original": true
   },
   "grandes-competitions_super-bowl": {
-   "cx": 0.5,
+   "cx": 0.4771,
    "cy": 0.5,
-   "w": 0.8885714285714286,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8886,
+   "editeLe": 1790529330349,
+   "original": true
   },
   "grandes-competitions_finales-nba": {
    "cx": 0.5,

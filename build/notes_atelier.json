@@ -51842,12 +51842,11 @@
    "original": true
   },
   "conquete-spatiale_luna-9": {
-   "cx": 0.5,
+   "cx": 0.5259,
    "cy": 0.5,
    "w": 0.9483,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516784072,
+   "original": true
   },
   "conquete-spatiale_lunokhod-1": {
    "cx": 0.5,

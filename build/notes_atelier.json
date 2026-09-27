@@ -38049,11 +38049,10 @@
   },
   "mythologie-finnoise_vainamoinen": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.4868,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529093979,
+   "original": true
   },
   "mythologie-finnoise_ilmarinen": {
    "cx": 0.5,

@@ -36532,11 +36532,10 @@
   },
   "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4971,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527040468,
+   "original": true
   },
   "oeuvres-litteraires_le-tour-du-monde-en-quatre-vingts-jours": {
    "cx": 0.5,

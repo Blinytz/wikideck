@@ -36588,11 +36588,10 @@
   },
   "oeuvres-litteraires_crime-et-chatiment": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4083,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527319091,
+   "original": true
   },
   "oeuvres-litteraires_le-proces": {
    "cx": 0.5,

@@ -35655,11 +35655,10 @@
   },
   "realisateurs_francois-truffaut": {
    "cx": 0.5,
-   "cy": 0.6088,
+   "cy": 0.5966,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524955083,
+   "original": true
   },
   "realisateurs_jean-luc-godard": {
    "cx": 0.5,

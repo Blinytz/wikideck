@@ -47476,10 +47476,9 @@
   "fleuves-mers-et-oceans_tamise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790507473550,
+   "original": true
   },
   "fleuves-mers-et-oceans_tibre": {
    "cx": 0.5,

@@ -31758,132 +31758,116 @@
    "original": true
   },
   "iles_madagascar": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5088,
+   "cy": 0.5202,
+   "w": 0.9091,
+   "editeLe": 1790107754851,
+   "original": true
   },
   "iles_islande": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4255,
+   "w": 1,
+   "editeLe": 1790107759446,
+   "original": true
   },
   "iles_borneo": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790107777012,
+   "original": true
   },
   "iles_groenland": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5125,
+   "w": 1,
+   "editeLe": 1790107811280,
+   "original": true
   },
   "iles_nouvelle-guinee": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9189,
+   "editeLe": 1790107903351,
+   "original": true
   },
   "iles_sicile": {
-   "cx": 0.5,
+   "cx": 0.5188,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790107974855,
+   "original": true
   },
   "iles_sardaigne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790108005734,
+   "original": true
   },
   "iles_corse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9,
+   "editeLe": 1790108024189,
+   "original": true
   },
   "iles_crete": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8111,
+   "editeLe": 1790108059124,
+   "original": true
   },
   "iles_chypre-ile": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4682,
+   "cy": 0.454,
+   "w": 0.9091,
+   "editeLe": 1790108087558,
+   "original": true
   },
   "iles_bali": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5448,
+   "cy": 0.4963,
+   "w": 0.8076,
+   "editeLe": 1790108271860,
+   "original": true
   },
   "iles_java-ile": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4379,
+   "cy": 0.5281,
+   "w": 0.8621,
+   "editeLe": 1790108365683,
+   "original": true
   },
   "iles_sumatra": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5448,
+   "w": 1,
+   "editeLe": 1790108453690,
+   "original": true
   },
   "iles_hawai-ile": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4707,
+   "cy": 0.5771,
+   "w": 0.9091,
+   "editeLe": 1790108533502,
+   "original": true
   },
   "iles_tahiti": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4851,
+   "w": 1,
+   "editeLe": 1790108622761,
+   "original": true
   },
   "iles_ile-de-paques": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9511,
+   "editeLe": 1790108677749,
+   "original": true
   },
   "iles_iles-galapagos": {
    "cx": 0.4657,
@@ -31893,188 +31877,165 @@
    "original": true
   },
   "iles_iles-feroe": {
-   "cx": 0.5,
+   "cx": 0.448,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8124,
+   "editeLe": 1790108987646,
+   "original": true
   },
   "iles_svalbard": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.795,
+   "editeLe": 1790109010452,
+   "original": true
   },
   "iles_sainte-helene-ile": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5037,
+   "cy": 0.5233,
+   "w": 0.9091,
+   "editeLe": 1790109132666,
+   "original": true
   },
   "iles_zanzibar-archipel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790109157417,
+   "original": true
   },
   "iles_socotra": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8678,
+   "editeLe": 1790109202852,
+   "original": true
   },
   "iles_malte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790109259345,
+   "original": true
   },
   "iles_santorin": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5539,
+   "w": 1,
+   "editeLe": 1790109318393,
+   "original": true
   },
   "iles_capri": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790109340835,
+   "original": true
   },
   "iles_ibiza": {
-   "cx": 0.5,
+   "cx": 0.4447,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1790109460783,
+   "original": true
   },
   "iles_bahamas": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5694,
+   "cy": 0.4545,
+   "w": 0.7862,
+   "editeLe": 1790109546735,
+   "original": true
   },
   "iles_cuba": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9642,
+   "editeLe": 1790109564824,
+   "original": true
   },
   "iles_jamaique": {
-   "cx": 0.5,
+   "cx": 0.57,
    "cy": 0.5,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790109628821,
+   "original": true
   },
   "iles_hispaniola": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5674,
+   "cy": 0.4924,
+   "w": 0.7943,
+   "editeLe": 1790109746128,
+   "original": true
   },
   "iles_terre-neuve": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4918,
+   "w": 1,
+   "editeLe": 1790109772783,
+   "original": true
   },
   "iles_tasmanie": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.488,
+   "w": 1,
+   "editeLe": 1790109814974,
+   "original": true
   },
   "iles_fidji": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5244,
+   "w": 1,
+   "editeLe": 1790109890720,
+   "original": true
   },
   "iles_palaos": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790110024098,
+   "original": true
   },
   "iles_maldives": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790110065745,
+   "original": true
   },
   "iles_seychelles": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8384,
+   "editeLe": 1790110099525,
+   "original": true
   },
   "iles_archipel-des-comores": {
-   "cx": 0.5,
+   "cx": 0.5973,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790110175719,
+   "original": true
   },
   "iles_ile-maurice": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5716,
+   "w": 1,
+   "editeLe": 1790110194582,
+   "original": true
   },
   "iles_la-reunion": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790110227056,
+   "original": true
   },
   "iles_ouessant": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.2208,
+   "cy": 0.3256,
+   "w": 0.4416,
+   "editeLe": 1790110402463,
+   "original": true
   },
   "champions-olympiques_jesse-owens": {
    "cx": 0.5,
@@ -35960,19 +35921,17 @@
   },
   "realisateurs_sofia-coppola": {
    "cx": 0.5,
-   "cy": 0.4756,
+   "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525215366,
+   "original": true
   },
   "realisateurs_peter-jackson": {
-   "cx": 0.5141,
-   "cy": 0.5,
-   "w": 0.8883,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5311,
+   "cy": 0.5331,
+   "w": 0.8075,
+   "editeLe": 1790525221578,
+   "original": true
   },
   "realisateurs_george-lucas": {
    "cx": 0.5,
@@ -47541,19 +47500,17 @@
   },
   "iles_taiwan-ile": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.6526,
+   "w": 1,
+   "editeLe": 1790510645606,
+   "original": true
   },
   "iles_martinique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8802,
+   "editeLe": 1790510679422,
+   "original": true
   },
   "iles_guadeloupe": {
    "cx": 0.4711,
@@ -47563,20 +47520,18 @@
    "original": true
   },
   "iles_grande-terre-nouvelle-caledonie": {
-   "cx": 0.5,
+   "cx": 0.5008,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9984,
+   "editeLe": 1790510801673,
+   "original": true
   },
   "iles_bora-bora": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790510833754,
+   "original": true
   },
   "iles_iles-marquises": {
    "cx": 0.5,
@@ -47588,10 +47543,9 @@
   "iles_mayotte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790511898163,
+   "original": true
   },
   "iles_ile-de-re": {
    "cx": 0.5,
@@ -47715,7 +47669,7 @@
   "iles_pitcairn": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
+   "w": 0.7767,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -47723,7 +47677,7 @@
   "iles_komodo-ile": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
+   "w": 0.75,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -47731,7 +47685,7 @@
   "iles_bikini-atoll": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
+   "w": 0.75,
    "original": true,
    "editeLe": 0,
    "auto": true

@@ -35627,19 +35627,17 @@
   },
   "realisateurs_alfred-hitchcock": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.3738,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524939743,
+   "original": true
   },
   "realisateurs_stanley-kubrick": {
    "cx": 0.5,
-   "cy": 0.589,
+   "cy": 0.5867,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524942909,
+   "original": true
   },
   "realisateurs_steven-spielberg": {
    "cx": 0.4612,

@@ -46930,19 +46930,17 @@
   },
   "mineraux-et-pierres_tanzanite": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4522,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517022643,
+   "original": true
   },
   "mineraux-et-pierres_alexandrite": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790517026216,
+   "original": true
   },
   "mineraux-et-pierres_spinelle": {
    "cx": 0.5,

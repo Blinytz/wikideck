@@ -44981,17 +44981,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8896,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530634259,
+   "original": true
   },
   "disciplines-sportives_judo": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4685,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790530637818,
+   "original": true
   },
   "disciplines-sportives_karate": {
    "cx": 0.5,

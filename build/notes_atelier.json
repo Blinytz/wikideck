@@ -51480,20 +51480,18 @@
    "original": true
   },
   "vehicules-celebres_big-boy-locomotive": {
-   "cx": 0.5,
+   "cx": 0.485,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524687932,
+   "original": true
   },
   "vehicules-celebres_eurostar": {
-   "cx": 0.5,
+   "cx": 0.4104,
    "cy": 0.5,
    "w": 0.7,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524692680,
+   "original": true
   },
   "vehicules-celebres_citroen-ds": {
    "cx": 0.5,

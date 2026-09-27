@@ -50326,9 +50326,8 @@
    "cx": 0.4722,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790515790243,
+   "original": true
   },
   "legendes-du-sport_bill-russell": {
    "cx": 0.495,
@@ -54343,6 +54342,13 @@
    "original": true
   },
   "figures-resistance_josephine-baker": {
+   "cx": 0.5,
+   "cy": 0.58,
+   "w": 1,
+   "editeLe": 1790446288955,
+   "original": true
+  },
+  "figures-emancipation_josephine-baker": {
    "cx": 0.5,
    "cy": 0.58,
    "w": 1,

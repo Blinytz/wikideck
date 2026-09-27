@@ -48202,12 +48202,11 @@
    "original": true
   },
   "montagnes-et-volcans_mont-ventoux": {
-   "cx": 0.5,
+   "cx": 0.5217,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495820331,
+   "original": true
   },
   "montagnes-et-volcans_puy-de-dome": {
    "cx": 0.5,

@@ -51496,10 +51496,9 @@
   "vehicules-celebres_citroen-ds": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8935,
+   "editeLe": 1790524708589,
+   "original": true
   },
   "vehicules-celebres_mini-1959-2000": {
    "cx": 0.5,

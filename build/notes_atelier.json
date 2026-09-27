@@ -45088,17 +45088,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529059811,
+   "original": true
   },
   "disciplines-sportives_skateboard": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529063128,
+   "original": true
   },
   "disciplines-sportives_escalade": {
    "cx": 0.5,

@@ -35851,19 +35851,17 @@
   },
   "realisateurs_christopher-nolan": {
    "cx": 0.5,
-   "cy": 0.4052,
+   "cy": 0.3724,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525120101,
+   "original": true
   },
   "realisateurs_tim-burton": {
    "cx": 0.5,
-   "cy": 0.4302,
+   "cy": 0.3844,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525124647,
+   "original": true
   },
   "realisateurs_pedro-almodovar": {
    "cx": 0.5,

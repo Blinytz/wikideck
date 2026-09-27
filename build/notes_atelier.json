@@ -47453,12 +47453,11 @@
    "original": true
   },
   "villes-du-monde_fes": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4365,
+   "cy": 0.4132,
+   "w": 0.735,
+   "editeLe": 1790494873684,
+   "original": true
   },
   "villes-du-monde_alger": {
    "cx": 0.5,

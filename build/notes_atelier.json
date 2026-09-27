@@ -52729,19 +52729,17 @@
   },
   "figures-resistance_honore-d-estienne-d-orves": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9166666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4348,
+   "w": 1,
+   "editeLe": 1790529620035,
+   "original": true
   },
   "figures-resistance_guy-moquet": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4241,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529623003,
+   "original": true
   },
   "figures-resistance_danielle-casanova": {
    "cx": 0.5,

@@ -44607,12 +44607,11 @@
    "original": true
   },
   "jeux-de-societe_scrabble": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4907,
+   "cy": 0.4818,
+   "w": 0.9091,
+   "editeLe": 1790528760171,
+   "original": true
   },
   "jeux-de-societe_cluedo": {
    "cx": 0.5,

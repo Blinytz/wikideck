@@ -48223,12 +48223,11 @@
    "original": true
   },
   "montagnes-et-volcans_nyiragongo": {
-   "cx": 0.5,
+   "cx": 0.5538,
    "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7656,
+   "editeLe": 1790495859278,
+   "original": true
   },
   "montagnes-et-volcans_tambora": {
    "cx": 0.5,

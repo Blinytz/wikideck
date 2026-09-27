@@ -44829,12 +44829,11 @@
    "original": true
   },
   "disciplines-sportives_volley-ball": {
-   "cx": 0.5,
+   "cx": 0.5476,
    "cy": 0.5,
    "w": 0.755,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528977067,
+   "original": true
   },
   "disciplines-sportives_handball": {
    "cx": 0.5,

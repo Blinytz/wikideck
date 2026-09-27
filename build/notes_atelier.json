@@ -52490,10 +52490,9 @@
   "monnaies-du-monde_kwanza-monnaie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9805,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7495,
+   "editeLe": 1790524318675,
+   "original": true
   },
   "monnaies-du-monde_metical": {
    "cx": 0.5,

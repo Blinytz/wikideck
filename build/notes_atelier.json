@@ -51424,12 +51424,11 @@
    "original": true
   },
   "vehicules-celebres_supermarine-spitfire": {
-   "cx": 0.5,
+   "cx": 0.4837,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524582913,
+   "original": true
   },
   "vehicules-celebres_boeing-747": {
    "cx": 0.5,

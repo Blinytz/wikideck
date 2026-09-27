@@ -52876,11 +52876,10 @@
   },
   "figures-resistance_noor-inayat-khan": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3852,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529930568,
+   "original": true
   },
   "figures-resistance_tom-morel": {
    "cx": 0.5,

@@ -44804,17 +44804,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528959517,
+   "original": true
   },
   "disciplines-sportives_football": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.9073,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790528962839,
+   "original": true
   },
   "disciplines-sportives_rugby-a-xv": {
    "cx": 0.5,

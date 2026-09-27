@@ -52433,11 +52433,10 @@
   },
   "monnaies-du-monde_gourde-monnaie": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6158,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4647,
+   "w": 1,
+   "editeLe": 1790523750366,
+   "original": true
   },
   "monnaies-du-monde_roupie-srilankaise": {
    "cx": 0.5,

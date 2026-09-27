@@ -40751,53 +40751,11 @@
    "editeLe": 1790446186154,
    "original": true
   },
-  "figures-emancipation_jean-moulin": {
-   "cx": 0.493,
-   "cy": 0.5,
-   "w": 0.8889,
-   "editeLe": 1790446189753,
-   "original": true
-  },
-  "figures-emancipation_lucie-aubrac": {
-   "cx": 0.5,
-   "cy": 0.475,
-   "w": 1,
-   "editeLe": 1790446203931,
-   "original": true
-  },
-  "figures-emancipation_missak-manouchian": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7356,
-   "editeLe": 1790446222740,
-   "original": true
-  },
-  "figures-emancipation_sophie-scholl": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "editeLe": 1790446282859,
-   "original": true
-  },
   "figures-emancipation_josephine-baker": {
    "cx": 0.5,
    "cy": 0.58,
    "w": 1,
    "editeLe": 1790446288955,
-   "original": true
-  },
-  "figures-emancipation_germaine-tillion": {
-   "cx": 0.5,
-   "cy": 0.4238,
-   "w": 1,
-   "editeLe": 1790446335429,
-   "original": true
-  },
-  "figures-emancipation_irena-sendler": {
-   "cx": 0.5,
-   "cy": 0.4626,
-   "w": 1,
-   "editeLe": 1790446339456,
    "original": true
   },
   "figures-emancipation_liu-xiaobo": {
@@ -48088,13 +48046,6 @@
    "editeLe": 1790495939168,
    "original": true
   },
-  "monuments-emblematiques_bauhaus": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8892,
-   "editeLe": 1790414058476,
-   "original": true
-  },
   "monuments-emblematiques_seagram-building": {
    "cx": 0.5,
    "cy": 0.5,
@@ -53383,6 +53334,983 @@
    "cx": 0.5,
    "cy": 0.38831249999999995,
    "w": 1,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_jean-moulin": {
+   "cx": 0.493,
+   "cy": 0.5,
+   "w": 0.8889,
+   "editeLe": 1790446189753,
+   "original": true
+  },
+  "figures-resistance_lucie-aubrac": {
+   "cx": 0.5,
+   "cy": 0.475,
+   "w": 1,
+   "editeLe": 1790446203931,
+   "original": true
+  },
+  "figures-resistance_missak-manouchian": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7356,
+   "editeLe": 1790446222740,
+   "original": true
+  },
+  "figures-resistance_sophie-scholl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790446282859,
+   "original": true
+  },
+  "figures-resistance_germaine-tillion": {
+   "cx": 0.5,
+   "cy": 0.4238,
+   "w": 1,
+   "editeLe": 1790446335429,
+   "original": true
+  },
+  "figures-resistance_irena-sendler": {
+   "cx": 0.5,
+   "cy": 0.4626,
+   "w": 1,
+   "editeLe": 1790446339456,
+   "original": true
+  },
+  "styles-architecturaux_bauhaus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8892,
+   "editeLe": 1790414058476,
+   "original": true
+  },
+  "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_raymond-aubrac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_pierre-brossolette": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_honore-d-estienne-d-orves": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9166666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_guy-moquet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_danielle-casanova": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_berty-albrecht": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_marie-madeleine-fourcade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_henri-frenay": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_genevieve-de-gaulle-anthonioz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_colonel-fabien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_stephane-hessel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_daniel-cordier": {
+   "cx": 0.5,
+   "cy": 0.33,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_jean-cavailles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_marc-bloch": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_olga-bancic": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_jacques-bingen": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 0.46,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_claus-von-stauffenberg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_hans-scholl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_witold-pilecki": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_jan-karski": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9268035808320167,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_hannie-schaft": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_nancy-wake": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_violette-szabo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_noor-inayat-khan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_tom-morel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7496296296296296,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_pierre-de-benouville": {
+   "cx": 0.5,
+   "cy": 0.33,
+   "w": 0.4,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-de-la-grece-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9370629370629371,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-romaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.934375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-byzantine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.705,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_art-roman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-gothique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-islamique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.94375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_art-mudejar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-de-la-renaissance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-baroque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_rococo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-classique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_palladianisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7916666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-neo-classique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9510416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_style-neogothique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_style-beaux-arts": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8791666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-victorienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_art-nouveau": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_art-deco": {
+   "cx": 0.5,
+   "cy": 0.25,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_ecole-de-chicago-architecture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_style-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-organique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_brutalisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_postmodernisme-architecture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_deconstructivisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-high-tech": {
+   "cx": 0.45,
+   "cy": 0.42,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-moghole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8770833333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-khmere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-japonaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_pan-de-bois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.803125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tour-de-france": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tour-d-italie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tour-d-espagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_paris-roubaix": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tournoi-de-wimbledon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_internationaux-de-france-de-tennis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8966666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_us-open-de-tennis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_open-d-australie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-davis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_ligue-des-champions-de-l-uefa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_championnat-d-europe-de-football": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_copa-america": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-d-afrique-des-nations-de-football": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-du-monde-de-rugby-a-xv": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tournoi-des-six-nations": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_super-bowl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885714285714286,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_finales-nba": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_serie-mondiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-stanley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_24-heures-du-mans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_grand-prix-automobile-de-monaco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7491666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_500-miles-d-indianapolis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_rallye-dakar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_vendee-globe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_route-du-rhum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9270833333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-de-l-america": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_ryder-cup": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_masters-de-golf": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8641666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_marathon-de-new-york": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_marathon-de-boston": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_prix-de-l-arc-de-triomphe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_kentucky-derby": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7383333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_championnats-du-monde-d-athletisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-du-monde-de-ski-alpin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_jeux-du-commonwealth": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7841666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-de-cannes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8466666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_palme-d-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_mostra-de-venise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_lion-d-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_berlinale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_ours-d-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_oscars-du-cinema": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9266666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_cesar-du-cinema": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_golden-globes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8874458874458875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_british-academy-film-awards": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-de-cinema-de-sundance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-de-toronto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-d-animation-d-annecy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8760416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-du-cinema-americain-de-deauville": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-de-locarno": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-de-saint-sebastien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8864468864468865,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-de-busan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8633333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-du-court-metrage-de-clermont-ferrand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_grand-prix-du-festival-de-cannes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_camera-d-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_prix-louis-delluc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_prix-goya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_emmy-awards": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8855555555555557,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_razzie-awards": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-lumiere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7366666666666667,
    "original": true,
    "editeLe": 0,
    "auto": true

@@ -120,6 +120,13 @@ ROLES = {
     'oeuvres-litteraires': 'terrain',
     'jeux-de-societe': 'terrain',
     'disciplines-sportives': 'attaque',
+    # 27/09/2026 : une competition est un affrontement (attaque) ; un festival
+    # ou un style architectural posent le decor (terrain) ; les figures de la
+    # Resistance heritent des figures de l'emancipation dont elles sortent.
+    'grandes-competitions': 'attaque',
+    'festivals-et-recompenses-cinema': 'terrain',
+    'figures-resistance': 'attaque',
+    'styles-architecturaux': 'terrain',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -240,6 +247,10 @@ DECLENCHEURS = {
     'oeuvres-litteraires': 'au premier tour uniquement',
     'jeux-de-societe': 'si au moins 2 cartes jouées ce tour partagent un tag',
     'disciplines-sportives': 'si une autre carte de sa collection est en jeu',
+    'grandes-competitions': 'après avoir gagné le duel du tour',
+    'festivals-et-recompenses-cinema': 'au premier tour uniquement',
+    'figures-resistance': "quand elle est sur le point d'être détruite",
+    'styles-architecturaux': 'si au moins 2 cartes du même type sont jouées ce tour',
 }
 
 for _nouveau, _source in HERITAGES.items():

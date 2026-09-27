@@ -33,7 +33,7 @@
   {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
-   "nbCartes": 108,
+   "nbCartes": 107,
    "fichier": "data/monuments-emblematiques.json"
   },
   {
@@ -453,7 +453,7 @@
   {
    "slug": "figures-emancipation",
    "nom": "Figures de l'émancipation",
-   "nbCartes": 83,
+   "nbCartes": 77,
    "fichier": "data/figures-emancipation.json"
   },
   {
@@ -477,7 +477,7 @@
   {
    "slug": "fleuves-mers-et-oceans",
    "nom": "Fleuves, mers et océans",
-   "nbCartes": 83,
+   "nbCartes": 84,
    "fichier": "data/fleuves-mers-et-oceans.json"
   },
   {
@@ -635,6 +635,30 @@
    "nom": "Mythologie finnoise",
    "nbCartes": 18,
    "fichier": "data/mythologie-finnoise.json"
+  },
+  {
+   "slug": "grandes-competitions",
+   "nom": "Grandes compétitions",
+   "nbCartes": 35,
+   "fichier": "data/grandes-competitions.json"
+  },
+  {
+   "slug": "festivals-et-recompenses-cinema",
+   "nom": "Festivals et récompenses de cinéma",
+   "nbCartes": 25,
+   "fichier": "data/festivals-et-recompenses-cinema.json"
+  },
+  {
+   "slug": "figures-resistance",
+   "nom": "Figures de la Résistance",
+   "nbCartes": 32,
+   "fichier": "data/figures-resistance.json"
+  },
+  {
+   "slug": "styles-architecturaux",
+   "nom": "Styles architecturaux",
+   "nbCartes": 30,
+   "fichier": "data/styles-architecturaux.json"
   }
  ]
 }

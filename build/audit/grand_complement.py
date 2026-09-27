@@ -1221,6 +1221,82 @@ PLANS = {
 }
 
 
+# Demandes du 27/09/2026 : quatre collections de culture generale.
+PLANS.update({
+    'grandes-competitions': dict(nom='Grandes compétitions', transferts=[], ajouts=[
+        ('Tour de France', 'Tour de France'), ("Tour d'Italie", "Tour d'Italie"),
+        ("Tour d'Espagne", "Tour d'Espagne"), ('Paris-Roubaix', 'Paris-Roubaix'),
+        ('Tournoi de Wimbledon', 'Tournoi de Wimbledon'), ('Tournoi de Roland-Garros', 'Internationaux de France de tennis'),
+        ("US Open de tennis", 'US Open de tennis'), ("Open d'Australie", "Open d'Australie"),
+        ('Coupe Davis', 'Coupe Davis'), ('Ligue des champions', "Ligue des champions de l'UEFA"),
+        ("Championnat d'Europe de football", "Championnat d'Europe de football"),
+        ('Copa América', 'Copa América'), ("Coupe d'Afrique des nations", "Coupe d'Afrique des nations de football"),
+        ('Coupe du monde de rugby', 'Coupe du monde de rugby à XV'), ('Tournoi des Six Nations', 'Tournoi des Six Nations'),
+        ('Super Bowl', 'Super Bowl'), ('Finales NBA', 'Finales NBA'), ('World Series', 'World Series'),
+        ('Coupe Stanley', 'Coupe Stanley'), ('24 Heures du Mans', '24 Heures du Mans'),
+        ('Grand Prix de Monaco', 'Grand Prix automobile de Monaco'), ("500 miles d'Indianapolis", "500 miles d'Indianapolis"),
+        ('Rallye Dakar', 'Rallye Dakar'), ('Vendée Globe', 'Vendée Globe'), ('Route du Rhum', 'Route du Rhum'),
+        ("Coupe de l'America", "Coupe de l'America"), ('Ryder Cup', 'Ryder Cup'), ('Masters de golf', 'Masters de golf'),
+        ('Marathon de New York', 'Marathon de New York'), ('Marathon de Boston', 'Marathon de Boston'),
+        ("Prix de l'Arc de Triomphe", "Prix de l'Arc de Triomphe"), ('Kentucky Derby', 'Kentucky Derby'),
+        ("Championnats du monde d'athlétisme", "Championnats du monde d'athlétisme"),
+        ('Coupe du monde de ski alpin', 'Coupe du monde de ski alpin'), ('Jeux du Commonwealth', 'Jeux du Commonwealth'),
+    ]),
+    'festivals-et-recompenses-cinema': dict(nom='Festivals et récompenses de cinéma', transferts=[], ajouts=[
+        ('Festival de Cannes', 'Festival de Cannes'), ("Palme d'or", "Palme d'or"), ('Mostra de Venise', 'Mostra de Venise'),
+        ("Lion d'or", "Lion d'or"), ('Berlinale', 'Festival international du film de Berlin'), ("Ours d'or", "Ours d'or"),
+        ('Oscars', 'Oscars du cinéma'), ('César du cinéma', 'César du cinéma'), ('Golden Globes', 'Golden Globes'),
+        ('BAFTA', 'British Academy Film Awards'), ('Festival de Sundance', 'Festival du film de Sundance'),
+        ('Festival de Toronto', 'Festival international du film de Toronto'),
+        ("Festival d'Annecy", "Festival international du film d'animation d'Annecy"),
+        ('Festival de Deauville', 'Festival du cinéma américain de Deauville'),
+        ('Festival de Locarno', 'Festival international du film de Locarno'),
+        ('Festival de Saint-Sébastien', 'Festival international du film de Saint-Sébastien'),
+        ('Festival de Busan', 'Festival international du film de Busan'),
+        ('Festival de Clermont-Ferrand', 'Festival international du court métrage de Clermont-Ferrand'),
+        ('Grand Prix du Festival de Cannes', 'Grand Prix (Festival de Cannes)'), ("Caméra d'or", "Caméra d'or"),
+        ('Prix Louis-Delluc', 'Prix Louis-Delluc'), ('Goya', 'Prix Goya'), ('Emmy Awards', 'Emmy Awards'),
+        ('Razzie Awards', 'Razzie Awards'), ('Festival Lumière', 'Festival Lumière'),
+    ]),
+    'figures-resistance': dict(nom='Figures de la Résistance', transferts=[
+        ('figures-emancipation', 'Jean Moulin'), ('figures-emancipation', 'Lucie Aubrac'),
+        ('figures-emancipation', 'Missak Manouchian'), ('figures-emancipation', 'Sophie Scholl'),
+        ('figures-emancipation', 'Germaine Tillion'), ('figures-emancipation', 'Irena Sendler'),
+    ], ajouts=[
+        ('Raymond Aubrac', 'Raymond Aubrac'), ('Pierre Brossolette', 'Pierre Brossolette'),
+        ("Honoré d'Estienne d'Orves", "Honoré d'Estienne d'Orves"), ('Guy Môquet', 'Guy Môquet'),
+        ('Danielle Casanova', 'Danielle Casanova'), ('Berty Albrecht', 'Berty Albrecht'),
+        ('Marie-Madeleine Fourcade', 'Marie-Madeleine Fourcade'), ('Henri Frenay', 'Henri Frenay'),
+        ('Geneviève de Gaulle-Anthonioz', 'Geneviève de Gaulle-Anthonioz'), ('Colonel Fabien', 'Pierre Georges'),
+        ('Stéphane Hessel', 'Stéphane Hessel'), ('Daniel Cordier', 'Daniel Cordier'), ('Jean Cavaillès', 'Jean Cavaillès'),
+        ('Marc Bloch', 'Marc Bloch'), ('Olga Bancic', 'Olga Bancic'), ('Jacques Bingen', 'Jacques Bingen'),
+        ('Claus von Stauffenberg', 'Claus von Stauffenberg'), ('Hans Scholl', 'Hans Scholl'),
+        ('Witold Pilecki', 'Witold Pilecki'), ('Jan Karski', 'Jan Karski'), ('Hannie Schaft', 'Hannie Schaft'),
+        ('Nancy Wake', 'Nancy Wake'), ('Violette Szabo', 'Violette Szabo'), ('Noor Inayat Khan', 'Noor Inayat Khan'),
+        ('Tom Morel', 'Tom Morel'), ('Pierre de Bénouville', 'Pierre Guillain de Bénouville'),
+    ]),
+    'styles-architecturaux': dict(nom='Styles architecturaux', transferts=[
+        ('monuments-emblematiques', 'Bauhaus'),
+    ], ajouts=[
+        ('Architecture grecque antique', 'Architecture de la Grèce antique'), ('Architecture romaine', 'Architecture romaine'),
+        ('Architecture byzantine', 'Architecture byzantine'), ('Art roman', 'Art roman'), ('Architecture gothique', 'Architecture gothique'),
+        ('Architecture islamique', 'Architecture islamique'),
+        ('Art mudéjar', 'Art mudéjar'), ('Architecture de la Renaissance', 'Architecture de la Renaissance'),
+        ('Architecture baroque', 'Architecture baroque'), ('Rococo', 'Rococo'), ('Classicisme (architecture)', 'Architecture classique'),
+        ('Palladianisme', 'Palladianisme'), ('Architecture néoclassique', 'Architecture néoclassique'),
+        ('Néogothique', 'Architecture néo-gothique'),
+        ('Style Beaux-Arts', 'Style Beaux-Arts'), ('Architecture victorienne', 'Architecture victorienne'),
+        ('Art nouveau', 'Art nouveau'), ('Art déco', 'Art déco'), ('École de Chicago', 'École de Chicago (architecture)'),
+        ('Style international', 'Style international'), ('Architecture organique', 'Architecture organique'),
+        ('Brutalisme', 'Architecture brutaliste'), ('Architecture postmoderne', 'Architecture postmoderne'),
+        ('Déconstructivisme', 'Déconstructivisme'), ('Architecture high-tech', 'Architecture high-tech'),
+        ('Architecture moghole', 'Architecture moghole'), ('Architecture khmère', 'Architecture khmère'),
+        ('Architecture japonaise', 'Architecture japonaise'), ('Pan de bois', 'Pan de bois'),
+    ]),
+})
+AJOUTS['fleuves-mers-et-oceans'].append(('Cap de Bonne-Espérance', 'Cap de Bonne-Espérance'))
+
+
 # Titres corriges apres la premiere resolution : la page devinee etait une
 # homonymie ou n'existait pas. None : la carte est abandonnee faute de page
 # propre (le personnage n'a pas d'article, ou l'article est celui d'une carte

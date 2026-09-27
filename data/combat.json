@@ -106,7 +106,11 @@
   "oeuvres-litteraires": "terrain",
   "jeux-de-societe": "terrain",
   "disciplines-sportives": "attaque",
-  "mythologie-finnoise": "attaque"
+  "mythologie-finnoise": "attaque",
+  "grandes-competitions": "attaque",
+  "festivals-et-recompenses-cinema": "terrain",
+  "figures-resistance": "attaque",
+  "styles-architecturaux": "terrain"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -214,7 +218,11 @@
   "oeuvres-litteraires": "au premier tour uniquement",
   "jeux-de-societe": "si au moins 2 cartes jouées ce tour partagent un tag",
   "disciplines-sportives": "si une autre carte de sa collection est en jeu",
-  "mythologie-finnoise": "quand elle est sur le point d'être détruite"
+  "mythologie-finnoise": "quand elle est sur le point d'être détruite",
+  "grandes-competitions": "après avoir gagné le duel du tour",
+  "festivals-et-recompenses-cinema": "au premier tour uniquement",
+  "figures-resistance": "quand elle est sur le point d'être détruite",
+  "styles-architecturaux": "si au moins 2 cartes du même type sont jouées ce tour"
  },
  "catalogueDeclencheurs": [
   "au début du combat",
@@ -726,6 +734,7 @@
   "Empire hunnique",
   "Empire inca",
   "Empire khwarezmien",
+  "Empire moghol",
   "Empire mongol",
   "Empire ottoman",
   "Empire palmyrénien",

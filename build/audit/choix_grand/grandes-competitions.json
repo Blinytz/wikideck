@@ -1,0 +1,107 @@
+{
+ "grandes-competitions_tour-de-france": {
+  "k": 1
+ },
+ "grandes-competitions_tour-d-italie": {
+  "k": 3
+ },
+ "grandes-competitions_tour-d-espagne": {
+  "k": 2
+ },
+ "grandes-competitions_paris-roubaix": {
+  "k": 5
+ },
+ "grandes-competitions_tournoi-de-wimbledon": {
+  "k": 8
+ },
+ "grandes-competitions_internationaux-de-france-de-tennis": {
+  "k": 10
+ },
+ "grandes-competitions_us-open-de-tennis": {
+  "k": 4
+ },
+ "grandes-competitions_open-d-australie": {
+  "k": 2
+ },
+ "grandes-competitions_coupe-davis": {
+  "k": 3
+ },
+ "grandes-competitions_ligue-des-champions-de-l-uefa": {
+  "k": 1
+ },
+ "grandes-competitions_championnat-d-europe-de-football": {
+  "k": 10
+ },
+ "grandes-competitions_copa-america": {
+  "k": 4
+ },
+ "grandes-competitions_coupe-d-afrique-des-nations-de-football": {
+  "k": 1
+ },
+ "grandes-competitions_coupe-du-monde-de-rugby-a-xv": {
+  "k": 0
+ },
+ "grandes-competitions_tournoi-des-six-nations": {
+  "k": 1
+ },
+ "grandes-competitions_super-bowl": {
+  "k": 5
+ },
+ "grandes-competitions_finales-nba": {
+  "k": 6
+ },
+ "grandes-competitions_serie-mondiale": {
+  "k": 8
+ },
+ "grandes-competitions_coupe-stanley": {
+  "k": 11
+ },
+ "grandes-competitions_24-heures-du-mans": {
+  "k": 1
+ },
+ "grandes-competitions_grand-prix-automobile-de-monaco": {
+  "k": 11
+ },
+ "grandes-competitions_500-miles-d-indianapolis": {
+  "k": 4
+ },
+ "grandes-competitions_rallye-dakar": {
+  "k": 2
+ },
+ "grandes-competitions_vendee-globe": {
+  "k": 5
+ },
+ "grandes-competitions_route-du-rhum": {
+  "k": 2
+ },
+ "grandes-competitions_coupe-de-l-america": {
+  "k": 11
+ },
+ "grandes-competitions_ryder-cup": {
+  "k": 10
+ },
+ "grandes-competitions_masters-de-golf": {
+  "k": 0
+ },
+ "grandes-competitions_marathon-de-new-york": {
+  "k": 2
+ },
+ "grandes-competitions_marathon-de-boston": {
+  "k": 1
+ },
+ "grandes-competitions_prix-de-l-arc-de-triomphe": {
+  "k": 7
+ },
+ "grandes-competitions_kentucky-derby": {
+  "k": 11
+ },
+ "grandes-competitions_championnats-du-monde-d-athletisme": {
+  "k": 6
+ },
+ "grandes-competitions_coupe-du-monde-de-ski-alpin": {
+  "k": 4
+ },
+ "grandes-competitions_jeux-du-commonwealth": {
+  "k": 9
+ }
+}

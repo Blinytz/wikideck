@@ -107,4 +107,8 @@ REQUETES = {
     'oeuvres-litteraires': ['{n} livre illustration', '{e} book illustration'],
     'jeux-de-societe': ['{n} jeu de société', '{e} board game'],
     'disciplines-sportives': ['{n} sport', '{e} sport action photo'],
+    'grandes-competitions': ['{n} compétition sport photo', '{e} sport event'],
+    'festivals-et-recompenses-cinema': ['{n} cinéma', '{e} film festival'],
+    'figures-resistance': ['{n} résistant portrait', '{e} portrait'],
+    'styles-architecturaux': ['{n} bâtiment exemple', '{e} building'],
 }

@@ -52404,20 +52404,18 @@
    "auto": true
   },
   "monnaies-du-monde_couronne-islandaise": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9805,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5694,
+   "cy": 0.4545,
+   "w": 0.8077,
+   "editeLe": 1790523585787,
+   "original": true
   },
   "monnaies-du-monde_lev-bulgare": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790523588556,
+   "original": true
   },
   "monnaies-du-monde_peso-uruguayen": {
    "cx": 0.5,

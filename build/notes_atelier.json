@@ -36900,11 +36900,10 @@
   },
   "oeuvres-litteraires_le-parfum": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8857,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.3381,
+   "w": 1,
+   "editeLe": 1790528328405,
+   "original": true
   },
   "fromages_saint-marcellin": {
    "cx": 0.5,

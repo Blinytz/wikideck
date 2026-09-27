@@ -47573,11 +47573,10 @@
   },
   "fleuves-mers-et-oceans_okavango": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.625,
+   "w": 1,
+   "editeLe": 1790508709194,
+   "original": true
   },
   "fleuves-mers-et-oceans_senegal-fleuve": {
    "cx": 0.5,

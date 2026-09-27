@@ -35662,19 +35662,17 @@
   },
   "realisateurs_jean-luc-godard": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.502,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524961607,
+   "original": true
   },
   "realisateurs_hayao-miyazaki": {
    "cx": 0.5,
-   "cy": 0.42,
+   "cy": 0.4037,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790524964900,
+   "original": true
   },
   "realisateurs_federico-fellini": {
    "cx": 0.5,

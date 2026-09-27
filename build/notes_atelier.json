@@ -47728,10 +47728,9 @@
   "iles_jersey": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9925,
+   "editeLe": 1790512076977,
+   "original": true
   },
   "iles_ile-de-skye": {
    "cx": 0.5,
@@ -53398,7 +53397,7 @@
   "figures-resistance_raymond-aubrac": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53406,7 +53405,7 @@
   "figures-resistance_pierre-brossolette": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53422,7 +53421,7 @@
   "figures-resistance_guy-moquet": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53430,7 +53429,7 @@
   "figures-resistance_danielle-casanova": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53438,7 +53437,7 @@
   "figures-resistance_berty-albrecht": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53446,7 +53445,7 @@
   "figures-resistance_marie-madeleine-fourcade": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53454,7 +53453,7 @@
   "figures-resistance_henri-frenay": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53462,7 +53461,7 @@
   "figures-resistance_genevieve-de-gaulle-anthonioz": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53470,7 +53469,7 @@
   "figures-resistance_colonel-fabien": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53478,7 +53477,7 @@
   "figures-resistance_stephane-hessel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53486,7 +53485,7 @@
   "figures-resistance_daniel-cordier": {
    "cx": 0.5,
    "cy": 0.33,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53494,7 +53493,7 @@
   "figures-resistance_jean-cavailles": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53502,7 +53501,7 @@
   "figures-resistance_marc-bloch": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53510,7 +53509,7 @@
   "figures-resistance_olga-bancic": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53526,7 +53525,7 @@
   "figures-resistance_claus-von-stauffenberg": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53534,7 +53533,7 @@
   "figures-resistance_hans-scholl": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53542,7 +53541,7 @@
   "figures-resistance_witold-pilecki": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53558,7 +53557,7 @@
   "figures-resistance_hannie-schaft": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53566,7 +53565,7 @@
   "figures-resistance_nancy-wake": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53574,7 +53573,7 @@
   "figures-resistance_violette-szabo": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53582,7 +53581,7 @@
   "figures-resistance_noor-inayat-khan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53630,7 +53629,7 @@
   "styles-architecturaux_art-roman": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53638,7 +53637,7 @@
   "styles-architecturaux_architecture-gothique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53678,7 +53677,7 @@
   "styles-architecturaux_rococo": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53726,7 +53725,7 @@
   "styles-architecturaux_architecture-victorienne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53734,7 +53733,7 @@
   "styles-architecturaux_art-nouveau": {
    "cx": 0.5,
    "cy": 0.42,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53742,7 +53741,7 @@
   "styles-architecturaux_art-deco": {
    "cx": 0.5,
    "cy": 0.25,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53750,7 +53749,7 @@
   "styles-architecturaux_ecole-de-chicago-architecture": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53758,7 +53757,7 @@
   "styles-architecturaux_style-international": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53774,7 +53773,7 @@
   "styles-architecturaux_brutalisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53790,7 +53789,7 @@
   "styles-architecturaux_deconstructivisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53822,7 +53821,7 @@
   "styles-architecturaux_architecture-japonaise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53966,7 +53965,7 @@
   "grandes-competitions_finales-nba": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54270,7 +54269,7 @@
   "festivals-et-recompenses-cinema_camera-d-or": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54278,7 +54277,7 @@
   "festivals-et-recompenses-cinema_prix-louis-delluc": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54302,7 +54301,7 @@
   "festivals-et-recompenses-cinema_razzie-awards": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54314,6 +54313,55 @@
    "original": true,
    "editeLe": 0,
    "auto": true
+  },
+  "figures-emancipation_jean-moulin": {
+   "cx": 0.493,
+   "cy": 0.5,
+   "w": 0.8889,
+   "editeLe": 1790446189753,
+   "original": true
+  },
+  "figures-emancipation_lucie-aubrac": {
+   "cx": 0.5,
+   "cy": 0.475,
+   "w": 1,
+   "editeLe": 1790446203931,
+   "original": true
+  },
+  "figures-emancipation_missak-manouchian": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7356,
+   "editeLe": 1790446222740,
+   "original": true
+  },
+  "figures-emancipation_sophie-scholl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790446282859,
+   "original": true
+  },
+  "figures-emancipation_germaine-tillion": {
+   "cx": 0.5,
+   "cy": 0.4238,
+   "w": 1,
+   "editeLe": 1790446335429,
+   "original": true
+  },
+  "figures-emancipation_irena-sendler": {
+   "cx": 0.5,
+   "cy": 0.4626,
+   "w": 1,
+   "editeLe": 1790446339456,
+   "original": true
+  },
+  "monuments-emblematiques_bauhaus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8892,
+   "editeLe": 1790414058476,
+   "original": true
   }
  },
  "notes": [

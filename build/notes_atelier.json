@@ -48232,10 +48232,9 @@
   "montagnes-et-volcans_tambora": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8865,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790495911746,
+   "original": true
   },
   "montagnes-et-volcans_merapi": {
    "cx": 0.5,
@@ -48262,12 +48261,11 @@
    "auto": true
   },
   "montagnes-et-volcans_huascaran": {
-   "cx": 0.5,
+   "cx": 0.5554,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790495915823,
+   "original": true
   },
   "montagnes-et-volcans_mont-roraima": {
    "cx": 0.5,

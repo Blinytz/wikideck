@@ -42462,11 +42462,10 @@
   },
   "oeuvres-musicales_te-deum-charpentier": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3893,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790499200914,
+   "original": true
   },
   "oeuvres-musicales_tafelmusik-telemann": {
    "cx": 0.5,

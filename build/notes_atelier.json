@@ -35725,11 +35725,10 @@
   },
   "realisateurs_buster-keaton": {
    "cx": 0.5,
-   "cy": 0.5266,
+   "cy": 0.4971,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790525016511,
+   "original": true
   },
   "realisateurs_fritz-lang": {
    "cx": 0.5,

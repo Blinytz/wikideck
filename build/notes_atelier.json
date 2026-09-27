@@ -38168,11 +38168,10 @@
   },
   "mythologie-finnoise_kantele": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3322,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790529182456,
+   "original": true
   },
   "mythologie-nordique_hod": {
    "cx": 0.3811,
@@ -53157,10 +53156,9 @@
   "grandes-competitions_tour-de-france": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1790529186092,
+   "original": true
   },
   "grandes-competitions_tour-d-italie": {
    "cx": 0.5,

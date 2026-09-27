@@ -47798,10 +47798,9 @@
   "iles_ellis-island": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790513818466,
+   "original": true
   },
   "iles_ile-du-diable": {
    "cx": 0.5,

@@ -36476,11 +36476,10 @@
   },
   "oeuvres-litteraires_les-liaisons-dangereuses": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5531,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790526874229,
+   "original": true
   },
   "oeuvres-litteraires_les-miserables": {
    "cx": 0.5,

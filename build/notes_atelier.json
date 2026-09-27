@@ -52805,12 +52805,11 @@
    "original": true
   },
   "figures-resistance_marc-bloch": {
-   "cx": 0.5,
+   "cx": 0.4987,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790529802173,
+   "original": true
   },
   "figures-resistance_olga-bancic": {
    "cx": 0.5,

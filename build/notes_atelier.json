@@ -51892,11 +51892,10 @@
   },
   "conquete-spatiale_galileo-sonde-spatiale": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4703,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516839939,
+   "original": true
   },
   "conquete-spatiale_juno-sonde-spatiale": {
    "cx": 0.5,

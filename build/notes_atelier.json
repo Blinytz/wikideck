@@ -51859,17 +51859,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516792059,
+   "original": true
   },
   "conquete-spatiale_viking-1": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790516795329,
+   "original": true
   },
   "conquete-spatiale_mars-pathfinder": {
    "cx": 0.5,

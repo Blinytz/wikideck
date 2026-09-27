@@ -43859,12 +43859,11 @@
    "original": true
   },
   "series-televisees_les-revenants-serie-televisee": {
-   "cx": 0.5,
+   "cx": 0.4876,
    "cy": 0.5,
    "w": 0.8008,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522971705,
+   "original": true
   },
   "series-televisees_plus-belle-la-vie": {
    "cx": 0.5,
@@ -52666,9 +52665,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790522974564,
+   "original": true
   },
   "langues-du-monde_catalan": {
    "cx": 0.5,

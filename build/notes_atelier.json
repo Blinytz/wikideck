@@ -36848,11 +36848,10 @@
   },
   "oeuvres-litteraires_a-la-recherche-du-temps-perdu": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3327,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790527089240,
+   "original": true
   },
   "oeuvres-litteraires_le-cid-corneille": {
    "cx": 0.5,

@@ -38355,11 +38355,10 @@
   },
   "objets-mythiques_ankh": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5306,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702624885,
+   "original": true
   },
   "objets-mythiques_talaria": {
    "cx": 0.5,

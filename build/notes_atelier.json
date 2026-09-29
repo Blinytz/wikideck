@@ -36921,25 +36921,22 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702832982,
+   "original": true
   },
   "fromages_langres-fromage": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702835021,
+   "original": true
   },
   "fromages_coulommiers-fromage": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8854,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702837235,
+   "original": true
   },
   "fromages_brillat-savarin-fromage": {
    "cx": 0.5,

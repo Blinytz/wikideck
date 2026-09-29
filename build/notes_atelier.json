@@ -52128,12 +52128,11 @@
    "auto": true
   },
   "langues-du-monde_vieux-norrois": {
-   "cx": 0.5,
+   "cx": 0.3279,
    "cy": 0.5,
    "w": 0.505,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790713835248,
+   "original": true
   },
   "langues-du-monde_lineaire-b": {
    "cx": 0.5,

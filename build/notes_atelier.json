@@ -37530,19 +37530,17 @@
   },
   "dieux-et-figures-mythologiques-grecques_cyclope": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4251,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702548546,
+   "original": true
   },
   "dieux-et-figures-mythologiques-grecques_gorgones": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7478,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702551411,
+   "original": true
   },
   "dieux-et-figures-mythologiques-grecques_satyre": {
    "cx": 0.5,
@@ -39667,11 +39665,10 @@
   },
   "auteurs-classiques_robert-louis-stevenson": {
    "cx": 0.5,
-   "cy": 0.4441,
+   "cy": 0.3958,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702555445,
+   "original": true
   },
   "auteurs-classiques_hans-christian-andersen": {
    "cx": 0.5,

@@ -51400,12 +51400,11 @@
    "original": true
   },
   "conquete-spatiale_saliout-1": {
-   "cx": 0.5,
+   "cx": 0.5459,
    "cy": 0.5,
    "w": 0.9081,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702969346,
+   "original": true
   },
   "conquete-spatiale_ok-1-01": {
    "cx": 0.5,
@@ -51425,9 +51424,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702971844,
+   "original": true
   },
   "conquete-spatiale_accident-de-la-navette-spatiale-columbia": {
    "cx": 0.5,

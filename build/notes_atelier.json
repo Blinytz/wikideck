@@ -46926,12 +46926,11 @@
    "original": true
   },
   "villes-du-monde_hong-kong": {
-   "cx": 0.5,
+   "cx": 0.4446,
    "cy": 0.5,
    "w": 0.8892,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702848100,
+   "original": true
   },
   "villes-du-monde_osaka": {
    "cx": 0.5,
@@ -47528,9 +47527,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702852894,
+   "original": true
   },
   "montagnes-et-volcans_chimborazo-volcan": {
    "cx": 0.5,

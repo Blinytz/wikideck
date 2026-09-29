@@ -37202,9 +37202,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8866,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702558478,
+   "original": true
   },
   "creatures-prehistoriques_basilosaurus": {
    "cx": 0.5,
@@ -51704,11 +51703,10 @@
   },
   "inventions-importantes_ordinateur": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.519,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702562261,
+   "original": true
   },
   "inventions-importantes_acide-acetylsalicylique": {
    "cx": 0.5,

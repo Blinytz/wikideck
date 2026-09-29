@@ -52669,11 +52669,10 @@
   },
   "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5162,
+   "w": 1,
+   "editeLe": 1790702956130,
+   "original": true
   },
   "figures-resistance_raymond-aubrac": {
    "cx": 0.5,

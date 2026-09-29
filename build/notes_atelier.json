@@ -45054,12 +45054,11 @@
    "original": true
   },
   "disciplines-sportives_petanque": {
-   "cx": 0.5,
+   "cx": 0.5523,
    "cy": 0.5,
    "w": 0.7611,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790714170699,
+   "original": true
   },
   "disciplines-sportives_billard": {
    "cx": 0.5,

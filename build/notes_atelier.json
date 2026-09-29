@@ -44634,20 +44634,18 @@
    "original": true
   },
   "jeux-de-societe_yahtzee": {
-   "cx": 0.5,
+   "cx": 0.625,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.75,
+   "editeLe": 1790714138810,
+   "original": true
   },
   "jeux-de-societe_jenga": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790714142999,
+   "original": true
   },
   "jeux-de-societe_bataille-navale-jeu": {
    "cx": 0.5,

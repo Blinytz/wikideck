@@ -37790,9 +37790,8 @@
    "cx": 0.5,
    "cy": 0.35,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702590332,
+   "original": true
   },
   "mythologies-asie-est_guan-yu": {
    "cx": 0.5,
@@ -37811,11 +37810,10 @@
   },
   "mythologies-asie-est_mazu": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.457,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790702595345,
+   "original": true
   },
   "mythologies-asie-est_nian": {
    "cx": 0.5,

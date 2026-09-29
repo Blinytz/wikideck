@@ -1,0 +1,1260 @@
+{
+ "oeuvres-musicales_symphonie-no-9-de-beethoven": {
+  "qid": "Q11989",
+  "P571": [
+   "1824"
+  ],
+  "P577": [
+   "1826"
+  ],
+  "P527": [
+   "I. Allegro ma non troppo, un poco maestoso",
+   "II. Scherzo. Molto vivace – Presto",
+   "III. Adagio molto e cantabile",
+   "IV. Finale"
+  ]
+ },
+ "oeuvres-musicales_le-sacre-du-printemps": {
+  "qid": "Q206015",
+  "P170": [
+   "Sidney Nolan"
+  ],
+  "P571": [
+   "1913"
+  ]
+ },
+ "oeuvres-musicales_les-quatre-saisons": {
+  "qid": "Q12016",
+  "P135": [
+   "musique baroque"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1725"
+  ],
+  "P136": [
+   "concerto"
+  ],
+  "P527": [
+   "Concertos. Violon, orchestre à cordes, basse continue. RV 269. Mi majeur",
+   "Concertos. Violon, orchestre à cordes, basse continue. RV 315. Sol mineur",
+   "Concertos. Violon, orchestre à cordes, basse continue. RV 293. Fa majeur",
+   "Concertos. Violon, orchestre à cordes, basse continue. RV 297. Fa mineur"
+  ]
+ },
+ "oeuvres-musicales_rhapsody-in-blue": {
+  "qid": "Q722599",
+  "P577": [
+   "1924"
+  ],
+  "P136": [
+   "musique classique",
+   "rhapsodie"
+  ]
+ },
+ "oeuvres-musicales_bolero-ravel": {
+  "qid": "Q327331",
+  "P571": [
+   "1928"
+  ],
+  "P577": [
+   "1929"
+  ],
+  "P136": [
+   "boléro"
+  ]
+ },
+ "oeuvres-musicales_requiem-mozart": {
+  "qid": "Q207875",
+  "P571": [
+   "1791"
+  ],
+  "P577": [
+   "1792"
+  ]
+ },
+ "oeuvres-musicales_la-flute-enchantee": {
+  "qid": "Q5064",
+  "P571": [
+   "1791"
+  ],
+  "P495": [
+   "archiduché d'Autriche"
+  ],
+  "P577": [
+   "1800"
+  ],
+  "P136": [
+   "singspiel",
+   "opéra"
+  ],
+  "P527": [
+   "In diesen heil'gen Hallen",
+   "Der Vogelfänger bin ich ja",
+   "Der Hölle Rache kocht in meinem Herzen",
+   "O zittre nicht, mein lieber Sohn",
+   "Dies Bildnis ist bezaubernd schön"
+  ]
+ },
+ "oeuvres-musicales_les-noces-de-figaro": {
+  "qid": "Q201873",
+  "P571": [
+   "1785"
+  ],
+  "P577": [
+   "1785"
+  ],
+  "P136": [
+   "opéra-bouffe",
+   "opéra"
+  ],
+  "P527": [
+   "Overture (The Marriage of Figaro)",
+   "Non più andrai",
+   "Se vuol ballare, signor contino",
+   "Voi che sapete"
+  ]
+ },
+ "oeuvres-musicales_don-giovanni": {
+  "qid": "Q192039",
+  "P571": [
+   "1787"
+  ],
+  "P577": [
+   "1787"
+  ],
+  "P136": [
+   "dramma giocoso",
+   "opéra"
+  ],
+  "P527": [
+   "Madamina, il catalogo è questo",
+   "Batti, batti, o bel Masetto",
+   "Fin ch' han dal vino",
+   "Là ci darem la mano",
+   "Deh! vieni alla finestra",
+   "Don Giovanni, a cenar teco"
+  ]
+ },
+ "oeuvres-musicales_carmen-opera": {
+  "qid": "Q185968",
+  "P571": [
+   "1875"
+  ],
+  "P50": [
+   "Georges Bizet"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra-comique",
+   "opéra",
+   "opéra français"
+  ],
+  "P527": [
+   "L'amour est un oiseau rebelle",
+   "Couplets du toréador"
+  ]
+ },
+ "oeuvres-musicales_la-traviata": {
+  "qid": "Q186162",
+  "P571": [
+   "1852"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1900"
+  ],
+  "P136": [
+   "tragédie",
+   "opéra"
+  ],
+  "P527": [
+   "Libiamo ne' lieti calici"
+  ]
+ },
+ "oeuvres-musicales_aida": {
+  "qid": "Q171277",
+  "P571": [
+   "1871"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P136": [
+   "opéra"
+  ],
+  "P527": [
+   "Celeste Aida"
+  ]
+ },
+ "oeuvres-musicales_nabucco": {
+  "qid": "Q202230",
+  "P571": [
+   "1841"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1841"
+  ],
+  "P136": [
+   "opéra"
+  ],
+  "P527": [
+   "Va, pensiero",
+   "Q3700141"
+  ]
+ },
+ "oeuvres-musicales_le-barbier-de-seville-rossini": {
+  "qid": "Q208659",
+  "P571": [
+   "1816"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1815"
+  ],
+  "P136": [
+   "opéra-bouffe",
+   "opéra"
+  ],
+  "P527": [
+   "Una voce poco fa",
+   "Largo al factotum",
+   "Ecco ridente in cielo",
+   "La calunnia è un venticello"
+  ]
+ },
+ "oeuvres-musicales_tosca": {
+  "qid": "Q192941",
+  "P571": [
+   "1898"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1900"
+  ],
+  "P136": [
+   "opéra"
+  ],
+  "P527": [
+   "Recondita armonia",
+   "Vissi d'arte",
+   "E lucevan le stelle"
+  ]
+ },
+ "oeuvres-musicales_la-boheme": {
+  "qid": "Q188621",
+  "P571": [
+   "1896"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra"
+  ],
+  "P527": [
+   "Che gelida manina",
+   "Mi chiamano Mimì",
+   "Quando me'n vo'",
+   "Donde lieta usci",
+   "Vecchia zimarra"
+  ]
+ },
+ "oeuvres-musicales_l-anneau-du-nibelung": {
+  "qid": "Q190237",
+  "P170": [
+   "Richard Wagner"
+  ],
+  "P571": [
+   "1848",
+   "1874"
+  ],
+  "P495": [
+   "Confédération germanique"
+  ],
+  "P50": [
+   "Richard Wagner"
+  ],
+  "P527": [
+   "L'Or du Rhin",
+   "La Walkyrie",
+   "Siegfried",
+   "Le Crépuscule des dieux"
+  ]
+ },
+ "oeuvres-musicales_tristan-und-isolde": {
+  "qid": "Q1324254",
+  "P571": [
+   "1857"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_casse-noisette": {
+  "qid": "Q193705",
+  "P571": [
+   "1892"
+  ],
+  "P50": [
+   "Piotr Ilitch Tchaïkovski"
+  ],
+  "P136": [
+   "ballet-féerie"
+  ],
+  "P527": [
+   "Nutcracker Suite",
+   "Trépak (Danse russe)",
+   "Valse des fleurs",
+   "Grand pas de deux",
+   "Valse des flocons de neige"
+  ]
+ },
+ "oeuvres-musicales_le-lac-des-cygnes": {
+  "qid": "Q199786",
+  "P135": [
+   "musique romantique"
+  ],
+  "P136": [
+   "ballet"
+  ]
+ },
+ "oeuvres-musicales_la-belle-au-bois-dormant-ballet": {
+  "qid": "Q838051"
+ },
+ "oeuvres-musicales_messiah": {
+  "qid": "Q207732",
+  "P571": [
+   "1741"
+  ],
+  "P577": [
+   "1767"
+  ],
+  "P136": [
+   "oratorio"
+  ],
+  "P527": [
+   "Messiah Part I",
+   "Messiah Part II",
+   "Messiah Part III"
+  ]
+ },
+ "oeuvres-musicales_water-music": {
+  "qid": "Q278596",
+  "P495": [
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "oeuvres-musicales_symphonie-no-9-de-dvorak": {
+  "qid": "Q11985",
+  "P571": [
+   "1893"
+  ],
+  "P577": [
+   "1894"
+  ]
+ },
+ "oeuvres-musicales_suite-bergamasque": {
+  "qid": "Q1367599",
+  "P135": [
+   "impressionnisme"
+  ],
+  "P571": [
+   "1905"
+  ],
+  "P577": [
+   "1905"
+  ],
+  "P527": [
+   "Prélude",
+   "Menuet",
+   "Clair de lune",
+   "Passepied"
+  ]
+ },
+ "oeuvres-musicales_prelude-a-l-apres-midi-d-un-faune": {
+  "qid": "Q1471875",
+  "P135": [
+   "impressionnisme"
+  ],
+  "P571": [
+   "1892"
+  ],
+  "P577": [
+   "1894"
+  ]
+ },
+ "oeuvres-musicales_gymnopedies-satie": {
+  "qid": "Q1190965",
+  "P135": [
+   "impressionnisme"
+  ],
+  "P527": [
+   "Gymnopédie No. 1",
+   "Gymnopédie No. 2",
+   "Gymnopédie No. 3"
+  ]
+ },
+ "oeuvres-musicales_pierre-et-le-loup": {
+  "qid": "Q677403",
+  "P170": [
+   "Serge Prokofiev"
+  ],
+  "P50": [
+   "Serge Prokofiev"
+  ],
+  "P577": [
+   "1936"
+  ]
+ },
+ "oeuvres-musicales_le-beau-danube-bleu": {
+  "qid": "Q482621",
+  "P571": [
+   "1866"
+  ],
+  "P136": [
+   "valse de concert"
+  ]
+ },
+ "oeuvres-musicales_ave-maria-schubert": {
+  "qid": "Q1331995",
+  "P495": [
+   "empire d'Autriche"
+  ],
+  "P577": [
+   "1825"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "oeuvres-musicales_carmina-burana-cantate": {
+  "qid": "Q253716",
+  "P527": [
+   "O Fortuna"
+  ]
+ },
+ "oeuvres-musicales_symphonie-fantastique": {
+  "qid": "Q462313",
+  "P571": [
+   "1830"
+  ],
+  "P577": [
+   "1845"
+  ],
+  "P136": [
+   "programmatic symphony"
+  ]
+ },
+ "oeuvres-musicales_romeo-et-juliette-ballet": {
+  "qid": "Q911487",
+  "P571": [
+   "1935"
+  ]
+ },
+ "oeuvres-musicales_rhapsodies-hongroises": {
+  "qid": "Q922805",
+  "P136": [
+   "rhapsodie"
+  ],
+  "P527": [
+   "Hungarian Rhapsody No. 1",
+   "Rhapsodie hongroise nº 2 de Liszt",
+   "Hungarian Rhapsody No. 3",
+   "Hungarian Rhapsody No. 4",
+   "Hungarian Rhapsody No. 5",
+   "Hungarian Rhapsody No. 6",
+   "Hungarian Rhapsody No. 7",
+   "Hungarian Rhapsody No. 8",
+   "Hungarian Rhapsody No. 9",
+   "Hungarian Rhapsody No. 10",
+   "Hungarian Rhapsody No. 11",
+   "Hungarian Rhapsody No. 12",
+   "Hungarian Rhapsody No. 13",
+   "Hungarian Rhapsody No. 14",
+   "Hungarian Rhapsody No. 15",
+   "Hungarian Rhapsody No. 16",
+   "Hungarian Rhapsody No. 17",
+   "Hungarian Rhapsody No. 18",
+   "Rhapsodie hongroise nº 19 de Liszt"
+  ]
+ },
+ "oeuvres-musicales_ainsi-parlait-zarathoustra-strauss": {
+  "qid": "Q35720",
+  "P495": [
+   "royaume de Prusse"
+  ],
+  "P577": [
+   "1896"
+  ],
+  "P136": [
+   "poème symphonique"
+  ]
+ },
+ "oeuvres-musicales_adagio-pour-cordes": {
+  "qid": "Q346715",
+  "P577": [
+   "1936"
+  ],
+  "P136": [
+   "musique savante"
+  ]
+ },
+ "oeuvres-musicales_le-carnaval-des-animaux": {
+  "qid": "Q941724",
+  "P571": [
+   "1886"
+  ],
+  "P527": [
+   "Marche royale du lion",
+   "Le Cygne"
+  ]
+ },
+ "oeuvres-musicales_nocturnes-de-chopin": {
+  "qid": "Q769763",
+  "P527": [
+   "Nocturnes Op. 9",
+   "Nocturnes Op. 15",
+   "Nocturnes Op. 27",
+   "Nocturnes, opus 32",
+   "Nocturnes, opus 37",
+   "Nocturnes, opus 48",
+   "Nocturnes, opus 55",
+   "Nocturnes, Op. 62",
+   "Nocturne, opus 72",
+   "Nocturne nº 20 en do dièse mineur",
+   "Nocturne No. 21 in C minor, Op. posth."
+  ]
+ },
+ "oeuvres-musicales_toccata-et-fugue-en-re-mineur": {
+  "qid": "Q392734",
+  "P135": [
+   "musique baroque"
+  ],
+  "P571": [
+   "1700"
+  ]
+ },
+ "oeuvres-musicales_messe-en-si-mineur": {
+  "qid": "Q310549",
+  "P135": [
+   "musique baroque"
+  ]
+ },
+ "oeuvres-musicales_l-orfeo": {
+  "qid": "Q724008",
+  "P571": [
+   "1607"
+  ],
+  "P495": [
+   "duché de Mantoue"
+  ],
+  "P136": [
+   "favola in musica"
+  ]
+ },
+ "oeuvres-musicales_symphonie-no-94-de-joseph-haydn": {
+  "qid": "Q276768"
+ },
+ "oeuvres-musicales_scenes-d-enfants-de-schumann": {
+  "qid": "Q1569982",
+  "P571": [
+   "1838"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P527": [
+   "Träumerei"
+  ]
+ },
+ "oeuvres-musicales_danses-hongroises": {
+  "qid": "Q1065126"
+ },
+ "oeuvres-musicales_symphonie-no-5-de-mahler": {
+  "qid": "Q240240",
+  "P577": [
+   "1904"
+  ]
+ },
+ "oeuvres-musicales_concerto-pour-piano-no-2-de-rachmaninov": {
+  "qid": "Q210224",
+  "P136": [
+   "concerto pour piano"
+  ],
+  "P527": [
+   "1. Moderato",
+   "2. Adagio sostenuto",
+   "3. Allegro scherzando"
+  ]
+ },
+ "oeuvres-musicales_symphonie-no-7-de-chostakovitch": {
+  "qid": "Q261140",
+  "P571": [
+   "1941"
+  ],
+  "P495": [
+   "Union soviétique"
+  ],
+  "P577": [
+   "1941"
+  ],
+  "P136": [
+   "symphonie"
+  ]
+ },
+ "oeuvres-musicales_le-chateau-de-barbe-bleue": {
+  "qid": "Q249749",
+  "P571": [
+   "1911"
+  ]
+ },
+ "oeuvres-musicales_pierrot-lunaire": {
+  "qid": "Q965040",
+  "P577": [
+   "1912"
+  ],
+  "P136": [
+   "mélologue"
+  ]
+ },
+ "oeuvres-musicales_appalachian-spring-ballet": {
+  "qid": "Q620638",
+  "P571": [
+   "1943"
+  ]
+ },
+ "oeuvres-musicales_quatuor-pour-la-fin-du-temps": {
+  "qid": "Q1683795",
+  "P577": [
+   "1941"
+  ]
+ },
+ "oeuvres-musicales_4-33": {
+  "qid": "Q12030",
+  "P571": [
+   "1952"
+  ],
+  "P136": [
+   "avant-garde"
+  ],
+  "P186": [
+   "silence"
+  ]
+ },
+ "oeuvres-musicales_einstein-on-the-beach": {
+  "qid": "Q2291287",
+  "P170": [
+   "Philip Glass"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P577": [
+   "2000"
+  ],
+  "P136": [
+   "biographie",
+   "musique minimaliste"
+  ]
+ },
+ "oeuvres-musicales_music-for-18-musicians": {
+  "qid": "Q2714697",
+  "P136": [
+   "musique minimaliste"
+  ]
+ },
+ "oeuvres-musicales_les-indes-galantes": {
+  "qid": "Q583297",
+  "P135": [
+   "musique baroque française"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1800"
+  ]
+ },
+ "oeuvres-musicales_dido-and-neas": {
+  "qid": "Q746646",
+  "P135": [
+   "musique baroque"
+  ],
+  "P571": [
+   "1688"
+  ],
+  "P495": [
+   "royaume d'Angleterre"
+  ],
+  "P136": [
+   "opéra"
+  ],
+  "P527": [
+   "Complainte de Didon"
+  ]
+ },
+ "oeuvres-musicales_sonates-pour-clavier-de-domenico-scarlatti": {
+  "qid": "Q2415093"
+ },
+ "oeuvres-musicales_orphee-et-eurydice-gluck": {
+  "qid": "Q723776",
+  "P571": [
+   "1762"
+  ],
+  "P577": [
+   "1800"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_requiem-faure": {
+  "qid": "Q1811459"
+ },
+ "oeuvres-musicales_symphonie-en-re-mineur-de-franck": {
+  "qid": "Q3051430",
+  "P571": [
+   "1888"
+  ]
+ },
+ "oeuvres-musicales_tableaux-d-une-exposition": {
+  "qid": "Q724981",
+  "P577": [
+   "1874"
+  ]
+ },
+ "oeuvres-musicales_scheherazade-rimski-korsakov": {
+  "qid": "Q171405"
+ },
+ "oeuvres-musicales_finlandia-poeme-symphonique": {
+  "qid": "Q644152",
+  "P571": [
+   "1900"
+  ]
+ },
+ "oeuvres-musicales_peer-gynt-suites-orchestrales": {
+  "qid": "Q3920286",
+  "P571": [
+   "1875"
+  ],
+  "P577": [
+   "1875"
+  ]
+ },
+ "oeuvres-musicales_orphee-aux-enfers": {
+  "qid": "Q1137065",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra bouffon",
+   "opéra bouffe",
+   "opérette"
+  ]
+ },
+ "oeuvres-musicales_symphonie-no-7-de-bruckner": {
+  "qid": "Q260988",
+  "P577": [
+   "1885"
+  ]
+ },
+ "oeuvres-musicales_concerto-pour-violon-no-2-de-mendelssohn": {
+  "qid": "Q1054060",
+  "P135": [
+   "musique romantique"
+  ],
+  "P571": [
+   "1844"
+  ],
+  "P577": [
+   "1845"
+  ]
+ },
+ "oeuvres-musicales_libertango": {
+  "qid": "Q1073405",
+  "P577": [
+   "1974"
+  ],
+  "P136": [
+   "tango nuevo",
+   "jazz fusion"
+  ]
+ },
+ "oeuvres-musicales_take-the-a-train": {
+  "qid": "Q1692496",
+  "P577": [
+   "1941"
+  ],
+  "P136": [
+   "jazz"
+  ]
+ },
+ "oeuvres-musicales_maple-leaf-rag": {
+  "qid": "Q277463",
+  "P571": [
+   "1897"
+  ],
+  "P577": [
+   "1899"
+  ],
+  "P136": [
+   "ragtime",
+   "piano piece in one movement"
+  ]
+ },
+ "oeuvres-musicales_musique-de-star-wars": {
+  "qid": "Q2061394"
+ },
+ "oeuvres-musicales_messe-de-notre-dame": {
+  "qid": "Q1510075"
+ },
+ "oeuvres-musicales_messe-du-pape-marcel": {
+  "qid": "Q2717291",
+  "P571": [
+   "1567"
+  ],
+  "P136": [
+   "missa sine nomine"
+  ]
+ },
+ "oeuvres-musicales_le-bourgeois-gentilhomme": {
+  "qid": "Q1054372",
+  "P135": [
+   "musique baroque"
+  ],
+  "P571": [
+   "1670"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Molière"
+  ],
+  "P577": [
+   "1671"
+  ],
+  "P136": [
+   "comédie-ballet"
+  ]
+ },
+ "oeuvres-musicales_les-barricades-mysterieuses": {
+  "qid": "Q3230958",
+  "P577": [
+   "1717"
+  ]
+ },
+ "oeuvres-musicales_te-deum-charpentier": {
+  "qid": "Q11704258",
+  "P571": [
+   "1695"
+  ],
+  "P577": [
+   "1957"
+  ]
+ },
+ "oeuvres-musicales_tafelmusik-telemann": {
+  "qid": "Q1032362",
+  "P135": [
+   "musique baroque"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P577": [
+   "1733"
+  ],
+  "P136": [
+   "Musique de table"
+  ]
+ },
+ "oeuvres-musicales_canon-de-pachelbel": {
+  "qid": "Q689519",
+  "P135": [
+   "musique baroque"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P136": [
+   "musique de chambre"
+  ]
+ },
+ "oeuvres-musicales_adagio-en-sol-mineur": {
+  "qid": "Q346741",
+  "P577": [
+   "1958"
+  ]
+ },
+ "oeuvres-musicales_stabat-mater-pergolese": {
+  "qid": "Q643347",
+  "P577": [
+   "1736"
+  ]
+ },
+ "oeuvres-musicales_vingt-quatre-caprices-pour-violon-de-paganini": {
+  "qid": "Q1209178",
+  "P577": [
+   "1817"
+  ],
+  "P527": [
+   "Caprice No. 1 in E major",
+   "Caprice No. 2 in B minor",
+   "Caprice No. 3 in E minor",
+   "Caprice No. 4 in C minor",
+   "Caprice No. 5 in A minor",
+   "Caprice No. 6 in G minor",
+   "Caprice No. 7 in A minor",
+   "Caprice No. 8 in E-flat major",
+   "Caprice No. 9 in E major",
+   "Caprice No. 10 in G minor",
+   "Caprice No. 11 in C major",
+   "Caprice No. 11 in A-flat major",
+   "Caprice No. 13 in B-flat major",
+   "Caprice No. 14 in E-flat major",
+   "Caprice No. 15 in E minor",
+   "Caprice No. 16 in G minor",
+   "Caprice n°24"
+  ]
+ },
+ "oeuvres-musicales_lucia-di-lammermoor": {
+  "qid": "Q244209",
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opera seria",
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_norma-opera": {
+  "qid": "Q320353",
+  "P571": [
+   "1831"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opera seria",
+   "tragédie lyrique",
+   "opéra"
+  ],
+  "P527": [
+   "Casta Diva (cavatine)"
+  ]
+ },
+ "oeuvres-musicales_faust-gounod": {
+  "qid": "Q745951",
+  "P577": [
+   "1859"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_manon-opera": {
+  "qid": "Q842063",
+  "P571": [
+   "1884"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra-comique",
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_der-freischutz": {
+  "qid": "Q156435",
+  "P571": [
+   "1817"
+  ],
+  "P577": [
+   "1821",
+   "1850"
+  ],
+  "P136": [
+   "musique romantique",
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_ma-vlast": {
+  "qid": "Q1044709",
+  "P527": [
+   "Vyšehrad",
+   "La Moldau",
+   "Šárka",
+   "Par les prés et les bois de Bohême",
+   "Tábor",
+   "Blaník"
+  ]
+ },
+ "oeuvres-musicales_jenufa": {
+  "qid": "Q1196783",
+  "P571": [
+   "1903"
+  ],
+  "P577": [
+   "2000"
+  ],
+  "P527": [
+   "Jealousy"
+  ]
+ },
+ "oeuvres-musicales_le-prince-igor": {
+  "qid": "Q275354",
+  "P577": [
+   "1850"
+  ],
+  "P527": [
+   "Danses polovtsiennes"
+  ]
+ },
+ "oeuvres-musicales_une-vie-pour-le-tsar": {
+  "qid": "Q94737",
+  "P571": [
+   "1836"
+  ],
+  "P577": [
+   "1850"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "oeuvres-musicales_pomp-and-circumstance": {
+  "qid": "Q1141118",
+  "P577": [
+   "1904"
+  ],
+  "P136": [
+   "marche"
+  ],
+  "P527": [
+   "Pomp and Circumstance March in D Major, Op. 39, No. 1"
+  ]
+ },
+ "oeuvres-musicales_les-planetes": {
+  "qid": "Q303508"
+ },
+ "oeuvres-musicales_war-requiem": {
+  "qid": "Q1889947",
+  "P577": [
+   "1962"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "oeuvres-musicales_l-amour-sorcier": {
+  "qid": "Q2609739",
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "oeuvres-musicales_iberia-albeniz": {
+  "qid": "Q2610275",
+  "P571": [
+   "1900"
+  ],
+  "P577": [
+   "1908"
+  ]
+ },
+ "oeuvres-musicales_concerto-d-aranjuez": {
+  "qid": "Q939989",
+  "P571": [
+   "1939"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P577": [
+   "1940"
+  ]
+ },
+ "oeuvres-musicales_bachianas-brasileiras": {
+  "qid": "Q769353",
+  "P17": [
+   "Brésil"
+  ],
+  "P527": [
+   "Bachianas Brasileiras No. 2",
+   "Bachianas brasileiras n° 5"
+  ]
+ },
+ "oeuvres-musicales_gloria-poulenc": {
+  "qid": "Q4039507",
+  "P577": [
+   "1960"
+  ]
+ },
+ "oeuvres-musicales_le-marteau-sans-maitre": {
+  "qid": "Q3224331",
+  "P50": [
+   "René Char"
+  ],
+  "P577": [
+   "1934"
+  ]
+ },
+ "oeuvres-musicales_ionisation-varese": {
+  "qid": "Q4949544",
+  "P571": [
+   "1931"
+  ],
+  "P577": [
+   "1957"
+  ]
+ },
+ "oeuvres-musicales_wozzeck": {
+  "qid": "Q45784",
+  "P170": [
+   "Jan Lenica"
+  ],
+  "P571": [
+   "1914"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P577": [
+   "1925"
+  ],
+  "P136": [
+   "expressionnisme musical"
+  ]
+ },
+ "oeuvres-musicales_gesang-der-junglinge": {
+  "qid": "Q1129735",
+  "P136": [
+   "musique électronique"
+  ]
+ },
+ "oeuvres-musicales_threne-a-la-memoire-des-victimes-d-hiroshima": {
+  "qid": "Q2571069",
+  "P577": [
+   "1960"
+  ]
+ },
+ "oeuvres-musicales_west-side-story": {
+  "qid": "Q669010",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "I Have a Love",
+   "One Hand, One Heart",
+   "Something's Coming",
+   "Maria",
+   "Tonight",
+   "America",
+   "Cool",
+   "Tonight Quintet",
+   "I Feel Pretty",
+   "Somewhere",
+   "Gee, Officer Krupke",
+   "A Boy Like That"
+  ]
+ },
+ "oeuvres-musicales_l-opera-de-quat-sous": {
+  "qid": "Q212495",
+  "P571": [
+   "1928"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P50": [
+   "Bertolt Brecht",
+   "Elisabeth Hauptmann"
+  ],
+  "P577": [
+   "1931",
+   "1928"
+  ],
+  "P136": [
+   "comédie"
+  ],
+  "P527": [
+   "Seeräuberjenny"
+  ]
+ },
+ "oeuvres-musicales_les-chariots-de-feu-bande-originale": {
+  "qid": "Q922474",
+  "P577": [
+   "1981"
+  ],
+  "P136": [
+   "musique de film",
+   "musique de scène ou d'écran"
+  ]
+ },
+ "oeuvres-musicales_concerto-pour-piano-de-clara-schumann": {
+  "qid": "Q11331302",
+  "P571": [
+   "1836"
+  ],
+  "P577": [
+   "1837"
+  ]
+ },
+ "oeuvres-musicales_das-jahr-fanny-mendelssohn": {
+  "qid": "Q56304566",
+  "P571": [
+   "1841"
+  ],
+  "P577": [
+   "1841"
+  ]
+ },
+ "oeuvres-musicales_psaume-24-boulanger": {
+  "qid": "Q122413727"
+ },
+ "oeuvres-musicales_spiegel-im-spiegel": {
+  "qid": "Q517901",
+  "P577": [
+   "1978"
+  ],
+  "P136": [
+   "style tintinnabuli"
+  ]
+ },
+ "oeuvres-musicales_the-ecstasy-of-gold": {
+  "qid": "Q2468061",
+  "P577": [
+   "1966"
+  ],
+  "P136": [
+   "musique de film"
+  ]
+ }
+}

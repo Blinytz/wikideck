@@ -23,6 +23,8 @@ Usage : python iles_maps.py [--apercu] [<nom de carte>...]
 import io, re, sys, json, time, urllib.parse
 from pathlib import Path
 import numpy as np
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import planisphere
 from PIL import Image, ImageDraw, ImageFilter
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -36,7 +38,7 @@ VW, VH, ECHELLE = 2000, 1300, 2
 # boutons et du logo
 ZONE = (540, 90, 1900, 1200)     # fenetre en px CSS, rendue au double
 MARGE = 80                          # px CSS rognes au bord (boutons, recherche)
-PART_VISEE = (0.28, 0.5)           # place du contour dans la zone utile
+PART_VISEE = (0.5, 0.64)           # place du contour dans la zone utile
 DEZOOM_ENCART = 4
 
 
@@ -232,8 +234,8 @@ def composer(gros, encart, ile=None):
     im = gros.copy()
     W, H = im.size
     cw, ch = int(W * 0.8), int(H * 0.8)          # ce que la carte montre
-    ew = int(cw * 0.36)
-    e = encart.resize((ew, ew * 3 // 4), Image.LANCZOS)
+    ew = int(cw * 0.34)
+    e = encart.resize((ew, round(ew * encart.height / encart.width)), Image.LANCZOS)
     gx, gy = (W - cw) // 2 + int(cw * 0.025), (H - ch) // 2 + int(ch * 0.03)
     dx, dy = (W + cw) // 2 - int(cw * 0.025) - e.width, (H + ch) // 2 - int(ch * 0.03) - e.height
     coins = [(gx, dy), (dx, dy), (gx, gy), (dx, gy)]   # bas gauche d'abord
@@ -271,10 +273,14 @@ REQUETES = {'Îles Kerguelen': 'Grande Terre Kerguelen', 'Île Pitcairn': 'Pitca
 
 # Iles que la recherche cadre mal (archipel epars, pas de contour, fiche
 # pointee sur un lieu-dit) : centre et zoom donnes a la main.
-COORDS = {'Groenland': (72.0, -41.0, 4.2), 'Île Maurice': (-20.28, 57.57, 10.4),
-          'Palaos': (7.45, 134.55, 9.6), 'Maldives': (3.4, 73.35, 7.3),
-          'Seychelles': (-4.62, 55.48, 10.6), 'Pitcairn': (-25.066, -130.1, 14.6),
-          'Zanzibar': (-6.12, 39.38, 9.6), 'Fidji': (-17.75, 178.3, 8.2)}
+COORDS = {'Groenland': (71.0, -42.0, 3.75), 'Île Maurice': (-20.25, 57.57, 10.9),
+          'Palaos': (7.45, 134.55, 10.2), 'Maldives': (3.2, 73.3, 7.4),
+          'Seychelles': (-4.5, 55.6, 10.3), 'Pitcairn': (-25.066, -130.1, 14.6),
+          'Zanzibar': (-6.1, 39.35, 10.2), 'Fidji': (-17.6, 178.2, 8.6),
+          'Bikini': (11.6, 165.52, 11.55), 'Comores': (-12.3, 44.1, 8.5),
+          'Îles Marquises': (-9.4, -139.7, 8.7), 'Madère': (32.87, -16.7, 9.5),
+          'Açores': (38.55, -28.0, 7.4), 'Île de Gorée': (14.6672, -17.3985, 16.4),
+          'Galápagos': (-0.65, -90.55, 8.5)}
 
 
 def requete_de(c):
@@ -311,50 +317,33 @@ def main():
                 nettoyer(pg)
                 url = pg.url
                 im = capture(pg)
+                zc = ((ZONE[0] + ZONE[2]) / 2 * ECHELLE, (ZONE[1] + ZONE[3]) / 2 * ECHELLE)
+                # la vue est centree sur la fenetre, pas sur la zone utile
                 ile = (VW / 2 * ECHELLE, VH / 2 * ECHELLE)
-                h = 2 * (VW / 2 - ZONE[0]) * ECHELLE * 3 / 4 - 20   # symetrique autour du centre
-                gros, _ = recadrer(im, ile, h)
-                ile_gros = None
-                molette(pg, VW / 2, VH / 2, -DEZOOM_ENCART)
-                boite = True
-                pos = ile
+                gros, _ = recadrer(im, ile, 2 * (VW / 2 - ZONE[0]) * ECHELLE * 3 / 4 - 20)
+                ile_gros, boite = None, True
+                lat, lng = direct[0], direct[1]
             elif not chercher(pg, requete_de(c)):
                 print(f"  ✗ {c['nom']} : lieu introuvable ({pg.url[:70]})")
                 continue
-            if not direct:
-              url = pg.url
-              im, boite = cadrer(pg)
-              zone_c = ((ZONE[0] + ZONE[2]) / 2 * ECHELLE, (ZONE[1] + ZONE[3]) / 2 * ECHELLE)
-              if boite:
-                  ile = ((boite[0] + boite[2]) / 2, (boite[1] + boite[3]) / 2)
-                  bw, bh = boite[2] - boite[0], boite[3] - boite[1]
-                  taille = max(bh / 0.5, bw / 0.5 * 3 / 4)        # l'ile ~50 % du cadre : de la mer autour, et la place de l'encart
-              else:
-                  ile, taille = zone_c, None
-              gros, (gx0, gy0) = recadrer(im, ile, taille)
-              ile_gros = (boite[0] - gx0, boite[1] - gy0, boite[2] - gx0, boite[3] - gy0) if boite else None
-              # encart : quatre crans plus loin, a la molette pointee sur l'ile,
-              # qui reste donc au meme endroit de l'ecran
-              molette(pg, ile[0] / ECHELLE, ile[1] / ECHELLE, -DEZOOM_ENCART)
-              pos = ile
-            h_encart = h if direct else None
-            nettoyer(pg)
-            loin = capture(pg)
-            # ile isolee : tant que l'encart n'est que de l'eau, on recule
-            for _ in range(9):
-                zone, _ = recadrer(loin, pos, h_encart)
-                a = np.asarray(zone.resize((200, 150))).astype(int)
-                eau = (abs(a[..., 0] - 144) < 30) & (abs(a[..., 1] - 212) < 30) & (abs(a[..., 2] - 232) < 30)
-                if 1 - eau.mean() > 0.08:
-                    break
-                molette(pg, pos[0] / ECHELLE, pos[1] / ECHELLE, -1)
-                nettoyer(pg)
-                loin = capture(pg)
-            encart, (ex0, ey0) = recadrer(loin, pos, h_encart)
-            d = ImageDraw.Draw(encart)
-            r = encart.width * 0.04
-            cx, cy = pos[0] - ex0, pos[1] - ey0
-            d.ellipse((cx - r, cy - r, cx + r, cy + r), outline=(220, 40, 40), width=max(5, int(r / 5)))
+            else:
+                url = pg.url
+                m = re.search(r'!3d(-?[\d.]+)!4d(-?[\d.]+)', url)
+                lat, lng = (float(m.group(1)), float(m.group(2))) if m else (None, None)
+                im, boite = cadrer(pg)
+                if boite:
+                    ile = ((boite[0] + boite[2]) / 2, (boite[1] + boite[3]) / 2)
+                    bw, bh = boite[2] - boite[0], boite[3] - boite[1]
+                    taille = max(bh, bw * 3 / 4) / 0.6     # l'ile occupe ~75 % de ce que montre la carte
+                else:
+                    ile = ((ZONE[0] + ZONE[2]) / 2 * ECHELLE, (ZONE[1] + ZONE[3]) / 2 * ECHELLE)
+                    taille = None
+                gros, (gx0, gy0) = recadrer(im, ile, taille)
+                ile_gros = (boite[0] - gx0, boite[1] - gy0, boite[2] - gx0, boite[3] - gy0) if boite else None
+            if lat is None:
+                print(f"  ✗ {c['nom']} : coordonnees introuvables")
+                continue
+            encart = planisphere.carte(lat, lng, 900)
             im = composer(gros, encart, ile_gros)
             f = c['id'].split('_', 1)[1]
             etat = '' if boite else '  (contour rouge non trouve : centre de l ecran)'

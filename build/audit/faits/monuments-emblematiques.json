@@ -1,0 +1,2052 @@
+{
+ "monuments-emblematiques_tunnel-sous-la-manche": {
+  "qid": "Q10257",
+  "P571": [
+   "1993"
+  ],
+  "P131": [
+   "Kent",
+   "Pas-de-Calais"
+  ],
+  "P17": [
+   "France",
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "poste de douane du Royaume-Uni à Coquelles",
+   "poste de douane de la France à Douvres"
+  ]
+ },
+ "monuments-emblematiques_tour-eiffel": {
+  "qid": "Q243",
+  "P571": [
+   "1887",
+   "1889"
+  ],
+  "P276": [
+   "Champ-de-Mars"
+  ],
+  "P131": [
+   "7e arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "fer forgé",
+   "acier",
+   "fer puddlé"
+  ],
+  "P2079": [
+   "frame construction"
+  ]
+ },
+ "monuments-emblematiques_statue-de-la-liberte": {
+  "qid": "Q9202",
+  "P135": [
+   "néo-classicisme"
+  ],
+  "P170": [
+   "Auguste Bartholdi",
+   "Gustave Eiffel",
+   "Richard Morris Hunt"
+  ],
+  "P571": [
+   "1886"
+  ],
+  "P276": [
+   "Liberty Island",
+   "France"
+  ],
+  "P131": [
+   "New York"
+  ],
+  "P495": [
+   "Troisième République française"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sculpture allégorique",
+   "sculpture monumentale",
+   "art public",
+   "statue colossale"
+  ],
+  "P186": [
+   "cuivre",
+   "acier",
+   "béton de ciment",
+   "granite",
+   "feuille d'or"
+  ],
+  "P527": [
+   "Liberty Statue renovation"
+  ],
+  "P2079": [
+   "repoussé"
+  ]
+ },
+ "monuments-emblematiques_big-ben": {
+  "qid": "Q41225",
+  "P571": [
+   "1843",
+   "1858"
+  ],
+  "P276": [
+   "Londres"
+  ],
+  "P131": [
+   "cité de Westminster"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "pierre de Caen",
+   "calcaire"
+  ],
+  "P527": [
+   "mechanism room of Elizabeth Tower"
+  ]
+ },
+ "monuments-emblematiques_sagrada-familia": {
+  "qid": "Q48435",
+  "P170": [
+   "Francisco de Paula del Villar y Lozano"
+  ],
+  "P571": [
+   "1882"
+  ],
+  "P131": [
+   "quartier de la Sagrada Família"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "pierre",
+   "béton de ciment",
+   "bois",
+   "verre"
+  ],
+  "P527": [
+   "crypte et façade de la Nativité de la Sagrada Família",
+   "Passion Facade of the Sagrada Família",
+   "Glory Facade of the Sagrada Família",
+   "Towers of the Sagrada Família",
+   "École de la Sagrada Família"
+  ]
+ },
+ "monuments-emblematiques_opera-de-sydney": {
+  "qid": "Q45178",
+  "P101": [
+   "opéra",
+   "bâtiment de salle de concert"
+  ],
+  "P571": [
+   "1973"
+  ],
+  "P276": [
+   "Sydney"
+  ],
+  "P131": [
+   "Cité de Sydney"
+  ],
+  "P17": [
+   "Australie"
+  ],
+  "P186": [
+   "béton de ciment"
+  ]
+ },
+ "monuments-emblematiques_kremlin-de-moscou": {
+  "qid": "Q133274",
+  "P571": [
+   "1420"
+  ],
+  "P131": [
+   "Moscou",
+   "Tverskoï"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique",
+   "tsarat de Moscou"
+  ],
+  "P527": [
+   "Tsarskaya Tower"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-neuschwanstein": {
+  "qid": "Q4152",
+  "P571": [
+   "1869"
+  ],
+  "P131": [
+   "Schwangau"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P186": [
+   "brique",
+   "calcaire",
+   "grès"
+  ]
+ },
+ "monuments-emblematiques_mont-rushmore": {
+  "qid": "Q83497",
+  "P131": [
+   "comté de Pennington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "granite"
+  ]
+ },
+ "monuments-emblematiques_empire-state-building": {
+  "qid": "Q9188",
+  "P571": [
+   "1931"
+  ],
+  "P276": [
+   "Midtown"
+  ],
+  "P131": [
+   "Manhattan"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "acier",
+   "calcaire",
+   "brique",
+   "ciment"
+  ]
+ },
+ "monuments-emblematiques_burj-khalifa": {
+  "qid": "Q12495",
+  "P571": [
+   "2004"
+  ],
+  "P131": [
+   "Dubaï"
+  ],
+  "P17": [
+   "Émirats arabes unis"
+  ],
+  "P186": [
+   "béton armé",
+   "acier",
+   "aluminium",
+   "verre"
+  ]
+ },
+ "monuments-emblematiques_angkor-vat": {
+  "qid": "Q43473",
+  "P170": [
+   "Jayavarman II",
+   "Empire khmer"
+  ],
+  "P571": [
+   "1200",
+   "802"
+  ],
+  "P276": [
+   "Indochine"
+  ],
+  "P131": [
+   "Province de Siem Reap"
+  ],
+  "P17": [
+   "Cambodge",
+   "Empire khmer"
+  ]
+ },
+ "monuments-emblematiques_cite-interdite": {
+  "qid": "Q80290",
+  "P571": [
+   "1420"
+  ],
+  "P131": [
+   "sous-district de Donghuamen",
+   "Dongcheng"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Dong liu gong",
+   "Xi liu gong"
+  ]
+ },
+ "monuments-emblematiques_alhambra-grenade": {
+  "qid": "Q47476",
+  "P571": [
+   "1239"
+  ],
+  "P131": [
+   "Grenade"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "enceinte de l'Alhambra",
+   "Eau de l'Alhambra",
+   "Tours de l'Alhambra",
+   "Tour de Comares",
+   "jardins du Partal",
+   "Tour des Dames"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-himeji": {
+  "qid": "Q188754",
+  "P571": [
+   "1346",
+   "1609"
+  ],
+  "P276": [
+   "parc de Himeji"
+  ],
+  "P131": [
+   "Himeji",
+   "district de Shikitō"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "jardin Kōko",
+   "Ni Watariyagura",
+   "Ha Watariyagura",
+   "I Watariyagura",
+   "Ro Watariyagura",
+   "Northwest Small Keep",
+   "Main Keep",
+   "West Small Keep",
+   "East Small Keep"
+  ]
+ },
+ "monuments-emblematiques_porte-de-brandebourg": {
+  "qid": "Q82425",
+  "P571": [
+   "1791"
+  ],
+  "P276": [
+   "Dorotheenstadt",
+   "Berlin-Mitte"
+  ],
+  "P131": [
+   "Berlin",
+   "Mitte (Berlin)"
+  ],
+  "P17": [
+   "Allemagne",
+   "République démocratique allemande",
+   "Reich allemand",
+   "royaume de Prusse"
+  ],
+  "P186": [
+   "grès"
+  ],
+  "P527": [
+   "Quadriga",
+   "scenes from the legend of Hercules",
+   "attic relief on the Brandenburg Gate",
+   "Metope Triglyph frieze"
+  ]
+ },
+ "monuments-emblematiques_tour-de-pise": {
+  "qid": "Q39054",
+  "P571": [
+   "1173"
+  ],
+  "P131": [
+   "Pise"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "marbre",
+   "pierre"
+  ]
+ },
+ "monuments-emblematiques_cathedrale-notre-dame-de-paris": {
+  "qid": "Q2981",
+  "P571": [
+   "1163"
+  ],
+  "P276": [
+   "île de la Cité"
+  ],
+  "P131": [
+   "Notre-Dame",
+   "4e arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "pierre de taille"
+  ],
+  "P527": [
+   "Rose sud de Notre-Dame de Paris",
+   "gargouilles de Notre-Dame de Paris",
+   "flèche de Notre-Dame de Paris",
+   "charpente de Notre-Dame de Paris",
+   "Baroque chancel of Notre-Dame de Paris",
+   "portail du Jugement dernier",
+   "Portail de la Vierge",
+   "Portail Sainte-Anne",
+   "façade occidentale de la Cathédrale Notre-Dame de Paris"
+  ]
+ },
+ "monuments-emblematiques_le-mont-saint-michel": {
+  "qid": "Q20892",
+  "P131": [
+   "arrondissement d'Avranches",
+   "Manche"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-versailles": {
+  "qid": "Q2946",
+  "P571": [
+   "1661"
+  ],
+  "P131": [
+   "Versailles"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "galerie des Glaces",
+   "opéra royal du château de Versailles",
+   "Salles des Croisades",
+   "escalier des Ambassadeurs",
+   "petit appartement de la reine",
+   "appartement des bains du château de Versailles",
+   "bibliothèque de Louis XVI",
+   "Cabinet de garde-robe de Louis XVI",
+   "Cabinet de la cassette",
+   "Cabinet des Dépêches",
+   "Cabinet des chiens",
+   "Cabinet des jeux de Louis XVI",
+   "Cabinet du Conseil",
+   "Vestibule haut de la chapelle du château de Versailles",
+   "Marbre au château de Versailles",
+   "Q141053039"
+  ]
+ },
+ "monuments-emblematiques_mosquee-bleue": {
+  "qid": "Q80541",
+  "P571": [
+   "1609"
+  ],
+  "P131": [
+   "Eminönü"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "monuments-emblematiques_sainte-sophie-constantinople": {
+  "qid": "Q12506",
+  "P101": [
+   "art byzantin"
+  ],
+  "P571": [
+   "532",
+   "537",
+   "360",
+   "415"
+  ],
+  "P276": [
+   "Sultanahmet"
+  ],
+  "P131": [
+   "Fatih",
+   "Istanbul",
+   "Istanbul",
+   "Cankurtaran"
+  ],
+  "P17": [
+   "Turquie"
+  ],
+  "P186": [
+   "brique"
+  ]
+ },
+ "monuments-emblematiques_palais-de-topkap": {
+  "qid": "Q170495",
+  "P571": [
+   "1460",
+   "1475"
+  ],
+  "P131": [
+   "Eminönü",
+   "Istanbul"
+  ],
+  "P17": [
+   "Turquie",
+   "Empire ottoman"
+  ],
+  "P527": [
+   "Topkapı Palace First Courtyard",
+   "Topkapı Palace Second Courtyard",
+   "Topkapı Palace Third Courtyard",
+   "Topkapı Palace Fourth Courtyard",
+   "Topkapı Palace Harem"
+  ]
+ },
+ "monuments-emblematiques_pont-du-golden-gate": {
+  "qid": "Q44440",
+  "P571": [
+   "1937"
+  ],
+  "P131": [
+   "comté de Marin",
+   "San Francisco"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "acier"
+  ]
+ },
+ "monuments-emblematiques_tour-cn": {
+  "qid": "Q134883",
+  "P571": [
+   "1976"
+  ],
+  "P131": [
+   "Toronto"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P186": [
+   "béton de ciment",
+   "acier"
+  ]
+ },
+ "monuments-emblematiques_chateau-d-edimbourg": {
+  "qid": "Q212065",
+  "P571": [
+   "1200"
+  ],
+  "P276": [
+   "Édimbourg"
+  ],
+  "P131": [
+   "Ville d'Édimbourg",
+   "Édimbourg"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "monuments-emblematiques_palais-de-buckingham": {
+  "qid": "Q42182",
+  "P571": [
+   "1703"
+  ],
+  "P131": [
+   "cité de Westminster"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Private chapel, Buckingham Palace"
+  ]
+ },
+ "monuments-emblematiques_cathedrale-de-cologne": {
+  "qid": "Q4176",
+  "P571": [
+   "1248"
+  ],
+  "P131": [
+   "Altstadt-Nord",
+   "Cologne"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P527": [
+   "Choir stalls in Cologne Cathedral",
+   "Judensau at the choir stalls of Cologne Cathedral",
+   "Organs of Cologne Cathedral",
+   "Stained glass windows of Cologne Cathedral",
+   "Bells of Cologne Cathedral",
+   "Q113958198",
+   "Q1463219",
+   "Q125267225",
+   "Dreikönigenkapelle",
+   "Johanneskapelle",
+   "Kreuzkapelle",
+   "Marienkapelle",
+   "Stephanuskapelle",
+   "Châsse des rois mages"
+  ]
+ },
+ "monuments-emblematiques_basilique-saint-pierre": {
+  "qid": "Q12512",
+  "P571": [
+   "1506"
+  ],
+  "P131": [
+   "Vatican"
+  ],
+  "P17": [
+   "Vatican"
+  ],
+  "P186": [
+   "ciment",
+   "marbre"
+  ],
+  "P527": [
+   "Tomb of Pope Leo XI",
+   "Loggia della Benedizione"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-chambord": {
+  "qid": "Q205367",
+  "P571": [
+   "1519"
+  ],
+  "P131": [
+   "Chambord"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "chapelle du château de Chambord",
+   "tenture des Chasses du roi François",
+   "cheminée"
+  ]
+ },
+ "monuments-emblematiques_grande-mosquee-de-djenne": {
+  "qid": "Q683632",
+  "P571": [
+   "1906"
+  ],
+  "P131": [
+   "Djenné"
+  ],
+  "P17": [
+   "Mali"
+  ],
+  "P186": [
+   "adobe"
+  ]
+ },
+ "monuments-emblematiques_temple-du-ciel": {
+  "qid": "Q125445",
+  "P131": [
+   "sous-district de Tiantan"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-prague": {
+  "qid": "Q193369",
+  "P571": [
+   "900"
+  ],
+  "P131": [
+   "Hradčany"
+  ],
+  "P17": [
+   "Tchéquie"
+  ],
+  "P527": [
+   "ancien palais royal",
+   "cathédrale Saint-Guy de Prague",
+   "Church of the Virgin Mary",
+   "St. George's Convent",
+   "chapelle Sainte-Croix de Prague",
+   "nouvelle prévôté",
+   "Staré proboštství",
+   "Prague Castle Riding School",
+   "nouveau palais royal de Prague",
+   "Lobkowicz Palace",
+   "belvédère de la reine Anne",
+   "pavillon du jeu de paume",
+   "Villa of Edvard Beneš",
+   "Theresian Institution of Noble Ladies of the Prague Castle",
+   "tour Noire",
+   "tour Daliborka",
+   "tour Mihulka",
+   "tour Blanche",
+   "Gardens of Prague Castle",
+   "Q136748240"
+  ]
+ },
+ "monuments-emblematiques_palais-du-potala": {
+  "qid": "Q71229",
+  "P571": [
+   "637"
+  ],
+  "P131": [
+   "district de Chengguan"
+  ],
+  "P17": [
+   "Tibet",
+   "république populaire de Chine"
+  ]
+ },
+ "monuments-emblematiques_burj-al-arab": {
+  "qid": "Q62939",
+  "P571": [
+   "1999"
+  ],
+  "P131": [
+   "Dubaï"
+  ],
+  "P17": [
+   "Émirats arabes unis"
+  ]
+ },
+ "monuments-emblematiques_kinkaku-ji": {
+  "qid": "Q270983",
+  "P571": [
+   "1397"
+  ],
+  "P276": [
+   "Kinugasa"
+  ],
+  "P131": [
+   "arrondissement de Kita"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "bois",
+   "kinpaku",
+   "Jōbōji urushi",
+   "feuille d'or"
+  ],
+  "P527": [
+   "pavillon d'Or"
+  ]
+ },
+ "monuments-emblematiques_cathedrale-saint-basile-le-bienheureux-de-moscou": {
+  "qid": "Q129846",
+  "P571": [
+   "1555"
+  ],
+  "P276": [
+   "place Rouge"
+  ],
+  "P131": [
+   "Tverskoï"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique",
+   "tsarat de Moscou"
+  ],
+  "P186": [
+   "brique"
+  ],
+  "P527": [
+   "Q117965315"
+  ]
+ },
+ "monuments-emblematiques_alcazar-de-seville": {
+  "qid": "Q498261",
+  "P571": [
+   "1364"
+  ],
+  "P131": [
+   "Séville"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "stuc"
+  ]
+ },
+ "monuments-emblematiques_pont-de-brooklyn": {
+  "qid": "Q125006",
+  "P276": [
+   "New York",
+   "Manhattan",
+   "Brooklyn"
+  ],
+  "P131": [
+   "Manhattan",
+   "Brooklyn"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "acier",
+   "pierre"
+  ]
+ },
+ "monuments-emblematiques_arc-de-triomphe": {
+  "qid": "Q143912",
+  "P495": [
+   "Empire romain"
+  ]
+ },
+ "monuments-emblematiques_basilique-du-sacre-c-ur-de-montmartre": {
+  "qid": "Q28785",
+  "P571": [
+   "1875"
+  ],
+  "P131": [
+   "Clignancourt",
+   "18e arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "travertin"
+  ]
+ },
+ "monuments-emblematiques_pyramide-du-louvre": {
+  "qid": "Q13397",
+  "P170": [
+   "Ieoh Ming Pei"
+  ],
+  "P571": [
+   "1981"
+  ],
+  "P276": [
+   "cour Napoléon"
+  ],
+  "P131": [
+   "1er arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "verre",
+   "acier",
+   "aluminium"
+  ]
+ },
+ "monuments-emblematiques_palais-des-papes-d-avignon": {
+  "qid": "Q143463",
+  "P131": [
+   "Avignon"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "chapelle Saint-Martial",
+   "chapelle Saint-Jean du palais des Papes",
+   "grande chapelle du palais des papes d'Avignon",
+   "Palais Neuf",
+   "Palais Vieux"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-chenonceau": {
+  "qid": "Q193215",
+  "P571": [
+   "1411"
+  ],
+  "P131": [
+   "Chenonceaux",
+   "Civray-de-Touraine",
+   "Francueil"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "monuments-emblematiques_pont-du-gard": {
+  "qid": "Q189764",
+  "P571": [
+   "50"
+  ],
+  "P276": [
+   "Vers-Pont-du-Gard"
+  ],
+  "P131": [
+   "Vers-Pont-du-Gard"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "calcaire coquillier"
+  ]
+ },
+ "monuments-emblematiques_tower-bridge": {
+  "qid": "Q83125",
+  "P571": [
+   "1886"
+  ],
+  "P276": [
+   "Londres"
+  ],
+  "P131": [
+   "borough londonien de Tower Hamlets",
+   "borough londonien de Southwark"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "acier",
+   "granite",
+   "béton de ciment"
+  ]
+ },
+ "monuments-emblematiques_tour-de-londres": {
+  "qid": "Q62378",
+  "P571": [
+   "1066"
+  ],
+  "P131": [
+   "borough londonien de Tower Hamlets",
+   "Londres"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "pierre de Reigate",
+   "rag-stone",
+   "mudstone",
+   "pierre de Caen"
+  ],
+  "P527": [
+   "tour Blanche"
+  ]
+ },
+ "monuments-emblematiques_abbaye-de-westminster": {
+  "qid": "Q5933",
+  "P571": [
+   "901",
+   "1540"
+  ],
+  "P131": [
+   "cité de Westminster"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Henry VII Chapel",
+   "The Great Cloisters of Westminster Abbey"
+  ]
+ },
+ "monuments-emblematiques_mosquee-cathedrale-de-cordoue": {
+  "qid": "Q33200",
+  "P571": [
+   "786"
+  ],
+  "P131": [
+   "Cordoue"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "calcaire"
+  ],
+  "P527": [
+   "Q16553114",
+   "Capilla Mayor, Mosque-Cathedral of Córdoba",
+   "Capilla de Villaviciosa, Mosque-Cathedral of Córdoba",
+   "Capilla de la Concepción, Mosque-Cathedral of Córdoba",
+   "Capilla de San Acacio, Mosque-Cathedral of Córdoba",
+   "Capilla de San Ambrosio, Mosque-Cathedral of Córdoba",
+   "Capilla de los Santos Simón y Judas, Mosque-Cathedral of Córdoba",
+   "Courtyard of the Orange Trees"
+  ]
+ },
+ "monuments-emblematiques_tour-de-belem": {
+  "qid": "Q215003",
+  "P571": [
+   "1515"
+  ],
+  "P276": [
+   "Freguesia de Santa Maria de Belém"
+  ],
+  "P131": [
+   "Belém"
+  ],
+  "P17": [
+   "Portugal"
+  ]
+ },
+ "monuments-emblematiques_cathedrale-santa-maria-del-fiore": {
+  "qid": "Q191739",
+  "P571": [
+   "1296"
+  ],
+  "P276": [
+   "piazza del Duomo"
+  ],
+  "P131": [
+   "Florence"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "marbre",
+   "brique"
+  ],
+  "P527": [
+   "Coupole de Santa Maria del Fiore",
+   "Santa Maria del Fiore façade",
+   "Northeast Transept of Santa Maria del Fiore",
+   "Southeast Transept of Santa Maria del Fiore",
+   "Pediment of Santa Maria del Fiore",
+   "Nave of Santa Maria del Fiore",
+   "campanile de Santa Maria del Fiore"
+  ]
+ },
+ "monuments-emblematiques_basilique-saint-marc-de-venise": {
+  "qid": "Q172988",
+  "P571": [
+   "828"
+  ],
+  "P276": [
+   "San Marco",
+   "centre historique de Venise"
+  ],
+  "P131": [
+   "Venise"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "campanile de Saint-Marc",
+   "Pediment St. Mark's Basilica",
+   "Slabs of Christ and the Four Evangelists",
+   "Portale des fleurs",
+   "Facades of St. Mark's Basilica"
+  ]
+ },
+ "monuments-emblematiques_fontaine-de-trevi": {
+  "qid": "Q185382",
+  "P170": [
+   "Nicola Salvi"
+  ],
+  "P571": [
+   "1732"
+  ],
+  "P276": [
+   "Piazza di Trevi"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "art public"
+  ],
+  "P186": [
+   "travertin de Rome",
+   "marbre de Carrare"
+  ]
+ },
+ "monuments-emblematiques_cathedrale-notre-dame-de-chartres": {
+  "qid": "Q180274",
+  "P571": [
+   "1145"
+  ],
+  "P131": [
+   "Chartres"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "ensemble des vitraux de la cathédrale Notre-Dame de Chartres"
+  ]
+ },
+ "monuments-emblematiques_atomium": {
+  "qid": "Q180901",
+  "P571": [
+   "1955"
+  ],
+  "P276": [
+   "Heysel"
+  ],
+  "P131": [
+   "Bruxelles"
+  ],
+  "P17": [
+   "Belgique"
+  ]
+ },
+ "monuments-emblematiques_grand-place-de-bruxelles": {
+  "qid": "Q215429",
+  "P276": [
+   "Pentagone"
+  ],
+  "P131": [
+   "Bruxelles"
+  ],
+  "P17": [
+   "Belgique"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-schonbrunn": {
+  "qid": "Q131330",
+  "P571": [
+   "1638"
+  ],
+  "P131": [
+   "Hietzing"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "Kleine Gloriette",
+   "Gloriette",
+   "Palmenhaus Schönbrunn",
+   "Neptunbrunnen",
+   "Kaiserstöckl",
+   "musée Wagenburg",
+   "Altes Palmenhaus",
+   "Wüstenhaus Schönbrunn",
+   "Obeliskbrunnen",
+   "Orangerie Schönbrunn",
+   "Schlosstheater Schönbrunn",
+   "Tirolergarten"
+  ]
+ },
+ "monuments-emblematiques_musee-guggenheim-bilbao": {
+  "qid": "Q179199",
+  "P571": [
+   "1997"
+  ],
+  "P276": [
+   "Abando"
+  ],
+  "P131": [
+   "Bilbao"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "monuments-emblematiques_palais-d-hiver": {
+  "qid": "Q182147",
+  "P571": [
+   "1754"
+  ],
+  "P131": [
+   "Dvortsovy Municipal Okrug"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "monuments-emblematiques_mur-de-berlin": {
+  "qid": "Q5086",
+  "P571": [
+   "1961"
+  ],
+  "P131": [
+   "Berlin-Est"
+  ],
+  "P17": [
+   "République démocratique allemande"
+  ],
+  "P186": [
+   "béton armé"
+  ],
+  "P527": [
+   "Q137858893",
+   "Checkpoint Bravo",
+   "poste frontière de Nedlitz",
+   "Checkpoint Charlie",
+   "poste frontière de Bornholmer Straße",
+   "poste-frontière B96",
+   "poste frontière d'Invalidenstraße",
+   "poste frontière de Chausseestraße"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-bran": {
+  "qid": "Q390275",
+  "P571": [
+   "1289"
+  ],
+  "P276": [
+   "Bran"
+  ],
+  "P131": [
+   "Bran",
+   "Brașov"
+  ],
+  "P17": [
+   "Roumanie"
+  ]
+ },
+ "monuments-emblematiques_palais-du-parlement-bucarest": {
+  "qid": "Q164150",
+  "P571": [
+   "1985"
+  ],
+  "P131": [
+   "Bucarest"
+  ],
+  "P17": [
+   "Roumanie"
+  ],
+  "P186": [
+   "marbre",
+   "cristallo"
+  ]
+ },
+ "monuments-emblematiques_dome-du-rocher": {
+  "qid": "Q172077",
+  "P571": [
+   "691"
+  ],
+  "P131": [
+   "Vieille ville de Jérusalem"
+  ],
+  "P17": [
+   "État de Palestine"
+  ],
+  "P186": [
+   "marbre",
+   "bois",
+   "aluminium",
+   "cuivre",
+   "nickel",
+   "feuille d'or"
+  ]
+ },
+ "monuments-emblematiques_mosquee-al-haram": {
+  "qid": "Q428858",
+  "P131": [
+   "La Mecque"
+  ],
+  "P17": [
+   "Arabie saoudite"
+  ],
+  "P186": [
+   "pierre"
+  ],
+  "P527": [
+   "Kaaba",
+   "Pierre noire",
+   "Zamzam",
+   "Station d'Abraham",
+   "Safâ et Marwah",
+   "Maktabat Makkah al-Mukarramah",
+   "cour d'immeuble"
+  ]
+ },
+ "monuments-emblematiques_krak-des-chevaliers": {
+  "qid": "Q177549",
+  "P571": [
+   "1031"
+  ],
+  "P131": [
+   "al-Hosn",
+   "Syrie"
+  ],
+  "P17": [
+   "Syrie"
+  ],
+  "P186": [
+   "calcaire"
+  ]
+ },
+ "monuments-emblematiques_mosquee-hassan-ii": {
+  "qid": "Q41346",
+  "P571": [
+   "1993"
+  ],
+  "P276": [
+   "Casablanca"
+  ],
+  "P131": [
+   "Achbarou"
+  ],
+  "P17": [
+   "Maroc"
+  ]
+ },
+ "monuments-emblematiques_temple-de-borobudur": {
+  "qid": "Q42798",
+  "P571": [
+   "800"
+  ],
+  "P131": [
+   "kabupaten de Magelang"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "monuments-emblematiques_harmandir-sahib": {
+  "qid": "Q180422",
+  "P571": [
+   "1589"
+  ],
+  "P131": [
+   "Amritsar"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "monuments-emblematiques_pagode-shwedagon": {
+  "qid": "Q464535",
+  "P276": [
+   "Rangoun"
+  ],
+  "P131": [
+   "canton de Dagon"
+  ],
+  "P17": [
+   "Birmanie"
+  ]
+ },
+ "monuments-emblematiques_grand-bouddha-de-leshan": {
+  "qid": "Q205131",
+  "P571": [
+   "803"
+  ],
+  "P276": [
+   "mont Emei"
+  ],
+  "P131": [
+   "district de Shizhong"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P136": [
+   "art public"
+  ]
+ },
+ "monuments-emblematiques_tours-petronas": {
+  "qid": "Q83063",
+  "P571": [
+   "1993"
+  ],
+  "P131": [
+   "Kuala Lumpur"
+  ],
+  "P17": [
+   "Malaisie"
+  ],
+  "P527": [
+   "Petronas Tower 1",
+   "Petronas Tower 2"
+  ]
+ },
+ "monuments-emblematiques_taipei-101": {
+  "qid": "Q83101",
+  "P571": [
+   "2005"
+  ],
+  "P131": [
+   "Xicun Village"
+  ],
+  "P17": [
+   "Taïwan"
+  ]
+ },
+ "monuments-emblematiques_maison-blanche": {
+  "qid": "Q35525",
+  "P571": [
+   "1800"
+  ],
+  "P276": [
+   "Northwest"
+  ],
+  "P131": [
+   "Washington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Red Room",
+   "chambre de Lincoln",
+   "bureau ovale",
+   "salle de crise de la Maison-Blanche",
+   "résidence exécutive",
+   "aile Ouest",
+   "aile Est",
+   "Cabinet Room",
+   "Salle de bal de la Maison-Blanche"
+  ]
+ },
+ "monuments-emblematiques_chrysler-building": {
+  "qid": "Q11274",
+  "P571": [
+   "1930"
+  ],
+  "P276": [
+   "Midtown"
+  ],
+  "P131": [
+   "Manhattan"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "brique",
+   "verre",
+   "granite",
+   "calcaire",
+   "acier"
+  ]
+ },
+ "monuments-emblematiques_lincoln-memorial": {
+  "qid": "Q213559",
+  "P170": [
+   "Daniel Chester French"
+  ],
+  "P571": [
+   "1922"
+  ],
+  "P276": [
+   "West Potomac Park"
+  ],
+  "P131": [
+   "Washington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "Marbre de Yule",
+   "Tennessee marble",
+   "Sylacauga marble",
+   "Indiana limestone",
+   "béton armé"
+  ]
+ },
+ "monuments-emblematiques_panneau-hollywood": {
+  "qid": "Q180376",
+  "P571": [
+   "1923"
+  ],
+  "P131": [
+   "Los Angeles"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monuments-emblematiques_capitole-des-etats-unis": {
+  "qid": "Q54109",
+  "P571": [
+   "1793"
+  ],
+  "P276": [
+   "Capitol Hill"
+  ],
+  "P131": [
+   "Washington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "brique",
+   "marbre",
+   "brique de verre",
+   "fonte"
+  ],
+  "P527": [
+   "chambre du Sénat des États-Unis",
+   "rotonde du Capitole des États-Unis",
+   "United States Capitol Crypt",
+   "Centre d'accueil des visiteurs du Capitole des États-Unis",
+   "ancienne chambre du Sénat",
+   "ancienne chambre de la Cour suprême",
+   "Congressional Prayer Room",
+   "National Statuary Hall",
+   "President's Room",
+   "United States Senate Reception Room",
+   "Vice President's Room"
+  ]
+ },
+ "monuments-emblematiques_eglises-rupestres-de-lalibela": {
+  "qid": "Q642979",
+  "P571": [
+   "1300"
+  ],
+  "P276": [
+   "souterrain"
+  ],
+  "P131": [
+   "Lasta"
+  ],
+  "P17": [
+   "Éthiopie"
+  ],
+  "P186": [
+   "pierre"
+  ],
+  "P527": [
+   "bete Medhane Alem",
+   "béte Debre Sina",
+   "béte Mikaél",
+   "bete Golgota-Selassié",
+   "bete Maryam",
+   "bete Meskel",
+   "bete Gebriel-Rufael",
+   "bete Merqorewos",
+   "bete Abba Libanos",
+   "Bet Giyorgis",
+   "Biete Lehem",
+   "bete Amanuel"
+  ]
+ },
+ "monuments-emblematiques_harbour-bridge": {
+  "qid": "Q54495",
+  "P571": [
+   "1932"
+  ],
+  "P276": [
+   "Sydney"
+  ],
+  "P131": [
+   "Sydney",
+   "Nouvelle-Galles du Sud"
+  ],
+  "P17": [
+   "Australie"
+  ],
+  "P186": [
+   "acier"
+  ]
+ },
+ "monuments-emblematiques_villa-savoye": {
+  "qid": "Q940746",
+  "P170": [
+   "Le Corbusier"
+  ],
+  "P571": [
+   "1931"
+  ],
+  "P276": [
+   "Poissy"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P131": [
+   "Poissy"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "béton armé",
+   "béton de ciment"
+  ]
+ },
+ "monuments-emblematiques_maison-sur-la-cascade": {
+  "qid": "Q463179",
+  "P170": [
+   "Frank Lloyd Wright"
+  ],
+  "P571": [
+   "1936"
+  ],
+  "P131": [
+   "canton de Stewart"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "béton armé"
+  ]
+ },
+ "monuments-emblematiques_musee-solomon-r-guggenheim": {
+  "qid": "Q201469",
+  "P27": [
+   "États-Unis"
+  ],
+  "P571": [
+   "1937"
+  ],
+  "P276": [
+   "Upper East Side"
+  ],
+  "P131": [
+   "Manhattan"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monuments-emblematiques_cite-radieuse-de-marseille": {
+  "qid": "Q2587975",
+  "P131": [
+   "Sainte-Anne"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "monuments-emblematiques_ellora": {
+  "qid": "Q189616",
+  "P131": [
+   "district de Chhatrapati Sambhajinagar"
+  ],
+  "P17": [
+   "Inde"
+  ],
+  "P527": [
+   "temple de Kailâsanâtha"
+  ]
+ },
+ "monuments-emblematiques_hampi": {
+  "qid": "Q48727106",
+  "P131": [
+   "district de Vijayanagara"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "monuments-emblematiques_fatehpur-sikri": {
+  "qid": "Q179046",
+  "P571": [
+   "1569"
+  ],
+  "P131": [
+   "district d'Agra"
+  ],
+  "P17": [
+   "Inde",
+   "Empire moghol"
+  ],
+  "P186": [
+   "grès"
+  ]
+ },
+ "monuments-emblematiques_wat-arun": {
+  "qid": "Q724970",
+  "P571": [
+   "1656"
+  ],
+  "P17": [
+   "Thaïlande"
+  ]
+ },
+ "monuments-emblematiques_grande-mosquee-de-kairouan": {
+  "qid": "Q1255269",
+  "P571": [
+   "670"
+  ],
+  "P131": [
+   "Kairouan"
+  ],
+  "P17": [
+   "Tunisie"
+  ],
+  "P186": [
+   "brique"
+  ]
+ },
+ "monuments-emblematiques_stade-olympique-de-berlin": {
+  "qid": "Q151374",
+  "P571": [
+   "1934"
+  ],
+  "P276": [
+   "Westend"
+  ],
+  "P131": [
+   "arrondissement de Charlottenbourg-Wilmersdorf"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "monuments-emblematiques_seagram-building": {
+  "qid": "Q737484",
+  "P170": [
+   "Ludwig Mies van der Rohe"
+  ],
+  "P571": [
+   "1958"
+  ],
+  "P276": [
+   "Midtown"
+  ],
+  "P131": [
+   "Manhattan"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monuments-emblematiques_opera-garnier": {
+  "qid": "Q187840",
+  "P571": [
+   "1861",
+   "1862"
+  ],
+  "P276": [
+   "9e arrondissement de Paris"
+  ],
+  "P131": [
+   "Chaussée-d'Antin"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "pierre d'Euville",
+   "marbre",
+   "fonte"
+  ]
+ },
+ "monuments-emblematiques_pantheon-paris": {
+  "qid": "Q188856",
+  "P571": [
+   "1758"
+  ],
+  "P131": [
+   "Sorbonne",
+   "5e arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "monuments-emblematiques_hotel-des-invalides": {
+  "qid": "Q188977",
+  "P571": [
+   "1671"
+  ],
+  "P131": [
+   "quartier des Invalides"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "dôme des Invalides",
+   "cathédrale Saint-Louis-des-Invalides"
+  ]
+ },
+ "monuments-emblematiques_palais-du-louvre": {
+  "qid": "Q1075988",
+  "P571": [
+   "1190"
+  ],
+  "P131": [
+   "1er arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "aile Richelieu",
+   "aile Sully",
+   "aile Denon",
+   "cour Napoléon",
+   "Cour carrée",
+   "pyramide du Louvre"
+  ]
+ },
+ "monuments-emblematiques_pont-charles": {
+  "qid": "Q204871",
+  "P571": [
+   "1357"
+  ],
+  "P131": [
+   "Prague 1",
+   "Vieille Ville de Prague",
+   "Malá Strana"
+  ],
+  "P17": [
+   "Tchéquie",
+   "Tchécoslovaquie",
+   "Autriche-Hongrie"
+  ],
+  "P186": [
+   "grès"
+  ]
+ },
+ "monuments-emblematiques_ponte-vecchio": {
+  "qid": "Q208633",
+  "P571": [
+   "1335"
+  ],
+  "P276": [
+   "Florence"
+  ],
+  "P131": [
+   "Florence"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "pierre",
+   "pietra forte"
+  ]
+ },
+ "monuments-emblematiques_palais-des-doges": {
+  "qid": "Q189883",
+  "P571": [
+   "1340"
+  ],
+  "P276": [
+   "San Marco"
+  ],
+  "P131": [
+   "Venise"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "Porta della Carta",
+   "Sala delle Quattro Porte",
+   "Paintings in the Doge's Palace",
+   "Capitals in the Doge's Palace (Venice)",
+   "Courtyard of the Doge's Palace (Venice)",
+   "Museo dell'Opera",
+   "Personification of Venice",
+   "Q117814834"
+  ]
+ },
+ "monuments-emblematiques_dome-de-milan": {
+  "qid": "Q18068",
+  "P571": [
+   "1386"
+  ],
+  "P131": [
+   "Milan"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "marbre"
+  ],
+  "P527": [
+   "Category:Interior of the Duomo (Milan)",
+   "Category:Exterior of the Duomo (Milan)"
+  ]
+ },
+ "monuments-emblematiques_chateau-de-windsor": {
+  "qid": "Q42646",
+  "P571": [
+   "1070"
+  ],
+  "P276": [
+   "Windsor"
+  ],
+  "P131": [
+   "Windsor and Maidenhead"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Q136532003",
+   "Round Tower"
+  ]
+ },
+ "monuments-emblematiques_place-rouge": {
+  "qid": "Q41116",
+  "P571": [
+   "1500"
+  ],
+  "P131": [
+   "Moscou"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "monuments-emblematiques_barrage-hoover": {
+  "qid": "Q172822",
+  "P571": [
+   "1931"
+  ],
+  "P131": [
+   "comté de Mohave",
+   "comté de Clark"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Hoover Dam (AZ)",
+   "Hoover Dam (NV)",
+   "Winged Figures of the Republic",
+   "Hoover Dam Star Map"
+  ]
+ },
+ "monuments-emblematiques_gateway-arch": {
+  "qid": "Q2027162",
+  "P571": [
+   "1965",
+   "1968"
+  ],
+  "P276": [
+   "parc national de Gateway Arch"
+  ],
+  "P131": [
+   "Saint-Louis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "acier inoxydable"
+  ],
+  "P527": [
+   "réseau de tramway",
+   "Gateway Arch Visitor Center",
+   "capsule temporelle",
+   "tramway",
+   "tramway"
+  ]
+ },
+ "monuments-emblematiques_space-needle": {
+  "qid": "Q5317",
+  "P571": [
+   "1961"
+  ],
+  "P131": [
+   "Seattle"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monuments-emblematiques_marina-bay-sands": {
+  "qid": "Q548679",
+  "P571": [
+   "2010"
+  ],
+  "P131": [
+   "Downtown Core"
+  ],
+  "P17": [
+   "Singapour"
+  ]
+ },
+ "monuments-emblematiques_tokyo-skytree": {
+  "qid": "Q57965",
+  "P571": [
+   "2012"
+  ],
+  "P276": [
+   "Tokyo Skytree Town"
+  ],
+  "P131": [
+   "Oshiage"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "acier"
+  ],
+  "P527": [
+   "plateforme d'observation de la Tokyo Skytree",
+   "galerie Tembō de la Tokyo Skytree"
+  ]
+ },
+ "monuments-emblematiques_itsukushima-jinja": {
+  "qid": "Q191763",
+  "P571": [
+   "593"
+  ],
+  "P131": [
+   "Hatsukaichi",
+   "Miyajima",
+   "district de Saeki",
+   "province d'Aki"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "grand torii du sanctuaire d'Itsukushima",
+   "West Corridor",
+   "Honden, Heiden and Haiden of the Main Shrine",
+   "sanctuaire d'Haraiden of the Main",
+   "East Corridor",
+   "Haraiden of Marōdo Shrine",
+   "Honden, Heiden and Haiden of Marōdo Shrine",
+   "Itsukushima Shrine Treasure Hall",
+   "Salle de Nô du sanctuaire Itsukushima"
+  ]
+ },
+ "monuments-emblematiques_todai-ji": {
+  "qid": "Q460367",
+  "P135": [
+   "protection spirituelle de l'État"
+  ],
+  "P571": [
+   "752",
+   "800"
+  ],
+  "P276": [
+   "parc de Nara"
+  ],
+  "P131": [
+   "Nara"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "grande salle du Bouddha",
+   "Grand Bouddha de Nara",
+   "pavillon du troisième mois",
+   "pavillon du deuxième mois",
+   "Shōsō-in",
+   "Chisoku-in",
+   "Tōnan-in",
+   "Tōdaiji Gakuen Kindergarten",
+   "Founder's Hall, Todaiji",
+   "tour du clocher du temple Tōdai",
+   "porte du Mal du temple Tōdai",
+   "grande porte Sud du temple Tōdai",
+   "Tōdai-ji Honbō Kyōko",
+   "Tōdai-ji Culture Center"
+  ]
+ }
+}

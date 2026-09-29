@@ -1,0 +1,1291 @@
+{
+ "sculptures-celebres_venus-de-milo": {
+  "qid": "Q151952",
+  "P135": [
+   "sculpture hellénistique"
+  ],
+  "P571": [
+   "-140"
+  ],
+  "P276": [
+   "salle 345 - Salle de la Vénus de Milo"
+  ],
+  "P195": [
+   "département des antiquités grecques, étrusques et romaines du musée du Louvre"
+  ],
+  "P495": [
+   "Grèce"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "nu",
+   "sculpture mythologique"
+  ],
+  "P186": [
+   "marbre de Paros"
+  ]
+ },
+ "sculptures-celebres_victoire-de-samothrace": {
+  "qid": "Q216402",
+  "P135": [
+   "sculpture hellénistique"
+  ],
+  "P571": [
+   "-175"
+  ],
+  "P276": [
+   "Musée du Louvre",
+   "Palier de la Victoire de Samothrace - salle 703"
+  ],
+  "P195": [
+   "département des antiquités grecques, étrusques et romaines du musée du Louvre"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "époque hellénistique"
+  ],
+  "P186": [
+   "marbre de Paros"
+  ]
+ },
+ "sculptures-celebres_david-michel-ange": {
+  "qid": "Q179900",
+  "P135": [
+   "Haute Renaissance",
+   "sculpture de la Renaissance italienne"
+  ],
+  "P170": [
+   "Michel-Ange Buronarroti"
+  ],
+  "P571": [
+   "1500"
+  ],
+  "P276": [
+   "Galleria dell'Accademia de Florence",
+   "piazza della Signoria"
+  ],
+  "P195": [
+   "Galleria dell'Accademia de Florence",
+   "piazza della Signoria"
+  ],
+  "P131": [
+   "Florence"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P577": [
+   "1504"
+  ],
+  "P136": [
+   "sculpture religieuse",
+   "nu",
+   "sculpture de marbre"
+  ],
+  "P186": [
+   "marbre de Carrare"
+  ]
+ },
+ "sculptures-celebres_pieta-michel-ange": {
+  "qid": "Q235242",
+  "P135": [
+   "Haute Renaissance"
+  ],
+  "P170": [
+   "Michel-Ange Buronarroti"
+  ],
+  "P571": [
+   "1499"
+  ],
+  "P276": [
+   "basilique Saint-Pierre"
+  ],
+  "P195": [
+   "basilique Saint-Pierre"
+  ],
+  "P17": [
+   "Vatican"
+  ],
+  "P136": [
+   "groupe sculpté",
+   "art religieux"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_le-penseur": {
+  "qid": "Q18003128",
+  "P170": [
+   "Auguste Rodin",
+   "Fonderie Hébrard"
+  ],
+  "P571": [
+   "1882"
+  ],
+  "P276": [
+   "musée Rodin",
+   "musée d'Art moderne et contemporain de Strasbourg",
+   "Buenos Aires"
+  ],
+  "P195": [
+   "musée Rodin",
+   "Alte Nationalgalerie"
+  ],
+  "P17": [
+   "Argentine"
+  ],
+  "P136": [
+   "nu"
+  ],
+  "P186": [
+   "bronze",
+   "gypse"
+  ],
+  "P527": [
+   "Le Penseur (Kyoto National Museum)"
+  ]
+ },
+ "sculptures-celebres_le-baiser-rodin": {
+  "qid": "Q2418237",
+  "P135": [
+   "impressionnisme"
+  ],
+  "P170": [
+   "Auguste Rodin"
+  ],
+  "P571": [
+   "1880"
+  ],
+  "P276": [
+   "musée Rodin",
+   "musée du Luxembourg",
+   "France",
+   "musée Soumaya"
+  ],
+  "P195": [
+   "musée Rodin",
+   "musée du Luxembourg",
+   "musée Soumaya"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "groupe sculpté"
+  ],
+  "P186": [
+   "bronze",
+   "marbre"
+  ],
+  "P2079": [
+   "fonderie"
+  ]
+ },
+ "sculptures-celebres_les-bourgeois-de-calais": {
+  "qid": "Q978987",
+  "P170": [
+   "Auguste Rodin"
+  ],
+  "P571": [
+   "1888"
+  ],
+  "P136": [
+   "groupe sculpté"
+  ],
+  "P186": [
+   "bronze"
+  ],
+  "P527": [
+   "Les Bourgeois de Calais",
+   "Les bourgeois de Calais",
+   "The Burghers of Calais, Stanford",
+   "Heroic Head of Pierre de Wissant, One of the Burghers of Calais",
+   "Heroic Head of Pierre de Wissant, One of the Burghers of Calais"
+  ]
+ },
+ "sculptures-celebres_discobole": {
+  "qid": "Q133732",
+  "P170": [
+   "Myron"
+  ],
+  "P571": [
+   "-450"
+  ],
+  "P186": [
+   "marbre",
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_laocoon": {
+  "qid": "Q22878",
+  "P27": [
+   "Troie"
+  ]
+ },
+ "sculptures-celebres_colonne-sans-fin": {
+  "qid": "Q2628659",
+  "P170": [
+   "Constantin Brâncuși"
+  ],
+  "P571": [
+   "1938"
+  ],
+  "P131": [
+   "Târgu Jiu",
+   "Gorj"
+  ],
+  "P17": [
+   "Roumanie"
+  ],
+  "P136": [
+   "art public"
+  ]
+ },
+ "sculptures-celebres_le-baiser-brancusi": {
+  "qid": "Q3220192",
+  "P135": [
+   "modernisme",
+   "art abstrait"
+  ],
+  "P170": [
+   "Constantin Brâncuși"
+  ],
+  "P571": [
+   "1909",
+   "1907"
+  ],
+  "P276": [
+   "cimetière du Montparnasse",
+   "France",
+   "Roumanie"
+  ],
+  "P131": [
+   "14e arrondissement de Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "modernisme"
+  ]
+ },
+ "sculptures-celebres_homme-qui-marche-i": {
+  "qid": "Q706964",
+  "P170": [
+   "Alberto Giacometti",
+   "Fonderie Susse"
+  ],
+  "P571": [
+   "1956"
+  ],
+  "P276": [
+   "Carnegie Museum of Art"
+  ],
+  "P195": [
+   "fondation Maeght"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_bronzes-de-riace": {
+  "qid": "Q205259",
+  "P170": [
+   "Grecs"
+  ],
+  "P571": [
+   "-460",
+   "-460"
+  ],
+  "P276": [
+   "musée national de la Grande-Grèce",
+   "Reggio de Calabre"
+  ],
+  "P195": [
+   "musée national de la Grande-Grèce"
+  ],
+  "P136": [
+   "Grèce antique"
+  ],
+  "P186": [
+   "bronze"
+  ],
+  "P527": [
+   "Bronze A",
+   "Bronze B"
+  ]
+ },
+ "sculptures-celebres_buste-de-nefertiti": {
+  "qid": "Q582172",
+  "P135": [
+   "art de l'Égypte antique"
+  ],
+  "P170": [
+   "Thoutmôsis"
+  ],
+  "P571": [
+   "-1350"
+  ],
+  "P276": [
+   "Neues Museum",
+   "Altes Museum"
+  ],
+  "P195": [
+   "musée égyptien de Berlin"
+  ],
+  "P17": [
+   "Égypte antique"
+  ],
+  "P136": [
+   "buste"
+  ],
+  "P186": [
+   "calcaire",
+   "stuc",
+   "quartz",
+   "cire d'abeille"
+  ],
+  "P2079": [
+   "polychromie"
+  ]
+ },
+ "sculptures-celebres_cariatide": {
+  "qid": "Q208120",
+  "P170": [
+   "Amedeo Modigliani"
+  ]
+ },
+ "sculptures-celebres_la-petite-danseuse-de-quatorze-ans": {
+  "qid": "Q2734209",
+  "P170": [
+   "Edgar Degas"
+  ],
+  "P571": [
+   "1881"
+  ],
+  "P276": [
+   "Metropolitan Museum of Art",
+   "musée d'Orsay",
+   "National Gallery of Art",
+   "Ny Carlsberg Glyptotek"
+  ],
+  "P195": [
+   "National Gallery of Art"
+  ],
+  "P136": [
+   "représentation figurée"
+  ],
+  "P186": [
+   "bronze",
+   "ruban",
+   "tulle",
+   "cire"
+  ],
+  "P527": [
+   "Petite danseuse de quatorze ans",
+   "La petite danseuse de quatorze ans",
+   "La Petite Danseuse de quatorze ans",
+   "La Petite Danseuse de quatorze ans",
+   "La Petite Danseuse de quatorze ans"
+  ]
+ },
+ "sculptures-celebres_fontaine-duchamp": {
+  "qid": "Q1206847",
+  "P170": [
+   "Marcel Duchamp",
+   "Elsa von Freytag-Loringhoven"
+  ],
+  "P571": [
+   "1917"
+  ],
+  "P276": [
+   "Tate Modern"
+  ],
+  "P195": [
+   "musée d'Israël",
+   "musée d'Art moderne de San Francisco",
+   "Tate Modern",
+   "Philadelphia Museum of Art",
+   "musée d'art de l'université de l'Indiana"
+  ],
+  "P136": [
+   "sculpture"
+  ],
+  "P186": [
+   "porcelaine",
+   "peinture à l'huile"
+  ]
+ },
+ "sculptures-celebres_maman-sculpture": {
+  "qid": "Q180887",
+  "P170": [
+   "Louise Bourgeois"
+  ],
+  "P571": [
+   "1999"
+  ],
+  "P276": [
+   "Bilbao",
+   "Ottawa",
+   "Londres",
+   "Roppongi Hills"
+  ],
+  "P131": [
+   "Bilbao",
+   "Ottawa",
+   "arrondissement de Minato"
+  ],
+  "P17": [
+   "Espagne",
+   "Canada",
+   "Royaume-Uni",
+   "Japon"
+  ],
+  "P136": [
+   "art public"
+  ],
+  "P186": [
+   "bronze",
+   "acier inoxydable",
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_cloud-gate": {
+  "qid": "Q589099",
+  "P170": [
+   "Anish Kapoor"
+  ],
+  "P571": [
+   "2004"
+  ],
+  "P276": [
+   "Millennium Park"
+  ],
+  "P131": [
+   "Chicago"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007"
+  ],
+  "P136": [
+   "art public"
+  ],
+  "P186": [
+   "acier"
+  ]
+ },
+ "sculptures-celebres_apollon-et-daphne-le-bernin": {
+  "qid": "Q945850",
+  "P135": [
+   "baroque"
+  ],
+  "P170": [
+   "Le Bernin"
+  ],
+  "P571": [
+   "1622",
+   "1620"
+  ],
+  "P276": [
+   "Galerie Borghèse"
+  ],
+  "P195": [
+   "Galerie Borghèse"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "groupe sculpté"
+  ],
+  "P186": [
+   "marbre de Carrare"
+  ]
+ },
+ "sculptures-celebres_l-extase-de-sainte-therese": {
+  "qid": "Q1333433",
+  "P135": [
+   "Sculpture baroque"
+  ],
+  "P170": [
+   "Le Bernin"
+  ],
+  "P571": [
+   "1647"
+  ],
+  "P276": [
+   "chapelle Cornaro"
+  ],
+  "P195": [
+   "église Santa Maria Della Vittoria de Rome"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "sculpture religieuse"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_christ-des-abysses": {
+  "qid": "Q869818",
+  "P170": [
+   "Guido Galletti"
+  ],
+  "P571": [
+   "1954"
+  ],
+  "P276": [
+   "San Fruttuoso"
+  ],
+  "P131": [
+   "Camogli"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "art religieux"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_manneken-pis": {
+  "qid": "Q152072",
+  "P135": [
+   "baroque"
+  ],
+  "P170": [
+   "Jérôme Duquesnoy l'Ancien"
+  ],
+  "P571": [
+   "1619"
+  ],
+  "P276": [
+   "Pentagone"
+  ],
+  "P195": [
+   "Bruxelles"
+  ],
+  "P131": [
+   "Bruxelles"
+  ],
+  "P17": [
+   "Belgique"
+  ],
+  "P136": [
+   "statue fontaine"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_venus-de-willendorf": {
+  "qid": "Q131397",
+  "P135": [
+   "art du paléolithique"
+  ],
+  "P276": [
+   "Autriche"
+  ],
+  "P195": [
+   "muséum d'histoire naturelle de Vienne"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P136": [
+   "Vénus paléolithique"
+  ],
+  "P186": [
+   "oolitic limestone",
+   "calcaire"
+  ]
+ },
+ "sculptures-celebres_masque-funeraire-de-toutankhamon": {
+  "qid": "Q9048095",
+  "P571": [
+   "-1323",
+   "-1334"
+  ],
+  "P276": [
+   "musée égyptien du Caire"
+  ],
+  "P186": [
+   "or",
+   "lapis-lazuli",
+   "quartz",
+   "obsidienne",
+   "cornaline",
+   "feldspath",
+   "turquoise",
+   "amazonite",
+   "faïence égyptienne",
+   "khôl"
+  ],
+  "P2079": [
+   "repoussé"
+  ]
+ },
+ "sculptures-celebres_aurige-de-delphes": {
+  "qid": "Q1230882",
+  "P135": [
+   "style sévère"
+  ],
+  "P571": [
+   "-478",
+   "-478"
+  ],
+  "P276": [
+   "musée archéologique de Delphes"
+  ],
+  "P195": [
+   "musée archéologique de Delphes"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P136": [
+   "Grèce antique"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_apollon-du-belvedere": {
+  "qid": "Q619135",
+  "P135": [
+   "second classicisme grec"
+  ],
+  "P170": [
+   "Léocharès"
+  ],
+  "P571": [
+   "120",
+   "-350"
+  ],
+  "P276": [
+   "musées du Vatican"
+  ],
+  "P195": [
+   "musées du Vatican"
+  ],
+  "P17": [
+   "Vatican"
+  ],
+  "P136": [
+   "nu"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_galate-mourant": {
+  "qid": "Q848790",
+  "P135": [
+   "sculpture hellénistique"
+  ],
+  "P571": [
+   "-230",
+   "-220"
+  ],
+  "P276": [
+   "musées du Capitole"
+  ],
+  "P195": [
+   "musées du Capitole"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "nu héroïque",
+   "art de la Rome antique",
+   "art grec antique",
+   "art hellénistique"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_masque-d-agamemnon": {
+  "qid": "Q1126741",
+  "P571": [
+   "-1600",
+   "-1550"
+  ],
+  "P276": [
+   "musée national archéologique d'Athènes"
+  ],
+  "P195": [
+   "musée national archéologique d'Athènes"
+  ],
+  "P136": [
+   "civilisation mycénienne"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "sculptures-celebres_auguste-de-prima-porta": {
+  "qid": "Q667124",
+  "P571": [
+   "-20"
+  ],
+  "P276": [
+   "musées du Vatican"
+  ],
+  "P195": [
+   "musées du Vatican"
+  ],
+  "P17": [
+   "Vatican"
+  ]
+ },
+ "sculptures-celebres_statue-equestre-de-marc-aurele": {
+  "qid": "Q907387",
+  "P571": [
+   "173"
+  ],
+  "P276": [
+   "Latran",
+   "Place du Capitole",
+   "Exèdre Marc-Aurèle"
+  ],
+  "P195": [
+   "palais Neuf",
+   "musées du Capitole"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "statue équestre"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_louve-capitoline": {
+  "qid": "Q408623",
+  "P571": [
+   "-500"
+  ],
+  "P276": [
+   "musées du Capitole"
+  ],
+  "P195": [
+   "musées du Capitole"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_tete-colossale-olmeque": {
+  "qid": "Q3062269",
+  "P170": [
+   "Olmèques"
+  ]
+ },
+ "sculptures-celebres_bronzes-du-benin": {
+  "qid": "Q248101",
+  "P276": [
+   "musée ethnologique",
+   "British Museum",
+   "musée national du Nigeria"
+  ],
+  "P195": [
+   "British Museum",
+   "musée des Beaux-Arts de Boston",
+   "musée ethnologique"
+  ],
+  "P131": [
+   "Benin City"
+  ],
+  "P17": [
+   "Nigeria"
+  ],
+  "P186": [
+   "alliage de cuivre"
+  ],
+  "P2079": [
+   "cire perdue"
+  ]
+ },
+ "sculptures-celebres_david-donatello": {
+  "qid": "Q735085",
+  "P135": [
+   "Première Renaissance",
+   "Haute Renaissance"
+  ],
+  "P170": [
+   "Donatello"
+  ],
+  "P571": [
+   "1440"
+  ],
+  "P276": [
+   "Musée national du Bargello",
+   "palais de la Seigneurie",
+   "palais Medici-Riccardi"
+  ],
+  "P195": [
+   "Musée national du Bargello"
+  ],
+  "P495": [
+   "République florentine"
+  ],
+  "P136": [
+   "nu"
+  ],
+  "P186": [
+   "bronze"
+  ],
+  "P2079": [
+   "ronde-bosse"
+  ]
+ },
+ "sculptures-celebres_persee-tenant-la-tete-de-meduse-cellini": {
+  "qid": "Q599034",
+  "P135": [
+   "Renaissance"
+  ],
+  "P170": [
+   "Benvenuto Cellini"
+  ],
+  "P571": [
+   "1600"
+  ],
+  "P276": [
+   "loggia des Lanzi"
+  ],
+  "P195": [
+   "loggia des Lanzi"
+  ],
+  "P131": [
+   "Florence"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "nu",
+   "œuvre visuelle mythologique"
+  ],
+  "P186": [
+   "bronze"
+  ],
+  "P2079": [
+   "cire perdue"
+  ]
+ },
+ "sculptures-celebres_moise-michel-ange": {
+  "qid": "Q1989744",
+  "P135": [
+   "Haute Renaissance"
+  ],
+  "P170": [
+   "Michel-Ange Buronarroti"
+  ],
+  "P571": [
+   "1510"
+  ],
+  "P276": [
+   "basilique Saint-Pierre-aux-Liens"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "sculpture"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_l-enlevement-de-proserpine-le-bernin": {
+  "qid": "Q2352789",
+  "P135": [
+   "baroque"
+  ],
+  "P170": [
+   "Le Bernin"
+  ],
+  "P571": [
+   "1624"
+  ],
+  "P276": [
+   "Galerie Borghèse"
+  ],
+  "P195": [
+   "Galerie Borghèse",
+   "collection Borghèse"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P136": [
+   "groupe sculpté",
+   "sculpture mythologique",
+   "nu"
+  ],
+  "P186": [
+   "Marbre blanc"
+  ]
+ },
+ "sculptures-celebres_psyche-ranimee-par-le-baiser-de-l-amour": {
+  "qid": "Q517408",
+  "P135": [
+   "néo-classicisme"
+  ],
+  "P170": [
+   "Antonio Canova"
+  ],
+  "P571": [
+   "1794"
+  ],
+  "P276": [
+   "galerie Michel-Ange"
+  ],
+  "P195": [
+   "département des sculptures du musée du Louvre"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "nu",
+   "sculpture mythologique",
+   "groupe sculpté"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ },
+ "sculptures-celebres_le-depart-des-volontaires-de-1792": {
+  "qid": "Q28061748",
+  "P135": [
+   "romantisme",
+   "néo-classicisme"
+  ],
+  "P170": [
+   "François Rude"
+  ],
+  "P571": [
+   "1830",
+   "1833"
+  ],
+  "P276": [
+   "arc de triomphe de l'Étoile"
+  ],
+  "P131": [
+   "Paris"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "sculptures-celebres_la-porte-de-l-enfer": {
+  "qid": "Q2003287",
+  "P135": [
+   "impressionnisme"
+  ],
+  "P170": [
+   "Auguste Rodin"
+  ],
+  "P571": [
+   "1880",
+   "1880"
+  ],
+  "P276": [
+   "musée d'Orsay",
+   "musée Soumaya",
+   "musée Rodin",
+   "musée Rodin",
+   "musée national de l'Art occidental",
+   "Université Stanford",
+   "Rodin Gallery",
+   "France"
+  ],
+  "P195": [
+   "musée d'Orsay",
+   "musée Soumaya"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "or",
+   "argent"
+  ],
+  "P527": [
+   "Fugitive Love motive",
+   "Les Ombres"
+  ]
+ },
+ "sculptures-celebres_la-valse-camille-claudel": {
+  "qid": "Q19945289",
+  "P170": [
+   "Camille Claudel"
+  ],
+  "P571": [
+   "1883",
+   "1904"
+  ],
+  "P276": [
+   "musée Soumaya"
+  ],
+  "P195": [
+   "musée Rodin"
+  ],
+  "P50": [
+   "Camille Claudel"
+  ],
+  "P136": [
+   "groupe sculpté",
+   "nu"
+  ],
+  "P186": [
+   "Plastilina"
+  ]
+ },
+ "sculptures-celebres_lion-de-belfort": {
+  "qid": "Q926536",
+  "P170": [
+   "Auguste Bartholdi"
+  ],
+  "P571": [
+   "1879"
+  ],
+  "P131": [
+   "Belfort"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "sculpture animalière",
+   "art public"
+  ],
+  "P186": [
+   "grès"
+  ],
+  "P2079": [
+   "haut-relief"
+  ]
+ },
+ "sculptures-celebres_oiseau-dans-l-espace": {
+  "qid": "Q2381632",
+  "P135": [
+   "modernisme",
+   "art abstrait"
+  ],
+  "P170": [
+   "Constantin Brâncuși"
+  ],
+  "P571": [
+   "1923"
+  ],
+  "P276": [
+   "Metropolitan Museum of Art",
+   "France",
+   "Roumanie"
+  ],
+  "P195": [
+   "Museum of Modern Art",
+   "Metropolitan Museum of Art"
+  ],
+  "P136": [
+   "modernisme"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_nana-niki-de-saint-phalle": {
+  "qid": "Q439104",
+  "P170": [
+   "Niki de Saint Phalle"
+  ],
+  "P136": [
+   "art public"
+  ]
+ },
+ "sculptures-celebres_balloon-dog": {
+  "qid": "Q2066869",
+  "P135": [
+   "néo pop"
+  ],
+  "P170": [
+   "Jeff Koons"
+  ],
+  "P571": [
+   "1994"
+  ],
+  "P276": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Balloon Dog (Blue)",
+   "Balloon Dog (Magenta)",
+   "Balloon Dog (Yellow)",
+   "Balloon Dog (Orage)",
+   "Balloon Dog (Red)"
+  ]
+ },
+ "sculptures-celebres_ange-du-nord": {
+  "qid": "Q1325290",
+  "P135": [
+   "art contemporain"
+  ],
+  "P170": [
+   "Antony Gormley"
+  ],
+  "P571": [
+   "1998",
+   "1994"
+  ],
+  "P276": [
+   "Low Eighton"
+  ],
+  "P131": [
+   "Lamesley"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "art public"
+  ],
+  "P186": [
+   "acier"
+  ]
+ },
+ "sculptures-celebres_taureau-de-wall-street": {
+  "qid": "Q860129",
+  "P170": [
+   "Arturo Di Modica"
+  ],
+  "P571": [
+   "1989"
+  ],
+  "P276": [
+   "Bowling Green Park"
+  ],
+  "P131": [
+   "New York"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sculpture animalière",
+   "art public"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "sculptures-celebres_statue-de-la-mere-patrie-volgograd": {
+  "qid": "Q1601986",
+  "P170": [
+   "Ievgueni Voutchetitch",
+   "Nikolaï Nikitine"
+  ],
+  "P571": [
+   "1959"
+  ],
+  "P276": [
+   "Kourgane Mamaïev"
+  ],
+  "P131": [
+   "Tsentralny District"
+  ],
+  "P17": [
+   "Russie",
+   "Union soviétique"
+  ],
+  "P136": [
+   "art public",
+   "sculpture allégorique",
+   "monument aux morts"
+  ],
+  "P186": [
+   "béton de ciment",
+   "câble de traction"
+  ]
+ },
+ "sculptures-celebres_kotoku-in": {
+  "qid": "Q672056",
+  "P571": [
+   "1252"
+  ],
+  "P131": [
+   "Hase"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "grand Bouddha de Kamakura"
+  ]
+ },
+ "sculptures-celebres_la-petite-sirene-copenhague": {
+  "qid": "Q214619",
+  "P170": [
+   "Edvard Eriksen"
+  ],
+  "P571": [
+   "1913"
+  ],
+  "P276": [
+   "Langelinie"
+  ],
+  "P131": [
+   "commune de Copenhague"
+  ],
+  "P17": [
+   "Danemark"
+  ],
+  "P136": [
+   "nu",
+   "art public",
+   "statue"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ }
+}

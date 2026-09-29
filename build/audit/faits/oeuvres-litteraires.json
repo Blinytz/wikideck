@@ -1,0 +1,1705 @@
+{
+ "oeuvres-litteraires_iliade": {
+  "qid": "Q8275",
+  "P571": [
+   "-800"
+  ],
+  "P495": [
+   "Grèce antique"
+  ],
+  "P50": [
+   "Homère"
+  ],
+  "P136": [
+   "épopée"
+  ],
+  "P527": [
+   "Chant I",
+   "Chant II",
+   "Chant III",
+   "Chant IV",
+   "Chant V",
+   "Chant VI",
+   "Chant VII",
+   "Chant VIII",
+   "Chant IX",
+   "Chant X",
+   "Chant XI",
+   "Chant XII",
+   "Chant XIII",
+   "Chant XIV",
+   "Chant XV",
+   "Chant XVI",
+   "Chant XVII",
+   "Chant XVIII",
+   "Chant XIX",
+   "Chant XX",
+   "Chant XXI",
+   "Chant XXII",
+   "Chant XXIII",
+   "Chant XXIV",
+   "proem of the Iliad"
+  ]
+ },
+ "oeuvres-litteraires_metamorphoses-ovide": {
+  "qid": "Q184742",
+  "P571": [
+   "1"
+  ],
+  "P495": [
+   "Rome antique",
+   "Empire romain"
+  ],
+  "P50": [
+   "Ovide"
+  ],
+  "P136": [
+   "épopée"
+  ],
+  "P527": [
+   "Q63215686",
+   "The Creation",
+   "Four Ages",
+   "Baucis and Philemon",
+   "Pyramus and Thisbe"
+  ]
+ },
+ "oeuvres-litteraires_eneide": {
+  "qid": "Q60220",
+  "P571": [
+   "-50",
+   "-100"
+  ],
+  "P495": [
+   "Rome antique"
+  ],
+  "P50": [
+   "Virgile"
+  ],
+  "P136": [
+   "littérature épique",
+   "épopée"
+  ],
+  "P527": [
+   "Chant I",
+   "Chant II",
+   "Chant III",
+   "Chant IV",
+   "Chant V",
+   "Chant VI",
+   "Chant VII",
+   "Chant VIII",
+   "Chant IX",
+   "Chant X",
+   "Chant XI",
+   "Chant XII"
+  ]
+ },
+ "oeuvres-litteraires_epopee-de-gilgamesh": {
+  "qid": "Q8272",
+  "P571": [
+   "-2100"
+  ],
+  "P276": [
+   "Mésopotamie"
+  ],
+  "P136": [
+   "épopée"
+  ]
+ },
+ "oeuvres-litteraires_les-mille-et-une-nuits": {
+  "qid": "Q8258",
+  "P495": [
+   "Moyen-Orient"
+  ],
+  "P50": [
+   "AA.VV."
+  ],
+  "P527": [
+   "Sinbad le marin",
+   "The Ruined Man of Baghdad and His Slave-Girl",
+   "Les Amants à l'école",
+   "Le Muletier et le Voleur"
+  ]
+ },
+ "oeuvres-litteraires_divine-comedie": {
+  "qid": "Q40185",
+  "P571": [
+   "1320"
+  ],
+  "P50": [
+   "Dante Alighieri"
+  ],
+  "P136": [
+   "épopée"
+  ],
+  "P527": [
+   "Enfer",
+   "Purgatoire",
+   "Paradis"
+  ]
+ },
+ "oeuvres-litteraires_decameron": {
+  "qid": "Q16438",
+  "P571": [
+   "1351"
+  ],
+  "P495": [
+   "Italie",
+   "République florentine",
+   "Saint-Empire romain germanique"
+  ],
+  "P50": [
+   "Boccace"
+  ],
+  "P136": [
+   "novella"
+  ],
+  "P527": [
+   "Proême",
+   "Première journée",
+   "Deuxième journée",
+   "Troisième journée",
+   "Quatrième journée",
+   "Cinquième journée",
+   "Sixième journée",
+   "Septième journée",
+   "Huitième journée",
+   "Neuvième journée",
+   "Dixième journée",
+   "Conclusion"
+  ]
+ },
+ "oeuvres-litteraires_les-contes-de-canterbury": {
+  "qid": "Q191663",
+  "P495": [
+   "Angleterre"
+  ],
+  "P50": [
+   "Geoffrey Chaucer"
+  ],
+  "P577": [
+   "1387"
+  ],
+  "P136": [
+   "littérature de langue anglaise"
+  ],
+  "P527": [
+   "Prologue général",
+   "Le Conte du Chevalier",
+   "Le Conte du Meunier",
+   "Le Conte du régisseur",
+   "Le Conte du cuisinier",
+   "Le Conte du juriste",
+   "Le Conte de la bourgeoise de Bath",
+   "Le Conte du Frère mendiant",
+   "Le Conte de l'huissier d'église",
+   "Le Conte de l'universitaire d'Oxford",
+   "Le Conte du Marchand",
+   "Le Conte de l'écuyer",
+   "Le Conte du médecin",
+   "Le Conte du vendeur d'indulgences",
+   "Le Conte du marin",
+   "Le Conte de la Prieure",
+   "Mellibée et Dame Prudence",
+   "Le Conte du moine",
+   "Le Conte de l'aumônier des nonnes",
+   "Le Conte de la deuxième nonne",
+   "Le Conte de l'assistant du chanoine",
+   "Le Conte de l'économe",
+   "La Prestation du curé",
+   "Le Conte du Franklin",
+   "Gamelyn"
+  ]
+ },
+ "oeuvres-litteraires_pantagruel": {
+  "qid": "Q537242",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "François Rabelais"
+  ],
+  "P577": [
+   "1532"
+  ]
+ },
+ "oeuvres-litteraires_essais-montaigne": {
+  "qid": "Q624852",
+  "P50": [
+   "Michel de Montaigne"
+  ],
+  "P136": [
+   "autobiographie",
+   "essai"
+  ]
+ },
+ "oeuvres-litteraires_le-misanthrope": {
+  "qid": "Q1053387",
+  "P571": [
+   "1666"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Molière"
+  ],
+  "P577": [
+   "1666"
+  ],
+  "P136": [
+   "comédie de mœurs"
+  ]
+ },
+ "oeuvres-litteraires_fables-de-la-fontaine": {
+  "qid": "Q2748292",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jean de La Fontaine"
+  ],
+  "P577": [
+   "1668"
+  ],
+  "P527": [
+   "L’Avare"
+  ]
+ },
+ "oeuvres-litteraires_le-cid-corneille": {
+  "qid": "Q637787",
+  "P135": [
+   "classicisme"
+  ],
+  "P571": [
+   "1636"
+  ],
+  "P50": [
+   "Pierre Corneille"
+  ],
+  "P136": [
+   "tragi-comédie",
+   "drame"
+  ]
+ },
+ "oeuvres-litteraires_phedre-racine": {
+  "qid": "Q969098",
+  "P135": [
+   "classicisme"
+  ],
+  "P571": [
+   "1677"
+  ],
+  "P50": [
+   "Jean Racine"
+  ],
+  "P577": [
+   "1677"
+  ],
+  "P136": [
+   "tragédie"
+  ]
+ },
+ "oeuvres-litteraires_candide": {
+  "qid": "Q215894",
+  "P571": [
+   "1782"
+  ],
+  "P495": [
+   "France",
+   "royaume de France"
+  ],
+  "P50": [
+   "Voltaire"
+  ],
+  "P577": [
+   "1759"
+  ],
+  "P136": [
+   "roman d'apprentissage"
+  ]
+ },
+ "oeuvres-litteraires_les-liaisons-dangereuses": {
+  "qid": "Q862050",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Pierre Choderlos de Laclos"
+  ],
+  "P577": [
+   "1782"
+  ],
+  "P136": [
+   "fiction épistolaire",
+   "roman libertin",
+   "érotisme",
+   "drame",
+   "fiction satirique",
+   "manuscrit trouvé"
+  ]
+ },
+ "oeuvres-litteraires_les-miserables": {
+  "qid": "Q180736",
+  "P571": [
+   "1900"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Q535"
+  ],
+  "P577": [
+   "1862"
+  ],
+  "P136": [
+   "tragédie",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_notre-dame-de-paris-roman": {
+  "qid": "Q191380",
+  "P135": [
+   "romantisme"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Q535"
+  ],
+  "P577": [
+   "1831"
+  ],
+  "P136": [
+   "fiction gothique",
+   "romantisme",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_les-trois-mousquetaires": {
+  "qid": "Q140527",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Alexandre Dumas"
+  ],
+  "P577": [
+   "1844"
+  ],
+  "P136": [
+   "roman-feuilleton",
+   "fiction d'aventures"
+  ]
+ },
+ "oeuvres-litteraires_le-rouge-et-le-noir": {
+  "qid": "Q192649",
+  "P135": [
+   "romantisme",
+   "réalisme"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Stendhal"
+  ],
+  "P577": [
+   "1830"
+  ],
+  "P136": [
+   "roman d'apprentissage",
+   "fiction historique",
+   "fiction psychologique"
+  ]
+ },
+ "oeuvres-litteraires_le-pere-goriot": {
+  "qid": "Q240617",
+  "P135": [
+   "réalisme"
+  ],
+  "P571": [
+   "1835"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Honoré de Balzac"
+  ],
+  "P577": [
+   "1835"
+  ],
+  "P136": [
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_madame-bovary": {
+  "qid": "Q193417",
+  "P135": [
+   "réalisme"
+  ],
+  "P571": [
+   "1856"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Gustave Flaubert"
+  ],
+  "P577": [
+   "1857"
+  ],
+  "P136": [
+   "roman réaliste"
+  ]
+ },
+ "oeuvres-litteraires_germinal-roman": {
+  "qid": "Q137869",
+  "P135": [
+   "naturalisme",
+   "réalisme"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Émile Zola"
+  ],
+  "P577": [
+   "1885"
+  ],
+  "P136": [
+   "fiction philosophique",
+   "fiction sociale"
+  ]
+ },
+ "oeuvres-litteraires_les-fleurs-du-mal": {
+  "qid": "Q216578",
+  "P571": [
+   "1840"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Charles Baudelaire"
+  ],
+  "P577": [
+   "1857"
+  ],
+  "P136": [
+   "poésie",
+   "poésie narrative"
+  ],
+  "P527": [
+   "Abel et Caïn",
+   "Au lecteur",
+   "Bénédiction",
+   "L'Albatros",
+   "Élévation",
+   "Correspondances",
+   "« J’aime le souvenir de ces époques nues »",
+   "Les Phares",
+   "La Muse malade",
+   "La Muse vénale",
+   "Le Mauvais Moine",
+   "L'Ennemi",
+   "Le Guignon",
+   "La Vie antérieure",
+   "L'Homme et la Mer",
+   "Don Juan aux enfers",
+   "Châtiment de l’orgueil",
+   "La Beauté",
+   "L'Idéal",
+   "La Géante",
+   "Les Bijoux",
+   "Parfum exotique",
+   "Sed non satiata",
+   "Le Serpent qui danse",
+   "Une charogne",
+   "De profundis clamavi",
+   "Le Vampire",
+   "Le Léthé",
+   "Remords posthume",
+   "Tout entière",
+   "Le Flambeau vivant",
+   "À celle qui est trop gaie",
+   "Réversibilité",
+   "L’Aube spirituelle",
+   "Harmonie du soir",
+   "Le Flacon",
+   "Le Poison",
+   "Ciel brouillé",
+   "Le Beau Navire",
+   "L'Invitation au voyage",
+   "L’Irréparable",
+   "L'Héautontimorouménos",
+   "Franciscae meae laudes",
+   "À une dame créole",
+   "Moesta et Errabunda",
+   "Les Hiboux",
+   "Spleen (« Pluviôse, irrité contre la ville entière »)",
+   "Brumes et Pluies",
+   "L’Irremédiable",
+   "À une mendiante rousse",
+   "Le Jeu",
+   "Le Crépuscule du soir",
+   "Le Crépuscule du matin",
+   "« La servante au grand cœur dont vous étiez jalouse »",
+   "Le Tonneau de la haine",
+   "Le Revenant",
+   "Le Mort joyeux",
+   "Tristesses de la lune",
+   "La Pipe",
+   "Hymne à la beauté",
+   "La Chevelure",
+   "Duellum",
+   "Le Possédé",
+   "Semper eadem",
+   "Sisina",
+   "Alchimie de la douleur",
+   "L'Horloge",
+   "Paysage",
+   "Le Soleil",
+   "Le Cygne"
+  ]
+ },
+ "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
+  "qid": "Q183565",
+  "P571": [
+   "1869"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jules Verne"
+  ],
+  "P577": [
+   "1869"
+  ],
+  "P136": [
+   "science-fiction",
+   "fiction nautique",
+   "romance scientifique",
+   "littérature de voyage",
+   "fiction d'aventures",
+   "merveilleux scientifique"
+  ]
+ },
+ "oeuvres-litteraires_le-tour-du-monde-en-quatre-vingts-jours": {
+  "qid": "Q1219561",
+  "P571": [
+   "1872"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jules Verne"
+  ],
+  "P577": [
+   "1872"
+  ],
+  "P136": [
+   "roman-feuilleton",
+   "fiction d'aventures",
+   "fiction pour enfants"
+  ]
+ },
+ "oeuvres-litteraires_a-la-recherche-du-temps-perdu": {
+  "qid": "Q464928",
+  "P571": [
+   "2000"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Marcel Proust"
+  ],
+  "P577": [
+   "2000"
+  ],
+  "P136": [
+   "littérature moderniste"
+  ],
+  "P527": [
+   "Du côté de chez Swann",
+   "À l'ombre des jeunes filles en fleurs",
+   "Le Côté de Guermantes",
+   "Sodome et Gomorrhe",
+   "La Prisonnière",
+   "Albertine disparue",
+   "Le Temps retrouvé"
+  ]
+ },
+ "oeuvres-litteraires_l-etranger": {
+  "qid": "Q163297",
+  "P571": [
+   "1940",
+   "1942"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Albert Camus"
+  ],
+  "P577": [
+   "1942"
+  ],
+  "P136": [
+   "roman philosophique",
+   "littérature de l'absurde"
+  ]
+ },
+ "oeuvres-litteraires_la-peste": {
+  "qid": "Q320372",
+  "P135": [
+   "existentialisme"
+  ],
+  "P571": [
+   "1947"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Albert Camus"
+  ],
+  "P577": [
+   "1947"
+  ],
+  "P136": [
+   "absurde"
+  ]
+ },
+ "oeuvres-litteraires_voyage-au-bout-de-la-nuit": {
+  "qid": "Q774233",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Louis-Ferdinand Céline"
+  ],
+  "P577": [
+   "1932"
+  ],
+  "P136": [
+   "autobiographie",
+   "fiction militaire"
+  ]
+ },
+ "oeuvres-litteraires_orgueil-et-prejuges": {
+  "qid": "Q170583",
+  "P571": [
+   "1800"
+  ],
+  "P495": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Jane Austen"
+  ],
+  "P577": [
+   "1813"
+  ],
+  "P136": [
+   "roman de mœurs",
+   "fiction satirique",
+   "fiction psychologique",
+   "fiction romantique"
+  ]
+ },
+ "oeuvres-litteraires_les-hauts-de-hurlevent": {
+  "qid": "Q202975",
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P50": [
+   "Emily Brontë"
+  ],
+  "P577": [
+   "1847"
+  ],
+  "P136": [
+   "fiction gothique",
+   "littérature victorienne",
+   "fiction romantique",
+   "cautionary tale"
+  ]
+ },
+ "oeuvres-litteraires_moby-dick": {
+  "qid": "Q174596",
+  "P571": [
+   "1850"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Herman Melville"
+  ],
+  "P577": [
+   "1851",
+   "1851"
+  ],
+  "P136": [
+   "fiction nautique",
+   "fiction d'aventures"
+  ]
+ },
+ "oeuvres-litteraires_les-aventures-d-alice-au-pays-des-merveilles": {
+  "qid": "Q92640",
+  "P571": [
+   "1862"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Lewis Carroll"
+  ],
+  "P577": [
+   "1865"
+  ],
+  "P136": [
+   "conte merveilleux",
+   "littérature de l'absurde",
+   "fiction pour enfants",
+   "livre pour enfants"
+  ]
+ },
+ "oeuvres-litteraires_l-ile-au-tresor": {
+  "qid": "Q185118",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Robert Louis Stevenson"
+  ],
+  "P577": [
+   "1883"
+  ],
+  "P136": [
+   "récit initiatique",
+   "fiction nautique",
+   "fiction d'aventures",
+   "fiction de pirates"
+  ]
+ },
+ "oeuvres-litteraires_guerre-et-paix": {
+  "qid": "Q161531",
+  "P571": [
+   "1863"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P50": [
+   "Léon Tolstoï"
+  ],
+  "P577": [
+   "1869"
+  ],
+  "P136": [
+   "fiction romantique",
+   "fiction de guerre",
+   "fiction philosophique",
+   "fiction historique"
+  ],
+  "P527": [
+   "Q117285997",
+   "Q117285998",
+   "Q117285999",
+   "Q117286000",
+   "Q117286001"
+  ]
+ },
+ "oeuvres-litteraires_crime-et-chatiment": {
+  "qid": "Q165318",
+  "P571": [
+   "1865"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P50": [
+   "Fiodor Dostoïevski"
+  ],
+  "P577": [
+   "1866",
+   "1886"
+  ],
+  "P136": [
+   "fiction philosophique",
+   "roman-feuilleton",
+   "genre policier",
+   "fiction psychologique"
+  ]
+ },
+ "oeuvres-litteraires_les-freres-karamazov": {
+  "qid": "Q183157",
+  "P135": [
+   "existentialisme"
+  ],
+  "P571": [
+   "1878"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P50": [
+   "Fiodor Dostoïevski"
+  ],
+  "P577": [
+   "1880"
+  ],
+  "P136": [
+   "roman-feuilleton",
+   "fiction philosophique"
+  ],
+  "P527": [
+   "Le Grand Inquisiteur"
+  ]
+ },
+ "oeuvres-litteraires_ulysse-roman": {
+  "qid": "Q6511",
+  "P571": [
+   "1914"
+  ],
+  "P495": [
+   "France",
+   "États-Unis",
+   "Troisième République française",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P50": [
+   "James Joyce"
+  ],
+  "P577": [
+   "1922"
+  ],
+  "P136": [
+   "littérature moderniste",
+   "littérature expérimentale",
+   "littérature blanche",
+   "métafiction",
+   "roman-feuilleton",
+   "autobiographie",
+   "roman d'apprentissage"
+  ],
+  "P527": [
+   "Telemachus",
+   "Nestor",
+   "Proteus",
+   "Calypso",
+   "Lotus-eaters",
+   "Hades",
+   "Aeolus",
+   "Lestrygonians",
+   "Scylla and Charybdis",
+   "Wandering Rocks",
+   "Sirens",
+   "Cyclops",
+   "Nausikaa",
+   "Oxen of the Sun",
+   "Circe",
+   "Eumaeus",
+   "Ithaca",
+   "monologue de Molly Bloom"
+  ]
+ },
+ "oeuvres-litteraires_la-metamorphose": {
+  "qid": "Q184222",
+  "P135": [
+   "existentialisme"
+  ],
+  "P571": [
+   "1912"
+  ],
+  "P495": [
+   "Autriche-Hongrie",
+   "Autriche"
+  ],
+  "P50": [
+   "Franz Kafka"
+  ],
+  "P577": [
+   "1915",
+   "1915"
+  ],
+  "P136": [
+   "littérature épique",
+   "littérature de l'absurde",
+   "fiction body horror"
+  ]
+ },
+ "oeuvres-litteraires_le-proces": {
+  "qid": "Q36097",
+  "P571": [
+   "1914"
+  ],
+  "P495": [
+   "Allemagne",
+   "Autriche"
+  ],
+  "P50": [
+   "Franz Kafka"
+  ],
+  "P577": [
+   "1925"
+  ],
+  "P136": [
+   "littérature de l'absurde",
+   "fiction dystopique"
+  ]
+ },
+ "oeuvres-litteraires_gatsby-le-magnifique": {
+  "qid": "Q214371",
+  "P571": [
+   "1925"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "F. Scott Fitzgerald"
+  ],
+  "P577": [
+   "1925"
+  ],
+  "P136": [
+   "tragédie",
+   "Great American Novel"
+  ]
+ },
+ "oeuvres-litteraires_le-vieil-homme-et-la-mer": {
+  "qid": "Q26505",
+  "P571": [
+   "1958",
+   "1952"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Ernest Hemingway"
+  ],
+  "P577": [
+   "1952"
+  ],
+  "P136": [
+   "littérature",
+   "roman court"
+  ]
+ },
+ "oeuvres-litteraires_les-raisins-de-la-colere": {
+  "qid": "Q215983",
+  "P135": [
+   "réalisme"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "John Steinbeck"
+  ],
+  "P577": [
+   "1939",
+   "1939"
+  ],
+  "P136": [
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_1984-roman": {
+  "qid": "Q208460",
+  "P571": [
+   "1948"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "George Orwell"
+  ],
+  "P577": [
+   "1949"
+  ],
+  "P136": [
+   "anticipation",
+   "fiction politique",
+   "science-fiction",
+   "fiction dystopique"
+  ]
+ },
+ "oeuvres-litteraires_la-ferme-des-animaux": {
+  "qid": "Q1396889",
+  "P571": [
+   "1945"
+  ],
+  "P495": [
+   "Angleterre"
+  ],
+  "P50": [
+   "George Orwell"
+  ],
+  "P577": [
+   "1945"
+  ],
+  "P136": [
+   "roman à clef",
+   "fiction satirique",
+   "fable",
+   "fiction dystopique"
+  ]
+ },
+ "oeuvres-litteraires_le-meilleur-des-mondes": {
+  "qid": "Q191949",
+  "P571": [
+   "1932"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Aldous Huxley"
+  ],
+  "P577": [
+   "1932"
+  ],
+  "P136": [
+   "parodie",
+   "fiction politique",
+   "science-fiction",
+   "fiction philosophique",
+   "fiction dystopique"
+  ]
+ },
+ "oeuvres-litteraires_fahrenheit-451": {
+  "qid": "Q202009",
+  "P571": [
+   "1951"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Ray Bradbury"
+  ],
+  "P577": [
+   "1953"
+  ],
+  "P136": [
+   "science-fiction",
+   "fiction philosophique",
+   "fiction dystopique",
+   "roman philosophique",
+   "fiction politique"
+  ]
+ },
+ "oeuvres-litteraires_le-seigneur-des-anneaux": {
+  "qid": "Q15228",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "J. R. R. Tolkien"
+  ],
+  "P577": [
+   "1954"
+  ],
+  "P136": [
+   "fantasy",
+   "high fantasy",
+   "fiction d'aventures"
+  ],
+  "P527": [
+   "Prologue",
+   "La Communauté de l'anneau",
+   "Les Deux Tours",
+   "Le Retour du roi",
+   "Appendices du Seigneur des anneaux"
+  ]
+ },
+ "oeuvres-litteraires_le-hobbit": {
+  "qid": "Q74287",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "J. R. R. Tolkien"
+  ],
+  "P577": [
+   "1937",
+   "1937",
+   "1938"
+  ],
+  "P136": [
+   "fantasy jeunesse",
+   "fiction Young Adult",
+   "conte merveilleux",
+   "fantasy",
+   "high fantasy"
+  ]
+ },
+ "oeuvres-litteraires_le-trone-de-fer": {
+  "qid": "Q45875",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "George R. R. Martin"
+  ],
+  "P577": [
+   "1996"
+  ],
+  "P136": [
+   "fantasy",
+   "high fantasy"
+  ],
+  "P527": [
+   "A Game of Thrones",
+   "A Clash of Kings",
+   "Intrigues à Port-Réal / L'Épée de feu / Les Noces pourpres / La Loi du régicide",
+   "A Feast for Crows",
+   "A Dance with Dragons",
+   "The Winds of Winter",
+   "A Dream of Spring"
+  ]
+ },
+ "oeuvres-litteraires_dune-roman": {
+  "qid": "Q190192",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Frank Herbert"
+  ],
+  "P577": [
+   "1965"
+  ],
+  "P136": [
+   "science-fiction douce",
+   "planet opera",
+   "anticipation",
+   "science-fiction",
+   "fiction d'aventures"
+  ]
+ },
+ "oeuvres-litteraires_fondation-isaac-asimov": {
+  "qid": "Q753894",
+  "P571": [
+   "1942"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Isaac Asimov"
+  ],
+  "P577": [
+   "1951"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "oeuvres-litteraires_cent-ans-de-solitude": {
+  "qid": "Q178869",
+  "P135": [
+   "réalisme magique"
+  ],
+  "P571": [
+   "1960"
+  ],
+  "P495": [
+   "Argentine"
+  ],
+  "P50": [
+   "Gabriel García Márquez"
+  ],
+  "P577": [
+   "1967"
+  ],
+  "P136": [
+   "réalisme magique"
+  ]
+ },
+ "oeuvres-litteraires_le-nom-de-la-rose-roman": {
+  "qid": "Q172850",
+  "P571": [
+   "1980"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P50": [
+   "Umberto Eco"
+  ],
+  "P577": [
+   "1980"
+  ],
+  "P136": [
+   "policier historique",
+   "genre policier",
+   "thriller",
+   "manuscrit trouvé",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_lolita": {
+  "qid": "Q127149",
+  "P571": [
+   "1950"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Vladimir Nabokov"
+  ],
+  "P577": [
+   "1955"
+  ],
+  "P136": [
+   "tragi-comédie",
+   "métafiction",
+   "confessional fiction",
+   "manuscrit trouvé",
+   "érotisme",
+   "fiction de détective"
+  ]
+ },
+ "oeuvres-litteraires_l-attrape-c-urs": {
+  "qid": "Q183883",
+  "P135": [
+   "réalisme"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "J. D. Salinger"
+  ],
+  "P577": [
+   "1951"
+  ],
+  "P136": [
+   "roman d'apprentissage"
+  ]
+ },
+ "oeuvres-litteraires_ne-tirez-pas-sur-l-oiseau-moqueur": {
+  "qid": "Q212340",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Harper Lee"
+  ],
+  "P577": [
+   "1960"
+  ],
+  "P136": [
+   "roman d'apprentissage",
+   "Southern Gothic",
+   "fiction sociale",
+   "legal fiction"
+  ]
+ },
+ "oeuvres-litteraires_beloved-roman": {
+  "qid": "Q971767",
+  "P135": [
+   "littérature postmoderniste",
+   "réalisme magique"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Toni Morrison"
+  ],
+  "P577": [
+   "1987"
+  ],
+  "P136": [
+   "magic realist fiction",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_le-maitre-et-marguerite": {
+  "qid": "Q188538",
+  "P571": [
+   "1928"
+  ],
+  "P495": [
+   "Union soviétique"
+  ],
+  "P50": [
+   "Mikhaïl Boulgakov"
+  ],
+  "P577": [
+   "1967",
+   "1928"
+  ],
+  "P136": [
+   "réalisme fantastique"
+  ]
+ },
+ "oeuvres-litteraires_l-archipel-du-goulag": {
+  "qid": "Q369944",
+  "P571": [
+   "1958"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Alexandre Soljenitsyne"
+  ],
+  "P577": [
+   "1973"
+  ],
+  "P136": [
+   "autobiographie",
+   "essai"
+  ]
+ },
+ "oeuvres-litteraires_le-journal-d-anne-frank": {
+  "qid": "Q6911",
+  "P571": [
+   "1942"
+  ],
+  "P495": [
+   "Pays-Bas"
+  ],
+  "P50": [
+   "Anne Frank"
+  ],
+  "P577": [
+   "1947"
+  ],
+  "P136": [
+   "autobiographie",
+   "diary literature",
+   "littérature de la Shoah"
+  ]
+ },
+ "oeuvres-litteraires_si-c-est-un-homme": {
+  "qid": "Q836036",
+  "P571": [
+   "1946"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P50": [
+   "Primo Levi"
+  ],
+  "P577": [
+   "1946"
+  ],
+  "P136": [
+   "autobiographie"
+  ]
+ },
+ "oeuvres-litteraires_le-reve-dans-le-pavillon-rouge": {
+  "qid": "Q8265",
+  "P571": [
+   "1701"
+  ],
+  "P495": [
+   "dynastie Qing"
+  ],
+  "P50": [
+   "Cao Xueqin"
+  ],
+  "P577": [
+   "1792",
+   "1800",
+   "1868"
+  ],
+  "P136": [
+   "zhanghui",
+   "xiaoshuo",
+   "saga familiale"
+  ]
+ },
+ "oeuvres-litteraires_le-dit-du-genji": {
+  "qid": "Q8269",
+  "P571": [
+   "1010"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P50": [
+   "Murasaki Shikibu"
+  ],
+  "P136": [
+   "tsukuri monogatari",
+   "monogatari",
+   "roman d'amour"
+  ],
+  "P527": [
+   "Kiritsubo",
+   "Hahakigi",
+   "Utsusemi",
+   "Yūgao",
+   "Wakamurasaki",
+   "Suetsumuhana",
+   "Momiji no Ga",
+   "Hana no En",
+   "Aoi",
+   "Sakaki",
+   "Hanachirusato",
+   "Suma",
+   "Akashi",
+   "Miotsukushi",
+   "Yomogiu",
+   "Sekiya",
+   "Eawase",
+   "Matsukaze",
+   "Usugumo",
+   "Asagao",
+   "Otome",
+   "Tamakazura",
+   "Hatsune",
+   "Kochō",
+   "Hotaru",
+   "Tokonatsu",
+   "Kagaribi",
+   "Nowaki",
+   "Miyuki",
+   "Fujibakama",
+   "Makibashira",
+   "Umegae",
+   "Fuji no Uraba",
+   "Wakana",
+   "Kashiwagi",
+   "Yokobue",
+   "Suzumushi",
+   "Yūgiri",
+   "Minori",
+   "Maboroshi",
+   "Kumogakure",
+   "Niōnomiya",
+   "Kōbai",
+   "Takekawa",
+   "Hashihime",
+   "Shiigamoto",
+   "Agemaki",
+   "Sawarabi",
+   "Yadorigi",
+   "Azumaya",
+   "Ukifune",
+   "Kagerō",
+   "Tenarai",
+   "Yume no Ukihashi"
+  ]
+ },
+ "oeuvres-litteraires_les-trois-royaumes-roman": {
+  "qid": "Q70806",
+  "P495": [
+   "dynastie Yuan en Chine",
+   "dynastie Ming"
+  ],
+  "P50": [
+   "Luo Guanzhong",
+   "Jiang Daqi"
+  ],
+  "P577": [
+   "1350"
+  ],
+  "P136": [
+   "roman de guerre",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_mahabharata": {
+  "qid": "Q8276",
+  "P50": [
+   "Vyāsa"
+  ],
+  "P136": [
+   "épopée"
+  ],
+  "P527": [
+   "Adi Parva",
+   "Sabha Parva",
+   "Vana Parva",
+   "Virata Parva",
+   "Udyoga Parva",
+   "Bhisma Parva",
+   "Drona Parva",
+   "Karna Parva",
+   "Shalya Parva",
+   "Sauptika Parva",
+   "Stri Parva",
+   "Shanti Parva",
+   "Anushasana Parva",
+   "Ashvamedhika Parva",
+   "Ashramavasika Parva",
+   "Mausala Parva",
+   "Mahaprasthanika Parva",
+   "Svargarohana Parva",
+   "Harivaṃśa",
+   "Bhagavad-Gītā"
+  ]
+ },
+ "oeuvres-litteraires_tout-s-effondre": {
+  "qid": "Q622400",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Chinua Achebe"
+  ],
+  "P577": [
+   "1958",
+   "1968"
+  ],
+  "P136": [
+   "littérature fictionnelle",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_le-chateau": {
+  "qid": "Q682733",
+  "P571": [
+   "1922"
+  ],
+  "P495": [
+   "Tchécoslovaquie",
+   "Autriche"
+  ],
+  "P50": [
+   "Franz Kafka"
+  ],
+  "P577": [
+   "1926"
+  ],
+  "P136": [
+   "fiction philosophique",
+   "fiction dystopique"
+  ]
+ },
+ "oeuvres-litteraires_le-parfum": {
+  "qid": "Q459303",
+  "P571": [
+   "1949"
+  ],
+  "P50": [
+   "Patrick Süskind"
+  ],
+  "P577": [
+   "1985"
+  ],
+  "P136": [
+   "roman de développement",
+   "Künstlerroman",
+   "fiction historique"
+  ]
+ },
+ "oeuvres-litteraires_le-grand-meaulnes": {
+  "qid": "Q1198839",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Alain-Fournier"
+  ],
+  "P577": [
+   "1913"
+  ],
+  "P136": [
+   "fiction romantique"
+  ]
+ },
+ "oeuvres-litteraires_bel-ami": {
+  "qid": "Q339761",
+  "P135": [
+   "réalisme"
+  ],
+  "P571": [
+   "1885"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Guy de Maupassant"
+  ],
+  "P577": [
+   "1885"
+  ],
+  "P136": [
+   "roman d'apprentissage"
+  ]
+ },
+ "oeuvres-litteraires_contes-de-l-enfance-et-du-foyer": {
+  "qid": "Q163027",
+  "P571": [
+   "1806"
+  ],
+  "P495": [
+   "Allemagne",
+   "royaume de Westphalie"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P50": [
+   "Jacob Grimm",
+   "Wilhelm Grimm",
+   "frères Grimm"
+  ],
+  "P577": [
+   "1812",
+   "1813",
+   "1819"
+  ],
+  "P136": [
+   "conte merveilleux",
+   "folklore"
+  ],
+  "P527": [
+   "Kinder- und Haus-Märchen Band 1",
+   "Kinder- und Haus-Märchen Band 2"
+  ]
+ },
+ "oeuvres-litteraires_la-case-de-l-oncle-tom": {
+  "qid": "Q2222",
+  "P571": [
+   "1852"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Harriet Beecher Stowe"
+  ],
+  "P577": [
+   "1852"
+  ],
+  "P136": [
+   "roman-feuilleton"
+  ],
+  "P527": [
+   "Q98837536",
+   "Q98837538"
+  ]
+ }
+}

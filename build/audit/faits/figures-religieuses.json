@@ -1,0 +1,1181 @@
+{
+ "figures-religieuses_jesus-de-nazareth": {
+  "qid": "Q51666",
+  "P570": [
+   "30",
+   "33"
+  ]
+ },
+ "figures-religieuses_siddhartha-gautama": {
+  "qid": "Q9441",
+  "P569": [
+   "-500",
+   "-563",
+   "-623"
+  ],
+  "P570": [
+   "-500",
+   "-483",
+   "-543"
+  ],
+  "P135": [
+   "Noble Chemin octuple",
+   "nirvāna",
+   "dharma"
+  ],
+  "P101": [
+   "philosophie",
+   "religion",
+   "Réforme sociale ou Révolution ?",
+   "paix",
+   "esprit",
+   "philosophie orientale"
+  ]
+ },
+ "figures-religieuses_mahomet": {
+  "qid": "Q9458",
+  "P569": [
+   "571",
+   "570"
+  ],
+  "P570": [
+   "632"
+  ]
+ },
+ "figures-religieuses_moise": {
+  "qid": "Q9077",
+  "P569": [
+   "-2000",
+   "-1393",
+   "-1526"
+  ],
+  "P570": [
+   "-1500",
+   "-1273",
+   "-1406"
+  ],
+  "P800": [
+   "Tables de la Loi",
+   "Exode hors d'Égypte"
+  ],
+  "P101": [
+   "philosophie morale"
+  ]
+ },
+ "figures-religieuses_abraham": {
+  "qid": "Q9181",
+  "P569": [
+   "-1813"
+  ],
+  "P570": [
+   "-1638"
+  ]
+ },
+ "figures-religieuses_zoroastre": {
+  "qid": "Q35811",
+  "P569": [
+   "-628"
+  ],
+  "P570": [
+   "-551"
+  ]
+ },
+ "figures-religieuses_mahavira": {
+  "qid": "Q9422",
+  "P569": [
+   "-599",
+   "-540"
+  ],
+  "P570": [
+   "-527",
+   "-468"
+  ],
+  "P27": [
+   "Videha"
+  ]
+ },
+ "figures-religieuses_guru-nanak": {
+  "qid": "Q83322",
+  "P569": [
+   "1469"
+  ],
+  "P570": [
+   "1539",
+   "1538",
+   "1539"
+  ]
+ },
+ "figures-religieuses_baha-u-llah": {
+  "qid": "Q101054",
+  "P569": [
+   "1817",
+   "1817"
+  ],
+  "P570": [
+   "1892",
+   "1892"
+  ],
+  "P27": [
+   "Perse qadjare"
+  ]
+ },
+ "figures-religieuses_joseph-smith": {
+  "qid": "Q47102",
+  "P569": [
+   "1805"
+  ],
+  "P570": [
+   "1844"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Livre de Mormon",
+   "Doctrine et Alliances",
+   "Perle de grand prix"
+  ],
+  "P101": [
+   "chef religieux"
+  ]
+ },
+ "figures-religieuses_mani-prophete": {
+  "qid": "Q203922",
+  "P569": [
+   "216"
+  ],
+  "P570": [
+   "274",
+   "277"
+  ],
+  "P27": [
+   "Empire parthe",
+   "Empire sassanide"
+  ]
+ },
+ "figures-religieuses_baal-shem-tov": {
+  "qid": "Q319062",
+  "P569": [
+   "1698",
+   "1700"
+  ],
+  "P570": [
+   "1760"
+  ],
+  "P27": [
+   "république des Deux Nations"
+  ],
+  "P800": [
+   "Shalosh Tenuot: mélodie en 3 strophes"
+  ],
+  "P101": [
+   "hassidisme",
+   "Kabbale"
+  ]
+ },
+ "figures-religieuses_paul-de-tarse": {
+  "qid": "Q9200",
+  "P569": [
+   "5"
+  ],
+  "P570": [
+   "66",
+   "64",
+   "65"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Épîtres de Paul"
+  ]
+ },
+ "figures-religieuses_pierre-apotre": {
+  "qid": "Q33923",
+  "P569": [
+   "-1"
+  ],
+  "P570": [
+   "65"
+  ]
+ },
+ "figures-religieuses_marie-mere-de-jesus": {
+  "qid": "Q345",
+  "P569": [
+   "-18"
+  ],
+  "P570": [
+   "48"
+  ]
+ },
+ "figures-religieuses_jean-le-baptiste": {
+  "qid": "Q40662",
+  "P569": [
+   "-6"
+  ],
+  "P570": [
+   "30"
+  ]
+ },
+ "figures-religieuses_marie-madeleine": {
+  "qid": "Q63070",
+  "P570": [
+   "100"
+  ]
+ },
+ "figures-religieuses_francois-d-assise": {
+  "qid": "Q676555",
+  "P569": [
+   "1182",
+   "1182",
+   "1182"
+  ],
+  "P570": [
+   "1226",
+   "1226"
+  ],
+  "P101": [
+   "théologie",
+   "mystique",
+   "prédication",
+   "poésie",
+   "prière",
+   "statuts"
+  ]
+ },
+ "figures-religieuses_jeanne-d-arc": {
+  "qid": "Q7226",
+  "P569": [
+   "1412"
+  ],
+  "P570": [
+   "1431"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "figures-religieuses_martin-luther": {
+  "qid": "Q9554",
+  "P569": [
+   "1483"
+  ],
+  "P570": [
+   "1546"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique",
+   "électorat de Saxe"
+  ],
+  "P135": [
+   "Renaissance allemande",
+   "Réforme protestante",
+   "protestantisme"
+  ],
+  "P800": [
+   "95 thèses",
+   "Bible de Luther"
+  ],
+  "P101": [
+   "théologie",
+   "philosophie",
+   "Réforme protestante",
+   "littérature",
+   "traduction"
+  ]
+ },
+ "figures-religieuses_jean-calvin": {
+  "qid": "Q37577",
+  "P569": [
+   "1509"
+  ],
+  "P570": [
+   "1564"
+  ],
+  "P27": [
+   "royaume de France",
+   "République de Genève"
+  ],
+  "P800": [
+   "Institution de la religion chrétienne"
+  ],
+  "P101": [
+   "théologie"
+  ]
+ },
+ "figures-religieuses_ignace-de-loyola": {
+  "qid": "Q44281",
+  "P569": [
+   "1491",
+   "1491",
+   "1491",
+   "1491"
+  ],
+  "P570": [
+   "1556"
+  ],
+  "P27": [
+   "couronne de Castille",
+   "Espagne"
+  ],
+  "P800": [
+   "Exercices spirituels"
+  ]
+ },
+ "figures-religieuses_therese-d-avila": {
+  "qid": "Q174880",
+  "P569": [
+   "1515"
+  ],
+  "P570": [
+   "1582"
+  ],
+  "P27": [
+   "Espagne",
+   "couronne de Castille"
+  ],
+  "P800": [
+   "Q130565065",
+   "Le Château intérieur"
+  ],
+  "P101": [
+   "réformateur religieux"
+  ],
+  "P136": [
+   "devotional literature"
+  ]
+ },
+ "figures-religieuses_hildegarde-de-bingen": {
+  "qid": "Q70991",
+  "P569": [
+   "1098"
+  ],
+  "P570": [
+   "1179"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P800": [
+   "Scivias",
+   "Ordo virtutum",
+   "Liber divinorum operum",
+   "Liber vitae meritorum",
+   "Vita sancti Ruperti",
+   "Vita sancti Dysibodi",
+   "Explanatio regulae sancti Benedicti",
+   "Physica",
+   "Causae et curae",
+   "Letters",
+   "Explanatio symboli sancti Athanasii",
+   "Solutiones",
+   "Expositiones evangeliorum",
+   "O viridissima virga"
+  ],
+  "P101": [
+   "mysticisme chrétien",
+   "médecine",
+   "écriture créative et professionnelle",
+   "poésie",
+   "musique"
+  ]
+ },
+ "figures-religieuses_mere-teresa": {
+  "qid": "Q30547",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Albanie",
+   "Inde",
+   "Empire ottoman",
+   "Union indienne"
+  ]
+ },
+ "figures-religieuses_jean-paul-ii": {
+  "qid": "Q989",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "Pologne",
+   "Vatican",
+   "Deuxième République de Pologne"
+  ],
+  "P101": [
+   "Petrine ministry",
+   "poésie",
+   "drame",
+   "scientific writing",
+   "cure",
+   "éducation",
+   "prédication"
+  ]
+ },
+ "figures-religieuses_benoit-de-nursie": {
+  "qid": "Q44265",
+  "P569": [
+   "480"
+  ],
+  "P570": [
+   "547"
+  ],
+  "P101": [
+   "théologie",
+   "vie monastique"
+  ]
+ },
+ "figures-religieuses_bernard-de-clairvaux": {
+  "qid": "Q188411",
+  "P569": [
+   "1091",
+   "1090"
+  ],
+  "P570": [
+   "1153",
+   "1153"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Sermones in Cantica",
+   "De diligendo Deo",
+   "Lettres"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie",
+   "vie monastique"
+  ]
+ },
+ "figures-religieuses_jerome-savonarole": {
+  "qid": "Q164823",
+  "P569": [
+   "1452"
+  ],
+  "P570": [
+   "1498"
+  ],
+  "P27": [
+   "duché de Ferrare",
+   "République florentine"
+  ],
+  "P135": [
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "De doctrina Aristotelis",
+   "Sermons",
+   "Trattato sul governo di Firenze",
+   "In psalmum \"Miserere\"",
+   "In psalmum \"In te, Domine, speravi\"",
+   "Breviario",
+   "Rime",
+   "Lettres",
+   "De veritate prophetica dyalogus",
+   "Apologeticus de ratione poeticae artis",
+   "Compendium philosophiae naturalis",
+   "Compendium philosophiae moralis",
+   "Compendium logicae"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie",
+   "homilétique",
+   "politique"
+  ]
+ },
+ "figures-religieuses_gregoire-ier": {
+  "qid": "Q42827",
+  "P569": [
+   "540",
+   "540"
+  ],
+  "P570": [
+   "604"
+  ],
+  "P800": [
+   "Q42188867",
+   "Registrum Gregorii",
+   "Règle pastorale",
+   "Morales sur Job",
+   "Omelie super Ezechielem"
+  ]
+ },
+ "figures-religieuses_cyrille-et-methode": {
+  "qid": "Q239925",
+  "P800": [
+   "Otche nash"
+  ],
+  "P527": [
+   "Cyrille",
+   "Méthode"
+  ]
+ },
+ "figures-religieuses_genevieve-de-paris": {
+  "qid": "Q235863",
+  "P569": [
+   "423"
+  ],
+  "P570": [
+   "502"
+  ],
+  "P27": [
+   "Empire romain d'Occident"
+  ]
+ },
+ "figures-religieuses_nicolas-de-myre": {
+  "qid": "Q44269",
+  "P569": [
+   "250",
+   "250",
+   "250",
+   "270",
+   "270",
+   "270",
+   "270",
+   "280",
+   "283",
+   "350"
+  ],
+  "P570": [
+   "350",
+   "350",
+   "326",
+   "342",
+   "343",
+   "343",
+   "343",
+   "350",
+   "345",
+   "348",
+   "350",
+   "352"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "figures-religieuses_patrick-d-irlande": {
+  "qid": "Q165479",
+  "P569": [
+   "385"
+  ],
+  "P570": [
+   "461",
+   "493"
+  ]
+ },
+ "figures-religieuses_ali-ibn-abi-talib": {
+  "qid": "Q39619",
+  "P569": [
+   "599"
+  ],
+  "P570": [
+   "661"
+  ],
+  "P27": [
+   "califat Rachidun"
+  ],
+  "P800": [
+   "Coran d'Ali"
+  ]
+ },
+ "figures-religieuses_abou-bakr-as-siddiq": {
+  "qid": "Q334923",
+  "P569": [
+   "573",
+   "573",
+   "572"
+  ],
+  "P570": [
+   "634",
+   "634"
+  ],
+  "P27": [
+   "califat Rachidun"
+  ]
+ },
+ "figures-religieuses_fatima-zahra": {
+  "qid": "Q180123",
+  "P569": [
+   "604",
+   "605",
+   "606"
+  ],
+  "P570": [
+   "632",
+   "633"
+  ],
+  "P27": [
+   "califat Rachidun"
+  ]
+ },
+ "figures-religieuses_ibn-arabi": {
+  "qid": "Q46420",
+  "P569": [
+   "1165",
+   "1165"
+  ],
+  "P570": [
+   "1240",
+   "1240"
+  ],
+  "P27": [
+   "califat almohade"
+  ],
+  "P800": [
+   "Les Illuminations de La Mecque",
+   "The Ringstones of Wisdom",
+   "The Interpreter of Desires",
+   "Al-Salat al-Nariyya",
+   "Al-Wasaya"
+  ],
+  "P101": [
+   "soufisme"
+  ]
+ },
+ "figures-religieuses_aicha": {
+  "qid": "Q4730963",
+  "P569": [
+   "614",
+   "605",
+   "604",
+   "617",
+   "610"
+  ],
+  "P570": [
+   "678",
+   "677",
+   "678"
+  ],
+  "P27": [
+   "califat Rachidun",
+   "Califat omeyyade"
+  ]
+ },
+ "figures-religieuses_rabia-al-adawiyya": {
+  "qid": "Q256506",
+  "P569": [
+   "710"
+  ],
+  "P570": [
+   "801"
+  ],
+  "P27": [
+   "Califat omeyyade",
+   "califat abbasside"
+  ],
+  "P101": [
+   "Zuhd en Islam",
+   "poésie"
+  ]
+ },
+ "figures-religieuses_bodhidharma": {
+  "qid": "Q187172",
+  "P569": [
+   "483",
+   "440"
+  ],
+  "P570": [
+   "540"
+  ],
+  "P27": [
+   "dynastie Wei du Nord"
+  ],
+  "P800": [
+   "Long Scroll of the Treatise on the Two Entrances and Four Practices"
+  ],
+  "P101": [
+   "zen",
+   "kung-fu"
+  ]
+ },
+ "figures-religieuses_tenzin-gyatso": {
+  "qid": "Q17293",
+  "P569": [
+   "1935"
+  ],
+  "P27": [
+   "Tibet"
+  ],
+  "P135": [
+   "pacifisme"
+  ],
+  "P800": [
+   "Universal Responsibility and the Good Heart"
+  ]
+ },
+ "figures-religieuses_milarepa": {
+  "qid": "Q3314017",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Éric-Emmanuel Schmitt"
+  ],
+  "P577": [
+   "1997"
+  ]
+ },
+ "figures-religieuses_padmasambhava": {
+  "qid": "Q231582",
+  "P569": [
+   "717"
+  ],
+  "P570": [
+   "762"
+  ]
+ },
+ "figures-religieuses_nichiren": {
+  "qid": "Q311478",
+  "P569": [
+   "1222",
+   "1222",
+   "1222"
+  ],
+  "P570": [
+   "1282",
+   "1282"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Risshō Ankokuron",
+   "Kaimoku-sho",
+   "Kanjin Honzon Shō",
+   "The Selection of the Time",
+   "On Repaying Debts of Gratitude",
+   "Dai Gohonzon"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "figures-religieuses_kukai": {
+  "qid": "Q222227",
+  "P569": [
+   "774",
+   "774"
+  ],
+  "P570": [
+   "835"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Bunkyō Hifuron",
+   "Tenrei Banshō Meigi",
+   "Treatise on the Ten Stages of the Development of Mind",
+   "Sangō Shiiki",
+   "Fūshinjō",
+   "Secret Key to the Heart Sutra",
+   "Shōryōshū",
+   "3D Mandala, Toji",
+   "On the Title of the Brahma Net Sūtra",
+   "On the Title of the Lotus Sūtra",
+   "On the Title of the Vajrasekhara Sutra",
+   "On the Meaning of the Syllable Hūṃ"
+  ]
+ },
+ "figures-religieuses_ramakrishna": {
+  "qid": "Q183126",
+  "P569": [
+   "1836"
+  ],
+  "P570": [
+   "1886"
+  ],
+  "P27": [
+   "Raj britannique"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "figures-religieuses_vivekananda": {
+  "qid": "Q47478",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1902"
+  ],
+  "P27": [
+   "Raj britannique"
+  ],
+  "P800": [
+   "Bartaman Bharat",
+   "Raja Yoga",
+   "Jnana Yoga",
+   "My India: The India Eternal",
+   "dnyanyog"
+  ],
+  "P101": [
+   "philosophie",
+   "Réforme sociale ou Révolution ?",
+   "religion",
+   "hindouisme",
+   "yoga"
+  ]
+ },
+ "figures-religieuses_noe-patriarche": {
+  "qid": "Q81422",
+  "P800": [
+   "Sepher Ha-Razim"
+  ]
+ },
+ "figures-religieuses_david-roi-d-israel": {
+  "qid": "Q41370",
+  "P569": [
+   "-1039",
+   "-1040"
+  ],
+  "P570": [
+   "-969",
+   "-961"
+  ],
+  "P27": [
+   "Monarchie unifiée d'Israël et Juda"
+  ],
+  "P800": [
+   "Livre des Psaumes"
+  ]
+ },
+ "figures-religieuses_salomon-roi-d-israel": {
+  "qid": "Q37085",
+  "P569": [
+   "-990"
+  ],
+  "P570": [
+   "-931"
+  ],
+  "P27": [
+   "Monarchie unifiée d'Israël et Juda"
+  ],
+  "P800": [
+   "temple de Salomon"
+  ]
+ },
+ "figures-religieuses_elie": {
+  "qid": "Q133507",
+  "P569": [
+   "-904"
+  ],
+  "P570": [
+   "-850"
+  ],
+  "P27": [
+   "royaume d'Israël"
+  ],
+  "P101": [
+   "prophétie",
+   "christianisme"
+  ]
+ },
+ "figures-religieuses_joseph-nouveau-testament": {
+  "qid": "Q128267",
+  "P569": [
+   "-30"
+  ],
+  "P570": [
+   "20"
+  ],
+  "P101": [
+   "charpenterie"
+  ]
+ },
+ "figures-religieuses_jean-apotre": {
+  "qid": "Q44015",
+  "P569": [
+   "11"
+  ],
+  "P570": [
+   "99"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "figures-religieuses_judas-iscariote": {
+  "qid": "Q81018",
+  "P570": [
+   "30"
+  ],
+  "P27": [
+   "Judée"
+  ]
+ },
+ "figures-religieuses_therese-de-lisieux": {
+  "qid": "Q181715",
+  "P569": [
+   "1873"
+  ],
+  "P570": [
+   "1897"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Histoire d'une âme"
+  ]
+ },
+ "figures-religieuses_bernadette-soubirous": {
+  "qid": "Q55398",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1879"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-religieuses_vincent-de-paul": {
+  "qid": "Q244413",
+  "P569": [
+   "1581"
+  ],
+  "P570": [
+   "1660"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "Contre-Réforme"
+  ]
+ },
+ "figures-religieuses_martin-de-tours": {
+  "qid": "Q133704",
+  "P569": [
+   "316",
+   "336"
+  ],
+  "P570": [
+   "397"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "figures-religieuses_georges-de-lydda": {
+  "qid": "Q48438",
+  "P569": [
+   "275",
+   "269",
+   "280"
+  ],
+  "P570": [
+   "303"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "figures-religieuses_valentin-de-terni": {
+  "qid": "Q192151",
+  "P569": [
+   "175",
+   "176"
+  ],
+  "P570": [
+   "273",
+   "269",
+   "270"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "figures-religieuses_john-wesley": {
+  "qid": "Q213393",
+  "P569": [
+   "1703"
+  ],
+  "P570": [
+   "1791"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "figures-religieuses_al-hussein-ibn-ali": {
+  "qid": "Q112128",
+  "P569": [
+   "626"
+  ],
+  "P570": [
+   "680"
+  ],
+  "P27": [
+   "califat Rachidun",
+   "Califat omeyyade"
+  ]
+ },
+ "figures-religieuses_khadija-bint-khuwaylid": {
+  "qid": "Q42034",
+  "P569": [
+   "557"
+  ],
+  "P570": [
+   "619"
+  ]
+ },
+ "figures-religieuses_omar-ibn-al-khattab": {
+  "qid": "Q8467",
+  "P569": [
+   "586"
+  ],
+  "P570": [
+   "644",
+   "644"
+  ],
+  "P27": [
+   "califat Rachidun"
+  ]
+ },
+ "figures-religieuses_bilal-ibn-rabah": {
+  "qid": "Q493136",
+  "P569": [
+   "581"
+  ],
+  "P570": [
+   "642",
+   "641"
+  ]
+ },
+ "figures-religieuses_rabbi-akiva": {
+  "qid": "Q310821",
+  "P569": [
+   "50"
+  ],
+  "P570": [
+   "135"
+  ],
+  "P101": [
+   "Mishna"
+  ]
+ },
+ "figures-religieuses_rachi": {
+  "qid": "Q26456",
+  "P569": [
+   "1040"
+  ],
+  "P570": [
+   "1105"
+  ],
+  "P27": [
+   "royaume de France",
+   "France"
+  ],
+  "P800": [
+   "Commentaires de la Torah",
+   "Commentaires du Talmud"
+  ]
+ },
+ "figures-religieuses_kabir": {
+  "qid": "Q312551",
+  "P569": [
+   "1440",
+   "1398",
+   "1440"
+  ],
+  "P570": [
+   "1518"
+  ],
+  "P135": [
+   "Bhakti",
+   "Sant Mat",
+   "Bhakti movement"
+  ],
+  "P800": [
+   "Bijak"
+  ]
+ },
+ "figures-religieuses_guru-gobind-singh": {
+  "qid": "Q312967",
+  "P569": [
+   "1666"
+  ],
+  "P570": [
+   "1708"
+  ],
+  "P800": [
+   "Zafarnamah"
+  ]
+ },
+ "figures-religieuses_shinran": {
+  "qid": "Q512934",
+  "P569": [
+   "1173"
+  ],
+  "P570": [
+   "1263"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Kyōgyōshinshō",
+   "Notes on the Meaning of the Pure Land Writings",
+   "Notes of a Baldheaded Fool",
+   "Q11388867",
+   "Sanjō Wasan",
+   "Lamp for the Latter Ages",
+   "Notes on the Essentials of Faith Alone",
+   "A Collection of Passages on the Types of Birth in the Three Pure Land Sutras",
+   "The Inscription on the Sacred Name and Images"
+  ]
+ },
+ "figures-religieuses_bab-chef-religieux": {
+  "qid": "Q104273",
+  "P569": [
+   "1819",
+   "1819",
+   "1819"
+  ],
+  "P570": [
+   "1850",
+   "1850"
+  ],
+  "P27": [
+   "Perse qadjare"
+  ]
+ },
+ "figures-religieuses_oscar-romero": {
+  "qid": "Q293455",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "Salvador"
+  ]
+ },
+ "figures-religieuses_abbe-pierre": {
+  "qid": "Q306933",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "France"
+  ]
+ }
+}

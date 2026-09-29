@@ -1,0 +1,623 @@
+{
+ "monnaies-du-monde_euro": {
+  "qid": "Q4916",
+  "P571": [
+   "1999"
+  ],
+  "P17": [
+   "Autriche",
+   "Belgique",
+   "Pays-Bas",
+   "Finlande",
+   "France",
+   "Allemagne",
+   "Grèce",
+   "Irlande",
+   "Italie",
+   "Luxembourg",
+   "Portugal",
+   "Espagne",
+   "Monaco",
+   "Saint-Marin",
+   "Vatican",
+   "Slovénie",
+   "Chypre",
+   "Malte",
+   "Slovaquie",
+   "Estonie",
+   "Andorre",
+   "Lettonie",
+   "Lituanie",
+   "Croatie",
+   "Kosovo",
+   "Monténégro",
+   "Bulgarie"
+  ]
+ },
+ "monnaies-du-monde_dollar-americain": {
+  "qid": "Q4917",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monnaies-du-monde_livre-sterling": {
+  "qid": "Q25224",
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "monnaies-du-monde_yen": {
+  "qid": "Q8146",
+  "P17": [
+   "Japon"
+  ]
+ },
+ "monnaies-du-monde_yuan": {
+  "qid": "Q39099",
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "monnaies-du-monde_franc-suisse": {
+  "qid": "Q25344",
+  "P17": [
+   "Suisse",
+   "Liechtenstein"
+  ]
+ },
+ "monnaies-du-monde_dollar-canadien": {
+  "qid": "Q1104069",
+  "P17": [
+   "Canada"
+  ],
+  "P186": [
+   "polymère"
+  ]
+ },
+ "monnaies-du-monde_real-bresilien": {
+  "qid": "Q173117",
+  "P17": [
+   "Brésil"
+  ]
+ },
+ "monnaies-du-monde_peso-mexicain": {
+  "qid": "Q4730",
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "monnaies-du-monde_peso-argentin": {
+  "qid": "Q199578",
+  "P17": [
+   "Argentine"
+  ]
+ },
+ "monnaies-du-monde_peso-chilien": {
+  "qid": "Q200050",
+  "P17": [
+   "Chili"
+  ]
+ },
+ "monnaies-du-monde_peso-colombien": {
+  "qid": "Q244819",
+  "P17": [
+   "Colombie"
+  ]
+ },
+ "monnaies-du-monde_sol-monnaie-du-perou": {
+  "qid": "Q204656",
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "monnaies-du-monde_boliviano": {
+  "qid": "Q200737",
+  "P17": [
+   "Bolivie"
+  ]
+ },
+ "monnaies-du-monde_guarani-monnaie": {
+  "qid": "Q207514",
+  "P17": [
+   "Paraguay"
+  ]
+ },
+ "monnaies-du-monde_quetzal-monnaie": {
+  "qid": "Q207396",
+  "P17": [
+   "Guatemala"
+  ]
+ },
+ "monnaies-du-monde_balboa-monnaie": {
+  "qid": "Q210472",
+  "P17": [
+   "Panama"
+  ]
+ },
+ "monnaies-du-monde_couronne-suedoise": {
+  "qid": "Q122922",
+  "P17": [
+   "Suède"
+  ],
+  "P527": [
+   "billet de banque",
+   "pièce de monnaie"
+  ]
+ },
+ "monnaies-du-monde_couronne-norvegienne": {
+  "qid": "Q132643",
+  "P17": [
+   "Norvège"
+  ],
+  "P527": [
+   "liste des pièces de monnaie norvégiennes",
+   "Norwegian banknote"
+  ]
+ },
+ "monnaies-du-monde_couronne-danoise": {
+  "qid": "Q25417",
+  "P17": [
+   "Danemark"
+  ]
+ },
+ "monnaies-du-monde_z-oty": {
+  "qid": "Q123213",
+  "P571": [
+   "1496",
+   "1924"
+  ],
+  "P17": [
+   "Pologne"
+  ]
+ },
+ "monnaies-du-monde_forint": {
+  "qid": "Q47190",
+  "P17": [
+   "Hongrie"
+  ]
+ },
+ "monnaies-du-monde_couronne-tcheque": {
+  "qid": "Q131016",
+  "P17": [
+   "Tchéquie"
+  ]
+ },
+ "monnaies-du-monde_leu-roumain": {
+  "qid": "Q131645",
+  "P17": [
+   "Roumanie"
+  ],
+  "P527": [
+   "banknotes of the Romanian leu",
+   "pièces de monnaie roumaines"
+  ]
+ },
+ "monnaies-du-monde_hryvnia": {
+  "qid": "Q81893",
+  "P17": [
+   "Ukraine"
+  ],
+  "P527": [
+   "banknotes of the Ukrainian hryvnia",
+   "liste des pièces de monnaie ukrainiennes"
+  ]
+ },
+ "monnaies-du-monde_rouble-russe": {
+  "qid": "Q41044",
+  "P17": [
+   "Russie"
+  ]
+ },
+ "monnaies-du-monde_livre-turque": {
+  "qid": "Q172872",
+  "P17": [
+   "Turquie",
+   "Chypre du Nord"
+  ],
+  "P527": [
+   "nouvelle livre turque",
+   "Turkish old lira"
+  ]
+ },
+ "monnaies-du-monde_rand-monnaie": {
+  "qid": "Q181907",
+  "P17": [
+   "Afrique du Sud"
+  ]
+ },
+ "monnaies-du-monde_naira": {
+  "qid": "Q203567",
+  "P17": [
+   "Nigeria"
+  ]
+ },
+ "monnaies-du-monde_cedi": {
+  "qid": "Q183530",
+  "P571": [
+   "1965"
+  ],
+  "P17": [
+   "Ghana"
+  ]
+ },
+ "monnaies-du-monde_shilling-kenyan": {
+  "qid": "Q202882",
+  "P17": [
+   "Kenya"
+  ]
+ },
+ "monnaies-du-monde_birr": {
+  "qid": "Q206243",
+  "P17": [
+   "Éthiopie"
+  ]
+ },
+ "monnaies-du-monde_dirham-marocain": {
+  "qid": "Q200192",
+  "P17": [
+   "Maroc"
+  ],
+  "P527": [
+   "morocco 1 dirham",
+   "morocco 10 dirham",
+   "morocco 100 dirham",
+   "morocco 2 dirham",
+   "morocco 25 dirham",
+   "morocco 5 dirham",
+   "morocco ½ dirham",
+   "morocco 50 santimat",
+   "morocco 20 santimat",
+   "morocco 10 santimat",
+   "morocco 5 santimat",
+   "morocco 1 santim",
+   "morocco 50 dirham"
+  ]
+ },
+ "monnaies-du-monde_dinar-algerien": {
+  "qid": "Q199674",
+  "P17": [
+   "Algérie"
+  ]
+ },
+ "monnaies-du-monde_dinar-tunisien": {
+  "qid": "Q4602",
+  "P17": [
+   "Tunisie"
+  ]
+ },
+ "monnaies-du-monde_livre-egyptienne": {
+  "qid": "Q199462",
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "monnaies-du-monde_franc-cfa": {
+  "qid": "Q191511",
+  "P527": [
+   "franc CFA d'Afrique centrale",
+   "franc CFA"
+  ]
+ },
+ "monnaies-du-monde_kwacha-zambien": {
+  "qid": "Q73408",
+  "P17": [
+   "Zambie"
+  ]
+ },
+ "monnaies-du-monde_dollar-namibien": {
+  "qid": "Q202462",
+  "P17": [
+   "Namibie"
+  ]
+ },
+ "monnaies-du-monde_ariary": {
+  "qid": "Q4584",
+  "P17": [
+   "Madagascar"
+  ]
+ },
+ "monnaies-du-monde_riyal-saoudien": {
+  "qid": "Q199857",
+  "P17": [
+   "Arabie saoudite"
+  ]
+ },
+ "monnaies-du-monde_dirham-des-emirats-arabes-unis": {
+  "qid": "Q200294",
+  "P17": [
+   "Émirats arabes unis"
+  ]
+ },
+ "monnaies-du-monde_riyal-qatarien": {
+  "qid": "Q206386",
+  "P17": [
+   "Qatar"
+  ]
+ },
+ "monnaies-du-monde_dinar-koweitien": {
+  "qid": "Q193098",
+  "P17": [
+   "Koweït"
+  ]
+ },
+ "monnaies-du-monde_dinar-jordanien": {
+  "qid": "Q203722",
+  "P17": [
+   "Jordanie"
+  ],
+  "P527": [
+   "jordan ½ qirsh",
+   "jordan 10 piastres",
+   "jordan 5 piastres",
+   "jordan  2½ piastres",
+   "jordan 1 qirsh",
+   "jordan ¼ dinar",
+   "jordan 1 dinar",
+   "jordan ½ dinar",
+   "jordan 5 dinars",
+   "jordan 10 dinars",
+   "jordan ¾ dinar",
+   "jordan 2½ dinar",
+   "jordan 3 dinars",
+   "jordan 1 fils",
+   "jordan 10 fils",
+   "jordan 100 fils",
+   "jordan 20 fils",
+   "jordan 25 fils",
+   "jordan 50 fils",
+   "jordan 5 fils",
+   "jordan 20 dinars"
+  ]
+ },
+ "monnaies-du-monde_dinar-irakien": {
+  "qid": "Q193094",
+  "P17": [
+   "Irak"
+  ]
+ },
+ "monnaies-du-monde_rial-iranien": {
+  "qid": "Q188608",
+  "P17": [
+   "Iran"
+  ]
+ },
+ "monnaies-du-monde_shekel": {
+  "qid": "Q131309",
+  "P571": [
+   "1985"
+  ],
+  "P17": [
+   "Israël"
+  ]
+ },
+ "monnaies-du-monde_roupie-indienne": {
+  "qid": "Q80524",
+  "P17": [
+   "Inde"
+  ]
+ },
+ "monnaies-du-monde_roupie-pakistanaise": {
+  "qid": "Q188289",
+  "P17": [
+   "Pakistan"
+  ]
+ },
+ "monnaies-du-monde_taka": {
+  "qid": "Q194453",
+  "P17": [
+   "Bangladesh"
+  ]
+ },
+ "monnaies-du-monde_won-sud-coreen-depuis-1962": {
+  "qid": "Q202040",
+  "P17": [
+   "Corée du Sud"
+  ]
+ },
+ "monnaies-du-monde_nouveau-dollar-de-taiwan": {
+  "qid": "Q208526",
+  "P17": [
+   "Taïwan"
+  ]
+ },
+ "monnaies-du-monde_dollar-de-hong-kong": {
+  "qid": "Q31015",
+  "P17": [
+   "république populaire de Chine",
+   "Hong Kong britannique"
+  ]
+ },
+ "monnaies-du-monde_dollar-de-singapour": {
+  "qid": "Q190951",
+  "P17": [
+   "Singapour"
+  ]
+ },
+ "monnaies-du-monde_baht": {
+  "qid": "Q177882",
+  "P17": [
+   "Thaïlande"
+  ]
+ },
+ "monnaies-du-monde_dong-monnaie": {
+  "qid": "Q192090",
+  "P17": [
+   "Vietnam"
+  ]
+ },
+ "monnaies-du-monde_ringgit": {
+  "qid": "Q163712",
+  "P17": [
+   "Malaisie"
+  ]
+ },
+ "monnaies-du-monde_roupie-indonesienne": {
+  "qid": "Q41588",
+  "P571": [
+   "1952"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "monnaies-du-monde_peso-philippin": {
+  "qid": "Q17193",
+  "P17": [
+   "Philippines"
+  ]
+ },
+ "monnaies-du-monde_kyat": {
+  "qid": "Q201875",
+  "P17": [
+   "Birmanie"
+  ]
+ },
+ "monnaies-du-monde_tugrik": {
+  "qid": "Q183435",
+  "P17": [
+   "Mongolie"
+  ]
+ },
+ "monnaies-du-monde_tenge-kazakh": {
+  "qid": "Q173751",
+  "P17": [
+   "Kazakhstan"
+  ]
+ },
+ "monnaies-du-monde_dollar-australien": {
+  "qid": "Q259502",
+  "P17": [
+   "Australie"
+  ],
+  "P186": [
+   "polypropylène"
+  ]
+ },
+ "monnaies-du-monde_dollar-neo-zelandais": {
+  "qid": "Q1472704",
+  "P17": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "monnaies-du-monde_franc-pacifique": {
+  "qid": "Q214393",
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "franc de Polynésie",
+   "franc de Nouvelle-Calédonie"
+  ]
+ },
+ "monnaies-du-monde_couronne-islandaise": {
+  "qid": "Q131473",
+  "P17": [
+   "Islande"
+  ]
+ },
+ "monnaies-du-monde_lev-bulgare": {
+  "qid": "Q172540",
+  "P17": [
+   "Bulgarie"
+  ]
+ },
+ "monnaies-du-monde_peso-uruguayen": {
+  "qid": "Q209272",
+  "P17": [
+   "Uruguay"
+  ]
+ },
+ "monnaies-du-monde_peso-cubain": {
+  "qid": "Q201505",
+  "P17": [
+   "Cuba"
+  ]
+ },
+ "monnaies-du-monde_gourde-monnaie": {
+  "qid": "Q203955",
+  "P17": [
+   "Haïti"
+  ]
+ },
+ "monnaies-du-monde_roupie-srilankaise": {
+  "qid": "Q4596",
+  "P17": [
+   "Sri Lanka"
+  ]
+ },
+ "monnaies-du-monde_roupie-nepalaise": {
+  "qid": "Q202895",
+  "P17": [
+   "Népal"
+  ],
+  "P527": [
+   "Nepalese coins",
+   "Nepalese banknotes"
+  ]
+ },
+ "monnaies-du-monde_livre-libanaise": {
+  "qid": "Q201880",
+  "P17": [
+   "Liban"
+  ]
+ },
+ "monnaies-du-monde_dinar-bahreini": {
+  "qid": "Q201871",
+  "P17": [
+   "Bahreïn"
+  ]
+ },
+ "monnaies-du-monde_rial-omanais": {
+  "qid": "Q272290",
+  "P17": [
+   "Oman"
+  ]
+ },
+ "monnaies-du-monde_won-nord-coreen": {
+  "qid": "Q106720",
+  "P17": [
+   "Corée du Nord"
+  ]
+ },
+ "monnaies-du-monde_dollar-du-zimbabwe": {
+  "qid": "Q182803",
+  "P495": [
+   "Zimbabwe"
+  ],
+  "P17": [
+   "Zimbabwe"
+  ],
+  "P527": [
+   "Zimbabwean banknote"
+  ]
+ },
+ "monnaies-du-monde_kwanza-monnaie": {
+  "qid": "Q200337",
+  "P17": [
+   "Angola"
+  ]
+ },
+ "monnaies-du-monde_metical": {
+  "qid": "Q200753",
+  "P17": [
+   "Mozambique"
+  ]
+ },
+ "monnaies-du-monde_bitcoin": {
+  "qid": "Q131723",
+  "P571": [
+   "2009"
+  ],
+  "P17": [
+   "Salvador",
+   "République centrafricaine"
+  ],
+  "P577": [
+   "2009"
+  ],
+  "P527": [
+   "bitcoin blockchain",
+   "Réseau bitcoin"
+  ]
+ }
+}

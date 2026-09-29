@@ -1,0 +1,709 @@
+{
+ "fromages_camembert-fromage": {
+  "qid": "Q131480",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "fromages_roquefort-fromage": {
+  "qid": "Q189221",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait cru",
+   "lait de brebis"
+  ]
+ },
+ "fromages_brie-de-meaux": {
+  "qid": "Q749378",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait cru",
+   "lait de vache"
+  ]
+ },
+ "fromages_comte-fromage": {
+  "qid": "Q249310",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait cru",
+   "lait de vache"
+  ]
+ },
+ "fromages_beaufort-fromage": {
+  "qid": "Q781150",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_reblochon": {
+  "qid": "Q543805",
+  "P495": [
+   "France",
+   "Italie"
+  ],
+  "P186": [
+   "lait cru",
+   "lait de vache"
+  ]
+ },
+ "fromages_munster-fromage": {
+  "qid": "Q765540",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_epoisses": {
+  "qid": "Q287529",
+  "P131": [
+   "Côte-d'Or",
+   "arrondissement de Montbard"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "fromages_maroilles-fromage": {
+  "qid": "Q734978",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_cantal-fromage": {
+  "qid": "Q681539",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ],
+  "P527": [
+   "lait"
+  ]
+ },
+ "fromages_saint-nectaire": {
+  "qid": "Q822303",
+  "P131": [
+   "canton de Champeix",
+   "Puy-de-Dôme",
+   "arrondissement d'Issoire"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "fromages_bleu-d-auvergne": {
+  "qid": "Q883954",
+  "P571": [
+   "1854"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache",
+   "Penicillium roqueforti"
+  ]
+ },
+ "fromages_fourme-d-ambert": {
+  "qid": "Q1245530",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_crottin-de-chavignol": {
+  "qid": "Q249873",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de chèvre"
+  ],
+  "P527": [
+   "lait"
+  ]
+ },
+ "fromages_mimolette": {
+  "qid": "Q749121",
+  "P571": [
+   "1700"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache",
+   "Acarus siro",
+   "annatto"
+  ]
+ },
+ "fromages_tomme-de-savoie": {
+  "qid": "Q1247472",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_morbier-fromage": {
+  "qid": "Q177727",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_livarot-fromage": {
+  "qid": "Q1144668",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_parmigiano-reggiano": {
+  "qid": "Q155922",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache",
+   "calf rennet"
+  ]
+ },
+ "fromages_mozzarella": {
+  "qid": "Q14088",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache",
+   "lait de bufflonne"
+  ]
+ },
+ "fromages_gorgonzola-fromage": {
+  "qid": "Q209044",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_pecorino-romano": {
+  "qid": "Q1246024",
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de brebis"
+  ]
+ },
+ "fromages_ricotta": {
+  "qid": "Q216781",
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de brebis",
+   "lait"
+  ]
+ },
+ "fromages_cheddar": {
+  "qid": "Q1019479",
+  "P131": [
+   "Sedgemoor",
+   "Axbridge Rural District",
+   "Somerset"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "fromages_stilton-fromage": {
+  "qid": "Q466749",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_gouda-fromage": {
+  "qid": "Q593675",
+  "P495": [
+   "Pays-Bas"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_edam-fromage": {
+  "qid": "Q597473",
+  "P495": [
+   "Pays-Bas"
+  ],
+  "P186": [
+   "lait de vache"
+  ],
+  "P527": [
+   "lait de vache"
+  ]
+ },
+ "fromages_emmental": {
+  "qid": "Q932214",
+  "P495": [
+   "Suisse"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_gruyere-fromage": {
+  "qid": "Q2376488",
+  "P495": [
+   "Suisse"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_feta": {
+  "qid": "Q182760",
+  "P495": [
+   "Grèce"
+  ],
+  "P186": [
+   "lait de chèvre",
+   "lait de brebis",
+   "lamb rennet"
+  ]
+ },
+ "fromages_manchego": {
+  "qid": "Q72305",
+  "P131": [
+   "La Manche"
+  ],
+  "P495": [
+   "Espagne"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "lait de brebis"
+  ]
+ },
+ "fromages_halloumi": {
+  "qid": "Q549793",
+  "P495": [
+   "Chypre"
+  ],
+  "P186": [
+   "lait de chèvre",
+   "sel alimentaire",
+   "présure"
+  ]
+ },
+ "fromages_mascarpone": {
+  "qid": "Q209889",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache"
+  ],
+  "P527": [
+   "crème"
+  ]
+ },
+ "fromages_burrata": {
+  "qid": "Q543512",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de bufflonne",
+   "buffle domestique",
+   "lait de vache"
+  ]
+ },
+ "fromages_raclette-fromage": {
+  "qid": "Q12901724",
+  "P495": [
+   "Suisse"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_bleu-de-gex-haut-jura": {
+  "qid": "Q1231078",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "vache"
+  ]
+ },
+ "fromages_ossau-iraty": {
+  "qid": "Q520598",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de brebis"
+  ]
+ },
+ "fromages_vacherin-fromage": {
+  "qid": "Q3553108",
+  "P131": [
+   "Franche-Comté",
+   "vallée de Joux"
+  ],
+  "P495": [
+   "France",
+   "Suisse"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_saint-marcellin": {
+  "qid": "Q510126",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_pont-l-eveque": {
+  "qid": "Q1233145",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_chaource-fromage": {
+  "qid": "Q1000176",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_langres-fromage": {
+  "qid": "Q1240158",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_coulommiers-fromage": {
+  "qid": "Q774297",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_brillat-savarin-fromage": {
+  "qid": "Q724855",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_abondance-fromage": {
+  "qid": "Q322899",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait cru",
+   "lait de vache"
+  ],
+  "P527": [
+   "lait"
+  ]
+ },
+ "fromages_salers-fromage": {
+  "qid": "Q1245627",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_laguiole-fromage": {
+  "qid": "Q681326",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_rocamadour-fromage": {
+  "qid": "Q768189",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de chèvre"
+  ]
+ },
+ "fromages_sainte-maure-de-touraine": {
+  "qid": "Q652628",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de chèvre",
+   "paille"
+  ]
+ },
+ "fromages_valencay-fromage": {
+  "qid": "Q659277",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de chèvre"
+  ]
+ },
+ "fromages_banon-fromage": {
+  "qid": "Q772326",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de chèvre"
+  ],
+  "P527": [
+   "lait"
+  ]
+ },
+ "fromages_brocciu": {
+  "qid": "Q761524",
+  "P495": [
+   "Corse"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "lait de brebis",
+   "lait de chèvre"
+  ],
+  "P527": [
+   "lactosérum"
+  ]
+ },
+ "fromages_cancoillotte": {
+  "qid": "Q688947",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_tete-de-moine": {
+  "qid": "Q687579",
+  "P495": [
+   "France",
+   "Suisse"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_taleggio": {
+  "qid": "Q101641",
+  "P131": [
+   "province de Bergame"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "fromages_provolone-valpadana": {
+  "qid": "Q12901635",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_grana-padano": {
+  "qid": "Q940319",
+  "P276": [
+   "Italie"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "lait de vache"
+  ]
+ },
+ "fromages_cabrales": {
+  "qid": "Q58343",
+  "P131": [
+   "Asturies"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "fromages_wensleydale-fromage": {
+  "qid": "Q1972540",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "lait de brebis"
+  ]
+ },
+ "fromages_brunost": {
+  "qid": "Q629718",
+  "P495": [
+   "Norvège"
+  ],
+  "P186": [
+   "lait de chèvre"
+  ],
+  "P527": [
+   "lait"
+  ]
+ },
+ "fromages_panir": {
+  "qid": "Q1139546",
+  "P276": [
+   "Inde",
+   "Pakistan",
+   "Afghanistan",
+   "Népal",
+   "Bangladesh"
+  ],
+  "P495": [
+   "Inde"
+  ],
+  "P527": [
+   "lait"
+  ]
+ }
+}

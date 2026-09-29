@@ -1,0 +1,1099 @@
+{
+ "grands-explorateurs_christophe-colomb": {
+  "qid": "Q7322",
+  "P569": [
+   "1451",
+   "1450",
+   "1451",
+   "1451",
+   "1451",
+   "1451"
+  ],
+  "P570": [
+   "1506",
+   "1506",
+   "1506"
+  ],
+  "P27": [
+   "république de Gênes"
+  ],
+  "P800": [
+   "Écrits de Christophe Colomb"
+  ],
+  "P101": [
+   "transport maritime",
+   "marine transportation",
+   "conduite d'un navire"
+  ]
+ },
+ "grands-explorateurs_vasco-de-gama": {
+  "qid": "Q7328",
+  "P569": [
+   "1469",
+   "1460"
+  ],
+  "P570": [
+   "1524"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ]
+ },
+ "grands-explorateurs_fernand-de-magellan": {
+  "qid": "Q1496",
+  "P569": [
+   "1480"
+  ],
+  "P570": [
+   "1521"
+  ],
+  "P27": [
+   "royaume de Portugal",
+   "couronne de Castille"
+  ]
+ },
+ "grands-explorateurs_marco-polo": {
+  "qid": "Q6101",
+  "P569": [
+   "1254",
+   "1254"
+  ],
+  "P570": [
+   "1324"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P800": [
+   "The book of Ser Marco Polo the Venetian concerning the kingdoms and marvels of the East"
+  ],
+  "P101": [
+   "voyage",
+   "commerce",
+   "diplomatie",
+   "récit de voyage",
+   "littérature mémorielle"
+  ]
+ },
+ "grands-explorateurs_james-cook": {
+  "qid": "Q7324",
+  "P569": [
+   "1728",
+   "1728",
+   "1728"
+  ],
+  "P570": [
+   "1779",
+   "1779"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "exploration",
+   "cartographie"
+  ]
+ },
+ "grands-explorateurs_amerigo-vespucci": {
+  "qid": "Q47674",
+  "P569": [
+   "1454"
+  ],
+  "P570": [
+   "1512"
+  ],
+  "P27": [
+   "République florentine",
+   "couronne de Castille"
+  ]
+ },
+ "grands-explorateurs_jacques-cartier": {
+  "qid": "Q7321",
+  "P569": [
+   "1491"
+  ],
+  "P570": [
+   "1557"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "grands-explorateurs_samuel-de-champlain": {
+  "qid": "Q68529",
+  "P569": [
+   "1567",
+   "1574"
+  ],
+  "P570": [
+   "1635"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "grands-explorateurs_hernan-cortes": {
+  "qid": "Q7326",
+  "P569": [
+   "1485"
+  ],
+  "P570": [
+   "1547",
+   "1547"
+  ],
+  "P27": [
+   "Espagne",
+   "Mexique",
+   "Nouvelle-Espagne"
+  ],
+  "P101": [
+   "conquistador"
+  ]
+ },
+ "grands-explorateurs_francisco-pizarro": {
+  "qid": "Q44741",
+  "P569": [
+   "1478"
+  ],
+  "P570": [
+   "1541"
+  ],
+  "P27": [
+   "couronne de Castille",
+   "Espagne"
+  ]
+ },
+ "grands-explorateurs_vasco-nunez-de-balboa": {
+  "qid": "Q19080",
+  "P569": [
+   "1475"
+  ],
+  "P570": [
+   "1519",
+   "1519",
+   "1517"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "grands-explorateurs_juan-ponce-de-leon": {
+  "qid": "Q185974",
+  "P569": [
+   "1460",
+   "1460"
+  ],
+  "P570": [
+   "1521",
+   "1521"
+  ],
+  "P27": [
+   "Empire espagnol"
+  ]
+ },
+ "grands-explorateurs_zheng-he": {
+  "qid": "Q7333",
+  "P569": [
+   "1371"
+  ],
+  "P570": [
+   "1433",
+   "1435"
+  ],
+  "P27": [
+   "dynastie Ming"
+  ],
+  "P800": [
+   "Expéditions maritimes de Zheng He"
+  ]
+ },
+ "grands-explorateurs_ibn-battuta": {
+  "qid": "Q7331",
+  "P569": [
+   "1304"
+  ],
+  "P570": [
+   "1368",
+   "1369",
+   "1377",
+   "1378"
+  ],
+  "P800": [
+   "Le Rihla"
+  ],
+  "P101": [
+   "géographie",
+   "compétence juridictionnelle",
+   "exploration",
+   "fiqh"
+  ]
+ },
+ "grands-explorateurs_david-livingstone": {
+  "qid": "Q48373",
+  "P569": [
+   "1813"
+  ],
+  "P570": [
+   "1873"
+  ],
+  "P27": [
+   "Écosse",
+   "Royaume-Uni"
+  ]
+ },
+ "grands-explorateurs_henry-morton-stanley": {
+  "qid": "Q171421",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1904"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "grands-explorateurs_meriwether-lewis": {
+  "qid": "Q313492",
+  "P569": [
+   "1774"
+  ],
+  "P570": [
+   "1809"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "grands-explorateurs_william-clark": {
+  "qid": "Q355348",
+  "P569": [
+   "1770"
+  ],
+  "P570": [
+   "1838"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "grands-explorateurs_alexander-von-humboldt": {
+  "qid": "Q6694",
+  "P569": [
+   "1769"
+  ],
+  "P570": [
+   "1859"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "Tableaux de la nature",
+   "Cosmos"
+  ],
+  "P101": [
+   "géobotanique",
+   "géographie économique",
+   "géographie",
+   "météorologie",
+   "botanique",
+   "zoologie",
+   "physique"
+  ]
+ },
+ "grands-explorateurs_francis-drake": {
+  "qid": "Q36517",
+  "P569": [
+   "1540",
+   "1540",
+   "1545"
+  ],
+  "P570": [
+   "1596",
+   "1596"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "grands-explorateurs_willem-barentsz": {
+  "qid": "Q133060",
+  "P569": [
+   "1550",
+   "1550"
+  ],
+  "P570": [
+   "1597"
+  ],
+  "P27": [
+   "Provinces-Unies",
+   "Dix-sept Provinces",
+   "Saint-Empire romain germanique"
+  ],
+  "P101": [
+   "exploration",
+   "expédition polaire"
+  ]
+ },
+ "grands-explorateurs_henry-hudson": {
+  "qid": "Q179167",
+  "P569": [
+   "1565",
+   "1567"
+  ],
+  "P570": [
+   "1611",
+   "1611"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "navigation"
+  ]
+ },
+ "grands-explorateurs_jean-cabot": {
+  "qid": "Q85642",
+  "P569": [
+   "1450"
+  ],
+  "P570": [
+   "1498"
+  ],
+  "P27": [
+   "république de Venise"
+  ]
+ },
+ "grands-explorateurs_bartolomeu-dias": {
+  "qid": "Q130377",
+  "P569": [
+   "1467",
+   "1450",
+   "1451",
+   "1450"
+  ],
+  "P570": [
+   "1500"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ],
+  "P101": [
+   "conquistador"
+  ]
+ },
+ "grands-explorateurs_pedro-alvares-cabral": {
+  "qid": "Q174432",
+  "P569": [
+   "1467"
+  ],
+  "P570": [
+   "1520"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ]
+ },
+ "grands-explorateurs_jean-francois-de-la-perouse": {
+  "qid": "Q294478",
+  "P569": [
+   "1741"
+  ],
+  "P570": [
+   "1788",
+   "1788"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "grands-explorateurs_vitus-bering": {
+  "qid": "Q127641",
+  "P569": [
+   "1681",
+   "1681"
+  ],
+  "P570": [
+   "1741",
+   "1741"
+  ],
+  "P27": [
+   "Royaume de Danemark",
+   "Empire russe"
+  ]
+ },
+ "grands-explorateurs_sacagawea": {
+  "qid": "Q238960",
+  "P569": [
+   "1788",
+   "1786"
+  ],
+  "P570": [
+   "1812",
+   "1884"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "grands-explorateurs_mungo-park": {
+  "qid": "Q219086",
+  "P569": [
+   "1771",
+   "1771"
+  ],
+  "P570": [
+   "1806"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "grands-explorateurs_richard-francis-burton": {
+  "qid": "Q125057",
+  "P569": [
+   "1821",
+   "1821"
+  ],
+  "P570": [
+   "1890",
+   "1890"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "littérature de voyage"
+  ]
+ },
+ "grands-explorateurs_john-hanning-speke": {
+  "qid": "Q125084",
+  "P569": [
+   "1827"
+  ],
+  "P570": [
+   "1864"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "grands-explorateurs_james-bruce-explorateur": {
+  "qid": "Q348489",
+  "P569": [
+   "1730"
+  ],
+  "P570": [
+   "1794"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Travels to Discover the Source of the Nile"
+  ],
+  "P101": [
+   "botanique"
+  ]
+ },
+ "grands-explorateurs_gertrude-bell": {
+  "qid": "Q231360",
+  "P569": [
+   "1868",
+   "1868"
+  ],
+  "P570": [
+   "1926",
+   "1926"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "archéologie"
+  ]
+ },
+ "grands-explorateurs_freya-stark": {
+  "qid": "Q292480",
+  "P569": [
+   "1893"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "essai"
+  ]
+ },
+ "grands-explorateurs_nellie-bly": {
+  "qid": "Q230299",
+  "P569": [
+   "1864",
+   "1865"
+  ],
+  "P570": [
+   "1922",
+   "1922"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Dix jours dans un asile"
+  ],
+  "P101": [
+   "journalisme d'opinion",
+   "écriture créative et professionnelle",
+   "discoveries and inventions",
+   "charité",
+   "circumnavigation"
+  ]
+ },
+ "grands-explorateurs_ida-pfeiffer": {
+  "qid": "Q78873",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1858"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Monarchie de Habsbourg"
+  ],
+  "P101": [
+   "voyage",
+   "récit de voyage"
+  ]
+ },
+ "grands-explorateurs_xuanzang": {
+  "qid": "Q42063",
+  "P569": [
+   "602",
+   "602"
+  ],
+  "P570": [
+   "664",
+   "664"
+  ],
+  "P27": [
+   "dynastie Tang",
+   "dynastie Sui"
+  ],
+  "P800": [
+   "Rapport du voyage en Occident à l'époque des Grands Tang"
+  ]
+ },
+ "grands-explorateurs_leif-erikson": {
+  "qid": "Q42838",
+  "P569": [
+   "972"
+  ],
+  "P570": [
+   "1020"
+  ],
+  "P27": [
+   "État libre islandais"
+  ]
+ },
+ "grands-explorateurs_pytheas": {
+  "qid": "Q189971",
+  "P569": [
+   "-359",
+   "-349"
+  ],
+  "P570": [
+   "-289",
+   "-284"
+  ]
+ },
+ "grands-explorateurs_hannon-le-navigateur": {
+  "qid": "Q296478",
+  "P569": [
+   "-499"
+  ],
+  "P570": [
+   "-401"
+  ],
+  "P27": [
+   "civilisation carthaginoise"
+  ],
+  "P800": [
+   "Périple d'Hannon"
+  ]
+ },
+ "grands-explorateurs_erik-le-rouge": {
+  "qid": "Q172345",
+  "P569": [
+   "950"
+  ],
+  "P570": [
+   "1003"
+  ],
+  "P27": [
+   "Norvège"
+  ]
+ },
+ "grands-explorateurs_ibn-fadlan": {
+  "qid": "Q200947",
+  "P569": [
+   "879"
+  ],
+  "P570": [
+   "922"
+  ],
+  "P800": [
+   "Voyage chez les Bulgares de la Volga"
+  ]
+ },
+ "grands-explorateurs_juan-sebastian-elcano": {
+  "qid": "Q201510",
+  "P569": [
+   "1486",
+   "1487"
+  ],
+  "P570": [
+   "1526"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "grands-explorateurs_giovanni-da-verrazzano": {
+  "qid": "Q147676",
+  "P569": [
+   "1491",
+   "1485"
+  ],
+  "P570": [
+   "1528"
+  ],
+  "P27": [
+   "République florentine"
+  ]
+ },
+ "grands-explorateurs_diogo-cao": {
+  "qid": "Q313060",
+  "P569": [
+   "1452"
+  ],
+  "P570": [
+   "1486"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ]
+ },
+ "grands-explorateurs_francisco-de-orellana": {
+  "qid": "Q207901",
+  "P569": [
+   "1511",
+   "1505"
+  ],
+  "P570": [
+   "1546"
+  ],
+  "P27": [
+   "couronne de Castille"
+  ],
+  "P101": [
+   "conquistador",
+   "exploration"
+  ]
+ },
+ "grands-explorateurs_alvar-nunez-cabeza-de-vaca": {
+  "qid": "Q250763",
+  "P569": [
+   "1485",
+   "1490",
+   "1495",
+   "1507",
+   "1490",
+   "1500"
+  ],
+  "P570": [
+   "1559",
+   "1556",
+   "1557",
+   "1560",
+   "1550",
+   "1559"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Naufrages"
+  ]
+ },
+ "grands-explorateurs_abel-tasman": {
+  "qid": "Q42188",
+  "P569": [
+   "1603"
+  ],
+  "P570": [
+   "1659"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P101": [
+   "navigateur ou navigatrice",
+   "explorateur ou exploratrice"
+  ]
+ },
+ "grands-explorateurs_willem-janszoon": {
+  "qid": "Q174085",
+  "P569": [
+   "1570"
+  ],
+  "P570": [
+   "1630"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ]
+ },
+ "grands-explorateurs_louis-antoine-de-bougainville": {
+  "qid": "Q153911",
+  "P569": [
+   "1729"
+  ],
+  "P570": [
+   "1811"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Voyage autour du monde"
+  ]
+ },
+ "grands-explorateurs_jeanne-barret": {
+  "qid": "Q437168",
+  "P569": [
+   "1740"
+  ],
+  "P570": [
+   "1807"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "grands-explorateurs_jules-dumont-d-urville": {
+  "qid": "Q204735",
+  "P569": [
+   "1790"
+  ],
+  "P570": [
+   "1842"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "botanique"
+  ]
+ },
+ "grands-explorateurs_rene-caillie": {
+  "qid": "Q368976",
+  "P569": [
+   "1799",
+   "1799"
+  ],
+  "P570": [
+   "1838"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "Exploration européenne de l'Afrique"
+  ]
+ },
+ "grands-explorateurs_heinrich-barth": {
+  "qid": "Q60141",
+  "P569": [
+   "1821"
+  ],
+  "P570": [
+   "1865"
+  ],
+  "P27": [
+   "Hambourg",
+   "royaume de Prusse"
+  ],
+  "P101": [
+   "géographie"
+  ]
+ },
+ "grands-explorateurs_pierre-savorgnan-de-brazza": {
+  "qid": "Q319834",
+  "P569": [
+   "1852"
+  ],
+  "P570": [
+   "1905"
+  ],
+  "P27": [
+   "France",
+   "royaume d'Italie",
+   "États pontificaux"
+  ]
+ },
+ "grands-explorateurs_alexandra-david-neel": {
+  "qid": "Q230456",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Voyage d'une Parisienne à Lhassa",
+   "Mystiques et Magiciens du Tibet"
+  ],
+  "P101": [
+   "études orientales",
+   "linguistique",
+   "occultisme",
+   "ethnographie",
+   "science des religions",
+   "tibétologie"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "grands-explorateurs_isabelle-eberhardt": {
+  "qid": "Q271903",
+  "P569": [
+   "1877"
+  ],
+  "P570": [
+   "1904"
+  ],
+  "P27": [
+   "Empire russe",
+   "Suisse",
+   "France"
+  ]
+ },
+ "grands-explorateurs_ella-maillart": {
+  "qid": "Q464376",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme d'opinion",
+   "récit de voyage",
+   "photographie",
+   "ski",
+   "hockey sur glace"
+  ]
+ },
+ "grands-explorateurs_percy-fawcett": {
+  "qid": "Q370705",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1925"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "grands-explorateurs_hiram-bingham-iii": {
+  "qid": "Q237220",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "archéologie",
+   "politique"
+  ]
+ },
+ "grands-explorateurs_howard-carter": {
+  "qid": "Q133682",
+  "P569": [
+   "1874",
+   "1873"
+  ],
+  "P570": [
+   "1939",
+   "1939"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "égyptologie",
+   "archéologie",
+   "anthropologie"
+  ]
+ },
+ "grands-explorateurs_rene-robert-cavelier-de-la-salle": {
+  "qid": "Q298156",
+  "P569": [
+   "1643"
+  ],
+  "P570": [
+   "1687"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "grands-explorateurs_hernando-de-soto-conquistador": {
+  "qid": "Q60040",
+  "P569": [
+   "1500",
+   "1500",
+   "1495"
+  ],
+  "P570": [
+   "1542"
+  ],
+  "P27": [
+   "couronne de Castille"
+  ]
+ },
+ "grands-explorateurs_francisco-vasquez-de-coronado": {
+  "qid": "Q271974",
+  "P569": [
+   "1510"
+  ],
+  "P570": [
+   "1554"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P101": [
+   "conquistador",
+   "exploration",
+   "gouverneur"
+  ]
+ },
+ "grands-explorateurs_jacques-marquette": {
+  "qid": "Q336630",
+  "P569": [
+   "1637"
+  ],
+  "P570": [
+   "1675"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "grands-explorateurs_louis-jolliet": {
+  "qid": "Q506618",
+  "P569": [
+   "1645"
+  ],
+  "P570": [
+   "1700"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "grands-explorateurs_alexander-mackenzie-explorateur": {
+  "qid": "Q319657",
+  "P569": [
+   "1764"
+  ],
+  "P570": [
+   "1820"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Canada"
+  ]
+ },
+ "grands-explorateurs_nikolai-prjevalski": {
+  "qid": "Q192442",
+  "P569": [
+   "1839"
+  ],
+  "P570": [
+   "1888",
+   "1888"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P101": [
+   "science de la nature",
+   "sciences naturelles",
+   "voyage"
+  ]
+ },
+ "grands-explorateurs_sven-hedin": {
+  "qid": "Q154759",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P101": [
+   "géographie"
+  ]
+ },
+ "grands-explorateurs_adolf-erik-nordenskiold": {
+  "qid": "Q156749",
+  "P569": [
+   "1832"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "Suède",
+   "grand-duché de Finlande"
+  ],
+  "P101": [
+   "géologie",
+   "géographie"
+  ]
+ },
+ "grands-explorateurs_mary-kingsley": {
+  "qid": "Q235525",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1900"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ }
+}

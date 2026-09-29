@@ -1,0 +1,1133 @@
+{
+ "grandes-guerres_guerres-mediques": {
+  "qid": "Q76026",
+  "P276": [
+   "Grèce antique"
+  ],
+  "P527": [
+   "première guerre médique",
+   "seconde guerre médique",
+   "révolte de l'Ionie"
+  ]
+ },
+ "grandes-guerres_guerres-puniques": {
+  "qid": "Q124988",
+  "P276": [
+   "République romaine",
+   "civilisation carthaginoise"
+  ],
+  "P527": [
+   "première guerre punique",
+   "deuxième guerre punique",
+   "troisième guerre punique"
+  ]
+ },
+ "grandes-guerres_guerre-du-peloponnese": {
+  "qid": "Q33745",
+  "P276": [
+   "Grèce antique",
+   "mer Égée",
+   "Anatolie",
+   "Sicile",
+   "Sicile"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "guerre archidamique",
+   "expédition de Sicile",
+   "guerre de Décélie"
+  ]
+ },
+ "grandes-guerres_guerre-des-gaules": {
+  "qid": "Q202161",
+  "P276": [
+   "Gaule"
+  ]
+ },
+ "grandes-guerres_guerres-civiles-romaines": {
+  "qid": "Q1747183",
+  "P17": [
+   "Rome antique"
+  ],
+  "P527": [
+   "Première guerre civile entre Marius et Sylla",
+   "seconde guerre civile entre Marius et Sylla"
+  ]
+ },
+ "grandes-guerres_croisade": {
+  "qid": "Q12546",
+  "P527": [
+   "première croisade",
+   "Batailles croisées entre 1101 et 1145",
+   "deuxième croisade",
+   "Batailles croisées entre 1149 et 1189",
+   "troisième croisade",
+   "quatrième croisade",
+   "cinquième croisade",
+   "sixième croisade",
+   "croisade des barons",
+   "Guerre des Lombards",
+   "croisades de secours",
+   "siège de Gaza",
+   "siège du comté de Tripoli"
+  ]
+ },
+ "grandes-guerres_guerre-de-cent-ans": {
+  "qid": "Q12551",
+  "P276": [
+   "France",
+   "Espagne",
+   "Angleterre"
+  ],
+  "P527": [
+   "guerre édouardienne",
+   "guerre caroline",
+   "guerre lancastrienne",
+   "première guerre civile de Castille",
+   "guerre de Succession de Bretagne",
+   "Second War of Scottish Independence",
+   "Croisade d'Henri le Despenser",
+   "siège d'Orléans",
+   "guerre des Deux Pierre",
+   "sac de Paris",
+   "siège de Sarlat",
+   "siège de Bonneville-sur-Touques",
+   "siège de Bonneville-sur-Touques",
+   "siège de Bonneville-sur-Touques",
+   "siège de Bonneville-sur-Touques",
+   "Q140032303",
+   "sac de Limoges",
+   "bataille d'Azincourt"
+  ]
+ },
+ "grandes-guerres_guerre-des-deux-roses": {
+  "qid": "Q127751",
+  "P276": [
+   "royaume d'Angleterre"
+  ],
+  "P17": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "grandes-guerres_guerres-de-religion-france": {
+  "qid": "Q673175",
+  "P276": [
+   "royaume de France",
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "guerre des Trois Henri",
+   "première guerre de Religion",
+   "deuxième guerre de Religion",
+   "troisième guerre de Religion",
+   "quatrième guerre de Religion",
+   "cinquième guerre de Religion",
+   "sixième guerre de Religion",
+   "septième guerre de Religion",
+   "huitième guerre de Religion"
+  ]
+ },
+ "grandes-guerres_guerre-de-trente-ans": {
+  "qid": "Q2487",
+  "P276": [
+   "Europe centrale"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique"
+  ],
+  "P527": [
+   "guerre de Torstenson",
+   "bataille de Vlotho",
+   "bataille de Rakovník",
+   "guerre franco-suédoise",
+   "Battle of Schweidnitz",
+   "Siege of Schweidnitz",
+   "siège de Wolgast",
+   "guerre de Smolensk",
+   "siège de Memmingen",
+   "siège d'Eğri",
+   "blocus d'Eger",
+   "siège d'Arras"
+  ]
+ },
+ "grandes-guerres_guerre-de-succession-d-espagne": {
+  "qid": "Q150701",
+  "P276": [
+   "Europe",
+   "Amérique du Nord",
+   "Amérique du Sud"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "guerre de succession espagnole en Catalogne",
+   "guerre de Succession d’Espagne dans le Royaume de Valence",
+   "guerre de Succession d’Espagne en Aragon",
+   "guerre de Succession d’Espagne dans le royaume de Majorque",
+   "siège de Landau in der Pfalz",
+   "siège de Marchiennes",
+   "siège de Mons"
+  ]
+ },
+ "grandes-guerres_guerre-de-sept-ans": {
+  "qid": "Q33143",
+  "P276": [
+   "Europe",
+   "Amérique",
+   "Philippines",
+   "Afrique de l’Ouest",
+   "Inde"
+  ],
+  "P527": [
+   "bataille de Fort Carillon",
+   "bataille de Zorndorf",
+   "bataille de Wandiwash",
+   "bataille de la Monongahela",
+   "siège de Québec",
+   "siège de Glatz",
+   "troisième guerre de Silésie",
+   "Siege of Neisse",
+   "Battle of Himmelreich",
+   "Siege of Minden",
+   "Battle of Fulda",
+   "Siege of Schweidnitz",
+   "Siege of Schweidnitz",
+   "guerre anglo-cherokee",
+   "Q140044419"
+  ]
+ },
+ "grandes-guerres_guerre-d-independance-des-etats-unis": {
+  "qid": "Q40949",
+  "P276": [
+   "Est des États-Unis",
+   "océan Atlantique Nord",
+   "mer des Caraïbes",
+   "mer Méditerranée",
+   "Europe"
+  ],
+  "P527": [
+   "bataille de Négapatam",
+   "Front de l'Ouest de la guerre d'indépendance des États-Unis",
+   "siège de Gibraltar",
+   "bataille de Brandywine",
+   "bataille de Long Island",
+   "bataille de Bunker Hill",
+   "siège de Boston",
+   "bataille de Bennington",
+   "batailles de Lexington et Concord",
+   "Battle off Liverpool, Nova Scotia (1778)",
+   "guerre franco-anglaise",
+   "Espagne dans la guerre d'indépendance des États-Unis"
+  ]
+ },
+ "grandes-guerres_guerres-de-la-revolution-francaise": {
+  "qid": "Q207318",
+  "P276": [
+   "Europe"
+  ],
+  "P527": [
+   "guerres de coalition"
+  ]
+ },
+ "grandes-guerres_guerres-napoleoniennes": {
+  "qid": "Q78994",
+  "P276": [
+   "Europe"
+  ],
+  "P527": [
+   "guerre de la Troisième Coalition",
+   "Quatrième Coalition",
+   "cinquième coalition",
+   "guerre de la Sixième Coalition",
+   "Septième Coalition",
+   "Occupation de la Guyane par l'armée luso-brésilienne",
+   "siège de Graudenz"
+  ]
+ },
+ "grandes-guerres_guerre-de-secession": {
+  "qid": "Q8676",
+  "P276": [
+   "Sud des États-Unis",
+   "Nord des États-Unis",
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "théâtre oriental de la guerre de Sécession",
+   "théâtre occidental de la guerre de Sécession",
+   "théâtre Trans-Mississippi de la guerre de Sécession",
+   "théâtre de la côte pacifique de la Guerre de Sécession",
+   "première bataille de Bull Run",
+   "bataille de fort Sumter"
+  ]
+ },
+ "grandes-guerres_guerre-franco-allemande-de-1870": {
+  "qid": "Q46083",
+  "P276": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "siège de Paris",
+   "siège de Neuf-Brisach",
+   "siège de Verdun",
+   "bataille de Forbach-Spicheren",
+   "bataille de Borny-Colombey",
+   "bataille de Saint-Privat",
+   "siège de Metz",
+   "bataille de Pontarlier",
+   "siège de Toul",
+   "siège de Belfort",
+   "bataille d'Héricourt",
+   "chronologie de la guerre franco-allemande de 1870-1871"
+  ]
+ },
+ "grandes-guerres_guerre-des-boers": {
+  "qid": "Q1676845",
+  "P276": [
+   "Afrique du Sud"
+  ],
+  "P17": [
+   "Afrique du Sud"
+  ],
+  "P527": [
+   "seconde guerre des Boers",
+   "première guerre des Boers",
+   "État libre"
+  ]
+ },
+ "grandes-guerres_premiere-guerre-mondiale": {
+  "qid": "Q361",
+  "P276": [
+   "Europe",
+   "Océanie",
+   "Moyen-Orient",
+   "Afrique",
+   "Asie",
+   "Proche-Orient",
+   "océan Pacifique",
+   "république populaire de Chine",
+   "océan Indien",
+   "océan Atlantique"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "bataille de San Matteo",
+   "conférence de paix de Paris",
+   "théâtre européen de la Première Guerre mondiale",
+   "front du Moyen-Orient",
+   "théâtre africain de la Première Guerre mondiale",
+   "théâtre asiatique de la Première Guerre mondiale",
+   "guerre navale durant la Première Guerre mondiale",
+   "Schuwse Monday",
+   "occupation de la Biélorussie par les Allemands",
+   "First Battle of Ķekava",
+   "Second Battle of Ķekava",
+   "Guerre des mines",
+   "pays pendant la Première Guerre mondiale",
+   "buts de guerre de la Première Guerre mondiale",
+   "déclaration de guerre de l'Autriche-Hongrie à la Serbie le 28 juillet 1914",
+   "entrée américaine dans la Première Guerre mondiale"
+  ]
+ },
+ "grandes-guerres_guerre-civile-russe": {
+  "qid": "Q79911",
+  "P276": [
+   "République russe",
+   "Mongolie",
+   "Touva",
+   "Perse qadjare",
+   "Russie soviétique",
+   "République fédérative démocratique russe"
+  ],
+  "P17": [
+   "Empire russe",
+   "Union soviétique",
+   "République populaire ukrainienne"
+  ],
+  "P527": [
+   "Left-wing uprisings against the Bolsheviks",
+   "pro-independence movements in the Russian Civil War",
+   "campagne de Yakoutie"
+  ]
+ },
+ "grandes-guerres_guerre-d-espagne": {
+  "qid": "Q10859",
+  "P276": [
+   "péninsule Ibérique"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "massacre de Mondragón de 1936",
+   "massacre de La Fatarella en 1937"
+  ]
+ },
+ "grandes-guerres_seconde-guerre-mondiale": {
+  "qid": "Q362",
+  "P276": [
+   "Russie",
+   "Europe",
+   "Afrique",
+   "océan Pacifique",
+   "mer Méditerranée",
+   "Asie",
+   "océan Atlantique",
+   "Moyen-Orient",
+   "Asie du Sud-Est",
+   "Scandinavie",
+   "océan Indien",
+   "Asie du Sud",
+   "Asie du Nord",
+   "république de Chine",
+   "Japon",
+   "Afrique australe",
+   "Afrique de l'Est",
+   "Afrique centrale",
+   "Australie",
+   "Amérique du Nord",
+   "Amérique du Sud"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "guerre du Pacifique",
+   "front de l'Est",
+   "bataille de l'Atlantique",
+   "bataille d'Angleterre",
+   "débarquement de Normandie",
+   "bataille des Ardennes",
+   "Operation Flashpoint",
+   "campagnes d'Afrique, du Moyen-Orient et de Méditerranée",
+   "Middle East Theater of World War II",
+   "bataille d'Aix-la-Chapelle",
+   "bataille de l’Escaut",
+   "opération Barbarossa",
+   "attaque de Pearl Harbor",
+   "Bloody Sunday",
+   "Big Week",
+   "bataille de Madagascar",
+   "bataille de France",
+   "Military occupation of the Slovak Republic",
+   "troisième bataille de Kharkov",
+   "occupation de la Norvège par le Troisième Reich",
+   "occupation de la Grèce pendant la Seconde Guerre mondiale",
+   "pays pendant la Seconde Guerre mondiale",
+   "guerre en Yougoslavie pendant la seconde guerre mondiale",
+   "bataille de Mandchourie",
+   "campagne de Pologne"
+  ]
+ },
+ "grandes-guerres_guerre-civile-chinoise": {
+  "qid": "Q179975",
+  "P276": [
+   "Chine continentale",
+   "Hainan",
+   "Birmanie"
+  ],
+  "P17": [
+   "république de Chine"
+  ],
+  "P527": [
+   "première guerre civile chinoise",
+   "seconde guerre civile Kuomintang et communiste",
+   "bataille de Tōzan",
+   "Chinese Communist Revolution"
+  ]
+ },
+ "grandes-guerres_seconde-guerre-sino-japonaise": {
+  "qid": "Q170314",
+  "P276": [
+   "Chine"
+  ],
+  "P527": [
+   "massacre de Nankin",
+   "bataille du nord de la Birmanie et de l'ouest du Yunnan",
+   "opération Ichi-Go"
+  ]
+ },
+ "grandes-guerres_guerre-russo-japonaise": {
+  "qid": "Q159950",
+  "P276": [
+   "Mandchourie"
+  ],
+  "P527": [
+   "bataille de Port-Arthur",
+   "bataille de Sandepu",
+   "invasion japonaise de Sakhaline",
+   "bataille de Chemulpo",
+   "bataille de Korsakov",
+   "incident du Hitachi Maru",
+   "bataille de Moukden",
+   "bataille de Tsushima"
+  ]
+ },
+ "grandes-guerres_guerre-de-coree": {
+  "qid": "Q8663",
+  "P276": [
+   "détroit de Corée",
+   "mer du Japon",
+   "péninsule de Corée"
+  ],
+  "P17": [
+   "Corée du Nord",
+   "Corée du Sud"
+  ]
+ },
+ "grandes-guerres_guerre-du-vietnam": {
+  "qid": "Q8740",
+  "P276": [
+   "Laos",
+   "Cambodge",
+   "Vietnam",
+   "république du Vietnam",
+   "république démocratique du Vietnam",
+   "mer de Chine méridionale",
+   "golfe de Thaïlande"
+  ],
+  "P17": [
+   "Vietnam"
+  ],
+  "P527": [
+   "bataille d'Ap Bac",
+   "Many Flags",
+   "offensive du Tết",
+   "opposition à la guerre du Viêt Nam",
+   "Bataille de Nui Thanh",
+   "Operation Caroline Hill",
+   "Zones géographiques et pays impliqués dans la guerre du Viêt Nam",
+   "massacre de Mỹ Lai"
+  ]
+ },
+ "grandes-guerres_guerre-d-algerie": {
+  "qid": "Q200790",
+  "P276": [
+   "Algérie française"
+  ],
+  "P17": [
+   "Algérie"
+  ],
+  "P527": [
+   "Déclaration du 1er novembre 1954",
+   "congrès de la Soummam",
+   "bataille d'Alger",
+   "accords d'Évian",
+   "Référendum d'autodétermination de l'Algérie",
+   "Exécutif provisoire de 1962",
+   "guerres des cafés"
+  ]
+ },
+ "grandes-guerres_guerre-froide": {
+  "qid": "Q8683",
+  "P276": [
+   "Amérique latine",
+   "Asie",
+   "Afrique",
+   "Europe"
+  ],
+  "P527": [
+   "guerre d'usure",
+   "Révolution de Saur",
+   "guerre par procuration",
+   "Programme afghan",
+   "guerre d'Afghanistan",
+   "opération Ajax",
+   "révolution libératrice"
+  ]
+ },
+ "grandes-guerres_guerre-israelo-arabe-de-1948-1949": {
+  "qid": "Q49092",
+  "P276": [
+   "Sinaï",
+   "Liban du Sud",
+   "Palestine"
+  ],
+  "P17": [
+   "Palestine"
+  ]
+ },
+ "grandes-guerres_guerre-du-kippour": {
+  "qid": "Q49100",
+  "P276": [
+   "Proche-Orient",
+   "canal de Suez",
+   "plateau du Golan",
+   "Sinaï",
+   "Moyen-Orient"
+  ],
+  "P17": [
+   "Égypte"
+  ],
+  "P527": [
+   "Egyptian 25th Brigade ambush",
+   "Battle of the Chinese Farm",
+   "Operation Abirey-Halev",
+   "Battles of Fort Budapest",
+   "Battle of Fort Lahtzanit",
+   "troisième bataille du Mont Hermon",
+   "première bataille du Mont Hermon"
+  ]
+ },
+ "grandes-guerres_guerre-du-golfe": {
+  "qid": "Q37643",
+  "P276": [
+   "Koweït",
+   "Arabie saoudite",
+   "Irak",
+   "Israël"
+  ],
+  "P527": [
+   "opération Bouclier du désert",
+   "opération Tempête du désert"
+  ]
+ },
+ "grandes-guerres_guerre-d-irak": {
+  "qid": "Q545449",
+  "P276": [
+   "Irak"
+  ],
+  "P17": [
+   "Irak"
+  ]
+ },
+ "grandes-guerres_guerre-d-afghanistan-1979-1989": {
+  "qid": "Q83085",
+  "P276": [
+   "République démocratique d'Afghanistan"
+  ],
+  "P527": [
+   "Programme afghan"
+  ]
+ },
+ "grandes-guerres_guerre-des-malouines": {
+  "qid": "Q48249",
+  "P276": [
+   "îles Malouines",
+   "Géorgie du Sud-et-les Îles Sandwich du Sud"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "invasion des îles Malouines",
+   "Invasion de la Géorgie du Sud",
+   "opération Paraquet",
+   "opération Black Buck",
+   "raid sur l'île Pebble",
+   "opération Mikado",
+   "Opération Sutton",
+   "bataille de San Carlos",
+   "bataille de Seal Cove",
+   "bataille de Goose Green",
+   "assaut sur Mount Kent",
+   "combat de Top Malo House",
+   "raid aérien sur Bluff Cove",
+   "escarmouche à Many Branch Point",
+   "bataille de Mount Harriet",
+   "bataille des Deux Soeurs",
+   "bataille du mont Longdon",
+   "bataille de Wireless Ridge",
+   "bataille de Mount Tumbledown",
+   "capitulation argentine de 1982",
+   "opération Keyhole",
+   "Sinking of ARA General Belgrano",
+   "Battle of Murrell Bridge"
+  ]
+ },
+ "grandes-guerres_reconquista": {
+  "qid": "Q79791",
+  "P276": [
+   "péninsule Ibérique",
+   "Maghreb"
+  ],
+  "P527": [
+   "siège de Tolède",
+   "siège de Madrid",
+   "siège de Lisbonne",
+   "siège d'Algésiras"
+  ]
+ },
+ "grandes-guerres_guerres-d-italie": {
+  "qid": "Q273348",
+  "P276": [
+   "péninsule italienne"
+  ],
+  "P527": [
+   "première guerre d'Italie",
+   "troisième guerre d'Italie",
+   "guerre de Naples",
+   "guerre de la Ligue de Cambrai",
+   "sixième guerre d'Italie",
+   "septième guerre d'Italie",
+   "huitième guerre d'Italie",
+   "neuvième guerre d'Italie",
+   "dixième guerre d'Italie",
+   "Deuxième guerre d'Italie"
+  ]
+ },
+ "grandes-guerres_guerre-de-succession-d-autriche": {
+  "qid": "Q32929",
+  "P276": [
+   "Amérique du Nord",
+   "Inde",
+   "Europe"
+  ],
+  "P527": [
+   "bataille d'Adyar",
+   "bataille de Mollwitz",
+   "bataille du cap Sicié",
+   "seconde guerre de Silésie",
+   "guerre de l'oreille de Jenkins",
+   "siège de Prague",
+   "siège d’Antibes"
+  ]
+ },
+ "grandes-guerres_guerre-de-vendee": {
+  "qid": "Q8628",
+  "P276": [
+   "Vendée"
+  ],
+  "P17": [
+   "Première République française"
+  ]
+ },
+ "grandes-guerres_guerre-d-independance-grecque": {
+  "qid": "Q182062",
+  "P276": [
+   "Empire ottoman"
+  ],
+  "P527": [
+   "Exodus of Messolonghi",
+   "siège de Tripolizza"
+  ]
+ },
+ "grandes-guerres_guerre-de-crimee": {
+  "qid": "Q254106",
+  "P276": [
+   "Crimée",
+   "Caucase",
+   "Balkans",
+   "mer Noire",
+   "mer Baltique",
+   "mer Blanche",
+   "Kamtchatka"
+  ]
+ },
+ "grandes-guerres_guerres-de-l-opium": {
+  "qid": "Q220984",
+  "P276": [
+   "république populaire de Chine"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "première guerre de l'opium",
+   "seconde guerre de l'opium"
+  ]
+ },
+ "grandes-guerres_revolte-des-taiping": {
+  "qid": "Q192408",
+  "P276": [
+   "Chine historique"
+  ],
+  "P17": [
+   "dynastie Qing",
+   "république populaire de Chine"
+  ]
+ },
+ "grandes-guerres_risorgimento": {
+  "qid": "Q51122",
+  "P276": [
+   "Italie"
+  ],
+  "P17": [
+   "royaume d'Italie",
+   "royaume de Sardaigne"
+  ]
+ },
+ "grandes-guerres_guerre-hispano-americaine": {
+  "qid": "Q12583",
+  "P276": [
+   "mer des Caraïbes"
+  ],
+  "P527": [
+   "bataille de Santiago de Cuba"
+  ]
+ },
+ "grandes-guerres_revolte-des-boxers": {
+  "qid": "Q150229",
+  "P276": [
+   "Huabei"
+  ],
+  "P131": [
+   "Kiautschou"
+  ],
+  "P17": [
+   "Empire allemand",
+   "empire du Japon",
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "massacre de Taiyuan",
+   "siège de Pé-Tang"
+  ]
+ },
+ "grandes-guerres_guerres-balkaniques": {
+  "qid": "Q165725",
+  "P276": [
+   "Balkans"
+  ],
+  "P527": [
+   "première guerre balkanique",
+   "deuxième guerre balkanique"
+  ]
+ },
+ "grandes-guerres_guerre-d-indochine": {
+  "qid": "Q748780",
+  "P276": [
+   "Indochine française"
+  ],
+  "P17": [
+   "Indochine française"
+  ]
+ },
+ "grandes-guerres_guerre-des-six-jours": {
+  "qid": "Q49077",
+  "P276": [
+   "Moyen-Orient"
+  ]
+ },
+ "grandes-guerres_guerre-du-biafra": {
+  "qid": "Q829875",
+  "P276": [
+   "Sud-est du Nigeria"
+  ],
+  "P17": [
+   "Nigeria"
+  ]
+ },
+ "grandes-guerres_guerre-du-liban": {
+  "qid": "Q208484",
+  "P276": [
+   "Liban"
+  ],
+  "P17": [
+   "Liban"
+  ],
+  "P527": [
+   "guerre de la montagne",
+   "guerre de Cent Jours"
+  ]
+ },
+ "grandes-guerres_guerre-iran-irak": {
+  "qid": "Q82664",
+  "P276": [
+   "Iran",
+   "Irak",
+   "golfe Persique"
+  ],
+  "P527": [
+   "Q135918058"
+  ]
+ },
+ "grandes-guerres_guerres-de-yougoslavie": {
+  "qid": "Q242352",
+  "P276": [
+   "Yougoslavie"
+  ],
+  "P527": [
+   "guerre de Slovénie",
+   "guerre de Croatie",
+   "guerre de Bosnie-Herzégovine",
+   "guerre du Kosovo",
+   "Conflit de la vallée de Preševo",
+   "conflit de 2001 en Macédoine"
+  ]
+ },
+ "grandes-guerres_deuxieme-guerre-du-congo": {
+  "qid": "Q75756",
+  "P276": [
+   "République démocratique du Congo"
+  ],
+  "P17": [
+   "République démocratique du Congo"
+  ]
+ },
+ "grandes-guerres_guerre-d-afghanistan-2001-2021": {
+  "qid": "Q182865",
+  "P276": [
+   "Afghanistan"
+  ],
+  "P17": [
+   "Afghanistan"
+  ]
+ },
+ "grandes-guerres_guerre-civile-syrienne": {
+  "qid": "Q178810",
+  "P276": [
+   "Syrie"
+  ],
+  "P17": [
+   "Syrie"
+  ],
+  "P527": [
+   "participation étrangère dans la guerre civile syrienne",
+   "timeline of the Syrian civil war",
+   "timeline of the Syrian civil war",
+   "coalition arabo-occidentale en Irak et en Syrie",
+   "Chronicle of the Civil War in Syria 2025",
+   "Chronicle of the Civil War in Syria 2026",
+   "opération Bataille pour la restauration de la dignité",
+   "retombée de la guerre civile syrienne"
+  ]
+ },
+ "grandes-guerres_guerre-civile-yemenite": {
+  "qid": "Q19686631",
+  "P276": [
+   "Yémen",
+   "Najran"
+  ],
+  "P17": [
+   "Yémen"
+  ],
+  "P527": [
+   "opération Tempête de fermeté au Yémen",
+   "bataille de Moukalla",
+   "bataille d'Aden",
+   "Battle of Dhale",
+   "Lahij insurgency",
+   "bataille de Taëz",
+   "Shabwah campaign",
+   "Abyan campaign",
+   "bataille de Marib",
+   "Battle of Ibb",
+   "Battle of Port Midi",
+   "Battle of Utmah",
+   "Battle of Al Jawf",
+   "Shabwah Governorate offensive",
+   "bataille de Moukalla",
+   "December 2015 Taiz missile attack",
+   "June 2016 Mukalla attacks",
+   "September 2015 Marib Toshka missile attack",
+   "bataille de Nihm",
+   "bataille de Sanaa",
+   "Al Hudaydah governorate offensive",
+   "conflit frontalier entre l'Arabie saoudite et le Yémen"
+  ]
+ },
+ "grandes-guerres_guerre-russo-ukrainienne": {
+  "qid": "Q15860072",
+  "P276": [
+   "mer d'Azov",
+   "oblast de Rostov",
+   "Ukraine",
+   "Crimée"
+  ],
+  "P17": [
+   "Ukraine",
+   "Russie",
+   "Biélorussie",
+   "république populaire de Donetsk",
+   "république populaire de Lougansk"
+  ],
+  "P527": [
+   "invasion russe de la Crimée en 2014",
+   "guerre du Donbass",
+   "incident du détroit de Kertch",
+   "prélude à l'invasion de l'Ukraine par la Russie",
+   "invasion de l'Ukraine par la Russie",
+   "référendums de 2022 en Ukraine occupée",
+   "annexion russe du sud et de l'est de l'Ukraine",
+   "warfare in the Russo-Ukrainian War",
+   "siège de Marioupol"
+  ]
+ },
+ "grandes-guerres_guerre-de-la-triple-alliance": {
+  "qid": "Q58947",
+  "P276": [
+   "Cône Sud"
+  ],
+  "P527": [
+   "campagne du Mato Grosso",
+   "Corrientes Campaign",
+   "Humaitá Campaign",
+   "Pikysyry Campaign",
+   "Campaign of the Hills",
+   "massacre de Caguijuru",
+   "Battle of Miranda"
+  ]
+ },
+ "grandes-guerres_guerre-du-chaco": {
+  "qid": "Q223126",
+  "P276": [
+   "Gran Chaco"
+  ],
+  "P17": [
+   "Bolivie"
+  ],
+  "P527": [
+   "première bataille d'Alihuatá"
+  ]
+ },
+ "grandes-guerres_guerres-d-independance-hispano-americaines": {
+  "qid": "Q1123201",
+  "P276": [
+   "Amérique hispanique"
+  ],
+  "P527": [
+   "guerre d'indépendance du Mexique",
+   "indépendance de l’Amérique centrale",
+   "Independence of Argentina",
+   "indépendance du Chili",
+   "guerre d'indépendance de la Colombie",
+   "indépendance du Venezuela",
+   "indépendance du Panama de l'Espagne",
+   "indépendance de Guayaquil",
+   "Independence of Paraguay",
+   "guerre d'indépendance du Pérou",
+   "indépendance de la Bolivie"
+  ]
+ },
+ "grandes-guerres_revolution-haitienne": {
+  "qid": "Q689128",
+  "P276": [
+   "Saint-Domingue"
+  ],
+  "P17": [
+   "Saint-Domingue"
+  ],
+  "P527": [
+   "bataille de Vertières"
+  ]
+ },
+ "grandes-guerres_revolution-mexicaine": {
+  "qid": "Q214426",
+  "P276": [
+   "Mexique"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P527": [
+   "guerre de la frontière américano-mexicaine"
+  ]
+ },
+ "grandes-guerres_revolution-russe": {
+  "qid": "Q8729",
+  "P276": [
+   "Empire russe"
+  ],
+  "P17": [
+   "Empire russe"
+  ],
+  "P527": [
+   "révolution d'Octobre",
+   "révolution de Février"
+  ]
+ },
+ "grandes-guerres_revolution-francaise": {
+  "qid": "Q6534",
+  "P276": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Terreur",
+   "proclamation de l'abolition de la royauté",
+   "serment du Jeu de paume",
+   "journées des 5 et 6 octobre 1789"
+  ]
+ },
+ "grandes-guerres_guerre-de-hollande": {
+  "qid": "Q646322",
+  "P276": [
+   "Europe de l'Ouest",
+   "mer Méditerranée",
+   "océan Atlantique",
+   "Indes orientales"
+  ],
+  "P527": [
+   "guerre de Scanie",
+   "siège de Besançon",
+   "siège de Groningue"
+  ]
+ },
+ "grandes-guerres_guerre-anglo-americaine-de-1812": {
+  "qid": "Q26013",
+  "P276": [
+   "océan Atlantique",
+   "océan Pacifique",
+   "Amérique du Nord"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "grandes-guerres_guerre-americano-mexicaine": {
+  "qid": "Q6683",
+  "P276": [
+   "Mexique"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "First Battle of Tabasco",
+   "traité de Guadeloupe Hidalgo",
+   "bataille de Cerro Gordo",
+   "Bataillon Saint Patrick",
+   "Second Battle of Tabasco"
+  ]
+ },
+ "grandes-guerres_guerres-indiennes": {
+  "qid": "Q849680",
+  "P276": [
+   "Amérique du Nord"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "première guerre intercoloniale",
+   "guerre du Pêcher"
+  ]
+ },
+ "grandes-guerres_guerre-anglo-zouloue": {
+  "qid": "Q228911",
+  "P276": [
+   "Royaume zoulou"
+  ]
+ },
+ "grandes-guerres_premiere-guerre-de-tchetchenie": {
+  "qid": "Q29269",
+  "P276": [
+   "Tchétchénie",
+   "Ingouchie",
+   "kraï de Stavropol",
+   "Daghestan"
+  ],
+  "P527": [
+   "bataille de Grozny",
+   "bataille de Grozny",
+   "bataille de Grozny",
+   "bataille de Grozny"
+  ]
+ }
+}

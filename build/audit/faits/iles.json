@@ -1,0 +1,887 @@
+{
+ "iles_madagascar": {
+  "qid": "Q1019",
+  "P571": [
+   "1960"
+  ],
+  "P17": [
+   "Madagascar"
+  ]
+ },
+ "iles_islande": {
+  "qid": "Q189",
+  "P571": [
+   "1944",
+   "1918"
+  ],
+  "P17": [
+   "Islande"
+  ]
+ },
+ "iles_borneo": {
+  "qid": "Q36117",
+  "P17": [
+   "Indonésie",
+   "Malaisie",
+   "Brunei"
+  ]
+ },
+ "iles_groenland": {
+  "qid": "Q223",
+  "P131": [
+   "Royaume de Danemark"
+  ],
+  "P17": [
+   "Royaume de Danemark"
+  ]
+ },
+ "iles_nouvelle-guinee": {
+  "qid": "Q40285",
+  "P131": [
+   "Papouasie",
+   "Papouasie occidentale",
+   "Indonésie"
+  ],
+  "P17": [
+   "Indonésie",
+   "Papouasie-Nouvelle-Guinée"
+  ]
+ },
+ "iles_sicile": {
+  "qid": "Q1460",
+  "P571": [
+   "1946"
+  ],
+  "P131": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "iles_sardaigne": {
+  "qid": "Q1462",
+  "P131": [
+   "Italie",
+   "royaume d'Italie",
+   "royaume de Sardaigne",
+   "Corse-Sardaigne"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "iles_corse": {
+  "qid": "Q14112",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "île Bruzzi",
+   "îlot de Capense",
+   "île d'Eccica",
+   "îles Cerbicale",
+   "île de Gargalo",
+   "île de Garganellu",
+   "Giraglia",
+   "îles Lavezzi",
+   "îlots des Moines",
+   "îlots de Mursetta",
+   "île de la Pietra",
+   "île de Pinarellu",
+   "île Roscana",
+   "îlot de Spano",
+   "Corse"
+  ]
+ },
+ "iles_crete": {
+  "qid": "Q34374",
+  "P276": [
+   "mer Égée"
+  ],
+  "P131": [
+   "Crète"
+  ],
+  "P17": [
+   "Grèce",
+   "Crète autonome",
+   "Empire ottoman",
+   "république de Venise"
+  ]
+ },
+ "iles_chypre-ile": {
+  "qid": "Q644636",
+  "P17": [
+   "Chypre",
+   "Chypre du Nord",
+   "Royaume-Uni",
+   "Empire britannique",
+   "Empire ottoman",
+   "Akrotiri et Dhekelia"
+  ]
+ },
+ "iles_bali": {
+  "qid": "Q4648",
+  "P131": [
+   "province de Bali"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "iles_java-ile": {
+  "qid": "Q3757",
+  "P276": [
+   "mer de Java"
+  ],
+  "P131": [
+   "Indonésie"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "iles_sumatra": {
+  "qid": "Q3492",
+  "P131": [
+   "Indonésie"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "iles_hawai-ile": {
+  "qid": "Q68740",
+  "P131": [
+   "comté d'Hawaï"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "iles_tahiti": {
+  "qid": "Q42000",
+  "P131": [
+   "Polynésie française"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_ile-de-paques": {
+  "qid": "Q14452",
+  "P131": [
+   "Isla de Pascua"
+  ],
+  "P17": [
+   "Chili"
+  ]
+ },
+ "iles_iles-galapagos": {
+  "qid": "Q38095",
+  "P131": [
+   "Galápagos"
+  ],
+  "P17": [
+   "Équateur"
+  ],
+  "P527": [
+   "île Baltra",
+   "île Bartolomé",
+   "île Wolf",
+   "île Santiago",
+   "île Santa Fé",
+   "île Santa Cruz",
+   "île San Cristóbal",
+   "île Rábida",
+   "île Pinta",
+   "île Pinzón",
+   "île Seymour Nord",
+   "île Marchena",
+   "île Isabela (Équateur)",
+   "île Genovesa",
+   "île Floreana",
+   "Île Fernandina",
+   "île Española",
+   "île Darwin",
+   "île Daphne",
+   "île Plaza Sud",
+   "Nameless Island",
+   "île Roca Redonda",
+   "parc national des Galápagos",
+   "Darwin and Wolf",
+   "Seymour Islands"
+  ]
+ },
+ "iles_iles-feroe": {
+  "qid": "Q4628",
+  "P571": [
+   "1948"
+  ],
+  "P131": [
+   "Royaume de Danemark"
+  ],
+  "P17": [
+   "Royaume de Danemark",
+   "Danemark"
+  ],
+  "P527": [
+   "Skúvoy",
+   "Mykineshólmur",
+   "Nólsoy",
+   "Fugloy",
+   "Lítla Dímun",
+   "Eysturoy",
+   "Borðoy",
+   "Kalsoy",
+   "Suðuroy",
+   "Sandoy",
+   "Svínoy",
+   "Stóra Dímun",
+   "Kunoy",
+   "Viðoy",
+   "Vágar",
+   "Streymoy",
+   "île de Hestur",
+   "Koltur",
+   "Slættaratindur"
+  ]
+ },
+ "iles_svalbard": {
+  "qid": "Q25231",
+  "P131": [
+   "Norvège"
+  ],
+  "P17": [
+   "Norvège"
+  ],
+  "P527": [
+   "Hopen",
+   "Edgeøya",
+   "Spitzberg",
+   "Nordaustlandet"
+  ]
+ },
+ "iles_sainte-helene-ile": {
+  "qid": "Q34497",
+  "P131": [
+   "Saint Helena"
+  ],
+  "P17": [
+   "royaume de la Couronne"
+  ]
+ },
+ "iles_zanzibar-archipel": {
+  "qid": "Q706541",
+  "P131": [
+   "Zanzibar"
+  ],
+  "P17": [
+   "Tanzanie"
+  ],
+  "P527": [
+   "Mafia",
+   "Pemba",
+   "Unguja",
+   "Latham Island",
+   "île de Bawe",
+   "Changuu",
+   "Tumbatu",
+   "île de Mnemba",
+   "Vundwe Island",
+   "Uzi",
+   "Chumbe",
+   "Funzi Island",
+   "Fundo Island",
+   "Njao Island"
+  ]
+ },
+ "iles_socotra": {
+  "qid": "Q82859",
+  "P131": [
+   "Socotra"
+  ],
+  "P17": [
+   "Yémen",
+   "Hadramaout"
+  ]
+ },
+ "iles_malte": {
+  "qid": "Q233",
+  "P571": [
+   "1964"
+  ],
+  "P17": [
+   "Malte",
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "iles_santorin": {
+  "qid": "Q129296",
+  "P131": [
+   "dème de Théra"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "Akrotiri (Santorin)"
+  ]
+ },
+ "iles_capri": {
+  "qid": "Q173292",
+  "P276": [
+   "baie de Naples"
+  ],
+  "P131": [
+   "ville métropolitaine de Naples",
+   "province de Naples"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "iles_ibiza": {
+  "qid": "Q52631",
+  "P131": [
+   "Îles Baléares",
+   "Îles Baléares"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "iles_bahamas": {
+  "qid": "Q778",
+  "P571": [
+   "1973"
+  ],
+  "P17": [
+   "Bahamas"
+  ],
+  "P527": [
+   "Samana Cay",
+   "Grand Bahama"
+  ]
+ },
+ "iles_cuba": {
+  "qid": "Q241",
+  "P571": [
+   "1898"
+  ],
+  "P17": [
+   "Cuba"
+  ]
+ },
+ "iles_jamaique": {
+  "qid": "Q766",
+  "P571": [
+   "1962"
+  ]
+ },
+ "iles_hispaniola": {
+  "qid": "Q25277",
+  "P276": [
+   "mer des Caraïbes"
+  ],
+  "P17": [
+   "République dominicaine",
+   "Haïti"
+  ]
+ },
+ "iles_terre-neuve": {
+  "qid": "Q48335",
+  "P131": [
+   "Terre-Neuve-et-Labrador"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "iles_tasmanie": {
+  "qid": "Q34366",
+  "P571": [
+   "1825"
+  ],
+  "P131": [
+   "Australie"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "iles_fidji": {
+  "qid": "Q712",
+  "P571": [
+   "1970"
+  ],
+  "P17": [
+   "Fidji"
+  ]
+ },
+ "iles_palaos": {
+  "qid": "Q695",
+  "P571": [
+   "1994",
+   "1981"
+  ],
+  "P17": [
+   "Palaos"
+  ]
+ },
+ "iles_maldives": {
+  "qid": "Q826",
+  "P571": [
+   "1965",
+   "1968"
+  ],
+  "P17": [
+   "Maldives",
+   "Empire colonial portugais",
+   "Empire colonial portugais"
+  ]
+ },
+ "iles_seychelles": {
+  "qid": "Q1042",
+  "P571": [
+   "1976"
+  ],
+  "P17": [
+   "Seychelles"
+  ],
+  "P527": [
+   "La Digue"
+  ]
+ },
+ "iles_archipel-des-comores": {
+  "qid": "Q634740",
+  "P131": [
+   "Anjouan",
+   "Comores"
+  ],
+  "P17": [
+   "Comores",
+   "France"
+  ],
+  "P527": [
+   "Grande Comore",
+   "Mayotte"
+  ]
+ },
+ "iles_ile-maurice": {
+  "qid": "Q2656389",
+  "P276": [
+   "océan Indien"
+  ],
+  "P131": [
+   "Maurice"
+  ],
+  "P17": [
+   "Maurice"
+  ]
+ },
+ "iles_la-reunion": {
+  "qid": "Q17070",
+  "P571": [
+   "1946",
+   "1973"
+  ],
+  "P131": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "île de La Réunion",
+   "Petite Île"
+  ]
+ },
+ "iles_ouessant": {
+  "qid": "Q202378",
+  "P276": [
+   "île d'Ouessant",
+   "île de Keller"
+  ],
+  "P131": [
+   "canton d'Ouessant",
+   "Finistère",
+   "arrondissement de Brest"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_taiwan-ile": {
+  "qid": "Q22502",
+  "P131": [
+   "Taïwan"
+  ],
+  "P17": [
+   "Taïwan"
+  ]
+ },
+ "iles_martinique": {
+  "qid": "Q17054",
+  "P571": [
+   "1946"
+  ],
+  "P276": [
+   "Martinique"
+  ],
+  "P131": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_guadeloupe": {
+  "qid": "Q17012",
+  "P571": [
+   "1946"
+  ],
+  "P131": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Guadeloupe",
+   "îles des Saintes",
+   "Marie-Galante",
+   "La Désirade",
+   "îles de la Petite-Terre"
+  ]
+ },
+ "iles_grande-terre-nouvelle-caledonie": {
+  "qid": "Q256293",
+  "P131": [
+   "Nouvelle-Calédonie"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_bora-bora": {
+  "qid": "Q183113",
+  "P131": [
+   "Bora-Bora"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Motu Mute",
+   "Motu Tapu",
+   "Toopua",
+   "Toopua Iti",
+   "Tevairoa",
+   "Motu Ahuna",
+   "Motu Tane",
+   "Piti Aau",
+   "Motu Paahi",
+   "Taufarii",
+   "Motu Tofari",
+   "Bora-Bora",
+   "Motu Moute",
+   "Vananui"
+  ]
+ },
+ "iles_iles-marquises": {
+  "qid": "Q172697",
+  "P131": [
+   "Polynésie française",
+   "circonscription administrative des Îles Marquises"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Nuku Hiva",
+   "groupe nord des îles Marquises",
+   "groupe sud des îles Marquises"
+  ]
+ },
+ "iles_mayotte": {
+  "qid": "Q17063",
+  "P571": [
+   "1974"
+  ],
+  "P131": [
+   "France",
+   "zone de défense et de sécurité du Sud de l'océan Indien"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_ile-de-re": {
+  "qid": "Q292384",
+  "P276": [
+   "golfe de Gascogne"
+  ],
+  "P131": [
+   "Ars-en-Ré",
+   "Le Bois-Plage-en-Ré",
+   "La Couarde-sur-Mer",
+   "La Flotte",
+   "Loix",
+   "Les Portes-en-Ré",
+   "Rivedoux-Plage",
+   "Saint-Clément-des-Baleines",
+   "Saint-Martin-de-Ré",
+   "Sainte-Marie-de-Ré"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_belle-ile-en-mer": {
+  "qid": "Q815838",
+  "P131": [
+   "Bangor",
+   "Locmaria",
+   "Le Palais",
+   "Sauzon",
+   "communauté de communes de Belle-Île-en-Mer",
+   "canton de Belle-Île",
+   "canton de Quiberon",
+   "arrondissement de Lorient",
+   "Morbihan"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_jersey": {
+  "qid": "Q785",
+  "P571": [
+   "1651"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Jersey"
+  ],
+  "P527": [
+   "aéroport de Jersey"
+  ]
+ },
+ "iles_ile-de-skye": {
+  "qid": "Q107393",
+  "P131": [
+   "Highland"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "iles_ithaque": {
+  "qid": "Q187471",
+  "P131": [
+   "Céphalonie",
+   "dème d'Ithaque"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "iles_rhodes": {
+  "qid": "Q43048",
+  "P571": [
+   "-1600"
+  ],
+  "P276": [
+   "mer Égée"
+  ],
+  "P131": [
+   "district régional de Rhodes"
+  ],
+  "P17": [
+   "Grèce",
+   "royaume d'Italie",
+   "Empire ottoman",
+   "Empire byzantin",
+   "Empire romain",
+   "Ligue de Délos",
+   "Ligue de Corinthe",
+   "Empire achéménide"
+  ]
+ },
+ "iles_majorque": {
+  "qid": "Q8828",
+  "P131": [
+   "Îles Baléares"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "iles_tenerife": {
+  "qid": "Q40846",
+  "P276": [
+   "océan Atlantique"
+  ],
+  "P131": [
+   "province de Santa Cruz de Ténérife"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "iles_madere": {
+  "qid": "Q26253",
+  "P571": [
+   "1976"
+  ],
+  "P131": [
+   "Portugal"
+  ],
+  "P17": [
+   "Portugal"
+  ]
+ },
+ "iles_acores": {
+  "qid": "Q25263",
+  "P571": [
+   "1976"
+  ],
+  "P131": [
+   "Portugal",
+   "Açores (NUTS 2)"
+  ],
+  "P17": [
+   "Portugal"
+  ],
+  "P527": [
+   "Santa Maria",
+   "São Jorge",
+   "São Miguel",
+   "Terceira",
+   "Graciosa",
+   "Pico",
+   "Faial",
+   "Flores",
+   "Corvo"
+  ]
+ },
+ "iles_ile-de-goree": {
+  "qid": "Q244347",
+  "P131": [
+   "Dakar Plateau"
+  ],
+  "P17": [
+   "Sénégal",
+   "Empire colonial portugais"
+  ]
+ },
+ "iles_ile-d-alcatraz": {
+  "qid": "Q131354",
+  "P276": [
+   "baie de San Francisco"
+  ],
+  "P131": [
+   "San Francisco",
+   "comté de San Francisco"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "iles_ellis-island": {
+  "qid": "Q202175",
+  "P131": [
+   "New Jersey",
+   "Manhattan",
+   "comté de Hudson"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "iles_ile-du-diable": {
+  "qid": "Q220385",
+  "P571": [
+   "1852"
+  ],
+  "P131": [
+   "Cayenne",
+   "Kourou"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "iles_ile-de-la-tortue": {
+  "qid": "Q208345",
+  "P276": [
+   "océan Atlantique"
+  ],
+  "P131": [
+   "arrondissement de Port-de-Paix"
+  ],
+  "P17": [
+   "Haïti"
+  ]
+ },
+ "iles_tristan-da-cunha": {
+  "qid": "Q81116",
+  "P569": [
+   "1460"
+  ],
+  "P570": [
+   "1540"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ]
+ },
+ "iles_iles-kerguelen": {
+  "qid": "Q46772",
+  "P131": [
+   "Terres australes et antarctiques françaises"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Grande Terre"
+  ]
+ },
+ "iles_pitcairn": {
+  "qid": "Q1779748",
+  "P131": [
+   "îles Pitcairn"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "iles_komodo-ile": {
+  "qid": "Q107640",
+  "P131": [
+   "kabupaten de Manggarai occidental"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "iles_bikini-atoll": {
+  "qid": "Q152225",
+  "P131": [
+   "Îles Marshall",
+   "Bikini Atoll"
+  ],
+  "P17": [
+   "Îles Marshall"
+  ]
+ }
+}

@@ -1,0 +1,1056 @@
+{
+ "grandes-batailles-historiques_bataille-de-marathon": {
+  "qid": "Q31900",
+  "P276": [
+   "Marathon"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-thermopyles": {
+  "qid": "Q131969",
+  "P276": [
+   "Thermopyles"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-salamine": {
+  "qid": "Q178850",
+  "P276": [
+   "Salamine"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-gaugameles": {
+  "qid": "Q179670",
+  "P276": [
+   "Gaugamèle"
+  ],
+  "P17": [
+   "Empire achéménide",
+   "Irak"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-cannes": {
+  "qid": "Q179591",
+  "P276": [
+   "Canne",
+   "Italie romaine"
+  ],
+  "P17": [
+   "Rome antique",
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-zama": {
+  "qid": "Q200056",
+  "P276": [
+   "Zama Regia"
+  ],
+  "P17": [
+   "civilisation carthaginoise",
+   "Tunisie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-actium": {
+  "qid": "Q160387",
+  "P276": [
+   "mer Ionienne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-teutobourg": {
+  "qid": "Q87779",
+  "P276": [
+   "Osnabrück"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-andrinople-378": {
+  "qid": "Q192473",
+  "P276": [
+   "Edirne"
+  ],
+  "P17": [
+   "Rome antique",
+   "Turquie"
+  ],
+  "P527": [
+   "siège d'Adrianople"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-poitiers-732": {
+  "qid": "Q173077",
+  "P276": [
+   "Poitiers"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-hastings": {
+  "qid": "Q83224",
+  "P276": [
+   "Battle"
+  ],
+  "P17": [
+   "royaume d'Angleterre",
+   "Royaume-Uni"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-champs-catalauniques-451": {
+  "qid": "Q139808",
+  "P276": [
+   "Troyes",
+   "Champs Catalauniques"
+  ],
+  "P17": [
+   "Empire romain d'Occident",
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-manzikert": {
+  "qid": "Q200032",
+  "P276": [
+   "Malazgirt"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-hattin": {
+  "qid": "Q233568",
+  "P276": [
+   "Horns of Hattin"
+  ],
+  "P17": [
+   "Royaume de Jérusalem"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-courtrai-1302": {
+  "qid": "Q44732",
+  "P276": [
+   "Courtrai"
+  ],
+  "P17": [
+   "Belgique"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-bannockburn": {
+  "qid": "Q222520",
+  "P276": [
+   "Bannockburn",
+   "Battlefield of Bannockburn"
+  ],
+  "P17": [
+   "royaume d'Écosse",
+   "Royaume-Uni"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-crecy": {
+  "qid": "Q27759",
+  "P276": [
+   "Crécy-en-Ponthieu"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-azincourt": {
+  "qid": "Q188495",
+  "P276": [
+   "Azincourt"
+  ],
+  "P17": [
+   "royaume de France",
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-castillon": {
+  "qid": "Q932613",
+  "P276": [
+   "Castillon-la-Bataille"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-nicopolis": {
+  "qid": "Q212220",
+  "P276": [
+   "Nikopol"
+  ],
+  "P17": [
+   "Second Empire bulgare",
+   "Bulgarie"
+  ]
+ },
+ "grandes-batailles-historiques_chute-de-constantinople": {
+  "qid": "Q160077",
+  "P276": [
+   "Constantinople"
+  ],
+  "P17": [
+   "Empire byzantin",
+   "Turquie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-lepante": {
+  "qid": "Q165425",
+  "P276": [
+   "Naupacte",
+   "golfe de Corinthe",
+   "golfe de Patras"
+  ],
+  "P17": [
+   "Grèce ottomane",
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_invincible-armada": {
+  "qid": "Q179684",
+  "P571": [
+   "1588"
+  ],
+  "P276": [
+   "Manche"
+  ],
+  "P17": [
+   "royaume des Espagnes"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-breitenfeld-1631": {
+  "qid": "Q205379",
+  "P276": [
+   "Breitenfeld"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-rocroi": {
+  "qid": "Q728480",
+  "P276": [
+   "Rocroi"
+  ],
+  "P17": [
+   "royaume de France",
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-poltava": {
+  "qid": "Q152486",
+  "P276": [
+   "Poltava"
+  ],
+  "P17": [
+   "Ukraine"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-yorktown": {
+  "qid": "Q459447",
+  "P276": [
+   "Yorktown"
+  ],
+  "P131": [
+   "Virginie"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-valmy": {
+  "qid": "Q4411",
+  "P276": [
+   "Sainte-Menehould"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-austerlitz": {
+  "qid": "Q134114",
+  "P276": [
+   "Austerlitz"
+  ],
+  "P17": [
+   "empire d'Autriche",
+   "Tchéquie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-trafalgar": {
+  "qid": "Q171416",
+  "P276": [
+   "cap de Trafalgar"
+  ],
+  "P17": [
+   "royaume d'Espagne",
+   "Espagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-waterloo": {
+  "qid": "Q48314",
+  "P276": [
+   "champ de bataille de Waterloo"
+  ],
+  "P17": [
+   "royaume uni des Pays-Bas",
+   "Belgique"
+  ]
+ },
+ "grandes-batailles-historiques_siege-de-sebastopol-1854-1855": {
+  "qid": "Q815216",
+  "P276": [
+   "Sébastopol",
+   "Crimée"
+  ],
+  "P17": [
+   "Russie",
+   "Ukraine"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-gettysburg": {
+  "qid": "Q33132",
+  "P276": [
+   "comté d'Adams"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-sedan": {
+  "qid": "Q156681",
+  "P276": [
+   "arrondissement de Sedan"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-la-marne-1914": {
+  "qid": "Q190712",
+  "P276": [
+   "Aulnois"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-verdun": {
+  "qid": "Q130847",
+  "P276": [
+   "Verdun"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-la-somme": {
+  "qid": "Q132568",
+  "P276": [
+   "Somme"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-stalingrad": {
+  "qid": "Q38789",
+  "P276": [
+   "Volgograd"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-midway": {
+  "qid": "Q173034",
+  "P276": [
+   "îles Midway"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "grandes-batailles-historiques_debarquement-de-normandie": {
+  "qid": "Q16470",
+  "P276": [
+   "Normandie",
+   "baie de Seine",
+   "Les Plages du Débarquement, Normandie, 1944"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-ardennes": {
+  "qid": "Q151018",
+  "P276": [
+   "Ardenne",
+   "Belgique",
+   "Meuse"
+  ],
+  "P17": [
+   "Belgique",
+   "Luxembourg",
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-dien-bien-phu": {
+  "qid": "Q604897",
+  "P276": [
+   "Ðiện Biên Phủ"
+  ],
+  "P17": [
+   "Vietnam"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-khe-sanh": {
+  "qid": "Q247253",
+  "P276": [
+   "district de Gapyeong",
+   "Khe Sanh"
+  ],
+  "P17": [
+   "république du Vietnam",
+   "Corée du Sud"
+  ]
+ },
+ "grandes-batailles-historiques_deuxieme-bataille-de-falloujah": {
+  "qid": "Q1330136",
+  "P276": [
+   "Falloujah"
+  ],
+  "P17": [
+   "Irak"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-qadesh": {
+  "qid": "Q203729",
+  "P276": [
+   "Qadesh"
+  ],
+  "P17": [
+   "Syrie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-megiddo-1918": {
+  "qid": "Q199371",
+  "P276": [
+   "Sharon",
+   "vallée de Jezreel",
+   "vallée du Jourdain",
+   "Nazareth",
+   "Samarie",
+   "Palestine"
+  ],
+  "P17": [
+   "Empire ottoman",
+   "Israël"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-platees": {
+  "qid": "Q204636",
+  "P276": [
+   "Platées",
+   "district régional de Béotie"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-issos": {
+  "qid": "Q201526",
+  "P276": [
+   "Issos"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-du-lac-trasimene": {
+  "qid": "Q207250",
+  "P276": [
+   "lac Trasimène"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-pharsale": {
+  "qid": "Q203681",
+  "P276": [
+   "Pharsale"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_siege-d-alesia": {
+  "qid": "Q131386",
+  "P276": [
+   "site archéologique d'Alésia"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-philippes": {
+  "qid": "Q335330",
+  "P276": [
+   "Philippes"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-du-pont-milvius": {
+  "qid": "Q339321",
+  "P276": [
+   "pont Milvius"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-roncevaux-778": {
+  "qid": "Q1233475",
+  "P276": [
+   "col de Roncevaux"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-bouvines": {
+  "qid": "Q830626",
+  "P276": [
+   "Bouvines"
+  ],
+  "P17": [
+   "royaume de France",
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-kosovo-polje": {
+  "qid": "Q179288",
+  "P276": [
+   "Kosovo Field"
+  ],
+  "P17": [
+   "Kosovo"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-grunwald": {
+  "qid": "Q33570",
+  "P276": [
+   "Grunwald"
+  ],
+  "P17": [
+   "Royaume de Pologne",
+   "Pologne"
+  ]
+ },
+ "grandes-batailles-historiques_siege-d-orleans-1428-1429": {
+  "qid": "Q392213",
+  "P276": [
+   "Orléans"
+  ],
+  "P17": [
+   "royaume de France",
+   "France"
+  ],
+  "P527": [
+   "journée des Harengs"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-marignan": {
+  "qid": "Q330",
+  "P276": [
+   "Melegnano"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-pavie-1525": {
+  "qid": "Q63468",
+  "P276": [
+   "Pavie"
+  ],
+  "P17": [
+   "duché de Milan",
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-mohacs-1526": {
+  "qid": "Q178510",
+  "P276": [
+   "Sátorhely"
+  ],
+  "P17": [
+   "royaume de Hongrie",
+   "Hongrie"
+  ]
+ },
+ "grandes-batailles-historiques_siege-de-vienne-1683": {
+  "qid": "Q7222682",
+  "P276": [
+   "Vienne"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique",
+   "Autriche"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-hochstadt-1704": {
+  "qid": "Q154635",
+  "P276": [
+   "Blindheim"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-plaines-d-abraham": {
+  "qid": "Q311726",
+  "P276": [
+   "Québec"
+  ],
+  "P17": [
+   "Nouvelle-France",
+   "Canada"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-pyramides": {
+  "qid": "Q332543",
+  "P276": [
+   "Embabeh"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-iena": {
+  "qid": "Q154426",
+  "P276": [
+   "Iéna"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-la-moskova": {
+  "qid": "Q184320",
+  "P276": [
+   "Borodino"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-leipzig-1642": {
+  "qid": "Q1754785",
+  "P276": [
+   "Breitenfeld"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-wagram": {
+  "qid": "Q467777",
+  "P276": [
+   "Deutsch-Wagram"
+  ],
+  "P17": [
+   "Autriche"
+  ]
+ },
+ "grandes-batailles-historiques_siege-de-fort-alamo": {
+  "qid": "Q235344",
+  "P276": [
+   "San Antonio",
+   "mission Alamo"
+  ],
+  "P131": [
+   "Texas mexicain"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "siège de la mission Alamo"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-little-bighorn": {
+  "qid": "Q205422",
+  "P276": [
+   "Little Bighorn"
+  ],
+  "P131": [
+   "Territoire du Montana"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-tsushima": {
+  "qid": "Q208127",
+  "P276": [
+   "détroit de Tsushima"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-des-dardanelles": {
+  "qid": "Q164983",
+  "P276": [
+   "péninsule de Gallipoli"
+  ],
+  "P17": [
+   "Empire ottoman",
+   "Turquie"
+  ],
+  "P527": [
+   "disparition du régiment de Norfolk"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-tannenberg-1914": {
+  "qid": "Q153858",
+  "P276": [
+   "Olsztyn"
+  ],
+  "P17": [
+   "Pologne"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-ypres-1915": {
+  "qid": "Q233219",
+  "P276": [
+   "Ypres",
+   "saillant d'Ypres"
+  ],
+  "P17": [
+   "Belgique"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-du-chemin-des-dames": {
+  "qid": "Q1694094",
+  "P276": [
+   "Soissons",
+   "Reims"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_attaque-de-pearl-harbor": {
+  "qid": "Q52418",
+  "P276": [
+   "Pearl Harbor"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Attack on Pearl Harbor in popular culture"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-angleterre": {
+  "qid": "Q154720",
+  "P276": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Adlertag"
+  ]
+ },
+ "grandes-batailles-historiques_seconde-bataille-d-el-alamein": {
+  "qid": "Q153376",
+  "P276": [
+   "El Alamein"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-koursk": {
+  "qid": "Q130861",
+  "P276": [
+   "Koursk"
+  ],
+  "P17": [
+   "Union soviétique"
+  ],
+  "P527": [
+   "Operation Citadel",
+   "opération Koutouzov",
+   "opération Polkovodets Roumiantsev"
+  ]
+ },
+ "grandes-batailles-historiques_siege-de-leningrad": {
+  "qid": "Q151860",
+  "P276": [
+   "Saint-Pétersbourg"
+  ],
+  "P17": [
+   "Union soviétique"
+  ],
+  "P527": [
+   "opération défensive stratégique de Léningrad",
+   "offensive Leningrad–Novgorod",
+   "Стрельнинско-Петергофская операция",
+   "bataille de Liouban",
+   "opération Iskra",
+   "2nd Sinyavino Offensive (1941)",
+   "opération Polyarnaya Zvezda",
+   "bataille de Someri",
+   "Десант на Пишмаш",
+   "poche de Demiansk",
+   "route de la vie",
+   "Lake Ilmen action"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-guadalcanal": {
+  "qid": "Q217145",
+  "P276": [
+   "Guadalcanal"
+  ],
+  "P527": [
+   "opération Ke",
+   "Guadalcanal Campaign"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-monte-cassino": {
+  "qid": "Q335288",
+  "P276": [
+   "mont Cassin"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-iwo-jima": {
+  "qid": "Q180182",
+  "P276": [
+   "Iwo Jima"
+  ],
+  "P131": [
+   "Iōjima"
+  ],
+  "P17": [
+   "empire du Japon",
+   "Japon"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-berlin": {
+  "qid": "Q154182",
+  "P276": [
+   "Berlin"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "grandes-batailles-historiques_debarquement-de-la-baie-des-cochons": {
+  "qid": "Q191721",
+  "P276": [
+   "baie des Cochons",
+   "Playa Girón"
+  ],
+  "P17": [
+   "Cuba"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-mogadiscio": {
+  "qid": "Q52226",
+  "P276": [
+   "Mogadiscio"
+  ],
+  "P17": [
+   "Somalie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-ain-djalout": {
+  "qid": "Q244356",
+  "P276": [
+   "Maayan Harod",
+   "Galilée"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-talas": {
+  "qid": "Q492415",
+  "P276": [
+   "Talas",
+   "Taraz",
+   "Talas"
+  ],
+  "P17": [
+   "Kazakhstan",
+   "Kirghizistan"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-sekigahara": {
+  "qid": "Q234188",
+  "P276": [
+   "Sekigahara",
+   "Gifu"
+  ],
+  "P131": [
+   "province de Mino"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-plassey": {
+  "qid": "Q203233",
+  "P276": [
+   "Palashi"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-culloden": {
+  "qid": "Q651919",
+  "P276": [
+   "Culloden"
+  ],
+  "P17": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni"
+  ]
+ },
+ "grandes-batailles-historiques_batailles-de-saratoga": {
+  "qid": "Q846674",
+  "P276": [
+   "Stillwater"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Battle of Freeman's Farm",
+   "Battle of Bemis Heights"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-aboukir-1798": {
+  "qid": "Q243979",
+  "P276": [
+   "baie d'Aboukir"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-eylau": {
+  "qid": "Q331347",
+  "P276": [
+   "Kaliningrad"
+  ],
+  "P17": [
+   "royaume de Prusse"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-solferino": {
+  "qid": "Q324916",
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "Battle of Solferino",
+   "bataille de San Martino"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-sadowa": {
+  "qid": "Q154942",
+  "P276": [
+   "Sadová",
+   "Svíbský les"
+  ],
+  "P17": [
+   "Autriche-Hongrie",
+   "Tchéquie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-isandhlwana": {
+  "qid": "Q747589",
+  "P276": [
+   "Isandlwana"
+  ],
+  "P17": [
+   "Royaume zoulou"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-adoua": {
+  "qid": "Q302519",
+  "P276": [
+   "Adoua"
+  ],
+  "P17": [
+   "Empire éthiopien",
+   "Éthiopie"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-dunkerque": {
+  "qid": "Q208529",
+  "P276": [
+   "Dunkerque"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-de-bir-hakeim": {
+  "qid": "Q836128",
+  "P276": [
+   "Bir Hakeim"
+  ],
+  "P17": [
+   "Libye"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-d-okinawa": {
+  "qid": "Q192660",
+  "P276": [
+   "archipel Okinawa",
+   "archipel de Sakishima"
+  ],
+  "P131": [
+   "préfecture d'Okinawa"
+  ],
+  "P17": [
+   "empire du Japon",
+   "Japon"
+  ],
+  "P527": [
+   "bataille de Kakazu",
+   "Battle of Sugar Loaf Hill",
+   "Bombing of Okinawa",
+   "Operation Gi-Go",
+   "opération Ten-Gō",
+   "Kyushu Air Battle",
+   "Operation Kikusui",
+   "Battle of Bōno-Misaki",
+   "Battle in the Hills of Kuniyoshi"
+  ]
+ },
+ "grandes-batailles-historiques_bataille-du-golfe-de-leyte": {
+  "qid": "Q308999",
+  "P276": [
+   "golfe de Leyte"
+  ],
+  "P527": [
+   "Sea and Air Battle in Leyte Gulf"
+  ]
+ }
+}

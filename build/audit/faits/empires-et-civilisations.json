@@ -1,0 +1,808 @@
+{
+ "empires-et-civilisations_empire-romain": {
+  "qid": "Q2277",
+  "P527": [
+   "Haut-Empire romain",
+   "Bas-Empire romain"
+  ]
+ },
+ "empires-et-civilisations_empire-byzantin": {
+  "qid": "Q12544",
+  "P571": [
+   "395",
+   "330",
+   "286",
+   "285"
+  ],
+  "P131": [
+   "Empire romain"
+  ],
+  "P17": [
+   "Empire romain"
+  ]
+ },
+ "empires-et-civilisations_empire-ottoman": {
+  "qid": "Q12560",
+  "P571": [
+   "1299",
+   "1300"
+  ],
+  "P17": [
+   "Empire ottoman"
+  ]
+ },
+ "empires-et-civilisations_achemenides": {
+  "qid": "Q389688",
+  "P571": [
+   "-550"
+  ],
+  "P17": [
+   "Medo-Persia"
+  ],
+  "P527": [
+   "royaume de Cilicie"
+  ]
+ },
+ "empires-et-civilisations_empire-parthe": {
+  "qid": "Q1986139",
+  "P571": [
+   "-247"
+  ],
+  "P17": [
+   "Empire parthe"
+  ]
+ },
+ "empires-et-civilisations_sassanides": {
+  "qid": "Q83891",
+  "P571": [
+   "224"
+  ],
+  "P17": [
+   "Empire sassanide"
+  ]
+ },
+ "empires-et-civilisations_empire-mongol": {
+  "qid": "Q12557",
+  "P571": [
+   "1206"
+  ],
+  "P527": [
+   "dynastie Yuan en Chine",
+   "Khanat de Djaghataï",
+   "Horde d'or",
+   "Maison Ögedei",
+   "Ilkhanat"
+  ]
+ },
+ "empires-et-civilisations_empire-moghol": {
+  "qid": "Q33296",
+  "P571": [
+   "1526"
+  ]
+ },
+ "empires-et-civilisations_empire-maurya": {
+  "qid": "Q62943",
+  "P571": [
+   "-322"
+  ]
+ },
+ "empires-et-civilisations_empire-gupta": {
+  "qid": "Q11774",
+  "P571": [
+   "320"
+  ]
+ },
+ "empires-et-civilisations_empire-azteque": {
+  "qid": "Q2608489",
+  "P571": [
+   "1325"
+  ],
+  "P527": [
+   "Mexico-Tenochtitlan",
+   "Tezcoco",
+   "Tlacopan"
+  ]
+ },
+ "empires-et-civilisations_empire-inca": {
+  "qid": "Q28573",
+  "P571": [
+   "1438"
+  ]
+ },
+ "empires-et-civilisations_civilisation-maya": {
+  "qid": "Q28567",
+  "P571": [
+   "-2000"
+  ]
+ },
+ "empires-et-civilisations_ancien-empire": {
+  "qid": "Q177819",
+  "P571": [
+   "-2707"
+  ],
+  "P527": [
+   "IIIe dynastie égyptienne",
+   "IVe dynastie égyptienne",
+   "Ve dynastie égyptienne",
+   "VIe dynastie égyptienne"
+  ]
+ },
+ "empires-et-civilisations_moyen-empire": {
+  "qid": "Q191324",
+  "P571": [
+   "-2040"
+  ],
+  "P17": [
+   "Égypte antique"
+  ]
+ },
+ "empires-et-civilisations_nouvel-empire": {
+  "qid": "Q180568",
+  "P17": [
+   "Égypte antique"
+  ],
+  "P527": [
+   "période amarnienne"
+  ]
+ },
+ "empires-et-civilisations_assyrie": {
+  "qid": "Q41137",
+  "P571": [
+   "-2025"
+  ]
+ },
+ "empires-et-civilisations_empire-neo-babylonien": {
+  "qid": "Q624887",
+  "P571": [
+   "-626"
+  ]
+ },
+ "empires-et-civilisations_hittites": {
+  "qid": "Q5406",
+  "P571": [
+   "1500"
+  ],
+  "P17": [
+   "royaume hittite",
+   "Kussara"
+  ]
+ },
+ "empires-et-civilisations_royaume-de-koush": {
+  "qid": "Q241790",
+  "P571": [
+   "-2180"
+  ],
+  "P17": [
+   "royaume de Koush"
+  ]
+ },
+ "empires-et-civilisations_empire-du-mali": {
+  "qid": "Q184536",
+  "P571": [
+   "1235"
+  ]
+ },
+ "empires-et-civilisations_empire-songhai": {
+  "qid": "Q202687",
+  "P571": [
+   "1464"
+  ]
+ },
+ "empires-et-civilisations_empire-du-ghana": {
+  "qid": "Q206789",
+  "P571": [
+   "100"
+  ]
+ },
+ "empires-et-civilisations_royaume-zoulou": {
+  "qid": "Q729768",
+  "P571": [
+   "1816"
+  ],
+  "P527": [
+   "Ebhadeni Royal Kraal"
+  ]
+ },
+ "empires-et-civilisations_royaume-d-aksoum": {
+  "qid": "Q139377",
+  "P571": [
+   "-400"
+  ]
+ },
+ "empires-et-civilisations_empire-khmer": {
+  "qid": "Q201705",
+  "P571": [
+   "802"
+  ]
+ },
+ "empires-et-civilisations_empire-britannique": {
+  "qid": "Q8680",
+  "P571": [
+   "1583"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume d'Angleterre"
+  ],
+  "P527": [
+   "Colony of Trinidad"
+  ]
+ },
+ "empires-et-civilisations_empire-espagnol": {
+  "qid": "Q80702",
+  "P571": [
+   "1402",
+   "1492"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "Spanish Empire in Europe",
+   "Indes orientales espagnoles",
+   "Colonisation espagnole de l'Amérique",
+   "Espagne"
+  ]
+ },
+ "empires-et-civilisations_empire-colonial-portugais": {
+  "qid": "Q200464",
+  "P571": [
+   "1415"
+  ],
+  "P17": [
+   "Portugal",
+   "royaume de Portugal",
+   "Royaume uni de Portugal, du Brésil et des Algarves",
+   "royaume de Portugal"
+  ],
+  "P527": [
+   "Cap-Vert portugais",
+   "Madeira",
+   "Brésil colonial",
+   "Inde portugaise",
+   "Macao",
+   "Timor portugais",
+   "Sao Tomé-et-Principe portugais",
+   "Guinée portugaise",
+   "Afrique occidentale portugaise",
+   "Mozambique portugais",
+   "Portuguese Malacca",
+   "Ceylan portugais",
+   "Ecclesiastical Nagasaki",
+   "Côte-de-l'Or portugaise",
+   "Portuguese settlement in Chittagong",
+   "Portuguese Oman",
+   "Citerne Portugaise (El Jadida)"
+  ]
+ },
+ "empires-et-civilisations_empire-colonial-francais": {
+  "qid": "Q179023",
+  "P571": [
+   "1534"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Nouvelle-France",
+   "Afrique-Équatoriale française",
+   "Territoire de Pondichéry",
+   "Afrique française",
+   "colonisation française des Amériques",
+   "French colonization of Asia",
+   "Afrique-Occidentale française"
+  ]
+ },
+ "empires-et-civilisations_empire-russe": {
+  "qid": "Q34266",
+  "P571": [
+   "1721"
+  ],
+  "P17": [
+   "Empire russe"
+  ]
+ },
+ "empires-et-civilisations_saint-empire-romain-germanique": {
+  "qid": "Q12548",
+  "P571": [
+   "962"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique"
+  ],
+  "P527": [
+   "Burgraviat de Nuremberg",
+   "Principauté de Lunebourg",
+   "Duché de Saxe (1485-1547)"
+  ]
+ },
+ "empires-et-civilisations_autriche-hongrie": {
+  "qid": "Q28513",
+  "P571": [
+   "1867"
+  ],
+  "P17": [
+   "Autriche-Hongrie"
+  ],
+  "P527": [
+   "Pays de la Couronne de saint Étienne",
+   "Cisleithanie"
+  ]
+ },
+ "empires-et-civilisations_sumer": {
+  "qid": "Q35355",
+  "P571": [
+   "-5500"
+  ]
+ },
+ "empires-et-civilisations_empire-d-akkad": {
+  "qid": "Q4461035",
+  "P571": [
+   "-2334",
+   "-2270"
+  ]
+ },
+ "empires-et-civilisations_medes": {
+  "qid": "Q8735",
+  "P571": [
+   "-678"
+  ],
+  "P17": [
+   "Médie"
+  ]
+ },
+ "empires-et-civilisations_civilisation-de-la-vallee-de-l-indus": {
+  "qid": "Q42534",
+  "P276": [
+   "sous-continent indien"
+  ],
+  "P17": [
+   "Pakistan"
+  ]
+ },
+ "empires-et-civilisations_carthage": {
+  "qid": "Q6343",
+  "P571": [
+   "-801"
+  ],
+  "P131": [
+   "exarchat de Carthage"
+  ],
+  "P17": [
+   "Tunisie",
+   "Royaume vandale",
+   "Empire romain",
+   "civilisation carthaginoise",
+   "Empire byzantin",
+   "Califat omeyyade",
+   "Califat fatimide",
+   "Tunisie"
+  ]
+ },
+ "empires-et-civilisations_civilisation-minoenne": {
+  "qid": "Q134178",
+  "P276": [
+   "Crète"
+  ]
+ },
+ "empires-et-civilisations_civilisation-mycenienne": {
+  "qid": "Q181264",
+  "P276": [
+   "Péloponnèse",
+   "Crète"
+  ]
+ },
+ "empires-et-civilisations_bilan-du-regne-d-alexandre-le-grand": {
+  "qid": "Q13405524",
+  "P571": [
+   "-336"
+  ]
+ },
+ "empires-et-civilisations_seleucides": {
+  "qid": "Q93180",
+  "P571": [
+   "-312"
+  ],
+  "P17": [
+   "royaume séleucide"
+  ]
+ },
+ "empires-et-civilisations_republique-romaine": {
+  "qid": "Q17167",
+  "P571": [
+   "-509"
+  ],
+  "P527": [
+   "République romaine archaïque",
+   "République romaine moyenne",
+   "République romaine tardive"
+  ]
+ },
+ "empires-et-civilisations_empire-carolingien": {
+  "qid": "Q31929",
+  "P571": [
+   "800"
+  ],
+  "P17": [
+   "Empire carolingien"
+  ],
+  "P527": [
+   "Marche d'Espagne"
+  ]
+ },
+ "empires-et-civilisations_rus-de-kiev": {
+  "qid": "Q1108445",
+  "P571": [
+   "882"
+  ],
+  "P17": [
+   "Rus' de Kiev"
+  ],
+  "P527": [
+   "État de Riourik",
+   "principauté de Kiev",
+   "Principauté de Volhynie",
+   "principauté de Smolensk",
+   "Tmutarakan Rus",
+   "Principauté de Tchernigov",
+   "Principauté de Pereïaslavl",
+   "Principauté de Galicie",
+   "principauté de Souzdal",
+   "principauté de Galicie-Volhynie",
+   "Principauté de Galicie",
+   "Principauté de Volhynie",
+   "principauté de Galicie-Volhynie"
+  ]
+ },
+ "empires-et-civilisations_empire-allemand": {
+  "qid": "Q43287",
+  "P571": [
+   "1871"
+  ],
+  "P527": [
+   "empire colonial allemand"
+  ]
+ },
+ "empires-et-civilisations_empire-colonial-neerlandais": {
+  "qid": "Q130654",
+  "P571": [
+   "1624"
+  ],
+  "P17": [
+   "Pays-Bas",
+   "République batave",
+   "Provinces-Unies",
+   "Royaume des Pays-Bas"
+  ],
+  "P527": [
+   "Antilles néerlandaises",
+   "Indes orientales néerlandaises"
+  ]
+ },
+ "empires-et-civilisations_union-des-republiques-socialistes-sovietiques": {
+  "qid": "Q15180",
+  "P571": [
+   "1922"
+  ],
+  "P17": [
+   "Union soviétique"
+  ],
+  "P527": [
+   "république socialiste fédérative soviétique de Russie"
+  ]
+ },
+ "empires-et-civilisations_califat-de-cordoue": {
+  "qid": "Q171740",
+  "P571": [
+   "929"
+  ],
+  "P17": [
+   "Espagne",
+   "Portugal",
+   "France",
+   "Andorre",
+   "Maroc",
+   "Algérie",
+   "Gibraltar",
+   "Italie",
+   "Suisse"
+  ]
+ },
+ "empires-et-civilisations_almoravides": {
+  "qid": "Q75613",
+  "P571": [
+   "1040"
+  ],
+  "P17": [
+   "Algérie",
+   "Maroc",
+   "Al-Andalus",
+   "Mauritanie"
+  ]
+ },
+ "empires-et-civilisations_almohades": {
+  "qid": "Q199688",
+  "P571": [
+   "1121"
+  ]
+ },
+ "empires-et-civilisations_dynastie-des-sefevides": {
+  "qid": "Q161205",
+  "P571": [
+   "1501"
+  ],
+  "P17": [
+   "Empire safavide"
+  ]
+ },
+ "empires-et-civilisations_empire-timouride": {
+  "qid": "Q484195",
+  "P571": [
+   "1370"
+  ]
+ },
+ "empires-et-civilisations_sultanat-de-delhi": {
+  "qid": "Q229411",
+  "P571": [
+   "1206"
+  ],
+  "P17": [
+   "Sultanat de Delhi"
+  ]
+ },
+ "empires-et-civilisations_empire-du-japon": {
+  "qid": "Q188712",
+  "P571": [
+   "1868"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "empires-et-civilisations_dynastie-chola": {
+  "qid": "Q151148",
+  "P571": [
+   "-300"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "empires-et-civilisations_empire-ethiopien": {
+  "qid": "Q207521",
+  "P571": [
+   "1270"
+  ],
+  "P17": [
+   "Éthiopie"
+  ]
+ },
+ "empires-et-civilisations_empire-ashanti": {
+  "qid": "Q722071",
+  "P571": [
+   "1670"
+  ]
+ },
+ "empires-et-civilisations_royaume-du-benin": {
+  "qid": "Q171203",
+  "P800": [
+   "Bronzes du Benin"
+  ],
+  "P571": [
+   "1170"
+  ],
+  "P17": [
+   "Nigeria"
+  ]
+ },
+ "empires-et-civilisations_royaume-du-kanem-bornou": {
+  "qid": "Q1139762",
+  "P571": [
+   "1100"
+  ]
+ },
+ "empires-et-civilisations_olmeques": {
+  "qid": "Q135364",
+  "P276": [
+   "Zone métropolitaine olmèque",
+   "Mésoamérique"
+  ]
+ },
+ "empires-et-civilisations_moche-culture": {
+  "qid": "Q208188",
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "empires-et-civilisations_nazca-civilisation": {
+  "qid": "Q210570"
+ },
+ "empires-et-civilisations_etrusques": {
+  "qid": "Q17161",
+  "P527": [
+   "Etruscan society",
+   "période archaïque étrusque",
+   "période orientalisante étrusque",
+   "période classique étrusque",
+   "période hellénistique étrusque"
+  ]
+ },
+ "empires-et-civilisations_pheniciens": {
+  "qid": "Q1048468",
+  "P17": [
+   "Phénicie"
+  ]
+ },
+ "empires-et-civilisations_celtes": {
+  "qid": "Q35966",
+  "P276": [
+   "Europe"
+  ]
+ },
+ "empires-et-civilisations_vikings": {
+  "qid": "Q12567"
+ },
+ "empires-et-civilisations_scythes": {
+  "qid": "Q131802",
+  "P276": [
+   "Scythie"
+  ]
+ },
+ "empires-et-civilisations_huns": {
+  "qid": "Q45813"
+ },
+ "empires-et-civilisations_xiongnu": {
+  "qid": "Q188836",
+  "P571": [
+   "-300"
+  ]
+ },
+ "empires-et-civilisations_royaume-du-kongo": {
+  "qid": "Q796583",
+  "P571": [
+   "1395"
+  ]
+ },
+ "empires-et-civilisations_empire-d-oyo": {
+  "qid": "Q849623",
+  "P571": [
+   "1400"
+  ]
+ },
+ "empires-et-civilisations_cahokia": {
+  "qid": "Q333661",
+  "P571": [
+   "1050"
+  ],
+  "P276": [
+   "East St. Louis",
+   "comté de Saint Clair"
+  ],
+  "P131": [
+   "Collinsville"
+  ],
+  "P17": [
+   "États-Unis",
+   "Ramey state"
+  ],
+  "P527": [
+   "tumulus des Moines"
+  ]
+ },
+ "empires-et-civilisations_empire-kouchan": {
+  "qid": "Q25979",
+  "P571": [
+   "30"
+  ]
+ },
+ "empires-et-civilisations_empire-du-monomotapa": {
+  "qid": "Q854468",
+  "P571": [
+   "1430"
+  ]
+ },
+ "empires-et-civilisations_republique-de-venise": {
+  "qid": "Q4948",
+  "P571": [
+   "697"
+  ],
+  "P17": [
+   "république de Venise"
+  ]
+ },
+ "empires-et-civilisations_hanse": {
+  "qid": "Q42908",
+  "P571": [
+   "1358"
+  ]
+ },
+ "empires-et-civilisations_republique-des-deux-nations": {
+  "qid": "Q172107",
+  "P571": [
+   "1569"
+  ],
+  "P17": [
+   "république des Deux Nations"
+  ],
+  "P527": [
+   "couronne du royaume de Pologne",
+   "grand-duché de Lituanie"
+  ]
+ },
+ "empires-et-civilisations_empire-suedois": {
+  "qid": "Q215443"
+ },
+ "empires-et-civilisations_premier-empire-bulgare": {
+  "qid": "Q203817",
+  "P571": [
+   "681"
+  ]
+ },
+ "empires-et-civilisations_royaume-de-vijayanagara": {
+  "qid": "Q167639",
+  "P571": [
+   "1336"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "empires-et-civilisations_majapahit": {
+  "qid": "Q49326",
+  "P571": [
+   "1293"
+  ],
+  "P276": [
+   "Java oriental"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "empires-et-civilisations_sriwijaya": {
+  "qid": "Q234197",
+  "P571": [
+   "650"
+  ],
+  "P276": [
+   "Sumatra du Sud",
+   "Palembang"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "empires-et-civilisations_empire-marathe": {
+  "qid": "Q83618",
+  "P571": [
+   "1674"
+  ]
+ },
+ "empires-et-civilisations_dynastie-qadjar": {
+  "qid": "Q189326",
+  "P571": [
+   "1785"
+  ],
+  "P17": [
+   "Perse qadjare"
+  ]
+ },
+ "empires-et-civilisations_empire-du-bresil": {
+  "qid": "Q217230",
+  "P571": [
+   "1822"
+  ],
+  "P17": [
+   "empire du Brésil"
+  ]
+ },
+ "empires-et-civilisations_tolteques": {
+  "qid": "Q187897",
+  "P17": [
+   "Guatemala",
+   "Mexique"
+  ]
+ }
+}

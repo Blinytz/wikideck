@@ -1,0 +1,1749 @@
+{
+ "villes-du-monde_londres": {
+  "qid": "Q84",
+  "P571": [
+   "47"
+  ],
+  "P131": [
+   "Grand Londres",
+   "Wessex",
+   "royaume d'Angleterre",
+   "Angleterre",
+   "comté de Londres"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Empire romain",
+   "royaume d'Essex",
+   "Mercie",
+   "Wessex",
+   "royaume d'Angleterre",
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "villes-du-monde_new-york": {
+  "qid": "Q60",
+  "P571": [
+   "1624",
+   "1626"
+  ],
+  "P131": [
+   "New York"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_tokyo": {
+  "qid": "Q1490",
+  "P571": [
+   "1868"
+  ],
+  "P131": [
+   "Japon"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "Pays de Tama",
+   "Tokyo",
+   "gouvernement métropolitain de Tokyo",
+   "arrondissement spécial de Tokyo",
+   "archipel Tokyo"
+  ]
+ },
+ "villes-du-monde_rome": {
+  "qid": "Q220",
+  "P571": [
+   "-753"
+  ],
+  "P131": [
+   "ville métropolitaine de Rome Capitale",
+   "province de Rome",
+   "États pontificaux",
+   "Rome",
+   "Rome antique",
+   "République romaine",
+   "Empire romain",
+   "Empire romain d'Occident",
+   "circle of Rome"
+  ],
+  "P17": [
+   "Italie",
+   "États pontificaux",
+   "royaume d'Italie",
+   "royaume des Ostrogoths",
+   "Empire byzantin",
+   "royaume d'Italie",
+   "royaume de Rome",
+   "République romaine",
+   "Empire romain",
+   "Empire romain d'Occident",
+   "Vatican"
+  ]
+ },
+ "villes-du-monde_le-caire": {
+  "qid": "Q85",
+  "P571": [
+   "969"
+  ],
+  "P131": [
+   "gouvernorat du Caire",
+   "khédivat d'Égypte",
+   "sultanat d'Égypte",
+   "eyalet d'Égypte"
+  ],
+  "P17": [
+   "Égypte",
+   "Égypte au Moyen Âge",
+   "khédivat d'Égypte",
+   "sultanat d'Égypte",
+   "royaume d'Égypte",
+   "sultanat mamelouk d'Égypte",
+   "Empire ottoman"
+  ]
+ },
+ "villes-du-monde_istanbul": {
+  "qid": "Q406",
+  "P571": [
+   "1453"
+  ],
+  "P131": [
+   "Istanbul"
+  ],
+  "P17": [
+   "Turquie",
+   "Empire ottoman",
+   "Empire byzantin",
+   "Empire latin de Constantinople",
+   "Empire byzantin",
+   "Empire romain"
+  ]
+ },
+ "villes-du-monde_pekin": {
+  "qid": "Q956",
+  "P131": [
+   "république populaire de Chine",
+   "dynastie Yuan en Chine",
+   "dynastie Qing",
+   "dynastie Ming"
+  ],
+  "P17": [
+   "république populaire de Chine",
+   "république de Chine",
+   "Gouvernement national réorganisé de la République de Chine",
+   "gouvernement provisoire de la république de Chine",
+   "république de Chine",
+   "gouvernement de Beiyang",
+   "dynastie Qing",
+   "dynastie Ming"
+  ]
+ },
+ "villes-du-monde_moscou": {
+  "qid": "Q649",
+  "P131": [
+   "Russie",
+   "gouvernement de Moscou",
+   "oblast de Moscou",
+   "république socialiste fédérative soviétique de Russie"
+  ],
+  "P17": [
+   "Russie",
+   "duché de Moscou",
+   "grande-principauté de Moscou",
+   "tsarat de Moscou",
+   "Empire russe",
+   "République russe",
+   "Russie soviétique",
+   "Union soviétique"
+  ]
+ },
+ "villes-du-monde_berlin": {
+  "qid": "Q64",
+  "P571": [
+   "1244"
+  ],
+  "P131": [
+   "Allemagne",
+   "marche de Brandebourg",
+   "Brandebourg-Prusse",
+   "royaume de Prusse",
+   "province de Brandebourg",
+   "royaume de Prusse",
+   "État libre de Prusse",
+   "Troisième Reich"
+  ],
+  "P17": [
+   "Allemagne",
+   "marche de Brandebourg",
+   "Brandebourg-Prusse",
+   "royaume de Prusse",
+   "Confédération de l'Allemagne du Nord",
+   "Empire allemand",
+   "république de Weimar",
+   "Troisième Reich",
+   "zone d'occupation soviétique en Allemagne",
+   "République démocratique allemande",
+   "Allemagne de l'Ouest"
+  ]
+ },
+ "villes-du-monde_venise": {
+  "qid": "Q641",
+  "P571": [
+   "421",
+   "452"
+  ],
+  "P131": [
+   "ville métropolitaine de Venise",
+   "Province vénitienne",
+   "Provincie de Venise",
+   "province de Venise"
+  ],
+  "P17": [
+   "Italie",
+   "empire d'Autriche",
+   "royaume d'Italie",
+   "empire d'Autriche",
+   "Monarchie de Habsbourg",
+   "France",
+   "république de Venise"
+  ]
+ },
+ "villes-du-monde_barcelone": {
+  "qid": "Q1492",
+  "P131": [
+   "Barcelonès",
+   "Barcelonès",
+   "province de Barcelone",
+   "province de Barcelone"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "villes-du-monde_athenes": {
+  "qid": "Q1524",
+  "P571": [
+   "-7000"
+  ],
+  "P131": [
+   "dème des Athéniens",
+   "Achaïe"
+  ],
+  "P17": [
+   "Grèce",
+   "Empire romain",
+   "Empire byzantin",
+   "duché d'Athènes",
+   "Empire ottoman",
+   "Première République hellénique",
+   "Athènes",
+   "royaume de Grèce",
+   "Troisième République hellénique"
+  ]
+ },
+ "villes-du-monde_jerusalem": {
+  "qid": "Q1218",
+  "P571": [
+   "-4000"
+  ],
+  "P131": [
+   "gouvernorat de Jérusalem",
+   "district de Jérusalem",
+   "Judée",
+   "moutassarifat de Jérusalem"
+  ],
+  "P17": [
+   "Israël",
+   "État de Palestine",
+   "royaume de Juda",
+   "Hasmonéens",
+   "Palestine romaine",
+   "Empire byzantin",
+   "early Islamic period in Palestine",
+   "Royaume de Jérusalem",
+   "Ayyoubides",
+   "Royaume de Jérusalem",
+   "Ayyoubides",
+   "sultanat mamelouk d'Égypte",
+   "Empire ottoman",
+   "Jordanie",
+   "Israël",
+   "Territoires ennemis occupés",
+   "Palestine mandataire"
+  ]
+ },
+ "villes-du-monde_bombay": {
+  "qid": "Q1156",
+  "P571": [
+   "1507"
+  ],
+  "P131": [
+   "Mumbai-ville",
+   "État de Bombay",
+   "présidence de Bombay",
+   "Maharashtra"
+  ],
+  "P17": [
+   "Inde",
+   "Empire colonial portugais",
+   "royaume d'Angleterre",
+   "domination de la Compagnie britannique des Indes orientales en Inde",
+   "Raj britannique"
+  ]
+ },
+ "villes-du-monde_rio-de-janeiro": {
+  "qid": "Q8678",
+  "P571": [
+   "1565"
+  ],
+  "P131": [
+   "Rio de Janeiro",
+   "municipalité neutre",
+   "Federal District",
+   "État de Guanabara",
+   "Rio de Janeiro Province",
+   "Rio de Janeiro Captaincy"
+  ],
+  "P17": [
+   "Brésil"
+  ]
+ },
+ "villes-du-monde_buenos-aires": {
+  "qid": "Q1486",
+  "P571": [
+   "1580"
+  ],
+  "P131": [
+   "Argentine"
+  ],
+  "P17": [
+   "Argentine"
+  ],
+  "P527": [
+   "Dirección General del Libro, Bibliotecas y Promoción de la Lectura"
+  ]
+ },
+ "villes-du-monde_mexico": {
+  "qid": "Q1489",
+  "P571": [
+   "1521",
+   "1325"
+  ],
+  "P131": [
+   "Mexique",
+   "Premier Empire mexicain",
+   "Nouvelle-Espagne"
+  ],
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "villes-du-monde_marrakech": {
+  "qid": "Q101625",
+  "P571": [
+   "1065"
+  ],
+  "P131": [
+   "Marrakech"
+  ],
+  "P17": [
+   "Maroc",
+   "Mérinides",
+   "Quatrième République",
+   "Troisième République française",
+   "Deuxième République",
+   "Second Empire",
+   "Gouvernement provisoire de la République française",
+   "régime de Vichy",
+   "Almoravides",
+   "califat almohade"
+  ]
+ },
+ "villes-du-monde_le-cap": {
+  "qid": "Q5465",
+  "P571": [
+   "1652"
+  ],
+  "P131": [
+   "Le Cap"
+  ],
+  "P17": [
+   "Afrique du Sud",
+   "union d'Afrique du Sud",
+   "Colonie du Cap"
+  ]
+ },
+ "villes-du-monde_sydney": {
+  "qid": "Q3130",
+  "P571": [
+   "1788"
+  ],
+  "P131": [
+   "Nouvelle-Galles du Sud"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "villes-du-monde_san-francisco": {
+  "qid": "Q62",
+  "P571": [
+   "1776",
+   "1776",
+   "1850"
+  ],
+  "P131": [
+   "Californie"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_la-havane": {
+  "qid": "Q1563",
+  "P571": [
+   "1515"
+  ],
+  "P131": [
+   "Ciudad de La Habana"
+  ],
+  "P17": [
+   "Cuba",
+   "Empire espagnol"
+  ]
+ },
+ "villes-du-monde_saint-petersbourg": {
+  "qid": "Q656",
+  "P571": [
+   "1703"
+  ],
+  "P131": [
+   "Russie",
+   "Empire russe",
+   "République russe",
+   "Russie soviétique",
+   "république socialiste fédérative soviétique de Russie",
+   "tsarat de Moscou"
+  ],
+  "P17": [
+   "Russie",
+   "Union soviétique",
+   "Russie soviétique",
+   "Empire russe",
+   "République russe",
+   "tsarat de Moscou"
+  ]
+ },
+ "villes-du-monde_vienne-autriche": {
+  "qid": "Q1741",
+  "P571": [
+   "-100"
+  ],
+  "P131": [
+   "Autriche",
+   "Autriche sous occupation alliée",
+   "Troisième Reich",
+   "État fédéral d'Autriche",
+   "Première République d'Autriche",
+   "République d'Autriche allemande",
+   "Autriche-Hongrie",
+   "empire d'Autriche"
+  ],
+  "P17": [
+   "Autriche",
+   "Première République d'Autriche",
+   "Autriche-Hongrie",
+   "République d'Autriche allemande",
+   "empire d'Autriche",
+   "État fédéral d'Autriche",
+   "Troisième Reich",
+   "Monarchie de Habsbourg",
+   "archiduché d'Autriche",
+   "duché d'Autriche",
+   "Ostmark",
+   "duché de Bavière",
+   "Autriche sous occupation alliée"
+  ]
+ },
+ "villes-du-monde_amsterdam": {
+  "qid": "Q727",
+  "P571": [
+   "1300"
+  ],
+  "P131": [
+   "Amsterdam",
+   "Amstel Department",
+   "comté de Hollande",
+   "Holland Department",
+   "Amstelland Department",
+   "Zuyderzée",
+   "Holland",
+   "Hollande-Septentrionale"
+  ],
+  "P17": [
+   "Pays-Bas",
+   "Reichskommissariat Niederlande",
+   "Pays-Bas",
+   "royaume uni des Pays-Bas",
+   "Pays-Bas unis",
+   "France",
+   "Royaume de Hollande",
+   "République batave",
+   "Provinces-Unies",
+   "Pays-Bas des Habsbourg",
+   "Pays-Bas bourguignons",
+   "comté de Hollande"
+  ]
+ },
+ "villes-du-monde_prague": {
+  "qid": "Q1085",
+  "P571": [
+   "800"
+  ],
+  "P131": [
+   "Tchéquie",
+   "duché de Bohême",
+   "royaume de Bohême",
+   "Tchécoslovaquie",
+   "protectorat de Bohême-Moravie",
+   "Tchécoslovaquie",
+   "République socialiste tchèque",
+   "république tchèque"
+  ],
+  "P17": [
+   "Tchéquie",
+   "Tchécoslovaquie",
+   "Autriche-Hongrie",
+   "empire d'Autriche",
+   "royaume de Bohême",
+   "duché de Bohême",
+   "Tchécoslovaquie",
+   "protectorat de Bohême-Moravie",
+   "Saint-Empire romain germanique"
+  ]
+ },
+ "villes-du-monde_lisbonne": {
+  "qid": "Q597",
+  "P131": [
+   "district de Lisbonne",
+   "Grand Lisbonne"
+  ],
+  "P17": [
+   "Portugal",
+   "République romaine",
+   "Royaume suève",
+   "royaume des Wisigoths",
+   "Califat omeyyade",
+   "émirat de Cordoue",
+   "califat de Cordoue",
+   "taïfa de Badajoz",
+   "taïfa de Lisbonne",
+   "taïfa de Badajoz",
+   "Almoravides"
+  ]
+ },
+ "villes-du-monde_dubai-ville": {
+  "qid": "Q612",
+  "P571": [
+   "1833"
+  ],
+  "P131": [
+   "Dubaï"
+  ],
+  "P17": [
+   "Émirats arabes unis"
+  ]
+ },
+ "villes-du-monde_singapour": {
+  "qid": "Q334",
+  "P571": [
+   "1965",
+   "1826"
+  ],
+  "P17": [
+   "Singapour",
+   "Empire britannique"
+  ]
+ },
+ "villes-du-monde_bangkok": {
+  "qid": "Q1861",
+  "P571": [
+   "1782"
+  ],
+  "P131": [
+   "Thaïlande"
+  ],
+  "P17": [
+   "Thaïlande",
+   "royaume de Rattanakosin",
+   "royaume de Thonburi",
+   "dynastie Konbaung",
+   "royaume d'Ayutthaya"
+  ]
+ },
+ "villes-du-monde_seoul": {
+  "qid": "Q8684",
+  "P571": [
+   "1395"
+  ],
+  "P276": [
+   "Région de la capitale de Séoul"
+  ],
+  "P131": [
+   "Corée du Sud",
+   "période Joseon",
+   "Empire de Corée",
+   "empire du Japon",
+   "période d'administration militaire alliée en Corée"
+  ],
+  "P17": [
+   "Corée du Sud",
+   "Corée durant la colonisation japonaise"
+  ]
+ },
+ "villes-du-monde_shanghai": {
+  "qid": "Q8686",
+  "P571": [
+   "1292",
+   "751",
+   "1927"
+  ],
+  "P131": [
+   "république populaire de Chine",
+   "république de Chine",
+   "Gouvernement national réorganisé de la République de Chine",
+   "Gouvernement réformé de la république de Chine",
+   "Municipalité de la Grande Voie de Shanghai",
+   "république de Chine",
+   "province du Jiangsu, République de Chine",
+   "Songjiang Fu"
+  ],
+  "P17": [
+   "république populaire de Chine",
+   "république de Chine",
+   "Gouvernement national réorganisé de la République de Chine",
+   "Gouvernement réformé de la république de Chine",
+   "Municipalité de la Grande Voie de Shanghai",
+   "république de Chine",
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Puxi",
+   "Xujiahui",
+   "district de Pudong",
+   "Xintiandi"
+  ]
+ },
+ "villes-du-monde_kyoto": {
+  "qid": "Q34600",
+  "P571": [
+   "1889",
+   "794"
+  ],
+  "P131": [
+   "préfecture de Kyoto"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "villes-du-monde_delhi": {
+  "qid": "Q1353",
+  "P571": [
+   "-500"
+  ],
+  "P131": [
+   "territoire de la Capitale nationale de Delhi",
+   "Raj britannique",
+   "Empire moghol",
+   "Sultanat de Delhi"
+  ],
+  "P17": [
+   "Inde",
+   "Raj britannique",
+   "Empire moghol",
+   "empire suri",
+   "Empire moghol",
+   "Sultanat de Delhi",
+   "Sultânat Ghûryd",
+   "Chahamanas of Shakambhari",
+   "Tomaras of Delhi"
+  ],
+  "P527": [
+   "Delhi",
+   "New Delhi",
+   "Delhi Cantonment"
+  ]
+ },
+ "villes-du-monde_katmandou": {
+  "qid": "Q3037",
+  "P571": [
+   "723"
+  ],
+  "P131": [
+   "district de Katmandou"
+  ],
+  "P17": [
+   "Népal"
+  ]
+ },
+ "villes-du-monde_tombouctou": {
+  "qid": "Q9427",
+  "P131": [
+   "région de Tombouctou",
+   "cercle de Tombouctou"
+  ],
+  "P17": [
+   "Mali"
+  ],
+  "P527": [
+   "mosquée Djinguereber"
+  ]
+ },
+ "villes-du-monde_lagos": {
+  "qid": "Q8673",
+  "P571": [
+   "1472"
+  ],
+  "P131": [
+   "Lagos"
+  ],
+  "P17": [
+   "Nigeria"
+  ]
+ },
+ "villes-du-monde_nairobi": {
+  "qid": "Q3870",
+  "P571": [
+   "1899"
+  ],
+  "P131": [
+   "Nairobi"
+  ],
+  "P17": [
+   "Kenya"
+  ]
+ },
+ "villes-du-monde_addis-abeba": {
+  "qid": "Q3624",
+  "P571": [
+   "1886"
+  ],
+  "P131": [
+   "Éthiopie"
+  ],
+  "P17": [
+   "Éthiopie"
+  ]
+ },
+ "villes-du-monde_damas": {
+  "qid": "Q3766",
+  "P131": [
+   "Damas",
+   "Syrie",
+   "Syrie-Phénicie",
+   "Vilayet de Syrie",
+   "Pachalik de Damas"
+  ],
+  "P17": [
+   "Syrie",
+   "Aram-Damas",
+   "Nabatéens",
+   "Empire romain",
+   "Empire byzantin",
+   "califat Rachidun",
+   "Califat omeyyade",
+   "califat abbasside",
+   "Empire seldjoukide",
+   "Bourides",
+   "Zengides",
+   "Ayyoubides",
+   "sultanat mamelouk d'Égypte",
+   "Empire ottoman",
+   "mandat français en Syrie et au Liban",
+   "Syrie"
+  ]
+ },
+ "villes-du-monde_bagdad": {
+  "qid": "Q1530",
+  "P571": [
+   "762"
+  ],
+  "P131": [
+   "Bagdad",
+   "royaume d'Irak",
+   "mandat britannique de Mésopotamie",
+   "Vilayet de Bagdad",
+   "Eyalet de Bagdad"
+  ],
+  "P17": [
+   "Irak",
+   "califat abbasside",
+   "royaume d'Irak",
+   "mandat britannique de Mésopotamie",
+   "Empire ottoman",
+   "Ilkhanat",
+   "Jalayirides",
+   "Qara Qoyunlu",
+   "Aq Qoyunlu",
+   "Empire safavide",
+   "Empire ottoman",
+   "Empire safavide",
+   "Empire sassanide",
+   "Bouyides"
+  ]
+ },
+ "villes-du-monde_samarcande": {
+  "qid": "Q5753",
+  "P571": [
+   "-800"
+  ],
+  "P131": [
+   "Samarcande",
+   "Empire timouride",
+   "oblast de Samarcande"
+  ],
+  "P17": [
+   "Ouzbékistan",
+   "Union soviétique",
+   "Russie soviétique",
+   "République russe",
+   "Empire russe",
+   "émirat de Boukhara",
+   "Khanat de Boukhara"
+  ]
+ },
+ "villes-du-monde_ispahan": {
+  "qid": "Q42053",
+  "P131": [
+   "Central District"
+  ],
+  "P17": [
+   "Iran"
+  ]
+ },
+ "villes-du-monde_cuzco": {
+  "qid": "Q5582862",
+  "P571": [
+   "1534",
+   "1300"
+  ],
+  "P131": [
+   "province de Cuzco"
+  ],
+  "P17": [
+   "Pérou"
+  ],
+  "P527": [
+   "Ville de Cusco - Place principale et centre historique",
+   "Almudena and Almudena Church",
+   "Santiago Square and Church",
+   "Belén Square and Church"
+  ]
+ },
+ "villes-du-monde_vancouver": {
+  "qid": "Q24639",
+  "P571": [
+   "1886"
+  ],
+  "P131": [
+   "district régional du Grand Vancouver",
+   "Colombie-Britannique"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "villes-du-monde_chicago": {
+  "qid": "Q1297",
+  "P571": [
+   "1837"
+  ],
+  "P276": [
+   "Chicagoland"
+  ],
+  "P131": [
+   "comté de Cook"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_la-nouvelle-orleans": {
+  "qid": "Q34404",
+  "P571": [
+   "1718"
+  ],
+  "P131": [
+   "paroisse d'Orleans"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_reykjavik": {
+  "qid": "Q1764",
+  "P571": [
+   "1786"
+  ],
+  "P131": [
+   "Reykjavíkurborg"
+  ],
+  "P17": [
+   "Islande"
+  ]
+ },
+ "villes-du-monde_oslo": {
+  "qid": "Q585",
+  "P571": [
+   "1048"
+  ],
+  "P131": [
+   "Oslo"
+  ],
+  "P17": [
+   "Norvège",
+   "Suède-Norvège",
+   "Royaume de Norvège",
+   "royaume de Danemark et de Norvège"
+  ]
+ },
+ "villes-du-monde_paris": {
+  "qid": "Q90",
+  "P571": [
+   "-300"
+  ],
+  "P131": [
+   "Métropole du Grand Paris",
+   "Île-de-France",
+   "royaume de France",
+   "arrondissement de Paris",
+   "Seine",
+   "département de Paris"
+  ],
+  "P17": [
+   "France",
+   "royaume de France",
+   "royaume des Francs",
+   "occupation de la France par l'Allemagne pendant la Seconde Guerre mondiale",
+   "France",
+   "Premier Empire français",
+   "Première République française"
+  ]
+ },
+ "villes-du-monde_los-angeles": {
+  "qid": "Q65",
+  "P571": [
+   "1781"
+  ],
+  "P131": [
+   "comté de Los Angeles"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_washington-district-de-columbia": {
+  "qid": "Q61",
+  "P571": [
+   "1790"
+  ],
+  "P131": [
+   "District de Columbia"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "villes-du-monde_boston": {
+  "qid": "Q100",
+  "P571": [
+   "1630"
+  ],
+  "P131": [
+   "comté de Suffolk"
+  ],
+  "P17": [
+   "États-Unis",
+   "province de la Baie-du-Massachusetts",
+   "Colonie de la baie du Massachusetts"
+  ],
+  "P527": [
+   "Emerald Necklace"
+  ]
+ },
+ "villes-du-monde_montreal": {
+  "qid": "Q340",
+  "P571": [
+   "1642",
+   "1792"
+  ],
+  "P131": [
+   "agglomération de Montréal",
+   "Communauté métropolitaine de Montréal"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "villes-du-monde_quebec-ville": {
+  "qid": "Q2145",
+  "P571": [
+   "1608"
+  ],
+  "P131": [
+   "agglomération de Québec"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "villes-du-monde_toronto": {
+  "qid": "Q172",
+  "P571": [
+   "1750"
+  ],
+  "P131": [
+   "Ontario",
+   "Canada-Ouest",
+   "Haut-Canada"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "villes-du-monde_sao-paulo": {
+  "qid": "Q174",
+  "P571": [
+   "1554"
+  ],
+  "P131": [
+   "São Paulo"
+  ],
+  "P17": [
+   "Brésil"
+  ]
+ },
+ "villes-du-monde_brasilia": {
+  "qid": "Q2844",
+  "P571": [
+   "1960"
+  ],
+  "P131": [
+   "District fédéral"
+  ],
+  "P17": [
+   "Brésil"
+  ]
+ },
+ "villes-du-monde_lima": {
+  "qid": "Q2868",
+  "P571": [
+   "1535"
+  ],
+  "P131": [
+   "province de Lima"
+  ],
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "villes-du-monde_bogota": {
+  "qid": "Q2841",
+  "P571": [
+   "1538"
+  ],
+  "P131": [
+   "Cundinamarca"
+  ],
+  "P17": [
+   "Colombie",
+   "République de Nouvelle-Grenade",
+   "État libre de Cundinamarca",
+   "Confédération grenadine",
+   "États-Unis de Colombie"
+  ]
+ },
+ "villes-du-monde_madrid": {
+  "qid": "Q2807",
+  "P131": [
+   "communauté de Madrid",
+   "province de Madrid",
+   "Madrid"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "villes-du-monde_seville": {
+  "qid": "Q8717",
+  "P276": [
+   "comarque de la zone métropolitaine de Séville"
+  ],
+  "P131": [
+   "province de Séville",
+   "royaume de Séville"
+  ],
+  "P17": [
+   "Espagne",
+   "taïfa de Séville"
+  ]
+ },
+ "villes-du-monde_florence": {
+  "qid": "Q2044",
+  "P131": [
+   "ville métropolitaine de Florence",
+   "province de Florence"
+  ],
+  "P17": [
+   "Italie",
+   "royaume d'Italie",
+   "Marche de Toscane",
+   "République florentine",
+   "duché de Florence",
+   "grand-duché de Toscane",
+   "royaume d'Étrurie",
+   "France",
+   "grand-duché de Toscane",
+   "Provinces-Unies d'Italie centrale",
+   "royaume de Sardaigne"
+  ],
+  "P527": [
+   "quartiers historiques de Florence",
+   "Florence City Council",
+   "junte communale de Florence",
+   "quartiers de Florence"
+  ]
+ },
+ "villes-du-monde_milan": {
+  "qid": "Q490",
+  "P571": [
+   "-600"
+  ],
+  "P131": [
+   "ville métropolitaine de Milan",
+   "province de Milan",
+   "province de Milan",
+   "province de Milan",
+   "Gaule cisalpine"
+  ],
+  "P17": [
+   "Italie",
+   "royaume d'Italie",
+   "empire d'Autriche",
+   "royaume de Sardaigne",
+   "royaume d'Italie",
+   "République italienne",
+   "République cisalpine",
+   "République transpadane",
+   "duché de Milan",
+   "seigneurie de Milan",
+   "Empire espagnol"
+  ]
+ },
+ "villes-du-monde_naples": {
+  "qid": "Q2634",
+  "P131": [
+   "ville métropolitaine de Naples",
+   "province de Naples",
+   "Italie romaine",
+   "préfecture du prétoire d'Italie",
+   "exarchat de Ravenne",
+   "duché de Naples"
+  ],
+  "P17": [
+   "Italie",
+   "royaume des Deux-Siciles",
+   "royaume de Naples",
+   "République parthénopéenne",
+   "royaume de Naples",
+   "duché de Naples",
+   "royaume de Sicile"
+  ]
+ },
+ "villes-du-monde_bruxelles": {
+  "qid": "Q9005",
+  "P276": [
+   "Bruxelles"
+  ],
+  "P131": [
+   "Belgique"
+  ],
+  "P17": [
+   "Belgique",
+   "royaume uni des Pays-Bas",
+   "France",
+   "Pays-Bas autrichiens",
+   "Pays-Bas espagnols",
+   "Pays-Bas des Habsbourg",
+   "Pays-Bas bourguignons",
+   "duché de Brabant"
+  ]
+ },
+ "villes-du-monde_edimbourg": {
+  "qid": "Q23436",
+  "P571": [
+   "601"
+  ],
+  "P131": [
+   "Ville d'Édimbourg",
+   "Ville d'Édimbourg",
+   "Ville d'Édimbourg",
+   "Édimbourg",
+   "Écosse"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne",
+   "royaume d'Écosse"
+  ]
+ },
+ "villes-du-monde_dublin": {
+  "qid": "Q1761",
+  "P571": [
+   "841"
+  ],
+  "P131": [
+   "Dublin City",
+   "comté de Dublin"
+  ],
+  "P17": [
+   "Irlande",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume d'Irlande",
+   "État libre d'Irlande",
+   "seigneurie d'Irlande"
+  ]
+ },
+ "villes-du-monde_copenhague": {
+  "qid": "Q1748",
+  "P571": [
+   "1167"
+  ],
+  "P131": [
+   "Hovedstaden",
+   "commune de Copenhague"
+  ],
+  "P17": [
+   "Danemark",
+   "Royaume de Danemark"
+  ]
+ },
+ "villes-du-monde_stockholm": {
+  "qid": "Q1754",
+  "P571": [
+   "1187"
+  ],
+  "P131": [
+   "Stockholm",
+   "Over-Governors office",
+   "municipalité de la ville de Stockholm"
+  ],
+  "P17": [
+   "Suède",
+   "Union de Kalmar",
+   "Suède-Norvège"
+  ]
+ },
+ "villes-du-monde_varsovie": {
+  "qid": "Q270",
+  "P131": [
+   "voïvodie de Mazovie",
+   "Voïvodie de Varsovie",
+   "royaume du Congrès",
+   "république populaire de Pologne",
+   "Gouvernement général de Pologne",
+   "ziemia warszawska",
+   "voïvodie de Varsovie",
+   "voïvodie de Varsovie (1945-1975)",
+   "duché de Varsovie"
+  ],
+  "P17": [
+   "Pologne",
+   "Gouvernement général de Pologne",
+   "Deuxième République de Pologne",
+   "Royaume de Pologne",
+   "Empire russe",
+   "duché de Varsovie",
+   "royaume de Prusse",
+   "république des Deux Nations",
+   "Royaume de Pologne",
+   "Royaume de Pologne",
+   "royaume de Pologne"
+  ]
+ },
+ "villes-du-monde_cracovie": {
+  "qid": "Q31487",
+  "P131": [
+   "voïvodie de Petite-Pologne",
+   "Bezirk Krakau",
+   "Voïvodie de Cracovie",
+   "Kraków Voivodeship",
+   "district de Cracovie"
+  ],
+  "P17": [
+   "Pologne",
+   "Gouvernement général de Pologne",
+   "Deuxième République de Pologne",
+   "grand-duché de Cracovie",
+   "Ville libre de Cracovie",
+   "duché de Varsovie",
+   "empire d'Autriche",
+   "Monarchie de Habsbourg",
+   "république des Deux Nations",
+   "Royaume de Pologne",
+   "Royaume de Pologne",
+   "Duchy of Kraków"
+  ]
+ },
+ "villes-du-monde_budapest": {
+  "qid": "Q1781",
+  "P571": [
+   "1873"
+  ],
+  "P131": [
+   "Hongrie"
+  ],
+  "P17": [
+   "Hongrie",
+   "Royaume de Hongrie",
+   "République de Hongrie",
+   "République des conseils de Hongrie",
+   "République démocratique hongroise",
+   "Autriche-Hongrie",
+   "République démocratique hongroise",
+   "République de Hongrie",
+   "république populaire de Hongrie"
+  ]
+ },
+ "villes-du-monde_kiev": {
+  "qid": "Q1899",
+  "P571": [
+   "482"
+  ],
+  "P131": [
+   "Ukraine",
+   "république socialiste soviétique d'Ukraine",
+   "Hetmanat",
+   "République populaire ukrainienne",
+   "province de Kiev",
+   "principauté de Kiev",
+   "Gouvernement de Kiev",
+   "voïvodie de Kiev",
+   "Rus' de Kiev",
+   "République populaire ukrainienne",
+   "République populaire ukrainienne",
+   "république socialiste soviétique d'Ukraine",
+   "Vice-royauté de Kiev",
+   "gouvernement de Kiev"
+  ],
+  "P17": [
+   "Ukraine",
+   "Rus' de Kiev",
+   "Horde d'or",
+   "grand-duché de Lituanie",
+   "république des Deux Nations",
+   "tsarat de Moscou",
+   "Empire russe",
+   "République russe",
+   "Hetmanat",
+   "République populaire ukrainienne",
+   "Union soviétique",
+   "Union soviétique",
+   "Reichskommissariat Ukraine",
+   "Union soviétique"
+  ]
+ },
+ "villes-du-monde_marseille": {
+  "qid": "Q23482",
+  "P571": [
+   "-600"
+  ],
+  "P131": [
+   "Bouches-du-Rhône",
+   "arrondissement de Marseille",
+   "Métropole Aix-Marseille-Provence"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "villes-du-monde_lyon": {
+  "qid": "Q456",
+  "P131": [
+   "Métropole de Lyon",
+   "communauté urbaine de Lyon",
+   "Rhône",
+   "arrondissement de Lyon",
+   "Gaule lyonnaise",
+   "Rhône"
+  ],
+  "P17": [
+   "France",
+   "République romaine",
+   "Empire romain",
+   "Empire romain d'Occident",
+   "royaume des Burgondes",
+   "royaume des Francs",
+   "Francie occidentale",
+   "royaume de France",
+   "Première République française",
+   "Premier Empire français",
+   "France",
+   "régime de Vichy"
+  ]
+ },
+ "villes-du-monde_strasbourg": {
+  "qid": "Q6602",
+  "P571": [
+   "-12"
+  ],
+  "P131": [
+   "Bas-Rhin",
+   "Eurométropole de Strasbourg",
+   "district de Basse-Alsace",
+   "Bas-Rhin",
+   "arrondissement de Strasbourg",
+   "arrondissement de Strasbourg-Ville",
+   "province d'Alsace"
+  ],
+  "P17": [
+   "France",
+   "Empire allemand",
+   "Troisième Reich",
+   "France",
+   "France",
+   "Saint-Empire romain germanique"
+  ]
+ },
+ "villes-du-monde_bordeaux": {
+  "qid": "Q1479",
+  "P571": [
+   "-500"
+  ],
+  "P131": [
+   "Bordeaux Métropole",
+   "arrondissement de Bordeaux",
+   "Gironde"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "villes-du-monde_alexandrie": {
+  "qid": "Q87",
+  "P571": [
+   "-331"
+  ],
+  "P131": [
+   "Alexandrie",
+   "province romaine de l'Égypte",
+   "diocèse d'Égypte",
+   "diocèse d'Orient"
+  ],
+  "P17": [
+   "Égypte",
+   "Empire romain"
+  ]
+ },
+ "villes-du-monde_fes": {
+  "qid": "Q80985",
+  "P571": [
+   "789"
+  ],
+  "P131": [
+   "Fès"
+  ],
+  "P17": [
+   "Maroc"
+  ]
+ },
+ "villes-du-monde_alger": {
+  "qid": "Q3561",
+  "P571": [
+   "944"
+  ],
+  "P131": [
+   "wilaya d'Alger",
+   "Algérie française"
+  ],
+  "P17": [
+   "Algérie",
+   "France",
+   "Régence d'Alger",
+   "Zianides",
+   "Zirides",
+   "Hammadides",
+   "califat almohade"
+  ]
+ },
+ "villes-du-monde_tunis": {
+  "qid": "Q3572",
+  "P131": [
+   "Tunis",
+   "Tunisie ottomane",
+   "protectorat français de Tunisie"
+  ],
+  "P17": [
+   "Tunisie",
+   "Hafsides",
+   "protectorat français de Tunisie"
+  ]
+ },
+ "villes-du-monde_dakar": {
+  "qid": "Q3718",
+  "P131": [
+   "département de Dakar"
+  ],
+  "P17": [
+   "Sénégal"
+  ]
+ },
+ "villes-du-monde_kinshasa": {
+  "qid": "Q3838",
+  "P571": [
+   "1881"
+  ],
+  "P131": [
+   "République démocratique du Congo",
+   "district Stanley Pool",
+   "Leopoldville Province"
+  ],
+  "P17": [
+   "République démocratique du Congo",
+   "Zaïre",
+   "République du Congo (Léopoldville)",
+   "Congo belge",
+   "État indépendant du Congo"
+  ]
+ },
+ "villes-du-monde_johannesbourg": {
+  "qid": "Q34647",
+  "P571": [
+   "1886"
+  ],
+  "P131": [
+   "Municipalité de Johannesbourg",
+   "Transvaal"
+  ],
+  "P17": [
+   "Afrique du Sud"
+  ]
+ },
+ "villes-du-monde_la-mecque": {
+  "qid": "Q5806",
+  "P131": [
+   "La Mecque",
+   "Hedjaz",
+   "Communauté de Médine",
+   "califat Rachidun",
+   "Califat omeyyade",
+   "califat abbasside",
+   "sultanat mamelouk d'Égypte",
+   "Empire ottoman",
+   "eyalet de Habesh",
+   "Vilayet du Hedjaz",
+   "royaume du Hedjaz",
+   "Royaume du Nejd et du Hedjaz"
+  ],
+  "P17": [
+   "Arabie saoudite",
+   "Royaume du Nejd et du Hedjaz",
+   "royaume du Hedjaz",
+   "Empire ottoman",
+   "Communauté de Médine",
+   "califat Rachidun",
+   "Califat omeyyade",
+   "califat abbasside",
+   "Empire ottoman",
+   "Royaume du Nejd et du Hedjaz",
+   "sultanat mamelouk d'Égypte"
+  ]
+ },
+ "villes-du-monde_teheran": {
+  "qid": "Q3616",
+  "P571": [
+   "1794"
+  ],
+  "P131": [
+   "district central"
+  ],
+  "P17": [
+   "Iran"
+  ]
+ },
+ "villes-du-monde_benares": {
+  "qid": "Q79980",
+  "P131": [
+   "district de Vārānasī"
+  ],
+  "P17": [
+   "Inde",
+   "Raj britannique",
+   "Empire moghol"
+  ]
+ },
+ "villes-du-monde_calcutta": {
+  "qid": "Q1348",
+  "P131": [
+   "district de Calcutta",
+   "présidence du Bengale",
+   "Bengale-Occidental"
+  ],
+  "P17": [
+   "Inde",
+   "Raj britannique",
+   "domination de la Compagnie britannique des Indes orientales en Inde"
+  ],
+  "P527": [
+   "Kolkata Municipal Corporation Area",
+   "Salt Lake",
+   "Sector V",
+   "New Town",
+   "Dum Dum",
+   "Baranagar",
+   "Dakshineswar",
+   "Howrah",
+   "Belur",
+   "Kolkata Leather Complex",
+   "fort William"
+  ]
+ },
+ "villes-du-monde_jaipur": {
+  "qid": "Q66485",
+  "P571": [
+   "1727"
+  ],
+  "P131": [
+   "district de Jaipur",
+   "État de Jaipur"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "villes-du-monde_hanoi": {
+  "qid": "Q1858",
+  "P571": [
+   "1010"
+  ],
+  "P131": [
+   "Vietnam"
+  ],
+  "P17": [
+   "Vietnam"
+  ]
+ },
+ "villes-du-monde_jakarta": {
+  "qid": "Q3630",
+  "P571": [
+   "1527"
+  ],
+  "P131": [
+   "Indonésie"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "villes-du-monde_hong-kong": {
+  "qid": "Q8646",
+  "P571": [
+   "1997",
+   "1841"
+  ],
+  "P131": [
+   "république populaire de Chine",
+   "Empire britannique"
+  ],
+  "P17": [
+   "république populaire de Chine",
+   "Empire britannique"
+  ],
+  "P527": [
+   "Cross-border Farming Points"
+  ]
+ },
+ "villes-du-monde_osaka": {
+  "qid": "Q35765",
+  "P571": [
+   "1889",
+   "1500",
+   "500"
+  ],
+  "P131": [
+   "préfecture d'Osaka"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "Kita",
+   "Minami"
+  ]
+ },
+ "villes-du-monde_lhassa": {
+  "qid": "Q5869",
+  "P571": [
+   "633"
+  ],
+  "P131": [
+   "région autonome du Tibet"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "villes-du-monde_melbourne": {
+  "qid": "Q3141",
+  "P571": [
+   "1835"
+  ],
+  "P131": [
+   "Victoria"
+  ],
+  "P17": [
+   "Australie"
+  ],
+  "P527": [
+   "Eastern suburbs (Melbourne)"
+  ]
+ },
+ "villes-du-monde_honolulu": {
+  "qid": "Q18094",
+  "P131": [
+   "comté d'Honolulu",
+   "royaume d'Hawaï",
+   "Gouvernement provisoire d'Hawaï",
+   "Territoire d'Hawaï"
+  ],
+  "P17": [
+   "États-Unis",
+   "royaume d'Hawaï",
+   "Gouvernement provisoire d'Hawaï",
+   "République d'Hawaï"
+  ]
+ },
+ "villes-du-monde_toulouse": {
+  "qid": "Q7880",
+  "P276": [
+   "Occitanie"
+  ],
+  "P131": [
+   "Haute-Garonne",
+   "arrondissement de Toulouse",
+   "Toulouse Métropole",
+   "canton de Toulouse-12",
+   "canton de Toulouse-13",
+   "canton de Toulouse-14",
+   "canton de Toulouse-15"
+  ],
+  "P17": [
+   "France"
+  ]
+ }
+}

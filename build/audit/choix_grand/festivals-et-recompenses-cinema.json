@@ -73,5 +73,19 @@
  },
  "festivals-et-recompenses-cinema_festival-lumiere": {
   "k": 3
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-de-gerardmer": {
+  "k": 3,
+  "cy": 0.42
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-d-avoriaz": {
+  "k": 0,
+  "cy": 0.42
+ },
+ "festivals-et-recompenses-cinema_lumieres-de-la-presse-internationale": {
+  "k": 4
+ },
+ "festivals-et-recompenses-cinema_european-film-awards": {
+  "k": 2
  }
 }

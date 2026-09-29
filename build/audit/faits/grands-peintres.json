@@ -1,0 +1,6025 @@
+{
+ "grands-peintres_giotto-di-bondone": {
+  "qid": "Q7814",
+  "P569": [
+   "1267",
+   "1276",
+   "1266"
+  ],
+  "P570": [
+   "1337"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Pré-Renaissance",
+   "art gothique"
+  ],
+  "P800": [
+   "chapelle des Scrovegni",
+   "Saint Étienne",
+   "campanile de Santa Maria del Fiore",
+   "Giotto's O",
+   "Vierge de douleur",
+   "Fragment of the Navicella Mosaic",
+   "Portrait of Dante"
+  ],
+  "P101": [
+   "architecture",
+   "peinture"
+  ],
+  "P136": [
+   "art religieux",
+   "allégorie",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_sandro-botticelli": {
+  "qid": "Q5669",
+  "P569": [
+   "1445",
+   "1446"
+  ],
+  "P570": [
+   "1510",
+   "1510",
+   "1510"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P135": [
+   "Première Renaissance",
+   "École florentine"
+  ],
+  "P800": [
+   "La Naissance de Vénus",
+   "L'Adoration des mages",
+   "Le Printemps",
+   "La Force",
+   "Vénus et les trois Grâces offrant des présents à une jeune fille",
+   "Annunciation",
+   "Birth of Christ",
+   "Madonna and Child",
+   "Madonna and Child with St. John the Baptist",
+   "Madonna dei Cantelabri",
+   "L'Adoration des mages"
+  ],
+  "P136": [
+   "portrait",
+   "peinture d'histoire",
+   "peinture religieuse",
+   "allégorie",
+   "peinture mythologique",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_michel-ange": {
+  "qid": "Q5592",
+  "P569": [
+   "1475"
+  ],
+  "P570": [
+   "1564"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Haute Renaissance",
+   "peinture de la Renaissance"
+  ],
+  "P800": [
+   "David",
+   "La Pietà",
+   "L'Esclave mourant",
+   "Le Jugement dernier",
+   "Tondo Doni",
+   "Vierge à l'escalier",
+   "Bataille des Centaures",
+   "Génie de la Victoire",
+   "La Pietà Bandini",
+   "Pietà Rondanini",
+   "plafond de la chapelle Sixtine",
+   "L'Esclave rebelle",
+   "Saint Matthieu",
+   "Bacchus",
+   "Brutus",
+   "basilique Saint-Pierre",
+   "Esclaves",
+   "bibliothèque Laurentienne",
+   "Sagrestia Nuova",
+   "Model for the façade of San Lorenzo",
+   "Model of a slave",
+   "Replica of Michelangelo's Crouching Boy",
+   "Samson and the Philistines",
+   "Q138817426",
+   "Lettres"
+  ],
+  "P136": [
+   "art chrétien",
+   "homoérotisme"
+  ]
+ },
+ "grands-peintres_raphael-peintre": {
+  "qid": "Q5597",
+  "P569": [
+   "1483",
+   "1483",
+   "1483"
+  ],
+  "P570": [
+   "1520",
+   "1520"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P135": [
+   "Renaissance italienne",
+   "Haute Renaissance"
+  ],
+  "P800": [
+   "La Fornarina",
+   "L'École d'Athènes",
+   "Chambres de Raphaël",
+   "La Résurrection du Christ",
+   "La Madone Pasadena",
+   "Le Mariage de la Vierge",
+   "La Madone du Grand-Duc",
+   "La Vierge au chardonneret",
+   "La Madone à la prairie",
+   "Déposition Borghèse",
+   "La Madone Sixtine",
+   "La Transfiguration",
+   "Portrait de Baldassare Castiglione",
+   "Le Christ au jardin des Oliviers",
+   "Baglioni Predella",
+   "Half-length portrait of a young woman in profile",
+   "Two studies for the Madonna and Child with the Infant Saint John",
+   "Lucretia",
+   "Madonna col Bambino (for the 'Madonna del Granduca')",
+   "Madonna seduta in atto di prendere il Bambino tra le braccia e studio separato del busto della Madonna",
+   "Femme en buste, de trois quarts vers la gauche, les bras croisés",
+   "Monteluce Madonna",
+   "Drawing by Raffaello (Uffizi, 1332 F)",
+   "Drawing by Raffaello (Uffizi, 134 S)",
+   "Drawing by Raffaello (Uffizi, 163 A)",
+   "Drawing by Raffaello (Uffizi, 164 A)",
+   "Drawing by Raffaello (Uffizi, 165 A)",
+   "Drawing by Raffaello (Uffizi, 496 E)",
+   "Drawing by Raffaello (Uffizi, 520 E)",
+   "Drawing by Raffaello (Uffizi, 539 E)",
+   "Drawing by Raffaello (Uffizi, 541 E)",
+   "Saint George and the Dragon",
+   "Saint George and the Dragon",
+   "Studio compositivo per la 'Deposizione'",
+   "Profile of a woman head",
+   "The Cardinal and Theological Virtues"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture de portrait",
+   "portrait",
+   "allégorie",
+   "art religieux",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_titien": {
+  "qid": "Q47551",
+  "P569": [
+   "1490",
+   "1488",
+   "1480",
+   "1489",
+   "1477",
+   "1480"
+  ],
+  "P570": [
+   "1576",
+   "1576",
+   "1576",
+   "1576"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "École vénitienne",
+   "Haute Renaissance"
+  ],
+  "P800": [
+   "La Femme au miroir",
+   "Le Couronnement d'épines",
+   "La Vierge au lapin",
+   "Vénus d'Urbin",
+   "Charles Quint à cheval à Mühlberg",
+   "Portrait de Paul III avec ses petits-fils",
+   "Tarquin et Lucrèce",
+   "Le Martyre de saint Laurent",
+   "Vénus au miroir",
+   "Cherub",
+   "Mascarons",
+   "Saint John the Almoner",
+   "Simbolo dell'Evangelista Giovanni (aquila)",
+   "Simbolo dell'Evangelista Luca (toro)",
+   "Simbolo dell'Evangelista Marco (leone)",
+   "Simbolo dell'Evangelista Matteo (angelo)",
+   "Studies for Martyrdom of Saint Peter the Martyr",
+   "Two Satyrs in a Landscape"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture religieuse",
+   "peinture mythologique",
+   "nu",
+   "peinture d'histoire",
+   "portrait"
+  ]
+ },
+ "grands-peintres_jerome-bosch": {
+  "qid": "Q130531",
+  "P569": [
+   "1450"
+  ],
+  "P570": [
+   "1516"
+  ],
+  "P27": [
+   "Pays-Bas septentrionaux"
+  ],
+  "P135": [
+   "Primitifs flamands",
+   "Renaissance nordique"
+  ],
+  "P800": [
+   "Le Jardin des délices",
+   "La Nef des fous",
+   "Ecce Homo",
+   "Les Sept Péchés capitaux et les Quatre Dernières Étapes humaines",
+   "Le Jugement dernier",
+   "Les Noces de Cana",
+   "Le Chariot de foin",
+   "Visions de l'au-delà",
+   "L'Escamoteur"
+  ],
+  "P101": [
+   "peinture de la Renaissance",
+   "arts visuels",
+   "peinture gothique"
+  ],
+  "P136": [
+   "peinture religieuse",
+   "scène de genre",
+   "peinture d'histoire",
+   "portrait",
+   "allégorie"
+  ]
+ },
+ "grands-peintres_pieter-brueghel-l-ancien": {
+  "qid": "Q43270",
+  "P569": [
+   "1525",
+   "1520",
+   "1526"
+  ],
+  "P570": [
+   "1569",
+   "1569"
+  ],
+  "P27": [
+   "duché de Brabant"
+  ],
+  "P135": [
+   "Renaissance flamande",
+   "Renaissance nordique"
+  ],
+  "P800": [
+   "Deux Singes",
+   "Dulle Griet",
+   "La Danse des paysans"
+  ],
+  "P101": [
+   "peinture de la Renaissance"
+  ],
+  "P136": [
+   "Renaissance nordique",
+   "paysage",
+   "portrait",
+   "nature morte",
+   "art animalier",
+   "marine"
+  ]
+ },
+ "grands-peintres_le-caravage": {
+  "qid": "Q42207",
+  "P569": [
+   "1571"
+  ],
+  "P570": [
+   "1610",
+   "1610"
+  ],
+  "P27": [
+   "duché de Milan"
+  ],
+  "P135": [
+   "baroque",
+   "Contre-Réforme"
+  ],
+  "P800": [
+   "Le Souper à Emmaüs",
+   "L'Amour victorieux",
+   "Méduse",
+   "Corbeille de fruits",
+   "La Diseuse de bonne aventure",
+   "Les Sept Œuvres de miséricorde",
+   "Le Petit Bacchus malade",
+   "Bacchus",
+   "L'Annonciation",
+   "Judith décapitant Holopherne",
+   "Garçon pelant un fruit",
+   "Garçon mordu par un lézard",
+   "Young Saint John the Baptist with ram",
+   "The Lute Player"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "scène de genre",
+   "peinture religieuse",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_pierre-paul-rubens": {
+  "qid": "Q5599",
+  "P569": [
+   "1577"
+  ],
+  "P570": [
+   "1640"
+  ],
+  "P27": [
+   "Pays-Bas espagnols"
+  ],
+  "P135": [
+   "peinture baroque flamande",
+   "baroque"
+  ],
+  "P800": [
+   "La chute des damnés",
+   "La Chasse au tigre",
+   "Sous la tonnelle de chèvrefeuille",
+   "Les Trois Grâces",
+   "Le Jardin d'Amour",
+   "L'Enlèvement des filles de Leucippe",
+   "Le chapeau de paille",
+   "L'Érection de la croix",
+   "Henry IV at the Battle of Ivry, 14 March 1590",
+   "Drunken Bacchus",
+   "Judith and Holofernes",
+   "Tapisseries de Rubens"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture religieuse",
+   "nu",
+   "peinture de portrait",
+   "peinture mythologique",
+   "paysage",
+   "portrait",
+   "scène de genre",
+   "art religieux",
+   "art animalier"
+  ]
+ },
+ "grands-peintres_rembrandt": {
+  "qid": "Q5598",
+  "P569": [
+   "1606",
+   "1606"
+  ],
+  "P570": [
+   "1669",
+   "1669"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P135": [
+   "âge d'or de la peinture néerlandaise"
+  ],
+  "P800": [
+   "La Ronde de nuit",
+   "Le Syndic de la guilde des drapiers",
+   "La Fiancée juive",
+   "Le Festin de Balthazar",
+   "Autoportrait"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture religieuse",
+   "peinture mythologique",
+   "scène de genre",
+   "peinture d'histoire",
+   "autoportrait",
+   "paysage",
+   "portrait",
+   "Tronie",
+   "nature morte",
+   "vanité",
+   "hunting still life",
+   "œuvre visuelle mythologique",
+   "paysage d'hiver"
+  ]
+ },
+ "grands-peintres_johannes-vermeer": {
+  "qid": "Q41264",
+  "P569": [
+   "1632"
+  ],
+  "P570": [
+   "1675"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P135": [
+   "âge d'or de la peinture néerlandaise",
+   "peinture baroque"
+  ],
+  "P800": [
+   "Diane et ses compagnes",
+   "Le Géographe",
+   "L'Entremetteuse",
+   "La Laitière",
+   "Le Christ dans la maison de Marthe et Marie",
+   "L'Astronome",
+   "Une jeune fille assoupie",
+   "La Jeune Fille à la perle",
+   "Vue de Delft"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "scène de genre",
+   "portrait",
+   "paysage urbain"
+  ]
+ },
+ "grands-peintres_diego-velasquez": {
+  "qid": "Q297",
+  "P569": [
+   "1599",
+   "1599"
+  ],
+  "P570": [
+   "1660",
+   "1660",
+   "1660"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "Le Triomphe de Bacchus",
+   "Les Ménines",
+   "La Forge de Vulcain",
+   "Christ dans la maison de Marthe et Marie",
+   "La Reddition de Bréda",
+   "Le Porteur d'eau de Séville",
+   "Equestrian Portrait of Philip IV"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture mythologique",
+   "peinture d'histoire",
+   "peinture religieuse",
+   "portrait",
+   "peinture d'architecture",
+   "scène de genre",
+   "paysage",
+   "nu",
+   "représentation figurée",
+   "art animalier",
+   "art religieux",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_francisco-de-goya": {
+  "qid": "Q5432",
+  "P569": [
+   "1746"
+  ],
+  "P570": [
+   "1828"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "romantisme",
+   "rococo"
+  ],
+  "P800": [
+   "La Maja nue",
+   "Saint Bernardin de Sienne prêchant devant Alphonse V d'Aragon",
+   "Tres de mayo",
+   "La Maja vêtue",
+   "Los Caprichos",
+   "Dos de Mayo",
+   "General José de Palafox on Horseback",
+   "Vierge du Pilier",
+   "L'Adoration du nom de Dieu",
+   "Regina Martyrum"
+  ],
+  "P101": [
+   "peinture",
+   "gravure"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture mythologique",
+   "peinture de bataille",
+   "peinture d'histoire",
+   "peinture religieuse",
+   "portrait",
+   "scène de genre",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_jacques-louis-david": {
+  "qid": "Q83155",
+  "P569": [
+   "1748"
+  ],
+  "P570": [
+   "1825"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "néo-classicisme"
+  ],
+  "P800": [
+   "Le Serment des Horaces",
+   "Bonaparte franchissant le Grand-Saint-Bernard",
+   "Portrait d'Antoine-Laurent Lavoisier et de sa femme",
+   "Le Sacre de Napoléon",
+   "La Mort de Marat"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "portrait",
+   "allégorie",
+   "paysage",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_eugene-delacroix": {
+  "qid": "Q33477",
+  "P569": [
+   "1798"
+  ],
+  "P570": [
+   "1863"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Jeune Tigre jouant avec sa mère",
+   "La Liberté guidant le peuple",
+   "La Captivité à Babylone",
+   "Scènes des massacres de Scio"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "paysage",
+   "nature morte",
+   "peinture de bataille"
+  ]
+ },
+ "grands-peintres_william-turner": {
+  "qid": "Q159758",
+  "P569": [
+   "1775"
+  ],
+  "P570": [
+   "1851"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "romantisme",
+   "Peinture anglaise"
+  ],
+  "P800": [
+   "Le Dernier Voyage du Téméraire",
+   "Pêcheurs en mer",
+   "La Bataille de Trafalgar",
+   "Pluie, Vapeur et Vitesse",
+   "Le Négrier",
+   "Hannibal traversant les Alpes",
+   "La Traversée du ruisseau",
+   "Canal de Chichester",
+   "Lever de soleil avec monstres marins",
+   "Lumière et Couleur",
+   "L'Incendie de la Chambre des Lords et des Communes, le 16 octobre 1834",
+   "La Jetée de Calais"
+  ],
+  "P101": [
+   "arts visuels",
+   "peinture",
+   "paysage",
+   "illustration"
+  ],
+  "P136": [
+   "marine",
+   "peinture d'histoire",
+   "paysage"
+  ]
+ },
+ "grands-peintres_john-constable": {
+  "qid": "Q159297",
+  "P569": [
+   "1776"
+  ],
+  "P570": [
+   "1837"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "réalisme",
+   "romantisme"
+  ],
+  "P800": [
+   "La Cathédrale de Salisbury vue des prés",
+   "La Cathédrale de Salisbury vues des jardins de l'évêque",
+   "Le Moulin de Dedham"
+  ],
+  "P136": [
+   "paysage",
+   "scène de genre",
+   "marine",
+   "portrait",
+   "art religieux",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_gustave-courbet": {
+  "qid": "Q34618",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1877"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "L'Origine du monde",
+   "Un enterrement à Ornans",
+   "Le Sommeil",
+   "L'Atelier du peintre",
+   "La Femme au perroquet",
+   "La Femme dans les vagues",
+   "Les Casseurs de pierres",
+   "La Rencontre, ou Bonjour Monsieur Courbet",
+   "Demoiselles des bords de la Seine",
+   "Les Cribleuses de blé"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture animalière",
+   "scène de genre",
+   "paysage",
+   "nu",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_edouard-manet": {
+  "qid": "Q40599",
+  "P569": [
+   "1832",
+   "1832",
+   "1832"
+  ],
+  "P570": [
+   "1883",
+   "1883"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Le Déjeuner sur l'herbe",
+   "Olympia",
+   "Un bar aux Folies Bergère",
+   "Le Balcon",
+   "La Musique aux Tuileries",
+   "Le Fifre",
+   "L'Exécution de Maximilien",
+   "Le Chemin de fer"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "scène de genre",
+   "nature morte",
+   "paysage",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_claude-monet": {
+  "qid": "Q296",
+  "P569": [
+   "1840"
+  ],
+  "P570": [
+   "1926"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Impression, Soleil levant",
+   "Les Nymphéas",
+   "Cathédrales de Rouen",
+   "La Femme à l'ombrelle — Madame Monet et son fils",
+   "Terrasse à Sainte-Adresse",
+   "Femmes au jardin",
+   "Les Meules",
+   "La Pie",
+   "La Dame en blanc au jardin",
+   "Le Déjeuner sur l'herbe"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "paysage",
+   "nature morte",
+   "portrait"
+  ]
+ },
+ "grands-peintres_edgar-degas": {
+  "qid": "Q46373",
+  "P569": [
+   "1834"
+  ],
+  "P570": [
+   "1917"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Ludovic Lepic et ses filles",
+   "Après le bain, femme nue s'essuyant la nuque",
+   "Jeunes Spartiates à l'entraînement",
+   "La Classe de danse"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_auguste-renoir": {
+  "qid": "Q39931",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1919",
+   "1919"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Bal du moulin de la Galette",
+   "Le Déjeuner des canotiers",
+   "La Balançoire",
+   "Les Grandes Baigneuses",
+   "Jeunes Filles au piano",
+   "Les Deux Sœurs",
+   "Les Parapluies",
+   "La Loge",
+   "Portrait d'Irène Cahen d'Anvers"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "nu",
+   "peinture mythologique",
+   "paysage",
+   "art animalier",
+   "représentation figurée",
+   "scène de genre",
+   "marine",
+   "portrait",
+   "art religieux",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_paul-cezanne": {
+  "qid": "Q35548",
+  "P569": [
+   "1839"
+  ],
+  "P570": [
+   "1906"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "postimpressionnisme"
+  ],
+  "P800": [
+   "Les Joueurs de cartes",
+   "Montagne Sainte-Victoire",
+   "Les Grandes Baigneuses",
+   "Mardi gras",
+   "Le Garçon au gilet rouge",
+   "La Corbeille de pommes",
+   "Jeune Fille au piano",
+   "La Dame en bleu",
+   "La Maison du pendu",
+   "La Montagne Sainte-Victoire vue de Bellevue"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "nature morte",
+   "scène de genre",
+   "paysage",
+   "portrait"
+  ]
+ },
+ "grands-peintres_camille-pissarro": {
+  "qid": "Q134741",
+  "P569": [
+   "1830"
+  ],
+  "P570": [
+   "1903"
+  ],
+  "P27": [
+   "France",
+   "Royaume de Danemark"
+  ],
+  "P135": [
+   "impressionnisme",
+   "néo-impressionnisme"
+  ],
+  "P800": [
+   "Le Pont Boieldieu à Rouen, temps mouillé",
+   "Fenaison à Éragny",
+   "Bateaux à vapeur dans le port de Rouen",
+   "Les Toits rouges, coin de village, effet d'hiver",
+   "Boulevard Montmartre, Mardi Gras",
+   "Les Bords de l'Oise près de Pontoise",
+   "Côte des Bœufs à L'Hermitage, Pontoise",
+   "La Maison de La Sourde et Le Clocher D'Éragny",
+   "Rue Saint-Honoré, Après-midi, Effet de Pluie",
+   "Le Boulevard de Montmartre, matinée de printemps"
+  ],
+  "P136": [
+   "paysage",
+   "peinture de personnage",
+   "portrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_berthe-morisot": {
+  "qid": "Q105320",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1895"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Vue du petit port de Lorient",
+   "Le Berceau",
+   "La Psyché",
+   "Eugène Manet à l'île de Wight"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "paysage"
+  ]
+ },
+ "grands-peintres_georges-seurat": {
+  "qid": "Q34013",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "pointillisme",
+   "néo-impressionnisme",
+   "postimpressionnisme"
+  ],
+  "P800": [
+   "Un dimanche après-midi à l'Île de la Grande Jatte",
+   "Une baignade à Asnières",
+   "Parade de cirque"
+  ],
+  "P101": [
+   "peinture",
+   "néo-impressionnisme"
+  ],
+  "P136": [
+   "scène de genre",
+   "paysage",
+   "portrait"
+  ]
+ },
+ "grands-peintres_paul-gauguin": {
+  "qid": "Q37693",
+  "P569": [
+   "1848"
+  ],
+  "P570": [
+   "1903",
+   "1903"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "École de Pont-Aven",
+   "symbolisme",
+   "synthétisme",
+   "cloisonnisme",
+   "impressionnisme",
+   "primitivisme"
+  ],
+  "P800": [
+   "Le Christ jaune",
+   "Manaò tupapaú",
+   "Quand te maries-tu ?",
+   "Ia Orana Maria",
+   "D'où venons-nous ? Que sommes-nous ? Où allons-nous ?",
+   "Femmes de Tahiti",
+   "Vincent van Gogh peignant les tournesols",
+   "Le Christ vert",
+   "Eh quoi, tu es jalouse ?"
+  ],
+  "P101": [
+   "peinture",
+   "culture polynésienne",
+   "arts visuels",
+   "postimpressionnisme"
+  ],
+  "P136": [
+   "portrait",
+   "paysage",
+   "représentation figurée",
+   "scène de genre",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_vincent-van-gogh": {
+  "qid": "Q5582",
+  "P569": [
+   "1853"
+  ],
+  "P570": [
+   "1890"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "expressionnisme"
+  ],
+  "P800": [
+   "Les Mangeurs de pommes de terre",
+   "Terrasse du café le soir",
+   "La Nuit étoilée",
+   "La Chambre de Van Gogh à Arles",
+   "Les Tournesols",
+   "Autoportrait à l'oreille bandée",
+   "Champ de blé aux corbeaux",
+   "Portraits du Dr Gachet avec branche de digitale",
+   "Iris",
+   "Le Café de nuit",
+   "La Nuit étoilée",
+   "La Maison jaune",
+   "champ de blé avec cyprès"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "paysage",
+   "nature morte",
+   "portrait",
+   "paysage urbain",
+   "scène d'intérieur",
+   "autoportrait",
+   "art chrétien"
+  ]
+ },
+ "grands-peintres_henri-de-toulouse-lautrec": {
+  "qid": "Q82445",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "postimpressionnisme"
+  ],
+  "P800": [
+   "Au Moulin-Rouge",
+   "Le Lit",
+   "La Toilette",
+   "La Blanchisseuse"
+  ],
+  "P101": [
+   "artiste peintre",
+   "art érotique"
+  ],
+  "P136": [
+   "portrait",
+   "peinture animalière",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_gustav-klimt": {
+  "qid": "Q34661",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Cisleithanie"
+  ],
+  "P135": [
+   "symbolisme",
+   "Art nouveau",
+   "Jugendstil"
+  ],
+  "P800": [
+   "Portrait d'Adele Bloch-Bauer I",
+   "Frise Beethoven",
+   "Le Baiser",
+   "Judith I",
+   "Les Trois Âges de la femme",
+   "Danaé",
+   "Portrait de Mademoiselle Lieser",
+   "Insel im Attersee",
+   "Portrait d'Adele Bloch-Bauer II"
+  ],
+  "P101": [
+   "peinture",
+   "art érotique"
+  ],
+  "P136": [
+   "Art nouveau",
+   "art religieux",
+   "peinture d'histoire",
+   "paysage",
+   "portrait",
+   "scène de genre",
+   "représentation figurée"
+  ]
+ },
+ "grands-peintres_edvard-munch": {
+  "qid": "Q41406",
+  "P569": [
+   "1863",
+   "1863"
+  ],
+  "P570": [
+   "1944",
+   "1944"
+  ],
+  "P27": [
+   "Norvège"
+  ],
+  "P135": [
+   "symbolisme",
+   "expressionnisme"
+  ],
+  "P800": [
+   "La Mort et l'Enfant",
+   "L'Amour et la Douleur",
+   "Le Cri",
+   "Les Filles sur le pont",
+   "Les Fils du Dr. Linde",
+   "Travemünde",
+   "Lothar Linde à la veste rouge",
+   "Autoportrait à la grippe espagnole",
+   "Arve Arvesen"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "expressionnisme",
+   "scène de genre",
+   "paysage",
+   "autoportrait"
+  ]
+ },
+ "grands-peintres_henri-matisse": {
+  "qid": "Q5589",
+  "P569": [
+   "1869"
+  ],
+  "P570": [
+   "1954"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme",
+   "divisionnisme",
+   "fauvisme",
+   "néo-impressionnisme",
+   "postimpressionnisme"
+  ],
+  "P800": [
+   "Nu bleu (souvenir de Biskra)",
+   "La Joie de vivre",
+   "La Desserte rouge",
+   "Femme au chapeau",
+   "La Danse"
+  ],
+  "P136": [
+   "découpage",
+   "paysage",
+   "peinture de personnage",
+   "nature morte",
+   "peinture de portrait"
+  ]
+ },
+ "grands-peintres_pablo-picasso": {
+  "qid": "Q5593",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "cubisme",
+   "surréalisme",
+   "postimpressionnisme"
+  ],
+  "P800": [
+   "Guernica",
+   "Les Demoiselles d'Avignon",
+   "Chicago Picasso",
+   "Trois musiciens",
+   "Science et Charité",
+   "Garçon à la pipe",
+   "Massacre en Corée"
+  ],
+  "P101": [
+   "peinture",
+   "création de bijoux"
+  ],
+  "P136": [
+   "graphique",
+   "céramique",
+   "art figuratif",
+   "autoportrait",
+   "portrait",
+   "nu",
+   "représentation figurée",
+   "peinture d'histoire",
+   "peinture mythologique",
+   "allégorie",
+   "art animalier",
+   "art abstrait",
+   "paysage",
+   "marine",
+   "nature morte",
+   "vanité"
+  ]
+ },
+ "grands-peintres_georges-braque": {
+  "qid": "Q153793",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "cubisme",
+   "fauvisme"
+  ],
+  "P800": [
+   "Maisons à l'Estaque",
+   "La Guitare : « Statue d'épouvante »",
+   "La Mandore"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "graphique",
+   "sculpture"
+  ],
+  "P136": [
+   "nature morte",
+   "art animalier",
+   "scène de genre",
+   "paysage"
+  ]
+ },
+ "grands-peintres_amedeo-modigliani": {
+  "qid": "Q120993",
+  "P569": [
+   "1884"
+  ],
+  "P570": [
+   "1920"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ],
+  "P135": [
+   "art moderne"
+  ],
+  "P800": [
+   "Nu assis",
+   "La Femme à l'éventail",
+   "Jean Cocteau",
+   "Autoportrait",
+   "Portrait de Lunia",
+   "Tête de Jeanne Hébuterne de face",
+   "Chaïm Soutine",
+   "Jeune femme à la robe jaune (Renée Modot)"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "représentation figurée",
+   "scène de genre",
+   "paysage",
+   "nu"
+  ]
+ },
+ "grands-peintres_marc-chagall": {
+  "qid": "Q93284",
+  "P569": [
+   "1887",
+   "1887"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "France",
+   "Empire russe",
+   "Russie soviétique",
+   "apatride"
+  ],
+  "P135": [
+   "expressionnisme",
+   "modernisme catalan"
+  ],
+  "P800": [
+   "Derrière la maison",
+   "Hommage à Apollinaire",
+   "Moi et le village",
+   "Vitraux pour Jerusalem",
+   "Chagall Lounge",
+   "Le prophète Jérémie"
+  ],
+  "P136": [
+   "avant-garde",
+   "peinture animalière",
+   "paysage",
+   "portrait",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_vassily-kandinsky": {
+  "qid": "Q61064",
+  "P569": [
+   "1866",
+   "1866"
+  ],
+  "P570": [
+   "1944",
+   "1944"
+  ],
+  "P27": [
+   "Empire russe",
+   "république socialiste fédérative soviétique de Russie",
+   "Union soviétique",
+   "France",
+   "Allemagne"
+  ],
+  "P135": [
+   "expressionnisme",
+   "symbolisme",
+   "Bauhaus"
+  ],
+  "P800": [
+   "Composition VII"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "abstraction",
+   "paysage"
+  ]
+ },
+ "grands-peintres_piet-mondrian": {
+  "qid": "Q151803",
+  "P569": [
+   "1872"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "De Stijl",
+   "symbolisme"
+  ],
+  "P800": [
+   "Victory Boogie Woogie",
+   "Composition in line, second state",
+   "Composition XIV",
+   "Broadway Boogie-Woogie"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art abstrait",
+   "allégorie",
+   "paysage",
+   "représentation figurée",
+   "nature morte",
+   "portrait",
+   "autoportrait"
+  ]
+ },
+ "grands-peintres_paul-klee": {
+  "qid": "Q44007",
+  "P569": [
+   "1879"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Suisse"
+  ],
+  "P135": [
+   "expressionnisme",
+   "surréalisme",
+   "pointillisme",
+   "Bauhaus",
+   "Colorfield Painting"
+  ],
+  "P800": [
+   "Légende du marais",
+   "La Machine à gazouiller",
+   "Angelus Novus",
+   "Villa R",
+   "Dance of the Moth"
+  ],
+  "P136": [
+   "art abstrait",
+   "abstraction géométrique"
+  ]
+ },
+ "grands-peintres_egon-schiele": {
+  "qid": "Q44032",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "Cisleithanie"
+  ],
+  "P135": [
+   "expressionnisme"
+  ],
+  "P800": [
+   "Femme assise à la jambe repliée"
+  ],
+  "P101": [
+   "peinture",
+   "art érotique"
+  ],
+  "P136": [
+   "portrait",
+   "peinture de personnage",
+   "autoportrait",
+   "paysage",
+   "allégorie"
+  ]
+ },
+ "grands-peintres_salvador-dali": {
+  "qid": "Q5577",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "La Persistance de la mémoire",
+   "Christ de saint Jean de la Croix",
+   "La Dernière Cène",
+   "Le Grand Masturbateur",
+   "Construction molle aux haricots bouillis",
+   "Le Visage de la guerre"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture",
+   "régie",
+   "joaillerie"
+  ],
+  "P136": [
+   "nature morte",
+   "scène de genre",
+   "portrait",
+   "paysage",
+   "allégorie",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_rene-magritte": {
+  "qid": "Q7836",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P135": [
+   "surréalisme belge"
+  ],
+  "P800": [
+   "La Trahison des images",
+   "Les Mystères de l'horizon",
+   "Golconde",
+   "Les Amants",
+   "L'Empire des lumières",
+   "Le Fils de l'homme",
+   "La Condition humaine",
+   "La Reproduction interdite",
+   "L'Assassin menacé",
+   "Le Sens de la nuit",
+   "Le Masque vide",
+   "Le Portrait",
+   "La Durée poignardée",
+   "Le Séducteur",
+   "Le Seize Septembre",
+   "La Lunette d'approche",
+   "La Chambre d'écoute"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art animalier",
+   "représentation figurée",
+   "paysage",
+   "nu",
+   "portrait",
+   "paysage urbain",
+   "nature morte",
+   "scène d'intérieur",
+   "surréalisme"
+  ]
+ },
+ "grands-peintres_joan-miro": {
+  "qid": "Q152384",
+  "P569": [
+   "1893",
+   "1893"
+  ],
+  "P570": [
+   "1983"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "Murs de céramique",
+   "Portrait de Vicenç Nubiola",
+   "Nord-Sud",
+   "Retrat d'una vaileta",
+   "La Maison du palmier",
+   "La Ferme",
+   "Portrait d'une danseuse espagnole",
+   "Intérieur",
+   "Paysage catalan",
+   "Le Carnaval d'Arlequin",
+   "Le Faucheur",
+   "L'Espoir du condamné à mort",
+   "Dona i ocell"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture"
+  ],
+  "P136": [
+   "céramique",
+   "graphique",
+   "art abstrait",
+   "peinture",
+   "sculpture"
+  ]
+ },
+ "grands-peintres_frida-kahlo": {
+  "qid": "Q5588",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1954",
+   "1954"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P135": [
+   "surréalisme",
+   "réalisme magique"
+  ],
+  "P800": [
+   "Still Life: Pitahayas",
+   "Les Deux Fridas"
+  ],
+  "P101": [
+   "peinture",
+   "journal intime",
+   "Mexican painting"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "autoportrait",
+   "portrait"
+  ]
+ },
+ "grands-peintres_diego-rivera": {
+  "qid": "Q171128",
+  "P569": [
+   "1886",
+   "1886"
+  ],
+  "P570": [
+   "1957",
+   "1957",
+   "1957"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P135": [
+   "réalisme social",
+   "muralisme mexicain"
+  ],
+  "P800": [
+   "Épopée du peuple mexicain",
+   "Sueño de una Tarde Dominical en la Alameda Central",
+   "Río Juchitán",
+   "Portrait of Ramón Gómez de la Serna",
+   "Detroit Industry Murals",
+   "The Banana Leaf Loader",
+   "Allegory of California",
+   "The Making of a Fresco Showing the Building of a City"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "social-artistic project"
+  ]
+ },
+ "grands-peintres_georgia-o-keeffe": {
+  "qid": "Q46408",
+  "P569": [
+   "1887",
+   "1887"
+  ],
+  "P570": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "modernisme américain"
+  ],
+  "P800": [
+   "Horse's Skull on Blue"
+  ],
+  "P101": [
+   "peinture",
+   "art érotique"
+  ],
+  "P136": [
+   "nature morte",
+   "peinture de fleurs",
+   "art abstrait",
+   "art féministe",
+   "paysage"
+  ]
+ },
+ "grands-peintres_edward-hopper": {
+  "qid": "Q203401",
+  "P569": [
+   "1882",
+   "1882"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "néoréalisme",
+   "réalisme américain",
+   "régionalisme"
+  ],
+  "P800": [
+   "House by a Road",
+   "Nighthawks",
+   "Chambre à New York",
+   "Fenêtres la nuit",
+   "Tôt un dimanche matin",
+   "Cape Cod Morning"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "scène de genre",
+   "peinture d'architecture"
+  ]
+ },
+ "grands-peintres_jackson-pollock": {
+  "qid": "Q37571",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "expressionnisme abstrait",
+   "action painting"
+  ],
+  "P800": [
+   "No. 5, 1948",
+   "Autumn Rhythm (Number 30)",
+   "Blue Poles"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_mark-rothko": {
+  "qid": "Q160149",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "États-Unis",
+   "Empire russe",
+   "Lettonie"
+  ],
+  "P135": [
+   "expressionnisme abstrait"
+  ],
+  "P800": [
+   "Orange, Red, Yellow",
+   "Orange and Yellow",
+   "No. 10",
+   "chapelle Rothko",
+   "No. 1",
+   "No. 2",
+   "No. 3",
+   "No. 3",
+   "No. 4",
+   "No. 5",
+   "No. 6 (?)"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_andy-warhol": {
+  "qid": "Q5603",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "pop art"
+  ],
+  "P800": [
+   "Campbell's Soup Cans II",
+   "Chelsea Girls",
+   "Exploding Plastic Inevitable",
+   "Diptyque Marilyn",
+   "Shot Marilyns"
+  ],
+  "P101": [
+   "estampe",
+   "peinture",
+   "film",
+   "graphique",
+   "design",
+   "pop art"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "nature morte",
+   "portrait"
+  ]
+ },
+ "grands-peintres_francis-bacon-peintre": {
+  "qid": "Q154340",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Irlande",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "surréalisme",
+   "expressionnisme",
+   "cubisme",
+   "art moderne"
+  ],
+  "P800": [
+   "Tryptich (1976)",
+   "Trois études de figures au pied d'une crucifixion",
+   "Head IV"
+  ],
+  "P101": [
+   "peinture",
+   "designeur de mobilier"
+  ],
+  "P136": [
+   "portrait",
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_lucian-freud": {
+  "qid": "Q154594",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Allemagne"
+  ],
+  "P135": [
+   "expressionnisme",
+   "School of London"
+  ],
+  "P800": [
+   "Benefits Supervisor Sleeping",
+   "Naked Portrait 2002"
+  ],
+  "P101": [
+   "peinture",
+   "peinture de personnage",
+   "peinture de portrait"
+  ],
+  "P136": [
+   "portrait",
+   "scène de genre",
+   "paysage",
+   "art animalier",
+   "nu",
+   "autoportrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_david-hockney": {
+  "qid": "Q159907",
+  "P569": [
+   "1937"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "hyperréalisme",
+   "art contemporain",
+   "pop art",
+   "Nouveau réalisme"
+  ],
+  "P800": [
+   "A Bigger Splash",
+   "American Collectors (Fred and Marcia Weisman)",
+   "A Bigger Grand Canyon",
+   "Portrait of an Artist (Pool with Two Figures)"
+  ],
+  "P101": [
+   "arts visuels",
+   "scénographie",
+   "graphique",
+   "photographie",
+   "pop art",
+   "peinture"
+  ],
+  "P136": [
+   "graphique",
+   "photographie",
+   "paysage",
+   "peinture de portrait",
+   "scène de genre",
+   "art numérique"
+  ]
+ },
+ "grands-peintres_jean-michel-basquiat": {
+  "qid": "Q155407",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "1988"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "néo-expressionnisme",
+   "primitivisme"
+  ],
+  "P136": [
+   "graffiti",
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_keith-haring": {
+  "qid": "Q485635",
+  "P569": [
+   "1958"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "art de rue",
+   "art contemporain"
+  ],
+  "P800": [
+   "Tuttomondo",
+   "Crack Is Wack",
+   "Together we can stop AIDS"
+  ],
+  "P101": [
+   "graffiti"
+  ],
+  "P136": [
+   "art figuratif",
+   "social-artistic project"
+  ]
+ },
+ "grands-peintres_banksy": {
+  "qid": "Q133600",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "art contemporain"
+  ],
+  "P800": [
+   "One Nation Under CCTV",
+   "Slave Labour",
+   "La Petite Fille au ballon",
+   "Faites le mur !",
+   "Crude Oil (Vettriano)",
+   "untitled"
+  ],
+  "P101": [
+   "art de rue",
+   "Scène underground de Bristol",
+   "commentaire social",
+   "graffiti"
+  ],
+  "P136": [
+   "art public",
+   "social-artistic project",
+   "art de rue",
+   "graffiti",
+   "sculpture"
+  ]
+ },
+ "grands-peintres_hokusai": {
+  "qid": "Q5586",
+  "P569": [
+   "1760"
+  ],
+  "P570": [
+   "1849"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "japonisme",
+   "Kasei culture",
+   "ukiyo-e",
+   "impression sur bois au Japon"
+  ],
+  "P800": [
+   "Trente-six vues du mont Fuji",
+   "Le Rêve de la femme du pêcheur",
+   "Hokusai manga",
+   "Ehon Chūkyō",
+   "Les Cascades de différentes provinces",
+   "Mille images de l'océan (Chie no umi)",
+   "Pastèque",
+   "Grand Daruma",
+   "La Grande Vague de Kanagawa",
+   "Le Fuji par temps clair"
+  ],
+  "P101": [
+   "ukiyo-e",
+   "peinture",
+   "arts visuels",
+   "gravure sur bois",
+   "graphique",
+   "illustration",
+   "dessin"
+  ],
+  "P136": [
+   "ukiyo-e",
+   "portrait"
+  ]
+ },
+ "grands-peintres_hiroshige": {
+  "qid": "Q200798",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1858"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "École Utagawa",
+   "Kasei culture"
+  ],
+  "P800": [
+   "Cent vues d'Edo",
+   "Trente-six Vues du mont Fuji",
+   "Huit vues d'Ōmi",
+   "Kōshū Nikki",
+   "Les Soixante-neuf Stations du Kiso Kaidō",
+   "Vues des sites célèbres des soixante et quelques provinces du Japon",
+   "Tendō Hiroshige"
+  ],
+  "P101": [
+   "ukiyo-e",
+   "shunga"
+  ],
+  "P136": [
+   "paysage",
+   "ukiyo-e"
+  ]
+ },
+ "grands-peintres_artemisia-gentileschi": {
+  "qid": "Q212657",
+  "P569": [
+   "1593"
+  ],
+  "P570": [
+   "1653"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P135": [
+   "caravagisme"
+  ],
+  "P800": [
+   "Judith décapitant Holopherne",
+   "Adoration des mages",
+   "Judith et sa Servante",
+   "Suzanne et les Vieillards",
+   "Allégorie de l'Inclination",
+   "Autoportrait en martyre",
+   "Suzanne et les vieillards."
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture religieuse",
+   "peinture d'histoire",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_frans-hals": {
+  "qid": "Q167654",
+  "P569": [
+   "1582",
+   "1591",
+   "1582"
+  ],
+  "P570": [
+   "1666",
+   "1666"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P135": [
+   "baroque",
+   "âge d'or de la peinture néerlandaise"
+  ],
+  "P800": [
+   "Banquet des officiers du corps des archers de Saint-George, Haarlem 1616",
+   "compagnie de la milice bourgeoise des mousquetaires de Haarlem 1639",
+   "Le Cavalier riant",
+   "Malle Babbe",
+   "compagnie de la milice bourgeoise des mousquetaires de Saint-Adrien, Haarlem 1633",
+   "Portrait de Dorothea Berck",
+   "Portrait d'Isaac Abrahamsz. Massa",
+   "Portrait de groupe des régents de l'hospice des vieillards",
+   "Deux garçons riant avec bière",
+   "'Peeckelhaeringh'",
+   "Jeune Homme tenant un crâne",
+   "Le Jeune Ramp et sa Belle",
+   "Jeune garçon riant",
+   "Fêtards du Mardi Gras",
+   "La Compagnie du capitaine Reinier Reael, dite ‘La Maigre Compagnie’",
+   "Portrait de groupe des régentes de l'hospice des vieillards",
+   "Le Bouffon au luth",
+   "Le Joyeux Buveur",
+   "Portrait de Willem van Heythuysen"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "scène de genre",
+   "schutterstuk"
+  ]
+ },
+ "grands-peintres_antoine-van-dyck": {
+  "qid": "Q150679",
+  "P569": [
+   "1599"
+  ],
+  "P570": [
+   "1641"
+  ],
+  "P27": [
+   "Pays-Bas espagnols"
+  ],
+  "P135": [
+   "peinture baroque"
+  ],
+  "P800": [
+   "Jupiter et Antiope",
+   "Charles Ier à la chasse",
+   "Triple portrait de Charles Ier",
+   "Portrait of Catarina Balbi Durazzo",
+   "Double portrait of Cornelis and Lucas de Wael",
+   "Christ of the Coin",
+   "Engravings after the portrait",
+   "Portrait of Marcello Durazzo",
+   "Paolina Adorno Brignole-Sale",
+   "Portrait of a Young Patrician",
+   "Portrait of the Goldsmith Pucci with his Son"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture religieuse",
+   "peinture mythologique",
+   "allégorie",
+   "peinture d'histoire",
+   "portrait",
+   "peinture animalière"
+  ]
+ },
+ "grands-peintres_le-greco": {
+  "qid": "Q301",
+  "P569": [
+   "1541",
+   "1541"
+  ],
+  "P570": [
+   "1614"
+  ],
+  "P27": [
+   "couronne de Castille",
+   "république de Venise"
+  ],
+  "P135": [
+   "Renaissance espagnole",
+   "maniérisme"
+  ],
+  "P800": [
+   "La Résurrection du Christ",
+   "Vue de Tolède",
+   "L'Enterrement du comte d'Orgaz",
+   "Le Gentilhomme à la main sur la poitrine",
+   "Dormition de la Vierge Marie",
+   "Triptyque de Modène",
+   "Le Martyre de Saint Maurice",
+   "L'Ouverture du cinquième sceau",
+   "Laocoon",
+   "Saints John the Evangelist and Francis of Assisi",
+   "Le Concert des anges"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture mythologique",
+   "peinture religieuse",
+   "peintre d'icônes",
+   "scène de genre",
+   "peinture d'histoire",
+   "paysage",
+   "portrait"
+  ]
+ },
+ "grands-peintres_francisco-de-zurbaran": {
+  "qid": "Q209615",
+  "P569": [
+   "1598"
+  ],
+  "P570": [
+   "1664"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "Saint Hugues au réfectoire des Chartreux",
+   "Le Christ en croix",
+   "Immaculée Conception"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "nature morte",
+   "peinture religieuse",
+   "portrait",
+   "peinture d'histoire",
+   "scène de genre",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_nicolas-poussin": {
+  "qid": "Q41554",
+  "P569": [
+   "1594",
+   "1594"
+  ],
+  "P570": [
+   "1665"
+  ],
+  "P27": [
+   "royaume de France",
+   "France"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "Les Bergers d'Arcadie",
+   "L'Inspiration du poète",
+   "Paysage orageux avec Pyrame et Thisbé",
+   "Les Quatre Saisons",
+   "Les Sept Sacrements",
+   "La Victoire de Josué sur les Amorites",
+   "La Lamentation sur le Christ mort"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture religieuse",
+   "peinture mythologique",
+   "peinture",
+   "allégorie",
+   "représentation figurée",
+   "paysage",
+   "portrait",
+   "autoportrait",
+   "art religieux",
+   "peinture de bataille"
+  ]
+ },
+ "grands-peintres_jean-honore-fragonard": {
+  "qid": "Q127171",
+  "P569": [
+   "1732"
+  ],
+  "P570": [
+   "1806"
+  ],
+  "P27": [
+   "France",
+   "monarchie constitutionnelle française"
+  ],
+  "P135": [
+   "rococo"
+  ],
+  "P800": [
+   "Les Hasards Heureux de l'Escarpolette",
+   "Le Verrou",
+   "La Liseuse"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "paysage"
+  ]
+ },
+ "grands-peintres_antoine-watteau": {
+  "qid": "Q183221",
+  "P569": [
+   "1684",
+   "1684"
+  ],
+  "P570": [
+   "1721",
+   "1721"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "rococo"
+  ],
+  "P800": [
+   "Nymphe et Satyre",
+   "Le Pèlerinage à l'île de Cythère",
+   "L'Enseigne de Gersaint",
+   "Pierrot"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "fête galante"
+  ]
+ },
+ "grands-peintres_william-blake": {
+  "qid": "Q41513",
+  "P569": [
+   "1757",
+   "1757"
+  ],
+  "P570": [
+   "1827",
+   "1827"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "romantisme",
+   "peinture féerique"
+  ],
+  "P800": [
+   "Le Mariage du Ciel et de l'Enfer",
+   "Jerusalem",
+   "Songs of Innocence and of Experience",
+   "Vala, or The Four Zoas",
+   "Jerusalem The Emanation of the Giant Albion",
+   "Milton",
+   "Le Grand Architecte"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture religieuse",
+   "allégorie",
+   "art religieux",
+   "peinture mythologique",
+   "allégorie"
+  ]
+ },
+ "grands-peintres_caspar-david-friedrich": {
+  "qid": "Q104884",
+  "P569": [
+   "1774"
+  ],
+  "P570": [
+   "1840"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Suède"
+  ],
+  "P135": [
+   "Romantisme allemand"
+  ],
+  "P800": [
+   "La Mer de glace",
+   "Deux Hommes contemplant la lune",
+   "Le Moine au bord de la mer",
+   "L'Abbaye dans une forêt de chênes",
+   "Le Voyageur contemplant une mer de nuages",
+   "Falaises de craie sur l'île de Rügen",
+   "Corbeaux sur un arbre"
+  ],
+  "P101": [
+   "peinture",
+   "art du dessin",
+   "paysage",
+   "romantisme"
+  ],
+  "P136": [
+   "paysage",
+   "scène de genre",
+   "portrait"
+  ]
+ },
+ "grands-peintres_gustave-moreau": {
+  "qid": "Q203828",
+  "P569": [
+   "1826"
+  ],
+  "P570": [
+   "1898"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "Apollon et les Neuf Muses",
+   "Œdipe et le Sphinx",
+   "Orphée",
+   "Salomé",
+   "Hercule et l'Hydre de Lerne",
+   "L'Apparition",
+   "Jupiter et Sémélé"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture religieuse",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_leonard-de-vinci": {
+  "qid": "Q762",
+  "P569": [
+   "1452",
+   "1452"
+  ],
+  "P570": [
+   "1519",
+   "1519"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Haute Renaissance",
+   "Renaissance"
+  ],
+  "P800": [
+   "L'Adoration des mages",
+   "La Vierge aux rochers",
+   "La Joconde",
+   "La Cène",
+   "La Dame à l'hermine",
+   "Homme de Vitruve",
+   "L'Annonciation de San Martino",
+   "Saint Jérôme",
+   "La Vierge, l'Enfant Jésus et sainte Anne",
+   "Saint Jean-Baptiste",
+   "vis aérienne",
+   "Isabelle d'Este",
+   "La Scapigliata",
+   "Salvator Mundi",
+   "Annonciation",
+   "Battle Between a Rider and a Dragon",
+   "Wreath of Laurel, Palm, and Juniper with a Scroll inscribed Virtutem Forma Decorat [reverse]",
+   "Allegory on the Fidelity of the Lizard (recto); Design for a Stage Setting (verso)",
+   "Codex Atlanticus (F0026)",
+   "Codex Atlanticus (F0089)",
+   "Codex Atlanticus (F0133)",
+   "Codex Atlanticus (F0139)",
+   "Codex Atlanticus (F0149)",
+   "Codex Atlanticus (F0157)",
+   "Codex Atlanticus (F0812)",
+   "Codex Atlanticus (F0845)",
+   "Codex Atlanticus (F0965)",
+   "Codex Atlanticus (F1069)",
+   "Codex Atlanticus (F1070)",
+   "Copy of the Leonardo Da Vinci's Last Supper",
+   "Draperie pour une figure assise",
+   "Studies for a Madonna with a Cat",
+   "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
+   "Profile of an Old Man",
+   "Female Head",
+   "Female Head in Profile",
+   "Perspective Study for the Background of the Adoration of the Magi",
+   "Drawing of Two Heads in Profile and Studies of Machines",
+   "Sainte Anne, la Vierge et l'Enfant",
+   "Recto: Sketches for the Last Supper, and other studies. Verso: Calculations with architectural, engineering, and geometric sketches",
+   "Études pour La Vierge, l'Enfant Jésus et sainte Anne",
+   "Design for a Scythed Chariot and Armoured Car (?)",
+   "studies for the London Virgin of the Rocks",
+   "Drapery Study for the Right Arm of Saint Peter in the Last Supper",
+   "Study of Clasped Hands (Hands of Saint John)",
+   "Study for the Last Supper (Judas)",
+   "Study for the Last Supper (Saint Bartholomew)",
+   "Study for the Last Supper (Saint James the Elder) and Architectural Sketches"
+  ],
+  "P101": [
+   "architecture de la Renaissance",
+   "scénographie",
+   "ingénierie",
+   "physiologie",
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture religieuse",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_jan-van-eyck": {
+  "qid": "Q102272",
+  "P569": [
+   "1390"
+  ],
+  "P570": [
+   "1441",
+   "1441"
+  ],
+  "P27": [
+   "Pays-Bas méridionaux"
+  ],
+  "P135": [
+   "Primitifs flamands",
+   "Renaissance nordique"
+  ],
+  "P800": [
+   "Les Époux Arnolfini",
+   "Triptyque de Dresde",
+   "Vierge de Lucques",
+   "L'Agneau mystique",
+   "La Vierge du chancelier Rolin",
+   "Stigmatisation de saint François d'Assise",
+   "La Vierge au chanoine Van der Paele",
+   "Sainte Barbe"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "peinture religieuse",
+   "scène de genre",
+   "portrait"
+  ]
+ },
+ "grands-peintres_albrecht-durer": {
+  "qid": "Q5580",
+  "P569": [
+   "1471"
+  ],
+  "P570": [
+   "1528"
+  ],
+  "P27": [
+   "duché de Bavière"
+  ],
+  "P135": [
+   "Renaissance allemande"
+  ],
+  "P800": [
+   "Melencolia",
+   "Adoration des mages",
+   "Autoportrait",
+   "Adam et Ève",
+   "La Vierge de la fête du rosaire",
+   "Mains priant",
+   "Le Chevalier, la Mort et le Diable",
+   "Saint Jérôme dans sa cellule",
+   "Rhinocéros",
+   "Les Quatre Apôtres"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture religieuse",
+   "allégorie",
+   "peinture d'histoire",
+   "peinture mythologique",
+   "scène de genre",
+   "autoportrait",
+   "peinture animalière",
+   "paysage"
+  ]
+ },
+ "grands-peintres_hans-holbein-le-jeune": {
+  "qid": "Q48319",
+  "P569": [
+   "1497"
+  ],
+  "P570": [
+   "1543",
+   "1543",
+   "1543"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique",
+   "Suisse",
+   "France"
+  ],
+  "P135": [
+   "Renaissance allemande",
+   "Renaissance nordique"
+  ],
+  "P800": [
+   "Les Ambassadeurs",
+   "Solothurner Madonna",
+   "La Vierge et l'Enfant avec la famille du bourgmestre Meyer",
+   "Le Christ mort"
+  ],
+  "P101": [
+   "peinture",
+   "estampe"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "portrait",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_fra-angelico": {
+  "qid": "Q5664",
+  "P569": [
+   "1390",
+   "1400",
+   "1387",
+   "1395"
+  ],
+  "P570": [
+   "1455"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P135": [
+   "Renaissance italienne",
+   "Première Renaissance"
+  ],
+  "P800": [
+   "Triptyque de Cortone",
+   "chapelle Nicoline",
+   "Pala di Fiesole",
+   "Pala di San Marco",
+   "L'Annonciation",
+   "The Healing of Palladia by Saints Cosmas and Damian",
+   "Saint Anthony Abbot Shunning the Mass of Gold",
+   "Story of saint Nicholas",
+   "Tabernacle with Christ and Angels",
+   "Blessing Redeemer",
+   "The Healing of Justinian by Saint Cosmas and Saint Damian",
+   "Madonna dei Cedri",
+   "La Couronne d'épines",
+   "Nativity and Agony in the Garden",
+   "Pierre de Vérone",
+   "Martyre des saints Côme et Damien",
+   "predella of San Pietro Martire Altarpiece",
+   "Story of saint Nicholas (part 2)",
+   "The Saints Cosmas and Damian with their Brothers before the Proconsul Lysias"
+  ],
+  "P101": [
+   "peintre en bâtiment"
+  ],
+  "P136": [
+   "art religieux"
+  ]
+ },
+ "grands-peintres_masaccio": {
+  "qid": "Q5811",
+  "P569": [
+   "1401"
+  ],
+  "P570": [
+   "1428"
+  ],
+  "P135": [
+   "Renaissance italienne"
+  ],
+  "P800": [
+   "Sant'Anna Metterza",
+   "Maestà",
+   "Trinité"
+  ],
+  "P101": [
+   "peinture"
+  ]
+ },
+ "grands-peintres_piero-della-francesca": {
+  "qid": "Q5822",
+  "P569": [
+   "1415",
+   "1416",
+   "1410"
+  ],
+  "P570": [
+   "1492"
+  ],
+  "P135": [
+   "Première Renaissance"
+  ],
+  "P800": [
+   "Madonna di Senigallia",
+   "La Résurrection",
+   "Madonna del Parto",
+   "Portrait de Battista Sforza",
+   "La Bataille du pont Milvius",
+   "Saint Jérôme en méditation",
+   "Cupid",
+   "Ange",
+   "The Prophet Jeremiah",
+   "The Prophet Ezekiel",
+   "Annunciation (St. Anthony)",
+   "Le Baptême du Christ",
+   "La Torture du Juif",
+   "La Flagellation du Christ",
+   "Saint Julien",
+   "La Crucifixion",
+   "The Queen of Sheba",
+   "La Nativité",
+   "Polyptyque de Sant'Antonio",
+   "Vierge et l'Enfant avec quatre anges",
+   "Le Triomphe de la chasteté",
+   "De prospectiva pingendi",
+   "Madonna della Misericordia"
+  ],
+  "P101": [
+   "géométrie",
+   "peinture",
+   "mathématiques"
+  ],
+  "P136": [
+   "peinture"
+  ]
+ },
+ "grands-peintres_andrea-mantegna": {
+  "qid": "Q5681",
+  "P569": [
+   "1431"
+  ],
+  "P570": [
+   "1506"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "Renaissance italienne",
+   "Renaissance"
+  ],
+  "P800": [
+   "Les Triomphes de César",
+   "Saint Marc",
+   "La Mort de la Vierge",
+   "Didon",
+   "Lamentation sur le Christ mort",
+   "Le Parnasse",
+   "La Chambre des Époux",
+   "Camera picta, East Wall",
+   "Central panel of altarpiece of San Zeno",
+   "Saint Bernardin de Sienne et deux anges (Mantegna)",
+   "Monogramme du christe parmi deux saints"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "art religieux",
+   "allégorie",
+   "peinture animalière",
+   "peinture mythologique",
+   "portrait",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_giorgione": {
+  "qid": "Q8459",
+  "P569": [
+   "1478",
+   "1477"
+  ],
+  "P570": [
+   "1510",
+   "1510",
+   "1510"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "Haute Renaissance",
+   "Renaissance",
+   "École vénitienne"
+  ],
+  "P800": [
+   "Laura",
+   "Les Trois Philosophes",
+   "La Tempête",
+   "Autoportrait",
+   "Le portement de croix",
+   "Frieze of the Liberal and Mechanical Arts",
+   "Nude"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "portrait",
+   "paysage",
+   "art religieux",
+   "nu",
+   "peinture religieuse",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_le-tintoret": {
+  "qid": "Q9319",
+  "P569": [
+   "1519",
+   "1518",
+   "1518",
+   "1518"
+  ],
+  "P570": [
+   "1594"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "maniérisme",
+   "École vénitienne"
+  ],
+  "P800": [
+   "Saint Roch en gloire",
+   "La Crucifixion",
+   "Le Lavement des pieds",
+   "Portrait of a White-Bearded Man",
+   "Judith and Holofernes",
+   "Judith and Holofernes",
+   "Le corps de saint Marc ramené à Venise",
+   "Tarquin et Lucrèce",
+   "Adoration of the Magi",
+   "Old Man and a Boy",
+   "Arachne challenges Minerva in a weaving contest",
+   "Diana and Endymion or Venus and Adonis",
+   "Bacchus, Venus and Ariadne",
+   "Mercury and the Graces",
+   "Minerva Sending Away Mars from Peace and Prosperity",
+   "La Cène",
+   "Léda et le Cygne",
+   "Leda and the Swan",
+   "Miracle of Saint Agnes",
+   "Mystic Marriage of St Catherine",
+   "Prayer in the Garden of Gethsemane",
+   "Resurrection and Three Avogadori",
+   "Portrait of an admiral",
+   "Portrait of a man",
+   "St Roch in Prison Visited by an Angel",
+   "Saint Roch heals the animals",
+   "Portrait of the Doge Sebastiano Venier",
+   "The Annunciation",
+   "The Assumption of the Virgin",
+   "Crucifixion",
+   "The Massacre of the Innocents",
+   "The Raising of Lazarus",
+   "The Temptation of St Anthony",
+   "Saint Pierre et la vision de la croix",
+   "La décapitation de saint Paul",
+   "The circumcision",
+   "Venus, Vulcan, and Cupid"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "École vénitienne",
+   "Renaissance",
+   "peinture religieuse",
+   "peinture mythologique",
+   "allégorie"
+  ]
+ },
+ "grands-peintres_paul-veronese": {
+  "qid": "Q9440",
+  "P569": [
+   "1528"
+  ],
+  "P570": [
+   "1588",
+   "1588"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "maniérisme",
+   "École véronaise",
+   "Haute Renaissance",
+   "École vénitienne"
+  ],
+  "P800": [
+   "villa Barbaro",
+   "The Baptism of Christ",
+   "Christ and the Centurion",
+   "Madonna Enthroned with Child, St John the Baptist, St Louis of Toulouse and Donors",
+   "Saints Philip and James the Less",
+   "L'Annonciation",
+   "Annunciation",
+   "Le Baptème du Christ",
+   "Burning bush",
+   "Holy Family with Sts Anthony Abbot, Catherine and the Infant John the Baptist",
+   "L’Adoration des bergers",
+   "Annunciation Veronese",
+   "Assumption by Veronese",
+   "Conquest of Smyrna",
+   "Conversione of San Pantaleone",
+   "Copy after Veronese's 'Feast in the House of Simon'",
+   "Lament over the Dead Christ",
+   "Adoration des Mages",
+   "Le calvaire",
+   "Two holy bishops (Geminianus and Severus?)",
+   "Eliezer et Rebecca",
+   "Female Figure Breaking her Chains",
+   "Jupiter striking down vices",
+   "Ceiling of Anticollegio Room",
+   "Juno and Saturn",
+   "Madonna con Bambino con Santi e donatori",
+   "Mansuetude",
+   "Mars and Neptune",
+   "Moderation",
+   "Prosperity",
+   "Religion and Faith",
+   "Reward",
+   "Saint Agatha crowned by Angels",
+   "Martyrdom of St. James the Less",
+   "Simplicity",
+   "St. Agatha visited in prison by St. Peter",
+   "Supper of Saint Gregorius",
+   "The Punishment of the Forger",
+   "The Triumph of Virtue over Vice",
+   "Les Noces de Cana"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture de portrait",
+   "peinture d'histoire",
+   "allégorie",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_georges-de-la-tour": {
+  "qid": "Q203371",
+  "P569": [
+   "1593"
+  ],
+  "P570": [
+   "1652"
+  ],
+  "P27": [
+   "duché de Lorraine"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "L'Apparition de l'ange à Joseph",
+   "Saint Joseph charpentier",
+   "Le Nouveau-né"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "caravagisme",
+   "scène de genre",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_jean-simeon-chardin": {
+  "qid": "Q207447",
+  "P569": [
+   "1699"
+  ],
+  "P570": [
+   "1779"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Raie",
+   "Le Buffet",
+   "Les attributs de la musique"
+  ],
+  "P101": [
+   "arts visuels"
+  ],
+  "P136": [
+   "nature morte",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_theodore-gericault": {
+  "qid": "Q184212",
+  "P569": [
+   "1791",
+   "1791"
+  ],
+  "P570": [
+   "1824"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Le Radeau de la Méduse",
+   "Portrait d'un cleptomane",
+   "Le Derby d'Epsom",
+   "Tête de cheval blanc"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "grands-peintres_jean-auguste-dominique-ingres": {
+  "qid": "Q23380",
+  "P569": [
+   "1780"
+  ],
+  "P570": [
+   "1867"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme",
+   "néo-classicisme"
+  ],
+  "P800": [
+   "Mademoiselle Caroline Rivière",
+   "La Maladie d'Antiochus",
+   "Vénus Anadyomène",
+   "La Grande Odalisque",
+   "Œdipe explique l'énigme du sphinx",
+   "Le Bain turc",
+   "Jupiter et Thétis",
+   "Louis-François Bertin",
+   "La Source",
+   "Vénus et l'Amour"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture de portrait",
+   "nu",
+   "portrait",
+   "orientalisme"
+  ]
+ },
+ "grands-peintres_camille-corot": {
+  "qid": "Q148475",
+  "P569": [
+   "1796",
+   "1796"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme",
+   "École de Barbizon"
+  ],
+  "P800": [
+   "Le Pont de Narni",
+   "Femme lisant",
+   "Le Chemin de Sèvres. Vue sur Paris",
+   "Le Concert champêtre"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "paysage",
+   "allégorie",
+   "art religieux",
+   "scène de genre",
+   "peinture d'histoire",
+   "marine",
+   "nu",
+   "portrait"
+  ]
+ },
+ "grands-peintres_jean-francois-millet": {
+  "qid": "Q148458",
+  "P569": [
+   "1814"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Des glaneuses",
+   "L'Angélus",
+   "La Mort et le Bûcheron",
+   "La Récolte des pommes de terre",
+   "Bergère avec son troupeau",
+   "Les Porteuses de fagots",
+   "le Semeur",
+   "Un vanneur"
+  ],
+  "P136": [
+   "scène de genre",
+   "paysage"
+  ]
+ },
+ "grands-peintres_alfred-sisley": {
+  "qid": "Q175130",
+  "P569": [
+   "1839"
+  ],
+  "P570": [
+   "1899"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "L'Inondation à Port-Marly",
+   "Le Chemin de la Machine, Louveciennes",
+   "La Place du Chenil à Marly, effet de neige"
+  ],
+  "P101": [
+   "arts visuels",
+   "impressionnisme"
+  ],
+  "P136": [
+   "paysage",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_gustave-caillebotte": {
+  "qid": "Q295144",
+  "P569": [
+   "1848"
+  ],
+  "P570": [
+   "1894"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Rue de Paris, temps de pluie",
+   "Les Raboteurs de parquet",
+   "Vue de toits"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture animalière",
+   "nature morte",
+   "scène de genre",
+   "paysage",
+   "nu",
+   "paysage urbain"
+  ]
+ },
+ "grands-peintres_mary-cassatt": {
+  "qid": "Q173223",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1926"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Le Bain",
+   "Petite Fille dans un fauteuil bleu",
+   "Femme dans une loge",
+   "La Tasse de thé",
+   "Promenade en barque"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "scène de genre",
+   "paysage",
+   "représentation figurée"
+  ]
+ },
+ "grands-peintres_paul-signac": {
+  "qid": "Q151573",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "pointillisme"
+  ],
+  "P800": [
+   "Deux stylistes, Rue du Caire",
+   "Golfe Juan",
+   "Les Démolisseurs"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "représentation figurée",
+   "paysage",
+   "paysage urbain",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_henri-rousseau": {
+  "qid": "Q156386",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1910",
+   "1910",
+   "1919"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "primitivisme",
+   "art naïf"
+  ],
+  "P800": [
+   "Le Rêve",
+   "Surpris !",
+   "Moi-même",
+   "La Bohémienne endormie",
+   "La Charmeuse de serpents"
+  ],
+  "P101": [
+   "peinture",
+   "naïve painting"
+  ],
+  "P136": [
+   "paysage",
+   "peinture de personnage",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_odilon-redon": {
+  "qid": "Q154349",
+  "P569": [
+   "1840",
+   "1840"
+  ],
+  "P570": [
+   "1916"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "La Naissance de Vénus",
+   "Les Yeux clos",
+   "Le Cyclope"
+  ],
+  "P101": [
+   "peinture",
+   "graphique",
+   "estampe"
+  ],
+  "P136": [
+   "scène de genre",
+   "allégorie",
+   "peinture d'histoire",
+   "paysage",
+   "portrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_james-abbott-mcneill-whistler": {
+  "qid": "Q203643",
+  "P569": [
+   "1834"
+  ],
+  "P570": [
+   "1903"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "esthétisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "Nocturne en bleu et or - le Vieux Pont de Battersea",
+   "Nuit en noir et or, la fusée qui retombe",
+   "Arrangement en gris et noir n°1",
+   "la Chambre du paon"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "portrait",
+   "peinture d'architecture",
+   "peinture d'histoire",
+   "paysage",
+   "nu",
+   "marine"
+  ]
+ },
+ "grands-peintres_john-singer-sargent": {
+  "qid": "Q155626",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1925",
+   "1925"
+  ],
+  "P27": [
+   "États-Unis",
+   "royaume d'Italie"
+  ],
+  "P135": [
+   "impressionnisme"
+  ],
+  "P800": [
+   "Madame X",
+   "El Jaleo",
+   "Les Filles d'Edward Darley Boit",
+   "Œillet, Lys, Lys, Rose",
+   "Gazés",
+   "Les Demoiselles Vickers",
+   "Rue à Venise",
+   "Portrait de Lady Agnew of Lochnaw",
+   "Cashmere",
+   "Les Sœurs Wyndham"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "portrait",
+   "paysage"
+  ]
+ },
+ "grands-peintres_winslow-homer": {
+  "qid": "Q344838",
+  "P569": [
+   "1836"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Two Girls with Sunbonnets in a Field",
+   "Man With A Scythe",
+   "Corn Husking",
+   "The Morning Bell",
+   "Boy and Girl in a Field with Sheep",
+   "Sandy Beach with Breakers",
+   "Dans le hamac",
+   "Farmyard with Ducks and Chickens",
+   "The Butterfly",
+   "The Yellow Jacket",
+   "The Watermelon Boys",
+   "The Bean Picker",
+   "Man with a Knapsack",
+   "Robert Junkins' Garrison House, York, Maine",
+   "Autumn Tree Tops",
+   "Mountain Wagon",
+   "A Country Lad",
+   "Gathering Autumn Leaves"
+  ],
+  "P101": [
+   "dessin"
+  ],
+  "P136": [
+   "marine",
+   "réalisme américain",
+   "scène de genre",
+   "portrait"
+  ]
+ },
+ "grands-peintres_ilia-repine": {
+  "qid": "Q172911",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1930",
+   "1930"
+  ],
+  "P27": [
+   "Empire russe",
+   "apatride"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Les Bateliers de la Volga",
+   "Procession religieuse dans la province de Koursk",
+   "Les Cosaques zaporogues écrivant une lettre au sultan de Turquie",
+   "Session protocolaire du Conseil d’État"
+  ],
+  "P101": [
+   "peinture",
+   "réalisme"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "portrait",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_ivan-aivazovski": {
+  "qid": "Q181568",
+  "P569": [
+   "1817",
+   "1817"
+  ],
+  "P570": [
+   "1900"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "La Neuvième Vague",
+   "Le Brick « Mercure » attaqué par deux navires turcs",
+   "Nuit à Rhodes"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "marine"
+  ],
+  "P136": [
+   "marine",
+   "paysage",
+   "art militaire",
+   "représentation figurée",
+   "scène de genre",
+   "peinture d'histoire",
+   "portrait",
+   "peinture religieuse",
+   "peinture mythologique",
+   "romantisme"
+  ]
+ },
+ "grands-peintres_joaquin-sorolla": {
+  "qid": "Q351746",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1923"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "réalisme social",
+   "naturalisme",
+   "impressionnisme"
+  ],
+  "P800": [
+   "Triste héritage",
+   "Traite des Blanches",
+   "Chapelle du domaine de Láchar",
+   "La Couture de la voile"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "grands-peintres_kasimir-malevitch": {
+  "qid": "Q130777",
+  "P569": [
+   "1879",
+   "1879"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P135": [
+   "suprématisme",
+   "avant-garde russe",
+   "constructivisme"
+  ],
+  "P800": [
+   "Carré noir sur fond blanc",
+   "Composition suprématiste",
+   "Carré blanc sur fond blanc",
+   "Un Anglais à Moscou",
+   "Le Rémouleur"
+  ],
+  "P101": [
+   "avant-garde",
+   "visual art activity",
+   "histoire de l'art",
+   "suprématisme",
+   "arts visuels",
+   "art abstrait"
+  ],
+  "P136": [
+   "scénographie",
+   "peinture",
+   "art abstrait",
+   "nature morte",
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_giorgio-de-chirico": {
+  "qid": "Q156622",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1978",
+   "1978"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P135": [
+   "peinture métaphysique"
+  ],
+  "P800": [
+   "Chant d'amour",
+   "L'Incertitude du poète",
+   "Mystère et mélancolie d'une rue"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture métaphysique",
+   "allégorie",
+   "paysage",
+   "nu",
+   "peinture mythologique",
+   "art abstrait",
+   "peinture animalière",
+   "portrait",
+   "nature morte",
+   "paysage urbain"
+  ]
+ },
+ "grands-peintres_max-ernst": {
+  "qid": "Q154842",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1976",
+   "1976"
+  ],
+  "P27": [
+   "Cuba",
+   "États-Unis",
+   "France",
+   "Allemagne"
+  ],
+  "P135": [
+   "Dada",
+   "surréalisme"
+  ],
+  "P800": [
+   "L'Éléphant de Célèbes",
+   "C'est le chapeau qui fait l'Homme",
+   "La Mariée mise à nu"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture",
+   "Dripping",
+   "frottage",
+   "collage"
+  ],
+  "P136": [
+   "portrait",
+   "paysage",
+   "art animalier",
+   "représentation figurée",
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_otto-dix": {
+  "qid": "Q153104",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P135": [
+   "expressionnisme",
+   "Nouvelle Objectivité"
+  ],
+  "P800": [
+   "Grande Ville",
+   "Les Joueurs de skat",
+   "La Guerre"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "portrait",
+   "paysage",
+   "peinture de portrait",
+   "scène de genre",
+   "nu",
+   "représentation figurée",
+   "nature morte",
+   "art religieux",
+   "peinture mythologique",
+   "allégorie",
+   "peinture animalière"
+  ]
+ },
+ "grands-peintres_fernand-leger": {
+  "qid": "Q157183",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "cubisme",
+   "modernisme"
+  ],
+  "P800": [
+   "Composition aux trois figures",
+   "Le Réveille-matin",
+   "Les Constructeurs, état définitif"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture",
+   "cinéma"
+  ],
+  "P136": [
+   "portrait",
+   "peinture de personnage",
+   "paysage",
+   "peinture religieuse",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_robert-delaunay": {
+  "qid": "Q33978",
+  "P569": [
+   "1885"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Orphisme",
+   "Simultanéisme",
+   "néo-impressionnisme"
+  ],
+  "P800": [
+   "Disque simultané",
+   "Tour Eiffel aux arbres",
+   "Hommage à Blériot"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "art abstrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_sonia-delaunay": {
+  "qid": "Q232972",
+  "P569": [
+   "1885",
+   "1885"
+  ],
+  "P570": [
+   "1979",
+   "1979"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P135": [
+   "Orphisme",
+   "Simultanéisme"
+  ],
+  "P136": [
+   "paysage",
+   "art abstrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_hilma-af-klint": {
+  "qid": "Q436267",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P135": [
+   "art abstrait"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art abstrait",
+   "allégorie",
+   "paysage",
+   "peinture animalière",
+   "portrait",
+   "nu"
+  ]
+ },
+ "grands-peintres_alfons-mucha": {
+  "qid": "Q146691",
+  "P569": [
+   "1860",
+   "1860"
+  ],
+  "P570": [
+   "1939",
+   "1939"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Autriche-Hongrie",
+   "Première République tchécoslovaque",
+   "Deuxième République tchécoslovaque",
+   "Troisième Reich",
+   "Tchécoslovaquie"
+  ],
+  "P135": [
+   "Art nouveau",
+   "symbolisme"
+  ],
+  "P800": [
+   "L'Épopée slave",
+   "château de Prague"
+  ]
+ },
+ "grands-peintres_grant-wood": {
+  "qid": "Q217434",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1942",
+   "1942"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "régionalisme"
+  ],
+  "P800": [
+   "American Gothic",
+   "Filles de la Révolution"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "représentation figurée",
+   "paysage",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_nicolas-de-stael": {
+  "qid": "Q470551",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P800": [
+   "La Vie dure",
+   "De la danse",
+   "Fleurs",
+   "Le Parc des Princes",
+   "Rue Gauguet",
+   "Les Footballeurs"
+  ],
+  "P136": [
+   "art abstrait",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_pierre-soulages": {
+  "qid": "Q708631",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "art informel",
+   "art abstrait",
+   "École de Paris"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ]
+ },
+ "grands-peintres_yves-klein": {
+  "qid": "Q154335",
+  "P569": [
+   "1928",
+   "1928"
+  ],
+  "P570": [
+   "1962"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Nouveau réalisme"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture"
+  ],
+  "P136": [
+   "art conceptuel",
+   "art figuratif",
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_roy-lichtenstein": {
+  "qid": "Q151679",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "1997",
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "pop art"
+  ],
+  "P800": [
+   "Jeune fille au ballon",
+   "Girl with Hair Ribbon",
+   "Takka Takka",
+   "Look Mickey",
+   "Blam",
+   "Engagement Ring",
+   "Ten Dollar Bill",
+   "Electric Cord",
+   "I Can See the Whole Room... and There's Nobody in It!",
+   "Times Square Mural"
+  ],
+  "P136": [
+   "nature morte"
+  ]
+ },
+ "grands-peintres_willem-de-kooning": {
+  "qid": "Q132305",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume des Pays-Bas"
+  ],
+  "P135": [
+   "expressionnisme abstrait",
+   "action painting"
+  ],
+  "P800": [
+   "Woman III",
+   "Woman I",
+   "Seated Woman on a Bench"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "paysage",
+   "art abstrait",
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_jean-dubuffet": {
+  "qid": "Q170076",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "art brut",
+   "art informel"
+  ],
+  "P800": [
+   "Le Bel costumé",
+   "tour aux figures",
+   "Monument à la bête debout",
+   "jardin d'émail"
+  ],
+  "P101": [
+   "sculpture",
+   "arts visuels",
+   "peinture",
+   "philosophie"
+  ],
+  "P136": [
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_gerhard-richter": {
+  "qid": "Q164351",
+  "P569": [
+   "1932"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P135": [
+   "capitalist realism"
+  ],
+  "P800": [
+   "Vitrail de Richter",
+   "48 Portraits",
+   "Candle (Kerze)"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art abstrait",
+   "installation",
+   "portrait",
+   "peinture animalière",
+   "paysage",
+   "scène de genre",
+   "marine",
+   "nature morte",
+   "paysage urbain"
+  ]
+ },
+ "grands-peintres_anselm-kiefer": {
+  "qid": "Q170344",
+  "P569": [
+   "1945"
+  ],
+  "P27": [
+   "Allemagne",
+   "Autriche",
+   "France"
+  ],
+  "P135": [
+   "néo-expressionnisme"
+  ],
+  "P800": [
+   "Ahtanor"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture",
+   "photographie"
+  ],
+  "P136": [
+   "paysage",
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_yayoi-kusama": {
+  "qid": "Q231121",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "2026",
+   "2026"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "art abstrait",
+   "art contemporain",
+   "art féministe",
+   "pop art"
+  ],
+  "P800": [
+   "A Message of Love, Directly from My Heart unto the Universe"
+  ],
+  "P101": [
+   "sculpture",
+   "ukiyo-e",
+   "arts visuels",
+   "art conceptuel",
+   "œuvre d'art performance",
+   "installation",
+   "expressionnisme abstrait",
+   "pop art",
+   "art brut",
+   "art vidéo",
+   "stylisme",
+   "avant-garde"
+  ],
+  "P136": [
+   "art abstrait",
+   "installation",
+   "art public"
+  ]
+ },
+ "grands-peintres_takashi-murakami": {
+  "qid": "Q352437",
+  "P569": [
+   "1962",
+   "1962"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "Superflat",
+   "PopArt - The Videos",
+   "pop art"
+  ],
+  "P800": [
+   "My Lonesome Cowboy",
+   "Super nova",
+   "Hiropon"
+  ],
+  "P101": [
+   "sculpture",
+   "peinture",
+   "art"
+  ],
+  "P136": [
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_zao-wou-ki": {
+  "qid": "Q147144",
+  "P569": [
+   "1920",
+   "1920",
+   "1921"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "France",
+   "république de Chine",
+   "Taïwan"
+  ],
+  "P135": [
+   "Q65052354"
+  ],
+  "P800": [
+   "Avril-Septembre 1987"
+  ]
+ },
+ "grands-peintres_emanuel-leutze": {
+  "qid": "Q452321",
+  "P569": [
+   "1816"
+  ],
+  "P570": [
+   "1868"
+  ],
+  "P27": [
+   "royaume du Wurtemberg",
+   "États-Unis"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Washington Crossing the Delaware",
+   "Westward the Course of Empire Takes Its Way",
+   "Mrs. Schuyler Burning Her Wheat Fields on the Approach of the British",
+   "Washington Rallying the Troops at Monmouth"
+  ],
+  "P101": [
+   "peinture d'histoire",
+   "arts visuels"
+  ],
+  "P136": [
+   "peinture d'histoire"
+  ]
+ },
+ "grands-peintres_giuseppe-arcimboldo": {
+  "qid": "Q7751",
+  "P569": [
+   "1527"
+  ],
+  "P570": [
+   "1593"
+  ],
+  "P27": [
+   "duché de Milan"
+  ],
+  "P135": [
+   "maniérisme"
+  ],
+  "P800": [
+   "Le Juriste",
+   "Les Quatre Saisons",
+   "Vertumne",
+   "Portraits of the Archduchesses",
+   "Le Printemps"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "nature morte",
+   "peinture de portrait",
+   "allégorie",
+   "peinture animalière",
+   "représentation figurée",
+   "art religieux",
+   "portrait"
+  ]
+ },
+ "grands-peintres_canaletto": {
+  "qid": "Q182664",
+  "P569": [
+   "1697",
+   "1697",
+   "1697",
+   "1697"
+  ],
+  "P570": [
+   "1768",
+   "1768",
+   "1768",
+   "1768"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "rococo"
+  ],
+  "P800": [
+   "Vue du Grand Canal",
+   "The Earl of Leicester and Trustees of the Holkham Estate"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "veduta",
+   "paysage"
+  ]
+ },
+ "grands-peintres_cimabue": {
+  "qid": "Q15790",
+  "P569": [
+   "1240"
+  ],
+  "P570": [
+   "1302"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Trecento"
+  ],
+  "P800": [
+   "Maestà di Santa Trinita",
+   "Maestà di Santa Maria dei Servi",
+   "Saint François d'Assise"
+  ],
+  "P101": [
+   "peinture",
+   "mosaïque",
+   "fresque"
+  ]
+ },
+ "grands-peintres_paolo-uccello": {
+  "qid": "Q192488",
+  "P569": [
+   "1397",
+   "1397"
+  ],
+  "P570": [
+   "1475"
+  ],
+  "P135": [
+   "Renaissance",
+   "Première Renaissance"
+  ],
+  "P800": [
+   "La Bataille de San Romano",
+   "monument équestre de Jean Haccoude",
+   "Saint Georges et le Dragon",
+   "La Chasse de nuit",
+   "Madonna Martello",
+   "Beccuto Madonna",
+   "Création et péché originel",
+   "Crucifixion of Christ",
+   "L'Annonciation",
+   "Portrait d'un jeune homme",
+   "Adoration des mages",
+   "Painting of Jacopone da Todi",
+   "Saint and Two Children, Fragment",
+   "Adoration of the Child with Saints Jerome, Mary Magdalene, Eustace and Julian",
+   "L'Arche de Noé",
+   "L'Adoration de l'Enfant",
+   "horloge de Santa Maria del Fiore",
+   "Résurrection",
+   "Nativité",
+   "Vierge à l'Enfant",
+   "Q31048051",
+   "Q3974449",
+   "Crucifixion",
+   "La Thébaïde",
+   "Pala del corpus domini",
+   "Avane Predella",
+   "Sinopias in the Chapel of Assumption"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire"
+  ]
+ },
+ "grands-peintres_le-correge": {
+  "qid": "Q8457",
+  "P569": [
+   "1489",
+   "1489"
+  ],
+  "P570": [
+   "1534"
+  ],
+  "P27": [
+   "Signoria di Correggio"
+  ],
+  "P135": [
+   "Renaissance"
+  ],
+  "P800": [
+   "Jupiter et Io",
+   "L'Assomption de la Vierge",
+   "L'Enlèvement de Ganymède",
+   "Jeune homme fuyant la capture du Christ",
+   "Christ the Redeemer",
+   "Scènes allégoriques",
+   "The Annunciation"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "allégorie",
+   "paysage",
+   "nu",
+   "peinture de portrait",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_giambattista-tiepolo": {
+  "qid": "Q186202",
+  "P569": [
+   "1696"
+  ],
+  "P570": [
+   "1770"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "rococo",
+   "baroque"
+  ],
+  "P800": [
+   "Fresque au plafond de l'escalier de la résidence de Würzburg",
+   "Apotheosis of Angelo della Vecchia",
+   "Apotheosis of Saint Gaetano Thieme",
+   "Scipio Africanus Freeing Massiva",
+   "Alexandre le Grand et Campaspe à l'atelier d'Apelle",
+   "An Allegory with Venus and Time",
+   "The Patron Saints of the Crotta Family",
+   "Hagar and Ishmael in the Desert",
+   "Joseph receiving Pharaoh's Ring",
+   "Madonna of the Goldfinch",
+   "Madonna of the Goldfinch",
+   "The Virgin Appearing to Dominican Saints",
+   "The Chariot of Aurora",
+   "The Glorification of the Barbaro Family",
+   "Adoration of the Magi etching",
+   "Galleria of the Tiepolo",
+   "Sala rossa",
+   "Scherzi di Fantasia",
+   "Zephir and Flora"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "fresque",
+   "peinture religieuse",
+   "allégorie",
+   "art animalier",
+   "scène de genre",
+   "paysage",
+   "peinture mythologique",
+   "capriccio",
+   "portrait",
+   "caricature"
+  ]
+ },
+ "grands-peintres_lucas-cranach-l-ancien": {
+  "qid": "Q191748",
+  "P569": [
+   "1472",
+   "1472"
+  ],
+  "P570": [
+   "1553",
+   "1553"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique",
+   "Allemagne"
+  ],
+  "P135": [
+   "Renaissance allemande"
+  ],
+  "P800": [
+   "Portrait d'Henri IV de Saxe et de Catherine de Mecklembourg",
+   "Vierge du Bon-Secours",
+   "Les Trois Grâces",
+   "Jean V d'Anhalt-Dessau",
+   "Fontaine de jouvence",
+   "Portraits de Johannes et Anna Cuspinian",
+   "Portrait of a clean-shaven young man"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "nu",
+   "peinture religieuse",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_hans-memling": {
+  "qid": "Q106851",
+  "P569": [
+   "1435",
+   "1435",
+   "1433",
+   "1430"
+  ],
+  "P570": [
+   "1494"
+  ],
+  "P27": [
+   "Pays-Bas des Habsbourg",
+   "Allemagne"
+  ],
+  "P135": [
+   "Primitifs flamands"
+  ],
+  "P800": [
+   "Le Mariage mystique de sainte Catherine (Hans Memling)",
+   "Avènement et Triomphe du Christ",
+   "Le Jugement dernier",
+   "Triptyque Greverade",
+   "Diptyque de Maarten van Nieuwenhove",
+   "saint Jean-Baptiste et sainte Véronique",
+   "Diptyque de Tommaso Portinari et de sa femme",
+   "Maître de l'Adoration des mages du Prado",
+   "Portrait d'un homme",
+   "Portrait d'un homme âgé",
+   "Portrait d'un homme de la famille Lespinette",
+   "Portrait d'une femme âgée",
+   "Portrait de Gilles Joye",
+   "Portrait de Jacob Obrecht",
+   "Portrait de l'homme au bonnet rouge",
+   "Portraits de deux donateurs",
+   "Portraits de deux personnes âgées",
+   "Retable de Santa María la Real de Nájera",
+   "Scènes de la Passion du Christ",
+   "Triptyque avec le repos pendant la fuite en Égypte",
+   "Triptyque de Jan Crabbe",
+   "Triptyque de l'Adoration des mages",
+   "Triptyque Donne",
+   "Triptyque Moreel",
+   "Vierge à l'Enfant avec saint Antoine et un donateur",
+   "La Vierge à l'Enfant entre saint Jacques et saint Dominique"
+  ]
+ },
+ "grands-peintres_rogier-van-der-weyden": {
+  "qid": "Q68631",
+  "P569": [
+   "1390",
+   "1399",
+   "1399"
+  ],
+  "P570": [
+   "1464",
+   "1464"
+  ],
+  "P27": [
+   "Pays-Bas bourguignons"
+  ],
+  "P135": [
+   "Primitifs flamands"
+  ],
+  "P800": [
+   "Triptyque de la famille Braque",
+   "Saint Luc dessinant la Vierge",
+   "Retable de Miraflores",
+   "La Descente de Croix",
+   "Triptyque de Mérode",
+   "Triptyque de l'Annonciation",
+   "retable Bladelin",
+   "Columba triptyque",
+   "Madone des Médicis"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture religieuse",
+   "portrait",
+   "nature morte",
+   "peinture d'histoire"
+  ]
+ },
+ "grands-peintres_jan-steen": {
+  "qid": "Q205863",
+  "P569": [
+   "1626"
+  ],
+  "P570": [
+   "1679"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P135": [
+   "âge d'or de la peinture néerlandaise"
+  ],
+  "P800": [
+   "Le vin est moqueur",
+   "La Mangeuse d'huîtres",
+   "La Fête de la Saint-Nicolas"
+  ],
+  "P136": [
+   "scène de genre",
+   "peinture d'histoire",
+   "paysage",
+   "portrait",
+   "autoportrait"
+  ]
+ },
+ "grands-peintres_bartolome-esteban-murillo": {
+  "qid": "Q192062",
+  "P569": [
+   "1617",
+   "1617",
+   "1618",
+   "1617"
+  ],
+  "P570": [
+   "1682",
+   "1682",
+   "1682"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "peinture baroque"
+  ],
+  "P800": [
+   "Flight into Egypt"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture religieuse",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_jose-de-ribera": {
+  "qid": "Q297838",
+  "P569": [
+   "1591",
+   "1588"
+  ],
+  "P570": [
+   "1652",
+   "1652",
+   "1656"
+  ],
+  "P27": [
+   "couronne d'Aragon"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "Saint Barthélemy",
+   "Le Philosophe au miroir",
+   "La Communion des Apôtres",
+   "Prophets and Patriarchs",
+   "Saint André",
+   "Saint Francis receives the Seven Privileges from the Angel"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art religieux",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_claude-gellee": {
+  "qid": "Q214074",
+  "P569": [
+   "1600"
+  ],
+  "P570": [
+   "1682"
+  ],
+  "P27": [
+   "duché de Lorraine"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "La Fête villageoise",
+   "Port avec l'embarquement de sainte Ursule",
+   "Paysage avec Moïse sauvé des eaux du Nil",
+   "Port de mer au soleil couchant",
+   "Liber Veritatis"
+  ],
+  "P136": [
+   "paysage"
+  ]
+ },
+ "grands-peintres_francois-boucher": {
+  "qid": "Q180932",
+  "P569": [
+   "1703"
+  ],
+  "P570": [
+   "1770"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "rococo"
+  ],
+  "P800": [
+   "Jeune fille allongée",
+   "Madame de Pompadour",
+   "La Naissance de Vénus",
+   "Madame Bergeret"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture religieuse",
+   "allégorie",
+   "paysage",
+   "peinture mythologique",
+   "peinture animalière",
+   "scène de genre",
+   "portrait",
+   "art militaire"
+  ]
+ },
+ "grands-peintres_elisabeth-vigee-le-brun": {
+  "qid": "Q213163",
+  "P569": [
+   "1755",
+   "1755"
+  ],
+  "P570": [
+   "1842",
+   "1842",
+   "1842"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "rococo",
+   "néo-classicisme"
+  ],
+  "P800": [
+   "Marie-Antoinette dit « à la Rose »",
+   "Marie-Antoinette de Lorraine-Habsbourg, reine de France et ses enfants",
+   "Portrait de la baronne de Crussol"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "portrait",
+   "paysage"
+  ]
+ },
+ "grands-peintres_thomas-gainsborough": {
+  "qid": "Q192720",
+  "P569": [
+   "1727"
+  ],
+  "P570": [
+   "1788"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "rococo",
+   "Peinture anglaise"
+  ],
+  "P800": [
+   "Sir George Chad, Baronet of Thursford",
+   "Sarah Rowlls Chad",
+   "Les Époux Andrews"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "paysage",
+   "portrait"
+  ]
+ },
+ "grands-peintres_joshua-reynolds": {
+  "qid": "Q194402",
+  "P569": [
+   "1723",
+   "1723"
+  ],
+  "P570": [
+   "1792",
+   "1792"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P135": [
+   "néo-classicisme"
+  ],
+  "P800": [
+   "Captain Arthur Blake"
+  ],
+  "P101": [
+   "portrait"
+  ],
+  "P136": [
+   "portrait",
+   "allégorie",
+   "scène de genre",
+   "peinture d'histoire",
+   "peinture mythologique",
+   "autoportrait",
+   "art chrétien"
+  ]
+ },
+ "grands-peintres_william-hogarth": {
+  "qid": "Q171344",
+  "P569": [
+   "1697"
+  ],
+  "P570": [
+   "1764",
+   "1764"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Les Enfants Graham",
+   "Mariage à la mode 2 : le tête-à-tête",
+   "La Marchande de crevettes",
+   "Satire on False Perspective",
+   "La Carrière d'un libertin"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "graphique"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "portrait",
+   "caricature",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_dante-gabriel-rossetti": {
+  "qid": "Q186748",
+  "P569": [
+   "1828"
+  ],
+  "P570": [
+   "1882"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "préraphaélisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "Ecce Ancilla Domini",
+   "Beata Beatrix",
+   "Le Rêve de Dante"
+  ],
+  "P136": [
+   "portrait",
+   "peinture arthurienne",
+   "art figuratif",
+   "allégorie",
+   "peinture religieuse"
+  ]
+ },
+ "grands-peintres_john-william-waterhouse": {
+  "qid": "Q212754",
+  "P569": [
+   "1849"
+  ],
+  "P570": [
+   "1917"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "préraphaélisme",
+   "mouvement néo-pompéien",
+   "impressionnisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "The Lady of Shalott",
+   "Circé présentant la coupe à Ulysse",
+   "Gather Ye Rosebuds While Ye May",
+   "Le Sommeil et son demi-frère la Mort",
+   "Ophélie",
+   "Hylas et les nymphes"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "grands-peintres_john-everett-millais": {
+  "qid": "Q159606",
+  "P569": [
+   "1829"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "préraphaélisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "Ophélie",
+   "Le Christ dans la maison de ses parents",
+   "Isabella",
+   "Feuilles d'automne",
+   "Mariana",
+   "L'Ordre d'élargissement",
+   "La Vallée du repos",
+   "Le Hussard noir de Brunswick"
+  ],
+  "P101": [
+   "peinture",
+   "illustration",
+   "estampe"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "peinture de portrait",
+   "portrait",
+   "allégorie",
+   "art animalier",
+   "représentation figurée",
+   "scène de genre",
+   "paysage",
+   "peinture mythologique",
+   "autoportrait",
+   "art religieux"
+  ]
+ },
+ "grands-peintres_arnold-bocklin": {
+  "qid": "Q123071",
+  "P569": [
+   "1827"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "Faune et le merle",
+   "Autoportrait avec la Mort jouant du violon",
+   "L'Île des morts"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "paysage",
+   "portrait"
+  ]
+ },
+ "grands-peintres_william-bouguereau": {
+  "qid": "Q483992",
+  "P569": [
+   "1825"
+  ],
+  "P570": [
+   "1905"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "académisme",
+   "École de Pont-Aven"
+  ],
+  "P800": [
+   "La Naissance de Vénus",
+   "Dante et Virgille en Enfer",
+   "Nymphes et Satyre",
+   "Pastourelle",
+   "Premier Deuil",
+   "La Sœur aînée",
+   "L'Amour et Psyché, enfants",
+   "Le Printemps",
+   "La Danse"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture de personnage",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_honore-daumier": {
+  "qid": "Q187506",
+  "P569": [
+   "1808"
+  ],
+  "P570": [
+   "1879"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Le Wagon de troisième classe",
+   "Le Mélodrame",
+   "Les Joueurs d'échecs",
+   "La Blanchisseuse",
+   "Don Quichotte et Sancho Pansa"
+  ],
+  "P101": [
+   "estampe"
+  ],
+  "P136": [
+   "caricature",
+   "représentation figurée"
+  ]
+ },
+ "grands-peintres_gustave-dore": {
+  "qid": "Q6682",
+  "P569": [
+   "1832"
+  ],
+  "P570": [
+   "1883"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme",
+   "symbolisme",
+   "Âge d'or de l'illustration"
+  ],
+  "P800": [
+   "Andromède",
+   "L'Énigme",
+   "Les Saltimbanques"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "graphique",
+   "art du dessin",
+   "littérature pour jeunes adultes"
+  ],
+  "P136": [
+   "peinture d'histoire",
+   "allégorie",
+   "art religieux",
+   "représentation figurée",
+   "caricature",
+   "portrait"
+  ]
+ },
+ "grands-peintres_rosa-bonheur": {
+  "qid": "Q241732",
+  "P569": [
+   "1822"
+  ],
+  "P570": [
+   "1899"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "naturalisme",
+   "réalisme"
+  ],
+  "P800": [
+   "Labourage nivernais",
+   "Cheval gris au vert",
+   "Dix études de bélier",
+   "Le Marché aux chevaux"
+  ],
+  "P136": [
+   "art animalier"
+  ]
+ },
+ "grands-peintres_pierre-bonnard": {
+  "qid": "Q26408",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1947"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Les Nabis"
+  ],
+  "P800": [
+   "Nu à contre-jour",
+   "Salle à manger à la campagne"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "paysage",
+   "scène de genre",
+   "nu",
+   "portrait"
+  ]
+ },
+ "grands-peintres_raoul-dufy": {
+  "qid": "Q45205",
+  "P569": [
+   "1877"
+  ],
+  "P570": [
+   "1953",
+   "1953"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "fauvisme"
+  ],
+  "P800": [
+   "La Fée Électricité"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "grands-peintres_tamara-de-lempicka": {
+  "qid": "Q229351",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "Empire russe",
+   "Pologne"
+  ],
+  "P135": [
+   "Art déco"
+  ],
+  "P800": [
+   "La Belle Rafaëla",
+   "Portrait de la duchesse de La Salle",
+   "Tamara en Bugatti verte"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "nature morte",
+   "nu"
+  ]
+ },
+ "grands-peintres_marcel-duchamp": {
+  "qid": "Q5912",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "France",
+   "États-Unis"
+  ],
+  "P135": [
+   "Dada",
+   "surréalisme",
+   "art conceptuel"
+  ],
+  "P800": [
+   "Étant donnés",
+   "L.H.O.O.Q.",
+   "Nu descendant un escalier"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture"
+  ],
+  "P136": [
+   "peinture",
+   "ready-made",
+   "sculpture",
+   "photographie",
+   "art conceptuel",
+   "art figuratif"
+  ]
+ },
+ "grands-peintres_juan-gris": {
+  "qid": "Q151152",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1927"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "cubisme"
+  ],
+  "P800": [
+   "Carafe et livre",
+   "Portrait de Pablo Picasso",
+   "La Bouteille d'anis",
+   "Le Tapis bleu"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "sculpture",
+   "cubisme"
+  ],
+  "P136": [
+   "cubisme analytique",
+   "nature morte",
+   "art abstrait",
+   "art figuratif",
+   "portrait"
+  ]
+ },
+ "grands-peintres_balthus": {
+  "qid": "Q325925",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "France",
+   "Pologne"
+  ],
+  "P135": [
+   "surréalisme",
+   "Nouvelle Objectivité"
+  ],
+  "P101": [
+   "peinture",
+   "art érotique"
+  ],
+  "P136": [
+   "paysage",
+   "nature morte",
+   "portrait"
+  ]
+ },
+ "grands-peintres_victor-vasarely": {
+  "qid": "Q154448",
+  "P569": [
+   "1906",
+   "1908",
+   "1906"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Hongrie",
+   "France"
+  ],
+  "P135": [
+   "pop art",
+   "op art"
+  ],
+  "P101": [
+   "art"
+  ],
+  "P136": [
+   "art abstrait",
+   "art cinétique"
+  ]
+ },
+ "grands-peintres_chaim-soutine": {
+  "qid": "Q160141",
+  "P569": [
+   "1893"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P135": [
+   "expressionnisme"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "paysage"
+  ]
+ },
+ "grands-peintres_suzanne-valadon": {
+  "qid": "Q156889",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "postimpressionnisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "Le Lancement du filet",
+   "La Chambre bleue"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "nature morte",
+   "portrait",
+   "nu",
+   "paysage"
+  ]
+ },
+ "grands-peintres_franz-marc": {
+  "qid": "Q44054",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1916"
+  ],
+  "P27": [
+   "royaume de Bavière"
+  ],
+  "P135": [
+   "expressionnisme"
+  ],
+  "P800": [
+   "La Tour des chevaux bleus",
+   "Destins d'animaux",
+   "Le Renard bleu-noir",
+   "Cheval bleu I"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "peinture animalière",
+   "art abstrait",
+   "scène de genre",
+   "paysage",
+   "nature morte",
+   "nu"
+  ]
+ },
+ "grands-peintres_ernst-ludwig-kirchner": {
+  "qid": "Q229272",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "Reich allemand"
+  ],
+  "P135": [
+   "expressionnisme",
+   "Expressionnisme"
+  ],
+  "P800": [
+   "Cinq femmes dans la rue",
+   "Scène de rue à Berlin",
+   "Marzella",
+   "Lehrer Florian Bätschi mit Schulkindern",
+   "Demi nu féminin avec chapeau",
+   "La Rue",
+   "Scène de rue à Berlin (Kirchner)",
+   "Potsdamer Platz",
+   "Pont sur le Rhin à Cologne",
+   "Cuisine d'un chalet d'alpage",
+   "Tinzenhorn, Zügenschlucht près de Monstein",
+   "Le Pont près de Wiesen",
+   "Archers",
+   "Flock of sheep",
+   "Tramway and train",
+   "Artillerymen in the Shower",
+   "Cavalière"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels"
+  ],
+  "P136": [
+   "portrait",
+   "paysage",
+   "scène de genre",
+   "nu",
+   "peinture animalière",
+   "nature morte"
+  ]
+ },
+ "grands-peintres_oskar-kokoschka": {
+  "qid": "Q154260",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "Autriche",
+   "Cisleithanie",
+   "Pakistan",
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Tchécoslovaquie"
+  ],
+  "P135": [
+   "expressionnisme"
+  ],
+  "P800": [
+   "Prométhée",
+   "La fiancée du vent",
+   "Autoportrait d'un artiste dégénéré"
+  ],
+  "P101": [
+   "peinture",
+   "arts visuels",
+   "littérature",
+   "théâtre"
+  ],
+  "P136": [
+   "paysage"
+  ]
+ },
+ "grands-peintres_emil-nolde": {
+  "qid": "Q152788",
+  "P569": [
+   "1867",
+   "1867"
+  ],
+  "P570": [
+   "1956",
+   "1956"
+  ],
+  "P27": [
+   "Allemagne",
+   "Royaume de Danemark"
+  ],
+  "P135": [
+   "expressionnisme",
+   "art dégénéré"
+  ],
+  "P101": [
+   "peinture",
+   "aquarelle"
+  ],
+  "P136": [
+   "nature morte",
+   "nu",
+   "paysage",
+   "art religieux",
+   "art animalier",
+   "aquarelle"
+  ]
+ },
+ "grands-peintres_james-ensor": {
+  "qid": "Q158840",
+  "P569": [
+   "1860"
+  ],
+  "P570": [
+   "1949"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P135": [
+   "expressionnisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "Au conservatoire",
+   "La Dame en détresse",
+   "L'Entrée du Christ à Bruxelles",
+   "L'Intrigue"
+  ],
+  "P101": [
+   "peinture",
+   "art érotique"
+  ],
+  "P136": [
+   "art chrétien",
+   "nature morte",
+   "scène de genre",
+   "portrait",
+   "paysage urbain"
+  ]
+ },
+ "grands-peintres_paul-delvaux": {
+  "qid": "Q164712",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P101": [
+   "peinture"
+  ]
+ },
+ "grands-peintres_yves-tanguy-peintre": {
+  "qid": "Q164720",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "France",
+   "États-Unis"
+  ],
+  "P135": [
+   "surréalisme",
+   "surréalisme"
+  ],
+  "P101": [
+   "peinture",
+   "surréalisme",
+   "art érotique"
+  ],
+  "P136": [
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_remedios-varo": {
+  "qid": "Q235275",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "Q110103653",
+   "Mujer saliendo del psicoanalista",
+   "Q110103505"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "représentation figurée",
+   "paysage",
+   "scène d'intérieur"
+  ]
+ },
+ "grands-peintres_leonora-carrington": {
+  "qid": "Q233207",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2011",
+   "2011"
+  ],
+  "P27": [
+   "Mexique",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P136": [
+   "peinture de personnage",
+   "peinture mythologique"
+  ]
+ },
+ "grands-peintres_norman-rockwell": {
+  "qid": "Q271884",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "réalisme américain",
+   "réalisme"
+  ],
+  "P800": [
+   "À l'abri du besoin",
+   "La Liberté de parole",
+   "La Liberté de culte",
+   "À l'abri de la peur",
+   "Les Quatre Libertés",
+   "Rosie the Riveter"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "art figuratif",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_andrew-wyeth": {
+  "qid": "Q316325",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "That Gentleman",
+   "Christina's World"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "paysage",
+   "scène de genre"
+  ]
+ },
+ "grands-peintres_robert-rauschenberg": {
+  "qid": "Q164358",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P135": [
+   "Neo-Dada",
+   "postmodernisme",
+   "art moderne",
+   "art contemporain"
+  ],
+  "P800": [
+   "Canyon"
+  ],
+  "P101": [
+   "assemblage",
+   "création de bijoux"
+  ],
+  "P136": [
+   "assemblage"
+  ]
+ },
+ "grands-peintres_jasper-johns": {
+  "qid": "Q155057",
+  "P569": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Neo-Dada"
+  ],
+  "P800": [
+   "Target with Four Faces",
+   "Three Flags",
+   "Map"
+  ],
+  "P136": [
+   "art abstrait",
+   "nature morte",
+   "représentation figurée"
+  ]
+ },
+ "grands-peintres_cy-twombly": {
+  "qid": "Q159566",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "expressionnisme abstrait",
+   "postmodernisme"
+  ],
+  "P800": [
+   "The Ceiling"
+  ],
+  "P101": [
+   "peinture",
+   "sculpture"
+  ],
+  "P136": [
+   "art abstrait"
+  ]
+ },
+ "grands-peintres_david-alfaro-siqueiros": {
+  "qid": "Q315647",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1974",
+   "1974"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P800": [
+   "The Sleep",
+   "Polyforum culturel Siqueiros",
+   "Nuestra Imagen Actual"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "graphique"
+  ]
+ },
+ "grands-peintres_jose-clemente-orozco": {
+  "qid": "Q332041",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1949",
+   "1949"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P800": [
+   "The Demagogue"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "scène de genre",
+   "peinture murale"
+  ]
+ },
+ "grands-peintres_tarsila-do-amaral": {
+  "qid": "Q466627",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1973",
+   "1973"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P800": [
+   "Abaporu",
+   "Operários"
+  ],
+  "P101": [
+   "arts visuels",
+   "peinture brésilienne",
+   "Brazilian sculpture"
+  ]
+ },
+ "grands-peintres_fernando-botero": {
+  "qid": "Q272877",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2023",
+   "2023"
+  ],
+  "P27": [
+   "Colombie",
+   "France",
+   "Italie"
+  ],
+  "P135": [
+   "art contemporain"
+  ],
+  "P800": [
+   "La Corrida (The Bullfight painting)",
+   "La Mort de Luis Chalmeta",
+   "Le Gros Chat du Raval de Barcelone"
+  ],
+  "P101": [
+   "sculpture",
+   "art figuratif",
+   "peinture"
+  ],
+  "P136": [
+   "art figuratif",
+   "allégorie",
+   "portrait"
+  ]
+ },
+ "grands-peintres_utamaro": {
+  "qid": "Q272045",
+  "P569": [
+   "1753",
+   "1754"
+  ],
+  "P570": [
+   "1806"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "ukiyo-e"
+  ],
+  "P800": [
+   "Moonlight Revelry at Dozo Sagami",
+   "Trois beautés de notre temps"
+  ],
+  "P101": [
+   "art érotique"
+  ],
+  "P136": [
+   "bijin-ga",
+   "shunga"
+  ]
+ },
+ "grands-peintres_tsugouharu-foujita": {
+  "qid": "Q261846",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "Japon",
+   "France"
+  ],
+  "P135": [
+   "expressionnisme",
+   "École de Paris"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "grands-peintres_qi-baishi": {
+  "qid": "Q369608",
+  "P569": [
+   "1864",
+   "1864"
+  ],
+  "P570": [
+   "1957",
+   "1957"
+  ],
+  "P27": [
+   "dynastie Qing",
+   "république populaire de Chine",
+   "république de Chine"
+  ],
+  "P800": [
+   "Le Palmier"
+  ],
+  "P101": [
+   "peinture"
+  ],
+  "P136": [
+   "paysage"
+  ]
+ }
+}

@@ -1,0 +1,779 @@
+{
+ "montagnes-et-volcans_everest": {
+  "qid": "Q513",
+  "P276": [
+   "Himalaya"
+  ],
+  "P131": [
+   "district de Solukhumbu",
+   "région autonome du Tibet"
+  ],
+  "P17": [
+   "Népal",
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "roche",
+   "glace"
+  ],
+  "P527": [
+   "face Nord de l'Everest",
+   "Face du Kangshung",
+   "face sud-ouest",
+   "arête Sud-Est",
+   "arête Nord-Est"
+  ]
+ },
+ "montagnes-et-volcans_k2": {
+  "qid": "Q43512",
+  "P131": [
+   "Xian autonome tadjik de Taxkorgan"
+  ],
+  "P17": [
+   "Pakistan"
+  ]
+ },
+ "montagnes-et-volcans_mont-blanc": {
+  "qid": "Q583",
+  "P131": [
+   "Chamonix-Mont-Blanc",
+   "Saint-Gervais-les-Bains",
+   "Courmayeur"
+  ],
+  "P17": [
+   "France",
+   "Italie"
+  ],
+  "P186": [
+   "granite",
+   "gneiss"
+  ]
+ },
+ "montagnes-et-volcans_cervin": {
+  "qid": "Q1374",
+  "P131": [
+   "canton du Valais",
+   "Vallée d'Aoste"
+  ],
+  "P17": [
+   "Suisse",
+   "Italie"
+  ],
+  "P186": [
+   "roche métamorphique"
+  ]
+ },
+ "montagnes-et-volcans_kilimandjaro": {
+  "qid": "Q7296",
+  "P131": [
+   "Kilimandjaro"
+  ],
+  "P17": [
+   "Tanzanie"
+  ],
+  "P186": [
+   "rhyolite"
+  ]
+ },
+ "montagnes-et-volcans_mont-mckinley": {
+  "qid": "Q130018",
+  "P276": [
+   "parc national et réserve du Denali"
+  ],
+  "P131": [
+   "borough de Denali"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "montagnes-et-volcans_aconcagua": {
+  "qid": "Q39739",
+  "P131": [
+   "Las Heras"
+  ],
+  "P17": [
+   "Argentine"
+  ],
+  "P186": [
+   "roche sédimentaire",
+   "andésite"
+  ]
+ },
+ "montagnes-et-volcans_mont-fuji": {
+  "qid": "Q39231",
+  "P131": [
+   "préfecture de Shizuoka",
+   "préfecture de Yamanashi"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "basalte"
+  ],
+  "P527": [
+   "mont Hōei",
+   "Hasshinpō",
+   "Mount Ōmuro",
+   "Ōsawa Failure"
+  ]
+ },
+ "montagnes-et-volcans_vesuve": {
+  "qid": "Q524",
+  "P131": [
+   "ville métropolitaine de Naples",
+   "province de Naples"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "téphrite"
+  ]
+ },
+ "montagnes-et-volcans_etna": {
+  "qid": "Q16990",
+  "P571": [
+   "-300000"
+  ],
+  "P131": [
+   "ville métropolitaine de Catane",
+   "Castiglione di Sicilia",
+   "Sant'Alfio",
+   "Zafferana Etnea",
+   "Nicolosi",
+   "Belpasso",
+   "Biancavilla",
+   "Adrano",
+   "Bronte",
+   "Maletto",
+   "Randazzo"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "trachy-basalte",
+   "téphrite",
+   "basanite",
+   "trachy-andésite",
+   "Trachy-andésite basaltique",
+   "basalte",
+   "picro-basalte"
+  ]
+ },
+ "montagnes-et-volcans_stromboli": {
+  "qid": "Q131148",
+  "P131": [
+   "Lipari"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "montagnes-et-volcans_krakatoa": {
+  "qid": "Q82613",
+  "P131": [
+   "kabupaten de Lampung du Sud"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "montagnes-et-volcans_mauna-kea": {
+  "qid": "Q131230",
+  "P131": [
+   "comté d'Hawaï"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "basalte"
+  ]
+ },
+ "montagnes-et-volcans_mauna-loa": {
+  "qid": "Q159762",
+  "P131": [
+   "comté d'Hawaï"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "basalte"
+  ]
+ },
+ "montagnes-et-volcans_popocatepetl": {
+  "qid": "Q181157",
+  "P131": [
+   "État de Mexico",
+   "Puebla",
+   "Morelos"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P186": [
+   "andésite"
+  ]
+ },
+ "montagnes-et-volcans_eyjafjallajokull": {
+  "qid": "Q39651",
+  "P131": [
+   "Rangárþing eystra"
+  ],
+  "P17": [
+   "Islande"
+  ],
+  "P527": [
+   "Gígjökull",
+   "Steinsholtsjökull"
+  ]
+ },
+ "montagnes-et-volcans_mont-saint-helens": {
+  "qid": "Q4675",
+  "P131": [
+   "Washington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "dacite"
+  ]
+ },
+ "montagnes-et-volcans_piton-de-la-fournaise": {
+  "qid": "Q1049644",
+  "P131": [
+   "Sainte-Rose",
+   "Saint-Philippe"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "basalte",
+   "picro-basalte",
+   "trachy-basalte",
+   "téphrite",
+   "basanite"
+  ],
+  "P527": [
+   "cratère Dolomieu",
+   "cratère Bory",
+   "La Soufrière"
+  ]
+ },
+ "montagnes-et-volcans_mont-ararat": {
+  "qid": "Q72303",
+  "P131": [
+   "Ağrı"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "montagnes-et-volcans_mont-olympe": {
+  "qid": "Q80344",
+  "P571": [
+   "1938"
+  ],
+  "P131": [
+   "nome de Piérie",
+   "Macédoine-Centrale",
+   "dème d'Elassóna"
+  ],
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "montagnes-et-volcans_mont-kailash": {
+  "qid": "Q229107",
+  "P131": [
+   "préfecture de Ngari"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "montagnes-et-volcans_annapurna": {
+  "qid": "Q159621",
+  "P131": [
+   "Gandaki"
+  ],
+  "P17": [
+   "Népal"
+  ],
+  "P527": [
+   "Annapurna I",
+   "Annapurna II",
+   "Annapurna III"
+  ]
+ },
+ "montagnes-et-volcans_nanga-parbat": {
+  "qid": "Q130736",
+  "P131": [
+   "Gilgit-Baltistan"
+  ],
+  "P17": [
+   "Pakistan"
+  ]
+ },
+ "montagnes-et-volcans_elbrouz": {
+  "qid": "Q43105",
+  "P131": [
+   "raïon d'Elbrussky",
+   "Karatchaïévo-Tcherkessie"
+  ],
+  "P17": [
+   "Russie",
+   "Union soviétique",
+   "Empire russe"
+  ],
+  "P186": [
+   "rhyolite",
+   "tuf volcanique",
+   "granite",
+   "gneiss",
+   "schiste"
+  ]
+ },
+ "montagnes-et-volcans_montagne-de-la-table": {
+  "qid": "Q213360",
+  "P131": [
+   "Le Cap"
+  ],
+  "P17": [
+   "Afrique du Sud"
+  ],
+  "P186": [
+   "grès"
+  ]
+ },
+ "montagnes-et-volcans_uluru-ayers-rock": {
+  "qid": "Q33910",
+  "P131": [
+   "Territoire du Nord"
+  ],
+  "P17": [
+   "Australie"
+  ],
+  "P186": [
+   "arkose"
+  ]
+ },
+ "montagnes-et-volcans_caldeira-de-yellowstone": {
+  "qid": "Q650836",
+  "P131": [
+   "Wyoming",
+   "Idaho"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "montagnes-et-volcans_mont-erebus": {
+  "qid": "Q188982",
+  "P131": [
+   "région du Traité sur l'Antarctique"
+  ],
+  "P186": [
+   "basalte"
+  ]
+ },
+ "montagnes-et-volcans_pinatubo": {
+  "qid": "Q1451",
+  "P131": [
+   "Q13895",
+   "Tarlac",
+   "La Pampangue",
+   "Luçon centrale"
+  ],
+  "P17": [
+   "Philippines"
+  ],
+  "P186": [
+   "andésite",
+   "andésite basaltique",
+   "dacite"
+  ]
+ },
+ "montagnes-et-volcans_teide": {
+  "qid": "Q38954",
+  "P131": [
+   "province de Santa Cruz de Ténérife"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "basalte",
+   "phonolite",
+   "trachy-basalte"
+  ]
+ },
+ "montagnes-et-volcans_cotopaxi": {
+  "qid": "Q181476",
+  "P276": [
+   "parc national du Cotopaxi",
+   "Équateur"
+  ],
+  "P131": [
+   "Cotopaxi",
+   "Latacunga"
+  ],
+  "P17": [
+   "Équateur"
+  ],
+  "P186": [
+   "tuf volcanique"
+  ]
+ },
+ "montagnes-et-volcans_sinai": {
+  "qid": "Q36755",
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "montagnes-et-volcans_fitz-roy": {
+  "qid": "Q215138",
+  "P131": [
+   "Magallanes et l'Antarctique chilien",
+   "Santa Cruz"
+  ],
+  "P17": [
+   "Chili",
+   "Argentine"
+  ],
+  "P186": [
+   "granite"
+  ]
+ },
+ "montagnes-et-volcans_cerro-torre": {
+  "qid": "Q1056102",
+  "P131": [
+   "Magallanes et l'Antarctique chilien",
+   "Última Esperanza",
+   "Natales",
+   "Santa Cruz",
+   "Lago Argentino"
+  ],
+  "P17": [
+   "Chili",
+   "Argentine"
+  ],
+  "P186": [
+   "granite"
+  ]
+ },
+ "montagnes-et-volcans_kangchenjunga": {
+  "qid": "Q82019",
+  "P131": [
+   "district de Taplejung",
+   "Sikkim"
+  ],
+  "P17": [
+   "Inde",
+   "Népal"
+  ],
+  "P186": [
+   "calcaire"
+  ]
+ },
+ "montagnes-et-volcans_lhotse": {
+  "qid": "Q168702",
+  "P131": [
+   "Sagarmatha"
+  ],
+  "P17": [
+   "Népal",
+   "république populaire de Chine"
+  ]
+ },
+ "montagnes-et-volcans_makalu": {
+  "qid": "Q169986",
+  "P131": [
+   "Koshi"
+  ],
+  "P17": [
+   "Népal",
+   "république populaire de Chine"
+  ]
+ },
+ "montagnes-et-volcans_cho-oyu": {
+  "qid": "Q170089",
+  "P131": [
+   "Sagarmatha"
+  ],
+  "P17": [
+   "Népal",
+   "république populaire de Chine"
+  ]
+ },
+ "montagnes-et-volcans_dhaulagiri": {
+  "qid": "Q165440",
+  "P131": [
+   "Gandaki"
+  ],
+  "P17": [
+   "Népal"
+  ]
+ },
+ "montagnes-et-volcans_massif-vinson": {
+  "qid": "Q163758",
+  "P131": [
+   "région du Traité sur l'Antarctique"
+  ]
+ },
+ "montagnes-et-volcans_puncak-jaya": {
+  "qid": "Q1045888",
+  "P131": [
+   "kabupaten de Mimika"
+  ],
+  "P17": [
+   "Indonésie"
+  ],
+  "P186": [
+   "calcaire"
+  ]
+ },
+ "montagnes-et-volcans_mont-kosciuszko": {
+  "qid": "Q178167",
+  "P131": [
+   "Nouvelle-Galles du Sud"
+  ],
+  "P17": [
+   "Australie"
+  ],
+  "P186": [
+   "roche métamorphique"
+  ]
+ },
+ "montagnes-et-volcans_eiger": {
+  "qid": "Q4425",
+  "P131": [
+   "canton de Berne"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P186": [
+   "calcaire"
+  ]
+ },
+ "montagnes-et-volcans_mont-rose": {
+  "qid": "Q14668",
+  "P131": [
+   "canton du Valais",
+   "Vallée d'Aoste",
+   "Piémont"
+  ],
+  "P17": [
+   "Suisse",
+   "Italie"
+  ],
+  "P186": [
+   "roche métamorphique"
+  ]
+ },
+ "montagnes-et-volcans_mont-ventoux": {
+  "qid": "Q209064",
+  "P131": [
+   "Vaucluse"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "calcaire"
+  ],
+  "P527": [
+   "Mont Serein"
+  ]
+ },
+ "montagnes-et-volcans_puy-de-dome": {
+  "qid": "Q607372",
+  "P276": [
+   "Massif central"
+  ],
+  "P131": [
+   "Orcines"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "Domite"
+  ]
+ },
+ "montagnes-et-volcans_montagne-pelee": {
+  "qid": "Q76309",
+  "P131": [
+   "Martinique"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "andésite",
+   "andésite basaltique",
+   "dacite"
+  ]
+ },
+ "montagnes-et-volcans_nyiragongo": {
+  "qid": "Q214696",
+  "P131": [
+   "République démocratique du Congo"
+  ],
+  "P17": [
+   "République démocratique du Congo"
+  ],
+  "P186": [
+   "feldspathoïde"
+  ]
+ },
+ "montagnes-et-volcans_tambora": {
+  "qid": "Q168714",
+  "P131": [
+   "kabupaten de Bima"
+  ],
+  "P17": [
+   "Indonésie"
+  ]
+ },
+ "montagnes-et-volcans_merapi": {
+  "qid": "Q134108",
+  "P276": [
+   "Gunung Merapi National Park"
+  ],
+  "P131": [
+   "Java central",
+   "région de Daérah Istiméwa Yogyakarta"
+  ],
+  "P17": [
+   "Indonésie"
+  ],
+  "P186": [
+   "andésite"
+  ]
+ },
+ "montagnes-et-volcans_hekla": {
+  "qid": "Q184975",
+  "P131": [
+   "Rangárþing ytra"
+  ],
+  "P17": [
+   "Islande"
+  ],
+  "P186": [
+   "basalte",
+   "andésite basaltique",
+   "andésite",
+   "dacite"
+  ]
+ },
+ "montagnes-et-volcans_chimborazo-volcan": {
+  "qid": "Q14081",
+  "P276": [
+   "Riobamba",
+   "Équateur"
+  ],
+  "P131": [
+   "Chimborazo"
+  ],
+  "P17": [
+   "Équateur"
+  ]
+ },
+ "montagnes-et-volcans_huascaran": {
+  "qid": "Q200935",
+  "P131": [
+   "Ancash"
+  ],
+  "P17": [
+   "Pérou"
+  ],
+  "P186": [
+   "granite"
+  ]
+ },
+ "montagnes-et-volcans_mont-roraima": {
+  "qid": "Q4777",
+  "P131": [
+   "Uiramutã",
+   "Bolívar",
+   "Cuyuni-Mazaruni"
+  ],
+  "P17": [
+   "Venezuela",
+   "Brésil",
+   "Guyana"
+  ],
+  "P186": [
+   "grès"
+  ]
+ },
+ "montagnes-et-volcans_mont-du-pain-de-sucre": {
+  "qid": "Q210722",
+  "P276": [
+   "Urca"
+  ],
+  "P131": [
+   "Rio de Janeiro"
+  ],
+  "P17": [
+   "Brésil"
+  ],
+  "P186": [
+   "granite",
+   "gneiss"
+  ],
+  "P527": [
+   "granite"
+  ]
+ },
+ "montagnes-et-volcans_el-capitan": {
+  "qid": "Q1124852",
+  "P131": [
+   "comté de Mariposa"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "granite"
+  ]
+ },
+ "montagnes-et-volcans_mont-damavand": {
+  "qid": "Q40758",
+  "P131": [
+   "préfecture d'Amol",
+   "Northern Iran",
+   "Semnan",
+   "Mazandéran"
+  ],
+  "P17": [
+   "Iran"
+  ]
+ },
+ "montagnes-et-volcans_djebel-toubkal": {
+  "qid": "Q503433",
+  "P131": [
+   "Al Haouz"
+  ],
+  "P17": [
+   "Maroc"
+  ]
+ },
+ "montagnes-et-volcans_mont-kenya": {
+  "qid": "Q172070",
+  "P17": [
+   "Kenya"
+  ],
+  "P186": [
+   "syénite"
+  ]
+ }
+}

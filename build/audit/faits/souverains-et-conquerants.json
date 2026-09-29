@@ -1,0 +1,1582 @@
+{
+ "souverains-et-conquerants_elisabeth-ire-imperatrice-de-russie": {
+  "qid": "Q130752",
+  "P569": [
+   "1709"
+  ],
+  "P570": [
+   "1762"
+  ],
+  "P27": [
+   "Empire russe",
+   "tsarat de Moscou"
+  ]
+ },
+ "souverains-et-conquerants_napoleon-ier": {
+  "qid": "Q517",
+  "P569": [
+   "1769",
+   "1769"
+  ],
+  "P570": [
+   "1821",
+   "1821"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_catherine-ii": {
+  "qid": "Q36450",
+  "P569": [
+   "1729",
+   "1729"
+  ],
+  "P570": [
+   "1796",
+   "1796"
+  ],
+  "P27": [
+   "Empire russe",
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "musée de l'Ermitage"
+  ]
+ },
+ "souverains-et-conquerants_qin-shi-huang": {
+  "qid": "Q7192",
+  "P569": [
+   "-259"
+  ],
+  "P570": [
+   "-210"
+  ],
+  "P27": [
+   "dynastie Qin",
+   "Qin"
+  ]
+ },
+ "souverains-et-conquerants_cleopatre-vii": {
+  "qid": "Q635",
+  "P569": [
+   "-69"
+  ],
+  "P570": [
+   "-30"
+  ],
+  "P27": [
+   "royaume ptolémaïque"
+  ]
+ },
+ "souverains-et-conquerants_ramses-ii": {
+  "qid": "Q1523",
+  "P569": [
+   "-1303"
+  ],
+  "P570": [
+   "-1213"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_pericles": {
+  "qid": "Q80398",
+  "P569": [
+   "-494",
+   "-495"
+  ],
+  "P570": [
+   "-429"
+  ],
+  "P27": [
+   "Athènes"
+  ]
+ },
+ "souverains-et-conquerants_alexandre-le-grand": {
+  "qid": "Q8409",
+  "P569": [
+   "-356"
+  ],
+  "P570": [
+   "-323"
+  ],
+  "P27": [
+   "royaume de Macédoine"
+  ],
+  "P101": [
+   "politique",
+   "domaine militaire"
+  ]
+ },
+ "souverains-et-conquerants_auguste": {
+  "qid": "Q1405",
+  "P569": [
+   "-63",
+   "-63"
+  ],
+  "P570": [
+   "14",
+   "14"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "souverains-et-conquerants_trajan": {
+  "qid": "Q1425",
+  "P569": [
+   "53",
+   "53",
+   "53",
+   "53",
+   "53"
+  ],
+  "P570": [
+   "117",
+   "117",
+   "117",
+   "117",
+   "117",
+   "117",
+   "117"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "souverains-et-conquerants_tokugawa-ieyasu": {
+  "qid": "Q171977",
+  "P569": [
+   "1543"
+  ],
+  "P570": [
+   "1616"
+  ],
+  "P27": [
+   "Japon",
+   "shogunat Tokugawa"
+  ]
+ },
+ "souverains-et-conquerants_saladin": {
+  "qid": "Q8581",
+  "P569": [
+   "1138"
+  ],
+  "P570": [
+   "1193"
+  ]
+ },
+ "souverains-et-conquerants_darius-ier": {
+  "qid": "Q44387",
+  "P569": [
+   "-550"
+  ],
+  "P570": [
+   "-486",
+   "-486"
+  ],
+  "P27": [
+   "Empire achéménide"
+  ]
+ },
+ "souverains-et-conquerants_cyrus-le-grand": {
+  "qid": "Q8423",
+  "P569": [
+   "-600"
+  ],
+  "P570": [
+   "-530"
+  ],
+  "P27": [
+   "Empire achéménide",
+   "Anshan"
+  ]
+ },
+ "souverains-et-conquerants_gengis-khan": {
+  "qid": "Q720",
+  "P569": [
+   "1162"
+  ],
+  "P570": [
+   "1227"
+  ],
+  "P27": [
+   "Empire mongol"
+  ]
+ },
+ "souverains-et-conquerants_moctezuma-ier": {
+  "qid": "Q13702",
+  "P569": [
+   "1398"
+  ],
+  "P570": [
+   "1469"
+  ]
+ },
+ "souverains-et-conquerants_pachacutec": {
+  "qid": "Q213758",
+  "P569": [
+   "1391"
+  ],
+  "P570": [
+   "1471"
+  ]
+ },
+ "souverains-et-conquerants_k-inich-janaab-pakal-ier": {
+  "qid": "Q371384",
+  "P569": [
+   "603"
+  ],
+  "P570": [
+   "683"
+  ]
+ },
+ "souverains-et-conquerants_askia-mohammed": {
+  "qid": "Q1771994",
+  "P569": [
+   "1443"
+  ],
+  "P570": [
+   "1538"
+  ],
+  "P27": [
+   "Mali"
+  ]
+ },
+ "souverains-et-conquerants_christine-de-suede": {
+  "qid": "Q52937",
+  "P569": [
+   "1626",
+   "1626"
+  ],
+  "P570": [
+   "1689",
+   "1689"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P101": [
+   "aphorisme",
+   "politique"
+  ]
+ },
+ "souverains-et-conquerants_harald-hardrada": {
+  "qid": "Q203647",
+  "P569": [
+   "1015"
+  ],
+  "P570": [
+   "1066",
+   "1066"
+  ],
+  "P27": [
+   "royaume de Norvège (872-1397)"
+  ]
+ },
+ "souverains-et-conquerants_harald-a-la-dent-bleue": {
+  "qid": "Q201041",
+  "P569": [
+   "911"
+  ],
+  "P570": [
+   "985",
+   "986"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ]
+ },
+ "souverains-et-conquerants_guillaume-ier-d-orange-nassau": {
+  "qid": "Q78454",
+  "P569": [
+   "1533"
+  ],
+  "P570": [
+   "1584"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ]
+ },
+ "souverains-et-conquerants_isabelle-la-catholique": {
+  "qid": "Q45859",
+  "P569": [
+   "1451"
+  ],
+  "P570": [
+   "1504"
+  ],
+  "P27": [
+   "couronne de Castille"
+  ]
+ },
+ "souverains-et-conquerants_marie-ire-reine-d-angleterre": {
+  "qid": "Q82674",
+  "P569": [
+   "1516",
+   "1516"
+  ],
+  "P570": [
+   "1558",
+   "1558"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "souverains-et-conquerants_casimir-iii-le-grand": {
+  "qid": "Q53457",
+  "P569": [
+   "1310"
+  ],
+  "P570": [
+   "1370"
+  ],
+  "P27": [
+   "Pologne"
+  ]
+ },
+ "souverains-et-conquerants_soliman-le-magnifique": {
+  "qid": "Q8474",
+  "P569": [
+   "1494"
+  ],
+  "P570": [
+   "1566"
+  ]
+ },
+ "souverains-et-conquerants_justinien-ier": {
+  "qid": "Q41866",
+  "P569": [
+   "482"
+  ],
+  "P570": [
+   "565"
+  ],
+  "P27": [
+   "Empire byzantin"
+  ]
+ },
+ "souverains-et-conquerants_theodora-imperatrice-epouse-de-justinien-ier": {
+  "qid": "Q204843",
+  "P569": [
+   "500",
+   "497"
+  ],
+  "P570": [
+   "548",
+   "548"
+  ],
+  "P27": [
+   "Empire byzantin"
+  ]
+ },
+ "souverains-et-conquerants_sejong-le-grand": {
+  "qid": "Q37682",
+  "P569": [
+   "1397",
+   "1397"
+  ],
+  "P570": [
+   "1450",
+   "1450"
+  ],
+  "P27": [
+   "période Joseon"
+  ]
+ },
+ "souverains-et-conquerants_jayavarman-vii": {
+  "qid": "Q335273",
+  "P569": [
+   "1122",
+   "1128",
+   "1125"
+  ],
+  "P570": [
+   "1218",
+   "1219"
+  ]
+ },
+ "souverains-et-conquerants_amanitore": {
+  "qid": "Q257004",
+  "P569": [
+   "30"
+  ],
+  "P570": [
+   "80"
+  ],
+  "P27": [
+   "royaume de Koush"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "souverains-et-conquerants_alphonse-ier-manikongo": {
+  "qid": "Q383455",
+  "P569": [
+   "1456"
+  ],
+  "P570": [
+   "1543"
+  ],
+  "P27": [
+   "royaume de Kongo"
+  ]
+ },
+ "souverains-et-conquerants_robert-ier-roi-d-ecosse": {
+  "qid": "Q187312",
+  "P569": [
+   "1274"
+  ],
+  "P570": [
+   "1329"
+  ],
+  "P27": [
+   "royaume d'Écosse"
+  ]
+ },
+ "souverains-et-conquerants_tamar-ire": {
+  "qid": "Q244007",
+  "P569": [
+   "1166"
+  ],
+  "P570": [
+   "1213"
+  ],
+  "P27": [
+   "royaume de Géorgie"
+  ]
+ },
+ "souverains-et-conquerants_matthias-corvin": {
+  "qid": "Q188634",
+  "P569": [
+   "1443",
+   "1443"
+  ],
+  "P570": [
+   "1490",
+   "1490"
+  ],
+  "P27": [
+   "Hongrie"
+  ]
+ },
+ "souverains-et-conquerants_mansa-moussa": {
+  "qid": "Q309333",
+  "P569": [
+   "1280",
+   "1280"
+  ],
+  "P570": [
+   "1337"
+  ],
+  "P27": [
+   "Empire du Mali"
+  ]
+ },
+ "souverains-et-conquerants_hannibal-barca": {
+  "qid": "Q36456",
+  "P569": [
+   "-247"
+  ],
+  "P570": [
+   "-183"
+  ],
+  "P27": [
+   "civilisation carthaginoise"
+  ]
+ },
+ "souverains-et-conquerants_boudica": {
+  "qid": "Q184634",
+  "P569": [
+   "30"
+  ],
+  "P570": [
+   "61",
+   "62"
+  ]
+ },
+ "souverains-et-conquerants_vercingetorix": {
+  "qid": "Q178953",
+  "P569": [
+   "-80"
+  ],
+  "P570": [
+   "-46"
+  ]
+ },
+ "souverains-et-conquerants_louis-xiv": {
+  "qid": "Q7742",
+  "P569": [
+   "1638",
+   "1638"
+  ],
+  "P570": [
+   "1715"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "souverains-et-conquerants_charlemagne": {
+  "qid": "Q3044",
+  "P569": [
+   "748",
+   "742",
+   "742",
+   "742",
+   "747"
+  ],
+  "P570": [
+   "814"
+  ],
+  "P27": [
+   "royaume des Francs"
+  ]
+ },
+ "souverains-et-conquerants_frederic-ii-roi-de-prusse": {
+  "qid": "Q33550",
+  "P569": [
+   "1712"
+  ],
+  "P570": [
+   "1786"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Allemagne"
+  ],
+  "P101": [
+   "activité politique",
+   "art",
+   "musique",
+   "political science and government"
+  ]
+ },
+ "souverains-et-conquerants_pierre-ier-le-grand": {
+  "qid": "Q8479",
+  "P569": [
+   "1672",
+   "1672"
+  ],
+  "P570": [
+   "1725",
+   "1725"
+  ],
+  "P27": [
+   "tsarat de Moscou",
+   "Empire russe"
+  ],
+  "P101": [
+   "politique en Russie"
+  ]
+ },
+ "souverains-et-conquerants_ivan-le-terrible": {
+  "qid": "Q7996",
+  "P569": [
+   "1530",
+   "1530"
+  ],
+  "P570": [
+   "1584",
+   "1584"
+  ],
+  "P27": [
+   "grande-principauté de Moscou",
+   "tsarat de Moscou"
+  ]
+ },
+ "souverains-et-conquerants_marie-therese-d-autriche-1717-1780": {
+  "qid": "Q131706",
+  "P569": [
+   "1717"
+  ],
+  "P570": [
+   "1780"
+  ],
+  "P27": [
+   "Monarchie de Habsbourg"
+  ],
+  "P101": [
+   "administration d'État",
+   "politique"
+  ]
+ },
+ "souverains-et-conquerants_wu-zetian": {
+  "qid": "Q9738",
+  "P569": [
+   "624"
+  ],
+  "P570": [
+   "705"
+  ],
+  "P27": [
+   "dynastie Tang",
+   "dynastie Zhou"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "souverains-et-conquerants_kubilai-khan": {
+  "qid": "Q7523",
+  "P569": [
+   "1215",
+   "1215",
+   "1216"
+  ],
+  "P570": [
+   "1294",
+   "1294"
+  ],
+  "P27": [
+   "dynastie Yuan en Chine"
+  ]
+ },
+ "souverains-et-conquerants_ashoka": {
+  "qid": "Q8589",
+  "P569": [
+   "-304"
+  ],
+  "P570": [
+   "-232"
+  ],
+  "P27": [
+   "Empire Maurya"
+  ]
+ },
+ "souverains-et-conquerants_akbar": {
+  "qid": "Q8597",
+  "P569": [
+   "1542"
+  ],
+  "P570": [
+   "1605",
+   "1605"
+  ]
+ },
+ "souverains-et-conquerants_attila": {
+  "qid": "Q36724",
+  "P569": [
+   "500",
+   "395",
+   "395",
+   "400"
+  ],
+  "P570": [
+   "453"
+  ],
+  "P27": [
+   "Empire hunnique"
+  ]
+ },
+ "souverains-et-conquerants_haroun-ar-rachid": {
+  "qid": "Q131002",
+  "P569": [
+   "766",
+   "766"
+  ],
+  "P570": [
+   "809"
+  ]
+ },
+ "souverains-et-conquerants_soundiata-keita": {
+  "qid": "Q175772",
+  "P569": [
+   "1190",
+   "1215",
+   "1190"
+  ],
+  "P570": [
+   "1255"
+  ],
+  "P27": [
+   "Mali"
+  ]
+ },
+ "souverains-et-conquerants_njinga-du-ndongo-et-du-matamba": {
+  "qid": "Q467650",
+  "P569": [
+   "1582"
+  ],
+  "P570": [
+   "1663"
+  ],
+  "P27": [
+   "Royaume de Ndongo"
+  ]
+ },
+ "souverains-et-conquerants_piankhy": {
+  "qid": "Q315695",
+  "P569": [
+   "-800"
+  ],
+  "P570": [
+   "-716"
+  ],
+  "P27": [
+   "royaume de Koush",
+   "Égypte antique",
+   "Soudan"
+  ]
+ },
+ "souverains-et-conquerants_kamehameha-ier": {
+  "qid": "Q214910",
+  "P569": [
+   "1800",
+   "1756"
+  ],
+  "P570": [
+   "1819"
+  ],
+  "P27": [
+   "royaume d'Hawaï"
+  ]
+ },
+ "souverains-et-conquerants_tecumseh": {
+  "qid": "Q257808",
+  "P569": [
+   "1768"
+  ],
+  "P570": [
+   "1813"
+  ],
+  "P27": [
+   "Shawnees"
+  ]
+ },
+ "souverains-et-conquerants_hammurabi": {
+  "qid": "Q36359",
+  "P569": [
+   "-1810"
+  ],
+  "P570": [
+   "-1750"
+  ],
+  "P27": [
+   "Babylonie"
+  ],
+  "P800": [
+   "Code de Hammurabi"
+  ]
+ },
+ "souverains-et-conquerants_nabuchodonosor-ii": {
+  "qid": "Q12591",
+  "P569": [
+   "-642"
+  ],
+  "P570": [
+   "-561",
+   "-562"
+  ],
+  "P27": [
+   "empire néo-babylonien"
+  ],
+  "P800": [
+   "jardins suspendus de Babylone",
+   "porte d'Ishtar"
+  ]
+ },
+ "souverains-et-conquerants_hatchepsout": {
+  "qid": "Q129234",
+  "P569": [
+   "-1507",
+   "-1504"
+  ],
+  "P570": [
+   "-1458"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_toutankhamon": {
+  "qid": "Q12154",
+  "P569": [
+   "-1343"
+  ],
+  "P570": [
+   "-1324"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_akhenaton": {
+  "qid": "Q81794",
+  "P569": [
+   "-1400"
+  ],
+  "P570": [
+   "-1336",
+   "-1324",
+   "-1326"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_xerxes-ier": {
+  "qid": "Q129165",
+  "P569": [
+   "-519"
+  ],
+  "P570": [
+   "-465",
+   "-465"
+  ],
+  "P27": [
+   "Empire achéménide"
+  ]
+ },
+ "souverains-et-conquerants_leonidas-ier-de-sparte": {
+  "qid": "Q44228",
+  "P570": [
+   "-480"
+  ],
+  "P27": [
+   "Sparte"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "souverains-et-conquerants_jules-cesar": {
+  "qid": "Q1048",
+  "P569": [
+   "-100",
+   "-100",
+   "-102",
+   "-100"
+  ],
+  "P570": [
+   "-44",
+   "-44"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Commentaires sur la Guerre des Gaules",
+   "Commentaires sur la Guerre civile"
+  ]
+ },
+ "souverains-et-conquerants_marc-antoine": {
+  "qid": "Q51673",
+  "P569": [
+   "-83",
+   "-83"
+  ],
+  "P570": [
+   "-30",
+   "-30"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "souverains-et-conquerants_neron": {
+  "qid": "Q1413",
+  "P569": [
+   "37"
+  ],
+  "P570": [
+   "68"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "souverains-et-conquerants_marc-aurele": {
+  "qid": "Q1430",
+  "P569": [
+   "121"
+  ],
+  "P570": [
+   "180"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "stoïcisme"
+  ],
+  "P800": [
+   "Pensées pour moi-même"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "souverains-et-conquerants_constantin-ier-empereur-romain": {
+  "qid": "Q8413",
+  "P569": [
+   "272",
+   "300"
+  ],
+  "P570": [
+   "337",
+   "337",
+   "337"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Debates of Constantine"
+  ]
+ },
+ "souverains-et-conquerants_clovis-ier": {
+  "qid": "Q82339",
+  "P569": [
+   "466"
+  ],
+  "P570": [
+   "511"
+  ],
+  "P27": [
+   "royaume des Francs"
+  ]
+ },
+ "souverains-et-conquerants_guillaume-le-conquerant": {
+  "qid": "Q37594",
+  "P569": [
+   "1028"
+  ],
+  "P570": [
+   "1087"
+  ]
+ },
+ "souverains-et-conquerants_richard-c-ur-de-lion": {
+  "qid": "Q42305",
+  "P569": [
+   "1157"
+  ],
+  "P570": [
+   "1199"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P800": [
+   "Poèmes lyriques"
+  ]
+ },
+ "souverains-et-conquerants_frederic-barberousse": {
+  "qid": "Q79789",
+  "P569": [
+   "1122",
+   "1122"
+  ],
+  "P570": [
+   "1190",
+   "1190"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P800": [
+   "Königsmitteltor"
+  ]
+ },
+ "souverains-et-conquerants_philippe-ii-auguste": {
+  "qid": "Q34428",
+  "P569": [
+   "1165"
+  ],
+  "P570": [
+   "1223"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_louis-ix": {
+  "qid": "Q346",
+  "P569": [
+   "1214",
+   "1215"
+  ],
+  "P570": [
+   "1270"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les enseignements de saint Louis à son fils",
+   "Les enseignements de saint Louis à sa fille"
+  ]
+ },
+ "souverains-et-conquerants_alienor-d-aquitaine": {
+  "qid": "Q178525",
+  "P569": [
+   "1124"
+  ],
+  "P570": [
+   "1204"
+  ],
+  "P27": [
+   "duché d'Aquitaine"
+  ],
+  "P101": [
+   "culture occitane"
+  ]
+ },
+ "souverains-et-conquerants_elisabeth-ire-reine-d-angleterre": {
+  "qid": "Q7207",
+  "P569": [
+   "1533"
+  ],
+  "P570": [
+   "1603"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "souverains-et-conquerants_henri-viii": {
+  "qid": "Q38370",
+  "P569": [
+   "1491"
+  ],
+  "P570": [
+   "1547"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "souverains-et-conquerants_francois-ier-roi-de-france": {
+  "qid": "Q129857",
+  "P569": [
+   "1494"
+  ],
+  "P570": [
+   "1547"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "souverains-et-conquerants_charles-quint": {
+  "qid": "Q32500",
+  "P569": [
+   "1500"
+  ],
+  "P570": [
+   "1558"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "souverains-et-conquerants_philippe-ii-roi-d-espagne": {
+  "qid": "Q34417",
+  "P569": [
+   "1527"
+  ],
+  "P570": [
+   "1598"
+  ],
+  "P27": [
+   "Espagne",
+   "royaume de Portugal"
+  ]
+ },
+ "souverains-et-conquerants_henri-iv-roi-de-france": {
+  "qid": "Q936976",
+  "P569": [
+   "1553"
+  ],
+  "P570": [
+   "1610"
+  ],
+  "P27": [
+   "royaume de France"
+  ]
+ },
+ "souverains-et-conquerants_oliver-cromwell": {
+  "qid": "Q44279",
+  "P569": [
+   "1599"
+  ],
+  "P570": [
+   "1658"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "Commonwealth d'Angleterre"
+  ],
+  "P101": [
+   "agriculture"
+  ]
+ },
+ "souverains-et-conquerants_louis-xvi": {
+  "qid": "Q7732",
+  "P569": [
+   "1754",
+   "1754"
+  ],
+  "P570": [
+   "1793"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_mehmed-ii": {
+  "qid": "Q34503",
+  "P569": [
+   "1432"
+  ],
+  "P570": [
+   "1481"
+  ]
+ },
+ "souverains-et-conquerants_tamerlan": {
+  "qid": "Q8462",
+  "P569": [
+   "1336",
+   "1336"
+  ],
+  "P570": [
+   "1405",
+   "1405"
+  ]
+ },
+ "souverains-et-conquerants_oda-nobunaga": {
+  "qid": "Q171411",
+  "P569": [
+   "1534"
+  ],
+  "P570": [
+   "1582"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P101": [
+   "art de la guerre",
+   "guerre",
+   "dirigeant ou dirigeante"
+  ]
+ },
+ "souverains-et-conquerants_toyotomi-hideyoshi": {
+  "qid": "Q187550",
+  "P569": [
+   "1537",
+   "1536"
+  ],
+  "P570": [
+   "1598"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "souverains-et-conquerants_kangxi": {
+  "qid": "Q17790",
+  "P569": [
+   "1654"
+  ],
+  "P570": [
+   "1722"
+  ],
+  "P27": [
+   "dynastie Qing"
+  ],
+  "P800": [
+   "Dictionnaire de caractères de Kangxi",
+   "Huangyu Quanlan Tu",
+   "Collection of the Imperial Writings of Shengzu the Ren Emperor",
+   "聖祖仁皇帝聖訓"
+  ]
+ },
+ "souverains-et-conquerants_shah-jahan": {
+  "qid": "Q83672",
+  "P569": [
+   "1592",
+   "1592"
+  ],
+  "P570": [
+   "1666",
+   "1666"
+  ]
+ },
+ "souverains-et-conquerants_septimia-bathzabbai-zenobie": {
+  "qid": "Q189705",
+  "P569": [
+   "240"
+  ],
+  "P570": [
+   "274"
+  ],
+  "P27": [
+   "Empire palmyrénien",
+   "Rome antique"
+  ],
+  "P800": [
+   "Epitome"
+  ]
+ },
+ "souverains-et-conquerants_moctezuma-ii": {
+  "qid": "Q141791",
+  "P569": [
+   "1466"
+  ],
+  "P570": [
+   "1520"
+  ],
+  "P27": [
+   "Empire aztèque"
+  ]
+ },
+ "souverains-et-conquerants_atahualpa": {
+  "qid": "Q179577",
+  "P569": [
+   "1500",
+   "1502",
+   "1497",
+   "1502",
+   "1497"
+  ],
+  "P570": [
+   "1533",
+   "1533",
+   "1533"
+  ],
+  "P27": [
+   "Empire inca"
+  ]
+ },
+ "souverains-et-conquerants_sargon-d-akkad": {
+  "qid": "Q199461",
+  "P569": [
+   "-2350"
+  ],
+  "P570": [
+   "-2300"
+  ]
+ },
+ "souverains-et-conquerants_philippe-ii-roi-de-macedoine": {
+  "qid": "Q130650",
+  "P569": [
+   "-385",
+   "-383",
+   "-383",
+   "-382",
+   "-382"
+  ],
+  "P570": [
+   "-336",
+   "-336"
+  ],
+  "P27": [
+   "royaume de Macédoine"
+  ]
+ },
+ "souverains-et-conquerants_hadrien": {
+  "qid": "Q1427",
+  "P569": [
+   "76"
+  ],
+  "P570": [
+   "138"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "souverains-et-conquerants_nefertiti": {
+  "qid": "Q40930",
+  "P569": [
+   "-1370"
+  ],
+  "P570": [
+   "-1330"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_kheops": {
+  "qid": "Q161904",
+  "P569": [
+   "-2700"
+  ],
+  "P570": [
+   "-2566"
+  ],
+  "P27": [
+   "Égypte antique",
+   "Ancien Empire de l'Égypte"
+  ]
+ },
+ "souverains-et-conquerants_thoutmosis-iii": {
+  "qid": "Q157899",
+  "P569": [
+   "-1481"
+  ],
+  "P570": [
+   "-1425"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "souverains-et-conquerants_chandragupta-maurya": {
+  "qid": "Q188541",
+  "P569": [
+   "-340"
+  ],
+  "P570": [
+   "-297"
+  ],
+  "P27": [
+   "Empire Maurya"
+  ]
+ },
+ "souverains-et-conquerants_alfred-le-grand": {
+  "qid": "Q83476",
+  "P569": [
+   "849"
+  ],
+  "P570": [
+   "899",
+   "899"
+  ],
+  "P27": [
+   "Wessex"
+  ],
+  "P800": [
+   "The pastoral care",
+   "The soliloquies",
+   "Psalms"
+  ]
+ },
+ "souverains-et-conquerants_cnut-le-grand": {
+  "qid": "Q134128",
+  "P569": [
+   "994"
+  ],
+  "P570": [
+   "1035"
+  ],
+  "P27": [
+   "Royaume de Danemark",
+   "Empire anglo-scandinave"
+  ]
+ },
+ "souverains-et-conquerants_otton-ier-empereur-du-saint-empire": {
+  "qid": "Q43915",
+  "P569": [
+   "912"
+  ],
+  "P570": [
+   "973"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ]
+ },
+ "souverains-et-conquerants_basile-ii": {
+  "qid": "Q41833",
+  "P569": [
+   "958"
+  ],
+  "P570": [
+   "1025"
+  ],
+  "P27": [
+   "Empire byzantin"
+  ]
+ },
+ "souverains-et-conquerants_louis-xi": {
+  "qid": "Q8058",
+  "P569": [
+   "1423"
+  ],
+  "P570": [
+   "1483"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_louis-xv": {
+  "qid": "Q7738",
+  "P569": [
+   "1710"
+  ],
+  "P570": [
+   "1774"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_catherine-de-medicis": {
+  "qid": "Q131552",
+  "P569": [
+   "1519"
+  ],
+  "P570": [
+   "1589"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "souverains-et-conquerants_ferdinand-le-catholique": {
+  "qid": "Q12860",
+  "P569": [
+   "1452"
+  ],
+  "P570": [
+   "1516"
+  ],
+  "P27": [
+   "couronne d'Aragon"
+  ]
+ },
+ "souverains-et-conquerants_gustave-ii-adolphe": {
+  "qid": "Q52938",
+  "P569": [
+   "1594",
+   "1594"
+  ],
+  "P570": [
+   "1632",
+   "1632"
+  ],
+  "P27": [
+   "Suède"
+  ]
+ },
+ "souverains-et-conquerants_charles-xii": {
+  "qid": "Q52934",
+  "P569": [
+   "1682",
+   "1682"
+  ],
+  "P570": [
+   "1718",
+   "1718"
+  ],
+  "P27": [
+   "Suède"
+  ]
+ },
+ "souverains-et-conquerants_jean-iii-sobieski": {
+  "qid": "Q53454",
+  "P569": [
+   "1629"
+  ],
+  "P570": [
+   "1696"
+  ],
+  "P27": [
+   "république des Deux Nations"
+  ]
+ },
+ "souverains-et-conquerants_marie-stuart": {
+  "qid": "Q131412",
+  "P569": [
+   "1542",
+   "1542"
+  ],
+  "P570": [
+   "1587"
+  ],
+  "P27": [
+   "royaume d'Écosse"
+  ],
+  "P800": [
+   "Oxburgh Hangings"
+  ]
+ },
+ "souverains-et-conquerants_babur": {
+  "qid": "Q797848",
+  "P569": [
+   "1483"
+  ],
+  "P570": [
+   "1530"
+  ],
+  "P800": [
+   "Baburnama"
+  ]
+ },
+ "souverains-et-conquerants_aurangzeb": {
+  "qid": "Q485547",
+  "P569": [
+   "1618"
+  ],
+  "P570": [
+   "1707"
+  ]
+ },
+ "souverains-et-conquerants_tang-taizong": {
+  "qid": "Q9701",
+  "P569": [
+   "598"
+  ],
+  "P570": [
+   "649"
+  ],
+  "P27": [
+   "dynastie Tang",
+   "dynastie Sui"
+  ]
+ },
+ "souverains-et-conquerants_ming-yongle": {
+  "qid": "Q9965",
+  "P569": [
+   "1360"
+  ],
+  "P570": [
+   "1424",
+   "1424"
+  ],
+  "P27": [
+   "dynastie Ming",
+   "dynastie Yuan en Chine"
+  ]
+ },
+ "souverains-et-conquerants_qianlong": {
+  "qid": "Q19133",
+  "P569": [
+   "1711"
+  ],
+  "P570": [
+   "1799"
+  ],
+  "P27": [
+   "dynastie Qing"
+  ],
+  "P800": [
+   "Sheng jing fu",
+   "The Complete Works of the Imperial Le Shan Hall"
+  ]
+ },
+ "souverains-et-conquerants_ranavalona-ire": {
+  "qid": "Q169794",
+  "P569": [
+   "1788"
+  ],
+  "P570": [
+   "1861"
+  ],
+  "P27": [
+   "Royaume merina"
+  ]
+ }
+}

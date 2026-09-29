@@ -1,0 +1,1036 @@
+{
+ "inventions-importantes_roue": {
+  "qid": "Q446"
+ },
+ "inventions-importantes_ecriture": {
+  "qid": "Q37260",
+  "P527": [
+   "abréviation médiévale",
+   "lettrine",
+   "notes tironiennes"
+  ]
+ },
+ "inventions-importantes_agriculture": {
+  "qid": "Q11451"
+ },
+ "inventions-importantes_boussole": {
+  "qid": "Q34735",
+  "P527": [
+   "flèche"
+  ]
+ },
+ "inventions-importantes_poudre-noire": {
+  "qid": "Q12861",
+  "P527": [
+   "charbon de bois",
+   "soufre",
+   "nitrate de potassium"
+  ]
+ },
+ "inventions-importantes_papier": {
+  "qid": "Q11472",
+  "P186": [
+   "fibre de bois",
+   "fibre de lin",
+   "teinture",
+   "blanchisement"
+  ],
+  "P2079": [
+   "papeterie"
+  ]
+ },
+ "inventions-importantes_imprimerie": {
+  "qid": "Q11034"
+ },
+ "inventions-importantes_lunette-astronomique": {
+  "qid": "Q216778",
+  "P527": [
+   "lentille optique"
+  ]
+ },
+ "inventions-importantes_microscope": {
+  "qid": "Q196538"
+ },
+ "inventions-importantes_machine-a-vapeur": {
+  "qid": "Q12760"
+ },
+ "inventions-importantes_paratonnerre": {
+  "qid": "Q7973"
+ },
+ "inventions-importantes_pile-electrique": {
+  "qid": "Q267298"
+ },
+ "inventions-importantes_telegraphie-electrique": {
+  "qid": "Q6501061"
+ },
+ "inventions-importantes_photographie": {
+  "qid": "Q11633",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "inventions-importantes_telephone": {
+  "qid": "Q11035",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "appareil",
+   "réseau de télécommunications"
+  ]
+ },
+ "inventions-importantes_lampe-a-incandescence": {
+  "qid": "Q47616",
+  "P186": [
+   "verre",
+   "argon"
+  ],
+  "P527": [
+   "filament"
+  ]
+ },
+ "inventions-importantes_phonographe": {
+  "qid": "Q116434"
+ },
+ "inventions-importantes_dynamo": {
+  "qid": "Q719861"
+ },
+ "inventions-importantes_automobile": {
+  "qid": "Q1420",
+  "P527": [
+   "moteur",
+   "volant",
+   "essieu",
+   "réservoir à carburant",
+   "filtre à air",
+   "sonde lambda",
+   "amortisseur",
+   "rotule",
+   "carburateur",
+   "siège",
+   "portière",
+   "tableau de bord",
+   "boîte de vitesses manuelle",
+   "trappe à essence",
+   "jante",
+   "boîte à gants",
+   "pare-brise",
+   "boîte de vitesses automatique",
+   "reduction drive",
+   "embrayage",
+   "différentiel",
+   "arbre de transmission",
+   "groupe motopropulseur",
+   "capot",
+   "carrosserie",
+   "châssis"
+  ]
+ },
+ "inventions-importantes_moteur-a-combustion-interne": {
+  "qid": "Q12757"
+ },
+ "inventions-importantes_pneumatique-vehicule": {
+  "qid": "Q169545",
+  "P527": [
+   "tire cord",
+   "caoutchouc vulcanisé",
+   "sidewall"
+  ]
+ },
+ "inventions-importantes_velo": {
+  "qid": "Q11442",
+  "P186": [
+   "métal",
+   "plastique à renfort fibre de carbone",
+   "plastique à renfort de verre"
+  ],
+  "P527": [
+   "composant de bicyclette",
+   "cadre de vélo",
+   "fourche de bicyclette",
+   "roue de vélo",
+   "moyeu de bicyclette",
+   "rayon",
+   "potence de bicyclette",
+   "guidon",
+   "axe de pédalier",
+   "transmission de bicyclette",
+   "pédale",
+   "pédalier (mécanique)",
+   "chaîne de vélo",
+   "engrenage",
+   "dérailleur",
+   "Pneumatique",
+   "bicycle inner tube",
+   "selle",
+   "Tige de selle",
+   "frein de vélo",
+   "câble Bowden",
+   "roulement mécanique",
+   "cadre suspendu"
+  ]
+ },
+ "inventions-importantes_avion": {
+  "qid": "Q197",
+  "P527": [
+   "composant d'avion"
+  ]
+ },
+ "inventions-importantes_radiocommunication": {
+  "qid": "Q872",
+  "P527": [
+   "émetteur d'ondes radioélectriques",
+   "récepteur radio",
+   "modulator",
+   "antenne radioélectrique",
+   "Radio-électricité"
+  ]
+ },
+ "inventions-importantes_cinema": {
+  "qid": "Q590870"
+ },
+ "inventions-importantes_television": {
+  "qid": "Q289",
+  "P527": [
+   "station de télévision",
+   "chaîne de télévision",
+   "réseau de télévision",
+   "téléviseur",
+   "téléspectateur",
+   "people-meter",
+   "TV industry"
+  ]
+ },
+ "inventions-importantes_refrigerateur": {
+  "qid": "Q37828",
+  "P527": [
+   "compressor aggregate",
+   "échangeur de chaleur"
+  ]
+ },
+ "inventions-importantes_lave-linge": {
+  "qid": "Q124441",
+  "P527": [
+   "washing machine part",
+   "drum",
+   "lifter",
+   "agitator",
+   "moteur",
+   "amortisseur",
+   "pompe à eau"
+  ]
+ },
+ "inventions-importantes_aspirateur": {
+  "qid": "Q101674"
+ },
+ "inventions-importantes_radar": {
+  "qid": "Q47528",
+  "P527": [
+   "antenne radioélectrique",
+   "émetteur d'ondes radioélectriques",
+   "récepteur radio",
+   "affichage radar"
+  ]
+ },
+ "inventions-importantes_laser": {
+  "qid": "Q38867"
+ },
+ "inventions-importantes_transistor": {
+  "qid": "Q5339",
+  "P527": [
+   "jonction P-N"
+  ]
+ },
+ "inventions-importantes_circuit-integre": {
+  "qid": "Q80831",
+  "P186": [
+   "silicium",
+   "arséniure de gallium",
+   "dopant",
+   "aluminium",
+   "cuivre"
+  ],
+  "P527": [
+   "Die",
+   "Boîtier de circuit intégré"
+  ]
+ },
+ "inventions-importantes_ordinateur-personnel": {
+  "qid": "Q16338",
+  "P527": [
+   "unité centrale de traitement",
+   "mémoire informatique",
+   "carte mère",
+   "mémoire centrale",
+   "alimentation électrique",
+   "écran d'ordinateur",
+   "clavier d'ordinateur",
+   "carte graphique",
+   "boîtier d'ordinateur",
+   "souris",
+   "unité centrale"
+  ]
+ },
+ "inventions-importantes_internet": {
+  "qid": "Q75",
+  "P571": [
+   "1969"
+  ]
+ },
+ "inventions-importantes_world-wide-web": {
+  "qid": "Q466",
+  "P527": [
+   "site web",
+   "web profond",
+   "web surfacique"
+  ]
+ },
+ "inventions-importantes_smartphone": {
+  "qid": "Q22645",
+  "P186": [
+   "matière plastique",
+   "métal",
+   "verre",
+   "semi-conducteur"
+  ]
+ },
+ "inventions-importantes_global-positioning-system": {
+  "qid": "Q18822",
+  "P170": [
+   "Roger L. Easton"
+  ],
+  "P571": [
+   "1960"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "satellite GPS"
+  ]
+ },
+ "inventions-importantes_vaccin": {
+  "qid": "Q134808"
+ },
+ "inventions-importantes_penicilline": {
+  "qid": "Q12190",
+  "P527": [
+   "azote",
+   "oxygène",
+   "carbone"
+  ]
+ },
+ "inventions-importantes_anesthesie": {
+  "qid": "Q131130"
+ },
+ "inventions-importantes_radiographie": {
+  "qid": "Q245341"
+ },
+ "inventions-importantes_imagerie-par-resonance-magnetique": {
+  "qid": "Q161238"
+ },
+ "inventions-importantes_stimulateur-cardiaque": {
+  "qid": "Q372713"
+ },
+ "inventions-importantes_carte-a-puce": {
+  "qid": "Q41349",
+  "P527": [
+   "circuit intégré"
+  ]
+ },
+ "inventions-importantes_code-barres": {
+  "qid": "Q856"
+ },
+ "inventions-importantes_fermeture-eclair": {
+  "qid": "Q101761"
+ },
+ "inventions-importantes_velcro": {
+  "qid": "Q207649",
+  "P571": [
+   "1941"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "inventions-importantes_stylo-a-bille": {
+  "qid": "Q160137",
+  "P571": [
+   "1888"
+  ],
+  "P527": [
+   "bille de roulement"
+  ]
+ },
+ "inventions-importantes_machine-a-ecrire": {
+  "qid": "Q46335"
+ },
+ "inventions-importantes_calculatrice": {
+  "qid": "Q31087",
+  "P527": [
+   "bouton",
+   "circuit intégré",
+   "pile alcaline",
+   "écran"
+  ]
+ },
+ "inventions-importantes_four-a-micro-ondes": {
+  "qid": "Q127956",
+  "P170": [
+   "Raytheon"
+  ],
+  "P527": [
+   "magnétron"
+  ]
+ },
+ "inventions-importantes_climatisation": {
+  "qid": "Q173725"
+ },
+ "inventions-importantes_ascenseur": {
+  "qid": "Q132911",
+  "P527": [
+   "Q122068021",
+   "cabine d'ascenseur",
+   "cage d'ascenseur",
+   "porte d'ascenseur"
+  ]
+ },
+ "inventions-importantes_beton-arme": {
+  "qid": "Q184190",
+  "P186": [
+   "béton de ciment",
+   "armature"
+  ]
+ },
+ "inventions-importantes_gratte-ciel": {
+  "qid": "Q11303"
+ },
+ "inventions-importantes_pont-suspendu": {
+  "qid": "Q12570"
+ },
+ "inventions-importantes_fusee-astronautique": {
+  "qid": "Q41291"
+ },
+ "inventions-importantes_satellite-artificiel": {
+  "qid": "Q26540",
+  "P527": [
+   "transport",
+   "panneau photovoltaïque",
+   "antenne"
+  ]
+ },
+ "inventions-importantes_navette-spatiale": {
+  "qid": "Q125217474"
+ },
+ "inventions-importantes_turbine": {
+  "qid": "Q130760"
+ },
+ "inventions-importantes_capteur-solaire-photovoltaique": {
+  "qid": "Q217941",
+  "P527": [
+   "cellule photovoltaïque",
+   "solar panel junction box"
+  ]
+ },
+ "inventions-importantes_eolienne": {
+  "qid": "Q49833",
+  "P527": [
+   "générateur électrique",
+   "tower",
+   "wind turbine blade",
+   "nacelle"
+  ]
+ },
+ "inventions-importantes_accumulateur-lithium-ion": {
+  "qid": "Q2822895",
+  "P527": [
+   "lithium"
+  ]
+ },
+ "inventions-importantes_intelligence-artificielle": {
+  "qid": "Q11660",
+  "P527": [
+   "Intelligence artificielle symbolique",
+   "connexionnisme",
+   "intelligence artificielle éthique",
+   "apprentissage automatique"
+  ]
+ },
+ "inventions-importantes_impression-3d": {
+  "qid": "Q229367"
+ },
+ "inventions-importantes_domestication-du-feu": {
+  "qid": "Q912205"
+ },
+ "inventions-importantes_industrie-lithique": {
+  "qid": "Q645143"
+ },
+ "inventions-importantes_poterie": {
+  "qid": "Q11642",
+  "P186": [
+   "argile"
+  ]
+ },
+ "inventions-importantes_arc-architecture": {
+  "qid": "Q12277"
+ },
+ "inventions-importantes_age-du-bronze": {
+  "qid": "Q11761",
+  "P527": [
+   "Bronze ancien",
+   "Bronze moyen",
+   "Bronze final",
+   "Culture des tumulus",
+   "Culture de Gandhara",
+   "Bronze Age Levant"
+  ]
+ },
+ "inventions-importantes_verre": {
+  "qid": "Q11469",
+  "P527": [
+   "dioxyde de silicium"
+  ]
+ },
+ "inventions-importantes_monnaie": {
+  "qid": "Q1368"
+ },
+ "inventions-importantes_charrue": {
+  "qid": "Q11464"
+ },
+ "inventions-importantes_voile-navire": {
+  "qid": "Q25999"
+ },
+ "inventions-importantes_aqueduc": {
+  "qid": "Q474",
+  "P527": [
+   "pont-aqueduc"
+  ]
+ },
+ "inventions-importantes_acier": {
+  "qid": "Q11427",
+  "P2079": [
+   "production de l'acier"
+  ]
+ },
+ "inventions-importantes_horloge-mecanique": {
+  "qid": "Q135973810"
+ },
+ "inventions-importantes_lunettes": {
+  "qid": "Q37501",
+  "P527": [
+   "verre correcteur"
+  ]
+ },
+ "inventions-importantes_moulin-a-eau": {
+  "qid": "Q185187",
+  "P527": [
+   "moteur hydraulique"
+  ]
+ },
+ "inventions-importantes_etrier-equitation": {
+  "qid": "Q191657"
+ },
+ "inventions-importantes_gouvernail-d-etambot": {
+  "qid": "Q3111801"
+ },
+ "inventions-importantes_thermometre": {
+  "qid": "Q646"
+ },
+ "inventions-importantes_barometre": {
+  "qid": "Q79757"
+ },
+ "inventions-importantes_sextant": {
+  "qid": "Q179430"
+ },
+ "inventions-importantes_machine-a-coudre": {
+  "qid": "Q49013",
+  "P186": [
+   "acier"
+  ]
+ },
+ "inventions-importantes_conserve": {
+  "qid": "Q843389"
+ },
+ "inventions-importantes_pasteurisation": {
+  "qid": "Q58148",
+  "P2079": [
+   "chauffage"
+  ]
+ },
+ "inventions-importantes_locomotive-a-vapeur": {
+  "qid": "Q171043",
+  "P170": [
+   "Richard Trevithick"
+  ],
+  "P527": [
+   "chaudière à vapeur",
+   "machine à vapeur",
+   "cabine de locomotive",
+   "roue motrice",
+   "leading wheel",
+   "trailing wheel",
+   "tender",
+   "attelage",
+   "cheminée",
+   "Chasse-neige (ferroviaire)",
+   "steam dome",
+   "Sifflet de train",
+   "fuel bunker"
+  ]
+ },
+ "inventions-importantes_chemin-de-fer": {
+  "qid": "Q22667",
+  "P527": [
+   "infrastructure ferroviaire",
+   "matériel roulant ferroviaire",
+   "ligne de chemin de fer",
+   "gare ferroviaire",
+   "Lubawka-Královec border crossing"
+  ]
+ },
+ "inventions-importantes_bateau-a-vapeur": {
+  "qid": "Q178193"
+ },
+ "inventions-importantes_sous-marin": {
+  "qid": "Q2811",
+  "P186": [
+   "acier au carbone",
+   "acier allié"
+  ]
+ },
+ "inventions-importantes_helicoptere": {
+  "qid": "Q34486"
+ },
+ "inventions-importantes_turboreacteur": {
+  "qid": "Q723916",
+  "P571": [
+   "1930"
+  ]
+ },
+ "inventions-importantes_montgolfiere": {
+  "qid": "Q1551574",
+  "P527": [
+   "gondola"
+  ]
+ },
+ "inventions-importantes_parachute": {
+  "qid": "Q482816",
+  "P186": [
+   "textile",
+   "bout"
+  ],
+  "P527": [
+   "harnais",
+   "bout",
+   "poignée"
+  ]
+ },
+ "inventions-importantes_dynamite": {
+  "qid": "Q80728",
+  "P527": [
+   "sorbent",
+   "nitroglycérine"
+  ]
+ },
+ "inventions-importantes_bakelite": {
+  "qid": "Q146578"
+ },
+ "inventions-importantes_nylon": {
+  "qid": "Q177941",
+  "P527": [
+   "polycaprolactam",
+   "Polyamide 66"
+  ]
+ },
+ "inventions-importantes_vulcanisation": {
+  "qid": "Q188631"
+ },
+ "inventions-importantes_procede-haber": {
+  "qid": "Q213669",
+  "P17": [
+   "Empire allemand"
+  ]
+ },
+ "inventions-importantes_production-de-l-aluminium-par-electrolyse": {
+  "qid": "Q898555"
+ },
+ "inventions-importantes_reacteur-nucleaire": {
+  "qid": "Q80877",
+  "P527": [
+   "nuclear reactor core",
+   "fluide réfrigérant"
+  ]
+ },
+ "inventions-importantes_bombe-a": {
+  "qid": "Q650051"
+ },
+ "inventions-importantes_reseau-electrique": {
+  "qid": "Q1096907",
+  "P527": [
+   "poste électrique",
+   "grid control centre",
+   "poste de distribution",
+   "transport d'énergie électrique"
+  ]
+ },
+ "inventions-importantes_antibiotique": {
+  "qid": "Q12187"
+ },
+ "inventions-importantes_contraception": {
+  "qid": "Q122224",
+  "P527": [
+   "Efficacité des méthodes de contrôle des naissances"
+  ]
+ },
+ "inventions-importantes_echographie": {
+  "qid": "Q234904"
+ },
+ "inventions-importantes_tomodensitometrie": {
+  "qid": "Q32566"
+ },
+ "inventions-importantes_defibrillateur-automatise-externe": {
+  "qid": "Q787407"
+ },
+ "inventions-importantes_transfusion-sanguine": {
+  "qid": "Q183605"
+ },
+ "inventions-importantes_vaccin-a-arn": {
+  "qid": "Q85795487",
+  "P571": [
+   "2020"
+  ],
+  "P527": [
+   "acide ribonucléique",
+   "expression vector",
+   "acide ribonucléique messager",
+   "solid lipid nanoparticle"
+  ]
+ },
+ "inventions-importantes_crispr": {
+  "qid": "Q412563"
+ },
+ "inventions-importantes_processeur": {
+  "qid": "Q1466064",
+  "P186": [
+   "silicium"
+  ],
+  "P527": [
+   "socket",
+   "unité arithmétique et logique",
+   "unité de calcul en virgule flottante"
+  ]
+ },
+ "inventions-importantes_disque-dur": {
+  "qid": "Q4439",
+  "P527": [
+   "hard disk drive platter",
+   "broche",
+   "tête GMR",
+   "boîtier",
+   "interface",
+   "signal and power connector"
+  ]
+ },
+ "inventions-importantes_memoire-flash": {
+  "qid": "Q174077"
+ },
+ "inventions-importantes_souris-informatique": {
+  "qid": "Q7987",
+  "P571": [
+   "1963"
+  ],
+  "P527": [
+   "bouton",
+   "instrument d'optique",
+   "mouse button",
+   "left mouse button",
+   "right mouse button",
+   "middle mouse button",
+   "molette"
+  ]
+ },
+ "inventions-importantes_ecran-tactile": {
+  "qid": "Q165970"
+ },
+ "inventions-importantes_fibre-optique-noire": {
+  "qid": "Q1878571"
+ },
+ "inventions-importantes_wi-fi": {
+  "qid": "Q29643",
+  "P571": [
+   "1997"
+  ],
+  "P577": [
+   "1998"
+  ]
+ },
+ "inventions-importantes_courrier-electronique": {
+  "qid": "Q9158",
+  "P170": [
+   "Ray Tomlinson"
+  ],
+  "P527": [
+   "Post Office Protocol 3",
+   "Internet Message Access Protocol",
+   "Simple Mail Transfer Protocol",
+   "Multipurpose Internet Mail Extensions"
+  ]
+ },
+ "inventions-importantes_moteur-de-recherche": {
+  "qid": "Q19541"
+ },
+ "inventions-importantes_blockchain": {
+  "qid": "Q20514253",
+  "P527": [
+   "block"
+  ]
+ },
+ "inventions-importantes_chasse-d-eau": {
+  "qid": "Q60963412"
+ },
+ "inventions-importantes_egout": {
+  "qid": "Q156849",
+  "P527": [
+   "égout collecteur",
+   "station de pompage d'égouts",
+   "Émissaire (égouttage)",
+   "station de traitement des eaux usées"
+  ]
+ },
+ "inventions-importantes_savon": {
+  "qid": "Q34396",
+  "P527": [
+   "Q128239136"
+  ]
+ },
+ "inventions-importantes_allumette": {
+  "qid": "Q37507",
+  "P186": [
+   "bois",
+   "sesquisulfure de phosphore",
+   "carton",
+   "phosphore",
+   "chlorate de potassium",
+   "paraffine",
+   "colle de peau"
+  ]
+ },
+ "inventions-importantes_lave-vaisselle": {
+  "qid": "Q186263"
+ },
+ "inventions-importantes_zero": {
+  "qid": "Q204"
+ },
+ "inventions-importantes_alphabet": {
+  "qid": "Q9779",
+  "P527": [
+   "graphème"
+  ]
+ },
+ "inventions-importantes_calendrier": {
+  "qid": "Q12132",
+  "P527": [
+   "date calendaire"
+  ]
+ },
+ "inventions-importantes_conteneur": {
+  "qid": "Q187956",
+  "P170": [
+   "Keith Tantlinger"
+  ]
+ },
+ "inventions-importantes_ligne-de-montage": {
+  "qid": "Q455037"
+ },
+ "inventions-importantes_ecluse": {
+  "qid": "Q105731"
+ },
+ "inventions-importantes_antisepsie": {
+  "qid": "Q583377"
+ },
+ "inventions-importantes_braille": {
+  "qid": "Q79894",
+  "P571": [
+   "1824"
+  ],
+  "P495": [
+   "France"
+  ]
+ },
+ "inventions-importantes_code-morse-international": {
+  "qid": "Q79897",
+  "P170": [
+   "Samuel Morse",
+   "Alfred Vail"
+  ],
+  "P571": [
+   "1837"
+  ],
+  "P276": [
+   "Terre"
+  ]
+ },
+ "inventions-importantes_roulement-mecanique": {
+  "qid": "Q1335987"
+ },
+ "inventions-importantes_monnaie-fiduciaire": {
+  "qid": "Q240532"
+ },
+ "inventions-importantes_ordinateur": {
+  "qid": "Q68",
+  "P527": [
+   "périphérique d'entrées-sorties",
+   "logiciel",
+   "matériel informatique",
+   "clavier d'ordinateur",
+   "unité centrale de traitement",
+   "processeur graphique"
+  ]
+ },
+ "inventions-importantes_machine-electrique": {
+  "qid": "Q951504",
+  "P527": [
+   "circuit inducteur",
+   "stator",
+   "rotor"
+  ]
+ },
+ "inventions-importantes_acide-acetylsalicylique": {
+  "qid": "Q18216",
+  "P527": [
+   "oxygène",
+   "carbone",
+   "hydrogène"
+  ]
+ },
+ "inventions-importantes_stethoscope": {
+  "qid": "Q162339"
+ },
+ "inventions-importantes_diode-electroluminescente": {
+  "qid": "Q25504"
+ },
+ "inventions-importantes_metro": {
+  "qid": "Q5503",
+  "P527": [
+   "ligne de métro",
+   "station de métro",
+   "service de transport ferroviaire rapide",
+   "bouche de métro"
+  ]
+ },
+ "inventions-importantes_ballon-dirigeable": {
+  "qid": "Q133585",
+  "P527": [
+   "nacelle",
+   "gas cell"
+  ]
+ },
+ "inventions-importantes_scaphandre-autonome": {
+  "qid": "Q2079255",
+  "P276": [
+   "sous le niveau de la mer"
+  ]
+ },
+ "inventions-importantes_moulin-a-vent": {
+  "qid": "Q38720"
+ },
+ "inventions-importantes_brouette": {
+  "qid": "Q175334"
+ },
+ "inventions-importantes_metier-a-tisser": {
+  "qid": "Q173056"
+ },
+ "inventions-importantes_boulier": {
+  "qid": "Q2820185"
+ },
+ "inventions-importantes_cadran-solaire": {
+  "qid": "Q80793",
+  "P527": [
+   "gnomon",
+   "table"
+  ]
+ },
+ "inventions-importantes_chronometre-de-marine": {
+  "qid": "Q2307829"
+ },
+ "inventions-importantes_arme-a-feu": {
+  "qid": "Q12796",
+  "P527": [
+   "canon",
+   "viseur",
+   "receiver",
+   "firearm component"
+  ]
+ },
+ "inventions-importantes_canon-artillerie": {
+  "qid": "Q81103"
+ },
+ "inventions-importantes_char-d-assaut": {
+  "qid": "Q12876",
+  "P527": [
+   "tank running gear",
+   "chenille"
+  ]
+ },
+ "inventions-importantes_disque-compact": {
+  "qid": "Q34467",
+  "P170": [
+   "Philips Natuurkundig Laboratorium"
+  ],
+  "P571": [
+   "1979"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ]
+ },
+ "inventions-importantes_cassette-audio": {
+  "qid": "Q149757"
+ },
+ "inventions-importantes_magnetoscope": {
+  "qid": "Q732942"
+ },
+ "inventions-importantes_jeu-video": {
+  "qid": "Q7889"
+ },
+ "inventions-importantes_telephone-mobile": {
+  "qid": "Q17517",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "circuit imprimé",
+   "circuit intégré",
+   "microphone",
+   "bouton",
+   "dispositif d'affichage",
+   "antenne radioélectrique",
+   "haut-parleur",
+   "carte SIM"
+  ]
+ },
+ "inventions-importantes_photocopieur": {
+  "qid": "Q185369"
+ },
+ "inventions-importantes_langage-de-programmation": {
+  "qid": "Q9143",
+  "P527": [
+   "syntaxe de codage",
+   "execution model",
+   "bibliothèque standard",
+   "système de typage"
+  ]
+ },
+ "inventions-importantes_guichet-automatique-bancaire": {
+  "qid": "Q81235"
+ },
+ "inventions-importantes_horloge-atomique": {
+  "qid": "Q227467"
+ },
+ "inventions-importantes_drone": {
+  "qid": "Q484000",
+  "P170": [
+   "Reginald Denny"
+  ]
+ }
+}

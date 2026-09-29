@@ -1,0 +1,1627 @@
+{
+ "cuisines-du-monde_pizza": {
+  "qid": "Q177",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "pâte",
+   "sauce tomate",
+   "fromage",
+   "poivron",
+   "levure de boulanger",
+   "sucre",
+   "sel alimentaire",
+   "mozzarella",
+   "huile"
+  ]
+ },
+ "cuisines-du-monde_sushi": {
+  "qid": "Q46383",
+  "P495": [
+   "Japon"
+  ],
+  "P186": [
+   "poisson cru",
+   "sumeshi"
+  ]
+ },
+ "cuisines-du-monde_ramen": {
+  "qid": "Q234646",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "Youmian",
+   "nouilles japonaises",
+   "nouille",
+   "bouillon"
+  ]
+ },
+ "cuisines-du-monde_paella": {
+  "qid": "Q212121",
+  "P495": [
+   "Espagne"
+  ],
+  "P186": [
+   "riz",
+   "huile d'olive",
+   "safran",
+   "haricot de Lima",
+   "riz (aliment)",
+   "tomate",
+   "haricot vert",
+   "viande de lapin",
+   "sel alimentaire",
+   "poulet"
+  ]
+ },
+ "cuisines-du-monde_couscous": {
+  "qid": "Q76605",
+  "P495": [
+   "Maghreb",
+   "Tunisie",
+   "Libye",
+   "Mauritanie",
+   "Algérie"
+  ],
+  "P186": [
+   "blé",
+   "légume",
+   "viande"
+  ],
+  "P527": [
+   "blé"
+  ]
+ },
+ "cuisines-du-monde_taco": {
+  "qid": "Q191655",
+  "P495": [
+   "Mexique"
+  ],
+  "P186": [
+   "taco shell",
+   "viande",
+   "tortilla",
+   "tortilla de blé",
+   "farce"
+  ],
+  "P527": [
+   "tortilla",
+   "tortilla de blé"
+  ]
+ },
+ "cuisines-du-monde_ceviche": {
+  "qid": "Q1057953",
+  "P495": [
+   "Pérou"
+  ],
+  "P17": [
+   "Pérou"
+  ],
+  "P186": [
+   "jus de citron",
+   "poivre",
+   "poisson",
+   "fruit de mer",
+   "maïs",
+   "coriandre"
+  ]
+ },
+ "cuisines-du-monde_falafel": {
+  "qid": "Q188788",
+  "P495": [
+   "cuisine israélienne",
+   "Middle Eastern empires"
+  ],
+  "P527": [
+   "broad bean",
+   "pois chiche",
+   "graines de cumin",
+   "graine de coriandre",
+   "Mahaleb"
+  ]
+ },
+ "cuisines-du-monde_houmous": {
+  "qid": "Q241987",
+  "P495": [
+   "Proche-Orient"
+  ],
+  "P186": [
+   "purée de pois chiches",
+   "huile d'olive",
+   "tête d'ail",
+   "tahini",
+   "jus de citron"
+  ]
+ },
+ "cuisines-du-monde_kebab": {
+  "qid": "Q179010",
+  "P186": [
+   "viande",
+   "pain pita"
+  ]
+ },
+ "cuisines-du-monde_tajine": {
+  "qid": "Q865004",
+  "P495": [
+   "Maghreb"
+  ],
+  "P186": [
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_pho": {
+  "qid": "Q420646",
+  "P495": [
+   "Vietnam"
+  ],
+  "P186": [
+   "nouilles de riz"
+  ]
+ },
+ "cuisines-du-monde_phat-thai": {
+  "qid": "Q730298",
+  "P495": [
+   "Thaïlande"
+  ],
+  "P527": [
+   "nouilles de riz",
+   "œuf de poule",
+   "tofu",
+   "Tamarinier",
+   "cacahuète",
+   "jus de lime",
+   "pousse de soja vert",
+   "dried shrimp"
+  ]
+ },
+ "cuisines-du-monde_dimsum": {
+  "qid": "Q339836",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "pâtes alimentaires",
+   "viande",
+   "légume",
+   "produit de la mer",
+   "fruit comestible"
+  ]
+ },
+ "cuisines-du-monde_canard-laque-de-pekin": {
+  "qid": "Q404973",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "sauce tianmianjiang",
+   "concombre",
+   "viande de canard",
+   "Spring pancake",
+   "ciboule"
+  ]
+ },
+ "cuisines-du-monde_bibimbap": {
+  "qid": "Q648352",
+  "P495": [
+   "Corée"
+  ],
+  "P186": [
+   "namul",
+   "Gochujang",
+   "œuf",
+   "viande",
+   "riz"
+  ]
+ },
+ "cuisines-du-monde_kimchi": {
+  "qid": "Q141898",
+  "P495": [
+   "Corée"
+  ],
+  "P186": [
+   "chou chinois",
+   "radis blanc",
+   "gingembre",
+   "tête d'ail",
+   "Chili"
+  ],
+  "P2079": [
+   "gimjang"
+  ]
+ },
+ "cuisines-du-monde_tempura": {
+  "qid": "Q328709",
+  "P527": [
+   "produit de la mer",
+   "Q80117",
+   "Teuthida",
+   "Q25368",
+   "Lentinula edodes",
+   "Flammulina filiformis",
+   "légume",
+   "œuf",
+   "farine de blé",
+   "huile alimentaire",
+   "eau potable"
+  ],
+  "P2079": [
+   "grande friture"
+  ]
+ },
+ "cuisines-du-monde_sashimi": {
+  "qid": "Q190715",
+  "P495": [
+   "Japon"
+  ],
+  "P186": [
+   "poisson",
+   "Tsuma"
+  ]
+ },
+ "cuisines-du-monde_risotto": {
+  "qid": "Q208105",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "riz",
+   "beurre",
+   "Allium",
+   "Parmigiano Reggiano",
+   "vin blanc",
+   "meat stock"
+  ]
+ },
+ "cuisines-du-monde_lasagnes": {
+  "qid": "Q20034",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "Parmigiano Reggiano",
+   "sauce béchamel",
+   "lasagne sheet",
+   "ragù"
+  ]
+ },
+ "cuisines-du-monde_gnocchi": {
+  "qid": "Q20063",
+  "P495": [
+   "Italie",
+   "France"
+  ],
+  "P186": [
+   "farine de blé",
+   "œuf",
+   "pomme de terre"
+  ]
+ },
+ "cuisines-du-monde_osso-buco": {
+  "qid": "Q1057256",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "viande de veau"
+  ]
+ },
+ "cuisines-du-monde_tiramisu": {
+  "qid": "Q131582",
+  "P170": [
+   "Ado Campeol"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "cacao en poudre",
+   "œuf de poule",
+   "mascarpone",
+   "Savoiarde PAT",
+   "café"
+  ]
+ },
+ "cuisines-du-monde_creme-glacee": {
+  "qid": "Q13233",
+  "P186": [
+   "arôme",
+   "sucre",
+   "crème",
+   "lait"
+  ]
+ },
+ "cuisines-du-monde_fish-and-chips": {
+  "qid": "Q203925",
+  "P276": [
+   "Angleterre"
+  ],
+  "P495": [
+   "Angleterre"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Australie",
+   "Canada",
+   "Nouvelle-Zélande",
+   "États-Unis",
+   "Norvège",
+   "Afrique du Sud",
+   "Inde"
+  ],
+  "P186": [
+   "poisson",
+   "pomme de terre",
+   "frite",
+   "poisson",
+   "morue de l'Atlantique"
+  ]
+ },
+ "cuisines-du-monde_hamburger": {
+  "qid": "Q6663",
+  "P495": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P186": [
+   "steak haché",
+   "burger bun",
+   "légume",
+   "tomate",
+   "concombre",
+   "oignon",
+   "laitue",
+   "fromage",
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_hot-dog": {
+  "qid": "Q181055",
+  "P495": [
+   "États-Unis",
+   "Allemagne"
+  ],
+  "P186": [
+   "hot dog bun",
+   "sauce",
+   "saucisse de Vienne",
+   "produit boulanger"
+  ],
+  "P527": [
+   "produit boulanger"
+  ]
+ },
+ "cuisines-du-monde_barbecue": {
+  "qid": "Q853185"
+ },
+ "cuisines-du-monde_chili-con-carne": {
+  "qid": "Q863794",
+  "P495": [
+   "Mexique"
+  ],
+  "P186": [
+   "viande hachée",
+   "piment"
+  ]
+ },
+ "cuisines-du-monde_guacamole": {
+  "qid": "Q207968",
+  "P495": [
+   "Mexique"
+  ],
+  "P527": [
+   "avocat",
+   "jus de lime",
+   "feuille de coriandre",
+   "Piment jalapeño",
+   "sel alimentaire",
+   "tomate"
+  ]
+ },
+ "cuisines-du-monde_burrito": {
+  "qid": "Q390823",
+  "P495": [
+   "Mexique"
+  ],
+  "P186": [
+   "tortilla de blé",
+   "farce"
+  ]
+ },
+ "cuisines-du-monde_empanada": {
+  "qid": "Q747457",
+  "P186": [
+   "farine",
+   "légume",
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_feijoada": {
+  "qid": "Q878189",
+  "P495": [
+   "Portugal"
+  ],
+  "P186": [
+   "haricot commun",
+   "riz",
+   "viande de porc"
+  ]
+ },
+ "cuisines-du-monde_asado": {
+  "qid": "Q720254",
+  "P495": [
+   "Argentine"
+  ],
+  "P186": [
+   "viande bovine",
+   "viande de porc",
+   "viande d'agneau",
+   "lama",
+   "chorizo",
+   "boudin noir"
+  ]
+ },
+ "cuisines-du-monde_arepa": {
+  "qid": "Q642702",
+  "P495": [
+   "Colombie",
+   "Venezuela"
+  ],
+  "P186": [
+   "farine de maïs"
+  ]
+ },
+ "cuisines-du-monde_moussaka": {
+  "qid": "Q206918",
+  "P495": [
+   "Grèce"
+  ],
+  "P186": [
+   "aubergine",
+   "viande hachée",
+   "Capsicum",
+   "tomate",
+   "oignon",
+   "sauce tomate"
+  ]
+ },
+ "cuisines-du-monde_souvlaki": {
+  "qid": "Q240923",
+  "P495": [
+   "Grèce",
+   "Chypre"
+  ]
+ },
+ "cuisines-du-monde_tzatziki": {
+  "qid": "Q836538",
+  "P495": [
+   "Grèce"
+  ],
+  "P186": [
+   "labné",
+   "yaourt",
+   "concombre",
+   "tête d'ail"
+  ]
+ },
+ "cuisines-du-monde_baklava": {
+  "qid": "Q187495",
+  "P495": [
+   "Empire ottoman"
+  ],
+  "P186": [
+   "amande",
+   "pâte phyllo",
+   "noix",
+   "sirop",
+   "sucre",
+   "cannelle",
+   "Pistacia"
+  ]
+ },
+ "cuisines-du-monde_chachlyk": {
+  "qid": "Q15181",
+  "P495": [
+   "Asie centrale"
+  ],
+  "P186": [
+   "viande",
+   "légume",
+   "ingrédient de cuisine"
+  ]
+ },
+ "cuisines-du-monde_bortsch": {
+  "qid": "Q4551",
+  "P495": [
+   "Rus' de Kiev"
+  ],
+  "P186": [
+   "Brassica olearacea",
+   "pomme de terre",
+   "betterave",
+   "carotte",
+   "chou cabus",
+   "beet kvass",
+   "chou blanc",
+   "betterave",
+   "pomme de terre",
+   "Oignon"
+  ],
+  "P527": [
+   "chou blanc",
+   "betterave",
+   "pomme de terre",
+   "carotte",
+   "Oignon"
+  ]
+ },
+ "cuisines-du-monde_pierogi": {
+  "qid": "Q697800",
+  "P495": [
+   "Pologne",
+   "république populaire de Chine",
+   "Ukraine"
+  ],
+  "P186": [
+   "pomme de terre"
+  ]
+ },
+ "cuisines-du-monde_goulasch": {
+  "qid": "Q205762",
+  "P495": [
+   "royaume de Hongrie"
+  ],
+  "P17": [
+   "Hongrie"
+  ],
+  "P186": [
+   "viande",
+   "oignon",
+   "carotte",
+   "paprika",
+   "huile d'olive",
+   "tête d'ail",
+   "bouillon",
+   "sauce soja",
+   "feuille de laurier",
+   "poivre",
+   "double concentré de tomates",
+   "piment",
+   "Piment de la Jamaïque",
+   "Agaric",
+   "beurre",
+   "farine",
+   "épice"
+  ]
+ },
+ "cuisines-du-monde_escalope-a-la-viennoise": {
+  "qid": "Q6497852",
+  "P495": [
+   "Autriche"
+  ],
+  "P186": [
+   "viande de veau",
+   "œuf",
+   "chapelure"
+  ]
+ },
+ "cuisines-du-monde_bretzel": {
+  "qid": "Q160525",
+  "P571": [
+   "610"
+  ],
+  "P495": [
+   "Allemagne",
+   "Sud de l'Allemagne"
+  ],
+  "P186": [
+   "carvi",
+   "sel alimentaire",
+   "farine"
+  ]
+ },
+ "cuisines-du-monde_poutine-plat": {
+  "qid": "Q396184",
+  "P571": [
+   "1950"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "frite",
+   "quark",
+   "farine",
+   "bouillon"
+  ]
+ },
+ "cuisines-du-monde_injera": {
+  "qid": "Q935807",
+  "P495": [
+   "Éthiopie"
+  ],
+  "P17": [
+   "Éthiopie"
+  ],
+  "P186": [
+   "Teff",
+   "eau"
+  ]
+ },
+ "cuisines-du-monde_bunny-chow": {
+  "qid": "Q4997887",
+  "P495": [
+   "Afrique du Sud"
+  ],
+  "P186": [
+   "pain blanc",
+   "curry"
+  ]
+ },
+ "cuisines-du-monde_biryani": {
+  "qid": "Q271555",
+  "P186": [
+   "riz (aliment)",
+   "viande",
+   "poisson",
+   "œuf",
+   "poulet",
+   "riz"
+  ]
+ },
+ "cuisines-du-monde_naan": {
+  "qid": "Q689950",
+  "P495": [
+   "sous-continent indien"
+  ],
+  "P186": [
+   "farine de blé",
+   "yaourt"
+  ]
+ },
+ "cuisines-du-monde_samoussa": {
+  "qid": "Q491517",
+  "P495": [
+   "Moyen-Orient"
+  ],
+  "P186": [
+   "farine de blé",
+   "carotte",
+   "pois",
+   "viande",
+   "pomme de terre"
+  ],
+  "P527": [
+   "farine de blé",
+   "pomme de terre",
+   "pois",
+   "viande"
+  ],
+  "P2079": [
+   "grande friture"
+  ]
+ },
+ "cuisines-du-monde_tandoori": {
+  "qid": "Q3515024",
+  "P495": [
+   "Inde"
+  ]
+ },
+ "cuisines-du-monde_nasi-goreng": {
+  "qid": "Q510666",
+  "P495": [
+   "Indonésie",
+   "Malaisie"
+  ],
+  "P186": [
+   "riz",
+   "œuf de poule",
+   "huile alimentaire",
+   "shallot",
+   "ail",
+   "piment",
+   "cébette",
+   "sel alimentaire",
+   "kecap manis"
+  ]
+ },
+ "cuisines-du-monde_sate": {
+  "qid": "Q209253",
+  "P276": [
+   "Java oriental",
+   "Petites Îles de la Sonde orientales",
+   "kabupaten de Tulungagung",
+   "kabupaten de Sikka",
+   "Padang",
+   "province de Bali",
+   "Java central",
+   "région de Daérah Istiméwa Yogyakarta"
+  ],
+  "P495": [
+   "Indonésie"
+  ],
+  "P17": [
+   "Malaisie",
+   "Indonésie"
+  ],
+  "P186": [
+   "Bâtonnet de poulet",
+   "sel alimentaire",
+   "eau potable",
+   "sauce soja",
+   "lime",
+   "bâton",
+   "tête d'ail",
+   "Saté (condiment)",
+   "échalote",
+   "abat",
+   "poulet",
+   "poisson",
+   "produit de la mer",
+   "viande de chèvre",
+   "viande bovine",
+   "cacahuète",
+   "kecap"
+  ],
+  "P527": [
+   "viande",
+   "abat",
+   "poulet",
+   "poisson",
+   "produit de la mer"
+  ],
+  "P2079": [
+   "fire-grill",
+   "cuisson"
+  ]
+ },
+ "cuisines-du-monde_laksa": {
+  "qid": "Q934095",
+  "P495": [
+   "Iran"
+  ],
+  "P186": [
+   "poulet",
+   "vermicelle de riz",
+   "œuf de poule",
+   "plantule",
+   "Ocimum tenuiflorum",
+   "Indonesian bay leaf",
+   "Cymbopogon citratus",
+   "Alpinia galanga",
+   "lait de coco",
+   "shallot",
+   "tête d'ail",
+   "piment",
+   "gingembre",
+   "Kaempferia galanga",
+   "rhizome de curcuma long",
+   "graine de coriandre",
+   "sucre"
+  ],
+  "P2079": [
+   "cuisson à l'eau"
+  ]
+ },
+ "cuisines-du-monde_mole-poblano": {
+  "qid": "Q3319470",
+  "P495": [
+   "Mexique"
+  ]
+ },
+ "cuisines-du-monde_congee": {
+  "qid": "Q878624",
+  "P495": [
+   "Asie",
+   "Chine"
+  ],
+  "P186": [
+   "riz",
+   "eau potable"
+  ]
+ },
+ "cuisines-du-monde_mochi": {
+  "qid": "Q470519",
+  "P495": [
+   "Asie du Sud-Est"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "riz gluant"
+  ],
+  "P2079": [
+   "fabrication du mochi"
+  ]
+ },
+ "cuisines-du-monde_okonomiyaki": {
+  "qid": "Q701075",
+  "P495": [
+   "Japon"
+  ],
+  "P186": [
+   "chou cabus",
+   "œuf",
+   "farine de blé",
+   "sauce"
+  ]
+ },
+ "cuisines-du-monde_baozi": {
+  "qid": "Q1137679",
+  "P276": [
+   "république populaire de Chine"
+  ],
+  "P131": [
+   "république populaire de Chine"
+  ],
+  "P495": [
+   "Chine"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "farine"
+  ],
+  "P2079": [
+   "cuisson à la vapeur"
+  ]
+ },
+ "cuisines-du-monde_wonton": {
+  "qid": "Q553905",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "pâte"
+  ]
+ },
+ "cuisines-du-monde_katsudon": {
+  "qid": "Q702028",
+  "P495": [
+   "Japon"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P186": [
+   "riz",
+   "tonkatsu"
+  ]
+ },
+ "cuisines-du-monde_pates-a-la-carbonara": {
+  "qid": "Q876624",
+  "P495": [
+   "Italie",
+   "États-Unis"
+  ],
+  "P186": [
+   "Guanciale",
+   "poivre",
+   "Pecorino",
+   "œuf",
+   "sel alimentaire",
+   "spaghetti"
+  ]
+ },
+ "cuisines-du-monde_panettone": {
+  "qid": "Q854342",
+  "P495": [
+   "Italie"
+  ],
+  "P186": [
+   "fruit confit",
+   "raisin sec",
+   "farine"
+  ]
+ },
+ "cuisines-du-monde_tapas-gastronomie": {
+  "qid": "Q220964",
+  "P495": [
+   "Espagne"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "cuisines-du-monde_gaspacho": {
+  "qid": "Q202677",
+  "P495": [
+   "Espagne"
+  ],
+  "P186": [
+   "tomate",
+   "huile d'olive",
+   "vinaigre",
+   "jus de citron",
+   "sel alimentaire",
+   "glace",
+   "pain",
+   "tomate",
+   "Capsicum annuum",
+   "concombre",
+   "Capsicum",
+   "eau potable",
+   "oignon",
+   "tête d'ail"
+  ]
+ },
+ "cuisines-du-monde_tortilla-de-patatas": {
+  "qid": "Q281751",
+  "P495": [
+   "Espagne"
+  ],
+  "P186": [
+   "œuf de poule",
+   "pomme de terre",
+   "oignon",
+   "huile d'olive",
+   "sel alimentaire"
+  ]
+ },
+ "cuisines-du-monde_churro": {
+  "qid": "Q727605",
+  "P495": [
+   "Espagne"
+  ],
+  "P186": [
+   "farine"
+  ]
+ },
+ "cuisines-du-monde_pastel-de-nata": {
+  "qid": "Q1421401",
+  "P495": [
+   "Portugal"
+  ],
+  "P186": [
+   "œuf",
+   "farine",
+   "lait",
+   "sucre",
+   "pâte feuilletée",
+   "beurre"
+  ]
+ },
+ "cuisines-du-monde_strudel": {
+  "qid": "Q59170",
+  "P571": [
+   "1696"
+  ],
+  "P495": [
+   "Autriche",
+   "Hongrie"
+  ],
+  "P186": [
+   "œuf",
+   "sucre",
+   "farine",
+   "huile végétale",
+   "pâte phyllo"
+  ]
+ },
+ "cuisines-du-monde_sachertorte": {
+  "qid": "Q131442",
+  "P571": [
+   "1832"
+  ],
+  "P495": [
+   "Autriche"
+  ],
+  "P186": [
+   "sponge cake",
+   "abricot",
+   "confiture",
+   "chocolat",
+   "glaçage",
+   "crème chantilly",
+   "ganache",
+   "chocolat noir"
+  ]
+ },
+ "cuisines-du-monde_foret-noire-gateau": {
+  "qid": "Q19028",
+  "P495": [
+   "Allemagne"
+  ],
+  "P186": [
+   "cerise",
+   "crème fouettée",
+   "gâteau au chocolat",
+   "kirsch"
+  ]
+ },
+ "cuisines-du-monde_haggis": {
+  "qid": "Q209500",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "cuisines-du-monde_scone-gateau": {
+  "qid": "Q869660",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "blé",
+   "orge commune",
+   "avoine cultivée",
+   "agent levant"
+  ]
+ },
+ "cuisines-du-monde_petit-dejeuner-anglais": {
+  "qid": "Q73989"
+ },
+ "cuisines-du-monde_kottbullar": {
+  "qid": "Q1501015",
+  "P495": [
+   "Empire ottoman"
+  ],
+  "P186": [
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_gravlax": {
+  "qid": "Q252630",
+  "P495": [
+   "Suède",
+   "Scandinavie"
+  ],
+  "P186": [
+   "saumon atlantique",
+   "sel alimentaire",
+   "sucre",
+   "aneth",
+   "poivre blanc"
+  ],
+  "P2079": [
+   "Q3430962"
+  ]
+ },
+ "cuisines-du-monde_blini": {
+  "qid": "Q815898",
+  "P186": [
+   "farine",
+   "eau",
+   "œuf",
+   "sucre",
+   "lait"
+  ],
+  "P527": [
+   "sucre",
+   "lait",
+   "farine",
+   "boiling water"
+  ]
+ },
+ "cuisines-du-monde_pelmeni": {
+  "qid": "Q2679937",
+  "P186": [
+   "pâte",
+   "viande",
+   "poivre",
+   "oignon",
+   "dill",
+   "œuf",
+   "chicken stock",
+   "bouillon de bœuf",
+   "sel alimentaire",
+   "beurre"
+  ]
+ },
+ "cuisines-du-monde_khatchapouri": {
+  "qid": "Q279575",
+  "P495": [
+   "Géorgie"
+  ],
+  "P186": [
+   "œuf de poule",
+   "fromage",
+   "pain"
+  ]
+ },
+ "cuisines-du-monde_chawarma": {
+  "qid": "Q3412448",
+  "P571": [
+   "19"
+  ],
+  "P495": [
+   "Levant"
+  ],
+  "P186": [
+   "viande",
+   "sauce",
+   "légume",
+   "pain pita",
+   "lavash",
+   "Syzygium",
+   "jus de citron",
+   "chou",
+   "cardamome",
+   "curcuma",
+   "tête d'ail",
+   "paprika",
+   "Morkovcha",
+   "graines de cumin",
+   "dürüm",
+   "cannelle",
+   "menthe"
+  ]
+ },
+ "cuisines-du-monde_taboule": {
+  "qid": "Q607690",
+  "P495": [
+   "Syrie",
+   "Liban"
+  ],
+  "P186": [
+   "persil",
+   "boulghour",
+   "jus de citron",
+   "huile d'olive"
+  ]
+ },
+ "cuisines-du-monde_chakchouka": {
+  "qid": "Q2474644",
+  "P571": [
+   "1500"
+  ],
+  "P495": [
+   "Tunisie"
+  ],
+  "P527": [
+   "œuf",
+   "tomate",
+   "oignon",
+   "piment"
+  ]
+ },
+ "cuisines-du-monde_pastilla": {
+  "qid": "Q664137",
+  "P495": [
+   "Maroc",
+   "Andalousie",
+   "Régence d'Alger"
+  ],
+  "P186": [
+   "poulet",
+   "poisson",
+   "abat"
+  ]
+ },
+ "cuisines-du-monde_riz-wolof": {
+  "qid": "Q816663",
+  "P276": [
+   "cérémonie"
+  ],
+  "P495": [
+   "Sénégal",
+   "Nigeria",
+   "Ghana"
+  ],
+  "P527": [
+   "riz",
+   "tomate",
+   "huile de palme",
+   "poivre",
+   "eau",
+   "huile végétale",
+   "écrevisse",
+   "assaisonnement",
+   "sel alimentaire",
+   "Allium"
+  ],
+  "P2079": [
+   "cuisson des aliments"
+  ]
+ },
+ "cuisines-du-monde_foufou": {
+  "qid": "Q941004",
+  "P495": [
+   "Ghana"
+  ],
+  "P17": [
+   "Ghana",
+   "Nigeria",
+   "Liberia",
+   "Togo",
+   "Bénin"
+  ],
+  "P527": [
+   "racine de manioc",
+   "eau"
+  ],
+  "P2079": [
+   "cuisson des aliments"
+  ]
+ },
+ "cuisines-du-monde_thieboudiene": {
+  "qid": "Q1810575",
+  "P495": [
+   "Sénégal"
+  ],
+  "P17": [
+   "Sénégal"
+  ],
+  "P186": [
+   "oryza sativa",
+   "poisson",
+   "sauce tomate",
+   "légume",
+   "riz"
+  ]
+ },
+ "cuisines-du-monde_mafe": {
+  "qid": "Q3065492",
+  "P495": [
+   "Mali"
+  ],
+  "P186": [
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_curry": {
+  "qid": "Q1144935",
+  "P527": [
+   "curcuma"
+  ]
+ },
+ "cuisines-du-monde_dal": {
+  "qid": "Q1139389"
+ },
+ "cuisines-du-monde_dosa": {
+  "qid": "Q920940",
+  "P495": [
+   "Inde"
+  ],
+  "P186": [
+   "riz"
+  ]
+ },
+ "cuisines-du-monde_plov": {
+  "qid": "Q113840405",
+  "P495": [
+   "Asie centrale"
+  ],
+  "P17": [
+   "Ouzbékistan"
+  ]
+ },
+ "cuisines-du-monde_momo-plat-traditionnel": {
+  "qid": "Q134092"
+ },
+ "cuisines-du-monde_jiaozi": {
+  "qid": "Q640769",
+  "P276": [
+   "république populaire de Chine"
+  ],
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "farine",
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_fondue-chinoise": {
+  "qid": "Q846849",
+  "P495": [
+   "Chine"
+  ]
+ },
+ "cuisines-du-monde_mapo-doufu": {
+  "qid": "Q1298577",
+  "P186": [
+   "tofu",
+   "Soja noir salé",
+   "Doubanjiang"
+  ]
+ },
+ "cuisines-du-monde_banh-mi": {
+  "qid": "Q615392",
+  "P571": [
+   "1950"
+  ],
+  "P495": [
+   "république du Vietnam"
+  ],
+  "P186": [
+   "baguette",
+   "rousong",
+   "pâté",
+   "légume"
+  ]
+ },
+ "cuisines-du-monde_nem-ran": {
+  "qid": "Q7382955",
+  "P495": [
+   "Vietnam"
+  ],
+  "P186": [
+   "viande hachée",
+   "galette de riz"
+  ]
+ },
+ "cuisines-du-monde_tom-yum": {
+  "qid": "Q1052469",
+  "P495": [
+   "Thaïlande"
+  ],
+  "P186": [
+   "piment",
+   "nam phrik phao",
+   "fond",
+   "Kaffir Lime Leaf",
+   "galanga",
+   "Cymbopogon citratus"
+  ]
+ },
+ "cuisines-du-monde_rendang": {
+  "qid": "Q1520293",
+  "P276": [
+   "Sumatra occidental",
+   "Padang",
+   "Indonésie"
+  ],
+  "P131": [
+   "Sumatra occidental",
+   "Indonésie"
+  ],
+  "P495": [
+   "Indonésie"
+  ],
+  "P17": [
+   "Indonésie"
+  ],
+  "P186": [
+   "viande",
+   "crème de noix de coco",
+   "épice",
+   "Cymbopogon citratus",
+   "feuille de tilleul",
+   "Garcinia atroviridis",
+   "curcuma",
+   "Aleurites moluccana",
+   "badianier de Chine",
+   "tête d'ail",
+   "piment",
+   "sel alimentaire"
+  ],
+  "P2079": [
+   "sauter",
+   "cuisson à l'eau",
+   "cuisson basse température"
+  ]
+ },
+ "cuisines-du-monde_adobo-philippin": {
+  "qid": "Q11284032",
+  "P495": [
+   "Philippines"
+  ],
+  "P186": [
+   "viande de porc",
+   "vinaigre",
+   "sauce soja",
+   "feuille de laurier",
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_bulgogi": {
+  "qid": "Q683682",
+  "P495": [
+   "Corée"
+  ],
+  "P186": [
+   "viande bovine"
+  ]
+ },
+ "cuisines-du-monde_onigiri": {
+  "qid": "Q13393",
+  "P571": [
+   "1100"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P186": [
+   "riz",
+   "nori",
+   "Oncorhynchus keta",
+   "sel alimentaire",
+   "kombu",
+   "mayonnaise",
+   "katsuobushi",
+   "Oryza sativa subsp. japonica"
+  ]
+ },
+ "cuisines-du-monde_soupe-miso": {
+  "qid": "Q471866",
+  "P495": [
+   "Japon"
+  ],
+  "P186": [
+   "miso",
+   "Dashi"
+  ]
+ },
+ "cuisines-du-monde_poke-plat": {
+  "qid": "Q7208574",
+  "P495": [
+   "États-Unis"
+  ],
+  "P186": [
+   "Thon jaune",
+   "sashimi",
+   "riz"
+  ]
+ },
+ "cuisines-du-monde_tamal": {
+  "qid": "Q1147853",
+  "P495": [
+   "Mésoamérique"
+  ],
+  "P186": [
+   "semoule de maïs",
+   "feuille de bananier",
+   "viande bovine",
+   "poulet",
+   "feuille de maïs",
+   "viande de porc"
+  ],
+  "P2079": [
+   "cuisson à la vapeur"
+  ]
+ },
+ "cuisines-du-monde_enchilada": {
+  "qid": "Q876096",
+  "P495": [
+   "Mexique"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P527": [
+   "tortilla",
+   "sauce piquante",
+   "viande"
+  ]
+ },
+ "cuisines-du-monde_brigadeiro": {
+  "qid": "Q2914862",
+  "P571": [
+   "1879"
+  ],
+  "P495": [
+   "Brésil"
+  ],
+  "P186": [
+   "hagelslag",
+   "lait concentré sucré",
+   "cacao en poudre sucré",
+   "beurre"
+  ]
+ },
+ "cuisines-du-monde_confiture-de-lait": {
+  "qid": "Q917761",
+  "P495": [
+   "Brésil",
+   "Argentine",
+   "Uruguay"
+  ],
+  "P186": [
+   "lait",
+   "sucre"
+  ]
+ },
+ "cuisines-du-monde_gateau-au-fromage": {
+  "qid": "Q215348",
+  "P186": [
+   "farine",
+   "sucre",
+   "fromage frais",
+   "œuf",
+   "pie crust",
+   "costarde",
+   "lait"
+  ]
+ },
+ "cuisines-du-monde_tarte-aux-pommes": {
+  "qid": "Q1068034",
+  "P186": [
+   "pomme",
+   "cannelle",
+   "pomme à cuire",
+   "sucre",
+   "beurre",
+   "raisin sec",
+   "farine",
+   "œuf"
+  ]
+ },
+ "cuisines-du-monde_brownie": {
+  "qid": "Q503129",
+  "P571": [
+   "1900"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "fève de cacao",
+   "œuf",
+   "sucre",
+   "beurre",
+   "farine"
+  ]
+ },
+ "cuisines-du-monde_pancake": {
+  "qid": "Q44541",
+  "P495": [
+   "États-Unis"
+  ],
+  "P186": [
+   "lait",
+   "farine",
+   "œuf",
+   "huile"
+  ]
+ },
+ "cuisines-du-monde_donut": {
+  "qid": "Q192783",
+  "P571": [
+   "1700"
+  ],
+  "P186": [
+   "farine de blé",
+   "pomme de terre",
+   "œuf",
+   "levure chimique",
+   "sucre",
+   "lait",
+   "exhausteur de goût"
+  ],
+  "P2079": [
+   "grande friture"
+  ]
+ },
+ "cuisines-du-monde_bagel": {
+  "qid": "Q272502",
+  "P495": [
+   "Pologne",
+   "grand-duché de Lituanie"
+  ],
+  "P186": [
+   "farine"
+  ]
+ },
+ "cuisines-du-monde_macaroni-au-fromage": {
+  "qid": "Q378341",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "macaroni",
+   "cheddar",
+   "cheddar sauce",
+   "beurre",
+   "farine de blé"
+  ]
+ },
+ "cuisines-du-monde_pavlova-dessert": {
+  "qid": "Q1419824",
+  "P495": [
+   "Nouvelle-Zélande"
+  ],
+  "P186": [
+   "blanc d'œuf",
+   "sucre"
+  ]
+ }
+}

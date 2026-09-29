@@ -1242,9 +1242,9 @@ PLANS.update({
         ("Championnats du monde d'athlétisme", "Championnats du monde d'athlétisme"),
         ('Coupe du monde de ski alpin', 'Coupe du monde de ski alpin'), ('Jeux du Commonwealth', 'Jeux du Commonwealth'),
     ]),
-    'festivals-et-recompenses-cinema': dict(nom='Festivals et récompenses de cinéma', transferts=[], ajouts=[
-        ('Festival de Cannes', 'Festival de Cannes'), ("Palme d'or", "Palme d'or"), ('Mostra de Venise', 'Mostra de Venise'),
-        ("Lion d'or", "Lion d'or"), ('Berlinale', 'Festival international du film de Berlin'), ("Ours d'or", "Ours d'or"),
+    'festivals-et-recompenses-cinema': dict(nom='Festivals et cérémonies de cinéma', transferts=[], ajouts=[
+        ('Festival de Cannes', 'Festival de Cannes'), ('Mostra de Venise', 'Mostra de Venise'),
+        ('Berlinale', 'Festival international du film de Berlin'),
         ('Oscars', 'Oscars du cinéma'), ('César du cinéma', 'César du cinéma'), ('Golden Globes', 'Golden Globes'),
         ('BAFTA', 'British Academy Film Awards'), ('Festival de Sundance', 'Festival du film de Sundance'),
         ('Festival de Toronto', 'Festival international du film de Toronto'),
@@ -1254,7 +1254,6 @@ PLANS.update({
         ('Festival de Saint-Sébastien', 'Festival international du film de Saint-Sébastien'),
         ('Festival de Busan', 'Festival international du film de Busan'),
         ('Festival de Clermont-Ferrand', 'Festival international du court métrage de Clermont-Ferrand'),
-        ('Grand Prix du Festival de Cannes', 'Grand Prix (Festival de Cannes)'), ("Caméra d'or", "Caméra d'or"),
         ('Prix Louis-Delluc', 'Prix Louis-Delluc'), ('Goya', 'Prix Goya'), ('Emmy Awards', 'Emmy Awards'),
         ('Razzie Awards', 'Razzie Awards'), ('Festival Lumière', 'Festival Lumière'),
     ]),
@@ -1295,6 +1294,14 @@ PLANS.update({
     ]),
 })
 AJOUTS['fleuves-mers-et-oceans'].append(('Cap de Bonne-Espérance', 'Cap de Bonne-Espérance'))
+# 29/09/2026 : festivals et recompenses fusionnes (le prix est une information
+# de la carte de son festival) ; quatre ajouts
+PLANS['festivals-et-recompenses-cinema']['ajouts'] += [
+    ('Festival de Gérardmer', 'Festival international du film fantastique de Gérardmer'),
+    ("Festival d'Avoriaz", "Festival international du film fantastique d'Avoriaz"),
+    ('Lumières de la presse internationale', 'Lumières de la presse internationale'),
+    ('European Film Awards', 'Prix du cinéma européen'),
+]
 
 
 # Titres corriges apres la premiere resolution : la page devinee etait une
@@ -1440,3 +1447,5 @@ for _s in AJOUTS:
     AJOUTS[_s] = _corriger(AJOUTS[_s])
 for _p in PLANS.values():
     _p['ajouts'] = _corriger(_p['ajouts'])
+AJOUTS.setdefault('festivals-et-recompenses-cinema', []).extend(
+    PLANS['festivals-et-recompenses-cinema']['ajouts'][-4:])

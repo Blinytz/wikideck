@@ -1,0 +1,2614 @@
+{
+ "philosophes_aristote": {
+  "qid": "Q868",
+  "P569": [
+   "-384",
+   "-383"
+  ],
+  "P570": [
+   "-322",
+   "-322"
+  ],
+  "P135": [
+   "École péripatéticienne"
+  ],
+  "P800": [
+   "Politique",
+   "Éthique à Nicomaque",
+   "Métaphysique",
+   "Physique",
+   "Organon",
+   "Poétique",
+   "Constitution d'Athènes",
+   "eudémonia",
+   "Météorologiques"
+  ],
+  "P101": [
+   "philosophie",
+   "philosophie naturelle"
+  ]
+ },
+ "philosophes_rene-descartes": {
+  "qid": "Q9191",
+  "P569": [
+   "1596",
+   "1596"
+  ],
+  "P570": [
+   "1650",
+   "1650"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "rationalisme"
+  ],
+  "P800": [
+   "Discours de la méthode",
+   "La Géométrie",
+   "La Description du corps humain"
+  ],
+  "P101": [
+   "philosophie",
+   "métaphysique",
+   "épistémologie",
+   "mathématiques",
+   "mécanique",
+   "cartésianisme",
+   "rationalisme",
+   "physique",
+   "optique",
+   "théorie de la musique",
+   "onde sonore"
+  ]
+ },
+ "philosophes_karl-marx": {
+  "qid": "Q9061",
+  "P569": [
+   "1818"
+  ],
+  "P570": [
+   "1883"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "apatride"
+  ],
+  "P800": [
+   "Manuscrits de 1844",
+   "Le Capital",
+   "L'Idéologie allemande",
+   "Manifeste du Parti communiste"
+  ],
+  "P101": [
+   "économie politique",
+   "sociologie",
+   "philosophie"
+  ]
+ },
+ "philosophes_hypatie": {
+  "qid": "Q11903",
+  "P569": [
+   "360"
+  ],
+  "P570": [
+   "415"
+  ],
+  "P27": [
+   "Empire byzantin"
+  ],
+  "P135": [
+   "néoplatonisme"
+  ],
+  "P101": [
+   "astronomie",
+   "mathématiques",
+   "mécanique",
+   "philosophie"
+  ]
+ },
+ "philosophes_socrate": {
+  "qid": "Q913",
+  "P569": [
+   "-470"
+  ],
+  "P570": [
+   "-399",
+   "-399"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P101": [
+   "philosophie",
+   "épistémologie",
+   "éthique"
+  ]
+ },
+ "philosophes_platon": {
+  "qid": "Q859",
+  "P569": [
+   "-428",
+   "-427",
+   "-429"
+  ],
+  "P570": [
+   "-348",
+   "-347"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P135": [
+   "platonisme"
+  ],
+  "P800": [
+   "Criton",
+   "Euthyphron",
+   "Phédon",
+   "Euthydème",
+   "Protagoras",
+   "Timée",
+   "Gorgias",
+   "Ménon",
+   "Apologie de Socrate",
+   "Charmide",
+   "Clitophon",
+   "Cratyle",
+   "Critias",
+   "Épinomis",
+   "Éryxias",
+   "Alcibiade majeur",
+   "Hipparque",
+   "Hippias majeur",
+   "Hippias mineur",
+   "Ion",
+   "Lachès",
+   "Les Lois",
+   "Lysis",
+   "Ménexène",
+   "Minos",
+   "Parménide",
+   "Phèdre",
+   "La République",
+   "Philèbe",
+   "Alcibiade mineur",
+   "Sisyphe",
+   "Le Sophiste",
+   "Le Politique",
+   "Le Banquet",
+   "Théagès",
+   "Les Rivaux",
+   "Théétète",
+   "Lettres"
+  ],
+  "P101": [
+   "philosophie",
+   "littérature",
+   "épistémologie",
+   "droit",
+   "politique",
+   "éducation",
+   "famille",
+   "amitié",
+   "amour",
+   "philosophie antique",
+   "Antiquité classique"
+  ],
+  "P136": [
+   "dialogues de Platon"
+  ]
+ },
+ "philosophes_heraclite": {
+  "qid": "Q41155",
+  "P569": [
+   "-535"
+  ],
+  "P570": [
+   "-470"
+  ],
+  "P27": [
+   "Éphèse",
+   "Empire achéménide"
+  ],
+  "P135": [
+   "Présocratiques",
+   "philosophie antique",
+   "philosophie occidentale",
+   "École ionienne"
+  ],
+  "P101": [
+   "philosophie",
+   "littérature antique"
+  ]
+ },
+ "philosophes_parmenide": {
+  "qid": "Q125551",
+  "P569": [
+   "-515"
+  ],
+  "P570": [
+   "-470"
+  ],
+  "P135": [
+   "Présocratiques",
+   "École éléatique"
+  ],
+  "P101": [
+   "philosophie",
+   "philosophie en Grèce antique",
+   "métaphysique"
+  ]
+ },
+ "philosophes_democrite": {
+  "qid": "Q41980",
+  "P569": [
+   "-460"
+  ],
+  "P570": [
+   "-360"
+  ],
+  "P135": [
+   "atomisme"
+  ],
+  "P800": [
+   "quadratrice d'Hippias"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_epicure": {
+  "qid": "Q43216",
+  "P569": [
+   "-342",
+   "-341"
+  ],
+  "P570": [
+   "-270"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P135": [
+   "épicurisme"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_diogene-de-sinope": {
+  "qid": "Q59180",
+  "P569": [
+   "-400",
+   "-412",
+   "-403"
+  ],
+  "P570": [
+   "-323",
+   "-323"
+  ],
+  "P27": [
+   "Sinope"
+  ],
+  "P135": [
+   "cynisme"
+  ]
+ },
+ "philosophes_zenon-de-kition": {
+  "qid": "Q171303",
+  "P569": [
+   "-334"
+  ],
+  "P570": [
+   "-263"
+  ],
+  "P27": [
+   "Kition"
+  ],
+  "P135": [
+   "stoïcisme"
+  ],
+  "P101": [
+   "logique",
+   "éthique"
+  ]
+ },
+ "philosophes_plotin": {
+  "qid": "Q134189",
+  "P569": [
+   "205"
+  ],
+  "P570": [
+   "270"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Ennéades"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_epictete": {
+  "qid": "Q183144",
+  "P569": [
+   "50"
+  ],
+  "P570": [
+   "138",
+   "125"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "stoïcisme"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_lao-tseu": {
+  "qid": "Q9333",
+  "P569": [
+   "-579",
+   "-604",
+   "-571"
+  ],
+  "P570": [
+   "-500"
+  ],
+  "P27": [
+   "dynastie Zhou"
+  ],
+  "P135": [
+   "taoïsme",
+   "philosophie orientale",
+   "Cent écoles de pensée"
+  ],
+  "P800": [
+   "Dao de jing"
+  ],
+  "P101": [
+   "philosophie",
+   "philosophie chinoise"
+  ]
+ },
+ "philosophes_tchouang-tseu": {
+  "qid": "Q47739",
+  "P569": [
+   "-369"
+  ],
+  "P570": [
+   "-288"
+  ],
+  "P27": [
+   "État Song"
+  ],
+  "P800": [
+   "Zhuangzi"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_mencius": {
+  "qid": "Q188903",
+  "P569": [
+   "-372"
+  ],
+  "P570": [
+   "-289"
+  ],
+  "P27": [
+   "État Zou"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_nagarjuna": {
+  "qid": "Q171195",
+  "P569": [
+   "150"
+  ],
+  "P570": [
+   "250"
+  ],
+  "P101": [
+   "bouddhisme"
+  ]
+ },
+ "philosophes_adi-shankara": {
+  "qid": "Q180967",
+  "P569": [
+   "788"
+  ],
+  "P570": [
+   "820",
+   "820"
+  ],
+  "P135": [
+   "Bhakti movement"
+  ],
+  "P101": [
+   "philosophie",
+   "védanta"
+  ],
+  "P136": [
+   "non-dualité"
+  ]
+ },
+ "philosophes_augustin-d-hippone": {
+  "qid": "Q8018",
+  "P569": [
+   "354",
+   "354"
+  ],
+  "P570": [
+   "430",
+   "430"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Les Confessions",
+   "La Cité de Dieu",
+   "De la Trinité"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie"
+  ]
+ },
+ "philosophes_thomas-d-aquin": {
+  "qid": "Q9438",
+  "P569": [
+   "1225",
+   "1225",
+   "1225"
+  ],
+  "P570": [
+   "1274",
+   "1274",
+   "1274"
+  ],
+  "P135": [
+   "thomisme",
+   "doctrine de la guerre juste",
+   "scolastique"
+  ],
+  "P800": [
+   "Somme théologique",
+   "Somme contre les gentils",
+   "De regimine principum",
+   "Quinquae viae",
+   "Sententia super Metaphysicam",
+   "Postilla super Psalmos",
+   "Quaestio disputata De anima",
+   "Super Boetium De Trinitate",
+   "Sententia super Meteora",
+   "De unitate intellectus contra averroistas",
+   "De emptione et venditione",
+   "Commentarium super Job",
+   "Scriptum super libros Sententiarum",
+   "De ente et essentia",
+   "Compendium de théologie",
+   "Expositio super librum de causis"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie",
+   "théologie catholique",
+   "théologie chrétienne"
+  ]
+ },
+ "philosophes_moise-maimonide": {
+  "qid": "Q127398",
+  "P569": [
+   "1138",
+   "1135"
+  ],
+  "P570": [
+   "1204"
+  ],
+  "P800": [
+   "Mishné Torah",
+   "Guide des égarés",
+   "Pirush Hamishnayot",
+   "Épître au Yémen",
+   "Sefer Hamitzvot leRambam",
+   "Hakdamot HaRambam",
+   "Traité des Huit Chapitres",
+   "Treatise on logic"
+  ],
+  "P101": [
+   "philosophie",
+   "médecine",
+   "Torah",
+   "Halakha",
+   "philosophie juive",
+   "judaïsme"
+  ]
+ },
+ "philosophes_al-ghazali": {
+  "qid": "Q9546",
+  "P569": [
+   "1058",
+   "1056"
+  ],
+  "P570": [
+   "1111",
+   "1111"
+  ],
+  "P27": [
+   "Empire seldjoukide"
+  ],
+  "P800": [
+   "L'Alchimie du bonheur",
+   "L'Incohérence des philosophes",
+   "Revivification des sciences de la religion",
+   "The Moderation in Belief",
+   "On Legal theory of Muslim Jurisprudence"
+  ],
+  "P101": [
+   "philosophie islamique",
+   "soufisme",
+   "Kalâm",
+   "Islamic ethics"
+  ]
+ },
+ "philosophes_ibn-khaldoun": {
+  "qid": "Q9294",
+  "P569": [
+   "1332",
+   "1332"
+  ],
+  "P570": [
+   "1406",
+   "1406"
+  ],
+  "P800": [
+   "Muqaddima",
+   "Le Livre des exemples",
+   "Lubābu l-Muhassal"
+  ],
+  "P101": [
+   "science économique",
+   "sociologie",
+   "philosophie",
+   "anthropologie",
+   "personnalité politique",
+   "économie",
+   "histoire"
+  ]
+ },
+ "philosophes_guillaume-d-ockham": {
+  "qid": "Q43936",
+  "P569": [
+   "1287"
+  ],
+  "P570": [
+   "1349"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "nominalisme",
+   "scolastique"
+  ],
+  "P800": [
+   "Summa logicae",
+   "De connexione virtutum",
+   "Tractatus de praedestinatione et de praescientia dei respectu futurorum contingentium",
+   "Dialogus"
+  ],
+  "P101": [
+   "épistémologie",
+   "métaphysique",
+   "théologie"
+  ]
+ },
+ "philosophes_nicolas-machiavel": {
+  "qid": "Q1399",
+  "P569": [
+   "1469"
+  ],
+  "P570": [
+   "1527",
+   "1527"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Haute Renaissance"
+  ],
+  "P800": [
+   "Le Prince",
+   "Discours sur la première décade de Tite-Live",
+   "Capitoli"
+  ],
+  "P101": [
+   "philosophie",
+   "politique",
+   "science politique",
+   "diplomatie",
+   "écriture créative et professionnelle",
+   "drame",
+   "histoire",
+   "domaine militaire"
+  ]
+ },
+ "philosophes_thomas-hobbes": {
+  "qid": "Q37621",
+  "P569": [
+   "1588",
+   "1588"
+  ],
+  "P570": [
+   "1679",
+   "1679"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "empirisme",
+   "déterminisme",
+   "positivisme juridique"
+  ],
+  "P800": [
+   "Léviathan",
+   "De Cive",
+   "De Corpore",
+   "De Homine"
+  ],
+  "P101": [
+   "philosophie",
+   "théorie du droit",
+   "histoire",
+   "éthique",
+   "géométrie"
+  ]
+ },
+ "philosophes_baruch-spinoza": {
+  "qid": "Q35802",
+  "P569": [
+   "1632"
+  ],
+  "P570": [
+   "1677"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P135": [
+   "rationalisme",
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "Éthique",
+   "conatus"
+  ],
+  "P101": [
+   "philosophie",
+   "éthique",
+   "épistémologie",
+   "métaphysique"
+  ]
+ },
+ "philosophes_john-locke": {
+  "qid": "Q9353",
+  "P569": [
+   "1632",
+   "1632"
+  ],
+  "P570": [
+   "1704",
+   "1704"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "empirisme"
+  ],
+  "P800": [
+   "Essai sur l'entendement humain",
+   "Traité du gouvernement civil",
+   "Lettre sur la tolérance",
+   "Pensées sur l'éducation",
+   "Of the Conduct of the Understanding",
+   "The prince and the cobbler"
+  ],
+  "P101": [
+   "philosophie",
+   "épistémologie",
+   "philosophie politique",
+   "médecine"
+  ]
+ },
+ "philosophes_david-hume": {
+  "qid": "Q37160",
+  "P569": [
+   "1711",
+   "1711",
+   "1711",
+   "1711"
+  ],
+  "P570": [
+   "1776",
+   "1776"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P135": [
+   "empirisme",
+   "naturalisme",
+   "scepticisme (philosophie)",
+   "siècle des Lumières"
+  ],
+  "P800": [
+   "Enquête sur l'entendement humain",
+   "An Enquiry Concerning the Principles of Morals",
+   "The History of England",
+   "Traité de la nature humaine"
+  ],
+  "P101": [
+   "philosophie",
+   "métaphysique",
+   "épistémologie",
+   "philosophie de l'esprit",
+   "éthique",
+   "politique",
+   "esthétique",
+   "philosophie de la religion",
+   "histoire",
+   "essai",
+   "science économique"
+  ]
+ },
+ "philosophes_montesquieu": {
+  "qid": "Q15975",
+  "P569": [
+   "1689"
+  ],
+  "P570": [
+   "1755"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "De l’esprit des loix"
+  ],
+  "P136": [
+   "roman épistolaire",
+   "essai"
+  ]
+ },
+ "philosophes_emmanuel-kant": {
+  "qid": "Q9312",
+  "P569": [
+   "1724"
+  ],
+  "P570": [
+   "1804"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P135": [
+   "idéalisme allemand",
+   "siècle des Lumières"
+  ],
+  "P800": [
+   "Critique de la raison pure",
+   "Critique de la raison pratique",
+   "Critique de la faculté de juger",
+   "Prolégomènes à toute métaphysique future",
+   "Qu'est-ce que les Lumières ?",
+   "Métaphysique des mœurs",
+   "La Religion dans les limites de la simple raison",
+   "Fondements de la métaphysique des mœurs"
+  ],
+  "P101": [
+   "épistémologie",
+   "métaphysique",
+   "éthique"
+  ]
+ },
+ "philosophes_john-stuart-mill": {
+  "qid": "Q50020",
+  "P569": [
+   "1806"
+  ],
+  "P570": [
+   "1873"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "athéisme",
+   "égalitarisme",
+   "utilitarisme",
+   "libéralisme"
+  ],
+  "P800": [
+   "De la liberté",
+   "Mes mémoires : histoire de ma vie et de mes idées",
+   "Gouvernement représentatif"
+  ]
+ },
+ "philosophes_mary-wollstonecraft": {
+  "qid": "Q101638",
+  "P569": [
+   "1759"
+  ],
+  "P570": [
+   "1797"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P135": [
+   "féminisme"
+  ],
+  "P800": [
+   "Défense des droits de la femme",
+   "Lettres écrites lors d'un court séjour en Suède, en Norvège et au Danemark"
+  ],
+  "P101": [
+   "essai",
+   "études de genre",
+   "droits des femmes",
+   "activité politique",
+   "écriture créative et professionnelle"
+  ]
+ },
+ "philosophes_elisabeth-de-boheme-1618-1680": {
+  "qid": "Q61389",
+  "P569": [
+   "1618"
+  ],
+  "P570": [
+   "1680",
+   "1680"
+  ],
+  "P27": [
+   "Palatinat du Rhin"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_anne-conway": {
+  "qid": "Q260404",
+  "P569": [
+   "1631"
+  ],
+  "P570": [
+   "1679"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "philosophes_georg-wilhelm-friedrich-hegel": {
+  "qid": "Q9235",
+  "P569": [
+   "1770",
+   "1770"
+  ],
+  "P570": [
+   "1831",
+   "1831"
+  ],
+  "P27": [
+   "royaume du Wurtemberg"
+  ],
+  "P135": [
+   "idéalisme allemand",
+   "historicisme",
+   "hégélianisme"
+  ],
+  "P800": [
+   "Leçons sur la philosophie de l'histoire",
+   "Encyclopédie des sciences philosophiques",
+   "La Science de la logique",
+   "Phénoménologie de l'esprit",
+   "Principes de la philosophie du droit",
+   "Esthétique ou philosophie de l'art",
+   "Leçons sur l'histoire de la philosophie",
+   "Leçons sur l'histoire de la philosophie"
+  ],
+  "P101": [
+   "philosophie",
+   "logique",
+   "philosophie de l'histoire",
+   "esthétique",
+   "religion",
+   "métaphysique",
+   "épistémologie",
+   "philosophie politique",
+   "philosophie sociale"
+  ]
+ },
+ "philosophes_arthur-schopenhauer": {
+  "qid": "Q38193",
+  "P569": [
+   "1788"
+  ],
+  "P570": [
+   "1860"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P135": [
+   "irrationalisme"
+  ],
+  "P800": [
+   "Le Monde comme Volonté et comme Représentation",
+   "Parerga et Paralipomena"
+  ],
+  "P101": [
+   "métaphysique",
+   "éthique",
+   "esthétique",
+   "psychologie",
+   "histoire de la philosophie"
+  ]
+ },
+ "philosophes_s-ren-kierkegaard": {
+  "qid": "Q6512",
+  "P569": [
+   "1813"
+  ],
+  "P570": [
+   "1855"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P135": [
+   "existentialisme"
+  ],
+  "P800": [
+   "Ou bien... ou bien",
+   "Crainte et Tremblement",
+   "Le concept de l'angoisse",
+   "The Book on Adler",
+   "Discours chrétiens",
+   "Les œuvres de l'amour",
+   "La Maladie à la mort",
+   "Du concept d’ironie constamment rapporté à Socrate",
+   "Étapes sur le chemin de la vie",
+   "Post-scriptum aux miettes philosophiques"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie",
+   "poésie",
+   "critique sociale",
+   "écriture créative et professionnelle"
+  ],
+  "P136": [
+   "pamphlet",
+   "débat",
+   "journal intime"
+  ]
+ },
+ "philosophes_friedrich-nietzsche": {
+  "qid": "Q9358",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1900"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "Ainsi parlait Zarathoustra",
+   "La Naissance de la tragédie",
+   "Q120609061",
+   "Considérations inactuelles",
+   "De l'utilité et de l'inconvénient des études historiques pour la vie",
+   "Schopenhauer éducateur",
+   "Richard Wagner à Bayreuth"
+  ]
+ },
+ "philosophes_henri-bergson": {
+  "qid": "Q42156",
+  "P569": [
+   "1859",
+   "1859"
+  ],
+  "P570": [
+   "1941",
+   "1941"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "philosophie continentale"
+  ],
+  "P101": [
+   "philosophie",
+   "métaphysique",
+   "épistémologie",
+   "irrationalisme",
+   "philosophie du langage",
+   "philosophie des mathématiques"
+  ]
+ },
+ "philosophes_edmund-husserl": {
+  "qid": "Q58586",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Reich allemand"
+  ],
+  "P135": [
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "legitimacy",
+   "Recherches logiques"
+  ],
+  "P101": [
+   "philosophie",
+   "phénoménologie",
+   "épistémologie",
+   "transcendental philosophy",
+   "Idéalisme"
+  ]
+ },
+ "philosophes_bertrand-russell": {
+  "qid": "Q33760",
+  "P569": [
+   "1872"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "philosophie analytique",
+   "libre-pensée",
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "Proposed Roads to Freedom",
+   "Histoire de mes idées philosophiques",
+   "Problèmes de philosophie",
+   "Introduction à la philosophie mathématique",
+   "Le Pouvoir",
+   "Éloge de l'oisiveté",
+   "The Principles of Mathematics",
+   "Histoire de la philosophie occidentale",
+   "Autobiographie",
+   "Le mariage et la morale",
+   "Human Knowledge: Its Scope and Limits",
+   "Justice in war time",
+   "Principia Mathematica",
+   "Human society in ethics and politics",
+   "Wisdom of the West",
+   "La Conquête du bonheur"
+  ],
+  "P101": [
+   "théorie des ensembles",
+   "histoire de la philosophie",
+   "épistémologie",
+   "logique",
+   "mathématiques",
+   "philosophie du langage",
+   "philosophie des sciences",
+   "éthique",
+   "religion",
+   "logique mathématique",
+   "sociologie",
+   "philosophie"
+  ]
+ },
+ "philosophes_ludwig-wittgenstein": {
+  "qid": "Q9391",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1951"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Autriche"
+  ],
+  "P135": [
+   "philosophie analytique"
+  ],
+  "P800": [
+   "Tractatus logico-philosophicus",
+   "Investigations philosophiques"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_martin-heidegger": {
+  "qid": "Q48301",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "république de Weimar",
+   "Troisième Reich",
+   "Allemagne de l'Ouest",
+   "Allemagne"
+  ],
+  "P135": [
+   "phénoménologie",
+   "philosophie de la vie",
+   "existentialisme"
+  ],
+  "P800": [
+   "Être et Temps",
+   "Lettre sur l'humanisme",
+   "Introduction à la métaphysique",
+   "Cahiers noirs"
+  ],
+  "P101": [
+   "philosophie",
+   "phénoménologie"
+  ]
+ },
+ "philosophes_karl-popper": {
+  "qid": "Q81244",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Autriche",
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "libéralisme"
+  ],
+  "P800": [
+   "La Logique de la découverte scientifique",
+   "La Société ouverte et ses ennemis",
+   "Misère de l'historicisme",
+   "Conjectures et réfutations",
+   "La connaissance objective",
+   "La quête inachevée",
+   "The Self and Its Brain"
+  ],
+  "P101": [
+   "philosophie",
+   "épistémologie",
+   "rationalité",
+   "philosophie des sciences",
+   "logique",
+   "philosophie politique",
+   "philosophie sociale",
+   "abiogenèse",
+   "mécanique quantique"
+  ]
+ },
+ "philosophes_hannah-arendt": {
+  "qid": "Q60025",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "Prusse",
+   "apatride",
+   "États-Unis"
+  ],
+  "P135": [
+   "phénoménologie"
+  ],
+  "P800": [
+   "Les Origines du totalitarisme",
+   "Condition de l'homme moderne",
+   "Eichmann à Jérusalem",
+   "Essai sur la révolution",
+   "Rahel Varnhagen",
+   "natality"
+  ],
+  "P101": [
+   "philosophie politique",
+   "philosophie contemporaine",
+   "philosophie",
+   "théologie protestante",
+   "hellénisme",
+   "totalitarisme",
+   "science politique",
+   "écriture créative et professionnelle",
+   "littérature non-fictionnelle"
+  ]
+ },
+ "philosophes_maurice-merleau-ponty": {
+  "qid": "Q212639",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "phénoménologie",
+   "structuralisme"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_simone-weil": {
+  "qid": "Q157309",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "L'Enracinement",
+   "La pesanteur et la grâce",
+   "La Condition ouvrière",
+   "Réflexions sur les causes de la liberté et de l'oppression sociale",
+   "Cahiers",
+   "Oppression et liberté"
+  ],
+  "P101": [
+   "philosophie politique",
+   "éthique",
+   "poésie",
+   "métaphysique",
+   "cosmogonie"
+  ]
+ },
+ "philosophes_g-e-m-anscombe": {
+  "qid": "Q229646",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_philippa-foot": {
+  "qid": "Q297493",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "éthique",
+   "philosophie de l'esprit",
+   "esthétique",
+   "philosophie"
+  ]
+ },
+ "philosophes_michel-foucault": {
+  "qid": "Q44272",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "athéisme",
+   "post-structuralisme",
+   "philosophie continentale"
+  ],
+  "P800": [
+   "Surveiller et punir",
+   "Les Mots et les Choses",
+   "L'Archéologie du savoir",
+   "L'usage des plaisirs",
+   "Histoire de la sexualité",
+   "Histoire de la folie à l'âge classique"
+  ],
+  "P101": [
+   "philosophie",
+   "histoire",
+   "sociologie",
+   "histoire des idées",
+   "épistémologie",
+   "éthique",
+   "philosophie politique"
+  ]
+ },
+ "philosophes_jacques-derrida": {
+  "qid": "Q130631",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2004",
+   "2004"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "post-structuralisme",
+   "déconstruction"
+  ],
+  "P101": [
+   "philosophie du langage",
+   "philosophie",
+   "logique"
+  ]
+ },
+ "philosophes_gilles-deleuze": {
+  "qid": "Q184226",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "matérialisme",
+   "post-structuralisme",
+   "philosophie occidentale",
+   "philosophie continentale"
+  ],
+  "P800": [
+   "Différence et Répétition",
+   "Logique du sens",
+   "L'Anti-Œdipe",
+   "Mille Plateaux",
+   "Cinéma",
+   "Qu'est-ce que la philosophie ?"
+  ],
+  "P101": [
+   "philosophie",
+   "ontologie",
+   "esthétique",
+   "film",
+   "art"
+  ]
+ },
+ "philosophes_jurgen-habermas": {
+  "qid": "Q76357",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P135": [
+   "école de Francfort"
+  ],
+  "P800": [
+   "Théorie de l'agir communicationnel",
+   "Raison et légitimité",
+   "L' espace public",
+   "Connaissance et intérêt"
+  ],
+  "P101": [
+   "philosophie",
+   "théorie sociale",
+   "théorie politique",
+   "rationalisation",
+   "pragmatisme",
+   "sociologie"
+  ],
+  "P136": [
+   "théorie critique"
+  ]
+ },
+ "philosophes_john-rawls-philosophe": {
+  "qid": "Q172544",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "philosophie analytique"
+  ],
+  "P800": [
+   "Théorie de la justice",
+   "Libéralisme politique",
+   "The Law of Peoples"
+  ],
+  "P101": [
+   "philosophie politique",
+   "science politique",
+   "philosophie du droit"
+  ]
+ },
+ "philosophes_martha-nussbaum": {
+  "qid": "Q235470",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "philosophes_judith-butler": {
+  "qid": "Q219368",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "post-structuralisme"
+  ],
+  "P800": [
+   "Q57075030",
+   "Q65015597",
+   "Trouble dans le genre",
+   "Bodies That Matter"
+  ],
+  "P101": [
+   "théorie féministe",
+   "théorie queer",
+   "théorie de la littérature",
+   "études de genre",
+   "transidentité",
+   "sociologie",
+   "psychologie",
+   "psychanalyse",
+   "philosophie",
+   "féminisme",
+   "philosophie politique",
+   "éthique",
+   "théorie critique"
+  ]
+ },
+ "philosophes_donna-haraway": {
+  "qid": "Q253407",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Quand les espèces se rencontrent",
+   "Manifeste cyborg",
+   "Vivre avec le trouble",
+   "Manifeste des espèces compagnes : chiens, humains et autres partenaires"
+  ],
+  "P101": [
+   "études de genre"
+  ],
+  "P136": [
+   "science-fiction féministe"
+  ]
+ },
+ "philosophes_thales": {
+  "qid": "Q36303",
+  "P569": [
+   "-625",
+   "-650",
+   "-650",
+   "-640",
+   "-640",
+   "-639",
+   "-634",
+   "-630",
+   "-650",
+   "-625",
+   "-624",
+   "-624",
+   "-624",
+   "-620"
+  ],
+  "P570": [
+   "-545",
+   "-548",
+   "-546",
+   "-548",
+   "-543",
+   "-550",
+   "-546",
+   "-547",
+   "-548",
+   "-545"
+  ],
+  "P135": [
+   "Présocratiques",
+   "École milésienne"
+  ],
+  "P800": [
+   "propriété de l'angle inscrit dans un demi-cercle"
+  ],
+  "P101": [
+   "philosophie",
+   "mathématiques"
+  ]
+ },
+ "philosophes_anaximandre": {
+  "qid": "Q42458",
+  "P569": [
+   "-610",
+   "-620",
+   "-611"
+  ],
+  "P570": [
+   "-546",
+   "-547",
+   "-556"
+  ],
+  "P27": [
+   "Milet"
+  ],
+  "P135": [
+   "Présocratiques",
+   "École milésienne"
+  ],
+  "P800": [
+   "Apeiron"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_protagoras": {
+  "qid": "Q169243",
+  "P569": [
+   "-490",
+   "-486"
+  ],
+  "P570": [
+   "-420"
+  ],
+  "P135": [
+   "sophistique",
+   "Présocratiques"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_boece": {
+  "qid": "Q102851",
+  "P569": [
+   "480",
+   "475",
+   "475"
+  ],
+  "P570": [
+   "524",
+   "525",
+   "524"
+  ],
+  "P27": [
+   "royaume des Ostrogoths"
+  ],
+  "P800": [
+   "De la consolation de la philosophie",
+   "Opuscules théologiques",
+   "History",
+   "elogia",
+   "De institutione musica",
+   "De institutione arithmetica"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_pierre-abelard": {
+  "qid": "Q4295",
+  "P569": [
+   "1079"
+  ],
+  "P570": [
+   "1142",
+   "1142"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "musique de la période classique",
+   "scolastique",
+   "nominalisme"
+  ],
+  "P800": [
+   "Sic et non",
+   "Dialectique",
+   "Hymnarius Paraclithensis",
+   "Historia calamitatum",
+   "Collationes",
+   "Introductio ad theologiam",
+   "Theologia christiana",
+   "Planctus Israel super Samson",
+   "Expositio in Epistolam ad Romanos",
+   "Éthique",
+   "Expositio in Hexaemeron",
+   "Epistola de Dionysio Areopagita",
+   "Theologia summi boni",
+   "Sermons",
+   "Lettres",
+   "Correspondance d'Abélard et Héloïse",
+   "Theologia scholarium"
+  ],
+  "P101": [
+   "philosophie",
+   "scolastique"
+  ]
+ },
+ "philosophes_anselme-de-cantorbery": {
+  "qid": "Q43939",
+  "P569": [
+   "1033"
+  ],
+  "P570": [
+   "1109",
+   "1109"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Cur Deus homo",
+   "Monologion",
+   "Proslogion",
+   "De similitudinibus",
+   "Questions à un mourant",
+   "Meditationes",
+   "De casu diaboli",
+   "De libertate arbitrii",
+   "De veritate",
+   "De incarnatione Verbi",
+   "De concordia praescientiae, praedestinationis nec non gratiae Dei cum libero arbitrio",
+   "Lettres"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_al-farabi": {
+  "qid": "Q160460",
+  "P569": [
+   "870",
+   "872",
+   "872"
+  ],
+  "P570": [
+   "951"
+  ],
+  "P27": [
+   "califat abbasside"
+  ],
+  "P800": [
+   "Ara' ahl al-madina al-fadila",
+   "Risala fi al-'aql",
+   "al-jamʿ bayn rayi al-hikimayn",
+   "Kitab al-Musiqa al-Kabir",
+   "Énumération des sciences"
+  ],
+  "P101": [
+   "histoire naturelle",
+   "métaphysique",
+   "mathématiques",
+   "logique",
+   "astronomie",
+   "médecine",
+   "éthique",
+   "science politique",
+   "psychologie"
+  ]
+ },
+ "philosophes_nicolas-malebranche": {
+  "qid": "Q309818",
+  "P569": [
+   "1638"
+  ],
+  "P570": [
+   "1715"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "occasionnalisme"
+  ],
+  "P800": [
+   "De la recherche de la vérité",
+   "Traité de la nature et de la grâce",
+   "Entretiens sur la metaphysique et sur la religion"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_george-berkeley": {
+  "qid": "Q82049",
+  "P569": [
+   "1685",
+   "1689",
+   "1684"
+  ],
+  "P570": [
+   "1753",
+   "1753",
+   "1731"
+  ],
+  "P27": [
+   "royaume d'Irlande"
+  ],
+  "P135": [
+   "empirisme",
+   "Immatérialisme"
+  ],
+  "P800": [
+   "De Motu",
+   "An Essay Towards a New Theory of Vision",
+   "Principes de la connaissance humaine",
+   "Trois dialogues entre Hylas et Philonous",
+   "The Theory of Vision, or Visual Language",
+   "The Analyst",
+   "Siris",
+   "The Querist"
+  ],
+  "P101": [
+   "philosophie",
+   "théologie",
+   "éducation",
+   "épistémologie",
+   "métaphysique",
+   "philosophie des sciences",
+   "calcul infinitésimal",
+   "Immatérialisme"
+  ]
+ },
+ "philosophes_nicolas-de-condorcet": {
+  "qid": "Q201477",
+  "P569": [
+   "1743"
+  ],
+  "P570": [
+   "1794"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "philosophie des Lumières"
+  ],
+  "P800": [
+   "Esquisse d'un tableau historique des progrès de l'esprit humain",
+   "critère de Condorcet",
+   "paradoxe de Condorcet",
+   "méthode Condorcet",
+   "Réflexions sur l'esclavage des nègres",
+   "De la situation du trésor public au 1er juin 1791 par les commissaires de la Trésorerie nationale"
+  ],
+  "P101": [
+   "mathématiques"
+  ]
+ },
+ "philosophes_jeremy-bentham": {
+  "qid": "Q60887",
+  "P569": [
+   "1748",
+   "1749",
+   "1748"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "France",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "utilitarisme"
+  ],
+  "P101": [
+   "philosophie",
+   "droit",
+   "philosophie sociale",
+   "droits civiques",
+   "droits civils"
+  ]
+ },
+ "philosophes_johann-gottlieb-fichte": {
+  "qid": "Q102585",
+  "P569": [
+   "1762",
+   "1762"
+  ],
+  "P570": [
+   "1814",
+   "1814"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P135": [
+   "idéalisme allemand",
+   "Romantisme allemand"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_friedrich-wilhelm-joseph-von-schelling": {
+  "qid": "Q60070",
+  "P569": [
+   "1775"
+  ],
+  "P570": [
+   "1854"
+  ],
+  "P27": [
+   "royaume du Wurtemberg",
+   "Suisse"
+  ],
+  "P135": [
+   "idéalisme allemand"
+  ],
+  "P800": [
+   "Les Âges du monde"
+  ],
+  "P101": [
+   "philosophie naturelle",
+   "science de la nature",
+   "esthétique",
+   "métaphysique",
+   "épistémologie"
+  ]
+ },
+ "philosophes_friedrich-engels": {
+  "qid": "Q34787",
+  "P569": [
+   "1820"
+  ],
+  "P570": [
+   "1895"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Manifeste du Parti communiste",
+   "L'Idéologie allemande",
+   "Socialisme utopique et socialisme scientifique",
+   "Outlines of a Critique of Political Economy"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_pierre-joseph-proudhon": {
+  "qid": "Q5749",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1865"
+  ],
+  "P27": [
+   "France",
+   "Belgique"
+  ],
+  "P800": [
+   "Qu'est-ce que la propriété ?",
+   "Les Confessions d’un révolutionnaire",
+   "Philosophie de la misère",
+   "The General Idea of the Revolution in the Nineteenth Century",
+   "fédéralisme libertaire"
+  ],
+  "P101": [
+   "philosophie",
+   "liberté",
+   "possession",
+   "pouvoir",
+   "pauvreté",
+   "justice sociale",
+   "égalité sociale"
+  ]
+ },
+ "philosophes_mikhail-bakounine": {
+  "qid": "Q27645",
+  "P569": [
+   "1814",
+   "1814"
+  ],
+  "P570": [
+   "1876",
+   "1876"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P135": [
+   "anarchisme",
+   "athéisme",
+   "philosophie occidentale",
+   "socialisme libertaire"
+  ],
+  "P800": [
+   "Dieu et l’État",
+   "Catéchisme révolutionnaire",
+   "Étatisme et anarchie"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_alexis-de-tocqueville": {
+  "qid": "Q140694",
+  "P569": [
+   "1805"
+  ],
+  "P570": [
+   "1859"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "De la démocratie en Amérique",
+   "L'Ancien Régime et la Révolution"
+  ]
+ },
+ "philosophes_auguste-comte": {
+  "qid": "Q12718",
+  "P569": [
+   "1798"
+  ],
+  "P570": [
+   "1857",
+   "1857"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "positivisme"
+  ],
+  "P101": [
+   "philosophie",
+   "sociologie"
+  ]
+ },
+ "philosophes_william-james": {
+  "qid": "Q125249",
+  "P569": [
+   "1842"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "pragmatisme",
+   "functional psychology"
+  ],
+  "P800": [
+   "The Principles of Psychology",
+   "The Varieties of Religious Experience",
+   "Essays in Radical Empiricism"
+  ],
+  "P101": [
+   "philosophie",
+   "psychologie"
+  ]
+ },
+ "philosophes_john-dewey": {
+  "qid": "Q131805",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The School and Society",
+   "Democracy and Education",
+   "Experience and Education",
+   "The Public and its Problems",
+   "Art as Experience"
+  ],
+  "P101": [
+   "philosophie",
+   "philosophie de l'éducation"
+  ]
+ },
+ "philosophes_gottlob-frege": {
+  "qid": "Q60028",
+  "P569": [
+   "1848"
+  ],
+  "P570": [
+   "1925"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "Sens et Dénotation",
+   "Idéographie",
+   "Les Fondements de l'arithmétique",
+   "théorème de Frege",
+   "Frege's propositional calculus",
+   "Casse-têtes de Frege",
+   "Frege system",
+   "Principe de compositionnalité",
+   "Frege–Church ontology",
+   "Lois fondamentales de l'arithmétique"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_willard-van-orman-quine": {
+  "qid": "Q214969",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Mot et la Chose",
+   "The Roots of Reference",
+   "Deux dogmes de l'empirisme",
+   "méthode de Quine-Mc Cluskey",
+   "Thèse Duhem-Quine",
+   "Quine's paradox",
+   "Argument d'indispensabilité de Quine-Putnam"
+  ],
+  "P101": [
+   "théorie des modèles",
+   "théorie des ensembles",
+   "ontologie"
+  ]
+ },
+ "philosophes_daniel-dennett": {
+  "qid": "Q215263",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "philosophie analytique"
+  ],
+  "P101": [
+   "philosophie de l'esprit",
+   "sciences cognitives",
+   "libre arbitre",
+   "philosophie de la religion",
+   "philosophie",
+   "philosophie des sciences",
+   "philosophie de la biologie",
+   "science advocacy"
+  ]
+ },
+ "philosophes_peter-singer": {
+  "qid": "Q211539",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Australie"
+  ],
+  "P135": [
+   "philosophie occidentale",
+   "utilitarisme",
+   "mouvement des droits des animaux",
+   "altruisme efficace"
+  ],
+  "P800": [
+   "La Libération animale",
+   "The Life You Can Save"
+  ],
+  "P101": [
+   "bioéthique",
+   "éthique appliquée"
+  ]
+ },
+ "philosophes_alain-philosophe": {
+  "qid": "Q275003",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1951"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Propos sur le bonheur",
+   "Propos d'un Normand",
+   "Éléments de philosophie",
+   "Mars ou la Guerre jugée",
+   "Les propos d’Alain",
+   "Histoire de mes pensées"
+  ],
+  "P101": [
+   "philosophie politique",
+   "éthique",
+   "esthétique"
+  ]
+ },
+ "philosophes_gaston-bachelard": {
+  "qid": "Q270800",
+  "P569": [
+   "1884"
+  ],
+  "P570": [
+   "1962"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "épistémologie historique"
+  ],
+  "P800": [
+   "La Formation de l'esprit scientifique",
+   "La Psychanalyse du feu",
+   "L'Eau et les Rêves",
+   "L'Expérience de l'espace dans la physique contemporaine"
+  ],
+  "P101": [
+   "philosophie des sciences",
+   "esthétique"
+  ]
+ },
+ "philosophes_emmanuel-levinas": {
+  "qid": "Q153034",
+  "P569": [
+   "1906",
+   "1905"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "France",
+   "Lituanie"
+  ],
+  "P800": [
+   "Totalité et Infini"
+  ],
+  "P101": [
+   "philosophie",
+   "phénoménologie",
+   "judaïsme",
+   "éthique"
+  ]
+ },
+ "philosophes_paul-ric-ur": {
+  "qid": "Q192066",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "philosophie",
+   "phénoménologie"
+  ]
+ },
+ "philosophes_roland-barthes": {
+  "qid": "Q179109",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "structuralisme"
+  ],
+  "P800": [
+   "La Mort de l'auteur",
+   "Mythologies"
+  ],
+  "P101": [
+   "critique littéraire",
+   "théorie de la littérature",
+   "sémiotique",
+   "activité littéraire",
+   "semiotic literary criticism"
+  ],
+  "P136": [
+   "journal intime",
+   "essai"
+  ]
+ },
+ "philosophes_walter-benjamin": {
+  "qid": "Q61078",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Reich allemand"
+  ],
+  "P135": [
+   "marxisme"
+  ],
+  "P800": [
+   "Sur le concept d'histoire",
+   "L'Œuvre d'art à l'époque de sa reproductibilité technique",
+   "The Origin of German Tragic Drama",
+   "Sens unique",
+   "Paris, capitale du XIXe siècle"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_theodor-w-adorno": {
+  "qid": "Q152388",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis",
+   "Allemagne",
+   "Empire allemand",
+   "Autriche",
+   "Suisse"
+  ],
+  "P135": [
+   "école de Francfort",
+   "nouvelle musique",
+   "philosophie continentale"
+  ],
+  "P800": [
+   "Gesammelte Schriften",
+   "Dialectique négative",
+   "Aesthetic Theory",
+   "Dialectique de la Raison",
+   "Philosophie und Musik",
+   "Minima Moralia",
+   "Études sur la personnalité autoritaire"
+  ],
+  "P101": [
+   "philosophie",
+   "sociologie",
+   "musicologie",
+   "esthétique",
+   "théorie sociale"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "philosophes_herbert-marcuse": {
+  "qid": "Q60030",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "république de Weimar",
+   "États-Unis",
+   "Allemagne de l'Ouest",
+   "Allemagne",
+   "Suisse"
+  ],
+  "P135": [
+   "école de Francfort"
+  ],
+  "P800": [
+   "Éros et civilisation",
+   "L'Homme unidimensionnel",
+   "Existentialistische Marx-Interpretation",
+   "Contre-révolution et Révolte",
+   "A Critique of Pure Tolerance"
+  ],
+  "P101": [
+   "philosophie",
+   "théorie sociale",
+   "Freudo-marxisme"
+  ]
+ },
+ "philosophes_antonio-gramsci": {
+  "qid": "Q83003",
+  "P569": [
+   "1891",
+   "1891"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ],
+  "P135": [
+   "philosophie continentale",
+   "marxisme occidental",
+   "néomarxisme",
+   "humanisme-marxisme"
+  ],
+  "P800": [
+   "Cahiers de prison"
+  ],
+  "P101": [
+   "philosophie",
+   "politique",
+   "journalisme d'opinion",
+   "littérature",
+   "science économique",
+   "critique littéraire",
+   "critique dramatique"
+  ]
+ },
+ "philosophes_mozi": {
+  "qid": "Q272411",
+  "P569": [
+   "-470"
+  ],
+  "P570": [
+   "-391"
+  ],
+  "P27": [
+   "dynastie Zhou"
+  ],
+  "P101": [
+   "éthique",
+   "philosophie sociale",
+   "philosophie politique",
+   "logique",
+   "épistémologie"
+  ]
+ },
+ "philosophes_xun-zi": {
+  "qid": "Q216072",
+  "P569": [
+   "-313"
+  ],
+  "P570": [
+   "-230"
+  ],
+  "P27": [
+   "État Qí",
+   "Zhao"
+  ],
+  "P800": [
+   "Xunzi"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_wang-yangming": {
+  "qid": "Q378462",
+  "P569": [
+   "1472"
+  ],
+  "P570": [
+   "1529"
+  ],
+  "P27": [
+   "dynastie Ming"
+  ],
+  "P135": [
+   "néoconfucianisme",
+   "Yangmingisme"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_zhu-xi": {
+  "qid": "Q9397",
+  "P569": [
+   "1130"
+  ],
+  "P570": [
+   "1200"
+  ],
+  "P27": [
+   "dynastie Song"
+  ],
+  "P135": [
+   "École Cheng-Zhu"
+  ],
+  "P800": [
+   "Zizhi Tongjian Gangmu",
+   "Zhu Xi’s Commentary on the Cantong Qi",
+   "Four Books in Chapter and Verse with Collected Commentaries"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_dogen": {
+  "qid": "Q318064",
+  "P569": [
+   "1200"
+  ],
+  "P570": [
+   "1253"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Shōbōgenzō",
+   "Fukanzazengi",
+   "Shōbōgenzō Zuimonki",
+   "Hōkyōki",
+   "Q134097143"
+  ]
+ },
+ "philosophes_vishnugupta-chanakya": {
+  "qid": "Q9045",
+  "P569": [
+   "-375"
+  ],
+  "P570": [
+   "-283"
+  ],
+  "P800": [
+   "Arthashâstra"
+  ],
+  "P136": [
+   "traité"
+  ]
+ },
+ "philosophes_jiddu-krishnamurti": {
+  "qid": "Q179266",
+  "P569": [
+   "1895",
+   "1895"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "Raj britannique",
+   "Inde",
+   "Union indienne"
+  ],
+  "P800": [
+   "Se libérer du connu",
+   "The First and Last Freedom",
+   "Commentaries on Living",
+   "Krishnamurti Foundation"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "philosophes_zera-yacob": {
+  "qid": "Q2896591",
+  "P569": [
+   "1600"
+  ],
+  "P570": [
+   "1693"
+  ],
+  "P135": [
+   "philosophie éthiopienne"
+  ],
+  "P800": [
+   "Hatata"
+  ]
+ },
+ "philosophes_cheikh-anta-diop": {
+  "qid": "Q521729",
+  "P569": [
+   "1923",
+   "1933"
+  ],
+  "P570": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "Sénégal"
+  ],
+  "P135": [
+   "négritude"
+  ],
+  "P101": [
+   "anthropologue",
+   "physicien ou physicienne",
+   "personnalité politique"
+  ]
+ }
+}

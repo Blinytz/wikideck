@@ -1,0 +1,710 @@
+{
+ "cepages_cabernet-sauvignon": {
+  "qid": "Q207310",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_merlot": {
+  "qid": "Q213338",
+  "P571": [
+   "1750",
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_pinot-noir-cepage": {
+  "qid": "Q223701",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_syrah": {
+  "qid": "Q332720",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_grenache": {
+  "qid": "Q390242",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Aragon",
+   "Alella",
+   "Priorat",
+   "Province du Roussillon",
+   "Rhône",
+   "Sardaigne",
+   "La Rioja"
+  ],
+  "P495": [
+   "Espagne",
+   "Italie"
+  ]
+ },
+ "cepages_tempranillo": {
+  "qid": "Q519874",
+  "P571": [
+   "1999"
+  ],
+  "P495": [
+   "Espagne",
+   "Italie"
+  ]
+ },
+ "cepages_sangiovese": {
+  "qid": "Q509162",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_nebbiolo": {
+  "qid": "Q202290",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Piémont",
+   "Lombardie"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_malbec": {
+  "qid": "Q1414045",
+  "P571": [
+   "1971"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_zinfandel": {
+  "qid": "Q204433",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Croatie",
+   "Italie"
+  ]
+ },
+ "cepages_gamay": {
+  "qid": "Q12982",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_carignan-n": {
+  "qid": "Q251054",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Espagne",
+   "Italie"
+  ]
+ },
+ "cepages_mourvedre": {
+  "qid": "Q161864",
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "cepages_cabernet-franc": {
+  "qid": "Q63591",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_carmenere": {
+  "qid": "Q1043868",
+  "P571": [
+   "1996"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_pinotage": {
+  "qid": "Q1504214",
+  "P170": [
+   "Abraham Izaak Perold"
+  ],
+  "P571": [
+   "1925"
+  ],
+  "P495": [
+   "Afrique du Sud"
+  ]
+ },
+ "cepages_barbera": {
+  "qid": "Q807812",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_tannat": {
+  "qid": "Q928151",
+  "P571": [
+   "1999"
+  ],
+  "P276": [
+   "Madiran"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_cinsault": {
+  "qid": "Q1092578",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_petit-verdot": {
+  "qid": "Q637453",
+  "P571": [
+   "1995"
+  ],
+  "P276": [
+   "Bordeaux"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_montepulciano-cepage": {
+  "qid": "Q1937737",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Abruzzes",
+   "Marches",
+   "Ombrie"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_nero-d-avola": {
+  "qid": "Q1713890",
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_touriga-nacional": {
+  "qid": "Q1503069",
+  "P571": [
+   "2023"
+  ],
+  "P495": [
+   "Portugal",
+   "Italie"
+  ]
+ },
+ "cepages_aglianico": {
+  "qid": "Q394234",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Basilicate",
+   "Campanie",
+   "Pouilles"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_dolcetto": {
+  "qid": "Q1235396",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Piémont"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_blaufrankisch": {
+  "qid": "Q882859",
+  "P571": [
+   "1971"
+  ],
+  "P495": [
+   "Slovénie",
+   "Italie"
+  ]
+ },
+ "cepages_poulsard": {
+  "qid": "Q1409433"
+ },
+ "cepages_trousseau": {
+  "qid": "Q63319",
+  "P571": [
+   "2023"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_negrette": {
+  "qid": "Q464575"
+ },
+ "cepages_meunier-cepage": {
+  "qid": "Q947208",
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_mondeuse-noire": {
+  "qid": "Q570214",
+  "P571": [
+   "2006"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_saperavi": {
+  "qid": "Q1446649",
+  "P495": [
+   "Géorgie"
+  ]
+ },
+ "cepages_chardonnay-cepage": {
+  "qid": "Q213332",
+  "P571": [
+   "1978"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_sauvignon": {
+  "qid": "Q44542",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_riesling-cepage": {
+  "qid": "Q456471",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Allemagne",
+   "Italie"
+  ]
+ },
+ "cepages_chenin": {
+  "qid": "Q1070101",
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_viognier": {
+  "qid": "Q965255",
+  "P571": [
+   "1999"
+  ],
+  "P276": [
+   "vallée du Rhône"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_semillon": {
+  "qid": "Q391558",
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_gewurztraminer-cepage": {
+  "qid": "Q756654",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Haut-Adige",
+   "Italie"
+  ]
+ },
+ "cepages_muscat-blanc-a-petits-grains": {
+  "qid": "Q1499340",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Grèce",
+   "Italie"
+  ]
+ },
+ "cepages_pinot-gris-cepage": {
+  "qid": "Q778601",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_gruner-veltliner": {
+  "qid": "Q180175",
+  "P495": [
+   "Autriche",
+   "Italie"
+  ]
+ },
+ "cepages_alvarinho": {
+  "qid": "Q448487",
+  "P131": [
+   "Galice",
+   "Région Nord"
+  ],
+  "P495": [
+   "Espagne",
+   "Portugal"
+  ]
+ },
+ "cepages_marsanne-cepage": {
+  "qid": "Q1600638",
+  "P571": [
+   "1991"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_roussanne": {
+  "qid": "Q1414052",
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_melon-cepage": {
+  "qid": "Q1417652",
+  "P495": [
+   "Bourgogne"
+  ]
+ },
+ "cepages_aligote": {
+  "qid": "Q1514198",
+  "P571": [
+   "1750"
+  ],
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_savagnin": {
+  "qid": "Q1760900",
+  "P495": [
+   "Grand Est",
+   "Franche-Comté",
+   "Rhénanie-Palatinat",
+   "Bade-Wurtemberg"
+  ]
+ },
+ "cepages_vermentino": {
+  "qid": "Q387147",
+  "P571": [
+   "1970"
+  ],
+  "P276": [
+   "Ligurie",
+   "Provence"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_trebbiano": {
+  "qid": "Q967934",
+  "P131": [
+   "Toscane",
+   "Abruzzes",
+   "Basilicate",
+   "Calabre",
+   "Campanie",
+   "Émilie-Romagne",
+   "Latium",
+   "Lombardie",
+   "Marches",
+   "Molise",
+   "Sicile",
+   "Ombrie"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_palomino-cepage": {
+  "qid": "Q657693",
+  "P276": [
+   "Andalousie",
+   "Galice",
+   "îles Canaries",
+   "Douro"
+  ],
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "cepages_furmint": {
+  "qid": "Q940015",
+  "P495": [
+   "Hongrie"
+  ]
+ },
+ "cepages_pedro-ximenez": {
+  "qid": "Q1930535",
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "cepages_picpoul": {
+  "qid": "Q443679"
+ },
+ "cepages_mauzac-cepage": {
+  "qid": "Q440964"
+ },
+ "cepages_colombar-cepage": {
+  "qid": "Q1110390",
+  "P495": [
+   "Charente"
+  ]
+ },
+ "cepages_petit-manseng": {
+  "qid": "Q462509",
+  "P571": [
+   "2007"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_gros-manseng": {
+  "qid": "Q462851"
+ },
+ "cepages_clairette-cepage": {
+  "qid": "Q456763",
+  "P495": [
+   "France"
+  ]
+ },
+ "cepages_sylvaner-cepage": {
+  "qid": "Q1133517",
+  "P276": [
+   "Vignoble d'Alsace",
+   "Vignoble de Hesse-Rhénane",
+   "Vignoble de Franconie",
+   "Vignoble de Palatinat"
+  ],
+  "P495": [
+   "Autriche"
+  ]
+ },
+ "cepages_chasselas-cepage": {
+  "qid": "Q939724",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "cepages_jacquere": {
+  "qid": "Q282095"
+ },
+ "cepages_folle-blanche": {
+  "qid": "Q13636775"
+ },
+ "cepages_assyrtiko": {
+  "qid": "Q457444",
+  "P571": [
+   "2023"
+  ],
+  "P495": [
+   "Grèce",
+   "Italie"
+  ]
+ },
+ "cepages_pinot-blanc": {
+  "qid": "Q950514",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France",
+   "Italie"
+  ]
+ },
+ "cepages_altesse-cepage": {
+  "qid": "Q439808"
+ },
+ "cepages_fer-servadou": {
+  "qid": "Q440796"
+ },
+ "cepages_glera": {
+  "qid": "Q593014",
+  "P131": [
+   "Akureyri"
+  ],
+  "P17": [
+   "Islande"
+  ]
+ },
+ "cepages_corvina-veronese": {
+  "qid": "Q26145",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Italie"
+  ]
+ },
+ "cepages_lambrusco": {
+  "qid": "Q1146204",
+  "P131": [
+   "Émilie-Romagne"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "cepages_verdejo": {
+  "qid": "Q456276",
+  "P571": [
+   "2014"
+  ],
+  "P495": [
+   "Espagne",
+   "Italie"
+  ]
+ },
+ "cepages_macabeu": {
+  "qid": "Q1756570",
+  "P571": [
+   "2023"
+  ],
+  "P495": [
+   "Espagne",
+   "Italie"
+  ]
+ },
+ "cepages_mencia": {
+  "qid": "Q1293271",
+  "P276": [
+   "Bierzo",
+   "Ribeira Sacra",
+   "Valdeorras",
+   "Monterrei"
+  ],
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "cepages_muller-thurgau": {
+  "qid": "Q681670",
+  "P170": [
+   "Hermann Müller"
+  ],
+  "P571": [
+   "1882",
+   "1970"
+  ],
+  "P276": [
+   "Allemagne",
+   "Autriche",
+   "Hongrie",
+   "Moravia",
+   "Trentino"
+  ],
+  "P495": [
+   "Suisse",
+   "Italie"
+  ]
+ },
+ "cepages_rkatsiteli": {
+  "qid": "Q576472",
+  "P495": [
+   "Géorgie"
+  ]
+ }
+}

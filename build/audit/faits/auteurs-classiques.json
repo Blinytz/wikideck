@@ -1,0 +1,4323 @@
+{
+ "auteurs-classiques_homere": {
+  "qid": "Q6691",
+  "P569": [
+   "-900"
+  ],
+  "P570": [
+   "-800"
+  ],
+  "P27": [
+   "Confédération ionienne"
+  ],
+  "P800": [
+   "Iliade",
+   "Odyssée",
+   "Homeric epics"
+  ],
+  "P101": [
+   "littérature grecque"
+  ],
+  "P136": [
+   "épopée"
+  ]
+ },
+ "auteurs-classiques_sophocle": {
+  "qid": "Q7235",
+  "P569": [
+   "-496"
+  ],
+  "P570": [
+   "-406"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P800": [
+   "Œdipe roi",
+   "Œdipe à Colone",
+   "Antigone",
+   "Philoctète",
+   "Ajax",
+   "Électre",
+   "Les Trachiniennes",
+   "Les Limiers"
+  ],
+  "P101": [
+   "littérature",
+   "drame",
+   "politique"
+  ],
+  "P136": [
+   "tragédie grecque"
+  ]
+ },
+ "auteurs-classiques_euripide": {
+  "qid": "Q48305",
+  "P569": [
+   "-480",
+   "-485",
+   "-484",
+   "-484",
+   "-481",
+   "-480",
+   "-480",
+   "-480"
+  ],
+  "P570": [
+   "-406",
+   "-407",
+   "-405",
+   "-406",
+   "-406",
+   "-406",
+   "-405"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P800": [
+   "Alceste",
+   "Andromaque",
+   "Les Bacchantes",
+   "Hécube",
+   "Hélène",
+   "Électre",
+   "Les Héraclides",
+   "La Folie d'Héraclès",
+   "Les Suppliantes",
+   "Hippolyte",
+   "Iphigénie à Aulis",
+   "Iphigénie en Tauride",
+   "Ion",
+   "Le Cyclope",
+   "Médée",
+   "Oreste",
+   "Rhésos",
+   "Les Troyennes",
+   "Les Phéniciennes"
+  ],
+  "P101": [
+   "drame",
+   "poésie",
+   "philosophie"
+  ],
+  "P136": [
+   "tragédie grecque"
+  ]
+ },
+ "auteurs-classiques_virgile": {
+  "qid": "Q1398",
+  "P569": [
+   "-70",
+   "-70"
+  ],
+  "P570": [
+   "-19",
+   "-19"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "poésie augustéenne"
+  ],
+  "P800": [
+   "Bucoliques",
+   "Géorgiques",
+   "Énéide"
+  ],
+  "P101": [
+   "épopée",
+   "poésie pastorale"
+  ],
+  "P136": [
+   "épopée",
+   "poésie pastorale"
+  ]
+ },
+ "auteurs-classiques_ovide": {
+  "qid": "Q7198",
+  "P569": [
+   "-43"
+  ],
+  "P570": [
+   "17"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Métamorphoses",
+   "Héroïdes",
+   "Ibis",
+   "Volgarized Ovid (Crusca Ms. 110)",
+   "Halieutiques",
+   "Les Produits de beauté pour le visage de la femme",
+   "L'Art d'aimer",
+   "Fastes",
+   "Epistulae ex Ponto",
+   "Remedia amoris",
+   "Tristes",
+   "Les Amours"
+  ],
+  "P136": [
+   "tragédie",
+   "élégie",
+   "épopée"
+  ]
+ },
+ "auteurs-classiques_dante-alighieri": {
+  "qid": "Q1067",
+  "P569": [
+   "1265"
+  ],
+  "P570": [
+   "1321",
+   "1321",
+   "1321",
+   "1321"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "dolce stil novo"
+  ],
+  "P800": [
+   "La Divine Comédie",
+   "Il convivio",
+   "De Monarchia",
+   "De vulgari eloquentia",
+   "Vita Nuova",
+   "Questio de situ et formae aque et terre",
+   "Le Rime",
+   "Epistles",
+   "Églogues",
+   "L'oracion che fe Danti a la morte"
+  ],
+  "P101": [
+   "poésie",
+   "littérature",
+   "linguistique",
+   "philosophie politique"
+  ],
+  "P136": [
+   "long poem",
+   "traité"
+  ]
+ },
+ "auteurs-classiques_geoffrey-chaucer": {
+  "qid": "Q5683",
+  "P569": [
+   "1343"
+  ],
+  "P570": [
+   "1400",
+   "1400"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P800": [
+   "Les Contes de Cantorbéry",
+   "Le Livre de la Duchesse",
+   "Le Palais de la Renommée",
+   "Troïlus et Criseyde",
+   "La Légende des femmes vertueuses",
+   "The compleynt unto Pity",
+   "Traité de l'astrolabe",
+   "The compleynt of Venus",
+   "The Complaint of Mars",
+   "Chaucer's complaint unto his purse",
+   "Boece",
+   "The parliament of fowls",
+   "The Romaunt of the Rose",
+   "Anelida and Arcite"
+  ],
+  "P101": [
+   "bureaucratie"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_francois-rabelais": {
+  "qid": "Q131018",
+  "P569": [
+   "1494"
+  ],
+  "P570": [
+   "1553"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "libre-pensée",
+   "humanisme de la Renaissance"
+  ],
+  "P800": [
+   "abbaye de Thélème",
+   "Gargantua et Pantagruel"
+  ]
+ },
+ "auteurs-classiques_michel-de-montaigne": {
+  "qid": "Q41568",
+  "P569": [
+   "1533"
+  ],
+  "P570": [
+   "1592",
+   "1592"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Essais"
+  ],
+  "P101": [
+   "philosophie",
+   "traductions du latin",
+   "traductions en français",
+   "essai",
+   "autobiographie",
+   "politique",
+   "poésie",
+   "prose",
+   "morale",
+   "scepticisme"
+  ]
+ },
+ "auteurs-classiques_william-shakespeare": {
+  "qid": "Q692",
+  "P569": [
+   "1564"
+  ],
+  "P570": [
+   "1616"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "Renaissance anglaise"
+  ],
+  "P800": [
+   "Hamlet",
+   "Roméo et Juliette",
+   "Comme il vous plaira",
+   "Macbeth",
+   "Le Songe d'une nuit d'été",
+   "Sonnets de Shakespeare",
+   "La Mégère apprivoisée",
+   "Les Deux Gentilshommes de Vérone",
+   "Le Roi Jean",
+   "Richard II",
+   "Henry IV, première partie",
+   "Henri IV, 2e partie",
+   "Henri V",
+   "Henri VI, première Partie",
+   "Henri VI, deuxième partie",
+   "Henry VI, troisième Partie",
+   "Richard III",
+   "Henri VIII",
+   "Peines d'amour perdues",
+   "Le Marchand de Venise",
+   "Beaucoup de bruit pour rien",
+   "Les Joyeuses Commères de Windsor",
+   "La Nuit des rois",
+   "Tout est bien qui finit bien",
+   "Mesure pour mesure",
+   "Titus Andronicus",
+   "Jules César",
+   "Othello",
+   "Le Roi Lear",
+   "Antoine et Cléopâtre",
+   "Coriolan",
+   "Timon d'Athènes",
+   "Troïlus et Cressida",
+   "Cymbeline",
+   "Le Conte d'hiver",
+   "Périclès, prince de Tyr",
+   "La Tempête",
+   "Les Deux Nobles Cousins",
+   "La Comédie des erreurs"
+  ],
+  "P101": [
+   "belles-lettres",
+   "théâtre",
+   "English theatre",
+   "drame",
+   "poésie",
+   "comédie"
+  ],
+  "P136": [
+   "William Shakespeare's plays",
+   "comédie shakespearienne",
+   "Shakespearean tragedy",
+   "poésie narrative",
+   "épitaphe"
+  ]
+ },
+ "auteurs-classiques_miguel-de-cervantes": {
+  "qid": "Q5682",
+  "P569": [
+   "1547",
+   "1547"
+  ],
+  "P570": [
+   "1616",
+   "1616",
+   "1616"
+  ],
+  "P27": [
+   "couronne de Castille"
+  ],
+  "P135": [
+   "siècle d'or espagnol",
+   "maniérisme",
+   "littérature de la Renaissance"
+  ],
+  "P800": [
+   "Don Quichotte",
+   "Nouvelles exemplaires"
+  ],
+  "P101": [
+   "belles-lettres",
+   "littérature",
+   "théâtre",
+   "domaine militaire"
+  ],
+  "P136": [
+   "tragédie",
+   "comédie"
+  ]
+ },
+ "auteurs-classiques_moliere": {
+  "qid": "Q687",
+  "P569": [
+   "1622",
+   "1622"
+  ],
+  "P570": [
+   "1673",
+   "1673"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "Les Fourberies de Scapin",
+   "Le Bourgeois gentilhomme",
+   "Le Malade imaginaire",
+   "Le Misanthrope",
+   "Le Tartuffe",
+   "Dom Juan ou le Festin de pierre",
+   "L'École des femmes",
+   "Sganarelle ou le Cocu imaginaire",
+   "Psyché",
+   "Pastorale comique",
+   "Mélicerte",
+   "Monsieur de Pourceaugnac",
+   "L'Étourdi ou les Contretemps",
+   "L'École des maris",
+   "L'Impromptu de Versailles",
+   "L'Avare",
+   "L'Amour médecin",
+   "Les Précieuses ridicules",
+   "Les Fâcheux",
+   "Les Femmes savantes",
+   "Les Amants magnifiques",
+   "Le Sicilien ou l'Amour peintre",
+   "Le Médecin volant",
+   "Le Médecin malgré lui",
+   "Le Mariage forcé",
+   "Le Dépit amoureux",
+   "La Princesse d'Élide",
+   "La Jalousie du barbouillé"
+  ],
+  "P101": [
+   "théâtre",
+   "comédie"
+  ],
+  "P136": [
+   "comédie",
+   "farce"
+  ]
+ },
+ "auteurs-classiques_jean-racine": {
+  "qid": "Q742",
+  "P569": [
+   "1639"
+  ],
+  "P570": [
+   "1699"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "Andromaque",
+   "Phèdre",
+   "Athalie",
+   "La Thébaïde",
+   "Alexandre le Grand",
+   "Les Plaideurs",
+   "Britannicus",
+   "Bérénice",
+   "Bajazet",
+   "Mithridate",
+   "Iphigénie",
+   "Esther"
+  ],
+  "P136": [
+   "tragédie"
+  ]
+ },
+ "auteurs-classiques_john-milton": {
+  "qid": "Q79759",
+  "P569": [
+   "1608"
+  ],
+  "P570": [
+   "1674"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P800": [
+   "Le Paradis perdu",
+   "Areopagitica"
+  ],
+  "P101": [
+   "belles-lettres"
+  ]
+ },
+ "auteurs-classiques_jonathan-swift": {
+  "qid": "Q41166",
+  "P569": [
+   "1667"
+  ],
+  "P570": [
+   "1745"
+  ],
+  "P27": [
+   "royaume d'Irlande"
+  ],
+  "P800": [
+   "Les Voyages de Gulliver",
+   "Modeste proposition",
+   "Le Conte du tonneau"
+  ],
+  "P136": [
+   "satire",
+   "pritcha",
+   "pamphlet",
+   "essai"
+  ]
+ },
+ "auteurs-classiques_voltaire": {
+  "qid": "Q9068",
+  "P569": [
+   "1694",
+   "1694"
+  ],
+  "P570": [
+   "1778"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "libre-pensée",
+   "siècle des Lumières",
+   "déisme"
+  ],
+  "P800": [
+   "Candide, ou l'Optimisme",
+   "Zadig ou la Destinée",
+   "Zaïre",
+   "Lettres philosophiques",
+   "Dictionnaire philosophique",
+   "L'Ingénu",
+   "Le Fanatisme ou Mahomet",
+   "Correspondance de Voltaire",
+   "CORRESPONDANCE DE VOLTAIRE A FRÉDÉRIC II"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "auteurs-classiques_jean-jacques-rousseau": {
+  "qid": "Q6527",
+  "P569": [
+   "1712"
+  ],
+  "P570": [
+   "1778"
+  ],
+  "P27": [
+   "République de Genève"
+  ],
+  "P135": [
+   "philosophie des Lumières",
+   "musique baroque"
+  ],
+  "P800": [
+   "Émile ou De l'éducation",
+   "Du Contrat social",
+   "Julie ou la Nouvelle Héloïse",
+   "Les Confessions"
+  ],
+  "P101": [
+   "botanique"
+  ]
+ },
+ "auteurs-classiques_denis-diderot": {
+  "qid": "Q448",
+  "P569": [
+   "1713"
+  ],
+  "P570": [
+   "1784"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "encyclopédiste",
+   "matérialisme",
+   "philosophie des Lumières"
+  ],
+  "P800": [
+   "Jacques le Fataliste et son maître",
+   "Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "auteurs-classiques_johann-wolfgang-von-goethe": {
+  "qid": "Q5879",
+  "P569": [
+   "1749",
+   "1749"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "grand-duché de Saxe-Weimar-Eisenach"
+  ],
+  "P135": [
+   "Sturm und Drang",
+   "Classicisme de Weimar",
+   "siècle des Lumières"
+  ],
+  "P800": [
+   "Faust",
+   "Les Souffrances du jeune Werther",
+   "Les Années d'apprentissage de Wilhelm Meister",
+   "Les Affinités électives",
+   "Prométhée",
+   "Traité des couleurs",
+   "Voyage en Italie",
+   "Divan occidental-oriental",
+   "Egmont",
+   "L'Apprenti sorcier",
+   "Le Roi des aulnes",
+   "Maxims and reflections of Goethe"
+  ],
+  "P101": [
+   "anatomie",
+   "météorologie",
+   "géologie",
+   "physique"
+  ],
+  "P136": [
+   "poésie lyrique",
+   "drame",
+   "tragédie"
+  ]
+ },
+ "auteurs-classiques_friedrich-schiller": {
+  "qid": "Q22670",
+  "P569": [
+   "1759"
+  ],
+  "P570": [
+   "1805"
+  ],
+  "P27": [
+   "duché de Wurtemberg",
+   "duché de Saxe-Weimar"
+  ],
+  "P135": [
+   "Sturm und Drang",
+   "Classicisme de Weimar"
+  ],
+  "P800": [
+   "Les Brigands",
+   "Don Carlos",
+   "Wallenstein",
+   "Marie Stuart",
+   "Guillaume Tell",
+   "Cabale et Amour",
+   "Lettres sur l'éducation esthétique de l'homme",
+   "Die Huldigung der Künste",
+   "La Pucelle d'Orléans"
+  ],
+  "P101": [
+   "poésie",
+   "théâtre",
+   "philosophie",
+   "histoire",
+   "littérature"
+  ],
+  "P136": [
+   "ballade"
+  ]
+ },
+ "auteurs-classiques_jane-austen": {
+  "qid": "Q36322",
+  "P569": [
+   "1775",
+   "1775"
+  ],
+  "P570": [
+   "1817",
+   "1817"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Orgueil et Préjugés",
+   "Emma",
+   "Persuasion",
+   "Raison et Sentiments",
+   "Mansfield Park",
+   "L'Abbaye de Northanger"
+  ],
+  "P101": [
+   "littérature",
+   "fiction",
+   "romance"
+  ],
+  "P136": [
+   "littérature gothique",
+   "romance"
+  ]
+ },
+ "auteurs-classiques_walter-scott": {
+  "qid": "Q79025",
+  "P569": [
+   "1771"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Waverley",
+   "Rob Roy",
+   "Ivanhoé",
+   "Les Puritains d'Écosse",
+   "La Dame du lac"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "théâtre",
+   "romantisme",
+   "littérature historique"
+  ]
+ },
+ "auteurs-classiques_alexandre-pouchkine": {
+  "qid": "Q7200",
+  "P569": [
+   "1799",
+   "1799",
+   "1799",
+   "1799"
+  ],
+  "P570": [
+   "1837",
+   "1837",
+   "1837"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Eugène Onéguine",
+   "La Fille du capitaine",
+   "Boris Godounov",
+   "Rouslan et Ludmila",
+   "Le Prophète",
+   "The Tale of the Priest and of His Workman Balda",
+   "Le Conte du Pêcheur et du Petit Poisson",
+   "Conte de la Princesse morte et des sept chevaliers",
+   "Le Coq d'or (conte)"
+  ],
+  "P101": [
+   "histoire",
+   "dramaturgie",
+   "traduction",
+   "critique"
+  ],
+  "P136": [
+   "prose",
+   "journalisme d'opinion",
+   "critique",
+   "roman en vers",
+   "roman de voleur",
+   "récit",
+   "conte merveilleux",
+   "littérature historique"
+  ]
+ },
+ "auteurs-classiques_victor-hugo": {
+  "qid": "Q535",
+  "P569": [
+   "1802"
+  ],
+  "P570": [
+   "1885"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme français",
+   "libre-pensée"
+  ],
+  "P800": [
+   "Les Misérables",
+   "Notre-Dame de Paris",
+   "Les Contemplations",
+   "L'Art d'être grand-père",
+   "L'Homme qui rit",
+   "Les Orientales",
+   "Les Travailleurs de la mer",
+   "Quatrevingt-treize"
+  ],
+  "P101": [
+   "écriture créative et professionnelle"
+  ],
+  "P136": [
+   "pamphlet"
+  ]
+ },
+ "auteurs-classiques_alexandre-dumas": {
+  "qid": "Q38337",
+  "P569": [
+   "1802",
+   "1802",
+   "1802"
+  ],
+  "P570": [
+   "1870",
+   "1870",
+   "1870"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme français"
+  ],
+  "P800": [
+   "Le Comte de Monte-Cristo",
+   "Les Trois Mousquetaires",
+   "La Reine Margot",
+   "Vingt ans après",
+   "La Dame de Monsoreau",
+   "Joseph Balsamo",
+   "Les Quarante-cinq",
+   "Le Vicomte de Bragelonne",
+   "Le Collier de la reine",
+   "La Comtesse de Charny",
+   "Ange Pitou"
+  ],
+  "P101": [
+   "littérature française"
+  ]
+ },
+ "auteurs-classiques_honore-de-balzac": {
+  "qid": "Q9711",
+  "P569": [
+   "1799",
+   "1799"
+  ],
+  "P570": [
+   "1850"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Le Père Goriot",
+   "La Comédie humaine",
+   "Illusions perdues",
+   "Eugénie Grandet",
+   "Splendeurs et misères des courtisanes",
+   "La Peau de chagrin",
+   "Les Chouans"
+  ],
+  "P101": [
+   "littérature française",
+   "journalisme",
+   "critique littéraire"
+  ]
+ },
+ "auteurs-classiques_stendhal": {
+  "qid": "Q502",
+  "P569": [
+   "1783"
+  ],
+  "P570": [
+   "1842"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme",
+   "romantisme"
+  ],
+  "P800": [
+   "Le Rouge et le Noir",
+   "La Chartreuse de Parme",
+   "De l'amour",
+   "Souvenirs d'égotisme",
+   "Mémoires d'un Touriste",
+   "Vanina Vanini",
+   "Lucien Leuwen",
+   "Armance",
+   "Vie de Henry Brulard",
+   "Rome, Naples et Florence",
+   "Racine et Shakespeare",
+   "Chroniques italiennes",
+   "Histoire de la peinture en Italie"
+  ],
+  "P136": [
+   "roman psychologique"
+  ]
+ },
+ "auteurs-classiques_charles-dickens": {
+  "qid": "Q5686",
+  "P569": [
+   "1812",
+   "1812"
+  ],
+  "P570": [
+   "1870",
+   "1870"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Les Papiers posthumes du Pickwick Club",
+   "Oliver Twist",
+   "Un chant de Noël",
+   "David Copperfield",
+   "La Maison d'Âpre-Vent",
+   "Les Temps difficiles",
+   "La Petite Dorrit",
+   "Le Conte de deux cités",
+   "Les Grandes Espérances",
+   "Barnaby Rudge",
+   "L'Ami commun",
+   "Nicholas Nickleby",
+   "Le Magasin d'antiquités",
+   "Dombey et Fils",
+   "Martin Chuzzlewit",
+   "Le Mystère d'Edwin Drood"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "roman court",
+   "non-fiction"
+  ]
+ },
+ "auteurs-classiques_charlotte-bronte": {
+  "qid": "Q127332",
+  "P569": [
+   "1816",
+   "1816"
+  ],
+  "P570": [
+   "1855",
+   "1855"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Jane Eyre",
+   "Villette",
+   "Shirley",
+   "Le Professeur",
+   "Poems by Currer, Ellis, and Acton Bell"
+  ],
+  "P101": [
+   "poésie",
+   "fiction",
+   "roman gothique"
+  ],
+  "P136": [
+   "roman gothique",
+   "littérature victorienne"
+  ]
+ },
+ "auteurs-classiques_emily-bronte": {
+  "qid": "Q80137",
+  "P569": [
+   "1818"
+  ],
+  "P570": [
+   "1848"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Les Hauts de Hurlevent",
+   "Poems by Currer, Ellis, and Acton Bell"
+  ],
+  "P101": [
+   "poésie",
+   "fiction"
+  ],
+  "P136": [
+   "fiction",
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_nathaniel-hawthorne": {
+  "qid": "Q69339",
+  "P569": [
+   "1804",
+   "1804"
+  ],
+  "P570": [
+   "1864",
+   "1864"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "La Lettre écarlate",
+   "Little Daffydowndilly, and other stories",
+   "La Maison aux sept pignons",
+   "Le Livre des merveilles",
+   "Tales of the White Hills, and sketches",
+   "The whole history of grandfather's chair",
+   "Biographical stories",
+   "The Snow‐Image: A Childish Miracle"
+  ],
+  "P136": [
+   "littérature gothique",
+   "roman court"
+  ]
+ },
+ "auteurs-classiques_edgar-allan-poe": {
+  "qid": "Q16867",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1849"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Le Chat noir",
+   "Le Puits et le Pendule",
+   "Double Assassinat dans la rue Morgue",
+   "Le Portrait ovale",
+   "Le Cœur révélateur",
+   "Les Aventures d'Arthur Gordon Pym",
+   "Le Corbeau",
+   "La Lettre volée",
+   "Le Scarabée d'or",
+   "La Chute de la maison Usher",
+   "William Wilson"
+  ],
+  "P136": [
+   "fiction de détective",
+   "littérature gothique",
+   "romantisme noir",
+   "fantastique"
+  ]
+ },
+ "auteurs-classiques_herman-melville": {
+  "qid": "Q4985",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Moby Dick"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "poésie",
+   "prose"
+  ],
+  "P136": [
+   "littérature de voyage"
+  ]
+ },
+ "auteurs-classiques_nicolas-gogol": {
+  "qid": "Q43718",
+  "P569": [
+   "1809",
+   "1809",
+   "1809",
+   "1809",
+   "1809",
+   "1809"
+  ],
+  "P570": [
+   "1852",
+   "1852",
+   "1852",
+   "1852"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Les Âmes mortes",
+   "Le Revizor",
+   "Le Mariage",
+   "Tarass Boulba"
+  ],
+  "P101": [
+   "prose",
+   "belles-lettres",
+   "critique littéraire"
+  ],
+  "P136": [
+   "drame",
+   "prose"
+  ]
+ },
+ "auteurs-classiques_ivan-tourgueniev": {
+  "qid": "Q42831",
+  "P569": [
+   "1818",
+   "1818"
+  ],
+  "P570": [
+   "1883",
+   "1883"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Mémoires d'un chasseur",
+   "Pères et Fils",
+   "Un mois à la campagne",
+   "Moumou",
+   "Nid de gentilhomme",
+   "Poèmes en prose"
+  ],
+  "P101": [
+   "littérature russe"
+  ],
+  "P136": [
+   "récit",
+   "élégie",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_fiodor-dostoievski": {
+  "qid": "Q991",
+  "P569": [
+   "1821",
+   "1821",
+   "1821"
+  ],
+  "P570": [
+   "1881",
+   "1881",
+   "1881"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Les Carnets du sous-sol",
+   "Crime et châtiment",
+   "L'Idiot",
+   "Les Démons",
+   "Les Frères Karamazov",
+   "Souvenirs de la maison des morts",
+   "Le Joueur",
+   "Les Pauvres Gens",
+   "Le Double"
+  ]
+ },
+ "auteurs-classiques_leon-tolstoi": {
+  "qid": "Q7243",
+  "P569": [
+   "1828",
+   "1828"
+  ],
+  "P570": [
+   "1910",
+   "1910"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Guerre et Paix",
+   "Anna Karénine",
+   "Ma confession",
+   "Le Salut est en vous",
+   "Qu’est-ce que l’art ?",
+   "Adolescence",
+   "Enfance",
+   "Hadji-Mourat",
+   "La Sonate à Kreutzer",
+   "Résurrection",
+   "La Tempête de neige",
+   "Where Love Is, God Is",
+   "Jeunesse",
+   "Le Père Serge",
+   "Récits de Sébastopol",
+   "The Fruits of Enlightenment",
+   "Ma religion",
+   "Le Diable"
+  ],
+  "P101": [
+   "philosophie",
+   "belles-lettres",
+   "écriture créative et professionnelle",
+   "drame",
+   "journalisme d'opinion",
+   "pédagogie"
+  ],
+  "P136": [
+   "récit",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_gustave-flaubert": {
+  "qid": "Q43444",
+  "P569": [
+   "1821",
+   "1821"
+  ],
+  "P570": [
+   "1880",
+   "1880"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Madame Bovary",
+   "Salammbô",
+   "Bouvard et Pécuchet",
+   "L'Éducation sentimentale",
+   "La Tentation de saint Antoine",
+   "Trois Contes",
+   "Dictionnaire des idées reçues",
+   "Correspondance de Gustave Flaubert"
+  ],
+  "P101": [
+   "prose",
+   "théorie du droit"
+  ]
+ },
+ "auteurs-classiques_emile-zola": {
+  "qid": "Q504",
+  "P569": [
+   "1840",
+   "1840"
+  ],
+  "P570": [
+   "1902",
+   "1902"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "naturalisme",
+   "libre-pensée"
+  ],
+  "P800": [
+   "Les Rougon-Macquart",
+   "Thérèse Raquin",
+   "J'accuse…!",
+   "Nana",
+   "La Terre"
+  ],
+  "P101": [
+   "littérature",
+   "roman",
+   "théâtre",
+   "nouvelle"
+  ]
+ },
+ "auteurs-classiques_guy-de-maupassant": {
+  "qid": "Q9327",
+  "P569": [
+   "1850"
+  ],
+  "P570": [
+   "1893"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Bel-Ami",
+   "Boule de suif",
+   "Une Vie",
+   "Le Horla"
+  ],
+  "P101": [
+   "littérature",
+   "théâtre",
+   "journalisme"
+  ]
+ },
+ "auteurs-classiques_lewis-carroll": {
+  "qid": "Q38082",
+  "P569": [
+   "1832",
+   "1832"
+  ],
+  "P570": [
+   "1898"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Les Aventures d'Alice au pays des merveilles",
+   "De l'autre côté du miroir",
+   "Jabberwocky",
+   "The Walrus and the Carpenter",
+   "Phantasmagoria and Other Poems",
+   "La Chasse au Snark",
+   "Rhyme? and Reason?",
+   "A Tangled Tale",
+   "Sylvie et Bruno",
+   "The Nursery \"Alice\"",
+   "What the Tortoise Said to Achilles",
+   "Nyctographie",
+   "Euclid and his Modern Rivals",
+   "The Game of Logic",
+   "Three Sunsets and Other Poems"
+  ],
+  "P101": [
+   "écrivain ou écrivaine",
+   "inventeur"
+  ],
+  "P136": [
+   "littérature d'enfance",
+   "logique mathématique",
+   "littérature de l'absurde",
+   "algèbre linéaire"
+  ]
+ },
+ "auteurs-classiques_mark-twain": {
+  "qid": "Q7245",
+  "P569": [
+   "1835"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Les Aventures de Huckleberry Finn",
+   "Les Aventures de Tom Sawyer"
+  ],
+  "P101": [
+   "littérature",
+   "humour"
+  ],
+  "P136": [
+   "fiction historique"
+  ]
+ },
+ "auteurs-classiques_henry-james": {
+  "qid": "Q170509",
+  "P569": [
+   "1843",
+   "1843"
+  ],
+  "P570": [
+   "1916",
+   "1916"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "L'Américain",
+   "Le Tour d'écrou",
+   "Portrait de femme",
+   "Ce que savait Maisie",
+   "Les Ailes de la colombe",
+   "Daisy Miller",
+   "Les Ambassadeurs"
+  ],
+  "P101": [
+   "littérature de langue anglaise"
+  ],
+  "P136": [
+   "littérature gothique"
+  ]
+ },
+ "auteurs-classiques_anton-tchekhov": {
+  "qid": "Q5685",
+  "P569": [
+   "1860",
+   "1860"
+  ],
+  "P570": [
+   "1904",
+   "1904"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "La Cerisaie",
+   "Oncle Vania",
+   "Vanka",
+   "Les Trois Sœurs",
+   "Le Gros et le Maigre",
+   "La Mouette",
+   "Kachtanka",
+   "Le Moine noir"
+  ],
+  "P101": [
+   "prose",
+   "écriture créative et professionnelle",
+   "drame",
+   "médecine",
+   "littérature",
+   "dramaturgie",
+   "écriture de fiction"
+  ],
+  "P136": [
+   "réalisme",
+   "récit"
+  ]
+ },
+ "auteurs-classiques_thomas-hardy-ecrivain": {
+  "qid": "Q132805",
+  "P569": [
+   "1840",
+   "1840"
+  ],
+  "P570": [
+   "1928",
+   "1928"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "naturalisme"
+  ],
+  "P800": [
+   "Tess d'Urberville",
+   "Loin de la foule déchaînée",
+   "Jude l'Obscur"
+  ]
+ },
+ "auteurs-classiques_oscar-wilde": {
+  "qid": "Q30875",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1900"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Irlande",
+   "Royaume-Uni",
+   "France"
+  ],
+  "P135": [
+   "esthétisme",
+   "décadentisme"
+  ],
+  "P800": [
+   "L'Importance d'être Constant",
+   "Le Portrait de Dorian Gray",
+   "Le Fantôme de Canterville",
+   "L'Âme de l'homme sous le socialisme",
+   "La Ballade de la geôle de Reading"
+  ],
+  "P101": [
+   "belles-lettres",
+   "activité littéraire",
+   "drame",
+   "prose",
+   "essai",
+   "esthétique"
+  ],
+  "P136": [
+   "comédie",
+   "littérature gothique",
+   "drame",
+   "tragédie",
+   "conte merveilleux",
+   "poésie narrative",
+   "essai",
+   "long poem"
+  ]
+ },
+ "auteurs-classiques_rudyard-kipling": {
+  "qid": "Q34743",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Le Livre de la jungle",
+   "Kim",
+   "Si",
+   "Le Second Livre de la jungle",
+   "Histoires comme ça pour les petits",
+   "Gunga Din"
+  ],
+  "P101": [
+   "littérature",
+   "écriture créative et professionnelle",
+   "journalisme",
+   "poésie",
+   "littérature de voyage",
+   "littérature d'enfance et de jeunesse"
+  ]
+ },
+ "auteurs-classiques_jules-verne": {
+  "qid": "Q33977",
+  "P569": [
+   "1828"
+  ],
+  "P570": [
+   "1905"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Vingt Mille Lieues sous les mers",
+   "Voyage au centre de la Terre",
+   "De la Terre à la Lune",
+   "Le Tour du monde en quatre-vingts jours",
+   "L'Île mystérieuse",
+   "Cinq Semaines en ballon",
+   "Michel Strogoff",
+   "Sans dessus dessous"
+  ],
+  "P101": [
+   "drame"
+  ],
+  "P136": [
+   "science-fiction",
+   "théâtre",
+   "fiction spéculative",
+   "littérature de vulgarisation",
+   "merveilleux scientifique",
+   "fiction d'aventures"
+  ]
+ },
+ "auteurs-classiques_h-g-wells": {
+  "qid": "Q42511",
+  "P569": [
+   "1866"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "The Outline of History",
+   "La Machine à explorer le temps",
+   "L'Homme invisible",
+   "L'Île du docteur Moreau",
+   "La Guerre des mondes",
+   "Les Premiers Hommes dans la Lune",
+   "The Shape of Things to Come",
+   "Mariage",
+   "The Soul of a Bishop"
+  ],
+  "P101": [
+   "science-fiction",
+   "écriture créative et professionnelle",
+   "littérature non-fictionnelle",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "science-fiction",
+   "biographie",
+   "essai"
+  ]
+ },
+ "auteurs-classiques_mary-shelley": {
+  "qid": "Q47152",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1851"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "Romantisme britannique"
+  ],
+  "P800": [
+   "Le Dernier Homme",
+   "Frankenstein ou le Prométhée moderne"
+  ],
+  "P101": [
+   "fiction"
+  ],
+  "P136": [
+   "récit de voyage",
+   "littérature gothique",
+   "roman gothique",
+   "fiction spéculative"
+  ]
+ },
+ "auteurs-classiques_bram-stoker": {
+  "qid": "Q36184",
+  "P569": [
+   "1847"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Irlande"
+  ],
+  "P800": [
+   "Dracula",
+   "Au-delà du crépuscule",
+   "Le Défilé du serpent",
+   "The Watter's Mou'",
+   "The Shoulder of Shasta",
+   "Miss Betty",
+   "The Mystery of the Sea",
+   "The Man"
+  ],
+  "P101": [
+   "roman gothique"
+  ],
+  "P136": [
+   "littérature gothique",
+   "littérature d'horreur"
+  ]
+ },
+ "auteurs-classiques_emily-dickinson": {
+  "qid": "Q4441",
+  "P569": [
+   "1830",
+   "1830"
+  ],
+  "P570": [
+   "1886",
+   "1886"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_walt-whitman": {
+  "qid": "Q81438",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1892"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Feuilles d'herbe",
+   "O Captain! My Captain!"
+  ]
+ },
+ "auteurs-classiques_charles-baudelaire": {
+  "qid": "Q501",
+  "P569": [
+   "1821",
+   "1821"
+  ],
+  "P570": [
+   "1867",
+   "1867",
+   "1867"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "Les Fleurs du mal",
+   "Les Paradis artificiels",
+   "Le Peintre de la vie moderne",
+   "Réflexions sur quelques-uns de mes contemporains",
+   "La Fanfarlo",
+   "Le Spleen de Paris",
+   "L'Albatros"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "élégie",
+   "décadentisme"
+  ]
+ },
+ "auteurs-classiques_arthur-rimbaud": {
+  "qid": "Q493",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "Le Bateau ivre",
+   "Une saison en enfer",
+   "Les Illuminations",
+   "File ar Fhile: Arthur Rimbaud"
+  ],
+  "P101": [
+   "symbolisme",
+   "décadentisme"
+  ]
+ },
+ "auteurs-classiques_paul-verlaine": {
+  "qid": "Q755",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1896",
+   "1896"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P101": [
+   "activité littéraire",
+   "poésie",
+   "symbolisme"
+  ],
+  "P136": [
+   "poésie lyrique"
+  ]
+ },
+ "auteurs-classiques_stephane-mallarme": {
+  "qid": "Q767",
+  "P569": [
+   "1842"
+  ],
+  "P570": [
+   "1898"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "auteurs-classiques_george-sand": {
+  "qid": "Q3816",
+  "P569": [
+   "1804"
+  ],
+  "P570": [
+   "1876"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Indiana",
+   "Lélia",
+   "Mauprat",
+   "Consuelo",
+   "La Mare au Diable",
+   "La Petite Fadette",
+   "Les Maîtres sonneurs",
+   "Le Meunier d'Angibault",
+   "Un hiver à Majorque",
+   "Histoire de ma vie",
+   "Lettres d'un voyageur"
+  ]
+ },
+ "auteurs-classiques_confucius": {
+  "qid": "Q4604",
+  "P569": [
+   "-551",
+   "-552",
+   "-551"
+  ],
+  "P570": [
+   "-479",
+   "-479"
+  ],
+  "P27": [
+   "État de Lu"
+  ],
+  "P135": [
+   "confucianisme"
+  ],
+  "P800": [
+   "Entretiens de Confucius"
+  ],
+  "P101": [
+   "philosophie",
+   "philosophie sociale",
+   "éthique"
+  ]
+ },
+ "auteurs-classiques_sun-tzu": {
+  "qid": "Q37151",
+  "P569": [
+   "-544"
+  ],
+  "P570": [
+   "-496",
+   "-470"
+  ],
+  "P27": [
+   "État Qí",
+   "État Wu"
+  ],
+  "P800": [
+   "L'Art de la guerre"
+  ],
+  "P101": [
+   "philosophie",
+   "stratégie militaire"
+  ]
+ },
+ "auteurs-classiques_cao-xueqin": {
+  "qid": "Q182874",
+  "P569": [
+   "1724"
+  ],
+  "P570": [
+   "1763"
+  ],
+  "P27": [
+   "dynastie Qing"
+  ],
+  "P800": [
+   "Le Rêve dans le pavillon rouge"
+  ]
+ },
+ "auteurs-classiques_ferdowsi": {
+  "qid": "Q43459",
+  "P569": [
+   "940",
+   "940"
+  ],
+  "P570": [
+   "1020"
+  ],
+  "P27": [
+   "empire samanide",
+   "Empire ghaznévide"
+  ],
+  "P800": [
+   "Livre des Rois"
+  ]
+ },
+ "auteurs-classiques_rumi": {
+  "qid": "Q43347",
+  "P569": [
+   "1207"
+  ],
+  "P570": [
+   "1273"
+  ],
+  "P800": [
+   "Les 7 leçons",
+   "Le Livre du dedans",
+   "Masnavi-I Ma'navi",
+   "Diwân-e Shams-e Tabrîzî",
+   "Maktubat"
+  ],
+  "P101": [
+   "philosophie islamique",
+   "soufisme"
+  ]
+ },
+ "auteurs-classiques_omar-khayyam": {
+  "qid": "Q35900",
+  "P569": [
+   "1048",
+   "1048",
+   "1048"
+  ],
+  "P570": [
+   "1131"
+  ],
+  "P27": [
+   "Empire seldjoukide"
+  ],
+  "P135": [
+   "littérature persane",
+   "Iranian philosophy",
+   "Âge d'or islamique"
+  ],
+  "P800": [
+   "Rubaiyat",
+   "calendrier persan"
+  ],
+  "P101": [
+   "poésie",
+   "mathématiques",
+   "astronomie"
+  ],
+  "P136": [
+   "rubaï"
+  ]
+ },
+ "auteurs-classiques_eschyle": {
+  "qid": "Q40939",
+  "P569": [
+   "-525"
+  ],
+  "P570": [
+   "-456"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P800": [
+   "Agamemnon",
+   "Les Choéphores",
+   "Les Euménides",
+   "Les Perses",
+   "Prométhée enchaîné",
+   "Les Sept contre Thèbes",
+   "Les Suppliantes"
+  ],
+  "P136": [
+   "tragédie grecque"
+  ]
+ },
+ "auteurs-classiques_aristophane": {
+  "qid": "Q43353",
+  "P569": [
+   "-445",
+   "-448",
+   "-444",
+   "-450",
+   "-446"
+  ],
+  "P570": [
+   "-385",
+   "-386",
+   "-388"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P135": [
+   "comédie ancienne"
+  ],
+  "P800": [
+   "Les Acharniens",
+   "Les Oiseaux",
+   "Les Nuées",
+   "L'Assemblée des femmes",
+   "Les Grenouilles",
+   "Les Cavaliers",
+   "Lysistrata",
+   "La Paix",
+   "Ploutos",
+   "Les Thesmophories",
+   "Les Guêpes"
+  ],
+  "P101": [
+   "littérature",
+   "drame"
+  ],
+  "P136": [
+   "comédie"
+  ]
+ },
+ "auteurs-classiques_hesiode": {
+  "qid": "Q44233",
+  "P569": [
+   "-776"
+  ],
+  "P570": [
+   "-700"
+  ],
+  "P27": [
+   "Cymé"
+  ],
+  "P800": [
+   "Théogonie",
+   "Les Travaux et les Jours",
+   "Catalogue des femmes"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_sappho": {
+  "qid": "Q17892",
+  "P569": [
+   "-650",
+   "-650",
+   "-650",
+   "-630",
+   "-650",
+   "-628",
+   "-625",
+   "-620",
+   "-612",
+   "-610"
+  ],
+  "P570": [
+   "-570",
+   "-550",
+   "-550",
+   "-550",
+   "-569",
+   "-568",
+   "-557"
+  ],
+  "P27": [
+   "Mytilène"
+  ],
+  "P800": [
+   "Ode à Aphrodite",
+   "fragment 31"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_esope": {
+  "qid": "Q43423",
+  "P569": [
+   "-620"
+  ],
+  "P570": [
+   "-564"
+  ],
+  "P800": [
+   "fables d'Ésope"
+  ]
+ },
+ "auteurs-classiques_herodote": {
+  "qid": "Q26825",
+  "P569": [
+   "-484"
+  ],
+  "P570": [
+   "-425"
+  ],
+  "P27": [
+   "Halicarnasse"
+  ],
+  "P800": [
+   "Histoires"
+  ],
+  "P101": [
+   "histoire",
+   "politique",
+   "écriture créative et professionnelle"
+  ]
+ },
+ "auteurs-classiques_thucydide": {
+  "qid": "Q41683",
+  "P569": [
+   "-460"
+  ],
+  "P570": [
+   "-395"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P800": [
+   "Histoire de la guerre du Péloponnèse"
+  ],
+  "P101": [
+   "histoire de la Grèce antique"
+  ]
+ },
+ "auteurs-classiques_ciceron": {
+  "qid": "Q1541",
+  "P569": [
+   "-106"
+  ],
+  "P570": [
+   "-43",
+   "-43"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "Nouvelle Académie"
+  ],
+  "P800": [
+   "De oratore",
+   "De Republica",
+   "De legibus",
+   "De officiis",
+   "De inventione",
+   "Catilinaires",
+   "Les Philippiques",
+   "Verrines",
+   "Pro Archia",
+   "Paradoxes des stoïciens",
+   "Hortensius",
+   "De finibus bonorum et malorum",
+   "Tusculanes",
+   "Cato Maior de Senectute",
+   "Laelius de amicitia",
+   "De natura deorum",
+   "De divinatione",
+   "De fato",
+   "Orator ad Brutus",
+   "Topica",
+   "Songe de Scipion",
+   "De ratione regendae provinciae (Epistula ad Quintum fratrem)"
+  ],
+  "P101": [
+   "philosophie",
+   "rhétorique",
+   "littérature",
+   "politique"
+  ]
+ },
+ "auteurs-classiques_seneque": {
+  "qid": "Q2054",
+  "P569": [
+   "-4"
+  ],
+  "P570": [
+   "65"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "stoïcisme"
+  ],
+  "P800": [
+   "La Vie heureuse",
+   "Epistulae morales ad Lucilium",
+   "De la colère",
+   "De la brièveté de la vie",
+   "Médée"
+  ],
+  "P101": [
+   "éthique",
+   "philosophie politique",
+   "philosophie",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_horace": {
+  "qid": "Q6197",
+  "P569": [
+   "-65",
+   "-65"
+  ],
+  "P570": [
+   "-8",
+   "-8"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "L’Art poétique",
+   "Satires",
+   "Chant séculaire",
+   "Odes",
+   "Epistulae",
+   "Épodes"
+  ]
+ },
+ "auteurs-classiques_murasaki-shikibu": {
+  "qid": "Q81731",
+  "P569": [
+   "970",
+   "978",
+   "972",
+   "974",
+   "975",
+   "970",
+   "973"
+  ],
+  "P570": [
+   "1100",
+   "1014",
+   "1016",
+   "1031",
+   "1019"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Le Dit du Genji",
+   "Journal de Murasaki Shikibu",
+   "Poetic Memoirs"
+  ],
+  "P101": [
+   "poésie",
+   "roman"
+  ]
+ },
+ "auteurs-classiques_chretien-de-troyes": {
+  "qid": "Q4302",
+  "P569": [
+   "1135"
+  ],
+  "P570": [
+   "1181"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Érec et Énide",
+   "Yvain ou le Chevalier au lion",
+   "Cligès",
+   "Perceval ou le Conte du Graal",
+   "Lancelot ou le Chevalier de la charrette"
+  ]
+ },
+ "auteurs-classiques_petrarque": {
+  "qid": "Q1401",
+  "P569": [
+   "1304",
+   "1304"
+  ],
+  "P570": [
+   "1374",
+   "1374",
+   "1374"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P800": [
+   "Canzoniere",
+   "Mon secret",
+   "De viris illustribus",
+   "Rerum memorandarum libri",
+   "De otio religioso",
+   "De vita solitaria",
+   "De remediis utriusque fortunae",
+   "Invectivarum contra medicum quendam libri IV",
+   "Itinerarium ad sepulchrum domini nostri Yhesu Christi",
+   "Liber sine nomine",
+   "Invectiva contra eum qui maledixit Italiam",
+   "Invectiva contra quendam magni status",
+   "Bucolicum carmen",
+   "Africa",
+   "Epistolae familiares",
+   "Historia Griseldis",
+   "Les Triomphes"
+  ],
+  "P101": [
+   "philosophie"
+  ],
+  "P136": [
+   "poésie",
+   "prose"
+  ]
+ },
+ "auteurs-classiques_boccace": {
+  "qid": "Q1402",
+  "P569": [
+   "1313",
+   "1313",
+   "1313"
+  ],
+  "P570": [
+   "1375",
+   "1375"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P800": [
+   "Décaméron",
+   "Elegia di Madonna Fiammetta",
+   "Buccolicum carmen",
+   "De casibus virorum illustrium",
+   "De mulieribus claris",
+   "De montibus",
+   "Genealogia deorum gentilium",
+   "Il Corbaccio",
+   "Il Filostrato",
+   "La caccia di Diana",
+   "Teseida",
+   "Amorosa visione",
+   "Trattatello in laude di Dante",
+   "L'elegia di Costanza",
+   "Rime",
+   "Lettres",
+   "Esposizioni sopra la Commedia",
+   "Vita di Dante Allighieri"
+  ]
+ },
+ "auteurs-classiques_erasme": {
+  "qid": "Q43499",
+  "P569": [
+   "1466",
+   "1466",
+   "1469"
+  ],
+  "P570": [
+   "1536",
+   "1536",
+   "1536"
+  ],
+  "P27": [
+   "Dix-sept Provinces"
+  ],
+  "P135": [
+   "philosophie de la Renaissance"
+  ],
+  "P800": [
+   "Éloge de la Folie",
+   "La Civilité puérile",
+   "Institution du prince chrétien",
+   "Adages",
+   "Colloques",
+   "De capienda ex inimicis utilitate"
+  ],
+  "P101": [
+   "philosophie chrétienne",
+   "humanisme de la Renaissance"
+  ]
+ },
+ "auteurs-classiques_luis-de-camoes": {
+  "qid": "Q590",
+  "P569": [
+   "1524",
+   "1525"
+  ],
+  "P570": [
+   "1580",
+   "1580"
+  ],
+  "P27": [
+   "royaume de Portugal"
+  ],
+  "P800": [
+   "Les Lusiades"
+  ],
+  "P101": [
+   "poésie",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_lope-de-vega": {
+  "qid": "Q165257",
+  "P569": [
+   "1562"
+  ],
+  "P570": [
+   "1635"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "siècle d'or espagnol",
+   "littérature baroque"
+  ],
+  "P800": [
+   "Fuenteovejuna"
+  ],
+  "P136": [
+   "théâtre"
+  ]
+ },
+ "auteurs-classiques_pedro-calderon-de-la-barca": {
+  "qid": "Q170800",
+  "P569": [
+   "1600",
+   "1600"
+  ],
+  "P570": [
+   "1681",
+   "1681"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "littérature baroque"
+  ],
+  "P800": [
+   "La vie est un songe",
+   "Le Prince constant",
+   "Le Grand Théâtre du monde",
+   "Le Médecin de son honneur",
+   "L'Alcade de Zalamea",
+   "Le Magicien prodigieux",
+   "Q16493626",
+   "Q5492719",
+   "La Dame fantôme",
+   "Le Peintre de son déshonneur"
+  ],
+  "P101": [
+   "théâtre"
+  ],
+  "P136": [
+   "théâtre",
+   "comédie",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_john-donne": {
+  "qid": "Q140412",
+  "P569": [
+   "1572",
+   "1572",
+   "1572"
+  ],
+  "P570": [
+   "1631",
+   "1631"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "poètes métaphysiques"
+  ]
+ },
+ "auteurs-classiques_matsuo-basho": {
+  "qid": "Q5676",
+  "P569": [
+   "1644"
+  ],
+  "P570": [
+   "1694"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "Shōfū haikai"
+  ],
+  "P800": [
+   "La Sente étroite du Bout-du-Monde",
+   "Le Jeu du coquillage",
+   "Nozarashi Kikō",
+   "Frog Poem"
+  ],
+  "P136": [
+   "haikai"
+  ]
+ },
+ "auteurs-classiques_pierre-corneille": {
+  "qid": "Q747",
+  "P569": [
+   "1606"
+  ],
+  "P570": [
+   "1684"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "néo-classicisme"
+  ],
+  "P800": [
+   "Le Cid"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "tragi-comédie",
+   "tragédie",
+   "comédie"
+  ]
+ },
+ "auteurs-classiques_jean-de-la-fontaine": {
+  "qid": "Q49496",
+  "P569": [
+   "1621",
+   "1620",
+   "1621"
+  ],
+  "P570": [
+   "1695"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "fable",
+   "conte"
+  ]
+ },
+ "auteurs-classiques_charles-perrault": {
+  "qid": "Q128460",
+  "P569": [
+   "1628"
+  ],
+  "P570": [
+   "1703"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "Les Contes de ma mère l'Oye",
+   "Hommes illustres qui ont paru en France pendant ce siècle"
+  ],
+  "P101": [
+   "littérature française"
+  ],
+  "P136": [
+   "conte merveilleux",
+   "éloge"
+  ]
+ },
+ "auteurs-classiques_madame-de-la-fayette": {
+  "qid": "Q237090",
+  "P569": [
+   "1634"
+  ],
+  "P570": [
+   "1693"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "clarinette",
+   "préciosité",
+   "classicisme"
+  ],
+  "P800": [
+   "La Princesse de Clèves",
+   "La Princesse de Montpensier",
+   "Zaïde, histoire espagnole",
+   "La Comtesse de Tende"
+  ]
+ },
+ "auteurs-classiques_pierre-augustin-caron-de-beaumarchais": {
+  "qid": "Q70326",
+  "P569": [
+   "1732"
+  ],
+  "P570": [
+   "1799"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "philosophie des Lumières"
+  ],
+  "P800": [
+   "Le Barbier de Séville",
+   "Le Mariage de Figaro",
+   "La Mère coupable"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "auteurs-classiques_pierre-choderlos-de-laclos": {
+  "qid": "Q212476",
+  "P569": [
+   "1741"
+  ],
+  "P570": [
+   "1803"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les Liaisons dangereuses"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "domaine militaire"
+  ],
+  "P136": [
+   "roman épistolaire"
+  ]
+ },
+ "auteurs-classiques_donatien-alphonse-francois-de-sade": {
+  "qid": "Q123867",
+  "P569": [
+   "1740"
+  ],
+  "P570": [
+   "1814"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "Les Cent Vingt Journées de Sodome",
+   "Justine ou les Malheurs de la vertu",
+   "Histoire de Juliette, ou les Prospérités du vice"
+  ],
+  "P101": [
+   "éthique",
+   "esthétique",
+   "philosophie politique",
+   "prose",
+   "philosophie",
+   "littérature érotique"
+  ],
+  "P136": [
+   "érotisme",
+   "philosophie",
+   "prose",
+   "fiction gothique"
+  ]
+ },
+ "auteurs-classiques_daniel-defoe": {
+  "qid": "Q40946",
+  "P569": [
+   "1660",
+   "1660",
+   "1660",
+   "1660"
+  ],
+  "P570": [
+   "1731",
+   "1731"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Robinson Crusoé",
+   "Heurs et Malheurs de la fameuse Moll Flanders",
+   "Journal de l'année de la peste"
+  ]
+ },
+ "auteurs-classiques_henry-fielding": {
+  "qid": "Q34190",
+  "P569": [
+   "1707",
+   "1707"
+  ],
+  "P570": [
+   "1754",
+   "1754"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P136": [
+   "satire",
+   "roman picaresque"
+  ]
+ },
+ "auteurs-classiques_laurence-sterne": {
+  "qid": "Q218960",
+  "P569": [
+   "1713"
+  ],
+  "P570": [
+   "1768"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Vie et opinions de Tristram Shandy",
+   "Voyage sentimental à travers la France et l'Italie",
+   "A Political Romance"
+  ]
+ },
+ "auteurs-classiques_chateaubriand-viande": {
+  "qid": "Q1068180",
+  "P495": [
+   "Angleterre"
+  ],
+  "P186": [
+   "filet de boeuf"
+  ]
+ },
+ "auteurs-classiques_alphonse-de-lamartine": {
+  "qid": "Q188697",
+  "P569": [
+   "1790"
+  ],
+  "P570": [
+   "1869"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Graziella",
+   "Pensée des Morts",
+   "Voyage en Orient",
+   "Histoire des Girondins",
+   "Méditations poétiques",
+   "La Mort de Socrate",
+   "Nouvelles Méditations poétiques",
+   "Harmonies poetiques et religieuses",
+   "Recueillements poétiques",
+   "Œuvres complètes de Lamartine (1860)/Tome 1/L’Isolement",
+   "Le Vallon",
+   "Le Lac"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_alfred-de-musset": {
+  "qid": "Q179680",
+  "P569": [
+   "1810"
+  ],
+  "P570": [
+   "1857"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Les Caprices de Marianne"
+  ]
+ },
+ "auteurs-classiques_alfred-de-vigny": {
+  "qid": "Q309702",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1863"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Poèmes antiques et modernes",
+   "Cinq-Mars",
+   "Chatterton",
+   "Stello",
+   "La Maréchale d'Ancre",
+   "Servitude et grandeur militaires",
+   "La Mort du loup"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_theophile-gautier": {
+  "qid": "Q183713",
+  "P569": [
+   "1811",
+   "1811",
+   "1811"
+  ],
+  "P570": [
+   "1872",
+   "1872"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme",
+   "Parnasse"
+  ]
+ },
+ "auteurs-classiques_prosper-merimee": {
+  "qid": "Q160333",
+  "P569": [
+   "1803"
+  ],
+  "P570": [
+   "1870"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Vénus d'Ille",
+   "Carmen",
+   "Homme en Grande Bottes",
+   "Mateo Falcone"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "drame",
+   "anthropologie",
+   "archéologie",
+   "histoire",
+   "traduction",
+   "activité politique",
+   "peinture",
+   "prose",
+   "politique"
+  ]
+ },
+ "auteurs-classiques_lord-byron": {
+  "qid": "Q5679",
+  "P569": [
+   "1788"
+  ],
+  "P570": [
+   "1824"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Le Pèlerinage de Childe Harold",
+   "Don Juan",
+   "Manfred"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "poésie narrative",
+   "littérature gothique"
+  ]
+ },
+ "auteurs-classiques_john-keats": {
+  "qid": "Q82083",
+  "P569": [
+   "1795"
+  ],
+  "P570": [
+   "1821"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P101": [
+   "poésie",
+   "romantisme"
+  ]
+ },
+ "auteurs-classiques_percy-bysshe-shelley": {
+  "qid": "Q93343",
+  "P569": [
+   "1792"
+  ],
+  "P570": [
+   "1822"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne",
+   "royaume d'Italie",
+   "Suisse"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Ozymandias",
+   "Love's Philosophy",
+   "Le Nuage",
+   "Prométhée délivré"
+  ],
+  "P136": [
+   "poésie romantique"
+  ]
+ },
+ "auteurs-classiques_william-wordsworth": {
+  "qid": "Q45546",
+  "P569": [
+   "1770"
+  ],
+  "P570": [
+   "1850"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Le Prélude"
+  ]
+ },
+ "auteurs-classiques_george-eliot": {
+  "qid": "Q131333",
+  "P569": [
+   "1819",
+   "1819"
+  ],
+  "P570": [
+   "1880",
+   "1880"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Le Moulin sur la Floss",
+   "Silas Marner",
+   "Middlemarch",
+   "Daniel Deronda",
+   "Adam Bede",
+   "Romola"
+  ],
+  "P101": [
+   "écriture",
+   "journalisme",
+   "traduction",
+   "philosophie",
+   "roman",
+   "littérature",
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_anne-bronte": {
+  "qid": "Q44520",
+  "P569": [
+   "1820"
+  ],
+  "P570": [
+   "1849"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "La Locataire de Wildfell Hall",
+   "Agnes Grey"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_heinrich-heine": {
+  "qid": "Q44403",
+  "P569": [
+   "1797",
+   "1797"
+  ],
+  "P570": [
+   "1856",
+   "1856"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Allemagne, un conte d'hiver",
+   "Atta Troll",
+   "Die Harzreise",
+   "Le Livre des chants",
+   "Le Rabbin de Bacharach"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "prose",
+   "poésie",
+   "journalisme d'opinion",
+   "critique littéraire",
+   "essai"
+  ],
+  "P136": [
+   "poésie",
+   "satire"
+  ]
+ },
+ "auteurs-classiques_ernst-theodor-amadeus-hoffmann": {
+  "qid": "Q150471",
+  "P569": [
+   "1776",
+   "1776"
+  ],
+  "P570": [
+   "1822",
+   "1822"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Allemagne"
+  ],
+  "P135": [
+   "romantisme",
+   "Romantisme allemand",
+   "littérature romantique"
+  ],
+  "P800": [
+   "Undine",
+   "Les Élixirs du Diable",
+   "Casse-noisette et le Roi des souris",
+   "Mademoiselle de Scudéry",
+   "L'Homme au sable",
+   "Le Pot d’or",
+   "Maîtres Puce"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "prose",
+   "musique",
+   "critique musicale",
+   "direction d'orchestre",
+   "peinture"
+  ],
+  "P136": [
+   "littérature d'horreur",
+   "conte merveilleux",
+   "grotesque"
+  ]
+ },
+ "auteurs-classiques_mikhail-lermontov": {
+  "qid": "Q46599",
+  "P569": [
+   "1814",
+   "1814"
+  ],
+  "P570": [
+   "1841",
+   "1841"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Un héros de notre temps"
+  ],
+  "P101": [
+   "activité littéraire",
+   "poésie"
+  ],
+  "P136": [
+   "vers",
+   "poésie narrative"
+  ]
+ },
+ "auteurs-classiques_alessandro-manzoni": {
+  "qid": "Q1064",
+  "P569": [
+   "1785"
+  ],
+  "P570": [
+   "1873"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique",
+   "empire d'Autriche",
+   "royaume d'Italie"
+  ],
+  "P135": [
+   "romantisme italien"
+  ],
+  "P800": [
+   "Les Fiancés",
+   "Histoire de la colonne infâme",
+   "Hymnes sacrés",
+   "Le Cinq mai",
+   "Q3850574",
+   "Q19131805",
+   "Q19125638",
+   "Q19131587",
+   "Le Comte de Carmagnole",
+   "Adelchi",
+   "Lettre à monsieur Chauvet sur l'unité de temps et de lieu dans la tragédie",
+   "Q19135830",
+   "Q19137737",
+   "Q19128449",
+   "Q17544402",
+   "Q19135613"
+  ],
+  "P101": [
+   "belles-lettres",
+   "poésie",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_joaquim-maria-machado-de-assis": {
+  "qid": "Q311145",
+  "P569": [
+   "1839",
+   "1839"
+  ],
+  "P570": [
+   "1908",
+   "1908"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P135": [
+   "romantisme",
+   "réalisme"
+  ],
+  "P800": [
+   "Chrysalidas",
+   "O Alienista",
+   "Dom Casmurro",
+   "Mémoires posthumes de Braz Cubas"
+  ],
+  "P136": [
+   "style of Machado de Assis"
+  ]
+ },
+ "auteurs-classiques_natsume-soseki": {
+  "qid": "Q180903",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1916"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "Yoyūha"
+  ],
+  "P800": [
+   "Le Pauvre Cœur des hommes",
+   "Botchan",
+   "Je suis un chat",
+   "Kusamakura",
+   "The 210th Day",
+   "Nowaki",
+   "The Poppy",
+   "Le Mineur",
+   "Sanshirô",
+   "Et puis",
+   "La porte",
+   "To the Spring Equinox and Beyond",
+   "The Wayfarer",
+   "Grass on the Wayside",
+   "Light and Darkness",
+   "The Tower of London",
+   "Koto no Sorane",
+   "The Heredity of Taste",
+   "Bunchō",
+   "Dix rêves",
+   "Petits contes de printemps",
+   "Kairo-kō",
+   "Mankan Tokorodokoro"
+  ]
+ },
+ "auteurs-classiques_joseph-conrad": {
+  "qid": "Q82925",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1924"
+  ],
+  "P27": [
+   "Empire russe",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni",
+   "Deuxième République de Pologne"
+  ],
+  "P135": [
+   "littérature moderniste"
+  ],
+  "P800": [
+   "La Lagune",
+   "Le Nègre du Narcisse",
+   "Au cœur des ténèbres",
+   "Lord Jim",
+   "Amy Foster",
+   "Typhon",
+   "Nostromo",
+   "L'Agent secret",
+   "Le Compagnon secret",
+   "Sous les yeux de l'Occident"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "roman court"
+  ]
+ },
+ "auteurs-classiques_jack-london": {
+  "qid": "Q45765",
+  "P569": [
+   "1876"
+  ],
+  "P570": [
+   "1916"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Appel de la forêt",
+   "Le Peuple d'en bas",
+   "Le Loup des mers",
+   "Croc-Blanc",
+   "Les Vagabonds du Rail",
+   "Construire un feu",
+   "Martin Eden",
+   "La Vallée de la lune",
+   "Le Vagabond des étoiles",
+   "Les Vagabonds du rail"
+  ],
+  "P101": [
+   "journalisme",
+   "journalisme de guerre",
+   "voyage"
+  ],
+  "P136": [
+   "naturalisme",
+   "fiction d'aventures"
+  ]
+ },
+ "auteurs-classiques_arthur-conan-doyle": {
+  "qid": "Q35610",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1930"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "canon de Sherlock Holmes",
+   "Le Monde perdu"
+  ],
+  "P101": [
+   "roman policier",
+   "littérature de langue anglaise",
+   "littérature de détectives"
+  ],
+  "P136": [
+   "genre policier",
+   "science-fiction",
+   "littérature historique"
+  ]
+ },
+ "auteurs-classiques_robert-louis-stevenson": {
+  "qid": "Q1512",
+  "P569": [
+   "1850"
+  ],
+  "P570": [
+   "1894"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "l'Île au trésor",
+   "Enlevé !",
+   "L'Étrange Cas du docteur Jekyll et de M. Hyde",
+   "A Child's Garden of Verses",
+   "Prince Othon"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "prose",
+   "littérature de voyage",
+   "récit de voyage",
+   "essai",
+   "poésie"
+  ],
+  "P136": [
+   "littérature gothique",
+   "fiction d'aventures"
+  ]
+ },
+ "auteurs-classiques_hans-christian-andersen": {
+  "qid": "Q5673",
+  "P569": [
+   "1805"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "L'Improvisateur",
+   "The Fairy Tale of My Life",
+   "Le Vilain Petit Canard",
+   "Poucette",
+   "La Reine des neiges",
+   "Le Stoïque Soldat de plomb",
+   "La Petite Fille aux allumettes",
+   "La Petite Sirène",
+   "Les Habits neufs de l'empereur",
+   "La Princesse au petit pois",
+   "Ole Lukøje",
+   "The Ice-Maiden",
+   "Svinedrengen",
+   "Le Briquet"
+  ],
+  "P101": [
+   "conte merveilleux",
+   "écriture créative et professionnelle",
+   "poésie",
+   "prose",
+   "littérature d'enfance"
+  ],
+  "P136": [
+   "conte merveilleux",
+   "mémoires"
+  ]
+ },
+ "auteurs-classiques_freres-grimm": {
+  "qid": "Q2793",
+  "P800": [
+   "Contes de l'enfance et du foyer"
+  ],
+  "P101": [
+   "linguistique"
+  ],
+  "P527": [
+   "Jacob Grimm",
+   "Wilhelm Grimm"
+  ]
+ },
+ "auteurs-classiques_henrik-ibsen": {
+  "qid": "Q36661",
+  "P569": [
+   "1828"
+  ],
+  "P570": [
+   "1906"
+  ],
+  "P27": [
+   "Norvège"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Peer Gynt",
+   "Une maison de poupée",
+   "Les Revenants",
+   "Un ennemi du peuple",
+   "Le Canard sauvage",
+   "Hedda Gabler",
+   "Rosmersholm",
+   "Brand",
+   "Solness le constructeur",
+   "Catiline",
+   "The Mountain Bird",
+   "La Dame de la mer",
+   "Madame Inger à Ostraat",
+   "The Feast at Solhaug",
+   "White Horses",
+   "The Vikings at Helgeland",
+   "John Gabriel Borkman",
+   "Empereur et Galiléen",
+   "The Burial Mound",
+   "Love's Comedy",
+   "Les Prétendants à la couronne",
+   "Petit Eyolf",
+   "Norma",
+   "Quand nous nous réveillerons d'entre les morts",
+   "Olaf Liljekrans",
+   "The Grouse in Justedal",
+   "Les Piliers de la société",
+   "St. John's Eve",
+   "Svanhild",
+   "The League of Youth",
+   "Terje Vigen"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "drame",
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_francois-villon": {
+  "qid": "Q849",
+  "P569": [
+   "1431"
+  ],
+  "P570": [
+   "1463",
+   "1464"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Ballade des pendus",
+   "Le Testament",
+   "Épître à Marie d’Orléans",
+   "Les ballades diverses",
+   "Le Lais",
+   "Ballades en jargon"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_pierre-de-ronsard": {
+  "qid": "Q49752",
+  "P569": [
+   "1524"
+  ],
+  "P570": [
+   "1585"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Pléiade"
+  ]
+ },
+ "auteurs-classiques_francois-de-la-rochefoucauld": {
+  "qid": "Q273708",
+  "P569": [
+   "1613"
+  ],
+  "P570": [
+   "1680"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Réflexions ou sentences et maximes morales",
+   "Mémoires"
+  ]
+ },
+ "auteurs-classiques_madame-de-sevigne": {
+  "qid": "Q237103",
+  "P569": [
+   "1626"
+  ],
+  "P570": [
+   "1696"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "classicisme"
+  ]
+ },
+ "auteurs-classiques_marivaux": {
+  "qid": "Q49478",
+  "P569": [
+   "1688"
+  ],
+  "P570": [
+   "1763"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "comédie",
+   "théâtre"
+  ]
+ },
+ "auteurs-classiques_gerard-de-nerval": {
+  "qid": "Q191305",
+  "P569": [
+   "1808"
+  ],
+  "P570": [
+   "1855"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme français"
+  ],
+  "P800": [
+   "Voyage en Orient",
+   "La Pandora",
+   "Aurélia ou le rêve et la vie",
+   "Les Illuminés"
+  ]
+ },
+ "auteurs-classiques_alphonse-daudet": {
+  "qid": "Q228546",
+  "P569": [
+   "1840",
+   "1840"
+  ],
+  "P570": [
+   "1897",
+   "1897"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Tartarin de Tarascon",
+   "Lettres de mon moulin",
+   "Le Petit Chose",
+   "La Chèvre de monsieur Seguin",
+   "L'Arlésienne"
+  ],
+  "P101": [
+   "traductions de l'occitan"
+  ],
+  "P136": [
+   "conte",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_edmond-rostand": {
+  "qid": "Q202749",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "néoromantisme"
+  ],
+  "P800": [
+   "Cyrano de Bergerac",
+   "L'Aiglon",
+   "Chantecler"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "théâtre",
+   "essai"
+  ]
+ },
+ "auteurs-classiques_anatole-france": {
+  "qid": "Q42443",
+  "P569": [
+   "1844",
+   "1844"
+  ],
+  "P570": [
+   "1924",
+   "1924"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "libre-pensée"
+  ],
+  "P800": [
+   "Thaïs",
+   "Les Dieux ont soif",
+   "Le Lys rouge"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme",
+   "critique littéraire",
+   "prose",
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_lautreamont": {
+  "qid": "Q294181",
+  "P569": [
+   "1846"
+  ],
+  "P570": [
+   "1870",
+   "1870"
+  ],
+  "P27": [
+   "France",
+   "Uruguay"
+  ],
+  "P800": [
+   "Les Chants de Maldoror",
+   "Poésies I",
+   "Poésies II"
+  ]
+ },
+ "auteurs-classiques_christine-de-pizan": {
+  "qid": "Q234816",
+  "P569": [
+   "1364",
+   "1363"
+  ],
+  "P570": [
+   "1430",
+   "1430"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Cité des dames",
+   "Le Chemin de longue étude",
+   "Le Livre des trois vertus à l'enseignement des dames",
+   "Complainte amoureuse (I)",
+   "Complainte amoureuse (II)",
+   "Les lamentacions sur les maux de la France",
+   "Le ditié de Jehanne d'Arc",
+   "Les heures de contemplacion de la Passion",
+   "L'epistre de la prison de vie humaine",
+   "Passion Isabeau",
+   "L'epistre Othea",
+   "Le Livre des fais et bonnes meurs du sage roy Charles V",
+   "Les trois jugemens",
+   "Les sept psaumes allegorisés",
+   "Le livre de prudence",
+   "Le livre du corps de policie",
+   "L'avision Christine",
+   "Le livre du duc des vrais amans",
+   "Une epistre a Eustace Morel",
+   "Le dit de la pastoure",
+   "Les quinze joyes Nostre Dame",
+   "Le dit de la rose",
+   "Le Livre des épîtres du débat sur le Roman de la Rose",
+   "proverbes moraux",
+   "Le dit de Poissy",
+   "Le debat de deux amans",
+   "L'avision du coq",
+   "Les jeux a vendre",
+   "Virelais",
+   "Rondeaux",
+   "Les cent ballades",
+   "Les cent ballades d'amant et de dame",
+   "Les balades d'estrange façon",
+   "Autres balades",
+   "Encore aultres balades",
+   "Lais",
+   "L'oroyson Nostre Dame",
+   "L'oroyson Nostre Seigneur",
+   "Dédicace à la reine"
+  ],
+  "P101": [
+   "poésie",
+   "littérature",
+   "politique"
+  ]
+ },
+ "auteurs-classiques_plutarque": {
+  "qid": "Q41523",
+  "P569": [
+   "40",
+   "45",
+   "45",
+   "46",
+   "46",
+   "47",
+   "50",
+   "50"
+  ],
+  "P570": [
+   "120",
+   "120",
+   "200",
+   "200",
+   "125",
+   "125",
+   "127"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Vies parallèles",
+   "Vies des Césars"
+  ],
+  "P101": [
+   "philosophie",
+   "science politique",
+   "histoire"
+  ],
+  "P136": [
+   "biographie"
+  ]
+ },
+ "auteurs-classiques_tacite": {
+  "qid": "Q2161",
+  "P569": [
+   "55",
+   "56",
+   "50",
+   "54"
+  ],
+  "P570": [
+   "120",
+   "118"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Annales",
+   "Histoires",
+   "La Germanie",
+   "Vie d’Agricola",
+   "Dialogue des orateurs"
+  ],
+  "P136": [
+   "histoire"
+  ]
+ },
+ "auteurs-classiques_plaute": {
+  "qid": "Q47160",
+  "P569": [
+   "-250"
+  ],
+  "P570": [
+   "-184"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "L'Imposteur",
+   "Les Ménechmes",
+   "La Cassette",
+   "Le Cordage",
+   "La Marmite",
+   "Le Soldat fanfaron",
+   "Mostellaria",
+   "Asinaria"
+  ]
+ },
+ "auteurs-classiques_lucrece": {
+  "qid": "Q47154",
+  "P569": [
+   "-94"
+  ],
+  "P570": [
+   "-55"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P135": [
+   "atomisme"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ },
+ "auteurs-classiques_pindare": {
+  "qid": "Q134929",
+  "P569": [
+   "-517",
+   "-522",
+   "-522",
+   "-518"
+  ],
+  "P570": [
+   "-437",
+   "-450"
+  ],
+  "P27": [
+   "Confédération béotienne"
+  ],
+  "P800": [
+   "Épinicies"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_li-bai": {
+  "qid": "Q7071",
+  "P569": [
+   "701"
+  ],
+  "P570": [
+   "762"
+  ],
+  "P27": [
+   "dynastie Tang"
+  ],
+  "P800": [
+   "Q10842233",
+   "Pensées d'une nuit calme",
+   "Mountain Q&A",
+   "Chanson à boire",
+   "A Farewell to Meng Haoran on his Way to Yangzhou",
+   "A Farewell to a Friend",
+   "Departing from Baidi in the Morning",
+   "Q17367385"
+  ]
+ },
+ "auteurs-classiques_du-fu": {
+  "qid": "Q33772",
+  "P569": [
+   "712"
+  ],
+  "P570": [
+   "770"
+  ],
+  "P27": [
+   "dynastie Tang"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_hafez-poete": {
+  "qid": "Q6240",
+  "P569": [
+   "1325"
+  ],
+  "P570": [
+   "1389"
+  ],
+  "P27": [
+   "Muzaffarides",
+   "Empire timouride"
+  ],
+  "P135": [
+   "poésie lyrique"
+  ],
+  "P800": [
+   "Divân de Hafez"
+  ],
+  "P136": [
+   "poésie lyrique"
+  ]
+ },
+ "auteurs-classiques_saadi": {
+  "qid": "Q170302",
+  "P569": [
+   "1210",
+   "1213",
+   "1175",
+   "1184"
+  ],
+  "P570": [
+   "1292",
+   "1291",
+   "1292"
+  ],
+  "P800": [
+   "Golestan",
+   "Boustan"
+  ],
+  "P101": [
+   "philosophie",
+   "littérature",
+   "poésie"
+  ],
+  "P136": [
+   "ghazal"
+  ]
+ },
+ "auteurs-classiques_kalidasa": {
+  "qid": "Q7011",
+  "P800": [
+   "Raghuvaṃśa",
+   "La Reconnaissance de Sakountala",
+   "Mālavikāgnimitram",
+   "Vikramōrvaśīyam",
+   "Kumārasambhava",
+   "Meghaduta",
+   "Ṛtusaṃhāra"
+  ],
+  "P136": [
+   "épopée",
+   "poésie lyrique",
+   "drame",
+   "drame sanskrit"
+  ]
+ },
+ "auteurs-classiques_wu-cheng-en": {
+  "qid": "Q228889",
+  "P569": [
+   "1500",
+   "1504"
+  ],
+  "P570": [
+   "1582"
+  ],
+  "P27": [
+   "dynastie Ming"
+  ],
+  "P800": [
+   "La Pérégrination vers l'Ouest"
+  ]
+ },
+ "auteurs-classiques_carlo-collodi": {
+  "qid": "Q199588",
+  "P569": [
+   "1826",
+   "1826"
+  ],
+  "P570": [
+   "1890",
+   "1890"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "grand-duché de Toscane",
+   "Provinces-Unies d'Italie centrale",
+   "royaume de Sardaigne"
+  ],
+  "P800": [
+   "I racconti delle fate",
+   "Giannettino",
+   "Minuzzolo",
+   "Les Aventures de Pinocchio",
+   "Il Lampione"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme"
+  ],
+  "P136": [
+   "littérature d'enfance"
+  ]
+ },
+ "auteurs-classiques_carlo-goldoni": {
+  "qid": "Q165534",
+  "P569": [
+   "1707"
+  ],
+  "P570": [
+   "1793"
+  ],
+  "P27": [
+   "république de Venise",
+   "France"
+  ],
+  "P800": [
+   "Il servitore di due padroni",
+   "La locandiera",
+   "Lo speziale",
+   "La donna di garbo",
+   "Le Menteur"
+  ],
+  "P101": [
+   "théâtre",
+   "littérature",
+   "drame",
+   "prose",
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_giacomo-leopardi": {
+  "qid": "Q172599",
+  "P569": [
+   "1798"
+  ],
+  "P570": [
+   "1837"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P800": [
+   "A se stesso",
+   "Q4489699",
+   "Q3625268",
+   "Canti",
+   "Ciclo di Aspasia",
+   "Q3710307",
+   "Q3730665",
+   "Q3822537",
+   "L'Infini",
+   "La quiete dopo la tempesta",
+   "Maria Antonietta",
+   "Small Moral Works",
+   "Paralipomeni della Batracomiomachia",
+   "Il passero solitario",
+   "Pensées",
+   "Q3795657",
+   "Sopra il monumento di Dante",
+   "Zibaldone",
+   "Crestomathie italienne de prose et de poésie",
+   "Crestomathie italienne poétique"
+  ]
+ },
+ "auteurs-classiques_alfred-tennyson": {
+  "qid": "Q173869",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1892"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "The Charge of the Light Brigade",
+   "The Lady of Shalott",
+   "Idylls of the King",
+   "The Princess"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-classiques_harriet-beecher-stowe": {
+  "qid": "Q102513",
+  "P569": [
+   "1811"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "La Case de l'oncle Tom",
+   "A Key to Uncle Tom's Cabin",
+   "Dred, histoire du grand marais maudit",
+   "Still, Still with Thee"
+  ],
+  "P101": [
+   "écrivain ou écrivaine"
+  ],
+  "P136": [
+   "conte"
+  ]
+ },
+ "auteurs-classiques_james-fenimore-cooper": {
+  "qid": "Q167856",
+  "P569": [
+   "1789",
+   "1789"
+  ],
+  "P570": [
+   "1851",
+   "1851"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Dernier des Mohicans"
+  ],
+  "P136": [
+   "non-fiction",
+   "fiction d'aventures"
+  ]
+ },
+ "auteurs-classiques_louisa-may-alcott": {
+  "qid": "Q185696",
+  "P569": [
+   "1832",
+   "1832"
+  ],
+  "P570": [
+   "1888",
+   "1888"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "abolitionnisme"
+  ],
+  "P800": [
+   "Les Quatre Filles du docteur March",
+   "An Old-Fashioned Girl",
+   "Jo et sa tribu",
+   "Work: A Story of Experience",
+   "Rose et ses sept cousins",
+   "Les Vingt ans de Rose",
+   "Under the Lilacs",
+   "Jack et Jane",
+   "Flower Fables",
+   "The Brownie and the Princess",
+   "A Modern Mephistopheles"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "littérature gothique"
+  ]
+ },
+ "auteurs-classiques_august-strindberg": {
+  "qid": "Q7724",
+  "P569": [
+   "1849"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P135": [
+   "naturalisme",
+   "symbolisme"
+  ],
+  "P800": [
+   "The Red Room",
+   "Le Père",
+   "Mademoiselle Julie",
+   "Inferno",
+   "Le Chemin de Damas",
+   "Le Songe",
+   "Kristina",
+   "The People of Hemsö"
+  ],
+  "P101": [
+   "littérature",
+   "écriture créative et professionnelle",
+   "prose",
+   "drame"
+  ]
+ },
+ "auteurs-classiques_adam-mickiewicz": {
+  "qid": "Q79822",
+  "P569": [
+   "1798"
+  ],
+  "P570": [
+   "1855"
+  ],
+  "P27": [
+   "Empire russe",
+   "Pologne"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Messire Thadée",
+   "Dziady (drame)",
+   "Q9391196",
+   "Ode to Youth",
+   "Q11816939",
+   "Ballads and Romances",
+   "Q9322473",
+   "Q11736605",
+   "Sonnets from the Crimea",
+   "The Books of the Polish People and of the Polish Pilgrimage",
+   "Conrad Wallenrod"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "poésie narrative",
+   "journalisme d'opinion",
+   "essai"
+  ]
+ },
+ "auteurs-classiques_henryk-sienkiewicz": {
+  "qid": "Q41502",
+  "P569": [
+   "1846"
+  ],
+  "P570": [
+   "1916"
+  ],
+  "P27": [
+   "Pologne",
+   "Empire russe"
+  ],
+  "P135": [
+   "Positivisme varsovien",
+   "positivisme en Pologne"
+  ],
+  "P800": [
+   "Janko Muzykant",
+   "Par le fer et par le feu",
+   "The Deluge",
+   "Pan Michaël",
+   "Quo vadis ?",
+   "Les Chevaliers teutoniques",
+   "Le Gouffre noir"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "roman court",
+   "reportage",
+   "récit",
+   "feuilleton"
+  ]
+ }
+}

@@ -14359,15 +14359,15 @@
 },
 "iles_islande": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Islande/@64.86425,-19.24805,6z/data=!3m1!4b1!4m6!3m5!1s0x48d22b52a3eb6043:0x6f8a0434e5c1459a!8m2!3d64.963051!4d-19.020835!16zL20vMDNyajA?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Islande/@64.86425,-19.24805,6z/data=!3m1!4b1!4m6!3m5!1s0x48d22b52a3eb6043:0x6f8a0434e5c1459a!8m2!3d64.963051!4d-19.020835!16zL20vMDNyajA?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_borneo": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Born%C3%A9o/@1.4293648,114.0550177,6z/data=!3m1!4b1!4m6!3m5!1s0x3200a51b0ce8057b:0xf81f7b0a97d0b88a!8m2!3d0.9618834!4d114.5548495!16zL20vMDFmenA?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Born%C3%A9o/@1.4293648,114.0550177,6z/data=!3m1!4b1!4m6!3m5!1s0x3200a51b0ce8057b:0xf81f7b0a97d0b88a!8m2!3d0.9618834!4d114.5548495!16zL20vMDFmenA?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_nouvelle-guinee": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Nouvelle-Guin%C3%A9e/@-5.5246525,140.9039529,6z/data=!3m1!4b1!4m6!3m5!1s0x684a0316a5130283:0xf0d0324058e7ea8!8m2!3d-5.0122202!4d141.3470159!16zL20vMDVoM3k?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Nouvelle-Guin%C3%A9e/@-5.5246525,140.9039529,6z/data=!3m1!4b1!4m6!3m5!1s0x684a0316a5130283:0xf0d0324058e7ea8!8m2!3d-5.0122202!4d141.3470159!16zL20vMDVoM3k?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_honshu": {
 "source": "grand-complement",
@@ -14381,70 +14381,71 @@
 },
 "iles_crete": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Cr%C3%A8te,+Gr%C3%A8ce/@35.248289,24.91207,8z/data=!3m1!4b1!4m6!3m5!1s0x149afe2f827d98a1:0x100bd2ce2b9c630!8m2!3d35.240117!4d24.8092691!16s%2Fg%2F122zjww4?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Cr%C3%A8te,+Gr%C3%A8ce/@35.248289,24.91207,8z/data=!3m1!4b1!4m6!3m5!1s0x149afe2f827d98a1:0x100bd2ce2b9c630!8m2!3d35.240117!4d24.8092691!16s%2Fg%2F122zjww4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_chypre-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Chypre/@35.1688,33.4252,9z/data=!3m1!4b1!4m6!3m5!1s0x14de1767ca494d55:0x324c3c807fc4146e!8m2!3d35.126413!4d33.429859!16zL20vMDFwcHE?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Chypre/@35.1688,33.4252,9z/data=!3m1!4b1!4m6!3m5!1s0x14de1767ca494d55:0x324c3c807fc4146e!8m2!3d35.126413!4d33.429859!16zL20vMDFwcHE?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_bali": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Bali/@-8.4560962,115.0715437,10z/data=!3m1!4b1!4m6!3m5!1s0x2dd22f7520fca7d3:0x2872b62cc456cd84!8m2!3d-8.3405389!4d115.0919509!16zL20vMDFia2I?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Bali/@-8.4560962,115.0715437,10z/data=!3m1!4b1!4m6!3m5!1s0x2dd22f7520fca7d3:0x2872b62cc456cd84!8m2!3d-8.3405389!4d115.0919509!16zL20vMDFia2I?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_java-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Java/@-7.3281874,109.9076899,7z/data=!3m1!4b1!4m6!3m5!1s0x2e7aa07ed2323237:0x86fe1c59d6abed60!8m2!3d-7.6145292!4d110.7122465!16zL20vMGoxXzM?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Java/@-7.3281874,109.9076899,7z/data=!3m1!4b1!4m6!3m5!1s0x2e7aa07ed2323237:0x86fe1c59d6abed60!8m2!3d-7.6145292!4d110.7122465!16zL20vMGoxXzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_sumatra": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sumatra/@-0.143343,100.645138,6z/data=!3m1!4b1!4m6!3m5!1s0x2e2aad6120570311:0x1def4d17e789deb4!8m2!3d-0.589724!4d101.3431058!16zL20vMDczNHI?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sumatra/@-0.143343,100.645138,6z/data=!3m1!4b1!4m6!3m5!1s0x2e2aad6120570311:0x1def4d17e789deb4!8m2!3d-0.589724!4d101.3431058!16zL20vMDczNHI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_tahiti": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Tahiti/@-17.6872697,-149.3728045,11z/data=!3m1!4b1!4m6!3m5!1s0x769bb353982d1e65:0x413cf43a8988a3fa!8m2!3d-17.6509195!4d-149.4260421!16zL20vMGhiNmc?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Tahiti/@-17.6872697,-149.3728045,11z/data=!3m1!4b1!4m6!3m5!1s0x769bb353982d1e65:0x413cf43a8988a3fa!8m2!3d-17.6509195!4d-149.4260421!16zL20vMGhiNmc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-de-paques": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+de+P%C3%A2ques/@-27.12598,-109.3388147,12z/data=!3m1!4b1!4m6!3m5!1s0x9947f017a8d4ae2b:0xbbe5b3edc02a2db6!8m2!3d-27.112723!4d-109.3496865!16zL20vMGRfeno?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+P%C3%A2ques/@-27.12598,-109.3388147,12z/data=!3m1!4b1!4m6!3m5!1s0x9947f017a8d4ae2b:0xbbe5b3edc02a2db6!8m2!3d-27.112723!4d-109.3496865!16zL20vMGRfeno?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_iles-galapagos": {
-"source": "wiki-sans-filtre"
+"source": "google-maps",
+"url": "https://www.google.com/maps/@-0.65,-90.55,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_socotra": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Socotra/@12.5072013,53.9198512,10z/data=!3m1!4b1!4m6!3m5!1s0x3db6a3302ac94bf1:0x850a7ddff0ac426b!8m2!3d12.4634205!4d53.8237385!16zL20vMDJnbnAy?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Socotra/@12.5072013,53.9198512,10z/data=!3m1!4b1!4m6!3m5!1s0x3db6a3302ac94bf1:0x850a7ddff0ac426b!8m2!3d12.4634205!4d53.8237385!16zL20vMDJnbnAy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_santorin": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Archipel+de+Santorin/@36.4071539,25.4206309,12z/data=!3m1!4b1!4m6!3m5!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Archipel+de+Santorin/@36.4071539,25.4206309,12z/data=!3m1!4b1!4m6!3m5!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_capri": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Capri/@40.5489078,14.2310582,14z/data=!3m1!4b1!4m6!3m5!1s0x133b79d1ae3f1beb:0xc7951fb43e25e2eb!8m2!3d40.5532009!4d14.222154!16zL20vMDFyNDhq?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Capri/@40.5489078,14.2310582,14z/data=!3m1!4b1!4m6!3m5!1s0x133b79d1ae3f1beb:0xc7951fb43e25e2eb!8m2!3d40.5532009!4d14.222154!16zL20vMDFyNDhq?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ibiza": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ibiza/@38.974343,1.4173878,11z/data=!3m1!4b1!4m6!3m5!1s0x1299476385093943:0x9064725cd8426d6!8m2!3d39.0200099!4d1.4821482!16zL20vMGgyYzM?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ibiza/@38.974343,1.4173878,11z/data=!3m1!4b1!4m6!3m5!1s0x1299476385093943:0x9064725cd8426d6!8m2!3d39.0200099!4d1.4821482!16zL20vMGgyYzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_hispaniola": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Hispaniola/@18.7785306,-71.4018322,7z/data=!3m1!4b1!4m6!3m5!1s0x8eb69354aeb686d5:0x5f32ac43ad6a3fc4!8m2!3d19.0018663!4d-71.5723953!16zL20vMDNrbjI?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Hispaniola/@18.7785306,-71.4018322,7z/data=!3m1!4b1!4m6!3m5!1s0x8eb69354aeb686d5:0x5f32ac43ad6a3fc4!8m2!3d19.0018663!4d-71.5723953!16zL20vMDNrbjI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_terre-neuve": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Terre-Neuve/@49.1211647,-56.0163583,7z/data=!3m1!4b1!4m6!3m5!1s0x4b70b604d41b87f9:0xf06e44750398710!8m2!3d48.6064556!4d-56.3330408!16zL20vMDU5c3M?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Terre-Neuve/@49.1211647,-56.0163583,7z/data=!3m1!4b1!4m6!3m5!1s0x4b70b604d41b87f9:0xf06e44750398710!8m2!3d48.6064556!4d-56.3330408!16zL20vMDU5c3M?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_archipel-des-comores": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Archipel+des+Comores/@-12.1725323,44.2464392,9z/data=!3m1!4b1!4m6!3m5!1s0x18a1d007291fced9:0x30c33280bae959b1!8m2!3d-12.1725323!4d44.2464392!16zL20vMDM3em04?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-12.3,44.1,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-maurice": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-20.28,57.57,10z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-20.25,57.57,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ouessant": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ouessant/@48.4599059,-5.0876045,13z/data=!3m1!4b1!4m6!3m5!1s0x48167b37c74ee3f9:0x13d133610e9a12b7!8m2!3d48.4613624!4d-5.0913948!16zL20vMDJmNTUy?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ouessant/@48.4599059,-5.0876045,13z/data=!3m1!4b1!4m6!3m5!1s0x48167b37c74ee3f9:0x13d133610e9a12b7!8m2!3d48.4613624!4d-5.0913948!16zL20vMDJmNTUy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "villes-du-monde_ispahan": {
 "source": "wiki-sans-filtre"
@@ -14547,70 +14548,70 @@
 },
 "iles_madagascar": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Madagascar/@-18.8258,46.8676501,6z/data=!3m1!4b1!4m6!3m5!1s0x21d1a4e3ea238545:0x5244e3c1977b1388!8m2!3d-18.766947!4d46.869107!16zL20vMDRzajM?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Madagascar/@-18.8258,46.8676501,6z/data=!3m1!4b1!4m6!3m5!1s0x21d1a4e3ea238545:0x5244e3c1977b1388!8m2!3d-18.766947!4d46.869107!16zL20vMDRzajM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_sicile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sicile,+Italie/@37.1524895,13.7893259,8z/data=!3m1!4b1!4m6!3m5!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.3979297!4d14.6587821!16zL20vMDZ3OTI?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sicile,+Italie/@37.1524895,13.7893259,8z/data=!3m1!4b1!4m6!3m5!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.3979297!4d14.6587821!16zL20vMDZ3OTI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_sardaigne": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sardaigne/@40.0616227,8.9789212,8z/data=!3m1!4b1!4m6!3m5!1s0x12ddc48d448d3591:0x339674b6e4ab6631!8m2!3d40.1208752!4d9.0128926!16zL20vMDc4bGs?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sardaigne/@40.0616227,8.9789212,8z/data=!3m1!4b1!4m6!3m5!1s0x12ddc48d448d3591:0x339674b6e4ab6631!8m2!3d40.1208752!4d9.0128926!16zL20vMDc4bGs?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_corse": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Corse/@42.1878726,9.0516885,8z/data=!3m1!4b1!4m6!3m5!1s0x12da00d304e8c551:0xd96e92ea01e96103!8m2!3d42.0396042!4d9.0128926!16zL20vMGYwc2Js?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Corse/@42.1878726,9.0516885,8z/data=!3m1!4b1!4m6!3m5!1s0x12da00d304e8c551:0xd96e92ea01e96103!8m2!3d42.0396042!4d9.0128926!16zL20vMGYwc2Js?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_iles-feroe": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Eles+F%C3%A9ro%C3%A9/@61.8994259,-6.9543458,8z/data=!3m1!4b1!4m6!3m5!1s0x48bc1593762df9eb:0x3fb0314864f71b24!8m2!3d61.892635!4d-6.9118061!16zL20vMDJ3OXM?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Eles+F%C3%A9ro%C3%A9/@61.8994259,-6.9543458,8z/data=!3m1!4b1!4m6!3m5!1s0x48bc1593762df9eb:0x3fb0314864f71b24!8m2!3d61.892635!4d-6.9118061!16zL20vMDJ3OXM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_svalbard": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Svalbard,+Svalbard+et+Jan+Mayen/@77.4463516,22.593384,5z/data=!3m1!4b1!4m6!3m5!1s0x45a1cfdc4fa3c049:0x2bf373e71b35e875!8m2!3d77.8749725!4d20.9751821!16zL20vMDZ2MmI?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Svalbard,+Svalbard+et+Jan+Mayen/@77.4463516,22.593384,5z/data=!3m1!4b1!4m6!3m5!1s0x45a1cfdc4fa3c049:0x2bf373e71b35e875!8m2!3d77.8749725!4d20.9751821!16zL20vMDZ2MmI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_malte": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Malte/@35.9351506,14.37835,11z/data=!3m1!4b1!4m6!3m5!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416!16zL20vMDR2M3E?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Malte/@35.9351506,14.37835,11z/data=!3m1!4b1!4m6!3m5!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416!16zL20vMDR2M3E?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_bahamas": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Bahamas/@24.4344686,-75.9667161,7z/data=!3m1!4b1!4m6!3m5!1s0x88d69a3bb2480f3d:0x133eb4836ac779e5!8m2!3d25.03428!4d-77.39628!16zL20vMDE2MHc?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Bahamas/@24.4344686,-75.9667161,7z/data=!3m1!4b1!4m6!3m5!1s0x88d69a3bb2480f3d:0x133eb4836ac779e5!8m2!3d25.03428!4d-77.39628!16zL20vMDE2MHc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_cuba": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Cuba/@21.5152501,-79.563,7z/data=!3m1!4b1!4m6!3m5!1s0x88cd49070f7a4cb5:0x798cf7529110a41a!8m2!3d21.521757!4d-77.781167!16zL20vMGQwNHo2?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Cuba/@21.5152501,-79.563,7z/data=!3m1!4b1!4m6!3m5!1s0x88cd49070f7a4cb5:0x798cf7529110a41a!8m2!3d21.521757!4d-77.781167!16zL20vMGQwNHo2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_jamaique": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Jama%C3%AFque/@18.1193337,-77.2761154,9z/data=!3m1!4b1!4m6!3m5!1s0x8eda2a1bc6cf719d:0x59a0d1c0b5120efa!8m2!3d18.109581!4d-77.297508!16zL20vMDNfcjM?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Jama%C3%AFque/@18.1193337,-77.2761154,9z/data=!3m1!4b1!4m6!3m5!1s0x8eda2a1bc6cf719d:0x59a0d1c0b5120efa!8m2!3d18.109581!4d-77.297508!16zL20vMDNfcjM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_tasmanie": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Tasmanie,+Australie/@-41.4674859,146.160852,7z/data=!3m1!4b1!4m6!3m5!1s0xaa7aed277e34facf:0x2a8fa5dd29404064!8m2!3d-42.0409059!4d146.8087323!16zL20vMDdjZng?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Tasmanie,+Australie/@-41.4674859,146.160852,7z/data=!3m1!4b1!4m6!3m5!1s0xaa7aed277e34facf:0x2a8fa5dd29404064!8m2!3d-42.0409059!4d146.8087323!16zL20vMDdjZng?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_nouvelle-zelande": {
 "source": "wiki-sans-filtre"
 },
 "iles_fidji": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-17.75,178.3,8z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-17.6,178.2,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_palaos": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@7.45,134.55,9z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@7.45,134.55,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_maldives": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@3.4,73.35,7z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@3.2,73.3,7z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_seychelles": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-4.62,55.48,10z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-4.5,55.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_la-reunion": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/La+R%C3%A9union/@-21.1353425,55.5273056,10z/data=!3m1!4b1!4m6!3m5!1s0x2178778110b8e43b:0x4a7f8e89ecdbeaf9!8m2!3d-21.115141!4d55.536384!16zL20vMGx4aGo?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/La+R%C3%A9union/@-21.1353425,55.5273056,10z/data=!3m1!4b1!4m6!3m5!1s0x2178778110b8e43b:0x4a7f8e89ecdbeaf9!8m2!3d-21.115141!4d55.536384!16zL20vMGx4aGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_spitzberg": {
 "source": "wiki-sans-filtre"
@@ -14623,19 +14624,19 @@
 },
 "iles_groenland": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@72,-41,4z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@71,-42,3z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_hawai-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Hawa%C3%AF,+%C3%89tats-Unis/@20.46,-157.505,7z/data=!3m1!4b1!4m6!3m5!1s0x7bffdb064f79e005:0x4b7782d274cc8628!8m2!3d19.8986819!4d-155.6658568!16zL20vMDNnaDQ?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Hawa%C3%AF,+%C3%89tats-Unis/@20.46,-157.505,7z/data=!3m1!4b1!4m6!3m5!1s0x7bffdb064f79e005:0x4b7782d274cc8628!8m2!3d19.8986819!4d-155.6658568!16zL20vMDNnaDQ?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_sainte-helene-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sainte-H%C3%A9l%C3%A8ne,+STHL+1ZZ,+Sainte-H%C3%A9l%C3%A8ne/@-15.9657003,-5.7120318,13z/data=!3m1!4b1!4m6!3m5!1s0x4eae213352ce5e3:0xae804f0450199fa6!8m2!3d-15.9650104!4d-5.7089241!16s%2Fm%2F0zvyjn4?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sainte-H%C3%A9l%C3%A8ne,+STHL+1ZZ,+Sainte-H%C3%A9l%C3%A8ne/@-15.9657003,-5.7120318,13z/data=!3m1!4b1!4m6!3m5!1s0x4eae213352ce5e3:0xae804f0450199fa6!8m2!3d-15.9650104!4d-5.7089241!16s%2Fm%2F0zvyjn4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_zanzibar-archipel": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-6.12,39.38,9z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-6.1,39.35,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "champions-olympiques_jesse-owens": {
 "source": "wiki-sans-filtre"
@@ -17595,7 +17596,7 @@
 },
 "langues-du-monde_langues-berberes": {
 "source": "page-udhr",
-"code": "tzm_tfng"
+"code": "zgh"
 },
 "langues-du-monde_lingala": {
 "source": "page-udhr",
@@ -26255,93 +26256,79 @@
 },
 "iles_taiwan-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ta%C3%AFwan/@23.4857501,119.4996499,7z/data=!3m1!4b1!4m6!3m5!1s0x346ef3065c07572f:0xe711f004bf9c5469!8m2!3d23.69781!4d120.960515!16zL20vMDZmMzI?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ta%C3%AFwan/@23.4857501,119.4996499,7z/data=!3m1!4b1!4m6!3m5!1s0x346ef3065c07572f:0xe711f004bf9c5469!8m2!3d23.69781!4d120.960515!16zL20vMDZmMzI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_martinique": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Martinique/@14.6340895,-61.0137748,10z/data=!3m1!4b1!4m6!3m5!1s0x8c6aa0f90066070d:0xe1001b1217afe7b0!8m2!3d14.641528!4d-61.024174!16zL20vMDR2Zzg?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Martinique/@14.6340895,-61.0137748,10z/data=!3m1!4b1!4m6!3m5!1s0x8c6aa0f90066070d:0xe1001b1217afe7b0!8m2!3d14.641528!4d-61.024174!16zL20vMDR2Zzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_guadeloupe": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.generationvoyage.fr/2021/07/Les-Saintes.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Guadeloupe/@16.1496297,-61.39705,10z/data=!3m1!4b1!4m6!3m5!1s0x8c0e755a77287d51:0xecbe3e37b74a07ab!8m2!3d16.265!4d-61.551!16zL20vMDM3bm0?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_grande-terre-nouvelle-caledonie": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Grande+Terre/@-21.235371,165.5092366,8z/data=!3m1!4b1!4m6!3m5!1s0x6e9db27b89a1db1d:0x24081ca55207fe43!8m2!3d-21.3109111!4d165.4344727!16s%2Fm%2F0h_c0z_?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Grande+Terre/@-21.235371,165.5092366,8z/data=!3m1!4b1!4m6!3m5!1s0x6e9db27b89a1db1d:0x24081ca55207fe43!8m2!3d-21.3109111!4d165.4344727!16s%2Fm%2F0h_c0z_?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_bora-bora": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Bora-Bora/@-16.504424,-151.7386491,13z/data=!3m1!4b1!4m6!3m5!1s0x76bdbd188a4a98ab:0x160a089e92d5ce61!8m2!3d-16.5004126!4d-151.7414904!16zL20vMDJqX2tq?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Bora-Bora/@-16.392086,-151.7652232,11z/data=!4m10!1m2!2m1!1sBora-Bora!3m6!1s0x76bdbd188a4a98ab:0x160a089e92d5ce61!8m2!3d-16.5004126!4d-151.7414904!15sCglCb3JhLUJvcmGSAQZpc2xhbmTgAQA!16zL20vMDJqX2tq?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_iles-marquises": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://fenua-tahiti.com/wp-content/uploads/2021/10/Quand-aller-aux-Iles-Marquises-1-5.jpeg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/@-9.4,-139.7,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_mayotte": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Mayotte/@-12.8065498,45.1557827,11z/data=!3m1!4b1!4m6!3m5!1s0x220a0e33dcf28dbb:0xff32176795fe2a4b!8m2!3d-12.8275!4d45.166244!16zL20vMDR2d3M?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Mayotte/@-12.8065498,45.1557827,11z/data=!3m1!4b1!4m6!3m5!1s0x220a0e33dcf28dbb:0xff32176795fe2a4b!8m2!3d-12.8275!4d45.166244!16zL20vMDR2d3M?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-de-re": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://hotelclosgalion.fr/wp-content/uploads/sites/4/2025/02/ile-de-re.webp"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+R%C3%A9/@46.2005791,-1.4079289,12z/data=!3m1!4b1!4m6!3m5!1s0x4803f806cafa7aab:0xca60eddaded7a874!8m2!3d46.1911105!4d-1.3944629!16zL20vMGZwMDM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_belle-ile-en-mer": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://woody.cloudly.space/app/uploads/belle-ile/2021/09/thumbs/karine-piquet-15-1920x960-crop-1636380982.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Belle-%C3%8Ele-en-Mer/@47.3338848,-3.1598481,12z/data=!3m1!4b1!4m6!3m5!1s0x481a9c9143741af5:0xdbe620b406e4e50e!8m2!3d47.3364213!4d-3.1810427!16zL20vMDJmMjZi?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_jersey": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://static.independent.co.uk/s3fs-public/indy100/xyq3w96ayW/19289-15x3w3z.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Jersey/@49.211724,-2.1371592,11z/data=!3m1!4b1!4m6!3m5!1s0x480c52a48c927533:0x519c23a30a1a6cc3!8m2!3d49.2137711!4d-2.1357662!16zL20vMDNfeGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-de-skye": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://wallpapercave.com/wp/wp4196130.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Skye/@57.3629699,-6.2180284,9z/data=!3m1!4b1!4m6!3m5!1s0x488c312261bdc1ff:0x585c356fe9c86218!8m2!3d57.2736278!4d-6.2155023!16zL20vMDN5Nms?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ithaque": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ithaki-Vathy.jpg/1280px-Ithaki-Vathy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Ithaque/@38.4018847,20.6908031,12z/data=!3m1!4b1!4m6!3m5!1s0x135d952249df9f5f:0x6acd8d9ffb56445a!8m2!3d38.4284603!4d20.6764877!16zL20vMGdtZzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_rhodes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://a.cdn-hotels.com/gdcs/production195/d995/210d3150-163f-410e-8a32-b3bdf4900814.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Rhodes/@36.1676632,27.9655113,10z/data=!3m1!4b1!4m6!3m5!1s0x14950af92e9b4fad:0x27eed014f85bd454!8m2!3d36.4340533!4d28.2176379!16zL20vMDZreV8?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_majorque": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://a.cdn-hotels.com/gdcs/production192/d1258/1ce1468e-e25c-42e8-908a-fe75e75c7210.jpg?impolicy=fcrop&w=1600&h=1066&q=medium"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Majorque/@39.613498,2.9116515,10z/data=!3m1!4b1!4m6!3m5!1s0x1297b8766606c129:0xb7eb9bff02d2ecc0!8m2!3d39.6952629!4d3.0175712!16zL20vMGc1Mno?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_tenerife": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.voyageavecnous.fr/wp-content/uploads/2021/08/ile-de-tenerife.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Tenerife/@28.2933947,-16.5226597,10z/data=!3m1!4b1!4m6!3m5!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304!16zL20vMDFucWIx?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_madere": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2025/02/seixal-et-sa-plage-madere.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/@32.87,-16.7,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_acores": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.nirvatravel.com/wp-content/uploads/2020/06/acores-lac-cratere-sao-miguel.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/@38.55,-28,7z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-de-goree": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://pourquoijaimelesenegal.com/images/pjls/decouvrir/010-ile-de-goree-article.webp"
+"source": "google-maps",
+"url": "https://www.google.com/maps/@14.6672,-17.3985,16z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-d-alcatraz": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SIRLXoNEXjjzpme6v/videoblocks-beautiful-panoramic-view-of-the-alcatraz-island-prison-from-above-in-san-francisco-california-usa_h1ws9aals_thumbnail-1080_01.png"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/%C3%8Ele+d'Alcatraz/@37.8267028,-122.4229888,17z/data=!3m1!4b1!4m6!3m5!1s0x8085811569574f23:0x189c28e85a71ae17!8m2!3d37.8266636!4d-122.4230122!16s%2Fg%2F1hm5fnql2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_manhattan": {
 "source": "grand-complement",
@@ -26349,41 +26336,36 @@
 "url": "https://i.pinimg.com/originals/88/4d/80/884d80add12a390abd6cdb37489009e8.jpg"
 },
 "iles_ellis-island": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.publicdomainpictures.net/pictures/290000/velka/ellis-island-immigration-station-15505058148nR.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Ellis+Island/@40.6986858,-74.0407053,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2509a195f0e0f:0xd2a3469d9222d6eb!8m2!3d40.6994748!4d-74.0395587!16zL20vMDJueWc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-du-diable": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://daily.jstor.org/wp-content/uploads/2024/12/the_devilish_history_of_devils_island_1050x700-scaled.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/%C3%8Ele+du+Diable/@5.2938993,-52.5829859,17z/data=!3m1!4b1!4m6!3m5!1s0x8d11e42fad9228bd:0x2b6f5f467a72182d!8m2!3d5.2954974!4d-52.5818964!16zL20vMDE1cjU4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_ile-de-la-tortue": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://i.pinimg.com/originals/f3/9e/ec/f39eecd834216477e6f955e56a9ccfb2.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+la+Tortue/@20.0410277,-72.7954762,12z/data=!3m1!4b1!4m6!3m5!1s0x8eb6635255465279:0x57de6eda0fe30d8a!8m2!3d20.0548685!4d-72.7924612!16zL20vMDJ6N3Yy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_tristan-da-cunha": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://atlanticguardians.org/wp-content/uploads/2022/10/Tristan-da-Cunha-island-c-Andy-Schofield.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Tristan+da+Cunha/@-37.1162056,-12.2839762,12z/data=!3m1!4b1!4m6!3m5!1s0x25a3b1a1af6dc9b:0x69ee2d95dc98aedb!8m2!3d-37.1052489!4d-12.2776838!16zL20vMDdxNDg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_iles-kerguelen": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://1.bp.blogspot.com/-uxbhJOrO4dI/X86xuJ6ML5I/AAAAAAAATBA/CvIB9zgwVeQNRlFioht3BDe_UBYDS9eQwCLcBGAsYHQ/s1080/FB_IMG_1607381359388.jpg"
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/%C3%8Ele+Kergu%C3%A9len/@-49.1970159,69.6434431,9z/data=!3m1!4b1!4m6!3m5!1s0xb36b481ca16fd0e7:0xb9964abcebd3657f!8m2!3d-49.3948275!4d69.3544625!16s%2Fm%2F0lc9n1w?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_pitcairn": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-25.066,-130.1,14z?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-25.066,-130.1,14z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_komodo-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Komodo/@-8.5892324,119.4726357,11z/data=!3m1!4b1!4m6!3m5!1s0x2db4545ba8b2bbbb:0x62b9b2c3feba412!8m2!3d-8.5850461!4d119.4411476!16zL20vMDMyanFx?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Komodo/@-8.5892324,119.4726357,11z/data=!3m1!4b1!4m6!3m5!1s0x2db4545ba8b2bbbb:0x62b9b2c3feba412!8m2!3d-8.5850461!4d119.4411476!16zL20vMDMyanFx?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "iles_bikini-atoll": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Bikini/@11.6040016,165.3840487,11z/data=!3m1!4b1!4m6!3m5!1s0x644c2180a24fadbf:0x4c3f21ce9753a027!8m2!3d11.6065142!4d165.3768099!16zL20vMDFkNnM5?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@11.6,165.52,11z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
 },
 "montagnes-et-volcans_kangchenjunga": {
 "source": "grand-complement",
@@ -30373,30 +30355,15 @@
 "origine": "web",
 "url": "https://www.nme.com/wp-content/uploads/2021/07/cannes-2021-opening-getty.jpg"
 },
-"festivals-et-recompenses-cinema_palme-d-or": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images.prestigeonline.com/wp-content/uploads/sites/3/2026/05/15123700/Main_SwitzerlandFranceEntertainmentFilmCannesFestiva-copy-1600x900.jpg"
-},
 "festivals-et-recompenses-cinema_mostra-de-venise": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://myartguides.com/wp-content/uploads/2019/11/Venice_International_Film_Festival-1.jpg"
 },
-"festivals-et-recompenses-cinema_lion-d-or": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://wallpapercat.com/w/full/2/0/c/1394711-2048x1365-desktop-hd-golden-lion-award-wallpaper.jpg"
-},
 "festivals-et-recompenses-cinema_berlinale": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://theartsshelf.com/wp-content/uploads/2014/02/berlin-film-festival.jpg"
-},
-"festivals-et-recompenses-cinema_ours-d-or": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://blog.filmustage.com/content/images/2023/08/image-1.png"
 },
 "festivals-et-recompenses-cinema_oscars-du-cinema": {
 "source": "grand-complement",
@@ -30458,16 +30425,6 @@
 "origine": "web",
 "url": "https://www.fmradiocultura.com.ar/wp-content/uploads/2025/02/Clermont-Ferrand_International_Short_Film_Festival_20250101_Survivre.jpg"
 },
-"festivals-et-recompenses-cinema_grand-prix-du-festival-de-cannes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.devicedaily.com/wp-content/uploads/2019/06/Netflix-acquires-Cannes-Film-Festival-s-Grand-Prix-winner.jpg"
-},
-"festivals-et-recompenses-cinema_camera-d-or": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcL3NpdGVzXC8yXC8yMDI1XC8wM1wvMDAwXzE1Njd4Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiZml0IjoiY292ZXIifX19"
-},
 "festivals-et-recompenses-cinema_prix-louis-delluc": {
 "source": "grand-complement",
 "origine": "web",
@@ -30497,5 +30454,25 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.fineartamerica.com/images-medium-large-5/1-portrait-of-josephine-baker-george-hoyningen-huen.jpg"
+},
+"festivals-et-recompenses-cinema_festival-international-du-film-fantastique-de-gerardmer": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://fr.web.img6.acsta.net/medias/nmedia/18/36/25/47/19945379.jpg"
+},
+"festivals-et-recompenses-cinema_festival-international-du-film-fantastique-d-avoriaz": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://backoffice.avoriaz.com/wp-content/uploads/2020/09/201210161992-719x1080.jpg"
+},
+"festivals-et-recompenses-cinema_lumieres-de-la-presse-internationale": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://static1.purepeople.com/articles/8/42/06/68/@/6047657-exclusif-illustration-lors-de-la-26eme-1200x0-2.jpg"
+},
+"festivals-et-recompenses-cinema_european-film-awards": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.europeanfilmacademy.org/app/uploads/2021/11/statuettes2-1600.jpg"
 }
 }

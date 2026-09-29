@@ -1,0 +1,1441 @@
+{
+ "langues-du-monde_latin": {
+  "qid": "Q397",
+  "P17": [
+   "Vatican"
+  ],
+  "P527": [
+   "mot latin",
+   "mot latin ou grec"
+  ]
+ },
+ "langues-du-monde_grec-ancien": {
+  "qid": "Q35497",
+  "P527": [
+   "grec archaïque",
+   "grec classique",
+   "koinè",
+   "mot en grec ancien"
+  ]
+ },
+ "langues-du-monde_sanskrit": {
+  "qid": "Q11059",
+  "P17": [
+   "Inde"
+  ],
+  "P527": [
+   "sanskrit classique",
+   "sanskrit védique"
+  ]
+ },
+ "langues-du-monde_hebreu": {
+  "qid": "Q9288",
+  "P571": [
+   "-1500"
+  ],
+  "P17": [
+   "Israël"
+  ],
+  "P527": [
+   "hébreu biblique",
+   "hébreu moderne",
+   "hébreu ashkénaze",
+   "hébreu séfarade",
+   "Hébreu yéménite",
+   "vocalisation tibérienne"
+  ]
+ },
+ "langues-du-monde_arabe": {
+  "qid": "Q13955",
+  "P17": [
+   "Égypte",
+   "Algérie",
+   "Soudan",
+   "Irak",
+   "Maroc",
+   "Arabie saoudite",
+   "Yémen",
+   "Syrie",
+   "Tunisie",
+   "Somalie",
+   "Tchad",
+   "Émirats arabes unis",
+   "Jordanie",
+   "Érythrée",
+   "Libye",
+   "Liban",
+   "État de Palestine",
+   "Oman",
+   "Mauritanie",
+   "Koweït",
+   "Qatar",
+   "Bahreïn",
+   "Djibouti",
+   "Comores",
+   "Israël",
+   "Soudan du Sud",
+   "Mali",
+   "Niger",
+   "Iran",
+   "Espagne",
+   "Kenya",
+   "Sénégal",
+   "Tanzanie",
+   "Turquie",
+   "Roumanie",
+   "Portugal",
+   "Malaisie",
+   "Indonésie"
+  ],
+  "P527": [
+   "arabe standard moderne",
+   "hassanya",
+   "arabe marocain",
+   "arabe saharien",
+   "arabe algérien",
+   "arabe tunisien",
+   "arabe libyen",
+   "arabe égyptien",
+   "arabe bédawi",
+   "arabe saïdi",
+   "arabe tchadien",
+   "arabe soudanais",
+   "arabe de Djouba",
+   "arabe najdi",
+   "arabe levantin",
+   "arabe mésopotamien du Nord",
+   "arabe mésopotamien",
+   "arabe du Golfe",
+   "arabe bahreïnien",
+   "arabe hijazi",
+   "arabe shihhi",
+   "arabe omanais",
+   "arabe dhofari",
+   "Sanʽani Arabic",
+   "arabe ta'izzi-adeni",
+   "arabe hadhrami",
+   "arabe ouzbèque",
+   "arabe du Tadjikistan",
+   "arabe chypriote maronite",
+   "maltais",
+   "nubi",
+   "Shirvani Arabic",
+   "arabe d'Asie Centrale",
+   "judéo-arabe",
+   "arabe saoudien"
+  ]
+ },
+ "langues-du-monde_langues-chinoises": {
+  "qid": "Q7850",
+  "P17": [
+   "république populaire de Chine",
+   "Taïwan",
+   "Singapour"
+  ],
+  "P527": [
+   "min",
+   "cantonais",
+   "hakka",
+   "wu",
+   "mandarin",
+   "xiang",
+   "jinyu",
+   "hui",
+   "pinghua",
+   "langue bashu",
+   "shaozhou tuhua"
+  ]
+ },
+ "langues-du-monde_mandarin-standard": {
+  "qid": "Q727694",
+  "P17": [
+   "république populaire de Chine",
+   "Brunei",
+   "Taïwan",
+   "Indonésie",
+   "Malaisie",
+   "Philippines",
+   "Singapour"
+  ],
+  "P527": [
+   "Standard Mandarin tones",
+   "putonghua",
+   "mandarin de Taïwan",
+   "mandarin de Singapour",
+   "mandarin malaisien"
+  ]
+ },
+ "langues-du-monde_japonais": {
+  "qid": "Q5287",
+  "P17": [
+   "Japon"
+  ]
+ },
+ "langues-du-monde_coreen": {
+  "qid": "Q9176",
+  "P17": [
+   "Corée du Sud",
+   "Corée du Nord",
+   "république populaire de Chine",
+   "Japon",
+   "États-Unis",
+   "Canada",
+   "Malaisie",
+   "Russie"
+  ]
+ },
+ "langues-du-monde_hindi": {
+  "qid": "Q1568",
+  "P17": [
+   "Inde",
+   "Népal",
+   "Pakistan",
+   "Fidji"
+  ]
+ },
+ "langues-du-monde_bengali": {
+  "qid": "Q9610",
+  "P17": [
+   "Bangladesh",
+   "Inde"
+  ]
+ },
+ "langues-du-monde_ourdou": {
+  "qid": "Q1617",
+  "P17": [
+   "Inde",
+   "Pakistan",
+   "Fidji",
+   "Royaume-Uni",
+   "Canada",
+   "États-Unis",
+   "Norvège"
+  ]
+ },
+ "langues-du-monde_persan": {
+  "qid": "Q9168",
+  "P17": [
+   "Iran",
+   "Bahreïn",
+   "Koweït",
+   "Afghanistan",
+   "Pakistan",
+   "Tadjikistan",
+   "Ouzbékistan",
+   "Russie",
+   "Émirats arabes unis",
+   "Irak"
+  ]
+ },
+ "langues-du-monde_turc": {
+  "qid": "Q256",
+  "P17": [
+   "Bulgarie",
+   "Chypre",
+   "Grèce",
+   "Turquie",
+   "Chypre du Nord"
+  ]
+ },
+ "langues-du-monde_russe": {
+  "qid": "Q7737",
+  "P17": [
+   "Russie",
+   "Allemagne",
+   "Kazakhstan",
+   "Israël",
+   "Mongolie",
+   "États-Unis",
+   "Canada",
+   "Biélorussie",
+   "Kirghizistan",
+   "Azerbaïdjan",
+   "Estonie",
+   "Géorgie",
+   "Lettonie",
+   "Lituanie",
+   "Moldavie",
+   "Tadjikistan",
+   "Ukraine",
+   "Ouzbékistan"
+  ]
+ },
+ "langues-du-monde_polonais": {
+  "qid": "Q809",
+  "P17": [
+   "Pologne"
+  ],
+  "P527": [
+   "standard Polish"
+  ]
+ },
+ "langues-du-monde_allemand": {
+  "qid": "Q188",
+  "P17": [
+   "Allemagne",
+   "Autriche",
+   "Belgique",
+   "Tchéquie",
+   "Danemark",
+   "Italie",
+   "Liechtenstein",
+   "Luxembourg",
+   "Pologne",
+   "Suisse",
+   "France",
+   "Russie"
+  ],
+  "P527": [
+   "allemand autrichien",
+   "haut-allemand précoce",
+   "vieux haut-allemand",
+   "moyen haut-allemand",
+   "denglisch",
+   "yiddish",
+   "moyen allemand",
+   "allemand supérieur",
+   "allemand de Pennsylvanie",
+   "Rotwelsch",
+   "suisse allemand"
+  ]
+ },
+ "langues-du-monde_anglais": {
+  "qid": "Q1860",
+  "P17": [
+   "Samoa américaines",
+   "Anguilla",
+   "Antigua-et-Barbuda",
+   "Aruba",
+   "Australie",
+   "Bahamas",
+   "Bahreïn",
+   "Barbade",
+   "Belize",
+   "Bermudes",
+   "Bhoutan",
+   "Botswana",
+   "Territoire britannique de l’océan Indien",
+   "îles Vierges britanniques",
+   "Brunei",
+   "Cambodge",
+   "Cameroun",
+   "Canada",
+   "îles Caïmans",
+   "Îles Cook",
+   "Dominique",
+   "Érythrée",
+   "Éthiopie",
+   "îles Malouines",
+   "Fidji",
+   "Gambie",
+   "Ghana",
+   "Gibraltar",
+   "Grenade",
+   "États-Unis",
+   "Guernesey",
+   "Guyana",
+   "Inde",
+   "Irlande",
+   "Île de Man",
+   "Israël",
+   "Jamaïque",
+   "Jersey",
+   "Kenya",
+   "Kiribati",
+   "Liban",
+   "Lesotho",
+   "Liberia",
+   "Madagascar",
+   "Malawi",
+   "Malaisie",
+   "Maldives",
+   "Malte",
+   "Îles Marshall",
+   "Maurice",
+   "États fédérés de Micronésie",
+   "Montserrat",
+   "Namibie",
+   "Nauru",
+   "Nouvelle-Zélande",
+   "Nigeria",
+   "Niue",
+   "Oman",
+   "Pakistan",
+   "Palaos",
+   "Papouasie-Nouvelle-Guinée",
+   "Philippines",
+   "îles Pitcairn",
+   "Rwanda",
+   "Sainte-Hélène, Ascension et Tristan da Cunha",
+   "Saint-Christophe-et-Niévès",
+   "Sainte-Lucie",
+   "Saint-Martin",
+   "Saint-Vincent-et-les-Grenadines",
+   "Samoa",
+   "Seychelles",
+   "Sierra Leone",
+   "Singapour",
+   "Saint-Martin",
+   "Îles Salomon",
+   "Afrique du Sud",
+   "Soudan du Sud",
+   "Sri Lanka",
+   "Soudan",
+   "Eswatini",
+   "Tanzanie",
+   "Tokelau",
+   "Tonga",
+   "Trinité-et-Tobago",
+   "Îles Turques et Caïques",
+   "Tuvalu",
+   "îles Vierges des États-Unis",
+   "Ouganda",
+   "Émirats arabes unis",
+   "Royaume-Uni",
+   "Vanuatu",
+   "Zambie",
+   "Zimbabwe",
+   "Indonésie"
+  ],
+  "P527": [
+   "Received Pronunciation",
+   "anglais américain",
+   "anglais australien",
+   "anglais indien",
+   "anglais canadien",
+   "anglais britannique",
+   "anglais écossais",
+   "anglais irlandais",
+   "anglais gallois",
+   "anglais québécois",
+   "anglais des Caraïbes",
+   "anglais vernaculaire afro-américain",
+   "anglais européen",
+   "anglais sud-africain",
+   "Pakistani English",
+   "anglais nigérian",
+   "anglais néo-zélandais",
+   "anglais jamaïcain",
+   "Belizean English",
+   "anglais hongkongais"
+  ]
+ },
+ "langues-du-monde_francais": {
+  "qid": "Q150",
+  "P17": [
+   "France",
+   "Suisse",
+   "Canada",
+   "Bénin",
+   "Burkina Faso",
+   "République du Congo",
+   "République démocratique du Congo",
+   "Côte d'Ivoire",
+   "Gabon",
+   "Guinée",
+   "Mali",
+   "Monaco",
+   "Niger",
+   "Sénégal",
+   "Togo",
+   "Burundi",
+   "Cameroun",
+   "République centrafricaine",
+   "Comores",
+   "Djibouti",
+   "Guinée équatoriale",
+   "Haïti",
+   "Luxembourg",
+   "Madagascar",
+   "Rwanda",
+   "Seychelles",
+   "Tchad",
+   "Vanuatu",
+   "Algérie",
+   "Andorre",
+   "Cambodge",
+   "Guernesey",
+   "Inde",
+   "Italie",
+   "Jersey",
+   "Liban",
+   "Mauritanie",
+   "Maurice",
+   "Maroc",
+   "Vietnam",
+   "Belgique",
+   "Tunisie",
+   "Laos",
+   "États-Unis"
+  ]
+ },
+ "langues-du-monde_espagnol": {
+  "qid": "Q1321",
+  "P17": [
+   "Espagne",
+   "Andorre",
+   "Argentine",
+   "Belize",
+   "Bolivie",
+   "Chili",
+   "Colombie",
+   "Costa Rica",
+   "Cuba",
+   "République dominicaine",
+   "Équateur",
+   "Salvador",
+   "Guinée équatoriale",
+   "Gibraltar",
+   "Guatemala",
+   "Honduras",
+   "Mexique",
+   "Nicaragua",
+   "Panama",
+   "Paraguay",
+   "Pérou",
+   "États-Unis",
+   "Uruguay",
+   "Venezuela",
+   "République arabe sahraouie démocratique",
+   "Aruba",
+   "Philippines"
+  ],
+  "P527": [
+   "espagnol d'Espagne",
+   "espagnol d'Amérique latine",
+   "espagnol philippin",
+   "espagnol de Guinée équatoriale",
+   "espagnol du Sahara occidental",
+   "espagnol de Colombie",
+   "Q8778504"
+  ]
+ },
+ "langues-du-monde_portugais": {
+  "qid": "Q5146",
+  "P17": [
+   "Portugal",
+   "Brésil",
+   "Espagne",
+   "Angola",
+   "Cap-Vert",
+   "Taïwan",
+   "Timor oriental",
+   "Guinée-Bissau",
+   "Mozambique",
+   "Sao Tomé-et-Principe",
+   "Macao",
+   "Inde portugaise",
+   "république populaire de Chine",
+   "Inde"
+  ],
+  "P527": [
+   "portugais européen",
+   "barranqueño",
+   "portugais brésilien",
+   "portugais angolais",
+   "portugais guinéen",
+   "portugais mozambicain",
+   "portugais cap-verdien",
+   "portugais de Sao Tomé-et-Principe",
+   "portugais de Macao",
+   "portugais est-timorais",
+   "Portuguese language in Goa",
+   "Q134761929"
+  ]
+ },
+ "langues-du-monde_italien": {
+  "qid": "Q652",
+  "P17": [
+   "Italie",
+   "Saint-Marin",
+   "Suisse",
+   "Vatican",
+   "Croatie",
+   "Slovénie",
+   "Grèce",
+   "Albanie",
+   "Éthiopie",
+   "Libye",
+   "Érythrée",
+   "Somalie"
+  ]
+ },
+ "langues-du-monde_neerlandais": {
+  "qid": "Q7411",
+  "P17": [
+   "Pays-Bas",
+   "Belgique",
+   "Suriname",
+   "France",
+   "Allemagne",
+   "Aruba",
+   "Pays-Bas caribéens",
+   "Curaçao",
+   "Royaume des Pays-Bas",
+   "Saint-Martin"
+  ]
+ },
+ "langues-du-monde_suedois": {
+  "qid": "Q9027",
+  "P17": [
+   "Suède",
+   "Finlande",
+   "Estonie"
+  ],
+  "P527": [
+   "suédois runique",
+   "vieux suédois",
+   "Modern Swedish",
+   "Contemporary Swedish",
+   "South Swedish",
+   "Gotlandais",
+   "Svealand Swedish",
+   "Norrland Swedish",
+   "gotlandais",
+   "Eastern Swedish",
+   "Gotlandais"
+  ]
+ },
+ "langues-du-monde_finnois": {
+  "qid": "Q1412",
+  "P17": [
+   "Finlande",
+   "Estonie",
+   "Suède",
+   "Norvège",
+   "Russie"
+  ]
+ },
+ "langues-du-monde_hongrois": {
+  "qid": "Q9067",
+  "P17": [
+   "Hongrie",
+   "Roumanie",
+   "Slovaquie",
+   "Ukraine",
+   "Serbie",
+   "Croatie",
+   "Autriche",
+   "Slovénie"
+  ]
+ },
+ "langues-du-monde_basque": {
+  "qid": "Q8752",
+  "P17": [
+   "Espagne",
+   "France"
+  ],
+  "P527": [
+   "biscayen",
+   "guipuscoan",
+   "haut-navarrais",
+   "navarro-labourdin",
+   "navarrais oriental",
+   "souletin",
+   "Alavese Basque",
+   "salazarais",
+   "basque unifié"
+  ]
+ },
+ "langues-du-monde_breton": {
+  "qid": "Q12107",
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "breton vannetais",
+   "breton cornouaillais",
+   "breton trégorrois"
+  ]
+ },
+ "langues-du-monde_gallois": {
+  "qid": "Q9309",
+  "P17": [
+   "Royaume-Uni",
+   "Argentine"
+  ],
+  "P527": [
+   "Gwyndodeg",
+   "Powyseg",
+   "Dyfedeg",
+   "Gwenhwyseg",
+   "Patagonian Welsh"
+  ]
+ },
+ "langues-du-monde_irlandais": {
+  "qid": "Q9142",
+  "P17": [
+   "Irlande",
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Connacht Irish",
+   "Munster Irish",
+   "Ulster Irish"
+  ]
+ },
+ "langues-du-monde_islandais": {
+  "qid": "Q294",
+  "P17": [
+   "Islande",
+   "Danemark",
+   "États-Unis",
+   "Canada"
+  ]
+ },
+ "langues-du-monde_swahili": {
+  "qid": "Q7838",
+  "P17": [
+   "Tanzanie",
+   "République démocratique du Congo",
+   "Kenya",
+   "Rwanda",
+   "Ouganda",
+   "Burundi",
+   "Somalie",
+   "Soudan du Sud",
+   "Malawi",
+   "Mozambique",
+   "Comores",
+   "France",
+   "Madagascar"
+  ],
+  "P527": [
+   "Bajuni",
+   "mwini",
+   "sidi",
+   "swahili de Socotra",
+   "swahili du Congo",
+   "Kiamu",
+   "Kiunguja",
+   "Kihadimu",
+   "Kingozi",
+   "kiswahili"
+  ]
+ },
+ "langues-du-monde_yoruba-langue": {
+  "qid": "Q34311",
+  "P17": [
+   "Nigeria",
+   "Bénin",
+   "Togo"
+  ]
+ },
+ "langues-du-monde_zoulou": {
+  "qid": "Q10179",
+  "P17": [
+   "Lesotho",
+   "Mozambique",
+   "Afrique du Sud"
+  ]
+ },
+ "langues-du-monde_amharique": {
+  "qid": "Q28244",
+  "P17": [
+   "Éthiopie",
+   "Érythrée",
+   "Somalie",
+   "Soudan",
+   "Israël"
+  ]
+ },
+ "langues-du-monde_haoussa": {
+  "qid": "Q56475",
+  "P17": [
+   "Bénin",
+   "Burkina Faso",
+   "Ghana",
+   "Cameroun",
+   "Niger",
+   "Nigeria",
+   "Togo",
+   "Tchad"
+  ]
+ },
+ "langues-du-monde_quechua": {
+  "qid": "Q5218",
+  "P571": [
+   "1"
+  ],
+  "P17": [
+   "Pérou",
+   "Bolivie",
+   "Équateur",
+   "Argentine",
+   "Colombie"
+  ],
+  "P527": [
+   "quechua du Sud",
+   "quechua ancash",
+   "quichua",
+   "quechua de Cajamarca"
+  ]
+ },
+ "langues-du-monde_guarani-langue": {
+  "qid": "Q35876",
+  "P17": [
+   "Paraguay",
+   "Bolivie",
+   "Argentine",
+   "Brésil"
+  ],
+  "P527": [
+   "guarani paraguayen",
+   "guaraní de Bolivie occidental",
+   "chiriguano",
+   "mbyá",
+   "ava-guarani"
+  ]
+ },
+ "langues-du-monde_nahuatl": {
+  "qid": "Q13300",
+  "P17": [
+   "Mexique",
+   "Salvador"
+  ]
+ },
+ "langues-du-monde_langues-maories": {
+  "qid": "Q3217481"
+ },
+ "langues-du-monde_hawaien": {
+  "qid": "Q33569",
+  "P131": [
+   "Hawaï"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Niihau dialect"
+  ]
+ },
+ "langues-du-monde_esperanto": {
+  "qid": "Q143",
+  "P135": [
+   "mouvement espérantophone"
+  ],
+  "P170": [
+   "Louis-Lazare Zamenhof"
+  ],
+  "P571": [
+   "1887"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P17": [
+   "Espérantie"
+  ]
+ },
+ "langues-du-monde_ecriture-cuneiforme": {
+  "qid": "Q401",
+  "P571": [
+   "-3000"
+  ],
+  "P276": [
+   "Proche-Orient"
+  ]
+ },
+ "langues-du-monde_ecriture-hieroglyphique-egyptienne": {
+  "qid": "Q132659",
+  "P571": [
+   "-3200"
+  ],
+  "P276": [
+   "Égypte antique"
+  ]
+ },
+ "langues-du-monde_tamoul": {
+  "qid": "Q5885",
+  "P17": [
+   "Inde",
+   "Singapour",
+   "Sri Lanka",
+   "Malaisie",
+   "Maurice",
+   "Afrique du Sud",
+   "Kenya",
+   "Indonésie"
+  ]
+ },
+ "langues-du-monde_vietnamien": {
+  "qid": "Q9199",
+  "P17": [
+   "république populaire de Chine",
+   "Vietnam"
+  ]
+ },
+ "langues-du-monde_thai": {
+  "qid": "Q9217",
+  "P17": [
+   "Thaïlande",
+   "Cambodge",
+   "Malaisie",
+   "Birmanie"
+  ],
+  "P527": [
+   "Krung Thep dialect",
+   "Khorat Thai"
+  ]
+ },
+ "langues-du-monde_arameen": {
+  "qid": "Q28602"
+ },
+ "langues-du-monde_copte": {
+  "qid": "Q36155",
+  "P17": [
+   "Égypte",
+   "Égypte antique"
+  ]
+ },
+ "langues-du-monde_gotique": {
+  "qid": "Q35722",
+  "P131": [
+   "Balkans"
+  ],
+  "P17": [
+   "Italie",
+   "Gaule",
+   "Espagne",
+   "Ukraine",
+   "Russie"
+  ],
+  "P527": [
+   "gotique de Crimée"
+  ]
+ },
+ "langues-du-monde_sumerien": {
+  "qid": "Q36790",
+  "P17": [
+   "Sumer",
+   "Empire akkadien"
+  ]
+ },
+ "langues-du-monde_catalan": {
+  "qid": "Q7026",
+  "P17": [
+   "Espagne",
+   "France",
+   "Andorre",
+   "Italie"
+  ],
+  "P527": [
+   "catalan oriental",
+   "catalan occidental"
+  ]
+ },
+ "langues-du-monde_occitan": {
+  "qid": "Q14185",
+  "P17": [
+   "France",
+   "Italie",
+   "Espagne",
+   "Monaco"
+  ],
+  "P527": [
+   "auvergnat",
+   "gascon",
+   "languedocien",
+   "limousin",
+   "Judéo-gascon",
+   "shuadit",
+   "niçois",
+   "vivaro-alpin",
+   "provençal"
+  ]
+ },
+ "langues-du-monde_grec-moderne": {
+  "qid": "Q36510",
+  "P17": [
+   "Albanie",
+   "Chypre",
+   "Grèce"
+  ]
+ },
+ "langues-du-monde_ukrainien": {
+  "qid": "Q8798",
+  "P17": [
+   "Ukraine",
+   "Russie",
+   "Pologne",
+   "Canada",
+   "Kazakhstan",
+   "Biélorussie",
+   "Roumanie",
+   "Slovaquie",
+   "Serbie",
+   "États-Unis",
+   "Hongrie",
+   "Tchéquie",
+   "Moldavie"
+  ]
+ },
+ "langues-du-monde_roumain": {
+  "qid": "Q7913",
+  "P17": [
+   "Roumanie",
+   "Moldavie",
+   "Serbie",
+   "Ukraine"
+  ]
+ },
+ "langues-du-monde_tcheque": {
+  "qid": "Q9056",
+  "P17": [
+   "Tchéquie"
+  ]
+ },
+ "langues-du-monde_serbo-croate": {
+  "qid": "Q9301",
+  "P17": [
+   "Bosnie-Herzégovine",
+   "Serbie",
+   "Croatie",
+   "Monténégro",
+   "Yougoslavie"
+  ]
+ },
+ "langues-du-monde_albanais": {
+  "qid": "Q8748",
+  "P17": [
+   "Albanie"
+  ]
+ },
+ "langues-du-monde_yiddish": {
+  "qid": "Q8641",
+  "P17": [
+   "Australie",
+   "Autriche",
+   "Argentine",
+   "Biélorussie",
+   "Belgique",
+   "Bosnie-Herzégovine",
+   "Brésil",
+   "Royaume-Uni",
+   "Hongrie",
+   "Allemagne",
+   "Israël",
+   "Canada",
+   "Costa Rica",
+   "Lettonie",
+   "Lituanie",
+   "Mexique",
+   "Moldavie",
+   "Pays-Bas",
+   "Panama",
+   "Pologne",
+   "Russie",
+   "Roumanie",
+   "États-Unis",
+   "Ukraine",
+   "Uruguay",
+   "France",
+   "Suisse",
+   "Suède",
+   "Estonie",
+   "Afrique du Sud"
+  ],
+  "P527": [
+   "yiddish d'Europe",
+   "yidddish d'Israël",
+   "yiddish oriental",
+   "yiddish occidental",
+   "yiddish lituanien"
+  ]
+ },
+ "langues-du-monde_romani": {
+  "qid": "Q13201",
+  "P17": [
+   "Albanie",
+   "Autriche",
+   "Bosnie-Herzégovine",
+   "Colombie",
+   "Danemark",
+   "Finlande",
+   "Allemagne",
+   "Hongrie",
+   "Kosovo",
+   "Monténégro",
+   "Macédoine du Nord",
+   "Norvège",
+   "Pologne",
+   "Roumanie",
+   "Serbie",
+   "Slovaquie",
+   "Suède"
+  ],
+  "P527": [
+   "romani des Balkans",
+   "romani baltique",
+   "romani central",
+   "romani finlandais",
+   "sintikès",
+   "romani vlax",
+   "romani gallois",
+   "caló"
+  ]
+ },
+ "langues-du-monde_wolof-langue": {
+  "qid": "Q34257",
+  "P17": [
+   "Mauritanie",
+   "Sénégal",
+   "Gambie"
+  ]
+ },
+ "langues-du-monde_afrikaans": {
+  "qid": "Q14196",
+  "P17": [
+   "Afrique du Sud",
+   "Botswana",
+   "Namibie",
+   "Zambie",
+   "Zimbabwe"
+  ]
+ },
+ "langues-du-monde_malgache": {
+  "qid": "Q7930",
+  "P17": [
+   "Madagascar"
+  ],
+  "P527": [
+   "malgache betsimisaraka du Nord",
+   "betsimisaraka du Sud",
+   "malgache du plateau",
+   "antanosy",
+   "antaisaka",
+   "Fiteny Antakarana",
+   "malgache bara",
+   "masikoro",
+   "sakalava",
+   "antandroy",
+   "tsimihety",
+   "shibushi"
+  ]
+ },
+ "langues-du-monde_langues-berberes": {
+  "qid": "Q25448",
+  "P17": [
+   "Maroc",
+   "Algérie",
+   "Libye",
+   "Tunisie",
+   "Niger",
+   "Mauritanie",
+   "Mali"
+  ],
+  "P527": [
+   "langues berbères du Nord",
+   "langues berbères occidentales",
+   "langues touarègues",
+   "langues berbères de l'Est",
+   "libyque",
+   "guanche"
+  ]
+ },
+ "langues-du-monde_lingala": {
+  "qid": "Q36217",
+  "P17": [
+   "République du Congo",
+   "République démocratique du Congo"
+  ]
+ },
+ "langues-du-monde_armenien": {
+  "qid": "Q8785",
+  "P17": [
+   "Arménie",
+   "États-Unis",
+   "Géorgie",
+   "Russie",
+   "France",
+   "Iran",
+   "Chypre",
+   "Argentine",
+   "Liban",
+   "Syrie",
+   "Grèce",
+   "Uruguay",
+   "Australie",
+   "Allemagne",
+   "Malte",
+   "Azerbaïdjan",
+   "Turquie",
+   "Irak",
+   "Ukraine",
+   "Roumanie",
+   "Hongrie",
+   "Pologne",
+   "Abkhazie",
+   "Israël"
+  ]
+ },
+ "langues-du-monde_georgien": {
+  "qid": "Q8108",
+  "P17": [
+   "Géorgie",
+   "Turquie",
+   "Russie",
+   "Iran",
+   "Azerbaïdjan",
+   "Arménie"
+  ],
+  "P527": [
+   "Adjarian dialect"
+  ]
+ },
+ "langues-du-monde_kurde": {
+  "qid": "Q36368",
+  "P17": [
+   "Turquie",
+   "Irak",
+   "Iran",
+   "Arménie",
+   "Géorgie",
+   "Azerbaïdjan",
+   "Syrie",
+   "Turkménistan"
+  ],
+  "P527": [
+   "kurmandji",
+   "sorani",
+   "kelhuri",
+   "kurde du Sud",
+   "laki",
+   "gurani"
+  ]
+ },
+ "langues-du-monde_pachto": {
+  "qid": "Q58680",
+  "P17": [
+   "Afghanistan",
+   "Pakistan",
+   "Inde",
+   "Baloutchistan",
+   "Iran",
+   "Tadjikistan",
+   "Turkménistan",
+   "Émirats arabes unis",
+   "Canada",
+   "États-Unis"
+  ]
+ },
+ "langues-du-monde_tibetain": {
+  "qid": "Q34271",
+  "P17": [
+   "république populaire de Chine",
+   "Népal",
+   "Inde"
+  ]
+ },
+ "langues-du-monde_mongol": {
+  "qid": "Q9246",
+  "P17": [
+   "Mongolie",
+   "république populaire de Chine"
+  ]
+ },
+ "langues-du-monde_pendjabi": {
+  "qid": "Q58635",
+  "P276": [
+   "Pendjab",
+   "Cachemire"
+  ],
+  "P131": [
+   "Azad Cachemire",
+   "Jammu-et-Cachemire",
+   "Bengale-Occidental",
+   "Pendjab",
+   "Haryana",
+   "Delhi",
+   "Pendjab",
+   "Territoire fédéral d'Islamabad"
+  ],
+  "P17": [
+   "Pakistan",
+   "Inde",
+   "Royaume-Uni",
+   "Kenya",
+   "Malaisie",
+   "Afrique du Sud",
+   "Bangladesh",
+   "république populaire de Chine",
+   "Canada",
+   "Thaïlande",
+   "Fidji",
+   "Afghanistan",
+   "Arabie saoudite",
+   "Émirats arabes unis",
+   "États-Unis",
+   "Australie",
+   "Singapour",
+   "Espagne"
+  ]
+ },
+ "langues-du-monde_telougou": {
+  "qid": "Q8097",
+  "P17": [
+   "Inde"
+  ]
+ },
+ "langues-du-monde_tagalog": {
+  "qid": "Q34057",
+  "P17": [
+   "Philippines"
+  ]
+ },
+ "langues-du-monde_indonesien": {
+  "qid": "Q9240",
+  "P17": [
+   "Indonésie"
+  ],
+  "P527": [
+   "Standard Indonesian",
+   "Colloquial Indonesian",
+   "Colloquial Jakarta Indonesian",
+   "Indonesian slang"
+  ]
+ },
+ "langues-du-monde_khmer": {
+  "qid": "Q9205",
+  "P17": [
+   "Cambodge",
+   "Vietnam"
+  ]
+ },
+ "langues-du-monde_creole-haitien": {
+  "qid": "Q33491",
+  "P17": [
+   "Haïti"
+  ]
+ },
+ "langues-du-monde_inuktitut": {
+  "qid": "Q29921",
+  "P17": [
+   "Canada",
+   "Groenland"
+  ],
+  "P527": [
+   "inuttitut"
+  ]
+ },
+ "langues-du-monde_navajo-langue": {
+  "qid": "Q13310",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "langues-du-monde_cherokee-langue": {
+  "qid": "Q33388",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "langues-du-monde_maya-yucateque": {
+  "qid": "Q13354",
+  "P17": [
+   "Belize",
+   "Mexique",
+   "Guatemala"
+  ]
+ },
+ "langues-du-monde_aymara": {
+  "qid": "Q4627",
+  "P17": [
+   "Bolivie",
+   "Pérou",
+   "Chili"
+  ]
+ },
+ "langues-du-monde_akkadien": {
+  "qid": "Q35518",
+  "P131": [
+   "Mésopotamie"
+  ],
+  "P17": [
+   "Empire akkadien",
+   "Babylonie",
+   "Assyrie"
+  ]
+ },
+ "langues-du-monde_hittite-langue": {
+  "qid": "Q35668",
+  "P17": [
+   "royaume hittite"
+  ]
+ },
+ "langues-du-monde_etrusque": {
+  "qid": "Q35726",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "langues-du-monde_vieux-norrois": {
+  "qid": "Q35505",
+  "P17": [
+   "Norvège",
+   "Suède",
+   "Danemark",
+   "Islande"
+  ]
+ },
+ "langues-du-monde_lineaire-b": {
+  "qid": "Q190102",
+  "P571": [
+   "-1450"
+  ]
+ },
+ "langues-du-monde_ecriture-maya": {
+  "qid": "Q211248",
+  "P170": [
+   "civilisation maya"
+  ],
+  "P571": [
+   "-300"
+  ]
+ },
+ "langues-du-monde_rune": {
+  "qid": "Q82996",
+  "P571": [
+   "300"
+  ],
+  "P527": [
+   "rune letter"
+  ]
+ },
+ "langues-du-monde_alphabet-phenicien": {
+  "qid": "Q26752",
+  "P571": [
+   "-1050"
+  ],
+  "P276": [
+   "Direction Générale des Antiquités du Liban"
+  ],
+  "P17": [
+   "Phénicie"
+  ],
+  "P527": [
+   "Alf",
+   "𐤁",
+   "𐤂",
+   "𐤃",
+   "𐤄",
+   "𐤅",
+   "𐤆",
+   "𐤇",
+   "𐤈",
+   "𐤉",
+   "𐤊",
+   "𐤋",
+   "𐤌",
+   "𐤍",
+   "𐤎",
+   "𐤏",
+   "𐤐",
+   "𐤑",
+   "𐤒",
+   "𐤓",
+   "𐤔",
+   "𐤕"
+  ]
+ }
+}

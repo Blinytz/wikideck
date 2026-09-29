@@ -94,7 +94,7 @@ LANGUES = {
     'Wolof': ('wol', "'Georgia'", 'ltr'),
     'Afrikaans': ('afr', "'Georgia'", 'ltr'),
     'Malgache': ('plt', "'Georgia'", 'ltr'),
-    'Berbère': ('tzm_tfng', "'Ebrima'", 'ltr'),
+    'Berbère': ('zgh', "'Ebrima'", 'ltr'),       # tzm_tfng n'a que deux lignes
     'Lingala': ('lin', "'Georgia'", 'ltr'),
     'Arménien': ('hye', "'Sylfaen'", 'ltr'),
     'Géorgien': ('kat', "'Sylfaen'", 'ltr'),
@@ -123,6 +123,11 @@ def texte_udhr(code):
     paras = [html.unescape(re.sub(r'<[^>]+>', '', p)).strip()
              for p in re.findall(r'<para>(.*?)</para>', xml, re.S)]
     paras = [p for p in paras if p]
+    # langue a ecriture non latine : on ecarte les lignes de credit en francais
+    # ou en anglais que certains fichiers glissent en tete (zgh : « Traduction… »)
+    latin = lambda t: sum(ch.isascii() and ch.isalpha() for ch in t) / max(1, sum(ch.isalpha() for ch in t))
+    if titre and latin(titre.group(1)) < 0.3:
+        paras = [p for p in paras if latin(p) < 0.5]
     return (html.unescape(titre.group(1)).strip() if titre else ''), paras[:6]
 
 

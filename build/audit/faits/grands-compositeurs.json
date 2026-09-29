@@ -1,0 +1,3178 @@
+{
+ "grands-compositeurs_claudio-monteverdi": {
+  "qid": "Q53068",
+  "P569": [
+   "1567"
+  ],
+  "P570": [
+   "1643"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "musique de la Renaissance",
+   "musique baroque"
+  ],
+  "P800": [
+   "L'incoronazione di Poppea",
+   "L'Orfeo",
+   "Il ritorno d'Ulisse in patria",
+   "Il combattimento di Tancredi e Clorinda"
+  ],
+  "P136": [
+   "opéra",
+   "musique baroque"
+  ]
+ },
+ "grands-compositeurs_antonio-vivaldi": {
+  "qid": "Q1340",
+  "P569": [
+   "1678"
+  ],
+  "P570": [
+   "1741"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Les Quatre Saisons",
+   "Orlando furioso",
+   "Juditha triumphans",
+   "Manchester Sonatas",
+   "L'estro armonico",
+   "Gloria",
+   "Stabat Mater",
+   "Giustino"
+  ],
+  "P136": [
+   "opéra",
+   "musique de chambre",
+   "musique d'église",
+   "concerto",
+   "sinfonia",
+   "sardane"
+  ]
+ },
+ "grands-compositeurs_jean-sebastien-bach": {
+  "qid": "Q1339",
+  "P569": [
+   "1685",
+   "1685"
+  ],
+  "P570": [
+   "1750"
+  ],
+  "P27": [
+   "duché de Saxe-Eisenach",
+   "Saint-Empire romain germanique"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "concertos brandebourgeois",
+   "Suites pour violoncelle seul",
+   "Sonates et partitas pour violon seul",
+   "Petits Livres de notes d'Anna Magdalena Bach",
+   "Klavierbüchlein für Wilhelm Friedemann Bach",
+   "Messe en si mineur",
+   "Concerto pour violon en mi majeur",
+   "Gottes Zeit ist die allerbeste Zeit",
+   "Toccata et fugue en ré mineur",
+   "Concerto italien",
+   "L'Offrande musicale",
+   "L'Art de la fugue",
+   "Le Clavier bien tempéré",
+   "Suites anglaises",
+   "concertos pour clavecin de Bach",
+   "Variations Goldberg",
+   "Sonates en trio pour orgue de Bach",
+   "Suites pour orchestre de Bach",
+   "Jesu, meine Freude",
+   "Herz und Mund und Tat und Leben",
+   "Geschwinde, ihr wirbelnden Winde",
+   "Inventions et sinfonies",
+   "Passion selon Saint Matthieu",
+   "Passion selon saint Jean",
+   "Oratorio de Noël"
+  ],
+  "P136": [
+   "musique baroque",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_georg-friedrich-haendel": {
+  "qid": "Q7302",
+  "P569": [
+   "1685",
+   "1685",
+   "1685"
+  ],
+  "P570": [
+   "1759"
+  ],
+  "P27": [
+   "Brandebourg-Prusse",
+   "royaume de Grande-Bretagne",
+   "Saint-Empire romain germanique"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Messiah",
+   "Water Music",
+   "Music for the Royal Fireworks",
+   "Giulio Cesare in Egitto",
+   "Alcina",
+   "Serse",
+   "Concertos grossos Opus 6"
+  ],
+  "P136": [
+   "opéra",
+   "oratorio",
+   "concerto",
+   "hymne",
+   "musique classique",
+   "Coronation Anthems"
+  ]
+ },
+ "grands-compositeurs_joseph-haydn": {
+  "qid": "Q7349",
+  "P569": [
+   "1732"
+  ],
+  "P570": [
+   "1809"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique",
+   "archiduché d'Autriche"
+  ],
+  "P135": [
+   "classicisme"
+  ],
+  "P800": [
+   "symphonie nº 100",
+   "symphonie nº 101",
+   "Deutschlandlied"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "musique classique",
+   "musique de la période classique",
+   "opéra",
+   "quatuor à cordes",
+   "sonate",
+   "symphonie"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_wolfgang-amadeus-mozart": {
+  "qid": "Q254",
+  "P569": [
+   "1756"
+  ],
+  "P570": [
+   "1791"
+  ],
+  "P27": [
+   "principauté archiépiscopale de Salzbourg",
+   "archiduché d'Autriche",
+   "Saint-Empire romain germanique"
+  ],
+  "P135": [
+   "musique de la période classique"
+  ],
+  "P800": [
+   "La Flûte enchantée",
+   "Les Noces de Figaro",
+   "Don Giovanni",
+   "Così fan tutte",
+   "Die Entführung aus dem Serail",
+   "Symphonie nº 40 de Mozart",
+   "Une petite musique de nuit",
+   "Requiem de Mozart",
+   "sonate pour piano nº 11 de Mozart"
+  ],
+  "P101": [
+   "opéra",
+   "symphonie",
+   "concerto",
+   "musique de chambre",
+   "quintette à cordes",
+   "quatuor à cordes",
+   "musique symphonique",
+   "musique sacrée",
+   "musique classique",
+   "musique",
+   "exécution pianistique"
+  ],
+  "P136": [
+   "musique de la période classique",
+   "musique de chambre",
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_ludwig-van-beethoven": {
+  "qid": "Q255",
+  "P569": [
+   "1770",
+   "1770",
+   "1770"
+  ],
+  "P570": [
+   "1827",
+   "1827",
+   "1827"
+  ],
+  "P27": [
+   "électorat de Cologne",
+   "empire d'Autriche"
+  ],
+  "P135": [
+   "musique de la période classique",
+   "musique romantique"
+  ],
+  "P800": [
+   "La Lettre à Élise",
+   "Symphonie nº 9 de Beethoven",
+   "Sonate pour piano nº 14 de Beethoven",
+   "Missa solemnis",
+   "Sonate pour piano nº 8 de Beethoven",
+   "Symphonie nº 5 de Beethoven",
+   "Symphonie nº 6 de Beethoven",
+   "Sonate pour piano nº 21 de Beethoven",
+   "Sonate pour piano nº 23 de Beethoven",
+   "Sonate pour piano et violon no 9 en la majeur",
+   "Symphonie nº 3 de Beethoven",
+   "Fidelio"
+  ],
+  "P101": [
+   "musique classique",
+   "symphonie",
+   "quatuor à cordes",
+   "musique de chambre",
+   "chanson traditionnelle",
+   "trio à cordes",
+   "opéra",
+   "musique",
+   "exécution pianistique"
+  ],
+  "P136": [
+   "musique classique",
+   "musique savante",
+   "opéra",
+   "symphonie",
+   "sonate"
+  ]
+ },
+ "grands-compositeurs_franz-schubert": {
+  "qid": "Q7312",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1828"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "archiduché d'Autriche"
+  ],
+  "P800": [
+   "Symphonie nº 8 de Schubert",
+   "Symphonie nº 9 de Schubert",
+   "Symphonie nº 3 de Schubert",
+   "Winterreise",
+   "Quatuor à cordes n° 14 en ré mineur",
+   "Ellens dritter Gesang"
+  ],
+  "P101": [
+   "musique",
+   "composition",
+   "musique de piano"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_hector-berlioz": {
+  "qid": "Q1151",
+  "P569": [
+   "1803",
+   "1803"
+  ],
+  "P570": [
+   "1869",
+   "1869"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Requiem",
+   "Roméo et Juliette",
+   "Symphonie fantastique",
+   "La Damnation de Faust",
+   "Les Troyens",
+   "Le Carnaval romain",
+   "Les Nuits d'Été",
+   "Béatrice et Bénédict",
+   "Benvenuto Cellini"
+  ],
+  "P101": [
+   "musique savante",
+   "musique",
+   "composition",
+   "direction d'orchestre",
+   "composition musicale",
+   "composition musicale"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "musique romantique"
+  ]
+ },
+ "grands-compositeurs_frederic-chopin": {
+  "qid": "Q1268",
+  "P569": [
+   "1810",
+   "1810"
+  ],
+  "P570": [
+   "1849"
+  ],
+  "P27": [
+   "France",
+   "Empire russe",
+   "duché de Varsovie",
+   "royaume du Congrès"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Études de Chopin",
+   "Polonaise, opus 53",
+   "Nocturnes",
+   "Ballades"
+  ],
+  "P101": [
+   "musique savante",
+   "musique romantique",
+   "nocturne",
+   "ballade",
+   "étude",
+   "mazurka",
+   "valse",
+   "polonaise",
+   "impromptu",
+   "prélude",
+   "valse",
+   "musique classique"
+  ],
+  "P527": [
+   "cœur de Frédéric Chopin"
+  ]
+ },
+ "grands-compositeurs_robert-schumann": {
+  "qid": "Q7351",
+  "P569": [
+   "1810"
+  ],
+  "P570": [
+   "1856"
+  ],
+  "P27": [
+   "royaume de Saxe"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Schumann",
+   "Symphonie nº 2 de Schumann",
+   "Symphonie nº 3 de Schumann",
+   "Scènes d'enfants"
+  ],
+  "P101": [
+   "musique classique",
+   "opéra",
+   "symphonie",
+   "musique de chambre"
+  ]
+ },
+ "grands-compositeurs_franz-liszt": {
+  "qid": "Q41309",
+  "P569": [
+   "1811"
+  ],
+  "P570": [
+   "1886"
+  ],
+  "P27": [
+   "royaume de Hongrie",
+   "empire d'Autriche",
+   "Autriche-Hongrie"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Hamlet",
+   "Dante Symphonie",
+   "Mazeppa",
+   "Hungarian Rhapsody No. 1",
+   "Rhapsodie hongroise nº 2 de Liszt"
+  ],
+  "P101": [
+   "musique",
+   "musique classique",
+   "composition",
+   "éducation musicale",
+   "exécution pianistique",
+   "direction d'orchestre",
+   "composition musicale",
+   "composition musicale"
+  ],
+  "P136": [
+   "symphonie",
+   "musique classique",
+   "Hungarian folk music",
+   "poème symphonique"
+  ]
+ },
+ "grands-compositeurs_richard-wagner": {
+  "qid": "Q1511",
+  "P569": [
+   "1813",
+   "1813"
+  ],
+  "P570": [
+   "1883",
+   "1883"
+  ],
+  "P27": [
+   "royaume de Saxe",
+   "Allemagne",
+   "Suisse",
+   "Italie",
+   "Autriche"
+  ],
+  "P800": [
+   "Der fliegende Holländer",
+   "Tristan und Isolde",
+   "Tannhäuser",
+   "L'Or du Rhin",
+   "Lohengrin",
+   "L'Anneau du Nibelung"
+  ],
+  "P101": [
+   "opéra",
+   "Musikdrama"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie chorale",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_giuseppe-verdi": {
+  "qid": "Q7317",
+  "P569": [
+   "1813",
+   "1813"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "duché de Parme et Plaisance"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Q186162",
+   "Rigoletto",
+   "Aida",
+   "Nabucco",
+   "Il trovatore",
+   "Messa da Requiem",
+   "Falstaff",
+   "Quattro pezzi sacri"
+  ],
+  "P101": [
+   "musique savante",
+   "musique",
+   "opéra",
+   "direction d'orchestre",
+   "politique"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_johannes-brahms": {
+  "qid": "Q7294",
+  "P569": [
+   "1833"
+  ],
+  "P570": [
+   "1897"
+  ],
+  "P27": [
+   "Hambourg",
+   "Allemagne"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Symphonie nº 4 de Brahms",
+   "Symphonie nº 1 de Brahms",
+   "Ouverture pour une fête académique",
+   "Ouverture tragique",
+   "Un requiem allemand",
+   "Symphonie nº 3 de Brahms",
+   "Danses hongroises",
+   "Sonates pour clarinette et piano"
+  ],
+  "P101": [
+   "musique classique",
+   "symphonie",
+   "musique de chambre",
+   "musique savante"
+  ]
+ },
+ "grands-compositeurs_piotr-ilitch-tchaikovski": {
+  "qid": "Q7315",
+  "P569": [
+   "1840",
+   "1840"
+  ],
+  "P570": [
+   "1893",
+   "1893",
+   "1893"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Le Lac des cygnes",
+   "Casse-noisette",
+   "La Belle au bois dormant",
+   "Symphonie nº 6 de Tchaïkovski",
+   "Concerto pour piano nº 1 de Tchaïkovski",
+   "Ouverture solennelle 1812",
+   "Concerto pour violon de Tchaïkovski",
+   "Eugène Onéguine",
+   "La Dame de pique"
+  ],
+  "P101": [
+   "composition",
+   "didactique de la musique",
+   "éducation musicale",
+   "musique"
+  ],
+  "P136": [
+   "symphonie",
+   "opéra",
+   "musique de ballet",
+   "musique classique",
+   "musique romantique"
+  ]
+ },
+ "grands-compositeurs_antonin-dvorak": {
+  "qid": "Q7298",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1904"
+  ],
+  "P27": [
+   "royaume de Bohême",
+   "Cisleithanie"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Symphonie nº 9 de Dvořák",
+   "Stabat Mater",
+   "Svatá Ludmila",
+   "Requiem",
+   "Te Deum",
+   "Alfred",
+   "Wanda",
+   "Dimitrij",
+   "Jakobín",
+   "Roussalka",
+   "Armida",
+   "Concerto pour violoncelle de Dvořák",
+   "Danses slaves",
+   "Symphonie nº 8 de Dvořák",
+   "Quatuor à cordes nº 12 de Dvořák"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "éducation musicale",
+   "composition",
+   "composition musicale",
+   "composition musicale"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_gustav-mahler": {
+  "qid": "Q7304",
+  "P569": [
+   "1860"
+  ],
+  "P570": [
+   "1911"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Cisleithanie"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Mahler",
+   "Symphonie nº 8 de Mahler",
+   "Symphonie nº 2 de Mahler",
+   "Symphonie nº 5 de Mahler",
+   "Symphonie nº 9 de Mahler"
+  ],
+  "P136": [
+   "musique classique",
+   "symphonie",
+   "musique de chambre"
+  ]
+ },
+ "grands-compositeurs_claude-debussy": {
+  "qid": "Q4700",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique impressionniste",
+   "symbolisme"
+  ],
+  "P800": [
+   "Pelléas et Mélisande",
+   "Préludes de Debussy",
+   "Children's Corner",
+   "La Damoiselle élue",
+   "Suite bergamasque",
+   "Prélude à l'après-midi d'un faune",
+   "Petite Suite",
+   "Deux arabesques",
+   "Quatuor à cordes",
+   "La Mer",
+   "Images",
+   "Jeux",
+   "Syrinx"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "musique impressionniste"
+  ]
+ },
+ "grands-compositeurs_maurice-ravel": {
+  "qid": "Q1178",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique impressionniste"
+  ],
+  "P800": [
+   "Daphnis et Chloé",
+   "Boléro",
+   "Miroirs",
+   "Concerto pour piano en sol majeur",
+   "Gaspard de la nuit"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "musique impressionniste"
+  ]
+ },
+ "grands-compositeurs_erik-satie": {
+  "qid": "Q187192",
+  "P569": [
+   "1866"
+  ],
+  "P570": [
+   "1925"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "avant-garde"
+  ],
+  "P800": [
+   "Gymnopédies",
+   "Gnossiennes",
+   "La Diva de l'Empire",
+   "Sports et Divertissements",
+   "Parade"
+  ],
+  "P136": [
+   "musique romantique",
+   "impressionnisme"
+  ]
+ },
+ "grands-compositeurs_igor-stravinsky": {
+  "qid": "Q7314",
+  "P569": [
+   "1882",
+   "1882",
+   "1882"
+  ],
+  "P570": [
+   "1971",
+   "1971"
+  ],
+  "P27": [
+   "France",
+   "Empire russe",
+   "États-Unis",
+   "Suisse"
+  ],
+  "P800": [
+   "Le Sacre du printemps",
+   "Mouvements pour piano et orchestre",
+   "Symphonie en mi bémol majeur",
+   "Scherzo fantastique",
+   "Petrouchka",
+   "L'Oiseau de feu"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique de chambre",
+   "nouvelle musique"
+  ]
+ },
+ "grands-compositeurs_serguei-rachmaninov": {
+  "qid": "Q131861",
+  "P569": [
+   "1873",
+   "1873"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "Empire russe",
+   "États-Unis"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Rachmaninov",
+   "Les Vêpres",
+   "Concerto pour piano nº 2 de Rachmaninov",
+   "Prelude in C-sharp minor",
+   "Pyrrique",
+   "Scherzo en ré mineur",
+   "Concerto pour piano nº 1",
+   "Le Prince Rostislav",
+   "Suite pour deux pianos nº 1 de Rachmaninov",
+   "Morceaux de salon",
+   "Morceaux de salon de Rachmaninov",
+   "Études-Tableaux"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_dmitri-chostakovitch": {
+  "qid": "Q80135",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Chostakovitch",
+   "Symphonie nº 10 de Chostakovitch",
+   "Lady Macbeth du district de Mtsensk",
+   "Symphonie nº 5 de Chostakovitch",
+   "Le Nez",
+   "Concerto pour piano nº 2"
+  ],
+  "P101": [
+   "opéra",
+   "symphonie",
+   "musique de chambre",
+   "musique classique"
+  ],
+  "P136": [
+   "symphonie",
+   "musique de chambre",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_serguei-prokofiev": {
+  "qid": "Q49481",
+  "P569": [
+   "1891",
+   "1891",
+   "1891",
+   "1891"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Prokofiev",
+   "Symphonie nº 4 de Prokofiev",
+   "Symphonie nº 2 de Prokofiev",
+   "L'Amour des trois oranges",
+   "Pierre et le Loup"
+  ],
+  "P101": [
+   "échecs",
+   "musique"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "ballet",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_bela-bartok": {
+  "qid": "Q83326",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "Hongrie",
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Château de Barbe-Bleue",
+   "Quatuor à cordes no 2",
+   "Quatuor à cordes no 1",
+   "Sonate pour deux pianos et percussion",
+   "Musique pour cordes, percussion et célesta",
+   "Concerto pour orchestre de Bartók"
+  ],
+  "P101": [
+   "musique",
+   "musique traditionnelle",
+   "musicologie",
+   "ethnomusicologie"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_arnold-schonberg": {
+  "qid": "Q154770",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1951"
+  ],
+  "P27": [
+   "Autriche",
+   "États-Unis",
+   "Autriche-Hongrie",
+   "Allemagne"
+  ],
+  "P800": [
+   "Erwartung",
+   "La Nuit transfigurée",
+   "Un survivant de Varsovie",
+   "Coalition Chess"
+  ],
+  "P101": [
+   "compositeur ou compositrice"
+  ],
+  "P136": [
+   "nouvelle musique",
+   "opéra",
+   "musique atonale",
+   "musique sérielle",
+   "musique classique",
+   "expressionnisme",
+   "dodécaphonisme"
+  ]
+ },
+ "grands-compositeurs_george-gershwin": {
+  "qid": "Q123829",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Man I Love",
+   "Rhapsodie en bleu",
+   "Porgy and Bess",
+   "Un Américain à Paris"
+  ],
+  "P101": [
+   "musique",
+   "jazz",
+   "comédie musicale",
+   "pop",
+   "musique populaire"
+  ],
+  "P136": [
+   "opéra",
+   "jazz",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_aaron-copland": {
+  "qid": "Q192185",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "ballet"
+  ]
+ },
+ "grands-compositeurs_olivier-messiaen": {
+  "qid": "Q151593",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "nouvelle musique"
+  ],
+  "P800": [
+   "Saint François d'Assise",
+   "Éclairs sur l'Au-Delà...",
+   "Thème et variations",
+   "Quatuor pour la fin du Temps",
+   "Trois Petites Liturgies de la présence divine",
+   "Quatre études de rythme"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_john-cage": {
+  "qid": "Q180727",
+  "P569": [
+   "1912",
+   "1912"
+  ],
+  "P570": [
+   "1992",
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Fluxus",
+   "nouvelle musique"
+  ],
+  "P800": [
+   "The Perilous Night",
+   "Two²",
+   "In the Name of the Holocaust",
+   "Bacchanale",
+   "4′33″",
+   "Sonates et interludes",
+   "Organ²/ASLSP"
+  ],
+  "P101": [
+   "composition musicale",
+   "musique expérimentale",
+   "écriture créative et professionnelle",
+   "philosophie",
+   "œuvre audiovisuelle",
+   "mycologie"
+  ],
+  "P136": [
+   "musique aléatoire",
+   "opéra",
+   "musique classique",
+   "musique électronique",
+   "musique expérimentale",
+   "musique concrète",
+   "musique d'avant-garde",
+   "performance",
+   "nouvelle musique"
+  ]
+ },
+ "grands-compositeurs_philip-glass": {
+  "qid": "Q189729",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Symphonie nº 7 de Glass",
+   "Monsters of Grace",
+   "Symphonie nº 4 de Glass",
+   "La Belle et la Bête"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "dixieland",
+   "musique minimaliste"
+  ]
+ },
+ "grands-compositeurs_steve-reich": {
+  "qid": "Q262791",
+  "P569": [
+   "1936"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Variations for Vibes, Piano, and Strings",
+   "Daniel Variations",
+   "Octet",
+   "Double Sextet"
+  ],
+  "P136": [
+   "minimalisme"
+  ]
+ },
+ "grands-compositeurs_arvo-part": {
+  "qid": "Q189534",
+  "P569": [
+   "1935"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Estonie",
+   "Autriche"
+  ],
+  "P800": [
+   "Für Lennart in memoriam",
+   "Adam's Lament",
+   "Spiegel im Spiegel",
+   "In principio",
+   "Für Alina",
+   "Fratres",
+   "Ukuaru waltz"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "symphonie",
+   "musique contemporaine",
+   "musique minimaliste",
+   "musique sacrée"
+  ]
+ },
+ "grands-compositeurs_ennio-morricone": {
+  "qid": "Q23848",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P800": [
+   "Il buono, il brutto, il cattivo",
+   "Il était une fois dans l'Ouest"
+  ],
+  "P101": [
+   "musique de film",
+   "musique de télévision",
+   "jazz",
+   "musique"
+  ],
+  "P136": [
+   "musique de film"
+  ]
+ },
+ "grands-compositeurs_hans-zimmer": {
+  "qid": "Q76364",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P101": [
+   "composition musicale",
+   "musique de film"
+  ],
+  "P136": [
+   "musique de film",
+   "musique de jeu vidéo",
+   "bande son"
+  ]
+ },
+ "grands-compositeurs_nino-rota": {
+  "qid": "Q214665",
+  "P569": [
+   "1911",
+   "1911"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Italie"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "musique de film"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "nouvelle musique",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_jean-philippe-rameau": {
+  "qid": "Q1145",
+  "P569": [
+   "1683"
+  ],
+  "P570": [
+   "1764"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Dardanus",
+   "Pièces de clavecin en concerts",
+   "Traité de l'harmonie réduite à ses principes naturels",
+   "pièces de clavecin",
+   "Castor et Pollux",
+   "Les Indes galantes",
+   "Hippolyte et Aricie",
+   "Platée"
+  ],
+  "P101": [
+   "opéra",
+   "musique de chambre",
+   "musique chorale"
+  ]
+ },
+ "grands-compositeurs_henry-purcell": {
+  "qid": "Q9695",
+  "P569": [
+   "1659"
+  ],
+  "P570": [
+   "1695"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Dido and Æneas",
+   "Who can from joy refrain?",
+   "The Fairy Queen",
+   "Hail, bright Cecilia",
+   "I attempt from love's sickness to fly",
+   "Thou knowest, Lord, the secrets of our hearts",
+   "Abdelazer Suite"
+  ],
+  "P136": [
+   "opéra",
+   "hymne",
+   "ode"
+  ]
+ },
+ "grands-compositeurs_domenico-scarlatti": {
+  "qid": "Q167837",
+  "P569": [
+   "1685"
+  ],
+  "P570": [
+   "1757"
+  ],
+  "P27": [
+   "royaume d'Espagne",
+   "royaume de Naples"
+  ],
+  "P135": [
+   "musique baroque",
+   "musique de la période classique"
+  ],
+  "P800": [
+   "Essercizi per gravicembalo"
+  ],
+  "P101": [
+   "sonate",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_christoph-willibald-gluck": {
+  "qid": "Q130759",
+  "P569": [
+   "1714"
+  ],
+  "P570": [
+   "1787"
+  ],
+  "P27": [
+   "royaume de Bohême",
+   "archiduché d'Autriche"
+  ],
+  "P135": [
+   "musique de la période classique"
+  ],
+  "P800": [
+   "Orphée et Eurydice",
+   "Iphigénie en Tauride",
+   "Alceste",
+   "Iphigénie en Aulide",
+   "Armide"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "ballet"
+  ]
+ },
+ "grands-compositeurs_camille-saint-saens": {
+  "qid": "Q150445",
+  "P569": [
+   "1835"
+  ],
+  "P570": [
+   "1921"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique classique",
+   "musique romantique"
+  ],
+  "P800": [
+   "Concerto pour piano nº 1 de Saint-Saëns",
+   "Concerto pour piano nº 2 de Saint-Saëns",
+   "Symphonie nº 3 de Saint-Saëns",
+   "Danse macabre (Saint-Saëns)",
+   "Le Carnaval des animaux"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "concerto"
+  ]
+ },
+ "grands-compositeurs_gabriel-faure": {
+  "qid": "Q104919",
+  "P569": [
+   "1845",
+   "1845"
+  ],
+  "P570": [
+   "1924",
+   "1924"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique romantique",
+   "musique impressionniste"
+  ],
+  "P800": [
+   "Requiem",
+   "Élégie",
+   "Quintette pour piano et cordes nº 2"
+  ],
+  "P136": [
+   "opéra",
+   "musique romantique",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_cesar-franck": {
+  "qid": "Q50187",
+  "P569": [
+   "1822"
+  ],
+  "P570": [
+   "1890"
+  ],
+  "P27": [
+   "royaume uni des Pays-Bas",
+   "Belgique",
+   "France"
+  ],
+  "P800": [
+   "Prélude, Choral et Fugue",
+   "Les Béatitudes",
+   "Les Djinns",
+   "Symphonie en ré mineur"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_modeste-moussorgski": {
+  "qid": "Q132682",
+  "P569": [
+   "1839",
+   "1835",
+   "1835",
+   "1835"
+  ],
+  "P570": [
+   "1881",
+   "1881"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Boris Godounov",
+   "Tableaux d'une exposition",
+   "Une nuit sur le mont Chauve"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_nikolai-rimski-korsakov": {
+  "qid": "Q93227",
+  "P569": [
+   "1844",
+   "1844"
+  ],
+  "P570": [
+   "1908",
+   "1908"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Schéhérazade",
+   "Symphonie № 1 en mi mineur, op. 1",
+   "Le Coq d'or"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_jean-sibelius": {
+  "qid": "Q45682",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "Finlande",
+   "grand-duché de Finlande"
+  ],
+  "P800": [
+   "Finlandia",
+   "Kullervo",
+   "Valse triste",
+   "Concerto pour violon de Sibelius",
+   "Andante Festivo"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra",
+   "symphonie",
+   "musique de scène",
+   "nouvelle musique",
+   "mélodie"
+  ]
+ },
+ "grands-compositeurs_edvard-grieg": {
+  "qid": "Q80621",
+  "P569": [
+   "1843"
+  ],
+  "P570": [
+   "1907"
+  ],
+  "P27": [
+   "Norvège"
+  ],
+  "P800": [
+   "Peer Gynt",
+   "Concerto pour piano de Grieg",
+   "Suite pour cordes du Temps de Holberg",
+   "Dans l'antre du roi de la montagne",
+   "Peer Gynt"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_giacomo-puccini": {
+  "qid": "Q7311",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1924"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "grand-duché de Toscane"
+  ],
+  "P800": [
+   "La Bohème",
+   "Tosca",
+   "Madame Butterfly",
+   "Turandot",
+   "Gianni Schicchi",
+   "Crisantemi"
+  ],
+  "P101": [
+   "musique savante",
+   "opéra",
+   "musique"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra",
+   "verismo",
+   "musique sacrée"
+  ]
+ },
+ "grands-compositeurs_gioachino-rossini": {
+  "qid": "Q9726",
+  "P569": [
+   "1792"
+  ],
+  "P570": [
+   "1868"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "États pontificaux"
+  ],
+  "P800": [
+   "Le Barbier de Séville",
+   "La Cenerentola",
+   "L'italiana in Algeri",
+   "Le Turc en Italie",
+   "Il viaggio a Reims"
+  ],
+  "P136": [
+   "opéra",
+   "cantate",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_georges-bizet": {
+  "qid": "Q56158",
+  "P569": [
+   "1838"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Carmen",
+   "Les Pêcheurs de perles"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "opéra français",
+   "musique romantique"
+  ]
+ },
+ "grands-compositeurs_jacques-offenbach": {
+  "qid": "Q41555",
+  "P569": [
+   "1819",
+   "1822",
+   "1819"
+  ],
+  "P570": [
+   "1880",
+   "1880"
+  ],
+  "P27": [
+   "France",
+   "royaume de Prusse"
+  ],
+  "P135": [
+   "romantisme"
+  ],
+  "P800": [
+   "Les Contes d'Hoffmann",
+   "Orphée aux Enfers"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "opéra",
+   "opéra bouffe",
+   "opérette",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_anton-bruckner": {
+  "qid": "Q81752",
+  "P569": [
+   "1824"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Cisleithanie"
+  ],
+  "P800": [
+   "Symphonie nº 3 de Bruckner",
+   "Symphonie nº 4 de Bruckner",
+   "Symphonie nº 5 de Bruckner",
+   "Symphonie nº 6 de Bruckner",
+   "Symphonie nº 7 de Bruckner",
+   "Symphonie nº 8 de Bruckner",
+   "Symphonie nº 9 de Bruckner",
+   "Symphonie nº 2 de Bruckner",
+   "Symphonie nº 0 de Bruckner",
+   "Symphonie nº 1 de Bruckner",
+   "Te Deum",
+   "Helgoland",
+   "Symphonie d'études de Bruckner"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "musique classique",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_felix-mendelssohn": {
+  "qid": "Q46096",
+  "P569": [
+   "1809",
+   "1809"
+  ],
+  "P570": [
+   "1847",
+   "1847"
+  ],
+  "P27": [
+   "royaume de Saxe",
+   "Hambourg"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Ein Sommernachtstraum",
+   "Symphonie nº 3 de Mendelssohn",
+   "Symphonie nº 4 de Mendelssohn",
+   "concerto pour violon en mi mineur",
+   "Les Hébrides",
+   "Paulus",
+   "Elias"
+  ],
+  "P101": [
+   "composition"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "musique symphonique"
+  ]
+ },
+ "grands-compositeurs_carl-orff": {
+  "qid": "Q44086",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "Reich allemand",
+   "Allemagne"
+  ],
+  "P800": [
+   "Die Kluge",
+   "Carmina Burana",
+   "Der Mond",
+   "Catulli Carmina"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_toru-takemitsu": {
+  "qid": "Q155467",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P101": [
+   "musique",
+   "composition musicale"
+  ],
+  "P136": [
+   "musique impressionniste"
+  ]
+ },
+ "grands-compositeurs_astor-piazzolla": {
+  "qid": "Q172505",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1992",
+   "1992"
+  ],
+  "P27": [
+   "Argentine"
+  ],
+  "P800": [
+   "Adiós Nonino",
+   "Libertango",
+   "Las Cuatro Estaciones Porteñas",
+   "Suite del Ángel",
+   "Five Tango Sensations",
+   "Le Grand Tango",
+   "Q5781046",
+   "María de Buenos Aires",
+   "Histoire du Tango",
+   "Suite Troileana",
+   "Double concerto for guitar and bandoneon",
+   "Fuga y misterio"
+  ],
+  "P136": [
+   "opéra",
+   "tango nuevo",
+   "tango"
+  ]
+ },
+ "grands-compositeurs_duke-ellington": {
+  "qid": "Q4030",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1974"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Renaissance de Harlem"
+  ],
+  "P800": [
+   "Just Squeeze Me (But Please Don't Tease Me)",
+   "It Don't Mean a Thing",
+   "Solitude",
+   "Black, Brown and Beige",
+   "Harlem",
+   "Diminuendo and Crescendo in Blue"
+  ],
+  "P136": [
+   "jazz",
+   "swing",
+   "gospel",
+   "musique vocale"
+  ]
+ },
+ "grands-compositeurs_scott-joplin": {
+  "qid": "Q191499",
+  "P569": [
+   "1868",
+   "1867",
+   "1868"
+  ],
+  "P570": [
+   "1917",
+   "1917"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Maple Leaf Rag",
+   "The Entertainer"
+  ],
+  "P101": [
+   "ragtime",
+   "opéra",
+   "marche",
+   "valse"
+  ],
+  "P136": [
+   "ragtime"
+  ]
+ },
+ "grands-compositeurs_john-williams-compositeur": {
+  "qid": "Q131285",
+  "P569": [
+   "1932"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "musique de Star Wars",
+   "Raiders of the Lost Ark",
+   "Munich – Original Motion Picture Soundtrack",
+   "E.T. the Extra-Terrestrial",
+   "Close Encounters of the Third Kind (soundtrack)",
+   "SpaceCamp",
+   "Indiana Jones and the Last Crusade",
+   "Empire of the Sun: Original Motion Picture Soundtrack",
+   "Home Alone: Original Motion Picture Soundtrack",
+   "JFK",
+   "Jurassic Park",
+   "La Liste de Schindler (bande originale)",
+   "The Lost World: Jurassic Park",
+   "Seven Years in Tibet",
+   "Salvate il soldato Ryan",
+   "Angela's Ashes",
+   "The Patriot",
+   "A.I. Artificial Intelligence",
+   "Minority Report",
+   "Catch Me If You Can",
+   "Harry Potter and the Prisoner of Azkaban",
+   "Memoirs of a Geisha",
+   "Indiana Jones and the Kingdom of the Crystal Skull",
+   "The Adventures of Tintin: The Secret of the Unicorn",
+   "The Fabelmans",
+   "1988 Summer Olympics Album: One Moment in Time",
+   "Theme from Close Encounters of the Third Kind",
+   "Theme from Superman (Main Title)"
+  ],
+  "P101": [
+   "musique de film"
+  ],
+  "P136": [
+   "musique contemporaine"
+  ]
+ },
+ "grands-compositeurs_richard-strauss": {
+  "qid": "Q13894",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1949"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "Ainsi parlait Zarathoustra",
+   "Salome",
+   "Der Rosenkavalier",
+   "Ariadne auf Naxos",
+   "Elektra"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "sardane"
+  ]
+ },
+ "grands-compositeurs_johann-strauss-ii": {
+  "qid": "Q83309",
+  "P569": [
+   "1825"
+  ],
+  "P570": [
+   "1899"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Cisleithanie"
+  ],
+  "P800": [
+   "Der Zigeunerbaron",
+   "Die Fledermaus",
+   "Le Beau Danube bleu"
+  ],
+  "P101": [
+   "composition",
+   "opéra",
+   "musique classique",
+   "opérette",
+   "musique populaire",
+   "musique instrumentale"
+  ],
+  "P136": [
+   "musique instrumentale",
+   "opérette"
+  ]
+ },
+ "grands-compositeurs_samuel-barber": {
+  "qid": "Q216870",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1981"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Concerto pour violoncelle de Barber",
+   "Adagio pour cordes",
+   "Agnus Dei",
+   "Concerto pour violon de Barber",
+   "Antony and Cleopatra",
+   "Capricorn Concerto",
+   "Hermit Songs",
+   "Knoxville: Summer of 1915",
+   "Medea's Dance of Vengeance",
+   "Concerto pour piano",
+   "Sonate pour piano",
+   "Prayers of Kierkegaard",
+   "Second Essay",
+   "String Quartet",
+   "The School for Scandal",
+   "Third Essay",
+   "Vanessa",
+   "The Lovers"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_guillaume-de-machaut": {
+  "qid": "Q200580",
+  "P569": [
+   "1300"
+  ],
+  "P570": [
+   "1377"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique classique",
+   "musique médiévale"
+  ],
+  "P800": [
+   "Œuvres poétiques de Guillaume de Machaut",
+   "Messe de Notre Dame",
+   "La louange des dames",
+   "Hoquet David",
+   "Le dit du cheval",
+   "Le dit de l'alerion",
+   "Le dit du cerf blanc",
+   "Le dit de la rose",
+   "Le dit de la fleur de lis et de la marguerite",
+   "Le dit de la marguerite",
+   "Le dit du vergier",
+   "Le dit de la harpe",
+   "Le livre du voir dit",
+   "La prise d'Alexandrie",
+   "La fontaine amoureuse",
+   "Le confort d'ami",
+   "Le jugement du roi de Navarre",
+   "Le dit du lyon",
+   "Le remede de Fortune",
+   "Le jugement dou roy de Behaigne"
+  ],
+  "P136": [
+   "Ars nova",
+   "dit",
+   "lai",
+   "virelai",
+   "rondeau"
+  ]
+ },
+ "grands-compositeurs_josquin-des-pres": {
+  "qid": "Q143100",
+  "P569": [
+   "1455",
+   "1440"
+  ],
+  "P570": [
+   "1521"
+  ],
+  "P27": [
+   "Pays-Bas des Habsbourg",
+   "France"
+  ],
+  "P136": [
+   "messe",
+   "motet",
+   "chanson"
+  ]
+ },
+ "grands-compositeurs_giovanni-pierluigi-da-palestrina": {
+  "qid": "Q179277",
+  "P569": [
+   "1525"
+  ],
+  "P570": [
+   "1594"
+  ],
+  "P27": [
+   "États pontificaux",
+   "Italie"
+  ],
+  "P136": [
+   "musique de la Renaissance",
+   "musique sacrée",
+   "messe",
+   "motet",
+   "musique d'église"
+  ]
+ },
+ "grands-compositeurs_jean-baptiste-lully": {
+  "qid": "Q1192",
+  "P569": [
+   "1632",
+   "1632"
+  ],
+  "P570": [
+   "1687",
+   "1687"
+  ],
+  "P27": [
+   "royaume de France",
+   "grand-duché de Toscane"
+  ],
+  "P135": [
+   "musique classique",
+   "musique baroque"
+  ],
+  "P800": [
+   "Bellérophon",
+   "Isis",
+   "Thésée",
+   "Le Bourgeois gentilhomme"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "musique de ballet"
+  ]
+ },
+ "grands-compositeurs_francois-couperin": {
+  "qid": "Q50186",
+  "P569": [
+   "1668",
+   "1668"
+  ],
+  "P570": [
+   "1733",
+   "1733",
+   "1733"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique classique",
+   "musique baroque"
+  ],
+  "P101": [
+   "musique",
+   "harpsichord performance",
+   "organ performance"
+  ],
+  "P136": [
+   "musique baroque"
+  ]
+ },
+ "grands-compositeurs_marc-antoine-charpentier": {
+  "qid": "Q55524",
+  "P569": [
+   "1643"
+  ],
+  "P570": [
+   "1704"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P135": [
+   "musique classique",
+   "musique baroque"
+  ],
+  "P800": [
+   "Venez divin Messie",
+   "Te Deum"
+  ],
+  "P101": [
+   "opéra",
+   "pastorale",
+   "ouverture",
+   "motet"
+  ]
+ },
+ "grands-compositeurs_georg-philipp-telemann": {
+  "qid": "Q75854",
+  "P569": [
+   "1681",
+   "1681"
+  ],
+  "P570": [
+   "1767",
+   "1767"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Water Music",
+   "Emma und Eginhard",
+   "Germanicus",
+   "Der neumodische Liebhaber Damon",
+   "Der geduldige Socrates",
+   "Sieg der Schönheit",
+   "Orpheus",
+   "Miriways",
+   "Flavius Bertaridus, König der Langobarden",
+   "Don Quichotte auf der Hochzeit des Comacho",
+   "Concerto pour alto en sol majeur",
+   "Concerto for 2 violas",
+   "Paris quartets",
+   "Douze Fantaisies pour la basse de violle",
+   "Sonates sans basse",
+   "XIIX Canons mélodieux ou VI Sonates en Duo à Flutes Traverses, ou Violons, ou Basses de Viole",
+   "4 Concertos for 4 Violins",
+   "Tafelmusik",
+   "Divertimento in B-flat major",
+   "Pimpinone oder Die ungleiche Heirat",
+   "12 fantaisies pour flûte seule",
+   "12 Fantaisies pour violon seul"
+  ],
+  "P101": [
+   "opéra",
+   "musique sacrée",
+   "musique de chambre"
+  ]
+ },
+ "grands-compositeurs_johann-pachelbel": {
+  "qid": "Q76485",
+  "P569": [
+   "1653",
+   "1653"
+  ],
+  "P570": [
+   "1706",
+   "1706"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Canon et gigue. Ré majeur"
+  ],
+  "P101": [
+   "musique",
+   "orgue"
+  ],
+  "P136": [
+   "fugue",
+   "canon",
+   "chaconne",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_arcangelo-corelli": {
+  "qid": "Q164475",
+  "P569": [
+   "1653"
+  ],
+  "P570": [
+   "1713"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P800": [
+   "Concerti grossi, op. 6",
+   "Twelve Violin Sonatas, Op.5"
+  ],
+  "P136": [
+   "musique baroque",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_tomaso-albinoni": {
+  "qid": "Q174606",
+  "P569": [
+   "1671"
+  ],
+  "P570": [
+   "1751"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_jean-baptiste-pergolese": {
+  "qid": "Q185312",
+  "P569": [
+   "1710"
+  ],
+  "P570": [
+   "1736"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P135": [
+   "musique baroque"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_niccolo-paganini": {
+  "qid": "Q66075",
+  "P569": [
+   "1782"
+  ],
+  "P570": [
+   "1840",
+   "1840"
+  ],
+  "P27": [
+   "république de Gênes"
+  ],
+  "P800": [
+   "Vingt-quatre caprices pour violon",
+   "Concerto pour violon nº 1 de Paganini",
+   "Concerto pour violon nº 2 de Paganini",
+   "Concerto pour violon nº 3 de Paganini",
+   "Concerto pour violon nº 4 de Paganini",
+   "Concerto pour violon nº 5 de Paganini"
+  ],
+  "P136": [
+   "musique savante"
+  ]
+ },
+ "grands-compositeurs_gaetano-donizetti": {
+  "qid": "Q101698",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1848"
+  ],
+  "P27": [
+   "royaume de Lombardie-Vénétie"
+  ],
+  "P800": [
+   "L'elisir d'amore",
+   "Lucia di Lammermoor",
+   "Don Pasquale",
+   "La Fille du régiment",
+   "Maria Stuarda"
+  ],
+  "P136": [
+   "opéra",
+   "messe",
+   "cantate"
+  ]
+ },
+ "grands-compositeurs_vincenzo-bellini": {
+  "qid": "Q170209",
+  "P569": [
+   "1801"
+  ],
+  "P570": [
+   "1835"
+  ],
+  "P27": [
+   "Kingdom of Sicily"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "Norma",
+   "La sonnambula",
+   "I Capuleti e i Montecchi",
+   "I puritani",
+   "La straniera",
+   "Mass in A minor"
+  ],
+  "P101": [
+   "musique",
+   "opéra"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_charles-gounod": {
+  "qid": "Q180278",
+  "P569": [
+   "1818"
+  ],
+  "P570": [
+   "1893"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique classique"
+  ],
+  "P800": [
+   "Faust",
+   "Roméo et Juliette",
+   "Marche funèbre d'une marionnette"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "oratorio"
+  ]
+ },
+ "grands-compositeurs_jules-massenet": {
+  "qid": "Q194436",
+  "P569": [
+   "1842"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Werther",
+   "Manon",
+   "Don Quichotte",
+   "Cendrillon",
+   "Thaïs",
+   "Hérodiade"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "oratorio",
+   "opérette",
+   "musique de scène",
+   "ballet"
+  ]
+ },
+ "grands-compositeurs_carl-maria-von-weber": {
+  "qid": "Q154812",
+  "P569": [
+   "1786",
+   "1786",
+   "1786"
+  ],
+  "P570": [
+   "1826"
+  ],
+  "P27": [
+   "évêché de Lübeck"
+  ],
+  "P800": [
+   "Der Freischütz",
+   "Oberon"
+  ],
+  "P101": [
+   "musique",
+   "critique musicale"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_bedrich-smetana": {
+  "qid": "Q48173",
+  "P569": [
+   "1824"
+  ],
+  "P570": [
+   "1884"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Autriche-Hongrie"
+  ],
+  "P135": [
+   "musique romantique"
+  ],
+  "P800": [
+   "La Fiancée vendue",
+   "Má Vlast",
+   "Quatuor à cordes nº 1"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra",
+   "poème symphonique"
+  ]
+ },
+ "grands-compositeurs_leos-janacek": {
+  "qid": "Q184933",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1928"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Tchécoslovaquie"
+  ],
+  "P800": [
+   "Jenůfa",
+   "La Petite Renarde rusée",
+   "Katja Kabanova",
+   "L'Affaire Makropoulos",
+   "De la maison des morts",
+   "Sinfonietta"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_alexandre-borodine": {
+  "qid": "Q164004",
+  "P569": [
+   "1833",
+   "1833",
+   "1833"
+  ],
+  "P570": [
+   "1887",
+   "1887",
+   "1887"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Quatuor à cordes nº 2",
+   "Le Prince Igor"
+  ],
+  "P101": [
+   "musique",
+   "composition",
+   "chimie",
+   "médecine",
+   "composition musicale",
+   "composition musicale"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique",
+   "romance",
+   "musique de chambre"
+  ]
+ },
+ "grands-compositeurs_mikhail-glinka": {
+  "qid": "Q181885",
+  "P569": [
+   "1804",
+   "1804",
+   "1804",
+   "1804"
+  ],
+  "P570": [
+   "1857",
+   "1857"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "Chanson patriotique",
+   "Rouslan et Ludmila",
+   "Waltz-Fantasia",
+   "Une vie pour le tsar"
+  ],
+  "P101": [
+   "opéra",
+   "symphonie",
+   "romantisme",
+   "romance",
+   "musique symphonique",
+   "musique de chambre"
+  ],
+  "P136": [
+   "opéra",
+   "romance",
+   "musique symphonique",
+   "musique de chambre"
+  ]
+ },
+ "grands-compositeurs_edward-elgar": {
+  "qid": "Q179631",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Salut d'Amour",
+   "Allegro de concert",
+   "Dream Children",
+   "Variations Enigma",
+   "Pomp and Circumstance",
+   "Le Songe de Gérontius",
+   "Concerto pour violon",
+   "Symphonie nº 1",
+   "Symphonie nº 2",
+   "Falstaff",
+   "Concerto pour violoncelle",
+   "Introduction et allegro"
+  ],
+  "P101": [
+   "compositeur ou compositrice"
+  ],
+  "P136": [
+   "musique classique",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_gustav-holst": {
+  "qid": "Q200867",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Les Planètes",
+   "In the Bleak Midwinter"
+  ],
+  "P136": [
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_benjamin-britten": {
+  "qid": "Q150767",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Le Songe d'une nuit d'été",
+   "The Turn of the Screw",
+   "Peter Grimes",
+   "The Rape of Lucretia",
+   "Albert Herring",
+   "The Young Person's Guide to the Orchestra"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_manuel-de-falla": {
+  "qid": "Q193283",
+  "P569": [
+   "1876"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "L'Amour sorcier",
+   "Le Tricorne",
+   "Fantasía Bética",
+   "El retablo de Maese Pedro",
+   "Concerto pour clavecin et cinq instruments"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "orchestre",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_isaac-albeniz": {
+  "qid": "Q185812",
+  "P569": [
+   "1860",
+   "1860",
+   "1860",
+   "1861"
+  ],
+  "P570": [
+   "1909",
+   "1910",
+   "1909"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Iberia",
+   "Pepita Jiménez",
+   "Chants d'Espagne",
+   "Asturias",
+   "Córdoba",
+   "Merlin"
+  ],
+  "P136": [
+   "opéra",
+   "zarzuela",
+   "sardane"
+  ]
+ },
+ "grands-compositeurs_joaquin-rodrigo": {
+  "qid": "Q151084",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Concerto d'Aranjuez"
+  ],
+  "P101": [
+   "musique classique",
+   "composition"
+  ],
+  "P136": [
+   "opéra",
+   "zarzuela"
+  ]
+ },
+ "grands-compositeurs_heitor-villa-lobos": {
+  "qid": "Q203514",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P800": [
+   "String Quartet No. 14",
+   "Chôros No. 1",
+   "String Quartet No. 3",
+   "Bachianas brasileiras"
+  ],
+  "P101": [
+   "musique",
+   "musique classique",
+   "guitare"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_francis-poulenc": {
+  "qid": "Q191408",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique moderne",
+   "musique classique"
+  ],
+  "P800": [
+   "Dialogues des carmélites",
+   "La Voix humaine",
+   "Les Biches",
+   "Concert champêtre",
+   "Concerto pour orgue, cordes et timbales",
+   "Sonate pour flûte et piano de Poulenc",
+   "Concerto pour deux pianos de Poulenc",
+   "Gloria",
+   "Stabat Mater",
+   "Figure humaine"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique",
+   "musique sacrée",
+   "musique chorale"
+  ]
+ },
+ "grands-compositeurs_pierre-boulez": {
+  "qid": "Q156193",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "nouvelle musique"
+  ],
+  "P800": [
+   "Le Marteau sans maître"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_edgard-varese": {
+  "qid": "Q57247",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "avant-garde",
+   "nouvelle musique"
+  ],
+  "P136": [
+   "opéra",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_alban-berg": {
+  "qid": "Q78475",
+  "P569": [
+   "1885",
+   "1885"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Autriche"
+  ],
+  "P800": [
+   "Trois pièces pour orchestre",
+   "Wozzeck",
+   "Lulu",
+   "Concerto à la mémoire d'un ange"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "opéra",
+   "dodécaphonisme"
+  ]
+ },
+ "grands-compositeurs_gyorgy-ligeti": {
+  "qid": "Q154331",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "Hongrie",
+   "Autriche"
+  ],
+  "P135": [
+   "nouvelle musique"
+  ],
+  "P800": [
+   "Poème symphonique"
+  ],
+  "P136": [
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_karlheinz-stockhausen": {
+  "qid": "Q154556",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "Allemagne",
+   "Troisième Reich"
+  ],
+  "P135": [
+   "nouvelle musique"
+  ],
+  "P800": [
+   "Mixtur",
+   "Jubilee",
+   "Momente",
+   "Solo",
+   "Licht",
+   "Klang"
+  ],
+  "P136": [
+   "opéra",
+   "musique électronique",
+   "musique expérimentale",
+   "musique sérielle",
+   "musique aléatoire",
+   "nouvelle musique",
+   "musique de chambre",
+   "musique concrète"
+  ]
+ },
+ "grands-compositeurs_krzysztof-penderecki": {
+  "qid": "Q153469",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Pologne"
+  ],
+  "P800": [
+   "Requiem polonais",
+   "Q1813637",
+   "Symphonie nº 8"
+  ],
+  "P101": [
+   "direction d'orchestre",
+   "éducation musicale",
+   "composition",
+   "composition musicale"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie"
+  ]
+ },
+ "grands-compositeurs_leonard-bernstein": {
+  "qid": "Q152505",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Symphonie nº 1 de Bernstein",
+   "Symphonie nº 2 de Bernstein",
+   "Symphonie nº 3 de Bernstein",
+   "West Side Story",
+   "Candide"
+  ],
+  "P136": [
+   "symphonie",
+   "musique classique",
+   "opéra"
+  ]
+ },
+ "grands-compositeurs_kurt-weill": {
+  "qid": "Q55004",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1950"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Opéra de quat'sous",
+   "Grandeur et décadence de la ville de Mahagonny",
+   "Die sieben Todsünden",
+   "Street Scene",
+   "Der Silbersee"
+  ],
+  "P136": [
+   "opéra",
+   "symphonie",
+   "musique de ballet"
+  ]
+ },
+ "grands-compositeurs_michel-legrand": {
+  "qid": "Q313281",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "France",
+   "États-Unis"
+  ],
+  "P101": [
+   "composition",
+   "direction d'orchestre",
+   "exécution pianistique",
+   "musique de film",
+   "composition musicale",
+   "composition musicale"
+  ],
+  "P136": [
+   "jazz",
+   "musique instrumentale",
+   "musique de variétés",
+   "musique de film",
+   "easy listening"
+  ]
+ },
+ "grands-compositeurs_joe-hisaishi": {
+  "qid": "Q275900",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Nausicaä de la vallée du vent",
+   "Mon voisin Totoro",
+   "Kiki la petite sorcière",
+   "Le Voyage de Chihiro",
+   "Le Château ambulant",
+   "Hana-bi"
+  ],
+  "P136": [
+   "musique minimaliste",
+   "musique de film",
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_bernard-herrmann": {
+  "qid": "Q296804",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Sueurs froides",
+   "Psychose",
+   "Citizen Kane",
+   "Le Jour où la Terre s'arrêta",
+   "Taxi Driver",
+   "Wuthering Heights",
+   "Tous les biens de la terre"
+  ],
+  "P101": [
+   "musique de film"
+  ]
+ },
+ "grands-compositeurs_maurice-jarre": {
+  "qid": "Q105487",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2009",
+   "2009",
+   "2009"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Chanson de Lara"
+  ]
+ },
+ "grands-compositeurs_vangelis": {
+  "qid": "Q153172",
+  "P569": [
+   "1943"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Grèce"
+  ],
+  "P800": [
+   "Mythodea",
+   "Les Chariots de feu",
+   "1492 : Christophe Colomb",
+   "Blade Runner",
+   "666"
+  ],
+  "P101": [
+   "musique de film",
+   "musique instrumentale",
+   "arrangement",
+   "arrangement"
+  ],
+  "P136": [
+   "new age",
+   "rock progressif",
+   "musique électronique",
+   "ambient",
+   "musique de film"
+  ]
+ },
+ "grands-compositeurs_howard-shore": {
+  "qid": "Q207773",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "Concerning Hobbits"
+  ],
+  "P101": [
+   "musique de film"
+  ]
+ },
+ "grands-compositeurs_clara-schumann": {
+  "qid": "Q132232",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "royaume de Saxe"
+  ],
+  "P800": [
+   "Concerto pour piano de Clara Schumann",
+   "Trio pour piano, violon et violoncelle"
+  ],
+  "P136": [
+   "musique romantique"
+  ]
+ },
+ "grands-compositeurs_fanny-mendelssohn": {
+  "qid": "Q57286",
+  "P569": [
+   "1805",
+   "1805"
+  ],
+  "P570": [
+   "1847",
+   "1847"
+  ],
+  "P27": [
+   "Hambourg"
+  ],
+  "P800": [
+   "Easter Sonata",
+   "Piano Trio",
+   "Quatuor à cordes de Fanny Mendelssohn",
+   "Das Jahr"
+  ],
+  "P101": [
+   "musique",
+   "piano"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ },
+ "grands-compositeurs_lili-boulanger": {
+  "qid": "Q230412",
+  "P569": [
+   "1893"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "musique impressionniste"
+  ],
+  "P136": [
+   "musique classique"
+  ]
+ }
+}

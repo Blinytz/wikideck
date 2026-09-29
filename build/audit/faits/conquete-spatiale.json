@@ -1,0 +1,609 @@
+{
+ "conquete-spatiale_spoutnik-1": {
+  "qid": "Q80811"
+ },
+ "conquete-spatiale_apollo-8": {
+  "qid": "Q184201",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_apollo-11": {
+  "qid": "Q43653",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_apollo-13": {
+  "qid": "Q182252",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_programme-vostok": {
+  "qid": "Q623873",
+  "P17": [
+   "Union soviétique"
+  ],
+  "P527": [
+   "Vostok 1",
+   "Vostok 2",
+   "Vostok 3",
+   "Vostok 4",
+   "Vostok 5",
+   "Vostok 6"
+  ]
+ },
+ "conquete-spatiale_saturn-v": {
+  "qid": "Q54363",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "S-IC",
+   "S-II",
+   "S-IVB",
+   "Saturn V instrument unit"
+  ]
+ },
+ "conquete-spatiale_navette-spatiale-americaine": {
+  "qid": "Q48806",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "orbiteur de la navette spatiale",
+   "réservoir externe de la navette spatiale américaine",
+   "Propulseur d'appoint à poudre de la navette spatiale américaine"
+  ]
+ },
+ "conquete-spatiale_station-spatiale-internationale": {
+  "qid": "Q25271",
+  "P571": [
+   "1998"
+  ],
+  "P276": [
+   "orbite terrestre basse"
+  ],
+  "P131": [
+   "Outer Space Treaty area"
+  ],
+  "P527": [
+   "Zarya",
+   "Unity",
+   "Zvezda",
+   "Destiny",
+   "Canadarm 2",
+   "Quest",
+   "Pirs",
+   "Harmony",
+   "Columbus",
+   "Special Purpose Dexterous Manipulator",
+   "Kibō",
+   "Poisk",
+   "Tranquility",
+   "Cupola",
+   "Rassvet",
+   "Poutre de la station spatiale internationale",
+   "Leonardo (station spatiale internationale)",
+   "Bigelow Expandable Activity Module",
+   "Nauka",
+   "Prichal",
+   "Mobile Servicing System"
+  ]
+ },
+ "conquete-spatiale_mir-station-spatiale": {
+  "qid": "Q48604",
+  "P571": [
+   "1986"
+  ],
+  "P17": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P527": [
+   "Module central de Mir",
+   "Kvant-1",
+   "Kvant-2",
+   "Kristall",
+   "Spektr",
+   "Priroda",
+   "Mir Docking Module"
+  ]
+ },
+ "conquete-spatiale_skylab": {
+  "qid": "Q190776",
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_soyouz-vehicule-spatial": {
+  "qid": "Q579421",
+  "P495": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P527": [
+   "orbital module",
+   "reentry capsule",
+   "service module"
+  ]
+ },
+ "conquete-spatiale_hubble-telescope-spatial": {
+  "qid": "Q2513",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_james-webb-telescope-spatial": {
+  "qid": "Q186447",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "James Webb Space Telescope sunshield",
+   "Optical Telescope Element",
+   "Integrated Science Instrument Module",
+   "Spacecraft Bus"
+  ]
+ },
+ "conquete-spatiale_voyager-1": {
+  "qid": "Q48469",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Voyager Golden Record"
+  ]
+ },
+ "conquete-spatiale_voyager-2": {
+  "qid": "Q48475",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_pioneer-10": {
+  "qid": "Q59103",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_cassini-huygens": {
+  "qid": "Q165585",
+  "P527": [
+   "Cassini",
+   "Huygens"
+  ]
+ },
+ "conquete-spatiale_new-horizons": {
+  "qid": "Q48461",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_curiosity-astromobile": {
+  "qid": "Q48485",
+  "P276": [
+   "Gale"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_exploration-de-mars-par-perseverance": {
+  "qid": "Q87749354",
+  "P276": [
+   "Jezero"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_spirit-rover": {
+  "qid": "Q176276",
+  "P276": [
+   "Quadrangle d'Aeolis"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_rosetta-sonde-spatiale": {
+  "qid": "Q48572",
+  "P527": [
+   "Philae"
+  ]
+ },
+ "conquete-spatiale_parker-sonde-spatiale": {
+  "qid": "Q899091",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_ariane-5": {
+  "qid": "Q18532",
+  "P495": [
+   "Union européenne"
+  ],
+  "P527": [
+   "Ariane 5G",
+   "Ariane 5G+",
+   "Ariane 5GS",
+   "Ariane 5ES",
+   "Ariane 5 ECA",
+   "Ariane 5 ECA+"
+  ]
+ },
+ "conquete-spatiale_falcon-9": {
+  "qid": "Q249091",
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_spacex": {
+  "qid": "Q193701",
+  "P571": [
+   "2002"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_national-aeronautics-and-space-administration": {
+  "qid": "Q23548",
+  "P571": [
+   "1958"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_agence-spatiale-europeenne": {
+  "qid": "Q42262",
+  "P101": [
+   "exploration spatiale",
+   "vol spatial"
+  ],
+  "P571": [
+   "1975"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "SMILE"
+  ]
+ },
+ "conquete-spatiale_cosmodrome-de-baikonour": {
+  "qid": "Q177477",
+  "P571": [
+   "1955"
+  ],
+  "P131": [
+   "Kyzylorda"
+  ],
+  "P17": [
+   "Kazakhstan",
+   "Union soviétique"
+  ],
+  "P527": [
+   "Aire de lancement Gagarine",
+   "Plateforme de lancement 31 de Baïkonour",
+   "Baikonur Cosmodrome Site 41",
+   "Baikonur Cosmodrome Site 45",
+   "Cosmodrome de Baïkonour Site 81",
+   "Baikonur Cosmodrome Site 90",
+   "Baikonur Cosmodrome Site 109",
+   "Baikonur Cosmodrome Site 110",
+   "Cosmodrome de Baïkonour",
+   "Baikonur Cosmodrome Site 250"
+  ]
+ },
+ "conquete-spatiale_cap-canaveral": {
+  "qid": "Q193401",
+  "P131": [
+   "comté de Brevard"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_chang-e-4": {
+  "qid": "Q723045",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Netherlands-China Low-Frequency Explorer"
+  ]
+ },
+ "conquete-spatiale_programme-mercury": {
+  "qid": "Q52162",
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Little Joe 1",
+   "Big Joe 1",
+   "Little Joe 6",
+   "Little Joe 1A",
+   "Little Joe 2",
+   "Little Joe 1B",
+   "Beach Abort",
+   "Mercury-Atlas 1",
+   "Little Joe 5",
+   "Mercury-Redstone 1",
+   "Mercury-Redstone 1A",
+   "Mercury-Redstone 2",
+   "Mercury-Atlas 2",
+   "Little Joe 5A",
+   "Mercury-Redstone BD",
+   "Mercury-Atlas 3",
+   "Little Joe 5B",
+   "Mercury-Redstone 3",
+   "Mercury-Redstone 4",
+   "Mercury-Atlas 4",
+   "Mercury-Scout 1",
+   "Mercury-Atlas 5",
+   "Mercury-Atlas 6",
+   "Mercury-Atlas 7",
+   "Mercury-Atlas 8",
+   "Mercury-Atlas 9",
+   "Mercury-Atlas 10"
+  ]
+ },
+ "conquete-spatiale_programme-gemini": {
+  "qid": "Q214996",
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Gemini 1",
+   "Gemini 2",
+   "Gemini 3",
+   "Gemini 4",
+   "Gemini 5",
+   "Gemini 7",
+   "Gemini 6",
+   "Gemini 8",
+   "Gemini 9",
+   "Gemini 10",
+   "Gemini 11",
+   "Gemini 12"
+  ]
+ },
+ "conquete-spatiale_apollo-17": {
+  "qid": "Q180971",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_programme-artemis": {
+  "qid": "Q63819987",
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Artemis 1",
+   "Artemis II",
+   "Artemis 3",
+   "Lunar Gateway",
+   "Artemis 4",
+   "Artemis V",
+   "Starship"
+  ]
+ },
+ "conquete-spatiale_luna-9": {
+  "qid": "Q1159933",
+  "P276": [
+   "LQ10"
+  ],
+  "P495": [
+   "Union soviétique"
+  ]
+ },
+ "conquete-spatiale_lunokhod-1": {
+  "qid": "Q261052",
+  "P17": [
+   "Union soviétique"
+  ]
+ },
+ "conquete-spatiale_programme-venera": {
+  "qid": "Q192144"
+ },
+ "conquete-spatiale_viking-1": {
+  "qid": "Q210199",
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Viking 1 Orbiter",
+   "Viking 1 Lander"
+  ]
+ },
+ "conquete-spatiale_mars-pathfinder": {
+  "qid": "Q201771",
+  "P276": [
+   "Quadrangle d'Oxia Palus"
+  ]
+ },
+ "conquete-spatiale_opportunity": {
+  "qid": "Q193538",
+  "P276": [
+   "Quadrangle de Margaritifer Sinus"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_ingenuity-helicoptere": {
+  "qid": "Q48814715",
+  "P571": [
+   "2014"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "rotor contrarotatif"
+  ]
+ },
+ "conquete-spatiale_galileo-sonde-spatiale": {
+  "qid": "Q182008",
+  "P571": [
+   "1977"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Galileo",
+   "Jupiter Atmospheric Probe"
+  ]
+ },
+ "conquete-spatiale_juno-sonde-spatiale": {
+  "qid": "Q48546",
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_hayabusa-sonde-spatiale": {
+  "qid": "Q275444",
+  "P17": [
+   "Japon"
+  ]
+ },
+ "conquete-spatiale_gaia-satellite": {
+  "qid": "Q767805"
+ },
+ "conquete-spatiale_kepler-telescope-spatial": {
+  "qid": "Q47272",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "K2 Mission"
+  ]
+ },
+ "conquete-spatiale_saliout-1": {
+  "qid": "Q211761",
+  "P495": [
+   "Union soviétique"
+  ]
+ },
+ "conquete-spatiale_ok-1-01": {
+  "qid": "Q2548",
+  "P495": [
+   "Union soviétique"
+  ]
+ },
+ "conquete-spatiale_apollo-soyouz": {
+  "qid": "Q208759"
+ },
+ "conquete-spatiale_accident-de-la-navette-spatiale-challenger": {
+  "qid": "Q858145",
+  "P276": [
+   "cap Canaveral"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_accident-de-la-navette-spatiale-columbia": {
+  "qid": "Q580867",
+  "P276": [
+   "Louisiane",
+   "Texas"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "conquete-spatiale_v2-missile": {
+  "qid": "Q174640",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "conquete-spatiale_station-spatiale-chinoise": {
+  "qid": "Q5100935",
+  "P571": [
+   "2021"
+  ],
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Tianhe",
+   "Wentian experiment module",
+   "Mengtian experiment module"
+  ]
+ },
+ "conquete-spatiale_chandrayaan-3": {
+  "qid": "Q65049774",
+  "P17": [
+   "Inde"
+  ],
+  "P527": [
+   "Vikram",
+   "Pragyan"
+  ]
+ },
+ "conquete-spatiale_starship-fusee": {
+  "qid": "Q62833385",
+  "P571": [
+   "2005"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P186": [
+   "acier inoxydable AISI/SAE 304"
+  ],
+  "P527": [
+   "Super Heavy",
+   "Starship"
+  ]
+ },
+ "conquete-spatiale_spacex-dragon-2": {
+  "qid": "Q17122887",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "DragonFly",
+   "C204",
+   "C205",
+   "Crew Dragon Endeavour",
+   "Crew Dragon Resilience",
+   "Cargo Dragon C208",
+   "Cargo Dragon C209",
+   "Crew Dragon Endurance",
+   "Cargo Dragon C211",
+   "Crew Dragon Freedom",
+   "Crew Dragon C213"
+  ]
+ },
+ "conquete-spatiale_ariane-6": {
+  "qid": "Q15720682",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "Ariane 62",
+   "Ariane 64"
+  ]
+ }
+}

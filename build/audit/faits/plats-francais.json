@@ -1,0 +1,1083 @@
+{
+ "plats-francais_pot-au-feu": {
+  "qid": "Q10398",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "carotte",
+   "viande bovine",
+   "Oignon",
+   "Brassica rapa"
+  ]
+ },
+ "plats-francais_b-uf-bourguignon": {
+  "qid": "Q1022124",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "viande bovine",
+   "bouillon",
+   "vin rouge"
+  ],
+  "P527": [
+   "viande bovine",
+   "bouillon",
+   "vin rouge"
+  ]
+ },
+ "plats-francais_blanquette-de-veau": {
+  "qid": "Q1191278",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "mirepoix",
+   "viande de veau"
+  ]
+ },
+ "plats-francais_coq-au-vin": {
+  "qid": "Q527323",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "poulet",
+   "vin rouge"
+  ],
+  "P527": [
+   "poulet",
+   "vin",
+   "tête d'ail",
+   "lardon",
+   "champignon comestible"
+  ]
+ },
+ "plats-francais_cassoulet": {
+  "qid": "Q3039",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "ragoût"
+  ]
+ },
+ "plats-francais_choucroute-d-alsace": {
+  "qid": "Q12699",
+  "P495": [
+   "France"
+  ]
+ },
+ "plats-francais_bouillabaisse": {
+  "qid": "Q828043",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "poisson",
+   "tomate",
+   "huile d'olive",
+   "vin blanc",
+   "croûton",
+   "rouille",
+   "tête d'ail",
+   "huile végétale",
+   "poisson",
+   "vin"
+  ]
+ },
+ "plats-francais_ratatouille": {
+  "qid": "Q183095",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "courgette",
+   "Origanum majorana",
+   "aubergine",
+   "poivron",
+   "tomate",
+   "tête d'ail",
+   "oignon",
+   "basilic"
+  ]
+ },
+ "plats-francais_quiche-lorraine": {
+  "qid": "Q7882068",
+  "P495": [
+   "duché de Lorraine"
+  ],
+  "P186": [
+   "pâte brisée",
+   "lardon",
+   "migaine"
+  ]
+ },
+ "plats-francais_croque-monsieur": {
+  "qid": "Q738",
+  "P571": [
+   "1910"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pain de mie",
+   "jambon",
+   "emmental"
+  ]
+ },
+ "plats-francais_steak-frites": {
+  "qid": "Q3497742",
+  "P495": [
+   "Belgique"
+  ],
+  "P186": [
+   "frite",
+   "steak"
+  ]
+ },
+ "plats-francais_gratin-dauphinois": {
+  "qid": "Q1647122",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "crème fraîche",
+   "pomme de terre"
+  ]
+ },
+ "plats-francais_soupe-a-l-oignon": {
+  "qid": "Q244617",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "oignon",
+   "bouillon",
+   "fromage",
+   "pain"
+  ]
+ },
+ "plats-francais_escargots-de-bourgogne": {
+  "qid": "Q110880257"
+ },
+ "plats-francais_foie-gras": {
+  "qid": "Q34807",
+  "P571": [
+   "-4500"
+  ],
+  "P495": [
+   "France",
+   "Égypte antique"
+  ],
+  "P186": [
+   "foie"
+  ],
+  "P2079": [
+   "gavage"
+  ]
+ },
+ "plats-francais_confit-de-canard": {
+  "qid": "Q2992515",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "viande de canard"
+  ]
+ },
+ "plats-francais_andouillette": {
+  "qid": "Q11164",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "viande de porc",
+   "poivre",
+   "oignon",
+   "vin"
+  ]
+ },
+ "plats-francais_cuisses-de-grenouille": {
+  "qid": "Q1258910",
+  "P527": [
+   "grenouille"
+  ]
+ },
+ "plats-francais_aligot": {
+  "qid": "Q2724885",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "purée de pommes de terre"
+  ]
+ },
+ "plats-francais_tartiflette": {
+  "qid": "Q1759775",
+  "P571": [
+   "1980"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lardon",
+   "oignon",
+   "reblochon",
+   "pomme de terre"
+  ]
+ },
+ "plats-francais_fondue-savoyarde": {
+  "qid": "Q972682",
+  "P495": [
+   "France"
+  ]
+ },
+ "plats-francais_crepe": {
+  "qid": "Q12200",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache",
+   "farine de blé",
+   "œuf",
+   "beurre"
+  ]
+ },
+ "plats-francais_galette-de-sarrasin": {
+  "qid": "Q12486",
+  "P186": [
+   "farine de sarrasin"
+  ]
+ },
+ "plats-francais_baguette-pain": {
+  "qid": "Q208172",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "sel alimentaire",
+   "eau",
+   "farine",
+   "levure"
+  ]
+ },
+ "plats-francais_croissant-viennoiserie": {
+  "qid": "Q207832",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pâte feuilletée",
+   "beurre"
+  ]
+ },
+ "plats-francais_pain-au-chocolat": {
+  "qid": "Q1190838",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "beurre",
+   "chocolat",
+   "eau",
+   "farine de blé",
+   "levure",
+   "sel alimentaire",
+   "sucre"
+  ]
+ },
+ "plats-francais_macaron": {
+  "qid": "Q12478",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "meringue",
+   "sel alimentaire",
+   "Plat aux amandes"
+  ]
+ },
+ "plats-francais_eclair-patisserie": {
+  "qid": "Q273426",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pâte à choux",
+   "œuf",
+   "glaçage"
+  ]
+ },
+ "plats-francais_mille-feuille": {
+  "qid": "Q12491",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "sucre glace",
+   "fondant",
+   "crème pâtissière",
+   "pâte feuilletée"
+  ]
+ },
+ "plats-francais_paris-brest": {
+  "qid": "Q1137495",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "amande",
+   "crème mousseline",
+   "pâte à choux"
+  ]
+ },
+ "plats-francais_tarte-tatin": {
+  "qid": "Q1147946",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pomme",
+   "sucre",
+   "pâte feuilletée",
+   "beurre"
+  ]
+ },
+ "plats-francais_creme-brulee": {
+  "qid": "Q312839",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "costarde",
+   "caramel",
+   "œuf"
+  ]
+ },
+ "plats-francais_profiterole": {
+  "qid": "Q1152821",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "ganache",
+   "pâte à choux",
+   "glace à la vanille",
+   "chouquette"
+  ]
+ },
+ "plats-francais_clafoutis": {
+  "qid": "Q1094707",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "farine",
+   "fruit comestible",
+   "œuf",
+   "œuf"
+  ]
+ },
+ "plats-francais_madeleine-patisserie": {
+  "qid": "Q604408",
+  "P495": [
+   "France",
+   "Espagne"
+  ],
+  "P186": [
+   "farine"
+  ]
+ },
+ "plats-francais_cannele": {
+  "qid": "Q2746070",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "œuf"
+  ]
+ },
+ "plats-francais_baba-au-rhum": {
+  "qid": "Q265457",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "rhum",
+   "œuf"
+  ]
+ },
+ "plats-francais_salade-nicoise": {
+  "qid": "Q209486",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "œuf bouilli",
+   "poivron",
+   "Engraulis encrasicolus",
+   "tête d'ail",
+   "céleri",
+   "artichaut",
+   "thon",
+   "Mesclun",
+   "Olive de Nice",
+   "basilic",
+   "radis",
+   "cébette",
+   "huile d'olive",
+   "tomate"
+  ]
+ },
+ "plats-francais_rillettes": {
+  "qid": "Q1933110",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "viande"
+  ]
+ },
+ "plats-francais_pate-en-croute": {
+  "qid": "Q3411532",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pâte feuilletée"
+  ]
+ },
+ "plats-francais_cervelle-de-canut": {
+  "qid": "Q554",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "fromage à pâte fraîche",
+   "échalote",
+   "tête d'ail",
+   "huile d'olive",
+   "vinaigre"
+  ]
+ },
+ "plats-francais_piperade": {
+  "qid": "Q1555816",
+  "P186": [
+   "Capsicum",
+   "oignon",
+   "tomate"
+  ]
+ },
+ "plats-francais_garbure": {
+  "qid": "Q3083513",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "jambon"
+  ]
+ },
+ "plats-francais_brandade-de-morue": {
+  "qid": "Q612283",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "morue"
+  ]
+ },
+ "plats-francais_bouchee-a-la-reine": {
+  "qid": "Q16533506",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "sauce blanche",
+   "croustade",
+   "champignon",
+   "poulet",
+   "quenelle",
+   "pâte feuilletée",
+   "ris (aliment)"
+  ]
+ },
+ "plats-francais_ufs-en-meurette": {
+  "qid": "Q3594122",
+  "P186": [
+   "œuf poché",
+   "sauce bourguignonne"
+  ]
+ },
+ "plats-francais_sole-meuniere": {
+  "qid": "Q10749957",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pomme de terre",
+   "sole commune"
+  ]
+ },
+ "plats-francais_steak-tartare": {
+  "qid": "Q749593",
+  "P495": [
+   "France",
+   "royaume des Francs"
+  ],
+  "P186": [
+   "viande bovine",
+   "œuf",
+   "viande de cheval",
+   "condiment",
+   "sel alimentaire",
+   "poivre"
+  ],
+  "P527": [
+   "viande bovine",
+   "viande de cheval",
+   "œuf",
+   "sel alimentaire",
+   "poivre",
+   "huile d'olive",
+   "oignon",
+   "Maggi"
+  ],
+  "P2079": [
+   "Q11780329",
+   "assaisonnement"
+  ]
+ },
+ "plats-francais_hachis-parmentier": {
+  "qid": "Q2838339",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pomme de terre"
+  ]
+ },
+ "plats-francais_souffle": {
+  "qid": "Q846376",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "jaune d'oeuf",
+   "costarde",
+   "sauce",
+   "sauce béchamel",
+   "purée",
+   "blanc en neige"
+  ]
+ },
+ "plats-francais_galette-des-rois": {
+  "qid": "Q177166",
+  "P495": [
+   "Rome antique",
+   "Espagne",
+   "Suisse"
+  ],
+  "P186": [
+   "pâte",
+   "frangipane"
+  ]
+ },
+ "plats-francais_buche-de-noel": {
+  "qid": "Q890193",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "beurre"
+  ]
+ },
+ "plats-francais_kouign-amann": {
+  "qid": "Q548319",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pâte",
+   "sucre",
+   "beurre"
+  ]
+ },
+ "plats-francais_far-breton": {
+  "qid": "Q1396059",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "lait de vache",
+   "œuf de poule",
+   "farine de blé",
+   "pruneau",
+   "rhum",
+   "sucre"
+  ]
+ },
+ "plats-francais_tarte-flambee": {
+  "qid": "Q316849",
+  "P495": [
+   "France",
+   "Allemagne"
+  ],
+  "P186": [
+   "crème",
+   "lard fumé"
+  ],
+  "P527": [
+   "crème",
+   "oignon",
+   "lard fumé"
+  ]
+ },
+ "plats-francais_socca": {
+  "qid": "Q247289",
+  "P186": [
+   "poivre",
+   "farine de pois chiche",
+   "huile d'olive",
+   "sel alimentaire",
+   "eau potable"
+  ]
+ },
+ "plats-francais_pissaladiere": {
+  "qid": "Q1815839",
+  "P495": [
+   "France",
+   "Italie"
+  ],
+  "P17": [
+   "France",
+   "Italie"
+  ],
+  "P186": [
+   "Olive de Nice",
+   "Pissalat",
+   "Oignon",
+   "pain"
+  ]
+ },
+ "plats-francais_pieds-paquets": {
+  "qid": "Q3382650",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "panse"
+  ]
+ },
+ "plats-francais_poule-au-pot": {
+  "qid": "Q3400256",
+  "P495": [
+   "France"
+  ]
+ },
+ "plats-francais_quenelle": {
+  "qid": "Q12958",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "farine",
+   "brochet",
+   "moelle osseuse",
+   "foie",
+   "mie"
+  ]
+ },
+ "plats-francais_tete-de-veau": {
+  "qid": "Q1542282",
+  "P495": [
+   "Pays-Bas"
+  ],
+  "P186": [
+   "tête de veau"
+  ]
+ },
+ "plats-francais_petit-sale": {
+  "qid": "Q7178377"
+ },
+ "plats-francais_magret": {
+  "qid": "Q2110210",
+  "P527": [
+   "viande de canard"
+  ]
+ },
+ "plats-francais_canard-a-l-orange": {
+  "qid": "Q16937041",
+  "P571": [
+   "1945"
+  ],
+  "P495": [
+   "France",
+   "Béarn"
+  ],
+  "P186": [
+   "carotte",
+   "citron",
+   "oignon",
+   "viande de canard",
+   "bouquet garni",
+   "vin blanc",
+   "Cointreau",
+   "sel alimentaire",
+   "orange",
+   "persil",
+   "beurre",
+   "poivre"
+  ]
+ },
+ "plats-francais_tripes-a-la-mode-de-caen": {
+  "qid": "Q356690",
+  "P495": [
+   "France"
+  ]
+ },
+ "plats-francais_moules-frites": {
+  "qid": "Q1200514",
+  "P495": [
+   "Belgique"
+  ],
+  "P17": [
+   "Belgique"
+  ],
+  "P186": [
+   "moule commune",
+   "frite",
+   "Moules marinières"
+  ]
+ },
+ "plats-francais_jambon-beurre": {
+  "qid": "Q3160836",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "jambon",
+   "baguette",
+   "beurre"
+  ],
+  "P527": [
+   "baguette",
+   "jambon",
+   "beurre"
+  ]
+ },
+ "plats-francais_tapenade": {
+  "qid": "Q129031",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "olive",
+   "Câprier"
+  ]
+ },
+ "plats-francais_aioli": {
+  "qid": "Q283231",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "huile d'olive"
+  ],
+  "P527": [
+   "tête d'ail",
+   "huile d'olive"
+  ]
+ },
+ "plats-francais_soupe-au-pistou": {
+  "qid": "Q11991",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "haricot commun",
+   "Pistou"
+  ]
+ },
+ "plats-francais_baeckeoffe": {
+  "qid": "Q799722",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "viande d'agneau"
+  ]
+ },
+ "plats-francais_kig-ha-farz": {
+  "qid": "Q12197",
+  "P276": [
+   "Bretagne"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "farine de sarrasin",
+   "lait de vache",
+   "œuf de poule",
+   "saindoux",
+   "viande"
+  ]
+ },
+ "plats-francais_daube-provencale": {
+  "qid": "Q517394",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "viande bovine"
+  ]
+ },
+ "plats-francais_pan-bagnat": {
+  "qid": "Q2919135",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "pain de campagne",
+   "pain blanc",
+   "radis",
+   "ciboule",
+   "huile d'olive",
+   "basilic",
+   "thon",
+   "chair d'anchois",
+   "olive noire",
+   "œuf dur",
+   "tomate",
+   "poivron",
+   "artichaut",
+   "Fève",
+   "sel alimentaire",
+   "poivre noir"
+  ]
+ },
+ "plats-francais_farcis": {
+  "qid": "Q3066798",
+  "P186": [
+   "farce",
+   "légume",
+   "feuille",
+   "chou cabus",
+   "fleur",
+   "riz"
+  ],
+  "P527": [
+   "Q80011891",
+   "aubergine"
+  ]
+ },
+ "plats-francais_gateau-basque": {
+  "qid": "Q683495",
+  "P186": [
+   "Plat aux amandes",
+   "Beltxa",
+   "beurre",
+   "œuf"
+  ]
+ },
+ "plats-francais_kougelhopf": {
+  "qid": "Q159754",
+  "P186": [
+   "yeast dough",
+   "Q2203947"
+  ]
+ },
+ "plats-francais_saint-honore-patisserie": {
+  "qid": "Q1033856",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "profiterole",
+   "crème chiboust",
+   "pâte feuilletée"
+  ]
+ },
+ "plats-francais_opera-patisserie": {
+  "qid": "Q1858875",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "sponge cake"
+  ]
+ },
+ "plats-francais_tarte-tropezienne": {
+  "qid": "Q3515859",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "brioche"
+  ]
+ },
+ "plats-francais_tarte-au-citron": {
+  "qid": "Q6521367",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "citron",
+   "jaune d'oeuf",
+   "sucre"
+  ]
+ },
+ "plats-francais_mousse-au-chocolat": {
+  "qid": "Q1381277",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "chocolat",
+   "crème fouettée",
+   "blanc d'œuf"
+  ]
+ },
+ "plats-francais_ile-flottante": {
+  "qid": "Q1209831"
+ },
+ "plats-francais_creme-caramel": {
+  "qid": "Q374381",
+  "P186": [
+   "œuf",
+   "sucre",
+   "lait"
+  ]
+ },
+ "plats-francais_poire-belle-helene": {
+  "qid": "Q865790",
+  "P571": [
+   "1864"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "glace à la vanille",
+   "poire",
+   "sirop de chocolat",
+   "sirop"
+  ]
+ },
+ "plats-francais_crepe-suzette": {
+  "qid": "Q1142539",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "caramel",
+   "liqueur d'orange",
+   "crêpe",
+   "beurre"
+  ],
+  "P2079": [
+   "flambage"
+  ]
+ },
+ "plats-francais_chouquette": {
+  "qid": "Q9167992",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "pâte à choux"
+  ]
+ },
+ "plats-francais_brioche": {
+  "qid": "Q917574",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "farine",
+   "œuf",
+   "beurre",
+   "sucre",
+   "sel alimentaire",
+   "œuf",
+   "levure"
+  ]
+ },
+ "plats-francais_pain-d-epices": {
+  "qid": "Q178600",
+  "P186": [
+   "miel",
+   "ginger bread spice",
+   "mélasse",
+   "farine de blé",
+   "gingembre"
+  ]
+ },
+ "plats-francais_religieuse-patisserie": {
+  "qid": "Q55152",
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "pâte à choux"
+  ]
+ },
+ "plats-francais_calisson": {
+  "qid": "Q1027031",
+  "P131": [
+   "Aix-en-Provence"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "amande",
+   "melon",
+   "sirop",
+   "fruit confit"
+  ]
+ },
+ "plats-francais_nougat-de-montelimar": {
+  "qid": "Q3344838",
+  "P131": [
+   "Drôme"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "amande",
+   "pistache",
+   "miel",
+   "pain azyme",
+   "blanc d'œuf",
+   "vanille"
+  ]
+ }
+}

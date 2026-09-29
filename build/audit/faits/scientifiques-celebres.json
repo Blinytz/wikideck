@@ -1,0 +1,4777 @@
+{
+ "scientifiques-celebres_archimede": {
+  "qid": "Q8739",
+  "P569": [
+   "-287",
+   "-287",
+   "-286",
+   "-285"
+  ],
+  "P570": [
+   "-212",
+   "-212",
+   "-211",
+   "-211"
+  ],
+  "P27": [
+   "Syracuse ancienne"
+  ],
+  "P800": [
+   "poussée d'Archimède",
+   "Vis d'Archimède",
+   "palimpseste d'Archimède",
+   "nombre d'Archimède",
+   "Griffe d'Archimède",
+   "Ellipsographe",
+   "spirale d'Archimède",
+   "problème des bœufs d'Hélios",
+   "axiome d'Archimède",
+   "Archimedes' Heptagon",
+   "De la sphère et du cylindre"
+  ],
+  "P101": [
+   "géométrie",
+   "mathématiques",
+   "mécanique",
+   "ingénierie",
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_euclide": {
+  "qid": "Q8747",
+  "P569": [
+   "-333",
+   "-323"
+  ],
+  "P570": [
+   "-285"
+  ],
+  "P27": [
+   "Athènes"
+  ],
+  "P800": [
+   "Éléments",
+   "géométrie synthétique"
+  ],
+  "P101": [
+   "géométrie",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_pythagore": {
+  "qid": "Q10261",
+  "P569": [
+   "-582",
+   "-550",
+   "-582",
+   "-580",
+   "-575",
+   "-572",
+   "-571",
+   "-570"
+  ],
+  "P570": [
+   "-490",
+   "-500",
+   "-499",
+   "-497",
+   "-496",
+   "-492",
+   "-490"
+  ],
+  "P27": [
+   "Samos"
+  ],
+  "P135": [
+   "École pythagoricienne",
+   "philosophie occidentale"
+  ],
+  "P800": [
+   "théorème de Pythagore",
+   "triplet pythagoricien",
+   "solide de Platon"
+  ],
+  "P101": [
+   "géométrie",
+   "mathématiques",
+   "éthique",
+   "politique",
+   "philosophie",
+   "astronomie",
+   "musique",
+   "métaphysique"
+  ]
+ },
+ "scientifiques-celebres_hippocrate": {
+  "qid": "Q5264",
+  "P569": [
+   "-460"
+  ],
+  "P570": [
+   "-370"
+  ],
+  "P101": [
+   "médecine",
+   "Antiquité classique",
+   "géographie",
+   "éthique"
+  ]
+ },
+ "scientifiques-celebres_claude-ptolemee": {
+  "qid": "Q34943",
+  "P569": [
+   "100",
+   "87",
+   "85"
+  ],
+  "P570": [
+   "170",
+   "165"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "Almageste",
+   "Géographie",
+   "List of Roman emperors",
+   "carte ptolémaïque",
+   "Gamme diatonique de Ptolémée",
+   "Ptolemy's table of chords",
+   "inégalité de Ptolémée",
+   "théorème de Ptolémée",
+   "Équant",
+   "quadrant",
+   "Tetrabiblos",
+   "Handy Tables"
+  ],
+  "P101": [
+   "astronomie",
+   "astrologie",
+   "mathématiques",
+   "mécanique",
+   "optique",
+   "géographie",
+   "théoricien ou théoricienne de la musique",
+   "théorie de la musique"
+  ]
+ },
+ "scientifiques-celebres_al-khwarizmi": {
+  "qid": "Q9038",
+  "P569": [
+   "780",
+   "750",
+   "780"
+  ],
+  "P570": [
+   "850",
+   "846",
+   "850"
+  ],
+  "P800": [
+   "Abrégé du calcul par la restauration et la comparaison"
+  ],
+  "P101": [
+   "astronomie",
+   "mathématiques",
+   "algèbre",
+   "numéral devanagari",
+   "arithmétique",
+   "trigonométrie",
+   "géographie",
+   "sciences de la Terre"
+  ]
+ },
+ "scientifiques-celebres_avicenne": {
+  "qid": "Q8011",
+  "P569": [
+   "980",
+   "980"
+  ],
+  "P570": [
+   "1037",
+   "1037",
+   "1037"
+  ],
+  "P800": [
+   "Canon de la médecine",
+   "Livre de la guérison",
+   "Al-isharat wa al-tanbihat"
+  ],
+  "P101": [
+   "médecine",
+   "aromathérapie",
+   "philosophie",
+   "logique",
+   "Kalâm",
+   "poésie",
+   "théologie",
+   "sciences de la Terre",
+   "philosophie des sciences",
+   "physique",
+   "psychologie",
+   "astronomie",
+   "chimie",
+   "géologie",
+   "mécanique"
+  ]
+ },
+ "scientifiques-celebres_alhazen": {
+  "qid": "Q11104",
+  "P569": [
+   "965",
+   "965"
+  ],
+  "P570": [
+   "1039",
+   "1038",
+   "1039",
+   "1040",
+   "1040",
+   "1041",
+   "1049"
+  ],
+  "P27": [
+   "califat abbasside",
+   "Califat fatimide"
+  ],
+  "P800": [
+   "Traité d'optique",
+   "Doubts Concerning Ptolemy"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_nicolas-copernic": {
+  "qid": "Q619",
+  "P569": [
+   "1473",
+   "1473"
+  ],
+  "P570": [
+   "1543",
+   "1543"
+  ],
+  "P27": [
+   "Royaume de Pologne",
+   "apatride",
+   "Prusse royale"
+  ],
+  "P800": [
+   "Commentariolus",
+   "De revolutionibus orbium coelestium"
+  ],
+  "P101": [
+   "astronomie",
+   "mathématiques",
+   "mécanique",
+   "science économique"
+  ]
+ },
+ "scientifiques-celebres_galilee-savant": {
+  "qid": "Q307",
+  "P569": [
+   "1564"
+  ],
+  "P570": [
+   "1642"
+  ],
+  "P27": [
+   "duché de Florence",
+   "grand-duché de Toscane"
+  ],
+  "P800": [
+   "transformations de Galilée",
+   "équations pour la chute de corps"
+  ],
+  "P101": [
+   "astronomie",
+   "physique",
+   "mécanique",
+   "philosophie",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_johannes-kepler": {
+  "qid": "Q8963",
+  "P569": [
+   "1571"
+  ],
+  "P570": [
+   "1630"
+  ],
+  "P27": [
+   "duché de Wurtemberg",
+   "Saint-Empire romain germanique"
+  ],
+  "P800": [
+   "Astronomia nova",
+   "Harmonices Mundi",
+   "Epitome Astronomiae Copernicanae",
+   "De Cometis Libelli Tres",
+   "Tables rudolphines",
+   "Astronomiae Pars Optica"
+  ],
+  "P101": [
+   "optique",
+   "astronomie",
+   "mathématiques",
+   "mécanique"
+  ]
+ },
+ "scientifiques-celebres_francis-bacon-philosophe": {
+  "qid": "Q37388",
+  "P569": [
+   "1561",
+   "1561"
+  ],
+  "P570": [
+   "1626",
+   "1626"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P135": [
+   "empirisme"
+  ],
+  "P800": [
+   "La Nouvelle Atlantide",
+   "raisonnement inductif"
+  ],
+  "P101": [
+   "philosophie",
+   "scientifique",
+   "philosophe",
+   "personnalité politique",
+   "épistémologie",
+   "empirisme",
+   "politique",
+   "science",
+   "histoire"
+  ]
+ },
+ "scientifiques-celebres_blaise-pascal": {
+  "qid": "Q1290",
+  "P569": [
+   "1623"
+  ],
+  "P570": [
+   "1662"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Pensées",
+   "Les Provinciales",
+   "traité des sinus du quart de cercle",
+   "Récit de la grande expérience de l'équilibre des liqueurs 1648",
+   "Écrits sur la grâce",
+   "Traité du triangle arithmétique",
+   "Expériences nouvelles touchant le vide",
+   "pyramide de Pascal",
+   "pari de Pascal",
+   "triangle of Pascal",
+   "principe de Pascal",
+   "règle de Pascal",
+   "théorème de Pascal",
+   "pascaline"
+  ],
+  "P101": [
+   "théorie des probabilités",
+   "mathématiques",
+   "littérature",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_isaac-newton": {
+  "qid": "Q935",
+  "P569": [
+   "1642",
+   "1643",
+   "1642"
+  ],
+  "P570": [
+   "1727",
+   "1727",
+   "1727"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Philosophiæ naturalis principia mathematica",
+   "Fluxion",
+   "Opticks"
+  ],
+  "P101": [
+   "physique",
+   "mécanique",
+   "mathématiques",
+   "astronomie",
+   "science de la nature",
+   "mécanique céleste",
+   "gravitation",
+   "optique",
+   "analyse",
+   "quantité de mouvement"
+  ]
+ },
+ "scientifiques-celebres_gottfried-wilhelm-leibniz": {
+  "qid": "Q9047",
+  "P569": [
+   "1646"
+  ],
+  "P570": [
+   "1716"
+  ],
+  "P27": [
+   "électorat de Saxe"
+  ],
+  "P135": [
+   "rationalisme"
+  ],
+  "P800": [
+   "Discours de métaphysique",
+   "Essais de Théodicée",
+   "calcul intégral",
+   "Cylindre cannelé de Leibniz",
+   "Système nouveau de la nature",
+   "Monadologie",
+   "notation de Leibniz",
+   "calculus ratiocinator",
+   "Nouveaux Essais sur l'entendement humain",
+   "Nova Methodus pro Maximis et Minimis"
+  ],
+  "P101": [
+   "analyse",
+   "apologétique chrétienne"
+  ]
+ },
+ "scientifiques-celebres_robert-hooke": {
+  "qid": "Q46830",
+  "P569": [
+   "1635",
+   "1635",
+   "1635"
+  ],
+  "P570": [
+   "1703",
+   "1703"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P800": [
+   "Micrographia",
+   "loi de Hooke",
+   "Church of St Mary Magdalene",
+   "Montagu House",
+   "Bethlem Royal Hospital at Moorfields"
+  ],
+  "P101": [
+   "mécanique",
+   "physique",
+   "chimie",
+   "biologie",
+   "architecture",
+   "astronomie",
+   "arpentage",
+   "mathématiques",
+   "science des matériaux"
+  ]
+ },
+ "scientifiques-celebres_antoni-van-leeuwenhoek": {
+  "qid": "Q43522",
+  "P569": [
+   "1632"
+  ],
+  "P570": [
+   "1723"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P101": [
+   "microscopie",
+   "microbiologie"
+  ]
+ },
+ "scientifiques-celebres_carl-von-linne": {
+  "qid": "Q1043",
+  "P569": [
+   "1707"
+  ],
+  "P570": [
+   "1778"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P800": [
+   "Systema naturae",
+   "Species plantarum",
+   "Genera plantarum",
+   "Fundamenta botanica",
+   "Critica botanica",
+   "Bibliotheca Botanica",
+   "Amoenitates Academicae",
+   "Hortus Cliffortianus",
+   "Musa Cliffortiana",
+   "Methodus",
+   "Praeludia Sponsaliorum Plantarum"
+  ],
+  "P101": [
+   "médecine",
+   "histoire naturelle",
+   "botanique",
+   "science de la nature"
+  ]
+ },
+ "scientifiques-celebres_benjamin-franklin": {
+  "qid": "Q34969",
+  "P569": [
+   "1706"
+  ],
+  "P570": [
+   "1790"
+  ],
+  "P27": [
+   "Amérique britannique",
+   "États-Unis"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_antoine-lavoisier": {
+  "qid": "Q39607",
+  "P569": [
+   "1743"
+  ],
+  "P570": [
+   "1794"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Traité élémentaire de chimie",
+   "Méthode de nomenclature chimique",
+   "conservation de la masse"
+  ],
+  "P101": [
+   "chimie"
+  ]
+ },
+ "scientifiques-celebres_alessandro-volta": {
+  "qid": "Q680",
+  "P569": [
+   "1745"
+  ],
+  "P570": [
+   "1827"
+  ],
+  "P27": [
+   "duché de Milan",
+   "République cisalpine",
+   "royaume de Lombardie-Vénétie"
+  ],
+  "P101": [
+   "physiologie"
+  ]
+ },
+ "scientifiques-celebres_andre-marie-ampere": {
+  "qid": "Q675",
+  "P569": [
+   "1775"
+  ],
+  "P570": [
+   "1836"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Théorème d'Ampère",
+   "force d'Ampère",
+   "équation de Monge–Ampère",
+   "Mémoire sur la théorie mathématique des phénomènes électrodynamiques uniquement déduite de l’experience",
+   "Essai sur la philosophie des sciences"
+  ],
+  "P101": [
+   "électromagnétisme"
+  ]
+ },
+ "scientifiques-celebres_michael-faraday": {
+  "qid": "Q8750",
+  "P569": [
+   "1791",
+   "1791"
+  ],
+  "P570": [
+   "1867",
+   "1867"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "physique",
+   "chimie",
+   "électromagnétisme",
+   "discoveries and inventions"
+  ]
+ },
+ "scientifiques-celebres_charles-darwin": {
+  "qid": "Q1035",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1882",
+   "1882"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection",
+   "De l'origine des espèces",
+   "Le Voyage du Beagle",
+   "La Filiation de l'homme et la sélection liée au sexe",
+   "L'Expression des émotions chez l'homme et les animaux",
+   "Insectivorous Plants",
+   "la puissance du mouvement des plantes",
+   "La Formation de la terre végétale par l'action des vers de terre"
+  ],
+  "P101": [
+   "biologie",
+   "histoire naturelle",
+   "zoologie"
+  ]
+ },
+ "scientifiques-celebres_gregor-mendel": {
+  "qid": "Q37970",
+  "P569": [
+   "1822"
+  ],
+  "P570": [
+   "1884"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "empire d'Autriche"
+  ],
+  "P101": [
+   "génétique"
+  ]
+ },
+ "scientifiques-celebres_louis-pasteur": {
+  "qid": "Q529",
+  "P569": [
+   "1822"
+  ],
+  "P570": [
+   "1895"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "vaccin antirabique",
+   "Institut Pasteur"
+  ],
+  "P101": [
+   "chimie",
+   "microbiologie"
+  ]
+ },
+ "scientifiques-celebres_claude-bernard": {
+  "qid": "Q208230",
+  "P569": [
+   "1813"
+  ],
+  "P570": [
+   "1878"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Milieu intérieur"
+  ],
+  "P101": [
+   "physiologie",
+   "médecine"
+  ]
+ },
+ "scientifiques-celebres_james-clerk-maxwell": {
+  "qid": "Q9095",
+  "P569": [
+   "1831"
+  ],
+  "P570": [
+   "1879"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "A Dynamical Theory of the Electromagnetic Field",
+   "équations de Maxwell",
+   "statistique de Maxwell-Boltzmann",
+   "Démon de Maxwell"
+  ],
+  "P101": [
+   "physique",
+   "mécanique",
+   "mathématiques",
+   "champ électromagnétique",
+   "électricité",
+   "magnétisme",
+   "photographie couleur",
+   "théorie cinétique des gaz"
+  ]
+ },
+ "scientifiques-celebres_dmitri-mendeleiev": {
+  "qid": "Q9106",
+  "P569": [
+   "1834",
+   "1834",
+   "1834"
+  ],
+  "P570": [
+   "1907",
+   "1907"
+  ],
+  "P27": [
+   "Empire russe"
+  ],
+  "P800": [
+   "tableau périodique des éléments"
+  ],
+  "P101": [
+   "chimie",
+   "physique",
+   "science économique",
+   "géologie",
+   "métrologie",
+   "élément chimique",
+   "tableau périodique des éléments"
+  ]
+ },
+ "scientifiques-celebres_wilhelm-rontgen": {
+  "qid": "Q35149",
+  "P569": [
+   "1845"
+  ],
+  "P570": [
+   "1923"
+  ],
+  "P27": [
+   "république de Weimar",
+   "Empire allemand",
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "rayon X"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_marie-curie": {
+  "qid": "Q7186",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P800": [
+   "Traité sur la radioactivité"
+  ],
+  "P101": [
+   "radioactivité",
+   "chimie",
+   "physique",
+   "radium",
+   "polonium"
+  ]
+ },
+ "scientifiques-celebres_pierre-curie": {
+  "qid": "Q37463",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1906"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "radioactivité",
+   "piézoélectricité"
+  ],
+  "P101": [
+   "physique",
+   "chimie",
+   "cristallographie",
+   "magnétisme",
+   "piézoélectricité",
+   "radioactivité"
+  ]
+ },
+ "scientifiques-celebres_max-planck": {
+  "qid": "Q9021",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1947"
+  ],
+  "P27": [
+   "Reich allemand"
+  ],
+  "P800": [
+   "loi de Planck",
+   "constante de Planck"
+  ],
+  "P101": [
+   "physique théorique",
+   "physique",
+   "thermodynamique",
+   "philosophie",
+   "théorie quantique"
+  ]
+ },
+ "scientifiques-celebres_albert-einstein": {
+  "qid": "Q937",
+  "P569": [
+   "1879"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "royaume du Wurtemberg",
+   "apatride",
+   "Suisse",
+   "Cisleithanie",
+   "république de Weimar",
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P800": [
+   "relativité restreinte",
+   "relativité générale",
+   "effet photoélectrique",
+   "théorie de la relativité",
+   "théorie du mouvement brownien",
+   "équivalence masse-énergie",
+   "constante de Planck",
+   "équation d'Einstein",
+   "mécanique quantique",
+   "Théorie du champ unifié",
+   "émission stimulée"
+  ],
+  "P101": [
+   "physique théorique"
+  ]
+ },
+ "scientifiques-celebres_niels-bohr": {
+  "qid": "Q7085",
+  "P569": [
+   "1885",
+   "1885"
+  ],
+  "P570": [
+   "1962",
+   "1962"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P800": [
+   "modèle de Bohr",
+   "principe de correspondance"
+  ],
+  "P101": [
+   "physique atomique",
+   "physique théorique"
+  ]
+ },
+ "scientifiques-celebres_ernest-rutherford": {
+  "qid": "Q9123",
+  "P569": [
+   "1871"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ],
+  "P101": [
+   "physique",
+   "physique nucléaire",
+   "chimie",
+   "radioactivité"
+  ]
+ },
+ "scientifiques-celebres_werner-heisenberg": {
+  "qid": "Q40904",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "Empire allemand",
+   "république de Weimar",
+   "Troisième Reich",
+   "Allemagne de l'Ouest"
+  ],
+  "P800": [
+   "principe d'incertitude",
+   "Kramers–Heisenberg formula",
+   "groupe de Heisenberg",
+   "isospin"
+  ],
+  "P101": [
+   "physique théorique",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_erwin-schrodinger": {
+  "qid": "Q9130",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Allemagne",
+   "Troisième Reich"
+  ],
+  "P800": [
+   "équation de Schrödinger",
+   "chat de Schrödinger"
+  ],
+  "P101": [
+   "physique théorique"
+  ]
+ },
+ "scientifiques-celebres_paul-dirac": {
+  "qid": "Q47480",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Suisse"
+  ],
+  "P800": [
+   "équation de Dirac",
+   "distribution de Dirac",
+   "statistique de Fermi-Dirac",
+   "particule de Dirac",
+   "peigne de Dirac",
+   "constante de Planck réduite",
+   "opérateur de Dirac",
+   "adjoint de Dirac",
+   "Abraham-Lorentz-Dirac force",
+   "mer de Dirac",
+   "mesure de Dirac",
+   "spineur de Dirac",
+   "hypothèse des grands nombres de Dirac",
+   "Complete Fermi–Dirac integral",
+   "Kapitsa–Dirac effect",
+   "crochet de Dirac"
+  ],
+  "P101": [
+   "physique théorique",
+   "mathématiques",
+   "mécanique quantique",
+   "électrodynamique quantique"
+  ]
+ },
+ "scientifiques-celebres_enrico-fermi": {
+  "qid": "Q8753",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1954"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Italie",
+   "États-Unis"
+  ],
+  "P800": [
+   "statistique de Fermi-Dirac",
+   "Règle d'or de Fermi",
+   "paradoxe de Fermi",
+   "Modèle Thomas–Fermi",
+   "estimation de Fermi",
+   "théorie de Fermi de la désintégration β",
+   "Fermi contact interaction",
+   "expérience de Fermi-Pasta-Ulam"
+  ],
+  "P101": [
+   "physique nucléaire",
+   "mécanique quantique",
+   "mécanique statistique",
+   "physique",
+   "réaction nucléaire",
+   "théorie quantique",
+   "physique des particules",
+   "physique théorique",
+   "physique expérimentale"
+  ]
+ },
+ "scientifiques-celebres_robert-oppenheimer": {
+  "qid": "Q132537",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "bombe A"
+  ],
+  "P101": [
+   "physique appliquée",
+   "physique théorique",
+   "physique nucléaire"
+  ]
+ },
+ "scientifiques-celebres_richard-feynman": {
+  "qid": "Q39246",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "1988"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Vous voulez rire, monsieur Feynman !",
+   "Cours de physique de Feynman",
+   "diagramme de Feynman",
+   "formule de Feynman-Kac",
+   "théorème de Hellmann-Feynman",
+   "Cargo Cult Science",
+   "La nature des lois physiques",
+   "Bethe–Feynman formula",
+   "Feynman checkerboard",
+   "Feynman parametrization",
+   "Point de Feynman",
+   "Feynman slash notation",
+   "tourniquet de Feynman",
+   "Feynman-Stueckelberg interpretation",
+   "Théorie de l'absorbeur de Wheeler et Feynman"
+  ],
+  "P101": [
+   "électrodynamique quantique",
+   "physique des particules",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_stephen-hawking": {
+  "qid": "Q17714",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "athéisme"
+  ],
+  "P800": [
+   "Une brève histoire du temps",
+   "Trous noirs et bébés univers et autres essais",
+   "L'Univers dans une coquille de noix",
+   "Sur les épaules des géants",
+   "Et Dieu créa les nombres",
+   "The Dreams That Stuff Is Made of: The Most Astounding Papers of Quantum Physics and How They Shook the Scientific World",
+   "La brève histoire de ma vie"
+  ],
+  "P101": [
+   "relativité générale",
+   "gravité quantique",
+   "physique théorique",
+   "cosmologie",
+   "mathématiques appliquées",
+   "univers",
+   "trou noir"
+  ]
+ },
+ "scientifiques-celebres_alan-turing": {
+  "qid": "Q7251",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1954"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "On Computable Numbers, with an Application to the Entscheidungsproblem",
+   "Computing machinery and intelligence",
+   "Intelligent Machinery",
+   "problème de l'arrêt",
+   "machine de Turing",
+   "test de Turing",
+   "Turing-complet",
+   "thèse de Church",
+   "machine de Turing universelle",
+   "machine de Turing symétrique",
+   "machine de Turing non déterministe",
+   "Bombe électromécanique",
+   "machine de Turing probabiliste",
+   "degré de Turing",
+   "Q133854517"
+  ],
+  "P101": [
+   "cryptanalyse",
+   "informatique",
+   "mathématiques",
+   "logique",
+   "cryptographie"
+  ]
+ },
+ "scientifiques-celebres_john-von-neumann": {
+  "qid": "Q17455",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "Hongrie",
+   "États-Unis"
+  ],
+  "P800": [
+   "automate cellulaire de von Neumann",
+   "Voisinage de von Neumann",
+   "constructeur universel",
+   "architecture de von Neumann",
+   "algèbre de von Neumann",
+   "théorème d'utilité de von Neumann-Morgenstern",
+   "von Neumann regular ring",
+   "Théorie des ensembles de von Neumann–Bernays–Gödel",
+   "univers de von Neumann",
+   "conjecture de von Neumann",
+   "entropie de von Neumann",
+   "Stabilité de Von Neumann",
+   "algèbre de von Neumann abélienne",
+   "ordinal de von Neumann",
+   "Von Neumann equation",
+   "théorème du bicommutant de von Neumann",
+   "Weyl–von Neumann theorem",
+   "théorème du minimax de von Neumann",
+   "First draft of a report on the EDVAC"
+  ],
+  "P101": [
+   "analyse fonctionnelle",
+   "théorie des opérateurs",
+   "mathématiques",
+   "physique",
+   "théorie des jeux",
+   "automate cellulaire",
+   "théorie des ensembles",
+   "physique quantique",
+   "bombe A",
+   "sciences de l'information"
+  ]
+ },
+ "scientifiques-celebres_ada-lovelace": {
+  "qid": "Q7259",
+  "P569": [
+   "1815"
+  ],
+  "P570": [
+   "1852"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "mathématiques",
+   "technologie informatique"
+  ]
+ },
+ "scientifiques-celebres_sigmund-freud": {
+  "qid": "Q9215",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1939"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Cisleithanie",
+   "Autriche",
+   "Troisième Reich"
+  ],
+  "P800": [
+   "L'Interprétation des rêves",
+   "Malaise dans la civilisation",
+   "Totem et Tabou",
+   "Trois essais sur la théorie sexuelle",
+   "Le Moi et le Ça",
+   "seconde topique"
+  ],
+  "P101": [
+   "psychanalyse",
+   "neurologie"
+  ]
+ },
+ "scientifiques-celebres_carl-gustav-jung": {
+  "qid": "Q41532",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P800": [
+   "Métamorphoses de l'âme et ses symboles",
+   "Types psychologiques",
+   "Synchronicité et Paracelsica",
+   "Archetypes and the Collective Unconscious",
+   "Un mythe moderne. Des « signes du ciel »",
+   "Psychologie et Alchimie",
+   "Mysterium Coniunctionis",
+   "L'Homme et ses symboles",
+   "Ma vie. Souvenirs, rêves et pensées"
+  ],
+  "P101": [
+   "psychiatrie",
+   "psychologie",
+   "psychologie analytique",
+   "psychothérapie",
+   "mythologie comparée",
+   "anthropologie",
+   "alchimie",
+   "interprétation des rêves",
+   "art",
+   "religion comparée",
+   "philosophie"
+  ]
+ },
+ "scientifiques-celebres_ivan-pavlov": {
+  "qid": "Q42985",
+  "P569": [
+   "1849",
+   "1849",
+   "1849"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Empire russe",
+   "Russie soviétique"
+  ],
+  "P101": [
+   "éducation",
+   "physiologie"
+  ]
+ },
+ "scientifiques-celebres_jean-piaget": {
+  "qid": "Q123190",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P101": [
+   "psychologie",
+   "psychologie du développement",
+   "psychologie cognitive",
+   "biologie",
+   "logique",
+   "philosophie"
+  ]
+ },
+ "scientifiques-celebres_alexander-fleming": {
+  "qid": "Q37064",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1955",
+   "1955"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "bactériologie",
+   "immunologie"
+  ]
+ },
+ "scientifiques-celebres_robert-koch": {
+  "qid": "Q37193",
+  "P569": [
+   "1843"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "royaume de Hanovre",
+   "Empire allemand"
+  ],
+  "P800": [
+   "Postulats de Koch"
+  ],
+  "P101": [
+   "microbiologie"
+  ]
+ },
+ "scientifiques-celebres_edward-jenner": {
+  "qid": "Q40852",
+  "P569": [
+   "1749",
+   "1749"
+  ],
+  "P570": [
+   "1823"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "vaccin antivariolique",
+   "vaccination"
+  ],
+  "P101": [
+   "médecine"
+  ]
+ },
+ "scientifiques-celebres_florence-nightingale": {
+  "qid": "Q37103",
+  "P569": [
+   "1820"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "soins de santé"
+  ]
+ },
+ "scientifiques-celebres_rosalind-franklin": {
+  "qid": "Q7474",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1958"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "cristallographie par rayons X"
+  ]
+ },
+ "scientifiques-celebres_james-dewey-watson": {
+  "qid": "Q83333",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "La Double Hélice",
+   "Molecular Biology of the Gene"
+  ],
+  "P101": [
+   "biochimie",
+   "génétique",
+   "biologie moléculaire",
+   "génétique moléculaire",
+   "DNA structure",
+   "molecular biochemistry"
+  ]
+ },
+ "scientifiques-celebres_francis-crick": {
+  "qid": "Q123280",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Life Itself: Its Origin and Nature"
+  ],
+  "P101": [
+   "biologie moléculaire",
+   "acide désoxyribonucléique",
+   "physique",
+   "neurosciences",
+   "biophysique",
+   "génétique"
+  ]
+ },
+ "scientifiques-celebres_barbara-mcclintock": {
+  "qid": "Q199654",
+  "P569": [
+   "1902",
+   "1902"
+  ],
+  "P570": [
+   "1992",
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "génétique",
+   "cytogénétique"
+  ]
+ },
+ "scientifiques-celebres_jane-goodall": {
+  "qid": "Q184746",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "militantisme",
+   "éthologie",
+   "biologie",
+   "conservation de la nature",
+   "chimpanzé",
+   "primates",
+   "anthropologie",
+   "littérature de vulgarisation",
+   "primatologie"
+  ]
+ },
+ "scientifiques-celebres_rachel-carson": {
+  "qid": "Q100948",
+  "P569": [
+   "1907",
+   "1907"
+  ],
+  "P570": [
+   "1964",
+   "1964"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Printemps silencieux",
+   "Cette mer qui nous entoure",
+   "The Edge of the Sea"
+  ],
+  "P101": [
+   "biologie",
+   "biologie marine",
+   "conservation",
+   "essai"
+  ]
+ },
+ "scientifiques-celebres_carl-sagan": {
+  "qid": "Q410",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Demon-Haunted World",
+   "Pale Blue Dot",
+   "Cosmos",
+   "Contact",
+   "Cosmos",
+   "Broca's Brain: Reflections on the Romance of Science"
+  ],
+  "P101": [
+   "astrobiologie",
+   "planétologie",
+   "astrophysique",
+   "scepticisme scientifique",
+   "astronomie",
+   "vulgarisation"
+  ]
+ },
+ "scientifiques-celebres_edwin-hubble": {
+  "qid": "Q43027",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "loi de Hubble-Lemaître",
+   "Séquence de Hubble"
+  ],
+  "P101": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_stephen-jay-gould": {
+  "qid": "Q180619",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "équilibre ponctué"
+  ],
+  "P101": [
+   "paléontologie",
+   "histoire des sciences",
+   "évolution"
+  ]
+ },
+ "scientifiques-celebres_linus-pauling": {
+  "qid": "Q48983",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "athéisme"
+  ],
+  "P101": [
+   "chimie quantique",
+   "biochimie",
+   "chimie physique"
+  ]
+ },
+ "scientifiques-celebres_katherine-johnson": {
+  "qid": "Q11740",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "mécanique spatiale",
+   "ingénierie et technologie spatiale",
+   "mathématiques",
+   "mathématiques computationnelles",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_grace-hopper": {
+  "qid": "Q11641",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "FLOW-MATIC"
+  ],
+  "P101": [
+   "informatique"
+  ]
+ },
+ "scientifiques-celebres_leon-foucault": {
+  "qid": "Q187966",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1868"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "pendule de Foucault",
+   "test de Foucault",
+   "courants de Foucault",
+   "Foucault gyroscopes",
+   "Appareil de Fizeau",
+   "Foucault's measurements of the speed of light",
+   "prisme de Glan-Foucault"
+  ],
+  "P101": [
+   "physique",
+   "mécanique",
+   "optique"
+  ]
+ },
+ "scientifiques-celebres_antoine-becquerel": {
+  "qid": "Q318004",
+  "P569": [
+   "1788"
+  ],
+  "P570": [
+   "1878"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_irene-joliot-curie": {
+  "qid": "Q7504",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "chimie",
+   "radiobiologie"
+  ]
+ },
+ "scientifiques-celebres_lise-meitner": {
+  "qid": "Q56189",
+  "P569": [
+   "1878",
+   "1878",
+   "1878"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Autriche",
+   "Suède"
+  ],
+  "P800": [
+   "découverte",
+   "découverte de la fission nucléaire"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_emmy-noether": {
+  "qid": "Q7099",
+  "P569": [
+   "1882",
+   "1882"
+  ],
+  "P570": [
+   "1935",
+   "1935"
+  ],
+  "P27": [
+   "royaume de Bavière"
+  ],
+  "P800": [
+   "théorème de Noether"
+  ],
+  "P101": [
+   "algèbre",
+   "algèbre générale",
+   "physique théorique",
+   "théorie des corps",
+   "mathématiques",
+   "physique mathématique"
+  ]
+ },
+ "scientifiques-celebres_srinivasa-ramanujan": {
+  "qid": "Q83163",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1920"
+  ],
+  "P27": [
+   "Raj britannique"
+  ],
+  "P800": [
+   "constante de Landau-Ramanujan",
+   "Ramanujan theta function",
+   "identités de Rogers-Ramanujan",
+   "constante de Ramanujan-Soldner",
+   "taxicab number",
+   "somme de Ramanujan",
+   "équation de Ramanujan–Nagell",
+   "nombre premier de Ramanujan",
+   "conjecture de Ramanujan-Petersson",
+   "sommation de Ramanujan",
+   "théorème de Hardy-Ramanujan",
+   "graphe de Ramanujan",
+   "fraction continue de Rogers-Ramanujan",
+   "Ramanujan–Sato series",
+   "fonction tau",
+   "congruences de Ramanujan",
+   "Ramanujan's ternary quadratic form",
+   "Q20850758",
+   "master theorem de Ramanujan",
+   "Q26882561",
+   "Q3927331",
+   "constante de Ramanujan",
+   "Q65244311"
+  ],
+  "P101": [
+   "combinatoire",
+   "théorie des nombres",
+   "mathématicien ou mathématicienne"
+  ]
+ },
+ "scientifiques-celebres_alan-guth": {
+  "qid": "Q323316",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "inflation cosmique"
+  ],
+  "P101": [
+   "cosmologie physique",
+   "physique des particules"
+  ]
+ },
+ "scientifiques-celebres_peter-higgs": {
+  "qid": "Q192112",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "boson de Higgs"
+  ],
+  "P101": [
+   "physique théorique",
+   "physique moléculaire",
+   "boson de Higgs"
+  ]
+ },
+ "scientifiques-celebres_roger-penrose": {
+  "qid": "Q193803",
+  "P569": [
+   "1931"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "triangle de Penrose",
+   "pavage de Penrose",
+   "processus de Penrose",
+   "diagramme de Penrose-Carter",
+   "The Emperor's New Mind",
+   "Fashion, Faith, and Fantasy in the New Physics of the Universe",
+   "À la découverte des lois de l'univers : La prodigieuse histoire des mathématiques et de la physique",
+   "Les Cycles du temps : une nouvelle vision de l’Univers",
+   "La nature de l'espace et du temps",
+   "Les Ombres de l'esprit",
+   "Moore–Penrose inverse",
+   "théorie des twisteurs",
+   "Riemannian Penrose inequality",
+   "Interprétation de Penrose",
+   "Diósi–Penrose model",
+   "Newman–Penrose formalism",
+   "escalier de Penrose",
+   "théorèmes sur les singularités",
+   "transformée de Penrose",
+   "rotation de Terrell",
+   "Penrose–Lucas argument",
+   "paradoxe d'Andromède"
+  ],
+  "P101": [
+   "physique",
+   "physique mathématique",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_kip-thorne": {
+  "qid": "Q323320",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Trous noirs et distorsions du temps : l'héritage sulfureux d'Einstein",
+   "The Science of Interstellar"
+  ],
+  "P101": [
+   "physique",
+   "astronomie",
+   "astronomie gravitationnelle",
+   "relativité générale"
+  ]
+ },
+ "scientifiques-celebres_jocelyn-bell": {
+  "qid": "Q233974",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "pulsar",
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_vera-rubin": {
+  "qid": "Q234888",
+  "P569": [
+   "1928",
+   "1928"
+  ],
+  "P570": [
+   "2016",
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "astronomie",
+   "astrophysique",
+   "cosmologie",
+   "matière noire"
+  ]
+ },
+ "scientifiques-celebres_katalin-kariko": {
+  "qid": "Q88608397",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "Hongrie",
+   "États-Unis"
+  ],
+  "P101": [
+   "acide ribonucléique messager",
+   "biochimie"
+  ]
+ },
+ "scientifiques-celebres_jennifer-doudna": {
+  "qid": "Q56068",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Jennifer Doudna: Nous pouvons désormais modifier notre ADN. Mais faisons-le sagement."
+  ],
+  "P101": [
+   "biochimie",
+   "biologie moléculaire",
+   "transcription",
+   "virus de l'hépatite C",
+   "Interférence par ARN",
+   "ribosome",
+   "cristallographie par rayons X"
+  ]
+ },
+ "scientifiques-celebres_emmanuelle-charpentier": {
+  "qid": "Q17280087",
+  "P569": [
+   "1968",
+   "1968"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "microbiologie",
+   "biochimie",
+   "génétique"
+  ]
+ },
+ "scientifiques-celebres_tu-youyou": {
+  "qid": "Q462843",
+  "P569": [
+   "1930"
+  ],
+  "P27": [
+   "république populaire de Chine",
+   "république de Chine"
+  ],
+  "P101": [
+   "pharmacologie",
+   "médecine traditionnelle chinoise"
+  ]
+ },
+ "scientifiques-celebres_chien-shiung-wu": {
+  "qid": "Q450317",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1997",
+   "1997"
+  ],
+  "P27": [
+   "république de Chine",
+   "États-Unis",
+   "Taïwan"
+  ],
+  "P800": [
+   "Non-Conservation of Parity"
+  ],
+  "P101": [
+   "physique",
+   "physicalisme",
+   "physique expérimentale",
+   "physique nucléaire",
+   "physique des particules",
+   "radioactivité",
+   "uranium",
+   "anémie"
+  ]
+ },
+ "scientifiques-celebres_subrahmanyan-chandrasekhar": {
+  "qid": "Q148109",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "États-Unis",
+   "Inde",
+   "Raj britannique"
+  ],
+  "P800": [
+   "masse de Chandrasekhar",
+   "nombre de Chandrasekhar",
+   "Limite de Schönberg-Chandrasekhar",
+   "Chandrasekhar–Wentzel lemma",
+   "Chandrasekhar's X- and Y-function",
+   "Batchelor–Chandrasekhar equation",
+   "fonction H de Chandrasekhar",
+   "Chandrasekhar–Fermi method",
+   "Chandrasekhar–Page equations",
+   "Chandrasekhar virial equations",
+   "Chandrasekhar polarization",
+   "Chandrasekhar-Kendall function",
+   "Chandrasekhar potential energy tensor",
+   "Équation de Emden–Chandrasekhar",
+   "Friction dynamique",
+   "Chandrasekhar's white dwarf equation"
+  ],
+  "P101": [
+   "astrophysique",
+   "physique",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_abdus-salam": {
+  "qid": "Q28189",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "Raj britannique",
+   "Pakistan"
+  ],
+  "P101": [
+   "théorie quantique des champs"
+  ]
+ },
+ "scientifiques-celebres_chandrashekhara-venkata-raman": {
+  "qid": "Q60429",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Inde",
+   "Raj britannique",
+   "Union indienne"
+  ],
+  "P800": [
+   "A New Type of Secondary Radiation",
+   "diffusion Raman"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_har-gobind-khorana": {
+  "qid": "Q107462",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Raj britannique",
+   "États-Unis",
+   "Union indienne",
+   "Inde"
+  ],
+  "P101": [
+   "biologie moléculaire"
+  ]
+ },
+ "scientifiques-celebres_al-biruni": {
+  "qid": "Q11826",
+  "P569": [
+   "973"
+  ],
+  "P570": [
+   "1048"
+  ],
+  "P27": [
+   "empire samanide"
+  ],
+  "P800": [
+   "Kitāb al-Āthār al-bāqiyah",
+   "Al-Tafhim",
+   "Al-Biruni's India",
+   "al-Qānūn al-Maʻsudī",
+   "Alṣydnh fī al-ṭibb",
+   "Tahdid nihayat al-amakin li-tashih masafat al-masakin",
+   "Kitab Al-Djamahir Fi Maârifati Al-Djawahir"
+  ],
+  "P101": [
+   "physique",
+   "mathématiques",
+   "astronomie",
+   "science de la nature",
+   "histoire",
+   "chronologie",
+   "ouvrier ou ouvrière",
+   "indologie",
+   "sciences de la Terre",
+   "géographie",
+   "philosophie",
+   "cartographie",
+   "anthropologie",
+   "astrologie",
+   "chimie",
+   "médecine",
+   "psychologie",
+   "théologie",
+   "pharmacologie",
+   "histoire des religions",
+   "minéralogie"
+  ]
+ },
+ "scientifiques-celebres_al-jazari": {
+  "qid": "Q81627",
+  "P569": [
+   "1164"
+  ],
+  "P570": [
+   "1206"
+  ],
+  "P27": [
+   "Artukides"
+  ],
+  "P800": [
+   "The Book of Knowledge of Ingenious Mechanical Devices"
+  ],
+  "P101": [
+   "ouléma",
+   "automate",
+   "génie mécanique"
+  ]
+ },
+ "scientifiques-celebres_zhang-heng": {
+  "qid": "Q197206",
+  "P569": [
+   "78"
+  ],
+  "P570": [
+   "139"
+  ],
+  "P27": [
+   "Han orientaux"
+  ],
+  "P101": [
+   "mathématiques",
+   "astronomie",
+   "sismologie"
+  ]
+ },
+ "scientifiques-celebres_shen-kuo": {
+  "qid": "Q270085",
+  "P569": [
+   "1031"
+  ],
+  "P570": [
+   "1095"
+  ],
+  "P27": [
+   "dynastie Song"
+  ],
+  "P800": [
+   "Mengxi Bitan"
+  ],
+  "P101": [
+   "mathématiques",
+   "astronomie",
+   "météorologie",
+   "géologie",
+   "zoologie",
+   "botanique",
+   "pharmacologie",
+   "agronomie",
+   "ethnographie",
+   "cartographie"
+  ]
+ },
+ "scientifiques-celebres_ada-yonath": {
+  "qid": "Q7426",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "Israël"
+  ],
+  "P101": [
+   "cristallographie",
+   "biologie",
+   "biologie moléculaire",
+   "biochimie",
+   "ribosome",
+   "biologie structurale"
+  ]
+ },
+ "scientifiques-celebres_dorothy-crowfoot-hodgkin": {
+  "qid": "Q7487",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "cristallographie par rayons X",
+   "biochimie",
+   "chimie",
+   "cristallographie"
+  ]
+ },
+ "scientifiques-celebres_rita-levi-montalcini": {
+  "qid": "Q185007",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "États-Unis",
+   "royaume d'Italie",
+   "Italie"
+  ],
+  "P101": [
+   "neurobiologie"
+  ]
+ },
+ "scientifiques-celebres_barbara-liskov": {
+  "qid": "Q16080922",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "calcul distribué"
+  ],
+  "P101": [
+   "informatique"
+  ]
+ },
+ "scientifiques-celebres_leonardo-fibonacci": {
+  "qid": "Q8763",
+  "P569": [
+   "1170",
+   "1175"
+  ],
+  "P570": [
+   "1240",
+   "1250"
+  ],
+  "P27": [
+   "République de Pise"
+  ],
+  "P800": [
+   "Liber abaci",
+   "suite de Fibonacci",
+   "nombre de Fibonacci",
+   "Livre des carrés",
+   "identité de Brahmagupta",
+   "Practica geometriae"
+  ],
+  "P101": [
+   "théorie des nombres",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_pierre-de-fermat": {
+  "qid": "Q75655",
+  "P569": [
+   "1607",
+   "1601"
+  ],
+  "P570": [
+   "1665"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "principe de Fermat",
+   "dernier théorème de Fermat",
+   "petit théorème de Fermat",
+   "point de Fermat",
+   "nombre de Fermat"
+  ],
+  "P101": [
+   "théorie des nombres",
+   "loi",
+   "mathématiques",
+   "théorie des probabilités",
+   "analyse",
+   "géométrie analytique",
+   "optique",
+   "nombre de Fermat",
+   "petit théorème de Fermat",
+   "dernier théorème de Fermat"
+  ]
+ },
+ "scientifiques-celebres_leonhard-euler": {
+  "qid": "Q7604",
+  "P569": [
+   "1707"
+  ],
+  "P570": [
+   "1783",
+   "1783",
+   "1783"
+  ],
+  "P27": [
+   "ancienne Confédération suisse",
+   "Empire russe",
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "théorème d'Euler",
+   "pôle eulérien",
+   "théorème d'Euler",
+   "conjecture d'Euler",
+   "théorème de Descartes-Euler",
+   "équation d'Euler-Lagrange",
+   "équation différentielle d'Euler",
+   "indicatrice d'Euler",
+   "identité d'Euler",
+   "identité des quatre carrés d'Euler",
+   "formule d'Euler",
+   "théorème d'Euler",
+   "fonction gamma",
+   "intégrale de Gauss",
+   "constante d'Euler-Mascheroni",
+   "nombre chanceux d'Euler",
+   "diagramme d'Euler",
+   "cercle d'Euler",
+   "droite d'Euler",
+   "chemin eulérien"
+  ],
+  "P101": [
+   "analyse",
+   "théorie des nombres",
+   "construction navale",
+   "calcul des variations",
+   "astronomie",
+   "mécanique",
+   "théorie des équations différentielles",
+   "balistique",
+   "optique",
+   "mathématiques",
+   "théorie de la musique",
+   "calcul différentiel",
+   "théorie des graphes",
+   "physique",
+   "logique"
+  ]
+ },
+ "scientifiques-celebres_carl-friedrich-gauss": {
+  "qid": "Q6722",
+  "P569": [
+   "1777"
+  ],
+  "P570": [
+   "1855"
+  ],
+  "P27": [
+   "Confédération du Rhin",
+   "royaume de Hanovre"
+  ],
+  "P800": [
+   "méthode de Gauss-Seidel",
+   "théorème de Gauss",
+   "Gauss's law for magnetism",
+   "Théorème de Gauss",
+   "loi normale",
+   "Disquisitiones arithmeticae",
+   "Disquisitiones generales circa superficies curvas",
+   "Atlas des Erdmagnetismus: nach den Elementen der Theorie entworfen"
+  ],
+  "P101": [
+   "théorie des nombres",
+   "algèbre",
+   "analyse",
+   "géométrie différentielle",
+   "électrostatique",
+   "optique",
+   "mathématiques",
+   "mécanique",
+   "astronomie",
+   "géodésie",
+   "physique",
+   "électromagnétisme"
+  ]
+ },
+ "scientifiques-celebres_pierre-simon-de-laplace": {
+  "qid": "Q44481",
+  "P569": [
+   "1749"
+  ],
+  "P570": [
+   "1827",
+   "1827"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "opérateur laplacien",
+   "transformée de Laplace",
+   "équation de Laplace",
+   "démon de Laplace",
+   "Laplace expansion",
+   "loi de Laplace",
+   "nombre de Laplace",
+   "plan de Laplace",
+   "méthode de Laplace",
+   "opérateur de Laplace-Beltrami",
+   "Laplace's approximation",
+   "Mécanique céleste",
+   "Exposition du système du monde",
+   "vecteur de Runge-Lenz"
+  ],
+  "P101": [
+   "mécanique céleste",
+   "théorie des probabilités",
+   "analyse",
+   "mathématiques",
+   "mécanique",
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_joseph-louis-lagrange": {
+  "qid": "Q80222",
+  "P569": [
+   "1736"
+  ],
+  "P570": [
+   "1813"
+  ],
+  "P27": [
+   "France",
+   "royaume de Sardaigne"
+  ],
+  "P800": [
+   "liste d’éléments portant le nom de Joseph-Louis Lagrange",
+   "Mécanique analytique"
+  ],
+  "P101": [
+   "analyse",
+   "théorie des nombres",
+   "mécanique analytique",
+   "mécanique céleste",
+   "calcul infinitésimal",
+   "mathématiques",
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_joseph-fourier": {
+  "qid": "Q8772",
+  "P569": [
+   "1768"
+  ],
+  "P570": [
+   "1830"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "série de Fourier",
+   "transformée de Fourier",
+   "équation de la chaleur",
+   "Théorie analytique de la chaleur",
+   "nombre de Fourier pour le transfert de chaleur"
+  ],
+  "P101": [
+   "analyse",
+   "mathématiques",
+   "physique",
+   "africanisme",
+   "histoire",
+   "archéologie",
+   "physique mathématique"
+  ]
+ },
+ "scientifiques-celebres_evariste-galois": {
+  "qid": "Q7091",
+  "P569": [
+   "1811"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "théorie de Galois"
+  ],
+  "P101": [
+   "théorie de Galois",
+   "théorie des groupes",
+   "théorie des équations",
+   "théorie des corps",
+   "mathématiques",
+   "algèbre générale",
+   "polynôme"
+  ]
+ },
+ "scientifiques-celebres_bernhard-riemann": {
+  "qid": "Q42299",
+  "P569": [
+   "1826"
+  ],
+  "P570": [
+   "1866"
+  ],
+  "P27": [
+   "royaume de Hanovre"
+  ],
+  "P800": [
+   "géométrie riemannienne",
+   "Sur le nombre de nombres premiers inférieurs à une taille donnée",
+   "Ueber die Hypothesen, welche der Geometrie zu Grunde liegen",
+   "hypothèse de Riemann",
+   "variété riemannienne",
+   "surface de Riemann",
+   "fonction zêta de Riemann",
+   "Somme de Riemann",
+   "intégrale de Riemann",
+   "list of things named after Bernhard Riemann"
+  ],
+  "P101": [
+   "géométrie différentielle",
+   "mathématiques",
+   "théorie des nombres",
+   "analyse",
+   "physique mathématique",
+   "hypothèse de Riemann",
+   "surface de Riemann",
+   "intégrale de Riemann",
+   "géométrie riemannienne"
+  ]
+ },
+ "scientifiques-celebres_georg-cantor": {
+  "qid": "Q76420",
+  "P569": [
+   "1845",
+   "1845"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "Reich allemand",
+   "Empire allemand"
+  ],
+  "P800": [
+   "list of things named after Georg Cantor"
+  ],
+  "P101": [
+   "théorie des ensembles",
+   "mathématiques",
+   "logique mathématique",
+   "nombre cardinal",
+   "nombre ordinal",
+   "philosophie des mathématiques",
+   "logique",
+   "theology and philosophy"
+  ]
+ },
+ "scientifiques-celebres_henri-poincare": {
+  "qid": "Q81082",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "conjecture de Poincaré",
+   "groupe de Poincaré",
+   "théorème de récurrence de Poincaré",
+   "disque de Poincaré",
+   "dualité de Poincaré",
+   "inégalité de Poincaré",
+   "application de Poincaré",
+   "théorème de Poincaré-Bendixson",
+   "théorème de Poincaré-Hopf",
+   "demi-plan de Poincaré",
+   "lemme de Poincaré",
+   "métrique de Poincaré",
+   "théorème de Poincaré-Birkhoff-Witt",
+   "théorème de Poincaré-Birkhoff",
+   "équation de Poincaré et Lelong",
+   "Poincaré–Lindstedt method",
+   "Poincaré plot",
+   "résidu de Poincaré",
+   "Poincaré series",
+   "Poincaré separation theorem",
+   "théorème de Poincaré–Miranda",
+   "espace de Poincaré",
+   "Poincaré–Steklov operator",
+   "Sphère de Poincaré",
+   "La Science et l'Hypothèse",
+   "Science et Méthode",
+   "La Valeur de la science"
+  ],
+  "P101": [
+   "géométrie algébrique",
+   "analyse",
+   "géométrie",
+   "topologie",
+   "mathématiques",
+   "mécanique",
+   "philosophie",
+   "physique mathématique",
+   "principe de relativité",
+   "topologie algébrique",
+   "fonction analytique",
+   "physique théorique",
+   "astronomie",
+   "mécanique céleste"
+  ]
+ },
+ "scientifiques-celebres_david-hilbert": {
+  "qid": "Q41585",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Empire allemand",
+   "république de Weimar",
+   "Troisième Reich"
+  ],
+  "P800": [
+   "Geometry and the Imagination",
+   "théorème de la base de Hilbert"
+  ],
+  "P101": [
+   "analyse",
+   "géométrie",
+   "théorie des nombres",
+   "mathématiques",
+   "espace de Hilbert",
+   "logique mathématique",
+   "physique mathématique"
+  ]
+ },
+ "scientifiques-celebres_kurt-godel": {
+  "qid": "Q41390",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "États-Unis",
+   "Autriche",
+   "Cisleithanie",
+   "Tchécoslovaquie"
+  ],
+  "P800": [
+   "théorèmes d'incomplétude de Gödel",
+   "théorème de complétude de Gödel",
+   "énumération de Gödel",
+   "Théorie des ensembles de von Neumann–Bernays–Gödel",
+   "univers de Gödel",
+   "univers constructible de Gödel",
+   "Preuve ontologique de Gödel",
+   "Gödel's β function",
+   "Gödel-incomplete machine",
+   "théorème d'accélération de Gödel",
+   "Gödel logic",
+   "second théorème d'incomplétude de Gödel",
+   "premier théorème d'incomplétude de Gödel",
+   "Gödel operation"
+  ],
+  "P101": [
+   "théorie des ensembles",
+   "logique mathématique",
+   "philosophie analytique",
+   "mathématiques",
+   "physique",
+   "théorie de la relativité",
+   "logique",
+   "logique des prédicats",
+   "philosophie",
+   "philosophie des mathématiques"
+  ]
+ },
+ "scientifiques-celebres_john-forbes-nash": {
+  "qid": "Q128736",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2015"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "équilibre de Nash",
+   "Nash blowing-up",
+   "théorème de plongement de Nash",
+   "théorème de Nash-Moser",
+   "Nash–Kuiper theorem",
+   "Nash-Williams theorem",
+   "Hilbert's nineteenth problem",
+   "Nash functions"
+  ],
+  "P101": [
+   "théorie des jeux",
+   "géométrie différentielle",
+   "mathématiques",
+   "science économique"
+  ]
+ },
+ "scientifiques-celebres_alexandre-grothendieck": {
+  "qid": "Q77141",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "France",
+   "apatride",
+   "Reich allemand",
+   "Allemagne"
+  ],
+  "P800": [
+   "Récoltes et Semailles",
+   "théorème de Grothendieck–Hirzebruch–Riemann–Roch",
+   "théorème de Birkhoff-Grothendieck",
+   "théorème d'Ax-Grothendieck",
+   "théorème de la trace de Grothendieck",
+   "Grothendieck existence theorem",
+   "Grothendieck's connectedness theorem",
+   "univers de Grothendieck",
+   "théorie de Grothendieck-Teichmüller",
+   "formule Grothendieck-Ogg-Chafarevitch",
+   "groupe de Grothendieck",
+   "topologie de Grothendieck",
+   "Tarski–Grothendieck set theory",
+   "Brieskorn–Grothendieck resolution",
+   "Grothendieck category",
+   "Grothendieck spectral sequence",
+   "Anneau de Grothendieck",
+   "Grothendieck trace formula",
+   "Grothendieck connection",
+   "fibered category",
+   "Inégalité de Grothendieck",
+   "Grothendieck local duality",
+   "Éléments de géométrie algébrique",
+   "Tutte–Grothendieck invariant"
+  ],
+  "P101": [
+   "géométrie algébrique",
+   "analyse fonctionnelle",
+   "théorie des catégories",
+   "algèbre homologique",
+   "topologie",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_grigori-perelman": {
+  "qid": "Q117346",
+  "P569": [
+   "1966"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P800": [
+   "conjecture de Poincaré",
+   "conjecture de géométrisation",
+   "théorème de l'âme",
+   "The entropy formula for the Ricci flow and its geometric applications",
+   "Ricci flow with surgery on three-manifolds",
+   "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds"
+  ],
+  "P101": [
+   "géométrie différentielle",
+   "topologie",
+   "mathématiques",
+   "géométrie riemannienne",
+   "topologie géométrique"
+  ]
+ },
+ "scientifiques-celebres_tycho-brahe": {
+  "qid": "Q36620",
+  "P569": [
+   "1546",
+   "1546"
+  ],
+  "P570": [
+   "1601",
+   "1601"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P800": [
+   "Tables rudolphines",
+   "Système tychonique",
+   "De Nova Stella",
+   "Astronomiae Instauratae Mechanica",
+   "De Mundi aetherei recentioribus Phaenomenis Liber secundus",
+   "Astronomiae Instauratae Progymnasmata"
+  ],
+  "P101": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_christian-huygens": {
+  "qid": "Q39599",
+  "P569": [
+   "1629"
+  ],
+  "P570": [
+   "1695",
+   "1695"
+  ],
+  "P27": [
+   "Provinces-Unies"
+  ],
+  "P800": [
+   "Horologium Oscillatorium",
+   "De Saturni Luna Observatio Nova",
+   "Systema Saturnium",
+   "Traité de la lumière",
+   "De Circuli Magnitudine Inventa",
+   "Cosmotheoros"
+  ],
+  "P101": [
+   "mathématiques",
+   "mécanique",
+   "physique",
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_edmond-halley": {
+  "qid": "Q47434",
+  "P569": [
+   "1656",
+   "1656"
+  ],
+  "P570": [
+   "1742",
+   "1742"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Astronomiae cometicae synopsis",
+   "Méthode de Halley"
+  ],
+  "P101": [
+   "géophysique",
+   "météorologie",
+   "démographie",
+   "mathématicien ou mathématicienne",
+   "météorologue",
+   "physicien ou physicienne",
+   "astronomie",
+   "astronome"
+  ]
+ },
+ "scientifiques-celebres_william-herschel": {
+  "qid": "Q14277",
+  "P569": [
+   "1738"
+  ],
+  "P570": [
+   "1822",
+   "1822",
+   "1822",
+   "1822"
+  ],
+  "P27": [
+   "royaume de Hanovre",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Account of a Comet. By Mr. Herschel, F. R. S.; Communicated by Dr. Watson, Jun. of Bath, F. R. S",
+   "découverte d'Uranus",
+   "Hélioscope de Herschel",
+   "infrarouge"
+  ],
+  "P101": [
+   "astronomie",
+   "optique"
+  ]
+ },
+ "scientifiques-celebres_caroline-herschel": {
+  "qid": "Q76948",
+  "P569": [
+   "1750"
+  ],
+  "P570": [
+   "1848"
+  ],
+  "P27": [
+   "royaume de Hanovre"
+  ],
+  "P101": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_georges-lemaitre": {
+  "qid": "Q12998",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P101": [
+   "astrophysique"
+  ],
+  "P577": [
+   "1927"
+  ]
+ },
+ "scientifiques-celebres_arthur-eddington": {
+  "qid": "Q215022",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "relativité générale",
+   "Limite d'Eddington",
+   "nombre d'Eddington",
+   "flèche du temps",
+   "Eddington experiment",
+   "Mécanisme Kappa",
+   "coordonnées d'Eddington-Finkelstein",
+   "zone radiative",
+   "Classical unified field theories",
+   "transfert radiatif"
+  ],
+  "P101": [
+   "astrophysique"
+  ]
+ },
+ "scientifiques-celebres_henrietta-swan-leavitt": {
+  "qid": "Q110181",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1921"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "chandelle standard"
+  ],
+  "P101": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_fred-hoyle": {
+  "qid": "Q183397",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Hoyle's fallacy",
+   "The Black Cloud",
+   "A for Andromeda",
+   "Diseases from Space",
+   "Fifth Planet",
+   "Ossian's Ride",
+   "October the First Is Too Late",
+   "B²FH"
+  ],
+  "P101": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_robert-boyle": {
+  "qid": "Q43393",
+  "P569": [
+   "1627",
+   "1626"
+  ],
+  "P570": [
+   "1691"
+  ],
+  "P800": [
+   "loi de Boyle-Mariotte",
+   "New Experiments Physico-Mechanicall, Touching the Spring of the Air and its Effects",
+   "The Sceptical Chymist"
+  ],
+  "P101": [
+   "physique",
+   "chimie",
+   "philosophie"
+  ]
+ },
+ "scientifiques-celebres_emilie-du-chatelet": {
+  "qid": "Q7286",
+  "P569": [
+   "1706"
+  ],
+  "P570": [
+   "1749"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "philosophie des Lumières"
+  ],
+  "P800": [
+   "Institutions de physique",
+   "Dissertation sur la nature et la propagation du feu",
+   "Réponse de Madame *** à la lettre que M. de Mairan, secrétaire perpétuel de l'Académie des Sciences, etc., lui a écrite le 18 février 1741 sur la question des forces vives"
+  ],
+  "P101": [
+   "physique",
+   "philosophie",
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_john-dalton": {
+  "qid": "Q41284",
+  "P569": [
+   "1766"
+  ],
+  "P570": [
+   "1844"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "théorie atomique",
+   "unité de masse atomique unifiée",
+   "daltonisme",
+   "loi des proportions multiples",
+   "Loi de Dalton",
+   "Un nouveau système de philosophie chimique"
+  ],
+  "P101": [
+   "chimie",
+   "physique",
+   "météorologie"
+  ]
+ },
+ "scientifiques-celebres_amedeo-avogadro": {
+  "qid": "Q43476",
+  "P569": [
+   "1776"
+  ],
+  "P570": [
+   "1856"
+  ],
+  "P101": [
+   "Polos"
+  ]
+ },
+ "scientifiques-celebres_james-prescott-joule": {
+  "qid": "Q8962",
+  "P569": [
+   "1818"
+  ],
+  "P570": [
+   "1889"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "thermodynamique"
+  ],
+  "P101": [
+   "chimiste",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_william-thomson-lord-kelvin": {
+  "qid": "Q122701",
+  "P569": [
+   "1825"
+  ],
+  "P570": [
+   "1907"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "ampere balance",
+   "Modèle de Kelvin-Voigt",
+   "Lunar",
+   "Automatic curb sender",
+   "Sonde de Kelvin",
+   "Kelvin–Varley divider"
+  ],
+  "P101": [
+   "physique",
+   "mécanique",
+   "thermodynamique"
+  ]
+ },
+ "scientifiques-celebres_ludwig-boltzmann": {
+  "qid": "Q84296",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1906",
+   "1906"
+  ],
+  "P27": [
+   "Autriche-Hongrie"
+  ],
+  "P800": [
+   "constante de Boltzmann",
+   "loi de Stefan-Boltzmann",
+   "constante de Stefan-Boltzmann",
+   "équation de Boltzmann",
+   "distribution de Boltzmann",
+   "formule de Boltzmann",
+   "list of things named after Ludwig Boltzmann"
+  ],
+  "P101": [
+   "physique théorique"
+  ]
+ },
+ "scientifiques-celebres_heinrich-hertz": {
+  "qid": "Q41257",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1894"
+  ],
+  "P27": [
+   "Hambourg"
+  ],
+  "P101": [
+   "physique",
+   "électrotechnique",
+   "acoustique",
+   "onde électromagnétique"
+  ]
+ },
+ "scientifiques-celebres_friedrich-kekule-von-stradonitz": {
+  "qid": "Q76784",
+  "P569": [
+   "1829",
+   "1829"
+  ],
+  "P570": [
+   "1896",
+   "1896"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P101": [
+   "chimie",
+   "chimie organique"
+  ]
+ },
+ "scientifiques-celebres_svante-august-arrhenius": {
+  "qid": "Q80956",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1927"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P101": [
+   "physique",
+   "chimie",
+   "changement climatique",
+   "effet de serre"
+  ]
+ },
+ "scientifiques-celebres_fritz-haber": {
+  "qid": "Q57075",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "république de Weimar",
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "Procédé Haber",
+   "arme chimique"
+  ],
+  "P101": [
+   "chimie physique",
+   "chimie"
+  ]
+ },
+ "scientifiques-celebres_louis-de-broglie": {
+  "qid": "Q83331",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "ondes de matière"
+  ],
+  "P101": [
+   "physique théorique"
+  ]
+ },
+ "scientifiques-celebres_wolfgang-pauli": {
+  "qid": "Q65989",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1958"
+  ],
+  "P27": [
+   "États-Unis",
+   "Suisse",
+   "Autriche"
+  ],
+  "P800": [
+   "principe d'exclusion de Pauli",
+   "matrices de Pauli",
+   "équation de Pauli",
+   "effet de Pauli",
+   "régularisation Pauli-Villars",
+   "groupe de Pauli",
+   "vecteur de Pauli-Lubański"
+  ],
+  "P101": [
+   "mécanique quantique",
+   "physique des particules"
+  ]
+ },
+ "scientifiques-celebres_max-born": {
+  "qid": "Q58978",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Reich allemand",
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "amplitude de probabilité",
+   "approximation de Born-Oppenheimer"
+  ],
+  "P101": [
+   "physique théorique",
+   "physique",
+   "mécanique quantique"
+  ]
+ },
+ "scientifiques-celebres_murray-gell-mann": {
+  "qid": "Q172840",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "physique des particules",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_andrei-sakharov": {
+  "qid": "Q997",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie soviétique"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_andre-vesale": {
+  "qid": "Q170267",
+  "P569": [
+   "1514",
+   "1514"
+  ],
+  "P570": [
+   "1564",
+   "1564"
+  ],
+  "P27": [
+   "Pays-Bas des Habsbourg"
+  ],
+  "P800": [
+   "De humani corporis fabrica"
+  ],
+  "P101": [
+   "anatomie",
+   "médecine",
+   "chirurgie"
+  ]
+ },
+ "scientifiques-celebres_ambroise-pare": {
+  "qid": "Q276480",
+  "P569": [
+   "1510"
+  ],
+  "P570": [
+   "1590"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Des monstres et prodiges",
+   "bec de Corbin"
+  ],
+  "P101": [
+   "médecine"
+  ]
+ },
+ "scientifiques-celebres_william-harvey": {
+  "qid": "Q93128",
+  "P569": [
+   "1578"
+  ],
+  "P570": [
+   "1657"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "médecine",
+   "physiologie",
+   "embryologie"
+  ]
+ },
+ "scientifiques-celebres_jean-baptiste-de-lamarck": {
+  "qid": "Q82122",
+  "P569": [
+   "1744"
+  ],
+  "P570": [
+   "1829"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "zoologie",
+   "botanique",
+   "géologie",
+   "météorologie",
+   "biologie",
+   "biologie de l'évolution",
+   "evolutionary theory",
+   "Q137342757"
+  ]
+ },
+ "scientifiques-celebres_georges-cuvier": {
+  "qid": "Q171969",
+  "P569": [
+   "1769",
+   "1769",
+   "1769"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Règne animal"
+  ],
+  "P101": [
+   "anatomie comparée",
+   "zoologie",
+   "paléontologie",
+   "science de la nature"
+  ]
+ },
+ "scientifiques-celebres_alfred-russel-wallace": {
+  "qid": "Q160627",
+  "P569": [
+   "1823"
+  ],
+  "P570": [
+   "1913"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Land Nationalisation Society"
+  ],
+  "P101": [
+   "biogéographie",
+   "évolution",
+   "naturalisme",
+   "biologie",
+   "géographie"
+  ]
+ },
+ "scientifiques-celebres_ignace-philippe-semmelweis": {
+  "qid": "Q59736",
+  "P569": [
+   "1818"
+  ],
+  "P570": [
+   "1865"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Hongrie"
+  ],
+  "P101": [
+   "maïeutique",
+   "gynécologie",
+   "chirurgie"
+  ]
+ },
+ "scientifiques-celebres_paul-ehrlich": {
+  "qid": "Q57089",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1915"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Empire allemand"
+  ],
+  "P101": [
+   "immunologie",
+   "bactériologie",
+   "chimie",
+   "chimiothérapie"
+  ]
+ },
+ "scientifiques-celebres_jonas-salk": {
+  "qid": "Q200101",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "virologie",
+   "épidémiologie"
+  ]
+ },
+ "scientifiques-celebres_frederick-banting": {
+  "qid": "Q180350",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P101": [
+   "physiologie",
+   "pharmacologie"
+  ]
+ },
+ "scientifiques-celebres_frederick-sanger": {
+  "qid": "Q151564",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "biochimie"
+  ]
+ },
+ "scientifiques-celebres_lynn-margulis": {
+  "qid": "Q234583",
+  "P569": [
+   "1938"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "On the origin of mitosing cells"
+  ],
+  "P101": [
+   "biologie cellulaire"
+  ]
+ },
+ "scientifiques-celebres_richard-dawkins": {
+  "qid": "Q44461",
+  "P569": [
+   "1941"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "athéisme",
+   "sécularisme",
+   "agnosticisme"
+  ],
+  "P800": [
+   "Le Gène égoïste",
+   "Le Plus Grand Spectacle du monde"
+  ],
+  "P101": [
+   "éthologie",
+   "biologie de l'évolution",
+   "zoologie",
+   "biologie",
+   "religiosité",
+   "Église",
+   "evolutionary theory"
+  ]
+ },
+ "scientifiques-celebres_edward-osborne-wilson": {
+  "qid": "Q211029",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Journey to the Ants",
+   "The Ants",
+   "Sociobiology: The New Synthesis"
+  ],
+  "P101": [
+   "myrmécologie",
+   "sociobiologie",
+   "sciences naturelles",
+   "zoologie",
+   "entomologie",
+   "biodiversité",
+   "écologie animale"
+  ]
+ },
+ "scientifiques-celebres_alfred-wegener": {
+  "qid": "Q76323",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1930"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "La Genèse des continents et des océans"
+  ],
+  "P101": [
+   "géologie"
+  ]
+ },
+ "scientifiques-celebres_james-hutton": {
+  "qid": "Q192927",
+  "P569": [
+   "1726"
+  ],
+  "P570": [
+   "1797"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "géologie",
+   "agriculture",
+   "météorologie"
+  ]
+ },
+ "scientifiques-celebres_charles-lyell-geologue": {
+  "qid": "Q5333",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Principes de géologie"
+  ],
+  "P101": [
+   "géologie",
+   "archéologie"
+  ]
+ },
+ "scientifiques-celebres_marie-tharp": {
+  "qid": "Q538786",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "océanographie",
+   "géologie"
+  ]
+ },
+ "scientifiques-celebres_claude-shannon": {
+  "qid": "Q92760",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Une théorie mathématique de la communication",
+   "A Symbolic Analysis of Relay and Switching Circuits",
+   "théorème d'échantillonnage",
+   "théorème du codage de source",
+   "deuxième théorème de Shannon",
+   "théorème de Shannon-Hartley",
+   "expansion de Shannon",
+   "Shannon's generalized De Morgan law",
+   "Shannon capacity",
+   "entropie de Shannon",
+   "indice de Shannon",
+   "multigraphe de Shannon",
+   "nombre de Shannon",
+   "Shannon switching game",
+   "Shannon–Fano–Elias coding",
+   "modèle de Shannon et Weaver",
+   "Whittaker–Shannon interpolation formula",
+   "Communication Theory of Secrecy Systems"
+  ],
+  "P101": [
+   "théorie des probabilités",
+   "électrotechnique",
+   "théorie de l'information",
+   "cybernétique",
+   "cryptographie"
+  ]
+ },
+ "scientifiques-celebres_norbert-wiener": {
+  "qid": "Q178577",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1964"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Espace de Wiener abstrait",
+   "espace de Wiener",
+   "théorème de Paley-Wiener",
+   "algèbre de Wiener",
+   "filtre de Wiener",
+   "God & Golem Inc",
+   "Wiener equation",
+   "The Human Use of Human Beings",
+   "Q134611212"
+  ],
+  "P101": [
+   "mathématiques",
+   "cybernétique",
+   "sciences de l'information",
+   "mathématiques appliquées",
+   "théorie des probabilités",
+   "processus stochastique",
+   "philosophie",
+   "sociologie de la technologie"
+  ]
+ },
+ "scientifiques-celebres_donald-knuth": {
+  "qid": "Q17457",
+  "P569": [
+   "1938"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "TeX",
+   "Q1457000",
+   "The Art of Computer Programming",
+   "Computer Modern",
+   "WEB",
+   "CWEB",
+   "programmation lettrée"
+  ],
+  "P101": [
+   "combinatoire",
+   "informatique",
+   "analyse de la complexité des algorithmes"
+  ]
+ },
+ "scientifiques-celebres_vint-cerf": {
+  "qid": "Q92743",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Transmission Control Protocol",
+   "suite des protocoles Internet"
+  ],
+  "P101": [
+   "informatique",
+   "réseaux informatiques"
+  ]
+ },
+ "scientifiques-celebres_adam-smith": {
+  "qid": "Q9381",
+  "P569": [
+   "1723",
+   "1723"
+  ],
+  "P570": [
+   "1790"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "Théorie des sentiments moraux",
+   "Recherches sur la nature et les causes de la richesse des nations"
+  ],
+  "P101": [
+   "science économique",
+   "éthique",
+   "philosophie politique",
+   "théorie économique",
+   "libéralisme économique",
+   "philosophie",
+   "siècle des Lumières"
+  ]
+ },
+ "scientifiques-celebres_john-maynard-keynes": {
+  "qid": "Q9317",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "Bloomsbury Group"
+  ],
+  "P800": [
+   "Théorie générale de l'emploi, de l'intérêt et de la monnaie",
+   "Indian Currency and Finance",
+   "Les Conséquences économiques de la paix",
+   "A Treatise on Probability",
+   "A Treatise on Money",
+   "Economic Possibilities for our Grandchildren"
+  ],
+  "P101": [
+   "macroéconomie"
+  ]
+ },
+ "scientifiques-celebres_david-ricardo": {
+  "qid": "Q160270",
+  "P569": [
+   "1772"
+  ],
+  "P570": [
+   "1823"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "An Essay on the Influence of a Low Price of Corn on the Profits of Stock",
+   "The High Price of Bullion, a Proof of the Depreciation of Bank Notes"
+  ],
+  "P101": [
+   "science économique",
+   "économie"
+  ]
+ },
+ "scientifiques-celebres_ferdinand-de-saussure": {
+  "qid": "Q13230",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1913"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P800": [
+   "sémiologie",
+   "linguistique structurale",
+   "École genevoise de linguistique",
+   "Cours de linguistique générale"
+  ],
+  "P101": [
+   "linguistique structurale"
+  ]
+ },
+ "scientifiques-celebres_noam-chomsky": {
+  "qid": "Q9049",
+  "P569": [
+   "1928"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "athéisme",
+   "nouvelle gauche",
+   "mouvement antiguerre",
+   "anarcho-syndicalisme"
+  ],
+  "P800": [
+   "Structures Syntaxiques",
+   "World Orders Old and New",
+   "Aspects de la théorie syntaxique",
+   "La Fabrication du consentement",
+   "The Chomsky Reader",
+   "Class Warfare",
+   "Necessary Illusions: Thought Control in Democratic Societies",
+   "Ilusionistas",
+   "Deterring Democracy",
+   "Making the Future",
+   "Conditions on Transformations",
+   "Middle East Illusions",
+   "Knowledge of Language",
+   "Cartesian Linguistics",
+   "The Sound Pattern of English",
+   "11-9 : Autopsie des terrorismes",
+   "Interventions",
+   "Imperial Ambitions",
+   "Occupy",
+   "Objectivity and Liberal Scholarship",
+   "The Prosperous Few and the Restless Many",
+   "Gaza in Crisis",
+   "Current Issues in Linguistic Theory",
+   "American Power and the New Mandarins",
+   "De la propagande",
+   "The Fateful Triangle",
+   "Comprendre le pouvoir",
+   "Dominer le monde ou sauver la planète ?",
+   "Lectures on Government and Binding",
+   "The Political Economy of Human Rights",
+   "Le profit avant l'homme",
+   "Failed States",
+   "Counter-Revolutionary Violence: Bloodbaths in Fact & Propaganda",
+   "Why Only Us: Language and Evolution",
+   "Quelle sorte de créatures sommes-nous?",
+   "Rogue States: The Rule of Force in World Affairs",
+   "hiérarchie de Chomsky",
+   "Requiem for the American Dream",
+   "How the World Works"
+  ],
+  "P101": [
+   "linguistique",
+   "philosophie du langage",
+   "psychologie",
+   "grammaire générative",
+   "théorie de la communication",
+   "sciences cognitives",
+   "philosophie de l'esprit",
+   "éthique",
+   "politique"
+  ]
+ },
+ "scientifiques-celebres_jean-francois-champollion": {
+  "qid": "Q260",
+  "P569": [
+   "1790",
+   "1790"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Précis du système hiéroglyphique des anciens Égyptiens",
+   "Bulletin universel des sciences et de l'industrie"
+  ],
+  "P101": [
+   "hiéroglyphes égyptiens",
+   "histoire",
+   "linguistique",
+   "égyptologie"
+  ]
+ },
+ "scientifiques-celebres_emile-durkheim": {
+  "qid": "Q15948",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1917"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les Formes élémentaires de la vie religieuse",
+   "De la division du travail social",
+   "Education and Sociology (book)"
+  ],
+  "P101": [
+   "sociologie des religions",
+   "ethnologie"
+  ]
+ },
+ "scientifiques-celebres_max-weber": {
+  "qid": "Q9387",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1920"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "Confédération de l'Allemagne du Nord",
+   "Empire allemand",
+   "république de Weimar",
+   "Allemagne"
+  ],
+  "P800": [
+   "The \"Objectivity\" of Knowledge in Social Science and Social Policy",
+   "L'Éthique protestante et l'esprit du capitalisme",
+   "The Economic Ethics of the World Religions",
+   "Confucianisme et Taoïsme",
+   "Hindouisme et Bouddhisme",
+   "Le Judaïsme antique",
+   "La science, profession & vocation",
+   "Le Savant et le Politique",
+   "General Economic History",
+   "Économie et Société"
+  ],
+  "P101": [
+   "sociologie des religions",
+   "histoire",
+   "science économique",
+   "sociologie",
+   "histoire",
+   "économie",
+   "sociologie des organisations"
+  ]
+ },
+ "scientifiques-celebres_pierre-bourdieu": {
+  "qid": "Q156268",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Distinction",
+   "Les Héritiers",
+   "La Reproduction"
+  ],
+  "P101": [
+   "sociologie",
+   "anthropologie",
+   "sociologie de la culture"
+  ]
+ },
+ "scientifiques-celebres_claude-levi-strauss": {
+  "qid": "Q128126",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "France",
+   "Belgique"
+  ],
+  "P101": [
+   "anthropologie culturelle",
+   "structuralisme",
+   "anthropologie",
+   "ethnologie"
+  ]
+ },
+ "scientifiques-celebres_franz-boas": {
+  "qid": "Q76857",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1942"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "États-Unis",
+   "Allemagne",
+   "Empire allemand"
+  ],
+  "P800": [
+   "The Mind of Primitive Man"
+  ],
+  "P101": [
+   "anthropologie",
+   "particular law",
+   "relativisme"
+  ]
+ },
+ "scientifiques-celebres_bronis-aw-malinowski": {
+  "qid": "Q184992",
+  "P569": [
+   "1884",
+   "1884"
+  ],
+  "P570": [
+   "1942",
+   "1942"
+  ],
+  "P27": [
+   "Autriche-Hongrie",
+   "Royaume-Uni",
+   "Deuxième République de Pologne"
+  ],
+  "P101": [
+   "anthropologie culturelle"
+  ]
+ },
+ "scientifiques-celebres_margaret-mead": {
+  "qid": "Q180099",
+  "P569": [
+   "1901",
+   "1901"
+  ],
+  "P570": [
+   "1978",
+   "1978"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Adolescence à Samoa"
+  ],
+  "P101": [
+   "anthropologie culturelle",
+   "völkerpsychologie",
+   "ethnopsychiatrie",
+   "ethnologie"
+  ]
+ },
+ "scientifiques-celebres_eratosthene": {
+  "qid": "Q43182",
+  "P569": [
+   "-276"
+  ],
+  "P570": [
+   "-194",
+   "-195",
+   "-196"
+  ],
+  "P800": [
+   "crible d'Ératosthène",
+   "Les catastérismes"
+  ],
+  "P101": [
+   "géométrie",
+   "théorie des nombres",
+   "géographie"
+  ]
+ },
+ "scientifiques-celebres_averroes": {
+  "qid": "Q39837",
+  "P569": [
+   "1126",
+   "1126",
+   "1126"
+  ],
+  "P570": [
+   "1198",
+   "1198",
+   "1198"
+  ],
+  "P135": [
+   "aristotélisme",
+   "Averroïsme"
+  ],
+  "P800": [
+   "Incohérence de l'Incohérence",
+   "Discours décisif",
+   "Bidayat al-Mujtahid",
+   "Colliget"
+  ],
+  "P101": [
+   "philosophie islamique",
+   "astronomie",
+   "Aqida",
+   "fiqh",
+   "médecine",
+   "linguistique",
+   "mathématiques",
+   "Kalâm",
+   "géographie"
+  ]
+ },
+ "scientifiques-celebres_aryabhata": {
+  "qid": "Q11359",
+  "P569": [
+   "476"
+  ],
+  "P570": [
+   "550"
+  ],
+  "P800": [
+   "Āryabhaṭīya",
+   "Arya Siddhanta",
+   "Āryabhaṭa numeration",
+   "Āryabhaṭa's sine table"
+  ],
+  "P101": [
+   "astronomie",
+   "mathématiques"
+  ],
+  "P136": [
+   "astronomie"
+  ]
+ },
+ "scientifiques-celebres_brahmagupta": {
+  "qid": "Q202943",
+  "P569": [
+   "598"
+  ],
+  "P570": [
+   "670",
+   "665"
+  ],
+  "P800": [
+   "théorème de Brahmagupta",
+   "matrice de Brahmagupta",
+   "formule de Brahmagupta",
+   "identité de Brahmagupta",
+   "Brahmagupta's interpolation formula",
+   "Brahmagupta polynomial",
+   "Brahmagupta's identity",
+   "Khandakhadyaka",
+   "Brahmasphutasiddhanta",
+   "Brahmagupta's problem"
+  ],
+  "P101": [
+   "mathématiques"
+  ]
+ },
+ "scientifiques-celebres_nasir-al-din-al-tusi": {
+  "qid": "Q302835",
+  "P569": [
+   "1201",
+   "1201",
+   "1201"
+  ],
+  "P570": [
+   "1274",
+   "1274",
+   "1274"
+  ],
+  "P27": [
+   "Empire khwarezmien",
+   "califat abbasside",
+   "État ismaélite nizârite",
+   "Ilkhanat"
+  ],
+  "P135": [
+   "Avicennisme"
+  ],
+  "P800": [
+   "Zij-i Ilkhani",
+   "Akhlaq-i Nasiri",
+   "Sharh al-isharat",
+   "Tajrīd al-Iʿtiqād",
+   "théorème de La Hire",
+   "Sayr wa Suluk"
+  ],
+  "P101": [
+   "astronomie",
+   "Kalâm",
+   "philosophie islamique",
+   "mathématiques",
+   "chimie",
+   "biologie",
+   "physique",
+   "médecine",
+   "éthique",
+   "philosophie",
+   "histoire",
+   "droit",
+   "théologie",
+   "géographie",
+   "musique",
+   "optique",
+   "minéralogie",
+   "occultisme",
+   "fiqh"
+  ]
+ },
+ "scientifiques-celebres_mary-anning": {
+  "qid": "Q230491",
+  "P569": [
+   "1799",
+   "1800"
+  ],
+  "P570": [
+   "1847"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "découverte",
+   "Gesamtverband der Deutschen Versicherungswirtschaft"
+  ],
+  "P101": [
+   "paléontologie"
+  ]
+ },
+ "scientifiques-celebres_georges-louis-leclerc-de-buffon": {
+  "qid": "Q229264",
+  "P569": [
+   "1707",
+   "1707"
+  ],
+  "P570": [
+   "1788"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Histoire naturelle",
+   "aiguille de Buffon"
+  ],
+  "P101": [
+   "biologie",
+   "géographie",
+   "géologie",
+   "arithmétique politique"
+  ]
+ },
+ "scientifiques-celebres_charles-augustin-coulomb": {
+  "qid": "Q81716",
+  "P569": [
+   "1736"
+  ],
+  "P570": [
+   "1806"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "friction de Coulomb",
+   "loi de Coulomb",
+   "Blocage de Coulomb",
+   "théorie de Mohr-Coulomb",
+   "constante de Coulomb",
+   "force de Coulomb",
+   "Coulomb damping"
+  ],
+  "P101": [
+   "électromagnétisme",
+   "mécanique des sols"
+  ]
+ },
+ "scientifiques-celebres_sadi-carnot-physicien": {
+  "qid": "Q181685",
+  "P569": [
+   "1796"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "сycle de Carnot",
+   "théorème de Carnot",
+   "Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance",
+   "Carnot heat engine",
+   "nombre de Carnot"
+  ],
+  "P101": [
+   "thermodynamique"
+  ]
+ },
+ "scientifiques-celebres_louis-joseph-gay-lussac": {
+  "qid": "Q153185",
+  "P569": [
+   "1778"
+  ],
+  "P570": [
+   "1850"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Loi de Charles",
+   "Loi de Gay-Lussac"
+  ],
+  "P101": [
+   "chimie",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_augustin-fresnel": {
+  "qid": "Q187241",
+  "P569": [
+   "1788"
+  ],
+  "P570": [
+   "1827"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "lentille de Fresnel",
+   "diffraction de Fresnel",
+   "ellipsoïde de Fresnel",
+   "équations de Fresnel",
+   "intégrale de Fresnel",
+   "nombre de Fresnel",
+   "Q8347427",
+   "Mémoire sur la diffraction de la lumière"
+  ],
+  "P101": [
+   "optique"
+  ]
+ },
+ "scientifiques-celebres_jean-perrin": {
+  "qid": "Q134085",
+  "P569": [
+   "1870"
+  ],
+  "P570": [
+   "1942"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les Atomes",
+   "Œuvres scientifiques de Jean Perrin"
+  ],
+  "P101": [
+   "physique",
+   "sciences physiques"
+  ]
+ },
+ "scientifiques-celebres_paul-langevin": {
+  "qid": "Q25320",
+  "P569": [
+   "1872"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Pensée et l'Action",
+   "La Physique depuis vingt ans"
+  ],
+  "P101": [
+   "physique",
+   "chimie",
+   "philosophie des sciences",
+   "physique théorique",
+   "physique expérimentale",
+   "pédagogie"
+  ]
+ },
+ "scientifiques-celebres_jacques-monod": {
+  "qid": "Q231402",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Hasard et la Nécessité",
+   "équation de Monod"
+  ],
+  "P101": [
+   "biologie",
+   "contraception"
+  ]
+ },
+ "scientifiques-celebres_theodore-monod": {
+  "qid": "Q956408",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "scientifiques-celebres_hubert-reeves": {
+  "qid": "Q1356355",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Canada",
+   "France"
+  ],
+  "P135": [
+   "écologisme",
+   "végétarisme",
+   "mouvement antinucléaire"
+  ],
+  "P800": [
+   "The production of the elements Li, Be, B by galactic cosmic rays in space and its relation with stellar observations",
+   "Patience dans l'azur",
+   "Poussières d'étoiles",
+   "L'Heure de s'enivrer",
+   "Je n'aurai pas le temps"
+  ],
+  "P101": [
+   "astrophysique",
+   "cosmologie",
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_claude-galien": {
+  "qid": "Q8778",
+  "P569": [
+   "129",
+   "200"
+  ],
+  "P570": [
+   "300"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "De atra bile"
+  ],
+  "P101": [
+   "médecine",
+   "anatomie",
+   "philosophie",
+   "logique"
+  ]
+ },
+ "scientifiques-celebres_hans-christian-rsted": {
+  "qid": "Q44412",
+  "P569": [
+   "1777"
+  ],
+  "P570": [
+   "1851"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P800": [
+   "électromagnétisme"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_georg-ohm": {
+  "qid": "Q1585",
+  "P569": [
+   "1789"
+  ],
+  "P570": [
+   "1854"
+  ],
+  "P27": [
+   "royaume de Bavière"
+  ],
+  "P800": [
+   "loi d'Ohm"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "scientifiques-celebres_henry-cavendish": {
+  "qid": "Q131733",
+  "P569": [
+   "1731"
+  ],
+  "P570": [
+   "1810"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "physique",
+   "chimie"
+  ]
+ },
+ "scientifiques-celebres_joseph-priestley": {
+  "qid": "Q159636",
+  "P569": [
+   "1733",
+   "1733"
+  ],
+  "P570": [
+   "1804"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "philosophie",
+   "chimie",
+   "cure",
+   "philosophie naturelle",
+   "éducation",
+   "théologie protestante",
+   "unitarisme",
+   "linguistique"
+  ]
+ },
+ "scientifiques-celebres_joseph-lister": {
+  "qid": "Q155768",
+  "P569": [
+   "1827"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "A Method of Antiseptic Treatment Applicable to Wounded Soldiers in the Present War"
+  ]
+ },
+ "scientifiques-celebres_santiago-ramon-y-cajal": {
+  "qid": "Q150526",
+  "P569": [
+   "1852"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P101": [
+   "histologie",
+   "photographie interférentielle"
+  ]
+ },
+ "scientifiques-celebres_thomas-hunt-morgan": {
+  "qid": "Q177681",
+  "P569": [
+   "1866"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "génétique"
+  ]
+ },
+ "scientifiques-celebres_ernst-haeckel": {
+  "qid": "Q48246",
+  "P569": [
+   "1834",
+   "1834"
+  ],
+  "P570": [
+   "1919",
+   "1919"
+  ],
+  "P27": [
+   "Empire allemand",
+   "république de Weimar",
+   "royaume de Prusse"
+  ],
+  "P101": [
+   "ancêtre commun"
+  ]
+ },
+ "scientifiques-celebres_dian-fossey": {
+  "qid": "Q234224",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "1985",
+   "1985"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "éthologie"
+  ]
+ }
+}

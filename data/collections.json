@@ -644,8 +644,8 @@
   },
   {
    "slug": "festivals-et-recompenses-cinema",
-   "nom": "Festivals et récompenses de cinéma",
-   "nbCartes": 25,
+   "nom": "Festivals et cérémonies de cinéma",
+   "nbCartes": 24,
    "fichier": "data/festivals-et-recompenses-cinema.json"
   },
   {

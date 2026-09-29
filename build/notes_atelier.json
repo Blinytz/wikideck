@@ -52137,10 +52137,9 @@
   "langues-du-monde_lineaire-b": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8124,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790713875659,
+   "original": true
   },
   "langues-du-monde_ecriture-maya": {
    "cx": 0.5,

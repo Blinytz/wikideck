@@ -1,0 +1,81 @@
+{
+ "mythologie-finnoise_vainamoinen": {
+  "qid": "Q616178"
+ },
+ "mythologie-finnoise_ilmarinen": {
+  "qid": "Q781257"
+ },
+ "mythologie-finnoise_lemminkainen": {
+  "qid": "Q389512"
+ },
+ "mythologie-finnoise_louhi": {
+  "qid": "Q1073318"
+ },
+ "mythologie-finnoise_ukko-ylijumala": {
+  "qid": "Q844965"
+ },
+ "mythologie-finnoise_kullervo": {
+  "qid": "Q1541235"
+ },
+ "mythologie-finnoise_tapio": {
+  "qid": "Q922493"
+ },
+ "mythologie-finnoise_mielikki": {
+  "qid": "Q1088891"
+ },
+ "mythologie-finnoise_tuonela": {
+  "qid": "Q304291"
+ },
+ "mythologie-finnoise_ahti-mythologie": {
+  "qid": "Q402963"
+ },
+ "mythologie-finnoise_joukahainen": {
+  "qid": "Q1456741"
+ },
+ "mythologie-finnoise_pohjola": {
+  "qid": "Q203041"
+ },
+ "mythologie-finnoise_ilmatar": {
+  "qid": "Q1543077"
+ },
+ "mythologie-finnoise_hiisi": {
+  "qid": "Q1618029"
+ },
+ "mythologie-finnoise_kalevala": {
+  "qid": "Q130924",
+  "P571": [
+   "1828"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P50": [
+   "Elias Lönnrot"
+  ],
+  "P577": [
+   "1835"
+  ],
+  "P136": [
+   "épopée"
+  ]
+ },
+ "mythologie-finnoise_tuoni": {
+  "qid": "Q764953"
+ },
+ "mythologie-finnoise_surma-mythologie": {
+  "qid": "Q966607"
+ },
+ "mythologie-finnoise_kantele": {
+  "qid": "Q145840",
+  "P276": [
+   "Carélie",
+   "Finlande"
+  ],
+  "P495": [
+   "Finlande"
+  ],
+  "P17": [
+   "Finlande"
+  ]
+ }
+}

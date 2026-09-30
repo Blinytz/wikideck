@@ -1,0 +1,132 @@
+{
+ "mythologies-oceanie-ameriques_coyote-mythologie": {
+  "qid": "Q3001901"
+ },
+ "mythologies-oceanie-ameriques_wendigo": {
+  "qid": "Q370801",
+  "P276": [
+   "Amérique du Nord"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "mythologies-oceanie-ameriques_maui-mythologie": {
+  "qid": "Q1791456"
+ },
+ "mythologies-oceanie-ameriques_pelee": {
+  "qid": "Q178641"
+ },
+ "mythologies-oceanie-ameriques_tane": {
+  "qid": "Q1790773"
+ },
+ "mythologies-oceanie-ameriques_tangaroa-mythologie": {
+  "qid": "Q1241320"
+ },
+ "mythologies-oceanie-ameriques_rangi-et-papa": {
+  "qid": "Q2130974",
+  "P527": [
+   "Rangi",
+   "Papa"
+  ]
+ },
+ "mythologies-oceanie-ameriques_hina-divinite": {
+  "qid": "Q2075292"
+ },
+ "mythologies-oceanie-ameriques_kane": {
+  "qid": "Q4212374",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-oceanie-ameriques_kanaloa-divinite": {
+  "qid": "Q6360529"
+ },
+ "mythologies-oceanie-ameriques_lono": {
+  "qid": "Q650821"
+ },
+ "mythologies-oceanie-ameriques_ku": {
+  "qid": "Q2560490"
+ },
+ "mythologies-oceanie-ameriques_tawhirimatea": {
+  "qid": "Q2006270"
+ },
+ "mythologies-oceanie-ameriques_hine-nui-te-po": {
+  "qid": "Q769343"
+ },
+ "mythologies-oceanie-ameriques_serpent-arc-en-ciel": {
+  "qid": "Q1476490"
+ },
+ "mythologies-oceanie-ameriques_wakan-tanka": {
+  "qid": "Q2745666"
+ },
+ "mythologies-oceanie-ameriques_oiseau-tonnerre": {
+  "qid": "Q264471"
+ },
+ "mythologies-oceanie-ameriques_kokopelli": {
+  "qid": "Q1364569"
+ },
+ "mythologies-oceanie-ameriques_sedna-roi-d-irlande": {
+  "qid": "Q11777225"
+ },
+ "mythologies-oceanie-ameriques_nanabozo": {
+  "qid": "Q833857",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-oceanie-ameriques_glouscap": {
+  "qid": "Q3109263"
+ },
+ "mythologies-oceanie-ameriques_femme-bison-blanc": {
+  "qid": "Q268174"
+ },
+ "mythologies-oceanie-ameriques_iktomi": {
+  "qid": "Q767795"
+ },
+ "mythologies-oceanie-ameriques_amaru": {
+  "qid": "Q4063971"
+ },
+ "mythologies-oceanie-ameriques_tiki": {
+  "qid": "Q13389032"
+ },
+ "mythologies-oceanie-ameriques_rongo": {
+  "qid": "Q1423283"
+ },
+ "mythologies-oceanie-ameriques_tumatauenga": {
+  "qid": "Q1507592"
+ },
+ "mythologies-oceanie-ameriques_baiame": {
+  "qid": "Q803703"
+ },
+ "mythologies-oceanie-ameriques_yowie": {
+  "qid": "Q964575",
+  "P17": [
+   "Australie"
+  ]
+ },
+ "mythologies-oceanie-ameriques_iktomi-b": {
+  "qid": "Q767795"
+ },
+ "mythologies-oceanie-ameriques_gitche-manitou": {
+  "qid": "Q2743061"
+ },
+ "mythologies-oceanie-ameriques_skin-walker": {
+  "qid": "Q6632346"
+ },
+ "mythologies-oceanie-ameriques_tupa": {
+  "qid": "Q961143",
+  "P131": [
+   "São Paulo"
+  ],
+  "P17": [
+   "Brésil"
+  ]
+ },
+ "mythologies-oceanie-ameriques_curupira": {
+  "qid": "Q38419",
+  "P17": [
+   "Brésil"
+  ]
+ }
+}

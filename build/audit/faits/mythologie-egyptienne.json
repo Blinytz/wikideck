@@ -1,0 +1,140 @@
+{
+ "mythologie-egyptienne_re": {
+  "qid": "Q1252904"
+ },
+ "mythologie-egyptienne_osiris": {
+  "qid": "Q46491"
+ },
+ "mythologie-egyptienne_isis": {
+  "qid": "Q79876"
+ },
+ "mythologie-egyptienne_horus": {
+  "qid": "Q84122"
+ },
+ "mythologie-egyptienne_anubis": {
+  "qid": "Q47534"
+ },
+ "mythologie-egyptienne_seth": {
+  "qid": "Q131795"
+ },
+ "mythologie-egyptienne_thot": {
+  "qid": "Q146921",
+  "P101": [
+   "mythologie égyptienne"
+  ]
+ },
+ "mythologie-egyptienne_hathor": {
+  "qid": "Q133343"
+ },
+ "mythologie-egyptienne_sekhmet": {
+  "qid": "Q146104"
+ },
+ "mythologie-egyptienne_bastet": {
+  "qid": "Q129106"
+ },
+ "mythologie-egyptienne_ptah": {
+  "qid": "Q146321",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologie-egyptienne_amon": {
+  "qid": "Q58373"
+ },
+ "mythologie-egyptienne_nout": {
+  "qid": "Q165496"
+ },
+ "mythologie-egyptienne_geb": {
+  "qid": "Q168444"
+ },
+ "mythologie-egyptienne_shou": {
+  "qid": "Q170138"
+ },
+ "mythologie-egyptienne_tefnout": {
+  "qid": "Q116273"
+ },
+ "mythologie-egyptienne_nephtys": {
+  "qid": "Q169040"
+ },
+ "mythologie-egyptienne_maat": {
+  "qid": "Q170471"
+ },
+ "mythologie-egyptienne_sobek": {
+  "qid": "Q146313"
+ },
+ "mythologie-egyptienne_khnoum": {
+  "qid": "Q183097"
+ },
+ "mythologie-egyptienne_khonsou": {
+  "qid": "Q190521"
+ },
+ "mythologie-egyptienne_apophis": {
+  "qid": "Q190511",
+  "P495": [
+   "Égypte antique"
+  ]
+ },
+ "mythologie-egyptienne_ammout": {
+  "qid": "Q131483"
+ },
+ "mythologie-egyptienne_bes": {
+  "qid": "Q188931"
+ },
+ "mythologie-egyptienne_nekhbet": {
+  "qid": "Q145915"
+ },
+ "mythologie-egyptienne_ouadjet": {
+  "qid": "Q146007"
+ },
+ "mythologie-egyptienne_serket": {
+  "qid": "Q207636"
+ },
+ "mythologie-egyptienne_anoukis": {
+  "qid": "Q211611"
+ },
+ "mythologie-egyptienne_benou": {
+  "qid": "Q818378"
+ },
+ "mythologie-egyptienne_atoum": {
+  "qid": "Q170569"
+ },
+ "mythologie-egyptienne_aton": {
+  "qid": "Q130227",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologie-egyptienne_mout": {
+  "qid": "Q29409"
+ },
+ "mythologie-egyptienne_neith": {
+  "qid": "Q191815"
+ },
+ "mythologie-egyptienne_taouret": {
+  "qid": "Q207435"
+ },
+ "mythologie-egyptienne_min-dieu": {
+  "qid": "Q192322"
+ },
+ "mythologie-egyptienne_montou": {
+  "qid": "Q626032"
+ },
+ "mythologie-egyptienne_hapy": {
+  "qid": "Q32143"
+ },
+ "mythologie-egyptienne_heqet": {
+  "qid": "Q604633"
+ },
+ "mythologie-egyptienne_nefertoum": {
+  "qid": "Q464227"
+ },
+ "mythologie-egyptienne_oupouaout": {
+  "qid": "Q372560"
+ },
+ "mythologie-egyptienne_apis": {
+  "qid": "Q208150",
+  "P495": [
+   "Égypte antique"
+  ]
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "mythologie-celtique_dagda": {
+  "qid": "Q436436"
+ },
+ "mythologie-celtique_morrigan": {
+  "qid": "Q828550"
+ },
+ "mythologie-celtique_lug-dieu": {
+  "qid": "Q1821380"
+ },
+ "mythologie-celtique_brigit": {
+  "qid": "Q255459"
+ },
+ "mythologie-celtique_cernunnos": {
+  "qid": "Q739737"
+ },
+ "mythologie-celtique_banshee": {
+  "qid": "Q273112"
+ },
+ "mythologie-celtique_leprechaun": {
+  "qid": "Q244392"
+ },
+ "mythologie-celtique_selkie": {
+  "qid": "Q1549047"
+ },
+ "mythologie-celtique_kelpie": {
+  "qid": "Q1125907",
+  "P571": [
+   "1800",
+   "1700"
+  ]
+ },
+ "mythologie-celtique_nuada": {
+  "qid": "Q1075322"
+ },
+ "mythologie-celtique_ogmios": {
+  "qid": "Q1399542"
+ },
+ "mythologie-celtique_danu-hindouisme": {
+  "qid": "Q1165101"
+ },
+ "mythologie-celtique_boann": {
+  "qid": "Q781173"
+ },
+ "mythologie-celtique_manannan-mac-lir": {
+  "qid": "Q1888724"
+ },
+ "mythologie-celtique_oengus": {
+  "qid": "Q544389"
+ },
+ "mythologie-celtique_cuchulainn": {
+  "qid": "Q211955"
+ },
+ "mythologie-celtique_fionn-mac-cumhaill": {
+  "qid": "Q382610"
+ },
+ "mythologie-celtique_medb": {
+  "qid": "Q1141828"
+ },
+ "mythologie-celtique_balor": {
+  "qid": "Q805514"
+ },
+ "mythologie-celtique_epona": {
+  "qid": "Q835976"
+ },
+ "mythologie-celtique_taranis-mythologie": {
+  "qid": "Q250060"
+ },
+ "mythologie-celtique_teutates": {
+  "qid": "Q939549"
+ },
+ "mythologie-celtique_belenos": {
+  "qid": "Q463956"
+ },
+ "mythologie-celtique_arawn": {
+  "qid": "Q626770"
+ },
+ "mythologie-celtique_rhiannon": {
+  "qid": "Q1543810"
+ },
+ "mythologie-celtique_roi-arthur": {
+  "qid": "Q45792",
+  "P569": [
+   "500"
+  ],
+  "P570": [
+   "600"
+  ]
+ },
+ "mythologie-celtique_merlin": {
+  "qid": "Q188044"
+ },
+ "mythologie-celtique_fee-morgane": {
+  "qid": "Q321305"
+ },
+ "mythologie-celtique_fee-viviane": {
+  "qid": "Q854036"
+ },
+ "mythologie-celtique_lancelot-du-lac": {
+  "qid": "Q215681"
+ },
+ "mythologie-celtique_guenievre": {
+  "qid": "Q272054"
+ },
+ "mythologie-celtique_perceval": {
+  "qid": "Q728510"
+ },
+ "mythologie-celtique_tristan-et-iseut": {
+  "qid": "Q335367"
+ },
+ "mythologie-celtique_gauvain": {
+  "qid": "Q831685"
+ },
+ "mythologie-celtique_mordred": {
+  "qid": "Q81109"
+ },
+ "mythologie-celtique_ossian": {
+  "qid": "Q15837802",
+  "P170": [
+   "James Macpherson"
+  ]
+ },
+ "mythologie-celtique_deirdre": {
+  "qid": "Q1183379"
+ },
+ "mythologie-celtique_macha-mythologie-celtique": {
+  "qid": "Q1072038"
+ },
+ "mythologie-celtique_bodb": {
+  "qid": "Q798840"
+ },
+ "mythologie-celtique_goibniu": {
+  "qid": "Q1534409"
+ },
+ "mythologie-celtique_diancecht": {
+  "qid": "Q1194924"
+ },
+ "mythologie-celtique_oidheadh-chloinne-lir": {
+  "qid": "Q977133"
+ },
+ "mythologie-celtique_tuatha-de-danann": {
+  "qid": "Q654205"
+ },
+ "mythologie-celtique_fomoires": {
+  "qid": "Q1160687"
+ },
+ "mythologie-celtique_bran-le-beni": {
+  "qid": "Q598810",
+  "P569": [
+   "17"
+  ],
+  "P570": [
+   "69"
+  ]
+ },
+ "mythologie-celtique_taliesin": {
+  "qid": "Q357835",
+  "P569": [
+   "534",
+   "518"
+  ],
+  "P570": [
+   "599"
+  ],
+  "P27": [
+   "Grande-Bretagne post-romaine"
+  ]
+ },
+ "mythologie-celtique_ceridwen": {
+  "qid": "Q569886"
+ },
+ "mythologie-celtique_blodeuwedd": {
+  "qid": "Q45148466"
+ },
+ "mythologie-celtique_gwydion": {
+  "qid": "Q1557920"
+ },
+ "mythologie-celtique_esus": {
+  "qid": "Q1370854"
+ },
+ "mythologie-celtique_sucellos": {
+  "qid": "Q930633"
+ }
+}

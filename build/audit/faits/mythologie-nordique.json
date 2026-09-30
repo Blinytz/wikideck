@@ -1,0 +1,191 @@
+{
+ "mythologie-nordique_odin": {
+  "qid": "Q43610",
+  "P800": [
+   "Terre"
+  ],
+  "P101": [
+   "religion nordique ancienne",
+   "paganisme germanique",
+   "mythologie nordique",
+   "mythologie germanique"
+  ]
+ },
+ "mythologie-nordique_thor": {
+  "qid": "Q42952"
+ },
+ "mythologie-nordique_loki": {
+  "qid": "Q133147"
+ },
+ "mythologie-nordique_freyja": {
+  "qid": "Q1647325"
+ },
+ "mythologie-nordique_freyr": {
+  "qid": "Q131474"
+ },
+ "mythologie-nordique_baldr": {
+  "qid": "Q131658",
+  "P101": [
+   "religion nordique ancienne",
+   "paganisme germanique",
+   "mythologie nordique",
+   "mythologie germanique"
+  ]
+ },
+ "mythologie-nordique_tyr": {
+  "qid": "Q172713"
+ },
+ "mythologie-nordique_heimdall": {
+  "qid": "Q131196"
+ },
+ "mythologie-nordique_frigg": {
+  "qid": "Q131654"
+ },
+ "mythologie-nordique_fenrir": {
+  "qid": "Q182560"
+ },
+ "mythologie-nordique_jormungand": {
+  "qid": "Q181227"
+ },
+ "mythologie-nordique_hel-deesse": {
+  "qid": "Q191589"
+ },
+ "mythologie-nordique_troll": {
+  "qid": "Q12581"
+ },
+ "mythologie-nordique_sif-deesse": {
+  "qid": "Q211613"
+ },
+ "mythologie-nordique_bragi": {
+  "qid": "Q199959"
+ },
+ "mythologie-nordique_idunn": {
+  "qid": "Q204691"
+ },
+ "mythologie-nordique_njord": {
+  "qid": "Q193879"
+ },
+ "mythologie-nordique_skadi": {
+  "qid": "Q244032"
+ },
+ "mythologie-nordique_ull": {
+  "qid": "Q213479"
+ },
+ "mythologie-nordique_vidar": {
+  "qid": "Q372614"
+ },
+ "mythologie-nordique_vali-fils-d-odin": {
+  "qid": "Q846981"
+ },
+ "mythologie-nordique_forseti-dieu": {
+  "qid": "Q62548"
+ },
+ "mythologie-nordique_ymir": {
+  "qid": "Q214081"
+ },
+ "mythologie-nordique_surt": {
+  "qid": "Q211700"
+ },
+ "mythologie-nordique_sleipnir": {
+  "qid": "Q208010"
+ },
+ "mythologie-nordique_hugin-et-munin": {
+  "qid": "Q207041",
+  "P527": [
+   "Hugin",
+   "Munin"
+  ]
+ },
+ "mythologie-nordique_valkyrie": {
+  "qid": "Q131087"
+ },
+ "mythologie-nordique_nornes": {
+  "qid": "Q204608",
+  "P527": [
+   "Verdandi",
+   "Skuld",
+   "Urd"
+  ]
+ },
+ "mythologie-nordique_siegfried-mythologie": {
+  "qid": "Q537554"
+ },
+ "mythologie-nordique_fafnir": {
+  "qid": "Q745315"
+ },
+ "mythologie-nordique_nidhogg": {
+  "qid": "Q214059",
+  "P495": [
+   "pays nordiques"
+  ]
+ },
+ "mythologie-nordique_ratatosk": {
+  "qid": "Q118494"
+ },
+ "mythologie-nordique_hod": {
+  "qid": "Q204900"
+ },
+ "mythologie-nordique_mimir": {
+  "qid": "Q336496"
+ },
+ "mythologie-nordique_gir": {
+  "qid": "Q204927"
+ },
+ "mythologie-nordique_ran": {
+  "qid": "Q663348"
+ },
+ "mythologie-nordique_sigyn": {
+  "qid": "Q734508"
+ },
+ "mythologie-nordique_nanna-deesse": {
+  "qid": "Q500390"
+ },
+ "mythologie-nordique_angrboda": {
+  "qid": "Q371828"
+ },
+ "mythologie-nordique_brunehilde-mythologie": {
+  "qid": "Q850506"
+ },
+ "mythologie-nordique_volund": {
+  "qid": "Q33150"
+ },
+ "mythologie-nordique_regin": {
+  "qid": "Q1502974"
+ },
+ "mythologie-nordique_audhumla": {
+  "qid": "Q215041"
+ },
+ "mythologie-nordique_ask-et-embla": {
+  "qid": "Q212858",
+  "P170": [
+   "Odin",
+   "Hœnir",
+   "Lódur",
+   "Vili",
+   "Vé"
+  ],
+  "P527": [
+   "Ask",
+   "Embla"
+  ]
+ },
+ "mythologie-nordique_skoll": {
+  "qid": "Q738737"
+ },
+ "mythologie-nordique_garm-mythologie": {
+  "qid": "Q213932"
+ },
+ "mythologie-nordique_rymr": {
+  "qid": "Q1123905"
+ },
+ "mythologie-nordique_beowulf": {
+  "qid": "Q48328",
+  "P136": [
+   "Poésie héroïque",
+   "épopée"
+  ]
+ },
+ "mythologie-nordique_grendel": {
+  "qid": "Q29372"
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "mythologies-africaines_anansi": {
+  "qid": "Q485953"
+ },
+ "mythologies-africaines_olorun": {
+  "qid": "Q2021170"
+ },
+ "mythologies-africaines_obatala": {
+  "qid": "Q2008736",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-africaines_shango": {
+  "qid": "Q1547934"
+ },
+ "mythologies-africaines_ogun-divinite": {
+  "qid": "Q255116"
+ },
+ "mythologies-africaines_eshu": {
+  "qid": "Q1367665"
+ },
+ "mythologies-africaines_oshun": {
+  "qid": "Q1851943"
+ },
+ "mythologies-africaines_iemanja": {
+  "qid": "Q1477162"
+ },
+ "mythologies-africaines_oya": {
+  "qid": "Q2004715"
+ },
+ "mythologies-africaines_orunmila": {
+  "qid": "Q378028"
+ },
+ "mythologies-africaines_nyame": {
+  "qid": "Q2361498"
+ },
+ "mythologies-africaines_asase-ya": {
+  "qid": "Q4803643"
+ },
+ "mythologies-africaines_mami-wata": {
+  "qid": "Q1888234"
+ },
+ "mythologies-africaines_papa-legba": {
+  "qid": "Q1546751"
+ },
+ "mythologies-africaines_damballa": {
+  "qid": "Q1158297"
+ },
+ "mythologies-africaines_nyambe": {
+  "qid": "Q64517943"
+ },
+ "mythologies-africaines_amma-divinite": {
+  "qid": "Q64518541"
+ },
+ "mythologies-africaines_unkulunkulu": {
+  "qid": "Q1516552",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-africaines_tanit": {
+  "qid": "Q877405"
+ },
+ "mythologies-africaines_anzar": {
+  "qid": "Q511292"
+ },
+ "mythologies-africaines_bumba-dieu": {
+  "qid": "Q2553587"
+ },
+ "mythologies-africaines_olokun": {
+  "qid": "Q1929840"
+ },
+ "mythologies-africaines_babalu-aye": {
+  "qid": "Q782478"
+ },
+ "mythologies-africaines_oshossi": {
+  "qid": "Q1779619"
+ },
+ "mythologies-africaines_heviosso": {
+  "qid": "Q3622996",
+  "P17": [
+   "Bénin"
+  ]
+ },
+ "mythologies-africaines_sakpata": {
+  "qid": "Q7462981"
+ },
+ "mythologies-africaines_nzambi-divinite": {
+  "qid": "Q3880001"
+ },
+ "mythologies-africaines_nommo": {
+  "qid": "Q3180719"
+ },
+ "mythologies-africaines_kaggen": {
+  "qid": "Q49118741",
+  "P131": [
+   "Austevoll"
+  ],
+  "P17": [
+   "Norvège"
+  ]
+ },
+ "mythologies-africaines_mwari": {
+  "qid": "Q48995841"
+ },
+ "mythologies-africaines_leza": {
+  "qid": "Q3104297",
+  "P131": [
+   "La Rioja"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "mythologies-africaines_tokoloshe": {
+  "qid": "Q1758833"
+ }
+}

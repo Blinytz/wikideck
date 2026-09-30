@@ -1,0 +1,188 @@
+{
+ "mythologie-hindoue_brahma": {
+  "qid": "Q11389"
+ },
+ "mythologie-hindoue_vishnou": {
+  "qid": "Q11380",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologie-hindoue_shiva": {
+  "qid": "Q11378"
+ },
+ "mythologie-hindoue_ganesh": {
+  "qid": "Q1579"
+ },
+ "mythologie-hindoue_hanuman": {
+  "qid": "Q188618"
+ },
+ "mythologie-hindoue_dourga": {
+  "qid": "Q382973"
+ },
+ "mythologie-hindoue_kali": {
+  "qid": "Q132127"
+ },
+ "mythologie-hindoue_lakshmi": {
+  "qid": "Q131443"
+ },
+ "mythologie-hindoue_sarasvati-deesse": {
+  "qid": "Q58838"
+ },
+ "mythologie-hindoue_indra": {
+  "qid": "Q128335"
+ },
+ "mythologie-hindoue_krishna": {
+  "qid": "Q42891",
+  "P569": [
+   "-3228",
+   "-3227"
+  ],
+  "P570": [
+   "-3102"
+  ],
+  "P101": [
+   "philosophie",
+   "religion",
+   "philosophie orientale"
+  ]
+ },
+ "mythologie-hindoue_rama": {
+  "qid": "Q160213"
+ },
+ "mythologie-hindoue_parvati": {
+  "qid": "Q170485",
+  "P527": [
+   "Sati"
+  ]
+ },
+ "mythologie-hindoue_karttikeya": {
+  "qid": "Q380817"
+ },
+ "mythologie-hindoue_agni-dieu": {
+  "qid": "Q394867"
+ },
+ "mythologie-hindoue_varuna": {
+  "qid": "Q1001037"
+ },
+ "mythologie-hindoue_vayou": {
+  "qid": "Q473731"
+ },
+ "mythologie-hindoue_surya": {
+  "qid": "Q204418"
+ },
+ "mythologie-hindoue_yama": {
+  "qid": "Q45097"
+ },
+ "mythologie-hindoue_kubera": {
+  "qid": "Q223617"
+ },
+ "mythologie-hindoue_ganga-deesse": {
+  "qid": "Q580113"
+ },
+ "mythologie-hindoue_nandi-mythologie": {
+  "qid": "Q841255"
+ },
+ "mythologie-hindoue_garuda": {
+  "qid": "Q188676"
+ },
+ "mythologie-hindoue_naga": {
+  "qid": "Q271990"
+ },
+ "mythologie-hindoue_ravana": {
+  "qid": "Q235102"
+ },
+ "mythologie-hindoue_sita": {
+  "qid": "Q191114"
+ },
+ "mythologie-hindoue_arjuna": {
+  "qid": "Q185790"
+ },
+ "mythologie-hindoue_draupadi": {
+  "qid": "Q1057886"
+ },
+ "mythologie-hindoue_bhima": {
+  "qid": "Q3651886"
+ },
+ "mythologie-hindoue_karna": {
+  "qid": "Q2727397"
+ },
+ "mythologie-hindoue_narasimha": {
+  "qid": "Q237543"
+ },
+ "mythologie-hindoue_kurma": {
+  "qid": "Q476808"
+ },
+ "mythologie-hindoue_vamana": {
+  "qid": "Q696702"
+ },
+ "mythologie-hindoue_airavata": {
+  "qid": "Q440861"
+ },
+ "mythologie-hindoue_matsya": {
+  "qid": "Q328872"
+ },
+ "mythologie-hindoue_varaha": {
+  "qid": "Q517977"
+ },
+ "mythologie-hindoue_parashurama": {
+  "qid": "Q825682"
+ },
+ "mythologie-hindoue_kalki": {
+  "qid": "Q476824"
+ },
+ "mythologie-hindoue_lakshmana": {
+  "qid": "Q917687"
+ },
+ "mythologie-hindoue_bhishma": {
+  "qid": "Q1405629"
+ },
+ "mythologie-hindoue_duryodhana": {
+  "qid": "Q1405823"
+ },
+ "mythologie-hindoue_yudhishthira": {
+  "qid": "Q983067"
+ },
+ "mythologie-hindoue_jatayu": {
+  "qid": "Q1323463"
+ },
+ "mythologie-hindoue_kumbhakarna": {
+  "qid": "Q1987450"
+ },
+ "mythologie-hindoue_radha": {
+  "qid": "Q113904"
+ },
+ "mythologie-hindoue_narada": {
+  "qid": "Q844066"
+ },
+ "mythologie-hindoue_chandra-divinite": {
+  "qid": "Q1061795"
+ },
+ "mythologie-hindoue_kama-divinite": {
+  "qid": "Q113155"
+ },
+ "mythologie-hindoue_vishvakarma": {
+  "qid": "Q61078183",
+  "P569": [
+   "-1500"
+  ],
+  "P800": [
+   "Vastu"
+  ],
+  "P136": [
+   "Vastu"
+  ]
+ },
+ "mythologie-hindoue_ananta": {
+  "qid": "Q2418874"
+ },
+ "mythologie-hindoue_vasuki": {
+  "qid": "Q1635469"
+ },
+ "mythologie-hindoue_mahishasura": {
+  "qid": "Q663318"
+ },
+ "mythologie-hindoue_rahu": {
+  "qid": "Q950298"
+ }
+}

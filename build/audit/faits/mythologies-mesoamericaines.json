@@ -1,0 +1,158 @@
+{
+ "mythologies-mesoamericaines_quetzalcoatl": {
+  "qid": "Q179818",
+  "P276": [
+   "Templo Mayor"
+  ],
+  "P495": [
+   "Mésoamérique"
+  ]
+ },
+ "mythologies-mesoamericaines_huitzilopochtli": {
+  "qid": "Q219412"
+ },
+ "mythologies-mesoamericaines_tlaloc": {
+  "qid": "Q232870"
+ },
+ "mythologies-mesoamericaines_xochiquetzal": {
+  "qid": "Q149042"
+ },
+ "mythologies-mesoamericaines_kukulkan": {
+  "qid": "Q768072"
+ },
+ "mythologies-mesoamericaines_tezcatlipoca": {
+  "qid": "Q756797",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-mesoamericaines_xipe-totec": {
+  "qid": "Q558970"
+ },
+ "mythologies-mesoamericaines_mictlantecuhtli": {
+  "qid": "Q591056"
+ },
+ "mythologies-mesoamericaines_coatlicue": {
+  "qid": "Q829508"
+ },
+ "mythologies-mesoamericaines_chalchiuhtlicue": {
+  "qid": "Q752213"
+ },
+ "mythologies-mesoamericaines_xolotl": {
+  "qid": "Q279639"
+ },
+ "mythologies-mesoamericaines_ehecatl": {
+  "qid": "Q1124258"
+ },
+ "mythologies-mesoamericaines_coyolxauhqui": {
+  "qid": "Q936324"
+ },
+ "mythologies-mesoamericaines_tonatiuh": {
+  "qid": "Q2441598"
+ },
+ "mythologies-mesoamericaines_itzamna": {
+  "qid": "Q58476"
+ },
+ "mythologies-mesoamericaines_ixchel": {
+  "qid": "Q1772980"
+ },
+ "mythologies-mesoamericaines_chac": {
+  "qid": "Q1058253"
+ },
+ "mythologies-mesoamericaines_ah-puch": {
+  "qid": "Q399744"
+ },
+ "mythologies-mesoamericaines_hunahpu-et-ixbalanque": {
+  "qid": "Q501979",
+  "P527": [
+   "Hunahpu",
+   "Ixbalanque"
+  ]
+ },
+ "mythologies-mesoamericaines_hunahpu-et-ixbalanque-b": {
+  "qid": "Q501979",
+  "P527": [
+   "Hunahpu",
+   "Ixbalanque"
+  ]
+ },
+ "mythologies-mesoamericaines_vucub-caquix": {
+  "qid": "Q2740550"
+ },
+ "mythologies-mesoamericaines_camazotz": {
+  "qid": "Q2307579"
+ },
+ "mythologies-mesoamericaines_viracocha": {
+  "qid": "Q209605",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-mesoamericaines_inti": {
+  "qid": "Q213771"
+ },
+ "mythologies-mesoamericaines_mama-quilla": {
+  "qid": "Q1137398"
+ },
+ "mythologies-mesoamericaines_pachamama": {
+  "qid": "Q266462"
+ },
+ "mythologies-mesoamericaines_illapa": {
+  "qid": "Q584318"
+ },
+ "mythologies-mesoamericaines_manco-capac": {
+  "qid": "Q165968",
+  "P569": [
+   "1200"
+  ],
+  "P570": [
+   "1230",
+   "1300"
+  ],
+  "P27": [
+   "Empire inca"
+  ]
+ },
+ "mythologies-mesoamericaines_aiapaec": {
+  "qid": "Q406331",
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "mythologies-mesoamericaines_mayahuel": {
+  "qid": "Q1085316"
+ },
+ "mythologies-mesoamericaines_mixcoatl": {
+  "qid": "Q1326558"
+ },
+ "mythologies-mesoamericaines_tlazolteotl": {
+  "qid": "Q850249"
+ },
+ "mythologies-mesoamericaines_centeotl": {
+  "qid": "Q1092591"
+ },
+ "mythologies-mesoamericaines_itzpapalotl": {
+  "qid": "Q2619569"
+ },
+ "mythologies-mesoamericaines_k-inich-ajaw": {
+  "qid": "Q2745502"
+ },
+ "mythologies-mesoamericaines_ixtab": {
+  "qid": "Q1417974"
+ },
+ "mythologies-mesoamericaines_pachacamac-dieu": {
+  "qid": "Q13227945"
+ },
+ "mythologies-mesoamericaines_mama-ocllo": {
+  "qid": "Q1360531",
+  "P569": [
+   "1197"
+  ],
+  "P570": [
+   "1230"
+  ],
+  "P27": [
+   "Empire inca"
+  ]
+ }
+}

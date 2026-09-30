@@ -216,10 +216,10 @@ def cadrer(pg):
     return im, boite
 
 
-def recadrer(im, centre, taille=None):
+def recadrer(im, centre, taille=None, zone=None):
     """Un 4:3 centre sur `centre` (px), de hauteur `taille` (ou la plus
     grande possible), tenu dans la zone utile. Rend l'image et son origine."""
-    x_min, y_min, x_max, y_max = [v * ECHELLE for v in ZONE]
+    x_min, y_min, x_max, y_max = [v * ECHELLE for v in (zone or ZONE)]
     h_max = min(y_max - y_min, (x_max - x_min) * 3 // 4)
     h = int(min(taille or h_max, h_max))
     w = h * 4 // 3
@@ -228,26 +228,35 @@ def recadrer(im, centre, taille=None):
     return im.crop((x0, y0, x0 + w, y0 + h)), (x0, y0)
 
 
+def part_eau(im):
+    """Part de pixels d'eau (le bleu de Google Maps) dans une image."""
+    a = np.asarray(im.convert('RGB').resize((160, 120))).astype(int)
+    eau = (abs(a[..., 0] - 144) < 26) & (abs(a[..., 1] - 212) < 22) & (abs(a[..., 2] - 232) < 22)
+    return eau.mean()
+
+
 def composer(gros, encart, ile=None):
-    """Pose l'encart dans le coin de la carte qui recouvre le moins l'ile
-    (`ile` : sa boite dans `gros`)."""
+    """Pose l'encart la ou il ne cache que de l'eau : on essaie les quatre
+    coins de ce que montre la carte, puis le milieu des bords, et on garde la
+    place la plus « mouillee » (a egalite, un coin)."""
     im = gros.copy()
     W, H = im.size
     cw, ch = int(W * 0.8), int(H * 0.8)          # ce que la carte montre
     ew = int(cw * 0.34)
     e = encart.resize((ew, round(ew * encart.height / encart.width)), Image.LANCZOS)
-    gx, gy = (W - cw) // 2 + int(cw * 0.025), (H - ch) // 2 + int(ch * 0.03)
-    dx, dy = (W + cw) // 2 - int(cw * 0.025) - e.width, (H + ch) // 2 - int(ch * 0.03) - e.height
-    coins = [(gx, dy), (dx, dy), (gx, gy), (dx, gy)]   # bas gauche d'abord
+    mx, my = int(cw * 0.025), int(ch * 0.03)
+    gx, gy = (W - cw) // 2 + mx, (H - ch) // 2 + my
+    dx, dy = (W + cw) // 2 - mx - e.width, (H + ch) // 2 - my - e.height
+    cx, cy = (W - e.width) // 2, (H - e.height) // 2
+    places = [(gx, dy), (dx, dy), (gx, gy), (dx, gy),          # coins
+              (cx, dy), (cx, gy), (gx, cy), (dx, cy)]          # milieux des bords
 
-    def recouvrement(c):
-        if not ile:
-            return 0
+    def note(k, c):
         x0, y0 = c
-        w = max(0, min(x0 + e.width, ile[2]) - max(x0, ile[0]))
-        h = max(0, min(y0 + e.height, ile[3]) - max(y0, ile[1]))
-        return w * h
-    x0, y0 = min(coins, key=recouvrement)
+        eau = part_eau(gros.crop((x0 - 8, y0 - 8, x0 + e.width + 8, y0 + e.height + 8)))
+        return eau - (0.04 if k >= 4 else 0)                    # un coin, a merite egal
+    k = max(range(len(places)), key=lambda k: note(k, places[k]))
+    x0, y0 = places[k]
     ombre = Image.new('L', (e.width + 60, e.height + 60), 0)
     ImageDraw.Draw(ombre).rectangle((30, 30, e.width + 30, e.height + 30), fill=120)
     ombre = ombre.filter(ImageFilter.GaussianBlur(12))
@@ -273,7 +282,7 @@ REQUETES = {'Îles Kerguelen': 'Grande Terre Kerguelen', 'Île Pitcairn': 'Pitca
 
 # Iles que la recherche cadre mal (archipel epars, pas de contour, fiche
 # pointee sur un lieu-dit) : centre et zoom donnes a la main.
-COORDS = {'Groenland': (71.0, -42.0, 3.75), 'Île Maurice': (-20.25, 57.57, 10.9),
+COORDS = {'Groenland': (72.5, -41.0, 3.35), 'Île Maurice': (-20.25, 57.57, 10.9),
           'Palaos': (7.45, 134.55, 10.2), 'Maldives': (3.2, 73.3, 7.4),
           'Seychelles': (-4.5, 55.6, 10.3), 'Pitcairn': (-25.066, -130.1, 14.6),
           'Zanzibar': (-6.1, 39.35, 10.2), 'Fidji': (-17.6, 178.2, 8.6),
@@ -281,6 +290,33 @@ COORDS = {'Groenland': (71.0, -42.0, 3.75), 'Île Maurice': (-20.25, 57.57, 10.9
           'Îles Marquises': (-9.4, -139.7, 8.7), 'Madère': (32.87, -16.7, 9.5),
           'Açores': (38.55, -28.0, 7.4), 'Île de Gorée': (14.6672, -17.3985, 16.4),
           'Galápagos': (-0.65, -90.55, 8.5)}
+
+
+# Iles cadrees par leur centre et leur etendue (largeur, hauteur en km) : le
+# contour de Google cadre mal un archipel, ou englobe autre chose.
+ETENDUES = {
+    'Maldives': (4.1, 73.45, 60, 75), 'Seychelles': (-4.53, 55.6, 42, 60), 'Île Maurice': (-20.25, 57.57, 62, 66), 'Pitcairn': (-25.068, -130.1, 5, 3.5), 'Tristan da Cunha': (-37.11, -12.28, 14, 14),
+    'Chypre': (35.05, 33.3, 250, 115), 'Grande Terre (Nouvelle-Calédonie)': (-21.35, 165.55, 360, 280),
+    'Bora-Bora': (-16.5, -151.74, 15, 15), 'Tenerife': (28.28, -16.6, 85, 65),
+    'Guadeloupe': (16.15, -61.4, 95, 80), 'Bikini': (11.6, 165.4, 46, 26),
+    'Kerguelen': (-49.3, 69.5, 160, 125), 'Islande': (64.95, -18.6, 500, 310),
+    'Belle-Île-en-Mer': (47.335, -3.18, 19, 11), 'Sainte-Hélène': (-15.962, -5.71, 18, 12),
+    'Tahiti': (-17.68, -149.4, 62, 38), 'Zanzibar': (-5.65, 39.5, 110, 200),
+    'Nouvelle-Guinée': (-4.2, 141.0, 2250, 1150),
+}
+# fenetre du navigateur quand on arrive par des coordonnees : pas de panneau
+# lateral, la vue est centree sur la fenetre
+ZONE_DIRECTE = (100, 100, 1900, 1200)
+
+
+def zoom_pour(lat, w_km, h_km):
+    """Niveau de zoom ou l'ile occupe ~78 % de ce que la carte montre."""
+    import math
+    x0, y0, x1, y1 = ZONE_DIRECTE
+    h = min(y1 - y0, (x1 - x0) * 3 / 4)          # le cadre 4:3 en px CSS
+    vis_w, vis_h = h * 4 / 3 * 0.8, h * 0.8       # la carte en montre 80 %
+    mpp = max(w_km * 1000 / (0.78 * vis_w), h_km * 1000 / (0.78 * vis_h))
+    return round(math.log2(156543.03 * math.cos(math.radians(lat)) / mpp), 2)
 
 
 def requete_de(c):
@@ -311,7 +347,20 @@ def main():
         for c in cartes:
             direct = COORDS.get(c['nom'])
             if direct:
-                pg.goto('https://www.google.com/maps/@%s,%s,%sz' % direct, wait_until='domcontentloaded')
+                # zooms regles pour l'ancien cadre (680 px CSS de haut) ; le
+                # cadre direct en fait 1100 : 0,7 cran de plus
+                direct = (direct[0], direct[1], direct[2] + 0.7)
+            if c['nom'] in ETENDUES:
+                la, lo, wk, hk = ETENDUES[c['nom']]
+                direct = (la, lo, zoom_pour(la, wk, hk))
+            if direct:
+                # Google arrondit un zoom fractionnaire a l'entier inferieur :
+                # on lui demande cet entier, et on resserre la capture d'autant
+                import math
+                z_ent = math.floor(direct[2])
+                resserre = 2 ** (direct[2] - z_ent)
+                pg.goto('https://www.google.com/maps/@%s,%s,%sz' % (direct[0], direct[1], z_ent),
+                        wait_until='domcontentloaded')
                 refuser_consentement(pg)
                 attendre(6)
                 nettoyer(pg)
@@ -320,7 +369,9 @@ def main():
                 zc = ((ZONE[0] + ZONE[2]) / 2 * ECHELLE, (ZONE[1] + ZONE[3]) / 2 * ECHELLE)
                 # la vue est centree sur la fenetre, pas sur la zone utile
                 ile = (VW / 2 * ECHELLE, VH / 2 * ECHELLE)
-                gros, _ = recadrer(im, ile, 2 * (VW / 2 - ZONE[0]) * ECHELLE * 3 / 4 - 20)
+                x0z, y0z, x1z, y1z = ZONE_DIRECTE
+                h_max = min(y1z - y0z, (x1z - x0z) * 3 / 4) * ECHELLE
+                gros, _ = recadrer(im, ile, h_max / resserre, ZONE_DIRECTE)
                 ile_gros, boite = None, True
                 lat, lng = direct[0], direct[1]
             elif not chercher(pg, requete_de(c)):
@@ -344,8 +395,13 @@ def main():
                 print(f"  ✗ {c['nom']} : coordonnees introuvables")
                 continue
             encart = planisphere.carte(lat, lng, 900)
-            im = composer(gros, encart, ile_gros)
             f = c['id'].split('_', 1)[1]
+            # la carte brute et ses coordonnees, pour reposer l'encart sans
+            # tout recapturer
+            (BROUILLON / 'brut').mkdir(exist_ok=True)
+            gros.save(BROUILLON / 'brut' / f'{f}.png')
+            (BROUILLON / 'brut' / f'{f}.json').write_text(json.dumps({'lat': lat, 'lng': lng, 'url': url}))
+            im = composer(gros, encart, ile_gros)
             etat = '' if boite else '  (contour rouge non trouve : centre de l ecran)'
             if apercu:
                 im.save(BROUILLON / f'{f}.png')

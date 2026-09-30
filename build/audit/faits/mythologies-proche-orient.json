@@ -1,0 +1,168 @@
+{
+ "mythologies-proche-orient_gilgamesh": {
+  "qid": "Q159709"
+ },
+ "mythologies-proche-orient_didon": {
+  "qid": "Q905162",
+  "P27": [
+   "Phénicie",
+   "civilisation carthaginoise"
+  ]
+ },
+ "mythologies-proche-orient_marduk": {
+  "qid": "Q190123"
+ },
+ "mythologies-proche-orient_ishtar": {
+  "qid": "Q47553"
+ },
+ "mythologies-proche-orient_enlil": {
+  "qid": "Q214672"
+ },
+ "mythologies-proche-orient_an-dieu": {
+  "qid": "Q188536"
+ },
+ "mythologies-proche-orient_tiamat": {
+  "qid": "Q145983",
+  "P495": [
+   "Babylonie"
+  ]
+ },
+ "mythologies-proche-orient_ereshkigal": {
+  "qid": "Q654458"
+ },
+ "mythologies-proche-orient_ninurta": {
+  "qid": "Q726282"
+ },
+ "mythologies-proche-orient_nergal": {
+  "qid": "Q468912"
+ },
+ "mythologies-proche-orient_sin": {
+  "qid": "Q217420"
+ },
+ "mythologies-proche-orient_shamash": {
+  "qid": "Q332188"
+ },
+ "mythologies-proche-orient_dumuzi": {
+  "qid": "Q549619"
+ },
+ "mythologies-proche-orient_enkidu": {
+  "qid": "Q463220",
+  "P17": [
+   "Uruk"
+  ]
+ },
+ "mythologies-proche-orient_humbaba": {
+  "qid": "Q425449"
+ },
+ "mythologies-proche-orient_adad": {
+  "qid": "Q346547"
+ },
+ "mythologies-proche-orient_lamashtu": {
+  "qid": "Q767219"
+ },
+ "mythologies-proche-orient_ahura-mazda": {
+  "qid": "Q179575",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-proche-orient_ahriman": {
+  "qid": "Q223805"
+ },
+ "mythologies-proche-orient_mithra": {
+  "qid": "Q6497135"
+ },
+ "mythologies-proche-orient_anahita": {
+  "qid": "Q484278",
+  "P27": [
+   "Iran"
+  ]
+ },
+ "mythologies-proche-orient_zervan": {
+  "qid": "Q230478"
+ },
+ "mythologies-proche-orient_verethragna": {
+  "qid": "Q2301411",
+  "P17": [
+   "Empire perse"
+  ]
+ },
+ "mythologies-proche-orient_simorgh-mythologie": {
+  "qid": "Q548119",
+  "P527": [
+   "aigle",
+   "chien",
+   "lion",
+   "paon"
+  ]
+ },
+ "mythologies-proche-orient_rostam": {
+  "qid": "Q60062",
+  "P170": [
+   "Ferdowsi"
+  ]
+ },
+ "mythologies-proche-orient_zahhak": {
+  "qid": "Q1200843"
+ },
+ "mythologies-proche-orient_fereydoun": {
+  "qid": "Q1150281"
+ },
+ "mythologies-proche-orient_djamchid": {
+  "qid": "Q155755"
+ },
+ "mythologies-proche-orient_baal": {
+  "qid": "Q590467"
+ },
+ "mythologies-proche-orient_astarte": {
+  "qid": "Q130274"
+ },
+ "mythologies-proche-orient_melqart": {
+  "qid": "Q843408"
+ },
+ "mythologies-proche-orient_ea-dieu": {
+  "qid": "Q189726"
+ },
+ "mythologies-proche-orient_nabu": {
+  "qid": "Q392239"
+ },
+ "mythologies-proche-orient_assur-dieu": {
+  "qid": "Q685878"
+ },
+ "mythologies-proche-orient_lilith": {
+  "qid": "Q180627"
+ },
+ "mythologies-proche-orient_pazuzu": {
+  "qid": "Q732551"
+ },
+ "mythologies-proche-orient_lamassu": {
+  "qid": "Q616332"
+ },
+ "mythologies-proche-orient_uta-napishtim": {
+  "qid": "Q767983"
+ },
+ "mythologies-proche-orient_kingu": {
+  "qid": "Q762282"
+ },
+ "mythologies-proche-orient_asherah": {
+  "qid": "Q83975"
+ },
+ "mythologies-proche-orient_moloch": {
+  "qid": "Q275010"
+ },
+ "mythologies-proche-orient_anat": {
+  "qid": "Q487290"
+ },
+ "mythologies-proche-orient_sohrab": {
+  "qid": "Q2065184"
+ },
+ "mythologies-proche-orient_kaveh": {
+  "qid": "Q1128478",
+  "P27": [
+   "Irak"
+  ],
+  "P17": [
+   "Kingdom of Zahhak"
+  ]
+ }
+}

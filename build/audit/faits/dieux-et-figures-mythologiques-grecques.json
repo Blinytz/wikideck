@@ -1,0 +1,445 @@
+{
+ "dieux-et-figures-mythologiques-grecques_zagreus": {
+  "qid": "Q140406"
+ },
+ "dieux-et-figures-mythologiques-grecques_hades": {
+  "qid": "Q41410"
+ },
+ "dieux-et-figures-mythologiques-grecques_persephone": {
+  "qid": "Q45967"
+ },
+ "dieux-et-figures-mythologiques-grecques_nyx": {
+  "qid": "Q131203"
+ },
+ "dieux-et-figures-mythologiques-grecques_chaos-cosmogonie": {
+  "qid": "Q17508277"
+ },
+ "dieux-et-figures-mythologiques-grecques_erebe": {
+  "qid": "Q131122"
+ },
+ "dieux-et-figures-mythologiques-grecques_zeus": {
+  "qid": "Q34201"
+ },
+ "dieux-et-figures-mythologiques-grecques_poseidon": {
+  "qid": "Q41127"
+ },
+ "dieux-et-figures-mythologiques-grecques_hera": {
+  "qid": "Q38012"
+ },
+ "dieux-et-figures-mythologiques-grecques_athena": {
+  "qid": "Q37122"
+ },
+ "dieux-et-figures-mythologiques-grecques_ares": {
+  "qid": "Q40901"
+ },
+ "dieux-et-figures-mythologiques-grecques_aphrodite": {
+  "qid": "Q35500"
+ },
+ "dieux-et-figures-mythologiques-grecques_apollon": {
+  "qid": "Q37340"
+ },
+ "dieux-et-figures-mythologiques-grecques_artemis": {
+  "qid": "Q39503"
+ },
+ "dieux-et-figures-mythologiques-grecques_dionysos": {
+  "qid": "Q41680"
+ },
+ "dieux-et-figures-mythologiques-grecques_demeter": {
+  "qid": "Q40730"
+ },
+ "dieux-et-figures-mythologiques-grecques_hermes": {
+  "qid": "Q41484"
+ },
+ "dieux-et-figures-mythologiques-grecques_hestia": {
+  "qid": "Q41419"
+ },
+ "dieux-et-figures-mythologiques-grecques_hecate": {
+  "qid": "Q131575"
+ },
+ "dieux-et-figures-mythologiques-grecques_selene": {
+  "qid": "Q131585"
+ },
+ "dieux-et-figures-mythologiques-grecques_eris": {
+  "qid": "Q140001"
+ },
+ "dieux-et-figures-mythologiques-grecques_nemesis": {
+  "qid": "Q185747"
+ },
+ "dieux-et-figures-mythologiques-grecques_moros-mythologie": {
+  "qid": "Q1065802"
+ },
+ "dieux-et-figures-mythologiques-grecques_cronos": {
+  "qid": "Q44204"
+ },
+ "dieux-et-figures-mythologiques-grecques_promethee": {
+  "qid": "Q83160"
+ },
+ "dieux-et-figures-mythologiques-grecques_typhon-mythologie": {
+  "qid": "Q180237"
+ },
+ "dieux-et-figures-mythologiques-grecques_meduse-mythologie": {
+  "qid": "Q160730"
+ },
+ "dieux-et-figures-mythologiques-grecques_scylla-monstre": {
+  "qid": "Q193115"
+ },
+ "dieux-et-figures-mythologiques-grecques_achille": {
+  "qid": "Q41746"
+ },
+ "dieux-et-figures-mythologiques-grecques_patrocle": {
+  "qid": "Q186271"
+ },
+ "dieux-et-figures-mythologiques-grecques_sisyphe": {
+  "qid": "Q102561"
+ },
+ "dieux-et-figures-mythologiques-grecques_orphee": {
+  "qid": "Q174353",
+  "P101": [
+   "musique",
+   "chant",
+   "poésie"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_eurydice": {
+  "qid": "Q208588"
+ },
+ "dieux-et-figures-mythologiques-grecques_charon-mythologie": {
+  "qid": "Q6612"
+ },
+ "dieux-et-figures-mythologiques-grecques_cerbere": {
+  "qid": "Q83496"
+ },
+ "dieux-et-figures-mythologiques-grecques_hypnos": {
+  "qid": "Q189347"
+ },
+ "dieux-et-figures-mythologiques-grecques_thanatos": {
+  "qid": "Q199647"
+ },
+ "dieux-et-figures-mythologiques-grecques_erinyes": {
+  "qid": "Q180262",
+  "P527": [
+   "Alecto",
+   "Mégère",
+   "Tisiphone"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_gaia": {
+  "qid": "Q93172"
+ },
+ "dieux-et-figures-mythologiques-grecques_ouranos": {
+  "qid": "Q79999"
+ },
+ "dieux-et-figures-mythologiques-grecques_rhea-mythologie": {
+  "qid": "Q108419"
+ },
+ "dieux-et-figures-mythologiques-grecques_atlas-mythologie": {
+  "qid": "Q130818"
+ },
+ "dieux-et-figures-mythologiques-grecques_chronos": {
+  "qid": "Q272918"
+ },
+ "dieux-et-figures-mythologiques-grecques_styx": {
+  "qid": "Q542758"
+ },
+ "dieux-et-figures-mythologiques-grecques_helios": {
+  "qid": "Q134270"
+ },
+ "dieux-et-figures-mythologiques-grecques_hephaistos": {
+  "qid": "Q44384"
+ },
+ "dieux-et-figures-mythologiques-grecques_eros": {
+  "qid": "Q121973"
+ },
+ "dieux-et-figures-mythologiques-grecques_pan": {
+  "qid": "Q132582"
+ },
+ "dieux-et-figures-mythologiques-grecques_asclepios": {
+  "qid": "Q83223"
+ },
+ "dieux-et-figures-mythologiques-grecques_muses": {
+  "qid": "Q66016",
+  "P527": [
+   "Calliope",
+   "Clio",
+   "Érato",
+   "Euterpe",
+   "Melpomène",
+   "Polymnie",
+   "Terpsichore",
+   "Thalie",
+   "Uranie"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_heracles": {
+  "qid": "Q122248",
+  "P27": [
+   "Thèbes"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_ulysse": {
+  "qid": "Q47231"
+ },
+ "dieux-et-figures-mythologiques-grecques_persee": {
+  "qid": "Q130832"
+ },
+ "dieux-et-figures-mythologiques-grecques_thesee": {
+  "qid": "Q1320718"
+ },
+ "dieux-et-figures-mythologiques-grecques_jason": {
+  "qid": "Q176758"
+ },
+ "dieux-et-figures-mythologiques-grecques_bellerophon": {
+  "qid": "Q189872"
+ },
+ "dieux-et-figures-mythologiques-grecques_icare": {
+  "qid": "Q34041"
+ },
+ "dieux-et-figures-mythologiques-grecques_dedale": {
+  "qid": "Q134756"
+ },
+ "dieux-et-figures-mythologiques-grecques_dipe": {
+  "qid": "Q130890",
+  "P27": [
+   "Thèbes"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_hector": {
+  "qid": "Q159666",
+  "P27": [
+   "Troie"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_paris": {
+  "qid": "Q167646"
+ },
+ "dieux-et-figures-mythologiques-grecques_helene-mythologie": {
+  "qid": "Q164061"
+ },
+ "dieux-et-figures-mythologiques-grecques_agamemnon": {
+  "qid": "Q128176"
+ },
+ "dieux-et-figures-mythologiques-grecques_cassandre": {
+  "qid": "Q170779",
+  "P101": [
+   "divination"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_pandore": {
+  "qid": "Q131346",
+  "P170": [
+   "Héphaïstos",
+   "Athéna",
+   "Zeus"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_narcisse-mythologie": {
+  "qid": "Q179256"
+ },
+ "dieux-et-figures-mythologiques-grecques_ariane-mythologie": {
+  "qid": "Q184874"
+ },
+ "dieux-et-figures-mythologiques-grecques_penelope": {
+  "qid": "Q165769"
+ },
+ "dieux-et-figures-mythologiques-grecques_circe": {
+  "qid": "Q187602"
+ },
+ "dieux-et-figures-mythologiques-grecques_antigone-montpellier": {
+  "qid": "Q2853220",
+  "P135": [
+   "architecture postmoderne"
+  ],
+  "P571": [
+   "1983"
+  ],
+  "P131": [
+   "Montpellier"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_minotaure": {
+  "qid": "Q129866",
+  "P527": [
+   "tête",
+   "tronc humain",
+   "membre supérieur",
+   "membre inférieur humain"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_pegase": {
+  "qid": "Q162797"
+ },
+ "dieux-et-figures-mythologiques-grecques_hydre-de-lerne": {
+  "qid": "Q170379",
+  "P17": [
+   "Grèce antique"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_chimere-mythologie": {
+  "qid": "Q182790"
+ },
+ "dieux-et-figures-mythologiques-grecques_sirene-mythologie-grecque": {
+  "qid": "Q150986"
+ },
+ "dieux-et-figures-mythologiques-grecques_polypheme": {
+  "qid": "Q193567"
+ },
+ "dieux-et-figures-mythologiques-grecques_sphinx": {
+  "qid": "Q151480",
+  "P571": [
+   "-800"
+  ],
+  "P495": [
+   "Grèce antique"
+  ],
+  "P527": [
+   "lion",
+   "être humain"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_arachne": {
+  "qid": "Q190082"
+ },
+ "dieux-et-figures-mythologiques-grecques_charybde": {
+  "qid": "Q192082"
+ },
+ "dieux-et-figures-mythologiques-grecques_chiron-mythologie": {
+  "qid": "Q183417"
+ },
+ "dieux-et-figures-mythologiques-grecques_harpies": {
+  "qid": "Q181360",
+  "P527": [
+   "Aello",
+   "Ocypète",
+   "Céléno"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_hebe": {
+  "qid": "Q131125"
+ },
+ "dieux-et-figures-mythologiques-grecques_themis": {
+  "qid": "Q159168"
+ },
+ "dieux-et-figures-mythologiques-grecques_mnemosyne": {
+  "qid": "Q102884"
+ },
+ "dieux-et-figures-mythologiques-grecques_ocean-mythologie": {
+  "qid": "Q161419"
+ },
+ "dieux-et-figures-mythologiques-grecques_hyperion-mythologie": {
+  "qid": "Q179209"
+ },
+ "dieux-et-figures-mythologiques-grecques_leto": {
+  "qid": "Q103107"
+ },
+ "dieux-et-figures-mythologiques-grecques_maia-pleiade": {
+  "qid": "Q205233"
+ },
+ "dieux-et-figures-mythologiques-grecques_nike": {
+  "qid": "Q165023"
+ },
+ "dieux-et-figures-mythologiques-grecques_iris-mythologie": {
+  "qid": "Q184570"
+ },
+ "dieux-et-figures-mythologiques-grecques_eos": {
+  "qid": "Q178417"
+ },
+ "dieux-et-figures-mythologiques-grecques_atalante": {
+  "qid": "Q190323"
+ },
+ "dieux-et-figures-mythologiques-grecques_medee-mythologie": {
+  "qid": "Q174278"
+ },
+ "dieux-et-figures-mythologiques-grecques_andromede-mythologie": {
+  "qid": "Q161582"
+ },
+ "dieux-et-figures-mythologiques-grecques_adonis-mythologie": {
+  "qid": "Q163920"
+ },
+ "dieux-et-figures-mythologiques-grecques_dioscures": {
+  "qid": "Q190103",
+  "P527": [
+   "Castor",
+   "Pollux"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_midas": {
+  "qid": "Q308398",
+  "P27": [
+   "Phrygie"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_ajax-fils-de-telamon": {
+  "qid": "Q172725"
+ },
+ "dieux-et-figures-mythologiques-grecques_enee": {
+  "qid": "Q82732",
+  "P495": [
+   "Grèce antique"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_priam": {
+  "qid": "Q170473",
+  "P27": [
+   "Troie"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_andromaque": {
+  "qid": "Q19376"
+ },
+ "dieux-et-figures-mythologiques-grecques_electre": {
+  "qid": "Q131651"
+ },
+ "dieux-et-figures-mythologiques-grecques_oreste": {
+  "qid": "Q192407"
+ },
+ "dieux-et-figures-mythologiques-grecques_clytemnestre": {
+  "qid": "Q131157"
+ },
+ "dieux-et-figures-mythologiques-grecques_iphigenie": {
+  "qid": "Q192673"
+ },
+ "dieux-et-figures-mythologiques-grecques_phedre-mythologie": {
+  "qid": "Q212818"
+ },
+ "dieux-et-figures-mythologiques-grecques_centaure": {
+  "qid": "Q83203",
+  "P527": [
+   "tronc humain",
+   "cheval"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_cyclope": {
+  "qid": "Q128430",
+  "P527": [
+   "Argès",
+   "Steropès",
+   "Brontès"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_gorgones": {
+  "qid": "Q102059",
+  "P527": [
+   "Euryale",
+   "Sthéno",
+   "Méduse"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_satyre": {
+  "qid": "Q163709",
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_nymphe": {
+  "qid": "Q373916",
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "dieux-et-figures-mythologiques-grecques_talos-crete": {
+  "qid": "Q657174"
+ }
+}

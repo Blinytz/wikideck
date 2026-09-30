@@ -1,0 +1,276 @@
+{
+ "mythologies-asie-est_amaterasu": {
+  "qid": "Q455602"
+ },
+ "mythologies-asie-est_susanoo": {
+  "qid": "Q272993"
+ },
+ "mythologies-asie-est_tsukuyomi": {
+  "qid": "Q595520"
+ },
+ "mythologies-asie-est_izanagi": {
+  "qid": "Q813858"
+ },
+ "mythologies-asie-est_izanami": {
+  "qid": "Q682306"
+ },
+ "mythologies-asie-est_inari-divinite-japonaise": {
+  "qid": "Q719665",
+  "P276": [
+   "sanctuaire Inari"
+  ]
+ },
+ "mythologies-asie-est_pangu": {
+  "qid": "Q245395",
+  "P800": [
+   "Terre"
+  ]
+ },
+ "mythologies-asie-est_nuwa": {
+  "qid": "Q641632"
+ },
+ "mythologies-asie-est_kappa-mythologie": {
+  "qid": "Q335140"
+ },
+ "mythologies-asie-est_oni": {
+  "qid": "Q730052"
+ },
+ "mythologies-asie-est_tengu-folklore": {
+  "qid": "Q742360"
+ },
+ "mythologies-asie-est_renard-dans-la-culture-japonaise": {
+  "qid": "Q692111",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "mythologies-asie-est_raiden-divinite": {
+  "qid": "Q12808082"
+ },
+ "mythologies-asie-est_fujin-divinite": {
+  "qid": "Q1483957"
+ },
+ "mythologies-asie-est_hachiman": {
+  "qid": "Q261637",
+  "P276": [
+   "sanctuaire Hachiman"
+  ]
+ },
+ "mythologies-asie-est_ebisu-divinite": {
+  "qid": "Q1129330"
+ },
+ "mythologies-asie-est_benzaiten": {
+  "qid": "Q818468"
+ },
+ "mythologies-asie-est_daikokuten": {
+  "qid": "Q1759916"
+ },
+ "mythologies-asie-est_kagutsuchi": {
+  "qid": "Q1640658"
+ },
+ "mythologies-asie-est_okuninushi": {
+  "qid": "Q276944"
+ },
+ "mythologies-asie-est_ryujin": {
+  "qid": "Q2458617"
+ },
+ "mythologies-asie-est_yamata-no-orochi": {
+  "qid": "Q1054437",
+  "P527": [
+   "Kusanagi"
+  ]
+ },
+ "mythologies-asie-est_empereur-de-jade": {
+  "qid": "Q860434"
+ },
+ "mythologies-asie-est_fuxi": {
+  "qid": "Q236972"
+ },
+ "mythologies-asie-est_shennong": {
+  "qid": "Q313336"
+ },
+ "mythologies-asie-est_xiwangmu": {
+  "qid": "Q1064059",
+  "P27": [
+   "dynastie Zhou"
+  ]
+ },
+ "mythologies-asie-est_chang-e": {
+  "qid": "Q466462"
+ },
+ "mythologies-asie-est_sun-wukong": {
+  "qid": "Q11773777"
+ },
+ "mythologies-asie-est_nezha": {
+  "qid": "Q547105"
+ },
+ "mythologies-asie-est_guanyin": {
+  "qid": "Q715162"
+ },
+ "mythologies-asie-est_roi-dragon": {
+  "qid": "Q135337914"
+ },
+ "mythologies-asie-est_qilin": {
+  "qid": "Q14138",
+  "P17": [
+   "Chine",
+   "république populaire de Chine"
+  ]
+ },
+ "mythologies-asie-est_fenghuang": {
+  "qid": "Q527525",
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "mythologies-asie-est_tangun": {
+  "qid": "Q549567",
+  "P569": [
+   "-2333"
+  ],
+  "P570": [
+   "-425"
+  ],
+  "P27": [
+   "Gojoseon"
+  ]
+ },
+ "mythologies-asie-est_houyi": {
+  "qid": "Q1065105",
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "mythologies-asie-est_yu-le-grand": {
+  "qid": "Q627784",
+  "P569": [
+   "-2297"
+  ],
+  "P570": [
+   "-2197",
+   "-2025"
+  ],
+  "P27": [
+   "dynastie Xia"
+  ]
+ },
+ "mythologies-asie-est_huangdi": {
+  "qid": "Q29201",
+  "P569": [
+   "-2717"
+  ],
+  "P570": [
+   "-2597"
+  ],
+  "P27": [
+   "Youxiong"
+  ]
+ },
+ "mythologies-asie-est_zhong-kui": {
+  "qid": "Q1092708"
+ },
+ "mythologies-asie-est_guan-yu": {
+  "qid": "Q222797",
+  "P569": [
+   "160",
+   "162"
+  ],
+  "P570": [
+   "220"
+  ],
+  "P27": [
+   "Han orientaux"
+  ]
+ },
+ "mythologies-asie-est_huit-immortels": {
+  "qid": "Q340843",
+  "P527": [
+   "Zhang Guolao",
+   "Zhongli Quan",
+   "Lan Caihe",
+   "Lü Dongbin",
+   "He Xiangu",
+   "Han Xiangzi",
+   "Cao Guojiu",
+   "Tieguai Li"
+  ]
+ },
+ "mythologies-asie-est_mazu": {
+  "qid": "Q418226",
+  "P569": [
+   "960"
+  ],
+  "P570": [
+   "987"
+  ],
+  "P27": [
+   "dynastie Song"
+  ],
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "mythologies-asie-est_nian": {
+  "qid": "Q2074728"
+ },
+ "mythologies-asie-est_jiangshi": {
+  "qid": "Q1198159"
+ },
+ "mythologies-asie-est_zhu-bajie": {
+  "qid": "Q1148977"
+ },
+ "mythologies-asie-est_budai": {
+  "qid": "Q599838",
+  "P569": [
+   "850"
+  ],
+  "P570": [
+   "916"
+  ],
+  "P27": [
+   "dynastie Tang"
+  ]
+ },
+ "mythologies-asie-est_kshitigarbha": {
+  "qid": "Q604687",
+  "P527": [
+   "Shōgun kṣitigarbha"
+  ]
+ },
+ "mythologies-asie-est_nyctereutes": {
+  "qid": "Q2900104"
+ },
+ "mythologies-asie-est_yuki-onna": {
+  "qid": "Q372468",
+  "P571": [
+   "1500"
+  ]
+ },
+ "mythologies-asie-est_onamazu": {
+  "qid": "Q257275"
+ },
+ "mythologies-asie-est_momotaro": {
+  "qid": "Q877820",
+  "P27": [
+   "Japon"
+  ]
+ },
+ "mythologies-asie-est_urashima-taro": {
+  "qid": "Q55617997",
+  "P495": [
+   "Japon"
+  ],
+  "P136": [
+   "setsuwa"
+  ]
+ },
+ "mythologies-asie-est_renard-a-neuf-queues": {
+  "qid": "Q15063121"
+ },
+ "mythologies-asie-est_dokkaebi": {
+  "qid": "Q720347"
+ },
+ "mythologies-asie-est_xiezhi": {
+  "qid": "Q487324"
+ }
+}

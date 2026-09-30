@@ -1,0 +1,133 @@
+{
+ "mythologies-slaves_peroun": {
+  "qid": "Q206561"
+ },
+ "mythologies-slaves_veles-mythologie": {
+  "qid": "Q824249",
+  "P101": [
+   "mythologie slave",
+   "religion slave"
+  ]
+ },
+ "mythologies-slaves_baba-yaga": {
+  "qid": "Q187002"
+ },
+ "mythologies-slaves_roussalka": {
+  "qid": "Q336237"
+ },
+ "mythologies-slaves_svarog": {
+  "qid": "Q689826"
+ },
+ "mythologies-slaves_mokoch": {
+  "qid": "Q817358"
+ },
+ "mythologies-slaves_dajbog": {
+  "qid": "Q1144144"
+ },
+ "mythologies-slaves_stribog": {
+  "qid": "Q911168"
+ },
+ "mythologies-slaves_lada-mythologie": {
+  "qid": "Q1298222"
+ },
+ "mythologies-slaves_yarilo": {
+  "qid": "Q1144150"
+ },
+ "mythologies-slaves_tchernobog": {
+  "qid": "Q587825"
+ },
+ "mythologies-slaves_belbog": {
+  "qid": "Q168296"
+ },
+ "mythologies-slaves_domovoi": {
+  "qid": "Q1657782"
+ },
+ "mythologies-slaves_liechi": {
+  "qid": "Q1056876"
+ },
+ "mythologies-slaves_vodianoi": {
+  "qid": "Q720378"
+ },
+ "mythologies-slaves_kikimora-mythologie": {
+  "qid": "Q253026"
+ },
+ "mythologies-slaves_bannik": {
+  "qid": "Q2417701"
+ },
+ "mythologies-slaves_kochtchei": {
+  "qid": "Q1140396"
+ },
+ "mythologies-slaves_zmei": {
+  "qid": "Q48809059"
+ },
+ "mythologies-slaves_alkonost": {
+  "qid": "Q867336",
+  "P17": [
+   "Russie"
+  ]
+ },
+ "mythologies-slaves_sirin": {
+  "qid": "Q1140415"
+ },
+ "mythologies-slaves_oiseau-de-feu": {
+  "qid": "Q844432"
+ },
+ "mythologies-slaves_perkunas": {
+  "qid": "Q616848",
+  "P495": [
+   "Lituanie"
+  ]
+ },
+ "mythologies-slaves_laima": {
+  "qid": "Q1543737"
+ },
+ "mythologies-slaves_morana-deesse": {
+  "qid": "Q936979"
+ },
+ "mythologies-slaves_triglav-mythologie": {
+  "qid": "Q591914"
+ },
+ "mythologies-slaves_svantovit": {
+  "qid": "Q147914"
+ },
+ "mythologies-slaves_rod-mythologie": {
+  "qid": "Q1986441"
+ },
+ "mythologies-slaves_wili": {
+  "qid": "Q854827"
+ },
+ "mythologies-slaves_gamaioun": {
+  "qid": "Q2014436"
+ },
+ "mythologies-slaves_ilya-mouromets": {
+  "qid": "Q1146624",
+  "P569": [
+   "1148"
+  ],
+  "P570": [
+   "1203"
+  ]
+ },
+ "mythologies-slaves_sadko-mythologie": {
+  "qid": "Q1318099"
+ },
+ "mythologies-slaves_vassilissa-la-tres-belle": {
+  "qid": "Q1219413",
+  "P495": [
+   "Union soviétique"
+  ],
+  "P577": [
+   "1940"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "film ou téléfilm pour enfants"
+  ]
+ },
+ "mythologies-slaves_ivan-tsarevitch": {
+  "qid": "Q1676032"
+ },
+ "mythologies-slaves_saule": {
+  "qid": "Q3048328"
+ }
+}

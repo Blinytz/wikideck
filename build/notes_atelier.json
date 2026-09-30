@@ -4572,13 +4572,6 @@
    "original": true,
    "editeLe": 1783717079405
   },
-  "souverains-et-conquerants_marie-ire-reine-d-angleterre": {
-   "cx": 0.5,
-   "cy": 0.3461,
-   "w": 1,
-   "original": true,
-   "editeLe": 1783717108423
-  },
   "souverains-et-conquerants_casimir-iii-le-grand": {
    "cx": 0.5,
    "cy": 0.3269,
@@ -4789,13 +4782,6 @@
    "original": true,
    "editeLe": 1783718318644
   },
-  "dirigeants-contemporains_abraham-lincoln": {
-   "cx": 0.5,
-   "cy": 0.4118,
-   "w": 1,
-   "original": true,
-   "editeLe": 1783716154179
-  },
   "dirigeants-contemporains_otto-von-bismarck": {
    "cx": 0.5,
    "cy": 0.4108,
@@ -4823,13 +4809,6 @@
    "w": 1,
    "original": true,
    "editeLe": 1783716962485
-  },
-  "dirigeants-contemporains_victoria-reine": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7157,
-   "original": true,
-   "editeLe": 1783717990125
   },
   "dirigeants-contemporains_simon-bolivar": {
    "cx": 0.5,
@@ -7610,20 +7589,6 @@
    "editeLe": 1786305286492,
    "original": true
   },
-  "souverains-et-conquerants_guillaume-le-conquerant": {
-   "cx": 0.5,
-   "cy": 0.3548,
-   "w": 1,
-   "editeLe": 1786305321912,
-   "original": true
-  },
-  "souverains-et-conquerants_richard-c-ur-de-lion": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "editeLe": 1786305359198,
-   "original": true
-  },
   "souverains-et-conquerants_frederic-barberousse": {
    "cx": 0.5,
    "cy": 0.3482,
@@ -7652,20 +7617,6 @@
    "editeLe": 1786305746223,
    "original": true
   },
-  "souverains-et-conquerants_elisabeth-ire-reine-d-angleterre": {
-   "cx": 0.5,
-   "cy": 0.3627,
-   "w": 1,
-   "editeLe": 1786305750993,
-   "original": true
-  },
-  "souverains-et-conquerants_henri-viii": {
-   "cx": 0.5,
-   "cy": 0.3439,
-   "w": 1,
-   "editeLe": 1786305755210,
-   "original": true
-  },
   "souverains-et-conquerants_francois-ier-roi-de-france": {
    "cx": 0.5,
    "cy": 0.3191,
@@ -7692,13 +7643,6 @@
    "cy": 0.4866,
    "w": 1,
    "editeLe": 1786305800058,
-   "original": true
-  },
-  "souverains-et-conquerants_oliver-cromwell": {
-   "cx": 0.5,
-   "cy": 0.3883,
-   "w": 1,
-   "editeLe": 1786305833532,
    "original": true
   },
   "souverains-et-conquerants_louis-xvi": {
@@ -7748,13 +7692,6 @@
    "cy": 0.4351,
    "w": 1,
    "editeLe": 1786305948727,
-   "original": true
-  },
-  "dirigeants-contemporains_george-washington": {
-   "cx": 0.5,
-   "cy": 0.4972,
-   "w": 1,
-   "editeLe": 1786305976455,
    "original": true
   },
   "dirigeants-contemporains_maximilien-de-robespierre": {
@@ -7867,48 +7804,6 @@
    "cy": 0.4146,
    "w": 1,
    "editeLe": 1786306227059,
-   "original": true
-  },
-  "dirigeants-contemporains_theodore-roosevelt": {
-   "cx": 0.5,
-   "cy": 0.4784,
-   "w": 1,
-   "editeLe": 1786306232318,
-   "original": true
-  },
-  "dirigeants-contemporains_woodrow-wilson": {
-   "cx": 0.5,
-   "cy": 0.3185,
-   "w": 1,
-   "editeLe": 1786306237851,
-   "original": true
-  },
-  "dirigeants-contemporains_franklin-delano-roosevelt": {
-   "cx": 0.5,
-   "cy": 0.3908,
-   "w": 1,
-   "editeLe": 1786306243077,
-   "original": true
-  },
-  "dirigeants-contemporains_harry-s-truman": {
-   "cx": 0.5,
-   "cy": 0.421,
-   "w": 1,
-   "editeLe": 1786306247209,
-   "original": true
-  },
-  "dirigeants-contemporains_dwight-d-eisenhower": {
-   "cx": 0.5,
-   "cy": 0.4311,
-   "w": 1,
-   "editeLe": 1786306254090,
-   "original": true
-  },
-  "dirigeants-contemporains_john-fitzgerald-kennedy": {
-   "cx": 0.5,
-   "cy": 0.4297,
-   "w": 1,
-   "editeLe": 1786306257801,
    "original": true
   },
   "dirigeants-contemporains_meiji-empereur": {
@@ -8056,13 +7951,6 @@
    "cy": 0.3073,
    "w": 1,
    "editeLe": 1786306745080,
-   "original": true
-  },
-  "dirigeants-contemporains_ronald-reagan": {
-   "cx": 0.5,
-   "cy": 0.4051,
-   "w": 1,
-   "editeLe": 1786306764972,
    "original": true
   },
   "dirigeants-contemporains_mikhail-gorbatchev": {
@@ -29674,13 +29562,6 @@
    "editeLe": 1789147533531,
    "original": true
   },
-  "figures-religieuses_pierre-apotre": {
-   "cx": 0.5,
-   "cy": 0.328,
-   "w": 1,
-   "editeLe": 1789147573114,
-   "original": true
-  },
   "figures-religieuses_marie-mere-de-jesus": {
    "cx": 0.5,
    "cy": 0.3886,
@@ -29758,13 +29639,6 @@
    "editeLe": 1789147774573,
    "original": true
   },
-  "figures-religieuses_jean-paul-ii": {
-   "cx": 0.5,
-   "cy": 0.3672,
-   "w": 1,
-   "editeLe": 1789147778884,
-   "original": true
-  },
   "figures-religieuses_benoit-de-nursie": {
    "cx": 0.5,
    "cy": 0.3114,
@@ -29784,13 +29658,6 @@
    "cy": 0.4169,
    "w": 1,
    "editeLe": 1789147824142,
-   "original": true
-  },
-  "figures-religieuses_gregoire-ier": {
-   "cx": 0.5174,
-   "cy": 0.4878,
-   "w": 0.8264,
-   "editeLe": 1789147867711,
    "original": true
   },
   "figures-religieuses_cyrille-et-methode": {
@@ -31592,25 +31459,11 @@
    "editeLe": 1790106332986,
    "original": true
   },
-  "fleuves-mers-et-oceans_mer-morte": {
-   "cx": 0.5057,
-   "cy": 0.5,
-   "w": 0.9107,
-   "editeLe": 1790106435951,
-   "original": true
-  },
   "fleuves-mers-et-oceans_mer-noire": {
    "cx": 0.5,
    "cy": 0.4918,
    "w": 1,
    "editeLe": 1790106441636,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_mer-caspienne": {
-   "cx": 0.5,
-   "cy": 0.5685,
-   "w": 1,
-   "editeLe": 1790106479441,
    "original": true
   },
   "fleuves-mers-et-oceans_mer-des-caraibes": {
@@ -31625,13 +31478,6 @@
    "cy": 0.544,
    "w": 0.9091,
    "editeLe": 1790106542457,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_mer-d-aral": {
-   "cx": 0.4072,
-   "cy": 0.5,
-   "w": 0.8144,
-   "editeLe": 1790106607103,
    "original": true
   },
   "fleuves-mers-et-oceans_mer-de-corail": {
@@ -31674,27 +31520,6 @@
    "cy": 0.5,
    "w": 0.7405,
    "editeLe": 1790106860958,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_lac-baikal": {
-   "cx": 0.3918,
-   "cy": 0.5,
-   "w": 0.6857,
-   "editeLe": 1790106944702,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_lac-victoria": {
-   "cx": 0.4667,
-   "cy": 0.5,
-   "w": 0.9333,
-   "editeLe": 1790106999421,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_lac-titicaca": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790107025592,
    "original": true
   },
   "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
@@ -47160,34 +46985,6 @@
    "editeLe": 1790509313624,
    "original": true
   },
-  "fleuves-mers-et-oceans_leman": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509381759,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_lac-tanganyika": {
-   "cx": 0.5,
-   "cy": 0.428,
-   "w": 1,
-   "editeLe": 1790509448214,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_lac-tchad": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8883,
-   "editeLe": 1790509683926,
-   "original": true
-  },
-  "fleuves-mers-et-oceans_loch-ness": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509720091,
-   "original": true
-  },
   "fleuves-mers-et-oceans_salto-angel": {
    "cx": 0.4948,
    "cy": 0.3099,
@@ -48488,13 +48285,6 @@
    "editeLe": 1790413274273,
    "original": true
   },
-  "dirigeants-contemporains_thomas-jefferson": {
-   "cx": 0.5,
-   "cy": 0.4152,
-   "w": 1,
-   "editeLe": 1790413277798,
-   "original": true
-  },
   "dirigeants-contemporains_benito-juarez": {
    "cx": 0.4614,
    "cy": 0.3098,
@@ -48549,20 +48339,6 @@
    "cy": 0.4819,
    "w": 1,
    "editeLe": 1790413346003,
-   "original": true
-  },
-  "dirigeants-contemporains_richard-nixon": {
-   "cx": 0.5,
-   "cy": 0.4206,
-   "w": 1,
-   "editeLe": 1790413351062,
-   "original": true
-  },
-  "dirigeants-contemporains_barack-obama": {
-   "cx": 0.5,
-   "cy": 0.319,
-   "w": 1,
-   "editeLe": 1790413355458,
    "original": true
   },
   "dirigeants-contemporains_salvador-allende": {
@@ -53532,6 +53308,4582 @@
    "w": 0.64,
    "editeLe": 1790790978990,
    "original": true
+  },
+  "presidents-des-etats-unis_george-washington": {
+   "cx": 0.5,
+   "cy": 0.4972,
+   "w": 1,
+   "editeLe": 1786305976455,
+   "original": true
+  },
+  "presidents-des-etats-unis_thomas-jefferson": {
+   "cx": 0.5,
+   "cy": 0.4152,
+   "w": 1,
+   "editeLe": 1790413277798,
+   "original": true
+  },
+  "presidents-des-etats-unis_abraham-lincoln": {
+   "cx": 0.5,
+   "cy": 0.4118,
+   "w": 1,
+   "original": true,
+   "editeLe": 1783716154179
+  },
+  "presidents-des-etats-unis_theodore-roosevelt": {
+   "cx": 0.5,
+   "cy": 0.4784,
+   "w": 1,
+   "editeLe": 1786306232318,
+   "original": true
+  },
+  "presidents-des-etats-unis_woodrow-wilson": {
+   "cx": 0.5,
+   "cy": 0.3185,
+   "w": 1,
+   "editeLe": 1786306237851,
+   "original": true
+  },
+  "presidents-des-etats-unis_franklin-delano-roosevelt": {
+   "cx": 0.5,
+   "cy": 0.3908,
+   "w": 1,
+   "editeLe": 1786306243077,
+   "original": true
+  },
+  "presidents-des-etats-unis_harry-s-truman": {
+   "cx": 0.5,
+   "cy": 0.421,
+   "w": 1,
+   "editeLe": 1786306247209,
+   "original": true
+  },
+  "presidents-des-etats-unis_dwight-d-eisenhower": {
+   "cx": 0.5,
+   "cy": 0.4311,
+   "w": 1,
+   "editeLe": 1786306254090,
+   "original": true
+  },
+  "presidents-des-etats-unis_john-fitzgerald-kennedy": {
+   "cx": 0.5,
+   "cy": 0.4297,
+   "w": 1,
+   "editeLe": 1786306257801,
+   "original": true
+  },
+  "presidents-des-etats-unis_richard-nixon": {
+   "cx": 0.5,
+   "cy": 0.4206,
+   "w": 1,
+   "editeLe": 1790413351062,
+   "original": true
+  },
+  "presidents-des-etats-unis_ronald-reagan": {
+   "cx": 0.5,
+   "cy": 0.4051,
+   "w": 1,
+   "editeLe": 1786306764972,
+   "original": true
+  },
+  "presidents-des-etats-unis_barack-obama": {
+   "cx": 0.5,
+   "cy": 0.319,
+   "w": 1,
+   "editeLe": 1790413355458,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_guillaume-le-conquerant": {
+   "cx": 0.5,
+   "cy": 0.3548,
+   "w": 1,
+   "editeLe": 1786305321912,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_richard-c-ur-de-lion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1786305359198,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_henri-viii": {
+   "cx": 0.5,
+   "cy": 0.3439,
+   "w": 1,
+   "editeLe": 1786305755210,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_marie-ire-reine-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.3461,
+   "w": 1,
+   "original": true,
+   "editeLe": 1783717108423
+  },
+  "monarques-anglais-et-britanniques_elisabeth-ire-reine-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.3627,
+   "w": 1,
+   "editeLe": 1786305750993,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_oliver-cromwell": {
+   "cx": 0.5,
+   "cy": 0.3883,
+   "w": 1,
+   "editeLe": 1786305833532,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_victoria-reine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7157,
+   "original": true,
+   "editeLe": 1783717990125
+  },
+  "papes_pierre-apotre": {
+   "cx": 0.5,
+   "cy": 0.328,
+   "w": 1,
+   "editeLe": 1789147573114,
+   "original": true
+  },
+  "papes_gregoire-ier": {
+   "cx": 0.5174,
+   "cy": 0.4878,
+   "w": 0.8264,
+   "editeLe": 1789147867711,
+   "original": true
+  },
+  "papes_jean-paul-ii": {
+   "cx": 0.5,
+   "cy": 0.3672,
+   "w": 1,
+   "editeLe": 1789147778884,
+   "original": true
+  },
+  "lacs_mer-caspienne": {
+   "cx": 0.5,
+   "cy": 0.5685,
+   "w": 1,
+   "editeLe": 1790106479441,
+   "original": true
+  },
+  "lacs_lac-victoria": {
+   "cx": 0.4667,
+   "cy": 0.5,
+   "w": 0.9333,
+   "editeLe": 1790106999421,
+   "original": true
+  },
+  "lacs_lac-tanganyika": {
+   "cx": 0.5,
+   "cy": 0.428,
+   "w": 1,
+   "editeLe": 1790509448214,
+   "original": true
+  },
+  "lacs_lac-baikal": {
+   "cx": 0.3918,
+   "cy": 0.5,
+   "w": 0.6857,
+   "editeLe": 1790106944702,
+   "original": true
+  },
+  "lacs_lac-titicaca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790107025592,
+   "original": true
+  },
+  "lacs_lac-tchad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883,
+   "editeLe": 1790509683926,
+   "original": true
+  },
+  "lacs_mer-d-aral": {
+   "cx": 0.4072,
+   "cy": 0.5,
+   "w": 0.8144,
+   "editeLe": 1790106607103,
+   "original": true
+  },
+  "lacs_leman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790509381759,
+   "original": true
+  },
+  "lacs_loch-ness": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790509720091,
+   "original": true
+  },
+  "lacs_mer-morte": {
+   "cx": 0.5057,
+   "cy": 0.5,
+   "w": 0.9107,
+   "editeLe": 1790106435951,
+   "original": true
+  },
+  "presidents-des-etats-unis_john-adams-homme-d-etat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_james-madison": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_james-monroe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_john-quincy-adams": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_andrew-jackson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_martin-van-buren": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_william-henry-harrison": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_john-tyler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_james-k-polk": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_zachary-taylor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_millard-fillmore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_franklin-pierce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_james-buchanan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_andrew-johnson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_ulysses-s-grant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_rutherford-b-hayes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_james-a-garfield": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_chester-a-arthur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_grover-cleveland": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_benjamin-harrison": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_william-mckinley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_william-howard-taft": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_warren-g-harding": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_calvin-coolidge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_herbert-hoover": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_lyndon-b-johnson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_gerald-ford": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_jimmy-carter": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_george-h-w-bush": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_bill-clinton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_george-w-bush": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_donald-trump": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-des-etats-unis_joe-biden": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_guillaume-le-roux": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-ier-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_etienne-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-ii-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_jean-sans-terre": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-iii-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-ii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_richard-ii": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-iv-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.30984375,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-v-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-vi-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-iv": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-v": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_richard-iii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_henri-vii-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-vi": {
+   "cx": 0.5,
+   "cy": 0.301875,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_jacques-vi-et-ier": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_charles-ier-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.29578125,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_charles-ii-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.3035888671875,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_jacques-ii-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_guillaume-iii-d-orange-nassau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6966666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_marie-ii-reine-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.303,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_anne-reine-de-grande-bretagne": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-ier-roi-de-grande-bretagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-ii-roi-de-grande-bretagne": {
+   "cx": 0.48,
+   "cy": 0.27,
+   "w": 0.55,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-iii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-iv": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_guillaume-iv-roi-du-royaume-uni": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-vii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-v": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-viii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_george-vi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_elisabeth-ii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-iii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_leon-ier-pape": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_leon-iii-pape": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_sylvestre-ii": {
+   "cx": 0.5,
+   "cy": 0.38,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_gregoire-vii": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_urbain-ii": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_alexandre-vi": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_benoit-xv": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_benoit-xvi": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_boniface-viii": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_clement-v": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_clement-vii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_francois-pape": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_gregoire-xiii": {
+   "cx": 0.5,
+   "cy": 0.30303030303030304,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_innocent-iii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_jean-paul-ier": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_jean-xxii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_jean-xxiii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_jules-ii": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_leon-x": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_leon-xiii": {
+   "cx": 0.5,
+   "cy": 0.250078125,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_leon-xiv": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_paul-iii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_paul-vi": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-ix": {
+   "cx": 0.55,
+   "cy": 0.5,
+   "w": 0.885,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-vi": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-vii": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-xi": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-xii": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_sixte-v": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_urbain-viii": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_agence-internationale-de-l-energie-atomique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8235294117647058,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_amnesty-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_association-des-nations-de-l-asie-du-sud-est": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888235294117647,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_banque-mondiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_brics": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_comite-international-de-la-croix-rouge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888095238095238,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_comite-international-olympique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_commonwealth": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_conseil-de-l-europe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_conseil-de-securite-des-nations-unies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_cour-internationale-de-justice": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_cour-penale-internationale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.915625,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_fonds-des-nations-unies-pour-l-enfance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_fonds-monetaire-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_greenpeace": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_groupe-des-vingt": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_interpol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_ligue-arabe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.84,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-de-cooperation-et-de-developpement-economiques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7239583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-des-etats-americains": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8858333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-des-nations-unies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-des-pays-exportateurs-de-petrole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8922222222222222,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-du-traite-de-l-atlantique-nord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-internationale-de-la-francophonie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7498666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-internationale-du-travail": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-mondiale-de-la-sante": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9908333333333332,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-mondiale-du-commerce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7493333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_pacte-de-varsovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_societe-des-nations": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_union-africaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_union-europeenne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.895,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-des-nations-unies-pour-l-education-la-science-et-la-culture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_medecins-sans-frontieres": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_sahara": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-gobi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-d-atacama": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.765,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-kalahari": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-namib": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_rub-al-khali": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7458333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_neguev": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9523809523809523,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-thar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-taklamakan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9993238674780257,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-des-mojaves": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7619047619047619,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_vallee-de-la-mort": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-sonora": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-chihuahua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6475,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_grand-desert-de-victoria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7786666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-simpson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-karakoum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-du-kyzylkoum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_dacht-e-lout": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_dacht-e-kavir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-libyque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_tenere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.865,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_depression-de-l-afar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_wadi-rum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8864583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-tabernas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8364583333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_bardenas-reales": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-blanc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_steppe-patagonienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_grand-erg-oriental": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-de-syrie": {
+   "cx": 0.4,
+   "cy": 0.5,
+   "w": 0.66,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-superieur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-huron": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7491666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-michigan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_grand-lac-de-l-ours": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-malawi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-erie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-ontario": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-ladoga": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-balkhach": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-du-bourget": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8858333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-d-annecy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-de-come": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-de-garde": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-majeur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8927083333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-de-constance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-tana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-turkana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-kivu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_grand-lac-sale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-tahoe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.753125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-louise-alberta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-inle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6341666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-toba": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8858333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-de-bled": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8880208333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_parc-national-des-lacs-de-plitvice": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-rose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-natron": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-de-tiberiade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9427083333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_auvergne-rhone-alpes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9991319444444445,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_bourgogne-franche-comte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_bretagne-region-administrative": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_centre-val-de-loire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_politique-en-corse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_grand-est": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_hauts-de-france": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.909375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_ile-de-france": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.92,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_nouvelle-aquitaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_occitanie-region-administrative": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_pays-de-la-loire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_provence-alpes-cote-d-azur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_guyane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_normandie-region-administrative": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_humanisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_pleiade-xvie-siecle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_litterature-baroque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_preciosite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9497435897435899,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_classicisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_lumieres-philosophie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8729166666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_romantisme": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_realisme-litterature": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_naturalisme-litterature": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_parnasse-poesie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.878125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_symbolisme-art": {
+   "cx": 0.42,
+   "cy": 0.5,
+   "w": 0.6666666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_decadentisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_surrealisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9713541666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_dada": {
+   "cx": 0.5,
+   "cy": 0.375,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_existentialisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9104166666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_theatre-de-l-absurde": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.984375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_nouveau-roman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9291633253140872,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_oulipo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8633333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_negritude": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7494356659142212,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_beat-generation": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_generation-perdue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_realisme-magique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8337899543378995,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_futurisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9831029185867897,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_sturm-und-drang": {
+   "cx": 0.52,
+   "cy": 0.5,
+   "w": 0.9,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_preromantisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_les-hussards-mouvement-litteraire": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-litterature": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_nouvelle": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_conte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_fable": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_poesie": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_sonnet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_haiku": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7947916666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_ballade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_epopee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8219992567818655,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_tragedie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_comedie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_drame-romantique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_vaudeville": {
+   "cx": 0.5,
+   "cy": 0.55,
+   "w": 0.94,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_farce-theatre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9177083333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_essai": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_autobiographie": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-epistolaire": {
+   "cx": 0.5,
+   "cy": 0.55,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-policier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_science-fiction": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_fantasy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-d-aventures": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-historique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_utopie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_dystopie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_pamphlet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_chanson-de-geste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-de-chevalerie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_a-l-ombre-des-jeunes-filles-en-fleurs": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-feu-barbusse": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_la-condition-humaine": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_les-mandarins": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_les-racines-du-ciel": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_la-vie-devant-soi": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_l-amant-roman": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-roi-des-aulnes-roman": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_rue-des-boutiques-obscures": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-rivage-des-syrtes": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_les-bienveillantes": {
+   "cx": 0.5,
+   "cy": 0.3280141843971631,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_la-carte-et-le-territoire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9625,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_au-revoir-la-haut": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_chanson-douce": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_l-ordre-du-jour-recit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_l-anomalie": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_la-plus-secrete-memoire-des-hommes": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_veiller-sur-elle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_houris-roman": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_trois-femmes-puissantes": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-sermon-sur-la-chute-de-rome": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_pas-pleurer": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_leurs-enfants-apres-eux": {
+   "cx": 0.42,
+   "cy": 0.5,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_les-grandes-familles": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_batouala": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-soleil-des-scorta": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_le-rocher-de-tanios": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_les-champs-d-honneur": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "prix-goncourt_la-bataille-roman-de-rambaud": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_foie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_erythrocyte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_systeme-immunitaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_c-ur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_encephale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_poumon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7475,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_rein": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_estomac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_intestin-grele": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_colon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_pancreas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_rate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_vesicule-biliaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_peau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_il-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_oreille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_langue-anatomie-humaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_nez": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_glande-thyroide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_squelette-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_muscle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_sang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_moelle-osseuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_systeme-nerveux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_systeme-endocrinien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7208333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_appareil-digestif": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_appareil-cardiovasculaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7475,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_appareil-respiratoire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_systeme-lymphatique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_neurone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_acide-desoxyribonucleique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_hypophyse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_moelle-spinale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_cervelet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_diaphragme-organe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_cornee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_tympan-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_hippocampe-cerveau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_retine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_grippe-espagnole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9989583333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_peste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9991666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_tuberculose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8894451397580309,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_paludisme": {
+   "cx": 0.32,
+   "cy": 0.33,
+   "w": 0.62,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_rougeole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_maladie-a-virus-ebola": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_syphilis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_diphterie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_tetanos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_grippe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8825,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_peste-de-justinien": {
+   "cx": 0.5,
+   "cy": 0.62,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_maladie-a-virus-zika": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_syndrome-d-immunodeficience-acquise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_poliomyelite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_typhus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_peste-noire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_maladie-a-coronavirus-2019": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_variole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_cholera": {
+   "cx": 0.5,
+   "cy": 0.39,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_lepre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9922041105598866,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_rage-maladie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_fievre-jaune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_scorbut": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_dengue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_diabete-sucre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_maladie-d-alzheimer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6020833333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_maladie-de-parkinson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_accident-vasculaire-cerebral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5308333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_infarctus-du-myocarde": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7475,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_epilepsie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.715,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_hemophilie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_mucoviscidose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_sclerose-en-plaques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.71,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_asthme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5308333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_variole-simienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theoreme-de-pythagore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_lois-de-kepler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_relativite-generale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-de-boyle-mariotte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-de-coulomb-electrostatique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-de-hooke": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_principe-de-pascal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7947916666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_dernier-theoreme-de-fermat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_suite-de-fibonacci": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.825,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_nombre-d-or": {
+   "cx": 0.535,
+   "cy": 0.5,
+   "w": 0.66,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theoreme-des-quatre-couleurs": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_conjecture-de-poincare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_effet-photoelectrique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_lois-du-mouvement-de-newton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-universelle-de-la-gravitation": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7272727272727273,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_relativite-restreinte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-d-ohm": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8880503144654088,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_conservation-de-l-energie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_conservation-de-la-masse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_lois-de-snell-descartes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-de-moore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.88,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_selection-naturelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_lois-de-mendel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9483333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_big-bang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_tectonique-des-plaques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theoreme-de-thales": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_poussee-d-archimede": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_e-mc2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_principe-d-incertitude": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_deuxieme-principe-de-la-thermodynamique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-d-avogadro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_effet-doppler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7477477477477478,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theoremes-d-incompletude-de-godel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_pi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_leucocyte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_cancer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_equations-de-maxwell": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_christianisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.86875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_islam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.890625,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_hindouisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_bouddhisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9383333333333332,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_judaisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_sikhisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_taoisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_confucianisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8391666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_shintoisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8895833333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_jainisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7485714285714286,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_zoroastrisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_foi-baha-ie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_catholicisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_protestantisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_christianisme-orthodoxe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_sunnisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_chiisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_theravada": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.943030303030303,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_bouddhisme-mahayana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_bouddhisme-tibetain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_zen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_anglicanisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_vaudou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_candomble": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_mouvement-rastafari": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_temoins-de-jehovah": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_manicheisme-religion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_religion-de-l-egypte-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9116666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_religion-grecque-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_bible": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_ancien-testament": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8216666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_nouveau-testament": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_torah": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_talmud": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_coran": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_hadith": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7658333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_veda": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7889546351084812,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_rig-veda": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_upanishad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.93125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_bhagavad-gita": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_tripitaka": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_sutra-du-lotus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_entretiens-de-confucius": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_avesta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_guru-granth-sahib": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.87109375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_livre-de-mormon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8386473429951691,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_popol-vuh": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9658333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_evangile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_apocalypse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_livre-de-la-genese": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8267170762444864,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_psaume": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_kojiki": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_sefer-hazohar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9356555394291243,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_bardo-thodol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8823529411764706,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_manuscrits-de-la-mer-morte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_noel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7441666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_paques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_pentecote": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_ascension-fete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_toussaint": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7864583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_epiphanie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_careme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8864583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_mardi-gras": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_assomption": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_chandeleur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_dimanche-des-rameaux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_ramadan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7791666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_aid-el-fitr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_aid-al-adha": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_mawlid": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9523809523809524,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_achoura": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_pessa-h": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_yom-kippour": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_roch-hachana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_hanoucca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_pourim": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9366666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_souccot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.88125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_divali": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_holi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_vesak": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_nouvel-an-chinois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885714285714286,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_o-bon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_baisakhi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8892655367231638,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_navratri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_kumbh-mela": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8706666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_norouz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8895833333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_jour-des-morts-mexique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_tulipomanie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7659574468085106,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_grande-depression": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_krach-de-1929": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_premier-choc-petrolier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_deuxieme-choc-petrolier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.896875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_krach-d-octobre-1987": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-economique-asiatique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_bulle-internet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-des-subprimes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-de-la-dette-publique-grecque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_systeme-de-law": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_krach-de-1720": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9516666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_panique-du-18-septembre-1873": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7508333333333332,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_panique-bancaire-americaine-de-1907": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-economique-argentine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-bancaire-et-financiere-de-l-automne-2008": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6654228855721394,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_hyperinflation-au-zimbabwe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_apple": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_microsoft": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_google": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.975,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_amazon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_meta-entreprise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_tesla-automobile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8515742128935532,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_nvidia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_ibm": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_samsung-electronics": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_sony": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9991666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_toyota": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8226363008971704,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_volkswagen-group": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6458333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_ford": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_the-coca-cola-company": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_mcdonald-s": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9020833333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_lvmh-moet-hennessy-louis-vuitton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_chanel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8541666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_hermes-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8275,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_l-oreal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_totalenergies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8494921514312097,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_airbus-societe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_boeing": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_renault-group": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_michelin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_danone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_nestle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_ikea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_the-walt-disney-company": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7270833333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_netflix": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_openai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_compagnie-britannique-des-indes-orientales": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_standard-oil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9737609329446064,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_nokia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_lego": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9825,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_ferrari-entreprise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_alibaba-group": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_saudi-aramco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6658333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "entreprises-emblematiques_nike": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   }
  },
  "notes": [

@@ -1,0 +1,114 @@
+{
+ "prix-goncourt_a-l-ombre-des-jeunes-filles-en-fleurs": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_le-feu-barbusse": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "prix-goncourt_la-condition-humaine": {
+  "k": 2,
+  "cy": 0.3
+ },
+ "prix-goncourt_les-mandarins": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_les-racines-du-ciel": {
+  "k": 1,
+  "cy": 0.4
+ },
+ "prix-goncourt_la-vie-devant-soi": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_l-amant-roman": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_le-roi-des-aulnes-roman": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_rue-des-boutiques-obscures": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_le-rivage-des-syrtes": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "prix-goncourt_les-bienveillantes": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_la-carte-et-le-territoire": {
+  "k": 0
+ },
+ "prix-goncourt_au-revoir-la-haut": {
+  "k": 6
+ },
+ "prix-goncourt_chanson-douce": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_l-ordre-du-jour-recit": {
+  "k": 6
+ },
+ "prix-goncourt_l-anomalie": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_la-plus-secrete-memoire-des-hommes": {
+  "k": 1,
+  "cy": 0.4
+ },
+ "prix-goncourt_veiller-sur-elle": {
+  "k": 1
+ },
+ "prix-goncourt_houris-roman": {
+  "k": 3,
+  "cy": 0.3
+ },
+ "prix-goncourt_trois-femmes-puissantes": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_le-sermon-sur-la-chute-de-rome": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "prix-goncourt_pas-pleurer": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "prix-goncourt_leurs-enfants-apres-eux": {
+  "k": 4,
+  "cx": 0.42
+ },
+ "prix-goncourt_les-grandes-familles": {
+  "k": 10,
+  "cy": 0.4
+ },
+ "prix-goncourt_batouala": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "prix-goncourt_le-soleil-des-scorta": {
+  "k": 5,
+  "cy": 0.3
+ },
+ "prix-goncourt_le-rocher-de-tanios": {
+  "k": 7,
+  "cy": 0.4
+ },
+ "prix-goncourt_les-champs-d-honneur": {
+  "k": 7,
+  "cy": 0.3
+ },
+ "prix-goncourt_la-bataille-roman-de-rambaud": {
+  "k": 6,
+  "cy": 0.3
+ }
+}

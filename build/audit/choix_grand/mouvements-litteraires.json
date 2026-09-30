@@ -1,0 +1,89 @@
+{
+ "mouvements-litteraires_humanisme": {
+  "k": 0
+ },
+ "mouvements-litteraires_pleiade-xvie-siecle": {
+  "k": 6
+ },
+ "mouvements-litteraires_litterature-baroque": {
+  "k": 0
+ },
+ "mouvements-litteraires_preciosite": {
+  "k": 1
+ },
+ "mouvements-litteraires_classicisme": {
+  "k": 1
+ },
+ "mouvements-litteraires_lumieres-philosophie": {
+  "k": 10
+ },
+ "mouvements-litteraires_romantisme": {
+  "k": 0,
+  "cy": 0.45
+ },
+ "mouvements-litteraires_realisme-litterature": {
+  "k": 2
+ },
+ "mouvements-litteraires_naturalisme-litterature": {
+  "k": 2
+ },
+ "mouvements-litteraires_parnasse-poesie": {
+  "k": 0
+ },
+ "mouvements-litteraires_symbolisme-art": {
+  "k": 3,
+  "cx": 0.42
+ },
+ "mouvements-litteraires_decadentisme": {
+  "k": 8
+ },
+ "mouvements-litteraires_surrealisme": {
+  "k": 0
+ },
+ "mouvements-litteraires_dada": {
+  "k": 0,
+  "w": 0.75,
+  "cx": 0.5,
+  "cy": 0.375
+ },
+ "mouvements-litteraires_existentialisme": {
+  "k": 7
+ },
+ "mouvements-litteraires_theatre-de-l-absurde": {
+  "k": 0
+ },
+ "mouvements-litteraires_nouveau-roman": {
+  "k": 1
+ },
+ "mouvements-litteraires_oulipo": {
+  "k": 1
+ },
+ "mouvements-litteraires_negritude": {
+  "k": 3
+ },
+ "mouvements-litteraires_beat-generation": {
+  "k": 1
+ },
+ "mouvements-litteraires_generation-perdue": {
+  "k": 6
+ },
+ "mouvements-litteraires_realisme-magique": {
+  "k": 2
+ },
+ "mouvements-litteraires_futurisme": {
+  "k": 0
+ },
+ "mouvements-litteraires_sturm-und-drang": {
+  "k": 1,
+  "w": 0.9,
+  "cx": 0.52,
+  "cy": 0.5
+ },
+ "mouvements-litteraires_preromantisme": {
+  "k": 0
+ },
+ "mouvements-litteraires_les-hussards-mouvement-litteraire": {
+  "k": 6,
+  "cy": 0.4
+ }
+}

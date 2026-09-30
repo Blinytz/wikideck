@@ -1,0 +1,990 @@
+{
+ "elements-chimiques_hydrogene": {
+  "qid": "Q556"
+ },
+ "elements-chimiques_helium": {
+  "qid": "Q560"
+ },
+ "elements-chimiques_lithium": {
+  "qid": "Q568",
+  "P186": [
+   "lithiophilite",
+   "Amblygonite",
+   "Hectorite",
+   "Jadarite",
+   "Lépidolite",
+   "Spodumène"
+  ]
+ },
+ "elements-chimiques_beryllium": {
+  "qid": "Q569",
+  "P186": [
+   "béryl"
+  ]
+ },
+ "elements-chimiques_bore": {
+  "qid": "Q618",
+  "P186": [
+   "Jadarite"
+  ]
+ },
+ "elements-chimiques_carbone": {
+  "qid": "Q623"
+ },
+ "elements-chimiques_azote": {
+  "qid": "Q627"
+ },
+ "elements-chimiques_oxygene": {
+  "qid": "Q629",
+  "P527": [
+   "oxygen atom"
+  ]
+ },
+ "elements-chimiques_fluor": {
+  "qid": "Q650"
+ },
+ "elements-chimiques_neon": {
+  "qid": "Q654"
+ },
+ "elements-chimiques_sodium": {
+  "qid": "Q658",
+  "P186": [
+   "halite",
+   "Natron",
+   "cryolite",
+   "albite",
+   "analcime",
+   "Chabazite-Na",
+   "clinoptilolite-Na",
+   "heulandite-Na",
+   "Natrolite",
+   "phillipsite-Na",
+   "stilbite-Na",
+   "Glaucophane",
+   "riébeckite",
+   "eckermannite",
+   "Arfvedsonite",
+   "eau de mer",
+   "saumure"
+  ]
+ },
+ "elements-chimiques_magnesium": {
+  "qid": "Q660",
+  "P186": [
+   "magnésite",
+   "dolomite",
+   "Brucite",
+   "carnallite",
+   "talc",
+   "olivine"
+  ]
+ },
+ "elements-chimiques_aluminium": {
+  "qid": "Q663",
+  "P186": [
+   "bauxite"
+  ]
+ },
+ "elements-chimiques_silicium": {
+  "qid": "Q670"
+ },
+ "elements-chimiques_phosphore": {
+  "qid": "Q674",
+  "P186": [
+   "phosphorite",
+   "Triphylite",
+   "Monazite",
+   "hinsdalite",
+   "pyromorphite",
+   "Amblygonite",
+   "Lazulite",
+   "wavellite",
+   "turquoise",
+   "autunite",
+   "Phosphophyllite",
+   "struvite",
+   "xenotime-(Y)",
+   "apatite",
+   "Hydroxyapatite",
+   "fluorapatite",
+   "chlorapatite",
+   "urine",
+   "bone ash",
+   "guano"
+  ]
+ },
+ "elements-chimiques_soufre": {
+  "qid": "Q682"
+ },
+ "elements-chimiques_chlore": {
+  "qid": "Q688"
+ },
+ "elements-chimiques_argon": {
+  "qid": "Q696"
+ },
+ "elements-chimiques_potassium": {
+  "qid": "Q703"
+ },
+ "elements-chimiques_calcium": {
+  "qid": "Q706"
+ },
+ "elements-chimiques_scandium": {
+  "qid": "Q713",
+  "P186": [
+   "Thortveitite"
+  ]
+ },
+ "elements-chimiques_titane": {
+  "qid": "Q716",
+  "P186": [
+   "rutile",
+   "ilménite",
+   "Anatase",
+   "brookite",
+   "pérovskite",
+   "Titanite",
+   "akaogiite"
+  ]
+ },
+ "elements-chimiques_vanadium": {
+  "qid": "Q722",
+  "P186": [
+   "Vanadinite",
+   "Patronite",
+   "Carnotite",
+   "shcherbinaite",
+   "Colimaïte",
+   "rhabdoborite-(V)",
+   "ardennite-(V)"
+  ]
+ },
+ "elements-chimiques_chrome": {
+  "qid": "Q725",
+  "P186": [
+   "chromite"
+  ]
+ },
+ "elements-chimiques_manganese": {
+  "qid": "Q731",
+  "P186": [
+   "pyrolusite",
+   "braunite mineral group",
+   "psilomélane",
+   "rhodochrosite",
+   "nodule polymétallique"
+  ]
+ },
+ "elements-chimiques_fer": {
+  "qid": "Q677"
+ },
+ "elements-chimiques_cobalt": {
+  "qid": "Q740",
+  "P186": [
+   "cobaltite",
+   "Safflorite",
+   "Glaucodot",
+   "Skuttérudite",
+   "cattiérite",
+   "érythrite",
+   "sphaérocobaltite"
+  ]
+ },
+ "elements-chimiques_nickel": {
+  "qid": "Q744",
+  "P186": [
+   "phosphocyclite-(Ni)",
+   "paratacamite-(Ni)",
+   "tetrahedrite-(Ni)",
+   "tennantite-(Ni)",
+   "Garniérite",
+   "Pentlandite",
+   "Pyrrhotite",
+   "millérite",
+   "nickéline"
+  ]
+ },
+ "elements-chimiques_cuivre": {
+  "qid": "Q753",
+  "P186": [
+   "chalcopyrite",
+   "chalcocite",
+   "covellite",
+   "bornite",
+   "tetrahedrite-(Cu)",
+   "digénite",
+   "malachite",
+   "azurite",
+   "cuprite",
+   "chrysocolle",
+   "tennantite-(Cu)",
+   "dioptase",
+   "énargite"
+  ]
+ },
+ "elements-chimiques_zinc": {
+  "qid": "Q758",
+  "P186": [
+   "sphalérite",
+   "smithsonite",
+   "hémimorphite",
+   "Wurtzite",
+   "hydrozincite",
+   "tetrahedrite-(Zn)",
+   "tennantite-(Zn)",
+   "zvĕstovite-(Zn)",
+   "hakite-(Zn)",
+   "Argentotennantite",
+   "argentotetrahedrite-(Zn)",
+   "beaverite-(Zn)",
+   "giraudite-(Zn)",
+   "kenoargentotetrahedrite-(Zn)",
+   "rozhdestvenskayaite-(Zn)",
+   "minerai de zinc"
+  ]
+ },
+ "elements-chimiques_gallium": {
+  "qid": "Q861",
+  "P186": [
+   "gallite",
+   "bauxite",
+   "minerai de zinc"
+  ]
+ },
+ "elements-chimiques_germanium": {
+  "qid": "Q867",
+  "P186": [
+   "argyrodite",
+   "briartite",
+   "Germanite",
+   "renierite",
+   "sphalérite",
+   "cendre volante"
+  ]
+ },
+ "elements-chimiques_arsenic": {
+  "qid": "Q871",
+  "P186": [
+   "réalgar",
+   "Arsénopyrite",
+   "Arséniure (minéral)",
+   "minéral d'arséniate"
+  ]
+ },
+ "elements-chimiques_selenium": {
+  "qid": "Q876",
+  "P186": [
+   "Séléniure"
+  ]
+ },
+ "elements-chimiques_brome": {
+  "qid": "Q879",
+  "P186": [
+   "eau de mer",
+   "saumure"
+  ]
+ },
+ "elements-chimiques_krypton": {
+  "qid": "Q888"
+ },
+ "elements-chimiques_rubidium": {
+  "qid": "Q895",
+  "P186": [
+   "leucite",
+   "pollucite",
+   "carnallite",
+   "Zinnwaldite",
+   "Lépidolite"
+  ]
+ },
+ "elements-chimiques_strontium": {
+  "qid": "Q938",
+  "P186": [
+   "Strontianite",
+   "célestine",
+   "epidote-(Sr)",
+   "piemontite-(Sr)"
+  ]
+ },
+ "elements-chimiques_yttrium": {
+  "qid": "Q941",
+  "P186": [
+   "fergusonite-(Y)",
+   "gadolinite-(Y)",
+   "polycrase-(Y)",
+   "tanteuxenite-(Y)",
+   "aeschynite-(Y)",
+   "Adamsite (Y)",
+   "agakhanovite-(Y)",
+   "alwilkinsite-(Y)",
+   "allanite-(Y)",
+   "badakhshanite-(Y)",
+   "britholite-(Y)",
+   "barrydawsonite-(Y)",
+   "bussyite-(Y)",
+   "bastnäsite-(Y)",
+   "batievaite-(Y)",
+   "bijvoetite-(Y)",
+   "Chernovite-(Y)",
+   "chiappinoite-(Y)",
+   "chinleite-(Y)",
+   "cayalsite-(Y)",
+   "caysichite-(Y)",
+   "calcybeborosilite-(Y)",
+   "cappelenite-(Y)",
+   "chukhrovite-(Y)",
+   "churchite-(Y)",
+   "dessauite-(Y)",
+   "donnayite-(Y)",
+   "decrespignyite-(Y)",
+   "Euxénite-(Y)",
+   "fluorbritholite-(Y)",
+   "clinofergusonite-(Y)",
+   "fogoite-(Y)",
+   "formanite-(Y)",
+   "gagarinite-(Y)",
+   "gramaccioliite-(Y)",
+   "gerenite-(Y)",
+   "hizenite-(Y)",
+   "hainite-(Y)",
+   "hundholmenite-(Y)",
+   "hellandite-(Y)",
+   "horváthite-(Y)",
+   "hingganite-(Y)",
+   "iimoriite-(Y)",
+   "iwashiroite-(Y)",
+   "Kaïnosite-(Y)",
+   "kimuraite-(Y)",
+   "keiviite-(Y)",
+   "kamotoite-(Y)",
+   "kamphaugite-(Y)",
+   "Kuliokite-(Y)",
+   "kapitsaite-(Y)",
+   "kobeite-(Y)",
+   "levinsonite-(Y)",
+   "lecoqite-(Y)",
+   "lokkaite-(Y)",
+   "lusernaite-(Y)",
+   "loranskite-(Y)",
+   "Mckelveyite-(Y)",
+   "monteregianite-(Y)",
+   "mieite-(Y)",
+   "moskvinite-(Y)",
+   "magnesiorowlandite-(Y)",
+   "menzerite-(Y)",
+   "minasgeraisite-(Y)",
+   "mineevite-(Y)",
+   "moydite-(Y)",
+   "murataite-(Y)",
+   "nioboaeschynite-(Y)",
+   "okanoganite-(Y)",
+   "pyatenkoite-(Y)",
+   "peatite-(Y)",
+   "pilawite-(Y)",
+   "perettiite-(Y)",
+   "písekite-(Y)",
+   "priscillagrewite-(Y)",
+   "proshchenkoite-(Y)",
+   "paraniite-(Y)",
+   "petersite-(Y)",
+   "reederite-(Y)",
+   "rinkite-(Y)",
+   "ramikite-(Y)",
+   "rowlandite-(Y)",
+   "rhabdophane-(Y)",
+   "shomiokite-(Y)",
+   "samarskite",
+   "sejkoraite-(Y)",
+   "saryarkite-(Y)",
+   "sazykinaite-(Y)",
+   "synchysite-(Y)",
+   "shakhdaraite-(Y)",
+   "schlüterite-(Y)",
+   "takanawaite-(Y)",
+   "thalénite-(Y)",
+   "tengerite-(Y)",
+   "thomasclarkite-(Y)",
+   "trimounsite-(Y)",
+   "tritomite-(Y)",
+   "tveitite-(Y)",
+   "vyuntspakhkite-(Y)",
+   "waimirite-(Y)",
+   "wakefieldite-(Y)",
+   "yakovenchukite-(Y)",
+   "yttriaite-(Y)",
+   "Yttrialite",
+   "yttrocolumbite-(Y)",
+   "yttrocrasite-(Y)",
+   "Yttrotantalite",
+   "yttrotungstite-(Y)",
+   "nacareniobsite-(Y)",
+   "jingwenite-(Y)",
+   "oxyyttrobetafite-(Y)",
+   "changesite–(Y)",
+   "pendevilleite-(Y)"
+  ]
+ },
+ "elements-chimiques_zirconium": {
+  "qid": "Q1038"
+ },
+ "elements-chimiques_niobium": {
+  "qid": "Q1046"
+ },
+ "elements-chimiques_molybdene": {
+  "qid": "Q1053",
+  "P186": [
+   "wulfénite",
+   "Powellite",
+   "molybdénite"
+  ]
+ },
+ "elements-chimiques_technetium": {
+  "qid": "Q1054"
+ },
+ "elements-chimiques_ruthenium": {
+  "qid": "Q1086"
+ },
+ "elements-chimiques_rhodium": {
+  "qid": "Q1087"
+ },
+ "elements-chimiques_palladium": {
+  "qid": "Q1089"
+ },
+ "elements-chimiques_argent": {
+  "qid": "Q1090",
+  "P186": [
+   "galène",
+   "Cérusite",
+   "acanthite",
+   "argentite",
+   "chlorargyrite",
+   "argent natif"
+  ]
+ },
+ "elements-chimiques_cadmium": {
+  "qid": "Q1091",
+  "P186": [
+   "Greenockite",
+   "cendre volante",
+   "minerai de zinc"
+  ]
+ },
+ "elements-chimiques_indium": {
+  "qid": "Q1094"
+ },
+ "elements-chimiques_etain": {
+  "qid": "Q1096"
+ },
+ "elements-chimiques_antimoine": {
+  "qid": "Q1099"
+ },
+ "elements-chimiques_tellure": {
+  "qid": "Q1100"
+ },
+ "elements-chimiques_iode": {
+  "qid": "Q1103"
+ },
+ "elements-chimiques_xenon": {
+  "qid": "Q1106"
+ },
+ "elements-chimiques_cesium": {
+  "qid": "Q1108"
+ },
+ "elements-chimiques_baryum": {
+  "qid": "Q1112"
+ },
+ "elements-chimiques_lanthane": {
+  "qid": "Q1801",
+  "P186": [
+   "monazite-(La)",
+   "arisite-(La)",
+   "ancylite-(La)",
+   "alexkuznetsovite-(La)",
+   "arsenoflorencite-(La)",
+   "allanite-(La)",
+   "belovite-(La)",
+   "bastnäsite-(La)",
+   "biraite-(La)",
+   "cordylite-(La)",
+   "dissakisite-(La)",
+   "dyrnaesite-(La)",
+   "davidite-(La)",
+   "fluocerite-(La)",
+   "ferronordite-(La)",
+   "ferriakasakaite-(La)",
+   "ferriallanite-(La)",
+   "ferriandrosite-(La)",
+   "ferricerite-(LaCa)",
+   "ferriperbøeite-(La)",
+   "florencite-(La)",
+   "graulichite-(La)",
+   "gasparite-(La)",
+   "hydroxylbastnäsite-(La)",
+   "haitaite-(La)",
+   "håleniusite-(La)",
+   "iraqite-(La)",
+   "kukharenkoite-(La)",
+   "kozoite-(La)",
+   "lanthanite-(La)",
+   "manganiakasakaite-(La)",
+   "manganiandrosite-(La)",
+   "nordite-(La)",
+   "orthojoaquinite-(La)",
+   "parisite-(La)",
+   "perbøeite-(La)",
+   "percleveite-(La)",
+   "perriérite-(La)",
+   "petersite-(La)",
+   "paratooite-(La)",
+   "radekškodaite-(La)",
+   "rémondite-(La)",
+   "retzian-(La)",
+   "rhabdophane-(La)",
+   "stavelotite-(La)",
+   "sazhinite-(La)",
+   "törnebohmite-(La)",
+   "vanadoallanite-(La)",
+   "wakefieldite-(La)",
+   "calcioancylite-(La)",
+   "gysinite-(La)"
+  ]
+ },
+ "elements-chimiques_cerium": {
+  "qid": "Q1385",
+  "P186": [
+   "monazite-(Ce)",
+   "fergusonite-(Ce)",
+   "gadolinite-(Ce)",
+   "Abenakiite-(Ce)",
+   "alnaperbøeite-(Ce)",
+   "anzaite-(Ce)",
+   "astrocyanite-(Ce)",
+   "aluminocerite-(CeCa)",
+   "aeschynite-(Ce)",
+   "arisite-(Ce)",
+   "armellinoite-(Ce)",
+   "arrheniusite-(Ce)",
+   "ancylite-(Ce)",
+   "alexkuznetsovite-(Ce)",
+   "arsenoflorencite-(Ce)",
+   "allanite-(Ce)",
+   "bridgesite-(Ce)",
+   "belovite-(Ce)",
+   "britholite-(Ce)",
+   "bussyite-(Ce)",
+   "byelorussite-(Ce)",
+   "bastnäsite-(Ce)",
+   "braitschite-(Ce)",
+   "biraite-(Ce)",
+   "chevkinite-(Ce)",
+   "calcioancylite-(Ce)",
+   "cebaite-(Ce)",
+   "cerianite-(Ce)",
+   "cerite-(CeCa)",
+   "calkinsite-(Ce)",
+   "cervandonite-(Ce)",
+   "christofschäferite-(Ce)",
+   "chukhrovite-(Ce)",
+   "cordylite-(Ce)",
+   "coskrenite-(Ce)",
+   "delhuyarite-(Ce)",
+   "dissakisite-(Ce)",
+   "diversilite-(Ce)",
+   "dutkevichite-(Ce)",
+   "dollaseite-(Ce)",
+   "daqingshanite-(Ce)",
+   "deveroite-(Ce)",
+   "davidite-(Ce)",
+   "dingdaohengite-(Ce)",
+   "esdanaite-(Ce)",
+   "fluocerite-(Ce)",
+   "fluorbritholite-(Ce)",
+   "ferronordite-(Ce)",
+   "clinofergusonite-(Ce)",
+   "ferriakasakaite-(Ce)",
+   "ferriallanite-(Ce)",
+   "ferri-hellandite-(Ce)",
+   "ferri-mottanaite-(Ce)",
+   "françoisite-(Ce)",
+   "ferriperbøeite-(Ce)",
+   "florencite-(Ce)",
+   "gagarinite-(Ce)",
+   "galgenbergite-(Ce)",
+   "graulichite-(Ce)",
+   "gasparite-(Ce)",
+   "gatelite-(Ce)",
+   "hydroxylbastnäsite-(Ce)",
+   "heamanite-(Ce)",
+   "håleniusite-(Ce)",
+   "hellandite-(Ce)",
+   "hingganite-(Ce)",
+   "huanghoite-(Ce)",
+   "ilímaussite-(Ce)",
+   "ilmajokite-(Ce)",
+   "illoqite-(Ce)",
+   "Joaquinite-(Ce)",
+   "johnsenite-(Ce)",
+   "khristovite-(Ce)",
+   "kihlmanite-(Ce)",
+   "kuannersuite-(Ce)",
+   "Kukharenkoite-(Ce)",
+   "kesebolite-(Ce)",
+   "karnasurtite-(Ce)",
+   "lucasite-(Ce)",
+   "lukechangite-(Ce)",
+   "lanthanite-(Ce)",
+   "laplandite-(Ce)",
+   "laptevite-(Ce)",
+   "Loparite-(Ce)",
+   "manganiandrosite-(Ce)",
+   "manganonordite-(Ce)",
+   "melanocerite-(Ce)",
+   "maoniupingite-(Ce)",
+   "mendeleevite-(Ce)",
+   "mosandrite-(Ce)",
+   "mottanaite-(Ce)",
+   "manaevite-(Ce)",
+   "nacareniobsite-(Ce)",
+   "nöggerathite-(Ce)",
+   "nordite-(Ce)",
+   "nioboaeschynite-(Ce)",
+   "orthojoaquinite-(Ce)",
+   "polyakovite-(Ce)",
+   "phosinaite-(Ce)",
+   "piergorite-(Ce)",
+   "peprossiite-(Ce)",
+   "perbøeite-(Ce)",
+   "percleveite-(Ce)",
+   "perriérite-(Ce)",
+   "petersenite-(Ce)",
+   "petersite-(Ce)",
+   "polezhaevaite-(Ce)",
+   "parisite-(Ce)",
+   "qaqarssukite-(Ce)",
+   "radekškodaite-(Ce)",
+   "rinkite-(Ce)",
+   "rémondite-(Ce)",
+   "retzian-(Ce)",
+   "rhabdophane-(Ce)",
+   "röntgenite-(Ce)",
+   "sahamalite-(Ce)",
+   "steenstrupine-(Ce)",
+   "seidite-(Ce)",
+   "stetindite-(Ce)",
+   "semenovite-(Ce)",
+   "Synchysite-(Ce)",
+   "stillwellite-(Ce)",
+   "sazhinite-(Ce)",
+   "tadzhikite-(Ce)",
+   "taipingite-(CeCa)",
+   "tancaite-(Ce)",
+   "tundrite-(Ce)",
+   "tritomite-(Ce)",
+   "törnebohmite-(Ce)",
+   "uedaite-(Ce)",
+   "ulfanderssonite-(Ce)",
+   "vanadoandrosite-(Ce)",
+   "västmanlandite-(Ce)",
+   "vitusite-(Ce)",
+   "vicanite-(Ce)",
+   "wakefieldite-(Ce)",
+   "yttrotungstite-(Ce)",
+   "zirsilite-(Ce)",
+   "zugshunstite-(Ce)",
+   "mizraite-(Ce)"
+  ]
+ },
+ "elements-chimiques_praseodyme": {
+  "qid": "Q1386"
+ },
+ "elements-chimiques_neodyme": {
+  "qid": "Q1388",
+  "P186": [
+   "monazite-(Nd)",
+   "fergusonite-(Nd)",
+   "gadolinite-(Nd)",
+   "åskagenite-(Nd)",
+   "aeschynite-(Nd)",
+   "allanite-(Nd)",
+   "bastnäsite-(Nd)",
+   "calcioancylite-(Nd)",
+   "chukhrovite-(Nd)",
+   "carlgieseckeite-(Nd)",
+   "clinofergusonite-(Nd)",
+   "françoisite-(Nd)",
+   "florencite-(Nd)",
+   "gysinite-(Nd)",
+   "hydroxylbastnäsite-(Nd)",
+   "hingganite-(Nd)",
+   "kozoite-(Nd)",
+   "lanthanite-(Nd)",
+   "mendeleevite-(Nd)",
+   "retzian-(Nd)",
+   "rhabdophane-(Nd)",
+   "schuilingite-(Nd)",
+   "swamboite-(Nd)",
+   "synchysite-(Nd)",
+   "shabaite-(Nd)",
+   "tundrite-(Nd)",
+   "wakefieldite-(Nd)",
+   "lepersonnite-(Nd)",
+   "chinleite-(Nd)"
+  ]
+ },
+ "elements-chimiques_promethium": {
+  "qid": "Q1809"
+ },
+ "elements-chimiques_samarium": {
+  "qid": "Q1819",
+  "P186": [
+   "monazite-(Sm)",
+   "florencite-(Sm)",
+   "spent nuclear fuel"
+  ]
+ },
+ "elements-chimiques_europium": {
+  "qid": "Q1396"
+ },
+ "elements-chimiques_gadolinium": {
+  "qid": "Q1832",
+  "P186": [
+   "xenotime-(Gd)",
+   "Lepersonnite-(Gd)",
+   "monazite-(Gd)"
+  ]
+ },
+ "elements-chimiques_terbium": {
+  "qid": "Q1838",
+  "P186": [
+   "bastnäsite mineral group",
+   "monazite mineral group",
+   "xenotime mineral group",
+   "euxenite mineral group"
+  ]
+ },
+ "elements-chimiques_dysprosium": {
+  "qid": "Q1843",
+  "P186": [
+   "xenotime mineral group",
+   "fergusonite-(REE) series",
+   "gadolinite group",
+   "euxenite mineral group",
+   "polycrase-(Y)",
+   "aeschynite mineral group",
+   "monazite mineral group",
+   "bastnäsite mineral group"
+  ]
+ },
+ "elements-chimiques_holmium": {
+  "qid": "Q1846",
+  "P186": [
+   "monazite sands",
+   "gadolinite group",
+   "monazite mineral group"
+  ]
+ },
+ "elements-chimiques_erbium": {
+  "qid": "Q1849",
+  "P186": [
+   "monazite mineral group",
+   "monazite sands",
+   "xenotime mineral group",
+   "euxenite mineral group"
+  ]
+ },
+ "elements-chimiques_thulium": {
+  "qid": "Q1853"
+ },
+ "elements-chimiques_ytterbium": {
+  "qid": "Q1855",
+  "P186": [
+   "xenotime-(Yb)",
+   "hingganite-(Yb)",
+   "keiviite-(Yb)",
+   "samarskite-(Yb)"
+  ]
+ },
+ "elements-chimiques_lutecium": {
+  "qid": "Q1857"
+ },
+ "elements-chimiques_hafnium": {
+  "qid": "Q1119"
+ },
+ "elements-chimiques_tantale-chimie": {
+  "qid": "Q1123",
+  "P186": [
+   "Tantalite",
+   "Microlite",
+   "wodginite",
+   "Euxénite-(Y)",
+   "polycrase-(Y)",
+   "fergusonite-(REE) series",
+   "samarskite mineral group"
+  ]
+ },
+ "elements-chimiques_tungstene": {
+  "qid": "Q743",
+  "P186": [
+   "Wolframite",
+   "Scheelite",
+   "Ferbérite",
+   "Hübnérite",
+   "rhabdoborite-(W)"
+  ]
+ },
+ "elements-chimiques_rhenium": {
+  "qid": "Q737",
+  "P186": [
+   "molybdenite mineral group",
+   "rheniite"
+  ]
+ },
+ "elements-chimiques_osmium": {
+  "qid": "Q751"
+ },
+ "elements-chimiques_iridium": {
+  "qid": "Q877"
+ },
+ "elements-chimiques_platine": {
+  "qid": "Q880",
+  "P186": [
+   "sperrylite",
+   "Cooperite"
+  ]
+ },
+ "elements-chimiques_or": {
+  "qid": "Q897"
+ },
+ "elements-chimiques_mercure-chimie": {
+  "qid": "Q925",
+  "P186": [
+   "cinabre",
+   "Métacinabre",
+   "sphalérite",
+   "Corderoite",
+   "livingstonite"
+  ]
+ },
+ "elements-chimiques_thallium": {
+  "qid": "Q932"
+ },
+ "elements-chimiques_plomb": {
+  "qid": "Q708",
+  "P186": [
+   "galène",
+   "Boulangérite",
+   "Anglésite",
+   "Cérusite"
+  ]
+ },
+ "elements-chimiques_bismuth": {
+  "qid": "Q942"
+ },
+ "elements-chimiques_polonium": {
+  "qid": "Q979"
+ },
+ "elements-chimiques_astate": {
+  "qid": "Q999"
+ },
+ "elements-chimiques_radon": {
+  "qid": "Q1133"
+ },
+ "elements-chimiques_francium": {
+  "qid": "Q671"
+ },
+ "elements-chimiques_radium": {
+  "qid": "Q1128"
+ },
+ "elements-chimiques_actinium": {
+  "qid": "Q1121"
+ },
+ "elements-chimiques_thorium": {
+  "qid": "Q1115"
+ },
+ "elements-chimiques_protactinium": {
+  "qid": "Q1109"
+ },
+ "elements-chimiques_uranium": {
+  "qid": "Q1098",
+  "P2079": [
+   "Pechblende"
+  ]
+ },
+ "elements-chimiques_neptunium": {
+  "qid": "Q1105"
+ },
+ "elements-chimiques_plutonium": {
+  "qid": "Q1102"
+ },
+ "elements-chimiques_americium": {
+  "qid": "Q1872"
+ },
+ "elements-chimiques_curium": {
+  "qid": "Q1876"
+ },
+ "elements-chimiques_berkelium": {
+  "qid": "Q1882"
+ },
+ "elements-chimiques_californium": {
+  "qid": "Q1888"
+ },
+ "elements-chimiques_einsteinium": {
+  "qid": "Q1892"
+ },
+ "elements-chimiques_fermium": {
+  "qid": "Q1896"
+ },
+ "elements-chimiques_mendelevium": {
+  "qid": "Q1898"
+ },
+ "elements-chimiques_nobelium": {
+  "qid": "Q1901"
+ },
+ "elements-chimiques_lawrencium": {
+  "qid": "Q1905"
+ },
+ "elements-chimiques_rutherfordium": {
+  "qid": "Q1226"
+ },
+ "elements-chimiques_dubnium": {
+  "qid": "Q1232"
+ },
+ "elements-chimiques_seaborgium": {
+  "qid": "Q1234"
+ },
+ "elements-chimiques_bohrium": {
+  "qid": "Q1249"
+ },
+ "elements-chimiques_hassium": {
+  "qid": "Q1252"
+ },
+ "elements-chimiques_meitnerium": {
+  "qid": "Q1258"
+ },
+ "elements-chimiques_darmstadtium": {
+  "qid": "Q1266"
+ },
+ "elements-chimiques_roentgenium": {
+  "qid": "Q1272"
+ },
+ "elements-chimiques_copernicium": {
+  "qid": "Q1278"
+ },
+ "elements-chimiques_nihonium": {
+  "qid": "Q1301"
+ },
+ "elements-chimiques_flerovium": {
+  "qid": "Q1302"
+ },
+ "elements-chimiques_moscovium": {
+  "qid": "Q1303"
+ },
+ "elements-chimiques_livermorium": {
+  "qid": "Q1304"
+ },
+ "elements-chimiques_tennesse": {
+  "qid": "Q1306"
+ },
+ "elements-chimiques_oganesson": {
+  "qid": "Q1307"
+ }
+}

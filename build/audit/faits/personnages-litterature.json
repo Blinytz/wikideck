@@ -1,0 +1,1232 @@
+{
+ "personnages-litterature_sherlock-holmes": {
+  "qid": "Q4653",
+  "P569": [
+   "1854"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Arthur Conan Doyle"
+  ],
+  "P571": [
+   "1887"
+  ]
+ },
+ "personnages-litterature_dracula": {
+  "qid": "Q41542",
+  "P571": [
+   "1890"
+  ],
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P50": [
+   "Bram Stoker"
+  ],
+  "P577": [
+   "1897"
+  ],
+  "P136": [
+   "fiction épistolaire",
+   "fiction gothique",
+   "horreur",
+   "fiction romantique",
+   "fiction de vampires"
+  ]
+ },
+ "personnages-litterature_monstre-de-frankenstein": {
+  "qid": "Q2021531",
+  "P170": [
+   "Mary Shelley",
+   "Victor Frankenstein"
+  ]
+ },
+ "personnages-litterature_l-etrange-cas-du-docteur-jekyll-et-de-mister-hyde": {
+  "qid": "Q217352",
+  "P135": [
+   "romantisme"
+  ],
+  "P571": [
+   "1885"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Robert Louis Stevenson"
+  ],
+  "P577": [
+   "1886"
+  ],
+  "P136": [
+   "roman à sensation",
+   "fiction gothique",
+   "science-fiction",
+   "genre policier",
+   "horreur"
+  ]
+ },
+ "personnages-litterature_le-portrait-de-dorian-gray": {
+  "qid": "Q82464",
+  "P495": [
+   "Royaume-Uni",
+   "Irlande"
+  ],
+  "P50": [
+   "Oscar Wilde"
+  ],
+  "P577": [
+   "1890",
+   "1891"
+  ],
+  "P136": [
+   "roman gothique"
+  ]
+ },
+ "personnages-litterature_robinson-crusoe": {
+  "qid": "Q483034",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Daniel Defoe"
+  ],
+  "P577": [
+   "1719"
+  ],
+  "P136": [
+   "roman de développement",
+   "robinsonnade",
+   "fiction d'aventures",
+   "fiction de pirates"
+  ]
+ },
+ "personnages-litterature_les-voyages-de-gulliver": {
+  "qid": "Q181488",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Jonathan Swift"
+  ],
+  "P577": [
+   "1726"
+  ],
+  "P136": [
+   "satire politique",
+   "fantasy",
+   "fiction nautique",
+   "satire ménippée",
+   "roman satirique"
+  ],
+  "P527": [
+   "Voyage à Lilliput",
+   "Voyage à Brobdingnag",
+   "Voyage à Laputa, Balnibarbi, Luggnagg, Glubbdubdrib et au Japon",
+   "Voyage au pays des Houyhnnms"
+  ]
+ },
+ "personnages-litterature_don-quichotte": {
+  "qid": "Q480",
+  "P495": [
+   "Espagne"
+  ],
+  "P50": [
+   "Miguel de Cervantes"
+  ],
+  "P577": [
+   "1605",
+   "1615"
+  ],
+  "P136": [
+   "roman de chevalerie",
+   "fiction d'aventures",
+   "parodie",
+   "manuscrit trouvé"
+  ],
+  "P527": [
+   "Don Quixote, part 1",
+   "Don Quixote, part 2"
+  ]
+ },
+ "personnages-litterature_d-artagnan": {
+  "qid": "Q744183",
+  "P569": [
+   "1611"
+  ],
+  "P570": [
+   "1673"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "personnages-litterature_jean-valjean": {
+  "qid": "Q1156620",
+  "P569": [
+   "1769"
+  ],
+  "P570": [
+   "1833"
+  ],
+  "P170": [
+   "Q535"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "personnages-litterature_quasimodo-personnage": {
+  "qid": "Q1750634",
+  "P569": [
+   "1466"
+  ],
+  "P570": [
+   "1482"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Q535"
+  ]
+ },
+ "personnages-litterature_le-comte-de-monte-cristo": {
+  "qid": "Q191838",
+  "P571": [
+   "1844"
+  ],
+  "P495": [
+   "France",
+   "monarchie de Juillet"
+  ],
+  "P50": [
+   "Alexandre Dumas",
+   "Auguste Maquet"
+  ],
+  "P577": [
+   "1844"
+  ],
+  "P136": [
+   "roman-feuilleton",
+   "fiction romantique",
+   "fiction d'aventures",
+   "fiction historique"
+  ]
+ },
+ "personnages-litterature_capitaine-nemo": {
+  "qid": "Q1046049",
+  "P170": [
+   "Jules Verne"
+  ]
+ },
+ "personnages-litterature_phileas-fogg": {
+  "qid": "Q2587533",
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Jules Verne"
+  ],
+  "P571": [
+   "1872"
+  ]
+ },
+ "personnages-litterature_cyrano-de-bergerac-rostand": {
+  "qid": "Q1048916",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Edmond Rostand"
+  ],
+  "P577": [
+   "1897"
+  ],
+  "P136": [
+   "comédie"
+  ],
+  "P527": [
+   "Tirade du nez"
+  ]
+ },
+ "personnages-litterature_alice-alice-au-pays-des-merveilles": {
+  "qid": "Q1269082",
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Lewis Carroll"
+  ],
+  "P571": [
+   "1865"
+  ]
+ },
+ "personnages-litterature_chapelier-fou-comics": {
+  "qid": "Q83629",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Bill Finger",
+   "Lew Schwartz"
+  ]
+ },
+ "personnages-litterature_peter-pan": {
+  "qid": "Q107190",
+  "P170": [
+   "James Matthew Barrie"
+  ],
+  "P577": [
+   "1911"
+  ],
+  "P136": [
+   "fantasy"
+  ]
+ },
+ "personnages-litterature_capitaine-crochet": {
+  "qid": "Q1035128",
+  "P170": [
+   "James Matthew Barrie"
+  ]
+ },
+ "personnages-litterature_tarzan": {
+  "qid": "Q170241",
+  "P569": [
+   "1900"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Edgar Rice Burroughs"
+  ]
+ },
+ "personnages-litterature_un-chant-de-noel": {
+  "qid": "Q62879",
+  "P495": [
+   "Angleterre",
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Charles Dickens"
+  ],
+  "P577": [
+   "1843"
+  ],
+  "P136": [
+   "fiction de Noël"
+  ]
+ },
+ "personnages-litterature_oliver-twist": {
+  "qid": "Q164974",
+  "P571": [
+   "1837"
+  ],
+  "P495": [
+   "Angleterre",
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Charles Dickens"
+  ],
+  "P577": [
+   "1838"
+  ],
+  "P136": [
+   "roman d'apprentissage"
+  ],
+  "P527": [
+   "Oliver Twist, book the first",
+   "Oliver Twist, book the second",
+   "Oliver Twist, book the third"
+  ]
+ },
+ "personnages-litterature_long-john-silver": {
+  "qid": "Q1428628",
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P170": [
+   "Robert Louis Stevenson"
+  ]
+ },
+ "personnages-litterature_frodon-sacquet": {
+  "qid": "Q177329",
+  "P27": [
+   "La Comté"
+  ],
+  "P170": [
+   "J. R. R. Tolkien"
+  ]
+ },
+ "personnages-litterature_gandalf": {
+  "qid": "Q177499",
+  "P170": [
+   "J. R. R. Tolkien"
+  ],
+  "P577": [
+   "1937"
+  ]
+ },
+ "personnages-litterature_aragorn": {
+  "qid": "Q180322",
+  "P170": [
+   "J. R. R. Tolkien"
+  ]
+ },
+ "personnages-litterature_gollum": {
+  "qid": "Q15007"
+ },
+ "personnages-litterature_harry-potter": {
+  "qid": "Q8337",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Q34660"
+  ],
+  "P577": [
+   "1997"
+  ],
+  "P136": [
+   "fantasy",
+   "fiction Young Adult",
+   "roman de développement",
+   "fiction pour enfants"
+  ],
+  "P527": [
+   "Harry Potter à l'école des sorciers",
+   "Harry Potter et la Chambre des Secrets",
+   "Harry Potter et le Prisonnier d'Azkaban",
+   "Harry Potter et la Coupe de feu",
+   "Harry Potter et l'Ordre du phénix",
+   "Harry Potter et le Prince de sang-mêlé",
+   "Harry Potter et les Reliques de la Mort",
+   "Prologue à Harry Potter"
+  ]
+ },
+ "personnages-litterature_hermione-granger": {
+  "qid": "Q174009",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Q34660"
+  ]
+ },
+ "personnages-litterature_ron-weasley": {
+  "qid": "Q173998",
+  "P569": [
+   "1980"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Q34660"
+  ]
+ },
+ "personnages-litterature_daenerys-targaryen": {
+  "qid": "Q2708078",
+  "P27": [
+   "Royaume des Sept Couronnes"
+  ],
+  "P170": [
+   "George R. R. Martin"
+  ]
+ },
+ "personnages-litterature_aslan-narnia": {
+  "qid": "Q762731",
+  "P170": [
+   "C. S. Lewis"
+  ]
+ },
+ "personnages-litterature_cthulhu": {
+  "qid": "Q12038",
+  "P170": [
+   "H. P. Lovecraft"
+  ]
+ },
+ "personnages-litterature_conan-le-barbare": {
+  "qid": "Q189169",
+  "P27": [
+   "Cimmérie"
+  ],
+  "P170": [
+   "Robert E. Howard"
+  ]
+ },
+ "personnages-litterature_elric-de-melnibone": {
+  "qid": "Q1333353",
+  "P27": [
+   "Melniboné"
+  ],
+  "P170": [
+   "Michael Moorcock"
+  ],
+  "P136": [
+   "sword and sorcery"
+  ]
+ },
+ "personnages-litterature_b-612-le-petit-prince": {
+  "qid": "Q2877600"
+ },
+ "personnages-litterature_arsene-lupin": {
+  "qid": "Q461606",
+  "P569": [
+   "1874"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Maurice Leblanc"
+  ]
+ },
+ "personnages-litterature_hercule-poirot": {
+  "qid": "Q170534",
+  "P569": [
+   "1870",
+   "1880"
+  ],
+  "P570": [
+   "1949",
+   "1970"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P170": [
+   "Agatha Christie"
+  ]
+ },
+ "personnages-litterature_commissaire-maigret": {
+  "qid": "Q830561",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Georges Simenon"
+  ]
+ },
+ "personnages-litterature_hamlet-personnage": {
+  "qid": "Q2447542",
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P170": [
+   "William Shakespeare"
+  ]
+ },
+ "personnages-litterature_faust": {
+  "qid": "Q332885",
+  "P570": [
+   "1540"
+  ],
+  "P101": [
+   "alchimiste"
+  ]
+ },
+ "personnages-litterature_capitaine-achab": {
+  "qid": "Q2630009",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Herman Melville"
+  ]
+ },
+ "personnages-litterature_rodion-raskolnikov": {
+  "qid": "Q934089",
+  "P27": [
+   "Empire russe"
+  ],
+  "P170": [
+   "Fiodor Dostoïevski"
+  ]
+ },
+ "personnages-litterature_javert": {
+  "qid": "Q2585477",
+  "P569": [
+   "1780"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Q535"
+  ]
+ },
+ "personnages-litterature_paul-atreides": {
+  "qid": "Q939956",
+  "P170": [
+   "Frank Herbert"
+  ]
+ },
+ "personnages-litterature_emma-bovary": {
+  "qid": "Q193417",
+  "P135": [
+   "réalisme"
+  ],
+  "P571": [
+   "1856"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Gustave Flaubert"
+  ],
+  "P577": [
+   "1857"
+  ],
+  "P136": [
+   "roman réaliste"
+  ]
+ },
+ "personnages-litterature_anna-karenine": {
+  "qid": "Q147787",
+  "P135": [
+   "réalisme"
+  ],
+  "P571": [
+   "1873"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P50": [
+   "Léon Tolstoï"
+  ],
+  "P577": [
+   "1877"
+  ],
+  "P136": [
+   "roman réaliste"
+  ]
+ },
+ "personnages-litterature_meursault": {
+  "qid": "Q163297",
+  "P571": [
+   "1940",
+   "1942"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Albert Camus"
+  ],
+  "P577": [
+   "1942"
+  ],
+  "P136": [
+   "roman philosophique",
+   "littérature de l'absurde"
+  ]
+ },
+ "personnages-litterature_romeo-et-juliette": {
+  "qid": "Q83186",
+  "P571": [
+   "1590",
+   "1597"
+  ],
+  "P495": [
+   "royaume d'Angleterre"
+  ],
+  "P50": [
+   "William Shakespeare"
+  ],
+  "P136": [
+   "tragédie",
+   "mélodrame"
+  ]
+ },
+ "personnages-litterature_harpagon": {
+  "qid": "Q3127677",
+  "P170": [
+   "Molière"
+  ]
+ },
+ "personnages-litterature_don-juan": {
+  "qid": "Q210372"
+ },
+ "personnages-litterature_gargantua": {
+  "qid": "Q10288350",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "François Rabelais"
+  ],
+  "P577": [
+   "1534"
+  ]
+ },
+ "personnages-litterature_eugene-de-rastignac": {
+  "qid": "Q1610690",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Honoré de Balzac"
+  ]
+ },
+ "personnages-litterature_julien-sorel": {
+  "qid": "Q3189665",
+  "P569": [
+   "1800"
+  ],
+  "P570": [
+   "1820"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "personnages-litterature_le-petit-nicolas": {
+  "qid": "Q932591",
+  "P50": [
+   "René Goscinny"
+  ],
+  "P577": [
+   "1959"
+  ],
+  "P136": [
+   "humorous fiction",
+   "fiction pour enfants"
+  ],
+  "P527": [
+   "Le Petit Nicolas",
+   "Les Récrés du petit Nicolas",
+   "Les Vacances du Petit Nicolas",
+   "Le Petit Nicolas et les Copains",
+   "Le Petit Nicolas a des ennuis"
+  ]
+ },
+ "personnages-litterature_cosette": {
+  "qid": "Q2453276",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Q535"
+  ]
+ },
+ "personnages-litterature_gavroche": {
+  "qid": "Q599351",
+  "P569": [
+   "1820"
+  ],
+  "P570": [
+   "1832"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Q535"
+  ]
+ },
+ "personnages-litterature_la-esmeralda-personnage": {
+  "qid": "Q661491",
+  "P569": [
+   "1466"
+  ],
+  "P570": [
+   "1482"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Q535"
+  ]
+ },
+ "personnages-litterature_porthos": {
+  "qid": "Q936529",
+  "P570": [
+   "1661"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P170": [
+   "Alexandre Dumas"
+  ]
+ },
+ "personnages-litterature_aramis": {
+  "qid": "Q1773077",
+  "P569": [
+   "1603"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P170": [
+   "Alexandre Dumas"
+  ]
+ },
+ "personnages-litterature_milady-de-winter": {
+  "qid": "Q507978",
+  "P569": [
+   "1602"
+  ],
+  "P570": [
+   "1628"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P170": [
+   "Alexandre Dumas"
+  ]
+ },
+ "personnages-litterature_le-petit-chaperon-rouge": {
+  "qid": "Q11838",
+  "P571": [
+   "1000"
+  ],
+  "P495": [
+   "Europe"
+  ],
+  "P136": [
+   "conte merveilleux"
+  ],
+  "P527": [
+   "Caterinella",
+   "The Cannibal Godfather (Godmother)"
+  ]
+ },
+ "personnages-litterature_la-barbe-bleue": {
+  "qid": "Q161138",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Charles Perrault"
+  ],
+  "P577": [
+   "1697"
+  ],
+  "P136": [
+   "conte merveilleux",
+   "conte"
+  ]
+ },
+ "personnages-litterature_le-maitre-chat-ou-le-chat-botte": {
+  "qid": "Q11834",
+  "P50": [
+   "Charles Perrault"
+  ],
+  "P136": [
+   "conte populaire"
+  ]
+ },
+ "personnages-litterature_heidi-roman": {
+  "qid": "Q271697",
+  "P495": [
+   "Suisse"
+  ],
+  "P50": [
+   "Johanna Spyri"
+  ],
+  "P577": [
+   "1880"
+  ],
+  "P136": [
+   "fiction pour enfants"
+  ]
+ },
+ "personnages-litterature_fifi-brindacier": {
+  "qid": "Q6668",
+  "P27": [
+   "Suède"
+  ],
+  "P170": [
+   "Astrid Lindgren"
+  ],
+  "P571": [
+   "1941",
+   "1945"
+  ]
+ },
+ "personnages-litterature_mowgli": {
+  "qid": "Q1381592",
+  "P170": [
+   "Q34743"
+  ]
+ },
+ "personnages-litterature_winnie-l-ourson": {
+  "qid": "Q188574",
+  "P101": [
+   "littérature d'enfance"
+  ],
+  "P170": [
+   "Alan Alexander Milne"
+  ],
+  "P571": [
+   "1924"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "personnages-litterature_babar": {
+  "qid": "Q132152",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Jean de Brunhoff",
+   "Cécile de Brunhoff"
+  ]
+ },
+ "personnages-litterature_le-merveilleux-voyage-de-nils-holgersson-a-travers-la-suede": {
+  "qid": "Q726254",
+  "P571": [
+   "1906"
+  ],
+  "P495": [
+   "Suède"
+  ],
+  "P50": [
+   "Selma Lagerlöf"
+  ],
+  "P577": [
+   "1906",
+   "1907"
+  ],
+  "P136": [
+   "fantasy"
+  ]
+ },
+ "personnages-litterature_bilbon-sacquet": {
+  "qid": "Q185737",
+  "P27": [
+   "La Comté"
+  ],
+  "P170": [
+   "J. R. R. Tolkien"
+  ]
+ },
+ "personnages-litterature_sauron": {
+  "qid": "Q2281",
+  "P170": [
+   "J. R. R. Tolkien"
+  ]
+ },
+ "personnages-litterature_albus-dumbledore": {
+  "qid": "Q712548",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "alchimie",
+   "Q112245919",
+   "Management des établissements scolaires"
+  ],
+  "P170": [
+   "Q34660"
+  ]
+ },
+ "personnages-litterature_voldemort": {
+  "qid": "Q176132",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Q34660"
+  ]
+ },
+ "personnages-litterature_jon-snow": {
+  "qid": "Q3183235",
+  "P27": [
+   "Royaume des Sept Couronnes"
+  ],
+  "P170": [
+   "George R. R. Martin"
+  ]
+ },
+ "personnages-litterature_tyrion-lannister": {
+  "qid": "Q2076759",
+  "P27": [
+   "Royaume des Sept Couronnes"
+  ],
+  "P170": [
+   "George R. R. Martin"
+  ]
+ },
+ "personnages-litterature_holden-caulfield": {
+  "qid": "Q720235",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "J. D. Salinger"
+  ]
+ },
+ "personnages-litterature_jay-gatsby": {
+  "qid": "Q7048121",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1922"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "F. Scott Fitzgerald"
+  ]
+ },
+ "personnages-litterature_scarlett-o-hara": {
+  "qid": "Q1649955",
+  "P569": [
+   "1845"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Margaret Mitchell"
+  ]
+ },
+ "personnages-litterature_jane-eyre-personnage": {
+  "qid": "Q2590055",
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Charlotte Brontë"
+  ]
+ },
+ "personnages-litterature_elizabeth-bennet": {
+  "qid": "Q2223341",
+  "P569": [
+   "1800"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Jane Austen"
+  ]
+ },
+ "personnages-litterature_robin-des-bois": {
+  "qid": "Q122634",
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P170": [
+   "anonyme"
+  ],
+  "P571": [
+   "1370"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "personnages-litterature_tom-sawyer": {
+  "qid": "Q944203",
+  "P569": [
+   "1833"
+  ],
+  "P170": [
+   "Mark Twain"
+  ]
+ },
+ "personnages-litterature_les-aventures-de-huckleberry-finn": {
+  "qid": "Q215410",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Mark Twain"
+  ],
+  "P577": [
+   "1884",
+   "1885"
+  ],
+  "P136": [
+   "satire",
+   "humour",
+   "roman picaresque",
+   "fiction d'aventures"
+  ]
+ },
+ "personnages-litterature_katniss-everdeen": {
+  "qid": "Q2071301",
+  "P27": [
+   "Panem"
+  ],
+  "P170": [
+   "Suzanne Collins"
+  ]
+ },
+ "personnages-litterature_lisbeth-salander": {
+  "qid": "Q1191282",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P170": [
+   "Stieg Larsson"
+  ]
+ },
+ "personnages-litterature_docteur-watson": {
+  "qid": "Q187349",
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Arthur Conan Doyle"
+  ]
+ },
+ "personnages-litterature_professeur-moriarty": {
+  "qid": "Q283111",
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P170": [
+   "Arthur Conan Doyle"
+  ]
+ },
+ "personnages-litterature_miss-marple": {
+  "qid": "Q193531",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Agatha Christie"
+  ]
+ },
+ "personnages-litterature_rouletabille": {
+  "qid": "Q928202",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Gaston Leroux"
+  ]
+ },
+ "personnages-litterature_macbeth-personnage": {
+  "qid": "Q10322723",
+  "P27": [
+   "royaume d'Écosse"
+  ],
+  "P170": [
+   "William Shakespeare"
+  ]
+ },
+ "personnages-litterature_othello-personnage": {
+  "qid": "Q1966171",
+  "P569": [
+   "1500"
+  ],
+  "P570": [
+   "1600"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P170": [
+   "William Shakespeare"
+  ]
+ },
+ "personnages-litterature_le-roi-lear": {
+  "qid": "Q181598",
+  "P571": [
+   "1606"
+  ],
+  "P50": [
+   "William Shakespeare"
+  ],
+  "P577": [
+   "1608"
+  ],
+  "P136": [
+   "tragédie"
+  ]
+ },
+ "personnages-litterature_iago": {
+  "qid": "Q1655364",
+  "P170": [
+   "William Shakespeare"
+  ]
+ },
+ "personnages-litterature_les-souffrances-du-jeune-werther": {
+  "qid": "Q151883",
+  "P135": [
+   "Sturm und Drang"
+  ],
+  "P571": [
+   "1774"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P50": [
+   "Johann Wolfgang von Goethe"
+  ],
+  "P577": [
+   "1774"
+  ],
+  "P136": [
+   "roman épistolaire",
+   "diary literature",
+   "roman sentimental"
+  ],
+  "P527": [
+   "Q112264168",
+   "Q112264369"
+  ]
+ },
+ "personnages-litterature_mephistopheles": {
+  "qid": "Q272805"
+ },
+ "personnages-litterature_athos": {
+  "qid": "Q1649854",
+  "P569": [
+   "1599"
+  ],
+  "P570": [
+   "1661"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P170": [
+   "Alexandre Dumas"
+  ]
+ }
+}

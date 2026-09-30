@@ -15,13 +15,13 @@
   {
    "slug": "souverains-et-conquerants",
    "nom": "Souverains et conquérants",
-   "nbCartes": 118,
+   "nbCartes": 112,
    "fichier": "data/souverains-et-conquerants.json"
   },
   {
    "slug": "dirigeants-contemporains",
    "nom": "Dirigeants de l'ère contemporaine",
-   "nbCartes": 83,
+   "nbCartes": 70,
    "fichier": "data/dirigeants-contemporains.json"
   },
   {
@@ -447,7 +447,7 @@
   {
    "slug": "figures-religieuses",
    "nom": "Fondateurs et figures religieuses",
-   "nbCartes": 74,
+   "nbCartes": 71,
    "fichier": "data/figures-religieuses.json"
   },
   {
@@ -477,7 +477,7 @@
   {
    "slug": "fleuves-mers-et-oceans",
    "nom": "Fleuves, mers et océans",
-   "nbCartes": 84,
+   "nbCartes": 74,
    "fichier": "data/fleuves-mers-et-oceans.json"
   },
   {
@@ -659,6 +659,114 @@
    "nom": "Styles architecturaux",
    "nbCartes": 30,
    "fichier": "data/styles-architecturaux.json"
+  },
+  {
+   "slug": "presidents-des-etats-unis",
+   "nom": "Présidents des États-Unis",
+   "nbCartes": 45,
+   "fichier": "data/presidents-des-etats-unis.json"
+  },
+  {
+   "slug": "monarques-anglais-et-britanniques",
+   "nom": "Monarques anglais et britanniques",
+   "nbCartes": 43,
+   "fichier": "data/monarques-anglais-et-britanniques.json"
+  },
+  {
+   "slug": "papes",
+   "nom": "Papes",
+   "nbCartes": 33,
+   "fichier": "data/papes.json"
+  },
+  {
+   "slug": "organisations-internationales",
+   "nom": "Organisations internationales",
+   "nbCartes": 33,
+   "fichier": "data/organisations-internationales.json"
+  },
+  {
+   "slug": "deserts",
+   "nom": "Déserts",
+   "nbCartes": 29,
+   "fichier": "data/deserts.json"
+  },
+  {
+   "slug": "lacs",
+   "nom": "Lacs",
+   "nbCartes": 38,
+   "fichier": "data/lacs.json"
+  },
+  {
+   "slug": "regions-francaises",
+   "nom": "Régions françaises",
+   "nbCartes": 14,
+   "fichier": "data/regions-francaises.json"
+  },
+  {
+   "slug": "mouvements-litteraires",
+   "nom": "Mouvements littéraires",
+   "nbCartes": 26,
+   "fichier": "data/mouvements-litteraires.json"
+  },
+  {
+   "slug": "genres-litteraires",
+   "nom": "Genres littéraires",
+   "nbCartes": 27,
+   "fichier": "data/genres-litteraires.json"
+  },
+  {
+   "slug": "prix-goncourt",
+   "nom": "Prix Goncourt",
+   "nbCartes": 29,
+   "fichier": "data/prix-goncourt.json"
+  },
+  {
+   "slug": "corps-humain",
+   "nom": "Corps humain",
+   "nbCartes": 40,
+   "fichier": "data/corps-humain.json"
+  },
+  {
+   "slug": "maladies-et-epidemies",
+   "nom": "Maladies et épidémies",
+   "nbCartes": 36,
+   "fichier": "data/maladies-et-epidemies.json"
+  },
+  {
+   "slug": "theoremes-et-lois",
+   "nom": "Théorèmes et lois célèbres",
+   "nbCartes": 36,
+   "fichier": "data/theoremes-et-lois.json"
+  },
+  {
+   "slug": "religions-du-monde",
+   "nom": "Religions du monde",
+   "nbCartes": 29,
+   "fichier": "data/religions-du-monde.json"
+  },
+  {
+   "slug": "textes-sacres",
+   "nom": "Textes sacrés",
+   "nbCartes": 27,
+   "fichier": "data/textes-sacres.json"
+  },
+  {
+   "slug": "fetes-religieuses",
+   "nom": "Fêtes religieuses",
+   "nbCartes": 32,
+   "fichier": "data/fetes-religieuses.json"
+  },
+  {
+   "slug": "crises-economiques",
+   "nom": "Crises économiques",
+   "nbCartes": 21,
+   "fichier": "data/crises-economiques.json"
+  },
+  {
+   "slug": "entreprises-emblematiques",
+   "nom": "Entreprises emblématiques",
+   "nbCartes": 38,
+   "fichier": "data/entreprises-emblematiques.json"
   }
  ]
 }

@@ -1,0 +1,98 @@
+{
+ "fetes-religieuses_noel": {
+  "k": 5
+ },
+ "fetes-religieuses_paques": {
+  "k": 11
+ },
+ "fetes-religieuses_pentecote": {
+  "k": 11
+ },
+ "fetes-religieuses_ascension-fete": {
+  "k": 9
+ },
+ "fetes-religieuses_toussaint": {
+  "k": 1
+ },
+ "fetes-religieuses_epiphanie": {
+  "k": 11
+ },
+ "fetes-religieuses_careme": {
+  "k": 11
+ },
+ "fetes-religieuses_mardi-gras": {
+  "k": 5
+ },
+ "fetes-religieuses_assomption": {
+  "k": 6
+ },
+ "fetes-religieuses_chandeleur": {
+  "k": 2
+ },
+ "fetes-religieuses_dimanche-des-rameaux": {
+  "k": 6
+ },
+ "fetes-religieuses_ramadan": {
+  "k": 1
+ },
+ "fetes-religieuses_aid-el-fitr": {
+  "k": 3
+ },
+ "fetes-religieuses_aid-al-adha": {
+  "k": 11
+ },
+ "fetes-religieuses_mawlid": {
+  "k": 1
+ },
+ "fetes-religieuses_achoura": {
+  "k": 11
+ },
+ "fetes-religieuses_pessa-h": {
+  "k": 1
+ },
+ "fetes-religieuses_yom-kippour": {
+  "k": 1
+ },
+ "fetes-religieuses_roch-hachana": {
+  "k": 7
+ },
+ "fetes-religieuses_hanoucca": {
+  "k": 1
+ },
+ "fetes-religieuses_pourim": {
+  "k": 7
+ },
+ "fetes-religieuses_souccot": {
+  "k": 1
+ },
+ "fetes-religieuses_divali": {
+  "k": 3
+ },
+ "fetes-religieuses_holi": {
+  "k": 10
+ },
+ "fetes-religieuses_vesak": {
+  "k": 1
+ },
+ "fetes-religieuses_nouvel-an-chinois": {
+  "k": 6
+ },
+ "fetes-religieuses_o-bon": {
+  "k": 4
+ },
+ "fetes-religieuses_baisakhi": {
+  "k": 6
+ },
+ "fetes-religieuses_navratri": {
+  "k": 2
+ },
+ "fetes-religieuses_kumbh-mela": {
+  "k": 4
+ },
+ "fetes-religieuses_norouz": {
+  "k": 1
+ },
+ "fetes-religieuses_jour-des-morts-mexique": {
+  "k": 10
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "styles-architecturaux_bauhaus": {
+  "qid": "Q124354",
+  "P571": [
+   "1919"
+  ],
+  "P131": [
+   "Dessau-Roßlau",
+   "Weimar",
+   "Berlin"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "styles-architecturaux_architecture-de-la-grece-antique": {
+  "qid": "Q331273",
+  "P276": [
+   "Grèce antique"
+  ]
+ },
+ "styles-architecturaux_architecture-romaine": {
+  "qid": "Q223750",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "styles-architecturaux_architecture-byzantine": {
+  "qid": "Q47591",
+  "P17": [
+   "Empire byzantin"
+  ]
+ },
+ "styles-architecturaux_art-roman": {
+  "qid": "Q46805",
+  "P276": [
+   "Europe"
+  ],
+  "P527": [
+   "Sculpture romane",
+   "architecture romane",
+   "peinture romane"
+  ]
+ },
+ "styles-architecturaux_architecture-gothique": {
+  "qid": "Q176483",
+  "P527": [
+   "premier art gothique",
+   "High Gothic",
+   "Gothique tardif",
+   "gothique rayonnant",
+   "gothique flamboyant",
+   "Gothique isabélin",
+   "architecture gothique française",
+   "architecture gothique anglaise",
+   "architecture gothique allemande",
+   "architecture gothique espagnole",
+   "architecture gothique italienne",
+   "Architecture gothique vénitienne",
+   "gothique de brique",
+   "Gothic architecture in Central Europe",
+   "Gothic architecture in Poland",
+   "Czech Gothic architecture",
+   "gothique brabançon",
+   "Portuguese Gothic architecture",
+   "Gothic architecture in Romania",
+   "Gothic architecture in Lithuania"
+  ]
+ },
+ "styles-architecturaux_architecture-islamique": {
+  "qid": "Q212940"
+ },
+ "styles-architecturaux_art-mudejar": {
+  "qid": "Q15011985",
+  "P17": [
+   "Espagne",
+   "Portugal"
+  ]
+ },
+ "styles-architecturaux_architecture-de-la-renaissance": {
+  "qid": "Q236122"
+ },
+ "styles-architecturaux_architecture-baroque": {
+  "qid": "Q840829",
+  "P571": [
+   "1600"
+  ]
+ },
+ "styles-architecturaux_rococo": {
+  "qid": "Q122960",
+  "P101": [
+   "peinture",
+   "sculpture",
+   "architecture",
+   "design d'intérieur",
+   "décoration",
+   "littérature",
+   "musique",
+   "théâtre",
+   "costume"
+  ]
+ },
+ "styles-architecturaux_architecture-classique": {
+  "qid": "Q4198718"
+ },
+ "styles-architecturaux_palladianisme": {
+  "qid": "Q264649"
+ },
+ "styles-architecturaux_architecture-neo-classique": {
+  "qid": "Q54111"
+ },
+ "styles-architecturaux_style-neogothique": {
+  "qid": "Q186363"
+ },
+ "styles-architecturaux_style-beaux-arts": {
+  "qid": "Q1268134"
+ },
+ "styles-architecturaux_architecture-victorienne": {
+  "qid": "Q565165",
+  "P527": [
+   "style néogothique"
+  ]
+ },
+ "styles-architecturaux_art-nouveau": {
+  "qid": "Q34636",
+  "P571": [
+   "1890"
+  ]
+ },
+ "styles-architecturaux_art-deco": {
+  "qid": "Q173782",
+  "P101": [
+   "arts appliqués",
+   "architecture",
+   "design d'intérieur",
+   "design industriel",
+   "mode",
+   "arts graphiques"
+  ],
+  "P571": [
+   "1910",
+   "1925"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "styles-architecturaux_ecole-de-chicago-architecture": {
+  "qid": "Q1072060",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "styles-architecturaux_style-international": {
+  "qid": "Q162324"
+ },
+ "styles-architecturaux_architecture-organique": {
+  "qid": "Q36118"
+ },
+ "styles-architecturaux_brutalisme": {
+  "qid": "Q994776"
+ },
+ "styles-architecturaux_postmodernisme-architecture": {
+  "qid": "Q595448"
+ },
+ "styles-architecturaux_deconstructivisme": {
+  "qid": "Q238255"
+ },
+ "styles-architecturaux_architecture-high-tech": {
+  "qid": "Q845318"
+ },
+ "styles-architecturaux_architecture-moghole": {
+  "qid": "Q542261",
+  "P17": [
+   "Empire moghol"
+  ]
+ },
+ "styles-architecturaux_architecture-khmere": {
+  "qid": "Q2480618",
+  "P276": [
+   "Cambodge",
+   "Laos",
+   "Thaïlande"
+  ]
+ },
+ "styles-architecturaux_architecture-japonaise": {
+  "qid": "Q1422874",
+  "P17": [
+   "Japon"
+  ]
+ },
+ "styles-architecturaux_pan-de-bois": {
+  "qid": "Q629000",
+  "P186": [
+   "bois d’œuvre"
+  ]
+ }
+}

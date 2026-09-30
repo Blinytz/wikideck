@@ -1,0 +1,260 @@
+{
+ "presidents-des-etats-unis": [
+  "Présidents des États-Unis",
+  [
+   [
+    "dirigeants-contemporains",
+    "George Washington"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Thomas Jefferson"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Abraham Lincoln"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Theodore Roosevelt"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Woodrow Wilson"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Franklin Delano Roosevelt"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Harry S. Truman"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Dwight D. Eisenhower"
+   ],
+   [
+    "dirigeants-contemporains",
+    "John Fitzgerald Kennedy"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Richard Nixon"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Ronald Reagan"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Barack Obama"
+   ]
+  ],
+  [
+   "George Washington",
+   "Thomas Jefferson",
+   "Abraham Lincoln",
+   "Theodore Roosevelt",
+   "Woodrow Wilson",
+   "Franklin Delano Roosevelt",
+   "Harry S. Truman",
+   "Dwight D. Eisenhower",
+   "John F. Kennedy",
+   "Richard Nixon",
+   "Ronald Reagan",
+   "Barack Obama"
+  ]
+ ],
+ "monarques-anglais-et-britanniques": [
+  "Monarques anglais et britanniques",
+  [
+   [
+    "souverains-et-conquerants",
+    "Guillaume le Conquérant"
+   ],
+   [
+    "souverains-et-conquerants",
+    "Richard Cœur de Lion"
+   ],
+   [
+    "souverains-et-conquerants",
+    "Henri VIII"
+   ],
+   [
+    "souverains-et-conquerants",
+    "Marie Ire"
+   ],
+   [
+    "souverains-et-conquerants",
+    "Élisabeth Ire d'Angleterre"
+   ],
+   [
+    "souverains-et-conquerants",
+    "Oliver Cromwell"
+   ],
+   [
+    "dirigeants-contemporains",
+    "Victoria"
+   ]
+  ],
+  [
+   "Guillaume le Conquérant",
+   "Richard Cœur de Lion",
+   "Henri VIII",
+   "Marie Ire d'Angleterre",
+   "Élisabeth Ire (reine d'Angleterre)",
+   "Oliver Cromwell",
+   "Victoria du Royaume-Uni"
+  ]
+ ],
+ "papes": [
+  "Papes",
+  [
+   [
+    "figures-religieuses",
+    "Pierre (apôtre)"
+   ],
+   [
+    "figures-religieuses",
+    "Grégoire Ier"
+   ],
+   [
+    "figures-religieuses",
+    "Jean-Paul II"
+   ]
+  ],
+  [
+   "Pierre (apôtre)",
+   "Grégoire Ier",
+   "Jean-Paul II"
+  ]
+ ],
+ "organisations-internationales": [
+  "Organisations internationales",
+  [],
+  []
+ ],
+ "deserts": [
+  "Déserts",
+  [],
+  []
+ ],
+ "lacs": [
+  "Lacs",
+  [
+   [
+    "fleuves-mers-et-oceans",
+    "Mer Caspienne"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Victoria"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Tanganyika"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Baïkal"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Titicaca"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Tchad"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Mer d'Aral"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Lac Léman"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Loch Ness"
+   ],
+   [
+    "fleuves-mers-et-oceans",
+    "Mer Morte"
+   ]
+  ],
+  [
+   "Mer Caspienne",
+   "Lac Victoria",
+   "Lac Tanganyika",
+   "Lac Baïkal",
+   "Lac Titicaca",
+   "Lac Tchad",
+   "Mer d'Aral",
+   "Lac Léman",
+   "Loch Ness",
+   "Mer Morte"
+  ]
+ ],
+ "regions-francaises": [
+  "Régions françaises",
+  [],
+  []
+ ],
+ "mouvements-litteraires": [
+  "Mouvements littéraires",
+  [],
+  []
+ ],
+ "genres-litteraires": [
+  "Genres littéraires",
+  [],
+  []
+ ],
+ "prix-goncourt": [
+  "Prix Goncourt",
+  [],
+  []
+ ],
+ "corps-humain": [
+  "Corps humain",
+  [],
+  []
+ ],
+ "maladies-et-epidemies": [
+  "Maladies et épidémies",
+  [],
+  []
+ ],
+ "theoremes-et-lois": [
+  "Théorèmes et lois célèbres",
+  [],
+  []
+ ],
+ "religions-du-monde": [
+  "Religions du monde",
+  [],
+  []
+ ],
+ "textes-sacres": [
+  "Textes sacrés",
+  [],
+  []
+ ],
+ "fetes-religieuses": [
+  "Fêtes religieuses",
+  [],
+  []
+ ],
+ "crises-economiques": [
+  "Crises économiques",
+  [],
+  []
+ ],
+ "entreprises-emblematiques": [
+  "Entreprises emblématiques",
+  [],
+  []
+ ]
+}

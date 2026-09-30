@@ -1,0 +1,694 @@
+{
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1924": {
+  "qid": "Q9583",
+  "P276": [
+   "Chamonix-Mont-Blanc",
+   "stade olympique de Chamonix"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "hockey sur glace aux Jeux olympiques de 1924",
+   "curling aux Jeux olympiques de 1924",
+   "saut à ski aux Jeux olympiques de 1924",
+   "combiné nordique aux Jeux olympiques de 1924",
+   "ski nordique aux Jeux olympiques d'hiver de 1924",
+   "bobsleigh aux Jeux olympiques de 1924",
+   "patrouille militaire aux Jeux olympiques de 1924",
+   "ski de fond aux Jeux olympiques de 1924",
+   "patinage de vitesse aux Jeux olympiques de 1924",
+   "patinage artistique aux Jeux olympiques de 1924",
+   "alpinisme aux Jeux olympiques d'hiver de 1924"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1928": {
+  "qid": "Q9591",
+  "P276": [
+   "St. Moritz Olympic Ice Rink",
+   "Saint-Moritz"
+  ],
+  "P131": [
+   "canton des Grisons"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "ski de fond aux Jeux olympiques de 1928",
+   "combiné nordique aux Jeux olympiques de 1928",
+   "hockey sur glace aux Jeux olympiques de 1928",
+   "skeleton aux Jeux olympiques de 1928",
+   "patrouille militaire aux Jeux olympiques de 1928",
+   "patinage de vitesse aux Jeux olympiques de 1928",
+   "ski jöring aux Jeux olympiques de 1928",
+   "ski nordique aux Jeux olympiques d'hiver de 1928",
+   "saut à ski aux Jeux olympiques de 1928",
+   "bobsleigh aux Jeux olympiques de 1928",
+   "patinage artistique aux Jeux olympiques de 1928"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1932": {
+  "qid": "Q9596",
+  "P276": [
+   "James B. Sheffield Olympic Skating Rink",
+   "Lake Placid"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "bobsleigh aux Jeux olympiques de 1932",
+   "curling aux Jeux olympiques de 1932",
+   "ski de fond aux Jeux olympiques de 1932",
+   "combiné nordique aux Jeux olympiques de 1932",
+   "saut à ski aux Jeux olympiques de 1932",
+   "course de chiens de traîneaux aux Jeux olympiques d'hiver de 1932",
+   "ski nordique aux Jeux olympiques d'hiver de 1932",
+   "hockey sur glace aux Jeux olympiques de 1932",
+   "patinage de vitesse aux Jeux olympiques de 1932",
+   "patinage artistique aux Jeux olympiques de 1932"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1936": {
+  "qid": "Q9600",
+  "P276": [
+   "Große Olympiaschanze",
+   "Garmisch-Partenkirchen"
+  ],
+  "P17": [
+   "Troisième Reich"
+  ],
+  "P527": [
+   "ski de fond aux Jeux olympiques de 1936",
+   "combiné nordique aux Jeux olympiques de 1936",
+   "saut à ski aux Jeux olympiques de 1936",
+   "ski nordique aux Jeux olympiques d'hiver de 1936",
+   "ski alpin aux Jeux olympiques de 1936",
+   "hockey sur glace aux Jeux olympiques de 1936",
+   "bobsleigh aux Jeux olympiques de 1936",
+   "eisstock aux Jeux olympiques d'hiver de 1936",
+   "patrouille militaire aux Jeux olympiques de 1936",
+   "patinage de vitesse aux Jeux olympiques de 1936",
+   "patinage artistique aux Jeux olympiques de 1936"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1948": {
+  "qid": "Q9615",
+  "P276": [
+   "Saint-Moritz"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "saut à ski aux Jeux olympiques de 1948",
+   "ski alpin aux Jeux olympiques de 1948",
+   "hockey sur glace aux Jeux olympiques de 1948",
+   "patinage de vitesse aux Jeux olympiques de 1948",
+   "ski nordique aux Jeux olympiques d'hiver de 1948",
+   "skeleton aux Jeux olympiques de 1948",
+   "combiné nordique aux Jeux olympiques de 1948",
+   "pentathlon d'hiver aux Jeux olympiques de 1948",
+   "patrouille militaire aux Jeux olympiques de 1948",
+   "bobsleigh aux Jeux olympiques de 1948",
+   "ski de fond aux Jeux olympiques de 1948",
+   "patinage artistique aux Jeux olympiques de 1948"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1952": {
+  "qid": "Q9623",
+  "P276": [
+   "stade du Bislett"
+  ],
+  "P17": [
+   "Norvège"
+  ],
+  "P527": [
+   "bandy aux Jeux olympiques d'hiver de 1952",
+   "patinage de vitesse aux Jeux olympiques de 1952",
+   "hockey sur glace aux Jeux olympiques de 1952",
+   "ski de fond aux Jeux olympiques de 1952",
+   "combiné nordique aux Jeux olympiques de 1952",
+   "saut à ski aux Jeux olympiques de 1952",
+   "ski alpin aux Jeux olympiques de 1952",
+   "ski nordique aux Jeux olympiques d'hiver de 1952",
+   "bobsleigh aux Jeux olympiques de 1952",
+   "patinage artistique aux Jeux olympiques de 1952"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1956": {
+  "qid": "Q9632",
+  "P276": [
+   "Stadio Olimpico del Ghiaccio",
+   "Cortina d'Ampezzo"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "bobsleigh aux Jeux olympiques de 1956",
+   "patinage de vitesse aux Jeux olympiques de 1956",
+   "hockey sur glace aux Jeux olympiques de 1956",
+   "saut à ski aux Jeux olympiques de 1956",
+   "ski de fond aux Jeux olympiques de 1956",
+   "ski alpin aux Jeux olympiques de 1956",
+   "ski nordique aux Jeux olympiques d'hiver de 1956",
+   "combiné nordique aux Jeux olympiques de 1956",
+   "patinage artistique aux Jeux olympiques de 1956"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1960": {
+  "qid": "Q9634",
+  "P276": [
+   "Palisades Tahoe",
+   "Olympic Valley"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "biathlon aux Jeux olympiques de 1960",
+   "patinage de vitesse aux Jeux olympiques de 1960",
+   "hockey sur glace aux Jeux olympiques de 1960",
+   "ski de fond aux Jeux olympiques de 1960",
+   "combiné nordique aux Jeux olympiques de 1960",
+   "saut à ski aux Jeux olympiques de 1960",
+   "ski nordique aux Jeux olympiques d'hiver de 1960",
+   "ski alpin aux Jeux olympiques de 1960",
+   "patinage artistique aux Jeux olympiques de 1960"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1964": {
+  "qid": "Q9636",
+  "P276": [
+   "Tremplin de Bergisel"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "biathlon aux Jeux olympiques de 1964",
+   "ski de fond aux Jeux olympiques de 1964",
+   "saut à ski aux Jeux olympiques de 1964",
+   "ski alpin aux Jeux olympiques de 1964",
+   "patinage de vitesse aux Jeux olympiques de 1964",
+   "bobsleigh aux Jeux olympiques de 1964",
+   "hockey sur glace aux Jeux olympiques de 1964",
+   "luge aux Jeux olympiques de 1964",
+   "eisstock aux Jeux olympiques d'hiver de 1964",
+   "combiné nordique aux Jeux olympiques de 1964",
+   "ski nordique aux Jeux olympiques d'hiver de 1964",
+   "patinage artistique aux Jeux olympiques de 1964"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1968": {
+  "qid": "Q9642",
+  "P276": [
+   "Grenoble"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "patinage de vitesse aux Jeux olympiques de 1968",
+   "combiné nordique aux Jeux olympiques de 1968",
+   "biathlon aux Jeux olympiques de 1968",
+   "bobsleigh aux Jeux olympiques de 1968",
+   "luge aux Jeux olympiques de 1968",
+   "ski nordique aux Jeux olympiques d'hiver de 1968",
+   "ski de fond aux Jeux olympiques de 1968",
+   "ski alpin aux Jeux olympiques de 1968",
+   "saut à ski aux Jeux olympiques de 1968",
+   "hockey sur glace aux Jeux olympiques de 1968",
+   "patinage artistique aux Jeux olympiques de 1968"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1972": {
+  "qid": "Q9646",
+  "P276": [
+   "Makomanai Open Stadium"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "bobsleigh aux Jeux olympiques de 1972",
+   "luge aux Jeux olympiques de 1972",
+   "saut à ski aux Jeux olympiques de 1972",
+   "ski nordique aux Jeux olympiques d'hiver de 1972",
+   "ski de fond aux Jeux olympiques de 1972",
+   "ski alpin aux Jeux olympiques de 1972",
+   "patinage de vitesse aux Jeux olympiques de 1972",
+   "biathlon aux Jeux olympiques de 1972",
+   "combiné nordique aux Jeux olympiques de 1972",
+   "hockey sur glace aux Jeux olympiques de 1972",
+   "patinage artistique aux Jeux olympiques de 1972"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1976": {
+  "qid": "Q9651",
+  "P276": [
+   "Innsbruck"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "ski de fond aux Jeux olympiques de 1976",
+   "saut à ski aux Jeux olympiques de 1976",
+   "hockey sur glace aux Jeux olympiques de 1976",
+   "bobsleigh aux Jeux olympiques de 1976",
+   "luge aux Jeux olympiques de 1976",
+   "combiné nordique aux Jeux olympiques de 1976",
+   "biathlon aux Jeux olympiques de 1976",
+   "ski nordique aux Jeux olympiques d'hiver de 1976",
+   "patinage de vitesse aux Jeux olympiques de 1976",
+   "ski alpin aux Jeux olympiques de 1976",
+   "patinage artistique aux Jeux olympiques de 1976"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1980": {
+  "qid": "Q9652",
+  "P276": [
+   "Lake Placid"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "hockey sur glace aux Jeux olympiques de 1980",
+   "biathlon aux Jeux olympiques de 1980",
+   "ski nordique aux Jeux olympiques d'hiver de 1980",
+   "ski de fond aux Jeux olympiques de 1980",
+   "saut à ski aux Jeux olympiques de 1980",
+   "ski alpin aux Jeux olympiques de 1980",
+   "bobsleigh aux Jeux olympiques de 1980",
+   "patinage de vitesse aux Jeux olympiques de 1980",
+   "luge aux Jeux olympiques de 1980",
+   "combiné nordique aux Jeux olympiques de 1980",
+   "patinage artistique aux Jeux olympiques de 1980"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1984": {
+  "qid": "Q9657",
+  "P276": [
+   "stade Asim Ferhatović Hase",
+   "Zetra Olympic Hall",
+   "Zetra Ice Rink",
+   "Skenderija",
+   "Bjelašnica",
+   "Jahorina",
+   "Igman",
+   "Tremplins d'Igman",
+   "piste olympique de bobsleigh et de luge de Sarajevo"
+  ],
+  "P17": [
+   "république fédérative socialiste de Yougoslavie"
+  ],
+  "P527": [
+   "bobsleigh aux Jeux olympiques de 1984",
+   "hockey sur glace aux Jeux olympiques de 1984",
+   "patinage de vitesse aux Jeux olympiques de 1984",
+   "luge aux Jeux olympiques de 1984",
+   "saut à ski aux Jeux olympiques de 1984",
+   "ski alpin aux Jeux olympiques de 1984",
+   "ski pour handicapés aux Jeux olympiques de 1984",
+   "ski nordique aux Jeux olympiques d'hiver de 1984",
+   "ski de fond aux Jeux olympiques de 1984",
+   "combiné nordique aux Jeux olympiques de 1984",
+   "biathlon aux Jeux olympiques de 1984",
+   "patinage artistique aux Jeux olympiques de 1984"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1988": {
+  "qid": "Q9658",
+  "P276": [
+   "Calgary"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "combiné nordique aux Jeux olympiques de 1988",
+   "hockey sur glace aux Jeux olympiques de 1988",
+   "curling aux Jeux olympiques de 1988",
+   "ski acrobatique aux Jeux olympiques de 1988",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 1988",
+   "ski nordique aux Jeux olympiques d'hiver de 1988",
+   "saut à ski aux Jeux olympiques de 1988",
+   "biathlon aux Jeux olympiques de 1988",
+   "ski alpin aux Jeux olympiques de 1988",
+   "ski de fond aux Jeux olympiques de 1988",
+   "ski pour handicapés aux Jeux olympiques de 1988",
+   "luge aux Jeux olympiques de 1988",
+   "patinage de vitesse aux Jeux olympiques de 1988",
+   "bobsleigh aux Jeux olympiques de 1988",
+   "patinage artistique aux Jeux olympiques de 1988"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1992": {
+  "qid": "Q9660",
+  "P276": [
+   "Théâtre des Cérémonies"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "hockey sur glace aux Jeux olympiques de 1992",
+   "biathlon aux Jeux olympiques de 1992",
+   "bobsleigh aux Jeux olympiques de 1992",
+   "luge aux Jeux olympiques de 1992",
+   "combiné nordique aux Jeux olympiques de 1992",
+   "ski de vitesse aux Jeux olympiques de 1992",
+   "ski de fond aux Jeux olympiques de 1992",
+   "saut à ski aux Jeux olympiques de 1992",
+   "ski acrobatique aux Jeux olympiques de 1992",
+   "curling aux Jeux olympiques de 1992",
+   "ski nordique aux Jeux olympiques d'hiver de 1992",
+   "ski alpin aux Jeux olympiques de 1992",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 1992",
+   "patinage artistique aux Jeux olympiques de 1992",
+   "patinage de vitesse aux Jeux olympiques de 1992"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1994": {
+  "qid": "Q9663",
+  "P276": [
+   "Tremplins de Lysgård",
+   "Vikingskipet",
+   "Patinoire olympique de Gjøvik",
+   "stade de ski artistique de Kanthaugen",
+   "Hafjell",
+   "Kvitfjell",
+   "Hunderfossen",
+   "amphithéâtre olympique de Hamar"
+  ],
+  "P17": [
+   "Norvège"
+  ],
+  "P527": [
+   "luge aux Jeux olympiques de 1994",
+   "ski acrobatique aux Jeux olympiques de 1994",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 1994",
+   "saut à ski aux Jeux olympiques de 1994",
+   "biathlon aux Jeux olympiques de 1994",
+   "hockey sur glace aux Jeux olympiques de 1994",
+   "ski nordique aux Jeux olympiques d'hiver de 1994",
+   "ski alpin aux Jeux olympiques de 1994",
+   "bobsleigh aux Jeux olympiques de 1994",
+   "patinage de vitesse aux Jeux olympiques de 1994",
+   "ski de fond aux Jeux olympiques de 1994",
+   "combiné nordique aux Jeux olympiques de 1994",
+   "patinage artistique aux Jeux olympiques de 1994"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-1998": {
+  "qid": "Q9664",
+  "P276": [
+   "stade olympique de Nagano"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "biathlon aux Jeux olympiques de 1998",
+   "snowboard aux Jeux olympiques de 1998",
+   "luge aux Jeux olympiques de 1998",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 1998",
+   "ski acrobatique aux Jeux olympiques de 1998",
+   "combiné nordique aux Jeux olympiques de 1998",
+   "ski de fond aux Jeux olympiques de 1998",
+   "ski nordique aux Jeux olympiques d'hiver de 1998",
+   "saut à ski aux Jeux olympiques de 1998",
+   "ski alpin aux Jeux olympiques de 1998",
+   "bobsleigh aux Jeux olympiques de 1998",
+   "hockey sur glace aux Jeux olympiques de 1998",
+   "patinage de vitesse aux Jeux olympiques de 1998",
+   "curling aux Jeux olympiques de 1998",
+   "patinage artistique aux Jeux olympiques de 1998"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2002": {
+  "qid": "Q9668",
+  "P276": [
+   "Park City",
+   "Deer Valley",
+   "Snowbasin",
+   "Utah Olympic Park",
+   "Soldier Hollow",
+   "Delta Center",
+   "Peaks Ice Arena",
+   "The Ice Sheet",
+   "Utah Olympic Oval",
+   "Maverik Center",
+   "Rice-Eccles Stadium"
+  ],
+  "P131": [
+   "Salt Lake City"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "biathlon aux Jeux olympiques de 2002",
+   "patinage de vitesse aux Jeux olympiques de 2002",
+   "curling aux Jeux olympiques de 2002",
+   "luge aux Jeux olympiques de 2002",
+   "ski acrobatique aux Jeux olympiques de 2002",
+   "combiné nordique aux Jeux olympiques de 2002",
+   "ski de fond aux Jeux olympiques de 2002",
+   "snowboard aux Jeux olympiques de 2002",
+   "saut à ski aux Jeux olympiques de 2002",
+   "ski nordique aux Jeux olympiques d'hiver de 2002",
+   "bobsleigh aux Jeux olympiques de 2002",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2002",
+   "hockey sur glace aux Jeux olympiques de 2002",
+   "skeleton aux Jeux olympiques de 2002",
+   "ski alpin aux Jeux olympiques de 2002",
+   "patinage artistique aux Jeux olympiques de 2002"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2006": {
+  "qid": "Q9672",
+  "P276": [
+   "stade olympique de Turin",
+   "Cesana Pariol",
+   "Cesana San Sicario",
+   "Sestrières",
+   "Pragela",
+   "Bardonnèche",
+   "Sauze d'Oulx",
+   "Torino Palasport Olimpico",
+   "Oval Lingotto",
+   "Torino Palavela",
+   "Pinerolo Palaghiaccio"
+  ],
+  "P131": [
+   "Turin"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "curling aux Jeux olympiques de 2006",
+   "luge aux Jeux olympiques de 2006",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2006",
+   "skeleton aux Jeux olympiques de 2006",
+   "combiné nordique aux Jeux olympiques de 2006",
+   "ski de fond aux Jeux olympiques de 2006",
+   "biathlon aux Jeux olympiques de 2006",
+   "hockey sur glace aux Jeux olympiques de 2006",
+   "ski acrobatique aux Jeux olympiques de 2006",
+   "ski alpin aux Jeux olympiques de 2006",
+   "snowboard aux Jeux olympiques de 2006",
+   "patinage de vitesse aux Jeux olympiques de 2006",
+   "saut à ski aux Jeux olympiques de 2006",
+   "bobsleigh aux Jeux olympiques de 2006",
+   "patinage artistique aux Jeux olympiques de 2006",
+   "ski nordique aux Jeux olympiques d'hiver de 2006"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2010": {
+  "qid": "Q9674",
+  "P276": [
+   "BC Place Stadium",
+   "Rogers Arena",
+   "Pacific Coliseum",
+   "centre olympique/paralympique de Vancouver",
+   "parc olympique de Whistler",
+   "Whistler Blackcomb",
+   "Cypress Mountain",
+   "anneau olympique de Richmond",
+   "centre des sports de glisse de Whistler"
+  ],
+  "P131": [
+   "Vancouver"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "biathlon aux Jeux olympiques de 2010",
+   "ski nordique aux Jeux olympiques d'hiver de 2010",
+   "ski alpin aux Jeux olympiques de 2010",
+   "saut à ski aux Jeux olympiques de 2010",
+   "curling aux Jeux olympiques de 2010",
+   "combiné nordique aux Jeux olympiques de 2010",
+   "hockey sur glace aux Jeux olympiques de 2010",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2010",
+   "luge aux Jeux olympiques de 2010",
+   "skeleton aux Jeux olympiques de 2010",
+   "bobsleigh aux Jeux olympiques de 2010",
+   "ski acrobatique aux Jeux olympiques de 2010",
+   "patinage de vitesse aux Jeux olympiques de 2010",
+   "snowboard aux Jeux olympiques de 2010",
+   "ski de fond aux Jeux olympiques de 2010",
+   "patinage artistique aux Jeux olympiques de 2010"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2014": {
+  "qid": "Q9678",
+  "P276": [
+   "Sotchi",
+   "Krasnaïa Poliana"
+  ],
+  "P17": [
+   "Russie"
+  ],
+  "P527": [
+   "patinage de vitesse aux Jeux olympiques de 2014",
+   "curling aux Jeux olympiques d'hiver de 2014",
+   "ski de fond aux Jeux olympiques de 2014",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2014",
+   "saut à ski aux Jeux olympiques de 2014",
+   "combiné nordique aux Jeux olympiques de 2014",
+   "hockey sur glace aux Jeux olympiques de 2014",
+   "ski acrobatique aux Jeux olympiques de 2014",
+   "bobsleigh aux Jeux olympiques de 2014",
+   "skeleton aux Jeux olympiques de 2014",
+   "snowboard aux Jeux olympiques de 2014",
+   "ski nordique aux Jeux olympiques d'hiver de 2014",
+   "luge aux Jeux olympiques de 2014",
+   "biathlon aux Jeux olympiques de 2014",
+   "ski alpin aux Jeux olympiques de 2014",
+   "patinage artistique aux Jeux olympiques de 2014"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2018": {
+  "qid": "Q9680",
+  "P276": [
+   "stade olympique de Pyeongchang",
+   "Alpensia Jumping Park",
+   "stade de biathlon d'Alpensia",
+   "centre de biathlon et de ski de fond d'Alpensia",
+   "centre de glisse d'Alpensia",
+   "Yongpyong",
+   "centre alpin de Jeongseon",
+   "Centre de hockey de Gangneung",
+   "centre de curling de Gangneung",
+   "Gangneung Science Oval",
+   "Palais des glaces de Gangneung",
+   "Centre de hockey de Kwandong",
+   "Bokwang Phoenix Park"
+  ],
+  "P131": [
+   "comté de Pyeongchang"
+  ],
+  "P17": [
+   "Corée du Sud"
+  ],
+  "P527": [
+   "ski alpin aux Jeux olympiques de 2018",
+   "biathlon aux Jeux olympiques de 2018",
+   "bobsleigh aux Jeux olympiques de 2018",
+   "ski de fond aux Jeux olympiques de 2018",
+   "curling aux Jeux olympiques de 2018",
+   "patinage artistique aux Jeux olympiques de 2018",
+   "ski acrobatique aux Jeux olympiques de 2018",
+   "hockey sur glace aux Jeux olympiques de 2018",
+   "luge aux Jeux olympiques de 2018",
+   "combiné nordique aux Jeux olympiques de 2018",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2018",
+   "skeleton aux Jeux olympiques de 2018",
+   "saut à ski aux Jeux olympiques de 2018",
+   "snowboard aux Jeux olympiques de 2018",
+   "patinage de vitesse aux Jeux olympiques de 2018",
+   "ski nordique aux Jeux olympiques d'hiver de 2018"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2022": {
+  "qid": "Q193074",
+  "P276": [
+   "stade national de Pékin",
+   "palais national omnisports de Pékin",
+   "Centre de ski nordique et de biathlon de Guyangshu",
+   "palais omnisports de Wukesong",
+   "Palais omnisports de la capitale de Pékin",
+   "Anneau national de patinage de vitesse de Pékin",
+   "centre national de natation",
+   "Pékin"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "hockey sur glace aux Jeux olympiques d'hiver de 2022",
+   "biathlon aux Jeux olympiques de 2022",
+   "luge aux Jeux olympiques de 2022",
+   "patinage artistique aux Jeux olympiques d'hiver 2022",
+   "ski acrobatique aux Jeux olympiques de 2022",
+   "ski de fond aux Jeux olympiques de 2022",
+   "ski alpin aux Jeux olympiques de 2022",
+   "skeleton aux Jeux olympiques de 2022",
+   "snowboard aux Jeux olympiques de 2022",
+   "saut à ski aux Jeux olympiques de 2022",
+   "bobsleigh aux Jeux olympiques de 2022",
+   "combiné nordique aux Jeux olympiques de 2022",
+   "curling aux Jeux olympiques de 2022",
+   "patinage de vitesse aux Jeux olympiques de 2022",
+   "patinage de vitesse sur piste courte aux Jeux olympiques de 2022"
+  ]
+ },
+ "jeux-olympiques-hiver_jeux-olympiques-d-hiver-de-2026": {
+  "qid": "Q4630399",
+  "P276": [
+   "Milan",
+   "Cortina d'Ampezzo",
+   "Bormio",
+   "Rasun-Anterselva",
+   "Livigno",
+   "Predazzo",
+   "Tesero",
+   "Vérone",
+   "Arco della Pace"
+  ],
+  "P131": [
+   "Milan",
+   "Cortina d'Ampezzo"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "ski alpin aux Jeux olympiques d'hiver de 2026",
+   "biathlon aux Jeux olympiques d'hiver de 2026",
+   "bobsleigh aux Jeux olympiques d'hiver de 2026",
+   "ski de fond aux Jeux olympiques d'hiver de 2026",
+   "curling aux Jeux olympiques d'hiver de 2026",
+   "patinage artistique aux Jeux olympiques d'hiver 2026",
+   "ski acrobatique aux Jeux olympiques d'hiver de 2026",
+   "hockey sur glace aux Jeux olympiques d'hiver de 2026",
+   "luge aux Jeux olympiques d'hiver de 2026",
+   "combiné nordique aux Jeux olympiques d'hiver de 2026",
+   "patinage de vitesse sur piste courte aux Jeux olympiques d'hiver de 2026",
+   "skeleton aux Jeux olympiques d'hiver de 2026",
+   "saut à ski aux Jeux olympiques d'hiver de 2026",
+   "ski-alpinisme aux Jeux olympiques d'hiver de 2026",
+   "snowboard aux Jeux olympiques d'hiver de 2026",
+   "patinage de vitesse aux Jeux olympiques d'hiver de 2026",
+   "12 février aux Jeux olympiques d'hiver de 2026"
+  ]
+ }
+}

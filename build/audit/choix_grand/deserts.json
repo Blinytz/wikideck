@@ -1,0 +1,92 @@
+{
+ "deserts_sahara": {
+  "k": 2
+ },
+ "deserts_desert-de-gobi": {
+  "k": 11
+ },
+ "deserts_desert-d-atacama": {
+  "k": 10
+ },
+ "deserts_desert-du-kalahari": {
+  "k": 2
+ },
+ "deserts_desert-du-namib": {
+  "k": 9
+ },
+ "deserts_rub-al-khali": {
+  "k": 1
+ },
+ "deserts_neguev": {
+  "k": 11
+ },
+ "deserts_desert-du-thar": {
+  "k": 1
+ },
+ "deserts_desert-du-taklamakan": {
+  "k": 1
+ },
+ "deserts_desert-des-mojaves": {
+  "k": 11
+ },
+ "deserts_vallee-de-la-mort": {
+  "k": 11
+ },
+ "deserts_desert-de-sonora": {
+  "k": 1
+ },
+ "deserts_desert-de-chihuahua": {
+  "k": 10
+ },
+ "deserts_grand-desert-de-victoria": {
+  "k": 1
+ },
+ "deserts_desert-de-simpson": {
+  "k": 2
+ },
+ "deserts_desert-du-karakoum": {
+  "k": 2
+ },
+ "deserts_desert-du-kyzylkoum": {
+  "k": 4
+ },
+ "deserts_dacht-e-lout": {
+  "k": 0
+ },
+ "deserts_dacht-e-kavir": {
+  "k": 0
+ },
+ "deserts_desert-libyque": {
+  "k": 1
+ },
+ "deserts_tenere": {
+  "k": 1
+ },
+ "deserts_depression-de-l-afar": {
+  "k": 8
+ },
+ "deserts_wadi-rum": {
+  "k": 1
+ },
+ "deserts_desert-de-tabernas": {
+  "k": 1
+ },
+ "deserts_bardenas-reales": {
+  "k": 6
+ },
+ "deserts_desert-blanc": {
+  "k": 0
+ },
+ "deserts_steppe-patagonienne": {
+  "k": 4
+ },
+ "deserts_grand-erg-oriental": {
+  "k": 2
+ },
+ "deserts_desert-de-syrie": {
+  "k": 2,
+  "cx": 0.4,
+  "cy": 0.5,
+  "w": 0.66
+ }
+}

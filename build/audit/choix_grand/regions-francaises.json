@@ -1,0 +1,44 @@
+{
+ "regions-francaises_auvergne-rhone-alpes": {
+  "k": 2
+ },
+ "regions-francaises_bourgogne-franche-comte": {
+  "k": 9
+ },
+ "regions-francaises_bretagne-region-administrative": {
+  "k": 2
+ },
+ "regions-francaises_centre-val-de-loire": {
+  "k": 8
+ },
+ "regions-francaises_politique-en-corse": {
+  "k": 1
+ },
+ "regions-francaises_grand-est": {
+  "k": 9
+ },
+ "regions-francaises_hauts-de-france": {
+  "k": 0
+ },
+ "regions-francaises_ile-de-france": {
+  "k": 7
+ },
+ "regions-francaises_nouvelle-aquitaine": {
+  "k": 6
+ },
+ "regions-francaises_occitanie-region-administrative": {
+  "k": 7
+ },
+ "regions-francaises_pays-de-la-loire": {
+  "k": 3
+ },
+ "regions-francaises_provence-alpes-cote-d-azur": {
+  "k": 10
+ },
+ "regions-francaises_guyane": {
+  "k": 2
+ },
+ "regions-francaises_normandie-region-administrative": {
+  "k": 9
+ }
+}

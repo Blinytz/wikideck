@@ -1,0 +1,419 @@
+{
+ "pilotes-f1-champions-du-monde_giuseppe-farina": {
+  "qid": "Q2040",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Italie"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_juan-manuel-fangio": {
+  "qid": "Q2069",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "Argentine"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_alberto-ascari": {
+  "qid": "Q2086",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_mike-hawthorn": {
+  "qid": "Q2104",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jack-brabham": {
+  "qid": "Q2125",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "Australie"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_phil-hill": {
+  "qid": "Q3112",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_graham-hill": {
+  "qid": "Q3128",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jim-clark": {
+  "qid": "Q3137",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_john-surtees": {
+  "qid": "Q3153",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_denny-hulme": {
+  "qid": "Q3166",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jackie-stewart": {
+  "qid": "Q3188",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jochen-rindt": {
+  "qid": "Q3234",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_emerson-fittipaldi": {
+  "qid": "Q172849",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Brésil",
+   "Pologne"
+  ],
+  "P101": [
+   "course automobile"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_niki-lauda": {
+  "qid": "Q78489",
+  "P569": [
+   "1949"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "Autriche"
+  ],
+  "P101": [
+   "voiture de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_james-hunt": {
+  "qid": "Q140393",
+  "P569": [
+   "1947"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "course automobile",
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_mario-andretti": {
+  "qid": "Q171312",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis",
+   "Italie"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jody-scheckter": {
+  "qid": "Q172775",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "Afrique du Sud"
+  ],
+  "P101": [
+   "voiture de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_alan-jones": {
+  "qid": "Q172753",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Australie"
+  ],
+  "P101": [
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_nelson-piquet": {
+  "qid": "Q171346",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P101": [
+   "voiture de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_keke-rosberg": {
+  "qid": "Q171381",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Finlande"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_alain-prost": {
+  "qid": "Q10494",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_ayrton-senna": {
+  "qid": "Q10490",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_nigel-mansell": {
+  "qid": "Q10501",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "motorism",
+   "course automobile",
+   "voiture de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_michael-schumacher": {
+  "qid": "Q9671",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_damon-hill": {
+  "qid": "Q10505",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "voiture de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jacques-villeneuve": {
+  "qid": "Q172843",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "Canada"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_mika-hakkinen": {
+  "qid": "Q172842",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "Finlande"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_fernando-alonso": {
+  "qid": "Q10514",
+  "P569": [
+   "1981"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_kimi-raikkonen": {
+  "qid": "Q11192",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "Finlande"
+  ],
+  "P101": [
+   "course automobile",
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_lewis-hamilton": {
+  "qid": "Q9673",
+  "P569": [
+   "1985",
+   "1985"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_jenson-button": {
+  "qid": "Q10510",
+  "P569": [
+   "1980"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "course automobile",
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_sebastian-vettel": {
+  "qid": "Q42311",
+  "P569": [
+   "1987"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_nico-rosberg": {
+  "qid": "Q75820",
+  "P569": [
+   "1985"
+  ],
+  "P27": [
+   "Allemagne",
+   "Finlande"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_max-verstappen": {
+  "qid": "Q2239218",
+  "P569": [
+   "1997"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas",
+   "Belgique"
+  ],
+  "P101": [
+   "Formule 1",
+   "course de Formule 1"
+  ]
+ },
+ "pilotes-f1-champions-du-monde_lando-norris": {
+  "qid": "Q22007193",
+  "P569": [
+   "1999"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Belgique"
+  ],
+  "P101": [
+   "course de Formule 1",
+   "course automobile"
+  ]
+ }
+}

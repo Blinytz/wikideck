@@ -1,0 +1,83 @@
+{
+ "textes-sacres_bible": {
+  "k": 0
+ },
+ "textes-sacres_ancien-testament": {
+  "k": 4
+ },
+ "textes-sacres_nouveau-testament": {
+  "k": 2
+ },
+ "textes-sacres_torah": {
+  "k": 9
+ },
+ "textes-sacres_talmud": {
+  "k": 1
+ },
+ "textes-sacres_coran": {
+  "k": 0
+ },
+ "textes-sacres_hadith": {
+  "k": 4
+ },
+ "textes-sacres_veda": {
+  "k": 2
+ },
+ "textes-sacres_rig-veda": {
+  "k": 0
+ },
+ "textes-sacres_upanishad": {
+  "k": 0
+ },
+ "textes-sacres_bhagavad-gita": {
+  "k": 2
+ },
+ "textes-sacres_tripitaka": {
+  "k": 9
+ },
+ "textes-sacres_sutra-du-lotus": {
+  "k": 11
+ },
+ "textes-sacres_entretiens-de-confucius": {
+  "k": 4
+ },
+ "textes-sacres_avesta": {
+  "k": 1
+ },
+ "textes-sacres_guru-granth-sahib": {
+  "k": 10
+ },
+ "textes-sacres_livre-de-mormon": {
+  "k": 7
+ },
+ "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
+  "k": 0
+ },
+ "textes-sacres_popol-vuh": {
+  "k": 11
+ },
+ "textes-sacres_evangile": {
+  "k": 5
+ },
+ "textes-sacres_apocalypse": {
+  "k": 3
+ },
+ "textes-sacres_livre-de-la-genese": {
+  "k": 10
+ },
+ "textes-sacres_psaume": {
+  "k": 2
+ },
+ "textes-sacres_kojiki": {
+  "k": 11
+ },
+ "textes-sacres_sefer-hazohar": {
+  "k": 5
+ },
+ "textes-sacres_bardo-thodol": {
+  "k": 4
+ },
+ "textes-sacres_manuscrits-de-la-mer-morte": {
+  "k": 1
+ }
+}

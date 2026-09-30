@@ -1,0 +1,5476 @@
+{
+ "auteurs-modernes_marcel-proust": {
+  "qid": "Q7199",
+  "P569": [
+   "1871"
+  ],
+  "P570": [
+   "1922"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "À l'ombre des jeunes filles en fleurs",
+   "À la recherche du temps perdu",
+   "Jean Santeuil"
+  ],
+  "P101": [
+   "roman"
+  ],
+  "P136": [
+   "roman-fleuve",
+   "pastiche",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_franz-kafka": {
+  "qid": "Q905",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1924"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Tchécoslovaquie"
+  ],
+  "P135": [
+   "littérature moderniste",
+   "existentialisme"
+  ],
+  "P800": [
+   "La Métamorphose",
+   "Le Procès",
+   "Le Château",
+   "Devant la Loi",
+   "L'Amérique"
+  ],
+  "P101": [
+   "littérature",
+   "littérature pragoise de langue allemande"
+  ],
+  "P136": [
+   "modernisme",
+   "belles-lettres",
+   "pritcha",
+   "micronouvelle"
+  ]
+ },
+ "auteurs-modernes_james-joyce": {
+  "qid": "Q6882",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Irlande",
+   "Royaume-Uni",
+   "France"
+  ],
+  "P800": [
+   "Les Gens de Dublin",
+   "Portrait de l'artiste en jeune homme",
+   "Ulysse",
+   "Finnegans Wake",
+   "Pomes Penyeach",
+   "Les Exilés",
+   "Stephen le héros"
+  ],
+  "P101": [
+   "littérature",
+   "roman"
+  ],
+  "P136": [
+   "littérature fictionnelle",
+   "poésie",
+   "fiction psychologique",
+   "roman d'apprentissage"
+  ]
+ },
+ "auteurs-modernes_virginia-woolf": {
+  "qid": "Q40909",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "Bloomsbury Group"
+  ],
+  "P800": [
+   "La Promenade au phare",
+   "Mrs. Dalloway",
+   "Orlando",
+   "Une chambre à soi",
+   "Les Vagues",
+   "Les Années",
+   "La Traversée des apparences",
+   "Flush"
+  ],
+  "P101": [
+   "essai"
+  ],
+  "P136": [
+   "drame",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_d-h-lawrence": {
+  "qid": "Q34970",
+  "P569": [
+   "1885",
+   "1885"
+  ],
+  "P570": [
+   "1930",
+   "1930"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "littérature moderniste"
+  ],
+  "P800": [
+   "Amants et Fils",
+   "L'Arc-en-ciel",
+   "Femmes amoureuses",
+   "L'Amant de lady Chatterley"
+  ],
+  "P136": [
+   "roman court",
+   "art érotique"
+  ]
+ },
+ "auteurs-modernes_thomas-mann": {
+  "qid": "Q37030",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "Reich allemand",
+   "Tchécoslovaquie",
+   "États-Unis"
+  ],
+  "P800": [
+   "Les Buddenbrook",
+   "La Montagne magique",
+   "La Mort à Venise",
+   "Joseph et ses frères",
+   "Charlotte à Weimar",
+   "Altesse royale",
+   "Le Docteur Faustus",
+   "L'Élu",
+   "Les Confessions du chevalier d'industrie Félix Krull",
+   "Tristan",
+   "Tonio Kröger",
+   "Mario et le Magicien",
+   "Considérations d'un apolitique",
+   "Vision",
+   "Gefallen",
+   "La Volonté de bonheur",
+   "Déception",
+   "Q1197425",
+   "Le Petit Monsieur Friedemann",
+   "Paillasse",
+   "Tobias Mindernickel",
+   "L'Armoire",
+   "Avenged",
+   "Louisette",
+   "Le Chemin du cimetière",
+   "Gladius Dei",
+   "Fiorenza",
+   "Les Affamés",
+   "L'Enfant prodige",
+   "Un petit bonheur",
+   "Chez le prophète",
+   "Heure difficile",
+   "Anekdote",
+   "L'Accident de chemin de fer",
+   "Comment Jappe et Do Escobar se battirent",
+   "Maître et Chien",
+   "Q1516242",
+   "Sang réservé",
+   "Désordre",
+   "Les Têtes inverties",
+   "La Loi",
+   "Le Mirage",
+   "Q2518449",
+   "Die Lösung der Judenfrage",
+   "Q230370",
+   "Goethe et Tolstoï",
+   "The German Republic",
+   "Q331051",
+   "An Appeal To Reason",
+   "Sufferings and Greatness of Richard Wagner",
+   "That man is my brother",
+   "Le Problème de la liberté",
+   "Appels aux Allemands",
+   "Germany and the Germans",
+   "La Philosophie de Nietzsche à la lumière de notre expérience",
+   "Essai sur Schiller",
+   "The Coming Victory of Democracy"
+  ],
+  "P101": [
+   "roman",
+   "écriture créative et professionnelle",
+   "prose",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_hermann-hesse": {
+  "qid": "Q25973",
+  "P569": [
+   "1877",
+   "1877"
+  ],
+  "P570": [
+   "1962",
+   "1962"
+  ],
+  "P27": [
+   "Empire allemand",
+   "Suisse",
+   "Allemagne"
+  ],
+  "P135": [
+   "Art nouveau"
+  ],
+  "P800": [
+   "Le Jeu des perles de verre",
+   "Demian",
+   "Le Loup des steppes",
+   "Siddhartha",
+   "Peter Camenzind",
+   "Narcisse et Goldmund"
+  ],
+  "P101": [
+   "prose"
+  ]
+ },
+ "auteurs-modernes_f-scott-fitzgerald": {
+  "qid": "Q93354",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "modernisme"
+  ],
+  "P800": [
+   "Gatsby le Magnifique",
+   "Tendre est la nuit"
+  ]
+ },
+ "auteurs-modernes_ernest-hemingway": {
+  "qid": "Q23434",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Paradis perdu",
+   "Les Neiges du Kilimandjaro",
+   "Le Vieil Homme et la Mer",
+   "L'Heure triomphale de Francis Macomber",
+   "L'Adieu aux armes",
+   "Le soleil se lève aussi"
+  ],
+  "P101": [
+   "roman à clef"
+  ],
+  "P136": [
+   "prose",
+   "journalisme d'opinion",
+   "mémoires"
+  ]
+ },
+ "auteurs-modernes_william-faulkner": {
+  "qid": "Q38392",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1962"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "littérature moderniste"
+  ],
+  "P800": [
+   "Le Bruit et la Fureur",
+   "Tandis que j'agonise",
+   "Lumière d'août",
+   "Absalon, Absalon !",
+   "Une rose pour Emily"
+  ],
+  "P101": [
+   "roman"
+  ],
+  "P136": [
+   "scénario"
+  ]
+ },
+ "auteurs-modernes_john-steinbeck": {
+  "qid": "Q39212",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Des souris et des hommes",
+   "Les Raisins de la colère",
+   "À l'est d'Éden"
+  ],
+  "P101": [
+   "roman de mœurs",
+   "écriture créative et professionnelle",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_george-orwell": {
+  "qid": "Q3335",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1950"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Le Quai de Wigan",
+   "Hommage à la Catalogne",
+   "La Ferme des animaux",
+   "1984",
+   "Une histoire birmane",
+   "Un peu d'air frais",
+   "Et vive l'Aspidistra !",
+   "Une fille de pasteur",
+   "Dans la dèche à Paris et à Londres",
+   "Politics and the English Language",
+   "The Lion and the Unicorn: Socialism and the English Genius",
+   "Why I Write"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "littérature dystopique"
+  ]
+ },
+ "auteurs-modernes_aldous-huxley": {
+  "qid": "Q81447",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Le Meilleur des mondes",
+   "L'Éternité retrouvée",
+   "L'Art de voir",
+   "Retour au meilleur des mondes",
+   "Les Portes de la perception",
+   "La philosophie éternelle",
+   "Île",
+   "Le Ciel et l'Enfer",
+   "Jouvence",
+   "La Fin et les Moyens",
+   "Les Diables de Loudun",
+   "L'Éminence grise",
+   "Temps futurs",
+   "Cercle vicieux",
+   "Croisière d'Hiver en Amérique Centrale",
+   "Jaune de Crome",
+   "La paix des profondeurs",
+   "Littérature et Science",
+   "Musique Nocturne",
+   "La science, la paix, la liberte",
+   "Les Corbeaux de Pearblossom",
+   "Le Génie et la Déesse",
+   "Marina di Vezza"
+  ]
+ },
+ "auteurs-modernes_agatha-christie": {
+  "qid": "Q35064",
+  "P569": [
+   "1890",
+   "1890",
+   "1891"
+  ],
+  "P570": [
+   "1976",
+   "1976"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "Décalogue de Knox"
+  ],
+  "P800": [
+   "Le Meurtre de Roger Ackroyd",
+   "Cinq heures vingt-cinq",
+   "La Maison du péril",
+   "Le Couteau sur la nuque",
+   "Le Crime de l'Orient-Express",
+   "A.B.C. contre Poirot",
+   "Cartes sur table",
+   "Mort sur le Nil",
+   "Je ne suis pas coupable",
+   "Cinq petits cochons",
+   "L'Heure zéro",
+   "Un meurtre sera commis le...",
+   "Ainsi vont les filles",
+   "La Nuit qui ne finit pas",
+   "Hercule Poirot quitte la scène",
+   "La Dernière Énigme",
+   "Ils étaient dix"
+  ],
+  "P101": [
+   "roman policier",
+   "littérature de détectives",
+   "écriture créative et professionnelle",
+   "activité littéraire",
+   "Détachement d'aide volontaire"
+  ],
+  "P136": [
+   "autobiographie",
+   "fiction de détective",
+   "fiction d'aventures",
+   "littérature policière"
+  ]
+ },
+ "auteurs-modernes_j-r-r-tolkien": {
+  "qid": "Q892",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "Inklings"
+  ],
+  "P800": [
+   "Le Hobbit",
+   "Le Seigneur des anneaux",
+   "Le Silmarillion",
+   "Tree and Leaf",
+   "Roverandom",
+   "Les Aventures de Tom Bombadil",
+   "Beowulf : Les Monstres et les Critiques"
+  ],
+  "P101": [
+   "littérature",
+   "littérature de langue anglaise",
+   "littérature de fantasy",
+   "linguistique",
+   "histoire littéraire"
+  ],
+  "P136": [
+   "fantasy",
+   "littérature d'enfance",
+   "poésie",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_c-s-lewis": {
+  "qid": "Q9204",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "Inklings"
+  ],
+  "P800": [
+   "Le Monde de Narnia",
+   "Les Fondements du christianisme",
+   "Tactique du diable",
+   "La Trilogie cosmique",
+   "Un visage pour l'éternité",
+   "Surprised by Joy",
+   "Fern-seed and elephants and other essays on Christianity"
+  ],
+  "P101": [
+   "écriture",
+   "radiodiffusion",
+   "théologie",
+   "écriture créative et professionnelle",
+   "littérature de fantasy",
+   "poésie",
+   "études littéraires"
+  ],
+  "P136": [
+   "merveilleux",
+   "fantasy",
+   "science-fiction",
+   "apologétique"
+  ]
+ },
+ "auteurs-modernes_h-p-lovecraft": {
+  "qid": "Q169566",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Appel de Cthulhu",
+   "Dans l'abîme du temps",
+   "Les Montagnes hallucinées",
+   "L'Affaire Charles Dexter Ward",
+   "Les Chats d’Ulthar",
+   "Par-delà le mur du sommeil",
+   "La Quête onirique de Kadath l'inconnue",
+   "Le Cauchemar d'Innsmouth"
+  ],
+  "P101": [
+   "horreur",
+   "Weird Fiction",
+   "écriture créative et professionnelle",
+   "belles-lettres",
+   "littérature de fantasy",
+   "littérature d'horreur"
+  ],
+  "P136": [
+   "mystère",
+   "fantasy",
+   "roman gothique",
+   "science-fiction",
+   "cosmicisme",
+   "littérature d'horreur",
+   "horreur lovecraftienne",
+   "fiction body horror",
+   "Weird Fiction"
+  ]
+ },
+ "auteurs-modernes_albert-camus": {
+  "qid": "Q34670",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "1960"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "philosophie continentale"
+  ],
+  "P800": [
+   "L'Homme révolté",
+   "La Mort heureuse",
+   "La Chute",
+   "Le Mythe de Sisyphe",
+   "L'Étranger",
+   "La Peste",
+   "Albert Camus, Maria Casarès. Correspondance (1944-1959)",
+   "Caligula",
+   "Ni Victimes, ni bourreaux"
+  ],
+  "P101": [
+   "philosophie",
+   "littérature",
+   "journalisme",
+   "éthique",
+   "existence",
+   "philosophie politique",
+   "journalisme d'opinion",
+   "théâtre",
+   "activité littéraire",
+   "essai",
+   "drame",
+   "philosophie d'Albert Camus",
+   "existentialisme"
+  ]
+ },
+ "auteurs-modernes_jean-paul-sartre": {
+  "qid": "Q9364",
+  "P569": [
+   "1905"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "existentialisme",
+   "athéisme",
+   "phénoménologie",
+   "philosophie française",
+   "marxisme",
+   "philosophie continentale"
+  ],
+  "P101": [
+   "philosophie",
+   "épistémologie",
+   "éthique",
+   "politique",
+   "phénoménologie",
+   "ontologie"
+  ]
+ },
+ "auteurs-modernes_simone-de-beauvoir": {
+  "qid": "Q7197",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "athéisme",
+   "féminisme",
+   "existentialisme"
+  ],
+  "P800": [
+   "Les Mandarins",
+   "Quand prime le spirituel",
+   "Pyrrhus et Cinéas",
+   "Le Deuxième Sexe",
+   "L'Invitée",
+   "La Force des choses"
+  ],
+  "P101": [
+   "philosophie",
+   "essai",
+   "autobiographie",
+   "roman",
+   "féminisme",
+   "existentialisme"
+  ]
+ },
+ "auteurs-modernes_gabriel-garcia-marquez": {
+  "qid": "Q5878",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "Colombie"
+  ],
+  "P135": [
+   "réalisme magique"
+  ],
+  "P800": [
+   "Cent Ans de solitude",
+   "L'Automne du patriarche",
+   "L'Amour aux temps du choléra",
+   "Chronique d'une mort annoncée",
+   "Récit d'un naufragé",
+   "Pas de lettre pour le colonel"
+  ],
+  "P101": [
+   "roman",
+   "écriture créative et professionnelle",
+   "prose",
+   "nouvelle",
+   "journalisme d'opinion",
+   "journalisme"
+  ]
+ },
+ "auteurs-modernes_jorge-luis-borges": {
+  "qid": "Q909",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "Argentine"
+  ],
+  "P800": [
+   "La Bibliothèque de Babel"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_julio-cortazar": {
+  "qid": "Q174210",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "Mexique",
+   "France"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "Marelle"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "littérature espagnole"
+  ],
+  "P136": [
+   "réalisme magique",
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_pablo-neruda": {
+  "qid": "Q34189",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1973",
+   "1973"
+  ],
+  "P27": [
+   "Chili"
+  ],
+  "P800": [
+   "Crepusculario",
+   "Vingt poèmes d'amour et une chanson désespérée",
+   "Résidence sur la terre",
+   "L'Espagne au cœur",
+   "Chant Général",
+   "Estravagario",
+   "Arte de pájaros",
+   "Splendor and Death of Joaquin Murieta"
+  ],
+  "P101": [
+   "littérature",
+   "diplomatie",
+   "politique"
+  ],
+  "P136": [
+   "poésie",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_isabel-allende": {
+  "qid": "Q83566",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis",
+   "Chili"
+  ],
+  "P135": [
+   "féminisme",
+   "réalisme magique"
+  ],
+  "P800": [
+   "La Maison aux esprits",
+   "Zorro",
+   "Large pétale de mer"
+  ]
+ },
+ "auteurs-modernes_milan-kundera": {
+  "qid": "Q93166",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "France",
+   "Tchéquie",
+   "Tchécoslovaquie",
+   "apatride"
+  ],
+  "P800": [
+   "La Plaisanterie",
+   "Le Livre du rire et de l'oubli",
+   "L'Insoutenable Légèreté de l'être",
+   "L'Immortalité",
+   "Risibles amours",
+   "L'Art du roman",
+   "La vie est ailleurs",
+   "Q78152429",
+   "La Valse aux adieux"
+  ],
+  "P101": [
+   "littérature",
+   "littérature d'exil",
+   "traduction"
+  ]
+ },
+ "auteurs-modernes_umberto-eco": {
+  "qid": "Q12807",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Le Nom de la rose",
+   "Pastiches et Postiches",
+   "Le Pendule de Foucault",
+   "Apocalittici e integrati",
+   "Comment écrire sa thèse",
+   "Histoire de la laideur"
+  ],
+  "P101": [
+   "philosophie médiévale",
+   "culture de masse",
+   "sémiologie",
+   "linguistique structurale",
+   "littérature non-fictionnelle",
+   "roman historique",
+   "linguistique",
+   "sémiotique",
+   "littérature italienne",
+   "critique littéraire"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_italo-calvino": {
+  "qid": "Q154756",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie",
+   "Italie"
+  ],
+  "P800": [
+   "Le Baron perché",
+   "Les Villes invisibles",
+   "Si par une nuit d'hiver un voyageur",
+   "Six Memos for the Next Millennium",
+   "Le Chevalier inexistant",
+   "Le Vicomte pourfendu",
+   "Le Sentier des nids d'araignées",
+   "Marcovaldo"
+  ],
+  "P101": [
+   "littérature italienne"
+  ]
+ },
+ "auteurs-modernes_toni-morrison": {
+  "qid": "Q72334",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Œil le plus bleu",
+   "Sula",
+   "Le Chant de Salomon",
+   "Beloved",
+   "Tar baby",
+   "Jazz",
+   "Paradis",
+   "Love",
+   "Un Don",
+   "Home",
+   "Délivrances"
+  ],
+  "P101": [
+   "poésie",
+   "littérature",
+   "littérature afro-américaine",
+   "littérature américaine",
+   "études anglophones"
+  ],
+  "P136": [
+   "littérature afro-américaine"
+  ]
+ },
+ "auteurs-modernes_maya-angelou": {
+  "qid": "Q19526",
+  "P569": [
+   "1928",
+   "1928"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Je sais pourquoi chante l'oiseau en cage",
+   "On the Pulse of Morning",
+   "Et Pourtant Je M'élève",
+   "Even the Stars Look Lonesome"
+  ],
+  "P101": [
+   "poésie",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_kurt-vonnegut": {
+  "qid": "Q49074",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Berceau du chat",
+   "Abattoir 5 ou la Croisade des enfants",
+   "Le Petit Déjeuner des champions"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "drame",
+   "prose",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "satire",
+   "science-fiction",
+   "humour absurde",
+   "littérature de l'absurde",
+   "littérature postmoderniste",
+   "mémoires",
+   "commencement speech"
+  ]
+ },
+ "auteurs-modernes_philip-k-dick": {
+  "qid": "Q171091",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "littérature postmoderniste"
+  ],
+  "P800": [
+   "Ubik",
+   "Les Androïdes rêvent-ils de moutons électriques?",
+   "Le Maître du Haut Château",
+   "Substance mort",
+   "Coulez mes larmes, dit le policier",
+   "La Trilogie divine",
+   "L'Œil dans le ciel",
+   "Dr Bloodmoney"
+  ],
+  "P101": [
+   "science-fiction",
+   "activité littéraire",
+   "essai",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "science-fiction",
+   "fiction spéculative"
+  ]
+ },
+ "auteurs-modernes_isaac-asimov": {
+  "qid": "Q34981",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Russie soviétique",
+   "États-Unis"
+  ],
+  "P800": [
+   "Cycle de Fondation",
+   "Cycle des robots",
+   "Quand les ténèbres viendront",
+   "The Intelligent Man's Guide to Science",
+   "Les Robots",
+   "L'Homme bicentenaire",
+   "Les Dieux eux-mêmes",
+   "Ah ! Jeunesse"
+  ],
+  "P101": [
+   "biochimie"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_ray-bradbury": {
+  "qid": "Q40640",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Fahrenheit 451",
+   "La Foire des ténèbres",
+   "L'Homme illustré",
+   "Chroniques martiennes",
+   "Je chante le corps électrique"
+  ],
+  "P136": [
+   "science-fiction",
+   "fantasy",
+   "littérature d'horreur",
+   "anticipation"
+  ]
+ },
+ "auteurs-modernes_arthur-c-clarke": {
+  "qid": "Q47087",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Rendez-vous avec Rama",
+   "Les Fontaines du paradis",
+   "2001 : l'Odyssée de l'espace",
+   "2010 : Odyssée deux",
+   "2061 : Odyssée trois",
+   "3001 : L'Odyssée finale"
+  ],
+  "P101": [
+   "science-fiction",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "science-fiction",
+   "vulgarisation"
+  ]
+ },
+ "auteurs-modernes_ursula-k-le-guin": {
+  "qid": "Q181659",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Cycle de Terremer",
+   "La Main gauche de la nuit",
+   "Les Dépossédés",
+   "L'Œil du héron",
+   "Malafrena",
+   "Le Commencement de nulle part",
+   "La Vallée de l'éternel retour",
+   "Chronique des rivages de l'Ouest",
+   "Lavinia",
+   "Cycle des chats volants",
+   "Le Langage de la nuit",
+   "Danser au bord du monde : Mots, femmes, territoires",
+   "Conduire sa barque",
+   "Le nom du monde est forêt",
+   "Cycle de l'Ékumen"
+  ],
+  "P101": [
+   "belles-lettres",
+   "science-fiction",
+   "littérature de fantasy",
+   "littérature de science-fiction",
+   "fantasy",
+   "poésie"
+  ],
+  "P136": [
+   "science-fiction",
+   "fantasy",
+   "science-fiction féministe"
+  ]
+ },
+ "auteurs-modernes_stephen-king": {
+  "qid": "Q39829",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Carrie",
+   "Salem",
+   "Shining",
+   "Le Fléau",
+   "Misery",
+   "Ça",
+   "La Tour sombre",
+   "Dead Zone",
+   "Charlie",
+   "Cujo",
+   "Christine",
+   "Simetierre",
+   "L'Année du loup-garou",
+   "Le Talisman",
+   "Les Yeux du dragon",
+   "Bazaar",
+   "Dolores Claiborne",
+   "Insomnie",
+   "Rose Madder",
+   "La Ligne verte",
+   "Désolation",
+   "Les Régulateurs",
+   "Magie et Cristal",
+   "Sac d'os",
+   "La Petite Fille qui aimait Tom Gordon",
+   "Dreamcatcher",
+   "Territoires",
+   "Roadmaster",
+   "Les Loups de la Calla",
+   "Le Chant de Susannah",
+   "La Tour sombre",
+   "Colorado Kid",
+   "Cellulaire",
+   "Docteur Sleep",
+   "Joyland",
+   "Brume"
+  ],
+  "P136": [
+   "littérature d'horreur",
+   "fantasy",
+   "science-fiction",
+   "drame",
+   "fiction épistolaire",
+   "littérature gothique",
+   "fiction post-apocalyptique",
+   "thriller",
+   "fiction de détective"
+  ]
+ },
+ "auteurs-modernes_j-k-rowling": {
+  "qid": "Q34660",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "TERF"
+  ],
+  "P800": [
+   "Q8337",
+   "Harry Potter à l'école des sorciers",
+   "Harry Potter et la Chambre des Secrets",
+   "Harry Potter et le Prisonnier d'Azkaban",
+   "Harry Potter et la Coupe de feu",
+   "Harry Potter et l'Ordre du phénix",
+   "Harry Potter et le Prince de sang-mêlé",
+   "Harry Potter et les Reliques de la Mort"
+  ],
+  "P101": [
+   "littérature",
+   "littérature de fantasy",
+   "littérature d'enfance et de jeunesse"
+  ],
+  "P136": [
+   "tragi-comédie",
+   "fantasy",
+   "littérature policière"
+  ]
+ },
+ "auteurs-modernes_george-r-r-martin": {
+  "qid": "Q181677",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Trône de fer",
+   "Chanson pour Lya",
+   "Armageddon Rag",
+   "L'Agonie de la lumière"
+  ],
+  "P136": [
+   "high fantasy",
+   "fantasy",
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_terry-pratchett": {
+  "qid": "Q46248",
+  "P569": [
+   "1948"
+  ],
+  "P570": [
+   "2015"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "De bons présages",
+   "Nation",
+   "Livres du Disque-monde"
+  ],
+  "P101": [
+   "belles-lettres",
+   "littérature de fantasy",
+   "journalisme"
+  ],
+  "P136": [
+   "fantasy",
+   "fantasy humoristique"
+  ]
+ },
+ "auteurs-modernes_neil-gaiman": {
+  "qid": "Q210059",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Sandman",
+   "American Gods",
+   "Stardust",
+   "Coraline",
+   "L'Étrange Vie de Nobody Owens",
+   "De bons présages",
+   "L'Océan au bout du chemin"
+  ],
+  "P101": [
+   "journalisme",
+   "scénario de télévision",
+   "activité littéraire",
+   "bande dessinée",
+   "littérature de fantasy",
+   "science-fiction",
+   "poésie",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "fantasy",
+   "littérature d'horreur",
+   "science-fiction",
+   "dark fantasy",
+   "comédie",
+   "science-fiction féministe"
+  ]
+ },
+ "auteurs-modernes_douglas-adams": {
+  "qid": "Q42",
+  "P569": [
+   "1952"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Le Guide du voyageur galactique",
+   "Dirk Gently, détective holistique",
+   "La Vie privée de Gengis Khan"
+  ],
+  "P101": [
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "science-fiction",
+   "comédie",
+   "satire"
+  ]
+ },
+ "auteurs-modernes_haruki-murakami": {
+  "qid": "Q134798",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "surréalisme",
+   "réalisme magique"
+  ],
+  "P800": [
+   "La Course au mouton sauvage",
+   "La Ballade de l'impossible",
+   "Chroniques de l'oiseau à ressort",
+   "Kafka sur le rivage",
+   "1Q84",
+   "Le Meurtre du Commandeur",
+   "Autoportrait de l'auteur en coureur de fond",
+   "L'Incolore Tsukuru Tazaki et ses années de pèlerinage"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "littérature japonaise",
+   "translation into Japanese"
+  ],
+  "P136": [
+   "littérature fictionnelle",
+   "mémoires",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_yukio-mishima": {
+  "qid": "Q134456",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P135": [
+   "nationalisme japonais",
+   "Japan Romantic School",
+   "Deuxième génération des écrivains d'après-guerre",
+   "esthétisme",
+   "postmodernisme"
+  ],
+  "P800": [
+   "Le Pavillon d'or",
+   "Confessions d’un masque",
+   "La Mer de la fertilité",
+   "Le tumulte des flots",
+   "Le Marin rejeté par la mer",
+   "Kyōko no Ie",
+   "Patriotisme",
+   "Cinq Nôs modernes",
+   "Madame de Sade"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "théâtre",
+   "comédie",
+   "mannequinat",
+   "activité politique",
+   "poésie",
+   "drame",
+   "essai"
+  ],
+  "P136": [
+   "drame",
+   "manifeste",
+   "enseignement magistral",
+   "court métrage",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_kenzaburo-oe": {
+  "qid": "Q80095",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P135": [
+   "existentialisme"
+  ],
+  "P800": [
+   "Une affaire personnelle",
+   "Le Jeu du siècle"
+  ],
+  "P101": [
+   "activité littéraire"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_naguib-mahfouz": {
+  "qid": "Q7176",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "khédivat d'Égypte",
+   "sultanat d'Égypte",
+   "royaume d'Égypte",
+   "République d'Égypte",
+   "République arabe unie",
+   "Égypte"
+  ],
+  "P800": [
+   "Respected Sir",
+   "Rhadopis of Nubia",
+   "Miramar",
+   "passage des Miracles",
+   "Les Fils de la Médina",
+   "Le Voleur et les Chiens",
+   "Cairo Trilogy",
+   "Les Mille et une Nuits",
+   "Khufu's Wisdom",
+   "Le Jour de l'Assassinat du Leader",
+   "La quête",
+   "Le mendiant",
+   "La Chanson des gueux",
+   "The Journey of Ibn Fattouma",
+   "Dérives sur le Nil",
+   "Dreams of departure",
+   "Mirrors (novel)",
+   "The Beginning and the End",
+   "Karnak Café",
+   "Récits de notre quartier",
+   "Wedding Song",
+   "Autumn Quail",
+   "Akhénaton le Renégat",
+   "The Mirage"
+  ],
+  "P101": [
+   "écriture",
+   "scénarisation",
+   "traduction",
+   "journalisme",
+   "dramaturgie",
+   "auteur ou autrice",
+   "fiction",
+   "rêve"
+  ]
+ },
+ "auteurs-modernes_chinua-achebe": {
+  "qid": "Q155845",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "colonie et protectorat du Nigeria",
+   "Nigeria"
+  ],
+  "P800": [
+   "Le monde s'effondre",
+   "Le Malaise",
+   "Flèche de Dieu",
+   "A Man of the People",
+   "Les termitières de la savane"
+  ],
+  "P101": [
+   "écrivain ou écrivaine",
+   "romancier ou romancière",
+   "poète ou poétesse",
+   "critique littéraire",
+   "essayiste",
+   "nouvelle",
+   "auteur ou autrice de littérature pour la jeunesse",
+   "philosophie",
+   "professeur d'université",
+   "universitaire",
+   "auteur ou autrice"
+  ]
+ },
+ "auteurs-modernes_wole-soyinka": {
+  "qid": "Q41488",
+  "P569": [
+   "1934"
+  ],
+  "P27": [
+   "Nigeria"
+  ],
+  "P800": [
+   "Season of Anomy",
+   "The Interpreters",
+   "Chronicles from the Land of the Happiest People on Earth",
+   "Harmattan Haze on an African Spring",
+   "The Lion and the Jewel"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "auteurs-modernes_salman-rushdie": {
+  "qid": "Q44306",
+  "P569": [
+   "1947",
+   "1947"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "États-Unis",
+   "Inde"
+  ],
+  "P135": [
+   "méthode historico-critique"
+  ],
+  "P800": [
+   "Les Versets sataniques"
+  ],
+  "P101": [
+   "histoire"
+  ],
+  "P136": [
+   "réalisme magique"
+  ]
+ },
+ "auteurs-modernes_kazuo-ishiguro": {
+  "qid": "Q272855",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Japon"
+  ],
+  "P800": [
+   "Un artiste du monde flottant",
+   "Les Vestiges du jour",
+   "Quand nous étions orphelins",
+   "Auprès de moi toujours",
+   "Klara et le Soleil",
+   "Lumière pâle sur les collines"
+  ]
+ },
+ "auteurs-modernes_margaret-atwood": {
+  "qid": "Q183492",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "La Servante écarlate",
+   "Œil-de-chat",
+   "Captive",
+   "Le Tueur aveugle",
+   "Le Dernier Homme",
+   "Faire surface",
+   "La Femme comestible",
+   "Les Danseuses et autres nouvelles",
+   "Neuf contes",
+   "Le Temps du déluge",
+   "Graine de sorcière",
+   "C’est le cœur qui lâche en dernier",
+   "Marquée au corps",
+   "La Vie avant l'homme",
+   "Les Testaments",
+   "Democracy"
+  ],
+  "P101": [
+   "poésie",
+   "essai",
+   "littérature canadienne",
+   "Canadian poetry",
+   "critique littéraire",
+   "écologisme"
+  ],
+  "P136": [
+   "fiction historique",
+   "fiction spéculative",
+   "science-fiction",
+   "fiction utopique ou dystopique",
+   "science-fiction féministe",
+   "tragédie",
+   "fiction dystopique"
+  ]
+ },
+ "auteurs-modernes_alice-munro": {
+  "qid": "Q234819",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "Trop de bonheur",
+   "Rien que la vie",
+   "Something I've Been Meaning to Tell You"
+  ],
+  "P101": [
+   "activité littéraire",
+   "prose",
+   "nouvelle"
+  ]
+ },
+ "auteurs-modernes_vladimir-nabokov": {
+  "qid": "Q36591",
+  "P569": [
+   "1899",
+   "1899"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "Empire russe",
+   "États-Unis"
+  ],
+  "P135": [
+   "modernisme"
+  ],
+  "P800": [
+   "La Défense Loujine",
+   "La Vraie Vie de Sebastian Knight",
+   "Lolita",
+   "Feu pâle",
+   "Autres Rivages",
+   "Ada ou l'Ardeur"
+  ],
+  "P101": [
+   "littérature",
+   "littérature russe",
+   "poésie",
+   "traduction en anglais",
+   "traduction en russe",
+   "traductions de l'anglais",
+   "traductions du russe",
+   "entomologie"
+  ],
+  "P136": [
+   "satire",
+   "science-fiction",
+   "fiction romantique"
+  ]
+ },
+ "auteurs-modernes_michel-houellebecq": {
+  "qid": "Q103114",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Carte et le Territoire",
+   "Extension du domaine de la lutte",
+   "Les Particules élémentaires",
+   "La Possibilité d'une île",
+   "Plateforme",
+   "Soumission",
+   "Anéantir"
+  ],
+  "P101": [
+   "littérature",
+   "photographie",
+   "direction de films",
+   "scénario de film"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_amelie-nothomb": {
+  "qid": "Q168040",
+  "P569": [
+   "1966"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P135": [
+   "littérature postmoderniste"
+  ],
+  "P800": [
+   "Hygiène de l'assassin",
+   "Métaphysique des tubes",
+   "Ni d'Ève ni d'Adam",
+   "Robert des noms propres",
+   "Le Sabotage amoureux",
+   "Stupeur et tremblements",
+   "Biographie de la faim",
+   "Antéchrista",
+   "Attentat",
+   "Une forme de vie",
+   "Acide sulfurique",
+   "Péplum",
+   "Les Catilinaires",
+   "Cosmétique de l'ennemi",
+   "Les Combustibles",
+   "Soif",
+   "Premier Sang"
+  ],
+  "P101": [
+   "littérature",
+   "activité littéraire",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_marguerite-yourcenar": {
+  "qid": "Q163118",
+  "P569": [
+   "1903",
+   "1903"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "France",
+   "États-Unis",
+   "Belgique"
+  ],
+  "P800": [
+   "Mémoires d'Hadrien",
+   "L'Œuvre au noir",
+   "Alexis ou le Traité du vain combat",
+   "Nouvelles orientales",
+   "Archives du Nord",
+   "Mishima ou la Vision du vide"
+  ],
+  "P101": [
+   "roman",
+   "traduction",
+   "critique littéraire",
+   "drame",
+   "activité littéraire",
+   "essai",
+   "poésie",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_marguerite-duras": {
+  "qid": "Q153248",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "nouveau roman"
+  ],
+  "P800": [
+   "L'Amant",
+   "Moderato cantabile",
+   "Un barrage contre le Pacifique",
+   "Le Ravissement de Lol V. Stein",
+   "Le Vice-Consul",
+   "India Song",
+   "La Douleur",
+   "L'Amant de la Chine du Nord"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "auteurs-modernes_colette": {
+  "qid": "Q218679",
+  "P569": [
+   "1873"
+  ],
+  "P570": [
+   "1954"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Gigi",
+   "La Chatte",
+   "Chéri",
+   "La Vagabonde",
+   "La Maison de Claudine",
+   "Le Blé en herbe"
+  ]
+ },
+ "auteurs-modernes_romain-gary": {
+  "qid": "Q157322",
+  "P569": [
+   "1914",
+   "1914",
+   "1914"
+  ],
+  "P570": [
+   "1980",
+   "1980"
+  ],
+  "P27": [
+   "France",
+   "Empire russe",
+   "Deuxième République de Pologne"
+  ],
+  "P800": [
+   "Éducation européenne",
+   "Les Racines du ciel",
+   "Lady L.",
+   "La Promesse de l'aube",
+   "Chien blanc",
+   "La Vie devant soi",
+   "Clair de femme",
+   "L'Angoisse du roi Salomon",
+   "Gloire à nos illustres pionniers"
+  ]
+ },
+ "auteurs-modernes_boris-vian": {
+  "qid": "Q7833",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Zazou"
+  ],
+  "P800": [
+   "L'Écume des jours",
+   "J'irai cracher sur vos tombes",
+   "En avant la zizique… et par ici les gros sous",
+   "Tête de méduse",
+   "Le Goûter des généraux",
+   "L'Équarrissage pour tous",
+   "Série blême",
+   "Le Chasseur français",
+   "Chroniques du menteur",
+   "Les Bâtisseurs d'empire",
+   "Fais-moi mal Johnny",
+   "Trouble dans les andains",
+   "Conte de fées à l'usage des moyennes personnes",
+   "Vercoquin et le Plancton",
+   "Le Loup-garou",
+   "L'Arrache-cœur",
+   "L'Herbe rouge",
+   "L'Automne à Pékin",
+   "Cantilènes en gelée",
+   "Cinémassacre",
+   "Écrits pornographiques",
+   "Le Ratichon baigneur",
+   "Manuel de Saint-Germain-des-Prés",
+   "Je voudrais pas crever",
+   "Les Lurettes fourrées",
+   "Le Chevalier de neige",
+   "Faut rigoler",
+   "Le Déserteur",
+   "La Java des bombes atomiques",
+   "Les Fourmis"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "musique",
+   "drame",
+   "journalisme",
+   "traduction",
+   "comédie",
+   "critique littéraire",
+   "peinture",
+   "activité littéraire",
+   "prose"
+  ],
+  "P136": [
+   "jazz"
+  ]
+ },
+ "auteurs-modernes_georges-perec": {
+  "qid": "Q157303",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "belles-lettres",
+   "direction de films",
+   "scénario de film",
+   "poésie",
+   "critique littéraire",
+   "science des bibliothèques"
+  ]
+ },
+ "auteurs-modernes_raymond-queneau": {
+  "qid": "Q218690",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "surréalisme"
+  ]
+ },
+ "auteurs-modernes_guillaume-apollinaire": {
+  "qid": "Q133855",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Alcools"
+  ],
+  "P136": [
+   "vers blanc"
+  ]
+ },
+ "auteurs-modernes_rainer-maria-rilke": {
+  "qid": "Q76483",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1926"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Tchécoslovaquie"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P800": [
+   "Les Cahiers de Malte Laurids Brigge",
+   "Élégies de Duino",
+   "Sonnets à Orphée",
+   "Worpswede",
+   "The carousel"
+  ],
+  "P101": [
+   "littérature",
+   "littérature pragoise de langue allemande",
+   "théâtre",
+   "traduction"
+  ],
+  "P136": [
+   "Dinggedicht",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_t-s-eliot": {
+  "qid": "Q37767",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni",
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "littérature moderniste"
+  ],
+  "P800": [
+   "La Terre vaine",
+   "Quatre Quatuors",
+   "Les Hommes creux",
+   "Ash Wednesday"
+  ],
+  "P136": [
+   "poésie",
+   "critique littéraire",
+   "essai",
+   "drame"
+  ]
+ },
+ "auteurs-modernes_william-butler-yeats": {
+  "qid": "Q40213",
+  "P569": [
+   "1865",
+   "1865"
+  ],
+  "P570": [
+   "1939"
+  ],
+  "P27": [
+   "État libre d'Irlande"
+  ],
+  "P135": [
+   "symbolisme"
+  ],
+  "P101": [
+   "belles-lettres",
+   "poésie",
+   "drame"
+  ]
+ },
+ "auteurs-modernes_federico-garcia-lorca": {
+  "qid": "Q41408",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1936",
+   "1936",
+   "1936",
+   "1936",
+   "1936"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "Génération de 27"
+  ],
+  "P800": [
+   "Noces de sang",
+   "Yerma",
+   "Poésies I : livre de poèmes",
+   "Poeta en Nueva York",
+   "Poème du cante jondo",
+   "Lorsque cinq ans seront passés",
+   "Le Public",
+   "Divan du Tamarit",
+   "Mademoiselle Rose ou le Langage des fleurs",
+   "La Maison de Bernarda Alba",
+   "Romancero gitan",
+   "Six Poèmes Galiciens",
+   "Noche",
+   "La Savetière prodigieuse"
+  ],
+  "P136": [
+   "théâtre",
+   "art"
+  ]
+ },
+ "auteurs-modernes_octavio-paz": {
+  "qid": "Q46739",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1998",
+   "1998",
+   "1998"
+  ],
+  "P27": [
+   "Mexique",
+   "Seconde République espagnole"
+  ],
+  "P135": [
+   "modernisme",
+   "surréalisme"
+  ],
+  "P101": [
+   "poésie",
+   "essai",
+   "littérature mexicaine",
+   "poésie mexicaine"
+  ]
+ },
+ "auteurs-modernes_lu-xun-ecrivain": {
+  "qid": "Q23114",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "dynastie Qing",
+   "république de Chine"
+  ],
+  "P135": [
+   "Mouvement pour la nouvelle culture"
+  ],
+  "P800": [
+   "La Véritable Histoire de Ah Q",
+   "Le Journal d'un fou",
+   "Panghuang",
+   "Kong Yiji",
+   "Old Tales Retold",
+   "Call to Arms",
+   "Picking the morning flower in the evening",
+   "Le Journal d'un fou",
+   "Panghuang",
+   "A Brief History of Chinese Fiction"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "poésie",
+   "essai",
+   "critique littéraire",
+   "traduction"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_mo-yan": {
+  "qid": "Q8998",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P800": [
+   "Le Clan du sorgho",
+   "Le Pays de l'alcool",
+   "Life and Death Are Wearing Me Out",
+   "Beaux seins, belles fesses",
+   "A Wonderful Work of Literature Eulogizing Human Life: On Reading Frog,a Novel by Mo Yan",
+   "The Herbivorous Family",
+   "Pow!",
+   "Le Supplice du santal"
+  ]
+ },
+ "auteurs-modernes_rabindranath-tagore": {
+  "qid": "Q7241",
+  "P569": [
+   "1861"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Raj britannique"
+  ],
+  "P135": [
+   "Renaissance du Bengale"
+  ],
+  "P800": [
+   "L’Offrande lyrique",
+   "Ghare-Bhaire",
+   "Bhanusimha Thakurer Padabali",
+   "Valmiki-Pratibha",
+   "Kabuliwala",
+   "Kshudhita Pashan",
+   "Nastanirh",
+   "Noukadubi",
+   "Chaturanga",
+   "Jogajog",
+   "Shesher Kabita",
+   "Le Bureau de Poste",
+   "Le Roi de la chambre sombre",
+   "Gora",
+   "Gitali",
+   "Stray Birds",
+   "Postmaster"
+  ],
+  "P101": [
+   "littérature",
+   "poésie",
+   "nouvelle",
+   "écriture créative et professionnelle",
+   "composition musicale",
+   "drame",
+   "essai",
+   "peinture"
+  ],
+  "P136": [
+   "essai",
+   "novella"
+  ]
+ },
+ "auteurs-modernes_munshi-premchand": {
+  "qid": "Q174152",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Raj britannique"
+  ],
+  "P135": [
+   "Progressive Writers' Movement"
+  ],
+  "P800": [
+   "Godaan",
+   "Bazaar-e-Husn",
+   "Karmabhoomi",
+   "Shatranj ke khiladi",
+   "Gaban",
+   "Nirmala"
+  ],
+  "P136": [
+   "fiction sociale",
+   "réalisme"
+  ]
+ },
+ "auteurs-modernes_khalil-gibran": {
+  "qid": "Q47737",
+  "P569": [
+   "1883",
+   "1883"
+  ],
+  "P570": [
+   "1931",
+   "1931"
+  ],
+  "P27": [
+   "Empire ottoman",
+   "État du Grand Liban",
+   "République libanaise sous mandat français"
+  ],
+  "P135": [
+   "Mahjar",
+   "symbolisme"
+  ],
+  "P800": [
+   "Le Prophète",
+   "Les Ailes brisées",
+   "Sand and Foam",
+   "The Processions"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "poésie"
+  ],
+  "P136": [
+   "poésie",
+   "parabole",
+   "fable"
+  ]
+ },
+ "auteurs-modernes_ngugi-wa-thiong-o": {
+  "qid": "Q302910",
+  "P569": [
+   "1938"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Kenya"
+  ],
+  "P800": [
+   "I Will Marry When I Want",
+   "Matigari ma Njiruungi",
+   "Enfant, ne pleure pas",
+   "Décoloniser l'esprit",
+   "The Upright Revolution, Or Why Humans Walk Upright",
+   "A Grain of Wheat"
+  ],
+  "P101": [
+   "activité littéraire",
+   "philosophie"
+  ]
+ },
+ "auteurs-modernes_mariama-ba": {
+  "qid": "Q464389",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1981"
+  ],
+  "P27": [
+   "Sénégal"
+  ],
+  "P800": [
+   "Une si longue lettre",
+   "Scarlet song"
+  ]
+ },
+ "auteurs-modernes_nawal-el-saadawi": {
+  "qid": "Q238514",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "Égypte",
+   "République d'Égypte",
+   "République arabe unie",
+   "Égypte"
+  ],
+  "P135": [
+   "féminisme radical"
+  ],
+  "P800": [
+   "Ferdaous, une voix en enfer",
+   "The Fall of the Imam"
+  ],
+  "P101": [
+   "littérature",
+   "médecine",
+   "féminisme",
+   "littérature de langue arabe",
+   "psychiatrie",
+   "santé publique",
+   "littérature engagée"
+  ]
+ },
+ "auteurs-modernes_antoine-de-saint-exupery": {
+  "qid": "Q2908",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Vol de nuit",
+   "Le Petit Prince",
+   "Courrier sud",
+   "Terre des hommes",
+   "Lettre à un otage",
+   "Pilote de guerre",
+   "Citadelle"
+  ],
+  "P101": [
+   "belles-lettres",
+   "écriture créative et professionnelle",
+   "aviation",
+   "littérature d'enfance",
+   "fiction",
+   "essai",
+   "mémoires"
+  ],
+  "P136": [
+   "conte",
+   "poésie",
+   "récit"
+  ]
+ },
+ "auteurs-modernes_andre-gide": {
+  "qid": "Q47484",
+  "P569": [
+   "1869"
+  ],
+  "P570": [
+   "1951",
+   "1951",
+   "1922"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "L'Immoraliste",
+   "La Porte étroite",
+   "La Symphonie pastorale",
+   "Les Faux-monnayeurs",
+   "Corydon",
+   "Les Nourritures terrestres",
+   "Les Caves du Vatican",
+   "Si le grain ne meurt",
+   "Voyage au Congo",
+   "Retour de l'U.R.S.S.",
+   "L'École des femmes",
+   "La Séquestrée de Poitiers",
+   "L'Affaire Redureau",
+   "Le Ramier"
+  ],
+  "P101": [
+   "belles-lettres"
+  ],
+  "P136": [
+   "prose",
+   "théâtre"
+  ]
+ },
+ "auteurs-modernes_louis-ferdinand-celine": {
+  "qid": "Q151820",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "modernisme",
+   "expressionnisme",
+   "réalisme"
+  ],
+  "P800": [
+   "Voyage au bout de la nuit",
+   "Mort à crédit",
+   "D'un château l'autre",
+   "Bagatelles pour un massacre",
+   "Normance",
+   "Nord",
+   "Rigodon",
+   "Féerie pour une autre fois",
+   "Guignol's Band",
+   "Casse-pipe",
+   "Entretiens avec le professeur Y",
+   "Mea Culpa",
+   "L'École des cadavres",
+   "Les Beaux Draps",
+   "La Vie et l'Œuvre de Philippe Ignace Semmelweis",
+   "La Quinine en thérapeutique",
+   "Secrets dans l'île",
+   "Foudres et Flèches",
+   "À l'agité du bocal",
+   "Scandale aux abysses",
+   "Ballets sans musique, sans personne, sans rien",
+   "Des vagues",
+   "Arletty, jeune fille dauphinoise",
+   "Préfaces et Dédicaces",
+   "Histoire du petit Mouck"
+  ],
+  "P101": [
+   "médecine"
+  ],
+  "P136": [
+   "pamphlet",
+   "livret",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_andre-malraux": {
+  "qid": "Q151164",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Condition humaine"
+  ],
+  "P101": [
+   "activité littéraire",
+   "prose",
+   "drame",
+   "politique",
+   "archéologie"
+  ]
+ },
+ "auteurs-modernes_francois-mauriac": {
+  "qid": "Q81685",
+  "P569": [
+   "1885"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Thérèse Desqueyroux",
+   "Le Désert de l'amour",
+   "Le Baiser au lépreux",
+   "Le Nœud de vipères",
+   "Le mystère Frontenac",
+   "Préséances",
+   "La Fin de la nuit",
+   "Les Anges noirs",
+   "La Pharisienne",
+   "Galigaï",
+   "L'Enfant chargé de chaînes",
+   "La Robe prétexte",
+   "La Chair et le Sang",
+   "Le Fleuve de feu",
+   "Genitrix",
+   "Destins",
+   "Ce qui était perdu",
+   "Le mystère Frontenac",
+   "Les Chemins de la mer",
+   "Les arbres et les pierres",
+   "L'Agneau",
+   "Un adolescent d'autrefois",
+   "Maltaverne",
+   "Asmodée",
+   "Les Mal-aimés",
+   "passage du malin",
+   "Le Feu sur la terre"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme",
+   "poésie",
+   "critique littéraire",
+   "biographie",
+   "prose"
+  ],
+  "P136": [
+   "mémoires",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_jean-giono": {
+  "qid": "Q177411",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Colline",
+   "Regain",
+   "Un roi sans divertissement",
+   "Le Hussard sur le toit"
+  ],
+  "P101": [
+   "littérature"
+  ]
+ },
+ "auteurs-modernes_jean-cocteau": {
+  "qid": "Q83158",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "théâtre de l'absurde",
+   "modernisme"
+  ],
+  "P800": [
+   "Orphée",
+   "Le Sang d'un poète",
+   "La Belle et la Bête",
+   "Les Enfants terribles"
+  ],
+  "P136": [
+   "drame",
+   "tragédie"
+  ]
+ },
+ "auteurs-modernes_samuel-beckett": {
+  "qid": "Q37327",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Irlande"
+  ],
+  "P135": [
+   "nouveau roman"
+  ],
+  "P800": [
+   "Murphy",
+   "Molloy",
+   "Malone meurt",
+   "L'Innommable",
+   "En attendant Godot",
+   "Watt",
+   "Fin de partie",
+   "La Dernière Bande",
+   "Comment c'est"
+  ],
+  "P101": [
+   "drame"
+  ],
+  "P136": [
+   "drame"
+  ]
+ },
+ "auteurs-modernes_eugene-ionesco": {
+  "qid": "Q46706",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Roumanie",
+   "France"
+  ],
+  "P135": [
+   "théâtre de l'absurde",
+   "Dada"
+  ],
+  "P800": [
+   "Les Chaises",
+   "Rhinocéros",
+   "Tueur sans gages",
+   "Le Nouveau Locataire",
+   "La Cantatrice chauve"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "activité littéraire",
+   "drame",
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_jean-genet": {
+  "qid": "Q184622",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Notre-Dame-des-Fleurs",
+   "Les Bonnes"
+  ],
+  "P101": [
+   "activité littéraire",
+   "prose",
+   "poésie",
+   "drame",
+   "essai",
+   "militantisme"
+  ]
+ },
+ "auteurs-modernes_nathalie-sarraute": {
+  "qid": "Q297758",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "Empire russe",
+   "France"
+  ],
+  "P135": [
+   "nouveau roman"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "auteurs-modernes_alain-robbe-grillet": {
+  "qid": "Q216266",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "nouveau roman"
+  ],
+  "P800": [
+   "Les Gommes",
+   "Le Voyeur",
+   "La Jalousie"
+  ]
+ },
+ "auteurs-modernes_michel-tournier": {
+  "qid": "Q160783",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Roi des aulnes",
+   "Vendredi ou la Vie sauvage"
+  ],
+  "P101": [
+   "littérature française",
+   "traduction"
+  ]
+ },
+ "auteurs-modernes_j-m-g-le-clezio": {
+  "qid": "Q42037",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "France",
+   "Maurice"
+  ],
+  "P135": [
+   "nouveau roman"
+  ],
+  "P800": [
+   "Le Procès-verbal",
+   "Désert"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme",
+   "traduction",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_patrick-modiano": {
+  "qid": "Q222944",
+  "P569": [
+   "1945"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Place de l'Étoile",
+   "Les Boulevards de ceinture",
+   "Rue des Boutiques obscures",
+   "Dora Bruder",
+   "Un pedigree",
+   "villa triste"
+  ],
+  "P136": [
+   "biographie",
+   "littérature d'enfance"
+  ]
+ },
+ "auteurs-modernes_annie-ernaux": {
+  "qid": "Q1153825",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les Armoires vides",
+   "La Place",
+   "Les Années"
+  ],
+  "P101": [
+   "activité littéraire",
+   "littérature"
+  ]
+ },
+ "auteurs-modernes_louis-aragon": {
+  "qid": "Q4128",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Dada",
+   "surréalisme",
+   "réalisme socialiste"
+  ]
+ },
+ "auteurs-modernes_paul-eluard": {
+  "qid": "Q152176",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "surréalisme",
+   "Dada"
+  ],
+  "P800": [
+   "Liberté"
+  ]
+ },
+ "auteurs-modernes_jacques-prevert": {
+  "qid": "Q165274",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Paroles"
+  ],
+  "P101": [
+   "belles-lettres",
+   "poésie",
+   "théâtre",
+   "scénario de film",
+   "littérature d'enfance et de jeunesse"
+  ]
+ },
+ "auteurs-modernes_georges-simenon": {
+  "qid": "Q128790",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P800": [
+   "commissaire Maigret"
+  ],
+  "P136": [
+   "fiction de détective"
+  ]
+ },
+ "auteurs-modernes_marcel-pagnol": {
+  "qid": "Q236630",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1974"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Topaze",
+   "Trilogie marseillaise",
+   "La Femme du boulanger",
+   "Manon des sources",
+   "Souvenirs d'enfance"
+  ]
+ },
+ "auteurs-modernes_mikhail-boulgakov": {
+  "qid": "Q835",
+  "P569": [
+   "1891",
+   "1891"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "Empire russe",
+   "république socialiste fédérative soviétique de Russie",
+   "Union soviétique"
+  ],
+  "P135": [
+   "prose"
+  ],
+  "P800": [
+   "Le Maître et Marguerite",
+   "Cœur de chien",
+   "La Garde blanche"
+  ],
+  "P101": [
+   "belles-lettres",
+   "drame",
+   "journalisme",
+   "écriture créative et professionnelle"
+  ],
+  "P136": [
+   "satire",
+   "fiction surnaturelle",
+   "science-fiction",
+   "récit"
+  ]
+ },
+ "auteurs-modernes_alexandre-soljenitsyne": {
+  "qid": "Q34474",
+  "P569": [
+   "1918",
+   "1918"
+  ],
+  "P570": [
+   "2008",
+   "2008"
+  ],
+  "P27": [
+   "Russie soviétique",
+   "Union soviétique",
+   "Russie",
+   "apatride"
+  ],
+  "P800": [
+   "Une journée d'Ivan Denissovitch",
+   "Le Premier Cercle",
+   "Le Pavillon des cancéreux",
+   "L'Archipel du Goulag",
+   "Deux siècles ensemble",
+   "Lénine à Zürich"
+  ],
+  "P101": [
+   "Goulag"
+  ],
+  "P136": [
+   "récit",
+   "journalisme d'opinion",
+   "Q32361017",
+   "lexicographie",
+   "miniature",
+   "roman court",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_boris-pasternak": {
+  "qid": "Q41223",
+  "P569": [
+   "1890",
+   "1890"
+  ],
+  "P570": [
+   "1960"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P135": [
+   "futurisme"
+  ],
+  "P800": [
+   "Le Docteur Jivago"
+  ],
+  "P101": [
+   "prose"
+  ]
+ },
+ "auteurs-modernes_maxime-gorki": {
+  "qid": "Q12706",
+  "P569": [
+   "1868",
+   "1868"
+  ],
+  "P570": [
+   "1936",
+   "1936"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P135": [
+   "réalisme socialiste"
+  ],
+  "P800": [
+   "La Mère",
+   "Les Bas-fonds",
+   "Enfance",
+   "Twenty-six Men and a Girl",
+   "Vie de Klim Samguine"
+  ],
+  "P101": [
+   "belles-lettres"
+  ]
+ },
+ "auteurs-modernes_vladimir-maiakovski": {
+  "qid": "Q132964",
+  "P569": [
+   "1893",
+   "1893"
+  ],
+  "P570": [
+   "1930"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique",
+   "République russe",
+   "Russie soviétique"
+  ],
+  "P135": [
+   "futurisme russe",
+   "futurisme"
+  ],
+  "P136": [
+   "vers",
+   "poésie narrative",
+   "Agitprop"
+  ]
+ },
+ "auteurs-modernes_anna-akhmatova": {
+  "qid": "Q80440",
+  "P569": [
+   "1889",
+   "1889"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P135": [
+   "acméisme"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_bertolt-brecht": {
+  "qid": "Q38757",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "Empire allemand",
+   "République démocratique allemande",
+   "république de Weimar",
+   "Autriche"
+  ],
+  "P800": [
+   "L'Opéra de quat'sous",
+   "La Vie de Galilée",
+   "Le Cercle de craie caucasien",
+   "Grand-peur et misère du IIIe Reich",
+   "Mère Courage et ses enfants",
+   "La Bonne Âme du Se-Tchouan",
+   "La Résistible Ascension d'Arturo Ui"
+  ],
+  "P101": [
+   "drame"
+  ]
+ },
+ "auteurs-modernes_stefan-zweig": {
+  "qid": "Q78491",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1942",
+   "1942"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Autriche"
+  ],
+  "P800": [
+   "Le Joueur d'échecs",
+   "Le Monde d'hier. Souvenirs d'un Européen",
+   "Lettre d'une inconnue",
+   "Ivresse de la métamorphose",
+   "La Pitié dangereuse"
+  ]
+ },
+ "auteurs-modernes_gunter-grass": {
+  "qid": "Q6538",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2015"
+  ],
+  "P27": [
+   "Ville libre de Dantzig",
+   "Allemagne"
+  ],
+  "P800": [
+   "Le Tambour",
+   "Le Chat et la souris",
+   "Les Années de chien",
+   "En crabe",
+   "Ce qui doit être dit",
+   "La ratte",
+   "Last dances",
+   "L'Appel du crapaud"
+  ],
+  "P101": [
+   "belles-lettres"
+  ]
+ },
+ "auteurs-modernes_erich-maria-remarque": {
+  "qid": "Q47293",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P800": [
+   "À l'Ouest, rien de nouveau",
+   "Schatten im Paradies",
+   "Après",
+   "L'Étincelle de vie",
+   "Die Traumbude"
+  ],
+  "P101": [
+   "roman"
+  ]
+ },
+ "auteurs-modernes_robert-musil": {
+  "qid": "Q78487",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1942"
+  ],
+  "P27": [
+   "Autriche"
+  ],
+  "P800": [
+   "Les Désarrois de l'élève Törless",
+   "L'Homme sans qualités",
+   "Œuvres pré-posthumes"
+  ],
+  "P101": [
+   "littérature de langue allemande"
+  ]
+ },
+ "auteurs-modernes_paul-celan": {
+  "qid": "Q153905",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "France",
+   "Roumanie",
+   "royaume de Roumanie",
+   "Union soviétique"
+  ],
+  "P800": [
+   "Fugue de mort",
+   "Grille de parole"
+  ]
+ },
+ "auteurs-modernes_j-d-salinger": {
+  "qid": "Q79904",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Attrape-cœurs",
+   "Nine Stories",
+   "Dressez haut la poutre maîtresse, charpentiers et Seymour : une introduction",
+   "Franny et Zooey"
+  ],
+  "P101": [
+   "belles-lettres"
+  ]
+ },
+ "auteurs-modernes_harper-lee": {
+  "qid": "Q182658",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Ne tirez pas sur l'oiseau moqueur",
+   "Va et poste une sentinelle"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "littérature américaine"
+  ],
+  "P136": [
+   "Southern Gothic"
+  ]
+ },
+ "auteurs-modernes_jack-kerouac": {
+  "qid": "Q160534",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Beat Generation"
+  ],
+  "P800": [
+   "Sur la route",
+   "Les Clochards célestes",
+   "Big Sur",
+   "Anges de la Désolation",
+   "Les Souterrains"
+  ],
+  "P101": [
+   "littérature américaine",
+   "roman autobiographique",
+   "poésie des États-Unis"
+  ]
+ },
+ "auteurs-modernes_cormac-mccarthy": {
+  "qid": "Q272610",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Suttree",
+   "Méridien de sang",
+   "De si jolis chevaux",
+   "The Border Trilogy",
+   "Non, ce pays n'est pas pour le vieil homme",
+   "La Route",
+   "Stella Maris",
+   "Le Passager"
+  ],
+  "P101": [
+   "drame",
+   "prose",
+   "scénario de film",
+   "film"
+  ]
+ },
+ "auteurs-modernes_philip-roth": {
+  "qid": "Q187019",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "belles-lettres"
+  ]
+ },
+ "auteurs-modernes_saul-bellow": {
+  "qid": "Q83059",
+  "P569": [
+   "1915",
+   "1915"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Les Aventures d'Augie March",
+   "Herzog",
+   "Le Faiseur de pluie"
+  ],
+  "P101": [
+   "roman"
+  ]
+ },
+ "auteurs-modernes_truman-capote": {
+  "qid": "Q134180",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "De Sang-froid",
+   "Petit Déjeuner chez Tiffany"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme",
+   "scénario de film",
+   "art cinématographique"
+  ],
+  "P136": [
+   "Southern Gothic"
+  ]
+ },
+ "auteurs-modernes_tennessee-williams": {
+  "qid": "Q134262",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "1983"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "La Ménagerie de verre",
+   "Un tramway nommé Désir",
+   "La Rose tatouée",
+   "La Chatte sur un toit brûlant"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "théâtre parlé"
+  ]
+ },
+ "auteurs-modernes_arthur-miller": {
+  "qid": "Q80596",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Mort d'un commis voyageur",
+   "Les Sorcières de Salem",
+   "Vu du pont",
+   "Ils étaient tous mes fils",
+   "Après la chute"
+  ]
+ },
+ "auteurs-modernes_eugene-o-neill": {
+  "qid": "Q93157",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "All God's Chillun Got Wings",
+   "Le deuil sied à Électre"
+  ]
+ },
+ "auteurs-modernes_james-baldwin-ecrivain": {
+  "qid": "Q273210",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "États-Unis",
+   "France"
+  ],
+  "P800": [
+   "La Conversion",
+   "La Chambre de Giovanni",
+   "Chroniques d'un enfant du pays"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_sylvia-plath": {
+  "qid": "Q133054",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "La Cloche de détresse",
+   "Ariel",
+   "The Colossus"
+  ],
+  "P101": [
+   "poésie",
+   "essai",
+   "fiction"
+  ],
+  "P136": [
+   "Confessionnalisme (courant littéraire)",
+   "roman à clef"
+  ]
+ },
+ "auteurs-modernes_robert-frost": {
+  "qid": "Q168728",
+  "P569": [
+   "1874",
+   "1874",
+   "1874",
+   "1874"
+  ],
+  "P570": [
+   "1963",
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "North of Boston",
+   "Mountain Interval",
+   "New Hampshire",
+   "West-Running Brook",
+   "Collected Poems of Robert Frost",
+   "A Further Range",
+   "A Witness Tree",
+   "A Masque of Reason"
+  ]
+ },
+ "auteurs-modernes_langston-hughes": {
+  "qid": "Q188093",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Renaissance de Harlem",
+   "poésie jazz"
+  ],
+  "P800": [
+   "Le Nègre parle des fleuves"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "prose",
+   "poésie",
+   "théâtre",
+   "journalisme d'opinion",
+   "Renaissance de Harlem",
+   "droits civiques",
+   "droits civils"
+  ]
+ },
+ "auteurs-modernes_graham-greene": {
+  "qid": "Q128560",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1991"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Tueur à gages",
+   "La Puissance et la Gloire",
+   "Le Troisième Homme",
+   "Un Américain bien tranquille"
+  ],
+  "P101": [
+   "roman",
+   "critique de cinéma",
+   "critique littéraire"
+  ]
+ },
+ "auteurs-modernes_e-m-forster": {
+  "qid": "Q189119",
+  "P569": [
+   "1879"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "Bloomsbury Group"
+  ],
+  "P800": [
+   "Howards End",
+   "Avec vue sur l'Arno",
+   "Maurice",
+   "Where Angels Fear to Tread",
+   "The Longest Journey",
+   "Route des Indes"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "réalisme"
+  ]
+ },
+ "auteurs-modernes_fernando-pessoa": {
+  "qid": "Q173481",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1935",
+   "1935"
+  ],
+  "P27": [
+   "Portugal",
+   "royaume de Portugal"
+  ],
+  "P800": [
+   "Le Livre de l'intranquillité"
+  ]
+ },
+ "auteurs-modernes_jose-saramago": {
+  "qid": "Q37060",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "Portugal"
+  ],
+  "P135": [
+   "réalisme magique"
+  ],
+  "P800": [
+   "L'Évangile selon Jésus-Christ",
+   "L'Aveuglement",
+   "La Lucidité",
+   "Caïn",
+   "Les Intermittences de la mort",
+   "Le Voyage de l'éléphant"
+  ],
+  "P136": [
+   "magic realist fiction"
+  ]
+ },
+ "auteurs-modernes_mario-vargas-llosa": {
+  "qid": "Q39803",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Pérou",
+   "Espagne",
+   "République dominicaine"
+  ],
+  "P135": [
+   "réalisme magique",
+   "boom latino-américain"
+  ],
+  "P800": [
+   "La Ville et les Chiens",
+   "La Maison verte",
+   "Conversation à La Cathédrale"
+  ],
+  "P101": [
+   "littérature",
+   "écriture créative et professionnelle"
+  ]
+ },
+ "auteurs-modernes_juan-rulfo": {
+  "qid": "Q200661",
+  "P569": [
+   "1917",
+   "1918"
+  ],
+  "P570": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P800": [
+   "Le Llano en flammes",
+   "Pedro Páramo"
+  ],
+  "P101": [
+   "belles-lettres",
+   "film",
+   "photographie"
+  ]
+ },
+ "auteurs-modernes_roberto-bolano": {
+  "qid": "Q297532",
+  "P569": [
+   "1953"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "Chili"
+  ],
+  "P135": [
+   "infraréalisme"
+  ],
+  "P800": [
+   "2666",
+   "Les Détectives sauvages"
+  ],
+  "P136": [
+   "prose"
+  ]
+ },
+ "auteurs-modernes_jorge-amado": {
+  "qid": "Q184440",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P135": [
+   "modernisme",
+   "réalisme magique"
+  ],
+  "P800": [
+   "Gabriela, girofle et cannelle",
+   "Dona Flor et ses deux maris",
+   "Tieta d'Agreste, gardienne de chèvres ou le Retour de la fille prodigue",
+   "Capitaines des Sables",
+   "Tereza Batista"
+  ]
+ },
+ "auteurs-modernes_miguel-de-unamuno": {
+  "qid": "Q185085",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "Génération de 98"
+  ],
+  "P800": [
+   "Le Sentiment tragique de la vie",
+   "Brouillard"
+  ],
+  "P101": [
+   "philosophie"
+  ],
+  "P136": [
+   "dramaturgie"
+  ]
+ },
+ "auteurs-modernes_luigi-pirandello": {
+  "qid": "Q1403",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "L'Esclusa",
+   "The Turn",
+   "Ma non è una cosa seria",
+   "Un, personne, cent mille",
+   "Six Personnages en quête d'auteur",
+   "Nouvelles pour une année",
+   "Feu Mathias Pascal",
+   "Vêtir ceux qui sont nus",
+   "Henri IV"
+  ]
+ },
+ "auteurs-modernes_primo-levi": {
+  "qid": "Q153670",
+  "P569": [
+   "1919",
+   "1918",
+   "1919"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Si c'est un homme",
+   "La Trêve",
+   "Les Naufragés et les Rescapés",
+   "Le Système périodique"
+  ],
+  "P101": [
+   "activité littéraire",
+   "philosophie"
+  ],
+  "P136": [
+   "mémoires"
+  ]
+ },
+ "auteurs-modernes_alberto-moravia": {
+  "qid": "Q161933",
+  "P569": [
+   "1907",
+   "1907"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P800": [
+   "Les Indifférents",
+   "Le Conformiste",
+   "Nouvelles romaines",
+   "Agostino",
+   "Le Mépris",
+   "L'Ennui",
+   "Moi et Lui",
+   "La Désobéissance",
+   "La Femme-léopard"
+  ],
+  "P136": [
+   "scénario",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_orhan-pamuk": {
+  "qid": "Q241248",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "Turquie"
+  ],
+  "P135": [
+   "littérature postmoderniste",
+   "naturalisme"
+  ],
+  "P800": [
+   "Le Château blanc",
+   "Le Livre noir",
+   "La Vie nouvelle",
+   "Mon nom est Rouge",
+   "Neige",
+   "Istanbul",
+   "Le Musée de l'innocence",
+   "Cevdet Bey et ses fils",
+   "Les Nuits de la peste"
+  ],
+  "P136": [
+   "autobiographie",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_ismail-kadare": {
+  "qid": "Q179695",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Albanie",
+   "France",
+   "Kosovo"
+  ],
+  "P800": [
+   "Le Général de l'armée morte",
+   "Les Tambours de la pluie",
+   "Chronique de la ville de pierre",
+   "Avril brisé",
+   "Le Pont aux trois arches",
+   "Le Dossier H.",
+   "Le Palais des rêves"
+  ],
+  "P101": [
+   "activité littéraire",
+   "poésie",
+   "prose"
+  ]
+ },
+ "auteurs-modernes_yasunari-kawabata": {
+  "qid": "Q43736",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "La Danseuse d'Izu",
+   "Pays de neige",
+   "Nuée d'oiseaux blancs",
+   "Kyôto",
+   "Les Belles Endormies",
+   "Le Grondement de la montagne"
+  ],
+  "P101": [
+   "littérature"
+  ]
+ },
+ "auteurs-modernes_liu-cixin": {
+  "qid": "Q607588",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P800": [
+   "Le Problème à trois corps",
+   "La Forêt sombre",
+   "La Mort immortelle",
+   "Terre errante",
+   "Hold Up the Sky",
+   "L'Instituteur du village",
+   "Boule de foudre"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_han-kang": {
+  "qid": "Q5646626",
+  "P569": [
+   "1970"
+  ],
+  "P27": [
+   "Corée du Sud"
+  ],
+  "P800": [
+   "La Végétarienne",
+   "Celui qui revient",
+   "Leçons de grec",
+   "The White Book",
+   "Impossibles adieux"
+  ],
+  "P101": [
+   "littérature coréenne",
+   "poésie coréenne"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_amos-oz": {
+  "qid": "Q151872",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "Israël"
+  ],
+  "P101": [
+   "littérature",
+   "journalisme",
+   "système éducatif"
+  ]
+ },
+ "auteurs-modernes_chimamanda-ngozi-adichie": {
+  "qid": "Q230141",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "Nigeria"
+  ],
+  "P800": [
+   "L'hibiscus pourpre",
+   "L'Autre Moitié du soleil",
+   "Americanah"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_svetlana-alexievitch": {
+  "qid": "Q274334",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Biélorussie",
+   "Union soviétique"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Les Cercueils de zinc",
+   "La Supplication - Tchernobyl, chronique du monde après l'apocalypse",
+   "La guerre n'a pas un visage de femme",
+   "La Fin de l'homme rouge",
+   "Derniers Témoins"
+  ],
+  "P101": [
+   "écriture créative et professionnelle",
+   "journalisme"
+  ],
+  "P136": [
+   "littérature non-fictionnelle",
+   "récit"
+  ]
+ },
+ "auteurs-modernes_enid-blyton": {
+  "qid": "Q192069",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Le Club des cinq",
+   "Le Clan des sept",
+   "Oui-Oui",
+   "Murmures d'enfants",
+   "The Enid Blyton Adventure Series",
+   "La Forêt enchantée",
+   "Betty la mauvaise tête",
+   "Betty s'en va-t-en guerre",
+   "Les Robinsons de l'île perdue",
+   "Deux jumelles en pension",
+   "Le Club des cinq et le Trésor de l'île",
+   "Le Club des cinq et le coffre aux merveilles",
+   "Le Club des cinq joue et gagne",
+   "Le club des Cinq en randonnée",
+   "Le club des cinq se distingue",
+   "The Magic Faraway Tree",
+   "The Land of Far-Beyond",
+   "Les jumelles ne sont pas des anges",
+   "The Mystery of the Burnt Cottage",
+   "Summer Term at St. Clare's",
+   "Le club des Cinq contre-attaque",
+   "Le Mystère de l'île aux mouettes",
+   "The Mystery of the Disappearing Cat",
+   "Hourra pour les jumelles",
+   "Claudine at St.Clare's",
+   "Deux Jumelles et Deux Somnambules",
+   "Le Club des cinq en vacances",
+   "The Mystery of the Secret Room",
+   "The Naughtiest Girl is a Monitor",
+   "Le Mystère du nid d'aigle",
+   "Les filles de Malory School",
+   "Le Club des cinq et les Saltimbanques",
+   "The Folk of the Faraway Tree",
+   "The Mystery of the Spiteful Letters",
+   "The Mystery of the Missing Necklace",
+   "Le Mystère de la cascade",
+   "Le club des Cinq va camper",
+   "The Mystery of the Hidden House",
+   "Un cheval à Malory school",
+   "Le club des Cinq en péril",
+   "The Mystery of the Pantomime Cat",
+   "Le Club des cinq pris au piège",
+   "The Mystery of the Invisible Thief",
+   "The Mystery of the Vanished Prince",
+   "Le club des cinq en roulotte",
+   "Le Mystère du sac magique",
+   "Le Club des cinq au bord de la mer",
+   "The Mystery of Holly Lane",
+   "La locomotive du Club des Cinq",
+   "Le Mystère du caniche blanc",
+   "The Mystery of the Missing Man",
+   "Le Club des cinq et les Papillons",
+   "The Mystery of the Strange Messages",
+   "Le Club des Cinq aux sports d'hiver",
+   "Le Club des Cinq et le secret du vieux puits",
+   "Le Club des cinq en embuscade"
+  ],
+  "P101": [
+   "poésie",
+   "pédagogie",
+   "activité littéraire",
+   "littérature scientifique",
+   "littérature d'enfance et de jeunesse"
+  ],
+  "P136": [
+   "littérature d'enfance"
+  ]
+ },
+ "auteurs-modernes_roald-dahl": {
+  "qid": "Q25161",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "Norvège",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Danny, champion du monde",
+   "Charlie et la chocolaterie",
+   "James et la Grosse Pêche",
+   "Fantastique Maître Renard",
+   "Matilda",
+   "Sacrées Sorcières",
+   "Les Deux Gredins",
+   "Le Bon Gros Géant",
+   "The Gremlins",
+   "La Potion magique de Georges Bouillon",
+   "Charlie et le Grand Ascenseur de verre",
+   "Un amour de tortue"
+  ],
+  "P136": [
+   "littérature d'horreur",
+   "mysticisme",
+   "fantasy",
+   "littérature d'enfance"
+  ]
+ },
+ "auteurs-modernes_astrid-lindgren": {
+  "qid": "Q55767",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P800": [
+   "Fifi Brindacier",
+   "Emil i Lönneberga",
+   "Karlsson sur le toit",
+   "The Six Bullerby Children",
+   "Bill Bergson",
+   "Ronya, fille de brigand",
+   "Les Frères Cœur-de-lion",
+   "Mio, mon Mio"
+  ],
+  "P136": [
+   "littérature d'enfance",
+   "conte merveilleux"
+  ]
+ },
+ "auteurs-modernes_tove-jansson": {
+  "qid": "Q102071",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Finlande",
+   "grand-duché de Finlande"
+  ],
+  "P800": [
+   "Moumine",
+   "Les Aventures de Moomin",
+   "Moominworld",
+   "Moumines"
+  ],
+  "P101": [
+   "littérature pour jeunes adultes"
+  ],
+  "P136": [
+   "littérature d'enfance",
+   "littérature fictionnelle",
+   "peinture",
+   "peinture de portrait"
+  ]
+ },
+ "auteurs-modernes_michael-ende": {
+  "qid": "Q76498",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "L'Histoire sans fin",
+   "Momo",
+   "Jim Bouton et Lucas le chauffeur de locomotive",
+   "La Satanormaléficassassinfernale Potion du professeur Laboulette",
+   "Jim Bouton et les Terribles 13",
+   "Mirror in the Mirror: A Labyrinth"
+  ]
+ },
+ "auteurs-modernes_alan-alexander-milne": {
+  "qid": "Q207036",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Winnie l'ourson"
+  ],
+  "P136": [
+   "littérature d'enfance",
+   "conte merveilleux"
+  ]
+ },
+ "auteurs-modernes_beatrix-potter": {
+  "qid": "Q214565",
+  "P569": [
+   "1866"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Pierre Lapin",
+   "The Tale of Squirrel Nutkin",
+   "The Tailor of Gloucester",
+   "Le Conte de Jeannot Lapin",
+   "Deux Vilaines Souris",
+   "Madame Piquedru la blanchisseuse",
+   "The Tale of the Pie and the Patty-Pan",
+   "The Tale of Mr. Jeremy Fisher",
+   "The Story of a Fierce Bad Rabbit",
+   "The Story of Miss Moppet",
+   "The Tale of Tom Kitten",
+   "Le Conte de Sophie Canétang",
+   "The Tale of Samuel Whiskers or The Roly-Poly Pudding",
+   "La Famille Flopsaut",
+   "Gingembre et Girofle",
+   "Madame Trotte-Menu",
+   "Panache Petitgris",
+   "The Tale of Mr. Tod",
+   "The Tale of Pigling Bland",
+   "Appley Dapply's Nursery Rhymes",
+   "The Tale of Johnny Town-Mouse",
+   "Cecily Parsley's Nursery Rhymes",
+   "The Tale of Little Pig Robinson",
+   "The Tale of Kitty-in-Boots",
+   "The Fairy Caravan",
+   "The Sly Old Cat",
+   "Pierre Lapin"
+  ],
+  "P136": [
+   "conte merveilleux"
+  ]
+ },
+ "auteurs-modernes_frank-herbert": {
+  "qid": "Q7934",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Dune"
+  ],
+  "P101": [
+   "science-fiction"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_stanis-aw-lem": {
+  "qid": "Q6530",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "Pologne"
+  ],
+  "P800": [
+   "Solaris",
+   "Summa Technologiae",
+   "The Star Diaries",
+   "Fiasco",
+   "Golem XIV",
+   "The Astronauts",
+   "Fables for Robots",
+   "Q9170006",
+   "Q9170905",
+   "La Cybériade",
+   "Czas nieutracony",
+   "The Man from Mars",
+   "A Perfect Vacuum",
+   "Éden",
+   "His Master's Voice",
+   "Q1671673",
+   "Le Rhume",
+   "Le Congrès de futurologie",
+   "Q11750478",
+   "Q11753121",
+   "Q97376008",
+   "L'Invincible",
+   "Q11792642",
+   "The Magellanic Cloud",
+   "Q48845674",
+   "Tales of Pirx the Pilot",
+   "Memoirs Found in a Bathtub"
+  ],
+  "P101": [
+   "philosophie",
+   "science-fiction",
+   "drame",
+   "littérature de science-fiction"
+  ],
+  "P136": [
+   "littérature de science-fiction",
+   "science-fiction",
+   "futurologie"
+  ]
+ },
+ "auteurs-modernes_robert-a-heinlein": {
+  "qid": "Q123078",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1988"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Farnham's Freehold",
+   "Étoiles, garde-à-vous !",
+   "En terre étrangère",
+   "Le Jeune Homme et l'Espace",
+   "Double Étoile",
+   "Marionnettes humaines"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "science-fiction",
+   "fantasy",
+   "science-fiction militaire",
+   "littérature pour jeunes adultes",
+   "hard science-fiction"
+  ]
+ },
+ "auteurs-modernes_ian-fleming": {
+  "qid": "Q82104",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1964"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "fiction de détective"
+  ]
+ },
+ "auteurs-modernes_john-le-carre": {
+  "qid": "Q209641",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Irlande"
+  ],
+  "P800": [
+   "L'Espion qui venait du froid",
+   "La Taupe",
+   "Comme un collégien",
+   "Les Gens de Smiley",
+   "La Constance du jardinier",
+   "L'Appel du mort",
+   "Une petite ville en Allemagne",
+   "La Petite Fille au tambour",
+   "Le Chant de la mission",
+   "Un homme très recherché",
+   "Le Directeur de nuit",
+   "Un traître à notre goût",
+   "Une vérité si délicate",
+   "Le Tailleur de Panama",
+   "Single & Single",
+   "Une amitié absolue",
+   "Le Miroir aux espions",
+   "Notre Jeu"
+  ],
+  "P101": [
+   "littérature de langue anglaise",
+   "fiction d'espionnage"
+  ],
+  "P136": [
+   "fiction de détective",
+   "fiction d'espionnage"
+  ]
+ },
+ "auteurs-modernes_raymond-chandler": {
+  "qid": "Q180377",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Grand Sommeil",
+   "Adieu ma jolie",
+   "La grande fenêtre",
+   "La Dame du lac",
+   "La Petite Sœur",
+   "Sur un air de navaja",
+   "Playback",
+   "Poodle Springs"
+  ],
+  "P101": [
+   "roman policier"
+  ],
+  "P136": [
+   "fiction de détective"
+  ]
+ },
+ "auteurs-modernes_paul-valery": {
+  "qid": "Q200639",
+  "P569": [
+   "1871"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Les principes d’an-archie pure et appliquée",
+   "La Crise de l’esprit"
+  ],
+  "P101": [
+   "philosophie",
+   "littérature",
+   "critique littéraire",
+   "journalisme",
+   "système éducatif"
+  ]
+ },
+ "auteurs-modernes_paul-claudel": {
+  "qid": "Q295830",
+  "P569": [
+   "1868",
+   "1868"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Partage de midi",
+   "Le Soulier de satin",
+   "L'Histoire de Tobie et de Sara"
+  ],
+  "P136": [
+   "théâtre",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_aime-cesaire": {
+  "qid": "Q223955",
+  "P569": [
+   "1913",
+   "1913",
+   "1913"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "négritude"
+  ],
+  "P101": [
+   "littérature",
+   "drame",
+   "politique"
+  ]
+ },
+ "auteurs-modernes_blaise-cendrars": {
+  "qid": "Q123080",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "Suisse",
+   "France"
+  ]
+ },
+ "auteurs-modernes_francoise-sagan": {
+  "qid": "Q1646",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Bonjour tristesse"
+  ],
+  "P136": [
+   "théâtre",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_joseph-kessel": {
+  "qid": "Q356537",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "journalisme",
+   "journalisme d'opinion",
+   "littérature"
+  ]
+ },
+ "auteurs-modernes_georges-bernanos": {
+  "qid": "Q315072",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1948"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Joie",
+   "Nouvelle histoire de Mouchette",
+   "Journal d'un curé de campagne"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "essai"
+  ]
+ },
+ "auteurs-modernes_rene-barjavel": {
+  "qid": "Q562556",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_pierre-boulle": {
+  "qid": "Q219910",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Pont de la rivière Kwaï",
+   "La Planète des singes"
+  ]
+ },
+ "auteurs-modernes_maurice-leblanc": {
+  "qid": "Q314993",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Formidable Événement"
+  ],
+  "P136": [
+   "fiction de détective",
+   "science-fiction",
+   "roman psychologique"
+  ]
+ },
+ "auteurs-modernes_gaston-leroux": {
+  "qid": "Q298827",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1927"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Fantôme de l'Opéra",
+   "Le Mystère de la chambre jaune",
+   "Le Parfum de la dame en noir",
+   "Rouletabille chez le Tsar",
+   "La Double Vie de Théophraste Longuet",
+   "Chéri-Bibi"
+  ],
+  "P136": [
+   "roman policier",
+   "roman fantastique"
+  ]
+ },
+ "auteurs-modernes_george-bernard-shaw": {
+  "qid": "Q19185",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1950"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni",
+   "Irlande"
+  ],
+  "P800": [
+   "Pygmalion",
+   "Sainte Jeanne",
+   "Mrs. Warren's Profession",
+   "Caesar and Cleopatra"
+  ],
+  "P101": [
+   "beaux-arts"
+  ],
+  "P136": [
+   "satire"
+  ]
+ },
+ "auteurs-modernes_seamus-heaney": {
+  "qid": "Q93356",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "Irlande"
+  ],
+  "P800": [
+   "Death of a Naturalist",
+   "District and Circle",
+   "Human Chain"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_doris-lessing": {
+  "qid": "Q40874",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P135": [
+   "réalisme"
+  ],
+  "P800": [
+   "Vaincue par la brousse",
+   "Le Carnet d'or",
+   "La Terroriste",
+   "The Cleft",
+   "Mémoires d'une survivante",
+   "L’Écho lointain de l'orage"
+  ],
+  "P101": [
+   "poésie",
+   "essai"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_thomas-pynchon": {
+  "qid": "Q35155",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "V.",
+   "Vente à la criée du lot 49",
+   "L'Arc-en-ciel de la gravité",
+   "Vineland",
+   "Mason & Dixon",
+   "Contre-jour",
+   "Vice caché",
+   "Fonds perdus"
+  ]
+ },
+ "auteurs-modernes_paul-auster": {
+  "qid": "Q214642",
+  "P569": [
+   "1947"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Invention de la solitude",
+   "Trilogie new-yorkaise",
+   "Le Voyage d'Anna Blume",
+   "La Musique du hasard",
+   "True Tales of American Life",
+   "Le Livre des illusions",
+   "Chronique d’hiver",
+   "4 3 2 1",
+   "Burning Boy: The Life and Work of Stephen Crane",
+   "Bloodbath Nation"
+  ],
+  "P101": [
+   "littérature",
+   "études anglophones",
+   "littérature comparée",
+   "film",
+   "direction de films",
+   "scénario de film",
+   "traduction du français",
+   "traduction en anglais"
+  ],
+  "P136": [
+   "prose"
+  ]
+ },
+ "auteurs-modernes_edith-wharton": {
+  "qid": "Q276032",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Mount",
+   "Le Temps de l'innocence",
+   "The Touchstone",
+   "Chez les heureux du monde",
+   "L'Écueil",
+   "Les beaux mariages",
+   "Été",
+   "Roman Fever",
+   "The Decoration of Houses",
+   "The Greater Inclination",
+   "Crucial Instances",
+   "Vieux New York"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "romance"
+  ]
+ },
+ "auteurs-modernes_pearl-buck": {
+  "qid": "Q80900",
+  "P569": [
+   "1892",
+   "1892"
+  ],
+  "P570": [
+   "1973",
+   "1973"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "L'Exilée",
+   "Fighting Angel",
+   "Vent d'Est, Vent d'Ouest",
+   "La Terre chinoise",
+   "Les Fils de Wang Lung",
+   "La Famille dispersée",
+   "China Sky",
+   "Fils de dragon",
+   "Pivoine",
+   "The Big Wave",
+   "Imperial Woman",
+   "Letter from Peking",
+   "The Living Reed"
+  ],
+  "P101": [
+   "culture chinoise",
+   "littérature de langue anglaise"
+  ],
+  "P136": [
+   "biographie"
+  ]
+ },
+ "auteurs-modernes_allen-ginsberg": {
+  "qid": "Q6711",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Beat Generation"
+  ],
+  "P800": [
+   "Howl",
+   "Kaddish",
+   "The Fall of America: Poems of These States"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "spoken word",
+   "Confessionnalisme (courant littéraire)"
+  ]
+ },
+ "auteurs-modernes_charles-bukowski": {
+  "qid": "Q76409",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P135": [
+   "réalisme sale",
+   "fiction transgressive",
+   "Beat Generation",
+   "Antipoésie"
+  ],
+  "P800": [
+   "Le Postier",
+   "Factotum",
+   "Hollywood",
+   "Souvenirs d'un pas grand-chose",
+   "Pulp",
+   "Women",
+   "Journal d'un vieux dégueulasse",
+   "Les Contes de la folie ordinaire",
+   "Au sud de nulle part",
+   "Je t'aime, Albert",
+   "Contes de la folie ordinaire",
+   "The Most Beautiful Woman in Town",
+   "Le capitaine est parti déjeuner et les marins se sont emparés du bateau",
+   "Portions from a Wine-stained Notebook: Short Stories and Essays",
+   "Le Retour du vieux dégueulasse"
+  ]
+ },
+ "auteurs-modernes_heinrich-boll": {
+  "qid": "Q42747",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "Les Deux Sacrements",
+   "L'Honneur perdu de Katharina Blum",
+   "La Grimace",
+   "Q1195632",
+   "le train était à l'heure",
+   "La Mort de Lohengrin",
+   "Le Silence de l'ange",
+   "Où étais-tu, Adam ?",
+   "Les Brebis galeuses",
+   "Pas seulement à Noël",
+   "La Balance de Balek",
+   "Rentrez chez vous, Bogner !",
+   "Les Enfants des morts",
+   "Le Pain des jeunes années",
+   "Journal irlandais",
+   "Valley of Thundering Hooves",
+   "Ceux qui ne laissent pas de traces",
+   "Zimpren Station",
+   "Le Silence condensé du Dr Murke",
+   "When War Broke Out",
+   "When the War was Over",
+   "Distance to the Troop",
+   "Fin de mission",
+   "Domestic Disturbance",
+   "Portrait de groupe avec dame",
+   "Reports on the Nation's Disposition",
+   "Protection encombrante",
+   "Mais que va-t-il devenir ce garçon?",
+   "Le Legs",
+   "Femmes devant un paysage fluvial. Roman en forme de dialogues et de monologues",
+   "Croix sans cœur"
+  ],
+  "P101": [
+   "belles-lettres",
+   "écriture créative et professionnelle",
+   "dramatique radio",
+   "traduction"
+  ]
+ },
+ "auteurs-modernes_patrick-suskind": {
+  "qid": "Q105994",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "La Contrebasse",
+   "Le Parfum",
+   "Le Pigeon",
+   "L'Histoire de Monsieur Sommer"
+  ],
+  "P101": [
+   "spectacle vivant",
+   "activité littéraire"
+  ]
+ },
+ "auteurs-modernes_elias-canetti": {
+  "qid": "Q80064",
+  "P569": [
+   "1905"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Bulgarie"
+  ],
+  "P800": [
+   "Auto-da-fé",
+   "La langue sauvée",
+   "Masse et puissance",
+   "Their Days are Numbered"
+  ],
+  "P101": [
+   "roman",
+   "essai"
+  ]
+ },
+ "auteurs-modernes_friedrich-durrenmatt": {
+  "qid": "Q23481",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P800": [
+   "Les Physiciens",
+   "La Visite de la vieille dame",
+   "Le Soupçon",
+   "Le Juge et son bourreau",
+   "La Ballade du Minotaure",
+   "La Panne",
+   "La Promesse",
+   "Der Doppelgänger"
+  ],
+  "P136": [
+   "prose"
+  ]
+ },
+ "auteurs-modernes_knut-hamsun": {
+  "qid": "Q40826",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "Norvège"
+  ],
+  "P135": [
+   "néoromantisme"
+  ],
+  "P800": [
+   "La Faim",
+   "L'Éveil de la glèbe"
+  ]
+ },
+ "auteurs-modernes_selma-lagerlof": {
+  "qid": "Q44519",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P800": [
+   "La Légende de Gösta Berling",
+   "Le Merveilleux Voyage de Nils Holgersson à travers la Suède",
+   "Jerusalem"
+  ],
+  "P101": [
+   "poésie",
+   "droit de vote des femmes en Suède"
+  ]
+ },
+ "auteurs-modernes_karel-capek": {
+  "qid": "Q155855",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "Cisleithanie",
+   "Tchécoslovaquie"
+  ],
+  "P800": [
+   "Krakatit",
+   "Zářivé hlubiny",
+   "Boží muka",
+   "Krakonošova zahrada",
+   "Kritika slov",
+   "Boží muka",
+   "La fabrique d'absolu",
+   "Q12054415",
+   "Q4533491",
+   "Q4533536",
+   "The Gardener's Year",
+   "Q12035652",
+   "Q4533571",
+   "Hordubal",
+   "La Guerre des salamandres",
+   "První parta",
+   "Q12022240",
+   "Život a dílo skladatele Foltýna",
+   "The Fateful Game of Love",
+   "The Robber",
+   "R. U. R.",
+   "Ze života hmyzu",
+   "Věc Makropulos",
+   "Q10379802",
+   "The White Disease",
+   "The Mother",
+   "Italské listy",
+   "Anglické listy",
+   "Trip to Spain",
+   "Q12042003",
+   "Q11722924",
+   "Q11774680",
+   "Dášeňka",
+   "Q12039306",
+   "Q12020450",
+   "Q12027714"
+  ],
+  "P101": [
+   "littérature pour jeunes adultes",
+   "écriture créative et professionnelle",
+   "journalisme",
+   "traduction",
+   "littérature d'enfance",
+   "pièce de théâtre",
+   "œuvre théâtrale"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "auteurs-modernes_nikos-kazantzakis": {
+  "qid": "Q214622",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "Grèce"
+  ],
+  "P800": [
+   "Ascèse : Salvatores Dei",
+   "The Odyssey: A Modern Sequel",
+   "Alexis Zorba",
+   "Le Christ recrucifié",
+   "La Liberté ou la Mort",
+   "La Dernière Tentation",
+   "Le Pauvre d'Assise",
+   "The fratricides",
+   "Rapport au Greco"
+  ],
+  "P101": [
+   "poésie",
+   "épopée",
+   "drame en vers",
+   "poésie lyrique",
+   "philosophie",
+   "roman",
+   "littérature de voyage",
+   "pièce de théâtre"
+  ]
+ },
+ "auteurs-modernes_nadine-gordimer": {
+  "qid": "Q47619",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "Afrique du Sud"
+  ],
+  "P800": [
+   "Le Conservateur",
+   "Fille de Burger",
+   "Ceux de July",
+   "Un caprice de la nature",
+   "Un amant de fortune",
+   "Bouge-toi !"
+  ],
+  "P101": [
+   "littérature"
+  ],
+  "P136": [
+   "roman court"
+  ]
+ },
+ "auteurs-modernes_j-m-coetzee": {
+  "qid": "Q43293",
+  "P569": [
+   "1940",
+   "1940"
+  ],
+  "P27": [
+   "Afrique du Sud",
+   "Australie"
+  ],
+  "P800": [
+   "Michael K, sa vie, son temps"
+  ],
+  "P101": [
+   "roman"
+  ]
+ },
+ "auteurs-modernes_kateb-yacine": {
+  "qid": "Q379962",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Algérie",
+   "France"
+  ],
+  "P800": [
+   "Nedjma"
+  ]
+ },
+ "auteurs-modernes_tahar-ben-jelloun": {
+  "qid": "Q334989",
+  "P569": [
+   "1947",
+   "1944"
+  ],
+  "P27": [
+   "Maroc",
+   "France"
+  ],
+  "P800": [
+   "Cette aveuglante absence de lumière",
+   "La Nuit sacrée"
+  ],
+  "P101": [
+   "roman",
+   "nouvelle"
+  ]
+ },
+ "auteurs-modernes_mahmoud-darwich": {
+  "qid": "Q207720",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "État de Palestine"
+  ]
+ },
+ "auteurs-modernes_paulo-coelho": {
+  "qid": "Q12881",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P800": [
+   "L'Alchimiste",
+   "La Cinquième Montagne",
+   "Veronika décide de mourir",
+   "Onze Minutes",
+   "Brida",
+   "Sur le bord de la rivière Piedra, je me suis assise et j'ai pleuré",
+   "The Devil and Miss Prym",
+   "Le Zahir",
+   "La Sorcière de Portobello",
+   "L'Espionne",
+   "Aleph"
+  ],
+  "P136": [
+   "musique brésilienne"
+  ]
+ },
+ "auteurs-modernes_clarice-lispector": {
+  "qid": "Q235955",
+  "P569": [
+   "1920",
+   "1925"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "république socialiste soviétique d'Ukraine",
+   "Brésil"
+  ],
+  "P800": [
+   "The Hour of the Star",
+   "The Passion According to G.H.",
+   "Family Ties",
+   "Near to the Wild Heart",
+   "Água Viva"
+  ],
+  "P101": [
+   "littérature",
+   "activité littéraire",
+   "journalisme"
+  ]
+ },
+ "auteurs-modernes_carlos-fuentes": {
+  "qid": "Q154691",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P800": [
+   "La Mort d'Artemio Cruz",
+   "Terra Nostra",
+   "La Tête de l'Hydre",
+   "Le vieux Gringo"
+  ],
+  "P136": [
+   "théâtre"
+  ]
+ },
+ "auteurs-modernes_ruben-dario": {
+  "qid": "Q173767",
+  "P569": [
+   "1867",
+   "1869"
+  ],
+  "P570": [
+   "1916",
+   "1916"
+  ],
+  "P27": [
+   "Nicaragua"
+  ],
+  "P135": [
+   "Modernismo"
+  ],
+  "P800": [
+   "Azul",
+   "Cantos de vida y esperanza",
+   "Prosas profanas y otros poemas"
+  ]
+ },
+ "auteurs-modernes_gabriela-mistral": {
+  "qid": "Q80871",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "Chili"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "auteurs-modernes_jun-ichiro-tanizaki": {
+  "qid": "Q316213",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P800": [
+   "Quatre sœurs",
+   "Un amour insensé",
+   "Svastika",
+   "Le Tatouage",
+   "Le Goût des orties",
+   "Éloge de l'ombre"
+  ]
+ },
+ "auteurs-modernes_ryunosuke-akutagawa": {
+  "qid": "Q186326",
+  "P569": [
+   "1892",
+   "1892"
+  ],
+  "P570": [
+   "1927",
+   "1927"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "The Nose",
+   "Rashōmon",
+   "Hell Screen",
+   "Dans le fourré",
+   "Spinning Gears",
+   "The Spider's Thread"
+  ]
+ }
+}

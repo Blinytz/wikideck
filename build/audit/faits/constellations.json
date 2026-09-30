@@ -1,0 +1,412 @@
+{
+ "constellations_andromede-constellation": {
+  "qid": "Q9256"
+ },
+ "constellations_machine-pneumatique": {
+  "qid": "Q10481"
+ },
+ "constellations_paon-constellation": {
+  "qid": "Q10515"
+ },
+ "constellations_verseau": {
+  "qid": "Q10576"
+ },
+ "constellations_aigle-constellation": {
+  "qid": "Q10586",
+  "P527": [
+   "Left Wall of the Heavenly Market Enclosure"
+  ]
+ },
+ "constellations_autel-constellation": {
+  "qid": "Q9253"
+ },
+ "constellations_belier-constellation": {
+  "qid": "Q10584"
+ },
+ "constellations_cocher-constellation": {
+  "qid": "Q10476",
+  "P527": [
+   "Eight Kinds of Crops"
+  ]
+ },
+ "constellations_bouvier-constellation": {
+  "qid": "Q8667",
+  "P527": [
+   "Arcturus",
+   "Epsilon Bootis",
+   "Eta Bootis",
+   "Zeta Bootis",
+   "Delta Bootis",
+   "Beta Bootis",
+   "Theta Bootis",
+   "Kappa Boötis",
+   "Tau Bootis",
+   "Rho Bootis",
+   "Gamma Bootis",
+   "Xuange",
+   "Tianqiang",
+   "Qigong"
+  ]
+ },
+ "constellations_burin-constellation": {
+  "qid": "Q10488"
+ },
+ "constellations_girafe-constellation": {
+  "qid": "Q8832",
+  "P527": [
+   "Beiji",
+   "Four Advisors",
+   "Right Wall of the Purple Forbidden Enclosure",
+   "Chief Judge",
+   "Six Jia",
+   "Canopy Support",
+   "Chuanshe",
+   "Eight Kinds of Crops"
+  ]
+ },
+ "constellations_cancer-constellation": {
+  "qid": "Q8849"
+ },
+ "constellations_chiens-de-chasse": {
+  "qid": "Q10452",
+  "P527": [
+   "Three Excellencies",
+   "Prime Minister",
+   "Imperial Guards"
+  ]
+ },
+ "constellations_grand-chien": {
+  "qid": "Q10538"
+ },
+ "constellations_petit-chien-constellation": {
+  "qid": "Q9305",
+  "P527": [
+   "Procyon"
+  ]
+ },
+ "constellations_capricorne-constellation": {
+  "qid": "Q10535"
+ },
+ "constellations_carene-constellation": {
+  "qid": "Q10470"
+ },
+ "constellations_cassiopee-constellation": {
+  "qid": "Q10464"
+ },
+ "constellations_centaure-constellation": {
+  "qid": "Q8844"
+ },
+ "constellations_cephee-constellation": {
+  "qid": "Q10468"
+ },
+ "constellations_baleine-constellation": {
+  "qid": "Q8839"
+ },
+ "constellations_cameleon-constellation": {
+  "qid": "Q10457"
+ },
+ "constellations_compas-constellation": {
+  "qid": "Q10508"
+ },
+ "constellations_colombe-constellation": {
+  "qid": "Q10425"
+ },
+ "constellations_chevelure-de-berenice": {
+  "qid": "Q9285",
+  "P527": [
+   "Left Wall of the Supreme Palace Enclosure",
+   "Five Lords",
+   "Officer of Honour",
+   "Captain of the Bodyguards",
+   "Officers of the Imperial Guard"
+  ]
+ },
+ "constellations_couronne-australe": {
+  "qid": "Q10413"
+ },
+ "constellations_couronne-boreale": {
+  "qid": "Q10406",
+  "P527": [
+   "Gamma Coronae Borealis",
+   "Guansuo",
+   "Tianji"
+  ]
+ },
+ "constellations_corbeau-constellation": {
+  "qid": "Q10517"
+ },
+ "constellations_coupe-constellation": {
+  "qid": "Q9282"
+ },
+ "constellations_croix-du-sud": {
+  "qid": "Q10542"
+ },
+ "constellations_cygne-constellation": {
+  "qid": "Q8921"
+ },
+ "constellations_dauphin-constellation": {
+  "qid": "Q9302"
+ },
+ "constellations_dorade-constellation": {
+  "qid": "Q8837",
+  "P571": [
+   "1598"
+  ]
+ },
+ "constellations_dragon-constellation": {
+  "qid": "Q8675"
+ },
+ "constellations_petit-cheval": {
+  "qid": "Q10438"
+ },
+ "constellations_eridan-constellation": {
+  "qid": "Q10433"
+ },
+ "constellations_fourneau-constellation": {
+  "qid": "Q8913"
+ },
+ "constellations_gemeaux": {
+  "qid": "Q8923"
+ },
+ "constellations_grue-constellation": {
+  "qid": "Q10563"
+ },
+ "constellations_hercule-constellation": {
+  "qid": "Q10448",
+  "P527": [
+   "Tianpei",
+   "Left Wall of the Heavenly Market Enclosure",
+   "Right Wall of the Heavenly Market Enclosure",
+   "Zong",
+   "Textile Ruler",
+   "Butcher's Shops",
+   "Dizuo",
+   "Huanzhe",
+   "Dipper for Liquids",
+   "Dipper for Solids",
+   "Qigong",
+   "Tianji",
+   "Nüchuang"
+  ]
+ },
+ "constellations_horloge-constellation": {
+  "qid": "Q10574"
+ },
+ "constellations_hydre-constellation": {
+  "qid": "Q10578"
+ },
+ "constellations_hydre-male": {
+  "qid": "Q10416"
+ },
+ "constellations_indien-constellation": {
+  "qid": "Q10450"
+ },
+ "constellations_lezard-constellation": {
+  "qid": "Q10430"
+ },
+ "constellations_lion-constellation": {
+  "qid": "Q8853",
+  "P527": [
+   "Right Wall of the Supreme Palace Enclosure",
+   "Seats of the Five Emperors",
+   "Crown Prince",
+   "Retinue",
+   "Emperor's Bodyguard",
+   "Mingtang",
+   "Astronomical Observatory",
+   "Junior Officers",
+   "Long Wall"
+  ]
+ },
+ "constellations_petit-lion": {
+  "qid": "Q10403",
+  "P527": [
+   "Eunuch",
+   "Junior Officers"
+  ]
+ },
+ "constellations_lievre-constellation": {
+  "qid": "Q10446"
+ },
+ "constellations_balance-constellation": {
+  "qid": "Q10580"
+ },
+ "constellations_loup-constellation": {
+  "qid": "Q10571"
+ },
+ "constellations_lynx-constellation": {
+  "qid": "Q10443"
+ },
+ "constellations_lyre-constellation": {
+  "qid": "Q10484"
+ },
+ "constellations_table-constellation": {
+  "qid": "Q9289"
+ },
+ "constellations_microscope-constellation": {
+  "qid": "Q10492"
+ },
+ "constellations_licorne-constellation": {
+  "qid": "Q10428"
+ },
+ "constellations_mouche-constellation": {
+  "qid": "Q10435"
+ },
+ "constellations_octant-constellation": {
+  "qid": "Q10503"
+ },
+ "constellations_ophiuchus": {
+  "qid": "Q8906",
+  "P527": [
+   "Left Wall of the Heavenly Market Enclosure",
+   "Right Wall of the Heavenly Market Enclosure",
+   "Municipal Office",
+   "Commodity Market",
+   "Zongzheng",
+   "Zongren",
+   "Hou",
+   "Huanzhe",
+   "Jewel Market",
+   "Dipper for Solids"
+  ]
+ },
+ "constellations_orion-constellation": {
+  "qid": "Q8860",
+  "P527": [
+   "Bételgeuse",
+   "ceinture d'Orion",
+   "Rigel",
+   "Alnilam",
+   "Alnitak",
+   "Saïph"
+  ]
+ },
+ "constellations_pegase-constellation": {
+  "qid": "Q8864"
+ },
+ "constellations_persee-constellation": {
+  "qid": "Q10511"
+ },
+ "constellations_phenix-constellation": {
+  "qid": "Q10441"
+ },
+ "constellations_peintre-constellation": {
+  "qid": "Q10486"
+ },
+ "constellations_poissons-constellation": {
+  "qid": "Q8679"
+ },
+ "constellations_poisson-austral": {
+  "qid": "Q10409"
+ },
+ "constellations_poupe-constellation": {
+  "qid": "Q9251"
+ },
+ "constellations_boussole-constellation": {
+  "qid": "Q10473"
+ },
+ "constellations_reticule-constellation": {
+  "qid": "Q10498"
+ },
+ "constellations_sagittaire-constellation": {
+  "qid": "Q8866"
+ },
+ "constellations_scorpion-constellation": {
+  "qid": "Q8865"
+ },
+ "constellations_sculpteur-constellation": {
+  "qid": "Q9286"
+ },
+ "constellations_ecu-de-sobieski": {
+  "qid": "Q10529"
+ },
+ "constellations_serpent-constellation": {
+  "qid": "Q8910",
+  "P527": [
+   "Serpens Caput",
+   "Serpens Cauda",
+   "Left Wall of the Heavenly Market Enclosure",
+   "Right Wall of the Heavenly Market Enclosure",
+   "Municipal Office",
+   "Jewel Market"
+  ]
+ },
+ "constellations_sextant-constellation": {
+  "qid": "Q10525"
+ },
+ "constellations_taureau-constellation": {
+  "qid": "Q10570",
+  "P527": [
+   "Aldébaran"
+  ]
+ },
+ "constellations_telescope-constellation": {
+  "qid": "Q10546"
+ },
+ "constellations_triangle-constellation": {
+  "qid": "Q10565"
+ },
+ "constellations_triangle-austral": {
+  "qid": "Q10422"
+ },
+ "constellations_toucan-constellation": {
+  "qid": "Q10567"
+ },
+ "constellations_grande-ourse": {
+  "qid": "Q8918",
+  "P527": [
+   "Grande Casserole",
+   "Right Wall of the Purple Forbidden Enclosure",
+   "Inner Steps",
+   "Wenchang",
+   "Three Top Instructors",
+   "Royals",
+   "Celestial Prison",
+   "Guard of the Sun",
+   "Judge for Nobility",
+   "Assistant",
+   "Imperial Guards",
+   "Three Steps"
+  ]
+ },
+ "constellations_petite-ourse": {
+  "qid": "Q10478",
+  "P527": [
+   "Polaris",
+   "Beiji",
+   "Four Advisors",
+   "Royal Secretary",
+   "Gouchen",
+   "Celestial Bed"
+  ]
+ },
+ "constellations_voiles-constellation": {
+  "qid": "Q10521"
+ },
+ "constellations_vierge-constellation": {
+  "qid": "Q8842",
+  "P527": [
+   "Left Wall of the Supreme Palace Enclosure",
+   "Right Wall of the Supreme Palace Enclosure",
+   "Usher to the Court",
+   "Trois Excellences",
+   "Neuf Ministères",
+   "Inner Screen"
+  ]
+ },
+ "constellations_poisson-volant-constellation": {
+  "qid": "Q10437"
+ },
+ "constellations_petit-renard": {
+  "qid": "Q10519"
+ },
+ "constellations_oiseau-de-paradis-constellation": {
+  "qid": "Q10506"
+ },
+ "constellations_regle-constellation": {
+  "qid": "Q10582"
+ },
+ "constellations_fleche-constellation": {
+  "qid": "Q10513"
+ }
+}

@@ -1,0 +1,589 @@
+{
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1930": {
+  "qid": "Q48432",
+  "P276": [
+   "Estadio Gran Parque Central",
+   "stade Centenario",
+   "stade Pocitos"
+  ],
+  "P17": [
+   "Uruguay"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1930",
+   "groupe 2 de la Coupe du monde de football 1930",
+   "groupe 3 de la Coupe du monde de football 1930",
+   "groupe 4 de la Coupe du monde de football 1930",
+   "phase à élimination directe de la Coupe du monde de football 1930"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1934": {
+  "qid": "Q1477177",
+  "P276": [
+   "Stade Giorgio-Ascarelli",
+   "stade olympique de Turin",
+   "Stade Artemio-Franchi",
+   "stade Giuseppe-Grezar",
+   "Stade National",
+   "stade Luigi-Ferraris",
+   "stade Giuseppe-Meazza",
+   "stade Renato-Dall'Ara"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1938": {
+  "qid": "Q131591",
+  "P276": [
+   "stade de la Meinau",
+   "stade Vélodrome",
+   "stade départemental Yves-du-Manoir",
+   "stade Jules-Deschaseaux",
+   "Parc des Princes",
+   "stade Auguste-Delaune",
+   "stade Chaban-Delmas",
+   "stade Henri-Jooris",
+   "stade du Fort Carré",
+   "Stadium municipal de Toulouse"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1950": {
+  "qid": "Q132515",
+  "P276": [
+   "stade Maracanã",
+   "stade Vila Capanema",
+   "stade du Pacaembu",
+   "stade Adelmar-da-Costa-Carvalho",
+   "stade Ildo-Meneghetti",
+   "stade de l'Indépendance"
+  ],
+  "P17": [
+   "Brésil"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1950",
+   "groupe 2 de la Coupe du monde de football 1950",
+   "groupe 3 de la Coupe du monde de football 1950",
+   "groupe 4 de la Coupe du monde de football 1950",
+   "groupe final de la Coupe du monde de football 1950"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1954": {
+  "qid": "Q131075",
+  "P276": [
+   "stade du Wankdorf",
+   "stade du Hardturm",
+   "stade des Charmilles à Genève",
+   "Stadio comunale Cornaredo",
+   "stade Saint-Jacques",
+   "stade olympique de la Pontaise"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1954",
+   "groupe 2 de la Coupe du monde de football 1954",
+   "groupe 3 de la Coupe du monde de football 1954",
+   "groupe 4 de la Coupe du monde de football 1954",
+   "phase à élimination directe de la Coupe du monde de football 1954"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1958": {
+  "qid": "Q132533",
+  "P276": [
+   "Ullevi",
+   "Jernvallen",
+   "Örjans Vall",
+   "Tunavallen",
+   "Olympia",
+   "Östgötaporten",
+   "Rimnersvallen",
+   "Ryavallen",
+   "Behrn Arena",
+   "Råsunda",
+   "Malmö Stadion",
+   "Arosvallen"
+  ],
+  "P17": [
+   "Suède"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1958",
+   "groupe 3 de la Coupe du monde de football 1958",
+   "groupe 2 de la Coupe du monde de football 1958",
+   "groupe 4 de la Coupe du monde de football 1958",
+   "phase à élimination directe de la Coupe du monde de football 1958"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1962": {
+  "qid": "Q160813",
+  "P276": [
+   "stade national",
+   "Estadio El Teniente",
+   "Estadio Carlos Dittborn",
+   "Estadio Sausalito"
+  ],
+  "P17": [
+   "Chili"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1962",
+   "groupe 2 de la Coupe du monde de football 1962",
+   "groupe 3 de la Coupe du monde de football 1962",
+   "groupe 4 de la Coupe du monde de football 1962",
+   "phase à élimination directe de la Coupe du monde de football 1962"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1966": {
+  "qid": "Q134202",
+  "P276": [
+   "Old Trafford",
+   "Goodison Park",
+   "Villa Park",
+   "stade de Wembley",
+   "Ayresome Park",
+   "Roker Park",
+   "Hillsborough",
+   "White City Stadium"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1966",
+   "groupe 2 de la Coupe du monde de football 1966",
+   "groupe 3 de la Coupe du monde de football 1966",
+   "groupe 4 de la Coupe du monde de football 1966",
+   "phase à élimination directe de la Coupe du monde de football 1966"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1970": {
+  "qid": "Q132664",
+  "P276": [
+   "stade Cuauhtémoc",
+   "Estadio Nemesio Díez",
+   "stade Jalisco",
+   "stade Azteca",
+   "Estadio Nou Camp"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1970",
+   "groupe 2 de la Coupe du monde de football 1970",
+   "groupe 3 de la Coupe du monde de football 1970",
+   "groupe 4 de la Coupe du monde de football 1970",
+   "phase à élimination directe de la Coupe du monde de football 1970"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1974": {
+  "qid": "Q166121",
+  "P276": [
+   "stade olympique de Berlin",
+   "stade olympique de Munich",
+   "MHPArena",
+   "Parkstadion",
+   "Deutsche Bank Park",
+   "Rheinstadion",
+   "Volksparkstadion",
+   "HDI-Arena",
+   "Signal Iduna Park"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1974",
+   "groupe 2 de la Coupe du monde de football 1974",
+   "groupe 3 de la Coupe du monde de football 1974",
+   "groupe 4 de la Coupe du monde de football 1974",
+   "groupe A de la Coupe du monde de football 1974",
+   "groupe B de la Coupe du monde de football 1974",
+   "phase à élimination directe de la Coupe du monde de football 1974"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1978": {
+  "qid": "Q46943",
+  "P276": [
+   "stade José Maria Minella",
+   "stade Malvinas Argentinas",
+   "stade Monumental,Buenos Aires",
+   "stade Mario Alberto Kempes",
+   "stade José-Amalfitani",
+   "stade Gigante de Arroyito"
+  ],
+  "P17": [
+   "Argentine"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1978",
+   "groupe 2 de la Coupe du monde de football 1978",
+   "groupe 3 de la Coupe du monde de football 1978",
+   "groupe 4 de la Coupe du monde de football 1978",
+   "groupe A de la Coupe du monde de football 1978",
+   "groupe B de la Coupe du monde de football 1978",
+   "phase à élimination directe de la Coupe du monde de football 1978"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1982": {
+  "qid": "Q46934",
+  "P276": [
+   "stade Martínez-Valero",
+   "stade El Molinón",
+   "Stade Ramón Sánchez Pizjuán",
+   "stade de La Rosaleda",
+   "Camp Nou",
+   "stade Benito-Villamarín",
+   "Stade Vicente-Calderón",
+   "La Romareda",
+   "stade de Sarrià",
+   "stade José-Rico-Pérez",
+   "stade San Mamés",
+   "stade José-Zorrilla",
+   "stade Balaídos",
+   "stade du Riazor",
+   "Bernabéu",
+   "stade Carlos-Tartiere",
+   "stade de Mestalla"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "groupe 1 de la Coupe du monde de football 1982",
+   "groupe 2 de la Coupe du monde de football 1982",
+   "groupe 3 de la Coupe du monde de football 1982",
+   "groupe 4 de la Coupe du monde de football 1982",
+   "groupe 5 de la Coupe du monde de football 1982",
+   "groupe 6 de la Coupe du monde de football 1982",
+   "groupe A de la Coupe du monde de football 1982",
+   "groupe B de la Coupe du monde de football 1982",
+   "groupe C de la Coupe du monde de football 1982",
+   "groupe D de la Coupe du monde de football 1982",
+   "phase à élimination directe de la Coupe du monde de football 1982"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1986": {
+  "qid": "Q46938",
+  "P276": [
+   "stade Corregidora",
+   "stade Cuauhtémoc",
+   "stade Neza 86",
+   "Estadio Sergio León Chávez",
+   "stade Azteca",
+   "stade olympique universitaire",
+   "Estadio Nou Camp",
+   "Estadio Tecnológico",
+   "Estadio Universitario",
+   "Estadio Nemesio Díez",
+   "stade Jalisco",
+   "stade 3 de marzo"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 1986"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1990": {
+  "qid": "Q132529",
+  "P276": [
+   "Stadio delle Alpi",
+   "Stade Artemio-Franchi",
+   "stade olympique de Rome",
+   "stade Luigi-Ferraris",
+   "stade Renzo-Barbera",
+   "stade Giuseppe-Meazza",
+   "stade Marcantonio-Bentegodi",
+   "stade Sant'Elia",
+   "stade San Nicola",
+   "stade Friuli",
+   "stade Renato-Dall'Ara",
+   "Stade Diego Armando Maradona"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 1990"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1994": {
+  "qid": "Q101751",
+  "P276": [
+   "Robert F. Kennedy Memorial Stadium",
+   "Giants Stadium",
+   "Rose Bowl Stadium",
+   "Foxboro Stadium",
+   "Silverdome",
+   "Stanford Stadium",
+   "Cotton Bowl",
+   "Soldier Field",
+   "Camping World Stadium"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 1994"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-1998": {
+  "qid": "Q101730",
+  "P276": [
+   "stade Vélodrome",
+   "stade Geoffroy-Guichard",
+   "Stadium municipal de Toulouse",
+   "stade Bollaert-Delelis",
+   "stade de la Beaujoire",
+   "stade Chaban-Delmas",
+   "stade de France",
+   "Parc des Princes",
+   "stade de la Mosson",
+   "stade de Gerland"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 1998"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2002": {
+  "qid": "Q47735",
+  "P276": [
+   "stade de Miyagi",
+   "stade d'Oita",
+   "stade de la Coupe du monde de Daejeon",
+   "stade de la Coupe du monde de Gwangju",
+   "stade de Daegu",
+   "stade Nissan",
+   "Sapporo Dome",
+   "stade Saitama 2002",
+   "stade Asiade de Pusan",
+   "stade Nagai",
+   "stade de Kashima",
+   "stade Tohoku Denryoku",
+   "stade de la Coupe du monde de Séoul",
+   "stade de la Coupe du monde de Suwon",
+   "stade de la Coupe du monde de Jeonju",
+   "Jeju World Cup Stadium",
+   "stade Munhak d'Incheon",
+   "stade du parc Misaki",
+   "Munsu Football Stadium",
+   "Maracanã"
+  ],
+  "P17": [
+   "Japon",
+   "Corée du Sud"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2006": {
+  "qid": "Q37285",
+  "P276": [
+   "Red Bull Arena",
+   "Allianz Arena",
+   "Max-Morlock-Stadion",
+   "stade olympique de Berlin",
+   "Signal Iduna Park",
+   "Veltins-Arena",
+   "Volksparkstadion",
+   "HDI-Arena",
+   "Deutsche Bank Park",
+   "Fritz-Walter-Stadion",
+   "MHPArena",
+   "RheinEnergieStadion"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 2006"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2010": {
+  "qid": "Q176883",
+  "P276": [
+   "FNB Stadium",
+   "stade Peter-Mokaba",
+   "Nelson Mandela Bay Stadium",
+   "Ellis Park Stadium",
+   "stade Mbombela",
+   "stade Royal Bafokeng",
+   "stade Loftus-Versfeld",
+   "Cape Town Stadium",
+   "stade Moses-Mabhida",
+   "Free State Stadium"
+  ],
+  "P17": [
+   "Afrique du Sud"
+  ],
+  "P527": [
+   "phase à élimination directe de la Coupe du monde de football 2010"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2014": {
+  "qid": "Q79859",
+  "P276": [
+   "Arena Fonte Nova",
+   "Mineirão",
+   "Arena Cidade da Copa",
+   "stade Maracanã",
+   "Arena Pantanal",
+   "stade Governador-Plácido-Castelo",
+   "stade José-Pinheiro-Borba",
+   "Arena das Dunas",
+   "stade Joaquim-Américo-Guimarães",
+   "Arena Amazonia",
+   "stade national de Brasilia Mané-Garrincha",
+   "Arena Corinthians"
+  ],
+  "P17": [
+   "Brésil"
+  ],
+  "P527": [
+   "phase de groupe de la Coupe du monde de football 2014",
+   "phase à élimination directe de la Coupe du monde de football 2014",
+   "Éliminatoires de la Coupe du monde de football 2014"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2018": {
+  "qid": "Q170645",
+  "P276": [
+   "stade Loujniki",
+   "stade Spartak",
+   "stade Krestovski",
+   "stade de Kaliningrad",
+   "Kazan-Arena",
+   "stade de Nijni Novgorod",
+   "stade de Samara",
+   "Volgograd-Arena",
+   "stade Yubileyniy",
+   "Rostov Arena",
+   "stade olympique Ficht",
+   "stade central"
+  ],
+  "P17": [
+   "Russie"
+  ],
+  "P527": [
+   "groupe A de la Coupe du monde de football 2018",
+   "groupe B de la Coupe du monde de football 2018",
+   "groupe C de la Coupe du monde de football 2018",
+   "groupe D de la Coupe du monde de football 2018",
+   "groupe E de la Coupe du monde de football 2018",
+   "groupe F de la Coupe du monde de football 2018",
+   "groupe G de la Coupe du monde de football 2018",
+   "groupe H de la Coupe du monde de football 2018",
+   "phase à élimination directe de la Coupe du monde de football 2018",
+   "Cérémonie d'ouverture de la Coupe du monde de football de 2018"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2022": {
+  "qid": "Q284163",
+  "P276": [
+   "stade de Lusail",
+   "stade Al-Bayt",
+   "stade 974",
+   "stade Al-Thumama",
+   "stade Education City",
+   "stade Ahmad-ben-Ali",
+   "stade international de Khalifa",
+   "stade Al-Janoub"
+  ],
+  "P17": [
+   "Qatar"
+  ],
+  "P527": [
+   "groupe A de la Coupe du monde de football 2022",
+   "groupe B de la Coupe du monde de football 2022",
+   "groupe C de la Coupe du monde de football 2022",
+   "groupe D de la Coupe du monde de football 2022",
+   "groupe E de la Coupe du monde de football 2022",
+   "groupe F de la Coupe du monde de football 2022",
+   "groupe G de la Coupe du monde de football 2022",
+   "groupe H de la Coupe du monde de football 2022",
+   "phase à élimination directe de la Coupe du monde de football 2022",
+   "équipe d'Angleterre de football à la Coupe du monde 2022",
+   "équipe de Belgique de football à la Coupe du monde 2022",
+   "équipe du Danemark de football à la Coupe du monde 2022",
+   "équipe de Croatie de football à la Coupe du monde 2022",
+   "équipe des Pays-Bas de football à la Coupe du monde 2022",
+   "équipe de Pologne de football à la Coupe du monde 2022",
+   "équipe du Portugal de football à la Coupe du monde 2022",
+   "équipe de Suisse de football à la Coupe du monde 2022",
+   "équipe de Serbie de football à la Coupe du monde 2022",
+   "équipe d'Espagne de football à la Coupe du monde 2022",
+   "équipe du Ghana de football à la Coupe du monde 2022",
+   "équipe du Cameroun de football à la Coupe du monde 2022",
+   "équipe du Maroc de football à la Coupe du monde 2022",
+   "équipe du Sénégal de football à la Coupe du monde 2022",
+   "équipe de Tunisie de football à la Coupe du monde 2022",
+   "équipe d'Iran de football à la Coupe du monde 2022",
+   "équipe du Japon de football à la Coupe du monde 2022",
+   "équipe d'Arabie saoudite de football à la Coupe du monde 2022",
+   "équipe de Corée du Sud de football à la Coupe du monde 2022",
+   "équipe du Brésil de football à la Coupe du monde 2022",
+   "équipe d'Argentine de football à la Coupe du monde 2022",
+   "équipe d'Équateur de football à la Coupe du monde 2022",
+   "équipe d'Uruguay de football à la Coupe du monde 2022",
+   "équipe du Canada de soccer à la Coupe du monde 2022",
+   "équipe des États-Unis de soccer à la Coupe du monde 2022",
+   "équipe du Mexique de football à la Coupe du monde 2022",
+   "équipe du Qatar de football à la Coupe du monde 2022",
+   "équipe du pays de Galles de football à la Coupe du monde 2022",
+   "équipe d'Australie de football à la Coupe du monde 2022",
+   "équipe du Costa Rica de football à la Coupe du monde 2022"
+  ]
+ },
+ "coupes-du-monde-fifa_coupe-du-monde-de-football-2026": {
+  "qid": "Q5020214",
+  "P276": [
+   "Arrowhead Stadium",
+   "AT&T Stadium",
+   "BC Place Stadium",
+   "BMO Field",
+   "Estadio Omnilife",
+   "stade Azteca",
+   "Estadio BBVA",
+   "Gillette Stadium",
+   "Hard Rock Stadium",
+   "Levi's Stadium",
+   "Lincoln Financial Field",
+   "Lumen Field",
+   "Mercedes-Benz Stadium",
+   "MetLife Stadium",
+   "Reliant Stadium",
+   "SoFi Stadium"
+  ],
+  "P17": [
+   "Canada",
+   "Mexique",
+   "États-Unis"
+  ],
+  "P527": [
+   "éliminatoires de la Coupe du monde de football 2026",
+   "groupe A de la Coupe du monde de football 2026",
+   "groupe B de la Coupe du monde de football 2026",
+   "groupe C de la Coupe du monde de football 2026",
+   "groupe D de la Coupe du monde de football 2026",
+   "groupe E de la Coupe du monde de football 2026",
+   "groupe F de la Coupe du monde de football 2026",
+   "groupe G de la Coupe du monde de football 2026",
+   "groupe H de la Coupe du monde de football 2026",
+   "groupe I de la Coupe du monde de football 2026",
+   "groupe J de la Coupe du monde de football 2026",
+   "groupe K de la Coupe du monde de football 2026",
+   "groupe L de la Coupe du monde de football 2026",
+   "phase à élimination directe de la Coupe du monde de football 2026",
+   "2026 FIFA World Cup opening ceremonies"
+  ]
+ }
+}

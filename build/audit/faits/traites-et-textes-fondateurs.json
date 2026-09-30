@@ -1,0 +1,744 @@
+{
+ "traites-et-textes-fondateurs_code-de-hammurabi": {
+  "qid": "Q93304",
+  "P17": [
+   "Babylonie"
+  ],
+  "P577": [
+   "-1752"
+  ]
+ },
+ "traites-et-textes-fondateurs_magna-carta": {
+  "qid": "Q12519",
+  "P571": [
+   "1215"
+  ],
+  "P495": [
+   "royaume d'Angleterre"
+  ],
+  "P17": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "traites-et-textes-fondateurs_edit-de-nantes": {
+  "qid": "Q179788",
+  "P571": [
+   "1598"
+  ],
+  "P17": [
+   "royaume de France"
+  ],
+  "P577": [
+   "1598"
+  ]
+ },
+ "traites-et-textes-fondateurs_traites-de-westphalie": {
+  "qid": "Q150995",
+  "P276": [
+   "Prinzipalmarkt",
+   "Osnabrück Town Hall"
+  ],
+  "P527": [
+   "traité de Münster",
+   "traité d'Osnabrück"
+  ]
+ },
+ "traites-et-textes-fondateurs_declaration-d-independance-des-etats-unis": {
+  "qid": "Q127912",
+  "P276": [
+   "Independence Hall"
+  ],
+  "P495": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Thomas Jefferson",
+   "Timothy Matlack"
+  ],
+  "P577": [
+   "1776"
+  ]
+ },
+ "traites-et-textes-fondateurs_constitution-des-etats-unis": {
+  "qid": "Q11698",
+  "P571": [
+   "2026"
+  ],
+  "P50": [
+   "Convention de Philadelphie"
+  ],
+  "P527": [
+   "Préambule de la Constitution des États-Unis",
+   "article I de la Constitution des États-Unis",
+   "Article II de la Constitution des États-Unis",
+   "Article III de la Constitution des États-Unis",
+   "Article IV de la Constitution des États-Unis",
+   "Article V de la Constitution des États-Unis",
+   "Article VI de la Constitution des États-Unis",
+   "Article VII de la Constitution des États-Unis",
+   "amendment to the United States Constitution"
+  ]
+ },
+ "traites-et-textes-fondateurs_declaration-des-droits-de-l-homme-et-du-citoyen-de-1789": {
+  "qid": "Q169759",
+  "P571": [
+   "1790"
+  ],
+  "P276": [
+   "musée des Archives nationales"
+  ],
+  "P17": [
+   "royaume de France"
+  ],
+  "P50": [
+   "Assemblée nationale constituante"
+  ],
+  "P577": [
+   "1789",
+   "1789"
+  ]
+ },
+ "traites-et-textes-fondateurs_code-civil-france": {
+  "qid": "Q151060",
+  "P577": [
+   "1804"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-versailles": {
+  "qid": "Q8736",
+  "P276": [
+   "galerie des Glaces",
+   "château de Versailles"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Treaty of Versailles/Part VIII",
+   "Treaty of Versailles/Part VII",
+   "Treaty of Versailles/Part IX",
+   "Treaty of Versailles/Part VI",
+   "Treaty of Versailles/Part V",
+   "Treaty of Versailles/Part IV",
+   "Treaty of Versailles/Part III",
+   "Treaty of Versailles/Part II",
+   "Treaty of Versailles/Part X",
+   "Treaty of Versailles/Part XI",
+   "Treaty of Versailles/Part XII",
+   "Treaty of Versailles/Part XIV",
+   "Treaty of Versailles/Part XV",
+   "Pacte de la Société des Nations",
+   "Traité de Versailles 1919/00"
+  ]
+ },
+ "traites-et-textes-fondateurs_charte-des-nations-unies": {
+  "qid": "Q171328",
+  "P571": [
+   "1945"
+  ],
+  "P276": [
+   "San Francisco"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P50": [
+   "conférence de San Francisco"
+  ],
+  "P527": [
+   "Statute of the International Court of Justice",
+   "Enemy state clauses",
+   "Article 99 of the Charter of the United Nations"
+  ]
+ },
+ "traites-et-textes-fondateurs_declaration-universelle-des-droits-de-l-homme": {
+  "qid": "Q7813",
+  "P571": [
+   "1948"
+  ],
+  "P195": [
+   "palais de Chaillot"
+  ],
+  "P50": [
+   "United Nations Universal Declaration of Human Rights Drafting Committee",
+   "Assemblée générale des Nations unies"
+  ],
+  "P577": [
+   "1940"
+  ],
+  "P136": [
+   "acte juridique"
+  ],
+  "P527": [
+   "Article 9. Déclaration universelle des droits de l'homme",
+   "Article 19 of the Universal Declaration of Human Rights"
+  ]
+ },
+ "traites-et-textes-fondateurs_conventions-de-geneve": {
+  "qid": "Q133536",
+  "P527": [
+   "Convention de Genève",
+   "Deuxième Convention de Genève",
+   "Convention de Genève sur les prisonniers de guerre",
+   "Quatrième Convention de Genève",
+   "Protocole I",
+   "Protocole II",
+   "Protocole III",
+   "troisième convention de Genève",
+   "Convention de Genève sur les blessés et malades"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-instituant-la-communaute-economique-europeenne": {
+  "qid": "Q167457",
+  "P276": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-maastricht": {
+  "qid": "Q11146",
+  "P276": [
+   "Maastricht"
+  ],
+  "P17": [
+   "Pays-Bas"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-de-camp-david": {
+  "qid": "Q309204",
+  "P276": [
+   "Camp David"
+  ]
+ },
+ "traites-et-textes-fondateurs_accord-de-paris-sur-le-climat": {
+  "qid": "Q21707860",
+  "P276": [
+   "Paris",
+   "New York"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P50": [
+   "Organisation des Nations unies"
+  ],
+  "P577": [
+   "2015"
+  ],
+  "P527": [
+   "Nationally Determined Contributions under the Paris Agreement and the costs of delayed action",
+   "Bilan mondial",
+   "enhanced transparency framework",
+   "Article 6 mechanisms",
+   "Conférences des Nations unies sur le changement climatique",
+   "five-year ambition cycle"
+  ]
+ },
+ "traites-et-textes-fondateurs_protocole-de-kyoto": {
+  "qid": "Q47359",
+  "P50": [
+   "Organisation des Nations unies"
+  ],
+  "P577": [
+   "1997"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-tordesillas": {
+  "qid": "Q180897",
+  "P571": [
+   "1494"
+  ],
+  "P276": [
+   "Tordesillas",
+   "archives générales des Indes",
+   "Institut des archives nationales"
+  ],
+  "P17": [
+   "royaume de Portugal",
+   "Empire espagnol"
+  ],
+  "P527": [
+   "méridien du traité de Tordesillas"
+  ]
+ },
+ "traites-et-textes-fondateurs_actes-de-navigation": {
+  "qid": "Q318785",
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-sur-l-antarctique": {
+  "qid": "Q182814",
+  "P571": [
+   "1959"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-sur-la-non-proliferation-des-armes-nucleaires": {
+  "qid": "Q186444",
+  "P276": [
+   "Washington",
+   "Moscou",
+   "Londres"
+  ],
+  "P17": [
+   "Vatican",
+   "Allemagne"
+  ]
+ },
+ "traites-et-textes-fondateurs_convention-de-vienne-sur-le-droit-des-traites": {
+  "qid": "Q239768",
+  "P276": [
+   "Vienne"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "succession d'États"
+  ]
+ },
+ "traites-et-textes-fondateurs_charte-des-droits-de-1689": {
+  "qid": "Q219447",
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1689"
+  ]
+ },
+ "traites-et-textes-fondateurs_habeas-corpus": {
+  "qid": "Q220596",
+  "P101": [
+   "droit"
+  ]
+ },
+ "traites-et-textes-fondateurs_edit-de-milan": {
+  "qid": "Q180764",
+  "P17": [
+   "Rome antique"
+  ],
+  "P50": [
+   "Constantin Ier",
+   "Licinius"
+  ],
+  "P577": [
+   "313"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-verdun": {
+  "qid": "Q134840",
+  "P276": [
+   "Verdun"
+  ],
+  "P577": [
+   "843"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-troyes": {
+  "qid": "Q1134125",
+  "P276": [
+   "Troyes",
+   "cathédrale Saint-Pierre-et-Saint-Paul de Troyes"
+  ],
+  "P17": [
+   "royaume de France"
+  ]
+ },
+ "traites-et-textes-fondateurs_paix-d-augsbourg": {
+  "qid": "Q154577",
+  "P276": [
+   "Augsbourg"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique"
+  ]
+ },
+ "traites-et-textes-fondateurs_congres-de-vienne": {
+  "qid": "Q46362",
+  "P276": [
+   "Vienne"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "traité de Vienne"
+  ]
+ },
+ "traites-et-textes-fondateurs_convention-relative-aux-droits-de-l-enfant": {
+  "qid": "Q466087",
+  "P571": [
+   "1989"
+  ],
+  "P276": [
+   "New York"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Assemblée générale des Nations unies"
+  ],
+  "P577": [
+   "1989"
+  ]
+ },
+ "traites-et-textes-fondateurs_charte-du-manden": {
+  "qid": "Q2961226",
+  "P17": [
+   "Mali"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-paris-1783": {
+  "qid": "Q217450",
+  "P276": [
+   "Paris"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "traites-et-textes-fondateurs_traites-d-utrecht": {
+  "qid": "Q154674",
+  "P276": [
+   "Utrecht"
+  ],
+  "P17": [
+   "Pays-Bas"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-brest-litovsk": {
+  "qid": "Q122371",
+  "P276": [
+   "Brest"
+  ],
+  "P577": [
+   "1918"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-paix-egypto-hittite": {
+  "qid": "Q253155",
+  "P276": [
+   "Hattusa",
+   "Tanis"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-de-munich": {
+  "qid": "Q154255",
+  "P276": [
+   "Führerbau"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P577": [
+   "1939"
+  ]
+ },
+ "traites-et-textes-fondateurs_pacte-germano-sovietique": {
+  "qid": "Q130796",
+  "P571": [
+   "1939"
+  ],
+  "P276": [
+   "Moscou"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "traites-et-textes-fondateurs_conference-de-yalta": {
+  "qid": "Q161227",
+  "P276": [
+   "palais de Livadia"
+  ],
+  "P131": [
+   "Yalta",
+   "république socialiste soviétique autonome de Crimée",
+   "république socialiste fédérative soviétique de Russie"
+  ],
+  "P17": [
+   "Union soviétique"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-d-evian": {
+  "qid": "Q1471139",
+  "P276": [
+   "Évian-les-Bains"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-d-oslo": {
+  "qid": "Q17013132",
+  "P276": [
+   "Oslo"
+  ],
+  "P17": [
+   "Norvège"
+  ],
+  "P527": [
+   "accords d'Oslo",
+   "Accord intérimaire sur la Cisjordanie et la Bande de Gaza"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-l-elysee": {
+  "qid": "Q274811",
+  "P276": [
+   "palais de l'Élysée"
+  ],
+  "P17": [
+   "France",
+   "Allemagne"
+  ]
+ },
+ "traites-et-textes-fondateurs_accord-de-schengen": {
+  "qid": "Q2822795",
+  "P276": [
+   "Schengen"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-l-atlantique-nord": {
+  "qid": "Q877399",
+  "P571": [
+   "1949"
+  ],
+  "P276": [
+   "Washington"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1949"
+  ],
+  "P527": [
+   "Belgique",
+   "Canada",
+   "Danemark",
+   "France",
+   "Islande",
+   "Italie",
+   "Luxembourg",
+   "Royaume des Pays-Bas",
+   "Norvège",
+   "Portugal",
+   "Royaume-Uni",
+   "États-Unis"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-de-bretton-woods": {
+  "qid": "Q188532",
+  "P276": [
+   "Bretton Woods"
+  ]
+ },
+ "traites-et-textes-fondateurs_plan-marshall": {
+  "qid": "Q4576",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "traites-et-textes-fondateurs_loi-du-9-decembre-1905-concernant-la-separation-des-eglises-et-de-l-etat": {
+  "qid": "Q1518944",
+  "P17": [
+   "France"
+  ]
+ },
+ "traites-et-textes-fondateurs_code-noir": {
+  "qid": "Q222969",
+  "P50": [
+   "Michel Bégon",
+   "Jean-Baptiste Colbert de Seignelay"
+  ],
+  "P577": [
+   "1685"
+  ]
+ },
+ "traites-et-textes-fondateurs_ordonnance-de-villers-cotterets": {
+  "qid": "Q1118068",
+  "P50": [
+   "François Ier de France"
+  ],
+  "P577": [
+   "1539"
+  ]
+ },
+ "traites-et-textes-fondateurs_concordat-de-1801": {
+  "qid": "Q1428015",
+  "P276": [
+   "Paris"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "traites-et-textes-fondateurs_decret-d-abolition-de-l-esclavage-du-27-avril-1848": {
+  "qid": "Q16977930"
+ },
+ "traites-et-textes-fondateurs_declaration-des-droits-de-la-femme-et-de-la-citoyenne": {
+  "qid": "Q730868",
+  "P135": [
+   "féminisme"
+  ],
+  "P50": [
+   "Olympe de Gouges"
+  ],
+  "P577": [
+   "1791"
+  ]
+ },
+ "traites-et-textes-fondateurs_manifeste-du-parti-communiste": {
+  "qid": "Q40591",
+  "P135": [
+   "marxisme"
+  ],
+  "P495": [
+   "Confédération germanique",
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Karl Marx",
+   "Friedrich Engels"
+  ],
+  "P577": [
+   "1848"
+  ],
+  "P136": [
+   "political manifesto"
+  ],
+  "P527": [
+   "Manifesto of the Communist Party/1",
+   "Manifesto of the Communist Party/2",
+   "Manifesto of the Communist Party/3",
+   "Manifesto of the Communist Party/4"
+  ]
+ },
+ "traites-et-textes-fondateurs_loi-des-douze-tables": {
+  "qid": "Q203686",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "traites-et-textes-fondateurs_code-de-justinien": {
+  "qid": "Q735763",
+  "P571": [
+   "529"
+  ],
+  "P50": [
+   "Tribonien"
+  ],
+  "P136": [
+   "traité"
+  ]
+ },
+ "traites-et-textes-fondateurs_loi-salique": {
+  "qid": "Q152507",
+  "P195": [
+   "Bibliothèque nationale de France"
+  ]
+ },
+ "traites-et-textes-fondateurs_bulle-d-or-1356": {
+  "qid": "Q567601",
+  "P571": [
+   "1356"
+  ],
+  "P195": [
+   "bibliothèque nationale autrichienne"
+  ],
+  "P131": [
+   "Stuttgart"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique"
+  ],
+  "P50": [
+   "Diète d'Empire",
+   "Diète de Metz"
+  ],
+  "P577": [
+   "1356"
+  ]
+ },
+ "traites-et-textes-fondateurs_declaration-balfour-de-1917": {
+  "qid": "Q187152",
+  "P50": [
+   "Arthur Balfour",
+   "Lionel Walter Rothschild",
+   "Leo Amery",
+   "Alfred Milner"
+  ]
+ },
+ "traites-et-textes-fondateurs_accords-sykes-picot": {
+  "qid": "Q211674",
+  "P571": [
+   "1916"
+  ]
+ },
+ "traites-et-textes-fondateurs_conference-de-berlin": {
+  "qid": "Q13582",
+  "P276": [
+   "chancellerie du Reich"
+  ],
+  "P131": [
+   "Berlin"
+  ],
+  "P17": [
+   "Empire allemand"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-waitangi": {
+  "qid": "Q472802",
+  "P571": [
+   "1840"
+  ],
+  "P276": [
+   "Archives New Zealand"
+  ],
+  "P17": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "traites-et-textes-fondateurs_vente-de-la-louisiane": {
+  "qid": "Q193155",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "traites-et-textes-fondateurs_traite-de-nankin": {
+  "qid": "Q238262",
+  "P195": [
+   "musée national du palais"
+  ],
+  "P131": [
+   "Nankin"
+  ],
+  "P495": [
+   "HMS Cornwallis (1813)"
+  ],
+  "P17": [
+   "Chine impériale"
+  ],
+  "P577": [
+   "1842"
+  ]
+ },
+ "traites-et-textes-fondateurs_protocole-de-montreal": {
+  "qid": "Q219438",
+  "P276": [
+   "Montréal"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "traites-et-textes-fondateurs_conference-sur-la-securite-et-la-cooperation-en-europe": {
+  "qid": "Q11859074"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "lacs_lac-superieur": {
+  "k": 11
+ },
+ "lacs_lac-huron": {
+  "k": 3
+ },
+ "lacs_lac-michigan": {
+  "k": 5
+ },
+ "lacs_grand-lac-de-l-ours": {
+  "k": 9
+ },
+ "lacs_lac-malawi": {
+  "k": 11
+ },
+ "lacs_lac-erie": {
+  "k": 4
+ },
+ "lacs_lac-ontario": {
+  "k": 5
+ },
+ "lacs_lac-ladoga": {
+  "k": 10
+ },
+ "lacs_lac-balkhach": {
+  "k": 1
+ },
+ "lacs_lac-du-bourget": {
+  "k": 3
+ },
+ "lacs_lac-d-annecy": {
+  "k": 5
+ },
+ "lacs_lac-de-come": {
+  "k": 9
+ },
+ "lacs_lac-de-garde": {
+  "k": 8
+ },
+ "lacs_lac-majeur": {
+  "k": 0
+ },
+ "lacs_lac-de-constance": {
+  "k": 9
+ },
+ "lacs_lac-tana": {
+  "k": 11
+ },
+ "lacs_lac-turkana": {
+  "k": 5
+ },
+ "lacs_lac-kivu": {
+  "k": 4
+ },
+ "lacs_grand-lac-sale": {
+  "k": 4
+ },
+ "lacs_lac-tahoe": {
+  "k": 10
+ },
+ "lacs_lac-louise-alberta": {
+  "k": 3
+ },
+ "lacs_lac-inle": {
+  "k": 11
+ },
+ "lacs_lac-toba": {
+  "k": 8
+ },
+ "lacs_lac-de-bled": {
+  "k": 2
+ },
+ "lacs_parc-national-des-lacs-de-plitvice": {
+  "k": 8
+ },
+ "lacs_lac-rose": {
+  "k": 6
+ },
+ "lacs_lac-natron": {
+  "k": 4
+ },
+ "lacs_lac-de-tiberiade": {
+  "k": 11
+ }
+}

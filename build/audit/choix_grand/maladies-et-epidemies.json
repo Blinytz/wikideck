@@ -1,0 +1,117 @@
+{
+ "maladies-et-epidemies_grippe-espagnole": {
+  "k": 1
+ },
+ "maladies-et-epidemies_peste": {
+  "k": 8
+ },
+ "maladies-et-epidemies_tuberculose": {
+  "k": 5
+ },
+ "maladies-et-epidemies_paludisme": {
+  "k": 0,
+  "cx": 0.32,
+  "cy": 0.33,
+  "w": 0.62
+ },
+ "maladies-et-epidemies_rougeole": {
+  "k": 8
+ },
+ "maladies-et-epidemies_maladie-a-virus-ebola": {
+  "k": 11
+ },
+ "maladies-et-epidemies_syphilis": {
+  "k": 1
+ },
+ "maladies-et-epidemies_diphterie": {
+  "k": 10
+ },
+ "maladies-et-epidemies_tetanos": {
+  "k": 3
+ },
+ "maladies-et-epidemies_grippe": {
+  "k": 7
+ },
+ "maladies-et-epidemies_peste-de-justinien": {
+  "k": 0,
+  "cy": 0.62
+ },
+ "maladies-et-epidemies_maladie-a-virus-zika": {
+  "k": 9
+ },
+ "maladies-et-epidemies_syndrome-d-immunodeficience-acquise": {
+  "k": 8
+ },
+ "maladies-et-epidemies_poliomyelite": {
+  "k": 11
+ },
+ "maladies-et-epidemies_typhus": {
+  "k": 9
+ },
+ "maladies-et-epidemies_peste-noire": {
+  "k": 4
+ },
+ "maladies-et-epidemies_maladie-a-coronavirus-2019": {
+  "k": 3
+ },
+ "maladies-et-epidemies_variole": {
+  "k": 4
+ },
+ "maladies-et-epidemies_cholera": {
+  "k": 9,
+  "cx": 0.5,
+  "cy": 0.39,
+  "w": 0.7
+ },
+ "maladies-et-epidemies_lepre": {
+  "k": 4
+ },
+ "maladies-et-epidemies_rage-maladie": {
+  "k": 7
+ },
+ "maladies-et-epidemies_fievre-jaune": {
+  "k": 6
+ },
+ "maladies-et-epidemies_scorbut": {
+  "k": 1
+ },
+ "maladies-et-epidemies_dengue": {
+  "k": 1
+ },
+ "maladies-et-epidemies_diabete-sucre": {
+  "k": 3
+ },
+ "maladies-et-epidemies_maladie-d-alzheimer": {
+  "k": 0
+ },
+ "maladies-et-epidemies_maladie-de-parkinson": {
+  "k": 10
+ },
+ "maladies-et-epidemies_accident-vasculaire-cerebral": {
+  "k": 6
+ },
+ "maladies-et-epidemies_infarctus-du-myocarde": {
+  "k": 3
+ },
+ "maladies-et-epidemies_epilepsie": {
+  "k": 4
+ },
+ "maladies-et-epidemies_hemophilie": {
+  "k": 6
+ },
+ "maladies-et-epidemies_mucoviscidose": {
+  "k": 4
+ },
+ "maladies-et-epidemies_sclerose-en-plaques": {
+  "k": 3
+ },
+ "maladies-et-epidemies_asthme": {
+  "k": 9
+ },
+ "maladies-et-epidemies_variole-simienne": {
+  "k": 5
+ },
+ "maladies-et-epidemies_cancer": {
+  "k": 5
+ }
+}

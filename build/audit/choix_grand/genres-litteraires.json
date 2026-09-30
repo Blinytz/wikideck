@@ -1,0 +1,97 @@
+{
+ "genres-litteraires_roman-litterature": {
+  "k": 0,
+  "cy": 0.4
+ },
+ "genres-litteraires_nouvelle": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "genres-litteraires_conte": {
+  "k": 7
+ },
+ "genres-litteraires_fable": {
+  "k": 0
+ },
+ "genres-litteraires_poesie": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "genres-litteraires_sonnet": {
+  "k": 4
+ },
+ "genres-litteraires_haiku": {
+  "k": 7
+ },
+ "genres-litteraires_ballade": {
+  "k": 3
+ },
+ "genres-litteraires_epopee": {
+  "k": 0
+ },
+ "genres-litteraires_tragedie": {
+  "k": 0
+ },
+ "genres-litteraires_comedie": {
+  "k": 1
+ },
+ "genres-litteraires_drame-romantique": {
+  "k": 0
+ },
+ "genres-litteraires_vaudeville": {
+  "k": 8,
+  "w": 0.94,
+  "cx": 0.5,
+  "cy": 0.55
+ },
+ "genres-litteraires_farce-theatre": {
+  "k": 0
+ },
+ "genres-litteraires_essai": {
+  "k": 2,
+  "cy": 0.35
+ },
+ "genres-litteraires_autobiographie": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "genres-litteraires_roman-epistolaire": {
+  "k": 1,
+  "cy": 0.55
+ },
+ "genres-litteraires_roman-policier": {
+  "k": 0
+ },
+ "genres-litteraires_science-fiction": {
+  "k": 3,
+  "cy": 0.5
+ },
+ "genres-litteraires_fantasy": {
+  "k": 10
+ },
+ "genres-litteraires_roman-d-aventures": {
+  "k": 6,
+  "cy": 0.45
+ },
+ "genres-litteraires_roman-historique": {
+  "k": 6
+ },
+ "genres-litteraires_utopie": {
+  "k": 0
+ },
+ "genres-litteraires_dystopie": {
+  "k": 9
+ },
+ "genres-litteraires_pamphlet": {
+  "k": 1
+ },
+ "genres-litteraires_chanson-de-geste": {
+  "k": 0
+ },
+ "genres-litteraires_roman-de-chevalerie": {
+  "k": 7,
+  "w": 0.8,
+  "cx": 0.5,
+  "cy": 0.5
+ }
+}

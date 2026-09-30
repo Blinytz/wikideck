@@ -1,0 +1,122 @@
+{
+ "corps-humain_foie": {
+  "k": 2
+ },
+ "corps-humain_erythrocyte": {
+  "k": 0
+ },
+ "corps-humain_systeme-immunitaire": {
+  "k": 0
+ },
+ "corps-humain_c-ur": {
+  "k": 8
+ },
+ "corps-humain_encephale": {
+  "k": 1
+ },
+ "corps-humain_poumon": {
+  "k": 6
+ },
+ "corps-humain_rein": {
+  "k": 1
+ },
+ "corps-humain_estomac": {
+  "k": 2
+ },
+ "corps-humain_intestin-grele": {
+  "k": 1
+ },
+ "corps-humain_colon": {
+  "k": 1
+ },
+ "corps-humain_pancreas": {
+  "k": 1
+ },
+ "corps-humain_rate": {
+  "k": 2
+ },
+ "corps-humain_vesicule-biliaire": {
+  "k": 9
+ },
+ "corps-humain_peau": {
+  "k": 3
+ },
+ "corps-humain_il-humain": {
+  "k": 2
+ },
+ "corps-humain_oreille": {
+  "k": 3
+ },
+ "corps-humain_langue-anatomie-humaine": {
+  "k": 2
+ },
+ "corps-humain_nez": {
+  "k": 1
+ },
+ "corps-humain_glande-thyroide": {
+  "k": 4
+ },
+ "corps-humain_squelette-humain": {
+  "k": 2
+ },
+ "corps-humain_muscle": {
+  "k": 2
+ },
+ "corps-humain_sang": {
+  "k": 3
+ },
+ "corps-humain_moelle-osseuse": {
+  "k": 1
+ },
+ "corps-humain_systeme-nerveux": {
+  "k": 2
+ },
+ "corps-humain_systeme-endocrinien": {
+  "k": 2
+ },
+ "corps-humain_appareil-digestif": {
+  "k": 4
+ },
+ "corps-humain_appareil-cardiovasculaire": {
+  "k": 6
+ },
+ "corps-humain_appareil-respiratoire": {
+  "k": 3
+ },
+ "corps-humain_systeme-lymphatique": {
+  "k": 3
+ },
+ "corps-humain_neurone": {
+  "k": 8
+ },
+ "corps-humain_leucocyte": {
+  "k": 2
+ },
+ "corps-humain_acide-desoxyribonucleique": {
+  "k": 3
+ },
+ "corps-humain_hypophyse": {
+  "k": 3
+ },
+ "corps-humain_moelle-spinale": {
+  "k": 1
+ },
+ "corps-humain_cervelet": {
+  "k": 5
+ },
+ "corps-humain_diaphragme-organe": {
+  "k": 2
+ },
+ "corps-humain_cornee": {
+  "k": 2
+ },
+ "corps-humain_tympan-humain": {
+  "k": 5
+ },
+ "corps-humain_hippocampe-cerveau": {
+  "k": 2
+ },
+ "corps-humain_retine": {
+  "k": 1
+ }
+}

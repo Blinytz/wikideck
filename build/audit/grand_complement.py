@@ -1449,3 +1449,76 @@ for _p in PLANS.values():
     _p['ajouts'] = _corriger(_p['ajouts'])
 AJOUTS.setdefault('festivals-et-recompenses-cinema', []).extend(
     PLANS['festivals-et-recompenses-cinema']['ajouts'][-4:])
+
+
+# 30/09/2026 : lot « histoire et institutions » (culture generale pour Memo).
+# Les cartes deja presentes ailleurs y sont deplacees (transferts calcules par
+# preparer_lot.py), comme pour la Resistance.
+LOT_HISTOIRE = {
+    'presidents-des-etats-unis': ('Présidents des États-Unis', [
+        'George Washington', 'John Adams (homme politique)', 'Thomas Jefferson', 'James Madison', 'James Monroe',
+        'John Quincy Adams', 'Andrew Jackson', 'Martin Van Buren', 'William Henry Harrison', 'John Tyler',
+        'James K. Polk', 'Zachary Taylor', 'Millard Fillmore', 'Franklin Pierce', 'James Buchanan',
+        'Abraham Lincoln', 'Andrew Johnson', 'Ulysses S. Grant', 'Rutherford B. Hayes', 'James A. Garfield',
+        'Chester A. Arthur', 'Grover Cleveland', 'Benjamin Harrison', 'William McKinley', 'Theodore Roosevelt',
+        'William Howard Taft', 'Woodrow Wilson', 'Warren G. Harding', 'Calvin Coolidge', 'Herbert Hoover',
+        'Franklin Delano Roosevelt', 'Harry S. Truman', 'Dwight D. Eisenhower', 'John F. Kennedy',
+        'Lyndon B. Johnson', 'Richard Nixon', 'Gerald Ford', 'Jimmy Carter', 'Ronald Reagan',
+        'George H. W. Bush', 'Bill Clinton', 'George W. Bush', 'Barack Obama', 'Donald Trump', 'Joe Biden']),
+    'monarques-anglais-et-britanniques': ('Monarques anglais et britanniques', [
+        'Guillaume le Conquérant', 'Guillaume II d\'Angleterre', 'Henri Ier d\'Angleterre', 'Étienne d\'Angleterre',
+        'Henri II d\'Angleterre', 'Richard Cœur de Lion', 'Jean sans Terre', 'Henri III d\'Angleterre',
+        'Édouard Ier d\'Angleterre', 'Édouard II d\'Angleterre', 'Édouard III d\'Angleterre', 'Richard II d\'Angleterre',
+        'Henri IV d\'Angleterre', 'Henri V d\'Angleterre', 'Henri VI d\'Angleterre', 'Édouard IV d\'Angleterre',
+        'Édouard V d\'Angleterre', 'Richard III d\'Angleterre', 'Henri VII d\'Angleterre', 'Henri VIII',
+        'Édouard VI d\'Angleterre', 'Marie Ire d\'Angleterre', "Élisabeth Ire (reine d'Angleterre)", 'Jacques Ier d\'Angleterre',
+        'Charles Ier d\'Angleterre', 'Oliver Cromwell', 'Charles II d\'Angleterre', 'Jacques II d\'Angleterre',
+        'Guillaume III d\'Angleterre', 'Marie II d\'Angleterre', 'Anne de Grande-Bretagne', 'George Ier de Grande-Bretagne',
+        'George II de Grande-Bretagne', 'George III du Royaume-Uni', 'George IV du Royaume-Uni', 'Guillaume IV du Royaume-Uni',
+        'Victoria du Royaume-Uni', 'Édouard VII du Royaume-Uni', 'George V du Royaume-Uni', 'Édouard VIII du Royaume-Uni',
+        'George VI du Royaume-Uni', 'Élisabeth II', 'Charles III du Royaume-Uni']),
+    'papes': ('Papes', [
+        'Pierre (apôtre)', 'Léon Ier (pape)', 'Grégoire Ier', 'Léon III (pape)', 'Sylvestre II', 'Grégoire VII',
+        'Urbain II', 'Innocent III', 'Boniface VIII', 'Clément V', 'Jean XXII', 'Alexandre VI', 'Jules II',
+        'Léon X', 'Clément VII (pape)', 'Paul III', 'Grégoire XIII', 'Sixte V', 'Urbain VIII', 'Pie VI', 'Pie VII',
+        'Pie IX', 'Léon XIII', 'Benoît XV', 'Pie XI', 'Pie XII', 'Jean XXIII', 'Paul VI', 'Jean-Paul Ier',
+        'Jean-Paul II', 'Benoît XVI', 'François (pape)', 'Léon XIV']),
+    'organisations-internationales': ('Organisations internationales', [
+        'Organisation des Nations unies', 'Conseil de sécurité des Nations unies',
+        'Organisation des Nations unies pour l\'éducation, la science et la culture', 'Fonds des Nations unies pour l\'enfance',
+        'Organisation mondiale de la santé', 'Fonds monétaire international', 'Banque mondiale',
+        'Organisation mondiale du commerce', 'Organisation du traité de l\'Atlantique nord', 'Union européenne',
+        'Conseil de l\'Europe', 'Cour internationale de justice', 'Cour pénale internationale',
+        'Comité international de la Croix-Rouge', 'Organisation des pays exportateurs de pétrole', 'Union africaine',
+        'Association des nations de l\'Asie du Sud-Est', 'Organisation des États américains', 'Ligue arabe',
+        'Commonwealth', 'Organisation internationale de la francophonie',
+        'Organisation de coopération et de développement économiques', 'Groupe des vingt',
+        'BRICS', 'Organisation internationale de police criminelle', 'Société des Nations', 'Pacte de Varsovie',
+        'Organisation internationale du travail', 'Agence internationale de l\'énergie atomique',
+        'Médecins sans frontières', 'Amnesty International', 'Comité international olympique', 'Greenpeace']),
+}
+
+
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent)) if 'Path' in dir() else None
+from lots_suite import LOT_SUITE
+LOT_HISTOIRE.update(LOT_SUITE)
+
+# les plans : transferts depuis les collections existantes, le reste en ajouts
+import json as _json
+from pathlib import Path
+_lot = _json.loads((Path(__file__).resolve().parent / 'lot_histoire.json').read_text(encoding='utf-8'))     if (Path(__file__).resolve().parent / 'lot_histoire.json').exists() else {}
+for _slug, (_nom, _titres) in LOT_HISTOIRE.items():
+    _tr = [tuple(x) for x in _lot.get(_slug, [None, [], []])[1]]
+    _deja = set(_lot.get(_slug, [None, [], []])[2]) if len(_lot.get(_slug, [])) > 2 else set()
+    PLANS[_slug] = dict(nom=_nom, transferts=_tr, ajouts=[(t.split(' (')[0] if '(' in t and 'pape' not in t and 'apôtre' not in t else t, t)
+                                                         for t in _titres if t not in _deja])
+
+# 01/10/2026 : cartes dont le nom court existait deja ailleurs
+for _slug, _lot in {
+    'regions-francaises': [('Normandie (région)', 'Normandie (région administrative)')],
+    'corps-humain': [('Hippocampe (cerveau)', 'Hippocampe (cerveau)')],
+    'maladies-et-epidemies': [('Cancer (maladie)', 'Cancer')],
+    'entreprises-emblematiques': [('Nike (entreprise)', 'Nike (entreprise)')],
+}.items():
+    AJOUTS.setdefault(_slug, []).extend(_lot)

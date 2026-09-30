@@ -1,0 +1,65 @@
+{
+ "crises-economiques_tulipomanie": {
+  "k": 2
+ },
+ "crises-economiques_grande-depression": {
+  "k": 1
+ },
+ "crises-economiques_krach-de-1929": {
+  "k": 3
+ },
+ "crises-economiques_premier-choc-petrolier": {
+  "k": 9
+ },
+ "crises-economiques_deuxieme-choc-petrolier": {
+  "k": 0
+ },
+ "crises-economiques_krach-d-octobre-1987": {
+  "k": 5
+ },
+ "crises-economiques_crise-economique-asiatique": {
+  "k": 11
+ },
+ "crises-economiques_bulle-internet": {
+  "k": 1
+ },
+ "crises-economiques_crise-des-subprimes": {
+  "k": 0
+ },
+ "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
+  "k": 1
+ },
+ "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
+  "k": 0
+ },
+ "crises-economiques_crise-de-la-dette-publique-grecque": {
+  "k": 4
+ },
+ "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
+  "k": 9
+ },
+ "crises-economiques_systeme-de-law": {
+  "k": 1
+ },
+ "crises-economiques_krach-de-1720": {
+  "k": 5
+ },
+ "crises-economiques_panique-du-18-septembre-1873": {
+  "k": 2
+ },
+ "crises-economiques_panique-bancaire-americaine-de-1907": {
+  "k": 1
+ },
+ "crises-economiques_crise-economique-argentine": {
+  "k": 0
+ },
+ "crises-economiques_crise-bancaire-et-financiere-de-l-automne-2008": {
+  "k": 3
+ },
+ "crises-economiques_hyperinflation-au-zimbabwe": {
+  "k": 7
+ },
+ "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
+  "k": 9
+ }
+}

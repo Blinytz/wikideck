@@ -1,0 +1,1255 @@
+{
+ "fleuves-mers-et-oceans_nil": {
+  "qid": "Q3392",
+  "P495": [
+   "Burundi"
+  ],
+  "P17": [
+   "Soudan",
+   "Égypte",
+   "Ouganda",
+   "Soudan du Sud",
+   "Burundi",
+   "Rwanda",
+   "Éthiopie"
+  ]
+ },
+ "fleuves-mers-et-oceans_amazone-fleuve": {
+  "qid": "Q3783",
+  "P17": [
+   "Pérou",
+   "Colombie",
+   "Brésil"
+  ],
+  "P527": [
+   "Q130307917"
+  ]
+ },
+ "fleuves-mers-et-oceans_yangtse": {
+  "qid": "Q5413",
+  "P131": [
+   "Qinghai",
+   "région autonome du Tibet",
+   "Yunnan",
+   "Sichuan",
+   "Chongqing",
+   "Hubei",
+   "Hunan",
+   "Jiangxi",
+   "Anhui",
+   "Jiangsu",
+   "Shanghaï"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Fleuve Jinsha"
+  ]
+ },
+ "fleuves-mers-et-oceans_mississippi-fleuve": {
+  "qid": "Q1497",
+  "P131": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "fleuves-mers-et-oceans_danube": {
+  "qid": "Q1653",
+  "P131": [
+   "Bade-Wurtemberg"
+  ],
+  "P17": [
+   "Allemagne",
+   "Autriche",
+   "Slovaquie",
+   "Hongrie",
+   "Croatie",
+   "Serbie",
+   "Roumanie",
+   "Bulgarie",
+   "Moldavie"
+  ],
+  "P527": [
+   "Danube de Moson",
+   "Borcea branch",
+   "Szentendrei Danube",
+   "Ráckeve-Soroksár Danube"
+  ]
+ },
+ "fleuves-mers-et-oceans_gange": {
+  "qid": "Q5089",
+  "P17": [
+   "Inde"
+  ]
+ },
+ "fleuves-mers-et-oceans_indus": {
+  "qid": "Q7348",
+  "P131": [
+   "Pendjab",
+   "Ladakh",
+   "Sind",
+   "Hazara",
+   "Gilgit-Baltistan",
+   "région autonome du Tibet"
+  ],
+  "P17": [
+   "Pakistan",
+   "république populaire de Chine",
+   "Inde"
+  ]
+ },
+ "fleuves-mers-et-oceans_rhin": {
+  "qid": "Q584",
+  "P131": [
+   "canton des Grisons",
+   "Hollande-Méridionale",
+   "canton de Bâle-Ville",
+   "canton de Saint-Gall",
+   "canton de Zurich",
+   "canton d'Argovie",
+   "canton de Schaffhouse",
+   "canton de Thurgovie",
+   "canton de Bâle-Campagne",
+   "Rhénanie-du-Nord-Westphalie",
+   "Hesse",
+   "Bade-Wurtemberg",
+   "Rhénanie-Palatinat"
+  ],
+  "P17": [
+   "Suisse",
+   "Autriche",
+   "Liechtenstein",
+   "Allemagne",
+   "France",
+   "Pays-Bas"
+  ],
+  "P527": [
+   "Rhine Mouth",
+   "Delta du Rhin"
+  ]
+ },
+ "fleuves-mers-et-oceans_volga": {
+  "qid": "Q626",
+  "P131": [
+   "oblast de Tver",
+   "oblast de Moscou",
+   "oblast de Iaroslavl",
+   "oblast de Kostroma",
+   "oblast d'Ivanovo",
+   "oblast de Nijni Novgorod",
+   "Mari El",
+   "Tchouvachie",
+   "Tatarstan",
+   "oblast d'Oulianovsk",
+   "oblast de Samara",
+   "oblast de Saratov",
+   "oblast de Volgograd",
+   "oblast d'Astrakhan",
+   "Kalmoukie"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "fleuves-mers-et-oceans_congo-fleuve": {
+  "qid": "Q3503",
+  "P131": [
+   "Kongo central"
+  ],
+  "P17": [
+   "Angola",
+   "République démocratique du Congo",
+   "République du Congo",
+   "Zambie"
+  ]
+ },
+ "fleuves-mers-et-oceans_niger-fleuve": {
+  "qid": "Q3542",
+  "P17": [
+   "Bénin",
+   "Guinée",
+   "Mali",
+   "Niger",
+   "Nigeria"
+  ]
+ },
+ "fleuves-mers-et-oceans_mekong": {
+  "qid": "Q41179",
+  "P17": [
+   "république populaire de Chine",
+   "Birmanie",
+   "Thaïlande",
+   "Laos",
+   "Cambodge",
+   "Vietnam"
+  ]
+ },
+ "fleuves-mers-et-oceans_tigre": {
+  "qid": "Q19939"
+ },
+ "fleuves-mers-et-oceans_euphrate": {
+  "qid": "Q34589",
+  "P17": [
+   "Turquie",
+   "Syrie",
+   "Irak"
+  ]
+ },
+ "fleuves-mers-et-oceans_loire": {
+  "qid": "Q1469",
+  "P131": [
+   "Allier",
+   "Ardèche",
+   "Cher",
+   "Indre-et-Loire",
+   "Loir-et-Cher",
+   "Loire",
+   "Haute-Loire",
+   "Loire-Atlantique",
+   "Loiret",
+   "Maine-et-Loire",
+   "Nièvre",
+   "Saône-et-Loire"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_seine": {
+  "qid": "Q1471",
+  "P131": [
+   "Normandie",
+   "Bourgogne",
+   "Champagne-Ardenne",
+   "Seine-et-Marne",
+   "Paris"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "rives de la Seine à Paris"
+  ]
+ },
+ "fleuves-mers-et-oceans_amour-fleuve": {
+  "qid": "Q6862",
+  "P131": [
+   "kraï de Transbaïkalie",
+   "oblast de l'Amour",
+   "oblast autonome juif",
+   "kraï de Khabarovsk",
+   "Heilongjiang"
+  ],
+  "P17": [
+   "Russie",
+   "république populaire de Chine"
+  ]
+ },
+ "fleuves-mers-et-oceans_zambeze": {
+  "qid": "Q43106",
+  "P17": [
+   "Angola",
+   "Mozambique",
+   "Namibie",
+   "Zambie",
+   "Zimbabwe"
+  ],
+  "P527": [
+   "chutes Victoria"
+  ]
+ },
+ "fleuves-mers-et-oceans_colorado-fleuve": {
+  "qid": "Q1265",
+  "P131": [
+   "Colorado",
+   "Utah",
+   "Arizona",
+   "Nevada",
+   "Californie",
+   "Sonora",
+   "Basse-Californie"
+  ],
+  "P17": [
+   "États-Unis",
+   "Mexique"
+  ]
+ },
+ "fleuves-mers-et-oceans_rio-grande-fleuve": {
+  "qid": "Q160636",
+  "P131": [
+   "Colorado",
+   "Nouveau-Mexique",
+   "Texas",
+   "Chihuahua",
+   "Coahuila",
+   "Nuevo León",
+   "Tamaulipas"
+  ],
+  "P17": [
+   "États-Unis",
+   "Mexique"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-mediterranee": {
+  "qid": "Q4918",
+  "P17": [
+   "Espagne",
+   "France",
+   "Italie",
+   "Monaco",
+   "Slovénie",
+   "Croatie",
+   "Monténégro",
+   "Albanie",
+   "Grèce",
+   "Malte",
+   "Chypre",
+   "Turquie",
+   "Liban",
+   "Syrie",
+   "Israël",
+   "État de Palestine",
+   "Égypte",
+   "Libye",
+   "Tunisie",
+   "Algérie",
+   "Maroc",
+   "Bosnie-Herzégovine"
+  ],
+  "P527": [
+   "détroit de Gibraltar",
+   "mer Adriatique",
+   "Pont Euxin",
+   "mer de Crète",
+   "Mar Menor",
+   "mer Tyrrhénienne",
+   "mer ligure",
+   "mer Ionienne"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-rouge": {
+  "qid": "Q23406",
+  "P17": [
+   "Égypte",
+   "Arabie saoudite",
+   "Soudan",
+   "Djibouti",
+   "Érythrée",
+   "Yémen",
+   "Israël",
+   "Jordanie"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-morte": {
+  "qid": "Q23883",
+  "P131": [
+   "Israël",
+   "Jordanie",
+   "État de Palestine"
+  ],
+  "P17": [
+   "Jordanie",
+   "Israël",
+   "État de Palestine"
+  ],
+  "P527": [
+   "Dead Sea",
+   "Jordanian Dead Sea"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-noire": {
+  "qid": "Q166",
+  "P17": [
+   "Bulgarie",
+   "Russie",
+   "Ukraine",
+   "Roumanie",
+   "Turquie",
+   "Géorgie",
+   "Abkhazie",
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P527": [
+   "détroit des Dardanelles",
+   "Bosphore",
+   "détroit de Kertch",
+   "golfe borysthénique",
+   "mer d'Azov"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-caspienne": {
+  "qid": "Q5484",
+  "P17": [
+   "Iran",
+   "Russie",
+   "Kazakhstan",
+   "Azerbaïdjan",
+   "Turkménistan",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-des-caraibes": {
+  "qid": "Q1247",
+  "P17": [
+   "Mexique",
+   "Belize",
+   "Cuba",
+   "Guatemala",
+   "Honduras",
+   "Nicaragua",
+   "Costa Rica",
+   "Panama",
+   "Colombie",
+   "Venezuela",
+   "Jamaïque",
+   "Haïti",
+   "République dominicaine",
+   "Porto Rico",
+   "Grenade",
+   "Sainte-Lucie",
+   "France",
+   "Dominique",
+   "Royaume-Uni",
+   "Saint-Christophe-et-Niévès"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-baltique": {
+  "qid": "Q545",
+  "P17": [
+   "Suède",
+   "Finlande",
+   "Russie",
+   "Estonie",
+   "Lettonie",
+   "Lituanie",
+   "Pologne",
+   "Allemagne",
+   "Danemark"
+  ],
+  "P527": [
+   "golfe de Botnie",
+   "golfe de Finlande",
+   "golfe de Riga",
+   "Baltic Proper",
+   "mer d'Åland",
+   "archipel finlandais",
+   "détroits danois"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-d-aral": {
+  "qid": "Q35883",
+  "P131": [
+   "Kazakhstan"
+  ],
+  "P17": [
+   "Kazakhstan",
+   "Ouzbékistan",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-de-corail": {
+  "qid": "Q82931",
+  "P17": [
+   "Australie",
+   "Papouasie-Nouvelle-Guinée",
+   "Îles Salomon",
+   "Vanuatu",
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_ocean-atlantique": {
+  "qid": "Q97",
+  "P131": [
+   "haute mer"
+  ],
+  "P527": [
+   "océan Atlantique Nord",
+   "océan Atlantique Sud",
+   "océan Arctique",
+   "Atlantique centre-est"
+  ]
+ },
+ "fleuves-mers-et-oceans_ocean-pacifique": {
+  "qid": "Q98",
+  "P131": [
+   "haute mer"
+  ],
+  "P527": [
+   "mer de Bohol",
+   "îles du Pacifique",
+   "golfe de Californie",
+   "golfe de Tehuantepec",
+   "golfe de Fonseca",
+   "golfe de Panama",
+   "golfe de Guayaquil",
+   "océan Paciﬁque nord",
+   "océan Paciﬁque sud",
+   "mer de Grau",
+   "Chilean Sea",
+   "océan Pacifique nord-ouest",
+   "océan Pacifique nord-est",
+   "mer de Banda",
+   "mer de Soulou",
+   "mer des Visayas",
+   "mer de Bali",
+   "mer de Béring",
+   "mer de Bismarck",
+   "mer de Bohai",
+   "mer de Célèbes",
+   "mer de Corail",
+   "mer de Chine orientale",
+   "mer d'Halmahera",
+   "mer du Japon",
+   "mer de Java",
+   "mer d'Okhotsk",
+   "mer des Philippines",
+   "mer des Salish",
+   "mer des Salomon",
+   "mer de Chine méridionale",
+   "mer de Tasman",
+   "mer Jaune"
+  ]
+ },
+ "fleuves-mers-et-oceans_ocean-indien": {
+  "qid": "Q1239",
+  "P527": [
+   "golfe du Bengale",
+   "mer d'Arabie",
+   "océan Indien nord",
+   "océan Indien sud",
+   "mer d'Arafura",
+   "golfe d'Aden",
+   "mer d'Andaman",
+   "mer des Laquedives",
+   "golfe Persique",
+   "mer Rouge",
+   "mer de Savu",
+   "mer de Timor"
+  ]
+ },
+ "fleuves-mers-et-oceans_ocean-arctique": {
+  "qid": "Q788",
+  "P131": [
+   "haute mer"
+  ],
+  "P527": [
+   "mer de Lincoln",
+   "mer de Wandel",
+   "détroit d'Hudson",
+   "détroit de Davis",
+   "baie d'Hudson",
+   "baie de Baffin",
+   "mer de Barents",
+   "mer des Laptev",
+   "mer de Sibérie orientale",
+   "mer de Beaufort",
+   "passage du Nord-Ouest",
+   "mer de Kara",
+   "détroit Scoresby",
+   "Rijpfjorden",
+   "Duvefjorden",
+   "mer de Norvège"
+  ]
+ },
+ "fleuves-mers-et-oceans_ocean-austral": {
+  "qid": "Q7354",
+  "P276": [
+   "hémisphère sud"
+  ],
+  "P131": [
+   "région du Traité sur l'Antarctique"
+  ],
+  "P527": [
+   "baie de l'Amirauté",
+   "mer d'Amundsen",
+   "Eau de fond de l'Antarctique",
+   "Antarctic Intermediate Water",
+   "mer de Bellingshausen",
+   "mer des Cosmonautes",
+   "mer de Davis",
+   "passage de Drake",
+   "mer Dumont-d'Urville",
+   "mer de Mawson",
+   "mer de Ross",
+   "mer de la Scotia",
+   "mer de Somov",
+   "St. Nicholas Cove",
+   "mer de Weddell",
+   "Tryne Fjord",
+   "Thala Fjord",
+   "Dogs Leg Fjord",
+   "Nella Fjord",
+   "Nielsen-Fjord",
+   "Laubeuf Fjord",
+   "Langnes Fjord",
+   "Krok Fjord",
+   "Lallemand Fjord",
+   "Briand Fjord",
+   "Bourgeois Fjord",
+   "Bigourdan Fjord",
+   "Étienne Fjord",
+   "Ellis Fjord",
+   "Cirque Fjord",
+   "Clemence Fjord",
+   "Johnston Firth",
+   "Innerster Fjord"
+  ]
+ },
+ "fleuves-mers-et-oceans_lac-baikal": {
+  "qid": "Q5513",
+  "P131": [
+   "Bouriatie",
+   "oblast d'Irkoutsk"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "fleuves-mers-et-oceans_lac-victoria": {
+  "qid": "Q5505",
+  "P17": [
+   "Tanzanie",
+   "Ouganda",
+   "Kenya"
+  ]
+ },
+ "fleuves-mers-et-oceans_lac-titicaca": {
+  "qid": "Q35342",
+  "P131": [
+   "Puno",
+   "La Paz"
+  ],
+  "P17": [
+   "Pérou",
+   "Bolivie"
+  ],
+  "P527": [
+   "Puno Bay",
+   "Golfo de Achacachi"
+  ]
+ },
+ "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
+  "qid": "Q7347",
+  "P17": [
+   "États-Unis",
+   "Canada"
+  ],
+  "P527": [
+   "lac Supérieur",
+   "lac Michigan-Huron",
+   "lac Érié",
+   "lac Ontario"
+  ]
+ },
+ "fleuves-mers-et-oceans_chutes-victoria": {
+  "qid": "Q43278",
+  "P276": [
+   "Livingstone",
+   "Victoria Falls"
+  ],
+  "P131": [
+   "Province Méridionale",
+   "Matabeleland septentrional"
+  ],
+  "P17": [
+   "Zambie",
+   "Zimbabwe"
+  ],
+  "P527": [
+   "parc national de Mosi-oa-Tunya",
+   "parc national des chutes Victoria"
+  ]
+ },
+ "fleuves-mers-et-oceans_chutes-du-niagara": {
+  "qid": "Q34221",
+  "P131": [
+   "New York",
+   "Ontario"
+  ],
+  "P17": [
+   "États-Unis",
+   "Canada"
+  ],
+  "P527": [
+   "chutes du Fer-à-Cheval",
+   "Chutes américaines",
+   "chutes du Voile de la Mariée"
+  ]
+ },
+ "fleuves-mers-et-oceans_chutes-d-iguazu": {
+  "qid": "Q36332",
+  "P131": [
+   "Misiones",
+   "Paraná"
+  ],
+  "P17": [
+   "Argentine",
+   "Brésil"
+  ]
+ },
+ "fleuves-mers-et-oceans_fosse-des-mariannes": {
+  "qid": "Q510",
+  "P131": [
+   "îles Mariannes du Nord"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "fleuves-mers-et-oceans_grande-barriere-de-corail": {
+  "qid": "Q7343",
+  "P276": [
+   "Townsville"
+  ],
+  "P131": [
+   "Queensland"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "fleuves-mers-et-oceans_detroit-de-gibraltar": {
+  "qid": "Q36124",
+  "P17": [
+   "Espagne",
+   "Royaume-Uni",
+   "Maroc"
+  ]
+ },
+ "fleuves-mers-et-oceans_canal-de-suez": {
+  "qid": "Q899",
+  "P131": [
+   "gouvernorat de Suez"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "fleuves-mers-et-oceans_canal-de-panama": {
+  "qid": "Q7350",
+  "P131": [
+   "Panama",
+   "Panama Ouest",
+   "Colón"
+  ],
+  "P17": [
+   "Panama"
+  ],
+  "P527": [
+   "écluses du canal de Panama"
+  ]
+ },
+ "fleuves-mers-et-oceans_fleuve-saint-laurent": {
+  "qid": "Q134750",
+  "P131": [
+   "New York",
+   "Ontario",
+   "Québec"
+  ],
+  "P17": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P527": [
+   "estuaire du Saint-Laurent"
+  ]
+ },
+ "fleuves-mers-et-oceans_orenoque": {
+  "qid": "Q131792",
+  "P17": [
+   "Venezuela",
+   "Colombie"
+  ]
+ },
+ "fleuves-mers-et-oceans_rio-parana": {
+  "qid": "Q127892",
+  "P131": [
+   "province de Buenos Aires",
+   "Entre Ríos",
+   "Santa Fe",
+   "Corrientes",
+   "Chaco",
+   "Misiones",
+   "Ñeembucú",
+   "Misiones",
+   "Itapúa",
+   "Alto Paraná",
+   "Canindeyú",
+   "Paraná",
+   "Mato Grosso do Sul",
+   "São Paulo",
+   "Minas Gerais"
+  ],
+  "P17": [
+   "Argentine",
+   "Brésil",
+   "Paraguay"
+  ],
+  "P527": [
+   "cascade des Sept Chutes"
+  ]
+ },
+ "fleuves-mers-et-oceans_missouri-riviere": {
+  "qid": "Q5419",
+  "P131": [
+   "Montana",
+   "Dakota du Nord",
+   "Dakota du Sud",
+   "Nebraska",
+   "Iowa",
+   "Missouri",
+   "Kansas"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "fleuves-mers-et-oceans_tamise": {
+  "qid": "Q19686",
+  "P131": [
+   "Gloucestershire",
+   "Wiltshire",
+   "Oxfordshire",
+   "Berkshire",
+   "Buckinghamshire",
+   "Surrey",
+   "Essex",
+   "Kent",
+   "Grand Londres"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Isis"
+  ]
+ },
+ "fleuves-mers-et-oceans_tibre": {
+  "qid": "Q13712",
+  "P17": [
+   "Italie"
+  ]
+ },
+ "fleuves-mers-et-oceans_po": {
+  "qid": "Q643",
+  "P131": [
+   "Piémont",
+   "Lombardie",
+   "Émilie-Romagne",
+   "Vénétie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "fleuves-mers-et-oceans_elbe-fleuve": {
+  "qid": "Q1644",
+  "P131": [
+   "Ludwigslust-Parchim",
+   "région de Hradec Králové",
+   "Pardubice",
+   "Bohême-Centrale",
+   "région d'Ústí nad Labem",
+   "Suisse-Saxonne-Monts-Métallifères-de-l'Est",
+   "Wittemberg",
+   "Elbe-Elster",
+   "Hambourg",
+   "Lüchow-Dannenberg",
+   "Lunebourg",
+   "Harburg",
+   "Stade",
+   "Cuxhaven",
+   "Dresde",
+   "Meissen",
+   "Saxe-du-Nord",
+   "Prignitz",
+   "Dessau-Roßlau",
+   "Anhalt-Bitterfeld",
+   "Salzland",
+   "Magdebourg",
+   "La Börde",
+   "Pays-de-Jerichow",
+   "Stendal",
+   "arrondissement du duché de Lauenbourg",
+   "arrondissement de Pinneberg",
+   "Steinburg",
+   "arrondissement de Dithmarschen",
+   "Trutnov",
+   "Kutná Hora",
+   "Litoměřice",
+   "Děčín",
+   "Ústí nad Labem",
+   "Kolín",
+   "Hradec Králové",
+   "Náchod",
+   "Pardubice",
+   "Nymburk",
+   "Mělník",
+   "Prague-est"
+  ],
+  "P17": [
+   "Tchéquie",
+   "Allemagne",
+   "Allemagne"
+  ]
+ },
+ "fleuves-mers-et-oceans_dniepr": {
+  "qid": "Q40855",
+  "P131": [
+   "oblast de Zaporijjia",
+   "oblast de Kherson",
+   "Vitebsk",
+   "voblast de Mahiliow",
+   "voblast de Homiel",
+   "oblast de Dnipropetrovsk",
+   "oblast de Poltava",
+   "oblast de Kirovohrad",
+   "oblast de Tcherkassy",
+   "oblast de Tchernihiv",
+   "oblast de Kiev",
+   "Kiev",
+   "oblast de Smolensk"
+  ],
+  "P17": [
+   "Russie",
+   "Biélorussie",
+   "Ukraine"
+  ]
+ },
+ "fleuves-mers-et-oceans_rhone": {
+  "qid": "Q602",
+  "P131": [
+   "canton de Vaud",
+   "canton de Genève",
+   "canton du Valais",
+   "Auvergne-Rhône-Alpes",
+   "Provence-Alpes-Côte d'Azur"
+  ],
+  "P17": [
+   "Suisse",
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_garonne": {
+  "qid": "Q5077",
+  "P131": [
+   "Occitanie",
+   "Val d'Aran",
+   "Nouvelle-Aquitaine"
+  ],
+  "P17": [
+   "Espagne",
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_tage": {
+  "qid": "Q14294",
+  "P17": [
+   "Portugal",
+   "Espagne"
+  ]
+ },
+ "fleuves-mers-et-oceans_ienissei": {
+  "qid": "Q78707",
+  "P131": [
+   "Touva",
+   "Khakassie",
+   "kraï de Krasnoïarsk"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "fleuves-mers-et-oceans_ob": {
+  "qid": "Q973",
+  "P131": [
+   "Khantys-Mansis"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "fleuves-mers-et-oceans_lena": {
+  "qid": "Q46841",
+  "P131": [
+   "république de Sakha",
+   "oblast d'Irkoutsk"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "fleuves-mers-et-oceans_jourdain": {
+  "qid": "Q40059",
+  "P17": [
+   "Liban",
+   "État de Palestine",
+   "Jordanie",
+   "Syrie",
+   "Israël"
+  ]
+ },
+ "fleuves-mers-et-oceans_brahmapoutre": {
+  "qid": "Q45403",
+  "P17": [
+   "Inde",
+   "république populaire de Chine",
+   "Bangladesh",
+   "Népal"
+  ]
+ },
+ "fleuves-mers-et-oceans_fleuve-jaune": {
+  "qid": "Q7355",
+  "P131": [
+   "Qinghai",
+   "Sichuan",
+   "Gansu",
+   "Ningxia",
+   "Mongolie-Intérieure",
+   "Shaanxi",
+   "Shanxi",
+   "Henan",
+   "Shandong"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "fleuves-mers-et-oceans_okavango": {
+  "qid": "Q188773",
+  "P17": [
+   "Angola",
+   "Botswana",
+   "Namibie"
+  ]
+ },
+ "fleuves-mers-et-oceans_senegal-fleuve": {
+  "qid": "Q3569",
+  "P17": [
+   "Mauritanie",
+   "Sénégal",
+   "Mali"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-du-nord": {
+  "qid": "Q1693",
+  "P17": [
+   "Norvège",
+   "Danemark",
+   "Allemagne",
+   "Pays-Bas",
+   "Belgique",
+   "France",
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "baie Allemande",
+   "mer des Wadden",
+   "Skagerrak",
+   "Cattégat",
+   "Orcades",
+   "Shetland",
+   "Moray Firth",
+   "Firth of Forth",
+   "The Wash",
+   "Masfjorden",
+   "Hylsfjord",
+   "Boknafjord"
+  ]
+ },
+ "fleuves-mers-et-oceans_manche-mer": {
+  "qid": "Q34640",
+  "P131": [
+   "haute mer",
+   "Royaume-Uni",
+   "France",
+   "Guernesey",
+   "Jersey"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-egee": {
+  "qid": "Q34575",
+  "P17": [
+   "Grèce",
+   "Turquie"
+  ],
+  "P527": [
+   "mer Icarienne",
+   "mer de Thrace",
+   "mer de Crète",
+   "mer de Myrto",
+   "golfe d'Izmir"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-adriatique": {
+  "qid": "Q13924",
+  "P17": [
+   "Italie",
+   "Slovénie",
+   "Croatie",
+   "Monténégro",
+   "Albanie",
+   "Bosnie-Herzégovine"
+  ]
+ },
+ "fleuves-mers-et-oceans_mer-des-sargasses": {
+  "qid": "Q169274"
+ },
+ "fleuves-mers-et-oceans_golfe-du-mexique": {
+  "qid": "Q12630",
+  "P17": [
+   "Mexique",
+   "États-Unis",
+   "Cuba"
+  ],
+  "P527": [
+   "Estero Bay",
+   "Charlotte Harbor",
+   "baie de Mobile",
+   "baie de Campêche"
+  ]
+ },
+ "fleuves-mers-et-oceans_golfe-persique": {
+  "qid": "Q34675",
+  "P17": [
+   "Arabie saoudite",
+   "Iran",
+   "Oman",
+   "Émirats arabes unis",
+   "Qatar",
+   "Bahreïn",
+   "Koweït",
+   "Irak"
+  ]
+ },
+ "fleuves-mers-et-oceans_leman": {
+  "qid": "Q6403",
+  "P131": [
+   "canton de Vaud",
+   "canton de Genève",
+   "canton du Valais",
+   "Haute-Savoie"
+  ],
+  "P17": [
+   "Suisse",
+   "France"
+  ]
+ },
+ "fleuves-mers-et-oceans_lac-tanganyika": {
+  "qid": "Q5511",
+  "P17": [
+   "Tanzanie",
+   "République démocratique du Congo",
+   "Burundi",
+   "Zambie"
+  ]
+ },
+ "fleuves-mers-et-oceans_lac-tchad": {
+  "qid": "Q125309",
+  "P131": [
+   "Extrême-Nord"
+  ],
+  "P17": [
+   "Tchad",
+   "Cameroun",
+   "Nigeria",
+   "Niger"
+  ]
+ },
+ "fleuves-mers-et-oceans_loch-ness": {
+  "qid": "Q49650",
+  "P131": [
+   "Highland",
+   "Boleskine and Abertarff"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "fleuves-mers-et-oceans_salto-angel": {
+  "qid": "Q80299",
+  "P276": [
+   "Auyán Tepuy"
+  ],
+  "P131": [
+   "Bolívar"
+  ],
+  "P17": [
+   "Venezuela"
+  ]
+ },
+ "fleuves-mers-et-oceans_bosphore": {
+  "qid": "Q35958",
+  "P131": [
+   "Istanbul"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "fleuves-mers-et-oceans_detroit-de-bering": {
+  "qid": "Q11769",
+  "P131": [
+   "Alaska"
+  ],
+  "P17": [
+   "États-Unis",
+   "Russie"
+  ]
+ },
+ "fleuves-mers-et-oceans_detroit-de-magellan": {
+  "qid": "Q48365",
+  "P131": [
+   "Magallanes et l'Antarctique chilien"
+  ],
+  "P17": [
+   "Chili"
+  ]
+ },
+ "fleuves-mers-et-oceans_cap-horn": {
+  "qid": "Q4078",
+  "P131": [
+   "Magallanes et l'Antarctique chilien",
+   "Cabo de Hornos",
+   "Antarctique chilien"
+  ],
+  "P17": [
+   "Chili"
+  ]
+ },
+ "fleuves-mers-et-oceans_triangle-des-bermudes": {
+  "qid": "Q43708",
+  "P17": [
+   "Royaume-Uni",
+   "Bahamas",
+   "États-Unis"
+  ]
+ },
+ "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
+  "qid": "Q4092",
+  "P131": [
+   "Cap-Occidental",
+   "Colonie du Cap",
+   "province du Cap",
+   "Colonie néerlandaise du Cap",
+   "Afrique australe"
+  ],
+  "P17": [
+   "Afrique du Sud"
+  ]
+ }
+}

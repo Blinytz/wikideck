@@ -1,0 +1,879 @@
+{
+ "sites-antiques_acropole-d-athenes": {
+  "qid": "Q131013",
+  "P571": [
+   "-500"
+  ],
+  "P276": [
+   "Athènes"
+  ],
+  "P131": [
+   "dème des Athéniens"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "Parthénon",
+   "Brauronéion",
+   "temple de Rome et d'Auguste",
+   "Érechthéion",
+   "temple d'Athéna Nikè",
+   "Propylées d'Athènes",
+   "maison des Arrhéphores",
+   "Piédestal d'Agrippa",
+   "statue d'Athéna Promachos",
+   "Éleusinion",
+   "Pandroséion",
+   "autel d'Athéna",
+   "porte Beulé"
+  ]
+ },
+ "sites-antiques_stonehenge": {
+  "qid": "Q39671",
+  "P571": [
+   "-3000",
+   "-1848"
+  ],
+  "P276": [
+   "Salisbury Plain"
+  ],
+  "P131": [
+   "Amesbury"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "Sarsen",
+   "bluestone"
+  ],
+  "P527": [
+   "Stonehenge stone 150"
+  ]
+ },
+ "sites-antiques_teotihuacan": {
+  "qid": "Q172613",
+  "P276": [
+   "Teotihuacán de Arista"
+  ],
+  "P131": [
+   "État de Mexico"
+  ],
+  "P17": [
+   "Mexique"
+  ],
+  "P527": [
+   "pyramide du Soleil",
+   "La Pyramide de la Lune",
+   "Pyramide du Serpent à plumes",
+   "Avenue of the Dead",
+   "Quetzalpapalotl"
+  ]
+ },
+ "sites-antiques_forum-romain": {
+  "qid": "Q1062780"
+ },
+ "sites-antiques_armee-de-terre-cuite": {
+  "qid": "Q47672",
+  "P571": [
+   "-248"
+  ],
+  "P276": [
+   "Xi'an"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P136": [
+   "dynastie Qin"
+  ]
+ },
+ "sites-antiques_pantheon-rome": {
+  "qid": "Q99309",
+  "P571": [
+   "128"
+  ],
+  "P276": [
+   "Pigna"
+  ],
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "béton de ciment"
+  ]
+ },
+ "sites-antiques_karnak": {
+  "qid": "Q522862",
+  "P571": [
+   "-1900"
+  ],
+  "P276": [
+   "Karnak"
+  ],
+  "P131": [
+   "Louxor",
+   "Karnak"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "sites-antiques_vallee-des-rois": {
+  "qid": "Q133423",
+  "P131": [
+   "District de Gournah"
+  ],
+  "P17": [
+   "Égypte"
+  ],
+  "P527": [
+   "tombeau de Toutânkhamon"
+  ]
+ },
+ "sites-antiques_abou-simbel": {
+  "qid": "Q6655437",
+  "P131": [
+   "Nasr Nuba"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "sites-antiques_palmyre": {
+  "qid": "Q5747",
+  "P131": [
+   "Tadmor"
+  ],
+  "P17": [
+   "Syrie"
+  ],
+  "P527": [
+   "temple de Baal",
+   "temple de Baalshamin",
+   "Grande colonnade de Palmyre",
+   "théâtre romain de Palmyre",
+   "Vallée des tombeaux",
+   "temple de Nabû",
+   "Temple of Al-Lat"
+  ]
+ },
+ "sites-antiques_moai": {
+  "qid": "Q20350",
+  "P131": [
+   "Isla de Pascua"
+  ],
+  "P17": [
+   "Chili"
+  ]
+ },
+ "sites-antiques_sphinx-de-gizeh": {
+  "qid": "Q130958",
+  "P571": [
+   "-2559"
+  ],
+  "P276": [
+   "nécropole de Gizeh"
+  ],
+  "P131": [
+   "Gizeh"
+  ],
+  "P17": [
+   "Égypte"
+  ],
+  "P186": [
+   "calcaire"
+  ]
+ },
+ "sites-antiques_meroe": {
+  "qid": "Q5780",
+  "P571": [
+   "-2500"
+  ],
+  "P131": [
+   "Nil"
+  ],
+  "P17": [
+   "Soudan"
+  ]
+ },
+ "sites-antiques_deir-el-bahari": {
+  "qid": "Q373909",
+  "P276": [
+   "Montagne Thébaine"
+  ],
+  "P131": [
+   "District de Gournah"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "sites-antiques_persepolis": {
+  "qid": "Q129072",
+  "P571": [
+   "-510"
+  ],
+  "P131": [
+   "Kenareh Rural District"
+  ],
+  "P17": [
+   "Iran",
+   "Empire achéménide",
+   "royaume d'Alexandre le Grand"
+  ],
+  "P527": [
+   "palais de Darius Ier",
+   "porte des Nations",
+   "Apadana de Persépolis",
+   "Hadish Palace",
+   "Palace of Artaxerxes I",
+   "Tripylon",
+   "Hall of hundred columns"
+  ]
+ },
+ "sites-antiques_ziggurat-d-ur": {
+  "qid": "Q202927",
+  "P571": [
+   "-2100"
+  ],
+  "P276": [
+   "Ur"
+  ],
+  "P131": [
+   "Dhi Qar"
+  ],
+  "P17": [
+   "Irak"
+  ]
+ },
+ "sites-antiques_porte-d-ishtar": {
+  "qid": "Q26082",
+  "P571": [
+   "-575"
+  ],
+  "P195": [
+   "Vorderasiatisches Museum Berlin"
+  ],
+  "P131": [
+   "Hilla"
+  ],
+  "P17": [
+   "Allemagne",
+   "Irak"
+  ]
+ },
+ "sites-antiques_baalbek": {
+  "qid": "Q178835",
+  "P131": [
+   "district de Baalbek"
+  ],
+  "P17": [
+   "Liban"
+  ]
+ },
+ "sites-antiques_massada": {
+  "qid": "Q186312",
+  "P131": [
+   "Conseil régional de Tamar"
+  ],
+  "P17": [
+   "Israël",
+   "Judée"
+  ]
+ },
+ "sites-antiques_ephese": {
+  "qid": "Q47611",
+  "P571": [
+   "-1000"
+  ],
+  "P131": [
+   "Selçuk"
+  ],
+  "P17": [
+   "Turquie",
+   "Empire achéménide",
+   "Empire romain",
+   "Empire byzantin",
+   "Empire ottoman",
+   "royaume séleucide",
+   "royaume ptolémaïque",
+   "royaume de Pergame",
+   "royaume séleucide",
+   "Empire byzantin",
+   "Empire seldjoukide",
+   "République romaine",
+   "Turquie"
+  ]
+ },
+ "sites-antiques_pompei": {
+  "qid": "Q43332",
+  "P571": [
+   "-600"
+  ],
+  "P131": [
+   "Pompéi"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "sites-antiques_delphes": {
+  "qid": "Q75459",
+  "P131": [
+   "dème de Delphes"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "oracle de Delphes",
+   "Sanctuary of Pythian Apollo at Delphi"
+  ]
+ },
+ "sites-antiques_olympie": {
+  "qid": "Q38888",
+  "P131": [
+   "dème d'Archéa Olympía"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "Gaion / Gaeum in Olympia",
+   "Sanctuary of Sosipolis at Olympia"
+  ]
+ },
+ "sites-antiques_mycenes": {
+  "qid": "Q132564",
+  "P276": [
+   "Mycènes"
+  ],
+  "P131": [
+   "dème d'Argos-Mycènes"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "House of the Sphinxes",
+   "cercle funéraire A",
+   "cercle funéraire B",
+   "Trésor d'Atrée",
+   "porte des Lionnes",
+   "tombe de Clytemnestre",
+   "tombe d'Égisthe",
+   "House of the Oil Merchant",
+   "Tomb of Epano Phournos",
+   "Cyclopean Tomb",
+   "Panagia Houses"
+  ]
+ },
+ "sites-antiques_cnossos": {
+  "qid": "Q173527",
+  "P571": [
+   "-7000"
+  ],
+  "P131": [
+   "dème d'Héraklion"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "Palais de Cnossos"
+  ]
+ },
+ "sites-antiques_leptis-magna": {
+  "qid": "Q191504",
+  "P571": [
+   "-700"
+  ],
+  "P131": [
+   "Khoms"
+  ],
+  "P17": [
+   "Libye",
+   "civilisation carthaginoise",
+   "Empire byzantin",
+   "Rome antique"
+  ],
+  "P527": [
+   "amphithéâtre de Leptis Magna",
+   "arc de Septime Sévère",
+   "Leptis Magna: Nymphaeum"
+  ]
+ },
+ "sites-antiques_grand-zimbabwe": {
+  "qid": "Q209217",
+  "P131": [
+   "Masvingo"
+  ],
+  "P17": [
+   "Zimbabwe"
+  ]
+ },
+ "sites-antiques_alignements-de-carnac": {
+  "qid": "Q833850",
+  "P131": [
+   "Carnac",
+   "La Trinité-sur-Mer"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "alignements du Petit-Ménec",
+   "quadrilatère du Manio",
+   "alignements de Kerlescan",
+   "alignements de Kermario",
+   "alignements du Ménec",
+   "Géant du Manio"
+  ]
+ },
+ "sites-antiques_newgrange": {
+  "qid": "Q339503",
+  "P131": [
+   "comté de Meath"
+  ],
+  "P17": [
+   "Irlande"
+  ],
+  "P186": [
+   "mortier de terre"
+  ]
+ },
+ "sites-antiques_skara-brae": {
+  "qid": "Q816437",
+  "P571": [
+   "-3180"
+  ],
+  "P131": [
+   "Orcades",
+   "Sandwick"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "sites-antiques_grotte-de-lascaux": {
+  "qid": "Q172125",
+  "P131": [
+   "Montignac-Lascaux"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "sites-antiques_gobekli-tepe": {
+  "qid": "Q214944",
+  "P571": [
+   "-9999"
+  ],
+  "P131": [
+   "Şanlıurfa",
+   "Haliliye"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "sites-antiques_mohenjo-daro": {
+  "qid": "Q5725",
+  "P131": [
+   "district de Larkana"
+  ],
+  "P17": [
+   "Pakistan"
+  ]
+ },
+ "sites-antiques_ajanta": {
+  "qid": "Q184427",
+  "P571": [
+   "-200"
+  ],
+  "P131": [
+   "district de Chhatrapati Sambhajinagar"
+  ],
+  "P17": [
+   "Inde"
+  ]
+ },
+ "sites-antiques_tikal": {
+  "qid": "Q181172",
+  "P131": [
+   "Petén"
+  ],
+  "P17": [
+   "Guatemala"
+  ]
+ },
+ "sites-antiques_palenque": {
+  "qid": "Q181427",
+  "P131": [
+   "Palenque"
+  ],
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "sites-antiques_geoglyphes-de-nazca": {
+  "qid": "Q2620036",
+  "P170": [
+   "culture Nazca"
+  ],
+  "P571": [
+   "-200"
+  ],
+  "P276": [
+   "El Ingenio District",
+   "Désert de Sechura"
+  ],
+  "P131": [
+   "Ica",
+   "Nazca"
+  ],
+  "P17": [
+   "Pérou"
+  ],
+  "P527": [
+   "géoglyphe Condor de Nazca",
+   "géoglyphe Chien de Nazca",
+   "géoglyphe Mains de Nazca",
+   "géoglyphe Cactus de Nazca",
+   "géoglyphe Petite spirale de Nazca",
+   "géoglyphe Singe de Nazca",
+   "géoglyphe Arbre de Nazca",
+   "géoglyphe Frégate de Nazca",
+   "géoglyphe Flamant de Nazca",
+   "géoglyphe Colibri de Nazca",
+   "géoglyphe Homme-chouette de Nazca",
+   "géoglyphe Lézard de Nazca",
+   "géoglyphe Perroquet de Nazca",
+   "géoglyphe Araignée de Nazca",
+   "géoglyphe Baleine de Nazca",
+   "géoglyphe Fleur de Nazca",
+   "chat de Nazca"
+  ]
+ },
+ "sites-antiques_saqsaywaman": {
+  "qid": "Q828336",
+  "P131": [
+   "Cuzco"
+  ],
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "sites-antiques_troie": {
+  "qid": "Q22647",
+  "P571": [
+   "-3000"
+  ],
+  "P276": [
+   "Hisarlik"
+  ],
+  "P131": [
+   "Çanakkale"
+  ],
+  "P17": [
+   "Turquie",
+   "Rome antique",
+   "civilisation minoenne",
+   "Empire ottoman"
+  ],
+  "P527": [
+   "temple d'Athéna"
+  ]
+ },
+ "sites-antiques_babylone": {
+  "qid": "Q5684",
+  "P571": [
+   "-2200"
+  ],
+  "P131": [
+   "Babil"
+  ],
+  "P17": [
+   "Babylonie",
+   "empire néo-assyrien",
+   "empire néo-babylonien",
+   "Empire achéménide",
+   "royaume de Macédoine",
+   "royaume séleucide",
+   "Empire parthe",
+   "Empire parthe",
+   "Empire sassanide",
+   "califat Rachidun",
+   "Rome antique",
+   "Irak"
+  ]
+ },
+ "sites-antiques_jericho": {
+  "qid": "Q5687",
+  "P571": [
+   "-9600"
+  ],
+  "P131": [
+   "gouvernorat de Jéricho"
+  ],
+  "P17": [
+   "État de Palestine"
+  ]
+ },
+ "sites-antiques_catal-hoyuk": {
+  "qid": "Q192522",
+  "P571": [
+   "-7500"
+  ],
+  "P131": [
+   "Konya",
+   "Meram"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "sites-antiques_hattusa": {
+  "qid": "Q181007",
+  "P131": [
+   "Boğazkale district",
+   "Boğazkale"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "sites-antiques_pergame": {
+  "qid": "Q18986",
+  "P571": [
+   "-800"
+  ],
+  "P131": [
+   "Bergama",
+   "Asie",
+   "royaume de Pergame"
+  ],
+  "P17": [
+   "Turquie"
+  ],
+  "P527": [
+   "Pythion of Pergamon"
+  ]
+ },
+ "sites-antiques_jerash": {
+  "qid": "Q31565",
+  "P131": [
+   "Jerash"
+  ],
+  "P17": [
+   "Jordanie"
+  ]
+ },
+ "sites-antiques_saqqarah": {
+  "qid": "Q192134",
+  "P131": [
+   "Markaz al Badrashayn"
+  ],
+  "P17": [
+   "Égypte"
+  ],
+  "P527": [
+   "tombe d'Ouahtye"
+  ]
+ },
+ "sites-antiques_temple-d-amon-louxor": {
+  "qid": "Q319841",
+  "P571": [
+   "-1400"
+  ],
+  "P276": [
+   "Louxor"
+  ],
+  "P131": [
+   "Louxor"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "sites-antiques_phil": {
+  "qid": "Q245062",
+  "P131": [
+   "Assouan"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "sites-antiques_herculanum": {
+  "qid": "Q178813",
+  "P276": [
+   "Q24933000"
+  ],
+  "P131": [
+   "Ercolano"
+  ],
+  "P17": [
+   "Italie",
+   "Rome antique"
+  ],
+  "P527": [
+   "Q132723345",
+   "villa des Papyrus",
+   "Casa della Gemma (Herculaneum)",
+   "House of Argus",
+   "Casa del Sacello di Legno",
+   "Augusteum",
+   "Collège des Augustales",
+   "Basilica Noniana",
+   "Aristides' house",
+   "Casa dell'Albergo",
+   "théâtre romain d'Herculanum",
+   "Samnite House",
+   "Terrace and altar of M. Nonius Balbus",
+   "House of the Mosaic Atrium",
+   "Temple of Venus at Herculaneum",
+   "House of the Deer, Herculaneum",
+   "Palestra",
+   "Nettuno and Anfitrite domus",
+   "house of the Corinthian atrium",
+   "Casa del Bel cortile",
+   "Casa del Bicentenario",
+   "Alcove house",
+   "M. Pilius Primigenius Granianus house",
+   "thermes suburbains d'Herculanum",
+   "House of the Relief of Telephus"
+  ]
+ },
+ "sites-antiques_mur-d-hadrien": {
+  "qid": "Q57357",
+  "P170": [
+   "Hadrien"
+  ],
+  "P571": [
+   "122"
+  ],
+  "P131": [
+   "Northumberland",
+   "Cumbria"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "Magnis",
+   "pont de Chesters",
+   "Milecastle 0",
+   "Milecastle 1",
+   "Milecastle 2",
+   "Milecastle 3",
+   "Milecastle 4",
+   "Milecastle 5",
+   "Hadrian's Wall and vallum and their associated features between Poltross Burn and the River Irthing in wall mile 48",
+   "forts et autres structures du mur d'Hadrien",
+   "Turret 49B (Birdoswald)",
+   "Leahill Turret",
+   "Turret 48B (Willowford West)",
+   "Peel Gap Tower",
+   "Turret 22B (Stanley)",
+   "Fort romain de Housesteads",
+   "Banna",
+   "Milecastle 43",
+   "Milecastle 42",
+   "Turret 33B (Coesike)",
+   "Milecastle 51",
+   "Milecastle 46",
+   "Milecastle 35",
+   "Milecastle 6",
+   "Milecastle 66",
+   "Turret 30A (Carrowburgh East)",
+   "Turret 47B (Gap)",
+   "Turret 0B (St. Francis)",
+   "tour 0A",
+   "Turret 1B",
+   "Turret 1A",
+   "Turret 2A",
+   "Turret 2B",
+   "Turret 3A",
+   "Turret 3B",
+   "Turret 4B",
+   "Turret 35B (Busy Gap)",
+   "Turret 37B (Hotbank Crag)",
+   "Turret 33A",
+   "Turret 34A (Grindon West)",
+   "Turret 26A (High Brunton)"
+  ]
+ },
+ "sites-antiques_copan": {
+  "qid": "Q214827",
+  "P131": [
+   "Copán Ruinas"
+  ],
+  "P17": [
+   "Honduras"
+  ]
+ },
+ "sites-antiques_chan-chan": {
+  "qid": "Q277540",
+  "P571": [
+   "850"
+  ],
+  "P276": [
+   "Huanchaco",
+   "Trujillo"
+  ],
+  "P131": [
+   "La Libertad",
+   "Trujillo",
+   "district de Huanchaco"
+  ],
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "sites-antiques_monte-alban": {
+  "qid": "Q464899",
+  "P131": [
+   "Santa Cruz Xoxocotlán"
+  ],
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "sites-antiques_caral": {
+  "qid": "Q219279",
+  "P131": [
+   "Supe District"
+  ],
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "sites-antiques_sigiriya": {
+  "qid": "Q272153",
+  "P131": [
+   "Matale"
+  ],
+  "P17": [
+   "Sri Lanka"
+  ]
+ },
+ "sites-antiques_bagan": {
+  "qid": "Q29317",
+  "P571": [
+   "200"
+  ],
+  "P131": [
+   "Mandalay",
+   "royaume de Pagan"
+  ],
+  "P17": [
+   "Birmanie"
+  ]
+ }
+}

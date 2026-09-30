@@ -1,0 +1,114 @@
+{
+ "theoremes-et-lois_theoreme-de-pythagore": {
+  "k": 1
+ },
+ "theoremes-et-lois_lois-de-kepler": {
+  "k": 0
+ },
+ "theoremes-et-lois_relativite-generale": {
+  "k": 0
+ },
+ "theoremes-et-lois_loi-de-boyle-mariotte": {
+  "k": 0
+ },
+ "theoremes-et-lois_loi-de-coulomb-electrostatique": {
+  "k": 0
+ },
+ "theoremes-et-lois_loi-de-hooke": {
+  "k": 0
+ },
+ "theoremes-et-lois_principe-de-pascal": {
+  "k": 0
+ },
+ "theoremes-et-lois_dernier-theoreme-de-fermat": {
+  "k": 0
+ },
+ "theoremes-et-lois_suite-de-fibonacci": {
+  "k": 0
+ },
+ "theoremes-et-lois_nombre-d-or": {
+  "k": 6,
+  "cx": 0.535,
+  "cy": 0.5,
+  "w": 0.66
+ },
+ "theoremes-et-lois_theoreme-des-quatre-couleurs": {
+  "k": 1
+ },
+ "theoremes-et-lois_conjecture-de-poincare": {
+  "k": 5
+ },
+ "theoremes-et-lois_effet-photoelectrique": {
+  "k": 0
+ },
+ "theoremes-et-lois_lois-du-mouvement-de-newton": {
+  "k": 0
+ },
+ "theoremes-et-lois_loi-universelle-de-la-gravitation": {
+  "k": 4
+ },
+ "theoremes-et-lois_relativite-restreinte": {
+  "k": 5
+ },
+ "theoremes-et-lois_loi-d-ohm": {
+  "k": 2
+ },
+ "theoremes-et-lois_conservation-de-l-energie": {
+  "k": 4
+ },
+ "theoremes-et-lois_conservation-de-la-masse": {
+  "k": 0
+ },
+ "theoremes-et-lois_lois-de-snell-descartes": {
+  "k": 3
+ },
+ "theoremes-et-lois_loi-de-moore": {
+  "k": 4
+ },
+ "theoremes-et-lois_selection-naturelle": {
+  "k": 1
+ },
+ "theoremes-et-lois_lois-de-mendel": {
+  "k": 5
+ },
+ "theoremes-et-lois_big-bang": {
+  "k": 4
+ },
+ "theoremes-et-lois_tectonique-des-plaques": {
+  "k": 3
+ },
+ "theoremes-et-lois_theoreme-de-thales": {
+  "k": 1
+ },
+ "theoremes-et-lois_poussee-d-archimede": {
+  "k": 6
+ },
+ "theoremes-et-lois_e-mc2": {
+  "k": 0
+ },
+ "theoremes-et-lois_principe-d-incertitude": {
+  "k": 0
+ },
+ "theoremes-et-lois_equations-de-maxwell": {
+  "k": 3,
+  "cy": 0.3
+ },
+ "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
+  "k": 1
+ },
+ "theoremes-et-lois_deuxieme-principe-de-la-thermodynamique": {
+  "k": 2
+ },
+ "theoremes-et-lois_loi-d-avogadro": {
+  "k": 0
+ },
+ "theoremes-et-lois_effet-doppler": {
+  "k": 1
+ },
+ "theoremes-et-lois_theoremes-d-incompletude-de-godel": {
+  "k": 5
+ },
+ "theoremes-et-lois_pi": {
+  "k": 0
+ }
+}

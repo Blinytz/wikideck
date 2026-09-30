@@ -31846,12 +31846,11 @@
    "auto": true
   },
   "iles_java-ile": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4,
+   "cy": 0.5244,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790787808635,
+   "original": true
   },
   "iles_sumatra": {
    "cx": 0.5,

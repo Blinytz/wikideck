@@ -52348,9 +52348,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.5,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790745726407,
+   "original": true
   },
   "langues-du-monde_lingala": {
    "cx": 0.5,
@@ -53537,7 +53536,7 @@
   "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-de-gerardmer": {
    "cx": 0.5,
    "cy": 0.42,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53545,7 +53544,7 @@
   "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-d-avoriaz": {
    "cx": 0.5,
    "cy": 0.42,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

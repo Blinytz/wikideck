@@ -31881,12 +31881,11 @@
    "auto": true
   },
   "iles_ile-de-paques": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4885,
+   "cy": 0.445,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790745777182,
+   "original": true
   },
   "iles_iles-galapagos": {
    "cx": 0.5,

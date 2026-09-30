@@ -31787,10 +31787,9 @@
   "iles_groenland": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1790787755691,
+   "original": true
   },
   "iles_nouvelle-guinee": {
    "cx": 0.5,

@@ -1,0 +1,475 @@
+{
+ "figures-resistance_jean-moulin": {
+  "qid": "Q632",
+  "P569": [
+   "1899",
+   "1899"
+  ],
+  "P570": [
+   "1943",
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_lucie-aubrac": {
+  "qid": "Q437091",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_missak-manouchian": {
+  "qid": "Q708078",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Empire ottoman"
+  ],
+  "P101": [
+   "résistance dans l'Europe occupée par les nazis",
+   "communisme",
+   "poésie",
+   "Seconde Guerre mondiale",
+   "écriture créative et professionnelle"
+  ]
+ },
+ "figures-resistance_sophie-scholl": {
+  "qid": "Q76972",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "Reich allemand"
+  ]
+ },
+ "figures-resistance_germaine-tillion": {
+  "qid": "Q271991",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_irena-sendler": {
+  "qid": "Q151932",
+  "P569": [
+   "1910",
+   "1910"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "Pologne"
+  ]
+ },
+ "figures-resistance_raymond-aubrac": {
+  "qid": "Q567529",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_pierre-brossolette": {
+  "qid": "Q680881",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_honore-d-estienne-d-orves": {
+  "qid": "Q471460",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_guy-moquet": {
+  "qid": "Q695689",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_danielle-casanova": {
+  "qid": "Q457505",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_berty-albrecht": {
+  "qid": "Q454199",
+  "P569": [
+   "1893"
+  ],
+  "P570": [
+   "1943",
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_marie-madeleine-fourcade": {
+  "qid": "Q3292123",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "résistance dans l'Europe occupée par les nazis"
+  ]
+ },
+ "figures-resistance_henri-frenay": {
+  "qid": "Q463367",
+  "P569": [
+   "1905"
+  ],
+  "P570": [
+   "1988"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_genevieve-de-gaulle-anthonioz": {
+  "qid": "Q275274",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2002",
+   "2002"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_colonel-fabien": {
+  "qid": "Q319927",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_stephane-hessel": {
+  "qid": "Q165110",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "France",
+   "Allemagne"
+  ],
+  "P800": [
+   "Indignez-vous !",
+   "Engagez-vous !"
+  ]
+ },
+ "figures-resistance_daniel-cordier": {
+  "qid": "Q3013877",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "collectionnisme",
+   "art",
+   "peinture"
+  ]
+ },
+ "figures-resistance_jean-cavailles": {
+  "qid": "Q515633",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_marc-bloch": {
+  "qid": "Q156585",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "École des Annales"
+  ],
+  "P800": [
+   "Les Rois thaumaturges",
+   "L'Étrange Défaite",
+   "Apologie pour l'histoire ou Métier d'historien",
+   "Annales. Histoire, Sciences sociales"
+  ],
+  "P101": [
+   "histoire médiévale"
+  ]
+ },
+ "figures-resistance_olga-bancic": {
+  "qid": "Q468191",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Roumanie"
+  ]
+ },
+ "figures-resistance_jacques-bingen": {
+  "qid": "Q829282",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_claus-von-stauffenberg": {
+  "qid": "Q21209",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Reich allemand"
+  ]
+ },
+ "figures-resistance_hans-scholl": {
+  "qid": "Q57820",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "république de Weimar",
+   "Troisième Reich"
+  ]
+ },
+ "figures-resistance_witold-pilecki": {
+  "qid": "Q315691",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1948"
+  ],
+  "P27": [
+   "Pologne"
+  ],
+  "P800": [
+   "Rapports Pilecki"
+  ]
+ },
+ "figures-resistance_jan-karski": {
+  "qid": "Q212523",
+  "P569": [
+   "1914",
+   "1914"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Pologne",
+   "États-Unis"
+  ],
+  "P800": [
+   "Mon témoignage devant le monde - Histoire d'un État secret",
+   "Rapports Karski"
+  ],
+  "P101": [
+   "droit"
+  ]
+ },
+ "figures-resistance_hannie-schaft": {
+  "qid": "Q448486",
+  "P569": [
+   "1920",
+   "1921"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "figures-resistance_nancy-wake": {
+  "qid": "Q234134",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Nouvelle-Zélande",
+   "Australie"
+  ]
+ },
+ "figures-resistance_violette-szabo": {
+  "qid": "Q255016",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_noor-inayat-khan": {
+  "qid": "Q464957",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Raj britannique"
+  ],
+  "P800": [
+   "20 Contes des vies passées du Bouddha"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "figures-resistance_tom-morel": {
+  "qid": "Q3530804",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-resistance_pierre-de-benouville": {
+  "qid": "Q3387480",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "littérature",
+   "journalisme",
+   "politique",
+   "domaine militaire"
+  ]
+ },
+ "figures-resistance_josephine-baker": {
+  "qid": "Q151972",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "États-Unis",
+   "France"
+  ],
+  "P135": [
+   "Renaissance de Harlem"
+  ],
+  "P800": [
+   "Les mémoires de Joséphine Baker"
+  ],
+  "P136": [
+   "cabaret",
+   "music-hall",
+   "pop française"
+  ]
+ }
+}

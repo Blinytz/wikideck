@@ -1,0 +1,233 @@
+{
+ "objets-mythiques_mjollnir": {
+  "qid": "Q193813",
+  "P170": [
+   "Eitri",
+   "Brokk"
+  ]
+ },
+ "objets-mythiques_arche-de-noe": {
+  "qid": "Q126553",
+  "P170": [
+   "Noé"
+  ],
+  "P186": [
+   "gopher"
+  ]
+ },
+ "objets-mythiques_arche-d-alliance": {
+  "qid": "Q131316",
+  "P186": [
+   "bois d'acacia",
+   "or",
+   "peau"
+  ],
+  "P527": [
+   "propitiatoire"
+  ]
+ },
+ "objets-mythiques_excalibur": {
+  "qid": "Q187880",
+  "P495": [
+   "pays de Galles"
+  ]
+ },
+ "objets-mythiques_graal": {
+  "qid": "Q162808"
+ },
+ "objets-mythiques_table-ronde": {
+  "qid": "Q381981",
+  "P170": [
+   "Merlin"
+  ],
+  "P276": [
+   "Camelot"
+  ]
+ },
+ "objets-mythiques_durandal": {
+  "qid": "Q640832"
+ },
+ "objets-mythiques_joyeuse-epee": {
+  "qid": "Q1631165",
+  "P571": [
+   "950"
+  ],
+  "P276": [
+   "salle 502"
+  ],
+  "P195": [
+   "département des objets d'art du musée du Louvre"
+  ],
+  "P186": [
+   "or",
+   "acier"
+  ]
+ },
+ "objets-mythiques_toison-d-or": {
+  "qid": "Q212262"
+ },
+ "objets-mythiques_cheval-de-troie": {
+  "qid": "Q50193"
+ },
+ "objets-mythiques_boite-de-pandore": {
+  "qid": "Q937164"
+ },
+ "objets-mythiques_egide": {
+  "qid": "Q190662",
+  "P170": [
+   "Héphaïstos"
+  ],
+  "P495": [
+   "Grèce antique"
+  ],
+  "P186": [
+   "cuir"
+  ]
+ },
+ "objets-mythiques_caducee": {
+  "qid": "Q238577"
+ },
+ "objets-mythiques_corne-d-abondance": {
+  "qid": "Q332682"
+ },
+ "objets-mythiques_gungnir": {
+  "qid": "Q827918",
+  "P170": [
+   "Fils d'Ivaldi"
+  ]
+ },
+ "objets-mythiques_draupnir": {
+  "qid": "Q827875",
+  "P170": [
+   "Brokk",
+   "Eitri"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "objets-mythiques_vajra": {
+  "qid": "Q695709"
+ },
+ "objets-mythiques_sampo": {
+  "qid": "Q180956",
+  "P170": [
+   "Ilmarinen"
+  ]
+ },
+ "objets-mythiques_baton-de-moise": {
+  "qid": "Q2893333"
+ },
+ "objets-mythiques_pierre-philosophale": {
+  "qid": "Q182053"
+ },
+ "objets-mythiques_talaria": {
+  "qid": "Q1960423"
+ },
+ "objets-mythiques_pomme-d-or-de-la-discorde": {
+  "qid": "Q146970",
+  "P170": [
+   "Éris"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "objets-mythiques_anneau-de-gyges": {
+  "qid": "Q1359925"
+ },
+ "objets-mythiques_gjallarhorn": {
+  "qid": "Q607348"
+ },
+ "objets-mythiques_collier-des-brisingar": {
+  "qid": "Q917766",
+  "P170": [
+   "Alfrigg",
+   "Dvalin",
+   "Berlingr",
+   "Grerr"
+  ]
+ },
+ "objets-mythiques_gram-epee": {
+  "qid": "Q1044686",
+  "P170": [
+   "Regin"
+  ]
+ },
+ "objets-mythiques_pierre-de-fal": {
+  "qid": "Q687578",
+  "P131": [
+   "comté de Meath"
+  ],
+  "P17": [
+   "Irlande"
+  ]
+ },
+ "objets-mythiques_tables-de-la-loi": {
+  "qid": "Q2915196",
+  "P186": [
+   "pierre"
+  ]
+ },
+ "objets-mythiques_sainte-lance": {
+  "qid": "Q478195"
+ },
+ "objets-mythiques_sceau-de-salomon-legende": {
+  "qid": "Q2594210",
+  "P170": [
+   "Salomon"
+  ]
+ },
+ "objets-mythiques_la-lampe-d-aladin": {
+  "qid": "Q2818864",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1948"
+  ],
+  "P136": [
+   "comédie",
+   "film et téléfilm de fantasy"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "objets-mythiques_bottes-de-sept-lieues": {
+  "qid": "Q2282444"
+ },
+ "objets-mythiques_kusanagi": {
+  "qid": "Q14944",
+  "P276": [
+   "Atsuta-jingū"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "objets-mythiques_baton-de-bon-plaisir-cercle-d-or": {
+  "qid": "Q834090"
+ },
+ "objets-mythiques_trishula": {
+  "qid": "Q3539698",
+  "P495": [
+   "Inde"
+  ]
+ },
+ "objets-mythiques_ankh": {
+  "qid": "Q180439"
+ },
+ "objets-mythiques_tizona": {
+  "qid": "Q1247724",
+  "P276": [
+   "Burgos"
+  ],
+  "P495": [
+   "comté d'Urgell"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ }
+}

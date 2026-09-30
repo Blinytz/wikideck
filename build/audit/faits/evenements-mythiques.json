@@ -1,0 +1,215 @@
+{
+ "evenements-mythiques_ragnarok": {
+  "qid": "Q170148",
+  "P276": [
+   "Vígríd"
+  ]
+ },
+ "evenements-mythiques_deluge": {
+  "qid": "Q134052",
+  "P527": [
+   "Déluge de la Genèse",
+   "Gilgamesh flood myth",
+   "mythe d'Atrahasis"
+  ]
+ },
+ "evenements-mythiques_armageddon": {
+  "qid": "Q193151"
+ },
+ "evenements-mythiques_jugement-dernier": {
+  "qid": "Q1821239"
+ },
+ "evenements-mythiques_guerre-de-troie": {
+  "qid": "Q42937",
+  "P276": [
+   "Troie"
+  ]
+ },
+ "evenements-mythiques_titanomachie": {
+  "qid": "Q220878"
+ },
+ "evenements-mythiques_gigantomachie": {
+  "qid": "Q1160680",
+  "P276": [
+   "péninsule de Cassandra"
+  ]
+ },
+ "evenements-mythiques_travaux-d-heracles": {
+  "qid": "Q1233460",
+  "P527": [
+   "Héraclès et le lion de Némée",
+   "Héraclès et l'Hydre de Lerne",
+   "Héraclès et les écuries d'Augias",
+   "capture de Cerbère par Héraclès",
+   "pommes d'or du jardin des Hespérides",
+   "ceinture d'Hippolyte"
+  ]
+ },
+ "evenements-mythiques_jugement-de-paris": {
+  "qid": "Q1784308"
+ },
+ "evenements-mythiques_barattage-de-la-mer-de-lait": {
+  "qid": "Q606110"
+ },
+ "evenements-mythiques_bataille-de-kurukshetra": {
+  "qid": "Q387123",
+  "P276": [
+   "Kurukshetra"
+  ]
+ },
+ "evenements-mythiques_chute-bible": {
+  "qid": "Q1135949"
+ },
+ "evenements-mythiques_cain-et-abel-genese": {
+  "qid": "Q717996",
+  "P527": [
+   "Caïn",
+   "Abel"
+  ]
+ },
+ "evenements-mythiques_dix-plaies-d-egypte": {
+  "qid": "Q184569",
+  "P527": [
+   "l'eau du fleuve se transforme en sang",
+   "l'invasion de grenouilles",
+   "Des moustiques infestent l'homme et le bétail",
+   "Des taons envahissent les maisons",
+   "La peste anéantit chevaux, ânes, chameaux, bovins et moutons.",
+   "Des ulcères affligent l'homme et le bétail.",
+   "La grêle tue l'homme et le bétail, détruit les récoltes et les arbres.",
+   "Des nuées de sauterelles couvrent le pays et dévorent toutes les plantes.",
+   "Les ténèbres  durent trois jours.",
+   "La mort s'abat sur tous les premiers-nés de l'homme et du bétail."
+  ]
+ },
+ "evenements-mythiques_passage-de-la-mer-rouge": {
+  "qid": "Q1233823",
+  "P276": [
+   "mer des Joncs"
+  ]
+ },
+ "evenements-mythiques_ligature-d-isaac": {
+  "qid": "Q5007906",
+  "P276": [
+   "mont Moriah"
+  ]
+ },
+ "evenements-mythiques_argonautes": {
+  "qid": "Q165510"
+ },
+ "evenements-mythiques_odyssee": {
+  "qid": "Q35160",
+  "P495": [
+   "Grèce antique"
+  ],
+  "P50": [
+   "Homère"
+  ],
+  "P136": [
+   "épopée",
+   "fiction d'aventures"
+  ],
+  "P527": [
+   "Chant I",
+   "Chant II",
+   "Chant III",
+   "Chant IV",
+   "Chant V",
+   "Chant VI",
+   "Chant VII",
+   "Chant VIII",
+   "Chant IX",
+   "Chant X",
+   "Chant XI",
+   "Chant XII",
+   "Chant XIII",
+   "Chant XIV",
+   "Chant XV",
+   "Chant XVI",
+   "Chant XVII",
+   "Chant XVIII",
+   "Chant XIX",
+   "Chant XX",
+   "Chant XXI",
+   "Chant XXII",
+   "Chant XXIII",
+   "Chant XXIV"
+  ]
+ },
+ "evenements-mythiques_vol-du-feu": {
+  "qid": "Q7777761"
+ },
+ "evenements-mythiques_la-descente-d-orphee-aux-enfers": {
+  "qid": "Q6466096"
+ },
+ "evenements-mythiques_fondation-de-rome": {
+  "qid": "Q1247524",
+  "P131": [
+   "Rome"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "evenements-mythiques_guerre-entre-les-ases-et-les-vanes": {
+  "qid": "Q1193026"
+ },
+ "evenements-mythiques_mythe-d-osiris": {
+  "qid": "Q28246"
+ },
+ "evenements-mythiques_jugement-de-l-ame-egypte-antique": {
+  "qid": "Q447118"
+ },
+ "evenements-mythiques_un-livre-dont-vous-etes-le-heros": {
+  "qid": "Q56055314",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "livre-jeu"
+  ],
+  "P527": [
+   "L'Épée de Légende",
+   "Épouvante !",
+   "Loup* Ardent",
+   "Loup Solitaire",
+   "Les Messagers du temps",
+   "Métamorphoses",
+   "Quête du Graal",
+   "Sorcellerie !",
+   "La Voie du tigre",
+   "Astre d'Or",
+   "Chroniques crétoises",
+   "Défis et Sortilèges",
+   "Sherlock Holmes",
+   "Histoire",
+   "Le Maître du destin",
+   "Destins",
+   "Double jeu",
+   "Défis de l'histoire",
+   "Défis fantastiques",
+   "Les Portes interdites"
+  ]
+ },
+ "evenements-mythiques_ramayana": {
+  "qid": "Q37293",
+  "P50": [
+   "Vâlmîki"
+  ],
+  "P136": [
+   "épopée"
+  ],
+  "P527": [
+   "Balakanda",
+   "Ayodhya Kanda",
+   "Aranyakanda",
+   "Kishkindhakanda",
+   "Sundara Kanda",
+   "Lankakanda",
+   "Uttarakanda"
+  ]
+ },
+ "evenements-mythiques_legende-des-soleils": {
+  "qid": "Q786836"
+ }
+}

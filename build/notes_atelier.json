@@ -31945,11 +31945,12 @@
    "original": true
   },
   "iles_capri": {
-   "cx": 0.4,
-   "cy": 0.5321,
+   "cx": 0.5,
+   "cy": 0.5,
    "w": 0.8,
-   "editeLe": 1790787834508,
-   "original": true
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "iles_ibiza": {
    "cx": 0.5,

@@ -1,0 +1,204 @@
+{
+ "lieux-legendaires_atlantide": {
+  "qid": "Q25373"
+ },
+ "lieux-legendaires_eldorado": {
+  "qid": "Q192550"
+ },
+ "lieux-legendaires_shangri-la": {
+  "qid": "Q464520",
+  "P170": [
+   "James Hilton"
+  ]
+ },
+ "lieux-legendaires_camelot": {
+  "qid": "Q220437",
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "lieux-legendaires_eden": {
+  "qid": "Q19014",
+  "P170": [
+   "Dieu"
+  ],
+  "P527": [
+   "arbre de vie",
+   "houri",
+   "wildan mukhalladun"
+  ]
+ },
+ "lieux-legendaires_lemurie": {
+  "qid": "Q470970"
+ },
+ "lieux-legendaires_avalon": {
+  "qid": "Q216901"
+ },
+ "lieux-legendaires_hyperboreens": {
+  "qid": "Q11925683",
+  "P27": [
+   "Hyperboréens"
+  ]
+ },
+ "lieux-legendaires_thule-mythologie": {
+  "qid": "Q671008"
+ },
+ "lieux-legendaires_ys": {
+  "qid": "Q1048500",
+  "P17": [
+   "royaume de Cornouaille"
+  ]
+ },
+ "lieux-legendaires_broceliande": {
+  "qid": "Q2925919",
+  "P17": [
+   "France"
+  ]
+ },
+ "lieux-legendaires_agartha": {
+  "qid": "Q390719"
+ },
+ "lieux-legendaires_shambhala-mythe": {
+  "qid": "Q432682"
+ },
+ "lieux-legendaires_cites-d-or": {
+  "qid": "Q1567934"
+ },
+ "lieux-legendaires_mu-continent": {
+  "qid": "Q272562"
+ },
+ "lieux-legendaires_aztlan": {
+  "qid": "Q740961"
+ },
+ "lieux-legendaires_ile-de-brasil": {
+  "qid": "Q899371"
+ },
+ "lieux-legendaires_kitej": {
+  "qid": "Q621128",
+  "P131": [
+   "Raïon de Voskressenskoïe"
+  ],
+  "P17": [
+   "Russie",
+   "tsarat de Moscou",
+   "Empire russe"
+  ]
+ },
+ "lieux-legendaires_pays-de-pount": {
+  "qid": "Q282350",
+  "P571": [
+   "-2400"
+  ],
+  "P276": [
+   "Corne de l'Afrique"
+  ]
+ },
+ "lieux-legendaires_fontaine-de-jouvence": {
+  "qid": "Q775332"
+ },
+ "lieux-legendaires_pays-de-cocagne": {
+  "qid": "Q6645"
+ },
+ "lieux-legendaires_ile-de-saint-brendan": {
+  "qid": "Q929938"
+ },
+ "lieux-legendaires_tour-de-babel": {
+  "qid": "Q41213",
+  "P131": [
+   "Babylone"
+  ],
+  "P17": [
+   "Babylonie"
+  ]
+ },
+ "lieux-legendaires_jerusalem-celeste": {
+  "qid": "Q567888"
+ },
+ "lieux-legendaires_sodome-et-gomorrhe": {
+  "qid": "Q180141",
+  "P527": [
+   "Sodome",
+   "Gomorrhe"
+  ]
+ },
+ "lieux-legendaires_iles-des-bienheureux": {
+  "qid": "Q2336662"
+ },
+ "lieux-legendaires_valhalla": {
+  "qid": "Q177860"
+ },
+ "lieux-legendaires_yggdrasil": {
+  "qid": "Q131135"
+ },
+ "lieux-legendaires_apsu": {
+  "qid": "Q221574"
+ },
+ "lieux-legendaires_tartare-mythologie": {
+  "qid": "Q101322"
+ },
+ "lieux-legendaires_champs-elysees-mythologie": {
+  "qid": "Q157128"
+ },
+ "lieux-legendaires_hesperides": {
+  "qid": "Q165938",
+  "P276": [
+   "Lixus"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P527": [
+   "Églé",
+   "Aréthuse",
+   "Érythie",
+   "Hespérie"
+  ]
+ },
+ "lieux-legendaires_asgard-mythologie": {
+  "qid": "Q178182",
+  "P276": [
+   "Midgard",
+   "Asie"
+  ]
+ },
+ "lieux-legendaires_midgard": {
+  "qid": "Q180682"
+ },
+ "lieux-legendaires_xibalba": {
+  "qid": "Q1129970"
+ },
+ "lieux-legendaires_mictlan": {
+  "qid": "Q543054"
+ },
+ "lieux-legendaires_kunlun-mythologie": {
+  "qid": "Q8195074"
+ },
+ "lieux-legendaires_mont-meru": {
+  "qid": "Q652550",
+  "P276": [
+   "Sāgara"
+  ]
+ },
+ "lieux-legendaires_lyonesse": {
+  "qid": "Q2305146",
+  "P50": [
+   "Jack Vance"
+  ],
+  "P577": [
+   "1980"
+  ],
+  "P136": [
+   "science fantasy",
+   "science-fiction",
+   "fantasy"
+  ],
+  "P527": [
+   "Le Jardin de Suldrun",
+   "La Perle verte",
+   "Madouc"
+  ]
+ },
+ "lieux-legendaires_tir-na-nog": {
+  "qid": "Q2463952"
+ }
+}

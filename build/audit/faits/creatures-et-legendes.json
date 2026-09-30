@@ -1,0 +1,241 @@
+{
+ "creatures-et-legendes_dragon-europeen": {
+  "qid": "Q3058816"
+ },
+ "creatures-et-legendes_dragon-oriental": {
+  "qid": "Q215605",
+  "P495": [
+   "Chine"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "creatures-et-legendes_phenix": {
+  "qid": "Q48444",
+  "P17": [
+   "Grèce antique"
+  ]
+ },
+ "creatures-et-legendes_licorne": {
+  "qid": "Q7246",
+  "P527": [
+   "Corne de licorne"
+  ]
+ },
+ "creatures-et-legendes_griffon-mythologie": {
+  "qid": "Q130223",
+  "P527": [
+   "aigle",
+   "lion"
+  ]
+ },
+ "creatures-et-legendes_kraken": {
+  "qid": "Q193165"
+ },
+ "creatures-et-legendes_sirene-mythologie-grecque": {
+  "qid": "Q150986"
+ },
+ "creatures-et-legendes_lycanthrope": {
+  "qid": "Q9410"
+ },
+ "creatures-et-legendes_vampire": {
+  "qid": "Q46721"
+ },
+ "creatures-et-legendes_golem": {
+  "qid": "Q215085",
+  "P17": [
+   "royaume de Bohême"
+  ]
+ },
+ "creatures-et-legendes_yeti": {
+  "qid": "Q129628",
+  "P495": [
+   "Népal"
+  ],
+  "P17": [
+   "région autonome du Tibet",
+   "Népal"
+  ]
+ },
+ "creatures-et-legendes_bigfoot": {
+  "qid": "Q44810",
+  "P495": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "creatures-et-legendes_monstre-du-loch-ness": {
+  "qid": "Q49658",
+  "P131": [
+   "Highland"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "creatures-et-legendes_chupacabra": {
+  "qid": "Q183571"
+ },
+ "creatures-et-legendes_homme-papillon": {
+  "qid": "Q746248",
+  "P131": [
+   "Virginie-Occidentale",
+   "Point Pleasant",
+   "comté de Mason"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "creatures-et-legendes_basilic-mythologie": {
+  "qid": "Q152519"
+ },
+ "creatures-et-legendes_salamandre-animal-legendaire": {
+  "qid": "Q1140626"
+ },
+ "creatures-et-legendes_rokh": {
+  "qid": "Q822321"
+ },
+ "creatures-et-legendes_fee": {
+  "qid": "Q8028"
+ },
+ "creatures-et-legendes_elfe": {
+  "qid": "Q174396"
+ },
+ "creatures-et-legendes_gobelin-folklore": {
+  "qid": "Q308697"
+ },
+ "creatures-et-legendes_ogre": {
+  "qid": "Q290562"
+ },
+ "creatures-et-legendes_bete-du-gevaudan": {
+  "qid": "Q211453",
+  "P17": [
+   "Gévaudan"
+  ],
+  "P527": [
+   "Q113550931"
+  ]
+ },
+ "creatures-et-legendes_tarasque": {
+  "qid": "Q1063874",
+  "P276": [
+   "Tarascon"
+  ]
+ },
+ "creatures-et-legendes_manticore": {
+  "qid": "Q223795"
+ },
+ "creatures-et-legendes_cocatrix": {
+  "qid": "Q1371084"
+ },
+ "creatures-et-legendes_hippogriffe": {
+  "qid": "Q335179",
+  "P495": [
+   "Italie"
+  ],
+  "P527": [
+   "cheval",
+   "aigle"
+  ]
+ },
+ "creatures-et-legendes_leviathan": {
+  "qid": "Q192677"
+ },
+ "creatures-et-legendes_behemoth": {
+  "qid": "Q378477"
+ },
+ "creatures-et-legendes_djinn": {
+  "qid": "Q3465",
+  "P527": [
+   "Iblis",
+   "Éfrit",
+   "Marid",
+   "Sheitan",
+   "Satan",
+   "diable",
+   "goule",
+   "Um as-Sibyan",
+   "Qarin"
+  ]
+ },
+ "creatures-et-legendes_goule": {
+  "qid": "Q208446"
+ },
+ "creatures-et-legendes_bunyip": {
+  "qid": "Q973546"
+ },
+ "creatures-et-legendes_diable-de-jersey": {
+  "qid": "Q668330",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "creatures-et-legendes_mokele-mbembe": {
+  "qid": "Q555716"
+ },
+ "creatures-et-legendes_korrigan": {
+  "qid": "Q582566"
+ },
+ "creatures-et-legendes_zombie": {
+  "qid": "Q9406"
+ },
+ "creatures-et-legendes_momie": {
+  "qid": "Q43616"
+ },
+ "creatures-et-legendes_gnome": {
+  "qid": "Q188215"
+ },
+ "creatures-et-legendes_melusine-fee": {
+  "qid": "Q940279",
+  "P495": [
+   "royaume de France"
+  ]
+ },
+ "creatures-et-legendes_sorciere": {
+  "qid": "Q1616828"
+ },
+ "creatures-et-legendes_fantome": {
+  "qid": "Q45529",
+  "P527": [
+   "ghosts in Thai culture"
+  ]
+ },
+ "creatures-et-legendes_nain-creature-fantastique": {
+  "qid": "Q214045"
+ },
+ "creatures-et-legendes_geant-mythologie": {
+  "qid": "Q3707571"
+ },
+ "creatures-et-legendes_vouivre": {
+  "qid": "Q3486985"
+ },
+ "creatures-et-legendes_croque-mitaine": {
+  "qid": "Q172451"
+ },
+ "creatures-et-legendes_dahu": {
+  "qid": "Q672799"
+ },
+ "creatures-et-legendes_dame-blanche-legende": {
+  "qid": "Q2166642"
+ },
+ "creatures-et-legendes_demon-esprit": {
+  "qid": "Q177413"
+ },
+ "creatures-et-legendes_lutin": {
+  "qid": "Q733664"
+ },
+ "creatures-et-legendes_serpent-de-mer": {
+  "qid": "Q379173"
+ },
+ "creatures-et-legendes_succube": {
+  "qid": "Q715822"
+ },
+ "creatures-et-legendes_lamia-mythologie": {
+  "qid": "Q200073"
+ }
+}

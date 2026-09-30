@@ -1,0 +1,1288 @@
+{
+ "figures-emancipation_martin-luther-king": {
+  "qid": "Q8027",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "mouvement pour les droits sociaux",
+   "non-violence",
+   "mouvement ouvrier aux États-Unis",
+   "Mouvements américain des droits civiques"
+  ],
+  "P101": [
+   "activité politique",
+   "droits civils",
+   "racisme",
+   "ségrégation",
+   "mouvement pacifiste",
+   "politique",
+   "journalisme d'opinion",
+   "Baptist church",
+   "homilétique",
+   "cure"
+  ]
+ },
+ "figures-emancipation_malcolm-x": {
+  "qid": "Q43303",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "protection des droits humains"
+  ]
+ },
+ "figures-emancipation_rosa-parks": {
+  "qid": "Q41921",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "mouvement pour les droits sociaux",
+   "droits civiques",
+   "ségrégation",
+   "militantisme",
+   "droits civils"
+  ]
+ },
+ "figures-emancipation_frederick-douglass": {
+  "qid": "Q215562",
+  "P569": [
+   "1818",
+   "1817",
+   "1818"
+  ],
+  "P570": [
+   "1895",
+   "1895"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "droit de vote",
+   "abolitionnisme"
+  ],
+  "P800": [
+   "Récit de la vie de Frederick Douglass, un esclave américain"
+  ],
+  "P101": [
+   "abolitionnisme"
+  ]
+ },
+ "figures-emancipation_harriet-tubman": {
+  "qid": "Q102870",
+  "P569": [
+   "1821",
+   "1820",
+   "1822"
+  ],
+  "P570": [
+   "1913"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "abolitionnisme",
+   "droits des femmes",
+   "droit de vote"
+  ]
+ },
+ "figures-emancipation_sojourner-truth": {
+  "qid": "Q105180",
+  "P569": [
+   "1797"
+  ],
+  "P570": [
+   "1883"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "abolitionnisme"
+  ]
+ },
+ "figures-emancipation_w-e-b-du-bois": {
+  "qid": "Q158060",
+  "P569": [
+   "1868",
+   "1868"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis",
+   "Ghana"
+  ],
+  "P800": [
+   "Les Âmes du peuple noir",
+   "John Brown",
+   "Black Reconstruction",
+   "Pénombre de l'Aube",
+   "Les Noirs de Philadelphie"
+  ],
+  "P101": [
+   "droits civiques"
+  ]
+ },
+ "figures-emancipation_ida-b-wells": {
+  "qid": "Q289428",
+  "P569": [
+   "1862"
+  ],
+  "P570": [
+   "1931"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Renaissance de Harlem"
+  ],
+  "P101": [
+   "sociologie"
+  ]
+ },
+ "figures-emancipation_nat-turner": {
+  "qid": "Q329730",
+  "P569": [
+   "1800"
+  ],
+  "P570": [
+   "1831"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_angela-davis": {
+  "qid": "Q160456",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Femmes, race et classe",
+   "La prison est-elle obsolète ?",
+   "Angela Davis: An Autobiography"
+  ],
+  "P101": [
+   "féminisme",
+   "mouvement pacifiste",
+   "militantisme"
+  ]
+ },
+ "figures-emancipation_william-wilberforce": {
+  "qid": "Q207672",
+  "P569": [
+   "1759"
+  ],
+  "P570": [
+   "1833"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "figures-emancipation_victor-sch-lcher": {
+  "qid": "Q120417",
+  "P569": [
+   "1804"
+  ],
+  "P570": [
+   "1893"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-emancipation_ruth-bader-ginsburg": {
+  "qid": "Q11116",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "droit",
+   "droits des femmes",
+   "égalité des sexes",
+   "genre",
+   "tribunal",
+   "cour suprême"
+  ]
+ },
+ "figures-emancipation_steve-biko": {
+  "qid": "Q214473",
+  "P569": [
+   "1946"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "Afrique du Sud"
+  ],
+  "P101": [
+   "apartheid"
+  ]
+ },
+ "figures-emancipation_desmond-tutu": {
+  "qid": "Q43033",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "Afrique du Sud"
+  ],
+  "P101": [
+   "Église d'Angleterre",
+   "anglicanisme",
+   "théologie protestante",
+   "droits humains",
+   "droits civiques",
+   "militantisme",
+   "droits civils"
+  ]
+ },
+ "figures-emancipation_winnie-mandela": {
+  "qid": "Q239062",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "Afrique du Sud"
+  ]
+ },
+ "figures-emancipation_olympe-de-gouges": {
+  "qid": "Q206972",
+  "P569": [
+   "1748"
+  ],
+  "P570": [
+   "1793"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Déclaration des droits de la femme et de la citoyenne",
+   "Zamore et Mirza ou l'Esclavage des Noirs"
+  ],
+  "P101": [
+   "abolitionnisme",
+   "féminisme"
+  ]
+ },
+ "figures-emancipation_emmeline-pankhurst": {
+  "qid": "Q211519",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1928"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Suffragette"
+  ],
+  "P101": [
+   "droit de vote des femmes"
+  ]
+ },
+ "figures-emancipation_emily-davison": {
+  "qid": "Q254858",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1913"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "suffragisme"
+  ]
+ },
+ "figures-emancipation_susan-b-anthony": {
+  "qid": "Q192245",
+  "P569": [
+   "1820"
+  ],
+  "P570": [
+   "1906"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Revolution"
+  ],
+  "P101": [
+   "droit de vote des femmes"
+  ]
+ },
+ "figures-emancipation_elizabeth-cady-stanton": {
+  "qid": "Q465335",
+  "P569": [
+   "1815",
+   "1815"
+  ],
+  "P570": [
+   "1902"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "transcendantalisme",
+   "féminisme",
+   "abolitionnisme"
+  ],
+  "P800": [
+   "The Revolution"
+  ],
+  "P101": [
+   "abolitionnisme",
+   "féminisme"
+  ]
+ },
+ "figures-emancipation_simone-veil": {
+  "qid": "Q298180",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "France",
+   "Belgique"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "figures-emancipation_gisele-halimi": {
+  "qid": "Q457705",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "France",
+   "protectorat français de Tunisie",
+   "Tunisie"
+  ],
+  "P101": [
+   "essai",
+   "droits humains",
+   "droits des femmes",
+   "féminisme",
+   "politique"
+  ]
+ },
+ "figures-emancipation_louise-michel": {
+  "qid": "Q216092",
+  "P569": [
+   "1830"
+  ],
+  "P570": [
+   "1905"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Commune",
+   "Mémoires de Louise Michel"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ },
+ "figures-emancipation_flora-tristan": {
+  "qid": "Q254068",
+  "P569": [
+   "1803"
+  ],
+  "P570": [
+   "1844"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Pérégrinations d'une paria"
+  ]
+ },
+ "figures-emancipation_clara-zetkin": {
+  "qid": "Q75823",
+  "P569": [
+   "1857",
+   "1857"
+  ],
+  "P570": [
+   "1933"
+  ],
+  "P27": [
+   "Allemagne",
+   "Empire allemand",
+   "république de Weimar",
+   "Union soviétique",
+   "royaume de Saxe"
+  ]
+ },
+ "figures-emancipation_rosa-luxemburg": {
+  "qid": "Q7231",
+  "P569": [
+   "1871",
+   "1870"
+  ],
+  "P570": [
+   "1919"
+  ],
+  "P27": [
+   "Allemagne",
+   "Empire russe"
+  ],
+  "P800": [
+   "L'Accumulation du capital",
+   "Réforme sociale ou Révolution ?"
+  ]
+ },
+ "figures-emancipation_malala-yousafzai": {
+  "qid": "Q32732",
+  "P569": [
+   "1997"
+  ],
+  "P27": [
+   "Pakistan"
+  ],
+  "P135": [
+   "droits de l'enfant",
+   "droits des femmes"
+  ]
+ },
+ "figures-emancipation_sitting-bull": {
+  "qid": "Q43527",
+  "P569": [
+   "1831"
+  ],
+  "P570": [
+   "1890"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "Sioux"
+  ]
+ },
+ "figures-emancipation_geronimo": {
+  "qid": "Q2791",
+  "P569": [
+   "1829"
+  ],
+  "P570": [
+   "1909",
+   "1909"
+  ],
+  "P27": [
+   "États-Unis",
+   "Mexique",
+   "Nouvelle-Espagne"
+  ]
+ },
+ "figures-emancipation_crazy-horse-chef-amerindien": {
+  "qid": "Q44555",
+  "P569": [
+   "1849"
+  ],
+  "P570": [
+   "1877"
+  ],
+  "P101": [
+   "Sioux"
+  ]
+ },
+ "figures-emancipation_chef-joseph": {
+  "qid": "Q453666",
+  "P569": [
+   "1840"
+  ],
+  "P570": [
+   "1904"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_rigoberta-menchu": {
+  "qid": "Q188620",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "Guatemala"
+  ]
+ },
+ "figures-emancipation_frantz-fanon": {
+  "qid": "Q193670",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P135": [
+   "décolonialité"
+  ],
+  "P800": [
+   "Les Damnés de la Terre",
+   "L'An V de la révolution algérienne",
+   "Peau noire, masques blancs"
+  ],
+  "P101": [
+   "philosophie",
+   "psychiatrie"
+  ]
+ },
+ "figures-emancipation_amilcar-cabral": {
+  "qid": "Q213416",
+  "P569": [
+   "1924",
+   "1924"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Portugal"
+  ],
+  "P135": [
+   "anticolonialisme"
+  ],
+  "P101": [
+   "politique",
+   "agriculture",
+   "poésie"
+  ]
+ },
+ "figures-emancipation_emiliano-zapata": {
+  "qid": "Q41718",
+  "P569": [
+   "1879"
+  ],
+  "P570": [
+   "1919"
+  ],
+  "P27": [
+   "Mexique"
+  ]
+ },
+ "figures-emancipation_pancho-villa": {
+  "qid": "Q192278",
+  "P569": [
+   "1878"
+  ],
+  "P570": [
+   "1923"
+  ],
+  "P27": [
+   "Mexique"
+  ]
+ },
+ "figures-emancipation_che-guevara": {
+  "qid": "Q5809",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "Cuba",
+   "Argentine"
+  ],
+  "P135": [
+   "guévarisme"
+  ],
+  "P800": [
+   "La Guerre de guérilla",
+   "Journal de Bolivie (7 nov. 1966 - 7 oct. 1967)",
+   "Voyage à motocyclette"
+  ]
+ },
+ "figures-emancipation_bhimrao-ramji-ambedkar": {
+  "qid": "Q231690",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "Raj britannique",
+   "Inde",
+   "Union indienne"
+  ],
+  "P135": [
+   "mouvement social",
+   "Mouvement pour l'indépendance de l'Inde",
+   "Mouvement bouddhiste dalit"
+  ],
+  "P800": [
+   "Annihilation of Caste",
+   "Castes in India: Their Mechanism, Genesis and Development",
+   "Who Were the Shudras?",
+   "Le Bouddha et son Dhamma",
+   "Waiting for a Visa",
+   "Small Holdings in India and Their Remedies",
+   "The Problem of the Rupees: Its Origin and Its Solution",
+   "The Evolution of Provincial Finance in British India",
+   "Pakistan or Partition of India",
+   "Ranade, Gandhi and Jinnah",
+   "What Congress and Gandhi Have Done to the Untouchables",
+   "States and Minorities",
+   "The Untouchables: Who Were They and Why They Became Untouchables",
+   "Thoughts on Linguistic States",
+   "Revolution and Counter-revolution in Ancient India",
+   "Riddles in Hinduism",
+   "Administration and Finance of the East India Company",
+   "Mr. Gandhi and the Emancipation of the Untouchables",
+   "Maharashtra as a Linguistic Province",
+   "The Rise and Fall of Hindu Women",
+   "Federation Versus Freedom",
+   "Communal Deadlock and a way to Solve it"
+  ],
+  "P101": [
+   "science économique",
+   "droit",
+   "philosophie",
+   "droits humains",
+   "anthropologie",
+   "politique",
+   "société",
+   "constitution",
+   "religion",
+   "justice sociale"
+  ]
+ },
+ "figures-emancipation_cesar-chavez": {
+  "qid": "Q355425",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_dolores-huerta": {
+  "qid": "Q468843",
+  "P569": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "militantisme",
+   "mouvement féministe",
+   "droits civils",
+   "engagement civique",
+   "syndicat professionnel"
+  ]
+ },
+ "figures-emancipation_wangari-muta-maathai": {
+  "qid": "Q46795",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "colonie et protectorat du Kenya",
+   "Kenya"
+  ]
+ },
+ "figures-emancipation_lech-wa-esa": {
+  "qid": "Q444",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Pologne"
+  ]
+ },
+ "figures-emancipation_vaclav-havel": {
+  "qid": "Q36233",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Tchécoslovaquie",
+   "Tchéquie"
+  ],
+  "P800": [
+   "Antikódy",
+   "The Garden Party",
+   "Leaving",
+   "The Power of the Powerless",
+   "Le Rapport dont vous êtes l'objet",
+   "Audience",
+   "Temptation",
+   "Largo desolato"
+  ],
+  "P101": [
+   "théâtre",
+   "drame",
+   "journalisme d'opinion",
+   "politique"
+  ]
+ },
+ "figures-emancipation_aung-san-suu-kyi": {
+  "qid": "Q36740",
+  "P569": [
+   "1945"
+  ],
+  "P27": [
+   "Birmanie"
+  ],
+  "P800": [
+   "Se libérer de la peur"
+  ]
+ },
+ "figures-emancipation_harvey-milk": {
+  "qid": "Q17141",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_marsha-p-johnson": {
+  "qid": "Q6773400",
+  "P569": [
+   "1945"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_sylvia-rivera": {
+  "qid": "Q2278761",
+  "P569": [
+   "1951"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_spartacus": {
+  "qid": "Q83406",
+  "P569": [
+   "-103"
+  ],
+  "P570": [
+   "-71"
+  ]
+ },
+ "figures-emancipation_zumbi-dos-palmares": {
+  "qid": "Q229682",
+  "P569": [
+   "1655"
+  ],
+  "P570": [
+   "1695"
+  ]
+ },
+ "figures-emancipation_solitude-vers-1772-1802": {
+  "qid": "Q3210911",
+  "P569": [
+   "1772"
+  ],
+  "P570": [
+   "1802"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-emancipation_louis-delgres": {
+  "qid": "Q2405773",
+  "P569": [
+   "1766"
+  ],
+  "P570": [
+   "1802"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-emancipation_olaudah-equiano": {
+  "qid": "Q379887",
+  "P569": [
+   "1745"
+  ],
+  "P570": [
+   "1797"
+  ],
+  "P800": [
+   "The Interesting Narrative of the Life of Olaudah Equiano"
+  ],
+  "P136": [
+   "autobiographie",
+   "critique sociale"
+  ]
+ },
+ "figures-emancipation_john-brown": {
+  "qid": "Q189366",
+  "P569": [
+   "1800"
+  ],
+  "P570": [
+   "1859"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Provisional Constitution and Ordinances for the People of the United States"
+  ]
+ },
+ "figures-emancipation_abbe-gregoire": {
+  "qid": "Q561218",
+  "P569": [
+   "1750"
+  ],
+  "P570": [
+   "1831"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-emancipation_bartolome-de-las-casas": {
+  "qid": "Q207416",
+  "P569": [
+   "1484",
+   "1474",
+   "1474"
+  ],
+  "P570": [
+   "1566",
+   "1566"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Très brève relation de la destruction des Indes"
+  ]
+ },
+ "figures-emancipation_tupac-amaru-ii": {
+  "qid": "Q315937",
+  "P569": [
+   "1738"
+  ],
+  "P570": [
+   "1781"
+  ],
+  "P27": [
+   "vice-royauté du Pérou"
+  ]
+ },
+ "figures-emancipation_hubertine-auclert": {
+  "qid": "Q448953",
+  "P569": [
+   "1848"
+  ],
+  "P570": [
+   "1914"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "figures-emancipation_betty-friedan": {
+  "qid": "Q234604",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Mouvement pro-choix",
+   "féminisme"
+  ],
+  "P800": [
+   "La Femme mystifiée",
+   "The Second Stage",
+   "The Fountain of Age"
+  ]
+ },
+ "figures-emancipation_gloria-steinem": {
+  "qid": "Q231178",
+  "P569": [
+   "1934",
+   "1934"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "féminisme"
+  ],
+  "P101": [
+   "essai",
+   "journalisme",
+   "politique",
+   "féminisme",
+   "droits des femmes",
+   "égalité des sexes"
+  ]
+ },
+ "figures-emancipation_john-lewis-homme-politique": {
+  "qid": "Q45380",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique",
+   "militantisme",
+   "engagement civique",
+   "droits civiques",
+   "mouvement pour les droits sociaux",
+   "droits civils"
+  ]
+ },
+ "figures-emancipation_thurgood-marshall": {
+  "qid": "Q312348",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1993",
+   "1993"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "justice",
+   "cour suprême",
+   "droits civiques",
+   "Afro-Américains",
+   "droits civils"
+  ]
+ },
+ "figures-emancipation_ruby-bridges": {
+  "qid": "Q469860",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P571": [
+   "1960"
+  ]
+ },
+ "figures-emancipation_claudette-colvin": {
+  "qid": "Q468897",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_bayard-rustin": {
+  "qid": "Q187930",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "figures-emancipation_audre-lorde": {
+  "qid": "Q463319",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Sister outsider : essais et propos sur la poésie, l'érotisme, le racisme, le sexisme...",
+   "Journal du cancer",
+   "Zami : une nouvelle façon d'écrire mon nom",
+   "Uses of the Erotic: The Erotic as Power",
+   "Cables to Rage",
+   "Poetry is Not a Luxury"
+  ],
+  "P101": [
+   "poésie",
+   "littérature afro-américaine",
+   "feminism and literature",
+   "féminisme",
+   "lesbianisme",
+   "militantisme",
+   "African American poetry"
+  ]
+ },
+ "figures-emancipation_eleanor-roosevelt": {
+  "qid": "Q83396",
+  "P569": [
+   "1884"
+  ],
+  "P570": [
+   "1962"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "droits humains",
+   "politique",
+   "philanthropie"
+  ]
+ },
+ "figures-emancipation_helen-keller": {
+  "qid": "Q38203",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Story of My Life",
+   "The Frost King"
+  ],
+  "P101": [
+   "essai"
+  ]
+ },
+ "figures-emancipation_liu-xiaobo": {
+  "qid": "Q41617",
+  "P569": [
+   "1955"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P101": [
+   "critique littéraire"
+  ]
+ },
+ "figures-emancipation_alexei-navalny": {
+  "qid": "Q155979",
+  "P569": [
+   "1976"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P800": [
+   "Un palais pour Poutine : L'Histoire du plus gros pot-de-vin",
+   "Ne l'appelez pas Dimon",
+   "Fondation anti-corruption"
+  ],
+  "P101": [
+   "politique",
+   "théorie du droit",
+   "opposition",
+   "rights in politics",
+   "opposition à Vladimir Poutine en Russie"
+  ]
+ },
+ "figures-emancipation_nadia-murad": {
+  "qid": "Q22007112",
+  "P569": [
+   "1993",
+   "1993"
+  ],
+  "P27": [
+   "Irak"
+  ],
+  "P800": [
+   "Pour que je sois la dernière"
+  ],
+  "P101": [
+   "droits humains"
+  ]
+ },
+ "figures-emancipation_denis-mukwege": {
+  "qid": "Q1187542",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "République démocratique du Congo",
+   "Belgique"
+  ]
+ },
+ "figures-emancipation_robert-badinter": {
+  "qid": "Q336046",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "L'Exécution"
+  ]
+ },
+ "figures-emancipation_greta-thunberg": {
+  "qid": "Q56434717",
+  "P569": [
+   "2003"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P135": [
+   "grève scolaire pour le climat"
+  ],
+  "P800": [
+   "Vi vet och vi kan göra något nu",
+   "Scenes from the Heart",
+   "No One is Too Small to Make a Difference",
+   "Le grand livre du climat"
+  ],
+  "P101": [
+   "atténuation du changement climatique",
+   "activisme chez les jeunes",
+   "changement climatique",
+   "écologie"
+  ]
+ },
+ "figures-emancipation_chico-mendes": {
+  "qid": "Q550176",
+  "P569": [
+   "1944"
+  ],
+  "P570": [
+   "1988"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P135": [
+   "syndicalisme",
+   "écologisme"
+  ]
+ },
+ "figures-emancipation_jean-jaures": {
+  "qid": "Q12688",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1914"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "philosophie"
+  ]
+ }
+}

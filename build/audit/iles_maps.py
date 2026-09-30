@@ -251,10 +251,19 @@ def composer(gros, encart, ile=None):
     places = [(gx, dy), (dx, dy), (gx, gy), (dx, gy),          # coins
               (cx, dy), (cx, gy), (gx, cy), (dx, cy)]          # milieux des bords
 
+    # l'ile : sa boite si on la connait, sinon le centre de la carte (cadrage
+    # par etendue : l'ile y occupe ~68 %)
+    boite = ile or ((W - cw * 0.68) / 2, (H - ch * 0.68) / 2, (W + cw * 0.68) / 2, (H + ch * 0.68) / 2)
+
     def note(k, c):
         x0, y0 = c
-        eau = part_eau(gros.crop((x0 - 8, y0 - 8, x0 + e.width + 8, y0 + e.height + 8)))
-        return eau - (0.04 if k >= 4 else 0)                    # un coin, a merite egal
+        m = 50                                                  # l'encart doit rester a distance des cotes
+        eau = part_eau(gros.crop((x0 - m, y0 - m, x0 + e.width + m, y0 + e.height + m)))
+        w = max(0, min(x0 + e.width + m, boite[2]) - max(x0 - m, boite[0]))
+        h = max(0, min(y0 + e.height + m, boite[3]) - max(y0 - m, boite[1]))
+        sur_ile = w * h / ((e.width + 2 * m) * (e.height + 2 * m))
+        # de la mer d'abord ; une terre etrangere plutot que l'ile elle-meme
+        return eau - 0.8 * sur_ile - (0.04 if k >= 4 else 0)
     k = max(range(len(places)), key=lambda k: note(k, places[k]))
     x0, y0 = places[k]
     ombre = Image.new('L', (e.width + 60, e.height + 60), 0)
@@ -302,6 +311,10 @@ ETENDUES = {
     'Kerguelen': (-49.3, 69.5, 160, 125), 'Islande': (64.95, -18.6, 500, 310),
     'Belle-Île-en-Mer': (47.335, -3.18, 19, 11), 'Sainte-Hélène': (-15.962, -5.71, 18, 12),
     'Tahiti': (-17.68, -149.4, 62, 38), 'Zanzibar': (-5.65, 39.5, 110, 200),
+    'Bali': (-8.4, 115.18, 150, 115), 'Madagascar': (-18.9, 46.9, 600, 1600),
+    'Capri': (40.548, 14.232, 7, 4), 'Terre-Neuve (île)': (49.6, -53.9, 560, 600),
+    'Fidji': (-17.3, 178.6, 330, 230), 'Ouessant': (48.458, -5.088, 8.5, 5),
+    'Majorque': (39.61, 2.95, 105, 80), 'Rhodes': (36.2, 28.3, 50, 80),
     'Nouvelle-Guinée': (-4.2, 141.0, 2250, 1150),
 }
 # fenetre du navigateur quand on arrive par des coordonnees : pas de panneau
@@ -315,7 +328,8 @@ def zoom_pour(lat, w_km, h_km):
     x0, y0, x1, y1 = ZONE_DIRECTE
     h = min(y1 - y0, (x1 - x0) * 3 / 4)          # le cadre 4:3 en px CSS
     vis_w, vis_h = h * 4 / 3 * 0.8, h * 0.8       # la carte en montre 80 %
-    mpp = max(w_km * 1000 / (0.78 * vis_w), h_km * 1000 / (0.78 * vis_h))
+    # ~68 % : l'ile bien lisible, et un coin de mer libre pour le planisphere
+    mpp = max(w_km * 1000 / (0.68 * vis_w), h_km * 1000 / (0.68 * vis_h))
     return round(math.log2(156543.03 * math.cos(math.radians(lat)) / mpp), 2)
 
 

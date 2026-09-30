@@ -31988,12 +31988,11 @@
    "original": true
   },
   "iles_hispaniola": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4825,
+   "cy": 0.5183,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790746316115,
+   "original": true
   },
   "iles_terre-neuve": {
    "cx": 0.5,

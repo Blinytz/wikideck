@@ -31925,12 +31925,11 @@
    "auto": true
   },
   "iles_socotra": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4,
+   "cy": 0.4969,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790746716584,
+   "original": true
   },
   "iles_malte": {
    "cx": 0.5,

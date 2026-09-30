@@ -31981,12 +31981,11 @@
    "auto": true
   },
   "iles_jamaique": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4,
+   "cy": 0.5031,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790746304048,
+   "original": true
   },
   "iles_hispaniola": {
    "cx": 0.5,

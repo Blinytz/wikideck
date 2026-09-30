@@ -31824,12 +31824,11 @@
    "original": true
   },
   "iles_crete": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4095,
+   "cy": 0.5199,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790746218023,
+   "original": true
   },
   "iles_chypre-ile": {
    "cx": 0.5,

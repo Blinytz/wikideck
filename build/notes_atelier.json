@@ -53525,18 +53525,16 @@
   "festivals-et-recompenses-cinema_lumieres-de-la-presse-internationale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790790974777,
+   "original": true
   },
   "festivals-et-recompenses-cinema_european-film-awards": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.64,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790790978990,
+   "original": true
   }
  },
  "notes": [

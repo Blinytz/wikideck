@@ -53323,9 +53323,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1790790279689,
+   "original": true
   },
   "festivals-et-recompenses-cinema_golden-globes": {
    "cx": 0.5,
@@ -53338,10 +53337,9 @@
   "festivals-et-recompenses-cinema_british-academy-film-awards": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1790790282314,
+   "original": true
   },
   "festivals-et-recompenses-cinema_festival-de-cinema-de-sundance": {
    "cx": 0.5,

@@ -53308,18 +53308,16 @@
   "festivals-et-recompenses-cinema_berlinale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9119,
+   "editeLe": 1790790128990,
+   "original": true
   },
   "festivals-et-recompenses-cinema_oscars-du-cinema": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9266666666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9267,
+   "editeLe": 1790790133103,
+   "original": true
   },
   "festivals-et-recompenses-cinema_cesar-du-cinema": {
    "cx": 0.5,

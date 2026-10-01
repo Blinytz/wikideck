@@ -1560,3 +1560,18 @@ if _lm.exists():
     for _slug, _titres in _json.loads(_lm.read_text(encoding='utf-8')).items():
         AJOUTS.setdefault(_slug, []).extend(
             (_NOMS_MANQUES.get(t, t), t) for t in _titres if t != 'Dao de jing')
+
+# 01/10/2026 : micro-Etats (les Etats de moins de 1 000 km2, et le Luxembourg).
+# Malte, les Maldives, les Seychelles et Palaos restent dans les iles,
+# Singapour dans les villes.
+PLANS['micro-etats'] = dict(nom='Micro-États', transferts=[], ajouts=[
+    ('Vatican', 'Vatican'), ('Monaco', 'Monaco'), ('Nauru', 'Nauru'), ('Tuvalu', 'Tuvalu'),
+    ('Saint-Marin', 'Saint-Marin'), ('Liechtenstein', 'Liechtenstein'), ('Îles Marshall', 'Îles Marshall'),
+    ('Saint-Christophe-et-Niévès', 'Saint-Christophe-et-Niévès'), ('Grenade', 'Grenade (pays)'),
+    ('Saint-Vincent-et-les-Grenadines', 'Saint-Vincent-et-les-Grenadines'), ('Barbade', 'Barbade'),
+    ('Antigua-et-Barbuda', 'Antigua-et-Barbuda'), ('Andorre', 'Andorre'), ('Sainte-Lucie', 'Sainte-Lucie'),
+    ('Micronésie', 'États fédérés de Micronésie'), ('Tonga', 'Tonga'), ('Dominique', 'Dominique (pays)'),
+    ('Bahreïn', 'Bahreïn'), ('Kiribati', 'Kiribati'), ('Sao Tomé-et-Principe', 'Sao Tomé-et-Principe'),
+    ('Luxembourg', 'Luxembourg (pays)'),
+])
+AJOUTS.setdefault('micro-etats', []).append(('Grenade (pays)', 'Grenade (pays)'))

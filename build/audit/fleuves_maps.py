@@ -187,7 +187,7 @@ def main():
             x0z, y0z, x1z, y1z = M.ZONE_DIRECTE
             h_max = min(y1z - y0z, (x1z - x0z) * 3 / 4) * M.ECHELLE
             gros, _ = M.recadrer(im, (cx, cy), h_max / resserre, M.ZONE_DIRECTE)
-            img = M.composer(gros, planisphere.carte(clat, clng, 900), None)
+            img = M.composer(gros, planisphere.carte_zone(clat, clng, 900), None)
             f = c['id'].split('_', 1)[1]
             if apercu:
                 img.save(M.BROUILLON / 'fleuves' / f'{f}.png')

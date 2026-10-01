@@ -84,6 +84,8 @@ def poser(img, encart, vis):
     x0, y0, x1, y1 = vis
     ew = int((x1 - x0) * 0.3)
     eh = round(ew * encart.height / encart.width)
+    if eh > (y1 - y0) * 0.42:
+        eh = int((y1 - y0) * 0.42); ew = round(eh * encart.width / encart.height)
     e = encart.resize((ew, eh), Image.LANCZOS)
     x, y = coin_calme(img, vis, ew, eh)
     b = max(3, ew // 120)
@@ -122,13 +124,13 @@ def main():
             vis = [int(max(0, vis[0])), int(max(0, vis[1])), int(min(iw, vis[2])), int(min(ih, vis[3]))]
             if slug == 'regions-francaises':
                 enc = carte_france(REGIONS[c['titrePage']]) if c['titrePage'] in REGIONS \
-                    else planisphere.carte(*OUTREMER[c['titrePage']], 900)
+                    else planisphere.carte_zone(*OUTREMER[c['titrePage']], 900)
             else:
                 ll = coords.get(c['titrePage'])
                 if not ll:
                     print(f"  ✗ {c['nom']} : pas de coordonnees")
                     continue
-                enc = planisphere.carte(ll[0], ll[1], 900)
+                enc = planisphere.carte_zone(ll[0], ll[1], 900)
             poser(img, enc, vis)
             carte = img.crop(vis)
             if apercu:

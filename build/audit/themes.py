@@ -16,7 +16,7 @@ THEMES = {
         'figures-resistance', 'organisations-internationales', 'crises-economiques', 'monnaies-historiques',
         'grands-explorateurs'],
     'Géographie': ['villes-du-monde', 'iles', 'montagnes-et-volcans', 'fleuves-mers-et-oceans', 'lacs', 'deserts',
-        'regions-francaises', 'monuments-emblematiques', 'merveilles-du-monde', 'sites-antiques', 'langues-du-monde',
+        'regions-francaises', 'micro-etats', 'monuments-emblematiques', 'merveilles-du-monde', 'sites-antiques', 'langues-du-monde',
         'monnaies-du-monde'],
     'Sciences et techniques': ['scientifiques-celebres', 'inventeurs-et-ingenieurs', 'inventions-importantes',
         'elements-chimiques', 'theoremes-et-lois', 'corps-humain', 'maladies-et-epidemies', 'corps-celestes',

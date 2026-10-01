@@ -243,7 +243,10 @@ def composer(gros, encart, ile=None):
     W, H = im.size
     cw, ch = int(W * 0.8), int(H * 0.8)          # ce que la carte montre
     ew = int(cw * 0.34)
-    e = encart.resize((ew, round(ew * encart.height / encart.width)), Image.LANCZOS)
+    eh = round(ew * encart.height / encart.width)
+    if eh > ch * 0.42:                      # carte de continent en hauteur : on la borne
+        eh = int(ch * 0.42); ew = round(eh * encart.width / encart.height)
+    e = encart.resize((ew, eh), Image.LANCZOS)
     mx, my = int(cw * 0.025), int(ch * 0.03)
     gx, gy = (W - cw) // 2 + mx, (H - ch) // 2 + my
     dx, dy = (W + cw) // 2 - mx - e.width, (H + ch) // 2 - my - e.height
@@ -320,6 +323,20 @@ ETENDUES = {
 # fenetre du navigateur quand on arrive par des coordonnees : pas de panneau
 # lateral, la vue est centree sur la fenetre
 ZONE_DIRECTE = (100, 100, 1900, 1200)
+
+# micro-Etats : centre et etendue (km) ; archipels montres sur l'ile ou
+# l'atoll principal, la ou est la capitale
+ETENDUES.update({
+    'Nauru': (-0.5280, 166.9340, 7, 6.5), 'Tuvalu': (-8.52, 179.17, 22, 26),
+    'Îles Marshall': (7.10, 171.25, 45, 30), 'Saint-Christophe-et-Niévès': (17.25, -62.70, 40, 36),
+    'Grenade (pays)': (12.12, -61.67, 22, 30), 'Saint-Vincent-et-les-Grenadines': (13.20, -61.20, 30, 36),
+    'Barbade': (13.18, -59.55, 26, 36), 'Antigua-et-Barbuda': (17.08, -61.80, 32, 26),
+    'Sainte-Lucie': (13.91, -60.97, 26, 46),
+    'Micronésie': (6.88, 158.22, 30, 30), 'Vatican': (41.9035, 12.4528, 1.5, 1.2),
+    'Monaco': (43.7380, 7.4246, 4.5, 3.4), 'Luxembourg': (49.78, 6.13, 75, 95), 'Tonga': (-21.18, -175.20, 45, 30),
+    'Dominique': (15.42, -61.35, 30, 50), 'Bahreïn': (26.03, 50.55, 50, 60),
+    'Kiribati': (1.42, 173.00, 40, 50), 'Sao Tomé-et-Principe': (0.25, 6.60, 55, 60),
+    })
 
 # Mers, golfes et detroits (collection fleuves-mers-et-oceans) : centre et
 # etendue en km ; un detroit est montre avec les deux rives qu'il separe
@@ -429,7 +446,7 @@ def main():
             if lat is None:
                 print(f"  ✗ {c['nom']} : coordonnees introuvables")
                 continue
-            encart = planisphere.carte(lat, lng, 900)
+            encart = planisphere.carte_zone(lat, lng, 900)
             f = c['id'].split('_', 1)[1]
             # la carte brute et ses coordonnees, pour reposer l'encart sans
             # tout recapturer
@@ -446,6 +463,8 @@ def main():
             cw, ch = int(W * 0.8), int(H * 0.8)
             centre = im.crop(((W - cw) // 2, (H - ch) // 2, (W - cw) // 2 + cw, (H - ch) // 2 + ch))
             orig = im if max(im.size) <= 2400 else im.resize((2400, 1800), Image.LANCZOS)
+            for d in ('originaux', 'full', 'thumbs'):
+                (RACINE / 'images' / d / col).mkdir(parents=True, exist_ok=True)
             for rel, octets in ((f'images/originaux/{col}/{f}.webp', webp(orig, 88)),
                                 (c['imageUrl'], webp(centre.resize((800, 600), Image.LANCZOS), 90)),
                                 (c['thumbUrl'], webp(centre.resize((213, 160), Image.LANCZOS), 82))):

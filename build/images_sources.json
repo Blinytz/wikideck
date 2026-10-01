@@ -14179,121 +14179,158 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_nil": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_amazone-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_yangtse": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_mississippi-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_danube": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_gange": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_indus": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_rhin": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_volga": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_niger-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_mekong": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_tigre": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_euphrate": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_loire": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_seine": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_amour-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_colorado-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_rio-grande-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_mer-mediterranee": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_mer-noire": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_mer-des-caraibes": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_mer-baltique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_ocean-atlantique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_ocean-pacifique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Océanie"
 },
 "fleuves-mers-et-oceans_ocean-indien": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Océan Indien"
 },
 "fleuves-mers-et-oceans_ocean-arctique": {
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_ocean-austral": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Antarctique"
 },
 "fleuves-mers-et-oceans_chutes-victoria": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_chutes-du-niagara": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_chutes-d-iguazu": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_fosse-des-mariannes": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_grande-barriere-de-corail": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Océanie"
 },
 "fleuves-mers-et-oceans_detroit-de-gibraltar": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_canal-de-suez": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_canal-de-panama": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "iles_islande": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@64.95,-18.6,6z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@64.95,-18.6,6z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_borneo": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Born%C3%A9o/@1.4293648,114.0550177,6z/data=!3m1!4b1!4m6!3m5!1s0x3200a51b0ce8057b:0xf81f7b0a97d0b88a!8m2!3d0.9618834!4d114.5548495!16zL20vMDFmenA?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Born%C3%A9o/@1.4293648,114.0550177,6z/data=!3m1!4b1!4m6!3m5!1s0x3200a51b0ce8057b:0xf81f7b0a97d0b88a!8m2!3d0.9618834!4d114.5548495!16zL20vMDFmenA?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_nouvelle-guinee": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-4.2,141,5z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-4.2,141,5z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_honshu": {
 "source": "grand-complement",
@@ -14307,71 +14344,88 @@
 },
 "iles_crete": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Cr%C3%A8te,+Gr%C3%A8ce/@35.248289,24.91207,8z/data=!3m1!4b1!4m6!3m5!1s0x149afe2f827d98a1:0x100bd2ce2b9c630!8m2!3d35.240117!4d24.8092691!16s%2Fg%2F122zjww4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Cr%C3%A8te,+Gr%C3%A8ce/@35.248289,24.91207,8z/data=!3m1!4b1!4m6!3m5!1s0x149afe2f827d98a1:0x100bd2ce2b9c630!8m2!3d35.240117!4d24.8092691!16s%2Fg%2F122zjww4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_chypre-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@35.05,33.3,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@35.05,33.3,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_bali": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-8.4,115.18,9z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-8.4,115.18,9z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_java-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Java/@-7.3281874,109.9076899,7z/data=!3m1!4b1!4m6!3m5!1s0x2e7aa07ed2323237:0x86fe1c59d6abed60!8m2!3d-7.6145292!4d110.7122465!16zL20vMGoxXzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Java/@-7.3281874,109.9076899,7z/data=!3m1!4b1!4m6!3m5!1s0x2e7aa07ed2323237:0x86fe1c59d6abed60!8m2!3d-7.6145292!4d110.7122465!16zL20vMGoxXzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_sumatra": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sumatra/@-0.143343,100.645138,6z/data=!3m1!4b1!4m6!3m5!1s0x2e2aad6120570311:0x1def4d17e789deb4!8m2!3d-0.589724!4d101.3431058!16zL20vMDczNHI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sumatra/@-0.143343,100.645138,6z/data=!3m1!4b1!4m6!3m5!1s0x2e2aad6120570311:0x1def4d17e789deb4!8m2!3d-0.589724!4d101.3431058!16zL20vMDczNHI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_tahiti": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-17.68,-149.4,11z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-17.68,-149.4,11z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_ile-de-paques": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+de+P%C3%A2ques/@-27.12598,-109.3388147,12z/data=!3m1!4b1!4m6!3m5!1s0x9947f017a8d4ae2b:0xbbe5b3edc02a2db6!8m2!3d-27.112723!4d-109.3496865!16zL20vMGRfeno?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+P%C3%A2ques/@-27.12598,-109.3388147,12z/data=!3m1!4b1!4m6!3m5!1s0x9947f017a8d4ae2b:0xbbe5b3edc02a2db6!8m2!3d-27.112723!4d-109.3496865!16zL20vMGRfeno?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "monde"
 },
 "iles_iles-galapagos": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-0.65,-90.55,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-0.65,-90.55,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Sud"
 },
 "iles_socotra": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Socotra/@12.5072013,53.9198512,10z/data=!3m1!4b1!4m6!3m5!1s0x3db6a3302ac94bf1:0x850a7ddff0ac426b!8m2!3d12.4634205!4d53.8237385!16zL20vMDJnbnAy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Socotra/@12.5072013,53.9198512,10z/data=!3m1!4b1!4m6!3m5!1s0x3db6a3302ac94bf1:0x850a7ddff0ac426b!8m2!3d12.4634205!4d53.8237385!16zL20vMDJnbnAy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_santorin": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Archipel+de+Santorin/@36.4071539,25.4206309,12z/data=!3m1!4b1!4m6!3m5!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Archipel+de+Santorin/@36.4071539,25.4206309,12z/data=!3m1!4b1!4m6!3m5!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_capri": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@40.548,14.232,13z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@40.548,14.232,13z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_ibiza": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ibiza/@38.974343,1.4173878,11z/data=!3m1!4b1!4m6!3m5!1s0x1299476385093943:0x9064725cd8426d6!8m2!3d39.0200099!4d1.4821482!16zL20vMGgyYzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ibiza/@38.974343,1.4173878,11z/data=!3m1!4b1!4m6!3m5!1s0x1299476385093943:0x9064725cd8426d6!8m2!3d39.0200099!4d1.4821482!16zL20vMGgyYzM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_hispaniola": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Hispaniola/@18.7785306,-71.4018322,7z/data=!3m1!4b1!4m6!3m5!1s0x8eb69354aeb686d5:0x5f32ac43ad6a3fc4!8m2!3d19.0018663!4d-71.5723953!16zL20vMDNrbjI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Hispaniola/@18.7785306,-71.4018322,7z/data=!3m1!4b1!4m6!3m5!1s0x8eb69354aeb686d5:0x5f32ac43ad6a3fc4!8m2!3d19.0018663!4d-71.5723953!16zL20vMDNrbjI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_terre-neuve": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@49.6,-53.9,6z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@49.6,-53.9,6z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_archipel-des-comores": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-12.3,44.1,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-12.3,44.1,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_ile-maurice": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-20.25,57.57,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-20.25,57.57,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océan Indien"
 },
 "iles_ouessant": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@48.458,-5.088,13z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@48.458,-5.088,13z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "villes-du-monde_ispahan": {
 "source": "wiki-sans-filtre"
@@ -14380,7 +14434,8 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_congo-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "villes-du-monde_new-york": {
 "source": "wiki-sans-filtre"
@@ -14464,80 +14519,99 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_zambeze": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_mer-rouge": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_mer-de-corail": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Océanie"
 },
 "iles_madagascar": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-18.9,46.9,5z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-18.9,46.9,5z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_sicile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sicile,+Italie/@37.1524895,13.7893259,8z/data=!3m1!4b1!4m6!3m5!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.3979297!4d14.6587821!16zL20vMDZ3OTI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sicile,+Italie/@37.1524895,13.7893259,8z/data=!3m1!4b1!4m6!3m5!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.3979297!4d14.6587821!16zL20vMDZ3OTI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_sardaigne": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Sardaigne/@40.0616227,8.9789212,8z/data=!3m1!4b1!4m6!3m5!1s0x12ddc48d448d3591:0x339674b6e4ab6631!8m2!3d40.1208752!4d9.0128926!16zL20vMDc4bGs?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Sardaigne/@40.0616227,8.9789212,8z/data=!3m1!4b1!4m6!3m5!1s0x12ddc48d448d3591:0x339674b6e4ab6631!8m2!3d40.1208752!4d9.0128926!16zL20vMDc4bGs?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_corse": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Corse/@42.1878726,9.0516885,8z/data=!3m1!4b1!4m6!3m5!1s0x12da00d304e8c551:0xd96e92ea01e96103!8m2!3d42.0396042!4d9.0128926!16zL20vMGYwc2Js?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Corse/@42.1878726,9.0516885,8z/data=!3m1!4b1!4m6!3m5!1s0x12da00d304e8c551:0xd96e92ea01e96103!8m2!3d42.0396042!4d9.0128926!16zL20vMGYwc2Js?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_iles-feroe": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Eles+F%C3%A9ro%C3%A9/@61.8994259,-6.9543458,8z/data=!3m1!4b1!4m6!3m5!1s0x48bc1593762df9eb:0x3fb0314864f71b24!8m2!3d61.892635!4d-6.9118061!16zL20vMDJ3OXM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Eles+F%C3%A9ro%C3%A9/@61.8994259,-6.9543458,8z/data=!3m1!4b1!4m6!3m5!1s0x48bc1593762df9eb:0x3fb0314864f71b24!8m2!3d61.892635!4d-6.9118061!16zL20vMDJ3OXM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_svalbard": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Svalbard,+Svalbard+et+Jan+Mayen/@77.4463516,22.593384,5z/data=!3m1!4b1!4m6!3m5!1s0x45a1cfdc4fa3c049:0x2bf373e71b35e875!8m2!3d77.8749725!4d20.9751821!16zL20vMDZ2MmI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Svalbard,+Svalbard+et+Jan+Mayen/@77.4463516,22.593384,5z/data=!3m1!4b1!4m6!3m5!1s0x45a1cfdc4fa3c049:0x2bf373e71b35e875!8m2!3d77.8749725!4d20.9751821!16zL20vMDZ2MmI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "monde"
 },
 "iles_malte": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Malte/@35.9351506,14.37835,11z/data=!3m1!4b1!4m6!3m5!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416!16zL20vMDR2M3E?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Malte/@35.9351506,14.37835,11z/data=!3m1!4b1!4m6!3m5!1s0x130e45281d8647c5:0xf582d86136be4239!8m2!3d35.937496!4d14.375416!16zL20vMDR2M3E?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_bahamas": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Bahamas/@24.4344686,-75.9667161,7z/data=!3m1!4b1!4m6!3m5!1s0x88d69a3bb2480f3d:0x133eb4836ac779e5!8m2!3d25.03428!4d-77.39628!16zL20vMDE2MHc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Bahamas/@24.4344686,-75.9667161,7z/data=!3m1!4b1!4m6!3m5!1s0x88d69a3bb2480f3d:0x133eb4836ac779e5!8m2!3d25.03428!4d-77.39628!16zL20vMDE2MHc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_cuba": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Cuba/@21.5152501,-79.563,7z/data=!3m1!4b1!4m6!3m5!1s0x88cd49070f7a4cb5:0x798cf7529110a41a!8m2!3d21.521757!4d-77.781167!16zL20vMGQwNHo2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Cuba/@21.5152501,-79.563,7z/data=!3m1!4b1!4m6!3m5!1s0x88cd49070f7a4cb5:0x798cf7529110a41a!8m2!3d21.521757!4d-77.781167!16zL20vMGQwNHo2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_jamaique": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Jama%C3%AFque/@18.1193337,-77.2761154,9z/data=!3m1!4b1!4m6!3m5!1s0x8eda2a1bc6cf719d:0x59a0d1c0b5120efa!8m2!3d18.109581!4d-77.297508!16zL20vMDNfcjM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Jama%C3%AFque/@18.1193337,-77.2761154,9z/data=!3m1!4b1!4m6!3m5!1s0x8eda2a1bc6cf719d:0x59a0d1c0b5120efa!8m2!3d18.109581!4d-77.297508!16zL20vMDNfcjM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_tasmanie": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Tasmanie,+Australie/@-41.4674859,146.160852,7z/data=!3m1!4b1!4m6!3m5!1s0xaa7aed277e34facf:0x2a8fa5dd29404064!8m2!3d-42.0409059!4d146.8087323!16zL20vMDdjZng?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Tasmanie,+Australie/@-41.4674859,146.160852,7z/data=!3m1!4b1!4m6!3m5!1s0xaa7aed277e34facf:0x2a8fa5dd29404064!8m2!3d-42.0409059!4d146.8087323!16zL20vMDdjZng?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_nouvelle-zelande": {
 "source": "wiki-sans-filtre"
 },
 "iles_fidji": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-17.3,178.6,8z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-17.3,178.6,8z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_palaos": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@7.45,134.55,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@7.45,134.55,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_maldives": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@4.1,73.45,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@4.1,73.45,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_seychelles": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-4.53,55.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-4.53,55.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_la-reunion": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/La+R%C3%A9union/@-21.1353425,55.5273056,10z/data=!3m1!4b1!4m6!3m5!1s0x2178778110b8e43b:0x4a7f8e89ecdbeaf9!8m2!3d-21.115141!4d55.536384!16zL20vMGx4aGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/La+R%C3%A9union/@-21.1353425,55.5273056,10z/data=!3m1!4b1!4m6!3m5!1s0x2178778110b8e43b:0x4a7f8e89ecdbeaf9!8m2!3d-21.115141!4d55.536384!16zL20vMGx4aGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_spitzberg": {
 "source": "wiki-sans-filtre"
@@ -14550,19 +14624,23 @@
 },
 "iles_groenland": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@72.5,-41,4z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@72.5,-41,4z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_hawai-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Hawa%C3%AF,+%C3%89tats-Unis/@20.46,-157.505,7z/data=!3m1!4b1!4m6!3m5!1s0x7bffdb064f79e005:0x4b7782d274cc8628!8m2!3d19.8986819!4d-155.6658568!16zL20vMDNnaDQ?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Hawa%C3%AF,+%C3%89tats-Unis/@20.46,-157.505,7z/data=!3m1!4b1!4m6!3m5!1s0x7bffdb064f79e005:0x4b7782d274cc8628!8m2!3d19.8986819!4d-155.6658568!16zL20vMDNnaDQ?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_sainte-helene-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-15.962,-5.71,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-15.962,-5.71,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_zanzibar-archipel": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-5.65,39.5,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-5.65,39.5,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "champions-olympiques_jesse-owens": {
 "source": "wiki-sans-filtre"
@@ -25976,103 +26054,136 @@
 "url": "https://kahalakai.com/wp-content/uploads/2020/10/Sunset-criise-on-Oahu.jpg"
 },
 "fleuves-mers-et-oceans_fleuve-saint-laurent": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_orenoque": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_rio-parana": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_missouri-riviere": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_tamise": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_tibre": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_po": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_elbe-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_dniepr": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_rhone": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_garonne": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_tage": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_ienissei": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_ob": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_lena": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_jourdain": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_brahmapoutre": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_fleuve-jaune": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_okavango": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_senegal-fleuve": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "fleuves-mers-et-oceans_mer-du-nord": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_manche-mer": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_mer-egee": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_mer-adriatique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_mer-des-sargasses": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_golfe-du-mexique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_golfe-persique": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Asie"
 },
 "fleuves-mers-et-oceans_salto-angel": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_bosphore": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Europe"
 },
 "fleuves-mers-et-oceans_detroit-de-bering": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Nord"
 },
 "fleuves-mers-et-oceans_detroit-de-magellan": {
-"source": "google-maps"
+"source": "google-maps",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_cap-horn": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Sud"
 },
 "fleuves-mers-et-oceans_triangle-des-bermudes": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Amérique du Nord"
 },
 "iles_irlande-ile": {
 "source": "grand-complement",
@@ -26091,79 +26202,98 @@
 },
 "iles_taiwan-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ta%C3%AFwan/@23.4857501,119.4996499,7z/data=!3m1!4b1!4m6!3m5!1s0x346ef3065c07572f:0xe711f004bf9c5469!8m2!3d23.69781!4d120.960515!16zL20vMDZmMzI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ta%C3%AFwan/@23.4857501,119.4996499,7z/data=!3m1!4b1!4m6!3m5!1s0x346ef3065c07572f:0xe711f004bf9c5469!8m2!3d23.69781!4d120.960515!16zL20vMDZmMzI?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_martinique": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Martinique/@14.6340895,-61.0137748,10z/data=!3m1!4b1!4m6!3m5!1s0x8c6aa0f90066070d:0xe1001b1217afe7b0!8m2!3d14.641528!4d-61.024174!16zL20vMDR2Zzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Martinique/@14.6340895,-61.0137748,10z/data=!3m1!4b1!4m6!3m5!1s0x8c6aa0f90066070d:0xe1001b1217afe7b0!8m2!3d14.641528!4d-61.024174!16zL20vMDR2Zzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_guadeloupe": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@16.15,-61.4,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@16.15,-61.4,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_grande-terre-nouvelle-caledonie": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-21.35,165.55,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-21.35,165.55,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_bora-bora": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-16.5,-151.74,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-16.5,-151.74,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_iles-marquises": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-9.4,-139.7,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-9.4,-139.7,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_mayotte": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Mayotte/@-12.8065498,45.1557827,11z/data=!3m1!4b1!4m6!3m5!1s0x220a0e33dcf28dbb:0xff32176795fe2a4b!8m2!3d-12.8275!4d45.166244!16zL20vMDR2d3M?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Mayotte/@-12.8065498,45.1557827,11z/data=!3m1!4b1!4m6!3m5!1s0x220a0e33dcf28dbb:0xff32176795fe2a4b!8m2!3d-12.8275!4d45.166244!16zL20vMDR2d3M?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_ile-de-re": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+de+R%C3%A9/@46.2005791,-1.4079289,12z/data=!3m1!4b1!4m6!3m5!1s0x4803f806cafa7aab:0xca60eddaded7a874!8m2!3d46.1911105!4d-1.3944629!16zL20vMGZwMDM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+R%C3%A9/@46.2005791,-1.4079289,12z/data=!3m1!4b1!4m6!3m5!1s0x4803f806cafa7aab:0xca60eddaded7a874!8m2!3d46.1911105!4d-1.3944629!16zL20vMGZwMDM?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_belle-ile-en-mer": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@47.335,-3.18,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@47.335,-3.18,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_jersey": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Jersey/@49.211724,-2.1371592,11z/data=!3m1!4b1!4m6!3m5!1s0x480c52a48c927533:0x519c23a30a1a6cc3!8m2!3d49.2137711!4d-2.1357662!16zL20vMDNfeGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Jersey/@49.211724,-2.1371592,11z/data=!3m1!4b1!4m6!3m5!1s0x480c52a48c927533:0x519c23a30a1a6cc3!8m2!3d49.2137711!4d-2.1357662!16zL20vMDNfeGo?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_ile-de-skye": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Skye/@57.3629699,-6.2180284,9z/data=!3m1!4b1!4m6!3m5!1s0x488c312261bdc1ff:0x585c356fe9c86218!8m2!3d57.2736278!4d-6.2155023!16zL20vMDN5Nms?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Skye/@57.3629699,-6.2180284,9z/data=!3m1!4b1!4m6!3m5!1s0x488c312261bdc1ff:0x585c356fe9c86218!8m2!3d57.2736278!4d-6.2155023!16zL20vMDN5Nms?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_ithaque": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ithaque/@38.4018847,20.6908031,12z/data=!3m1!4b1!4m6!3m5!1s0x135d952249df9f5f:0x6acd8d9ffb56445a!8m2!3d38.4284603!4d20.6764877!16zL20vMGdtZzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ithaque/@38.4018847,20.6908031,12z/data=!3m1!4b1!4m6!3m5!1s0x135d952249df9f5f:0x6acd8d9ffb56445a!8m2!3d38.4284603!4d20.6764877!16zL20vMGdtZzg?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_rhodes": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@36.2,28.3,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@36.2,28.3,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_majorque": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@39.61,2.95,9z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@39.61,2.95,9z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_tenerife": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@28.28,-16.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@28.28,-16.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_madere": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@32.87,-16.7,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@32.87,-16.7,10z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_acores": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@38.55,-28,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@38.55,-28,8z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Europe"
 },
 "iles_ile-de-goree": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@14.6672,-17.3985,16z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@14.6672,-17.3985,16z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_ile-d-alcatraz": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+d'Alcatraz/@37.8267028,-122.4229888,17z/data=!3m1!4b1!4m6!3m5!1s0x8085811569574f23:0x189c28e85a71ae17!8m2!3d37.8266636!4d-122.4230122!16s%2Fg%2F1hm5fnql2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+d'Alcatraz/@37.8267028,-122.4229888,17z/data=!3m1!4b1!4m6!3m5!1s0x8085811569574f23:0x189c28e85a71ae17!8m2!3d37.8266636!4d-122.4230122!16s%2Fg%2F1hm5fnql2?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_manhattan": {
 "source": "grand-complement",
@@ -26172,35 +26302,43 @@
 },
 "iles_ellis-island": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Ellis+Island/@40.6986858,-74.0407053,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2509a195f0e0f:0xd2a3469d9222d6eb!8m2!3d40.6994748!4d-74.0395587!16zL20vMDJueWc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Ellis+Island/@40.6986858,-74.0407053,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2509a195f0e0f:0xd2a3469d9222d6eb!8m2!3d40.6994748!4d-74.0395587!16zL20vMDJueWc?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_ile-du-diable": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+du+Diable/@5.2938993,-52.5829859,17z/data=!3m1!4b1!4m6!3m5!1s0x8d11e42fad9228bd:0x2b6f5f467a72182d!8m2!3d5.2954974!4d-52.5818964!16zL20vMDE1cjU4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+du+Diable/@5.2938993,-52.5829859,17z/data=!3m1!4b1!4m6!3m5!1s0x8d11e42fad9228bd:0x2b6f5f467a72182d!8m2!3d5.2954974!4d-52.5818964!16zL20vMDE1cjU4?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Sud"
 },
 "iles_ile-de-la-tortue": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/%C3%8Ele+de+la+Tortue/@20.0410277,-72.7954762,12z/data=!3m1!4b1!4m6!3m5!1s0x8eb6635255465279:0x57de6eda0fe30d8a!8m2!3d20.0548685!4d-72.7924612!16zL20vMDJ6N3Yy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/%C3%8Ele+de+la+Tortue/@20.0410277,-72.7954762,12z/data=!3m1!4b1!4m6!3m5!1s0x8eb6635255465279:0x57de6eda0fe30d8a!8m2!3d20.0548685!4d-72.7924612!16zL20vMDJ6N3Yy?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Amérique du Nord"
 },
 "iles_tristan-da-cunha": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-37.11,-12.28,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-37.11,-12.28,12z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Afrique"
 },
 "iles_iles-kerguelen": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-49.3,69.5,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-49.3,69.5,9z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océan Indien"
 },
 "iles_pitcairn": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@-25.068,-130.1,14z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@-25.068,-130.1,14z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "iles_komodo-ile": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Komodo/@-8.5892324,119.4726357,11z/data=!3m1!4b1!4m6!3m5!1s0x2db4545ba8b2bbbb:0x62b9b2c3feba412!8m2!3d-8.5850461!4d119.4411476!16zL20vMDMyanFx?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/place/Komodo/@-8.5892324,119.4726357,11z/data=!3m1!4b1!4m6!3m5!1s0x2db4545ba8b2bbbb:0x62b9b2c3feba412!8m2!3d-8.5850461!4d119.4411476!16zL20vMDMyanFx?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Asie"
 },
 "iles_bikini-atoll": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/@11.6,165.4,11z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@11.6,165.4,11z?entry=ttu&g_ep=EgoyMDI2MDkyNy4xIKXMDSoASAFQAw%3D%3D",
+"encart_zone": "Océanie"
 },
 "montagnes-et-volcans_kangchenjunga": {
 "source": "grand-complement",
@@ -29706,7 +29844,8 @@
 "url": "https://hips.hearstapps.com/hmg-prod/images/dessau-bauhaus-building-1617131577.jpeg"
 },
 "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
-"source": "google-maps+natural-earth"
+"source": "google-maps+natural-earth",
+"encart_zone": "Afrique"
 },
 "figures-resistance_raymond-aubrac": {
 "source": "grand-complement",
@@ -31019,343 +31158,400 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://4kwallpapers.com/images/wallpapers/sahara-desert-merzouga-morocco-sand-dune-blue-sky-sunny-day-1440x900-2122.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_desert-de-gobi": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://correctmongolia.com/wp-content/uploads/2022/08/Little-yardang-1.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-d-atacama": {
 "source": "grand-complement",
 "origine": "web",
 "url": "http://www.farawaydispatches.com/wp-content/uploads/2021/07/Atacama-7.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Sud"
 },
 "deserts_desert-du-kalahari": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.journeysinternational.com/wp-content/uploads/2019/04/namibia-desert.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_desert-du-namib": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.namibie-en-liberte.com/uploads/sites/2/2018/07/paysage-deadvlei-sossusvlei-namibie.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_rub-al-khali": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Rub_al_Khali_002.JPG/1280px-Rub_al_Khali_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_neguev": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.audleytravel.com/-/-/79/15974756-mountains-of-the-negev-desert.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-du-thar": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/1280px-Thar_desert_Rajasthan_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-du-taklamakan": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taklamakan_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-des-mojaves": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.squarespace-cdn.com/content/v1/62fbfbed423b4f1bb8caed31/d0395d04-1fd6-42ed-91d4-53377f642370/1.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "deserts_vallee-de-la-mort": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.ontraport.com/224876.5094eb1372f03c19ab1cd42de32dae65.JPEG",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "deserts_desert-de-sonora": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg/1280px-Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "deserts_desert-de-chihuahua": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.pinimg.com/originals/e2/b3/6e/e2b36e86cfdc70699d3a73e9c5114b83.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "deserts_grand-desert-de-victoria": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.pinimg.com/originals/c1/3d/36/c13d360f4500af9189ef80fba36daf90.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Océanie"
 },
 "deserts_desert-de-simpson": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.rove.me/w_1920,q_85/ginrmh1ydo6cntzza8kw/south-australia-simpson-desert.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Océanie"
 },
 "deserts_desert-du-karakoum": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://eurasia.travel/wp-content/uploads/2025/09/4.-Karakum-Desert-in-Turkmenistan.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-du-kyzylkoum": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.terres-ouzbekes.com/uploads/sites/24/2018/12/voyage-randonnees.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_dacht-e-lout": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kaluts%2C_Iran_%285072510138%29.jpg/1280px-Kaluts%2C_Iran_%285072510138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_dacht-e-kavir": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dasht-e_Kavir_2%2C_Iran.JPG/1280px-Dasht-e_Kavir_2%2C_Iran.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-libyque": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.philippe-crochet.com/images/php/files/voy-11493-hd.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_tenere": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_depression-de-l-afar": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://img-4.linternaute.com/Bzz_1-8XU2jkCy3J22zeqUwO0xQ=/1080x720/smart/0e326683ac2145fd8afe68721021d51f/ccmcms-linternaute/10992346.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_wadi-rum": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/1280px-Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_desert-de-tabernas": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Amanecer_en_el_desierto.jpg/1280px-Amanecer_en_el_desierto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "deserts_bardenas-reales": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.generationvoyage.fr/2024/01/Desert-des-Bardenas-Reales-Espagne.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "deserts_desert-blanc": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Desert_blanc.jpg/1280px-Desert_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_steppe-patagonienne": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.pixabay.com/photo/2022/09/20/13/43/patagonia-7467943_1280.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Sud"
 },
 "deserts_grand-erg-oriental": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.generationvoyage.fr/2025/06/Les-dunes-du-Grand-Erg-Oriental-Sud-Tunisien.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_desert-de-syrie": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://a-z-animals.com/media/2022/10/shutterstock_128907779.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-superieur": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://a-z-animals.com/media/2022/03/shutterstock_477445750.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-huron": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://c.wallhere.com/photos/8b/7d/4904x2758_px_Huron_lake_landscape_Michigan_rock_sunset_Trees-1718907.jpg!d",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-michigan": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://monsieurmadameexplore.com/wp-content/uploads/2025/02/pictured-rocks-grand-dunes-log-slide-overlook-1.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_grand-lac-de-l-ours": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.greatbearlakeoutdoors.com/wp-content/uploads/2020/08/great-bear-lake-scaled.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-malawi": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://windows10spotlight.com/wp-content/uploads/2023/03/63dd1a4deb56152cd9599d979faa177c.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-erie": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://skippersplan.com/wp-content/uploads/2025/06/Pelee-Island-Lighthouse.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-ontario": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://media.ponant.com/media/4655161.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-ladoga": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images6.alphacoders.com/996/thumb-1920-996214.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-balkhach": {
 "source": "grand-complement",
 "origine": "web",
 "url": "http://eurasia.travel/wp-content/uploads/2025/02/11.-Balkhash-Lake.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-du-bourget": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://img-4.linternaute.com/qqvdfTeR6I3ZPwIlcHlusrMWFYw=/2512x/smart/e0822f0ca114456f8f2d584758e492bd/ccmcms-linternaute/10717922.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-d-annecy": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.pexels.com/photos/34605738/pexels-photo-34605738/free-photo-of-vue-panoramique-du-lac-d-annecy-en-france.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-de-come": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.voyageavecnous.fr/wp-content/uploads/2023/04/lac-de-come-italie.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-de-garde": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://wallpaperaccess.com/full/3700629.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-majeur": {
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lago-Maggiore_1387.JPG/1280px-Lago-Maggiore_1387.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-de-constance": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.pixabay.com/photo/2019/03/22/09/49/lake-constance-4072907_1280.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-tana": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://sadorethiopiatours.com/wp-content/uploads/2025/07/LAKE-TANA-scaled.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-turkana": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2016/03/lac-turkana-etait-berceau-humanite-scaled.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-kivu": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.afriquesurmesure.com/app/uploads/2024/02/LacKivu.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_grand-lac-sale": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.redd.it/eg7g9gscfn841.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-tahoe": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.pixabay.com/photo/2016/08/13/18/34/lake-tahoe-1591339_1280.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-louise-alberta": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.unsplash.com/photo-1474419804354-b82d9cad71ca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFjJTIwbG91aXNlfGVufDB8fDB8fHww",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-inle": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.myanmarphototour.com/wp-content/uploads/2017/11/Fishermen-in-Inle-Lake-scaled.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-toba": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.tripsavvy.com/thmb/ltiBrAcMD5tmQTFEX4YVj7xtbdk=/5335x3543/filters:no_upscale():max_bytes(150000):strip_icc()/lake-toba-north-sumatra-indonesia-5b43bb0ec9e77c0037540c34.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-de-bled": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.generationvoyage.fr/2025/04/Le-Lac-de-Bled-Slovenie-1536x1023.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_parc-national-des-lacs-de-plitvice": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://joyeuxvoyage.fr/wp-content/uploads/2026/05/Decouvrir-le-parc-de-Plitvice-un-joyau-naturel-a-ne-pas-manquer-en-Croatie-1.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-rose": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://que-faire-senegal.com/wp-content/uploads/2025/10/randonnee-7.jpeg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-natron": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.easytravel.co.tz/wp-content/uploads/2023/07/A-Flamboyance-of-Flamingos-in-Lake-Natron-Easy-Travel-Tanzania-scaled-1.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-de-tiberiade": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://storage.needpix.com/rsynced_images/sea-4026566_1280.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "regions-francaises_auvergne-rhone-alpes": {
 "source": "grand-complement",
@@ -31433,7 +31629,8 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.yana-j.fr/wp-content/uploads/2019/11/Nature-1024x781.jpeg",
-"encart": "region"
+"encart": "region",
+"encart_zone": "Amérique du Sud"
 },
 "regions-francaises_normandie-region-administrative": {
 "source": "grand-complement",
@@ -32925,97 +33122,113 @@
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Balaton_Hungary_Landscape.jpg/1280px-Balaton_Hungary_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_vanern": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www-static.lakevanernadventures.se/wp-content/uploads/2025/12/DJI_20250724214332_0147_D-scaled.jpg?media=1765920968",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-winnipeg": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.goodfreephotos.com/albums/canada/manitoba/hecla-provincial-park/scenery-of-lake-winnipeg-shoreline-with-trees-hecla-provincial-park.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_grand-lac-des-esclaves": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.tripsavvy.com/thmb/QAemD7x1FWb2QQqc4vS9LzdaW8A=/2122x1412/filters:no_upscale():max_bytes(150000):strip_icc()/great-slave-lake-45f592a4e9eb4376880f93486e44ab85.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_yssyk-koul": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://eurasia.travel/wp-content/uploads/2024/09/Lake-Issyk-Kul-and-the-Tien-Shan-Mountains-2.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-nicaragua": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.pinimg.com/originals/e2/b4/1c/e2b41cc917b70f3116917bde02157921.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "lacs_lac-d-ohrid": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.pexels.com/photos/1346129/pexels-photo-1346129.jpeg?cs=srgb&dl=landscape-macedonia-ohrid-1346129.jpg&fm=jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_lac-nasser": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://photos.altai-travel.com/1920x1040/coucher-de-soleil-sur-le-lac-nasser-en-egypte-11204.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-volta": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Volta_lake_from_the_Saint_Barbara_Church.JPG/1920px-Volta_lake_from_the_Saint_Barbara_Church.JPG",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "deserts_desert-d-arabie": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://i.natgeofe.com/n/c450fb11-4030-4ea6-97a4-d155847e7aef/NationalGeographic_2611083.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "deserts_grand-desert-de-sable": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn.exploroz.com/images/places/56224_0.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Océanie"
 },
 "deserts_grand-bassin-des-etats-unis": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://wnpa.org/sites/default/files/styles/scale_1920/public/2025-04/3.1.x-VisitUs_ParkPage_GRBA_banner-1.jpg?itok=2vkN0H3Z",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
 },
 "regions-francaises_conseil-regional-de-la-guadeloupe": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.okvoyage.com/wp-content/uploads/2023/04/la-pointe-des-chateaux.jpg",
-"encart": "region"
+"encart": "region",
+"encart_zone": "Amérique du Nord"
 },
 "regions-francaises_collectivite-territoriale-de-martinique": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.worldatlas.com/upload/8b/ad/7d/saint-pierre-bay-martinique-damien-verrier.jpg",
-"encart": "region"
+"encart": "region",
+"encart_zone": "Amérique du Nord"
 },
 "regions-francaises_conseil-regional-de-la-reunion": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://rp-cms.imgix.net/wp-content/uploads/willdwind-william-martret-lRrklMtueBg-unsplash-scaled.jpg",
-"encart": "region"
+"encart": "region",
+"encart_zone": "Afrique"
 },
 "regions-francaises_conseil-departemental-de-mayotte": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://woody.cloudly.space/app/uploads/mayotte/2021/12/thumbs/ulm-recif-ilot-mtsamboro-mayotte-3833-original-1-1920x960.jpg",
-"encart": "region"
+"encart": "region",
+"encart_zone": "Afrique"
 },
 "papes_celestin-v": {
 "source": "grand-complement",
@@ -33431,66 +33644,161 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.itmag-dz.com/wp-content/uploads/2025/06/Une-ile-surgit-en-mer-Caspienne-le-climat-transforme-la-geographie.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-victoria": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.monde-authentique.com/wp-content/gallery/ouganda-produit-lacs-ougandais/Monde-Authentique-lacs-ougandais-Lac-Victoria-pixabay-web.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-tanganyika": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.destin-tanganyika.com/wp-content/uploads/2017/12/cap-kabogo1.2.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_lac-baikal": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://wallpapercave.com/wp/wp7108766.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_lac-titicaca": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.uncoversouthamerica.travel/site/assets/files/12364/tour-titicaca-island.1920x0.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Sud"
 },
 "lacs_lac-tchad": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.culturesofwestafrica.com/wp-content/uploads/2025/11/Exploring-Lake-Chad-Basin.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Afrique"
 },
 "lacs_mer-d-aral": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/2/4/8242c7987a_91098_shutterstock-373581787.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_leman": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://lp-cms-production.imgix.net/2024-11/AdobeStock153453841.jpeg?fit=crop&w=3840&auto=format&q=75",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_loch-ness": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://www.okvoyage.com/wp-content/uploads/2023/03/le-loch-ness-en-ecosse-1536x1024.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Europe"
 },
 "lacs_mer-morte": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://images.alphacoders.com/110/1106216.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Asie"
 },
 "lacs_grands-lacs-amerique-du-nord": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://wallpapercave.com/wp/wp9136837.jpg",
-"encart": "planisphere"
+"encart": "planisphere",
+"encart_zone": "Amérique du Nord"
+},
+"micro-etats_vatican": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@41.9035,12.4528,15z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_monaco": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@43.738,7.4246,14z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_nauru": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@-0.528,166.934,13z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_tuvalu": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@-8.52,179.17,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_saint-marin": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Saint-Marin/@43.9428779,12.4600933,12z/data=!3m1!4b1!4m6!3m5!1s0x132ceb5ff5e63f79:0xf39982342010!8m2!3d43.9352313!4d12.4467607!16zL20vMDZzZmY?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_liechtenstein": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Liechtenstein/@47.1595012,9.5536876,11z/data=!3m1!4b1!4m6!3m5!1s0x479b31441d472ffd:0x60eab536dd5ab189!8m2!3d47.1410392!4d9.520935!16zL20vMDRqNTM?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_iles-marshall": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@7.1,171.25,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_saint-christophe-et-nieves": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@17.25,-62.7,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_saint-vincent-et-les-grenadines": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@13.2,-61.2,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_barbade": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@13.18,-59.55,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_antigua-et-barbuda": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@17.08,-61.8,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_andorre": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/place/Andorre/@42.5423028,1.6001123,11z/data=!3m1!4b1!4m6!3m5!1s0x12a5f52e989ef095:0x7c93ed778ea7f92!8m2!3d42.506285!4d1.521801!16zL20vMGhnNQ?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_sainte-lucie": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@13.91,-60.97,10z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_etats-federes-de-micronesie": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@6.88,158.22,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_tonga": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@-21.18,-175.2,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_dominique-pays": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@15.42,-61.35,10z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_bahrein": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@26.03,50.55,10z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_kiribati": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@1.42,173,10z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_sao-tome-et-principe": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@0.25,6.6,10z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_luxembourg": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@49.78,6.13,9z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+},
+"micro-etats_grenade-pays": {
+"source": "google-maps",
+"url": "https://www.google.com/maps/@12.12,-61.67,11z?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
 }
 }

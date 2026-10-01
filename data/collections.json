@@ -162,6 +162,13 @@
    "theme": "Géographie"
   },
   {
+   "slug": "micro-etats",
+   "nom": "Micro-États",
+   "nbCartes": 21,
+   "fichier": "data/micro-etats.json",
+   "theme": "Géographie"
+  },
+  {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
    "nbCartes": 107,

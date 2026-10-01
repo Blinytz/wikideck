@@ -1,31 +1,109 @@
 {
-  "styles-architecturaux_architecture-de-la-grece-antique": {"k": 0},
-  "styles-architecturaux_architecture-romaine": {"k": 1},
-  "styles-architecturaux_architecture-byzantine": {"k": 3},
-  "styles-architecturaux_art-roman": {"k": 11},
-  "styles-architecturaux_architecture-gothique": {"k": 1},
-  "styles-architecturaux_architecture-islamique": {"k": 1},
-  "styles-architecturaux_art-mudejar": {"k": 6},
-  "styles-architecturaux_architecture-de-la-renaissance": {"k": 2},
-  "styles-architecturaux_architecture-baroque": {"k": 2},
-  "styles-architecturaux_rococo": {"k": 6},
-  "styles-architecturaux_architecture-classique": {"k": 5},
-  "styles-architecturaux_palladianisme": {"k": 10},
-  "styles-architecturaux_architecture-neo-classique": {"k": 1},
-  "styles-architecturaux_style-neogothique": {"k": 7},
-  "styles-architecturaux_style-beaux-arts": {"k": 2},
-  "styles-architecturaux_architecture-victorienne": {"k": 1},
-  "styles-architecturaux_art-nouveau": {"k": 1, "cy": 0.42},
-  "styles-architecturaux_art-deco": {"k": 1, "cy": 0.25},
-  "styles-architecturaux_ecole-de-chicago-architecture": {"k": 6},
-  "styles-architecturaux_style-international": {"k": 4},
-  "styles-architecturaux_architecture-organique": {"k": 1},
-  "styles-architecturaux_brutalisme": {"k": 0},
-  "styles-architecturaux_postmodernisme-architecture": {"k": 1},
-  "styles-architecturaux_deconstructivisme": {"k": 1},
-  "styles-architecturaux_architecture-high-tech": {"k": 4, "w": 0.8, "cx": 0.45, "cy": 0.42},
-  "styles-architecturaux_architecture-moghole": {"k": 0},
-  "styles-architecturaux_architecture-khmere": {"k": 0},
-  "styles-architecturaux_architecture-japonaise": {"k": 1},
-  "styles-architecturaux_pan-de-bois": {"k": 1}
+ "styles-architecturaux_architecture-de-la-grece-antique": {
+  "k": 0
+ },
+ "styles-architecturaux_architecture-romaine": {
+  "k": 1
+ },
+ "styles-architecturaux_architecture-byzantine": {
+  "k": 3
+ },
+ "styles-architecturaux_art-roman": {
+  "k": 11
+ },
+ "styles-architecturaux_architecture-gothique": {
+  "k": 1
+ },
+ "styles-architecturaux_architecture-islamique": {
+  "k": 1
+ },
+ "styles-architecturaux_art-mudejar": {
+  "k": 6
+ },
+ "styles-architecturaux_architecture-de-la-renaissance": {
+  "k": 2
+ },
+ "styles-architecturaux_architecture-baroque": {
+  "k": 2
+ },
+ "styles-architecturaux_rococo": {
+  "k": 6
+ },
+ "styles-architecturaux_architecture-classique": {
+  "k": 5
+ },
+ "styles-architecturaux_palladianisme": {
+  "k": 10
+ },
+ "styles-architecturaux_architecture-neo-classique": {
+  "k": 1
+ },
+ "styles-architecturaux_style-neogothique": {
+  "k": 7
+ },
+ "styles-architecturaux_style-beaux-arts": {
+  "k": 2
+ },
+ "styles-architecturaux_architecture-victorienne": {
+  "k": 1
+ },
+ "styles-architecturaux_art-nouveau": {
+  "k": 1,
+  "cy": 0.42
+ },
+ "styles-architecturaux_art-deco": {
+  "k": 1,
+  "cy": 0.25
+ },
+ "styles-architecturaux_ecole-de-chicago-architecture": {
+  "k": 6
+ },
+ "styles-architecturaux_style-international": {
+  "k": 4
+ },
+ "styles-architecturaux_architecture-organique": {
+  "k": 1
+ },
+ "styles-architecturaux_brutalisme": {
+  "k": 0
+ },
+ "styles-architecturaux_postmodernisme-architecture": {
+  "k": 1
+ },
+ "styles-architecturaux_deconstructivisme": {
+  "k": 1
+ },
+ "styles-architecturaux_architecture-high-tech": {
+  "k": 4,
+  "w": 0.8,
+  "cx": 0.45,
+  "cy": 0.42
+ },
+ "styles-architecturaux_architecture-moghole": {
+  "k": 0
+ },
+ "styles-architecturaux_architecture-khmere": {
+  "k": 0
+ },
+ "styles-architecturaux_architecture-japonaise": {
+  "k": 1
+ },
+ "styles-architecturaux_pan-de-bois": {
+  "k": 1
+ },
+ "styles-architecturaux_architecture-en-egypte-antique": {
+  "k": 0
+ },
+ "styles-architecturaux_architecture-maya": {
+  "k": 2
+ },
+ "styles-architecturaux_architecture-chinoise": {
+  "k": 0
+ },
+ "styles-architecturaux_art-ottoman": {
+  "k": 10
+ },
+ "styles-architecturaux_architecture-constructiviste": {
+  "k": 4
+ }
 }

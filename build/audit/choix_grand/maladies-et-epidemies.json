@@ -113,5 +113,40 @@
  },
  "maladies-et-epidemies_cancer": {
   "k": 5
+ },
+ "maladies-et-epidemies_depression-psychiatrie": {
+  "k": 0,
+  "cy": 0.38
+ },
+ "maladies-et-epidemies_schizophrenie": {
+  "k": 8
+ },
+ "maladies-et-epidemies_trouble-bipolaire": {
+  "k": 1,
+  "cy": 0.6
+ },
+ "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
+  "k": 4
+ },
+ "maladies-et-epidemies_hepatite": {
+  "k": 4
+ },
+ "maladies-et-epidemies_meningite": {
+  "k": 7
+ },
+ "maladies-et-epidemies_varicelle": {
+  "k": 2
+ },
+ "maladies-et-epidemies_coqueluche": {
+  "k": 0
+ },
+ "maladies-et-epidemies_encephalopathie-spongiforme-bovine": {
+  "k": 2
+ },
+ "maladies-et-epidemies_hypertension-arterielle": {
+  "k": 0
+ },
+ "maladies-et-epidemies_obesite": {
+  "k": 11
  }
 }

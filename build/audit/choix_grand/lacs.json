@@ -82,5 +82,32 @@
  },
  "lacs_lac-de-tiberiade": {
   "k": 11
+ },
+ "lacs_lac-balaton": {
+  "k": 1
+ },
+ "lacs_vanern": {
+  "k": 2
+ },
+ "lacs_lac-winnipeg": {
+  "k": 2
+ },
+ "lacs_grand-lac-des-esclaves": {
+  "k": 9
+ },
+ "lacs_yssyk-koul": {
+  "k": 3
+ },
+ "lacs_lac-nicaragua": {
+  "k": 10
+ },
+ "lacs_lac-d-ohrid": {
+  "k": 8
+ },
+ "lacs_lac-nasser": {
+  "k": 2
+ },
+ "lacs_lac-volta": {
+  "k": 9
  }
 }

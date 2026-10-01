@@ -138,5 +138,20 @@
  "papes_innocent-x": {
   "k": 0,
   "cy": 0.3
+ },
+ "papes_celestin-v": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "papes_pie-x": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "papes_martin-v": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "papes_formose-pape": {
+  "k": 5
  }
 }

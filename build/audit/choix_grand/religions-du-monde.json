@@ -85,5 +85,26 @@
  },
  "religions-du-monde_religion-grecque-antique": {
   "k": 2
+ },
+ "religions-du-monde_evangelisme": {
+  "k": 0
+ },
+ "religions-du-monde_pentecotisme": {
+  "k": 4
+ },
+ "religions-du-monde_religion-de-la-rome-antique": {
+  "k": 0
+ },
+ "religions-du-monde_religion-nordique-ancienne": {
+  "k": 10
+ },
+ "religions-du-monde_druzes": {
+  "k": 3
+ },
+ "religions-du-monde_alevisme": {
+  "k": 1
+ },
+ "religions-du-monde_amish": {
+  "k": 8
  }
 }

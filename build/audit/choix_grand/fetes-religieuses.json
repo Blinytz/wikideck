@@ -94,5 +94,23 @@
  },
  "fetes-religieuses_jour-des-morts-mexique": {
   "k": 10
+ },
+ "fetes-religieuses_vendredi-saint": {
+  "k": 10
+ },
+ "fetes-religieuses_chavouot": {
+  "k": 5
+ },
+ "fetes-religieuses_fete-dieu": {
+  "k": 9
+ },
+ "fetes-religieuses_laylat-al-qadr": {
+  "k": 2
+ },
+ "fetes-religieuses_ganesh-chaturthi": {
+  "k": 11
+ },
+ "fetes-religieuses_fete-de-la-saint-patrick": {
+  "k": 10
  }
 }

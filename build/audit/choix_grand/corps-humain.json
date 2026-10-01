@@ -118,5 +118,41 @@
  },
  "corps-humain_retine": {
   "k": 1
+ },
+ "corps-humain_uterus": {
+  "k": 8
+ },
+ "corps-humain_ovaire": {
+  "k": 3
+ },
+ "corps-humain_testicule": {
+  "k": 6
+ },
+ "corps-humain_prostate": {
+  "k": 2
+ },
+ "corps-humain_vessie": {
+  "k": 2
+ },
+ "corps-humain_larynx": {
+  "k": 4
+ },
+ "corps-humain_trachee": {
+  "k": 2
+ },
+ "corps-humain_sophage": {
+  "k": 2
+ },
+ "corps-humain_glande-surrenale": {
+  "k": 3
+ },
+ "corps-humain_dent": {
+  "k": 6
+ },
+ "corps-humain_systeme-reproducteur": {
+  "k": 7
+ },
+ "corps-humain_appareil-urinaire": {
+  "k": 1
  }
 }

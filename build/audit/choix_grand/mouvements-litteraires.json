@@ -85,5 +85,17 @@
  "mouvements-litteraires_les-hussards-mouvement-litteraire": {
   "k": 6,
   "cy": 0.4
+ },
+ "mouvements-litteraires_litterature-courtoise": {
+  "k": 6
+ },
+ "mouvements-litteraires_libertin": {
+  "k": 4
+ },
+ "mouvements-litteraires_renaissance-de-harlem": {
+  "k": 9
+ },
+ "mouvements-litteraires_litterature-postmoderne": {
+  "k": 7
  }
 }

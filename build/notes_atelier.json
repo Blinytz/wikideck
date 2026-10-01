@@ -38462,13 +38462,6 @@
    "editeLe": 1790429386423,
    "original": true
   },
-  "croyances-et-notions-sacrees_dao-de-jing": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790429310248,
-   "original": true
-  },
   "croyances-et-notions-sacrees_ch-i-spiritualite": {
    "cx": 0.5,
    "cy": 0.625,
@@ -57496,6 +57489,869 @@
   "papes_innocent-x": {
    "cx": 0.5,
    "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_dao-de-jing": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1790429310248,
+   "original": true
+  },
+  "organisations-internationales_banque-centrale-europeenne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_cour-europeenne-des-droits-de-l-homme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_federation-internationale-de-football-association": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.92,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_haut-commissariat-des-nations-unies-pour-les-refugies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8107638888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_marche-commun-du-sud": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7483333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.785,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_organisation-pour-la-securite-et-la-cooperation-en-europe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "organisations-internationales_wwf": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-balaton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8822916666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_vanern": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-winnipeg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_grand-lac-des-esclaves": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_yssyk-koul": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-nicaragua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-d-ohrid": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-nasser": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7225,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-volta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.48666666666666664,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_desert-d-arabie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_grand-desert-de-sable": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "deserts_grand-bassin-des-etats-unis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8758333333333332,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_conseil-regional-de-la-guadeloupe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_collectivite-territoriale-de-martinique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_conseil-regional-de-la-reunion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8575,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "regions-francaises_conseil-departemental-de-mayotte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_celestin-v": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-x": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_martin-v": {
+   "cx": 0.5,
+   "cy": 0.30322173089071386,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_formose-pape": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9851851851851852,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_henri-rol-tanguy": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_colonel-remy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7830687830687831,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_emmanuel-d-astier-de-la-vigerie": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_felix-eboue": {
+   "cx": 0.5,
+   "cy": 0.2652050919377652,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_jacques-chaban-delmas": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "figures-resistance_dietrich-bonhoeffer": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-panafricain-du-cinema-et-de-la-television-de-ouagadougou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-international-du-film-de-karlovy-vary": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "festivals-et-recompenses-cinema_festival-du-film-de-tribeca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9233333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_jeux-paralympiques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_coupe-du-monde-de-cricket": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_championnats-du-monde-de-vitesse-moto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "grandes-competitions_tour-de-france-femmes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_uterus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7208333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_ovaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_testicule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_prostate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_vessie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_larynx": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_trachee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_sophage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8492569002123143,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_glande-surrenale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_dent": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_systeme-reproducteur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "corps-humain_appareil-urinaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_depression-psychiatrie": {
+   "cx": 0.5,
+   "cy": 0.38,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_schizophrenie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_trouble-bipolaire": {
+   "cx": 0.5,
+   "cy": 0.6,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_hepatite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9386574074074073,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_varicelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_coqueluche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_encephalopathie-spongiforme-bovine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_hypertension-arterielle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8864583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_obesite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.87,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theoreme-de-bayes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8551111111111112,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-de-hubble-lemaitre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_equation-de-schrodinger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7822222222222222,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_induction-electromagnetique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_loi-des-gaz-parfaits": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_theorie-du-chaos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "theoremes-et-lois_paradoxes-de-zenon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_evangelisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8489583333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_pentecotisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_religion-de-la-rome-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_religion-nordique-ancienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7616666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_druzes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8880208333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_alevisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "religions-du-monde_amish": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_vulgate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "textes-sacres_septante": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_vendredi-saint": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_chavouot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8858333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_fete-dieu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_laylat-al-qadr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_ganesh-chaturthi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9731437598736177,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fetes-religieuses_fete-de-la-saint-patrick": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-financiere-russe-de-1998": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9941666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_enron": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_litterature-courtoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_libertin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_renaissance-de-harlem": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "mouvements-litteraires_litterature-postmoderne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7573333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_fantastique": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-d-apprentissage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-picaresque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_roman-gothique": {
+   "cx": 0.5,
+   "cy": 0.55,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_fabliau": {
+   "cx": 0.5,
+   "cy": 0.55,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_biographie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_journal-intime": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-en-egypte-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8864583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-maya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-chinoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8447916666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_art-ottoman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "styles-architecturaux_architecture-constructiviste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9754445385266723,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "maladies-et-epidemies_meningite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "genres-litteraires_satire": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "crises-economiques_crise-economique-mexicaine": {
+   "cx": 0.5,
+   "cy": 0.5,
    "w": 1.0,
    "original": true,
    "editeLe": 0,

@@ -103,5 +103,17 @@
  },
  "grandes-competitions_jeux-du-commonwealth": {
   "k": 9
+ },
+ "grandes-competitions_jeux-paralympiques": {
+  "k": 5
+ },
+ "grandes-competitions_coupe-du-monde-de-cricket": {
+  "k": 4
+ },
+ "grandes-competitions_championnats-du-monde-de-vitesse-moto": {
+  "k": 1
+ },
+ "grandes-competitions_tour-de-france-femmes": {
+  "k": 9
  }
 }

@@ -98,5 +98,32 @@
  "organisations-internationales_medecins-sans-frontieres": {
   "k": 3,
   "cy": 0.4
+ },
+ "organisations-internationales_banque-centrale-europeenne": {
+  "k": 9
+ },
+ "organisations-internationales_cour-europeenne-des-droits-de-l-homme": {
+  "k": 0
+ },
+ "organisations-internationales_federation-internationale-de-football-association": {
+  "k": 9
+ },
+ "organisations-internationales_groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat": {
+  "k": 10
+ },
+ "organisations-internationales_haut-commissariat-des-nations-unies-pour-les-refugies": {
+  "k": 1
+ },
+ "organisations-internationales_marche-commun-du-sud": {
+  "k": 3
+ },
+ "organisations-internationales_organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture": {
+  "k": 1
+ },
+ "organisations-internationales_organisation-pour-la-securite-et-la-cooperation-en-europe": {
+  "k": 7
+ },
+ "organisations-internationales_wwf": {
+  "k": 0
  }
 }

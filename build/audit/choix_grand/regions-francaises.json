@@ -40,5 +40,17 @@
  },
  "regions-francaises_normandie-region-administrative": {
   "k": 9
+ },
+ "regions-francaises_conseil-regional-de-la-guadeloupe": {
+  "k": 2
+ },
+ "regions-francaises_collectivite-territoriale-de-martinique": {
+  "k": 1
+ },
+ "regions-francaises_conseil-regional-de-la-reunion": {
+  "k": 10
+ },
+ "regions-francaises_conseil-departemental-de-mayotte": {
+  "k": 6
  }
 }

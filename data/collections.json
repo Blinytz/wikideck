@@ -363,7 +363,7 @@
   {
    "slug": "croyances-et-notions-sacrees",
    "nom": "Croyances et notions sacrées",
-   "nbCartes": 31,
+   "nbCartes": 30,
    "fichier": "data/croyances-et-notions-sacrees.json"
   },
   {
@@ -639,25 +639,25 @@
   {
    "slug": "grandes-competitions",
    "nom": "Grandes compétitions",
-   "nbCartes": 35,
+   "nbCartes": 39,
    "fichier": "data/grandes-competitions.json"
   },
   {
    "slug": "festivals-et-recompenses-cinema",
    "nom": "Festivals et cérémonies de cinéma",
-   "nbCartes": 24,
+   "nbCartes": 27,
    "fichier": "data/festivals-et-recompenses-cinema.json"
   },
   {
    "slug": "figures-resistance",
    "nom": "Figures de la Résistance",
-   "nbCartes": 33,
+   "nbCartes": 39,
    "fichier": "data/figures-resistance.json"
   },
   {
    "slug": "styles-architecturaux",
    "nom": "Styles architecturaux",
-   "nbCartes": 30,
+   "nbCartes": 35,
    "fichier": "data/styles-architecturaux.json"
   },
   {
@@ -675,85 +675,85 @@
   {
    "slug": "papes",
    "nom": "Papes",
-   "nbCartes": 38,
+   "nbCartes": 42,
    "fichier": "data/papes.json"
   },
   {
    "slug": "organisations-internationales",
    "nom": "Organisations internationales",
-   "nbCartes": 33,
+   "nbCartes": 42,
    "fichier": "data/organisations-internationales.json"
   },
   {
    "slug": "deserts",
    "nom": "Déserts",
-   "nbCartes": 29,
+   "nbCartes": 32,
    "fichier": "data/deserts.json"
   },
   {
    "slug": "lacs",
    "nom": "Lacs",
-   "nbCartes": 39,
+   "nbCartes": 48,
    "fichier": "data/lacs.json"
   },
   {
    "slug": "regions-francaises",
    "nom": "Régions françaises",
-   "nbCartes": 14,
+   "nbCartes": 18,
    "fichier": "data/regions-francaises.json"
   },
   {
    "slug": "mouvements-litteraires",
    "nom": "Mouvements littéraires",
-   "nbCartes": 26,
+   "nbCartes": 30,
    "fichier": "data/mouvements-litteraires.json"
   },
   {
    "slug": "genres-litteraires",
    "nom": "Genres littéraires",
-   "nbCartes": 27,
+   "nbCartes": 35,
    "fichier": "data/genres-litteraires.json"
   },
   {
    "slug": "corps-humain",
    "nom": "Corps humain",
-   "nbCartes": 40,
+   "nbCartes": 52,
    "fichier": "data/corps-humain.json"
   },
   {
    "slug": "maladies-et-epidemies",
    "nom": "Maladies et épidémies",
-   "nbCartes": 36,
+   "nbCartes": 47,
    "fichier": "data/maladies-et-epidemies.json"
   },
   {
    "slug": "theoremes-et-lois",
    "nom": "Théorèmes et lois célèbres",
-   "nbCartes": 36,
+   "nbCartes": 43,
    "fichier": "data/theoremes-et-lois.json"
   },
   {
    "slug": "religions-du-monde",
    "nom": "Religions du monde",
-   "nbCartes": 29,
+   "nbCartes": 36,
    "fichier": "data/religions-du-monde.json"
   },
   {
    "slug": "textes-sacres",
    "nom": "Textes sacrés",
-   "nbCartes": 27,
+   "nbCartes": 30,
    "fichier": "data/textes-sacres.json"
   },
   {
    "slug": "fetes-religieuses",
    "nom": "Fêtes religieuses",
-   "nbCartes": 32,
+   "nbCartes": 38,
    "fichier": "data/fetes-religieuses.json"
   },
   {
    "slug": "crises-economiques",
    "nom": "Crises économiques",
-   "nbCartes": 21,
+   "nbCartes": 24,
    "fichier": "data/crises-economiques.json"
   }
  ]

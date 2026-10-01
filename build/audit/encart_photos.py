@@ -39,6 +39,9 @@ REGIONS = {  # titre de page -> nom dans le geojson
     "Provence-Alpes-Côte d'Azur": "Provence-Alpes-Côte d'Azur", 'Normandie (région administrative)': 'Normandie',
 }
 GUYANE = (4.0, -53.0)
+OUTREMER = {'Guyane': GUYANE, 'Conseil régional de la Guadeloupe': (16.25, -61.55),
+            'Collectivité territoriale de Martinique': (14.64, -61.02),
+            'Conseil régional de La Réunion': (-21.11, 55.53), 'Conseil départemental de Mayotte': (-12.83, 45.15)}
 
 
 def carte_france(region, W=700):
@@ -119,7 +122,7 @@ def main():
             vis = [int(max(0, vis[0])), int(max(0, vis[1])), int(min(iw, vis[2])), int(min(ih, vis[3]))]
             if slug == 'regions-francaises':
                 enc = carte_france(REGIONS[c['titrePage']]) if c['titrePage'] in REGIONS \
-                    else planisphere.carte(*GUYANE, 900)
+                    else planisphere.carte(*OUTREMER[c['titrePage']], 900)
             else:
                 ll = coords.get(c['titrePage'])
                 if not ll:

@@ -61,5 +61,14 @@
  },
  "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
   "k": 9
+ },
+ "crises-economiques_crise-financiere-russe-de-1998": {
+  "k": 3
+ },
+ "crises-economiques_crise-economique-mexicaine": {
+  "k": 0
+ },
+ "crises-economiques_enron": {
+  "k": 3
  }
 }

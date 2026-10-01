@@ -1,0 +1,146 @@
+{
+ "organisations-internationales": [
+  "Groupe d'experts intergouvernemental sur l'évolution du climat",
+  "Haut Commissariat des Nations unies pour les réfugiés",
+  "Organisation des Nations unies pour l'alimentation et l'agriculture",
+  "Banque centrale européenne",
+  "Organisation pour la sécurité et la coopération en Europe",
+  "Cour européenne des droits de l'homme",
+  "Marché commun du Sud",
+  "Fédération internationale de football association",
+  "Fonds mondial pour la nature"
+ ],
+ "lacs": [
+  "Lac Balaton",
+  "Vänern",
+  "Lac Winnipeg",
+  "Grand lac des Esclaves",
+  "Issyk-Koul",
+  "Lac Cocibolca",
+  "Lac d'Ohrid",
+  "Lac Nasser",
+  "Lac Volta"
+ ],
+ "deserts": [
+  "Désert d'Arabie",
+  "Grand Désert de Sable",
+  "Grand Bassin des États-Unis"
+ ],
+ "mouvements-litteraires": [
+  "Littérature courtoise",
+  "Libertinage",
+  "Renaissance de Harlem",
+  "Postmodernisme (littérature)"
+ ],
+ "genres-litteraires": [
+  "Fantastique",
+  "Roman d'apprentissage",
+  "Roman picaresque",
+  "Satire",
+  "Roman gothique",
+  "Fabliau",
+  "Biographie",
+  "Journal intime"
+ ],
+ "corps-humain": [
+  "Utérus",
+  "Ovaire",
+  "Testicule",
+  "Prostate",
+  "Vessie",
+  "Larynx",
+  "Trachée",
+  "Œsophage",
+  "Glande surrénale",
+  "Dent",
+  "Appareil reproducteur",
+  "Appareil urinaire"
+ ],
+ "maladies-et-epidemies": [
+  "Dépression (psychiatrie)",
+  "Schizophrénie",
+  "Trouble bipolaire",
+  "Syndrome respiratoire aigu sévère",
+  "Hépatite",
+  "Méningite",
+  "Varicelle",
+  "Coqueluche",
+  "Encéphalopathie spongiforme bovine",
+  "Hypertension artérielle",
+  "Obésité"
+ ],
+ "theoremes-et-lois": [
+  "Théorème de Bayes",
+  "Loi de Hubble-Lemaître",
+  "Équation de Schrödinger",
+  "Induction électromagnétique",
+  "Loi des gaz parfaits",
+  "Théorie du chaos",
+  "Paradoxes de Zénon"
+ ],
+ "religions-du-monde": [
+  "Évangélisme",
+  "Pentecôtisme",
+  "Religion romaine",
+  "Religion nordique ancienne",
+  "Druzes",
+  "Alévisme",
+  "Amish"
+ ],
+ "textes-sacres": [
+  "Dao de jing",
+  "Vulgate",
+  "Septante"
+ ],
+ "fetes-religieuses": [
+  "Vendredi saint",
+  "Chavouot",
+  "Fête-Dieu",
+  "Laylat al-Qadr",
+  "Ganesh Chaturthi",
+  "Fête de la Saint-Patrick"
+ ],
+ "crises-economiques": [
+  "Crise financière russe de 1998",
+  "Crise économique mexicaine",
+  "Enron"
+ ],
+ "grandes-competitions": [
+  "Jeux paralympiques",
+  "Coupe du monde de cricket",
+  "Championnat du monde de vitesse moto",
+  "Tour de France Femmes"
+ ],
+ "festivals-et-recompenses-cinema": [
+  "Festival panafricain du cinéma et de la télévision de Ouagadougou",
+  "Festival international du film de Karlovy Vary",
+  "Festival du film de Tribeca"
+ ],
+ "styles-architecturaux": [
+  "Architecture de l'Égypte antique",
+  "Architecture maya",
+  "Architecture chinoise",
+  "Architecture ottomane",
+  "Constructivisme (architecture)"
+ ],
+ "figures-resistance": [
+  "Henri Rol-Tanguy",
+  "Gilbert Renault",
+  "Emmanuel d'Astier de La Vigerie",
+  "Félix Éboué",
+  "Jacques Chaban-Delmas",
+  "Dietrich Bonhoeffer"
+ ],
+ "papes": [
+  "Célestin V",
+  "Pie X",
+  "Martin V",
+  "Formose (pape)"
+ ],
+ "regions-francaises": [
+  "Conseil régional de la Guadeloupe",
+  "Collectivité territoriale de Martinique",
+  "Conseil régional de La Réunion",
+  "Conseil départemental de Mayotte"
+ ]
+}

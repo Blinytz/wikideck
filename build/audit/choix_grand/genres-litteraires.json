@@ -93,5 +93,33 @@
   "w": 0.8,
   "cx": 0.5,
   "cy": 0.5
+ },
+ "genres-litteraires_fantastique": {
+  "k": 2,
+  "cy": 0.45
+ },
+ "genres-litteraires_roman-d-apprentissage": {
+  "k": 8
+ },
+ "genres-litteraires_roman-picaresque": {
+  "k": 8
+ },
+ "genres-litteraires_satire": {
+  "k": 0,
+  "cy": 0.4
+ },
+ "genres-litteraires_roman-gothique": {
+  "k": 1,
+  "cy": 0.55
+ },
+ "genres-litteraires_fabliau": {
+  "k": 0,
+  "cy": 0.55
+ },
+ "genres-litteraires_biographie": {
+  "k": 0
+ },
+ "genres-litteraires_journal-intime": {
+  "k": 0
  }
 }

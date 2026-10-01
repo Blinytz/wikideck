@@ -1,28 +1,110 @@
 {
-  "figures-resistance_raymond-aubrac": {"k": 7},
-  "figures-resistance_pierre-brossolette": {"k": 9},
-  "figures-resistance_honore-d-estienne-d-orves": {"k": 3},
-  "figures-resistance_guy-moquet": {"k": 2},
-  "figures-resistance_danielle-casanova": {"k": 0},
-  "figures-resistance_berty-albrecht": {"k": 9},
-  "figures-resistance_marie-madeleine-fourcade": {"k": 2},
-  "figures-resistance_henri-frenay": {"k": 0},
-  "figures-resistance_genevieve-de-gaulle-anthonioz": {"k": 1},
-  "figures-resistance_colonel-fabien": {"k": 0},
-  "figures-resistance_stephane-hessel": {"k": 0},
-  "figures-resistance_daniel-cordier": {"k": 3, "cy": 0.33},
-  "figures-resistance_jean-cavailles": {"k": 9},
-  "figures-resistance_marc-bloch": {"k": 2},
-  "figures-resistance_olga-bancic": {"k": 6},
-  "figures-resistance_jacques-bingen": {"k": 11, "w": 0.46, "cx": 0.5, "cy": 0.4},
-  "figures-resistance_claus-von-stauffenberg": {"k": 0},
-  "figures-resistance_hans-scholl": {"k": 1},
-  "figures-resistance_witold-pilecki": {"k": 1},
-  "figures-resistance_jan-karski": {"k": 10},
-  "figures-resistance_hannie-schaft": {"k": 0},
-  "figures-resistance_nancy-wake": {"k": 0},
-  "figures-resistance_violette-szabo": {"k": 0},
-  "figures-resistance_noor-inayat-khan": {"k": 0},
-  "figures-resistance_tom-morel": {"k": 1},
-  "figures-resistance_pierre-de-benouville": {"k": 3, "w": 0.4, "cx": 0.5, "cy": 0.33}
+ "figures-resistance_raymond-aubrac": {
+  "k": 7
+ },
+ "figures-resistance_pierre-brossolette": {
+  "k": 9
+ },
+ "figures-resistance_honore-d-estienne-d-orves": {
+  "k": 3
+ },
+ "figures-resistance_guy-moquet": {
+  "k": 2
+ },
+ "figures-resistance_danielle-casanova": {
+  "k": 0
+ },
+ "figures-resistance_berty-albrecht": {
+  "k": 9
+ },
+ "figures-resistance_marie-madeleine-fourcade": {
+  "k": 2
+ },
+ "figures-resistance_henri-frenay": {
+  "k": 0
+ },
+ "figures-resistance_genevieve-de-gaulle-anthonioz": {
+  "k": 1
+ },
+ "figures-resistance_colonel-fabien": {
+  "k": 0
+ },
+ "figures-resistance_stephane-hessel": {
+  "k": 0
+ },
+ "figures-resistance_daniel-cordier": {
+  "k": 3,
+  "cy": 0.33
+ },
+ "figures-resistance_jean-cavailles": {
+  "k": 9
+ },
+ "figures-resistance_marc-bloch": {
+  "k": 2
+ },
+ "figures-resistance_olga-bancic": {
+  "k": 6
+ },
+ "figures-resistance_jacques-bingen": {
+  "k": 11,
+  "w": 0.46,
+  "cx": 0.5,
+  "cy": 0.4
+ },
+ "figures-resistance_claus-von-stauffenberg": {
+  "k": 0
+ },
+ "figures-resistance_hans-scholl": {
+  "k": 1
+ },
+ "figures-resistance_witold-pilecki": {
+  "k": 1
+ },
+ "figures-resistance_jan-karski": {
+  "k": 10
+ },
+ "figures-resistance_hannie-schaft": {
+  "k": 0
+ },
+ "figures-resistance_nancy-wake": {
+  "k": 0
+ },
+ "figures-resistance_violette-szabo": {
+  "k": 0
+ },
+ "figures-resistance_noor-inayat-khan": {
+  "k": 0
+ },
+ "figures-resistance_tom-morel": {
+  "k": 1
+ },
+ "figures-resistance_pierre-de-benouville": {
+  "k": 3,
+  "w": 0.4,
+  "cx": 0.5,
+  "cy": 0.33
+ },
+ "figures-resistance_henri-rol-tanguy": {
+  "k": 8,
+  "cy": 0.3
+ },
+ "figures-resistance_colonel-remy": {
+  "k": 7
+ },
+ "figures-resistance_emmanuel-d-astier-de-la-vigerie": {
+  "k": 0,
+  "cy": 0.35
+ },
+ "figures-resistance_felix-eboue": {
+  "k": 0,
+  "cy": 0.25
+ },
+ "figures-resistance_jacques-chaban-delmas": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "figures-resistance_dietrich-bonhoeffer": {
+  "k": 10,
+  "cy": 0.3
+ }
 }

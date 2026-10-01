@@ -1531,3 +1531,32 @@ AJOUTS.setdefault('monarques-anglais-et-britanniques', []).extend([
 AJOUTS.setdefault('papes', []).extend([
     ('Grégoire IX', 'Grégoire IX'), ('Urbain VI', 'Urbain VI'), ('Sixte IV', 'Sixte IV'),
     ('Pie V', 'Pie V'), ('Innocent X', 'Innocent X')])
+
+# 01/10/2026 : manques releves au bilan critique (build/audit/lot_manques.json)
+_NOMS_MANQUES = {
+    "Groupe d'experts intergouvernemental sur l'évolution du climat": 'GIEC',
+    'Haut Commissariat des Nations unies pour les réfugiés': 'HCR',
+    "Organisation des Nations unies pour l'alimentation et l'agriculture": 'FAO',
+    'Organisation pour la sécurité et la coopération en Europe': 'OSCE',
+    'Marché commun du Sud': 'Mercosur', 'Fédération internationale de football association': 'FIFA (fédération)',
+    'Fonds mondial pour la nature': 'WWF', 'Lac Cocibolca': 'Lac Nicaragua',
+    'Grand Désert de Sable': 'Grand désert de Sable', 'Grand Bassin des États-Unis': 'Grand Bassin',
+    'Postmodernisme (littérature)': 'Postmodernisme littéraire', 'Dépression (psychiatrie)': 'Dépression',
+    'Syndrome respiratoire aigu sévère': 'SRAS', 'Encéphalopathie spongiforme bovine': 'Maladie de la vache folle',
+    'Loi de Hubble-Lemaître': 'Loi de Hubble', 'Induction électromagnétique': 'Induction de Faraday',
+    'Religion nordique ancienne': 'Religion nordique', 'Fête de la Saint-Patrick': 'Fête de la Saint-Patrick',
+    'Crise financière russe de 1998': 'Crise russe de 1998', 'Crise économique mexicaine': 'Crise mexicaine de 1994',
+    'Enron': 'Faillite d\'Enron', 'Championnat du monde de vitesse moto': 'MotoGP',
+    'Festival panafricain du cinéma et de la télévision de Ouagadougou': 'FESPACO',
+    'Festival international du film de Karlovy Vary': 'Festival de Karlovy Vary',
+    'Festival du film de Tribeca': 'Festival de Tribeca', 'Constructivisme (architecture)': 'Constructivisme',
+    'Gilbert Renault': 'Colonel Rémy', 'Formose (pape)': 'Formose',
+    'Conseil régional de la Guadeloupe': 'Guadeloupe (région)',
+    'Collectivité territoriale de Martinique': 'Martinique (collectivité)',
+    'Conseil régional de La Réunion': 'La Réunion (région)', 'Conseil départemental de Mayotte': 'Mayotte (département)',
+}
+_lm = Path(__file__).resolve().parent / 'lot_manques.json'
+if _lm.exists():
+    for _slug, _titres in _json.loads(_lm.read_text(encoding='utf-8')).items():
+        AJOUTS.setdefault(_slug, []).extend(
+            (_NOMS_MANQUES.get(t, t), t) for t in _titres if t != 'Dao de jing')

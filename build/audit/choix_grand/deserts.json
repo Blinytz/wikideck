@@ -88,5 +88,14 @@
   "cx": 0.4,
   "cy": 0.5,
   "w": 0.66
+ },
+ "deserts_desert-d-arabie": {
+  "k": 8
+ },
+ "deserts_grand-desert-de-sable": {
+  "k": 10
+ },
+ "deserts_grand-bassin-des-etats-unis": {
+  "k": 11
  }
 }

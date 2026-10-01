@@ -120,15 +120,13 @@
   "regions-francaises": "terrain",
   "mouvements-litteraires": "soutien",
   "genres-litteraires": "soutien",
-  "prix-goncourt": "soutien",
   "corps-humain": "defense",
   "maladies-et-epidemies": "attaque",
   "theoremes-et-lois": "soutien",
   "religions-du-monde": "defense",
   "textes-sacres": "soutien",
   "fetes-religieuses": "terrain",
-  "crises-economiques": "attaque",
-  "entreprises-emblematiques": "attaque"
+  "crises-economiques": "attaque"
  },
  "declencheurs": {
   "corps-celestes": "au début du combat",
@@ -250,15 +248,13 @@
   "regions-francaises": "au premier tour uniquement",
   "mouvements-litteraires": "si une autre carte de sa collection est en jeu",
   "genres-litteraires": "si une autre carte de sa collection est en jeu",
-  "prix-goncourt": "si une autre carte de sa collection est en jeu",
   "corps-humain": "quand elle est sur le point d'être détruite",
   "maladies-et-epidemies": "après avoir gagné le duel du tour",
   "theoremes-et-lois": "si une autre carte de sa collection est en jeu",
   "religions-du-monde": "quand elle est sur le point d'être détruite",
   "textes-sacres": "si une autre carte de sa collection est en jeu",
   "fetes-religieuses": "au premier tour uniquement",
-  "crises-economiques": "après avoir gagné le duel du tour",
-  "entreprises-emblematiques": "après avoir gagné le duel du tour"
+  "crises-economiques": "après avoir gagné le duel du tour"
  },
  "catalogueDeclencheurs": [
   "au début du combat",

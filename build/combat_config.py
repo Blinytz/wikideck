@@ -136,7 +136,6 @@ ROLES = {
     'regions-francaises': 'terrain',
     'mouvements-litteraires': 'soutien',
     'genres-litteraires': 'soutien',
-    'prix-goncourt': 'soutien',
     'corps-humain': 'defense',
     'maladies-et-epidemies': 'attaque',
     'theoremes-et-lois': 'soutien',
@@ -144,7 +143,6 @@ ROLES = {
     'textes-sacres': 'soutien',
     'fetes-religieuses': 'terrain',
     'crises-economiques': 'attaque',
-    'entreprises-emblematiques': 'attaque',
 }
 
 # Collections nées de l'audit (32 -> 57). Une scission ne change pas la nature
@@ -278,7 +276,6 @@ DECLENCHEURS = {
     'regions-francaises': 'au premier tour uniquement',
     'mouvements-litteraires': 'si une autre carte de sa collection est en jeu',
     'genres-litteraires': 'si une autre carte de sa collection est en jeu',
-    'prix-goncourt': 'si une autre carte de sa collection est en jeu',
     'corps-humain': "quand elle est sur le point d'être détruite",
     'maladies-et-epidemies': 'après avoir gagné le duel du tour',
     'theoremes-et-lois': 'si une autre carte de sa collection est en jeu',
@@ -286,7 +283,6 @@ DECLENCHEURS = {
     'textes-sacres': 'si une autre carte de sa collection est en jeu',
     'fetes-religieuses': 'au premier tour uniquement',
     'crises-economiques': 'après avoir gagné le duel du tour',
-    'entreprises-emblematiques': 'après avoir gagné le duel du tour',
 }
 
 for _nouveau, _source in HERITAGES.items():

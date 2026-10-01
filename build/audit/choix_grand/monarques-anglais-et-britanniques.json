@@ -128,5 +128,25 @@
  },
  "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
   "k": 0
+ },
+ "monarques-anglais-et-britanniques_thelstan": {
+  "k": 2,
+  "cy": 0.3
+ },
+ "monarques-anglais-et-britanniques_edouard-le-confesseur": {
+  "k": 2,
+  "cy": 0.3
+ },
+ "monarques-anglais-et-britanniques_harold-godwinson": {
+  "k": 3,
+  "cy": 0.3
+ },
+ "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "monarques-anglais-et-britanniques_jeanne-grey": {
+  "k": 0,
+  "cy": 0.3
  }
 }

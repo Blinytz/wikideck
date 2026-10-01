@@ -14255,23 +14255,20 @@
 "fleuves-mers-et-oceans_ocean-austral": {
 "source": "google-maps"
 },
-"fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
-"source": "wiki-sans-filtre"
-},
 "fleuves-mers-et-oceans_chutes-victoria": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_chutes-du-niagara": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_chutes-d-iguazu": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_fosse-des-mariannes": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_grande-barriere-de-corail": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_detroit-de-gibraltar": {
 "source": "google-maps"
@@ -26061,9 +26058,7 @@
 "source": "google-maps"
 },
 "fleuves-mers-et-oceans_salto-angel": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://i.pinimg.com/originals/29/5f/10/295f10a74afe1746b2192b042f809dfc.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_bosphore": {
 "source": "google-maps"
@@ -26075,14 +26070,10 @@
 "source": "google-maps"
 },
 "fleuves-mers-et-oceans_cap-horn": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.artphotolimited.com/images/582ad8c24128a213001e129d/1000x1000/cap-horn.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_triangle-des-bermudes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn-s-www.lalsace.fr/images/592EE1E9-45D7-4E4E-957A-00A051EA8EDB/FB1200/photo-1495720755.jpg"
+"source": "google-maps+natural-earth"
 },
 "iles_irlande-ile": {
 "source": "grand-complement",
@@ -26831,16 +26822,6 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://sm.mashable.com/t/mashable_in/photo/default/ashoka_6hta.720.jpg"
-},
-"souverains-et-conquerants_alfred-le-grand": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.sciencesetavenir.fr/assets/img/2020/08/25/cover-r4x3w1200-5f450d092e8ea-054-cor20235.jpg"
-},
-"souverains-et-conquerants_cnut-le-grand": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images.nightcafe.studio/jobs/IF5g22rr3xfsTwtJS6Ct/IF5g22rr3xfsTwtJS6Ct--1--lwxx7.jpg?tr=w-1600,c-at_max"
 },
 "souverains-et-conquerants_otton-ier-empereur-du-saint-empire": {
 "source": "grand-complement",
@@ -29726,9 +29707,7 @@
 "url": "https://hips.hearstapps.com/hmg-prod/images/dessau-bauhaus-building-1617131577.jpeg"
 },
 "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_92.jpg/1280px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "figures-resistance_raymond-aubrac": {
 "source": "grand-complement",
@@ -30378,42 +30357,52 @@
 "source": "wiki-sans-filtre"
 },
 "lacs_mer-caspienne": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "lacs_lac-victoria": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "lacs_lac-tanganyika": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2023/11/le-lac-tanganyika-1536x1018.jpg"
+"url": "https://www.okvoyage.com/wp-content/uploads/2023/11/le-lac-tanganyika-1536x1018.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-baikal": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "lacs_lac-titicaca": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "lacs_lac-tchad": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.undp.org/sites/g/files/zskgke326/files/styles/banner_image_desktop/public/migration/fi/UNDP-TD-Lake-Chad-desertification-water-seedlings-011.jpg?h=9dd951d5&itok=NPSR48E2"
+"url": "https://www.undp.org/sites/g/files/zskgke326/files/styles/banner_image_desktop/public/migration/fi/UNDP-TD-Lake-Chad-desertification-water-seedlings-011.jpg?h=9dd951d5&itok=NPSR48E2",
+"encart": "planisphere"
 },
 "lacs_mer-d-aral": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "lacs_leman": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://barnimages.com/wp-content/uploads/2020/08/20200826-barnimages-004.jpg"
+"url": "https://barnimages.com/wp-content/uploads/2020/08/20200826-barnimages-004.jpg",
+"encart": "planisphere"
 },
 "lacs_loch-ness": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2023/03/le-loch-ness-en-ecosse-1536x1024.jpg"
+"url": "https://www.okvoyage.com/wp-content/uploads/2023/03/le-loch-ness-en-ecosse-1536x1024.jpg",
+"encart": "planisphere"
 },
 "lacs_mer-morte": {
-"source": "wiki-sans-filtre"
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
 },
 "presidents-des-etats-unis_john-adams-homme-d-etat": {
 "source": "grand-complement",
@@ -31078,357 +31067,428 @@
 "deserts_sahara": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://4kwallpapers.com/images/wallpapers/sahara-desert-merzouga-morocco-sand-dune-blue-sky-sunny-day-1440x900-2122.jpg"
+"url": "https://4kwallpapers.com/images/wallpapers/sahara-desert-merzouga-morocco-sand-dune-blue-sky-sunny-day-1440x900-2122.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-de-gobi": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://correctmongolia.com/wp-content/uploads/2022/08/Little-yardang-1.jpg"
+"url": "https://correctmongolia.com/wp-content/uploads/2022/08/Little-yardang-1.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-d-atacama": {
 "source": "grand-complement",
 "origine": "web",
-"url": "http://www.farawaydispatches.com/wp-content/uploads/2021/07/Atacama-7.jpg"
+"url": "http://www.farawaydispatches.com/wp-content/uploads/2021/07/Atacama-7.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-du-kalahari": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.journeysinternational.com/wp-content/uploads/2019/04/namibia-desert.jpg"
+"url": "https://www.journeysinternational.com/wp-content/uploads/2019/04/namibia-desert.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-du-namib": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.namibie-en-liberte.com/uploads/sites/2/2018/07/paysage-deadvlei-sossusvlei-namibie.jpeg"
+"url": "https://www.namibie-en-liberte.com/uploads/sites/2/2018/07/paysage-deadvlei-sossusvlei-namibie.jpeg",
+"encart": "planisphere"
 },
 "deserts_rub-al-khali": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Rub_al_Khali_002.JPG/1280px-Rub_al_Khali_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Rub_al_Khali_002.JPG/1280px-Rub_al_Khali_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_neguev": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.audleytravel.com/-/-/79/15974756-mountains-of-the-negev-desert.jpg"
+"url": "https://cdn.audleytravel.com/-/-/79/15974756-mountains-of-the-negev-desert.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-du-thar": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/1280px-Thar_desert_Rajasthan_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/1280px-Thar_desert_Rajasthan_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_desert-du-taklamakan": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taklamakan_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taklamakan_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"encart": "planisphere"
 },
 "deserts_desert-des-mojaves": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images.squarespace-cdn.com/content/v1/62fbfbed423b4f1bb8caed31/d0395d04-1fd6-42ed-91d4-53377f642370/1.jpg"
+"url": "https://images.squarespace-cdn.com/content/v1/62fbfbed423b4f1bb8caed31/d0395d04-1fd6-42ed-91d4-53377f642370/1.jpg",
+"encart": "planisphere"
 },
 "deserts_vallee-de-la-mort": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://i.ontraport.com/224876.5094eb1372f03c19ab1cd42de32dae65.JPEG"
+"url": "https://i.ontraport.com/224876.5094eb1372f03c19ab1cd42de32dae65.JPEG",
+"encart": "planisphere"
 },
 "deserts_desert-de-sonora": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg/1280px-Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg/1280px-Saguaro_National_Park_-_Flickr_-_Joe_Parks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_desert-de-chihuahua": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://i.pinimg.com/originals/e2/b3/6e/e2b36e86cfdc70699d3a73e9c5114b83.jpg"
+"url": "https://i.pinimg.com/originals/e2/b3/6e/e2b36e86cfdc70699d3a73e9c5114b83.jpg",
+"encart": "planisphere"
 },
 "deserts_grand-desert-de-victoria": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://i.pinimg.com/originals/c1/3d/36/c13d360f4500af9189ef80fba36daf90.jpg"
+"url": "https://i.pinimg.com/originals/c1/3d/36/c13d360f4500af9189ef80fba36daf90.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-de-simpson": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images.rove.me/w_1920,q_85/ginrmh1ydo6cntzza8kw/south-australia-simpson-desert.jpg"
+"url": "https://images.rove.me/w_1920,q_85/ginrmh1ydo6cntzza8kw/south-australia-simpson-desert.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-du-karakoum": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://eurasia.travel/wp-content/uploads/2025/09/4.-Karakum-Desert-in-Turkmenistan.jpg"
+"url": "https://eurasia.travel/wp-content/uploads/2025/09/4.-Karakum-Desert-in-Turkmenistan.jpg",
+"encart": "planisphere"
 },
 "deserts_desert-du-kyzylkoum": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.terres-ouzbekes.com/uploads/sites/24/2018/12/voyage-randonnees.jpeg"
+"url": "https://www.terres-ouzbekes.com/uploads/sites/24/2018/12/voyage-randonnees.jpeg",
+"encart": "planisphere"
 },
 "deserts_dacht-e-lout": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kaluts%2C_Iran_%285072510138%29.jpg/1280px-Kaluts%2C_Iran_%285072510138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kaluts%2C_Iran_%285072510138%29.jpg/1280px-Kaluts%2C_Iran_%285072510138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_dacht-e-kavir": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dasht-e_Kavir_2%2C_Iran.JPG/1280px-Dasht-e_Kavir_2%2C_Iran.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dasht-e_Kavir_2%2C_Iran.JPG/1280px-Dasht-e_Kavir_2%2C_Iran.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_desert-libyque": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.philippe-crochet.com/images/php/files/voy-11493-hd.jpg"
+"url": "https://www.philippe-crochet.com/images/php/files/voy-11493-hd.jpg",
+"encart": "planisphere"
 },
 "deserts_tenere": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"encart": "planisphere"
 },
 "deserts_depression-de-l-afar": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://img-4.linternaute.com/Bzz_1-8XU2jkCy3J22zeqUwO0xQ=/1080x720/smart/0e326683ac2145fd8afe68721021d51f/ccmcms-linternaute/10992346.jpg"
+"url": "https://img-4.linternaute.com/Bzz_1-8XU2jkCy3J22zeqUwO0xQ=/1080x720/smart/0e326683ac2145fd8afe68721021d51f/ccmcms-linternaute/10992346.jpg",
+"encart": "planisphere"
 },
 "deserts_wadi-rum": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/1280px-Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/1280px-Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_desert-de-tabernas": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Amanecer_en_el_desierto.jpg/1280px-Amanecer_en_el_desierto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Amanecer_en_el_desierto.jpg/1280px-Amanecer_en_el_desierto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_bardenas-reales": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.generationvoyage.fr/2024/01/Desert-des-Bardenas-Reales-Espagne.jpeg"
+"url": "https://cdn.generationvoyage.fr/2024/01/Desert-des-Bardenas-Reales-Espagne.jpeg",
+"encart": "planisphere"
 },
 "deserts_desert-blanc": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Desert_blanc.jpg/1280px-Desert_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Desert_blanc.jpg/1280px-Desert_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "deserts_steppe-patagonienne": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.pixabay.com/photo/2022/09/20/13/43/patagonia-7467943_1280.jpg"
+"url": "https://cdn.pixabay.com/photo/2022/09/20/13/43/patagonia-7467943_1280.jpg",
+"encart": "planisphere"
 },
 "deserts_grand-erg-oriental": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.generationvoyage.fr/2025/06/Les-dunes-du-Grand-Erg-Oriental-Sud-Tunisien.jpeg"
+"url": "https://cdn.generationvoyage.fr/2025/06/Les-dunes-du-Grand-Erg-Oriental-Sud-Tunisien.jpeg",
+"encart": "planisphere"
 },
 "deserts_desert-de-syrie": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://a-z-animals.com/media/2022/10/shutterstock_128907779.jpg"
+"url": "https://a-z-animals.com/media/2022/10/shutterstock_128907779.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-superieur": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://a-z-animals.com/media/2022/03/shutterstock_477445750.jpg"
+"url": "https://a-z-animals.com/media/2022/03/shutterstock_477445750.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-huron": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://c.wallhere.com/photos/8b/7d/4904x2758_px_Huron_lake_landscape_Michigan_rock_sunset_Trees-1718907.jpg!d"
+"url": "https://c.wallhere.com/photos/8b/7d/4904x2758_px_Huron_lake_landscape_Michigan_rock_sunset_Trees-1718907.jpg!d",
+"encart": "planisphere"
 },
 "lacs_lac-michigan": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://monsieurmadameexplore.com/wp-content/uploads/2025/02/pictured-rocks-grand-dunes-log-slide-overlook-1.jpg"
+"url": "https://monsieurmadameexplore.com/wp-content/uploads/2025/02/pictured-rocks-grand-dunes-log-slide-overlook-1.jpg",
+"encart": "planisphere"
 },
 "lacs_grand-lac-de-l-ours": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.greatbearlakeoutdoors.com/wp-content/uploads/2020/08/great-bear-lake-scaled.jpeg"
+"url": "https://www.greatbearlakeoutdoors.com/wp-content/uploads/2020/08/great-bear-lake-scaled.jpeg",
+"encart": "planisphere"
 },
 "lacs_lac-malawi": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://windows10spotlight.com/wp-content/uploads/2023/03/63dd1a4deb56152cd9599d979faa177c.jpg"
+"url": "https://windows10spotlight.com/wp-content/uploads/2023/03/63dd1a4deb56152cd9599d979faa177c.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-erie": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://skippersplan.com/wp-content/uploads/2025/06/Pelee-Island-Lighthouse.jpg"
+"url": "https://skippersplan.com/wp-content/uploads/2025/06/Pelee-Island-Lighthouse.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-ontario": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://media.ponant.com/media/4655161.jpg"
+"url": "https://media.ponant.com/media/4655161.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-ladoga": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images6.alphacoders.com/996/thumb-1920-996214.jpg"
+"url": "https://images6.alphacoders.com/996/thumb-1920-996214.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-balkhach": {
 "source": "grand-complement",
 "origine": "web",
-"url": "http://eurasia.travel/wp-content/uploads/2025/02/11.-Balkhash-Lake.jpg"
+"url": "http://eurasia.travel/wp-content/uploads/2025/02/11.-Balkhash-Lake.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-du-bourget": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://img-4.linternaute.com/qqvdfTeR6I3ZPwIlcHlusrMWFYw=/2512x/smart/e0822f0ca114456f8f2d584758e492bd/ccmcms-linternaute/10717922.jpg"
+"url": "https://img-4.linternaute.com/qqvdfTeR6I3ZPwIlcHlusrMWFYw=/2512x/smart/e0822f0ca114456f8f2d584758e492bd/ccmcms-linternaute/10717922.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-d-annecy": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images.pexels.com/photos/34605738/pexels-photo-34605738/free-photo-of-vue-panoramique-du-lac-d-annecy-en-france.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+"url": "https://images.pexels.com/photos/34605738/pexels-photo-34605738/free-photo-of-vue-panoramique-du-lac-d-annecy-en-france.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"encart": "planisphere"
 },
 "lacs_lac-de-come": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.voyageavecnous.fr/wp-content/uploads/2023/04/lac-de-come-italie.jpg"
+"url": "https://www.voyageavecnous.fr/wp-content/uploads/2023/04/lac-de-come-italie.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-de-garde": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://wallpaperaccess.com/full/3700629.jpg"
+"url": "https://wallpaperaccess.com/full/3700629.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-majeur": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lago-Maggiore_1387.JPG/1280px-Lago-Maggiore_1387.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lago-Maggiore_1387.JPG/1280px-Lago-Maggiore_1387.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "planisphere"
 },
 "lacs_lac-de-constance": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.pixabay.com/photo/2019/03/22/09/49/lake-constance-4072907_1280.jpg"
+"url": "https://cdn.pixabay.com/photo/2019/03/22/09/49/lake-constance-4072907_1280.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-tana": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://sadorethiopiatours.com/wp-content/uploads/2025/07/LAKE-TANA-scaled.jpg"
+"url": "https://sadorethiopiatours.com/wp-content/uploads/2025/07/LAKE-TANA-scaled.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-turkana": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2016/03/lac-turkana-etait-berceau-humanite-scaled.jpg"
+"url": "https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2016/03/lac-turkana-etait-berceau-humanite-scaled.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-kivu": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.afriquesurmesure.com/app/uploads/2024/02/LacKivu.jpeg"
+"url": "https://www.afriquesurmesure.com/app/uploads/2024/02/LacKivu.jpeg",
+"encart": "planisphere"
 },
 "lacs_grand-lac-sale": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://i.redd.it/eg7g9gscfn841.jpg"
+"url": "https://i.redd.it/eg7g9gscfn841.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-tahoe": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.pixabay.com/photo/2016/08/13/18/34/lake-tahoe-1591339_1280.jpg"
+"url": "https://cdn.pixabay.com/photo/2016/08/13/18/34/lake-tahoe-1591339_1280.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-louise-alberta": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images.unsplash.com/photo-1474419804354-b82d9cad71ca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFjJTIwbG91aXNlfGVufDB8fDB8fHww"
+"url": "https://images.unsplash.com/photo-1474419804354-b82d9cad71ca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFjJTIwbG91aXNlfGVufDB8fDB8fHww",
+"encart": "planisphere"
 },
 "lacs_lac-inle": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.myanmarphototour.com/wp-content/uploads/2017/11/Fishermen-in-Inle-Lake-scaled.jpg"
+"url": "https://www.myanmarphototour.com/wp-content/uploads/2017/11/Fishermen-in-Inle-Lake-scaled.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-toba": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.tripsavvy.com/thmb/ltiBrAcMD5tmQTFEX4YVj7xtbdk=/5335x3543/filters:no_upscale():max_bytes(150000):strip_icc()/lake-toba-north-sumatra-indonesia-5b43bb0ec9e77c0037540c34.jpg"
+"url": "https://www.tripsavvy.com/thmb/ltiBrAcMD5tmQTFEX4YVj7xtbdk=/5335x3543/filters:no_upscale():max_bytes(150000):strip_icc()/lake-toba-north-sumatra-indonesia-5b43bb0ec9e77c0037540c34.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-de-bled": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://cdn.generationvoyage.fr/2025/04/Le-Lac-de-Bled-Slovenie-1536x1023.jpeg"
+"url": "https://cdn.generationvoyage.fr/2025/04/Le-Lac-de-Bled-Slovenie-1536x1023.jpeg",
+"encart": "planisphere"
 },
 "lacs_parc-national-des-lacs-de-plitvice": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://joyeuxvoyage.fr/wp-content/uploads/2026/05/Decouvrir-le-parc-de-Plitvice-un-joyau-naturel-a-ne-pas-manquer-en-Croatie-1.jpg"
+"url": "https://joyeuxvoyage.fr/wp-content/uploads/2026/05/Decouvrir-le-parc-de-Plitvice-un-joyau-naturel-a-ne-pas-manquer-en-Croatie-1.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-rose": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://que-faire-senegal.com/wp-content/uploads/2025/10/randonnee-7.jpeg"
+"url": "https://que-faire-senegal.com/wp-content/uploads/2025/10/randonnee-7.jpeg",
+"encart": "planisphere"
 },
 "lacs_lac-natron": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.easytravel.co.tz/wp-content/uploads/2023/07/A-Flamboyance-of-Flamingos-in-Lake-Natron-Easy-Travel-Tanzania-scaled-1.jpg"
+"url": "https://www.easytravel.co.tz/wp-content/uploads/2023/07/A-Flamboyance-of-Flamingos-in-Lake-Natron-Easy-Travel-Tanzania-scaled-1.jpg",
+"encart": "planisphere"
 },
 "lacs_lac-de-tiberiade": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://storage.needpix.com/rsynced_images/sea-4026566_1280.jpg"
+"url": "https://storage.needpix.com/rsynced_images/sea-4026566_1280.jpg",
+"encart": "planisphere"
 },
 "regions-francaises_auvergne-rhone-alpes": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2021/10/le-massif-des-bauges-1536x1151.jpg"
+"url": "https://www.okvoyage.com/wp-content/uploads/2021/10/le-massif-des-bauges-1536x1151.jpg",
+"encart": "region"
 },
 "regions-francaises_bourgogne-franche-comte": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://images.winalist.com/blog/wp-content/uploads/2021/05/26144046/AdobeStock_224245332-1.jpeg"
+"url": "https://images.winalist.com/blog/wp-content/uploads/2021/05/26144046/AdobeStock_224245332-1.jpeg",
+"encart": "region"
 },
 "regions-francaises_bretagne-region-administrative": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.tourismebretagne.com/app/uploads/crt-bretagne/2018/10/ploumanac-h-5-1920x960-crop-1540892671.jpg"
+"url": "https://www.tourismebretagne.com/app/uploads/crt-bretagne/2018/10/ploumanac-h-5-1920x960-crop-1540892671.jpg",
+"encart": "region"
 },
 "regions-francaises_centre-val-de-loire": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.girltrotter.com/wp-content/uploads/2022/10/chateau-de-chambord-region-centre-val-de-loire-blog-voyage-girltrotter.jpg"
+"url": "https://www.girltrotter.com/wp-content/uploads/2022/10/chateau-de-chambord-region-centre-val-de-loire-blog-voyage-girltrotter.jpg",
+"encart": "region"
 },
 "regions-francaises_politique-en-corse": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://unsacsurledos.com/wp-content/uploads/2024/09/Citadelle-de-Bonifacio-.jpg"
+"url": "https://unsacsurledos.com/wp-content/uploads/2024/09/Citadelle-de-Bonifacio-.jpg",
+"encart": "region"
 },
 "regions-francaises_grand-est": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://a.cdn-hotels.com/gdcs/production190/d40/748910d3-d000-4652-8d98-ab907507e86a.jpg?impolicy=fcrop&w=1600&h=1066&q=medium"
+"url": "https://a.cdn-hotels.com/gdcs/production190/d40/748910d3-d000-4652-8d98-ab907507e86a.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+"encart": "region"
 },
 "regions-francaises_hauts-de-france": {
 "source": "grand-complement",
 "origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lille_vue_gd_place.JPG/1280px-Lille_vue_gd_place.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lille_vue_gd_place.JPG/1280px-Lille_vue_gd_place.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"encart": "region"
 },
 "regions-francaises_ile-de-france": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://lespepitesdefrance.com/wp-content/uploads/2025/07/Top-5-des-monuments-emblematiques-a-voir-absolument-a-Paris.jpg"
+"url": "https://lespepitesdefrance.com/wp-content/uploads/2025/07/Top-5-des-monuments-emblematiques-a-voir-absolument-a-Paris.jpg",
+"encart": "region"
 },
 "regions-francaises_nouvelle-aquitaine": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://a.cdn-hotels.com/gdcs/production120/d895/47c27e68-b553-463c-b588-643e228a0340.jpg"
+"url": "https://a.cdn-hotels.com/gdcs/production120/d895/47c27e68-b553-463c-b588-643e228a0340.jpg",
+"encart": "region"
 },
 "regions-francaises_occitanie-region-administrative": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://uploads-ssl.webflow.com/5fe9ad4805bc9a4cf17e4a6a/6267ab081c0eecd80ca2d44a_pont-du-gard_prairy_Espiegle-p-2000.jpeg"
+"url": "https://uploads-ssl.webflow.com/5fe9ad4805bc9a4cf17e4a6a/6267ab081c0eecd80ca2d44a_pont-du-gard_prairy_Espiegle-p-2000.jpeg",
+"encart": "region"
 },
 "regions-francaises_pays-de-la-loire": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.mouvement-metropole.fr/wp-content/uploads/2024/07/c-est-le-joyau-du-pays-de-la-loire-entre-jardins-enchanteurs-et-chateaux-majestueux.jpg"
+"url": "https://www.mouvement-metropole.fr/wp-content/uploads/2024/07/c-est-le-joyau-du-pays-de-la-loire-entre-jardins-enchanteurs-et-chateaux-majestueux.jpg",
+"encart": "region"
 },
 "regions-francaises_provence-alpes-cote-d-azur": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.tripsavvy.com/thmb/LK63PBOOd3PMBDqo4gUt1J2WwN4=/5600x3733/filters:no_upscale():max_bytes(150000):strip_icc()/france-provence-alps-cote-dazur-vaucluse-famous-senanque-abbey-at-sunrise-547196631-58f611bd5f9b581d59ce87e8.jpg"
+"url": "https://www.tripsavvy.com/thmb/LK63PBOOd3PMBDqo4gUt1J2WwN4=/5600x3733/filters:no_upscale():max_bytes(150000):strip_icc()/france-provence-alps-cote-dazur-vaucluse-famous-senanque-abbey-at-sunrise-547196631-58f611bd5f9b581d59ce87e8.jpg",
+"encart": "region"
 },
 "regions-francaises_guyane": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.yana-j.fr/wp-content/uploads/2019/11/Nature-1024x781.jpeg"
+"url": "https://www.yana-j.fr/wp-content/uploads/2019/11/Nature-1024x781.jpeg",
+"encart": "region"
 },
 "regions-francaises_normandie-region-administrative": {
 "source": "grand-complement",
 "origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2022/09/le-mont-saint-michel-dans-les-paysages-de-normandie.jpg"
+"url": "https://www.okvoyage.com/wp-content/uploads/2022/09/le-mont-saint-michel-dans-les-paysages-de-normandie.jpg",
+"encart": "region"
 },
 "mouvements-litteraires_humanisme": {
 "source": "grand-complement",
@@ -31694,151 +31754,6 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://manuscriptminiatures.com/image/16690/1000"
-},
-"prix-goncourt_a-l-ombre-des-jeunes-filles-en-fleurs": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%C3%80_la_recherche_du_temps_perdu_tome_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-},
-"prix-goncourt_le-feu-barbusse": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/DEDICACE_DU_FEU.jpg/1280px-DEDICACE_DU_FEU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"prix-goncourt_la-condition-humaine": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://pictures.abebooks.com/inventory/30608549916_2.jpg"
-},
-"prix-goncourt_les-mandarins": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/81qLwspDNpL._SL1500_.jpg"
-},
-"prix-goncourt_les-racines-du-ciel": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.christies.com/img/LotImages/2024/PAR/2024_PAR_23003_0101_000(gary_romain_les_racines_du_ciel_paris_gallimard-nrf_1956015551).jpg?mode=max"
-},
-"prix-goncourt_la-vie-devant-soi": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.christies.com/img/LotImages/2021/PAR/2021_PAR_20079_0089_000(ajar_emile_la_vie_devant_soi_paris_mercure_de_france_1975120951).jpg?maxwidth=2085&maxheight=1950"
-},
-"prix-goncourt_l-amant-roman": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/61V-c2Fmd8L._SL1120_.jpg"
-},
-"prix-goncourt_le-roi-des-aulnes-roman": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.camillesourget.com/wp-content/uploads/2023/03/reliure-2BjP6.jpg"
-},
-"prix-goncourt_rue-des-boutiques-obscures": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rue_des_Boutiques_Obscures_%28Patrick_Modiano%29.jpg/1280px-Rue_des_Boutiques_Obscures_%28Patrick_Modiano%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"prix-goncourt_le-rivage-des-syrtes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://pictures.abebooks.com/inventory/22912832563_4.jpg"
-},
-"prix-goncourt_les-bienveillantes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.alarecherchedutempsperdu.fr/34982-medium_default_2x/les-bienveillantes-jonathan-littell-2006-2e-guerre-mondiale-.jpg"
-},
-"prix-goncourt_la-carte-et-le-territoire": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.livres-au-choix.com/wp-content/uploads/2024/09/LaCarteEtLeTerritoireHouellebecqPaillardDedicace03-scaled.jpg"
-},
-"prix-goncourt_au-revoir-la-haut": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWxVrEdcAki-AC5kTyMEP7tKZGfGM9Ts0a3zTNsT09CZuat_PxMqECOWVKTa7qB4KnVjfYtxaZKJthB__n9c_AD5b_1rLB8TEuiYefefqSzRwt_JGotYeXpf7WfjKe_Z9lIAFRfqnQQZ4/w1200-h630-p-k-no-nu/Couverture+Au+revoir+l%C3%A0-haut.jpg"
-},
-"prix-goncourt_chanson-douce": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Chanson_douce_%28Le%C3%AFla_Slimani%29.png/1280px-Chanson_douce_%28Le%C3%AFla_Slimani%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"prix-goncourt_l-ordre-du-jour-recit": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://rezised-images.knhbt.cz/1920x1920/25077301.webp"
-},
-"prix-goncourt_l-anomalie": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/L%27anomalie_%28Herv%C3%A9_Le_Tellier%29.jpg/1280px-L%27anomalie_%28Herv%C3%A9_Le_Tellier%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"prix-goncourt_la-plus-secrete-memoire-des-hommes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "http://www.philippe-rey.fr/images/livre_galerie_504.jpg"
-},
-"prix-goncourt_veiller-sur-elle": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.lemagducine.fr/wp-content/uploads/2024/02/veiller-sur-elle-roman-jean-batpiste-andrea-avis-goncourt-scaled.jpg"
-},
-"prix-goncourt_houris-roman": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/71aBVma1DhL._SL1500_.jpg"
-},
-"prix-goncourt_trois-femmes-puissantes": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/loisirs/livres/dossiers/livre-de-l-ete-les-incontournables/trois-femmes-puissantes/14724866-1-fre-FR/Trois-femmes-puissantes.jpg"
-},
-"prix-goncourt_le-sermon-sur-la-chute-de-rome": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/81OxQbLR7WL._SL1500_.jpg"
-},
-"prix-goncourt_pas-pleurer": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lydie_Salvayre_-_Pas_pleurer.png/1280px-Lydie_Salvayre_-_Pas_pleurer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"prix-goncourt_leurs-enfants-apres-eux": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://img.rts.ch/articles/2018/image/6q7vah-25988136.image?w=1200&h=630"
-},
-"prix-goncourt_les-grandes-familles": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://ordilivres.org/produit/les-grandes-familles/image00120-2.jpg"
-},
-"prix-goncourt_batouala": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.albin-michel.fr/sites/default/files/styles/extra_large/public/couvertures/albin/Article/Image/2021/9782226463432-j.jpg?itok=Lzi2SXvR"
-},
-"prix-goncourt_le-soleil-des-scorta": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6kcZMCQEd8GSnoYRD0PEMF0Qt5rlotRIlDOuAne_wL6l502B04jOXyXxpkew49wpCX9uQTT6Re39lFUl86t_gqDqE80s7dV1Tw-vASt1QuUC8Fegvnl2S8PSypdZyX4twx5S5MEeux7Sr/s1600/001.jpg"
-},
-"prix-goncourt_le-rocher-de-tanios": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://64.media.tumblr.com/1df87965e0409e7f34ab9bad34f43a46/tumblr_ps9zaw3XU61y5qfyio1_1280.jpg"
-},
-"prix-goncourt_les-champs-d-honneur": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/61cy3S0n5DL._SL1500_.jpg"
-},
-"prix-goncourt_la-bataille-roman-de-rambaud": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m.media-amazon.com/images/I/81mRemU70OL._SL1500_.jpg"
 },
 "corps-humain_foie": {
 "source": "grand-complement",
@@ -32940,199 +32855,73 @@
 "origine": "web",
 "url": "https://preview.redd.it/hyper-inflation-in-zimbabwe-2008-v0-8tynf97q2r7d1.jpg?width=1080&crop=smart&auto=webp&s=e4a2066c1d78ba1a4b1d8bff2c4c3144dd9de526"
 },
-"entreprises-emblematiques_apple": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://media.wired.com/photos/5b9ba63fb71e5665713389a7/master/pass/Ring-Infinite-Loop-Apple-5-w.jpg"
-},
-"entreprises-emblematiques_microsoft": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://static.independent.co.uk/2021/03/22/17/Microsoft_Headquarters_45861.jpg"
-},
-"entreprises-emblematiques_google": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/1280px-Googleplex_HQ_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_amazon": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://retaildesignblog.net/wp-content/uploads/2020/02/amazon-seattle-41-780x520.jpg"
-},
-"entreprises-emblematiques_meta-entreprise": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Meta_Headquarters_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-},
-"entreprises-emblematiques_tesla-automobile": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.teslanorth.com/wp-content/uploads/2023/04/FuOolpcaAAAcuov.jpg"
-},
-"entreprises-emblematiques_nvidia": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://officesnapshots.com/wp-content/uploads/2018/10/NVIDIA-hq-santa-clara-1.jpg"
-},
-"entreprises-emblematiques_ibm": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://m-y-s.com/Pictures/X_20240506120234936619_big.jpg"
-},
-"entreprises-emblematiques_samsung-electronics": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://fdn.gsmarena.com/imgroot/news/24/08/samsung-to-acquire-nokia-infrastructure-business/inline/-1200/gsmarena_002.jpg"
-},
-"entreprises-emblematiques_sony": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://esgnews.com/wp-content/uploads/2022/09/SONY-Building.jpeg"
-},
-"entreprises-emblematiques_toyota": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://insidethehood.com/wp-content/uploads/2023/09/2025-Toyota-Corolla-Hatchback-Review.jpg"
-},
-"entreprises-emblematiques_volkswagen-group": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/VW_Werk_Altes_Heizkraftwerk.jpg/1280px-VW_Werk_Altes_Heizkraftwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_ford": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://annuelauto.ca/wp-content/uploads/2022/03/FordGlassHouse.jpg"
-},
-"entreprises-emblematiques_the-coca-cola-company": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://ids.si.edu/ids/deliveryService?id=NMAH-JN2015-5104"
-},
-"entreprises-emblematiques_mcdonald-s": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://mcdonalds.com.mt/wp-content/uploads/2025/02/BIG-MAC-WEBSITE-PRODUCT-IMAGES.jpg"
-},
-"entreprises-emblematiques_lvmh-moet-hennessy-louis-vuitton": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/La_Samaritaine_depuis_le_pont_Neuf.jpg/1280px-La_Samaritaine_depuis_le_pont_Neuf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_chanel": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://upload.wikimedia.org/wikipedia/fr/3/34/Chanel_logo_complet.png"
-},
-"entreprises-emblematiques_hermes-international": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://media.fashionnetwork.com/m/0ce8/08a3/8d79/8539/7753/8189/fdc1/ca8b/aa6f/29a0/29a0.jpg"
-},
-"entreprises-emblematiques_l-oreal": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.slouppi.net/wp-content/uploads/1285979-le-siege-de-l-oreal-a-clichy.jpg"
-},
-"entreprises-emblematiques_totalenergies": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://img.20mn.fr/Rdf49tGyRMepFV7wjakDKik/1444x920_files-picture-taken-on-september-14-2023-shows-total-energy-headquarter-and-logo-in-la-defense-area-near-paris-french-oil-and-gas-major-total-energies-announced-on-february-7-2024-a-net-income-of-21-4-billion-19-8-billion-euros-for-2023-a-new-record-after-the-extraordinary-year-of-2022-photo-by-ludovic-marin-afp"
-},
-"entreprises-emblematiques_airbus-societe": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Airbus_Industrie_A321neo_D-AVXA_%2829428329122%29.jpg/1280px-Airbus_Industrie_A321neo_D-AVXA_%2829428329122%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_boeing": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://assets.skiesmag.com/wp-content/uploads/2023/03/2A0A1411.jpg"
-},
-"entreprises-emblematiques_renault-group": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.motor1.com/images/mgl/vAvZA/s3/siege-social-de-renault.jpg"
-},
-"entreprises-emblematiques_michelin": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn3.localdatacdn.com/sc/greenville/5403575/original/Fd9WiSYYQB.jpg"
-},
-"entreprises-emblematiques_danone": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://ory-architecture.com/wp-content/uploads/2021/01/EXTERIEUR-002-HD-1920x1281.jpg"
-},
-"entreprises-emblematiques_nestle": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://ocl.com/wp-content/uploads/2021/05/OCL_Custom_Nestle_01_web-scaled.jpg"
-},
-"entreprises-emblematiques_ikea": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Ashton-u-Lyne-IKEA1.jpg/1280px-Ashton-u-Lyne-IKEA1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_the-walt-disney-company": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Walt_Disney_Studios_Alameda_Entrance.jpg/1280px-Walt_Disney_Studios_Alameda_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_netflix": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://media.wired.com/photos/5937252abef1fc4e58f94838/master/w_2560,c_limit/AP245917807396.jpg"
-},
-"entreprises-emblematiques_openai": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://s.hdnux.com/photos/01/35/01/14/24384289/3/rawImage.jpg"
-},
-"entreprises-emblematiques_compagnie-britannique-des-indes-orientales": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.maxicours.com/se/media/img/5/2/9/5/529575.jpg"
-},
-"entreprises-emblematiques_standard-oil": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://miro.medium.com/v2/resize:fit:1400/1*lWZEVOBXxCoPs7vp9pbHWg.png"
-},
-"entreprises-emblematiques_nokia": {
-"source": "grand-complement",
-"origine": "web",
-"url": "http://www.bdmobilephone.com/images/gallery/nokia-3310_1787.jpg"
-},
-"entreprises-emblematiques_lego": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://klickbricks.ch/wp-content/uploads/2017/10/7094-1.jpg"
-},
-"entreprises-emblematiques_ferrari-entreprise": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.motortrend.com/uploads/2023/06/007-2025-ferrari-sf90-xx-red-front-three-quarter.jpg"
-},
-"entreprises-emblematiques_alibaba-group": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alibaba_Group_provisional_office_at_Xiong%27an_%2820180503164635%29.jpg/1280px-Alibaba_Group_provisional_office_at_Xiong%27an_%2820180503164635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
-"entreprises-emblematiques_saudi-aramco": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images-global.nhst.tech/image/Y1NlRXQrWWhSWCtCcXhEY0VXY3pmVG0yMjVJZXZreXVwWnk0M2YwU1E2cz0=/nhst/binary/caa46aa64af7624779d66339396748be"
-},
-"entreprises-emblematiques_nike": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://tvaarchitects.com/wp-content/uploads/2020/06/Nike_Asia_Headquarters_11-HERO-SQUARE-scaled-2160x2160.jpg"
-},
 "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
 "source": "grand-complement",
 "origine": "web",
 "url": "https://static.actu.fr/uploads/2023/03/confinement-paris-coronavirus-marches-dehors-sortir-attestation-police-gendaremerie-magasins-republique-1-960x640.jpg"
+},
+"monarques-anglais-et-britanniques_alfred-le-grand": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.sciencesetavenir.fr/assets/img/2020/08/25/cover-r4x3w1200-5f450d092e8ea-054-cor20235.jpg"
+},
+"monarques-anglais-et-britanniques_cnut-le-grand": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://images.nightcafe.studio/jobs/IF5g22rr3xfsTwtJS6Ct/IF5g22rr3xfsTwtJS6Ct--1--lwxx7.jpg?tr=w-1600,c-at_max"
+},
+"lacs_grands-lacs-amerique-du-nord": {
+"source": "wiki-sans-filtre",
+"encart": "planisphere"
+},
+"monarques-anglais-et-britanniques_thelstan": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://alchetron.com/cdn/thelstan-f301b48f-a0e4-4a2b-afee-67c46f287e2-resize-750.jpeg"
+},
+"monarques-anglais-et-britanniques_edouard-le-confesseur": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://sensusfidelium.com/wp-content/uploads/2019/10/95214677_4868eeb4a4_z-774x1024.jpg"
+},
+"monarques-anglais-et-britanniques_harold-godwinson": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://ichef.bbci.co.uk/images/ic/640xn/p03hdd2m.jpg"
+},
+"monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://fr.muzeo.com/sites/default/files/styles/image_basse_def/public/oeuvres/peinture/classique/portrait_de_la_princesse_mathi69120.jpg"
+},
+"monarques-anglais-et-britanniques_jeanne-grey": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jane_Grey.jpg/1280px-Jane_Grey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"papes_gregoire-ix": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ritratto_di_gregorio_ix%2C_dalla_facciata_dell%27antica_basilica_di_s._pietro%2C_1225-50_ca._%28museo_di_roma%29_01.jpg/1280px-Ritratto_di_gregorio_ix%2C_dalla_facciata_dell%27antica_basilica_di_s._pietro%2C_1225-50_ca._%28museo_di_roma%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"papes_urbain-vi": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://substackcdn.com/image/fetch/$s_!DI49!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/ce22cc4c-8664-4c96-8e17-6f8024ad59c1_888x850.png"
+},
+"papes_sixte-iv": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg/1280px-Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"papes_pie-v": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.artchive.com/wp-content/uploads/2024/05/portrait-of-pope-pius-v-el-greco-c1605-spain.jpg"
+},
+"papes_innocent-x": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg/1280px-Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
 }
 }

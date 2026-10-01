@@ -31552,47 +31552,45 @@
    "editeLe": 0,
    "auto": true
   },
-  "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8917,
-   "editeLe": 1790107064169,
-   "original": true
-  },
   "fleuves-mers-et-oceans_chutes-victoria": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790107081530,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_chutes-du-niagara": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7785,
-   "editeLe": 1790107110131,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_chutes-d-iguazu": {
    "cx": 0.5,
-   "cy": 0.47,
-   "w": 1,
-   "editeLe": 1790107129905,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_fosse-des-mariannes": {
    "cx": 0.5,
-   "cy": 0.4128,
-   "w": 1,
-   "editeLe": 1790107296828,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_grande-barriere-de-corail": {
    "cx": 0.5,
-   "cy": 0.4314,
-   "w": 1,
-   "editeLe": 1790107411506,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_detroit-de-gibraltar": {
    "cx": 0.5,
@@ -47046,11 +47044,12 @@
    "auto": true
   },
   "fleuves-mers-et-oceans_salto-angel": {
-   "cx": 0.4948,
-   "cy": 0.3099,
-   "w": 0.8264,
-   "editeLe": 1790509820771,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_bosphore": {
    "cx": 0.5,
@@ -47077,18 +47076,20 @@
    "auto": true
   },
   "fleuves-mers-et-oceans_cap-horn": {
-   "cx": 0.5165,
-   "cy": 0.6401,
-   "w": 0.9091,
-   "editeLe": 1790510428264,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_triangle-des-bermudes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8889,
-   "editeLe": 1790510453716,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "iles_taiwan-ile": {
    "cx": 0.5,
@@ -48185,20 +48186,6 @@
    "cy": 0.3582,
    "w": 1,
    "editeLe": 1790412990175,
-   "original": true
-  },
-  "souverains-et-conquerants_alfred-le-grand": {
-   "cx": 0.2426,
-   "cy": 0.3757,
-   "w": 0.4836,
-   "editeLe": 1790413061500,
-   "original": true
-  },
-  "souverains-et-conquerants_cnut-le-grand": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.806,
-   "editeLe": 1790413100463,
    "original": true
   },
   "souverains-et-conquerants_otton-ier-empereur-du-saint-empire": {
@@ -52494,10 +52481,11 @@
   },
   "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
    "cx": 0.5,
-   "cy": 0.5162,
-   "w": 1,
-   "editeLe": 1790702956130,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "figures-resistance_raymond-aubrac": {
    "cx": 0.5,
@@ -55644,238 +55632,6 @@
    "editeLe": 0,
    "auto": true
   },
-  "prix-goncourt_a-l-ombre-des-jeunes-filles-en-fleurs": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-feu-barbusse": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_la-condition-humaine": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_les-mandarins": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_les-racines-du-ciel": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_la-vie-devant-soi": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_l-amant-roman": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-roi-des-aulnes-roman": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_rue-des-boutiques-obscures": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-rivage-des-syrtes": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_les-bienveillantes": {
-   "cx": 0.5,
-   "cy": 0.3280141843971631,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_la-carte-et-le-territoire": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9625,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_au-revoir-la-haut": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_chanson-douce": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_l-ordre-du-jour-recit": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_l-anomalie": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_la-plus-secrete-memoire-des-hommes": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_veiller-sur-elle": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_houris-roman": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_trois-femmes-puissantes": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-sermon-sur-la-chute-de-rome": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_pas-pleurer": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_leurs-enfants-apres-eux": {
-   "cx": 0.42,
-   "cy": 0.5,
-   "w": 0.7,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_les-grandes-familles": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_batouala": {
-   "cx": 0.5,
-   "cy": 0.35,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-soleil-des-scorta": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_le-rocher-de-tanios": {
-   "cx": 0.5,
-   "cy": 0.4,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_les-champs-d-honneur": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "prix-goncourt_la-bataille-roman-de-rambaud": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
   "corps-humain_foie": {
    "cx": 0.5,
    "cy": 0.5,
@@ -57636,314 +57392,111 @@
    "editeLe": 0,
    "auto": true
   },
-  "entreprises-emblematiques_apple": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_microsoft": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_google": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.975,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_amazon": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_meta-entreprise": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_tesla-automobile": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8515742128935532,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_nvidia": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_ibm": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_samsung-electronics": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_sony": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9991666666666668,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_toyota": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8226363008971704,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_volkswagen-group": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6458333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_ford": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_the-coca-cola-company": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_mcdonald-s": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9020833333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_lvmh-moet-hennessy-louis-vuitton": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_chanel": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8541666666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_hermes-international": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8275,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_l-oreal": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_totalenergies": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8494921514312097,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_airbus-societe": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_boeing": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_renault-group": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_michelin": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_danone": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_nestle": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_ikea": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_the-walt-disney-company": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7270833333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_netflix": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_openai": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_compagnie-britannique-des-indes-orientales": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_standard-oil": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9737609329446064,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_nokia": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_lego": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9825,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_ferrari-entreprise": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_alibaba-group": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_saudi-aramco": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6658333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
-  "entreprises-emblematiques_nike": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1.0,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
   "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_alfred-le-grand": {
+   "cx": 0.2426,
+   "cy": 0.3757,
+   "w": 0.4836,
+   "editeLe": 1790413061500,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_cnut-le-grand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.806,
+   "editeLe": 1790413100463,
+   "original": true
+  },
+  "lacs_grands-lacs-amerique-du-nord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8917,
+   "editeLe": 1790107064169,
+   "original": true
+  },
+  "monarques-anglais-et-britanniques_thelstan": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_edouard-le-confesseur": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_harold-godwinson": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "monarques-anglais-et-britanniques_jeanne-grey": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_gregoire-ix": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_urbain-vi": {
+   "cx": 0.5,
+   "cy": 0.39176470588235296,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_sixte-iv": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_pie-v": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "papes_innocent-x": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
    "original": true,
    "editeLe": 0,
    "auto": true

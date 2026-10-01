@@ -60,6 +60,23 @@ def etendue(noms):
     return clat, clng, w * 1.12, h * 1.12
 
 
+# Lieux ponctuels de la collection : centre et etendue de la carte, et ce
+# qu'on y dessine (une epingle sur le lieu, ou un contour)
+LIEUX = {
+    'Chutes Victoria': (-17.924, 25.857, 700, 520, ('pin', -17.924, 25.857)),
+    'Chutes du Niagara': (43.08, -79.074, 600, 450, ('pin', 43.08, -79.074)),
+    "Chutes d'Iguazú": (-25.695, -54.437, 700, 520, ('pin', -25.695, -54.437)),
+    'Salto Ángel': (5.967, -62.535, 900, 680, ('pin', 5.967, -62.535)),
+    'Fosse des Mariannes': (13.5, 143.5, 2600, 1950, ('pin', 11.35, 142.2)),
+    'Cap Horn': (-55.7, -67.6, 330, 250, ('pin', -55.98, -67.27)),
+    'Cap de Bonne-Espérance': (-34.1, 18.6, 230, 170, ('pin', -34.357, 18.474)),
+    'Grande Barrière de corail': (-17.0, 148.5, 1500, 2100,
+                                  ('poly', [(142.5, -10.7), (145.3, -14.5), (147.2, -18.2), (150.5, -21.8), (152.9, -24.6), (151.9, -24.9), (149.6, -22.4), (146.3, -18.9), (144.2, -15.0), (142.0, -10.9)])),
+    'Triangle des Bermudes': (25.5, -72.5, 2700, 2000,
+                              ('poly', [(-80.19, 25.76), (-64.78, 32.30), (-66.10, 18.47)])),
+}
+
+
 BLEU, CONTOUR = (24, 92, 214), (255, 255, 255)
 
 
@@ -114,7 +131,7 @@ def main():
     apercu = '--apercu' in sys.argv
     noms = [a for a in sys.argv[1:] if not a.startswith("--")]
     if "--tous" in sys.argv:
-        noms = list(TRACES)
+        noms = list(TRACES) + list(LIEUX)
     cartes = {c['nom']: c for c in json.loads(
         (RACINE / 'data' / 'fleuves-mers-et-oceans.json').read_text(encoding='utf-8'))['cartes']}
     (M.BROUILLON / 'fleuves').mkdir(parents=True, exist_ok=True)
@@ -125,7 +142,11 @@ def main():
         pg = ctx.new_page()
         for nom in noms:
             c = cartes[nom]
-            if nom in FLEUVES:
+            dessin = None
+            if nom in LIEUX:
+                clat, clng, wk, hk, dessin = LIEUX[nom]
+                ne = []
+            elif nom in FLEUVES:
                 ne, clat, clng, wk, hk = FLEUVES[nom]
             else:
                 ne = TRACES[nom]
@@ -155,6 +176,13 @@ def main():
                 pts = [vers_pixels(la, lo, clat, clng, z, cx, cy) for lo, la in ligne]
                 if len(pts) > 1:
                     d.line(pts, fill=BLEU + (255,), width=ep, joint='curve')
+            if dessin and dessin[0] == 'pin':
+                x, y = vers_pixels(dessin[1], dessin[2], clat, clng, z, cx, cy)
+                planisphere.epingle(calque, x, y, im.height * 0.055)
+            elif dessin and dessin[0] == 'poly':
+                pts = [vers_pixels(la, lo, clat, clng, z, cx, cy) for lo, la in dessin[1]]
+                d.polygon(pts, fill=(234, 67, 53, 50))
+                d.line(pts + [pts[0]], fill=(234, 67, 53, 255), width=ep, joint='curve')
             im.paste(calque, (0, 0), calque)
             x0z, y0z, x1z, y1z = M.ZONE_DIRECTE
             h_max = min(y1z - y0z, (x1z - x0z) * 3 / 4) * M.ECHELLE

@@ -36,14 +36,6 @@ LOT_SUITE = {
         "Roman épistolaire", "Roman policier", "Science-fiction", "Fantasy",
         "Roman d'aventures", "Roman historique", "Utopie", "Dystopie", "Pamphlet", "Chanson de geste",
         "Roman de chevalerie"]),
-    'prix-goncourt': ('Prix Goncourt', [
-        "À l'ombre des jeunes filles en fleurs", "Le Feu (Barbusse)", "La Condition humaine", "Les Mandarins",
-        "Les Racines du ciel", "La Vie devant soi", "L'Amant (roman)", "Le Roi des Aulnes (roman)", "Rue des boutiques obscures",
-        "Le Rivage des Syrtes", "Les Bienveillantes", "La Carte et le Territoire", "Au revoir là-haut", "Chanson douce",
-        "L'Ordre du jour (récit)", "L'Anomalie", "La Plus Secrète Mémoire des hommes", "Veiller sur elle", "Houris (roman)",
-        "Trois femmes puissantes", "Le Sermon sur la chute de Rome", "Pas pleurer", "Leurs enfants après eux",
-        "Les Grandes Familles", "Batouala", "Le Soleil des Scorta", "Le Rocher de Tanios", "Les Champs d'honneur",
-        "La Bataille (roman de Rambaud)"]),
     'corps-humain': ('Corps humain', [
         "Cœur", "Encéphale humain", "Poumon", "Foie", "Rein", "Estomac", "Intestin grêle", "Côlon", "Pancréas",
         "Rate", "Vésicule biliaire", "Peau", "Œil humain", "Oreille", "Langue (anatomie humaine)", "Nez", "Thyroïde",
@@ -92,11 +84,4 @@ LOT_SUITE = {
         "Hyperinflation de la république de Weimar", "Système de Law", "Krach de 1720", "Panique du 18 septembre 1873",
         "Panique de 1907", "Crise économique argentine", "Crise bancaire et financière de l'automne 2008", "Crise économique liée à la pandémie de Covid-19",
         "Hyperinflation au Zimbabwe", ]),
-    'entreprises-emblematiques': ('Entreprises emblématiques', [
-        "Apple", "Microsoft", "Google", "Amazon (entreprise)", "Meta Platforms", "Tesla (automobile)",
-        "Nvidia", "IBM", "Samsung Electronics", "Sony", "Toyota", "Volkswagen (entreprise)", "Ford", "The Coca-Cola Company",
-        "McDonald's", "Nike (entreprise)", "LVMH", "Chanel", "Hermès International", "L'Oréal",
-        "TotalEnergies", "Airbus (entreprise)", "Boeing", "Renault", "Michelin", "Danone", "Nestlé", "IKEA",
-        "The Walt Disney Company", "Netflix", "OpenAI", "Compagnie anglaise des Indes orientales", "Standard Oil",
-        "Nokia", "Lego", "Ferrari (entreprise)", "Alibaba Group", "Saudi Aramco"]),
 }

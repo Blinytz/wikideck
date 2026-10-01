@@ -55,7 +55,8 @@ def epingle(im, x, y, h):
     cx, cy = x, y - h + r
     ombre = Image.new('L', im.size, 0)
     ImageDraw.Draw(ombre).ellipse((x - r * 0.7, y - r * 0.18, x + r * 0.7, y + r * 0.18), fill=90)
-    im.paste((0, 0, 0), (0, 0), ombre.filter(ImageFilter.GaussianBlur(r * 0.2)))
+    noir = (0, 0, 0, 255) if im.mode == 'RGBA' else (0, 0, 0)
+    im.paste(noir, (0, 0), ombre.filter(ImageFilter.GaussianBlur(r * 0.2)))
     d = ImageDraw.Draw(im)
     rouge, sombre = (234, 67, 53), (165, 39, 30)
     # la goutte : un disque et un triangle vers la pointe

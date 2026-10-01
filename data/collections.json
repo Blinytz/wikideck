@@ -15,7 +15,7 @@
   {
    "slug": "souverains-et-conquerants",
    "nom": "Souverains et conquérants",
-   "nbCartes": 112,
+   "nbCartes": 110,
    "fichier": "data/souverains-et-conquerants.json"
   },
   {
@@ -477,7 +477,7 @@
   {
    "slug": "fleuves-mers-et-oceans",
    "nom": "Fleuves, mers et océans",
-   "nbCartes": 74,
+   "nbCartes": 73,
    "fichier": "data/fleuves-mers-et-oceans.json"
   },
   {
@@ -669,13 +669,13 @@
   {
    "slug": "monarques-anglais-et-britanniques",
    "nom": "Monarques anglais et britanniques",
-   "nbCartes": 43,
+   "nbCartes": 50,
    "fichier": "data/monarques-anglais-et-britanniques.json"
   },
   {
    "slug": "papes",
    "nom": "Papes",
-   "nbCartes": 33,
+   "nbCartes": 38,
    "fichier": "data/papes.json"
   },
   {
@@ -693,7 +693,7 @@
   {
    "slug": "lacs",
    "nom": "Lacs",
-   "nbCartes": 38,
+   "nbCartes": 39,
    "fichier": "data/lacs.json"
   },
   {
@@ -713,12 +713,6 @@
    "nom": "Genres littéraires",
    "nbCartes": 27,
    "fichier": "data/genres-litteraires.json"
-  },
-  {
-   "slug": "prix-goncourt",
-   "nom": "Prix Goncourt",
-   "nbCartes": 29,
-   "fichier": "data/prix-goncourt.json"
   },
   {
    "slug": "corps-humain",
@@ -761,12 +755,6 @@
    "nom": "Crises économiques",
    "nbCartes": 21,
    "fichier": "data/crises-economiques.json"
-  },
-  {
-   "slug": "entreprises-emblematiques",
-   "nom": "Entreprises emblématiques",
-   "nbCartes": 38,
-   "fichier": "data/entreprises-emblematiques.json"
   }
  ]
 }

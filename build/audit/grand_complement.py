@@ -1522,3 +1522,12 @@ for _slug, _lot in {
     'entreprises-emblematiques': [('Nike (entreprise)', 'Nike (entreprise)')],
 }.items():
     AJOUTS.setdefault(_slug, []).extend(_lot)
+
+# 01/10/2026 : monarques et papes importants qui manquaient
+AJOUTS.setdefault('monarques-anglais-et-britanniques', []).extend([
+    ('Æthelstan', 'Æthelstan'), ('Édouard le Confesseur', 'Édouard le Confesseur'),
+    ('Harold Godwinson', 'Harold II d\'Angleterre'), ('Jeanne Grey', 'Jane Grey'),
+    ('Mathilde l\'Emperesse', 'Mathilde l\'Emperesse')])
+AJOUTS.setdefault('papes', []).extend([
+    ('Grégoire IX', 'Grégoire IX'), ('Urbain VI', 'Urbain VI'), ('Sixte IV', 'Sixte IV'),
+    ('Pie V', 'Pie V'), ('Innocent X', 'Innocent X')])

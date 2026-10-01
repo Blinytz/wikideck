@@ -25,6 +25,8 @@ FLEUVES = {
     'Nil': (['Nile', 'Victoria Nile', 'Albert Nile', 'Bahr el Jebel', 'El Bahr el Abyad'], 15.0, 30.6, 1100, 3700),
     'Danube': (['Danube', 'Donau'], 46.3, 18.6, 1850, 720),
     'Garonne': (['Garonne', 'Gironde'], 44.15, 0.15, 260, 300),
+    'Canal de Suez': ('Canal de Suez', 30.6, 32.4, 110, 190),
+    'Canal de Panama': ('Canal de Panama', 9.15, -79.74, 75, 62),
 }
 # les autres fleuves : noms Natural Earth seulement, le cadre est calcule sur
 # l'etendue du trace
@@ -64,12 +66,18 @@ BLEU, CONTOUR = (24, 92, 214), (255, 255, 255)
 # traces absents de Natural Earth (le Saint-Laurent y est traite comme un
 # estuaire marin) : points releves a la main, du lac Ontario au golfe
 MANUELS = {
-    'Saint-Laurent': [[(-76.3, 44.2), (-75.7, 44.5), (-74.7, 45.0), (-73.55, 45.5), (-73.0, 45.95),
-                       (-72.5, 46.25), (-71.95, 46.6), (-71.2, 46.82), (-70.6, 47.1), (-69.7, 47.9),
-                       (-68.9, 48.5), (-67.5, 49.2), (-66.4, 49.6), (-64.5, 49.9)]],
+    # canaux : leur trace sur la carte, sinon on ne les voit pas a cette echelle
+    'Canal de Suez': [[(32.31, 31.26), (32.30, 30.95), (32.27, 30.59), (32.33, 30.42), (32.38, 30.35),
+                       (32.45, 30.22), (32.55, 30.03), (32.56, 29.93)]],
+    'Canal de Panama': [[(-79.92, 9.36), (-79.92, 9.27), (-79.86, 9.20), (-79.80, 9.13), (-79.69, 9.11),
+                         (-79.65, 9.05), (-79.60, 9.01), (-79.57, 8.95), (-79.55, 8.89)]],
+    # trace OpenStreetMap (relation « Fleuve Saint-Laurent »), du lac Ontario a l'estuaire
+    'Saint-Laurent': json.loads((ICI / 'geo' / 'saint_laurent_osm.json').read_text(encoding='utf-8')),     # jusqu'a l'estuaire, pas dans le golfe
 }
 # un meme nom pour deux fleuves : on garde la bonne region (lng min, lng max)
-FILTRES = {'Colorado': (-125, -100)}
+FILTRES = {'Colorado': (-125, -100, -90, 90),
+           # un autre Parana (Goias) et un autre Volga figurent sous le meme nom
+           'Paraná': (-70, -40, -90, -15), 'Volga': (30, 60, -90, 90)}
 
 
 def traces(noms):
@@ -83,8 +91,8 @@ def traces(noms):
             g = f['geometry']
             ls = [g['coordinates']] if g['type'] == 'LineString' else g['coordinates']
             if n in FILTRES:
-                a, b = FILTRES[n]
-                ls = [l for l in ls if all(a <= x <= b for x, _ in l)]
+                a, b, c, d = FILTRES[n]
+                ls = [l for l in ls if all(a <= x <= b and c <= y <= d for x, y in l)]
             lignes += ls
     return lignes
 

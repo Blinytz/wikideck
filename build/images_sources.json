@@ -14241,19 +14241,19 @@
 "source": "google-maps"
 },
 "fleuves-mers-et-oceans_ocean-atlantique": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_ocean-pacifique": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_ocean-indien": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_ocean-arctique": {
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_ocean-austral": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
 "source": "wiki-sans-filtre"
@@ -14277,10 +14277,10 @@
 "source": "google-maps"
 },
 "fleuves-mers-et-oceans_canal-de-suez": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_canal-de-panama": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "iles_islande": {
 "source": "google-maps",

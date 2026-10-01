@@ -31516,23 +31516,26 @@
   "fleuves-mers-et-oceans_ocean-atlantique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790106659383,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ocean-pacifique": {
-   "cx": 0.4824,
-   "cy": 0.4796,
-   "w": 0.9091,
-   "editeLe": 1790106689132,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ocean-indien": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790106704764,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ocean-arctique": {
    "cx": 0.4533,
@@ -31544,9 +31547,10 @@
   "fleuves-mers-et-oceans_ocean-austral": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7405,
-   "editeLe": 1790106860958,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_grands-lacs-amerique-du-nord": {
    "cx": 0.5,
@@ -31601,16 +31605,18 @@
   "fleuves-mers-et-oceans_canal-de-suez": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8175,
-   "editeLe": 1790107454694,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_canal-de-panama": {
-   "cx": 0.5514,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6858,
-   "editeLe": 1790107668650,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "iles_madagascar": {
    "cx": 0.5,

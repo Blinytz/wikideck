@@ -333,6 +333,10 @@ ETENDUES.update({
     'Golfe Persique': (27.0, 51.5, 1050, 800), 'Détroit de Gibraltar': (35.95, -5.55, 90, 55),
     'Bosphore': (41.12, 29.06, 55, 45), 'Détroit de Béring': (65.9, -168.8, 380, 280),
     'Détroit de Magellan': (-53.4, -71.0, 450, 330),
+    'Océan Atlantique': (8.0, -30.0, 13500, 15000), 'Océan Pacifique': (5.0, -160.0, 16000, 13000),
+    'Océan Indien': (-15.0, 75.0, 10000, 8000), 'Océan Arctique': (75.0, 10.0, 7000, 4500),
+    'Océan Austral': (-62.0, 20.0, 14000, 4500),
+    'Canal de Suez': (30.55, 32.33, 55, 170), 'Canal de Panama': (9.15, -79.75, 75, 60),
 })
 
 

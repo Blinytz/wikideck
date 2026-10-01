@@ -1,4 +1,4 @@
-# Collections WikiDeck → listes Mémo
+# Collections WikiDeck → listes Mnémo (ex-Mémo)
 
 Proposition du 29/09/2026 : quelles collections font de bonnes listes de
 culture générale, et quelles colonnes leur ajouter pour qu'on puisse les

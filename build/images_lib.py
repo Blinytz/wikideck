@@ -8,7 +8,7 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
-MEMO = Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\memo')
+MEMO = Path(r'C:\Users\flxjr\OneDrive\Documents\Ecosystème Eclats\apps\mnemo')   # Memo s'appelle Mnemo depuis le 01/10/2026
 CHROME = Path(r'C:\Program Files\Google\Chrome\Application\chrome.exe')
 UA_BOT = 'wikideck-build/1.0 (projet perso; contact: claude.elk041@passmail.net)'
 UA_NAV = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '

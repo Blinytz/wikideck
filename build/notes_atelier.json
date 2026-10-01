@@ -31306,11 +31306,12 @@
    "original": true
   },
   "fleuves-mers-et-oceans_nil": {
-   "cx": 0.5101,
-   "cy": 0.4427,
-   "w": 0.7513,
-   "editeLe": 1790105185266,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_amazone-fleuve": {
    "cx": 0.5,
@@ -31336,9 +31337,10 @@
   "fleuves-mers-et-oceans_danube": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.909,
-   "editeLe": 1790105325587,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_gange": {
    "cx": 0.5,
@@ -46869,9 +46871,10 @@
   "fleuves-mers-et-oceans_garonne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.98,
-   "editeLe": 1790508304108,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_tage": {
    "cx": 0.5,

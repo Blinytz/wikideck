@@ -14175,7 +14175,7 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_nil": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_amazone-fleuve": {
 "source": "wiki-sans-filtre"
@@ -14187,7 +14187,7 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_danube": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_gange": {
 "source": "wiki-sans-filtre"
@@ -26030,9 +26030,7 @@
 "url": "https://images7.alphacoders.com/132/1323343.jpeg"
 },
 "fleuves-mers-et-oceans_garonne": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pont-Neuf_de_Toulouse_3.jpg/1280px-Pont-Neuf_de_Toulouse_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_tage": {
 "source": "grand-complement",

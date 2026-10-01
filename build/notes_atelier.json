@@ -15772,13 +15772,6 @@
    "editeLe": 1786909781812,
    "original": true
   },
-  "races-de-chien_kangal-ville": {
-   "cx": 0.5,
-   "cy": 0.5359,
-   "w": 1,
-   "editeLe": 1786909813972,
-   "original": true
-  },
   "races-de-chien_berger-kangal": {
    "cx": 0.5,
    "cy": 0.5,
@@ -25789,13 +25782,6 @@
    "editeLe": 1788901129753,
    "original": true
   },
-  "champignons_chanterelle": {
-   "cx": 0.5867,
-   "cy": 0.5,
-   "w": 0.8267,
-   "editeLe": 1788901156817,
-   "original": true
-  },
   "champignons_trompette-de-la-mort": {
    "cx": 0.5,
    "cy": 0.5,
@@ -26277,13 +26263,6 @@
    "cy": 0.5,
    "w": 1,
    "editeLe": 1788902583341,
-   "original": true
-  },
-  "fleurs_viola-plante": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8889,
-   "editeLe": 1788902597196,
    "original": true
   },
   "fleurs_illet": {
@@ -58353,6 +58332,22 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "champignons_chanterelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "fleurs_viola-plante": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8866666666666666,
    "original": true,
    "editeLe": 0,
    "auto": true

@@ -353,7 +353,7 @@
   {
    "slug": "races-de-chien",
    "nom": "Races de chien",
-   "nbCartes": 132,
+   "nbCartes": 131,
    "fichier": "data/races-de-chien.json",
    "theme": "Nature"
   },

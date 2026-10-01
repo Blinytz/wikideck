@@ -30355,54 +30355,6 @@
 "papes_jean-paul-ii": {
 "source": "wiki-sans-filtre"
 },
-"lacs_mer-caspienne": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
-"lacs_lac-victoria": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
-"lacs_lac-tanganyika": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2023/11/le-lac-tanganyika-1536x1018.jpg",
-"encart": "planisphere"
-},
-"lacs_lac-baikal": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
-"lacs_lac-titicaca": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
-"lacs_lac-tchad": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.undp.org/sites/g/files/zskgke326/files/styles/banner_image_desktop/public/migration/fi/UNDP-TD-Lake-Chad-desertification-water-seedlings-011.jpg?h=9dd951d5&itok=NPSR48E2",
-"encart": "planisphere"
-},
-"lacs_mer-d-aral": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
-"lacs_leman": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://barnimages.com/wp-content/uploads/2020/08/20200826-barnimages-004.jpg",
-"encart": "planisphere"
-},
-"lacs_loch-ness": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.okvoyage.com/wp-content/uploads/2023/03/le-loch-ness-en-ecosse-1536x1024.jpg",
-"encart": "planisphere"
-},
-"lacs_mer-morte": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
 "presidents-des-etats-unis_john-adams-homme-d-etat": {
 "source": "grand-complement",
 "origine": "wiki",
@@ -32869,10 +32821,6 @@
 "origine": "web",
 "url": "https://images.nightcafe.studio/jobs/IF5g22rr3xfsTwtJS6Ct/IF5g22rr3xfsTwtJS6Ct--1--lwxx7.jpg?tr=w-1600,c-at_max"
 },
-"lacs_grands-lacs-amerique-du-nord": {
-"source": "wiki-sans-filtre",
-"encart": "planisphere"
-},
 "monarques-anglais-et-britanniques_thelstan": {
 "source": "grand-complement",
 "origine": "web",
@@ -33478,5 +33426,71 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://c8.alamy.com/comp/2MKGBBY/several-hundred-protesters-gathered-in-front-of-the-interior-ministry-in-mexico-city-march-20-1995-in-one-of-the-largest-protests-yet-over-an-economic-crisis-that-entered-its-fourth-month-the-interior-ministry-which-takes-up-an-entire-city-block-was-surrounded-by-charter-buses-which-brought-debtors-from-at-least-10-states-demanding-the-government-force-banks-to-reduce-interest-rates-and-lengthen-payment-terms-ap-photodouglas-engle-2MKGBBY.jpg"
+},
+"lacs_mer-caspienne": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.itmag-dz.com/wp-content/uploads/2025/06/Une-ile-surgit-en-mer-Caspienne-le-climat-transforme-la-geographie.jpg",
+"encart": "planisphere"
+},
+"lacs_lac-victoria": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.monde-authentique.com/wp-content/gallery/ouganda-produit-lacs-ougandais/Monde-Authentique-lacs-ougandais-Lac-Victoria-pixabay-web.jpg",
+"encart": "planisphere"
+},
+"lacs_lac-tanganyika": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.destin-tanganyika.com/wp-content/uploads/2017/12/cap-kabogo1.2.jpg",
+"encart": "planisphere"
+},
+"lacs_lac-baikal": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://wallpapercave.com/wp/wp7108766.jpg",
+"encart": "planisphere"
+},
+"lacs_lac-titicaca": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.uncoversouthamerica.travel/site/assets/files/12364/tour-titicaca-island.1920x0.jpg",
+"encart": "planisphere"
+},
+"lacs_lac-tchad": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.culturesofwestafrica.com/wp-content/uploads/2025/11/Exploring-Lake-Chad-Basin.jpg",
+"encart": "planisphere"
+},
+"lacs_mer-d-aral": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/2/4/8242c7987a_91098_shutterstock-373581787.jpg",
+"encart": "planisphere"
+},
+"lacs_leman": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://lp-cms-production.imgix.net/2024-11/AdobeStock153453841.jpeg?fit=crop&w=3840&auto=format&q=75",
+"encart": "planisphere"
+},
+"lacs_loch-ness": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.okvoyage.com/wp-content/uploads/2023/03/le-loch-ness-en-ecosse-1536x1024.jpg",
+"encart": "planisphere"
+},
+"lacs_mer-morte": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://images.alphacoders.com/110/1106216.jpg",
+"encart": "planisphere"
+},
+"lacs_grands-lacs-amerique-du-nord": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://wallpapercave.com/wp/wp9136837.jpg",
+"encart": "planisphere"
 }
 }

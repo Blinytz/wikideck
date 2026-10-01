@@ -53486,76 +53486,6 @@
    "editeLe": 1789147778884,
    "original": true
   },
-  "lacs_mer-caspienne": {
-   "cx": 0.5,
-   "cy": 0.5685,
-   "w": 1,
-   "editeLe": 1790106479441,
-   "original": true
-  },
-  "lacs_lac-victoria": {
-   "cx": 0.4667,
-   "cy": 0.5,
-   "w": 0.9333,
-   "editeLe": 1790106999421,
-   "original": true
-  },
-  "lacs_lac-tanganyika": {
-   "cx": 0.5,
-   "cy": 0.428,
-   "w": 1,
-   "editeLe": 1790509448214,
-   "original": true
-  },
-  "lacs_lac-baikal": {
-   "cx": 0.3918,
-   "cy": 0.5,
-   "w": 0.6857,
-   "editeLe": 1790106944702,
-   "original": true
-  },
-  "lacs_lac-titicaca": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790107025592,
-   "original": true
-  },
-  "lacs_lac-tchad": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8883,
-   "editeLe": 1790509683926,
-   "original": true
-  },
-  "lacs_mer-d-aral": {
-   "cx": 0.4072,
-   "cy": 0.5,
-   "w": 0.8144,
-   "editeLe": 1790106607103,
-   "original": true
-  },
-  "lacs_leman": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509381759,
-   "original": true
-  },
-  "lacs_loch-ness": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509720091,
-   "original": true
-  },
-  "lacs_mer-morte": {
-   "cx": 0.5057,
-   "cy": 0.5,
-   "w": 0.9107,
-   "editeLe": 1790106435951,
-   "original": true
-  },
   "presidents-des-etats-unis_john-adams-homme-d-etat": {
    "cx": 0.5,
    "cy": 0.5,
@@ -57386,13 +57316,6 @@
    "editeLe": 1790413100463,
    "original": true
   },
-  "lacs_grands-lacs-amerique-du-nord": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8917,
-   "editeLe": 1790107064169,
-   "original": true
-  },
   "monarques-anglais-et-britanniques_thelstan": {
    "cx": 0.5,
    "cy": 0.3,
@@ -58348,6 +58271,94 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8866666666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_mer-caspienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-victoria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-tanganyika": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-baikal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-titicaca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_lac-tchad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_mer-d-aral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_leman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_loch-ness": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8888888888888888,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_mer-morte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "lacs_grands-lacs-amerique-du-nord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8641666666666667,
    "original": true,
    "editeLe": 0,
    "auto": true

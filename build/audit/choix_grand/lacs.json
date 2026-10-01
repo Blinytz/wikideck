@@ -109,5 +109,38 @@
  },
  "lacs_lac-volta": {
   "k": 9
+ },
+ "lacs_mer-caspienne": {
+  "k": 2
+ },
+ "lacs_lac-victoria": {
+  "k": 10
+ },
+ "lacs_lac-tanganyika": {
+  "k": 6
+ },
+ "lacs_lac-baikal": {
+  "k": 11
+ },
+ "lacs_lac-titicaca": {
+  "k": 3
+ },
+ "lacs_lac-tchad": {
+  "k": 11
+ },
+ "lacs_mer-d-aral": {
+  "k": 9
+ },
+ "lacs_leman": {
+  "k": 10
+ },
+ "lacs_loch-ness": {
+  "k": 1
+ },
+ "lacs_mer-morte": {
+  "k": 9
+ },
+ "lacs_grands-lacs-amerique-du-nord": {
+  "k": 10
  }
 }

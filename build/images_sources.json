@@ -14229,16 +14229,16 @@
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-mediterranee": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-noire": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-des-caraibes": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-baltique": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_ocean-atlantique": {
 "source": "wiki-sans-filtre"
@@ -14274,7 +14274,7 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_detroit-de-gibraltar": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_canal-de-suez": {
 "source": "wiki-sans-filtre"
@@ -14466,10 +14466,10 @@
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-rouge": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-de-corail": {
-"source": "wiki-sans-filtre"
+"source": "google-maps"
 },
 "iles_madagascar": {
 "source": "google-maps",
@@ -26040,39 +26040,25 @@
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-du-nord": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.pixabay.com/photo/2022/12/13/14/21/north-sea-7653499_1280.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_manche-mer": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.generationvoyage.fr/2020/07/mont-saint-michel-manche.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-egee": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.futura-sciences.com/sources/images/mer-Egee-cyclades-Milos.jpeg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-adriatique": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://thumbs.dreamstime.com/b/vue-de-c-te-de-mer-adriatique-65664335.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_mer-des-sargasses": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cinquantenaires-en-voyage.com/wp-content/uploads/2022/06/Sargasses.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_golfe-du-mexique": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.travel-destination.net/wp-content/uploads/Yucatan.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_golfe-persique": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://issues.fr/wp-content/uploads/2024/03/Un-objectif-huit-nations-le-golfe-Persique-vu-de-1024x683.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_salto-angel": {
 "source": "grand-complement",
@@ -26080,19 +26066,13 @@
 "url": "https://i.pinimg.com/originals/29/5f/10/295f10a74afe1746b2192b042f809dfc.jpg"
 },
 "fleuves-mers-et-oceans_bosphore": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images.pexels.com/photos/29594401/pexels-photo-29594401/free-photo-of-superbe-paysage-urbain-d-istanbul-avec-vue-sur-le-bosphore.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_detroit-de-bering": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/BeringStrait-JPL-PIA02638.png/1280px-BeringStrait-JPL-PIA02638.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_detroit-de-magellan": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.club-faune.com/wp-content/uploads/2024/12/Safari-marin-dans-le-detroit-de-Magellan-Chili-phare-devant-la-montagne-scaled.jpg"
+"source": "google-maps"
 },
 "fleuves-mers-et-oceans_cap-horn": {
 "source": "grand-complement",

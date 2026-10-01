@@ -31468,44 +31468,50 @@
   "fleuves-mers-et-oceans_mer-mediterranee": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8133,
-   "editeLe": 1790106250240,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-rouge": {
-   "cx": 0.4869,
-   "cy": 0.498,
-   "w": 0.6209,
-   "editeLe": 1790106332986,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-noire": {
    "cx": 0.5,
-   "cy": 0.4918,
-   "w": 1,
-   "editeLe": 1790106441636,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-des-caraibes": {
-   "cx": 0.5439,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9121,
-   "editeLe": 1790106499177,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-baltique": {
-   "cx": 0.4996,
-   "cy": 0.544,
-   "w": 0.9091,
-   "editeLe": 1790106542457,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-de-corail": {
    "cx": 0.5,
-   "cy": 0.4511,
-   "w": 1,
-   "editeLe": 1790106628676,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ocean-atlantique": {
    "cx": 0.5,
@@ -31587,9 +31593,10 @@
   "fleuves-mers-et-oceans_detroit-de-gibraltar": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9745,
-   "editeLe": 1790107432058,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_canal-de-suez": {
    "cx": 0.5,
@@ -46977,53 +46984,60 @@
    "auto": true
   },
   "fleuves-mers-et-oceans_mer-du-nord": {
-   "cx": 0.4626,
-   "cy": 0.4125,
-   "w": 0.9091,
-   "editeLe": 1790508898897,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_manche-mer": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7452,
-   "editeLe": 1790508921868,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-egee": {
-   "cx": 0.5129,
-   "cy": 0.4819,
-   "w": 0.9091,
-   "editeLe": 1790509087778,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-adriatique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509111266,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-des-sargasses": {
-   "cx": 0.4301,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8344,
-   "editeLe": 1790509153779,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_golfe-du-mexique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8132,
-   "editeLe": 1790509283089,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_golfe-persique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790509313624,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_salto-angel": {
    "cx": 0.4948,
@@ -47034,24 +47048,27 @@
   },
   "fleuves-mers-et-oceans_bosphore": {
    "cx": 0.5,
-   "cy": 0.4385,
-   "w": 1,
-   "editeLe": 1790509950853,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_detroit-de-bering": {
-   "cx": 0.3896,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7167,
-   "editeLe": 1790510001059,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_detroit-de-magellan": {
-   "cx": 0.3431,
-   "cy": 0.4703,
-   "w": 0.6805,
-   "editeLe": 1790510057242,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_cap-horn": {
    "cx": 0.5165,

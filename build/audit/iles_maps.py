@@ -321,6 +321,20 @@ ETENDUES = {
 # lateral, la vue est centree sur la fenetre
 ZONE_DIRECTE = (100, 100, 1900, 1200)
 
+# Mers, golfes et detroits (collection fleuves-mers-et-oceans) : centre et
+# etendue en km ; un detroit est montre avec les deux rives qu'il separe
+ETENDUES.update({
+    'Mer Méditerranée': (38.5, 17.5, 3900, 1700), 'Mer Rouge': (20.5, 38.5, 1250, 2100),
+    'Mer Noire': (43.3, 34.5, 1200, 650), 'Mer des Caraïbes': (15.0, -75.0, 2800, 1500),
+    'Mer Baltique': (58.8, 18.0, 1200, 1450), 'Mer de Corail': (-17.0, 154.0, 2400, 2200),
+    'Mer du Nord': (56.0, 3.0, 950, 1100), 'Manche': (50.0, -2.2, 600, 330),
+    'Mer Égée': (38.5, 25.0, 600, 650), 'Mer Adriatique': (42.6, 15.8, 850, 650),
+    'Mer des Sargasses': (30.0, -62.0, 3600, 2200), 'Golfe du Mexique': (25.0, -90.0, 1800, 1300),
+    'Golfe Persique': (27.0, 51.5, 1050, 800), 'Détroit de Gibraltar': (35.95, -5.55, 90, 55),
+    'Bosphore': (41.12, 29.06, 55, 45), 'Détroit de Béring': (65.9, -168.8, 380, 280),
+    'Détroit de Magellan': (-53.4, -71.0, 450, 330),
+})
+
 
 def zoom_pour(lat, w_km, h_km):
     """Niveau de zoom ou l'ile occupe ~78 % de ce que la carte montre."""
@@ -347,7 +361,10 @@ def main():
     if '--liste' in sys.argv:                  # un nom par ligne dans ce fichier
         f = Path(sys.argv[sys.argv.index('--liste') + 1])
         noms = [n.strip() for n in f.read_text(encoding='utf-8').splitlines() if n.strip()]
-    cartes = json.loads((RACINE / 'data' / 'iles.json').read_text(encoding='utf-8'))['cartes']
+    # --collection <slug> : meme traitement pour une autre collection (mers, detroits)
+    col = sys.argv[sys.argv.index('--collection') + 1] if '--collection' in sys.argv else 'iles'
+    noms = [n for n in noms if n != col]
+    cartes = json.loads((RACINE / 'data' / f'{col}.json').read_text(encoding='utf-8'))['cartes']
     if noms:
         cartes = [c for c in cartes if c['nom'] in noms]
     BROUILLON.mkdir(exist_ok=True)
@@ -425,7 +442,7 @@ def main():
             cw, ch = int(W * 0.8), int(H * 0.8)
             centre = im.crop(((W - cw) // 2, (H - ch) // 2, (W - cw) // 2 + cw, (H - ch) // 2 + ch))
             orig = im if max(im.size) <= 2400 else im.resize((2400, 1800), Image.LANCZOS)
-            for rel, octets in ((f'images/originaux/iles/{f}.webp', webp(orig, 88)),
+            for rel, octets in ((f'images/originaux/{col}/{f}.webp', webp(orig, 88)),
                                 (c['imageUrl'], webp(centre.resize((800, 600), Image.LANCZOS), 90)),
                                 (c['thumbUrl'], webp(centre.resize((213, 160), Image.LANCZOS), 82))):
                 (RACINE / rel).write_bytes(octets)

@@ -207,3 +207,9 @@ h2 small { color: var(--doux); font-weight: 600; }
 .choix-candidates .taille { font-size: 9px; color: var(--doux); display: block; padding: 2px 0; }
 /* la position est recalée à la main après chaque reconstruction de la grille */
 #vue-grille { overflow-anchor: none; }
+/* grands themes : titre de section dans la grille, et rupture dans le sommaire */
+.g-theme { font-size: 20px; margin: 34px 0 4px; padding-bottom: 6px;
+  border-bottom: 2px solid var(--accent); }
+.sommaire a.s-theme { flex-basis: 100%; margin-top: 6px; color: var(--texte);
+  font-weight: 700; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
+  border: none; background: none; padding-left: 2px; }

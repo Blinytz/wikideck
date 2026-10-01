@@ -272,7 +272,10 @@ async function demarrer() {
   }
   const fichiers = await parLots(index.collections,
     c => fetchRetente(c.fichier + bust).then(r => r.json()));
-  collections = fichiers.map(f => ({ slug: f.slug, nom: f.collection, cartes: f.cartes }));
+  // le theme vient de l'index (build/audit/themes.py) ; une collection neuve
+  // pas encore classee tombe dans « Autres »
+  collections = fichiers.map((f, i) => ({ slug: f.slug, nom: f.collection, cartes: f.cartes,
+                                         theme: index.collections[i].theme || 'Autres' }));
   for (const col of collections) for (const c of col.cartes) parId.set(c.id, c);
   try {
     sourcesImages = await (await fetch('build/images_sources.json' + bust)).json();
@@ -356,8 +359,18 @@ function aUneNote(id) {
 }
 
 function remplirFiltres() {
+  // Les collections groupees par grand theme ; chaque groupe propose aussi
+  // « tout le theme » (valeur « theme:<nom> »).
+  const groupes = new Map();
+  for (const c of collections) {
+    if (!groupes.has(c.theme)) groupes.set(c.theme, []);
+    groupes.get(c.theme).push(c);
+  }
   $('#f-collection').innerHTML = '<option value="">Toutes les collections</option>' +
-    collections.map(c => `<option value="${c.slug}">${esc(c.nom)}</option>`).join('');
+    [...groupes].map(([t, cols]) => `<optgroup label="${esc(t)}">
+      <option value="theme:${esc(t)}">${esc(t)} : tout le thème</option>` +
+      cols.map(c => `<option value="${c.slug}">${esc(c.nom)}</option>`).join('') +
+      '</optgroup>').join('');
   const sources = [...new Set(Object.values(sourcesImages).map(v => v.source))].sort();
   $('#f-source').innerHTML = '<option value="">Toutes les sources</option>' +
     sources.map(s => `<option>${esc(s)}</option>`).join('');
@@ -426,11 +439,18 @@ function rendreGrille() {
   const parts = [];
   let total = 0;
   const sommaire = [];
+  let themeCourant = null;
   for (const col of collections) {
-    if (fc && col.slug !== fc) continue;
+    if (fc && (fc.startsWith('theme:') ? col.theme !== fc.slice(6) : col.slug !== fc)) continue;
     const visibles = col.cartes.filter(carteVisible);
     if (!visibles.length) continue;
     total += visibles.length;
+    if (col.theme !== themeCourant) {
+      themeCourant = col.theme;
+      const ancreTheme = 'theme-' + slugifier(col.theme);
+      sommaire.push(`<a class="s-theme" href="#${ancreTheme}">${esc(col.theme)}</a>`);
+      parts.push(`<h1 class="g-theme" id="${ancreTheme}">${esc(col.theme)}</h1>`);
+    }
     sommaire.push(`<a href="#col-${col.slug}">${esc(col.nom)} (${visibles.length})</a>`);
     const pl = planches[col.slug];
     const rangs = rangsPlanche.get(col.slug);

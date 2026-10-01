@@ -12,7 +12,8 @@
   "plats-francais_kougelhopf": "revoir",
   "oeuvres-litteraires_iliade": "revoir",
   "jeux-de-societe_echecs": "revoir",
-  "disciplines-sportives_golf": "revoir"
+  "disciplines-sportives_golf": "revoir",
+  "lacs_mer-caspienne": "revoir"
  },
  "cadrages": {
   "merveilles-du-monde_mausolee-d-halicarnasse": {
@@ -53559,7 +53560,7 @@
   "presidents-des-etats-unis_john-adams-homme-d-etat": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53567,7 +53568,7 @@
   "presidents-des-etats-unis_james-madison": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53575,7 +53576,7 @@
   "presidents-des-etats-unis_james-monroe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53583,7 +53584,7 @@
   "presidents-des-etats-unis_john-quincy-adams": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53591,7 +53592,7 @@
   "presidents-des-etats-unis_andrew-jackson": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53599,7 +53600,7 @@
   "presidents-des-etats-unis_martin-van-buren": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53607,7 +53608,7 @@
   "presidents-des-etats-unis_william-henry-harrison": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53615,7 +53616,7 @@
   "presidents-des-etats-unis_john-tyler": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53623,7 +53624,7 @@
   "presidents-des-etats-unis_james-k-polk": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53631,7 +53632,7 @@
   "presidents-des-etats-unis_zachary-taylor": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53639,7 +53640,7 @@
   "presidents-des-etats-unis_millard-fillmore": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53647,7 +53648,7 @@
   "presidents-des-etats-unis_franklin-pierce": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53655,7 +53656,7 @@
   "presidents-des-etats-unis_james-buchanan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53663,7 +53664,7 @@
   "presidents-des-etats-unis_andrew-johnson": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53671,7 +53672,7 @@
   "presidents-des-etats-unis_ulysses-s-grant": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53679,7 +53680,7 @@
   "presidents-des-etats-unis_rutherford-b-hayes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53687,7 +53688,7 @@
   "presidents-des-etats-unis_james-a-garfield": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53695,7 +53696,7 @@
   "presidents-des-etats-unis_chester-a-arthur": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53703,7 +53704,7 @@
   "presidents-des-etats-unis_grover-cleveland": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53711,7 +53712,7 @@
   "presidents-des-etats-unis_benjamin-harrison": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53719,7 +53720,7 @@
   "presidents-des-etats-unis_william-mckinley": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53727,7 +53728,7 @@
   "presidents-des-etats-unis_william-howard-taft": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53735,7 +53736,7 @@
   "presidents-des-etats-unis_warren-g-harding": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53743,7 +53744,7 @@
   "presidents-des-etats-unis_calvin-coolidge": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53751,7 +53752,7 @@
   "presidents-des-etats-unis_herbert-hoover": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53759,7 +53760,7 @@
   "presidents-des-etats-unis_lyndon-b-johnson": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53767,7 +53768,7 @@
   "presidents-des-etats-unis_gerald-ford": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53775,7 +53776,7 @@
   "presidents-des-etats-unis_jimmy-carter": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53783,7 +53784,7 @@
   "presidents-des-etats-unis_george-h-w-bush": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53791,7 +53792,7 @@
   "presidents-des-etats-unis_bill-clinton": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53799,7 +53800,7 @@
   "presidents-des-etats-unis_george-w-bush": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53807,7 +53808,7 @@
   "presidents-des-etats-unis_donald-trump": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53815,7 +53816,7 @@
   "presidents-des-etats-unis_joe-biden": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53823,7 +53824,7 @@
   "monarques-anglais-et-britanniques_guillaume-le-roux": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53831,7 +53832,7 @@
   "monarques-anglais-et-britanniques_henri-ier-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53839,7 +53840,7 @@
   "monarques-anglais-et-britanniques_etienne-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53847,7 +53848,7 @@
   "monarques-anglais-et-britanniques_henri-ii-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53855,7 +53856,7 @@
   "monarques-anglais-et-britanniques_jean-sans-terre": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53863,7 +53864,7 @@
   "monarques-anglais-et-britanniques_henri-iii-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53871,7 +53872,7 @@
   "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53879,7 +53880,7 @@
   "monarques-anglais-et-britanniques_edouard-ii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53887,7 +53888,7 @@
   "monarques-anglais-et-britanniques_richard-ii": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53895,7 +53896,7 @@
   "monarques-anglais-et-britanniques_henri-iv-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.30984375,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53903,7 +53904,7 @@
   "monarques-anglais-et-britanniques_henri-v-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53911,7 +53912,7 @@
   "monarques-anglais-et-britanniques_henri-vi-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53919,7 +53920,7 @@
   "monarques-anglais-et-britanniques_edouard-iv": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53927,7 +53928,7 @@
   "monarques-anglais-et-britanniques_edouard-v": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53935,7 +53936,7 @@
   "monarques-anglais-et-britanniques_richard-iii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53943,7 +53944,7 @@
   "monarques-anglais-et-britanniques_henri-vii-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53951,7 +53952,7 @@
   "monarques-anglais-et-britanniques_edouard-vi": {
    "cx": 0.5,
    "cy": 0.301875,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53959,7 +53960,7 @@
   "monarques-anglais-et-britanniques_jacques-vi-et-ier": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53967,7 +53968,7 @@
   "monarques-anglais-et-britanniques_charles-ier-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.29578125,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53975,7 +53976,7 @@
   "monarques-anglais-et-britanniques_charles-ii-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.3035888671875,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53983,7 +53984,7 @@
   "monarques-anglais-et-britanniques_jacques-ii-roi-d-angleterre": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -53999,7 +54000,7 @@
   "monarques-anglais-et-britanniques_marie-ii-reine-d-angleterre": {
    "cx": 0.5,
    "cy": 0.303,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54007,7 +54008,7 @@
   "monarques-anglais-et-britanniques_anne-reine-de-grande-bretagne": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54031,7 +54032,7 @@
   "monarques-anglais-et-britanniques_george-iii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54039,7 +54040,7 @@
   "monarques-anglais-et-britanniques_george-iv": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54047,7 +54048,7 @@
   "monarques-anglais-et-britanniques_guillaume-iv-roi-du-royaume-uni": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54055,7 +54056,7 @@
   "monarques-anglais-et-britanniques_edouard-vii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54063,7 +54064,7 @@
   "monarques-anglais-et-britanniques_george-v": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54071,7 +54072,7 @@
   "monarques-anglais-et-britanniques_edouard-viii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54079,7 +54080,7 @@
   "monarques-anglais-et-britanniques_george-vi": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54087,7 +54088,7 @@
   "monarques-anglais-et-britanniques_elisabeth-ii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54095,7 +54096,7 @@
   "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54103,7 +54104,7 @@
   "monarques-anglais-et-britanniques_edouard-iii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54111,7 +54112,7 @@
   "papes_leon-ier-pape": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54119,7 +54120,7 @@
   "papes_leon-iii-pape": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54127,7 +54128,7 @@
   "papes_sylvestre-ii": {
    "cx": 0.5,
    "cy": 0.38,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54135,7 +54136,7 @@
   "papes_gregoire-vii": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54143,7 +54144,7 @@
   "papes_urbain-ii": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54151,7 +54152,7 @@
   "papes_alexandre-vi": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54159,7 +54160,7 @@
   "papes_benoit-xv": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54167,7 +54168,7 @@
   "papes_benoit-xvi": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54175,7 +54176,7 @@
   "papes_boniface-viii": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54183,7 +54184,7 @@
   "papes_clement-v": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54191,7 +54192,7 @@
   "papes_clement-vii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54199,7 +54200,7 @@
   "papes_francois-pape": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54207,7 +54208,7 @@
   "papes_gregoire-xiii": {
    "cx": 0.5,
    "cy": 0.30303030303030304,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54215,7 +54216,7 @@
   "papes_innocent-iii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54223,7 +54224,7 @@
   "papes_jean-paul-ier": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54231,7 +54232,7 @@
   "papes_jean-xxii": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54239,7 +54240,7 @@
   "papes_jean-xxiii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54247,7 +54248,7 @@
   "papes_jules-ii": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54255,7 +54256,7 @@
   "papes_leon-x": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54263,7 +54264,7 @@
   "papes_leon-xiii": {
    "cx": 0.5,
    "cy": 0.250078125,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54271,7 +54272,7 @@
   "papes_leon-xiv": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54279,7 +54280,7 @@
   "papes_paul-iii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54287,7 +54288,7 @@
   "papes_paul-vi": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54303,7 +54304,7 @@
   "papes_pie-vi": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54311,7 +54312,7 @@
   "papes_pie-vii": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54319,7 +54320,7 @@
   "papes_pie-xi": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54327,7 +54328,7 @@
   "papes_pie-xii": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54335,7 +54336,7 @@
   "papes_sixte-v": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54343,7 +54344,7 @@
   "papes_urbain-viii": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54375,7 +54376,7 @@
   "organisations-internationales_banque-mondiale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54455,7 +54456,7 @@
   "organisations-internationales_fonds-monetaire-international": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54543,7 +54544,7 @@
   "organisations-internationales_organisation-internationale-du-travail": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54567,7 +54568,7 @@
   "organisations-internationales_pacte-de-varsovie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54607,7 +54608,7 @@
   "organisations-internationales_medecins-sans-frontieres": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54863,7 +54864,7 @@
   "lacs_lac-michigan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54887,7 +54888,7 @@
   "lacs_lac-erie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54967,7 +54968,7 @@
   "lacs_lac-tana": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54975,7 +54976,7 @@
   "lacs_lac-turkana": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -54991,7 +54992,7 @@
   "lacs_grand-lac-sale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55167,7 +55168,7 @@
   "regions-francaises_guyane": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55175,7 +55176,7 @@
   "regions-francaises_normandie-region-administrative": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55183,7 +55184,7 @@
   "mouvements-litteraires_humanisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55199,7 +55200,7 @@
   "mouvements-litteraires_litterature-baroque": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55215,7 +55216,7 @@
   "mouvements-litteraires_classicisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55231,7 +55232,7 @@
   "mouvements-litteraires_romantisme": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55239,7 +55240,7 @@
   "mouvements-litteraires_realisme-litterature": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55271,7 +55272,7 @@
   "mouvements-litteraires_decadentisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55335,7 +55336,7 @@
   "mouvements-litteraires_beat-generation": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55343,7 +55344,7 @@
   "mouvements-litteraires_generation-perdue": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55375,7 +55376,7 @@
   "mouvements-litteraires_preromantisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55383,7 +55384,7 @@
   "mouvements-litteraires_les-hussards-mouvement-litteraire": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55391,7 +55392,7 @@
   "genres-litteraires_roman-litterature": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55399,7 +55400,7 @@
   "genres-litteraires_nouvelle": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55407,7 +55408,7 @@
   "genres-litteraires_conte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55415,7 +55416,7 @@
   "genres-litteraires_fable": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55423,7 +55424,7 @@
   "genres-litteraires_poesie": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55431,7 +55432,7 @@
   "genres-litteraires_sonnet": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55463,7 +55464,7 @@
   "genres-litteraires_tragedie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55471,7 +55472,7 @@
   "genres-litteraires_comedie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55479,7 +55480,7 @@
   "genres-litteraires_drame-romantique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55503,7 +55504,7 @@
   "genres-litteraires_essai": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55511,7 +55512,7 @@
   "genres-litteraires_autobiographie": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55519,7 +55520,7 @@
   "genres-litteraires_roman-epistolaire": {
    "cx": 0.5,
    "cy": 0.55,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55527,7 +55528,7 @@
   "genres-litteraires_roman-policier": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55535,7 +55536,7 @@
   "genres-litteraires_science-fiction": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55551,7 +55552,7 @@
   "genres-litteraires_roman-d-aventures": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55559,7 +55560,7 @@
   "genres-litteraires_roman-historique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55567,7 +55568,7 @@
   "genres-litteraires_utopie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55575,7 +55576,7 @@
   "genres-litteraires_dystopie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55583,7 +55584,7 @@
   "genres-litteraires_pamphlet": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55591,7 +55592,7 @@
   "genres-litteraires_chanson-de-geste": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55615,7 +55616,7 @@
   "corps-humain_erythrocyte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55623,7 +55624,7 @@
   "corps-humain_systeme-immunitaire": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55727,7 +55728,7 @@
   "corps-humain_oreille": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55743,7 +55744,7 @@
   "corps-humain_nez": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55783,7 +55784,7 @@
   "corps-humain_moelle-osseuse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55855,7 +55856,7 @@
   "corps-humain_hypophyse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55863,7 +55864,7 @@
   "corps-humain_moelle-spinale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55903,7 +55904,7 @@
   "corps-humain_hippocampe-cerveau": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55951,7 +55952,7 @@
   "maladies-et-epidemies_rougeole": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55967,7 +55968,7 @@
   "maladies-et-epidemies_syphilis": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -55999,7 +56000,7 @@
   "maladies-et-epidemies_peste-de-justinien": {
    "cx": 0.5,
    "cy": 0.62,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56007,7 +56008,7 @@
   "maladies-et-epidemies_maladie-a-virus-zika": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56031,7 +56032,7 @@
   "maladies-et-epidemies_typhus": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56047,7 +56048,7 @@
   "maladies-et-epidemies_maladie-a-coronavirus-2019": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56055,7 +56056,7 @@
   "maladies-et-epidemies_variole": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56087,7 +56088,7 @@
   "maladies-et-epidemies_fievre-jaune": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56095,7 +56096,7 @@
   "maladies-et-epidemies_scorbut": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56103,7 +56104,7 @@
   "maladies-et-epidemies_dengue": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56111,7 +56112,7 @@
   "maladies-et-epidemies_diabete-sucre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56159,7 +56160,7 @@
   "maladies-et-epidemies_hemophilie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56167,7 +56168,7 @@
   "maladies-et-epidemies_mucoviscidose": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56199,7 +56200,7 @@
   "theoremes-et-lois_theoreme-de-pythagore": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56207,7 +56208,7 @@
   "theoremes-et-lois_lois-de-kepler": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56231,7 +56232,7 @@
   "theoremes-et-lois_loi-de-coulomb-electrostatique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56239,7 +56240,7 @@
   "theoremes-et-lois_loi-de-hooke": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56255,7 +56256,7 @@
   "theoremes-et-lois_dernier-theoreme-de-fermat": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56279,7 +56280,7 @@
   "theoremes-et-lois_theoreme-des-quatre-couleurs": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56287,7 +56288,7 @@
   "theoremes-et-lois_conjecture-de-poincare": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56295,7 +56296,7 @@
   "theoremes-et-lois_effet-photoelectrique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56343,7 +56344,7 @@
   "theoremes-et-lois_conservation-de-la-masse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56351,7 +56352,7 @@
   "theoremes-et-lois_lois-de-snell-descartes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56367,7 +56368,7 @@
   "theoremes-et-lois_selection-naturelle": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56383,7 +56384,7 @@
   "theoremes-et-lois_big-bang": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56399,7 +56400,7 @@
   "theoremes-et-lois_theoreme-de-thales": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56407,7 +56408,7 @@
   "theoremes-et-lois_poussee-d-archimede": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56423,7 +56424,7 @@
   "theoremes-et-lois_principe-d-incertitude": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56431,7 +56432,7 @@
   "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56447,7 +56448,7 @@
   "theoremes-et-lois_loi-d-avogadro": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56471,7 +56472,7 @@
   "theoremes-et-lois_pi": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56479,7 +56480,7 @@
   "corps-humain_leucocyte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56495,7 +56496,7 @@
   "theoremes-et-lois_equations-de-maxwell": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56607,7 +56608,7 @@
   "religions-du-monde_protestantisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56615,7 +56616,7 @@
   "religions-du-monde_christianisme-orthodoxe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56663,7 +56664,7 @@
   "religions-du-monde_zen": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56671,7 +56672,7 @@
   "religions-du-monde_anglicanisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56679,7 +56680,7 @@
   "religions-du-monde_vaudou": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56687,7 +56688,7 @@
   "religions-du-monde_candomble": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56695,7 +56696,7 @@
   "religions-du-monde_mouvement-rastafari": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56727,7 +56728,7 @@
   "religions-du-monde_religion-grecque-antique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56751,7 +56752,7 @@
   "textes-sacres_nouveau-testament": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56799,7 +56800,7 @@
   "textes-sacres_rig-veda": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56815,7 +56816,7 @@
   "textes-sacres_bhagavad-gita": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56823,7 +56824,7 @@
   "textes-sacres_tripitaka": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56887,7 +56888,7 @@
   "textes-sacres_evangile": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -56895,7 +56896,7 @@
   "textes-sacres_apocalypse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57023,7 +57024,7 @@
   "fetes-religieuses_chandeleur": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57079,7 +57080,7 @@
   "fetes-religieuses_pessa-h": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57087,7 +57088,7 @@
   "fetes-religieuses_yom-kippour": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57215,7 +57216,7 @@
   "crises-economiques_grande-depression": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57223,7 +57224,7 @@
   "crises-economiques_krach-de-1929": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57255,7 +57256,7 @@
   "crises-economiques_crise-economique-asiatique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57271,7 +57272,7 @@
   "crises-economiques_crise-des-subprimes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57279,7 +57280,7 @@
   "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57287,7 +57288,7 @@
   "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57303,7 +57304,7 @@
   "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57335,7 +57336,7 @@
   "crises-economiques_panique-bancaire-americaine-de-1907": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57343,7 +57344,7 @@
   "crises-economiques_crise-economique-argentine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57359,7 +57360,7 @@
   "crises-economiques_hyperinflation-au-zimbabwe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57396,7 +57397,7 @@
   "monarques-anglais-et-britanniques_thelstan": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57404,7 +57405,7 @@
   "monarques-anglais-et-britanniques_edouard-le-confesseur": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57412,7 +57413,7 @@
   "monarques-anglais-et-britanniques_harold-godwinson": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57420,7 +57421,7 @@
   "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57428,7 +57429,7 @@
   "monarques-anglais-et-britanniques_jeanne-grey": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57436,7 +57437,7 @@
   "papes_gregoire-ix": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57444,7 +57445,7 @@
   "papes_urbain-vi": {
    "cx": 0.5,
    "cy": 0.39176470588235296,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57452,7 +57453,7 @@
   "papes_sixte-iv": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57460,7 +57461,7 @@
   "papes_pie-v": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57468,7 +57469,7 @@
   "papes_innocent-x": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57539,7 +57540,7 @@
   "organisations-internationales_organisation-pour-la-securite-et-la-cooperation-en-europe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57547,7 +57548,7 @@
   "organisations-internationales_wwf": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57683,7 +57684,7 @@
   "papes_celestin-v": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57691,7 +57692,7 @@
   "papes_pie-x": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57699,7 +57700,7 @@
   "papes_martin-v": {
    "cx": 0.5,
    "cy": 0.30322173089071386,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57715,7 +57716,7 @@
   "figures-resistance_henri-rol-tanguy": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57731,7 +57732,7 @@
   "figures-resistance_emmanuel-d-astier-de-la-vigerie": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57739,7 +57740,7 @@
   "figures-resistance_felix-eboue": {
    "cx": 0.5,
    "cy": 0.2652050919377652,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57747,7 +57748,7 @@
   "figures-resistance_jacques-chaban-delmas": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57755,7 +57756,7 @@
   "figures-resistance_dietrich-bonhoeffer": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57835,7 +57836,7 @@
   "corps-humain_testicule": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57915,7 +57916,7 @@
   "maladies-et-epidemies_depression-psychiatrie": {
    "cx": 0.5,
    "cy": 0.38,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57923,7 +57924,7 @@
   "maladies-et-epidemies_schizophrenie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57931,7 +57932,7 @@
   "maladies-et-epidemies_trouble-bipolaire": {
    "cx": 0.5,
    "cy": 0.6,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57939,7 +57940,7 @@
   "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57963,7 +57964,7 @@
   "maladies-et-epidemies_coqueluche": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57971,7 +57972,7 @@
   "maladies-et-epidemies_encephalopathie-spongiforme-bovine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58003,7 +58004,7 @@
   "theoremes-et-lois_loi-de-hubble-lemaitre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58019,7 +58020,7 @@
   "theoremes-et-lois_induction-electromagnetique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58027,7 +58028,7 @@
   "theoremes-et-lois_loi-des-gaz-parfaits": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58035,7 +58036,7 @@
   "theoremes-et-lois_theorie-du-chaos": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58043,7 +58044,7 @@
   "theoremes-et-lois_paradoxes-de-zenon": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58059,7 +58060,7 @@
   "religions-du-monde_pentecotisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58067,7 +58068,7 @@
   "religions-du-monde_religion-de-la-rome-antique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58091,7 +58092,7 @@
   "religions-du-monde_alevisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58187,7 +58188,7 @@
   "mouvements-litteraires_litterature-courtoise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58195,7 +58196,7 @@
   "mouvements-litteraires_libertin": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58219,7 +58220,7 @@
   "genres-litteraires_fantastique": {
    "cx": 0.5,
    "cy": 0.45,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58227,7 +58228,7 @@
   "genres-litteraires_roman-d-apprentissage": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58235,7 +58236,7 @@
   "genres-litteraires_roman-picaresque": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58243,7 +58244,7 @@
   "genres-litteraires_roman-gothique": {
    "cx": 0.5,
    "cy": 0.55,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58251,7 +58252,7 @@
   "genres-litteraires_fabliau": {
    "cx": 0.5,
    "cy": 0.55,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58259,7 +58260,7 @@
   "genres-litteraires_biographie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58267,7 +58268,7 @@
   "genres-litteraires_journal-intime": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58283,7 +58284,7 @@
   "styles-architecturaux_architecture-maya": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58299,7 +58300,7 @@
   "styles-architecturaux_art-ottoman": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58323,7 +58324,7 @@
   "genres-litteraires_satire": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58331,7 +58332,7 @@
   "crises-economiques_crise-economique-mexicaine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58339,7 +58340,7 @@
   "champignons_chanterelle": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

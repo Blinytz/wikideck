@@ -31316,23 +31316,26 @@
   "fleuves-mers-et-oceans_amazone-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105204794,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_yangtse": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105223651,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mississippi-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105251585,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_danube": {
    "cx": 0.5,
@@ -31345,107 +31348,122 @@
   "fleuves-mers-et-oceans_gange": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7906,
-   "editeLe": 1790105366761,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_indus": {
-   "cx": 0.5127,
-   "cy": 0.5837,
-   "w": 0.6862,
-   "editeLe": 1790105399150,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_rhin": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9607,
-   "editeLe": 1790105516047,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_volga": {
-   "cx": 0.4575,
-   "cy": 0.4274,
-   "w": 0.8103,
-   "editeLe": 1790105591823,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_congo-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105614732,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_niger-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8383,
-   "editeLe": 1790105628922,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mekong": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "editeLe": 1790105712658,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_tigre": {
-   "cx": 0.587,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8259,
-   "editeLe": 1790105766045,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_euphrate": {
-   "cx": 0.587,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8259,
-   "editeLe": 1790105794751,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_loire": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105816315,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_seine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790105880759,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_amour-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790106025724,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_zambeze": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8314,
-   "editeLe": 1790106167498,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_colorado-fleuve": {
-   "cx": 0.5082,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "editeLe": 1790106223328,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_rio-grande-fleuve": {
-   "cx": 0.5233,
-   "cy": 0.5096,
-   "w": 0.857,
-   "editeLe": 1790106245560,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-mediterranee": {
    "cx": 0.5,
@@ -46799,74 +46817,84 @@
    "original": true
   },
   "fleuves-mers-et-oceans_fleuve-saint-laurent": {
-   "cx": 0.5198,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9605,
-   "editeLe": 1790500503074,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_orenoque": {
-   "cx": 0.5455,
-   "cy": 0.4687,
-   "w": 0.9091,
-   "editeLe": 1790500565631,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_rio-parana": {
-   "cx": 0.5006,
-   "cy": 0.4836,
-   "w": 0.4561,
-   "editeLe": 1790500665907,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_missouri-riviere": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8613,
-   "editeLe": 1790507449781,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_tamise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790507473550,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_tibre": {
-   "cx": 0.3998,
-   "cy": 0.5544,
-   "w": 0.5292,
-   "editeLe": 1790507975668,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_po": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.95,
-   "editeLe": 1790507774024,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_elbe-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790508007558,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_dniepr": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6927,
-   "editeLe": 1790508027363,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_rhone": {
    "cx": 0.5,
-   "cy": 0.5978,
-   "w": 1,
-   "editeLe": 1790508098326,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_garonne": {
    "cx": 0.5,
@@ -46879,65 +46907,74 @@
   "fleuves-mers-et-oceans_tage": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "editeLe": 1790508328719,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ienissei": {
    "cx": 0.5,
-   "cy": 0.3896,
-   "w": 1,
-   "editeLe": 1790508445138,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ob": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.75,
-   "editeLe": 1790508553492,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_lena": {
-   "cx": 0.5126,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.749,
-   "editeLe": 1790508575059,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_jourdain": {
-   "cx": 0.5066,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9375,
-   "editeLe": 1790508604269,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_brahmapoutre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8467,
-   "editeLe": 1790508651673,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_fleuve-jaune": {
-   "cx": 0.5518,
-   "cy": 0.5847,
-   "w": 0.644,
-   "editeLe": 1790508690974,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_okavango": {
    "cx": 0.5,
-   "cy": 0.625,
-   "w": 1,
-   "editeLe": 1790508709194,
-   "original": true
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_senegal-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9187,
-   "editeLe": 1790508813122,
-   "original": true
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_mer-du-nord": {
    "cx": 0.4626,

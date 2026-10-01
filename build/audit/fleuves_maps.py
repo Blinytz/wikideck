@@ -26,16 +26,66 @@ FLEUVES = {
     'Danube': (['Danube', 'Donau'], 46.3, 18.6, 1850, 720),
     'Garonne': (['Garonne', 'Gironde'], 44.15, 0.15, 260, 300),
 }
+# les autres fleuves : noms Natural Earth seulement, le cadre est calcule sur
+# l'etendue du trace
+TRACES = {
+    'Amazone': ['Amazonas', 'Ucayali'], 'Yangtsé': ['Yangtze', 'Chang Jiang'], 'Mississippi': ['Mississippi'],
+    'Gange': ['Ganges'], 'Indus': ['Indus'], 'Rhin': ['Rhine', 'Rhein', 'Rhin'], 'Volga': ['Volga'],
+    'Congo': ['Congo', 'Lualaba'], 'Niger': ['Niger'], 'Mékong': ['Mekong'], 'Tigre (fleuve)': ['Tigris'],
+    'Euphrate': ['Euphrates'], 'Loire': ['Loire'], 'Seine': ['Seine'], 'Amour': ['Amur', 'Heilong Jiang', 'Argun’'],
+    'Zambèze': ['Zambezi'], 'Colorado': ['Colorado'], 'Río Grande': ['Rio Grande'], 'Saint-Laurent': 'Saint-Laurent',
+    'Orénoque': ['Orinoco'], 'Paraná': ['Paraná'], 'Missouri': ['Missouri'], 'Tamise': ['Thames'], 'Tibre': ['Tevere'],
+    'Pô': ['Po'], 'Elbe': ['Elbe'], 'Dniepr': ['Dnipro'], 'Rhône': ['Rhône'], 'Tage': ['Tajo', 'Tejo'],
+    'Ienisseï': ['Yenisey'], 'Ob': ['Ob'], 'Léna': ['Lena'], 'Jourdain': ['Jordan'],
+    'Brahmapoutre': ['Brahmaputra', 'Yarlung'], 'Fleuve Jaune': ['Huang'], 'Okavango': ['Okavango', 'Cubango'],
+    'Sénégal (fleuve)': ['Sénégal'],
+}
+
+
+def etendue(noms):
+    """Centre et taille (km, mesure Mercator au centre) du trace, avec marge."""
+    pts = [pt for l in traces(noms) for pt in l]
+    if not pts:
+        return None
+    los = [x for x, _ in pts]
+    ys = [math.log(math.tan(math.pi / 4 + math.radians(max(-85, min(85, y))) / 2)) for _, y in pts]
+    ymid = (min(ys) + max(ys)) / 2
+    clat = math.degrees(2 * math.atan(math.exp(ymid)) - math.pi / 2)
+    clng = (min(los) + max(los)) / 2
+    k = 6371 * math.cos(math.radians(clat))
+    w = max(math.radians(max(los) - min(los)) * k, 40)
+    h = max((max(ys) - min(ys)) * k, 40)
+    return clat, clng, w * 1.12, h * 1.12
+
+
 BLEU, CONTOUR = (24, 92, 214), (255, 255, 255)
 
 
+# traces absents de Natural Earth (le Saint-Laurent y est traite comme un
+# estuaire marin) : points releves a la main, du lac Ontario au golfe
+MANUELS = {
+    'Saint-Laurent': [[(-76.3, 44.2), (-75.7, 44.5), (-74.7, 45.0), (-73.55, 45.5), (-73.0, 45.95),
+                       (-72.5, 46.25), (-71.95, 46.6), (-71.2, 46.82), (-70.6, 47.1), (-69.7, 47.9),
+                       (-68.9, 48.5), (-67.5, 49.2), (-66.4, 49.6), (-64.5, 49.9)]],
+}
+# un meme nom pour deux fleuves : on garde la bonne region (lng min, lng max)
+FILTRES = {'Colorado': (-125, -100)}
+
+
 def traces(noms):
+    if isinstance(noms, str):
+        return MANUELS[noms]
     geo = json.loads((ICI / 'geo' / 'rivieres_10m.geojson').read_text(encoding='utf-8'))
     lignes = []
     for f in geo['features']:
-        if (f['properties'].get('name') or '') in noms:
+        n = f['properties'].get('name') or ''
+        if n in noms:
             g = f['geometry']
-            lignes += [g['coordinates']] if g['type'] == 'LineString' else g['coordinates']
+            ls = [g['coordinates']] if g['type'] == 'LineString' else g['coordinates']
+            if n in FILTRES:
+                a, b = FILTRES[n]
+                ls = [l for l in ls if all(a <= x <= b for x, _ in l)]
+            lignes += ls
     return lignes
 
 
@@ -54,7 +104,9 @@ def vers_pixels(lat, lng, clat, clng, z, cx, cy):
 def main():
     from playwright.sync_api import sync_playwright
     apercu = '--apercu' in sys.argv
-    noms = [a for a in sys.argv[1:] if not a.startswith('--')]
+    noms = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if "--tous" in sys.argv:
+        noms = list(TRACES)
     cartes = {c['nom']: c for c in json.loads(
         (RACINE / 'data' / 'fleuves-mers-et-oceans.json').read_text(encoding='utf-8'))['cartes']}
     (M.BROUILLON / 'fleuves').mkdir(parents=True, exist_ok=True)
@@ -65,7 +117,15 @@ def main():
         pg = ctx.new_page()
         for nom in noms:
             c = cartes[nom]
-            ne, clat, clng, wk, hk = FLEUVES[nom]
+            if nom in FLEUVES:
+                ne, clat, clng, wk, hk = FLEUVES[nom]
+            else:
+                ne = TRACES[nom]
+                e = etendue(ne)
+                if not e:
+                    print(f'  ✗ {nom} : trace introuvable dans Natural Earth')
+                    continue
+                clat, clng, wk, hk = e
             zf = M.zoom_pour(clat, wk, hk)
             z = math.floor(zf)
             resserre = 2 ** (zf - z)

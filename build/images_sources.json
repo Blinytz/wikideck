@@ -14178,55 +14178,55 @@
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_amazone-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_yangtse": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mississippi-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_danube": {
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_gange": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_indus": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_rhin": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_volga": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_niger-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mekong": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_tigre": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_euphrate": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_loire": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_seine": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_amour-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_colorado-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_rio-grande-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-mediterranee": {
 "source": "wiki-sans-filtre"
@@ -14379,7 +14379,7 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_congo-fleuve": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "villes-du-monde_new-york": {
 "source": "wiki-sans-filtre"
@@ -14463,7 +14463,7 @@
 "source": "wiki-sans-filtre"
 },
 "fleuves-mers-et-oceans_zambeze": {
-"source": "wiki-sans-filtre"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-rouge": {
 "source": "wiki-sans-filtre"
@@ -25980,102 +25980,64 @@
 "url": "https://kahalakai.com/wp-content/uploads/2020/10/Sunset-criise-on-Oahu.jpg"
 },
 "fleuves-mers-et-oceans_fleuve-saint-laurent": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Le_fleuve_Saint-Laurent.jpg/1280px-Le_fleuve_Saint-Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_orenoque": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Atardecer_Puente_Angostura.jpg/1280px-Atardecer_Puente_Angostura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_rio-parana": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://wallpapercat.com/w/full/7/a/a/1539020-2600x1734-desktop-hd-parana-river-background-photo.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_missouri-riviere": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Missouri_River_in_2021_01.jpg/1280px-Missouri_River_in_2021_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_tamise": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2021/12/25131607/shutterstock_1408766060-min-scaled.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_tibre": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/1280px-PonteSantAngeloRom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_po": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Torino_-_vista_ponte_Isabella_-_Castello_del_Valentino_e_Mole_Antonelliana.jpg/1280px-Torino_-_vista_ponte_Isabella_-_Castello_del_Valentino_e_Mole_Antonelliana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_elbe-fleuve": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn.pixabay.com/photo/2018/08/05/01/02/elbe-3584778_960_720.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_dniepr": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://img.freepik.com/photos-premium/vue-fleuve-dniepr-paysage-urbain-kiev-ukraine_491799-10333.jpg?w=2000"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_rhone": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://images7.alphacoders.com/132/1323343.jpeg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_garonne": {
 "source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_tage": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://thumbs.dreamstime.com/b/view-de-abril-bridge-famous-tourist-landmark-lisbon-connecting-lisboa-almada-setubal-peninsula-over-tagus-river-280638845.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_ienissei": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5_%D1%80%D0%B5%D0%BA_%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9.jpg/1280px-%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5_%D1%80%D0%B5%D0%BA_%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_ob": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/March_evening._The_sun_fell_across_the_Ob_river.jpg/1280px-March_evening._The_sun_fell_across_the_Ob_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_lena": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://alpinemag.fr/wp-content/uploads/2019/11/20190816_Yakoutie_Lena_Expedition_Alpinemag_3.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_jourdain": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/BnotYaakovBridge.JPG/1280px-BnotYaakovBridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_brahmapoutre": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://www.10wallpaper.com/wallpaper/1680x1050/1607/Magnificent_Brahmaputra-HD_Retina_Wallpaper_1680x1050.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_fleuve-jaune": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/HukouWaterfall4.jpg/1280px-HukouWaterfall4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_okavango": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://res.cloudinary.com/wild-bird-trust/image/upload/v1620981226/trust/Okavango_Delta_Aeriel_1791f489ce.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_senegal-fleuve": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://teranga-decouvertes.com/wp-content/uploads/2023/07/fleuve-senegal.jpg"
+"source": "google-maps+natural-earth"
 },
 "fleuves-mers-et-oceans_mer-du-nord": {
 "source": "grand-complement",

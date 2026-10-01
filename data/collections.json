@@ -710,7 +710,7 @@
   {
    "slug": "realisateurs",
    "nom": "Réalisateurs",
-   "nbCartes": 59,
+   "nbCartes": 60,
    "fichier": "data/realisateurs.json",
    "theme": "Écrans et jeux"
   },

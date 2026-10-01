@@ -1575,3 +1575,4 @@ PLANS['micro-etats'] = dict(nom='Micro-États', transferts=[], ajouts=[
     ('Luxembourg', 'Luxembourg (pays)'),
 ])
 AJOUTS.setdefault('micro-etats', []).append(('Grenade (pays)', 'Grenade (pays)'))
+AJOUTS.setdefault('realisateurs', []).append(('Alice Guy', 'Alice Guy'))

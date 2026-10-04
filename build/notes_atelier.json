@@ -53664,19 +53664,17 @@
   },
   "presidents-des-etats-unis_lyndon-b-johnson": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3653,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128476223,
+   "original": true
   },
   "presidents-des-etats-unis_gerald-ford": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4046,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128481645,
+   "original": true
   },
   "presidents-des-etats-unis_jimmy-carter": {
    "cx": 0.5,

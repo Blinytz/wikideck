@@ -53524,19 +53524,17 @@
   },
   "presidents-des-etats-unis_martin-van-buren": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4055,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128366767,
+   "original": true
   },
   "presidents-des-etats-unis_william-henry-harrison": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3701,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128374719,
+   "original": true
   },
   "presidents-des-etats-unis_john-tyler": {
    "cx": 0.5,

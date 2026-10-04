@@ -54585,18 +54585,16 @@
   "lacs_lac-du-bourget": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8858333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8858,
+   "editeLe": 1791131901172,
+   "original": true
   },
   "lacs_lac-d-annecy": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791131903038,
+   "original": true
   },
   "lacs_lac-de-come": {
    "cx": 0.5,

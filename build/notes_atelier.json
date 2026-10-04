@@ -53643,27 +53643,24 @@
   },
   "presidents-des-etats-unis_warren-g-harding": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3051,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128462303,
+   "original": true
   },
   "presidents-des-etats-unis_calvin-coolidge": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3894,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128467185,
+   "original": true
   },
   "presidents-des-etats-unis_herbert-hoover": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3817,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128471022,
+   "original": true
   },
   "presidents-des-etats-unis_lyndon-b-johnson": {
    "cx": 0.5,

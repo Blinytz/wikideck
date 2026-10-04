@@ -54718,17 +54718,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8925,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132071990,
+   "original": true
   },
   "regions-francaises_grand-est": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791132075204,
+   "original": true
   },
   "regions-francaises_hauts-de-france": {
    "cx": 0.5,

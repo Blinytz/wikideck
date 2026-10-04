@@ -57155,18 +57155,16 @@
   "lacs_lac-balaton": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8822916666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8823,
+   "editeLe": 1791131946084,
+   "original": true
   },
   "lacs_vanern": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131948353,
+   "original": true
   },
   "lacs_lac-winnipeg": {
    "cx": 0.5,

@@ -57265,10 +57265,9 @@
   "organisations-internationales_banque-centrale-europeenne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791131150676,
+   "original": true
   },
   "organisations-internationales_cour-europeenne-des-droits-de-l-homme": {
    "cx": 0.5,
@@ -57319,9 +57318,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131152930,
+   "original": true
   },
   "organisations-internationales_wwf": {
    "cx": 0.5,

@@ -54324,12 +54324,11 @@
    "auto": true
   },
   "organisations-internationales_organisation-des-etats-americains": {
-   "cx": 0.5,
+   "cx": 0.4607,
    "cy": 0.5,
-   "w": 0.8858333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8858,
+   "editeLe": 1791130982401,
+   "original": true
   },
   "organisations-internationales_organisation-des-nations-unies": {
    "cx": 0.5,

@@ -54211,12 +54211,11 @@
    "original": true
   },
   "organisations-internationales_brics": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4846,
+   "cy": 0.5455,
+   "w": 0.6818,
+   "editeLe": 1791131046109,
+   "original": true
   },
   "organisations-internationales_comite-international-de-la-croix-rouge": {
    "cx": 0.5,
@@ -54301,9 +54300,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131049407,
+   "original": true
   },
   "organisations-internationales_ligue-arabe": {
    "cx": 0.5,

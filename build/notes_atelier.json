@@ -57525,19 +57525,17 @@
   },
   "figures-resistance_henri-rol-tanguy": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3279,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130871759,
+   "original": true
   },
   "figures-resistance_colonel-remy": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7830687830687831,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7831,
+   "editeLe": 1791130874769,
+   "original": true
   },
   "figures-resistance_emmanuel-d-astier-de-la-vigerie": {
    "cx": 0.5,

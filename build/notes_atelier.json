@@ -54613,18 +54613,16 @@
   "lacs_lac-majeur": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8927083333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8927,
+   "editeLe": 1791131910081,
+   "original": true
   },
   "lacs_lac-de-constance": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791131914390,
+   "original": true
   },
   "lacs_lac-tana": {
    "cx": 0.5,

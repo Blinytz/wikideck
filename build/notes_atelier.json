@@ -54380,18 +54380,16 @@
   "deserts_grand-desert-de-victoria": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7786666666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7787,
+   "editeLe": 1791132003932,
+   "original": true
   },
   "deserts_desert-de-simpson": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132006296,
+   "original": true
   },
   "deserts_desert-du-karakoum": {
    "cx": 0.5,

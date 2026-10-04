@@ -53979,11 +53979,10 @@
   },
   "papes_leon-iii-pape": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.3659,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130691841,
+   "original": true
   },
   "papes_sylvestre-ii": {
    "cx": 0.5,

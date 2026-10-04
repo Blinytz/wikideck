@@ -54338,18 +54338,16 @@
   "deserts_desert-du-thar": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791131986365,
+   "original": true
   },
   "deserts_desert-du-taklamakan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9993238674780257,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9993,
+   "editeLe": 1791131988972,
+   "original": true
   },
   "deserts_desert-des-mojaves": {
    "cx": 0.5,

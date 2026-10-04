@@ -57055,10 +57055,9 @@
   "crises-economiques_bulle-internet": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131210612,
+   "original": true
   },
   "crises-economiques_crise-des-subprimes": {
    "cx": 0.5,

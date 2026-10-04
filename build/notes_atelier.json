@@ -54021,11 +54021,10 @@
   },
   "papes_benoit-xvi": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.5391,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130826819,
+   "original": true
   },
   "papes_boniface-viii": {
    "cx": 0.5,
@@ -54074,9 +54073,8 @@
    "cx": 0.5,
    "cy": 0.35,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130822741,
+   "original": true
   },
   "papes_jean-xxii": {
    "cx": 0.5,

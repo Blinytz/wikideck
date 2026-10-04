@@ -57138,19 +57138,17 @@
   },
   "crises-economiques_hyperinflation-au-zimbabwe": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4032,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131380515,
+   "original": true
   },
   "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8893229166666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131376195,
+   "original": true
   },
   "monarques-anglais-et-britanniques_alfred-le-grand": {
    "cx": 0.2426,

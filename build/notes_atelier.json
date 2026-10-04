@@ -54071,11 +54071,10 @@
   },
   "papes_innocent-iii": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.5506,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130712103,
+   "original": true
   },
   "papes_jean-paul-ier": {
    "cx": 0.5,

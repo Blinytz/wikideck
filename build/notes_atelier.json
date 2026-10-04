@@ -54662,26 +54662,23 @@
   "lacs_lac-louise-alberta": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8833333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8833,
+   "editeLe": 1791131925368,
+   "original": true
   },
   "lacs_lac-inle": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6341666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6342,
+   "editeLe": 1791131927309,
+   "original": true
   },
   "lacs_lac-toba": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8858333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8858,
+   "editeLe": 1791131929232,
+   "original": true
   },
   "lacs_lac-de-bled": {
    "cx": 0.5,

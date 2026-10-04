@@ -57034,18 +57034,16 @@
   "crises-economiques_deuxieme-choc-petrolier": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.896875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8969,
+   "editeLe": 1791131198829,
+   "original": true
   },
   "crises-economiques_krach-d-octobre-1987": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131202425,
+   "original": true
   },
   "crises-economiques_crise-economique-asiatique": {
    "cx": 0.5,

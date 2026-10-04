@@ -46788,17 +46788,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131768768,
+   "original": true
   },
   "fleuves-mers-et-oceans_dniepr": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131771120,
+   "original": true
   },
   "fleuves-mers-et-oceans_rhone": {
    "cx": 0.5,

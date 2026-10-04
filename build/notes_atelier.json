@@ -54683,18 +54683,16 @@
   "lacs_lac-de-bled": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8880208333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.888,
+   "editeLe": 1791131931122,
+   "original": true
   },
   "lacs_parc-national-des-lacs-de-plitvice": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131933656,
+   "original": true
   },
   "lacs_lac-rose": {
    "cx": 0.5,

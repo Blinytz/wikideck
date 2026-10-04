@@ -54478,10 +54478,9 @@
   "deserts_grand-erg-oriental": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791132042138,
+   "original": true
   },
   "deserts_desert-de-syrie": {
    "cx": 0.4,
@@ -57190,10 +57189,9 @@
   "deserts_desert-d-arabie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132044978,
+   "original": true
   },
   "deserts_grand-desert-de-sable": {
    "cx": 0.5,

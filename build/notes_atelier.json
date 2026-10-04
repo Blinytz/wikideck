@@ -53971,12 +53971,11 @@
    "original": false
   },
   "papes_leon-ier-pape": {
-   "cx": 0.5,
-   "cy": 0.3,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.527,
+   "cy": 0.32,
+   "w": 0.683,
+   "editeLe": 1791128880365,
+   "original": true
   },
   "papes_leon-iii-pape": {
    "cx": 0.5,

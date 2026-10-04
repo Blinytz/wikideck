@@ -57811,17 +57811,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132227658,
+   "original": true
   },
   "styles-architecturaux_architecture-chinoise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8447916666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8448,
+   "editeLe": 1791132231683,
+   "original": true
   },
   "styles-architecturaux_art-ottoman": {
    "cx": 0.5,

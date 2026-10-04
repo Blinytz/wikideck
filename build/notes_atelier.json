@@ -57920,10 +57920,9 @@
   "crises-economiques_enron": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131442954,
+   "original": true
   },
   "mouvements-litteraires_litterature-courtoise": {
    "cx": 0.5,
@@ -58072,10 +58071,9 @@
   "crises-economiques_crise-economique-mexicaine": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7725,
+   "editeLe": 1791131440180,
+   "original": true
   },
   "champignons_chanterelle": {
    "cx": 0.5,

@@ -54149,11 +54149,10 @@
   },
   "papes_pie-vi": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3835,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130789203,
+   "original": true
   },
   "papes_pie-vii": {
    "cx": 0.5,

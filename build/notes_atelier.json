@@ -57196,10 +57196,9 @@
   "regions-francaises_conseil-regional-de-la-guadeloupe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8833333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8833,
+   "editeLe": 1791132107958,
+   "original": true
   },
   "regions-francaises_collectivite-territoriale-de-martinique": {
    "cx": 0.5,

@@ -54704,18 +54704,16 @@
   "lacs_lac-natron": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791131942248,
+   "original": true
   },
   "lacs_lac-de-tiberiade": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9427083333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9427,
+   "editeLe": 1791131944053,
+   "original": true
   },
   "regions-francaises_auvergne-rhone-alpes": {
    "cx": 0.5,

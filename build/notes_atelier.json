@@ -57203,18 +57203,16 @@
   "regions-francaises_collectivite-territoriale-de-martinique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132121045,
+   "original": true
   },
   "regions-francaises_conseil-regional-de-la-reunion": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8575,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132123411,
+   "original": true
   },
   "regions-francaises_conseil-departemental-de-mayotte": {
    "cx": 0.5,

@@ -46904,20 +46904,18 @@
    "original": true
   },
   "fleuves-mers-et-oceans_mer-des-sargasses": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.492,
+   "cy": 0.4907,
+   "w": 0.9091,
+   "editeLe": 1791131838910,
+   "original": true
   },
   "fleuves-mers-et-oceans_golfe-du-mexique": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131841246,
+   "original": true
   },
   "fleuves-mers-et-oceans_golfe-persique": {
    "cx": 0.5,

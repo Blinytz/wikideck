@@ -54464,10 +54464,9 @@
   "deserts_desert-blanc": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791132039714,
+   "original": true
   },
   "deserts_steppe-patagonienne": {
    "cx": 0.5,

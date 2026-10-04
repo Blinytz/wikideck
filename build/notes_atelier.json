@@ -53758,7 +53758,7 @@
    "cy": 0.372,
    "w": 1,
    "editeLe": 1791128636344,
-   "original": false
+   "original": true
   },
   "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
    "cx": 0.5,
@@ -53944,27 +53944,24 @@
   },
   "monarques-anglais-et-britanniques_george-vi": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3552,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128864696,
+   "original": true
   },
   "monarques-anglais-et-britanniques_elisabeth-ii": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.3592,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128868718,
+   "original": true
   },
   "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3781,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128873297,
+   "original": true
   },
   "monarques-anglais-et-britanniques_edouard-iii": {
    "cx": 0.5,

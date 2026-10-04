@@ -54696,18 +54696,16 @@
   "regions-francaises_bourgogne-franche-comte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132063731,
+   "original": true
   },
   "regions-francaises_bretagne-region-administrative": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6666666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1791132065982,
+   "original": true
   },
   "regions-francaises_centre-val-de-loire": {
    "cx": 0.5,

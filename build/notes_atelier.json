@@ -47170,20 +47170,18 @@
    "original": true
   },
   "iles_ellis-island": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4954,
+   "cy": 0.5031,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131590990,
+   "original": true
   },
   "iles_ile-du-diable": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131592689,
+   "original": true
   },
   "iles_ile-de-la-tortue": {
    "cx": 0.4,

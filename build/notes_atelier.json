@@ -53503,27 +53503,24 @@
   },
   "presidents-des-etats-unis_james-monroe": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4429,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128353510,
+   "original": true
   },
   "presidents-des-etats-unis_john-quincy-adams": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.462,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128357216,
+   "original": true
   },
   "presidents-des-etats-unis_andrew-jackson": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3819,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128361817,
+   "original": true
   },
   "presidents-des-etats-unis_martin-van-buren": {
    "cx": 0.5,

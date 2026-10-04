@@ -53699,27 +53699,24 @@
   },
   "presidents-des-etats-unis_george-w-bush": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3885,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128504295,
+   "original": true
   },
   "presidents-des-etats-unis_donald-trump": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4622,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128508467,
+   "original": true
   },
   "presidents-des-etats-unis_joe-biden": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3946,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128512414,
+   "original": true
   },
   "monarques-anglais-et-britanniques_guillaume-le-roux": {
    "cx": 0.5,

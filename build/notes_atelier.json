@@ -53489,19 +53489,17 @@
   },
   "presidents-des-etats-unis_john-adams-homme-d-etat": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4409,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128343060,
+   "original": true
   },
   "presidents-des-etats-unis_james-madison": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4482,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128346566,
+   "original": true
   },
   "presidents-des-etats-unis_james-monroe": {
    "cx": 0.5,
@@ -58524,7 +58522,7 @@
   "realisateurs_alice-guy": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

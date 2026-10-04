@@ -53778,11 +53778,10 @@
   },
   "monarques-anglais-et-britanniques_richard-ii": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3774,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128687062,
+   "original": true
   },
   "monarques-anglais-et-britanniques_henri-iv-roi-d-angleterre": {
    "cx": 0.5,
@@ -53994,11 +53993,10 @@
   },
   "monarques-anglais-et-britanniques_edouard-iii": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4486,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128682123,
+   "original": false
   },
   "papes_leon-ier-pape": {
    "cx": 0.5,

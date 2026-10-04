@@ -54129,9 +54129,8 @@
    "cx": 0.5,
    "cy": 0.35,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130768715,
+   "original": true
   },
   "papes_paul-vi": {
    "cx": 0.5,
@@ -57293,11 +57292,10 @@
   },
   "papes_pie-v": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.3362,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130771866,
+   "original": true
   },
   "papes_innocent-x": {
    "cx": 0.5,

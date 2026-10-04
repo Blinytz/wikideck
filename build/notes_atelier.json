@@ -54450,10 +54450,9 @@
   "deserts_desert-de-tabernas": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8364583333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8365,
+   "editeLe": 1791132030414,
+   "original": true
   },
   "deserts_bardenas-reales": {
    "cx": 0.5,

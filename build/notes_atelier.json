@@ -53559,19 +53559,17 @@
   },
   "presidents-des-etats-unis_millard-fillmore": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4062,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128395252,
+   "original": true
   },
   "presidents-des-etats-unis_franklin-pierce": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4263,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128400238,
+   "original": true
   },
   "presidents-des-etats-unis_james-buchanan": {
    "cx": 0.5,

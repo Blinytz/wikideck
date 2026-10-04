@@ -54352,18 +54352,16 @@
   "deserts_desert-des-mojaves": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7619047619047619,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7619,
+   "editeLe": 1791131992569,
+   "original": true
   },
   "deserts_vallee-de-la-mort": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791131996453,
+   "original": true
   },
   "deserts_desert-de-sonora": {
    "cx": 0.5,

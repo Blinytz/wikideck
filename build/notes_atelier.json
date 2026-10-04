@@ -54059,11 +54059,10 @@
   },
   "papes_gregoire-xiii": {
    "cx": 0.5,
-   "cy": 0.30303030303030304,
+   "cy": 0.303,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130775365,
+   "original": true
   },
   "papes_innocent-iii": {
    "cx": 0.5,

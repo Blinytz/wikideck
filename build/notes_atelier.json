@@ -57027,10 +57027,9 @@
   "crises-economiques_premier-choc-petrolier": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131196739,
+   "original": true
   },
   "crises-economiques_deuxieme-choc-petrolier": {
    "cx": 0.5,

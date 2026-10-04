@@ -54394,18 +54394,16 @@
   "deserts_desert-du-karakoum": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132009121,
+   "original": true
   },
   "deserts_desert-du-kyzylkoum": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132012091,
+   "original": true
   },
   "deserts_dacht-e-lout": {
    "cx": 0.5,

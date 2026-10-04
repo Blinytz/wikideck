@@ -57197,17 +57197,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132047253,
+   "original": true
   },
   "deserts_grand-bassin-des-etats-unis": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8758333333333332,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8758,
+   "editeLe": 1791132049378,
+   "original": true
   },
   "regions-francaises_conseil-regional-de-la-guadeloupe": {
    "cx": 0.5,

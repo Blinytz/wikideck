@@ -54572,17 +54572,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131896783,
+   "original": true
   },
   "lacs_lac-balkhach": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791131899032,
+   "original": true
   },
   "lacs_lac-du-bourget": {
    "cx": 0.5,

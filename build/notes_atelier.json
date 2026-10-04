@@ -54318,17 +54318,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131977027,
+   "original": true
   },
   "deserts_rub-al-khali": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7458333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7458,
+   "editeLe": 1791131979503,
+   "original": true
   },
   "deserts_neguev": {
    "cx": 0.5,

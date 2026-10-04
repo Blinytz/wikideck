@@ -54261,17 +54261,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130933288,
+   "original": true
   },
   "organisations-internationales_cour-penale-internationale": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.915625,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9156,
+   "editeLe": 1791130936130,
+   "original": true
   },
   "organisations-internationales_fonds-des-nations-unies-pour-l-enfance": {
    "cx": 0.5,

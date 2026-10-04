@@ -54289,18 +54289,16 @@
   "deserts_sahara": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8333333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8333,
+   "editeLe": 1791131967359,
+   "original": true
   },
   "deserts_desert-de-gobi": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791131969717,
+   "original": true
   },
   "deserts_desert-d-atacama": {
    "cx": 0.5,

@@ -53874,19 +53874,17 @@
   },
   "monarques-anglais-et-britanniques_marie-ii-reine-d-angleterre": {
    "cx": 0.5,
-   "cy": 0.303,
+   "cy": 0.3458,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128812273,
+   "original": true
   },
   "monarques-anglais-et-britanniques_anne-reine-de-grande-bretagne": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.4005,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128817706,
+   "original": true
   },
   "monarques-anglais-et-britanniques_george-ier-roi-de-grande-bretagne": {
    "cx": 0.5,
@@ -57266,7 +57264,7 @@
    "cy": 0.2831,
    "w": 1,
    "editeLe": 1791128581154,
-   "original": false
+   "original": true
   },
   "monarques-anglais-et-britanniques_edouard-le-confesseur": {
    "cx": 0.5,

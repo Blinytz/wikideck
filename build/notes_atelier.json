@@ -54752,18 +54752,16 @@
   "regions-francaises_occitanie-region-administrative": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132090624,
+   "original": true
   },
   "regions-francaises_pays-de-la-loire": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791132094008,
+   "original": true
   },
   "regions-francaises_provence-alpes-cote-d-azur": {
    "cx": 0.5,

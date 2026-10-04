@@ -53738,9 +53738,8 @@
    "cx": 0.5,
    "cy": 0.35,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128586500,
+   "original": true
   },
   "monarques-anglais-et-britanniques_henri-ii-roi-d-angleterre": {
    "cx": 0.5,
@@ -57286,11 +57285,10 @@
   },
   "monarques-anglais-et-britanniques_thelstan": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.2831,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128581154,
+   "original": false
   },
   "monarques-anglais-et-britanniques_edouard-le-confesseur": {
    "cx": 0.5,

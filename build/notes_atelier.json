@@ -57217,10 +57217,9 @@
   "regions-francaises_conseil-departemental-de-mayotte": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6666666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1791132125549,
+   "original": true
   },
   "papes_celestin-v": {
    "cx": 0.5,

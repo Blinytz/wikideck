@@ -53757,11 +53757,10 @@
   },
   "monarques-anglais-et-britanniques_henri-iii-roi-d-angleterre": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.372,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128636344,
+   "original": false
   },
   "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
    "cx": 0.5,

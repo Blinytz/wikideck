@@ -54408,18 +54408,16 @@
   "deserts_dacht-e-lout": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791132014363,
+   "original": true
   },
   "deserts_dacht-e-kavir": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791132016541,
+   "original": true
   },
   "deserts_desert-libyque": {
    "cx": 0.5,

@@ -54641,26 +54641,23 @@
   "lacs_lac-kivu": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7333333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7333,
+   "editeLe": 1791131919946,
+   "original": true
   },
   "lacs_grand-lac-sale": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131921634,
+   "original": true
   },
   "lacs_lac-tahoe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.753125,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7531,
+   "editeLe": 1791131923383,
+   "original": true
   },
   "lacs_lac-louise-alberta": {
    "cx": 0.5,

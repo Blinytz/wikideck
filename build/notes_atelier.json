@@ -53573,27 +53573,24 @@
   },
   "presidents-des-etats-unis_james-buchanan": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.377,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128408954,
+   "original": true
   },
   "presidents-des-etats-unis_andrew-johnson": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3339,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128413789,
+   "original": true
   },
   "presidents-des-etats-unis_ulysses-s-grant": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3994,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128418871,
+   "original": true
   },
   "presidents-des-etats-unis_rutherford-b-hayes": {
    "cx": 0.5,

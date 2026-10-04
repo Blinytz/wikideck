@@ -54236,10 +54236,9 @@
   "organisations-internationales_commonwealth": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791131003180,
+   "original": true
   },
   "organisations-internationales_conseil-de-l-europe": {
    "cx": 0.5,
@@ -54401,7 +54400,7 @@
    "cy": 0.5,
    "w": 0.8889,
    "editeLe": 1791130972910,
-   "original": false
+   "original": true
   },
   "organisations-internationales_union-europeenne": {
    "cx": 0.5,

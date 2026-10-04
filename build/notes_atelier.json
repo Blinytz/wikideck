@@ -54436,18 +54436,16 @@
   "deserts_depression-de-l-afar": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791132023411,
+   "original": true
   },
   "deserts_wadi-rum": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8864583333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8865,
+   "editeLe": 1791132025735,
+   "original": true
   },
   "deserts_desert-de-tabernas": {
    "cx": 0.5,

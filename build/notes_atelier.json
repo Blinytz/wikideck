@@ -54600,17 +54600,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8925,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131906706,
+   "original": true
   },
   "lacs_lac-de-garde": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8333333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8333,
+   "editeLe": 1791131908273,
+   "original": true
   },
   "lacs_lac-majeur": {
    "cx": 0.5,

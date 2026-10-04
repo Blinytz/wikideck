@@ -53629,19 +53629,17 @@
   },
   "presidents-des-etats-unis_william-mckinley": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3661,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128450531,
+   "original": true
   },
   "presidents-des-etats-unis_william-howard-taft": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3818,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128456751,
+   "original": true
   },
   "presidents-des-etats-unis_warren-g-harding": {
    "cx": 0.5,

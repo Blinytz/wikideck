@@ -53594,19 +53594,17 @@
   },
   "presidents-des-etats-unis_rutherford-b-hayes": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3728,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128424909,
+   "original": true
   },
   "presidents-des-etats-unis_james-a-garfield": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3531,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128429168,
+   "original": true
   },
   "presidents-des-etats-unis_chester-a-arthur": {
    "cx": 0.5,

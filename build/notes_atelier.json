@@ -53834,19 +53834,17 @@
   },
   "monarques-anglais-et-britanniques_edouard-vi": {
    "cx": 0.5,
-   "cy": 0.301875,
+   "cy": 0.3976,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128733908,
+   "original": true
   },
   "monarques-anglais-et-britanniques_jacques-vi-et-ier": {
    "cx": 0.5,
-   "cy": 0.35,
+   "cy": 0.4403,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128742436,
+   "original": true
   },
   "monarques-anglais-et-britanniques_charles-ier-roi-d-angleterre": {
    "cx": 0.5,
@@ -57304,9 +57302,8 @@
    "cx": 0.5,
    "cy": 0.3,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128736924,
+   "original": true
   },
   "papes_gregoire-ix": {
    "cx": 0.5,

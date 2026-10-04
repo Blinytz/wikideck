@@ -57283,19 +57283,17 @@
   },
   "papes_urbain-vi": {
    "cx": 0.5,
-   "cy": 0.39176470588235296,
+   "cy": 0.3894,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130752772,
+   "original": true
   },
   "papes_sixte-iv": {
    "cx": 0.5,
    "cy": 0.3,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130755546,
+   "original": true
   },
   "papes_pie-v": {
    "cx": 0.5,

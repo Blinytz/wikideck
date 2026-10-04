@@ -54731,18 +54731,16 @@
   "regions-francaises_hauts-de-france": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.909375,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9094,
+   "editeLe": 1791132078644,
+   "original": true
   },
   "regions-francaises_ile-de-france": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.92,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132080825,
+   "original": true
   },
   "regions-francaises_nouvelle-aquitaine": {
    "cx": 0.5,

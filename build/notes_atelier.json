@@ -53678,27 +53678,24 @@
   },
   "presidents-des-etats-unis_jimmy-carter": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3456,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128488464,
+   "original": true
   },
   "presidents-des-etats-unis_george-h-w-bush": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.368,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128493544,
+   "original": true
   },
   "presidents-des-etats-unis_bill-clinton": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4331,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128499690,
+   "original": true
   },
   "presidents-des-etats-unis_george-w-bush": {
    "cx": 0.5,

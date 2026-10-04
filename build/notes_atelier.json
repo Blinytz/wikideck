@@ -53538,27 +53538,24 @@
   },
   "presidents-des-etats-unis_john-tyler": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4209,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128379465,
+   "original": true
   },
   "presidents-des-etats-unis_james-k-polk": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4075,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128384327,
+   "original": true
   },
   "presidents-des-etats-unis_zachary-taylor": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4072,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128389142,
+   "original": true
   },
   "presidents-des-etats-unis_millard-fillmore": {
    "cx": 0.5,

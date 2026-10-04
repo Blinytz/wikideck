@@ -57205,17 +57205,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7225,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131960837,
+   "original": true
   },
   "lacs_lac-volta": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.48666666666666664,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.4867,
+   "editeLe": 1791131962767,
+   "original": true
   },
   "deserts_desert-d-arabie": {
    "cx": 0.5,

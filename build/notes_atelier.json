@@ -54208,9 +54208,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130911704,
+   "original": true
   },
   "organisations-internationales_brics": {
    "cx": 0.5,
@@ -54286,9 +54285,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130909472,
+   "original": true
   },
   "organisations-internationales_greenpeace": {
    "cx": 0.5,
@@ -54380,10 +54378,9 @@
   "organisations-internationales_organisation-mondiale-de-la-sante": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9908333333333332,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9908,
+   "editeLe": 1791130906714,
+   "original": true
   },
   "organisations-internationales_organisation-mondiale-du-commerce": {
    "cx": 0.5,

@@ -54331,10 +54331,9 @@
   "deserts_neguev": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9523809523809523,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9524,
+   "editeLe": 1791131983881,
+   "original": true
   },
   "deserts_desert-du-thar": {
    "cx": 0.5,
@@ -54508,9 +54507,8 @@
    "cx": 0.4,
    "cy": 0.5,
    "w": 0.66,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131981724,
+   "original": true
   },
   "lacs_lac-superieur": {
    "cx": 0.5,

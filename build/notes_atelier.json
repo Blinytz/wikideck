@@ -53993,19 +53993,17 @@
   },
   "papes_gregoire-vii": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4338,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130702326,
+   "original": true
   },
   "papes_urbain-ii": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.414,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130706103,
+   "original": true
   },
   "papes_alexandre-vi": {
    "cx": 0.5,

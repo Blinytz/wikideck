@@ -54366,18 +54366,16 @@
   "deserts_desert-de-sonora": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791131999203,
+   "original": true
   },
   "deserts_desert-de-chihuahua": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.6475,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132001481,
+   "original": true
   },
   "deserts_grand-desert-de-victoria": {
    "cx": 0.5,

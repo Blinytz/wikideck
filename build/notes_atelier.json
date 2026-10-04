@@ -54689,10 +54689,9 @@
   "regions-francaises_auvergne-rhone-alpes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9991319444444445,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9991,
+   "editeLe": 1791132061362,
+   "original": true
   },
   "regions-francaises_bourgogne-franche-comte": {
    "cx": 0.5,

@@ -54422,18 +54422,16 @@
   "deserts_desert-libyque": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791132019091,
+   "original": true
   },
   "deserts_tenere": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.865,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791132021119,
+   "original": true
   },
   "deserts_depression-de-l-afar": {
    "cx": 0.5,

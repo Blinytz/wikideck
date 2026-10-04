@@ -54031,19 +54031,17 @@
   },
   "papes_boniface-viii": {
    "cx": 0.5,
-   "cy": 0.45,
+   "cy": 0.4415,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130719470,
+   "original": true
   },
   "papes_clement-v": {
    "cx": 0.5,
-   "cy": 0.3,
+   "cy": 0.4552,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791130722893,
+   "original": true
   },
   "papes_clement-vii": {
    "cx": 0.5,

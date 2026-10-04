@@ -54183,10 +54183,9 @@
   "organisations-internationales_agence-internationale-de-l-energie-atomique": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8235294117647058,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8235,
+   "editeLe": 1791131066110,
+   "original": true
   },
   "organisations-internationales_amnesty-international": {
    "cx": 0.5,
@@ -54412,9 +54411,8 @@
    "cx": 0.5,
    "cy": 0.4,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131069024,
+   "original": true
   },
   "deserts_sahara": {
    "cx": 0.5,

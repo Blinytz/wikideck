@@ -54457,10 +54457,9 @@
   "deserts_bardenas-reales": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791132033132,
+   "original": true
   },
   "deserts_desert-blanc": {
    "cx": 0.5,
@@ -54473,10 +54472,9 @@
   "deserts_steppe-patagonienne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791132035559,
+   "original": true
   },
   "deserts_grand-erg-oriental": {
    "cx": 0.5,

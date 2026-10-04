@@ -57019,11 +57019,10 @@
   },
   "crises-economiques_krach-de-1929": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5231,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791131191543,
+   "original": true
   },
   "crises-economiques_premier-choc-petrolier": {
    "cx": 0.5,

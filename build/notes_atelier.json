@@ -57081,12 +57081,11 @@
    "original": true
   },
   "crises-economiques_crise-de-la-dette-publique-grecque": {
-   "cx": 0.5,
+   "cx": 0.4447,
    "cy": 0.5,
-   "w": 0.8893229166666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1791131232104,
+   "original": true
   },
   "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
    "cx": 0.5,

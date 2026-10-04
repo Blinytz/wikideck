@@ -53608,27 +53608,24 @@
   },
   "presidents-des-etats-unis_chester-a-arthur": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3442,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128434470,
+   "original": true
   },
   "presidents-des-etats-unis_grover-cleveland": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3907,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128439905,
+   "original": true
   },
   "presidents-des-etats-unis_benjamin-harrison": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.3396,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791128444503,
+   "original": true
   },
   "presidents-des-etats-unis_william-mckinley": {
    "cx": 0.5,

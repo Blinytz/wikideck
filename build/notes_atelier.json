@@ -56534,18 +56534,16 @@
   "fetes-religieuses_mawlid": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9523809523809524,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9524,
+   "editeLe": 1791318436901,
+   "original": true
   },
   "fetes-religieuses_achoura": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791318433559,
+   "original": true
   },
   "fetes-religieuses_pessa-h": {
    "cx": 0.5,

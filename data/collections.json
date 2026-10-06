@@ -507,7 +507,7 @@
   {
    "slug": "oeuvres-litteraires",
    "nom": "Œuvres littéraires",
-   "nbCartes": 74,
+   "nbCartes": 75,
    "fichier": "data/oeuvres-litteraires.json",
    "theme": "Lettres et pensée"
   },
@@ -682,7 +682,7 @@
   {
    "slug": "evenements-mythiques",
    "nom": "Événements mythiques",
-   "nbCartes": 27,
+   "nbCartes": 26,
    "fichier": "data/evenements-mythiques.json",
    "theme": "Religions et mythologies"
   },

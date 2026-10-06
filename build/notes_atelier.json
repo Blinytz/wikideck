@@ -56566,18 +56566,16 @@
   "fetes-religieuses_roch-hachana": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8893229166666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1791318424058,
+   "original": true
   },
   "fetes-religieuses_hanoucca": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8893333333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8893,
+   "editeLe": 1791318420982,
+   "original": true
   },
   "fetes-religieuses_pourim": {
    "cx": 0.5,

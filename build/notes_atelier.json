@@ -13815,9 +13815,9 @@
   },
   "oiseaux_pygargue-a-tete-blanche": {
    "cx": 0.5,
-   "cy": 0.3695,
+   "cy": 0.3571,
    "w": 1,
-   "editeLe": 1786898999147,
+   "editeLe": 1791315735932,
    "original": true
   },
   "oiseaux_faucon-pelerin": {
@@ -31490,12 +31490,11 @@
    "original": true
   },
   "fleuves-mers-et-oceans_ocean-arctique": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4533,
+   "cy": 0.5143,
+   "w": 0.7513,
+   "editeLe": 1790106762014,
+   "original": true
   },
   "fleuves-mers-et-oceans_ocean-austral": {
    "cx": 0.5019,
@@ -58109,7 +58108,7 @@
   "lacs_lac-ontario": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8901922450309546,
+   "w": 0.8866666666666667,
    "original": true,
    "editeLe": 0,
    "auto": true

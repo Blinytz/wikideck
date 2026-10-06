@@ -3,6 +3,7 @@
  "roles": {
   "souverains-et-conquerants": "attaque",
   "dirigeants-contemporains": "attaque",
+  "presidents-de-la-republique-francaise": "defense",
   "presidents-des-etats-unis": "defense",
   "monarques-anglais-et-britanniques": "defense",
   "papes": "soutien",
@@ -132,6 +133,7 @@
  "declencheurs": {
   "souverains-et-conquerants": "si elle survit 2 tours",
   "dirigeants-contemporains": "si elle survit 2 tours",
+  "presidents-de-la-republique-francaise": "si une autre carte de sa collection est en jeu",
   "presidents-des-etats-unis": "si une autre carte de sa collection est en jeu",
   "monarques-anglais-et-britanniques": "quand elle est sur le point d'être détruite",
   "papes": "au premier tour uniquement",
@@ -754,7 +756,6 @@
   "Deuxième République de Pologne",
   "Dix-sept Provinces",
   "Dominique",
-  "Dynastie Zhou orientale",
   "Empire Gupta",
   "Empire Maurya",
   "Empire achéménide",

@@ -112,6 +112,7 @@ REQUETES = {
     'figures-resistance': ['{n} résistant portrait', '{e} portrait'],
     'styles-architecturaux': ['{n} bâtiment exemple', '{e} building'],
     'presidents-des-etats-unis': ['{n} portrait officiel', '{e} official portrait'],
+    'presidents-de-la-republique-francaise': ['{n} portrait officiel président', '{e} official portrait'],
     'monarques-anglais-et-britanniques': ['{n} portrait', '{e} portrait painting'],
     'papes': ['{n} portrait', '{e} pope portrait'],
     'organisations-internationales': ['{n} siège bâtiment', '{e} headquarters'],

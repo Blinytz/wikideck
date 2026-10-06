@@ -1,0 +1,87 @@
+{
+ "presidents-de-la-republique-francaise_adolphe-thiers": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_patrice-de-mac-mahon": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "presidents-de-la-republique-francaise_jules-grevy": {
+  "k": 4,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_sadi-carnot-homme-d-etat": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_jean-casimir-perier": {
+  "k": 3,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_felix-faure": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_emile-loubet": {
+  "k": 1,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_armand-fallieres": {
+  "k": 1,
+  "cy": 0.35
+ },
+ "presidents-de-la-republique-francaise_raymond-poincare": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_paul-deschanel": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_alexandre-millerand": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_gaston-doumergue": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_paul-doumer": {
+  "k": 0,
+  "cy": 0.25
+ },
+ "presidents-de-la-republique-francaise_albert-lebrun": {
+  "k": 0,
+  "cy": 0.25
+ },
+ "presidents-de-la-republique-francaise_vincent-auriol": {
+  "k": 1,
+  "cy": 0.25
+ },
+ "presidents-de-la-republique-francaise_rene-coty": {
+  "k": 5,
+  "cy": 0.22
+ },
+ "presidents-de-la-republique-francaise_georges-pompidou": {
+  "k": 0
+ },
+ "presidents-de-la-republique-francaise_valery-giscard-d-estaing": {
+  "k": 1,
+  "cx": 0.43
+ },
+ "presidents-de-la-republique-francaise_jacques-chirac": {
+  "k": 0,
+  "cy": 0.3
+ },
+ "presidents-de-la-republique-francaise_nicolas-sarkozy": {
+  "k": 4,
+  "cy": 0.4
+ },
+ "presidents-de-la-republique-francaise_francois-hollande": {
+  "k": 3
+ },
+ "presidents-de-la-republique-francaise_emmanuel-macron": {
+  "k": 3
+ }
+}

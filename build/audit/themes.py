@@ -10,7 +10,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 RACINE = Path(__file__).resolve().parent.parent.parent
 
 THEMES = {
-    'Histoire et politique': ['souverains-et-conquerants', 'dirigeants-contemporains', 'presidents-des-etats-unis',
+    'Histoire et politique': ['souverains-et-conquerants', 'dirigeants-contemporains', 'presidents-de-la-republique-francaise', 'presidents-des-etats-unis',
         'monarques-anglais-et-britanniques', 'papes', 'dynasties-regnantes', 'empires-et-civilisations',
         'grandes-batailles-historiques', 'grandes-guerres', 'traites-et-textes-fondateurs', 'figures-emancipation',
         'figures-resistance', 'organisations-internationales', 'crises-economiques', 'monnaies-historiques',

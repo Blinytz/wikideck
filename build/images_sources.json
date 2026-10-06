@@ -7233,9 +7233,6 @@
 "dirigeants-contemporains_sun-yat-sen": {
 "source": "wiki-fr"
 },
-"dirigeants-contemporains_napoleon-iii": {
-"source": "memo:chefs_etat"
-},
 "dirigeants-contemporains_guillaume-ii-roi-des-pays-bas": {
 "source": "wiki-fr"
 },
@@ -7313,9 +7310,6 @@
 },
 "dirigeants-contemporains_david-ben-gourion": {
 "source": "wiki-fr"
-},
-"dirigeants-contemporains_charles-de-gaulle": {
-"source": "memo:chefs_etat"
 },
 "dirigeants-contemporains_fidel-castro": {
 "source": "wiki-fr"
@@ -27091,11 +27085,6 @@
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Helmut_Kohl_%281996%29.jpg/1280px-Helmut_Kohl_%281996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
 },
-"dirigeants-contemporains_francois-mitterrand": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/loisirs/television/tv-ce-soir-on-decouvre-le-portrait-de-francois-mitterrand-par-william-karel-3018129/58573455-1-fre-FR/TV-ce-soir-on-decouvre-le-portrait-de-Francois-Mitterrand-par-William-Karel.jpg"
-},
 "dirigeants-contemporains_boris-eltsine": {
 "source": "grand-complement",
 "origine": "wiki",
@@ -33805,5 +33794,126 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://cdn-blog.superprof.com/blog_ressources_fr/wp-content/uploads/2023/12/ulysse-oeuvre-odyssee-1536x864.jpeg"
+},
+"presidents-de-la-republique-francaise_napoleon-iii": {
+"source": "memo:chefs_etat"
+},
+"presidents-de-la-republique-francaise_charles-de-gaulle": {
+"source": "memo:chefs_etat"
+},
+"presidents-de-la-republique-francaise_francois-mitterrand": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/loisirs/television/tv-ce-soir-on-decouvre-le-portrait-de-francois-mitterrand-par-william-karel-3018129/58573455-1-fre-FR/TV-ce-soir-on-decouvre-le-portrait-de-Francois-Mitterrand-par-William-Karel.jpg"
+},
+"presidents-de-la-republique-francaise_adolphe-thiers": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Adolphe_Thiers_Nadar_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_patrice-de-mac-mahon": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.elysee.fr/cdn-cgi/image/format=auto,quality=100,width=720,height=1080/images/default/0001/02/7ced04e106b5e0266cbfb0cc677969a0e986f0aa.jpeg"
+},
+"presidents-de-la-republique-francaise_jules-grevy": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.meisterdrucke.uk/kunstwerke/1260px/Nadar_(1820_1910)_-_Jules_Grevy_(1807-1891)_French_president_in_1879-1887_photo_by_Nadar_c_1872_-_(MeisterDrucke-1078612).jpg"
+},
+"presidents-de-la-republique-francaise_sadi-carnot-homme-d-etat": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Portrait_officiel_de_Sadi_Carnot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_jean-casimir-perier": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cassius.e-monsite.com/medias/images/jean-casimir-perier-1847-1907-du-27-juin-1894-au-16-janvier-1895.jpg"
+},
+"presidents-de-la-republique-francaise_felix-faure": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/President_F%C3%A9lix_Faure_%28cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_emile-loubet": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.elysee.fr/cdn-cgi/image/format=auto,quality=100,width=1520,height=2534/images/default/0001/02/144f99b1be0d47bf662aa8edee7a35882b7e381b.jpeg"
+},
+"presidents-de-la-republique-francaise_armand-fallieres": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Armand_Falli%C3%A8res_Paris_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_raymond-poincare": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_paul-deschanel": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Portrait_officiel_P._Deschanel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_alexandre-millerand": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Alexandre_Millerand_%28cropped%29.jpg/1280px-Alexandre_Millerand_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"presidents-de-la-republique-francaise_gaston-doumergue": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Gaston_Doumergue_1924_crop.jpg/1280px-Gaston_Doumergue_1924_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"presidents-de-la-republique-francaise_paul-doumer": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Paul-Doumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_albert-lebrun": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.elysee.fr/cdn-cgi/image/format=auto,quality=100,width=1520,height=2534/images/default/0001/02/388489e0edfd2aa861c1499910d7d4c37b6b6095.jpeg"
+},
+"presidents-de-la-republique-francaise_vincent-auriol": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Portrait_officiel_Vincent_Auriol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_rene-coty": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.elysee.fr/cdn-cgi/image/format=auto,quality=100,width=1520,height=2534/images/default/0001/02/798626f021bc411c6c380875061fe888deeb170a.jpeg"
+},
+"presidents-de-la-republique-francaise_georges-pompidou": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://media.sudouest.fr/18852310/1000x625/sudouest-photo-1-3536401-1600.jpg?v=1712030400"
+},
+"presidents-de-la-republique-francaise_valery-giscard-d-estaing": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.polkamagazine.com/app/uploads/2020/12/Giscard-1300x843.jpg"
+},
+"presidents-de-la-republique-francaise_jacques-chirac": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jacques_Chirac_%281997%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+"presidents-de-la-republique-francaise_nicolas-sarkozy": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://phototrend.fr/wp-content/uploads/2017/05/Nicolas-Sarkozy-portrait.jpg"
+},
+"presidents-de-la-republique-francaise_francois-hollande": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://img.20mn.fr/DJSG8ukOQq2sFv3VLVFfvA/830x532_photographie-officielle-president-republique-francaise-francois-hollande-prise-raymond-depardon.jpg"
+},
+"presidents-de-la-republique-francaise_emmanuel-macron": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://media.letelegramme.fr/api/v1/images/view/63dedb21792c425ce441f5b9/web_golden_xl/63dedb21792c425ce441f5b9.1"
 }
 }

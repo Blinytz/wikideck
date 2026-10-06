@@ -10,8 +10,15 @@
   {
    "slug": "dirigeants-contemporains",
    "nom": "Dirigeants de l'ère contemporaine",
-   "nbCartes": 70,
+   "nbCartes": 67,
    "fichier": "data/dirigeants-contemporains.json",
+   "theme": "Histoire et politique"
+  },
+  {
+   "slug": "presidents-de-la-republique-francaise",
+   "nom": "Présidents de la République française",
+   "nbCartes": 25,
+   "fichier": "data/presidents-de-la-republique-francaise.json",
    "theme": "Histoire et politique"
   },
   {

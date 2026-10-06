@@ -7723,13 +7723,6 @@
    "editeLe": 1786306097604,
    "original": true
   },
-  "dirigeants-contemporains_napoleon-iii": {
-   "cx": 0.5,
-   "cy": 0.3604,
-   "w": 1,
-   "editeLe": 1786306116327,
-   "original": true
-  },
   "dirigeants-contemporains_guillaume-ii-roi-des-pays-bas": {
    "cx": 0.5,
    "cy": 0.4689,
@@ -7903,13 +7896,6 @@
    "cy": 0.4207,
    "w": 1,
    "editeLe": 1786306508619,
-   "original": true
-  },
-  "dirigeants-contemporains_charles-de-gaulle": {
-   "cx": 0.5,
-   "cy": 0.4424,
-   "w": 1,
-   "editeLe": 1786306546699,
    "original": true
   },
   "dirigeants-contemporains_fidel-castro": {
@@ -48219,13 +48205,6 @@
    "editeLe": 1790413338681,
    "original": true
   },
-  "dirigeants-contemporains_francois-mitterrand": {
-   "cx": 0.5,
-   "cy": 0.4078,
-   "w": 1,
-   "editeLe": 1790413342814,
-   "original": true
-  },
   "dirigeants-contemporains_boris-eltsine": {
    "cx": 0.5,
    "cy": 0.4819,
@@ -57958,6 +57937,203 @@
    "w": 1,
    "editeLe": 1791318579968,
    "original": true
+  },
+  "presidents-de-la-republique-francaise_napoleon-iii": {
+   "cx": 0.5,
+   "cy": 0.3604,
+   "w": 1,
+   "editeLe": 1786306116327,
+   "original": true
+  },
+  "presidents-de-la-republique-francaise_charles-de-gaulle": {
+   "cx": 0.5,
+   "cy": 0.4424,
+   "w": 1,
+   "editeLe": 1786306546699,
+   "original": true
+  },
+  "presidents-de-la-republique-francaise_francois-mitterrand": {
+   "cx": 0.5,
+   "cy": 0.4078,
+   "w": 1,
+   "editeLe": 1790413342814,
+   "original": true
+  },
+  "presidents-de-la-republique-francaise_adolphe-thiers": {
+   "cx": 0.5,
+   "cy": 0.30625,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_patrice-de-mac-mahon": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_jules-grevy": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_sadi-carnot-homme-d-etat": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_jean-casimir-perier": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_felix-faure": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_emile-loubet": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_armand-fallieres": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_raymond-poincare": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_paul-deschanel": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_alexandre-millerand": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_gaston-doumergue": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_paul-doumer": {
+   "cx": 0.5,
+   "cy": 0.2548321464903357,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_albert-lebrun": {
+   "cx": 0.5,
+   "cy": 0.273046875,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_vincent-auriol": {
+   "cx": 0.5,
+   "cy": 0.2830188679245283,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_rene-coty": {
+   "cx": 0.5,
+   "cy": 0.27234375,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_georges-pompidou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_valery-giscard-d-estaing": {
+   "cx": 0.4323076923076923,
+   "cy": 0.5,
+   "w": 0.8646153846153846,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_jacques-chirac": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_nicolas-sarkozy": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_francois-hollande": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8546184738955823,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "presidents-de-la-republique-francaise_emmanuel-macron": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8333333333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   }
  },
  "notes": [

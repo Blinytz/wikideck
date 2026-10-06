@@ -1576,3 +1576,18 @@ PLANS['micro-etats'] = dict(nom='Micro-États', transferts=[], ajouts=[
 ])
 AJOUTS.setdefault('micro-etats', []).append(('Grenade (pays)', 'Grenade (pays)'))
 AJOUTS.setdefault('realisateurs', []).append(('Alice Guy', 'Alice Guy'))
+
+# 06/10/2026 : presidents de la Republique francaise, liste complete
+PRESIDENTS_FR = ['Napoléon III', 'Adolphe Thiers', 'Patrice de Mac Mahon', 'Jules Grévy',
+    "Sadi Carnot (homme d'État)", 'Jean Casimir-Perier', 'Félix Faure', 'Émile Loubet', 'Armand Fallières',
+    'Raymond Poincaré', 'Paul Deschanel', 'Alexandre Millerand', 'Gaston Doumergue', 'Paul Doumer',
+    'Albert Lebrun', 'Vincent Auriol', 'René Coty', 'Charles de Gaulle', 'Georges Pompidou',
+    "Valéry Giscard d'Estaing", 'François Mitterrand', 'Jacques Chirac', 'Nicolas Sarkozy',
+    'François Hollande', 'Emmanuel Macron']
+PLANS['presidents-de-la-republique-francaise'] = dict(
+    nom='Présidents de la République française',
+    transferts=[('dirigeants-contemporains', 'Napoléon III'), ('dirigeants-contemporains', 'Charles de Gaulle'),
+                ('dirigeants-contemporains', 'François Mitterrand')],
+    ajouts=[(t.split(' (')[0], t) for t in PRESIDENTS_FR
+            if t not in ('Napoléon III', 'Charles de Gaulle', 'François Mitterrand')])
+AJOUTS.setdefault('presidents-de-la-republique-francaise', []).append(('Sadi Carnot (président)', "Sadi Carnot (homme d'État)"))

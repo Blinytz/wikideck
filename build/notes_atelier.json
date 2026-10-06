@@ -55120,12 +55120,11 @@
    "original": true
   },
   "genres-litteraires_pamphlet": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5296,
+   "cy": 0.4741,
+   "w": 0.7513,
+   "editeLe": 1791317230595,
+   "original": true
   },
   "genres-litteraires_chanson-de-geste": {
    "cx": 0.5,

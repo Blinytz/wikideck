@@ -54771,11 +54771,10 @@
   },
   "mouvements-litteraires_humanisme": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4758,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316264431,
+   "original": true
   },
   "mouvements-litteraires_pleiade-xvie-siecle": {
    "cx": 0.5,
@@ -54802,9 +54801,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316267449,
+   "original": true
   },
   "mouvements-litteraires_lumieres-philosophie": {
    "cx": 0.5,

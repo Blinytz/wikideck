@@ -56347,20 +56347,18 @@
    "original": true
   },
   "textes-sacres_livre-de-mormon": {
-   "cx": 0.5,
+   "cx": 0.5001,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317878603,
+   "original": true
   },
   "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8386473429951691,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8386,
+   "editeLe": 1791317881780,
+   "original": true
   },
   "textes-sacres_popol-vuh": {
    "cx": 0.5,

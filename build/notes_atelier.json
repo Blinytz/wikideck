@@ -57415,12 +57415,11 @@
    "auto": true
   },
   "corps-humain_dent": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.4766,
+   "cy": 0.5027,
+   "w": 0.6818,
+   "editeLe": 1791315664760,
+   "original": true
   },
   "corps-humain_systeme-reproducteur": {
    "cx": 0.5,

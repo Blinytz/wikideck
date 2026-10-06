@@ -54807,18 +54807,16 @@
   "mouvements-litteraires_lumieres-philosophie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8729166666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8729,
+   "editeLe": 1791316270857,
+   "original": true
   },
   "mouvements-litteraires_romantisme": {
    "cx": 0.5,
    "cy": 0.45,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316273505,
+   "original": true
   },
   "mouvements-litteraires_realisme-litterature": {
    "cx": 0.5,

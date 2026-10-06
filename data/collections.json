@@ -556,7 +556,7 @@
   {
    "slug": "textes-sacres",
    "nom": "Textes sacrés",
-   "nbCartes": 30,
+   "nbCartes": 29,
    "fichier": "data/textes-sacres.json",
    "theme": "Religions et mythologies"
   },

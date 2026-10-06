@@ -56083,18 +56083,16 @@
   "religions-du-monde_confucianisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8391666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8392,
+   "editeLe": 1791317493663,
+   "original": true
   },
   "religions-du-monde_shintoisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8895833333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8896,
+   "editeLe": 1791317497323,
+   "original": true
   },
   "religions-du-monde_jainisme": {
    "cx": 0.5,

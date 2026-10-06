@@ -55051,19 +55051,17 @@
   },
   "genres-litteraires_essai": {
    "cx": 0.5,
-   "cy": 0.35,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1791317010406,
+   "original": true
   },
   "genres-litteraires_autobiographie": {
    "cx": 0.5,
    "cy": 0.35,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317015804,
+   "original": true
   },
   "genres-litteraires_roman-epistolaire": {
    "cx": 0.5,

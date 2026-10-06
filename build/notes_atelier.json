@@ -57944,9 +57944,9 @@
   },
   "presidents-de-la-republique-francaise_charles-de-gaulle": {
    "cx": 0.5,
-   "cy": 0.4424,
+   "cy": 0.4077,
    "w": 1,
-   "editeLe": 1786306546699,
+   "editeLe": 1791323606792,
    "original": true
   },
   "presidents-de-la-republique-francaise_francois-mitterrand": {
@@ -58063,11 +58063,10 @@
   },
   "presidents-de-la-republique-francaise_rene-coty": {
    "cx": 0.5,
-   "cy": 0.27234375,
+   "cy": 0.3337,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791323602593,
+   "original": true
   },
   "presidents-de-la-republique-francaise_georges-pompidou": {
    "cx": 0.5,

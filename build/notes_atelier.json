@@ -58084,11 +58084,10 @@
   },
   "presidents-de-la-republique-francaise_jacques-chirac": {
    "cx": 0.5,
-   "cy": 0.42,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1791323690423,
+   "original": true
   },
   "presidents-de-la-republique-francaise_nicolas-sarkozy": {
    "cx": 0.5,

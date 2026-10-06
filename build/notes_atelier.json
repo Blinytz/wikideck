@@ -57689,11 +57689,10 @@
   },
   "genres-litteraires_roman-gothique": {
    "cx": 0.5,
-   "cy": 0.55,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.5,
+   "w": 0.89,
+   "editeLe": 1791317286561,
+   "original": true
   },
   "genres-litteraires_fabliau": {
    "cx": 0.5,

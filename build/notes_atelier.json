@@ -54884,18 +54884,16 @@
   "mouvements-litteraires_nouveau-roman": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9291633253140872,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9292,
+   "editeLe": 1791316370567,
+   "original": true
   },
   "mouvements-litteraires_oulipo": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8633333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8633,
+   "editeLe": 1791316374802,
+   "original": true
   },
   "mouvements-litteraires_negritude": {
    "cx": 0.5,

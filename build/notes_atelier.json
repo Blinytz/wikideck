@@ -56252,25 +56252,22 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317784719,
+   "original": true
   },
   "textes-sacres_torah": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791317787743,
+   "original": true
   },
   "textes-sacres_talmud": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791317790193,
+   "original": true
   },
   "textes-sacres_coran": {
    "cx": 0.5,

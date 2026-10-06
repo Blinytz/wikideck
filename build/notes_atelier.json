@@ -56454,18 +56454,16 @@
   "fetes-religieuses_toussaint": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7864583333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7865,
+   "editeLe": 1791318472592,
+   "original": true
   },
   "fetes-religieuses_epiphanie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791318469182,
+   "original": true
   },
   "fetes-religieuses_careme": {
    "cx": 0.5,

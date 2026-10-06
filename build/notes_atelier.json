@@ -56384,18 +56384,16 @@
   "textes-sacres_livre-de-la-genese": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8267170762444864,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8267,
+   "editeLe": 1791317932597,
+   "original": true
   },
   "textes-sacres_psaume": {
-   "cx": 0.5,
+   "cx": 0.5004,
    "cy": 0.5,
-   "w": 0.8883333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8883,
+   "editeLe": 1791317937869,
+   "original": true
   },
   "textes-sacres_kojiki": {
    "cx": 0.5,

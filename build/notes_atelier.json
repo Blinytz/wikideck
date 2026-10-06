@@ -56361,19 +56361,18 @@
    "original": true
   },
   "textes-sacres_popol-vuh": {
-   "cx": 0.5126,
-   "cy": 0.5073,
+   "cx": 0.451,
+   "cy": 0.5195,
    "w": 0.878,
-   "editeLe": 1791317895443,
+   "editeLe": 1791317898873,
    "original": true
   },
   "textes-sacres_evangile": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317902012,
+   "original": true
   },
   "textes-sacres_apocalypse": {
    "cx": 0.5,

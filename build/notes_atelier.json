@@ -57527,18 +57527,16 @@
   "fetes-religieuses_laylat-al-qadr": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791318307125,
+   "original": true
   },
   "fetes-religieuses_ganesh-chaturthi": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9731437598736177,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9731,
+   "editeLe": 1791318302464,
+   "original": true
   },
   "fetes-religieuses_fete-de-la-saint-patrick": {
    "cx": 0.5,

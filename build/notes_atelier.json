@@ -56055,18 +56055,16 @@
   "religions-du-monde_bouddhisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9383333333333332,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9383,
+   "editeLe": 1791317463259,
+   "original": true
   },
   "religions-du-monde_judaisme": {
-   "cx": 0.5,
+   "cx": 0.4873,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791317468230,
+   "original": true
   },
   "religions-du-monde_sikhisme": {
    "cx": 0.5,

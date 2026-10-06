@@ -55433,12 +55433,11 @@
    "auto": true
   },
   "corps-humain_systeme-lymphatique": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.512,
+   "cy": 0.4619,
+   "w": 0.6818,
+   "editeLe": 1791315468833,
+   "original": true
   },
   "corps-humain_neurone": {
    "cx": 0.5,

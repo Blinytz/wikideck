@@ -55045,10 +55045,9 @@
   "genres-litteraires_farce-theatre": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9177083333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9177,
+   "editeLe": 1791316898459,
+   "original": true
   },
   "genres-litteraires_essai": {
    "cx": 0.5,

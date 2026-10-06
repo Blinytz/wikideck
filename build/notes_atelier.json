@@ -56151,12 +56151,11 @@
    "original": true
   },
   "religions-du-monde_theravada": {
-   "cx": 0.5,
+   "cx": 0.5285,
    "cy": 0.5,
-   "w": 0.943030303030303,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.943,
+   "editeLe": 1791317550682,
+   "original": true
   },
   "religions-du-monde_bouddhisme-mahayana": {
    "cx": 0.5,

@@ -57677,17 +57677,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317248872,
+   "original": true
   },
   "genres-litteraires_roman-picaresque": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4998,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317253126,
+   "original": true
   },
   "genres-litteraires_roman-gothique": {
    "cx": 0.5,

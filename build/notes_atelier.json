@@ -56131,19 +56131,17 @@
   },
   "religions-du-monde_christianisme-orthodoxe": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5082,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317526141,
+   "original": true
   },
   "religions-du-monde_sunnisme": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317529450,
+   "original": true
   },
   "religions-du-monde_chiisme": {
    "cx": 0.5,

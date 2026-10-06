@@ -56231,9 +56231,8 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317687281,
+   "original": true
   },
   "textes-sacres_bible": {
    "cx": 0.5,
@@ -57479,10 +57478,9 @@
   "religions-du-monde_evangelisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8489583333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.849,
+   "editeLe": 1791317690462,
+   "original": true
   },
   "religions-du-monde_pentecotisme": {
    "cx": 0.5,

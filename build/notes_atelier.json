@@ -56111,18 +56111,16 @@
   "religions-du-monde_foi-baha-ie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791317508231,
+   "original": true
   },
   "religions-du-monde_catholicisme": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317511014,
+   "original": true
   },
   "religions-du-monde_protestantisme": {
    "cx": 0.5,

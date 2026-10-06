@@ -58098,11 +58098,10 @@
   },
   "presidents-de-la-republique-francaise_francois-hollande": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8546184738955823,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cy": 0.4198,
+   "w": 1,
+   "editeLe": 1791323829833,
+   "original": true
   },
   "presidents-de-la-republique-francaise_emmanuel-macron": {
    "cx": 0.5,

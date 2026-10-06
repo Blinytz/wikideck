@@ -58104,6 +58104,13 @@
    "original": true,
    "editeLe": 0,
    "auto": true
+  },
+  "monnaies-historiques_lire-italienne": {
+   "cx": 0.6258,
+   "cy": 0.5,
+   "w": 0.7234,
+   "editeLe": 1791314736549,
+   "original": true
   }
  },
  "notes": [

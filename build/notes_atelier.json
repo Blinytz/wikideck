@@ -54850,17 +54850,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316296444,
+   "original": true
   },
   "mouvements-litteraires_surrealisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9713541666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9714,
+   "editeLe": 1791316299552,
+   "original": true
   },
   "mouvements-litteraires_dada": {
    "cx": 0.5,

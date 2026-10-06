@@ -54946,11 +54946,10 @@
   },
   "mouvements-litteraires_les-hussards-mouvement-litteraire": {
    "cx": 0.5,
-   "cy": 0.4,
+   "cy": 0.5399,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316655365,
+   "original": true
   },
   "genres-litteraires_roman-litterature": {
    "cx": 0.5,

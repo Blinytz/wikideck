@@ -57711,10 +57711,9 @@
   "genres-litteraires_journal-intime": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.888,
+   "editeLe": 1791317388079,
+   "original": true
   },
   "styles-architecturaux_architecture-en-egypte-antique": {
    "cx": 0.5,

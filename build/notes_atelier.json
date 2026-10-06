@@ -56202,18 +56202,16 @@
   "religions-du-monde_mouvement-rastafari": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7619,
+   "editeLe": 1791317672484,
+   "original": true
   },
   "religions-du-monde_temoins-de-jehovah": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6666666666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1791317678283,
+   "original": true
   },
   "religions-du-monde_manicheisme-religion": {
    "cx": 0.5,

@@ -56034,26 +56034,23 @@
   "religions-du-monde_christianisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.86875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8688,
+   "editeLe": 1791317456427,
+   "original": true
   },
   "religions-du-monde_islam": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.890625,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8906,
+   "editeLe": 1791317458711,
+   "original": true
   },
   "religions-du-monde_hindouisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791317461171,
+   "original": true
   },
   "religions-du-monde_bouddhisme": {
    "cx": 0.5,

@@ -56277,20 +56277,18 @@
    "original": true
   },
   "textes-sacres_hadith": {
-   "cx": 0.5,
+   "cx": 0.6039,
    "cy": 0.5,
-   "w": 0.7658333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7658,
+   "editeLe": 1791317800227,
+   "original": true
   },
   "textes-sacres_veda": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7889546351084812,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.789,
+   "editeLe": 1791317803099,
+   "original": true
   },
   "textes-sacres_rig-veda": {
    "cx": 0.5,

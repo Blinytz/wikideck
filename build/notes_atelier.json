@@ -57512,19 +57512,17 @@
   },
   "religions-du-monde_alevisme": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5072,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317766680,
+   "original": true
   },
   "religions-du-monde_amish": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.888888888888889,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791317769713,
+   "original": true
   },
   "textes-sacres_vulgate": {
    "cx": 0.5,

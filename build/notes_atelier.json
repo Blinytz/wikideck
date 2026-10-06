@@ -55065,11 +55065,10 @@
   },
   "genres-litteraires_roman-epistolaire": {
    "cx": 0.5,
-   "cy": 0.55,
+   "cy": 0.6141,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317021630,
+   "original": true
   },
   "genres-litteraires_roman-policier": {
    "cx": 0.5,

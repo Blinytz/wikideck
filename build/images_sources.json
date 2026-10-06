@@ -14279,7 +14279,8 @@
 "encart_zone": "Océan Indien"
 },
 "fleuves-mers-et-oceans_ocean-arctique": {
-"source": "wiki-sans-filtre"
+"source": "natural-earth-polaire",
+"encart_zone": "monde"
 },
 "fleuves-mers-et-oceans_ocean-austral": {
 "source": "google-maps",
@@ -31399,13 +31400,6 @@
 "encart": "planisphere",
 "encart_zone": "Amérique du Nord"
 },
-"lacs_lac-ontario": {
-"source": "grand-complement",
-"origine": "web",
-"url": "https://media.ponant.com/media/4655161.jpg",
-"encart": "planisphere",
-"encart_zone": "Amérique du Nord"
-},
 "lacs_lac-ladoga": {
 "source": "grand-complement",
 "origine": "web",
@@ -33739,7 +33733,7 @@
 },
 "micro-etats_liechtenstein": {
 "source": "google-maps",
-"url": "https://www.google.com/maps/place/Liechtenstein/@47.1595012,9.5536876,11z/data=!3m1!4b1!4m6!3m5!1s0x479b31441d472ffd:0x60eab536dd5ab189!8m2!3d47.1410392!4d9.520935!16zL20vMDRqNTM?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+"url": "https://www.google.com/maps/@47.14,9.555,11z?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D"
 },
 "micro-etats_iles-marshall": {
 "source": "google-maps",
@@ -33805,5 +33799,11 @@
 "source": "grand-complement",
 "origine": "wiki",
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alice_Guy.jpg/1280px-Alice_Guy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"lacs_lac-ontario": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://live.staticflickr.com/8552/29294739244_33fc71f851_b.jpg",
+"encart": "planisphere"
 }
 }

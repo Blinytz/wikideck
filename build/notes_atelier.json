@@ -31490,11 +31490,12 @@
    "original": true
   },
   "fleuves-mers-et-oceans_ocean-arctique": {
-   "cx": 0.4533,
-   "cy": 0.5143,
-   "w": 0.7513,
-   "editeLe": 1790106762014,
-   "original": true
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   },
   "fleuves-mers-et-oceans_ocean-austral": {
    "cx": 0.5019,
@@ -54531,14 +54532,6 @@
    "editeLe": 1791131885556,
    "original": true
   },
-  "lacs_lac-ontario": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8866666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
   "lacs_lac-ladoga": {
    "cx": 0.5,
    "cy": 0.5,
@@ -58112,6 +58105,14 @@
    "w": 1,
    "editeLe": 1791314745338,
    "original": true
+  },
+  "lacs_lac-ontario": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8901922450309546,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   }
  },
  "notes": [

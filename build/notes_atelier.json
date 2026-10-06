@@ -56582,18 +56582,16 @@
   "fetes-religieuses_pourim": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9366666666666668,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9367,
+   "editeLe": 1791318417608,
+   "original": true
   },
   "fetes-religieuses_souccot": {
-   "cx": 0.5,
+   "cx": 0.4258,
    "cy": 0.5,
-   "w": 0.88125,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7504,
+   "editeLe": 1791318414364,
+   "original": true
   },
   "fetes-religieuses_divali": {
    "cx": 0.5064,

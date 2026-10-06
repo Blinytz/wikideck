@@ -55072,11 +55072,10 @@
   },
   "genres-litteraires_roman-policier": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.375,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317025177,
+   "original": true
   },
   "genres-litteraires_science-fiction": {
    "cx": 0.5,

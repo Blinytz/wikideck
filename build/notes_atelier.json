@@ -57666,20 +57666,18 @@
    "original": true
   },
   "mouvements-litteraires_litterature-courtoise": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5108,
+   "cy": 0.4718,
+   "w": 0.683,
+   "editeLe": 1791316664656,
+   "original": true
   },
   "mouvements-litteraires_libertin": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316668634,
+   "original": true
   },
   "mouvements-litteraires_renaissance-de-harlem": {
    "cx": 0.5,

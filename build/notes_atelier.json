@@ -55878,12 +55878,11 @@
    "auto": true
   },
   "theoremes-et-lois_theoreme-des-quatre-couleurs": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5108,
+   "cy": 0.5114,
+   "w": 0.9091,
+   "editeLe": 1791315446416,
+   "original": true
   },
   "theoremes-et-lois_conjecture-de-poincare": {
    "cx": 0.5,

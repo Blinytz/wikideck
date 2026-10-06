@@ -56354,19 +56354,18 @@
    "original": true
   },
   "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
-   "cx": 0.5,
+   "cx": 0.5074,
    "cy": 0.5,
    "w": 0.8386,
-   "editeLe": 1791317881780,
+   "editeLe": 1791317891080,
    "original": true
   },
   "textes-sacres_popol-vuh": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.9658333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5126,
+   "cy": 0.5073,
+   "w": 0.878,
+   "editeLe": 1791317895443,
+   "original": true
   },
   "textes-sacres_evangile": {
    "cx": 0.5,

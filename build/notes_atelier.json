@@ -58106,10 +58106,9 @@
   "presidents-de-la-republique-francaise_emmanuel-macron": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8333333333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 1,
+   "editeLe": 1791323851120,
+   "original": true
   }
  },
  "notes": [

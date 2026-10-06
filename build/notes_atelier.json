@@ -55135,11 +55135,10 @@
   },
   "genres-litteraires_roman-de-chevalerie": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5032,
    "w": 0.8,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317242369,
+   "original": true
   },
   "corps-humain_foie": {
    "cx": 0.5,
@@ -57671,9 +57670,8 @@
    "cx": 0.5,
    "cy": 0.45,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317245238,
+   "original": true
   },
   "genres-litteraires_roman-d-apprentissage": {
    "cx": 0.5,

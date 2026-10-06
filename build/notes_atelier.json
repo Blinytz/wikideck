@@ -56470,18 +56470,16 @@
   "fetes-religieuses_careme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8864583333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8865,
+   "editeLe": 1791318466174,
+   "original": true
   },
   "fetes-religieuses_mardi-gras": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791318463460,
+   "original": true
   },
   "fetes-religieuses_assomption": {
    "cx": 0.5,

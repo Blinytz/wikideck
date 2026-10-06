@@ -55833,11 +55833,10 @@
   },
   "theoremes-et-lois_loi-de-coulomb-electrostatique": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5891,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791315348702,
+   "original": true
   },
   "theoremes-et-lois_loi-de-hooke": {
    "cx": 0.5,

@@ -5429,10 +5429,10 @@
   },
   "auteurs-classiques_victor-hugo": {
    "cx": 0.5,
-   "cy": 0.4753,
+   "cy": 0.4462,
    "w": 1,
-   "original": true,
-   "editeLe": 1785085100695
+   "editeLe": 1791316165462,
+   "original": true
   },
   "auteurs-classiques_alexandre-dumas": {
    "cx": 0.5,
@@ -6124,8 +6124,8 @@
    "cx": 0.5,
    "cy": 0.4422,
    "w": 1,
-   "original": true,
-   "editeLe": 1785089064828
+   "editeLe": 1791316180211,
+   "original": true
   },
   "auteurs-modernes_boris-vian": {
    "cx": 0.5,
@@ -58107,6 +58107,13 @@
    "auto": true
   },
   "oeuvres-litteraires_odyssee": {
+   "cx": 0.5187,
+   "cy": 0.5,
+   "w": 0.75,
+   "editeLe": 1790429146202,
+   "original": true
+  },
+  "evenements-mythiques_odyssee": {
    "cx": 0.5187,
    "cy": 0.5,
    "w": 0.75,

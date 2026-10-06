@@ -57695,12 +57695,11 @@
    "original": true
   },
   "genres-litteraires_fabliau": {
-   "cx": 0.5,
-   "cy": 0.55,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.5002,
+   "cy": 0.5496,
+   "w": 0.8264,
+   "editeLe": 1791317293434,
+   "original": true
   },
   "genres-litteraires_biographie": {
    "cx": 0.5,

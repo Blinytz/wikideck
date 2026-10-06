@@ -54987,12 +54987,11 @@
    "original": true
   },
   "genres-litteraires_sonnet": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "cx": 0.526,
+   "cy": 0.4969,
+   "w": 0.9091,
+   "editeLe": 1791316847724,
+   "original": true
   },
   "genres-litteraires_haiku": {
    "cx": 0.5,

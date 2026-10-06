@@ -54870,18 +54870,16 @@
   "mouvements-litteraires_existentialisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9104166666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9104,
+   "editeLe": 1791316363606,
+   "original": true
   },
   "mouvements-litteraires_theatre-de-l-absurde": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.984375,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9844,
+   "editeLe": 1791316367765,
+   "original": true
   },
   "mouvements-litteraires_nouveau-roman": {
    "cx": 0.5,

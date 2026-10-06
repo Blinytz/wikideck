@@ -56237,10 +56237,9 @@
   "textes-sacres_bible": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8333333333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8333,
+   "editeLe": 1791317775878,
+   "original": true
   },
   "textes-sacres_ancien-testament": {
    "cx": 0.5,

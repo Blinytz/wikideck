@@ -56510,18 +56510,16 @@
   "fetes-religieuses_ramadan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7791666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7792,
+   "editeLe": 1791318447897,
+   "original": true
   },
   "fetes-religieuses_aid-el-fitr": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8891666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8892,
+   "editeLe": 1791318444516,
+   "original": true
   },
   "fetes-religieuses_aid-al-adha": {
    "cx": 0.486,

@@ -56097,18 +56097,16 @@
   "religions-du-monde_jainisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7485714285714286,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7486,
+   "editeLe": 1791317501367,
+   "original": true
   },
   "religions-du-monde_zoroastrisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791317505300,
+   "original": true
   },
   "religions-du-monde_foi-baha-ie": {
    "cx": 0.5,

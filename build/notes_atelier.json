@@ -55100,11 +55100,10 @@
   },
   "genres-litteraires_roman-historique": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.6013,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317099723,
+   "original": true
   },
   "genres-litteraires_utopie": {
    "cx": 0.5,

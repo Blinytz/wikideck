@@ -57497,20 +57497,18 @@
    "original": true
   },
   "religions-du-monde_religion-nordique-ancienne": {
-   "cx": 0.5,
+   "cx": 0.4664,
    "cy": 0.5,
-   "w": 0.7616666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7617,
+   "editeLe": 1791317759102,
+   "original": true
   },
   "religions-du-monde_druzes": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8880208333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.888,
+   "editeLe": 1791317762636,
+   "original": true
   },
   "religions-du-monde_alevisme": {
    "cx": 0.5,

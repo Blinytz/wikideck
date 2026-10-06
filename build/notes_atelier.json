@@ -57905,10 +57905,9 @@
   "lacs_lac-ontario": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8866666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8867,
+   "editeLe": 1791321231228,
+   "original": true
   },
   "oeuvres-litteraires_odyssee": {
    "cx": 0.5187,
@@ -57962,7 +57961,7 @@
   "presidents-de-la-republique-francaise_adolphe-thiers": {
    "cx": 0.5,
    "cy": 0.30625,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57970,7 +57969,7 @@
   "presidents-de-la-republique-francaise_patrice-de-mac-mahon": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57978,7 +57977,7 @@
   "presidents-de-la-republique-francaise_jules-grevy": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57986,7 +57985,7 @@
   "presidents-de-la-republique-francaise_sadi-carnot-homme-d-etat": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -57994,7 +57993,7 @@
   "presidents-de-la-republique-francaise_jean-casimir-perier": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58002,7 +58001,7 @@
   "presidents-de-la-republique-francaise_felix-faure": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58010,7 +58009,7 @@
   "presidents-de-la-republique-francaise_emile-loubet": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58018,7 +58017,7 @@
   "presidents-de-la-republique-francaise_armand-fallieres": {
    "cx": 0.5,
    "cy": 0.35,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58026,7 +58025,7 @@
   "presidents-de-la-republique-francaise_raymond-poincare": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58034,7 +58033,7 @@
   "presidents-de-la-republique-francaise_paul-deschanel": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58042,7 +58041,7 @@
   "presidents-de-la-republique-francaise_alexandre-millerand": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58050,7 +58049,7 @@
   "presidents-de-la-republique-francaise_gaston-doumergue": {
    "cx": 0.5,
    "cy": 0.3,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58058,7 +58057,7 @@
   "presidents-de-la-republique-francaise_paul-doumer": {
    "cx": 0.5,
    "cy": 0.2548321464903357,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58066,7 +58065,7 @@
   "presidents-de-la-republique-francaise_albert-lebrun": {
    "cx": 0.5,
    "cy": 0.273046875,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58074,7 +58073,7 @@
   "presidents-de-la-republique-francaise_vincent-auriol": {
    "cx": 0.5,
    "cy": 0.2830188679245283,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58082,7 +58081,7 @@
   "presidents-de-la-republique-francaise_rene-coty": {
    "cx": 0.5,
    "cy": 0.27234375,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58106,7 +58105,7 @@
   "presidents-de-la-republique-francaise_jacques-chirac": {
    "cx": 0.5,
    "cy": 0.42,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58114,7 +58113,7 @@
   "presidents-de-la-republique-francaise_nicolas-sarkozy": {
    "cx": 0.5,
    "cy": 0.4,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

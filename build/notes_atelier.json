@@ -56144,12 +56144,11 @@
    "original": true
   },
   "religions-du-monde_chiisme": {
-   "cx": 0.5,
+   "cx": 0.3997,
    "cy": 0.5,
    "w": 0.7,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317545838,
+   "original": true
   },
   "religions-du-monde_theravada": {
    "cx": 0.5,

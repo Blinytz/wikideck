@@ -56412,18 +56412,16 @@
   "textes-sacres_bardo-thodol": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8823529411764706,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8824,
+   "editeLe": 1791317957887,
+   "original": true
   },
   "textes-sacres_manuscrits-de-la-mer-morte": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317960949,
+   "original": true
   },
   "fetes-religieuses_noel": {
    "cx": 0.5,

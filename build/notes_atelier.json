@@ -56524,12 +56524,11 @@
    "auto": true
   },
   "fetes-religieuses_aid-al-adha": {
-   "cx": 0.5,
+   "cx": 0.486,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791318440458,
+   "original": true
   },
   "fetes-religieuses_mawlid": {
    "cx": 0.5,

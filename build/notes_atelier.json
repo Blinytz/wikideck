@@ -54787,19 +54787,17 @@
   },
   "mouvements-litteraires_litterature-baroque": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.5849,
    "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791316253151,
+   "original": true
   },
   "mouvements-litteraires_preciosite": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.9497435897435899,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.9497,
+   "editeLe": 1791316257360,
+   "original": true
   },
   "mouvements-litteraires_classicisme": {
    "cx": 0.5,

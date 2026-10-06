@@ -56242,12 +56242,11 @@
    "original": true
   },
   "textes-sacres_ancien-testament": {
-   "cx": 0.5,
+   "cx": 0.4517,
    "cy": 0.5,
-   "w": 0.8216666666666668,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8217,
+   "editeLe": 1791317781492,
+   "original": true
   },
   "textes-sacres_nouveau-testament": {
    "cx": 0.5,

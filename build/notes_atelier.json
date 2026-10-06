@@ -56596,12 +56596,11 @@
    "auto": true
   },
   "fetes-religieuses_divali": {
-   "cx": 0.5,
+   "cx": 0.5064,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791318390575,
+   "original": true
   },
   "fetes-religieuses_holi": {
    "cx": 0.5,

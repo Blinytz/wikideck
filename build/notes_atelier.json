@@ -55080,18 +55080,16 @@
   "genres-litteraires_science-fiction": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8549,
+   "editeLe": 1791317050182,
+   "original": true
   },
   "genres-litteraires_fantasy": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8333333333333333,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8333,
+   "editeLe": 1791317053958,
+   "original": true
   },
   "genres-litteraires_roman-d-aventures": {
    "cx": 0.5,

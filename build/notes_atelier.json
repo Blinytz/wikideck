@@ -57682,18 +57682,16 @@
   "mouvements-litteraires_renaissance-de-harlem": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6666666666666667,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1791316671572,
+   "original": true
   },
   "mouvements-litteraires_litterature-postmoderne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7573333333333334,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7573,
+   "editeLe": 1791316674432,
+   "original": true
   },
   "genres-litteraires_fantastique": {
    "cx": 0.5,

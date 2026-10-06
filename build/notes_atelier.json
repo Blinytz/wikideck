@@ -56426,18 +56426,16 @@
   "fetes-religieuses_noel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7441666666666668,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.7442,
+   "editeLe": 1791318277724,
+   "original": true
   },
   "fetes-religieuses_paques": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.89,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791318280404,
+   "original": true
   },
   "fetes-religieuses_pentecote": {
    "cx": 0.5,

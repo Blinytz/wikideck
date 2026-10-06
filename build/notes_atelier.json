@@ -56161,17 +56161,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317553489,
+   "original": true
   },
   "religions-du-monde_bouddhisme-tibetain": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8888888888888888,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8889,
+   "editeLe": 1791317556414,
+   "original": true
   },
   "religions-du-monde_zen": {
    "cx": 0.5,

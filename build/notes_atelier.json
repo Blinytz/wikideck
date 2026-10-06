@@ -56069,18 +56069,16 @@
   "religions-du-monde_sikhisme": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.8885416666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8885,
+   "editeLe": 1791317487239,
+   "original": true
   },
   "religions-du-monde_taoisme": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7875,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "editeLe": 1791317490617,
+   "original": true
   },
   "religions-du-monde_confucianisme": {
    "cx": 0.5,

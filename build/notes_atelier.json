@@ -54833,20 +54833,18 @@
    "original": true
   },
   "mouvements-litteraires_parnasse-poesie": {
-   "cx": 0.5,
+   "cx": 0.5025,
    "cy": 0.5,
-   "w": 0.878125,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.8781,
+   "editeLe": 1791316289267,
+   "original": true
   },
   "mouvements-litteraires_symbolisme-art": {
    "cx": 0.42,
    "cy": 0.5,
-   "w": 0.6666666666666666,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
+   "w": 0.6667,
+   "editeLe": 1791316293569,
+   "original": true
   },
   "mouvements-litteraires_decadentisme": {
    "cx": 0.5,

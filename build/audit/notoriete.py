@@ -32,7 +32,7 @@ def vues(titre):
             if r.status_code == 404:
                 return []
             if r.status_code == 429:
-                time.sleep(3 * (essai + 1)); continue
+                time.sleep(float(r.headers.get('Retry-After', 5 * (essai + 1)))); continue
             return [it['views'] for it in r.json().get('items', [])]
         except requests.RequestException:
             time.sleep(2)
@@ -40,22 +40,33 @@ def vues(titre):
 
 
 def langues(titres):
+    """{titre: nombre de langues}. Paquets de 20 (une URL trop longue est
+    refusee) ; un paquet en echec est redemande titre par titre."""
     out = {}
-    for i in range(0, len(titres), 50):
-        lot = titres[i:i + 50]
+
+    def paquet(lot):
         for essai in range(4):
             try:
-                j = requests.get('https://www.wikidata.org/w/api.php', headers=H, timeout=60, params={
+                r = requests.post('https://www.wikidata.org/w/api.php', headers=H, timeout=60, data={
                     'action': 'wbgetentities', 'sites': 'frwiki', 'titles': '|'.join(lot),
-                    'props': 'sitelinks', 'format': 'json'}).json()
-                break
+                    'props': 'sitelinks', 'format': 'json'})
+                if r.status_code == 429:
+                    time.sleep(float(r.headers.get('Retry-After', 5))); continue
+                return r.json()
             except Exception:
                 time.sleep(3)
-        for e in (j.get('entities') or {}).values():
-            sl = e.get('sitelinks') or {}
-            t = (sl.get('frwiki') or {}).get('title')
-            if t:
-                out[t] = sum(1 for k in sl if k.endswith('wiki') and k not in ('commonswiki', 'specieswiki', 'metawiki'))
+        return None
+    for i in range(0, len(titres), 20):
+        lot = titres[i:i + 20]
+        js = [paquet(lot)]
+        if js[0] is None:
+            js = [paquet([t]) for t in lot]
+        for j in js:
+            for e in ((j or {}).get('entities') or {}).values():
+                sl = e.get('sitelinks') or {}
+                t = (sl.get('frwiki') or {}).get('title')
+                if t:
+                    out[t] = sum(1 for k in sl if k.endswith('wiki') and k not in ('commonswiki', 'specieswiki', 'metawiki'))
     return out
 
 
@@ -65,7 +76,8 @@ def main():
     cartes = [c for e in idx['collections'] for c in json.loads((RACINE / e['fichier']).read_text(encoding='utf-8'))['cartes']]
     a_faire = [c for c in cartes if c['id'] not in res]
     print(len(cartes), 'cartes,', len(a_faire), 'a mesurer')
-    lg = langues(sorted({c['titrePage'] for c in a_faire}))
+    # les langues sont lues a part, au rythme de Wikidata (langues_cartes.py)
+    lg = json.loads((ICI / 'langues.json').read_text(encoding='utf-8'))
 
     def un(c):
         v = vues(c['titrePage'])
@@ -74,11 +86,11 @@ def main():
         med = statistics.median(v) if v else 0
         return c['id'], {'med': med, 'total': sum(v), 'pic': round(max(v) / med, 1) if v and med else 0,
                          'mois': len(v), 'langues': lg.get(c['titrePage'], 0)}
-    with ThreadPoolExecutor(8) as ex:
+    with ThreadPoolExecutor(1) as ex:
         for k, (cid, m) in enumerate(ex.map(un, a_faire), 1):
             if m:
                 res[cid] = m
-            if k % 500 == 0:
+            if k % 100 == 0:
                 SORTIE.write_text(json.dumps(res, ensure_ascii=False), encoding='utf-8')
                 print(k, 'faites')
     SORTIE.write_text(json.dumps(res, ensure_ascii=False), encoding='utf-8')

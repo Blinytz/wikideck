@@ -19,6 +19,7 @@
   --c-epique: #b05cff;
   --c-mythique: #ff5cd0;
   --c-legendaire: #ffd166;
+  --c-pantheon: #ffffff;
 }
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
@@ -230,6 +231,7 @@ body {
 .rarete-epique     { --couleur-rarete: var(--c-epique); }
 .rarete-mythique   { --couleur-rarete: var(--c-mythique); }
 .rarete-legendaire { --couleur-rarete: var(--c-legendaire); }
+.rarete-pantheon   { --couleur-rarete: var(--c-pantheon); }
 
 /* ---------- carte à collectionner (recto/verso) ---------- */
 .overlay-carte {
@@ -612,3 +614,26 @@ body {
 }
 .btn-vendre small { display: block; font-weight: 600; color: var(--texte-doux); margin-top: 2px; }
 .note-vente { color: var(--texte-doux); font-size: 11px; margin: 8px 0 0; }
+/* Pantheon : au-dessus du legendaire, cadre arc-en-ciel plus vif et plus rapide, lueur blanche */
+.rarete-pantheon .carte-face {
+  border: 4px solid transparent;
+  background:
+    linear-gradient(165deg, #2a2a40, #17171f 70%) padding-box,
+    conic-gradient(from var(--angle-holo, 0deg),
+      #ffffff, #ff5c8a, #ffd166, #6dff9e, #46c8ff, #b05cff, #ffffff) border-box;
+  animation: rotation-holo 2.6s linear infinite;
+  box-shadow: 0 12px 34px #000a, 0 0 38px #ffffff70, 0 0 70px #b05cff40;
+}
+.rarete-pantheon .brillance {
+  background:
+    linear-gradient(115deg,
+      #ffffff26 0%, #ff5c8a22 16%, #ffd16628 32%, #6dff9e22 48%,
+      #46c8ff26 64%, #b05cff22 80%, #ffffff26 100%),
+    radial-gradient(140% 60% at 50% -10%, #ffffff3a, transparent 55%);
+  background-size: 300% 100%, 100% 100%;
+  mix-blend-mode: screen;
+  animation: balayage 2.2s linear infinite;
+}
+.rarete-pantheon .badge-rarete {
+  background: linear-gradient(90deg, #ffffff, #ffd166, #ff5c8a, #46c8ff, #ffffff);
+}

@@ -6,7 +6,7 @@
 <title>Carte 3D · essai</title>
 <style>
   :root { --fond: #0d0d16; --texte: #ecebf5; --doux: #8f8ca6;
-          --commune: #8a93a6; --rare: #4aa8ff; --epique: #b05cff; --mythique: #ff5cd0; --legendaire: #ffd166; }
+          --commune: #8a93a6; --rare: #4aa8ff; --epique: #b05cff; --mythique: #ff5cd0; --legendaire: #ffd166; --pantheon: #ffffff; }
   * { box-sizing: border-box; }
   html, body { margin: 0; height: 100%; background: var(--fond); color: var(--texte);
     font: 14px/1.3 system-ui, "Segoe UI", sans-serif; overflow: hidden; touch-action: none; }
@@ -35,6 +35,8 @@
   .rarete button[data-r="epique"] span { background: var(--epique); }
   .rarete button[data-r="mythique"] span { background: var(--mythique); }
   .rarete button[data-r="legendaire"] span { background: var(--legendaire); }
+  .rarete button[data-r="pantheon"] { border-color: #fff; }
+  .rarete button[data-r="pantheon"] span { background: conic-gradient(#fff, #ff5c8a, #ffd166, #6dff9e, #46c8ff, #b05cff, #fff); }
   .rarete button.actif { outline: 2px solid #fff; outline-offset: 2px; }
   #etat { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); color: var(--doux); }
 </style>
@@ -51,6 +53,7 @@
     <button data-r="epique" title="Épique"><span></span></button>
     <button data-r="mythique" title="Mythique"><span></span></button>
     <button data-r="legendaire" title="Légendaire"><span></span></button>
+    <button data-r="pantheon" title="Panthéon"><span></span></button>
   </div>
   <button id="b-gyro" title="Gyroscope">📱</button>
 </div>
@@ -78,8 +81,9 @@ const R = {
   epique:     { c: '#b05cff', foil: 0.25, suspense: 0.8,  secousse: 0.03, flash: 0.5, part: 140, rayons: 0.3, tours: 0 },
   mythique:   { c: '#ff5cd0', foil: 0.35, suspense: 1.2,  secousse: 0.04, flash: 0.7, part: 220, rayons: 0.7, tours: 0 },
   legendaire: { c: '#ffd166', foil: 0.45, suspense: 1.7,  secousse: 0.06, flash: 1.0, part: 420, rayons: 1.0, tours: 1 },
+  pantheon:   { c: '#ffffff', foil: 0.6,  suspense: 2.4,  secousse: 0.07, flash: 1.0, part: 500, rayons: 1.4, tours: 2 },
 };
-const NOMS = { commune: 'Commune', rare: 'Rare', epique: 'Épique', mythique: 'Mythique', legendaire: 'Légendaire' };
+const NOMS = { commune: 'Commune', rare: 'Rare', epique: 'Épique', mythique: 'Mythique', legendaire: 'Légendaire', pantheon: 'Panthéon' };
 
 /* ---------- scene ---------- */
 const canvas = document.getElementById('scene');

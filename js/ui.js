@@ -52,7 +52,7 @@ export function htmlImageCarte(carte, classe = '') {
 
 export const NOMS_RARETE = {
   commune: 'Commune', rare: 'Rare', epique: 'Épique',
-  mythique: 'Mythique', legendaire: 'Légendaire',
+  mythique: 'Mythique', legendaire: 'Légendaire', pantheon: 'Panthéon',
 };
 
 export function confirmer(message) {

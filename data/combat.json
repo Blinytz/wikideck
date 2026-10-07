@@ -584,6 +584,10 @@
   "legendaire": [
    60,
    90
+  ],
+  "pantheon": [
+   90,
+   100
   ]
  },
  "forceDiscrete": {
@@ -606,6 +610,10 @@
   "legendaire": [
    2,
    3
+  ],
+  "pantheon": [
+   3,
+   3
   ]
  },
  "pvCombat": {
@@ -627,6 +635,10 @@
   ],
   "legendaire": [
    410,
+   500
+  ],
+  "pantheon": [
+   500,
    500
   ]
  },

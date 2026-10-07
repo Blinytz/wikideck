@@ -388,15 +388,15 @@ PALIERS_LIENS = [
 # Variable 3 : plages de force par rareté (min, max). Notoriété = position fine.
 FORCE_CONTINUE = {
     'commune': [5, 15], 'rare': [15, 25], 'epique': [25, 40],
-    'mythique': [40, 60], 'legendaire': [60, 90],
+    'mythique': [40, 60], 'legendaire': [60, 90], 'pantheon': [90, 100],
 }
 FORCE_DISCRETE = {
     'commune': [1, 1], 'rare': [1, 1], 'epique': [1, 2],
-    'mythique': [2, 2], 'legendaire': [2, 3],
+    'mythique': [2, 2], 'legendaire': [2, 3], 'pantheon': [3, 3],
 }
 
 # Section 3 : PV de combat (10 à 500 par pas de 10) selon la rareté
 PV_COMBAT = {
     'commune': [10, 120], 'rare': [120, 220], 'epique': [220, 320],
-    'mythique': [320, 410], 'legendaire': [410, 500],
+    'mythique': [320, 410], 'legendaire': [410, 500], 'pantheon': [500, 500],
 }

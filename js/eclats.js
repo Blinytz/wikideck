@@ -20,6 +20,7 @@ export const BAREME_VENTE = {
   epique: 1500,
   mythique: 2500,
   legendaire: 5000,
+  pantheon: 12000,
 };
 
 /* Montant crédité par la vente d'un doublon de cette carte. */

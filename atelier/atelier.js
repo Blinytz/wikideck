@@ -168,9 +168,9 @@ async function parLots(liste, travail, largeur = LARGEUR_CHARGEMENT) {
 const TAGS = ['hors-sujet', 'mauvaise qualité', 'style incohérent',
               'mauvaise page liée', 'recadrer', 'supprimer la carte'];
 
-const RARETES = ['commune', 'rare', 'epique', 'mythique', 'legendaire'];
+const RARETES = ['commune', 'rare', 'epique', 'mythique', 'legendaire', 'pantheon'];
 const COULEUR_RARETE = { commune: '#8a93a6', rare: '#4aa8ff', epique: '#b05cff',
-                         mythique: '#ff5cd0', legendaire: '#ffd166' };
+                         mythique: '#ff5cd0', legendaire: '#ffd166', pantheon: '#ffffff' };
 
 function slugifier(s) {
   return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()

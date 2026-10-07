@@ -27,7 +27,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 ICI = Path(__file__).resolve().parent
 RACINE = ICI.parent.parent
 
-RARETES = {'commune', 'rare', 'epique', 'mythique', 'legendaire'}
+RARETES = {'commune', 'rare', 'epique', 'mythique', 'legendaire', 'pantheon'}
 # §28.10 — les six collections de personnages contre les deux d'œuvres
 PERSONNAGES = {'personnages-litterature', 'personnages-cinema-serie',
                'personnages-bd-comics', 'personnages-jeu-video',

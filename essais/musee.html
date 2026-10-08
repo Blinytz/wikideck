@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Musée · essai</title>
+<style>
+:root {
+  --fond: #12121c; --fond-2: #1b1b2a; --fond-3: #242438;
+  --texte: #eceaf6; --doux: #9a97b0; --accent: #7c5cff; --accent-2: #46c8ff;
+  --or: #ffd166; --vert: #3ddc97; --rouge: #ff5c7a;
+  --c-commune: #8a93a6; --c-rare: #4aa8ff; --c-epique: #b05cff;
+  --c-mythique: #ff5cd0; --c-legendaire: #ffd166; --c-pantheon: #ffffff;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--fond); color: var(--texte);
+  font: 14px/1.3 system-ui, -apple-system, "Segoe UI", sans-serif; }
+body { max-width: 720px; margin: 0 auto; padding: 12px 16px 40px; }
+button { font: inherit; color: inherit; cursor: pointer; }
+
+/* --- tableau de bord */
+.hud { display: grid; grid-template-columns: auto 1fr; gap: 14px; align-items: center;
+  background: var(--fond-2); border-radius: 16px; padding: 12px 14px; }
+.anneau { position: relative; width: 92px; height: 92px; }
+.anneau svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+.anneau .val { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; }
+.anneau .val b { font-size: 15px; font-variant-numeric: tabular-nums; }
+.anneau .val small { display: block; color: var(--doux); font-size: 11px; }
+.chiffres { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.chiffre { background: var(--fond-3); border-radius: 10px; padding: 7px 8px; }
+.chiffre small { display: block; color: var(--doux); font-size: 11px; }
+.chiffre b { font-size: 17px; font-variant-numeric: tabular-nums; }
+.chiffre.vit b { color: var(--accent-2); }
+.ligne-hud { grid-column: 1 / -1; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.pastille { background: var(--fond-3); border-radius: 999px; padding: 5px 10px; font-size: 12.5px;
+  font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pastille.honneur { color: var(--or); }
+.pastille.honneur span { color: var(--doux); }
+.ouvrir { margin-left: auto; background: var(--accent); border: 0; border-radius: 999px;
+  padding: 7px 14px; font-weight: 600; }
+.ouvrir:disabled { background: var(--fond-3); color: var(--doux); cursor: default; }
+
+/* --- salle */
+.salle { position: relative; margin: 14px auto; max-width: 560px; background:
+  radial-gradient(ellipse at 50% 0%, #2a2440 0%, #17151f 70%); border-radius: 18px; padding: 14px; }
+.grille { position: relative; display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; z-index: 1; }
+.liens { position: absolute; inset: 0; pointer-events: none; z-index: 2; }
+.case { position: relative; aspect-ratio: 5 / 7; border-radius: 9px; border: 1.5px dashed #3a3756;
+  background: #1c1a28; padding: 0; overflow: visible; }
+.case.pleine { border: 2px solid var(--r, #666); background: #000; }
+.case img { width: 100%; height: 100%; object-fit: cover; border-radius: 7px; display: block; }
+.case .nom { position: absolute; left: 0; right: 0; bottom: 0; padding: 10px 3px 3px; font-size: 9.5px;
+  line-height: 1.1; text-align: center; border-radius: 0 0 7px 7px;
+  background: linear-gradient(transparent, rgba(0,0,0,.85)); }
+.case .prod { position: absolute; top: -8px; right: -6px; background: var(--fond); border: 1px solid var(--r, #666);
+  border-radius: 999px; padding: 1px 5px; font-size: 10.5px; font-weight: 600; font-variant-numeric: tabular-nums; z-index: 3; }
+.case .badges { position: absolute; top: 3px; left: 3px; display: flex; gap: 1px; font-size: 11px;
+  filter: drop-shadow(0 1px 1px #000); }
+.case.choisie { outline: 3px solid var(--accent-2); outline-offset: 2px; }
+.case .delta { position: absolute; inset: 0; display: grid; place-items: center; font-weight: 700;
+  font-size: 13px; border-radius: 7px; background: rgba(10,10,20,.62); font-variant-numeric: tabular-nums; z-index: 4; }
+.delta.plus { color: var(--vert); } .delta.moins { color: var(--rouge); } .delta.nul { color: var(--doux); }
+.delta.meilleur { background: rgba(10,10,20,.45); box-shadow: inset 0 0 0 3px var(--vert); font-size: 16px; }
+
+/* --- reserve */
+.outils { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+.outils input, .outils select { background: var(--fond-2); border: 1px solid var(--fond-3); color: var(--texte);
+  border-radius: 999px; padding: 6px 12px; font: inherit; }
+.outils input { flex: 1 1 140px; min-width: 0; }
+.puce { background: var(--fond-2); border: 1px solid var(--fond-3); border-radius: 999px; padding: 5px 10px; }
+.puce.on { background: var(--accent); border-color: var(--accent); }
+.reserve { display: grid; grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); gap: 10px; }
+.carte { position: relative; padding: 0; border: 2px solid var(--r); border-radius: 9px; background: #000;
+  aspect-ratio: 5 / 7; overflow: hidden; }
+.carte img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.carte .nom { position: absolute; left: 0; right: 0; bottom: 0; padding: 12px 3px 3px; font-size: 10px;
+  line-height: 1.1; background: linear-gradient(transparent, rgba(0,0,0,.88)); }
+.carte .gain { position: absolute; top: 3px; right: 3px; background: rgba(0,0,0,.75); border-radius: 999px;
+  padding: 1px 5px; font-size: 10.5px; font-weight: 700; color: var(--vert); font-variant-numeric: tabular-nums; }
+.carte .badges { position: absolute; top: 3px; left: 3px; font-size: 11px; filter: drop-shadow(0 1px 1px #000); }
+.carte.choisie { outline: 3px solid var(--accent-2); outline-offset: 2px; }
+.carte.repos { opacity: .55; }
+.vide { color: var(--doux); text-align: center; padding: 20px; grid-column: 1 / -1; }
+
+/* --- fiche */
+.voile { position: fixed; inset: 0; background: rgba(5,5,12,.7); display: none; place-items: end center; z-index: 20; }
+.voile.ouvert { display: grid; }
+.fiche { width: min(720px, 100%); background: var(--fond-2); border-radius: 18px 18px 0 0; padding: 16px;
+  display: grid; grid-template-columns: 96px 1fr; gap: 14px; max-height: 80vh; overflow: auto; }
+.fiche img { width: 96px; border-radius: 8px; border: 2px solid var(--r); }
+.fiche h3 { margin: 0 0 2px; font-size: 17px; }
+.fiche .col { color: var(--doux); font-size: 12px; margin-bottom: 8px; }
+.calc { display: grid; grid-template-columns: 1fr auto; gap: 3px 10px; font-size: 13px; font-variant-numeric: tabular-nums; }
+.calc .t { border-top: 1px solid var(--fond-3); padding-top: 4px; font-weight: 700; }
+.actions { grid-column: 1 / -1; display: flex; gap: 8px; }
+.actions button, .actions a { flex: 1; text-align: center; border: 0; border-radius: 10px; padding: 10px;
+  background: var(--fond-3); text-decoration: none; color: var(--texte); }
+.actions .prim { background: var(--accent); }
+.tirage { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; width: min(560px, 100%);
+  padding: 16px; background: var(--fond-2); border-radius: 18px 18px 0 0; }
+.tirage .carte { animation: pop .4s backwards; }
+@keyframes pop { from { transform: scale(.4) rotateY(90deg); opacity: 0; } }
+</style>
+</head>
+<body>
+
+<section class="hud">
+  <div class="anneau">
+    <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="44" fill="none" stroke="#2c2a40" stroke-width="9"/>
+      <circle id="arc" cx="50" cy="50" r="44" fill="none" stroke="url(#dg)" stroke-width="9" stroke-linecap="round"
+        stroke-dasharray="276.5" stroke-dashoffset="276.5"/>
+      <defs><linearGradient id="dg"><stop offset="0" stop-color="#7c5cff"/><stop offset="1" stop-color="#46c8ff"/></linearGradient></defs></svg>
+    <div class="val"><div><b id="reste">--:--:--</b><small id="pct">0 %</small></div></div>
+  </div>
+  <div class="chiffres">
+    <div class="chiffre"><small>visiteurs</small><b id="vph">0</b></div>
+    <div class="chiffre vit"><small>vitesse</small><b id="vit">×1</b></div>
+    <div class="chiffre"><small>paquet en</small><b id="duree">24 h</b></div>
+  </div>
+  <div class="ligne-hud">
+    <span class="pastille honneur" id="honneur"></span>
+    <span class="pastille" id="vivant"></span>
+    <button class="ouvrir" id="ouvrir" disabled>0</button>
+  </div>
+</section>
+
+<section class="salle">
+  <svg class="liens" id="liens"></svg>
+  <div class="grille" id="grille"></div>
+</section>
+
+<section>
+  <div class="outils">
+    <input id="cherche" type="search" placeholder="Rechercher">
+    <button class="puce" data-f="tendance">🔥</button>
+    <button class="puce" data-f="ephem">📅</button>
+    <button class="puce" data-f="honneur">★</button>
+    <select id="theme"><option value="">Thèmes</option></select>
+    <button class="puce" id="tout" title="Toutes les cartes">∞</button>
+  </div>
+  <div class="reserve" id="reserve"></div>
+</section>
+
+<div class="voile" id="voile"></div>
+
+<script type="module">
+const COLS = 5, ROWS = 4, N = COLS * ROWS;
+const H = 3600e3;
+const BASE = { commune: 10, rare: 18, epique: 30, mythique: 45, legendaire: 65, pantheon: 100 };
+const NOMS = { commune: 'Commune', rare: 'Rare', epique: 'Épique', mythique: 'Mythique', legendaire: 'Légendaire', pantheon: 'Panthéon' };
+const ORDRE = ['pantheon', 'legendaire', 'mythique', 'epique', 'rare', 'commune'];
+const B = { collection: 0.40, theme: 0.15, pays: 0.25, frise: 0.20 };
+const X = { tendance: 2, ephem: 1.5, honneur: 1.5, nouveaute: 0.5 };
+const NOUVEAUTE_MS = 2 * H, REPOS_MS = 12 * H, ROTATION_MS = 2 * H;
+const PAQUET_MS = 24 * H, DIVISEUR = 1500, MAX_RATTRAPAGE = 7 * 24 * H, PAS = 60e3;
+const CLE = 'wikideck-musee-essai';
+
+const $ = s => document.querySelector(s);
+const fmt = n => Math.round(n).toLocaleString('fr-FR');
+const hms = ms => { const s = Math.max(0, Math.round(ms / 1000));
+  return [Math.floor(s / 3600), Math.floor(s / 60) % 60, s % 60].map(x => String(x).padStart(2, '0')).join(':'); };
+
+/* ---------------- donnees */
+const D = await (await fetch('musee_cartes.json')).json();
+const THEMES = D.themes;
+const CARTES = new Map();
+for (const [id, nom, ci, rarete, thumb, titre, annee, pays] of D.cartes) {
+  const [slug, colnom, ti] = D.collections[ci];
+  CARTES.set(id, { id, nom, slug, colnom, theme: ti, rarete, thumb: '../' + thumb, titre, annee, pays });
+}
+for (const t of THEMES) $('#theme').insertAdjacentHTML('beforeend', `<option value="${THEMES.indexOf(t)}">${t}</option>`);
+
+/* ---------------- etat */
+let E;
+try { E = JSON.parse(localStorage.getItem(CLE) || 'null'); } catch { E = null; }
+if (!E) {
+  E = { grille: Array(N).fill(null), retraits: {}, prog: 0, prets: 0, lastTick: Date.now(), extra: [], tout: false };
+}
+const sauver = () => { try { localStorage.setItem(CLE, JSON.stringify(E)); } catch {} };
+
+function possedees() {
+  if (E.tout) return [...CARTES.keys()];
+  let jeu = {};
+  try { jeu = JSON.parse(localStorage.getItem('gachaWikipediaEtat') || '{}').cartes || {}; } catch {}
+  const s = new Set(Object.keys(jeu).filter(id => jeu[id] > 0 && CARTES.has(id)));
+  if (!s.size && !E.extra.length) {
+    const tous = [...CARTES.keys()];
+    for (let i = 0; i < 60; i++) E.extra.push(tous[Math.floor(Math.random() * tous.length)]);
+    sauver();
+  }
+  E.extra.forEach(id => CARTES.has(id) && s.add(id));
+  return [...s];
+}
+
+/* ---------------- le monde reel : tendances et ephemeride de Wikipedia */
+const TENDANCE = new Set(), EPHEM = new Set();
+async function vivant() {
+  const d = new Date(), j = d.toISOString().slice(0, 10);
+  let cache = null;
+  try { cache = JSON.parse(localStorage.getItem(CLE + '-vivant') || 'null'); } catch {}
+  if (!cache || cache.jour !== j) {
+    cache = { jour: j, tendance: [], ephem: [] };
+    const p2 = n => String(n).padStart(2, '0');
+    const api = 'https://fr.wikipedia.org/api/rest_v1/feed/';
+    try {
+      for (const k of [0, 1]) {
+        const x = new Date(d - k * 864e5);
+        const r = await (await fetch(`${api}featured/${x.getFullYear()}/${p2(x.getMonth() + 1)}/${p2(x.getDate())}`)).json();
+        const a = r.mostread?.articles || [];
+        if (a.length) { cache.tendance = a.map(z => z.normalizedtitle); break; }
+      }
+      const o = await (await fetch(`${api}onthisday/all/${p2(d.getMonth() + 1)}/${p2(d.getDate())}`)).json();
+      for (const k of ['selected', 'births', 'deaths', 'events', 'holidays'])
+        for (const ev of o[k] || []) for (const pg of ev.pages || []) cache.ephem.push(pg.normalizedtitle);
+      localStorage.setItem(CLE + '-vivant', JSON.stringify(cache));
+    } catch {}
+  }
+  cache.tendance.forEach(t => TENDANCE.add(t));
+  cache.ephem.forEach(t => EPHEM.add(t));
+}
+
+/* ---------------- theme a l'honneur : change toutes les 2 h, connu d'avance */
+function honneur(t) {
+  const k = Math.floor(t / ROTATION_MS);
+  const h = i => (Math.imul(i ^ 0x5bd1e995, 2654435761) >>> 0) % THEMES.length;
+  let v = h(k);
+  if (v === h(k - 1)) v = (v + 1) % THEMES.length;
+  return v;
+}
+
+/* ---------------- calcul */
+function voisins(i) {
+  const r = Math.floor(i / COLS), c = i % COLS, v = [];
+  if (c > 0) v.push(i - 1); if (c < COLS - 1) v.push(i + 1);
+  if (r > 0) v.push(i - COLS); if (r < ROWS - 1) v.push(i + COLS);
+  return v;
+}
+function frises(g) {
+  const bonus = Array(N).fill(0), runs = [];
+  for (let r = 0; r < ROWS; r++) {
+    let deb = r * COLS;
+    for (let c = 1; c <= COLS; c++) {
+      const i = r * COLS + c, a = g[i - 1] && CARTES.get(g[i - 1].id), b = c < COLS && g[i] && CARTES.get(g[i].id);
+      const suite = a && b && a.annee != null && b.annee != null && b.annee > a.annee;
+      if (!suite) {
+        const L = i - deb;
+        if (L >= 3) { for (let k = deb; k < i; k++) bonus[k] = B.frise * (L - 2); runs.push([deb, i - 1]); }
+        deb = i;
+      }
+    }
+  }
+  return { bonus, runs };
+}
+function nouveaute(cell, t) {
+  if (!cell.neuf) return 1;
+  return 1 + X.nouveaute * Math.max(0, 1 - (t - cell.ts) / NOUVEAUTE_MS);
+}
+function evaluer(g, t) {
+  const hon = honneur(t), fr = frises(g), out = Array(N).fill(null);
+  let total = 0;
+  for (let i = 0; i < N; i++) {
+    if (!g[i]) continue;
+    const c = CARTES.get(g[i].id), d = { base: BASE[c.rarete], col: 0, theme: 0, pays: 0 };
+    for (const j of voisins(i)) {
+      if (!g[j]) continue;
+      const v = CARTES.get(g[j].id);
+      if (v.slug === c.slug) d.col++;
+      else if (v.theme === c.theme) d.theme++;
+      if (c.pays && v.pays === c.pays) d.pays++;
+    }
+    d.frise = fr.bonus[i];
+    d.pct = d.col * B.collection + d.theme * B.theme + d.pays * B.pays + d.frise;
+    d.tend = TENDANCE.has(c.titre) ? X.tendance : 1;
+    d.ephem = EPHEM.has(c.titre) ? X.ephem : 1;
+    d.hon = c.theme === hon ? X.honneur : 1;
+    d.neuf = nouveaute(g[i], t);
+    d.v = d.base * (1 + d.pct) * d.tend * d.ephem * d.hon * d.neuf;
+    out[i] = d; total += d.v;
+  }
+  return { cases: out, total, runs: fr.runs };
+}
+const vitesse = v => 1 + v / DIVISEUR;
+const enRepos = (id, t) => E.retraits[id] && t - E.retraits[id] < REPOS_MS;
+const cellule = (id, t) => ({ id, ts: t, neuf: !enRepos(id, t) });
+
+/* ---------------- horloge : rattrapage minute par minute */
+function avancer() {
+  const now = Date.now();
+  if (now - E.lastTick > MAX_RATTRAPAGE) E.lastTick = now - MAX_RATTRAPAGE;
+  while (now - E.lastTick >= 1000) {
+    const dt = Math.min(PAS, now - E.lastTick);
+    E.prog += dt * vitesse(evaluer(E.grille, E.lastTick).total) / PAQUET_MS;
+    E.lastTick += dt;
+    while (E.prog >= 1) { E.prog -= 1; E.prets++; }
+  }
+}
+
+/* ---------------- interface */
+let choix = null;         // {de:'res', id} | {de:'case', i}
+const filtres = new Set();
+let derniere = null;
+
+function badges(c, t) {
+  return (TENDANCE.has(c.titre) ? '🔥' : '') + (EPHEM.has(c.titre) ? '📅' : '') + (c.theme === honneur(t) ? '★' : '');
+}
+function placer(g, i, id, t) {
+  const n = g.slice();
+  const k = n.findIndex(x => x && x.id === id);
+  if (k >= 0) { [n[k], n[i]] = [n[i], n[k]]; }
+  else n[i] = cellule(id, t);
+  return n;
+}
+function retirer(i, t) {
+  E.retraits[E.grille[i].id] = t;
+  E.grille[i] = null;
+}
+
+function rendreSalle() {
+  const t = Date.now(), ev = evaluer(E.grille, t);
+  derniere = ev;
+  let deltas = null, meilleur = -Infinity;
+  if (choix) {
+    deltas = E.grille.map((_, i) => {
+      const id = choix.de === 'res' ? choix.id : E.grille[choix.i].id;
+      if (choix.de === 'case' && choix.i === i) return null;
+      const d = evaluer(placer(E.grille, i, id, t), t).total - ev.total;
+      meilleur = Math.max(meilleur, d);
+      return d;
+    });
+  }
+  $('#grille').innerHTML = E.grille.map((cell, i) => {
+    let h = '';
+    if (cell) {
+      const c = CARTES.get(cell.id), d = ev.cases[i];
+      h = `<img src="${c.thumb}" alt="" loading="lazy"><span class="nom">${c.nom}</span>
+        <span class="badges">${badges(c, t)}${d.neuf > 1.001 ? '✨' : ''}</span><span class="prod">${fmt(d.v)}</span>`;
+    }
+    if (deltas && deltas[i] != null) {
+      const v = deltas[i], cl = v > 0.5 ? 'plus' : v < -0.5 ? 'moins' : 'nul';
+      h += `<span class="delta ${cl}${v === meilleur && v > 0.5 ? ' meilleur' : ''}">${v > 0 ? '+' : ''}${fmt(v)}</span>`;
+    }
+    const r = cell ? `--r: var(--c-${CARTES.get(cell.id).rarete})` : '';
+    const sel = choix && choix.de === 'case' && choix.i === i ? ' choisie' : '';
+    return `<button class="case${cell ? ' pleine' : ''}${sel}" style="${r}" data-i="${i}">${h}</button>`;
+  }).join('');
+  requestAnimationFrame(() => tracerLiens(ev));
+  rendreHud(ev);
+}
+
+function tracerLiens(ev) {
+  const svg = $('#liens'), base = svg.getBoundingClientRect();
+  const cases = [...document.querySelectorAll('.case')];
+  if (!base.width) return;
+  const ctr = i => { const r = cases[i].getBoundingClientRect();
+    return [r.left - base.left + r.width / 2, r.top - base.top + r.height / 2, r.width, r.height]; };
+  let s = '';
+  const g = E.grille;
+  for (let i = 0; i < N; i++) {
+    if (!g[i]) continue;
+    for (const j of voisins(i)) {
+      if (j < i || !g[j]) continue;
+      const a = CARTES.get(g[i].id), b = CARTES.get(g[j].id);
+      const types = [];
+      if (a.slug === b.slug) types.push('#ffd166'); else if (a.theme === b.theme) types.push('#46c8ff');
+      if (a.pays && a.pays === b.pays) types.push('#3ddc97');
+      const [x1, y1, w, hh] = ctr(i), [x2, y2] = ctr(j);
+      const hor = y1 === y2;
+      types.forEach((col, k) => {
+        const off = (k - (types.length - 1) / 2) * 7;
+        const mx = (x1 + x2) / 2, my = (y1 + y2) / 2;
+        if (hor) s += `<line x1="${mx}" y1="${my + off - 9}" x2="${mx}" y2="${my + off + 9}" stroke="${col}" stroke-width="4" stroke-linecap="round"/>`;
+        else s += `<line x1="${mx + off - 9}" y1="${my}" x2="${mx + off + 9}" y2="${my}" stroke="${col}" stroke-width="4" stroke-linecap="round"/>`;
+        void w; void hh;
+      });
+    }
+  }
+  for (const [a, b] of ev.runs) {
+    const [x1, y1, , hh] = ctr(a), [x2] = ctr(b), y = y1 + hh / 2 + 7;
+    s += `<line x1="${x1}" y1="${y}" x2="${x2}" y2="${y}" stroke="#fff" stroke-width="2.5" opacity=".85"/>
+      <path d="M${x2 + 2} ${y} l-8 -5 v10 z" fill="#fff" opacity=".85"/>`;
+  }
+  svg.innerHTML = s;
+}
+
+function rendreHud(ev = derniere) {
+  const t = Date.now(), v = vitesse(ev.total);
+  const reste = (1 - E.prog) * PAQUET_MS / v;
+  $('#reste').textContent = hms(reste);
+  $('#pct').textContent = Math.floor(E.prog * 100) + ' %';
+  $('#arc').setAttribute('stroke-dashoffset', 276.5 * (1 - E.prog));
+  $('#vph').textContent = fmt(ev.total);
+  $('#vit').textContent = '×' + v.toFixed(2).replace('.', ',');
+  const d = PAQUET_MS / v / H;
+  $('#duree').textContent = d >= 1 ? d.toFixed(1).replace('.', ',') + ' h' : Math.round(d * 60) + ' min';
+  const hn = honneur(t), fin = (Math.floor(t / ROTATION_MS) + 1) * ROTATION_MS;
+  $('#honneur').innerHTML = `★ ${THEMES[hn]} · ${hms(fin - t)} <span>→ ${THEMES[honneur(fin)]}</span>`;
+  const mes = possedees();
+  const nt = mes.filter(id => TENDANCE.has(CARTES.get(id).titre)).length;
+  const ne = mes.filter(id => EPHEM.has(CARTES.get(id).titre)).length;
+  $('#vivant').textContent = `🔥 ${nt} · 📅 ${ne}`;
+  $('#ouvrir').disabled = E.prets < 1;
+  $('#ouvrir').textContent = E.prets < 1 ? 'Paquet' : `Ouvrir · ${E.prets}`;
+}
+
+function rendreReserve() {
+  const t = Date.now(), places = new Set(E.grille.filter(Boolean).map(c => c.id));
+  const q = $('#cherche').value.trim().toLowerCase(), th = $('#theme').value, hon = honneur(t);
+  let ids = possedees().filter(id => !places.has(id)).map(id => CARTES.get(id)).filter(c =>
+    (!q || c.nom.toLowerCase().includes(q) || c.colnom.toLowerCase().includes(q)) &&
+    (th === '' || c.theme === +th) &&
+    (!filtres.has('tendance') || TENDANCE.has(c.titre)) &&
+    (!filtres.has('ephem') || EPHEM.has(c.titre)) &&
+    (!filtres.has('honneur') || c.theme === hon));
+  // gain du meilleur emplacement, calcule sur les plus prometteuses
+  const pot = c => BASE[c.rarete] * (TENDANCE.has(c.titre) ? X.tendance : 1) * (EPHEM.has(c.titre) ? X.ephem : 1) * (c.theme === hon ? X.honneur : 1);
+  ids.sort((a, b) => pot(b) - pot(a) || ORDRE.indexOf(a.rarete) - ORDRE.indexOf(b.rarete));
+  ids = ids.slice(0, 240);
+  const tot = derniere.total;
+  for (const c of ids) {
+    let m = -Infinity;
+    for (let i = 0; i < N; i++) m = Math.max(m, evaluer(placer(E.grille, i, c.id, t), t).total - tot);
+    c.gain = m;
+  }
+  ids.sort((a, b) => b.gain - a.gain);
+  $('#reserve').innerHTML = ids.slice(0, 120).map(c =>
+    `<button class="carte${choix && choix.de === 'res' && choix.id === c.id ? ' choisie' : ''}${enRepos(c.id, t) ? ' repos' : ''}"
+      style="--r: var(--c-${c.rarete})" data-id="${c.id}"><img src="${c.thumb}" alt="" loading="lazy">
+      <span class="badges">${badges(c, t)}</span><span class="gain">${c.gain > 0 ? '+' + fmt(c.gain) : '0'}</span>
+      <span class="nom">${c.nom}</span></button>`).join('') || '<div class="vide">∅</div>';
+}
+
+function tout() { rendreSalle(); rendreReserve(); sauver(); }
+
+function fiche(i) {
+  const t = Date.now(), cell = E.grille[i], c = CARTES.get(cell.id), d = evaluer(E.grille, t).cases[i];
+  const l = (a, b) => `<span>${a}</span><span>${b}</span>`;
+  let calc = l(NOMS[c.rarete], fmt(d.base));
+  if (d.col) calc += l(`Collection ×${d.col}`, '+' + Math.round(d.col * B.collection * 100) + ' %');
+  if (d.theme) calc += l(`Thème ×${d.theme}`, '+' + Math.round(d.theme * B.theme * 100) + ' %');
+  if (d.pays) calc += l(`${c.pays} ×${d.pays}`, '+' + Math.round(d.pays * B.pays * 100) + ' %');
+  if (d.frise) calc += l('Frise', '+' + Math.round(d.frise * 100) + ' %');
+  if (d.tend > 1) calc += l('🔥 Tendance', '×' + d.tend);
+  if (d.ephem > 1) calc += l('📅 Éphéméride', '×' + String(d.ephem).replace('.', ','));
+  if (d.hon > 1) calc += l('★ ' + THEMES[c.theme], '×1,5');
+  if (d.neuf > 1.001) calc += l('✨ Nouveauté', '×' + d.neuf.toFixed(2).replace('.', ','));
+  calc += `<span class="t">/ h</span><span class="t">${fmt(d.v)}</span>`;
+  $('#voile').innerHTML = `<div class="fiche"><img src="${c.thumb}" style="--r: var(--c-${c.rarete})" alt="">
+    <div><h3>${c.nom}</h3><div class="col">${c.colnom}${c.annee != null ? ' · ' + c.annee : ''}${c.pays ? ' · ' + c.pays : ''}</div>
+    <div class="calc">${calc}</div></div>
+    <div class="actions"><button class="prim" data-a="deplacer">Déplacer</button><button data-a="retirer">Retirer</button>
+    <a href="https://fr.wikipedia.org/wiki/${encodeURIComponent(c.titre.replace(/ /g, '_'))}" target="_blank" rel="noopener">Wikipédia</a></div></div>`;
+  $('#voile').classList.add('ouvert');
+  $('#voile').onclick = e => {
+    const a = e.target.dataset.a;
+    if (a === 'deplacer') { choix = { de: 'case', i }; fermer(); tout(); }
+    else if (a === 'retirer') { retirer(i, Date.now()); fermer(); tout(); }
+    else if (e.target === $('#voile')) fermer();
+  };
+}
+const fermer = () => $('#voile').classList.remove('ouvert');
+
+$('#grille').addEventListener('click', e => {
+  const b = e.target.closest('.case'); if (!b) return;
+  const i = +b.dataset.i, t = Date.now();
+  if (!choix) { if (E.grille[i]) fiche(i); return; }
+  if (choix.de === 'case' && choix.i === i) { choix = null; return tout(); }
+  const id = choix.de === 'res' ? choix.id : E.grille[choix.i].id;
+  if (choix.de === 'res' && E.grille[i]) E.retraits[E.grille[i].id] = t;
+  E.grille = placer(E.grille, i, id, t);
+  choix = null; tout();
+});
+$('#reserve').addEventListener('click', e => {
+  const b = e.target.closest('.carte'); if (!b) return;
+  choix = choix && choix.de === 'res' && choix.id === b.dataset.id ? null : { de: 'res', id: b.dataset.id };
+  rendreSalle(); rendreReserve();
+});
+document.querySelectorAll('.puce[data-f]').forEach(b => b.onclick = () => {
+  filtres.has(b.dataset.f) ? filtres.delete(b.dataset.f) : filtres.add(b.dataset.f);
+  b.classList.toggle('on'); rendreReserve();
+});
+$('#tout').onclick = () => { E.tout = !E.tout; $('#tout').classList.toggle('on', E.tout); tout(); };
+$('#tout').classList.toggle('on', E.tout);
+$('#cherche').oninput = rendreReserve;
+$('#theme').onchange = rendreReserve;
+document.addEventListener('keydown', e => { if (e.key === 'Escape') { choix = null; fermer(); tout(); } });
+
+$('#ouvrir').onclick = () => {
+  if (E.prets < 1) return;
+  E.prets--;
+  const tous = [...CARTES.keys()], tir = [];
+  for (let k = 0; k < 10; k++) { const id = tous[Math.floor(Math.random() * tous.length)]; tir.push(id); E.extra.push(id); }
+  tir.sort((a, b) => ORDRE.indexOf(CARTES.get(b).rarete) - ORDRE.indexOf(CARTES.get(a).rarete));
+  $('#voile').innerHTML = `<div class="tirage">${tir.map((id, k) => { const c = CARTES.get(id);
+    return `<div class="carte" style="--r: var(--c-${c.rarete}); animation-delay:${k * 0.12}s"><img src="${c.thumb}" alt="">
+      <span class="badges">${badges(c, Date.now())}</span><span class="nom">${c.nom}</span></div>`; }).join('')}</div>`;
+  $('#voile').classList.add('ouvert');
+  $('#voile').onclick = () => { fermer(); tout(); };
+  sauver();
+};
+
+window.addEventListener('resize', () => derniere && tracerLiens(derniere));
+document.addEventListener('visibilitychange', () => { if (!document.hidden) { avancer(); tout(); } });
+
+await vivant();
+avancer();
+tout();
+let rot = honneur(Date.now()), tic = 0;
+setInterval(() => {
+  avancer();
+  const h = honneur(Date.now());
+  if (h !== rot) { rot = h; tout(); return; }
+  const ev = evaluer(E.grille, Date.now());
+  if (!choix && ++tic % 30 === 0) rendreSalle(); else rendreHud(ev);
+  sauver();
+}, 1000);
+</script>
+</body>
+</html>

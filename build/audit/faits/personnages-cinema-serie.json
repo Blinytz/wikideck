@@ -1,0 +1,1132 @@
+{
+ "personnages-cinema-serie_james-bond": {
+  "qid": "Q2009573",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Ian Fleming"
+  ],
+  "P571": [
+   "1953"
+  ]
+ },
+ "personnages-cinema-serie_anakin-skywalker": {
+  "qid": "Q51752",
+  "P170": [
+   "George Lucas"
+  ],
+  "P571": [
+   "1977"
+  ]
+ },
+ "personnages-cinema-serie_luke-skywalker": {
+  "qid": "Q51746",
+  "P27": [
+   "Nouvelle République"
+  ],
+  "P170": [
+   "George Lucas"
+  ],
+  "P571": [
+   "1977"
+  ]
+ },
+ "personnages-cinema-serie_han-solo": {
+  "qid": "Q51802",
+  "P27": [
+   "Empire galactique",
+   "Nouvelle République",
+   "Fédération galactique des Alliances libres"
+  ],
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_leia-organa": {
+  "qid": "Q51797",
+  "P27": [
+   "Empire galactique",
+   "Nouvelle République",
+   "Fédération galactique des Alliances libres"
+  ],
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_yoda": {
+  "qid": "Q51730",
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_indiana-jones": {
+  "qid": "Q148659",
+  "P569": [
+   "1899"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_rocky-balboa": {
+  "qid": "Q2289535",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Sylvester Stallone"
+  ]
+ },
+ "personnages-cinema-serie_t-800": {
+  "qid": "Q1976616",
+  "P170": [
+   "James Cameron",
+   "Gale Anne Hurd"
+  ]
+ },
+ "personnages-cinema-serie_ellen-ripley": {
+  "qid": "Q988925",
+  "P569": [
+   "2092"
+  ],
+  "P170": [
+   "Dan O'Bannon"
+  ]
+ },
+ "personnages-cinema-serie_neo-matrix": {
+  "qid": "Q247120",
+  "P569": [
+   "1962",
+   "1971"
+  ],
+  "P170": [
+   "Lilly et Lana Wachowski"
+  ],
+  "P571": [
+   "1999"
+  ]
+ },
+ "personnages-cinema-serie_forrest-gump-personnage": {
+  "qid": "Q3077690",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "personnages-cinema-serie_hannibal-lecter": {
+  "qid": "Q211013",
+  "P569": [
+   "1933"
+  ],
+  "P27": [
+   "États-Unis",
+   "Lituanie"
+  ],
+  "P170": [
+   "Thomas Harris"
+  ]
+ },
+ "personnages-cinema-serie_norman-bates": {
+  "qid": "Q2467893",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Robert Bloch"
+  ]
+ },
+ "personnages-cinema-serie_freddy-krueger": {
+  "qid": "Q329466",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Wes Craven"
+  ]
+ },
+ "personnages-cinema-serie_jason-voorhees": {
+  "qid": "Q366957",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Sean S. Cunningham"
+  ]
+ },
+ "personnages-cinema-serie_michael-myers": {
+  "qid": "Q1426891",
+  "P569": [
+   "1957"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "John Carpenter",
+   "Debra Hill"
+  ]
+ },
+ "personnages-cinema-serie_jack-sparrow": {
+  "qid": "Q202857",
+  "P170": [
+   "Ted Elliott",
+   "Terry Rossio"
+  ]
+ },
+ "personnages-cinema-serie_mercredi-addams": {
+  "qid": "Q2575084",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Charles Addams"
+  ]
+ },
+ "personnages-cinema-serie_walter-white-personnage": {
+  "qid": "Q23554",
+  "P569": [
+   "1958"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "éducation"
+  ],
+  "P170": [
+   "Vince Gilligan"
+  ]
+ },
+ "personnages-cinema-serie_tony-soprano": {
+  "qid": "Q1049580",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "David Chase"
+  ]
+ },
+ "personnages-cinema-serie_onze-stranger-things": {
+  "qid": "Q27955792",
+  "P569": [
+   "1971"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "frères Duffer"
+  ]
+ },
+ "personnages-cinema-serie_dorothy-gale": {
+  "qid": "Q2583524",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "L. Frank Baum"
+  ]
+ },
+ "personnages-cinema-serie_vito-corleone": {
+  "qid": "Q745077",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis",
+   "Italie"
+  ],
+  "P170": [
+   "Mario Puzo"
+  ]
+ },
+ "personnages-cinema-serie_michael-corleone": {
+  "qid": "Q835154",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Mario Puzo"
+  ]
+ },
+ "personnages-cinema-serie_tony-montana": {
+  "qid": "Q629034",
+  "P569": [
+   "1940",
+   "1941"
+  ],
+  "P27": [
+   "États-Unis",
+   "Cuba"
+  ],
+  "P170": [
+   "Oliver Stone"
+  ],
+  "P571": [
+   "1983"
+  ]
+ },
+ "personnages-cinema-serie_king-kong": {
+  "qid": "Q216810",
+  "P170": [
+   "Edgar Wallace",
+   "Merian C. Cooper"
+  ],
+  "P577": [
+   "1933"
+  ]
+ },
+ "personnages-cinema-serie_godzilla-film-2014": {
+  "qid": "Q7731172",
+  "P495": [
+   "États-Unis",
+   "Japon"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2014"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "kaijū",
+   "film et téléfilm d'action"
+  ]
+ },
+ "personnages-cinema-serie_marty-mcfly": {
+  "qid": "Q2338941",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P571": [
+   "1983"
+  ]
+ },
+ "personnages-cinema-serie_emmett-brown": {
+  "qid": "Q2337004",
+  "P569": [
+   "1922",
+   "1914",
+   "1920"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "personnages-cinema-serie_john-mcclane": {
+  "qid": "Q2082223",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Roderick Thorp"
+  ]
+ },
+ "personnages-cinema-serie_john-rambo-personnage": {
+  "qid": "Q951317",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "David Morrell"
+  ]
+ },
+ "personnages-cinema-serie_willy-wonka": {
+  "qid": "Q738747",
+  "P170": [
+   "Roald Dahl"
+  ]
+ },
+ "personnages-cinema-serie_mary-poppins-personnage": {
+  "qid": "Q3735317",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Pamela Lyndon Travers"
+  ]
+ },
+ "personnages-cinema-serie_fight-club-film": {
+  "qid": "Q190050",
+  "P495": [
+   "États-Unis",
+   "Allemagne"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "film à flash-back",
+   "drame",
+   "thriller",
+   "thriller psychologique"
+  ]
+ },
+ "personnages-cinema-serie_alex-delarge": {
+  "qid": "Q2538485",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Anthony Burgess"
+  ]
+ },
+ "personnages-cinema-serie_fantomas": {
+  "qid": "Q1162210",
+  "P101": [
+   "crime"
+  ],
+  "P170": [
+   "Marcel Allain",
+   "Pierre Souvestre"
+  ],
+  "P571": [
+   "1911"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "personnages-cinema-serie_columbo-personnage": {
+  "qid": "Q2984579",
+  "P569": [
+   "1934"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Richard Levinson"
+  ]
+ },
+ "personnages-cinema-serie_doctor-who": {
+  "qid": "Q34316",
+  "P170": [
+   "Donald Wilson",
+   "C. E. Webber",
+   "Sydney Newman"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série d'action",
+   "fiction de voyage dans le temps",
+   "série télévisée d'aventures",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Doctor Who",
+   "saison 2 de Doctor Who",
+   "saison 3 de Doctor Who",
+   "saison 4 de Doctor Who",
+   "saison 5 de Doctor Who",
+   "saison 6 de Doctor Who",
+   "saison 7 de Doctor Who",
+   "saison 8 de Doctor Who",
+   "saison 9 de Doctor Who",
+   "saison 10 de Doctor Who",
+   "saison 11 de Doctor Who",
+   "saison 12 de Doctor Who",
+   "saison 13 de Doctor Who",
+   "saison 14 de Doctor Who",
+   "saison 15 de Doctor Who",
+   "saison 16 de Doctor Who",
+   "saison 17 de Doctor Who",
+   "saison 18 de Doctor Who",
+   "saison 19 de Doctor Who",
+   "saison 20 de Doctor Who",
+   "saison 21 de Doctor Who",
+   "saison 22 de Doctor Who",
+   "saison 23 de Doctor Who",
+   "saison 24 de Doctor Who",
+   "saison 25 de Doctor Who",
+   "saison 26 de Doctor Who",
+   "saison 1 de Doctor Who",
+   "saison 2 de Doctor Who",
+   "saison 3 de Doctor Who",
+   "saison 4 de Doctor Who",
+   "saison 5 de Doctor Who",
+   "saison 6 de Doctor Who",
+   "saison 7 de Doctor Who",
+   "saison 8 de Doctor Who",
+   "saison 9 de Doctor Who",
+   "saison 10 de Doctor Who",
+   "saison 11 de Doctor Who",
+   "saison 12 de Doctor Who",
+   "saison 13 de Doctor Who",
+   "saison 4 de Doctor Who - épisodes spéciaux",
+   "saison 13 de Doctor Who - épisodes spéciaux",
+   "saison 1 de Doctor Who, troisième série",
+   "saison 2 de Doctor Who, troisième série"
+  ]
+ },
+ "personnages-cinema-serie_saul-goodman": {
+  "qid": "Q7154377",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Vince Gilligan",
+   "Peter Gould"
+  ]
+ },
+ "personnages-cinema-serie_gus-fring": {
+  "qid": "Q5620660",
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "Chili"
+  ],
+  "P170": [
+   "Vince Gilligan"
+  ]
+ },
+ "personnages-cinema-serie_don-draper": {
+  "qid": "Q2640712",
+  "P569": [
+   "1926"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matthew Weiner"
+  ]
+ },
+ "personnages-cinema-serie_rick-grimes": {
+  "qid": "Q605417",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Robert Kirkman",
+   "Charlie Adlard",
+   "Tony Moore"
+  ]
+ },
+ "personnages-cinema-serie_sheldon-cooper": {
+  "qid": "Q629583",
+  "P569": [
+   "1980"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "physique théorique"
+  ],
+  "P170": [
+   "Chuck Lorre",
+   "Bill Prady"
+  ]
+ },
+ "personnages-cinema-serie_dexter-morgan": {
+  "qid": "Q942938",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Jeff Lindsay"
+  ]
+ },
+ "personnages-cinema-serie_travis-bickle": {
+  "qid": "Q47221",
+  "P135": [
+   "Nouvel Hollywood"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1976",
+   "1977",
+   "1976"
+  ],
+  "P136": [
+   "néo-noir",
+   "drame psychologique",
+   "film ou téléfilm criminel",
+   "film noir",
+   "film et téléfilm d'action",
+   "film policier dramatique",
+   "thriller policier",
+   "thriller psychologique",
+   "police procedural film",
+   "film à suspense",
+   "film de vigilante",
+   "drame",
+   "thriller"
+  ]
+ },
+ "personnages-cinema-serie_amelie-poulain": {
+  "qid": "Q484048",
+  "P495": [
+   "France",
+   "Allemagne"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "film comédie romantique",
+   "comédie",
+   "drame",
+   "magic realist film"
+  ]
+ },
+ "personnages-cinema-serie_jack-torrance": {
+  "qid": "Q470937",
+  "P571": [
+   "1977"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Stephen King"
+  ],
+  "P577": [
+   "1977"
+  ],
+  "P136": [
+   "horreur psychologique",
+   "fiction gothique",
+   "thriller",
+   "horreur"
+  ]
+ },
+ "personnages-cinema-serie_maximus": {
+  "qid": "Q128518",
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2023"
+  ],
+  "P136": [
+   "péplum",
+   "mélodrame",
+   "film et téléfilm d'action",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm épique",
+   "film ou téléfilm historique",
+   "historical drama film"
+  ]
+ },
+ "personnages-cinema-serie_omar-little": {
+  "qid": "Q478360",
+  "P170": [
+   "David Simon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée dramatique",
+   "drama policier"
+  ],
+  "P527": [
+   "saison 1 de Sur écoute",
+   "saison 2 de Sur écoute",
+   "saison 3 de Sur écoute",
+   "saison 4 de Sur écoute",
+   "saison 5 de Sur écoute"
+  ]
+ },
+ "personnages-cinema-serie_jack-bauer": {
+  "qid": "Q56194",
+  "P170": [
+   "Joel Surnow",
+   "Robert Cochran"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série d'action",
+   "série télévisée dramatique",
+   "série télévisée d'espionnage"
+  ],
+  "P527": [
+   "saison 1 de 24 Heures chrono",
+   "saison 2 de 24 Heures chrono",
+   "saison 3 de 24 Heures chrono",
+   "saison 4 de 24 Heures chrono",
+   "saison 5 de 24 Heures chrono",
+   "saison 6 de 24 Heures chrono",
+   "24 Heures chrono : Redemption",
+   "saison 7 de 24 Heures chrono",
+   "saison 8 de 24 Heures chrono",
+   "saison 9 de 24 Heures chrono"
+  ]
+ },
+ "personnages-cinema-serie_oss-117": {
+  "qid": "Q2008180",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jean Bruce",
+   "Josette Bruce"
+  ],
+  "P136": [
+   "fiction d'espionnage"
+  ]
+ },
+ "personnages-cinema-serie_e-t": {
+  "qid": "Q11621",
+  "P135": [
+   "Nouvel Hollywood"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1985",
+   "1983"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "drame",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm familial"
+  ]
+ },
+ "personnages-cinema-serie_chewbacca": {
+  "qid": "Q51803",
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_obi-wan-kenobi": {
+  "qid": "Q51740",
+  "P170": [
+   "George Lucas"
+  ],
+  "P571": [
+   "1977"
+  ]
+ },
+ "personnages-cinema-serie_palpatine": {
+  "qid": "Q51770",
+  "P27": [
+   "République galactique",
+   "Empire galactique",
+   "Premier ordre"
+  ],
+  "P170": [
+   "George Lucas"
+  ],
+  "P577": [
+   "1980"
+  ]
+ },
+ "personnages-cinema-serie_boba-fett": {
+  "qid": "Q51790",
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_grogu": {
+  "qid": "Q77001957",
+  "P170": [
+   "Jon Favreau",
+   "Dave Filoni"
+  ]
+ },
+ "personnages-cinema-serie_r2-d2": {
+  "qid": "Q51788",
+  "P170": [
+   "George Lucas"
+  ]
+ },
+ "personnages-cinema-serie_c-3po": {
+  "qid": "Q51787",
+  "P170": [
+   "Anakin Skywalker"
+  ]
+ },
+ "personnages-cinema-serie_james-tiberius-kirk": {
+  "qid": "Q16311",
+  "P569": [
+   "2233"
+  ],
+  "P570": [
+   "2371"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Gene Roddenberry"
+  ]
+ },
+ "personnages-cinema-serie_spock-star-trek": {
+  "qid": "Q16341",
+  "P569": [
+   "2230"
+  ],
+  "P570": [
+   "2263"
+  ],
+  "P27": [
+   "Fédération des planètes unies"
+  ],
+  "P170": [
+   "Leonard Nimoy",
+   "Gene Roddenberry"
+  ]
+ },
+ "personnages-cinema-serie_charlot": {
+  "qid": "Q765880",
+  "P170": [
+   "Charlie Chaplin"
+  ]
+ },
+ "personnages-cinema-serie_hal-9000": {
+  "qid": "Q833933",
+  "P170": [
+   "Arthur C. Clarke",
+   "Stanley Kubrick"
+  ]
+ },
+ "personnages-cinema-serie_sarah-connor-terminator": {
+  "qid": "Q496437",
+  "P570": [
+   "2010",
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "James Cameron",
+   "Gale Anne Hurd"
+  ]
+ },
+ "personnages-cinema-serie_robocop-personnage": {
+  "qid": "Q1033152",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Edward Neumeier",
+   "Michael Miner"
+  ]
+ },
+ "personnages-cinema-serie_rick-deckard": {
+  "qid": "Q943048",
+  "P569": [
+   "2000"
+  ],
+  "P570": [
+   "2100"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Philip K. Dick"
+  ]
+ },
+ "personnages-cinema-serie_ghostface": {
+  "qid": "Q2444720",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Kevin Williamson"
+  ]
+ },
+ "personnages-cinema-serie_chucky": {
+  "qid": "Q25097",
+  "P569": [
+   "1988"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Don Mancini"
+  ]
+ },
+ "personnages-cinema-serie_ca-personnage": {
+  "qid": "Q3899150",
+  "P170": [
+   "Stephen King"
+  ]
+ },
+ "personnages-cinema-serie_leatherface": {
+  "qid": "Q1647348",
+  "P569": [
+   "1939"
+  ],
+  "P170": [
+   "Kim Henkel"
+  ]
+ },
+ "personnages-cinema-serie_alien-creature": {
+  "qid": "Q209758",
+  "P170": [
+   "Ridley Scott",
+   "Hans Ruedi Giger"
+  ]
+ },
+ "personnages-cinema-serie_predator-creature": {
+  "qid": "Q844794"
+ },
+ "personnages-cinema-serie_harry-callahan-personnage": {
+  "qid": "Q73823",
+  "P569": [
+   "1928"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Harry Julian Fink",
+   "R.M. Fink"
+  ]
+ },
+ "personnages-cinema-serie_personnages-de-mission-impossible": {
+  "qid": "Q6590508"
+ },
+ "personnages-cinema-serie_jason-bourne": {
+  "qid": "Q1059919",
+  "P569": [
+   "1970"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Robert Ludlum"
+  ]
+ },
+ "personnages-cinema-serie_beatrix-kiddo": {
+  "qid": "Q2656279",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Quentin Tarantino",
+   "Uma Thurman"
+  ]
+ },
+ "personnages-cinema-serie_hans-landa": {
+  "qid": "Q3120776",
+  "P27": [
+   "Autriche"
+  ],
+  "P170": [
+   "Quentin Tarantino"
+  ]
+ },
+ "personnages-cinema-serie_buffy-summers": {
+  "qid": "Q1799459",
+  "P569": [
+   "1981"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Joss Whedon"
+  ]
+ },
+ "personnages-cinema-serie_fox-mulder": {
+  "qid": "Q2738",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Chris Carter"
+  ]
+ },
+ "personnages-cinema-serie_angus-macgyver": {
+  "qid": "Q2405147",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Lee David Zlotoff"
+  ]
+ },
+ "personnages-cinema-serie_j-r-ewing": {
+  "qid": "Q339289",
+  "P170": [
+   "David Jacobs"
+  ]
+ },
+ "personnages-cinema-serie_jesse-pinkman": {
+  "qid": "Q6186746",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "drug manufacturing",
+   "music making"
+  ],
+  "P170": [
+   "Vince Gilligan"
+  ]
+ },
+ "personnages-cinema-serie_les-visiteurs-serie-de-films": {
+  "qid": "Q16029047",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "film à flash-back"
+  ],
+  "P527": [
+   "Les Visiteurs",
+   "Les Couloirs du temps : Les Visiteurs 2"
+  ]
+ },
+ "personnages-cinema-serie_francois-pignon": {
+  "qid": "Q3085572",
+  "P27": [
+   "France"
+  ],
+  "P170": [
+   "Francis Veber"
+  ]
+ },
+ "personnages-cinema-serie_ludovic-cruchot": {
+  "qid": "Q9397206",
+  "P27": [
+   "France"
+  ]
+ }
+}

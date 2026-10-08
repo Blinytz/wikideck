@@ -1,0 +1,713 @@
+{
+ "vehicules-celebres_bateau-dragon-pirogue": {
+  "qid": "Q57589"
+ },
+ "vehicules-celebres_bateau-viking": {
+  "qid": "Q211969"
+ },
+ "vehicules-celebres_jonque": {
+  "qid": "Q205011",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "vehicules-celebres_triere": {
+  "qid": "Q208420",
+  "P571": [
+   "-700"
+  ]
+ },
+ "vehicules-celebres_galion": {
+  "qid": "Q181469",
+  "P571": [
+   "1600"
+  ]
+ },
+ "vehicules-celebres_caravelle-navire": {
+  "qid": "Q169560",
+  "P571": [
+   "1500"
+  ]
+ },
+ "vehicules-celebres_mayflower": {
+  "qid": "Q187093",
+  "P17": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "vehicules-celebres_hms-victory-1765": {
+  "qid": "Q213958",
+  "P276": [
+   "Portsmouth"
+  ],
+  "P131": [
+   "Portsmouth"
+  ],
+  "P495": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_hms-bounty": {
+  "qid": "Q900379",
+  "P495": [
+   "royaume de Grande-Bretagne"
+  ],
+  "P17": [
+   "îles Pitcairn"
+  ]
+ },
+ "vehicules-celebres_kon-tiki": {
+  "qid": "Q204025",
+  "P276": [
+   "musée du Kon-Tiki"
+  ],
+  "P17": [
+   "Norvège"
+  ]
+ },
+ "vehicules-celebres_lz-129-hindenburg": {
+  "qid": "Q217964"
+ },
+ "vehicules-celebres_spirit-of-st-louis": {
+  "qid": "Q939784"
+ },
+ "vehicules-celebres_concorde-avion": {
+  "qid": "Q6505"
+ },
+ "vehicules-celebres_orient-express": {
+  "qid": "Q191985",
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "vehicules-celebres_cutty-sark": {
+  "qid": "Q171255",
+  "P131": [
+   "borough royal de Greenwich"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_endurance-bateau": {
+  "qid": "Q911858"
+ },
+ "vehicules-celebres_santa-maria-1492": {
+  "qid": "Q107900"
+ },
+ "vehicules-celebres_golden-hind": {
+  "qid": "Q546198",
+  "P571": [
+   "1575"
+  ],
+  "P276": [
+   "Convoys Wharf"
+  ],
+  "P131": [
+   "Deptford"
+  ]
+ },
+ "vehicules-celebres_ss-great-eastern": {
+  "qid": "Q733293"
+ },
+ "vehicules-celebres_belem": {
+  "qid": "Q815384",
+  "P276": [
+   "Grand port maritime de Nantes-Saint-Nazaire"
+  ],
+  "P131": [
+   "Nantes"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "vehicules-celebres_vasa": {
+  "qid": "Q219821",
+  "P276": [
+   "musée Vasa"
+  ]
+ },
+ "vehicules-celebres_mary-rose": {
+  "qid": "Q544894",
+  "P131": [
+   "Portsmouth"
+  ],
+  "P495": [
+   "royaume d'Angleterre"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_victoria-bateau": {
+  "qid": "Q899710"
+ },
+ "vehicules-celebres_batavia-bateau": {
+  "qid": "Q810735",
+  "P195": [
+   "Western Australian Museum Shipwreck Database"
+  ],
+  "P131": [
+   "Houtman Abrolhos"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "vehicules-celebres_endeavour-voilier": {
+  "qid": "Q312224",
+  "P495": [
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "vehicules-celebres_hms-beagle": {
+  "qid": "Q35926",
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "vehicules-celebres_uss-constitution": {
+  "qid": "Q944436",
+  "P131": [
+   "Boston"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_fram-navire": {
+  "qid": "Q110283",
+  "P571": [
+   "1892"
+  ],
+  "P276": [
+   "musée du Fram"
+  ],
+  "P131": [
+   "Oslo"
+  ],
+  "P17": [
+   "Norvège"
+  ]
+ },
+ "vehicules-celebres_pourquoi-pas-iv": {
+  "qid": "Q11700192"
+ },
+ "vehicules-celebres_calypso-navire": {
+  "qid": "Q1027849",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_rms-lusitania": {
+  "qid": "Q187425",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_normandie-paquebot": {
+  "qid": "Q304703"
+ },
+ "vehicules-celebres_queen-mary-2": {
+  "qid": "Q191888"
+ },
+ "vehicules-celebres_bismarck-cuirasse": {
+  "qid": "Q150857"
+ },
+ "vehicules-celebres_yamato-cuirasse": {
+  "qid": "Q215010"
+ },
+ "vehicules-celebres_trieste-bathyscaphe": {
+  "qid": "Q850157",
+  "P495": [
+   "Italie"
+  ]
+ },
+ "vehicules-celebres_wright-flyer": {
+  "qid": "Q688605",
+  "P195": [
+   "National Air and Space Museum"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "mousseline",
+   "bois d'épicéa",
+   "acier",
+   "fonte",
+   "aluminium"
+  ]
+ },
+ "vehicules-celebres_bleriot-xi": {
+  "qid": "Q887098"
+ },
+ "vehicules-celebres_lz-127-graf-zeppelin": {
+  "qid": "Q721226",
+  "P571": [
+   "1928"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "vehicules-celebres_enola-gay": {
+  "qid": "Q204424",
+  "P195": [
+   "Smithsonian Institution",
+   "National Air and Space Museum"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_hughes-h-4-hercules": {
+  "qid": "Q667443",
+  "P17": [
+   "États-Unis"
+  ],
+  "P186": [
+   "bois de bouleau",
+   "bois d'épicéa"
+  ]
+ },
+ "vehicules-celebres_solar-impulse": {
+  "qid": "Q141124962",
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "Q742889",
+   "Q105412966"
+  ]
+ },
+ "vehicules-celebres_fusee-de-stephenson": {
+  "qid": "Q777026",
+  "P276": [
+   "musée des Sciences et de l'Industrie"
+  ],
+  "P195": [
+   "Science Museum de Londres",
+   "Patent Office Museum",
+   "Science Museum Group"
+  ],
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P17": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "laiton",
+   "fer",
+   "bois de pin",
+   "acier"
+  ]
+ },
+ "vehicules-celebres_mallard-locomotive": {
+  "qid": "Q1070761",
+  "P276": [
+   "British National Railway Museum"
+  ],
+  "P195": [
+   "British National Railway Museum"
+  ],
+  "P131": [
+   "York"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "leading wheel",
+   "roue motrice",
+   "trailing wheel"
+  ]
+ },
+ "vehicules-celebres_shinkansen": {
+  "qid": "Q164338",
+  "P571": [
+   "1964"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "ligne Shinkansen Tōkaidō",
+   "ligne Shinkansen Sanyō",
+   "ligne Shinkansen Tōhoku",
+   "ligne Shinkansen Jōetsu",
+   "ligne Shinkansen Hokuriku",
+   "ligne Shinkansen Kyūshū",
+   "ligne Shinkansen Hokkaidō"
+  ]
+ },
+ "vehicules-celebres_tgv": {
+  "qid": "Q129337",
+  "P571": [
+   "1981"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "vehicules-celebres_ford-t": {
+  "qid": "Q182323",
+  "P571": [
+   "1908"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_volkswagen-coccinelle": {
+  "qid": "Q152946",
+  "P495": [
+   "Allemagne",
+   "Allemagne de l'Ouest",
+   "Troisième Reich"
+  ],
+  "P527": [
+   "frunk"
+  ]
+ },
+ "vehicules-celebres_citroen-2-cv": {
+  "qid": "Q326015"
+ },
+ "vehicules-celebres_delorean-dmc-12": {
+  "qid": "Q370524",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_titanic": {
+  "qid": "Q25173",
+  "P276": [
+   "océan Atlantique"
+  ],
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "vehicules-celebres_potemkine-cuirasse": {
+  "qid": "Q1123441"
+ },
+ "vehicules-celebres_aurore-croiseur": {
+  "qid": "Q168713",
+  "P131": [
+   "district de Petrograd"
+  ],
+  "P495": [
+   "Empire russe"
+  ],
+  "P17": [
+   "Russie"
+  ]
+ },
+ "vehicules-celebres_hermione-fregate-1779": {
+  "qid": "Q498614",
+  "P571": [
+   "1779"
+  ]
+ },
+ "vehicules-celebres_mary-celeste": {
+  "qid": "Q33209",
+  "P571": [
+   "1861"
+  ],
+  "P17": [
+   "Nouvelle-Écosse"
+  ]
+ },
+ "vehicules-celebres_rainbow-warrior-i": {
+  "qid": "Q627265",
+  "P17": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "vehicules-celebres_pen-duick": {
+  "qid": "Q3015138",
+  "P571": [
+   "1898"
+  ],
+  "P131": [
+   "Lorient"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P186": [
+   "plastique à renfort de verre"
+  ]
+ },
+ "vehicules-celebres_uss-nautilus-ssn-571": {
+  "qid": "Q827360",
+  "P131": [
+   "Groton"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_supermarine-spitfire": {
+  "qid": "Q29190",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_airbus-a380": {
+  "qid": "Q5830",
+  "P495": [
+   "France"
+  ],
+  "P186": [
+   "matériau composite",
+   "plastique à renfort fibre de carbone",
+   "GLARE",
+   "aluminium"
+  ]
+ },
+ "vehicules-celebres_lockheed-sr-71-blackbird": {
+  "qid": "Q190114",
+  "P495": [
+   "États-Unis"
+  ],
+  "P186": [
+   "alliage de titane",
+   "composite laminate"
+  ],
+  "P527": [
+   "Lockheed SR-71A Blackbird",
+   "Lockheed SR-71B Blackbird",
+   "Lockheed SR-71C Blackbird"
+  ]
+ },
+ "vehicules-celebres_air-force-one": {
+  "qid": "Q179969",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_bell-x-1": {
+  "qid": "Q223365",
+  "P571": [
+   "1945"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_antonov-an-225-mriya": {
+  "qid": "Q178351",
+  "P495": [
+   "Union soviétique"
+  ],
+  "P527": [
+   "UR-82060"
+  ]
+ },
+ "vehicules-celebres_transsiberien": {
+  "qid": "Q58767",
+  "P17": [
+   "Russie"
+  ],
+  "P527": [
+   "Chelyabinsk-Glavny — Churilovo",
+   "Churilovo - Kurgan",
+   "Kurgan - Isilkul",
+   "Q112164232",
+   "Karbushevo - Moskovka line",
+   "Q112574317",
+   "Q112624736",
+   "Q112678938",
+   "Q112679033",
+   "Q112679198",
+   "Q112777478",
+   "Q112801448",
+   "Q113483133",
+   "Q113559784",
+   "Q113573846",
+   "Q113574222",
+   "Q113585905",
+   "Irkoutsk-Taïchet",
+   "Irkoutsk - Oulan-Oudé",
+   "Q113671886",
+   "Q113671993",
+   "Q113675678",
+   "Q113680283",
+   "Q113686055",
+   "Q113745964",
+   "Q113791072",
+   "Q113908963",
+   "Q113925614",
+   "Birobidzhan–Volochayevka railway",
+   "Volochayevka–Dezhnyevka railway",
+   "Q113936622",
+   "Q113950904",
+   "Q113952406",
+   "Q113952548",
+   "Q113952711",
+   "Q113954936",
+   "ligne Voynovka - Nazyvaevskaïa"
+  ]
+ },
+ "vehicules-celebres_flying-scotsman": {
+  "qid": "Q1002185",
+  "P571": [
+   "1862"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_big-boy-locomotive": {
+  "qid": "Q933916",
+  "P571": [
+   "1941"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_eurostar": {
+  "qid": "Q156013",
+  "P571": [
+   "1994"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Belgique",
+   "France",
+   "Pays-Bas",
+   "Allemagne"
+  ]
+ },
+ "vehicules-celebres_citroen-ds": {
+  "qid": "Q465966",
+  "P17": [
+   "France"
+  ]
+ },
+ "vehicules-celebres_mini-1959-2000": {
+  "qid": "Q36024",
+  "P571": [
+   "1959"
+  ]
+ },
+ "vehicules-celebres_fiat-500-1957": {
+  "qid": "Q467767"
+ },
+ "vehicules-celebres_renault-4": {
+  "qid": "Q126494766"
+ },
+ "vehicules-celebres_willys-mb": {
+  "qid": "Q495075",
+  "P195": [
+   "musée de l'armement de la Bundeswehr"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_trabant-601": {
+  "qid": "Q644067",
+  "P495": [
+   "République démocratique allemande"
+  ]
+ },
+ "vehicules-celebres_porsche-911": {
+  "qid": "Q219357"
+ },
+ "vehicules-celebres_ferrari-250-gto": {
+  "qid": "Q277339"
+ },
+ "vehicules-celebres_aston-martin-db5": {
+  "qid": "Q749871"
+ },
+ "vehicules-celebres_nicolas-joseph-cugnot": {
+  "qid": "Q210730",
+  "P569": [
+   "1725"
+  ],
+  "P570": [
+   "1804"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "vehicules-celebres_la-jamais-contente": {
+  "qid": "Q256146"
+ },
+ "vehicules-celebres_harley-davidson": {
+  "qid": "Q192814",
+  "P571": [
+   "1903"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "LiveWire"
+  ]
+ },
+ "vehicules-celebres_vespa": {
+  "qid": "Q217673",
+  "P571": [
+   "1946"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "vehicules-celebres_draisienne": {
+  "qid": "Q1255515"
+ },
+ "vehicules-celebres_routemaster": {
+  "qid": "Q938552",
+  "P131": [
+   "Londres"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "vehicules-celebres_cable-cars-de-san-francisco": {
+  "qid": "Q374956",
+  "P571": [
+   "1873"
+  ],
+  "P131": [
+   "San Francisco"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "vehicules-celebres_rover-lunaire-apollo": {
+  "qid": "Q275816"
+ }
+}

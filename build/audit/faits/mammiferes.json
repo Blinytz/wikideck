@@ -1,0 +1,405 @@
+{
+ "mammiferes_lion": {
+  "qid": "Q140"
+ },
+ "mammiferes_tigre": {
+  "qid": "Q19939"
+ },
+ "mammiferes_leopard": {
+  "qid": "Q34706"
+ },
+ "mammiferes_jaguar": {
+  "qid": "Q35694"
+ },
+ "mammiferes_guepard": {
+  "qid": "Q23907"
+ },
+ "mammiferes_puma": {
+  "qid": "Q35255"
+ },
+ "mammiferes_lynx-boreal": {
+  "qid": "Q43375"
+ },
+ "mammiferes_ocelot": {
+  "qid": "Q33261"
+ },
+ "mammiferes_caracal": {
+  "qid": "Q30847"
+ },
+ "mammiferes_ours-blanc": {
+  "qid": "Q33609"
+ },
+ "mammiferes_ours-brun": {
+  "qid": "Q36341"
+ },
+ "mammiferes_ours-noir-d-amerique": {
+  "qid": "Q122783"
+ },
+ "mammiferes_panda-geant": {
+  "qid": "Q33602"
+ },
+ "mammiferes_ailurus": {
+  "qid": "Q19817309"
+ },
+ "mammiferes_elephant-d-afrique": {
+  "qid": "Q185038"
+ },
+ "mammiferes_elephant-d-asie": {
+  "qid": "Q133006"
+ },
+ "mammiferes_rhinoceros-noir": {
+  "qid": "Q95036"
+ },
+ "mammiferes_rhinoceros-blanc": {
+  "qid": "Q159918",
+  "P527": [
+   "rhinocéros blanc du Nord",
+   "Rhinocéros blanc du Sud"
+  ]
+ },
+ "mammiferes_hippopotamidae": {
+  "qid": "Q213336"
+ },
+ "mammiferes_girafe": {
+  "qid": "Q862089",
+  "P527": [
+   "cœur"
+  ]
+ },
+ "mammiferes_okapi": {
+  "qid": "Q82037"
+ },
+ "mammiferes_equus-quagga": {
+  "qid": "Q245305"
+ },
+ "mammiferes_gnou": {
+  "qid": "Q7609"
+ },
+ "mammiferes_buffle-d-afrique": {
+  "qid": "Q160042"
+ },
+ "mammiferes_bison-d-amerique": {
+  "qid": "Q82728"
+ },
+ "mammiferes_canis-lupus": {
+  "qid": "Q18498"
+ },
+ "mammiferes_renard-roux": {
+  "qid": "Q8332"
+ },
+ "mammiferes_fennec": {
+  "qid": "Q131564"
+ },
+ "mammiferes_coyote": {
+  "qid": "Q44299"
+ },
+ "mammiferes_hyene-tachetee": {
+  "qid": "Q178089"
+ },
+ "mammiferes_lycaon-animal": {
+  "qid": "Q173651"
+ },
+ "mammiferes_gorille-de-l-ouest": {
+  "qid": "Q737838"
+ },
+ "mammiferes_chimpanze": {
+  "qid": "Q80174",
+  "P527": [
+   "cerveau"
+  ]
+ },
+ "mammiferes_bonobo": {
+  "qid": "Q19537"
+ },
+ "mammiferes_orang-outan": {
+  "qid": "Q41050",
+  "P527": [
+   "Orang-outan de Bornéo",
+   "Orang-outan de Sumatra"
+  ]
+ },
+ "mammiferes_hylobatidae": {
+  "qid": "Q185939"
+ },
+ "mammiferes_babouin": {
+  "qid": "Q159429"
+ },
+ "mammiferes_macaque": {
+  "qid": "Q177601"
+ },
+ "mammiferes_lemur-catta": {
+  "qid": "Q185385"
+ },
+ "mammiferes_aye-aye": {
+  "qid": "Q186778"
+ },
+ "mammiferes_koala": {
+  "qid": "Q36101"
+ },
+ "mammiferes_kangourou-roux": {
+  "qid": "Q53462"
+ },
+ "mammiferes_wallaby": {
+  "qid": "Q623169"
+ },
+ "mammiferes_wombat": {
+  "qid": "Q23175"
+ },
+ "mammiferes_quokka": {
+  "qid": "Q726151"
+ },
+ "mammiferes_diable-de-tasmanie": {
+  "qid": "Q134964"
+ },
+ "mammiferes_ornithorynque": {
+  "qid": "Q15343"
+ },
+ "mammiferes_echidne": {
+  "qid": "Q21824"
+ },
+ "mammiferes_paresseux-a-trois-doigts": {
+  "qid": "Q142715"
+ },
+ "mammiferes_priodontes-maximus": {
+  "qid": "Q755719"
+ },
+ "mammiferes_manidae": {
+  "qid": "Q9027425"
+ },
+ "mammiferes_tamanoir": {
+  "qid": "Q203033"
+ },
+ "mammiferes_lutrinae": {
+  "qid": "Q200184"
+ },
+ "mammiferes_blaireau-europeen": {
+  "qid": "Q27066"
+ },
+ "mammiferes_ecureuil-roux": {
+  "qid": "Q4388"
+ },
+ "mammiferes_herisson": {
+  "qid": "Q3145037"
+ },
+ "mammiferes_desmodontinae": {
+  "qid": "Q190691"
+ },
+ "mammiferes_baleine-bleue": {
+  "qid": "Q42196"
+ },
+ "mammiferes_baleine-a-bosse": {
+  "qid": "Q132905"
+ },
+ "mammiferes_physeteroidea": {
+  "qid": "Q21446362"
+ },
+ "mammiferes_orque": {
+  "qid": "Q26843"
+ },
+ "mammiferes_narval": {
+  "qid": "Q159426"
+ },
+ "mammiferes_elephant-de-mer": {
+  "qid": "Q185231"
+ },
+ "mammiferes_otariidae": {
+  "qid": "Q26700"
+ },
+ "mammiferes_morse-animal": {
+  "qid": "Q40994"
+ },
+ "mammiferes_suricate": {
+  "qid": "Q134015"
+ },
+ "mammiferes_furet": {
+  "qid": "Q178973"
+ },
+ "mammiferes_hermine": {
+  "qid": "Q140402596"
+ },
+ "mammiferes_sanglier": {
+  "qid": "Q58697"
+ },
+ "mammiferes_cerf-elaphe": {
+  "qid": "Q79794"
+ },
+ "mammiferes_rangifer-tarandus": {
+  "qid": "Q39624"
+ },
+ "mammiferes_alces": {
+  "qid": "Q10731891"
+ },
+ "mammiferes_chevreuil": {
+  "qid": "Q125349744"
+ },
+ "mammiferes_gazelle-de-thomson": {
+  "qid": "Q271705"
+ },
+ "mammiferes_tapir": {
+  "qid": "Q128001"
+ },
+ "mammiferes_chameau-de-bactriane": {
+  "qid": "Q132922"
+ },
+ "mammiferes_dromadaire": {
+  "qid": "Q71516"
+ },
+ "mammiferes_lama-animal": {
+  "qid": "Q42569"
+ },
+ "mammiferes_alpaga": {
+  "qid": "Q81564"
+ },
+ "mammiferes_cheval-de-przewalski": {
+  "qid": "Q22712"
+ },
+ "mammiferes_hydrochoerus-hydrochaeris": {
+  "qid": "Q131538"
+ },
+ "mammiferes_chat-nom-vernaculaire": {
+  "qid": "Q2961477"
+ },
+ "mammiferes_vache": {
+  "qid": "Q11748378"
+ },
+ "mammiferes_cochon-nain": {
+  "qid": "Q767508"
+ },
+ "mammiferes_mouton": {
+  "qid": "Q7368",
+  "P527": [
+   "Ovis orientalis aries",
+   "Ovis"
+  ]
+ },
+ "mammiferes_chevre": {
+  "qid": "Q2934",
+  "P527": [
+   "corne"
+  ]
+ },
+ "mammiferes_cheval": {
+  "qid": "Q726",
+  "P527": [
+   "pied de cheval",
+   "Queue du cheval",
+   "Dos",
+   "denture du cheval",
+   "Œil du cheval",
+   "oreille du cheval",
+   "étalon",
+   "jument",
+   "horse head",
+   "crin de cheval",
+   "fourrure"
+  ]
+ },
+ "mammiferes_oryctolagus-cuniculus": {
+  "qid": "Q25851"
+ },
+ "mammiferes_rattus": {
+  "qid": "Q36396"
+ },
+ "mammiferes_souris-bleue-grise": {
+  "qid": "Q83310"
+ },
+ "mammiferes_panthere-des-neiges": {
+  "qid": "Q30197"
+ },
+ "mammiferes_raton-laveur": {
+  "qid": "Q121439"
+ },
+ "mammiferes_mephitis-mephitis": {
+  "qid": "Q368495"
+ },
+ "mammiferes_porc-epic": {
+  "qid": "Q1223829"
+ },
+ "mammiferes_marmota-marmota": {
+  "qid": "Q285884"
+ },
+ "mammiferes_mandrillus-sphinx": {
+  "qid": "Q189868"
+ },
+ "mammiferes_ane": {
+  "qid": "Q3537778"
+ },
+ "mammiferes_hamster-dore": {
+  "qid": "Q204175"
+ },
+ "mammiferes_cavia-porcellus": {
+  "qid": "Q79803"
+ },
+ "mammiferes_yack": {
+  "qid": "Q13408062"
+ },
+ "mammiferes_bouquetin-des-alpes": {
+  "qid": "Q168327"
+ },
+ "mammiferes_chamois": {
+  "qid": "Q131340"
+ },
+ "mammiferes_b-uf-musque": {
+  "qid": "Q184004"
+ },
+ "mammiferes_impala": {
+  "qid": "Q132576"
+ },
+ "mammiferes_oryx-gazelle": {
+  "qid": "Q207043"
+ },
+ "mammiferes_orycterope": {
+  "qid": "Q46212"
+ },
+ "mammiferes_lievre-d-europe": {
+  "qid": "Q26838"
+ },
+ "mammiferes_taupe-d-europe": {
+  "qid": "Q209067"
+ },
+ "mammiferes_mustela-nivalis": {
+  "qid": "Q25311"
+ },
+ "mammiferes_musaraigne": {
+  "qid": "Q26037433"
+ },
+ "mammiferes_lamantin": {
+  "qid": "Q42797"
+ },
+ "mammiferes_dugong": {
+  "qid": "Q129544"
+ },
+ "mammiferes_chacal-dore": {
+  "qid": "Q128098"
+ },
+ "mammiferes_renard-polaire": {
+  "qid": "Q82738"
+ },
+ "mammiferes_dingo-chien-sauvage": {
+  "qid": "Q38584"
+ },
+ "mammiferes_loup-a-criniere": {
+  "qid": "Q184389"
+ },
+ "mammiferes_serval": {
+  "qid": "Q42699"
+ },
+ "mammiferes_fossa-animal": {
+  "qid": "Q183330"
+ },
+ "mammiferes_herpestidae": {
+  "qid": "Q80479"
+ },
+ "mammiferes_gulo-gulo": {
+  "qid": "Q14334"
+ },
+ "mammiferes_ratel": {
+  "qid": "Q173128"
+ },
+ "mammiferes_tarsier": {
+  "qid": "Q1114471"
+ },
+ "mammiferes_callithrix-jacchus": {
+  "qid": "Q838947"
+ }
+}

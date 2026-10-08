@@ -1,0 +1,182 @@
+{
+ "reptiles-et-amphibiens_crocodile-du-nil": {
+  "qid": "Q168745"
+ },
+ "reptiles-et-amphibiens_crocodile-marin": {
+  "qid": "Q182599"
+ },
+ "reptiles-et-amphibiens_alligator-d-amerique": {
+  "qid": "Q193327"
+ },
+ "reptiles-et-amphibiens_gavial-du-gange": {
+  "qid": "Q17134"
+ },
+ "reptiles-et-amphibiens_eunectes-murinus": {
+  "qid": "Q207347"
+ },
+ "reptiles-et-amphibiens_python-reticule": {
+  "qid": "Q216136"
+ },
+ "reptiles-et-amphibiens_boa-constricteur": {
+  "qid": "Q215388"
+ },
+ "reptiles-et-amphibiens_cobra-royal": {
+  "qid": "Q48186"
+ },
+ "reptiles-et-amphibiens_dendroaspis-polylepis": {
+  "qid": "Q188690"
+ },
+ "reptiles-et-amphibiens_vipere-a-cornes": {
+  "qid": "Q1476343"
+ },
+ "reptiles-et-amphibiens_crotale-diamantin": {
+  "qid": "Q744532"
+ },
+ "reptiles-et-amphibiens_couleuvre-a-collier": {
+  "qid": "Q2998810"
+ },
+ "reptiles-et-amphibiens_iguana-iguana": {
+  "qid": "Q215376"
+ },
+ "reptiles-et-amphibiens_iguane-marin-des-galapagos": {
+  "qid": "Q208796"
+ },
+ "reptiles-et-amphibiens_furcifer-pardalis": {
+  "qid": "Q838578"
+ },
+ "reptiles-et-amphibiens_gecko-leopard": {
+  "qid": "Q256860"
+ },
+ "reptiles-et-amphibiens_varan-du-nil": {
+  "qid": "Q737896"
+ },
+ "reptiles-et-amphibiens_dragon-de-komodo": {
+  "qid": "Q4504"
+ },
+ "reptiles-et-amphibiens_tortue-geante-des-galapagos": {
+  "qid": "Q20014035",
+  "P527": [
+   "Chelonoidis nigra nigra",
+   "Chelonoidis abingdonii",
+   "Chelonoidis becki",
+   "Chelonoidis chathamensis",
+   "Chelonoidis darwini",
+   "Chelonoidis duncanensis",
+   "Chelonoidis hoodensis",
+   "Chelonoidis phantastica",
+   "Chelonoidis porteri",
+   "Chelonoidis vicina"
+  ]
+ },
+ "reptiles-et-amphibiens_tortue-luth": {
+  "qid": "Q120043"
+ },
+ "reptiles-et-amphibiens_tortue-de-floride": {
+  "qid": "Q207839"
+ },
+ "reptiles-et-amphibiens_basiliscus-plumifrons": {
+  "qid": "Q753071"
+ },
+ "reptiles-et-amphibiens_ouaouaron": {
+  "qid": "Q159404"
+ },
+ "reptiles-et-amphibiens_crapaud-commun": {
+  "qid": "Q146375"
+ },
+ "reptiles-et-amphibiens_andrias-japonicus": {
+  "qid": "Q112045"
+ },
+ "reptiles-et-amphibiens_salamandre-maculee": {
+  "qid": "Q26395"
+ },
+ "reptiles-et-amphibiens_axolotl": {
+  "qid": "Q22718"
+ },
+ "reptiles-et-amphibiens_rainette-verte": {
+  "qid": "Q2142057"
+ },
+ "reptiles-et-amphibiens_lezard-a-collerette": {
+  "qid": "Q501566"
+ },
+ "reptiles-et-amphibiens_dendrobates": {
+  "qid": "Q683090"
+ },
+ "reptiles-et-amphibiens_rainette-aux-yeux-rouges": {
+  "qid": "Q337616"
+ },
+ "reptiles-et-amphibiens_centrolenidae": {
+  "qid": "Q53752"
+ },
+ "reptiles-et-amphibiens_conraua-goliath": {
+  "qid": "Q739887"
+ },
+ "reptiles-et-amphibiens_caecilia": {
+  "qid": "Q371468"
+ },
+ "reptiles-et-amphibiens_protee-anguillard": {
+  "qid": "Q15856"
+ },
+ "reptiles-et-amphibiens_sphenodon": {
+  "qid": "Q163283"
+ },
+ "reptiles-et-amphibiens_taipan-du-desert": {
+  "qid": "Q72934"
+ },
+ "reptiles-et-amphibiens_vipere-du-gabon": {
+  "qid": "Q371183",
+  "P17": [
+   "Gabon"
+  ]
+ },
+ "reptiles-et-amphibiens_monstre-de-gila": {
+  "qid": "Q207058"
+ },
+ "reptiles-et-amphibiens_tortue-verte": {
+  "qid": "Q199458"
+ },
+ "reptiles-et-amphibiens_caiman-a-lunettes": {
+  "qid": "Q272582"
+ },
+ "reptiles-et-amphibiens_macrochelys-temminckii": {
+  "qid": "Q457872"
+ },
+ "reptiles-et-amphibiens_tortue-d-hermann": {
+  "qid": "Q262555"
+ },
+ "reptiles-et-amphibiens_caretta-caretta": {
+  "qid": "Q192095"
+ },
+ "reptiles-et-amphibiens_cobra-indien": {
+  "qid": "Q192754"
+ },
+ "reptiles-et-amphibiens_python-royal": {
+  "qid": "Q464424"
+ },
+ "reptiles-et-amphibiens_vipere-aspic": {
+  "qid": "Q572447"
+ },
+ "reptiles-et-amphibiens_anguis-fragilis": {
+  "qid": "Q183660"
+ },
+ "reptiles-et-amphibiens_lezard-des-murailles": {
+  "qid": "Q186615"
+ },
+ "reptiles-et-amphibiens_lacerta-bilineata": {
+  "qid": "Q739025"
+ },
+ "reptiles-et-amphibiens_moloch-horridus": {
+  "qid": "Q320665",
+  "P527": [
+   "dew collector"
+  ]
+ },
+ "reptiles-et-amphibiens_pogona-vitticeps": {
+  "qid": "Q792301"
+ },
+ "reptiles-et-amphibiens_triton-alpestre": {
+  "qid": "Q282715"
+ },
+ "reptiles-et-amphibiens_rhinella-marina": {
+  "qid": "Q321087"
+ }
+}

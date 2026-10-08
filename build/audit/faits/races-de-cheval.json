@@ -1,0 +1,398 @@
+{
+ "races-de-cheval_pur-sang": {
+  "qid": "Q210826",
+  "P571": [
+   "1793"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-cheval_frison-cheval": {
+  "qid": "Q388952",
+  "P495": [
+   "Pays-Bas"
+  ]
+ },
+ "races-de-cheval_pure-race-espagnole": {
+  "qid": "Q693336",
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "races-de-cheval_lipizzan": {
+  "qid": "Q217671",
+  "P495": [
+   "Slovénie",
+   "Autriche"
+  ]
+ },
+ "races-de-cheval_akhal-teke": {
+  "qid": "Q472753",
+  "P495": [
+   "Turkménistan"
+  ],
+  "P17": [
+   "Turkménistan"
+  ]
+ },
+ "races-de-cheval_quarter-horse": {
+  "qid": "Q466602",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-cheval_appaloosa": {
+  "qid": "Q620656",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-cheval_mustang-cheval": {
+  "qid": "Q211848",
+  "P495": [
+   "États-Unis",
+   "Canada"
+  ],
+  "P527": [
+   "Mustang de Cerbat",
+   "Kiger Mustang",
+   "Mustang des monts Pryor"
+  ]
+ },
+ "races-de-cheval_shire-cheval": {
+  "qid": "Q40728",
+  "P571": [
+   "1878"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-cheval_percheron": {
+  "qid": "Q1232528",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_trait-belge": {
+  "qid": "Q896476",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-cheval_clydesdale": {
+  "qid": "Q796188",
+  "P131": [
+   "South Lanarkshire",
+   "Strathclyde"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-cheval_haflinger": {
+  "qid": "Q609630",
+  "P495": [
+   "Autriche",
+   "Italie"
+  ],
+  "P527": [
+   "Avelignese"
+  ]
+ },
+ "races-de-cheval_fjord-cheval": {
+  "qid": "Q857040",
+  "P495": [
+   "Norvège"
+  ]
+ },
+ "races-de-cheval_shetland-cheval": {
+  "qid": "Q214720",
+  "P495": [
+   "Écosse"
+  ],
+  "P527": [
+   "Mini-Shetland"
+  ]
+ },
+ "races-de-cheval_connemara-cheval": {
+  "qid": "Q848812",
+  "P571": [
+   "1923"
+  ],
+  "P495": [
+   "Irlande"
+  ]
+ },
+ "races-de-cheval_camargue-cheval": {
+  "qid": "Q846312",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_selle-francais": {
+  "qid": "Q1070901",
+  "P571": [
+   "1958"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "Charentais",
+   "Demi-sang de la Dombes",
+   "Charolais",
+   "Angevin",
+   "Anglo-normand"
+  ]
+ },
+ "races-de-cheval_hanovrien": {
+  "qid": "Q1501738",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-cheval_holsteiner": {
+  "qid": "Q571149",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-cheval_trakehner": {
+  "qid": "Q843585",
+  "P495": [
+   "Prusse"
+  ]
+ },
+ "races-de-cheval_oldenbourg-cheval": {
+  "qid": "Q166777",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-cheval_lusitanien-cheval": {
+  "qid": "Q937595",
+  "P571": [
+   "1967"
+  ],
+  "P495": [
+   "Portugal"
+  ]
+ },
+ "races-de-cheval_marwari-cheval": {
+  "qid": "Q202616",
+  "P495": [
+   "Inde"
+  ]
+ },
+ "races-de-cheval_criollo": {
+  "qid": "Q1140113",
+  "P495": [
+   "Argentine",
+   "Cuba",
+   "Brésil",
+   "Uruguay",
+   "Paraguay",
+   "Chili"
+  ]
+ },
+ "races-de-cheval_paso-fino": {
+  "qid": "Q636775",
+  "P495": [
+   "Porto Rico",
+   "Colombie"
+  ]
+ },
+ "races-de-cheval_tennessee-walker": {
+  "qid": "Q1708738",
+  "P495": [
+   "Tennessee"
+  ]
+ },
+ "races-de-cheval_morgan-cheval": {
+  "qid": "Q1179217",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-cheval_ardennais-cheval": {
+  "qid": "Q638976",
+  "P495": [
+   "France",
+   "Belgique"
+  ]
+ },
+ "races-de-cheval_boulonnais-cheval": {
+  "qid": "Q588252",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_comtois-cheval": {
+  "qid": "Q1122935",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_welsh-cheval": {
+  "qid": "Q1096752",
+  "P495": [
+   "pays de Galles"
+  ],
+  "P527": [
+   "Welsh B",
+   "Poney gallois de montagne",
+   "Welsh de type cob",
+   "Welsh cob",
+   "Welsh Part-Bred"
+  ]
+ },
+ "races-de-cheval_trotteur-francais": {
+  "qid": "Q1452492",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_standardbred": {
+  "qid": "Q467024",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-cheval_barbe-cheval": {
+  "qid": "Q251505",
+  "P495": [
+   "Maroc",
+   "Algérie",
+   "Tunisie"
+  ]
+ },
+ "races-de-cheval_konik": {
+  "qid": "Q206557",
+  "P495": [
+   "Pologne"
+  ]
+ },
+ "races-de-cheval_falabella": {
+  "qid": "Q613922",
+  "P495": [
+   "Argentine"
+  ]
+ },
+ "races-de-cheval_breton-cheval": {
+  "qid": "Q514553",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_merens-cheval": {
+  "qid": "Q605306",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_pottok": {
+  "qid": "Q1890204",
+  "P495": [
+   "Espagne",
+   "France"
+  ]
+ },
+ "races-de-cheval_poitevin-mulassier": {
+  "qid": "Q250799",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_cob-normand": {
+  "qid": "Q1703923",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-cheval_arabe-cheval": {
+  "qid": "Q184138",
+  "P495": [
+   "Arabie saoudite",
+   "Yémen",
+   "Oman",
+   "Qatar",
+   "Émirats arabes unis",
+   "Bahreïn"
+  ],
+  "P527": [
+   "Arabe polonais",
+   "Arabe syrien",
+   "Arabe égyptien",
+   "Arabe turc",
+   "Arabe persan"
+  ]
+ },
+ "races-de-cheval_knabstrup": {
+  "qid": "Q1776843",
+  "P495": [
+   "Danemark"
+  ]
+ },
+ "races-de-cheval_paint-horse": {
+  "qid": "Q692939",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-cheval_trotteur-d-orlov": {
+  "qid": "Q516612",
+  "P571": [
+   "1784"
+  ],
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-cheval_hackney-cheval": {
+  "qid": "Q635926",
+  "P571": [
+   "1883"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-cheval_islandais-cheval": {
+  "qid": "Q262924",
+  "P495": [
+   "Islande"
+  ]
+ },
+ "races-de-cheval_mongol-cheval": {
+  "qid": "Q1195193",
+  "P495": [
+   "Mongolie"
+  ],
+  "P527": [
+   "Mongol chinois",
+   "Tes",
+   "Galshar"
+  ]
+ },
+ "races-de-cheval_brumby": {
+  "qid": "Q850232",
+  "P495": [
+   "Australie"
+  ]
+ },
+ "races-de-cheval_cob-gypsy": {
+  "qid": "Q516970",
+  "P495": [
+   "Royaume-Uni",
+   "Irlande"
+  ]
+ },
+ "races-de-cheval_suffolk-punch": {
+  "qid": "Q788030",
+  "P495": [
+   "Angleterre"
+  ]
+ }
+}

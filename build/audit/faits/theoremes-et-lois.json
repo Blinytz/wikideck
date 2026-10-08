@@ -1,0 +1,211 @@
+{
+ "theoremes-et-lois_theoreme-de-pythagore": {
+  "qid": "Q11518"
+ },
+ "theoremes-et-lois_theoreme-de-thales": {
+  "qid": "Q3757563"
+ },
+ "theoremes-et-lois_poussee-d-archimede": {
+  "qid": "Q181404",
+  "P571": [
+   "-250"
+  ],
+  "P276": [
+   "Syracuse ancienne"
+  ],
+  "P50": [
+   "Archimède"
+  ]
+ },
+ "theoremes-et-lois_lois-du-mouvement-de-newton": {
+  "qid": "Q38433",
+  "P577": [
+   "1687"
+  ],
+  "P527": [
+   "première loi de Newton",
+   "principe fondamental de la dynamique",
+   "troisième loi de Newton"
+  ]
+ },
+ "theoremes-et-lois_loi-universelle-de-la-gravitation": {
+  "qid": "Q134465"
+ },
+ "theoremes-et-lois_lois-de-kepler": {
+  "qid": "Q83219",
+  "P571": [
+   "1609"
+  ],
+  "P527": [
+   "première loi de Kepler",
+   "deuxième loi de Kepler",
+   "troisième loi de Kepler"
+  ]
+ },
+ "theoremes-et-lois_relativite-restreinte": {
+  "qid": "Q11455",
+  "P571": [
+   "1905"
+  ]
+ },
+ "theoremes-et-lois_relativite-generale": {
+  "qid": "Q11452",
+  "P571": [
+   "1916"
+  ],
+  "P527": [
+   "équation d'Einstein"
+  ]
+ },
+ "theoremes-et-lois_e-mc2": {
+  "qid": "Q35875"
+ },
+ "theoremes-et-lois_principe-d-incertitude": {
+  "qid": "Q44746",
+  "P800": [
+   "Je Suis"
+  ]
+ },
+ "theoremes-et-lois_loi-d-ohm": {
+  "qid": "Q41591"
+ },
+ "theoremes-et-lois_equations-de-maxwell": {
+  "qid": "Q51501",
+  "P577": [
+   "1861"
+  ],
+  "P527": [
+   "théorème de Gauss",
+   "Gauss's law for magnetism",
+   "loi de Lenz-Faraday",
+   "Théorème d'Ampère"
+  ]
+ },
+ "theoremes-et-lois_conservation-de-l-energie": {
+  "qid": "Q11382",
+  "P527": [
+   "énergie"
+  ]
+ },
+ "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
+  "qid": "Q179380"
+ },
+ "theoremes-et-lois_deuxieme-principe-de-la-thermodynamique": {
+  "qid": "Q177045"
+ },
+ "theoremes-et-lois_loi-de-boyle-mariotte": {
+  "qid": "Q175974"
+ },
+ "theoremes-et-lois_loi-d-avogadro": {
+  "qid": "Q170431"
+ },
+ "theoremes-et-lois_loi-de-coulomb-electrostatique": {
+  "qid": "Q83152"
+ },
+ "theoremes-et-lois_conservation-de-la-masse": {
+  "qid": "Q483948",
+  "P527": [
+   "law of conservation of mass in chemistry"
+  ]
+ },
+ "theoremes-et-lois_loi-de-hooke": {
+  "qid": "Q170282"
+ },
+ "theoremes-et-lois_principe-de-pascal": {
+  "qid": "Q190760"
+ },
+ "theoremes-et-lois_effet-doppler": {
+  "qid": "Q76436"
+ },
+ "theoremes-et-lois_lois-de-snell-descartes": {
+  "qid": "Q208391"
+ },
+ "theoremes-et-lois_dernier-theoreme-de-fermat": {
+  "qid": "Q132469",
+  "P571": [
+   "1637"
+  ]
+ },
+ "theoremes-et-lois_theoremes-d-incompletude-de-godel": {
+  "qid": "Q200787",
+  "P527": [
+   "premier théorème d'incomplétude de Gödel",
+   "second théorème d'incomplétude de Gödel"
+  ]
+ },
+ "theoremes-et-lois_suite-de-fibonacci": {
+  "qid": "Q23835349"
+ },
+ "theoremes-et-lois_nombre-d-or": {
+  "qid": "Q41690",
+  "P527": [
+   "Golden ratio in art"
+  ]
+ },
+ "theoremes-et-lois_pi": {
+  "qid": "Q167"
+ },
+ "theoremes-et-lois_theoreme-des-quatre-couleurs": {
+  "qid": "Q184410"
+ },
+ "theoremes-et-lois_conjecture-de-poincare": {
+  "qid": "Q203586"
+ },
+ "theoremes-et-lois_loi-de-moore": {
+  "qid": "Q178655",
+  "P571": [
+   "1975"
+  ]
+ },
+ "theoremes-et-lois_selection-naturelle": {
+  "qid": "Q43478"
+ },
+ "theoremes-et-lois_lois-de-mendel": {
+  "qid": "Q185055"
+ },
+ "theoremes-et-lois_big-bang": {
+  "qid": "Q323"
+ },
+ "theoremes-et-lois_tectonique-des-plaques": {
+  "qid": "Q7950",
+  "P577": [
+   "1965"
+  ]
+ },
+ "theoremes-et-lois_effet-photoelectrique": {
+  "qid": "Q83213",
+  "P527": [
+   "photoélectron"
+  ]
+ },
+ "theoremes-et-lois_theoreme-de-bayes": {
+  "qid": "Q182505"
+ },
+ "theoremes-et-lois_loi-de-hubble-lemaitre": {
+  "qid": "Q179916"
+ },
+ "theoremes-et-lois_equation-de-schrodinger": {
+  "qid": "Q165498",
+  "P571": [
+   "1923"
+  ],
+  "P50": [
+   "Louis de Broglie"
+  ]
+ },
+ "theoremes-et-lois_induction-electromagnetique": {
+  "qid": "Q988780"
+ },
+ "theoremes-et-lois_loi-des-gaz-parfaits": {
+  "qid": "Q191785"
+ },
+ "theoremes-et-lois_theorie-du-chaos": {
+  "qid": "Q166314"
+ },
+ "theoremes-et-lois_paradoxes-de-zenon": {
+  "qid": "Q33378",
+  "P50": [
+   "Zénon d'Élée"
+  ]
+ }
+}

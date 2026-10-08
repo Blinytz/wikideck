@@ -1,0 +1,315 @@
+{
+ "fetes-religieuses_noel": {
+  "qid": "Q19809",
+  "P527": [
+   "veillée de Noël",
+   "jour de Noël",
+   "fête de la Saint-Étienne",
+   "seconde nuit de Noël",
+   "lendemain de Noël"
+  ]
+ },
+ "fetes-religieuses_paques": {
+  "qid": "Q21196",
+  "P527": [
+   "virvonta"
+  ]
+ },
+ "fetes-religieuses_pentecote": {
+  "qid": "Q39864"
+ },
+ "fetes-religieuses_ascension-fete": {
+  "qid": "Q51638"
+ },
+ "fetes-religieuses_toussaint": {
+  "qid": "Q587"
+ },
+ "fetes-religieuses_epiphanie": {
+  "qid": "Q132001",
+  "P527": [
+   "gift-seeking custom"
+  ]
+ },
+ "fetes-religieuses_careme": {
+  "qid": "Q82866",
+  "P527": [
+   "mercredi des Cendres",
+   "Semaine sainte",
+   "Quatrième dimanche de Carême",
+   "Invocabit",
+   "Triduum",
+   "Reminiscere",
+   "Oculi",
+   "Dimanche de la Passion",
+   "dimanche des Rameaux"
+  ]
+ },
+ "fetes-religieuses_mardi-gras": {
+  "qid": "Q35105",
+  "P17": [
+   "États-Unis",
+   "France",
+   "Italie"
+  ]
+ },
+ "fetes-religieuses_assomption": {
+  "qid": "Q162691",
+  "P577": [
+   "1950"
+  ]
+ },
+ "fetes-religieuses_chandeleur": {
+  "qid": "Q18647897"
+ },
+ "fetes-religieuses_dimanche-des-rameaux": {
+  "qid": "Q42236"
+ },
+ "fetes-religieuses_ramadan": {
+  "qid": "Q41662"
+ },
+ "fetes-religieuses_aid-el-fitr": {
+  "qid": "Q464458",
+  "P17": [
+   "mondial"
+  ]
+ },
+ "fetes-religieuses_aid-al-adha": {
+  "qid": "Q514400",
+  "P170": [
+   "Dieu en Islam",
+   "Rabb",
+   "Allah",
+   "Allah"
+  ],
+  "P276": [
+   "civilisation islamique",
+   "monde arabe",
+   "monde",
+   "mondial",
+   "Levant"
+  ]
+ },
+ "fetes-religieuses_mawlid": {
+  "qid": "Q193027",
+  "P276": [
+   "civilisation islamique",
+   "monde arabe"
+  ]
+ },
+ "fetes-religieuses_achoura": {
+  "qid": "Q183283",
+  "P276": [
+   "civilisation islamique",
+   "monde arabe"
+  ]
+ },
+ "fetes-religieuses_pessa-h": {
+  "qid": "Q121393"
+ },
+ "fetes-religieuses_yom-kippour": {
+  "qid": "Q132994"
+ },
+ "fetes-religieuses_roch-hachana": {
+  "qid": "Q131028"
+ },
+ "fetes-religieuses_hanoucca": {
+  "qid": "Q130881"
+ },
+ "fetes-religieuses_pourim": {
+  "qid": "Q180115"
+ },
+ "fetes-religieuses_souccot": {
+  "qid": "Q182242",
+  "P527": [
+   "Q25490618",
+   "Hoshanna Rabba"
+  ]
+ },
+ "fetes-religieuses_divali": {
+  "qid": "Q10244",
+  "P17": [
+   "Inde",
+   "Fidji",
+   "Guyana",
+   "Maurice",
+   "Singapour",
+   "Sri Lanka",
+   "Népal",
+   "Suriname",
+   "Birmanie",
+   "Trinité-et-Tobago",
+   "Bangladesh"
+  ],
+  "P527": [
+   "Dhanteras",
+   "Naraka Chaturdashi",
+   "Lakshmi Puja",
+   "Balipratipada",
+   "Bhau-beej"
+  ]
+ },
+ "fetes-religieuses_holi": {
+  "qid": "Q10259",
+  "P17": [
+   "Inde",
+   "Pays-Bas",
+   "Népal",
+   "mondial"
+  ]
+ },
+ "fetes-religieuses_vesak": {
+  "qid": "Q215700"
+ },
+ "fetes-religieuses_nouvel-an-chinois": {
+  "qid": "Q131772",
+  "P17": [
+   "république populaire de Chine"
+  ]
+ },
+ "fetes-religieuses_o-bon": {
+  "qid": "Q1154888",
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "mukaebi",
+   "okuribi",
+   "Bon Odori",
+   "Segaki",
+   "Lanterne flottante",
+   "Spirit Boat Procession",
+   "Funekko Nagashi",
+   "Eisa (danse)",
+   "Angama"
+  ]
+ },
+ "fetes-religieuses_baisakhi": {
+  "qid": "Q2461213",
+  "P17": [
+   "Inde",
+   "Pakistan"
+  ]
+ },
+ "fetes-religieuses_navratri": {
+  "qid": "Q10269",
+  "P17": [
+   "Inde"
+  ],
+  "P527": [
+   "Durga Ashtami"
+  ]
+ },
+ "fetes-religieuses_kumbh-mela": {
+  "qid": "Q10283",
+  "P17": [
+   "Inde"
+  ]
+ },
+ "fetes-religieuses_norouz": {
+  "qid": "Q483236",
+  "P495": [
+   "Empire achéménide",
+   "Afghanistan",
+   "Azerbaïdjan",
+   "Inde",
+   "Iran",
+   "Irak",
+   "Kazakhstan",
+   "Kirghizistan",
+   "Ouzbékistan",
+   "Pakistan",
+   "Tadjikistan",
+   "Turkménistan",
+   "Turquie"
+  ],
+  "P17": [
+   "Turquie",
+   "Iran",
+   "Afghanistan",
+   "Tadjikistan",
+   "Azerbaïdjan",
+   "Kurdistan",
+   "Irak",
+   "Albanie",
+   "Bosnie-Herzégovine",
+   "république populaire de Chine",
+   "Géorgie",
+   "Inde",
+   "Kazakhstan",
+   "Kirghizistan",
+   "Kosovo",
+   "Macédoine du Nord",
+   "Ouzbékistan",
+   "Pakistan",
+   "Russie",
+   "Serbie",
+   "Syrie",
+   "Turkménistan",
+   "Ukraine"
+  ]
+ },
+ "fetes-religieuses_jour-des-morts-mexique": {
+  "qid": "Q309256",
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "fetes-religieuses_vendredi-saint": {
+  "qid": "Q40317"
+ },
+ "fetes-religieuses_chavouot": {
+  "qid": "Q201196"
+ },
+ "fetes-religieuses_fete-dieu": {
+  "qid": "Q152395",
+  "P527": [
+   "Procession de la Fête-Dieu"
+  ]
+ },
+ "fetes-religieuses_laylat-al-qadr": {
+  "qid": "Q216452",
+  "P571": [
+   "631"
+  ],
+  "P276": [
+   "univers",
+   "monde",
+   "mondial"
+  ],
+  "P495": [
+   "Hedjaz"
+  ],
+  "P50": [
+   "Dieu en Islam"
+  ],
+  "P136": [
+   "pratique spirituelle",
+   "activité religieuse"
+  ],
+  "P527": [
+   "Dhikr",
+   "Douâa",
+   "Wird",
+   "Wazifa",
+   "Morning and Evening Prayers",
+   "pensée",
+   "pensée",
+   "Tilawa",
+   "Prière surérogatoire",
+   "Qiyam al-Layl",
+   "Tarawih",
+   "Tahajjud",
+   "Qunut",
+   "Levée des mains lors du Dua"
+  ]
+ },
+ "fetes-religieuses_ganesh-chaturthi": {
+  "qid": "Q929250",
+  "P17": [
+   "Inde"
+  ]
+ },
+ "fetes-religieuses_fete-de-la-saint-patrick": {
+  "qid": "Q181817"
+ }
+}

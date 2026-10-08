@@ -1,0 +1,182 @@
+{
+ "insectes_apis-mellifera": {
+  "qid": "Q30034"
+ },
+ "insectes_bourdon-terrestre": {
+  "qid": "Q752274"
+ },
+ "insectes_vespula-vulgaris": {
+  "qid": "Q260482"
+ },
+ "insectes_vespa-crabro": {
+  "qid": "Q30258"
+ },
+ "insectes_vespa-velutina": {
+  "qid": "Q136668"
+ },
+ "insectes_lasius-niger": {
+  "qid": "Q839823"
+ },
+ "insectes_formica-rufa": {
+  "qid": "Q148769"
+ },
+ "insectes_camponotus": {
+  "qid": "Q157875"
+ },
+ "insectes_fourmi-legionnaire": {
+  "qid": "Q332747"
+ },
+ "insectes_termite": {
+  "qid": "Q546583"
+ },
+ "insectes_monarque-papillon": {
+  "qid": "Q212398"
+ },
+ "insectes_paon-du-jour": {
+  "qid": "Q158699"
+ },
+ "insectes_machaon-papillon": {
+  "qid": "Q179530"
+ },
+ "insectes_pieride-du-chou": {
+  "qid": "Q26764"
+ },
+ "insectes_sphinx-tete-de-mort": {
+  "qid": "Q41524"
+ },
+ "insectes_moro-sphinx": {
+  "qid": "Q369034"
+ },
+ "insectes_morpho-helenor": {
+  "qid": "Q3324340"
+ },
+ "insectes_attacus-atlas": {
+  "qid": "Q167435"
+ },
+ "insectes_bombyx-du-murier": {
+  "qid": "Q134747"
+ },
+ "insectes_coccinella-septempunctata": {
+  "qid": "Q159543"
+ },
+ "insectes_dynastinae": {
+  "qid": "Q641142"
+ },
+ "insectes_goliathus-regius": {
+  "qid": "Q4039568"
+ },
+ "insectes_bousier-sacre": {
+  "qid": "Q1750802"
+ },
+ "insectes_melolonthinae": {
+  "qid": "Q785080"
+ },
+ "insectes_bousier": {
+  "qid": "Q861966"
+ },
+ "insectes_cetoine-doree": {
+  "qid": "Q731970"
+ },
+ "insectes_lucanus-cervus": {
+  "qid": "Q190491"
+ },
+ "insectes_carabe-dore": {
+  "qid": "Q1535889"
+ },
+ "insectes_luciola": {
+  "qid": "Q1955947"
+ },
+ "insectes_criquet-migrateur": {
+  "qid": "Q1059580"
+ },
+ "insectes_tettigonia-viridissima": {
+  "qid": "Q261181"
+ },
+ "insectes_acheta-domesticus": {
+  "qid": "Q27711"
+ },
+ "insectes_mante-religieuse": {
+  "qid": "Q268319"
+ },
+ "insectes_phasme": {
+  "qid": "Q188029"
+ },
+ "insectes_anax-empereur": {
+  "qid": "Q527496"
+ },
+ "insectes_zygoptera": {
+  "qid": "Q230502"
+ },
+ "insectes_cicadidae": {
+  "qid": "Q130778"
+ },
+ "insectes_halyomorpha-halys": {
+  "qid": "Q3270185"
+ },
+ "insectes_aphidoidea": {
+  "qid": "Q183350"
+ },
+ "insectes_culex-pipiens": {
+  "qid": "Q27958"
+ },
+ "insectes_aedes-albopictus": {
+  "qid": "Q477918"
+ },
+ "insectes_mouche-domestique": {
+  "qid": "Q166111"
+ },
+ "insectes_mouche-tse-tse": {
+  "qid": "Q205256"
+ },
+ "insectes_tabanidae": {
+  "qid": "Q228241"
+ },
+ "insectes_ctenocephalides-felis": {
+  "qid": "Q1736901"
+ },
+ "insectes_pou-de-tete": {
+  "qid": "Q27358"
+ },
+ "insectes_dermaptera": {
+  "qid": "Q13676"
+ },
+ "insectes_blatte-americaine": {
+  "qid": "Q267996"
+ },
+ "insectes_charancon-du-ble": {
+  "qid": "Q217350"
+ },
+ "insectes_doryphore": {
+  "qid": "Q156954"
+ },
+ "insectes_myrmeleontidae": {
+  "qid": "Q231439"
+ },
+ "insectes_ephemeroptera": {
+  "qid": "Q174273"
+ },
+ "insectes_drosophile": {
+  "qid": "Q312154"
+ },
+ "insectes_dynaste-hercule": {
+  "qid": "Q503799"
+ },
+ "insectes_fourmi-coupe-feuille": {
+  "qid": "Q882257"
+ },
+ "insectes_coleoptere-bombardier": {
+  "qid": "Q15221944"
+ },
+ "insectes_hymenopus-coronatus": {
+  "qid": "Q137890"
+ },
+ "insectes_phylliidae": {
+  "qid": "Q282198"
+ },
+ "insectes_punaise-de-lit": {
+  "qid": "Q48385308"
+ },
+ "insectes_vespa-mandarinia": {
+  "qid": "Q121791"
+ }
+}

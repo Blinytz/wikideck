@@ -1,0 +1,165 @@
+{
+ "crises-economiques_tulipomanie": {
+  "qid": "Q219217",
+  "P17": [
+   "Provinces-Unies"
+  ]
+ },
+ "crises-economiques_grande-depression": {
+  "qid": "Q8698",
+  "P800": [
+   "Certaines des caractéristiques les plus importantes de la situation économique et financière en 1932"
+  ],
+  "P17": [
+   "Afghanistan",
+   "Empire britannique",
+   "Reich allemand",
+   "France",
+   "Chili",
+   "Pays-Bas",
+   "Afrique du Sud",
+   "États-Unis",
+   "Hongrie"
+  ],
+  "P527": [
+   "Great Depression in Australia",
+   "Great Depression in Canada",
+   "Great Depression in Germany",
+   "Grande Dépression au Chili",
+   "Grande Dépression en France",
+   "Grande dépression en Amérique latine",
+   "Great Depression in the Netherlands",
+   "Great Depression in South Africa",
+   "Grande Dépression au Royaume-Uni",
+   "Grande Dépression aux États-Unis",
+   "Great Depression in India",
+   "Shōwa Depression"
+  ]
+ },
+ "crises-economiques_krach-de-1929": {
+  "qid": "Q201684",
+  "P276": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "crises-economiques_premier-choc-petrolier": {
+  "qid": "Q316817"
+ },
+ "crises-economiques_deuxieme-choc-petrolier": {
+  "qid": "Q1925730"
+ },
+ "crises-economiques_krach-d-octobre-1987": {
+  "qid": "Q868261"
+ },
+ "crises-economiques_crise-economique-asiatique": {
+  "qid": "Q80880",
+  "P527": [
+   "South Korea during the 1997 Asian Financial Crisis",
+   "rumours of Beijing intervention in Hong Kong during 1998 Asian financial crisis"
+  ]
+ },
+ "crises-economiques_bulle-internet": {
+  "qid": "Q79721",
+  "P276": [
+   "NASDAQ"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "crises-economiques_crise-des-subprimes": {
+  "qid": "Q844541"
+ },
+ "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
+  "qid": "Q896666",
+  "P527": [
+   "crise des subprimes",
+   "faillite de Lehman Brothers"
+  ]
+ },
+ "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
+  "qid": "Q217197",
+  "P276": [
+   "Union européenne"
+  ],
+  "P17": [
+   "international"
+  ]
+ },
+ "crises-economiques_crise-de-la-dette-publique-grecque": {
+  "qid": "Q956475",
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
+  "qid": "Q695052",
+  "P17": [
+   "Empire allemand",
+   "république de Weimar"
+  ]
+ },
+ "crises-economiques_systeme-de-law": {
+  "qid": "Q3180958",
+  "P17": [
+   "France"
+  ]
+ },
+ "crises-economiques_krach-de-1720": {
+  "qid": "Q18643921",
+  "P17": [
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "crises-economiques_panique-du-18-septembre-1873": {
+  "qid": "Q3362148"
+ },
+ "crises-economiques_panique-bancaire-americaine-de-1907": {
+  "qid": "Q844449",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "crises-economiques_crise-economique-argentine": {
+  "qid": "Q645426",
+  "P17": [
+   "Argentine"
+  ]
+ },
+ "crises-economiques_crise-bancaire-et-financiere-de-l-automne-2008": {
+  "qid": "Q8351655"
+ },
+ "crises-economiques_crise-economique-liee-a-la-pandemie-de-covid-19": {
+  "qid": "Q88599208"
+ },
+ "crises-economiques_hyperinflation-au-zimbabwe": {
+  "qid": "Q939748",
+  "P17": [
+   "Zimbabwe"
+  ]
+ },
+ "crises-economiques_crise-financiere-russe-de-1998": {
+  "qid": "Q1142572",
+  "P527": [
+   "défaut souverain"
+  ]
+ },
+ "crises-economiques_crise-economique-mexicaine": {
+  "qid": "Q599806",
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "crises-economiques_enron": {
+  "qid": "Q327646",
+  "P571": [
+   "1985"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ }
+}

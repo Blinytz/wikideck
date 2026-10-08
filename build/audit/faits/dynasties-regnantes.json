@@ -1,0 +1,692 @@
+{
+ "dynasties-regnantes_dynastie-qin": {
+  "qid": "Q7183",
+  "P571": [
+   "-221"
+  ]
+ },
+ "dynasties-regnantes_dynastie-han": {
+  "qid": "Q7209",
+  "P571": [
+   "-206"
+  ],
+  "P17": [
+   "Chine impériale"
+  ],
+  "P527": [
+   "Han de l'Ouest",
+   "Han orientaux"
+  ]
+ },
+ "dynasties-regnantes_dynastie-tang": {
+  "qid": "Q9683",
+  "P571": [
+   "618"
+  ]
+ },
+ "dynasties-regnantes_dynastie-song": {
+  "qid": "Q7462",
+  "P571": [
+   "960"
+  ],
+  "P527": [
+   "dynastie Song du Nord",
+   "Song méridionaux"
+  ]
+ },
+ "dynasties-regnantes_dynastie-ming": {
+  "qid": "Q9903",
+  "P571": [
+   "1368"
+  ]
+ },
+ "dynasties-regnantes_dynastie-qing": {
+  "qid": "Q8733",
+  "P571": [
+   "1636",
+   "1644",
+   "1616"
+  ]
+ },
+ "dynasties-regnantes_shogunat-tokugawa": {
+  "qid": "Q205662",
+  "P571": [
+   "1603"
+  ],
+  "P131": [
+   "province de Musashi"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "dynasties-regnantes_califat-omeyyade": {
+  "qid": "Q8575586",
+  "P571": [
+   "661"
+  ],
+  "P527": [
+   "wilaya d'Al-Andalus",
+   "Wilayah of Iraq"
+  ]
+ },
+ "dynasties-regnantes_califat-abbasside": {
+  "qid": "Q12536",
+  "P571": [
+   "750"
+  ]
+ },
+ "dynasties-regnantes_dynastie-shang": {
+  "qid": "Q128938",
+  "P571": [
+   "-1600"
+  ]
+ },
+ "dynasties-regnantes_dynastie-zhou": {
+  "qid": "Q35216",
+  "P571": [
+   "-1046",
+   "-1027",
+   "-1100"
+  ],
+  "P17": [
+   "Chine impériale"
+  ],
+  "P527": [
+   "Dynastie Zhou orientale",
+   "période des Zhou de l'Ouest"
+  ]
+ },
+ "dynasties-regnantes_dynastie-sui": {
+  "qid": "Q7405",
+  "P571": [
+   "581"
+  ]
+ },
+ "dynasties-regnantes_dynastie-yuan": {
+  "qid": "Q7313",
+  "P571": [
+   "1271"
+  ]
+ },
+ "dynasties-regnantes_periode-joseon": {
+  "qid": "Q28179",
+  "P571": [
+   "1392"
+  ],
+  "P17": [
+   "période Joseon"
+  ]
+ },
+ "dynasties-regnantes_shogunat-de-kamakura": {
+  "qid": "Q736839",
+  "P571": [
+   "1200"
+  ],
+  "P131": [
+   "province de Sagami"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "dynasties-regnantes_shogunat-ashikaga": {
+  "qid": "Q1154406",
+  "P571": [
+   "1336"
+  ],
+  "P131": [
+   "province de Yamashiro"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "dynasties-regnantes_dynastie-lagide": {
+  "qid": "Q131976",
+  "P571": [
+   "-305"
+  ],
+  "P17": [
+   "Égypte antique"
+  ]
+ },
+ "dynasties-regnantes_fatimides": {
+  "qid": "Q14932665",
+  "P17": [
+   "Califat fatimide"
+  ]
+ },
+ "dynasties-regnantes_ayyoubides": {
+  "qid": "Q180114",
+  "P571": [
+   "1171"
+  ],
+  "P17": [
+   "Sultanat ayyoubide"
+  ]
+ },
+ "dynasties-regnantes_mamelouk": {
+  "qid": "Q947784",
+  "P495": [
+   "califat abbasside"
+  ]
+ },
+ "dynasties-regnantes_merovingiens": {
+  "qid": "Q59488"
+ },
+ "dynasties-regnantes_carolingiens": {
+  "qid": "Q133602",
+  "P17": [
+   "Empire carolingien"
+  ]
+ },
+ "dynasties-regnantes_capetiens": {
+  "qid": "Q179544",
+  "P527": [
+   "maison capétienne de Bourgogne",
+   "maison d'Évreux-Navarre",
+   "maison de Valois",
+   "Maison capétienne de Bourbon",
+   "maison d'Orléans",
+   "famille impériale brésilienne",
+   "maison d'Aviz",
+   "deuxième maison de Bragance"
+  ]
+ },
+ "dynasties-regnantes_maison-de-valois": {
+  "qid": "Q182135",
+  "P571": [
+   "1270"
+  ],
+  "P17": [
+   "royaume de France"
+  ],
+  "P527": [
+   "maison de Valois-Anjou",
+   "maison de Valois-Bourgogne",
+   "liste des ducs de Brabant",
+   "liste des comtes puis ducs de Nevers",
+   "liste des comtes puis ducs d'Alençon",
+   "maison d'Orléans",
+   "liste des comtes et ducs d'Angoulême",
+   "famille d'Orléans-Longueville",
+   "maison de Valois-Alençon"
+  ]
+ },
+ "dynasties-regnantes_maison-de-bourbon": {
+  "qid": "Q58389",
+  "P571": [
+   "1272"
+  ],
+  "P17": [
+   "royaume de France",
+   "Espagne",
+   "royaume de Navarre",
+   "royaume de Sicile",
+   "royaume de Naples",
+   "duché de Parme et Plaisance"
+  ],
+  "P527": [
+   "maison de Bourbon",
+   "maison de Bourbon-Condé",
+   "maison de Bourbon-Parme",
+   "maison de Bourbon-Siciles",
+   "maison d'Orléans",
+   "maison de Bourbon Busset",
+   "Maison capétienne de Bourbon",
+   "Maison de Bourbon-Vendôme",
+   "liste des princes de Conti",
+   "maison d'Orléans-Bragance",
+   "duché de Galliera"
+  ]
+ },
+ "dynasties-regnantes_maison-plantagenet": {
+  "qid": "Q106151",
+  "P571": [
+   "1126"
+  ],
+  "P17": [
+   "comté d'Anjou",
+   "royaume d'Angleterre",
+   "duché de Normandie",
+   "duché d'Aquitaine",
+   "Empire Plantagenêt",
+   "royaume de France",
+   "Maine"
+  ],
+  "P527": [
+   "maison de Lancastre",
+   "maison de Beaufort",
+   "maison d'York"
+  ]
+ },
+ "dynasties-regnantes_maison-tudor": {
+  "qid": "Q101978",
+  "P571": [
+   "1485"
+  ],
+  "P17": [
+   "royaume d'Angleterre",
+   "royaume d'Irlande"
+  ],
+  "P527": [
+   "Jeanne Grey",
+   "Henri VIII",
+   "Marie Ire d'Angleterre",
+   "Élisabeth Ire",
+   "Édouard VI d'Angleterre",
+   "Henri VII"
+  ]
+ },
+ "dynasties-regnantes_maison-stuart": {
+  "qid": "Q179840",
+  "P571": [
+   "1371"
+  ],
+  "P17": [
+   "royaume d'Écosse"
+  ],
+  "P527": [
+   "Clan Stewart of Appin"
+  ]
+ },
+ "dynasties-regnantes_maison-windsor": {
+  "qid": "Q81589",
+  "P571": [
+   "1917"
+  ],
+  "P276": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "dynasties-regnantes_maison-de-habsbourg": {
+  "qid": "Q65968",
+  "P571": [
+   "1001"
+  ],
+  "P17": [
+   "archiduché d'Autriche",
+   "couronne de Castille",
+   "couronne d'Aragon",
+   "union ibérique",
+   "royaume de Portugal"
+  ]
+ },
+ "dynasties-regnantes_maison-de-hohenstaufen": {
+  "qid": "Q130875",
+  "P571": [
+   "1079"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique"
+  ]
+ },
+ "dynasties-regnantes_maison-de-hohenzollern": {
+  "qid": "Q83969",
+  "P571": [
+   "1100"
+  ],
+  "P17": [
+   "Reich allemand",
+   "Saint-Empire romain germanique",
+   "royaume de Roumanie",
+   "Prusse",
+   "marche de Brandebourg"
+  ],
+  "P527": [
+   "Principauté de Hohenzollern-Hechingen",
+   "Principauté de Hohenzollern-Sigmaringen",
+   "comté de Hohenzollern-Haigerloch",
+   "Brandebourg-Prusse"
+  ]
+ },
+ "dynasties-regnantes_maison-d-orange-nassau": {
+  "qid": "Q155483",
+  "P17": [
+   "Saint-Empire romain germanique",
+   "Empire espagnol",
+   "Pays-Bas des Habsbourg",
+   "Provinces-Unies",
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "dynasties-regnantes_maison-de-medicis": {
+  "qid": "Q170022",
+  "P17": [
+   "duché de Florence"
+  ],
+  "P527": [
+   "Léon XI",
+   "Cosme II de Médicis",
+   "Cosme Ier de Toscane",
+   "Laurent le Magnifique de Médicis",
+   "Cosme de Médicis",
+   "Clément VII",
+   "Jean des Bandes Noires",
+   "Catherine de Médicis",
+   "Anna Maria Luisa de Médicis"
+  ]
+ },
+ "dynasties-regnantes_maison-romanov": {
+  "qid": "Q112707",
+  "P571": [
+   "1613"
+  ],
+  "P17": [
+   "tsarat de Moscou",
+   "Empire russe"
+  ],
+  "P527": [
+   "chef de la maison des Romanov"
+  ]
+ },
+ "dynasties-regnantes_maison-piast": {
+  "qid": "Q201615",
+  "P17": [
+   "Royaume de Pologne"
+  ],
+  "P527": [
+   "Piast silésiens",
+   "Piast de Grande-Pologne",
+   "Piast de Petite-Pologne",
+   "Piast de Mazovie",
+   "Piast de Cujavie"
+  ]
+ },
+ "dynasties-regnantes_maison-jagellon": {
+  "qid": "Q194355"
+ },
+ "dynasties-regnantes_julio-claudiens": {
+  "qid": "Q192841",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "dynasties-regnantes_flaviens": {
+  "qid": "Q200565",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "dynasties-regnantes_maison-comnene": {
+  "qid": "Q163814",
+  "P571": [
+   "1081"
+  ],
+  "P17": [
+   "Empire byzantin",
+   "empire de Trébizonde"
+  ],
+  "P527": [
+   "Isaac Comnène",
+   "Alexis Ier Comnène",
+   "Jean II Comnène",
+   "Manuel Ier Comnène",
+   "Alexis II Comnène",
+   "Andronic Ier Comnène"
+  ]
+ },
+ "dynasties-regnantes_maison-paleologue": {
+  "qid": "Q207585",
+  "P17": [
+   "Empire byzantin"
+  ]
+ },
+ "dynasties-regnantes_dynastie-ottomane": {
+  "qid": "Q193383",
+  "P571": [
+   "1299"
+  ],
+  "P17": [
+   "Empire ottoman"
+  ]
+ },
+ "dynasties-regnantes_maison-grimaldi": {
+  "qid": "Q668182",
+  "P101": [
+   "maison noble",
+   "fürst"
+  ],
+  "P571": [
+   "1162"
+  ],
+  "P17": [
+   "république de Gênes",
+   "Monaco"
+  ]
+ },
+ "dynasties-regnantes_maison-de-savoie": {
+  "qid": "Q200229",
+  "P571": [
+   "1003"
+  ],
+  "P17": [
+   "royaume d'Italie"
+  ],
+  "P527": [
+   "maison de Savoie-Carignan",
+   "Savoie-Achaïe",
+   "maison de Savoie-Raconis",
+   "maison de Savoie-Aoste",
+   "Savoie-Nemours",
+   "Savoie-Tende",
+   "Savoie-Soissons",
+   "Savoie-Villafranca",
+   "Savoie-Bresse",
+   "maison de Savoie-Genoa"
+  ]
+ },
+ "dynasties-regnantes_famille-borgia": {
+  "qid": "Q237599",
+  "P571": [
+   "1455"
+  ],
+  "P17": [
+   "couronne d'Aragon",
+   "royaume de France",
+   "royaume de Naples",
+   "États pontificaux"
+  ]
+ },
+ "dynasties-regnantes_famille-sforza": {
+  "qid": "Q130858",
+  "P17": [
+   "Italie"
+  ]
+ },
+ "dynasties-regnantes_maison-de-wittelsbach": {
+  "qid": "Q131621",
+  "P571": [
+   "1180"
+  ],
+  "P17": [
+   "Saint-Empire romain germanique",
+   "Bavière"
+  ],
+  "P527": [
+   "maison du Palatinat-Simmern",
+   "Maison de Palatinat-Deux-Ponts"
+  ]
+ },
+ "dynasties-regnantes_maison-de-hanovre": {
+  "qid": "Q157217",
+  "P571": [
+   "1700"
+  ],
+  "P17": [
+   "royaume de Grande-Bretagne",
+   "Saint-Empire romain germanique",
+   "royaume d'Irlande",
+   "Royaume-Uni",
+   "royaume de Hanovre",
+   "duché de Brunswick-Lunebourg"
+  ]
+ },
+ "dynasties-regnantes_maison-de-saxe-cobourg-et-gotha": {
+  "qid": "Q1753846",
+  "P571": [
+   "1826"
+  ],
+  "P527": [
+   "Maison de Saxe-Cobourg et Gotha",
+   "House of Saxe-Coburg and Gotha",
+   "Maison de Saxe-Cobourg et Gotha-Koháry"
+  ]
+ },
+ "dynasties-regnantes_maison-bonaparte": {
+  "qid": "Q112581",
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "prince de Canino et Musignano",
+   "empereur des Français",
+   "Re di Roma",
+   "Royaume de Hollande",
+   "Napoléon II"
+  ]
+ },
+ "dynasties-regnantes_maisons-d-orleans": {
+  "qid": "Q106689500"
+ },
+ "dynasties-regnantes_maison-bernadotte": {
+  "qid": "Q201625",
+  "P571": [
+   "1818"
+  ],
+  "P17": [
+   "Suède"
+  ]
+ },
+ "dynasties-regnantes_maison-vasa": {
+  "qid": "Q210601",
+  "P101": [
+   "maison royale"
+  ],
+  "P17": [
+   "Suède"
+  ]
+ },
+ "dynasties-regnantes_riourikides": {
+  "qid": "Q210398",
+  "P571": [
+   "862"
+  ],
+  "P527": [
+   "famille Chouiski"
+  ]
+ },
+ "dynasties-regnantes_dynastie-chakri": {
+  "qid": "Q691928",
+  "P571": [
+   "1782"
+  ],
+  "P17": [
+   "Thaïlande",
+   "royaume de Rattanakosin"
+  ],
+  "P527": [
+   "House of Chatrakul",
+   "House of Mahidol"
+  ]
+ },
+ "dynasties-regnantes_dynastie-nguyen": {
+  "qid": "Q6500483",
+  "P571": [
+   "1802"
+  ]
+ },
+ "dynasties-regnantes_dynastie-pahlavi": {
+  "qid": "Q207991",
+  "P571": [
+   "1925"
+  ],
+  "P17": [
+   "Iran pahlavi",
+   "Iran"
+  ]
+ },
+ "dynasties-regnantes_maison-imperiale-du-japon": {
+  "qid": "Q909452",
+  "P571": [
+   "-660"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "Naruhito",
+   "Masako Owada",
+   "Aiko",
+   "Akihito",
+   "Michiko Shōda",
+   "Fumihito d'Akishino",
+   "Kiko d'Akishino",
+   "Kako d'Akishino",
+   "Hisahito d'Akishino",
+   "Masahito de Hitachi",
+   "Hanako Masahito de Hitachi",
+   "Nobuko Tomohito de Mikasa",
+   "Akiko de Mikasa",
+   "Yōko de Mikasa",
+   "Hisako Norihito de Takamado",
+   "Tsuguko de Takamado"
+  ]
+ },
+ "dynasties-regnantes_clan-fujiwara": {
+  "qid": "Q641628",
+  "P571": [
+   "669"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P527": [
+   "Clan Nanke",
+   "Clan Hokke",
+   "Clan Shikike",
+   "Clan Kyōke"
+  ]
+ },
+ "dynasties-regnantes_famille-royale-saoudienne": {
+  "qid": "Q31711",
+  "P571": [
+   "1744"
+  ],
+  "P17": [
+   "Arabie saoudite"
+  ],
+  "P527": [
+   "Al Jiluwi",
+   "Q4071092"
+  ]
+ },
+ "dynasties-regnantes_dynastie-hachemite": {
+  "qid": "Q1774915",
+  "P17": [
+   "royaume du Hedjaz"
+  ]
+ },
+ "dynasties-regnantes_dynastie-alaouite": {
+  "qid": "Q1129036",
+  "P571": [
+   "1666"
+  ],
+  "P17": [
+   "Maroc"
+  ]
+ },
+ "dynasties-regnantes_dynastie-salomonide": {
+  "qid": "Q256187",
+  "P571": [
+   "1270"
+  ],
+  "P17": [
+   "Empire éthiopien"
+  ]
+ }
+}

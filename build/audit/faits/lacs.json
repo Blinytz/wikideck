@@ -1,0 +1,588 @@
+{
+ "lacs_mer-caspienne": {
+  "qid": "Q5484",
+  "P17": [
+   "Iran",
+   "Russie",
+   "Kazakhstan",
+   "Azerbaïdjan",
+   "Turkménistan",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "lacs_lac-victoria": {
+  "qid": "Q5505",
+  "P17": [
+   "Tanzanie",
+   "Ouganda",
+   "Kenya"
+  ]
+ },
+ "lacs_lac-tanganyika": {
+  "qid": "Q5511",
+  "P17": [
+   "Tanzanie",
+   "République démocratique du Congo",
+   "Burundi",
+   "Zambie"
+  ]
+ },
+ "lacs_lac-baikal": {
+  "qid": "Q5513",
+  "P131": [
+   "Bouriatie",
+   "oblast d'Irkoutsk"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "lacs_lac-titicaca": {
+  "qid": "Q35342",
+  "P131": [
+   "Puno",
+   "La Paz"
+  ],
+  "P17": [
+   "Pérou",
+   "Bolivie"
+  ],
+  "P527": [
+   "Puno Bay",
+   "Golfo de Achacachi"
+  ]
+ },
+ "lacs_lac-tchad": {
+  "qid": "Q125309",
+  "P131": [
+   "Extrême-Nord"
+  ],
+  "P17": [
+   "Tchad",
+   "Cameroun",
+   "Nigeria",
+   "Niger"
+  ]
+ },
+ "lacs_mer-d-aral": {
+  "qid": "Q35883",
+  "P131": [
+   "Kazakhstan"
+  ],
+  "P17": [
+   "Kazakhstan",
+   "Ouzbékistan",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "lacs_leman": {
+  "qid": "Q6403",
+  "P131": [
+   "canton de Vaud",
+   "canton de Genève",
+   "canton du Valais",
+   "Haute-Savoie"
+  ],
+  "P17": [
+   "Suisse",
+   "France"
+  ]
+ },
+ "lacs_loch-ness": {
+  "qid": "Q49650",
+  "P131": [
+   "Highland",
+   "Boleskine and Abertarff"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "lacs_mer-morte": {
+  "qid": "Q23883",
+  "P131": [
+   "Israël",
+   "Jordanie",
+   "État de Palestine"
+  ],
+  "P17": [
+   "Jordanie",
+   "Israël",
+   "État de Palestine"
+  ],
+  "P527": [
+   "Dead Sea",
+   "Jordanian Dead Sea"
+  ]
+ },
+ "lacs_lac-superieur": {
+  "qid": "Q1066",
+  "P131": [
+   "Michigan",
+   "Ontario",
+   "Wisconsin",
+   "Minnesota"
+  ],
+  "P17": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P527": [
+   "baie Black",
+   "baie Nipigon",
+   "baie Sturgeon",
+   "baie Pays Plat",
+   "baie Thunder"
+  ]
+ },
+ "lacs_lac-huron": {
+  "qid": "Q1383",
+  "P131": [
+   "Ontario",
+   "Michigan"
+  ],
+  "P17": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P527": [
+   "Thunder Bay",
+   "baie de Saginaw",
+   "baie Georgienne"
+  ]
+ },
+ "lacs_lac-michigan": {
+  "qid": "Q1169",
+  "P131": [
+   "Michigan",
+   "Wisconsin",
+   "Illinois",
+   "Indiana"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "baie de Green Bay",
+   "Moonlight Bay",
+   "Rowley Bay",
+   "Grand Traverse Bay",
+   "Little Traverse Bay",
+   "Sturgeon Bay"
+  ]
+ },
+ "lacs_grand-lac-de-l-ours": {
+  "qid": "Q5525",
+  "P131": [
+   "Territoires du Nord-Ouest"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "bras Keith",
+   "bras McTavish",
+   "bras McVicar",
+   "bras Dease",
+   "bras Smith",
+   "Saoyú-ʔehdacho"
+  ]
+ },
+ "lacs_lac-malawi": {
+  "qid": "Q5532",
+  "P17": [
+   "Malawi",
+   "Mozambique",
+   "Tanzanie"
+  ]
+ },
+ "lacs_lac-erie": {
+  "qid": "Q5492",
+  "P131": [
+   "Ontario",
+   "Michigan",
+   "Pennsylvanie",
+   "New York"
+  ],
+  "P17": [
+   "Canada",
+   "États-Unis"
+  ]
+ },
+ "lacs_lac-ontario": {
+  "qid": "Q1062",
+  "P131": [
+   "Ontario",
+   "New York"
+  ],
+  "P17": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P527": [
+   "baie Horsey",
+   "havre Whitby"
+  ]
+ },
+ "lacs_lac-ladoga": {
+  "qid": "Q15288",
+  "P131": [
+   "oblast de Léningrad",
+   "Carélie"
+  ],
+  "P17": [
+   "Russie",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "lacs_lac-balkhach": {
+  "qid": "Q134485",
+  "P17": [
+   "Kazakhstan"
+  ]
+ },
+ "lacs_lac-du-bourget": {
+  "qid": "Q23426",
+  "P131": [
+   "Savoie"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "lacs_lac-d-annecy": {
+  "qid": "Q576704",
+  "P131": [
+   "Annecy",
+   "Sevrier",
+   "Saint-Jorioz",
+   "Duingt",
+   "Doussard",
+   "Talloires-Montmin",
+   "Menthon-Saint-Bernard",
+   "Veyrier-du-Lac",
+   "Haute-Savoie"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "lacs_lac-de-come": {
+  "qid": "Q15523",
+  "P131": [
+   "Lombardie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "lacs_lac-de-garde": {
+  "qid": "Q6414",
+  "P131": [
+   "Desenzano del Garda"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "lacs_lac-majeur": {
+  "qid": "Q14379",
+  "P131": [
+   "canton du Tessin",
+   "Piémont",
+   "Lombardie"
+  ],
+  "P17": [
+   "Suisse",
+   "Italie"
+  ]
+ },
+ "lacs_lac-de-constance": {
+  "qid": "Q4127",
+  "P131": [
+   "canton de Thurgovie",
+   "canton de Saint-Gall",
+   "canton de Schaffhouse",
+   "Vorarlberg",
+   "arrondissement de Constance",
+   "arrondissement du Lac de Constance",
+   "arrondissement de Lindau"
+  ],
+  "P17": [
+   "Suisse",
+   "Allemagne",
+   "Autriche"
+  ],
+  "P527": [
+   "Obersee",
+   "Untersee",
+   "Seerhein"
+  ]
+ },
+ "lacs_lac-tana": {
+  "qid": "Q116685",
+  "P131": [
+   "Amhara"
+  ],
+  "P17": [
+   "Éthiopie"
+  ]
+ },
+ "lacs_lac-turkana": {
+  "qid": "Q182719",
+  "P17": [
+   "Kenya",
+   "Éthiopie"
+  ]
+ },
+ "lacs_lac-kivu": {
+  "qid": "Q125912",
+  "P131": [
+   "hôtel de ville"
+  ],
+  "P17": [
+   "République démocratique du Congo",
+   "Rwanda"
+  ]
+ },
+ "lacs_grand-lac-sale": {
+  "qid": "Q178741",
+  "P131": [
+   "comté de Box Elder",
+   "comté de Tooele",
+   "comté de Weber",
+   "comté de Salt Lake",
+   "comté de Davis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "lacs_lac-tahoe": {
+  "qid": "Q169962",
+  "P131": [
+   "Californie",
+   "Nevada"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "lacs_lac-louise-alberta": {
+  "qid": "Q1367398",
+  "P131": [
+   "district d'amélioration No 9 Banff",
+   "Alberta"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "lacs_lac-inle": {
+  "qid": "Q1043461",
+  "P131": [
+   "canton de Nyaungshwe"
+  ],
+  "P17": [
+   "Birmanie"
+  ]
+ },
+ "lacs_lac-toba": {
+  "qid": "Q183360",
+  "P131": [
+   "Sumatra du Nord"
+  ],
+  "P17": [
+   "Indonésie"
+  ],
+  "P527": [
+   "Samosir"
+  ]
+ },
+ "lacs_lac-de-bled": {
+  "qid": "Q648902",
+  "P131": [
+   "Carniole"
+  ],
+  "P17": [
+   "Slovénie"
+  ]
+ },
+ "lacs_parc-national-des-lacs-de-plitvice": {
+  "qid": "Q189849",
+  "P571": [
+   "1949",
+   "1949"
+  ],
+  "P131": [
+   "Karlovac",
+   "Lika-Senj"
+  ],
+  "P17": [
+   "Croatie"
+  ],
+  "P527": [
+   "Golubnjača",
+   "Plitvica Stream",
+   "lacs de Plitvice"
+  ]
+ },
+ "lacs_lac-rose": {
+  "qid": "Q1522557",
+  "P131": [
+   "Tivaouane Peulh-Niaga"
+  ],
+  "P17": [
+   "Sénégal"
+  ]
+ },
+ "lacs_lac-natron": {
+  "qid": "Q838080",
+  "P17": [
+   "Tanzanie"
+  ]
+ },
+ "lacs_lac-de-tiberiade": {
+  "qid": "Q126982",
+  "P131": [
+   "Tibériade"
+  ],
+  "P17": [
+   "Israël"
+  ]
+ },
+ "lacs_grands-lacs-amerique-du-nord": {
+  "qid": "Q7347",
+  "P17": [
+   "États-Unis",
+   "Canada"
+  ],
+  "P527": [
+   "lac Supérieur",
+   "lac Michigan-Huron",
+   "lac Érié",
+   "lac Ontario"
+  ]
+ },
+ "lacs_lac-balaton": {
+  "qid": "Q6383",
+  "P131": [
+   "Hongrie"
+  ],
+  "P17": [
+   "Hongrie"
+  ]
+ },
+ "lacs_vanern": {
+  "qid": "Q173596",
+  "P131": [
+   "Karlstad",
+   "Hammarö",
+   "Kristinehamn",
+   "Gullspång",
+   "Mariestad",
+   "Götene",
+   "Lidköping",
+   "Vänersborg",
+   "Grästorp",
+   "Mellerud",
+   "Åmål",
+   "Säffle",
+   "Grums"
+  ],
+  "P17": [
+   "Suède"
+  ]
+ },
+ "lacs_lac-winnipeg": {
+  "qid": "Q3272",
+  "P131": [
+   "Manitoba"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "île d'Hecla",
+   "Reindeer Island",
+   "Skunk Island (Canada, Manitoba)",
+   "North Dinner Island",
+   "South Dinner Island",
+   "Burnt Island (Canada, Manitoba)",
+   "Mexico Island",
+   "Wood Island (Canada, Manitoba)",
+   "Little Eagle Island (Manitoba)",
+   "St. Martin Islands",
+   "Hay Island (Canada, Manitoba)",
+   "Little Punk Island",
+   "Punk Island",
+   "Deer Island (Canada, Manitoba)",
+   "Goose Island",
+   "Black Island",
+   "Elk Island"
+  ]
+ },
+ "lacs_grand-lac-des-esclaves": {
+  "qid": "Q5539",
+  "P131": [
+   "Territoires du Nord-Ouest"
+  ],
+  "P17": [
+   "Canada"
+  ]
+ },
+ "lacs_yssyk-koul": {
+  "qid": "Q42191",
+  "P131": [
+   "Issyk-Koul"
+  ],
+  "P17": [
+   "Kirghizistan"
+  ]
+ },
+ "lacs_lac-nicaragua": {
+  "qid": "Q173862",
+  "P131": [
+   "département du Río San Juan",
+   "département de Rivas",
+   "département de Chontales",
+   "département de Granada",
+   "Boaco",
+   "Acoyapa"
+  ],
+  "P17": [
+   "Nicaragua"
+  ]
+ },
+ "lacs_lac-d-ohrid": {
+  "qid": "Q156258",
+  "P17": [
+   "Macédoine du Nord",
+   "Albanie"
+  ]
+ },
+ "lacs_lac-nasser": {
+  "qid": "Q182796",
+  "P131": [
+   "Assouan"
+  ],
+  "P17": [
+   "Égypte",
+   "Soudan"
+  ]
+ },
+ "lacs_lac-volta": {
+  "qid": "Q201679",
+  "P571": [
+   "1965"
+  ],
+  "P17": [
+   "Ghana"
+  ]
+ }
+}

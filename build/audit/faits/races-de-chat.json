@@ -1,0 +1,308 @@
+{
+ "races-de-chat_maine-coon": {
+  "qid": "Q42659",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_persan-chat": {
+  "qid": "Q42610",
+  "P495": [
+   "Iran"
+  ]
+ },
+ "races-de-chat_siamois-chat": {
+  "qid": "Q42604",
+  "P495": [
+   "Siam",
+   "Thaïlande"
+  ]
+ },
+ "races-de-chat_bengal": {
+  "qid": "Q42583",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_sphynx": {
+  "qid": "Q42712",
+  "P571": [
+   "1966"
+  ],
+  "P495": [
+   "Canada"
+  ]
+ },
+ "races-de-chat_ragdoll": {
+  "qid": "Q42688",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_british-shorthair": {
+  "qid": "Q29273",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chat_chartreux-chat": {
+  "qid": "Q42588",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chat_norvegien-chat": {
+  "qid": "Q42667",
+  "P495": [
+   "Norvège"
+  ]
+ },
+ "races-de-chat_abyssin": {
+  "qid": "Q7955",
+  "P571": [
+   "1882"
+  ],
+  "P495": [
+   "Égypte",
+   "Empire éthiopien",
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chat_scottish-fold-highland-fold": {
+  "qid": "Q42636",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chat_sacre-de-birmanie": {
+  "qid": "Q42563",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chat_bleu-russe": {
+  "qid": "Q42654",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-chat_somali-chat": {
+  "qid": "Q42715",
+  "P495": [
+   "Amérique du Nord"
+  ]
+ },
+ "races-de-chat_balinais-chat": {
+  "qid": "Q9665",
+  "P495": [
+   "Thaïlande"
+  ]
+ },
+ "races-de-chat_oriental-shorthair": {
+  "qid": "Q42696",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chat_bombay-chat": {
+  "qid": "Q42566",
+  "P571": [
+   "1958"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_burmese": {
+  "qid": "Q42573",
+  "P495": [
+   "Birmanie"
+  ]
+ },
+ "races-de-chat_tonkinois": {
+  "qid": "Q42726",
+  "P495": [
+   "Canada"
+  ]
+ },
+ "races-de-chat_mau-egyptien": {
+  "qid": "Q7295",
+  "P495": [
+   "Égypte"
+  ]
+ },
+ "races-de-chat_angora-turc": {
+  "qid": "Q42720",
+  "P495": [
+   "Turquie"
+  ]
+ },
+ "races-de-chat_turc-de-van": {
+  "qid": "Q42724",
+  "P495": [
+   "Turquie"
+  ]
+ },
+ "races-de-chat_siberien-chat": {
+  "qid": "Q42630",
+  "P495": [
+   "tsarat de Moscou"
+  ]
+ },
+ "races-de-chat_ocicat": {
+  "qid": "Q42685",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_american-shorthair": {
+  "qid": "Q7962",
+  "P495": [
+   "Amérique du Nord"
+  ]
+ },
+ "races-de-chat_exotic-shorthair": {
+  "qid": "Q42555",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_himalayen": {
+  "qid": "Q42959",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_manx-chat": {
+  "qid": "Q42675",
+  "P495": [
+   "Île de Man"
+  ]
+ },
+ "races-de-chat_korat": {
+  "qid": "Q42691",
+  "P495": [
+   "Thaïlande"
+  ]
+ },
+ "races-de-chat_devon-rex": {
+  "qid": "Q42570",
+  "P495": [
+   "Angleterre"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chat_cornish-rex": {
+  "qid": "Q42559",
+  "P495": [
+   "Cornouailles"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chat_selkirk-rex": {
+  "qid": "Q42642",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_laperm": {
+  "qid": "Q42639",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_munchkin-chat": {
+  "qid": "Q686698",
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_american-curl": {
+  "qid": "Q7960",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_scottish-fold-highland-fold-b": {
+  "qid": "Q42636",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chat_bobtail-japonais": {
+  "qid": "Q42673",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "races-de-chat_bobtail-des-kouriles": {
+  "qid": "Q7338",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-chat_savannah-chat": {
+  "qid": "Q42670"
+ },
+ "races-de-chat_chausie": {
+  "qid": "Q42546"
+ },
+ "races-de-chat_peterbald": {
+  "qid": "Q42663",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-chat_donskoy-chat": {
+  "qid": "Q7303",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-chat_nebelung": {
+  "qid": "Q42647",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_ragamuffin": {
+  "qid": "Q42637",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_snowshoe": {
+  "qid": "Q42633",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chat_european-shorthair": {
+  "qid": "Q20793",
+  "P495": [
+   "Suède"
+  ]
+ },
+ "races-de-chat_singapura": {
+  "qid": "Q42679"
+ },
+ "races-de-chat_burmilla": {
+  "qid": "Q29258",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chat_lykoi": {
+  "qid": "Q16913794",
+  "P495": [
+   "États-Unis"
+  ]
+ }
+}

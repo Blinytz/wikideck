@@ -1,0 +1,918 @@
+{
+ "aviateurs-celebres_wilbur-wright": {
+  "qid": "Q1396131",
+  "P569": [
+   "1867",
+   "1867"
+  ],
+  "P570": [
+   "1912",
+   "1912"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_orville-wright": {
+  "qid": "Q494455",
+  "P569": [
+   "1871"
+  ],
+  "P570": [
+   "1948"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_louis-bleriot": {
+  "qid": "Q5396",
+  "P569": [
+   "1872"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale"
+  ]
+ },
+ "aviateurs-celebres_alberto-santos-dumont": {
+  "qid": "Q313211",
+  "P569": [
+   "1873"
+  ],
+  "P570": [
+   "1932"
+  ],
+  "P27": [
+   "Brésil",
+   "France"
+  ]
+ },
+ "aviateurs-celebres_clement-ader": {
+  "qid": "Q313078",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1925"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Théâtrophone",
+   "Éole"
+  ],
+  "P101": [
+   "génie mécanique",
+   "électrotechnique",
+   "aéronautique",
+   "aviation",
+   "construction d'aéronefs",
+   "discoveries and inventions"
+  ]
+ },
+ "aviateurs-celebres_charles-lindbergh": {
+  "qid": "Q1618",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1974"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_amelia-earhart": {
+  "qid": "Q3355",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1939"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "première vague féministe"
+  ]
+ },
+ "aviateurs-celebres_howard-hughes": {
+  "qid": "Q189081",
+  "P569": [
+   "1905",
+   "1905"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "entrepreneur ou entrepreneuse"
+  ]
+ },
+ "aviateurs-celebres_charles-nungesser": {
+  "qid": "Q918462",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1927"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_francois-coli": {
+  "qid": "Q1347241",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1927"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_jean-mermoz": {
+  "qid": "Q680897",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "aviation"
+  ]
+ },
+ "aviateurs-celebres_antoine-de-saint-exupery": {
+  "qid": "Q2908",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Vol de nuit",
+   "Le Petit Prince",
+   "Courrier sud",
+   "Terre des hommes",
+   "Lettre à un otage",
+   "Pilote de guerre",
+   "Citadelle"
+  ],
+  "P101": [
+   "belles-lettres",
+   "écriture créative et professionnelle",
+   "aviation",
+   "littérature d'enfance",
+   "fiction",
+   "essai",
+   "mémoires"
+  ],
+  "P136": [
+   "conte",
+   "poésie",
+   "récit"
+  ]
+ },
+ "aviateurs-celebres_roland-garros": {
+  "qid": "Q207709",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_georges-guynemer": {
+  "qid": "Q446435",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1917"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_manfred-von-richthofen": {
+  "qid": "Q4701",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1918"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ]
+ },
+ "aviateurs-celebres_chuck-yeager": {
+  "qid": "Q271939",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "guerre aérienne",
+   "formation en vol",
+   "fighter unit",
+   "Seconde Guerre mondiale"
+  ]
+ },
+ "aviateurs-celebres_amy-johnson": {
+  "qid": "Q2998",
+  "P569": [
+   "1903",
+   "1904"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "pilotage"
+  ]
+ },
+ "aviateurs-celebres_bessie-coleman": {
+  "qid": "Q254376",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1926"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "Renaissance de Harlem"
+  ]
+ },
+ "aviateurs-celebres_harriet-quimby": {
+  "qid": "Q254352",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_igor-sikorsky": {
+  "qid": "Q212446",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "Empire russe",
+   "États-Unis",
+   "République populaire ukrainienne"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale",
+   "design engineering",
+   "ingénieur aéronautique",
+   "aircraft designer"
+  ]
+ },
+ "aviateurs-celebres_glenn-curtiss": {
+  "qid": "Q454544",
+  "P569": [
+   "1878"
+  ],
+  "P570": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale",
+   "génie mécanique"
+  ]
+ },
+ "aviateurs-celebres_juan-de-la-cierva-y-codorniu": {
+  "qid": "Q354646",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "aviateurs-celebres_geoffrey-de-havilland": {
+  "qid": "Q654779",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "aviateurs-celebres_willy-messerschmitt": {
+  "qid": "Q77096",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "aviateurs-celebres_ernst-udet": {
+  "qid": "Q57179",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1941"
+  ],
+  "P27": [
+   "Reich allemand"
+  ]
+ },
+ "aviateurs-celebres_douglas-bader": {
+  "qid": "Q348780",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "aviateurs-celebres_pancho-barnes": {
+  "qid": "Q539376",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1975",
+   "1975"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_jacqueline-cochran": {
+  "qid": "Q3993",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_james-h-doolittle": {
+  "qid": "Q366547",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_clarence-johnson": {
+  "qid": "Q596353",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_albert-scott-crossfield": {
+  "qid": "Q955842",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_otto-lilienthal": {
+  "qid": "Q57162",
+  "P569": [
+   "1848"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "royaume de Prusse"
+  ],
+  "P800": [
+   "Composition Toy Building-Block (US233780A)"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale"
+  ]
+ },
+ "aviateurs-celebres_henri-farman": {
+  "qid": "Q22401",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1958"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "France"
+  ],
+  "P800": [
+   "Souvenirs et Récits contés le 28 novembre 1933"
+  ]
+ },
+ "aviateurs-celebres_gabriel-voisin": {
+  "qid": "Q537074",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_adolphe-pegoud": {
+  "qid": "Q365814",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1915"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "aviation"
+  ]
+ },
+ "aviateurs-celebres_hubert-latham": {
+  "qid": "Q848304",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1912"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_louis-charles-breguet": {
+  "qid": "Q719663",
+  "P569": [
+   "1880"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "fabricant aéronautique et spatial",
+   "secteur aéronautique et spatial"
+  ]
+ },
+ "aviateurs-celebres_rene-fonck": {
+  "qid": "Q48674",
+  "P569": [
+   "1894",
+   "1894"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_edward-vernon-rickenbacker": {
+  "qid": "Q550707",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_erich-hartmann-aviateur": {
+  "qid": "Q57194",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "aviateurs-celebres_adolf-galland": {
+  "qid": "Q57166",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "aviateurs-celebres_saburo-sakai": {
+  "qid": "Q352469",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ]
+ },
+ "aviateurs-celebres_pierre-clostermann": {
+  "qid": "Q49452",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_henri-guillaumet": {
+  "qid": "Q927427",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1940"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "aviation"
+  ]
+ },
+ "aviateurs-celebres_didier-daurat": {
+  "qid": "Q3026993",
+  "P569": [
+   "1891"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_pierre-georges-latecoere": {
+  "qid": "Q960742",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_dieudonne-costes": {
+  "qid": "Q563399",
+  "P569": [
+   "1892",
+   "1963"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_maurice-bellonte": {
+  "qid": "Q3091070",
+  "P569": [
+   "1896"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_charles-kingsford-smith": {
+  "qid": "Q1065180",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "Australie",
+   "Empire britannique"
+  ]
+ },
+ "aviateurs-celebres_wiley-post": {
+  "qid": "Q264389",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_elisa-deroche": {
+  "qid": "Q255315",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1919"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_helene-boucher": {
+  "qid": "Q300903",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Souvenirs et Récits contés le 28 novembre 1933"
+  ]
+ },
+ "aviateurs-celebres_maryse-bastie": {
+  "qid": "Q18410",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_jacqueline-auriol": {
+  "qid": "Q270187",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_beryl-markham": {
+  "qid": "Q443904",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "À l'ouest avec la nuit"
+  ]
+ },
+ "aviateurs-celebres_jean-batten": {
+  "qid": "Q53541",
+  "P569": [
+   "1909"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ],
+  "P101": [
+   "pilotage"
+  ]
+ },
+ "aviateurs-celebres_marcel-dassault": {
+  "qid": "Q160802",
+  "P569": [
+   "1892"
+  ],
+  "P570": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "aviateurs-celebres_anthony-fokker": {
+  "qid": "Q76703",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1939"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas",
+   "États-Unis",
+   "Reich allemand"
+  ]
+ },
+ "aviateurs-celebres_hugo-junkers": {
+  "qid": "Q60363",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale"
+  ]
+ },
+ "aviateurs-celebres_andrei-tupolev": {
+  "qid": "Q219734",
+  "P569": [
+   "1888",
+   "1888"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "aviateurs-celebres_serguei-iliouchine": {
+  "qid": "Q175457",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P101": [
+   "industrie aéronautique"
+  ]
+ },
+ "aviateurs-celebres_william-edward-boeing": {
+  "qid": "Q214826",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_bob-hoover": {
+  "qid": "Q2907709",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_andre-turcat": {
+  "qid": "Q2848727",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Félibrige"
+  ]
+ },
+ "aviateurs-celebres_steve-fossett": {
+  "qid": "Q311786",
+  "P569": [
+   "1944"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "aviateurs-celebres_yves-rossy": {
+  "qid": "Q460670",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "Suisse"
+  ]
+ }
+}

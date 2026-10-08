@@ -1,0 +1,208 @@
+{
+ "arbres_chene": {
+  "qid": "Q12004"
+ },
+ "arbres_sequoia-geant": {
+  "qid": "Q149851"
+ },
+ "arbres_adansonia": {
+  "qid": "Q157991"
+ },
+ "arbres_olivier": {
+  "qid": "Q16034755"
+ },
+ "arbres_hetre-commun": {
+  "qid": "Q146149",
+  "P527": [
+   "Fagus sylvatica f. dawycki",
+   "Fagus sylvatica f. pendula",
+   "Fagus sylvatica f. purpurea",
+   "Q21163121",
+   "Q15408564"
+  ]
+ },
+ "arbres_bouleau": {
+  "qid": "Q25243"
+ },
+ "arbres_pin-sylvestre": {
+  "qid": "Q133128"
+ },
+ "arbres_cedre-du-liban": {
+  "qid": "Q61105"
+ },
+ "arbres_ginkgo-biloba": {
+  "qid": "Q43284"
+ },
+ "arbres_erable": {
+  "qid": "Q42292"
+ },
+ "arbres_saule-pleureur": {
+  "qid": "Q156307"
+ },
+ "arbres_peuplier": {
+  "qid": "Q25356"
+ },
+ "arbres_frene": {
+  "qid": "Q128887"
+ },
+ "arbres_tilia": {
+  "qid": "Q127849"
+ },
+ "arbres_castanea": {
+  "qid": "Q129324"
+ },
+ "arbres_platane": {
+  "qid": "Q163025"
+ },
+ "arbres_cypres": {
+  "qid": "Q146911"
+ },
+ "arbres_if-commun": {
+  "qid": "Q179729"
+ },
+ "arbres_epicea-commun": {
+  "qid": "Q145992"
+ },
+ "arbres_meleze": {
+  "qid": "Q16665805",
+  "P527": [
+   "Larix",
+   "Pseudolarix"
+  ]
+ },
+ "arbres_eucalyptus": {
+  "qid": "Q45669"
+ },
+ "arbres_phoenix-dactylifera": {
+  "qid": "Q25292"
+ },
+ "arbres_cocotier": {
+  "qid": "Q13187"
+ },
+ "arbres_bambou": {
+  "qid": "Q56315362"
+ },
+ "arbres_acacia-genre": {
+  "qid": "Q81666"
+ },
+ "arbres_aesculus-hippocastanum": {
+  "qid": "Q26899"
+ },
+ "arbres_noyer": {
+  "qid": "Q2453469"
+ },
+ "arbres_orme": {
+  "qid": "Q131113"
+ },
+ "arbres_aulne": {
+  "qid": "Q25239"
+ },
+ "arbres_charme-commun": {
+  "qid": "Q158776"
+ },
+ "arbres_sapin": {
+  "qid": "Q127412969"
+ },
+ "arbres_pin-parasol": {
+  "qid": "Q106094"
+ },
+ "arbres_araucaria": {
+  "qid": "Q157214"
+ },
+ "arbres_sequoia-sempervirens": {
+  "qid": "Q150129"
+ },
+ "arbres_dragonnier": {
+  "qid": "Q28552272"
+ },
+ "arbres_manguier": {
+  "qid": "Q3919027"
+ },
+ "arbres_figuier-des-banians": {
+  "qid": "Q1405636"
+ },
+ "arbres_cacaoyer": {
+  "qid": "Q42385"
+ },
+ "arbres_cafeier": {
+  "qid": "Q156354",
+  "P527": [
+   "grain de café"
+  ]
+ },
+ "arbres_hevea": {
+  "qid": "Q156538"
+ },
+ "arbres_chene-liege": {
+  "qid": "Q156137"
+ },
+ "arbres_houx": {
+  "qid": "Q192190"
+ },
+ "arbres_corylus-avellana": {
+  "qid": "Q124969",
+  "P527": [
+   "Corylus avellana var. avellana",
+   "Corylus avellana var. pontica",
+   "Corylus avellana ‘Contorta’",
+   "Corylus avellana ʽHeterophylla’",
+   "Corylus avellana ʽKataloński’",
+   "Corylus avellana ʽRed Baron’",
+   "Corylus avellana ʽRosita’"
+  ]
+ },
+ "arbres_sambucus-nigra": {
+  "qid": "Q22701"
+ },
+ "arbres_juniperus-communis": {
+  "qid": "Q26325"
+ },
+ "arbres_amandier": {
+  "qid": "Q15545507"
+ },
+ "arbres_acajou-des-antilles": {
+  "qid": "Q1247582"
+ },
+ "arbres_ebene": {
+  "qid": "Q156005"
+ },
+ "arbres_teck": {
+  "qid": "Q2048129"
+ },
+ "arbres_santalum-album": {
+  "qid": "Q210858"
+ },
+ "arbres_arbre-a-pain": {
+  "qid": "Q14677"
+ },
+ "arbres_flamboyant-bleu": {
+  "qid": "Q838818"
+ },
+ "arbres_flamboyant": {
+  "qid": "Q15012548"
+ },
+ "arbres_paletuvier": {
+  "qid": "Q19756"
+ },
+ "arbres_fromager-arbre": {
+  "qid": "Q18386979"
+ },
+ "arbres_arganier": {
+  "qid": "Q379746"
+ },
+ "arbres_karite": {
+  "qid": "Q1348567"
+ },
+ "arbres_pin-bristlecone": {
+  "qid": "Q1116374"
+ },
+ "arbres_wollemia-nobilis": {
+  "qid": "Q190510"
+ },
+ "arbres_agathis-australis": {
+  "qid": "Q955413"
+ },
+ "arbres_pseudotsuga-menziesii": {
+  "qid": "Q156687"
+ }
+}

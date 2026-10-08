@@ -1,0 +1,745 @@
+{
+ "organisations-internationales_organisation-des-nations-unies": {
+  "qid": "Q1065",
+  "P170": [
+   "Alliés de la Seconde Guerre mondiale"
+  ],
+  "P571": [
+   "1945",
+   "1945"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Assemblée générale des Nations unies",
+   "Conseil de sécurité des Nations unies",
+   "Conseil économique et social des Nations unies",
+   "Secrétariat des Nations unies",
+   "Cour internationale de justice",
+   "Conseil de tutelle des Nations unies",
+   "United Nations Committee of the Whole",
+   "Conseiller spécial pour l'Afrique",
+   "groupe de travail sur la discrimination à l'égard des femmes et des filles",
+   "United Nations Integrated Office in Haiti",
+   "UN peacekeeping mission"
+  ]
+ },
+ "organisations-internationales_conseil-de-securite-des-nations-unies": {
+  "qid": "Q37470",
+  "P571": [
+   "1945"
+  ],
+  "P527": [
+   "membre du Conseil de sécurité des Nations unies",
+   "président du Conseil de sécurité des Nations unies"
+  ]
+ },
+ "organisations-internationales_organisation-des-nations-unies-pour-l-education-la-science-et-la-culture": {
+  "qid": "Q7809",
+  "P571": [
+   "1945"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "organisations-internationales_fonds-des-nations-unies-pour-l-enfance": {
+  "qid": "Q740308",
+  "P571": [
+   "1946"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "organisations-internationales_organisation-mondiale-de-la-sante": {
+  "qid": "Q7817",
+  "P101": [
+   "santé publique",
+   "recherche médicale",
+   "terminologies et classifications en médecine"
+  ],
+  "P571": [
+   "1948"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "groupe consultatif de l'Organisation mondiale de la santé"
+  ]
+ },
+ "organisations-internationales_fonds-monetaire-international": {
+  "qid": "Q7804",
+  "P101": [
+   "octroi de prêt"
+  ],
+  "P571": [
+   "1944",
+   "1945",
+   "1945"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "organisations-internationales_banque-mondiale": {
+  "qid": "Q7164",
+  "P101": [
+   "international development"
+  ],
+  "P571": [
+   "1945"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Banque internationale pour la reconstruction et le développement",
+   "Association internationale de développement"
+  ]
+ },
+ "organisations-internationales_organisation-mondiale-du-commerce": {
+  "qid": "Q7825",
+  "P101": [
+   "réglementation commerciale"
+  ],
+  "P571": [
+   "1995",
+   "1995"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "WTO panel",
+   "WTO General Council",
+   "WTO iLibrary",
+   "Committee on Balance-of-Payments Restrictions",
+   "Committee on Budget, Finance and Administration"
+  ]
+ },
+ "organisations-internationales_organisation-du-traite-de-l-atlantique-nord": {
+  "qid": "Q7184",
+  "P571": [
+   "1949"
+  ],
+  "P276": [
+   "siège de l'OTAN"
+  ],
+  "P17": [
+   "Belgique"
+  ],
+  "P527": [
+   "NATO Response Force",
+   "Bureau de consultation, commandement et contrôle",
+   "Agence de soutien et d'acquisition de l'OTAN",
+   "Agence d'information et de communication de l'OTAN",
+   "Assistant Secretary General for Intelligence and Security",
+   "NATO–Ukraine Council",
+   "NATO Intelligence, Surveillance, and Reconnaissance Force",
+   "Albanie",
+   "Belgique",
+   "Bulgarie",
+   "Canada",
+   "Croatie",
+   "Tchéquie",
+   "Danemark",
+   "Estonie",
+   "Finlande",
+   "France",
+   "Allemagne",
+   "Grèce",
+   "Hongrie",
+   "Islande",
+   "Italie",
+   "Lettonie",
+   "Lituanie",
+   "Luxembourg",
+   "Monténégro",
+   "Pays-Bas",
+   "Macédoine du Nord",
+   "Norvège",
+   "Pologne",
+   "Portugal",
+   "Roumanie",
+   "Slovénie",
+   "Espagne",
+   "Suède",
+   "Turquie",
+   "Royaume-Uni",
+   "États-Unis",
+   "Allemagne de l'Ouest",
+   "NATO Military Police Centre of Excellence",
+   "Programme OTAN de formation et d’assistance à la sécurité en faveur de l’Ukraine",
+   "NATO Intelligence Fusion Centre",
+   "Comprehensive Crisis and Operations Management Centre"
+  ]
+ },
+ "organisations-internationales_union-europeenne": {
+  "qid": "Q458",
+  "P571": [
+   "1993"
+  ],
+  "P17": [
+   "international"
+  ],
+  "P527": [
+   "frontière de l'Union européenne"
+  ]
+ },
+ "organisations-internationales_conseil-de-l-europe": {
+  "qid": "Q8908",
+  "P571": [
+   "1949"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Albanie",
+   "Andorre",
+   "Arménie",
+   "Autriche",
+   "Azerbaïdjan",
+   "Belgique",
+   "Bosnie-Herzégovine",
+   "Bulgarie",
+   "Croatie",
+   "Chypre",
+   "Tchéquie",
+   "Tchécoslovaquie",
+   "Danemark",
+   "Estonie",
+   "France",
+   "Géorgie",
+   "Allemagne",
+   "Grèce",
+   "Hongrie",
+   "Islande",
+   "Irlande",
+   "Italie",
+   "Lettonie",
+   "Liechtenstein",
+   "Lituanie",
+   "Luxembourg",
+   "Malte",
+   "Moldavie",
+   "Monaco",
+   "Monténégro",
+   "Pays-Bas",
+   "Macédoine du Nord",
+   "Norvège",
+   "Pologne",
+   "Portugal",
+   "Roumanie",
+   "Russie",
+   "Saint-Marin",
+   "Sarre",
+   "Serbie",
+   "Serbie-et-Monténégro",
+   "Slovaquie",
+   "Slovénie",
+   "Espagne",
+   "Suède",
+   "Suisse",
+   "Turquie",
+   "Ukraine",
+   "Royaume-Uni"
+  ]
+ },
+ "organisations-internationales_cour-internationale-de-justice": {
+  "qid": "Q7801",
+  "P571": [
+   "1945"
+  ],
+  "P276": [
+   "La Haye"
+  ],
+  "P131": [
+   "La Haye"
+  ],
+  "P17": [
+   "Pays-Bas"
+  ]
+ },
+ "organisations-internationales_cour-penale-internationale": {
+  "qid": "Q47488",
+  "P101": [
+   "droit international pénal"
+  ],
+  "P571": [
+   "2002"
+  ],
+  "P276": [
+   "siège de la Cour pénale internationale"
+  ],
+  "P131": [
+   "La Haye"
+  ],
+  "P17": [
+   "Pays-Bas"
+  ],
+  "P527": [
+   "procureur de la Cour pénale internationale",
+   "juge à la Cour pénale internationale",
+   "président de la Cour pénale internationale"
+  ]
+ },
+ "organisations-internationales_comite-international-de-la-croix-rouge": {
+  "qid": "Q5987345",
+  "P101": [
+   "aide humanitaire"
+  ],
+  "P571": [
+   "1863"
+  ],
+  "P276": [
+   "Comité International de la Croix-Rouge"
+  ],
+  "P131": [
+   "Genève"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "organisations-internationales_organisation-des-pays-exportateurs-de-petrole": {
+  "qid": "Q7795",
+  "P571": [
+   "1960"
+  ],
+  "P17": [
+   "international"
+  ],
+  "P527": [
+   "Algérie",
+   "Angola",
+   "Guinée équatoriale",
+   "Gabon",
+   "Iran",
+   "Irak",
+   "Koweït",
+   "Libye",
+   "Nigeria",
+   "République du Congo",
+   "Arabie saoudite",
+   "Émirats arabes unis",
+   "Venezuela"
+  ]
+ },
+ "organisations-internationales_union-africaine": {
+  "qid": "Q7159",
+  "P101": [
+   "relations internationales"
+  ],
+  "P571": [
+   "1999"
+  ],
+  "P276": [
+   "Afrique"
+  ],
+  "P527": [
+   "régions de l'Union africaine",
+   "Conseil de paix et de sécurité",
+   "Rwanda"
+  ]
+ },
+ "organisations-internationales_association-des-nations-de-l-asie-du-sud-est": {
+  "qid": "Q7768",
+  "P571": [
+   "1967"
+  ],
+  "P276": [
+   "Asie du Sud-Est",
+   "Océanie"
+  ],
+  "P527": [
+   "Brunei",
+   "Vietnam",
+   "Laos",
+   "Cambodge",
+   "Indonésie",
+   "Malaisie",
+   "Birmanie",
+   "Philippines",
+   "Singapour",
+   "Thaïlande",
+   "Timor oriental",
+   "Papouasie-Nouvelle-Guinée"
+  ]
+ },
+ "organisations-internationales_organisation-des-etats-americains": {
+  "qid": "Q123759",
+  "P571": [
+   "1948"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Assemblée générale de l'Organisation des États américains"
+  ]
+ },
+ "organisations-internationales_ligue-arabe": {
+  "qid": "Q7172",
+  "P571": [
+   "1945"
+  ],
+  "P527": [
+   "Liban"
+  ]
+ },
+ "organisations-internationales_commonwealth": {
+  "qid": "Q7785",
+  "P571": [
+   "1931"
+  ],
+  "P17": [
+   "Royaume-Uni",
+   "Australie",
+   "Canada",
+   "Nouvelle-Zélande",
+   "Inde",
+   "royaume de la Couronne"
+  ]
+ },
+ "organisations-internationales_organisation-internationale-de-la-francophonie": {
+  "qid": "Q134102",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "Paris"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "organisations-internationales_organisation-de-cooperation-et-de-developpement-economiques": {
+  "qid": "Q41550",
+  "P571": [
+   "1948",
+   "1961"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "organisations-internationales_groupe-des-vingt": {
+  "qid": "Q19771",
+  "P571": [
+   "1999"
+  ],
+  "P527": [
+   "Allemagne",
+   "États-Unis",
+   "France",
+   "Royaume-Uni",
+   "république populaire de Chine",
+   "Brésil",
+   "Italie",
+   "Canada",
+   "Russie",
+   "Australie",
+   "Mexique",
+   "Inde",
+   "Corée du Sud",
+   "Indonésie",
+   "Turquie",
+   "Arabie saoudite",
+   "Afrique du Sud",
+   "Argentine",
+   "Japon",
+   "Union européenne",
+   "Union africaine"
+  ]
+ },
+ "organisations-internationales_brics": {
+  "qid": "Q243630",
+  "P571": [
+   "2009"
+  ],
+  "P527": [
+   "Brésil",
+   "Russie",
+   "Inde",
+   "république populaire de Chine",
+   "Afrique du Sud",
+   "Algérie",
+   "Bahreïn",
+   "Bangladesh",
+   "Biélorussie",
+   "Égypte",
+   "Éthiopie",
+   "Indonésie",
+   "Iran",
+   "Arabie saoudite",
+   "Émirats arabes unis",
+   "Indonésie"
+  ]
+ },
+ "organisations-internationales_interpol": {
+  "qid": "Q8475",
+  "P571": [
+   "1923"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "organisations-internationales_societe-des-nations": {
+  "qid": "Q38130",
+  "P571": [
+   "1919"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "Recueil des traités de la Société des Nations",
+   "League of Nations assembly",
+   "Conseil de la Société des Nations",
+   "League of Nations Permanent Secretariat"
+  ]
+ },
+ "organisations-internationales_pacte-de-varsovie": {
+  "qid": "Q41644",
+  "P571": [
+   "1955"
+  ],
+  "P527": [
+   "République populaire socialiste d'Albanie",
+   "république populaire de Bulgarie",
+   "République socialiste tchécoslovaque",
+   "République démocratique allemande",
+   "république populaire de Hongrie",
+   "république populaire de Pologne",
+   "République socialiste de Roumanie",
+   "Union soviétique"
+  ]
+ },
+ "organisations-internationales_organisation-internationale-du-travail": {
+  "qid": "Q54129",
+  "P571": [
+   "1919"
+  ],
+  "P276": [
+   "Bureau international du travail (bâtiment)"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "International Training Centre of the International Labour Organization"
+  ]
+ },
+ "organisations-internationales_agence-internationale-de-l-energie-atomique": {
+  "qid": "Q41984",
+  "P571": [
+   "1957"
+  ],
+  "P17": [
+   "Autriche"
+  ]
+ },
+ "organisations-internationales_medecins-sans-frontieres": {
+  "qid": "Q49330",
+  "P571": [
+   "1971"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "organisations-internationales_amnesty-international": {
+  "qid": "Q42970",
+  "P101": [
+   "protection des droits humains"
+  ],
+  "P571": [
+   "1961"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "organisations-internationales_comite-international-olympique": {
+  "qid": "Q40970",
+  "P571": [
+   "1894"
+  ],
+  "P17": [
+   "Suisse"
+  ],
+  "P527": [
+   "session du CIO",
+   "Charte olympique",
+   "Congrès olympique",
+   "IOC Athletes' Commission",
+   "Commission d'éthique du Comité international olympique"
+  ]
+ },
+ "organisations-internationales_greenpeace": {
+  "qid": "Q81307",
+  "P569": [
+   "1971"
+  ],
+  "P135": [
+   "écologisme",
+   "pacifisme",
+   "action directe"
+  ],
+  "P101": [
+   "réchauffement climatique",
+   "déforestation",
+   "surpêche",
+   "pollution",
+   "organisme génétiquement modifié",
+   "industrie nucléaire"
+  ],
+  "P571": [
+   "1971"
+  ],
+  "P17": [
+   "Pays-Bas"
+  ]
+ },
+ "organisations-internationales_groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat": {
+  "qid": "Q171183",
+  "P571": [
+   "1988"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "organisations-internationales_haut-commissariat-des-nations-unies-pour-les-refugies": {
+  "qid": "Q132551",
+  "P101": [
+   "droit des réfugiés",
+   "aide humanitaire"
+  ],
+  "P571": [
+   "1950"
+  ],
+  "P276": [
+   "Berlin-Mitte"
+  ],
+  "P131": [
+   "Mitte (Berlin)"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "organisations-internationales_organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture": {
+  "qid": "Q82151",
+  "P101": [
+   "agriculture",
+   "aide alimentaire",
+   "sécurité alimentaire"
+  ],
+  "P571": [
+   "1945",
+   "1945",
+   "1945"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "organisations-internationales_banque-centrale-europeenne": {
+  "qid": "Q8901",
+  "P571": [
+   "1998",
+   "1998"
+  ],
+  "P131": [
+   "Francfort-sur-le-Main"
+  ],
+  "P17": [
+   "Allemagne"
+  ],
+  "P527": [
+   "Comité exécutif de la Banque centrale européenne",
+   "Conseil des gouverneurs de la Banque centrale européenne"
+  ]
+ },
+ "organisations-internationales_organisation-pour-la-securite-et-la-cooperation-en-europe": {
+  "qid": "Q81299",
+  "P571": [
+   "1975"
+  ],
+  "P17": [
+   "Autriche"
+  ],
+  "P527": [
+   "Groupe de Minsk",
+   "Assemblée parlementaire de l'OSCE",
+   "Bureau des institutions démocratiques et des droits de l'homme",
+   "représentant de l'OSCE pour la liberté des médias",
+   "Haut-Commissaire pour les minorités nationales"
+  ]
+ },
+ "organisations-internationales_cour-europeenne-des-droits-de-l-homme": {
+  "qid": "Q122880",
+  "P571": [
+   "1959"
+  ],
+  "P131": [
+   "Strasbourg"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "organisations-internationales_marche-commun-du-sud": {
+  "qid": "Q4264",
+  "P571": [
+   "1991"
+  ],
+  "P17": [
+   "Brésil",
+   "Venezuela",
+   "Bolivie",
+   "Uruguay",
+   "Argentine",
+   "Paraguay"
+  ],
+  "P527": [
+   "Brésil",
+   "Argentine",
+   "Paraguay",
+   "Uruguay",
+   "Venezuela",
+   "Bolivie"
+  ]
+ },
+ "organisations-internationales_wwf": {
+  "qid": "Q117892",
+  "P101": [
+   "protection de l'environnement",
+   "conservation"
+  ],
+  "P571": [
+   "1961"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "organisations-internationales_federation-internationale-de-football-association": {
+  "qid": "Q253414",
+  "P27": [
+   "Allemagne"
+  ],
+  "P571": [
+   "1904"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "maladies-et-epidemies_peste-noire": {
+  "qid": "Q42005",
+  "P276": [
+   "Asie",
+   "Europe",
+   "Afrique du Nord",
+   "Caucase"
+  ],
+  "P495": [
+   "Ukraine",
+   "république populaire de Chine",
+   "Inde",
+   "Empire mongol"
+  ],
+  "P17": [
+   "Géorgie",
+   "Azerbaïdjan",
+   "grande-principauté de Moscou",
+   "Arménie"
+  ],
+  "P527": [
+   "peste bubonique",
+   "peste"
+  ]
+ },
+ "maladies-et-epidemies_grippe-espagnole": {
+  "qid": "Q178275",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Spanish flu of 1918-1919 in Sweden",
+   "grippe espagnole en Suisse"
+  ]
+ },
+ "maladies-et-epidemies_syndrome-d-immunodeficience-acquise": {
+  "qid": "Q12199"
+ },
+ "maladies-et-epidemies_variole": {
+  "qid": "Q12214"
+ },
+ "maladies-et-epidemies_peste": {
+  "qid": "Q133780"
+ },
+ "maladies-et-epidemies_cholera": {
+  "qid": "Q12090"
+ },
+ "maladies-et-epidemies_tuberculose": {
+  "qid": "Q12204"
+ },
+ "maladies-et-epidemies_paludisme": {
+  "qid": "Q12156"
+ },
+ "maladies-et-epidemies_lepre": {
+  "qid": "Q36956"
+ },
+ "maladies-et-epidemies_rage-maladie": {
+  "qid": "Q39222"
+ },
+ "maladies-et-epidemies_poliomyelite": {
+  "qid": "Q12195"
+ },
+ "maladies-et-epidemies_rougeole": {
+  "qid": "Q79793"
+ },
+ "maladies-et-epidemies_fievre-jaune": {
+  "qid": "Q154874"
+ },
+ "maladies-et-epidemies_maladie-a-virus-ebola": {
+  "qid": "Q51993"
+ },
+ "maladies-et-epidemies_typhus": {
+  "qid": "Q160649"
+ },
+ "maladies-et-epidemies_syphilis": {
+  "qid": "Q41083"
+ },
+ "maladies-et-epidemies_diphterie": {
+  "qid": "Q134649"
+ },
+ "maladies-et-epidemies_tetanos": {
+  "qid": "Q47790"
+ },
+ "maladies-et-epidemies_grippe": {
+  "qid": "Q2840"
+ },
+ "maladies-et-epidemies_scorbut": {
+  "qid": "Q163865"
+ },
+ "maladies-et-epidemies_dengue": {
+  "qid": "Q30953"
+ },
+ "maladies-et-epidemies_diabete-sucre": {
+  "qid": "Q12206",
+  "P527": [
+   "diabète de type 2",
+   "diabète de type 1",
+   "diabète gestationnel",
+   "diabète sucré de malnutrition",
+   "syndrome de Ballinger-Wallace",
+   "diabète mitochondrial",
+   "diabète MODY",
+   "diabète LADA"
+  ]
+ },
+ "maladies-et-epidemies_maladie-d-alzheimer": {
+  "qid": "Q11081"
+ },
+ "maladies-et-epidemies_maladie-de-parkinson": {
+  "qid": "Q11085"
+ },
+ "maladies-et-epidemies_accident-vasculaire-cerebral": {
+  "qid": "Q12202",
+  "P276": [
+   "cerveau humain"
+  ]
+ },
+ "maladies-et-epidemies_infarctus-du-myocarde": {
+  "qid": "Q12152"
+ },
+ "maladies-et-epidemies_epilepsie": {
+  "qid": "Q41571"
+ },
+ "maladies-et-epidemies_hemophilie": {
+  "qid": "Q134003"
+ },
+ "maladies-et-epidemies_mucoviscidose": {
+  "qid": "Q178194"
+ },
+ "maladies-et-epidemies_sclerose-en-plaques": {
+  "qid": "Q8277"
+ },
+ "maladies-et-epidemies_asthme": {
+  "qid": "Q35869"
+ },
+ "maladies-et-epidemies_peste-de-justinien": {
+  "qid": "Q821711",
+  "P495": [
+   "Égypte"
+  ],
+  "P17": [
+   "Empire byzantin"
+  ]
+ },
+ "maladies-et-epidemies_variole-simienne": {
+  "qid": "Q382370"
+ },
+ "maladies-et-epidemies_maladie-a-virus-zika": {
+  "qid": "Q8071861"
+ },
+ "maladies-et-epidemies_cancer": {
+  "qid": "Q12078"
+ },
+ "maladies-et-epidemies_depression-psychiatrie": {
+  "qid": "Q42844"
+ },
+ "maladies-et-epidemies_schizophrenie": {
+  "qid": "Q41112"
+ },
+ "maladies-et-epidemies_trouble-bipolaire": {
+  "qid": "Q131755",
+  "P527": [
+   "trouble bipolaire de type I",
+   "trouble bipolaire de type II"
+  ]
+ },
+ "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
+  "qid": "Q103177"
+ },
+ "maladies-et-epidemies_hepatite": {
+  "qid": "Q131742"
+ },
+ "maladies-et-epidemies_meningite": {
+  "qid": "Q48143"
+ },
+ "maladies-et-epidemies_varicelle": {
+  "qid": "Q44727"
+ },
+ "maladies-et-epidemies_coqueluche": {
+  "qid": "Q134859"
+ },
+ "maladies-et-epidemies_encephalopathie-spongiforme-bovine": {
+  "qid": "Q154666"
+ },
+ "maladies-et-epidemies_hypertension-arterielle": {
+  "qid": "Q41861"
+ },
+ "maladies-et-epidemies_obesite": {
+  "qid": "Q12174"
+ }
+}

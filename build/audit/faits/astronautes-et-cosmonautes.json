@@ -1,0 +1,1158 @@
+{
+ "astronautes-et-cosmonautes_alan-shepard": {
+  "qid": "Q174979",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_john-glenn": {
+  "qid": "Q182642",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_laika": {
+  "qid": "Q53662",
+  "P569": [
+   "1954"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P495": [
+   "Union soviétique"
+  ]
+ },
+ "astronautes-et-cosmonautes_thomas-pesquet": {
+  "qid": "Q512266",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_youri-gagarine": {
+  "qid": "Q7327",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "1968"
+  ],
+  "P27": [
+   "Union soviétique"
+  ]
+ },
+ "astronautes-et-cosmonautes_valentina-terechkova": {
+  "qid": "Q44371",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P101": [
+   "personnalité politique",
+   "astronautique",
+   "activité politique",
+   "service militaire",
+   "politique"
+  ]
+ },
+ "astronautes-et-cosmonautes_neil-armstrong": {
+  "qid": "Q1615",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "aéronautique navale",
+   "exploration spatiale",
+   "ingénierie et technologie spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_buzz-aldrin": {
+  "qid": "Q2252",
+  "P569": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_michael-collins-astronaute": {
+  "qid": "Q104859",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "astronautique",
+   "space project",
+   "entrepreneuriat",
+   "programme spatial",
+   "musée aéronautique",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_alexei-leonov": {
+  "qid": "Q154269",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ],
+  "P101": [
+   "astronautique",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_sally-ride": {
+  "qid": "Q49285",
+  "P569": [
+   "1951"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_eileen-collins": {
+  "qid": "Q229635",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_chris-hadfield": {
+  "qid": "Q1076962",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "Chris Hadfield : Ce que j'ai appris en devenant aveugle dans l'espace",
+   "performance of 'Space Oddity' during ISS Expedition 35"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "astronautes-et-cosmonautes_sophie-adenot": {
+  "qid": "Q87399454",
+  "P569": [
+   "1982"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_jean-loup-chretien": {
+  "qid": "Q434205",
+  "P569": [
+   "1938"
+  ],
+  "P27": [
+   "États-Unis",
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_claudie-haignere": {
+  "qid": "Q235580",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_jean-francois-clervoy": {
+  "qid": "Q722679",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_michel-tognini": {
+  "qid": "Q1339046",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_leopold-eyharts": {
+  "qid": "Q352069",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_philippe-perrin": {
+  "qid": "Q1266359",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_patrick-baudry": {
+  "qid": "Q254058",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_jean-pierre-haignere": {
+  "qid": "Q721397",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "astronautes-et-cosmonautes_virgil-grissom": {
+  "qid": "Q110879",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_walter-schirra": {
+  "qid": "Q110450",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_gordon-cooper": {
+  "qid": "Q312833",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_donald-slayton": {
+  "qid": "Q336810",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_scott-carpenter": {
+  "qid": "Q335503",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_james-lovell": {
+  "qid": "Q111240",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "astronautique",
+   "vol spatial"
+  ]
+ },
+ "astronautes-et-cosmonautes_frank-borman": {
+  "qid": "Q18762",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_william-anders": {
+  "qid": "Q19242",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Lever de Terre"
+  ]
+ },
+ "astronautes-et-cosmonautes_charles-conrad": {
+  "qid": "Q213076",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_alan-bean": {
+  "qid": "Q310924",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_charles-duke": {
+  "qid": "Q112284",
+  "P569": [
+   "1935"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_john-young-astronaute": {
+  "qid": "Q107667",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_eugene-cernan": {
+  "qid": "Q158486",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_harrison-schmitt": {
+  "qid": "Q108886",
+  "P569": [
+   "1935"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Interlune-Intermars Business Initiative"
+  ],
+  "P101": [
+   "géologie",
+   "geological research",
+   "space research",
+   "politique"
+  ]
+ },
+ "astronautes-et-cosmonautes_david-scott": {
+  "qid": "Q278656",
+  "P569": [
+   "1932"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_jack-swigert": {
+  "qid": "Q348358",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_fred-haise": {
+  "qid": "Q318965",
+  "P569": [
+   "1933"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_guerman-titov": {
+  "qid": "Q152298",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ]
+ },
+ "astronautes-et-cosmonautes_vladimir-komarov": {
+  "qid": "Q104865",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "Union soviétique"
+  ]
+ },
+ "astronautes-et-cosmonautes_svetlana-savitskaia": {
+  "qid": "Q152318",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ]
+ },
+ "astronautes-et-cosmonautes_guennadi-padalka": {
+  "qid": "Q362998",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Russie",
+   "Union soviétique"
+  ]
+ },
+ "astronautes-et-cosmonautes_serguei-krikaliov": {
+  "qid": "Q313815",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ]
+ },
+ "astronautes-et-cosmonautes_valeri-poliakov": {
+  "qid": "Q317792",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Russie",
+   "Union soviétique"
+  ]
+ },
+ "astronautes-et-cosmonautes_mae-jemison": {
+  "qid": "Q34091",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_guion-bluford": {
+  "qid": "Q528943",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_kathryn-d-sullivan": {
+  "qid": "Q464166",
+  "P569": [
+   "1951",
+   "1951"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "géologie",
+   "océanographie",
+   "astronautique",
+   "sciences de la Terre",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_peggy-whitson": {
+  "qid": "Q235523",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_christina-koch": {
+  "qid": "Q13500192",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "astronaute"
+  ]
+ },
+ "astronautes-et-cosmonautes_jessica-meir": {
+  "qid": "Q4795114",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "États-Unis",
+   "Suède"
+  ]
+ },
+ "astronautes-et-cosmonautes_sunita-williams": {
+  "qid": "Q55177",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_scott-kelly": {
+  "qid": "Q362190",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "aéronautique navale",
+   "astronautique",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_samantha-cristoforetti": {
+  "qid": "Q379039",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "France",
+   "Italie"
+  ]
+ },
+ "astronautes-et-cosmonautes_luca-parmitano": {
+  "qid": "Q1394857",
+  "P569": [
+   "1976"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "astronautes-et-cosmonautes_alexander-gerst": {
+  "qid": "Q71248",
+  "P569": [
+   "1976",
+   "1976"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P101": [
+   "géophysique",
+   "volcanologie",
+   "astronautique"
+  ]
+ },
+ "astronautes-et-cosmonautes_timothy-peake": {
+  "qid": "Q518012",
+  "P569": [
+   "1972"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "astronautique",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_helen-sharman": {
+  "qid": "Q237473",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "astronautes-et-cosmonautes_sigmund-jahn": {
+  "qid": "Q57229",
+  "P569": [
+   "1937"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "République démocratique allemande",
+   "Allemagne"
+  ],
+  "P101": [
+   "astronautique",
+   "guerre aérienne",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_ulf-merbold": {
+  "qid": "Q215124",
+  "P569": [
+   "1941"
+  ],
+  "P27": [
+   "Allemagne",
+   "République démocratique allemande",
+   "Troisième Reich"
+  ]
+ },
+ "astronautes-et-cosmonautes_franz-viehbock": {
+  "qid": "Q78552",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Autriche"
+  ]
+ },
+ "astronautes-et-cosmonautes_thomas-reiter": {
+  "qid": "Q166616",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "astronautes-et-cosmonautes_yang-liwei": {
+  "qid": "Q147581",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "astronautes-et-cosmonautes_rakesh-sharma": {
+  "qid": "Q325205",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "Inde"
+  ]
+ },
+ "astronautes-et-cosmonautes_roberta-bondar": {
+  "qid": "Q258385",
+  "P569": [
+   "1945"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P101": [
+   "médecine spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_marc-garneau": {
+  "qid": "Q703321",
+  "P569": [
+   "1949"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Canada"
+  ]
+ },
+ "astronautes-et-cosmonautes_julie-payette": {
+  "qid": "Q240769",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Canada"
+  ]
+ },
+ "astronautes-et-cosmonautes_dennis-tito": {
+  "qid": "Q210184",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_anousheh-ansari": {
+  "qid": "Q17519",
+  "P569": [
+   "1966"
+  ],
+  "P27": [
+   "États-Unis",
+   "Iran"
+  ]
+ },
+ "astronautes-et-cosmonautes_felicette": {
+  "qid": "Q12165555",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "1963"
+  ]
+ },
+ "astronautes-et-cosmonautes_ham-chimpanze": {
+  "qid": "Q28270",
+  "P569": [
+   "1957"
+  ],
+  "P570": [
+   "1983"
+  ]
+ },
+ "astronautes-et-cosmonautes_belka-et-strelka": {
+  "qid": "Q2415309",
+  "P527": [
+   "Belka",
+   "Strelka"
+  ]
+ },
+ "astronautes-et-cosmonautes_enos-chimpanze": {
+  "qid": "Q605394",
+  "P569": [
+   "1957"
+  ],
+  "P570": [
+   "1962"
+  ]
+ },
+ "astronautes-et-cosmonautes_baker-singe-ecureuil": {
+  "qid": "Q2880212",
+  "P569": [
+   "1957"
+  ],
+  "P570": [
+   "1984"
+  ]
+ },
+ "astronautes-et-cosmonautes_christa-mcauliffe": {
+  "qid": "Q229674",
+  "P569": [
+   "1948"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_kalpana-chawla": {
+  "qid": "Q237879",
+  "P569": [
+   "1962"
+  ],
+  "P570": [
+   "2003",
+   "2003"
+  ],
+  "P27": [
+   "Inde",
+   "États-Unis"
+  ],
+  "P101": [
+   "mécanique des fluides numérique"
+  ]
+ },
+ "astronautes-et-cosmonautes_ilan-ramon": {
+  "qid": "Q219569",
+  "P569": [
+   "1954"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "Israël"
+  ]
+ },
+ "astronautes-et-cosmonautes_edward-white": {
+  "qid": "Q216726",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_roger-b-chaffee": {
+  "qid": "Q345678",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_edgar-mitchell": {
+  "qid": "Q295873",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "astronautique",
+   "aviation",
+   "exploration spatiale"
+  ]
+ },
+ "astronautes-et-cosmonautes_james-irwin": {
+  "qid": "Q297801",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1991"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "ingénierie aéronautique"
+  ]
+ },
+ "astronautes-et-cosmonautes_thomas-stafford": {
+  "qid": "Q316417",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_shannon-lucid": {
+  "qid": "Q233795",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_bruce-mccandless-ii": {
+  "qid": "Q433608",
+  "P569": [
+   "1937"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_wang-yaping": {
+  "qid": "Q705626",
+  "P569": [
+   "1980",
+   "1980"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "astronautes-et-cosmonautes_liu-yang-astronaute": {
+  "qid": "Q235266",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "astronautes-et-cosmonautes_zhai-zhigang": {
+  "qid": "Q197135",
+  "P569": [
+   "1966"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "astronautes-et-cosmonautes_chiaki-mukai": {
+  "qid": "Q234306",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "astronautes-et-cosmonautes_koichi-wakata": {
+  "qid": "Q375566",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "astronautes-et-cosmonautes_yi-so-yeon": {
+  "qid": "Q210382",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "Corée du Sud"
+  ]
+ },
+ "astronautes-et-cosmonautes_pham-tuan": {
+  "qid": "Q353687",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "Vietnam"
+  ]
+ },
+ "astronautes-et-cosmonautes_arnaldo-tamayo-mendez": {
+  "qid": "Q362902",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Cuba"
+  ]
+ },
+ "astronautes-et-cosmonautes_marcos-pontes": {
+  "qid": "Q317643",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "astronautes-et-cosmonautes_vladimir-remek": {
+  "qid": "Q254985",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Tchéquie"
+  ],
+  "P101": [
+   "astronautique"
+  ]
+ },
+ "astronautes-et-cosmonautes_miros-aw-hermaszewski": {
+  "qid": "Q361415",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Pologne"
+  ]
+ },
+ "astronautes-et-cosmonautes_sultan-ben-salmane-al-saoud": {
+  "qid": "Q379946",
+  "P569": [
+   "1956",
+   "1956"
+  ],
+  "P27": [
+   "Arabie saoudite"
+  ]
+ },
+ "astronautes-et-cosmonautes_pedro-duque": {
+  "qid": "Q448547",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "astronautes-et-cosmonautes_frank-de-winne": {
+  "qid": "Q52495",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Belgique"
+  ]
+ },
+ "astronautes-et-cosmonautes_andre-kuipers": {
+  "qid": "Q454649",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "astronautes-et-cosmonautes_mark-shuttleworth": {
+  "qid": "Q227030",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "Afrique du Sud",
+   "Royaume-Uni"
+  ]
+ },
+ "astronautes-et-cosmonautes_wally-funk": {
+  "qid": "Q16213049",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "astronautes-et-cosmonautes_william-shatner": {
+  "qid": "Q16297",
+  "P569": [
+   "1931"
+  ],
+  "P27": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P800": [
+   "Star Trek series",
+   "Hooker",
+   "The Practice : Donnell et Associés"
+  ]
+ },
+ "astronautes-et-cosmonautes_albert-ii-singe": {
+  "qid": "Q1997428",
+  "P570": [
+   "1949"
+  ]
+ },
+ "astronautes-et-cosmonautes_animal-dans-l-espace": {
+  "qid": "Q2621143"
+ }
+}

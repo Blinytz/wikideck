@@ -1,0 +1,351 @@
+{
+ "corps-humain_c-ur": {
+  "qid": "Q1072",
+  "P527": [
+   "cavité cardiaque",
+   "myocarde"
+  ]
+ },
+ "corps-humain_encephale": {
+  "qid": "Q75865",
+  "P527": [
+   "cervelet",
+   "tronc cérébral",
+   "prosencéphale",
+   "mésencéphale",
+   "rhombencéphale"
+  ]
+ },
+ "corps-humain_poumon": {
+  "qid": "Q7886"
+ },
+ "corps-humain_foie": {
+  "qid": "Q9368"
+ },
+ "corps-humain_rein": {
+  "qid": "Q9377",
+  "P527": [
+   "néphron"
+  ]
+ },
+ "corps-humain_estomac": {
+  "qid": "Q1029907",
+  "P527": [
+   "fundus",
+   "corps de l'estomac",
+   "région pylorique",
+   "cardia"
+  ]
+ },
+ "corps-humain_intestin-grele": {
+  "qid": "Q11090",
+  "P527": [
+   "duodénum",
+   "Jéjunum",
+   "iléon"
+  ]
+ },
+ "corps-humain_colon": {
+  "qid": "Q5982337",
+  "P527": [
+   "côlon ascendant",
+   "côlon transverse",
+   "côlon descendant",
+   "côlon sigmoïde"
+  ]
+ },
+ "corps-humain_pancreas": {
+  "qid": "Q9618"
+ },
+ "corps-humain_rate": {
+  "qid": "Q9371"
+ },
+ "corps-humain_vesicule-biliaire": {
+  "qid": "Q64386"
+ },
+ "corps-humain_peau": {
+  "qid": "Q1074",
+  "P527": [
+   "derme",
+   "épiderme"
+  ]
+ },
+ "corps-humain_il-humain": {
+  "qid": "Q430024",
+  "P527": [
+   "pupille",
+   "cornée",
+   "cristallin",
+   "iris",
+   "sclère",
+   "corps vitré",
+   "rétine",
+   "nerve pathways of the eye"
+  ]
+ },
+ "corps-humain_oreille": {
+  "qid": "Q7362",
+  "P527": [
+   "oreille externe",
+   "oreille moyenne",
+   "oreille interne",
+   "pavillon auriculaire"
+  ]
+ },
+ "corps-humain_langue-anatomie-humaine": {
+  "qid": "Q9614"
+ },
+ "corps-humain_nez": {
+  "qid": "Q7363",
+  "P527": [
+   "external nose",
+   "cavité nasale",
+   "os nasal",
+   "cartilage",
+   "os ethmoïde",
+   "muqueuse olfactive",
+   "narine",
+   "poil de nez"
+  ]
+ },
+ "corps-humain_glande-thyroide": {
+  "qid": "Q16399"
+ },
+ "corps-humain_squelette-humain": {
+  "qid": "Q9621",
+  "P527": [
+   "squelette axial",
+   "squelette appendiculaire",
+   "os humain",
+   "osselet de l'ouïe",
+   "dent",
+   "cartilage du nez",
+   "cartilage de l'oreille externe",
+   "cartilage laryngé",
+   "colonne vertébrale humaine",
+   "thoracic skeleton",
+   "os du membre supérieur",
+   "os coxal",
+   "os du membre inférieur",
+   "articulation",
+   "articulation du membre supérieur",
+   "articulation du membre inférieur"
+  ]
+ },
+ "corps-humain_muscle": {
+  "qid": "Q7365"
+ },
+ "corps-humain_sang": {
+  "qid": "Q7873",
+  "P527": [
+   "plasma sanguin",
+   "érythrocyte",
+   "leucocyte",
+   "thrombocyte"
+  ]
+ },
+ "corps-humain_moelle-osseuse": {
+  "qid": "Q546523",
+  "P527": [
+   "cellule de la moelle osseuse"
+  ]
+ },
+ "corps-humain_systeme-nerveux": {
+  "qid": "Q9404",
+  "P186": [
+   "tissu nerveux"
+  ],
+  "P527": [
+   "système nerveux central",
+   "système nerveux périphérique",
+   "neurone",
+   "cellule gliale"
+  ]
+ },
+ "corps-humain_systeme-immunitaire": {
+  "qid": "Q1059",
+  "P527": [
+   "Lymphocyte T à mémoire"
+  ]
+ },
+ "corps-humain_systeme-endocrinien": {
+  "qid": "Q11078"
+ },
+ "corps-humain_appareil-digestif": {
+  "qid": "Q11829360",
+  "P527": [
+   "estomac",
+   "intestin",
+   "esophagus"
+  ]
+ },
+ "corps-humain_appareil-cardiovasculaire": {
+  "qid": "Q13168533"
+ },
+ "corps-humain_appareil-respiratoire": {
+  "qid": "Q7891",
+  "P527": [
+   "cavité nasale",
+   "pharynx",
+   "larynx",
+   "trachée",
+   "bronche",
+   "poumon",
+   "voies respiratoires",
+   "nez"
+  ]
+ },
+ "corps-humain_systeme-lymphatique": {
+  "qid": "Q712604",
+  "P527": [
+   "vaisseau lymphatique",
+   "ganglion lymphatique",
+   "lymphe"
+  ]
+ },
+ "corps-humain_neurone": {
+  "qid": "Q43054",
+  "P527": [
+   "dendrite",
+   "axone",
+   "gaine de myéline",
+   "péricaryon",
+   "noyau",
+   "axon terminus"
+  ]
+ },
+ "corps-humain_erythrocyte": {
+  "qid": "Q37187"
+ },
+ "corps-humain_leucocyte": {
+  "qid": "Q42395",
+  "P527": [
+   "monocyte",
+   "lymphocyte",
+   "granulocyte neutrophile",
+   "granulocyte basophile",
+   "granulocyte éosinophile"
+  ]
+ },
+ "corps-humain_acide-desoxyribonucleique": {
+  "qid": "Q7430",
+  "P527": [
+   "polynucléotide",
+   "nucléotide"
+  ]
+ },
+ "corps-humain_hypophyse": {
+  "qid": "Q156871"
+ },
+ "corps-humain_moelle-spinale": {
+  "qid": "Q9606",
+  "P527": [
+   "Moelle épinière cervicale",
+   "moelle épinière thoracique",
+   "moelle épinière lombaire",
+   "moelle épinière sacrée",
+   "moelle coccygienne"
+  ]
+ },
+ "corps-humain_cervelet": {
+  "qid": "Q130983",
+  "P527": [
+   "neurone",
+   "cellule gliale",
+   "Vermis du cervelet"
+  ]
+ },
+ "corps-humain_diaphragme-organe": {
+  "qid": "Q9654"
+ },
+ "corps-humain_cornee": {
+  "qid": "Q168291",
+  "P527": [
+   "épithélium cornéen",
+   "Membrane de Bowman",
+   "corneal stroma",
+   "membrane de Descemet",
+   "endothélium cornéen"
+  ]
+ },
+ "corps-humain_retine": {
+  "qid": "Q169342",
+  "P527": [
+   "inner limiting membrane",
+   "nerve fiber layer",
+   "ganglion cell layer",
+   "inner plexiform layer",
+   "inner nuclear layer",
+   "outer plexiform layer",
+   "outer nuclear layer",
+   "external limiting membrane",
+   "Layer of rods and cones",
+   "épithélium pigmentaire rétinien"
+  ]
+ },
+ "corps-humain_tympan-humain": {
+  "qid": "Q173801",
+  "P527": [
+   "Pars flaccida",
+   "umbo of tympanic membrane",
+   "pars tensa"
+  ]
+ },
+ "corps-humain_hippocampe-cerveau": {
+  "qid": "Q48360"
+ },
+ "corps-humain_uterus": {
+  "qid": "Q9612"
+ },
+ "corps-humain_ovaire": {
+  "qid": "Q9631",
+  "P527": [
+   "Stroma of ovary"
+  ]
+ },
+ "corps-humain_testicule": {
+  "qid": "Q9384"
+ },
+ "corps-humain_prostate": {
+  "qid": "Q9625"
+ },
+ "corps-humain_vessie": {
+  "qid": "Q9382"
+ },
+ "corps-humain_larynx": {
+  "qid": "Q9637"
+ },
+ "corps-humain_trachee": {
+  "qid": "Q175449"
+ },
+ "corps-humain_sophage": {
+  "qid": "Q173710"
+ },
+ "corps-humain_glande-surrenale": {
+  "qid": "Q712294",
+  "P527": [
+   "cortico-surrénale",
+   "médullosurrénale"
+  ]
+ },
+ "corps-humain_dent": {
+  "qid": "Q553"
+ },
+ "corps-humain_systeme-reproducteur": {
+  "qid": "Q7895",
+  "P527": [
+   "gamétange ou gamétocyste"
+  ]
+ },
+ "corps-humain_appareil-urinaire": {
+  "qid": "Q181100",
+  "P527": [
+   "vessie",
+   "urètre",
+   "rein",
+   "uretère",
+   "upper urinary tract",
+   "voies urinaires basses"
+  ]
+ }
+}

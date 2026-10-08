@@ -1,0 +1,684 @@
+{
+ "monarques-anglais-et-britanniques_alfred-le-grand": {
+  "qid": "Q83476",
+  "P569": [
+   "849"
+  ],
+  "P570": [
+   "899",
+   "899"
+  ],
+  "P27": [
+   "Wessex"
+  ],
+  "P800": [
+   "The pastoral care",
+   "The soliloquies",
+   "Psalms"
+  ]
+ },
+ "monarques-anglais-et-britanniques_thelstan": {
+  "qid": "Q170017",
+  "P569": [
+   "895"
+  ],
+  "P570": [
+   "939",
+   "939"
+  ],
+  "P27": [
+   "Wessex",
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_cnut-le-grand": {
+  "qid": "Q134128",
+  "P569": [
+   "994"
+  ],
+  "P570": [
+   "1035"
+  ],
+  "P27": [
+   "Royaume de Danemark",
+   "Empire anglo-scandinave"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-le-confesseur": {
+  "qid": "Q130005",
+  "P570": [
+   "1066"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "politique",
+   "christianisme",
+   "administration d'État"
+  ]
+ },
+ "monarques-anglais-et-britanniques_harold-godwinson": {
+  "qid": "Q159597",
+  "P569": [
+   "1022",
+   "1026"
+  ],
+  "P570": [
+   "1066"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_guillaume-le-conquerant": {
+  "qid": "Q37594",
+  "P569": [
+   "1028"
+  ],
+  "P570": [
+   "1087"
+  ]
+ },
+ "monarques-anglais-et-britanniques_guillaume-le-roux": {
+  "qid": "Q102005",
+  "P569": [
+   "1060",
+   "1058",
+   "1056",
+   "1057"
+  ],
+  "P570": [
+   "1100"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-ier-roi-d-angleterre": {
+  "qid": "Q101384",
+  "P569": [
+   "1068",
+   "1068"
+  ],
+  "P570": [
+   "1135",
+   "1135"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+  "qid": "Q150872",
+  "P569": [
+   "1102",
+   "1102",
+   "1102",
+   "1102"
+  ],
+  "P570": [
+   "1167",
+   "1167"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_etienne-roi-d-angleterre": {
+  "qid": "Q60849",
+  "P569": [
+   "1095"
+  ],
+  "P570": [
+   "1154"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-ii-roi-d-angleterre": {
+  "qid": "Q102140",
+  "P569": [
+   "1133"
+  ],
+  "P570": [
+   "1189"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_richard-c-ur-de-lion": {
+  "qid": "Q42305",
+  "P569": [
+   "1157"
+  ],
+  "P570": [
+   "1199"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P800": [
+   "Poèmes lyriques"
+  ]
+ },
+ "monarques-anglais-et-britanniques_jean-sans-terre": {
+  "qid": "Q129308",
+  "P569": [
+   "1166"
+  ],
+  "P570": [
+   "1216"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-iii-roi-d-angleterre": {
+  "qid": "Q160311",
+  "P569": [
+   "1207"
+  ],
+  "P570": [
+   "1272"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-ier-roi-d-angleterre": {
+  "qid": "Q57798",
+  "P569": [
+   "1239"
+  ],
+  "P570": [
+   "1307"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "administration d'État",
+   "politique",
+   "domaine militaire",
+   "droit"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-ii": {
+  "qid": "Q5236",
+  "P569": [
+   "1284"
+  ],
+  "P570": [
+   "1327"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "pays de Galles"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-iii": {
+  "qid": "Q129247",
+  "P569": [
+   "1312"
+  ],
+  "P570": [
+   "1377"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_richard-ii": {
+  "qid": "Q81000",
+  "P569": [
+   "1367"
+  ],
+  "P570": [
+   "1400",
+   "1400"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-iv-roi-d-angleterre": {
+  "qid": "Q161866",
+  "P569": [
+   "1367"
+  ],
+  "P570": [
+   "1413"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-v-roi-d-angleterre": {
+  "qid": "Q131581",
+  "P569": [
+   "1386",
+   "1387"
+  ],
+  "P570": [
+   "1422",
+   "1422"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-vi-roi-d-angleterre": {
+  "qid": "Q160337",
+  "P569": [
+   "1421"
+  ],
+  "P570": [
+   "1471"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-iv": {
+  "qid": "Q160341",
+  "P569": [
+   "1442"
+  ],
+  "P570": [
+   "1483"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-v": {
+  "qid": "Q170470",
+  "P569": [
+   "1470"
+  ],
+  "P570": [
+   "1483"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_richard-iii": {
+  "qid": "Q133028",
+  "P569": [
+   "1452"
+  ],
+  "P570": [
+   "1485"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-vii-roi-d-angleterre": {
+  "qid": "Q675493",
+  "P569": [
+   "1457",
+   "1457"
+  ],
+  "P570": [
+   "1509",
+   "1509"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "principauté de Galles"
+  ]
+ },
+ "monarques-anglais-et-britanniques_henri-viii": {
+  "qid": "Q38370",
+  "P569": [
+   "1491"
+  ],
+  "P570": [
+   "1547"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-vi": {
+  "qid": "Q83229",
+  "P569": [
+   "1537",
+   "1537"
+  ],
+  "P570": [
+   "1553"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_jeanne-grey": {
+  "qid": "Q162356",
+  "P569": [
+   "1537",
+   "1537"
+  ],
+  "P570": [
+   "1554",
+   "1554"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_marie-ire-reine-d-angleterre": {
+  "qid": "Q82674",
+  "P569": [
+   "1516",
+   "1516"
+  ],
+  "P570": [
+   "1558",
+   "1558"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_elisabeth-ire-reine-d-angleterre": {
+  "qid": "Q7207",
+  "P569": [
+   "1533"
+  ],
+  "P570": [
+   "1603"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_jacques-vi-et-ier": {
+  "qid": "Q79972",
+  "P569": [
+   "1566"
+  ],
+  "P570": [
+   "1625"
+  ],
+  "P27": [
+   "royaume d'Écosse",
+   "royaume d'Angleterre",
+   "royaume d'Irlande"
+  ],
+  "P800": [
+   "Daemonologie",
+   "The True Law of Free Monarchies",
+   "Basilikon Doron",
+   "Some Reulis and Cautelis to be observit and eschewit in Scottis poesie",
+   "De jure regni apud Scotos"
+  ]
+ },
+ "monarques-anglais-et-britanniques_charles-ier-roi-d-angleterre": {
+  "qid": "Q81506",
+  "P569": [
+   "1600"
+  ],
+  "P570": [
+   "1649"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_oliver-cromwell": {
+  "qid": "Q44279",
+  "P569": [
+   "1599"
+  ],
+  "P570": [
+   "1658"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "Commonwealth d'Angleterre"
+  ],
+  "P101": [
+   "agriculture"
+  ]
+ },
+ "monarques-anglais-et-britanniques_charles-ii-roi-d-angleterre": {
+  "qid": "Q122553",
+  "P569": [
+   "1630"
+  ],
+  "P570": [
+   "1685"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_jacques-ii-roi-d-angleterre": {
+  "qid": "Q126188",
+  "P569": [
+   "1633"
+  ],
+  "P570": [
+   "1701"
+  ],
+  "P27": [
+   "royaume d'Écosse",
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_guillaume-iii-d-orange-nassau": {
+  "qid": "Q129987",
+  "P569": [
+   "1650",
+   "1650"
+  ],
+  "P570": [
+   "1702"
+  ],
+  "P27": [
+   "Provinces-Unies",
+   "royaume d'Angleterre"
+  ],
+  "P101": [
+   "gouvernance",
+   "politique",
+   "art de la guerre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_marie-ii-reine-d-angleterre": {
+  "qid": "Q130812",
+  "P569": [
+   "1662",
+   "1662"
+  ],
+  "P570": [
+   "1694",
+   "1694"
+  ],
+  "P27": [
+   "royaume d'Angleterre"
+  ]
+ },
+ "monarques-anglais-et-britanniques_anne-reine-de-grande-bretagne": {
+  "qid": "Q119702",
+  "P569": [
+   "1665",
+   "1665"
+  ],
+  "P570": [
+   "1714",
+   "1714"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-ier-roi-de-grande-bretagne": {
+  "qid": "Q130805",
+  "P569": [
+   "1660"
+  ],
+  "P570": [
+   "1727"
+  ],
+  "P27": [
+   "électorat de Brunswick-Lunebourg",
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "politique",
+   "gouvernance",
+   "mécénaterie"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-ii-roi-de-grande-bretagne": {
+  "qid": "Q131981",
+  "P569": [
+   "1683",
+   "1683",
+   "1683",
+   "1683"
+  ],
+  "P570": [
+   "1760",
+   "1760"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "électorat de Brunswick-Lunebourg"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-iii": {
+  "qid": "Q127318",
+  "P569": [
+   "1738"
+  ],
+  "P570": [
+   "1820"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-iv": {
+  "qid": "Q130586",
+  "P569": [
+   "1762"
+  ],
+  "P570": [
+   "1830"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "monarques-anglais-et-britanniques_guillaume-iv-roi-du-royaume-uni": {
+  "qid": "Q130822",
+  "P569": [
+   "1765"
+  ],
+  "P570": [
+   "1837"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Hanovre",
+   "royaume de Grande-Bretagne"
+  ]
+ },
+ "monarques-anglais-et-britanniques_victoria-reine": {
+  "qid": "Q9439",
+  "P569": [
+   "1819"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-vii": {
+  "qid": "Q20875",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1910"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-v": {
+  "qid": "Q269412",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Raj britannique"
+  ],
+  "P800": [
+   "The Cruise of Her Majesty's Ship “Bacchante”"
+  ]
+ },
+ "monarques-anglais-et-britanniques_edouard-viii": {
+  "qid": "Q590227",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "monarques-anglais-et-britanniques_george-vi": {
+  "qid": "Q280856",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1952"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "monarques-anglais-et-britanniques_elisabeth-ii": {
+  "qid": "Q9682",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
+  "qid": "Q43274",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ }
+}

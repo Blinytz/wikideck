@@ -1,0 +1,617 @@
+{
+ "textes-sacres_bible": {
+  "qid": "Q1845",
+  "P50": [
+   "AA.VV.",
+   "collectif d'écrivains"
+  ],
+  "P136": [
+   "littérature religieuse",
+   "texte sacré"
+  ],
+  "P527": [
+   "Ancien Testament",
+   "Nouveau Testament",
+   "Tanakh"
+  ]
+ },
+ "textes-sacres_ancien-testament": {
+  "qid": "Q19786",
+  "P50": [
+   "AA.VV."
+  ],
+  "P136": [
+   "littérature religieuse"
+  ],
+  "P527": [
+   "La Genèse",
+   "Livre de l'Exode",
+   "Lévitique",
+   "Livre des Nombres",
+   "Deutéronome",
+   "Livre de Josué",
+   "Livre des Juges",
+   "Livre de Ruth",
+   "Premier Livre de Samuel",
+   "Deuxième Livre de Samuel",
+   "Premier Livre des Rois",
+   "Deuxième livre des Rois",
+   "Premier livre des Chroniques",
+   "Deuxième Livre des Chroniques",
+   "Livre d'Esdras",
+   "Livre de Néhémie",
+   "Livre de Job",
+   "Livre des Psaumes",
+   "Livre des Proverbes",
+   "Ecclésiaste",
+   "Cantique des Cantiques",
+   "Livre d'Isaïe",
+   "Livre de Jérémie",
+   "Livre des Lamentations",
+   "Livre d'Ézéchiel",
+   "Livre de Daniel",
+   "Livre d'Osée",
+   "Livre de Joël",
+   "Livre d'Amos",
+   "Livre d'Abdias",
+   "Livre de Jonas",
+   "Livre de Michée",
+   "Livre de Nahum",
+   "Livre de Habacuc",
+   "Livre de Sophonie",
+   "Livre d'Aggée",
+   "Livre de Zacharie",
+   "Livre de Malachie",
+   "Livre d'Esther",
+   "Livre de Tobie",
+   "Livre de Judith",
+   "Premier Livre des Maccabées",
+   "Deuxième Livre des Maccabées",
+   "Livre de la Sagesse",
+   "Siracide",
+   "Livre de Baruch"
+  ]
+ },
+ "textes-sacres_nouveau-testament": {
+  "qid": "Q18813",
+  "P571": [
+   "100"
+  ],
+  "P50": [
+   "AA.VV."
+  ],
+  "P136": [
+   "littérature religieuse"
+  ],
+  "P527": [
+   "Évangile selon Matthieu",
+   "Évangile selon Marc",
+   "Évangile selon Luc",
+   "Évangile selon Jean",
+   "Actes des Apôtres",
+   "Épître aux Romains",
+   "Première épître aux Corinthiens",
+   "Deuxième épître aux Corinthiens",
+   "Épître aux Galates",
+   "Épître aux Éphésiens",
+   "Épître aux Philippiens",
+   "Épître aux Colossiens",
+   "Première épître aux Thessaloniciens",
+   "Deuxième épître aux Thessaloniciens",
+   "Première épître à Timothée",
+   "Deuxième épître à Timothée",
+   "Épître à Tite",
+   "Épître à Philémon",
+   "Épître aux Hébreux",
+   "Épître de Jacques",
+   "Première épître de Pierre",
+   "Deuxième épître de Pierre",
+   "Première épître de Jean",
+   "Deuxième épître de Jean",
+   "Troisième épître de Jean",
+   "Épître de Jude",
+   "Apocalypse"
+  ]
+ },
+ "textes-sacres_torah": {
+  "qid": "Q34990",
+  "P50": [
+   "Moïse"
+  ],
+  "P136": [
+   "littérature biblique"
+  ],
+  "P527": [
+   "La Genèse",
+   "Livre de l'Exode",
+   "Lévitique",
+   "Livre des Nombres",
+   "Deutéronome"
+  ]
+ },
+ "textes-sacres_talmud": {
+  "qid": "Q43290",
+  "P527": [
+   "Talmud de Babylone",
+   "Talmud de Jérusalem"
+  ]
+ },
+ "textes-sacres_coran": {
+  "qid": "Q428",
+  "P571": [
+   "631"
+  ],
+  "P136": [
+   "littérature religieuse"
+  ],
+  "P527": [
+   "Al-Fatiha",
+   "Al-Baqara",
+   "Al-Imran",
+   "An-Nisa'",
+   "Al-Ma'ida",
+   "Al-An'am",
+   "Al-A'raf",
+   "Al-Anfal",
+   "At-Tawba",
+   "Yunus",
+   "Houd",
+   "Yusuf",
+   "Ar-Ra'd",
+   "Ibrahim",
+   "Al-Hijr",
+   "An-Nahl",
+   "Al-Isra",
+   "Al-Kahf",
+   "Maryam",
+   "Ta-Ha",
+   "Al-Anbiya",
+   "Al-Hajj",
+   "Al-Mu'minun",
+   "An-Nur",
+   "Al-Furqan",
+   "Ach-Chu'ara",
+   "An-Naml",
+   "Al-Qasas",
+   "Al-'Ankabut",
+   "Ar-Rum",
+   "Luqman",
+   "As-Sajda",
+   "Al-Ahzab",
+   "Saba",
+   "Fatir",
+   "Ya Sin",
+   "As-Saaffat",
+   "Sad",
+   "Az-Zumar",
+   "Al-Ghafir",
+   "Fusilat",
+   "Ach-Chura",
+   "Az-Zukhruf",
+   "Ad-Dukhan",
+   "Al-Jathiya",
+   "Al-Ahqaf",
+   "Mohammed the Palestinian",
+   "Al-Fath",
+   "Al-Hujurat",
+   "Qaf",
+   "Adh-Dhariyat",
+   "At-Tur",
+   "An-Najm",
+   "Al-Qamar",
+   "Ar-Rahman",
+   "Al-Waqi'a",
+   "Al-Hadid",
+   "Al-Mujadala",
+   "Al-Hachr",
+   "Al-Mumtahana",
+   "As-Saff",
+   "Al-Jumu'a",
+   "Al-Munafiqun",
+   "At-Taghabun",
+   "At-Talaq",
+   "At-Tahrim",
+   "Al-Mulk",
+   "Al-Qalam",
+   "Al-Haqqa",
+   "Al-Ma'arij",
+   "Nouh",
+   "Al-Jinn",
+   "Al-Muzzammil",
+   "Al-Mudhdatir",
+   "Al-Qiyama",
+   "Al-Insan",
+   "Al-Mursalat",
+   "An-Naba'",
+   "An-Nazi'at",
+   "'Abbassa",
+   "At-Takwir",
+   "Al-Infitar",
+   "Al-Mutaffifun",
+   "Al-Inchiqaq",
+   "Al-Buruj",
+   "At-Tariq",
+   "Al-Ala",
+   "Al-Ghachiya",
+   "Al-Fajr",
+   "Al-Balad",
+   "Ach-Chams",
+   "Al-Layl",
+   "Ad-Duha",
+   "Al-Inshirah",
+   "At-Tin",
+   "Al-Alaq",
+   "Al-Qadr",
+   "Al-Bayyina",
+   "Az-Zalzala",
+   "Al-Adiyat",
+   "Al-Qaria",
+   "At-Takathur",
+   "Al-Asr",
+   "Al-Humaza",
+   "Al-Fil",
+   "Quraych",
+   "Al-Ma'un",
+   "Al-Kawthar",
+   "Al-Kafirun",
+   "An-Nasr",
+   "Al-Massad",
+   "Al-Ikhlas",
+   "Al-Falaq",
+   "Al-Nas"
+  ]
+ },
+ "textes-sacres_hadith": {
+  "qid": "Q234343"
+ },
+ "textes-sacres_veda": {
+  "qid": "Q39950",
+  "P571": [
+   "-1500"
+  ],
+  "P50": [
+   "Rishi"
+  ],
+  "P136": [
+   "littérature religieuse"
+  ],
+  "P527": [
+   "Rig-Véda",
+   "Yajur-Véda",
+   "Sama-Véda",
+   "Atharva-Véda"
+  ]
+ },
+ "textes-sacres_rig-veda": {
+  "qid": "Q727413",
+  "P571": [
+   "-1500"
+  ],
+  "P50": [
+   "AA.VV."
+  ],
+  "P136": [
+   "littérature religieuse"
+  ]
+ },
+ "textes-sacres_upanishad": {
+  "qid": "Q6113985",
+  "P136": [
+   "littérature religieuse"
+  ],
+  "P527": [
+   "Mukhya Upaniṣad"
+  ]
+ },
+ "textes-sacres_bhagavad-gita": {
+  "qid": "Q46802",
+  "P50": [
+   "Vyāsa"
+  ],
+  "P136": [
+   "poésie religieuse"
+  ],
+  "P527": [
+   "Arjuna–Visada Yoga",
+   "Sankhya Yoga",
+   "Karma Yoga",
+   "Gyaana–Karma-Sanyasa Yoga",
+   "Karma–Sanyasa Yoga",
+   "Atmasanyam Yoga",
+   "jñānavijñānayogaḥ",
+   "Aksara–Brahma Yoga",
+   "Raja–Vidya–Raja–Guhya Yoga",
+   "Vibhuti–Vistara Yoga",
+   "Visvarupa–Darsana Yoga",
+   "Ksetra–Ksetrajna Vibhaga Yoga",
+   "Bhakti Yoga",
+   "Gunatraya–Vibhaga Yoga",
+   "Purusottama Yoga",
+   "Daivasura–Sampad–Vibhaga Yoga",
+   "Sraddhatraya-Vibhaga Yoga",
+   "Moksha–Sanyasa Yoga"
+  ]
+ },
+ "textes-sacres_tripitaka": {
+  "qid": "Q1321432",
+  "P527": [
+   "Vinaya Pitaka",
+   "Sutta Pitaka",
+   "Abhidhamma Piṭaka"
+  ]
+ },
+ "textes-sacres_sutra-du-lotus": {
+  "qid": "Q861212",
+  "P527": [
+   "Introduction",
+   "Skillful Means",
+   "A Parable",
+   "Willing Acceptance",
+   "Herbs",
+   "Prediction",
+   "The Apparitional City",
+   "The Five Hundred Disciples Receive Their Predictions",
+   "The Predictions for Those Who Still Have More to Learn and for Those Who Do Not",
+   "The Expounder of the Dharma",
+   "The Appearance of a Jeweled Stupa",
+   "Devadatta",
+   "Perseverance",
+   "Ease in Practice",
+   "Bodhisattvas Emerging from the Earth",
+   "The Lifespan of the Tathāgata",
+   "Description of Merits",
+   "The Merits of Joyful Acceptance",
+   "The Benefits Obtained by an Expounder of the Dharma",
+   "Bodhisattva Sadāparibhūta",
+   "The Transcendent Powers of the Tathāgata",
+   "Entrustment",
+   "Ancient Accounts of Bodhisattva Bhaiṣajyarāja",
+   "Bodhisattva Gadgadasvara",
+   "The Universal Gate of Avalokiteśvara Bodhisattva",
+   "Dhāraṇī",
+   "Ancient Accounts of King Śubhavyūha",
+   "Encouragement of Bodhisattva Samantabhadra"
+  ]
+ },
+ "textes-sacres_entretiens-de-confucius": {
+  "qid": "Q276015",
+  "P571": [
+   "-480"
+  ],
+  "P495": [
+   "Chine"
+  ],
+  "P50": [
+   "anonyme"
+  ],
+  "P527": [
+   "Analects/Chapter IX",
+   "Confucian Analects/II",
+   "Analects/Chapter XIII",
+   "Confucian Analects/VI"
+  ]
+ },
+ "textes-sacres_avesta": {
+  "qid": "Q83426",
+  "P50": [
+   "Zoroastre"
+  ]
+ },
+ "textes-sacres_guru-granth-sahib": {
+  "qid": "Q203249",
+  "P495": [
+   "Inde"
+  ],
+  "P136": [
+   "littérature religieuse",
+   "texte sacré"
+  ],
+  "P527": [
+   "Ang"
+  ]
+ },
+ "textes-sacres_livre-de-mormon": {
+  "qid": "Q459842",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Mormon",
+   "Joseph Smith"
+  ],
+  "P577": [
+   "1830"
+  ],
+  "P136": [
+   "texte sacré",
+   "littérature chrétienne",
+   "littérature mormone"
+  ],
+  "P527": [
+   "Premier Livre de Néphi",
+   "Deuxième Livre de Néphi",
+   "Livre de Jacob",
+   "Livre d’Énos",
+   "Livre de Jarom",
+   "Livre d’Omni",
+   "Paroles de Mormon",
+   "Livre de Mosiah",
+   "Livre d’Alma",
+   "Livre d’Hélaman",
+   "Trois Néphi",
+   "Livre de Mormon",
+   "Livre d’Éther",
+   "Livre de Moroni",
+   "Quatre Néphi"
+  ]
+ },
+ "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
+  "qid": "Q174361",
+  "P495": [
+   "Égypte antique"
+  ],
+  "P50": [
+   "Thot"
+  ]
+ },
+ "textes-sacres_popol-vuh": {
+  "qid": "Q220264"
+ },
+ "textes-sacres_evangile": {
+  "qid": "Q492807"
+ },
+ "textes-sacres_apocalypse": {
+  "qid": "Q42040",
+  "P495": [
+   "Empire romain"
+  ],
+  "P50": [
+   "Jean de Patmos"
+  ],
+  "P136": [
+   "littérature apocalyptique",
+   "épître",
+   "prophétie"
+  ],
+  "P527": [
+   "chapitre 1 du livre de l'Apocalypse",
+   "chapitre 2 du livre de l'Apocalypse",
+   "chapitre 3 du livre de l'Apocalypse",
+   "chapitre 4 du livre de l'Apocalypse",
+   "chapitre 5 du livre de l'Apocalypse",
+   "chapitre 6 du livre de l'Apocalypse",
+   "chapitre 7 du livre de l'Apocalypse",
+   "chapitre 8 du livre de l'Apocalypse",
+   "chapitre 9 du livre de l'Apocalypse",
+   "chapitre 10 du livre de l'Apocalypse",
+   "chapitre 11 du livre de l'Apocalypse",
+   "chapitre 12 du livre de l'Apocalypse",
+   "chapitre 13 du livre de l'Apocalypse",
+   "chapitre 14 du livre de l'Apocalypse",
+   "chapitre 15 du livre de l'Apocalypse",
+   "chapitre 16 du livre de l'Apocalypse",
+   "chapitre 17 du livre de l'Apocalypse",
+   "chapitre 18 du livre de l'Apocalypse",
+   "chapitre 19 du livre de l'Apocalypse",
+   "chapitre 20 du livre de l'Apocalypse",
+   "chapitre 21 du livre de l'Apocalypse",
+   "chapitre 22 du livre de l'Apocalypse"
+  ]
+ },
+ "textes-sacres_livre-de-la-genese": {
+  "qid": "Q9184",
+  "P50": [
+   "Moïse"
+  ],
+  "P136": [
+   "texte sacré"
+  ],
+  "P527": [
+   "Genèse 1",
+   "Genèse 2",
+   "Genèse 3",
+   "Genèse 4",
+   "Genèse 5",
+   "Genèse 6",
+   "Genèse 7",
+   "Genèse 8",
+   "Genèse 9",
+   "Genèse 10",
+   "Genèse 11",
+   "Genèse 12",
+   "Genèse 13",
+   "Genèse 14",
+   "Genèse 15",
+   "Genèse 16",
+   "Genèse 17",
+   "Genèse 18",
+   "Genèse 19",
+   "Genèse 20",
+   "Genèse 21",
+   "Genèse 22",
+   "Genèse 23",
+   "Genèse 24",
+   "Genèse 25",
+   "Genèse 26",
+   "Genèse 27",
+   "Genèse 28",
+   "Genèse 29",
+   "Genèse 30",
+   "Genèse 31",
+   "Genèse 32",
+   "Genèse 33",
+   "Genèse 34",
+   "Genèse 35",
+   "Genèse 36",
+   "Genèse 37",
+   "Genèse 38",
+   "Genèse 39",
+   "Genèse 40",
+   "Genèse 41",
+   "Genèse 42",
+   "Genèse 43",
+   "Genèse 44",
+   "Genèse 45",
+   "Genèse 46",
+   "Genèse 47",
+   "Genèse 48",
+   "Genèse 49",
+   "Genèse 50"
+  ]
+ },
+ "textes-sacres_psaume": {
+  "qid": "Q12497663",
+  "P800": [
+   "Livre des Psaumes"
+  ]
+ },
+ "textes-sacres_kojiki": {
+  "qid": "Q813031",
+  "P571": [
+   "712"
+  ],
+  "P50": [
+   "Hieda no Are",
+   "Ō no Yasumaro"
+  ],
+  "P136": [
+   "livre d'histoire"
+  ]
+ },
+ "textes-sacres_sefer-hazohar": {
+  "qid": "Q205388"
+ },
+ "textes-sacres_bardo-thodol": {
+  "qid": "Q597697",
+  "P50": [
+   "ḍrārī"
+  ],
+  "P136": [
+   "terma"
+  ]
+ },
+ "textes-sacres_manuscrits-de-la-mer-morte": {
+  "qid": "Q145780",
+  "P527": [
+   "grand rouleau des Psaumes",
+   "Règle de la Guerre",
+   "Calendrier solaire de 364 jours",
+   "4QMMT",
+   "commentaire du livre d'Habbakkuk",
+   "Document de Damas",
+   "Rouleau de cuivre"
+  ]
+ },
+ "textes-sacres_vulgate": {
+  "qid": "Q131175",
+  "P50": [
+   "Jérôme de Stridon"
+  ],
+  "P577": [
+   "400"
+  ]
+ },
+ "textes-sacres_septante": {
+  "qid": "Q29334"
+ }
+}

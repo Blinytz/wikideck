@@ -1,0 +1,212 @@
+{
+ "poissons-et-vie-marine_grand-requin-blanc": {
+  "qid": "Q129026"
+ },
+ "poissons-et-vie-marine_requin-baleine": {
+  "qid": "Q80378"
+ },
+ "poissons-et-vie-marine_sphyrnidae": {
+  "qid": "Q208490"
+ },
+ "poissons-et-vie-marine_requin-tigre": {
+  "qid": "Q188212"
+ },
+ "poissons-et-vie-marine_requin-bouledogue": {
+  "qid": "Q190469"
+ },
+ "poissons-et-vie-marine_scyliorhinidae": {
+  "qid": "Q17149"
+ },
+ "poissons-et-vie-marine_manta-genre": {
+  "qid": "Q1536199"
+ },
+ "poissons-et-vie-marine_dasyatis-pastinaca": {
+  "qid": "Q586594"
+ },
+ "poissons-et-vie-marine_poisson-clown": {
+  "qid": "Q472616"
+ },
+ "poissons-et-vie-marine_acanthuridae": {
+  "qid": "Q465563"
+ },
+ "poissons-et-vie-marine_pterois-volitans": {
+  "qid": "Q824672"
+ },
+ "poissons-et-vie-marine_poisson-globe": {
+  "qid": "Q201701"
+ },
+ "poissons-et-vie-marine_mole-poisson": {
+  "qid": "Q192285"
+ },
+ "poissons-et-vie-marine_pristidae": {
+  "qid": "Q190736"
+ },
+ "poissons-et-vie-marine_exocoetidae": {
+  "qid": "Q183686"
+ },
+ "poissons-et-vie-marine_piranha": {
+  "qid": "Q185215"
+ },
+ "poissons-et-vie-marine_espadon": {
+  "qid": "Q164327"
+ },
+ "poissons-et-vie-marine_istiophoridae": {
+  "qid": "Q30961"
+ },
+ "poissons-et-vie-marine_thon-rouge": {
+  "qid": "Q2975916"
+ },
+ "poissons-et-vie-marine_koi": {
+  "qid": "Q378846",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "poissons-et-vie-marine_anguille-electrique": {
+  "qid": "Q201235"
+ },
+ "poissons-et-vie-marine_hippocampe-poisson": {
+  "qid": "Q74363"
+ },
+ "poissons-et-vie-marine_murene-commune": {
+  "qid": "Q13222818"
+ },
+ "poissons-et-vie-marine_scaridae": {
+  "qid": "Q502220"
+ },
+ "poissons-et-vie-marine_sphyraena": {
+  "qid": "Q193921"
+ },
+ "poissons-et-vie-marine_poisson-pierre": {
+  "qid": "Q2330446"
+ },
+ "poissons-et-vie-marine_etoile-de-mer": {
+  "qid": "Q25349"
+ },
+ "poissons-et-vie-marine_echinoidea": {
+  "qid": "Q83483"
+ },
+ "poissons-et-vie-marine_holothurie": {
+  "qid": "Q127470"
+ },
+ "poissons-et-vie-marine_pieuvre": {
+  "qid": "Q13219075"
+ },
+ "poissons-et-vie-marine_pieuvre-aux-anneaux-bleus": {
+  "qid": "Q1850495"
+ },
+ "poissons-et-vie-marine_calmar-geant": {
+  "qid": "Q13537131"
+ },
+ "poissons-et-vie-marine_seiche-animal": {
+  "qid": "Q184479"
+ },
+ "poissons-et-vie-marine_nautile-sous-marin-de-poche": {
+  "qid": "Q872853"
+ },
+ "poissons-et-vie-marine_cubozoa": {
+  "qid": "Q273179"
+ },
+ "poissons-et-vie-marine_aurelia-aurita": {
+  "qid": "Q26864"
+ },
+ "poissons-et-vie-marine_anemone-de-mer": {
+  "qid": "Q147256"
+ },
+ "poissons-et-vie-marine_faviidae": {
+  "qid": "Q134555"
+ },
+ "poissons-et-vie-marine_macrocheira-kaempferi": {
+  "qid": "Q273655"
+ },
+ "poissons-et-vie-marine_homard": {
+  "qid": "Q11827352"
+ },
+ "poissons-et-vie-marine_stomatopoda": {
+  "qid": "Q334855"
+ },
+ "poissons-et-vie-marine_porifera": {
+  "qid": "Q18960"
+ },
+ "poissons-et-vie-marine_coelacanthiformes": {
+  "qid": "Q59166"
+ },
+ "poissons-et-vie-marine_melanocetus": {
+  "qid": "Q571546"
+ },
+ "poissons-et-vie-marine_requin-du-groenland": {
+  "qid": "Q370444"
+ },
+ "poissons-et-vie-marine_requin-pelerin": {
+  "qid": "Q185260"
+ },
+ "poissons-et-vie-marine_krill-antarctique": {
+  "qid": "Q571443"
+ },
+ "poissons-et-vie-marine_salmo-trutta": {
+  "qid": "Q2857311"
+ },
+ "poissons-et-vie-marine_esox-lucius": {
+  "qid": "Q165278"
+ },
+ "poissons-et-vie-marine_silure-glane": {
+  "qid": "Q159323"
+ },
+ "poissons-et-vie-marine_acipenser-sturio": {
+  "qid": "Q300955"
+ },
+ "poissons-et-vie-marine_arapaima-gigas": {
+  "qid": "Q145409"
+ },
+ "poissons-et-vie-marine_morue-de-l-atlantique": {
+  "qid": "Q199788"
+ },
+ "poissons-et-vie-marine_sardina-pilchardus": {
+  "qid": "Q208600"
+ },
+ "poissons-et-vie-marine_clupea-harengus": {
+  "qid": "Q2396858"
+ },
+ "poissons-et-vie-marine_scomber-scombrus": {
+  "qid": "Q30153"
+ },
+ "poissons-et-vie-marine_epinephelus-marginatus": {
+  "qid": "Q192167"
+ },
+ "poissons-et-vie-marine_requin-mako": {
+  "qid": "Q192158"
+ },
+ "poissons-et-vie-marine_requin-lutin": {
+  "qid": "Q499461"
+ },
+ "poissons-et-vie-marine_phycodurus-eques": {
+  "qid": "Q501644"
+ },
+ "poissons-et-vie-marine_combattant": {
+  "qid": "Q549"
+ },
+ "poissons-et-vie-marine_poecilia-reticulata": {
+  "qid": "Q178202"
+ },
+ "poissons-et-vie-marine_petromyzon-marinus": {
+  "qid": "Q385764"
+ },
+ "poissons-et-vie-marine_huitre": {
+  "qid": "Q107411"
+ },
+ "poissons-et-vie-marine_coquille-saint-jacques": {
+  "qid": "Q1249634"
+ },
+ "poissons-et-vie-marine_tridacne-geant": {
+  "qid": "Q751784"
+ },
+ "poissons-et-vie-marine_pagure": {
+  "qid": "Q16668644"
+ },
+ "poissons-et-vie-marine_langouste-rouge": {
+  "qid": "Q8162866"
+ },
+ "poissons-et-vie-marine_physalia": {
+  "qid": "Q2704401"
+ }
+}

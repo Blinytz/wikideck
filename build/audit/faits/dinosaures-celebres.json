@@ -1,0 +1,196 @@
+{
+ "dinosaures-celebres_tyrannosaurus": {
+  "qid": "Q14332"
+ },
+ "dinosaures-celebres_velociraptor": {
+  "qid": "Q14403"
+ },
+ "dinosaures-celebres_triceratops": {
+  "qid": "Q14384"
+ },
+ "dinosaures-celebres_stegosaurus": {
+  "qid": "Q14388"
+ },
+ "dinosaures-celebres_brachiosaurus": {
+  "qid": "Q14397"
+ },
+ "dinosaures-celebres_diplodocus": {
+  "qid": "Q14330"
+ },
+ "dinosaures-celebres_spinosaurus": {
+  "qid": "Q130966"
+ },
+ "dinosaures-celebres_allosaurus": {
+  "qid": "Q14400"
+ },
+ "dinosaures-celebres_ankylosaurus": {
+  "qid": "Q40621"
+ },
+ "dinosaures-celebres_parasaurolophus": {
+  "qid": "Q203583"
+ },
+ "dinosaures-celebres_iguanodon": {
+  "qid": "Q130980"
+ },
+ "dinosaures-celebres_compsognathus": {
+  "qid": "Q130880"
+ },
+ "dinosaures-celebres_archaeopteryx": {
+  "qid": "Q100196"
+ },
+ "dinosaures-celebres_deinonychus": {
+  "qid": "Q14405"
+ },
+ "dinosaures-celebres_carnotaurus": {
+  "qid": "Q18510948"
+ },
+ "dinosaures-celebres_giganotosaurus": {
+  "qid": "Q14438"
+ },
+ "dinosaures-celebres_therizinosaurus": {
+  "qid": "Q131264"
+ },
+ "dinosaures-celebres_pachycephalosaurus": {
+  "qid": "Q14455",
+  "P527": [
+   "Pachycephalosaurus wyomingensis",
+   "Pachycephalosaurus grangeri"
+  ]
+ },
+ "dinosaures-celebres_styracosaurus": {
+  "qid": "Q14483"
+ },
+ "dinosaures-celebres_dilophosaurus": {
+  "qid": "Q271710"
+ },
+ "dinosaures-celebres_baryonyx": {
+  "qid": "Q131006"
+ },
+ "dinosaures-celebres_oviraptor": {
+  "qid": "Q131070"
+ },
+ "dinosaures-celebres_protoceratops": {
+  "qid": "Q14506"
+ },
+ "dinosaures-celebres_maiasaura": {
+  "qid": "Q132414"
+ },
+ "dinosaures-celebres_edmontosaurus": {
+  "qid": "Q309466"
+ },
+ "dinosaures-celebres_corythosaurus": {
+  "qid": "Q131078"
+ },
+ "dinosaures-celebres_camarasaurus": {
+  "qid": "Q14419"
+ },
+ "dinosaures-celebres_apatosaurus": {
+  "qid": "Q14326"
+ },
+ "dinosaures-celebres_supersaurus": {
+  "qid": "Q131177"
+ },
+ "dinosaures-celebres_argentinosaurus": {
+  "qid": "Q130859"
+ },
+ "dinosaures-celebres_amargasaurus": {
+  "qid": "Q18510922"
+ },
+ "dinosaures-celebres_kentrosaurus": {
+  "qid": "Q131094"
+ },
+ "dinosaures-celebres_gallimimus": {
+  "qid": "Q309467"
+ },
+ "dinosaures-celebres_struthiomimus": {
+  "qid": "Q310535"
+ },
+ "dinosaures-celebres_coelophysis": {
+  "qid": "Q309392"
+ },
+ "dinosaures-celebres_ceratosaurus": {
+  "qid": "Q130902"
+ },
+ "dinosaures-celebres_torosaurus": {
+  "qid": "Q14491"
+ },
+ "dinosaures-celebres_chasmosaurus": {
+  "qid": "Q131586",
+  "P527": [
+   "Chasmosaurus belli",
+   "Chasmosaurus russelli"
+  ]
+ },
+ "dinosaures-celebres_microraptor": {
+  "qid": "Q310537"
+ },
+ "dinosaures-celebres_sinosauropteryx": {
+  "qid": "Q131379"
+ },
+ "dinosaures-celebres_yutyrannus": {
+  "qid": "Q131710"
+ },
+ "dinosaures-celebres_suchomimus": {
+  "qid": "Q131202"
+ },
+ "dinosaures-celebres_herrerasaurus": {
+  "qid": "Q131014"
+ },
+ "dinosaures-celebres_eoraptor": {
+  "qid": "Q130988"
+ },
+ "dinosaures-celebres_plateosaurus": {
+  "qid": "Q131046"
+ },
+ "dinosaures-celebres_megalosaurus": {
+  "qid": "Q131056"
+ },
+ "dinosaures-celebres_utahraptor": {
+  "qid": "Q131193"
+ },
+ "dinosaures-celebres_carcharodontosaurus": {
+  "qid": "Q14431"
+ },
+ "dinosaures-celebres_brontosaurus": {
+  "qid": "Q3222766"
+ },
+ "dinosaures-celebres_tarbosaurus": {
+  "qid": "Q2491"
+ },
+ "dinosaures-celebres_albertosaurus": {
+  "qid": "Q40751"
+ },
+ "dinosaures-celebres_troodon": {
+  "qid": "Q131043"
+ },
+ "dinosaures-celebres_deinocheirus": {
+  "qid": "Q131142"
+ },
+ "dinosaures-celebres_psittacosaurus": {
+  "qid": "Q132672"
+ },
+ "dinosaures-celebres_cryolophosaurus": {
+  "qid": "Q131166"
+ },
+ "dinosaures-celebres_mamenchisaurus": {
+  "qid": "Q131038"
+ },
+ "dinosaures-celebres_patagotitan": {
+  "qid": "Q17103736"
+ },
+ "dinosaures-celebres_pentaceratops": {
+  "qid": "Q131253"
+ },
+ "dinosaures-celebres_euoplocephalus": {
+  "qid": "Q130885"
+ },
+ "dinosaures-celebres_hadrosaurus": {
+  "qid": "Q14511"
+ },
+ "dinosaures-celebres_ornithomimus": {
+  "qid": "Q131067"
+ },
+ "dinosaures-celebres_majungasaurus": {
+  "qid": "Q18511009"
+ }
+}

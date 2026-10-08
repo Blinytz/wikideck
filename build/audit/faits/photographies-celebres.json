@@ -1,0 +1,480 @@
+{
+ "photographies-celebres_point-de-vue-du-gras": {
+  "qid": "Q616159",
+  "P170": [
+   "Nicéphore Niépce"
+  ],
+  "P571": [
+   "1827"
+  ],
+  "P276": [
+   "Austin"
+  ],
+  "P195": [
+   "Harry Ransom Center"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "photographie de paysage",
+   "paysage"
+  ],
+  "P186": [
+   "héliographie",
+   "alliage plomb-étain",
+   "bitume"
+  ],
+  "P2079": [
+   "photogravure"
+  ]
+ },
+ "photographies-celebres_boulevard-du-temple": {
+  "qid": "Q1851236",
+  "P571": [
+   "1656"
+  ],
+  "P131": [
+   "Paris",
+   "3e arrondissement de Paris",
+   "11e arrondissement de Paris",
+   "Folie-Méricourt",
+   "Enfants-Rouges"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "photographies-celebres_la-table-servie": {
+  "qid": "Q56318155"
+ },
+ "photographies-celebres_mort-d-un-soldat-republicain": {
+  "qid": "Q469861",
+  "P571": [
+   "1936"
+  ],
+  "P495": [
+   "Espagne"
+  ],
+  "P136": [
+   "photojournalisme",
+   "photographie de guerre"
+  ]
+ },
+ "photographies-celebres_raising-the-flag-on-iwo-jima": {
+  "qid": "Q117693",
+  "P571": [
+   "1945"
+  ],
+  "P195": [
+   "National Archives and Records Administration"
+  ],
+  "P577": [
+   "1945"
+  ]
+ },
+ "photographies-celebres_le-drapeau-rouge-sur-le-reichstag": {
+  "qid": "Q702665",
+  "P571": [
+   "1945"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P577": [
+   "1945"
+  ],
+  "P136": [
+   "photojournalisme",
+   "photographie de guerre"
+  ]
+ },
+ "photographies-celebres_v-j-day-in-times-square": {
+  "qid": "Q626926",
+  "P571": [
+   "1945"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "photojournalisme"
+  ]
+ },
+ "photographies-celebres_samedi-sanglant": {
+  "qid": "Q701174",
+  "P571": [
+   "1937"
+  ],
+  "P495": [
+   "république de Chine"
+  ],
+  "P136": [
+   "photojournalisme"
+  ]
+ },
+ "photographies-celebres_homme-de-tian-anmen": {
+  "qid": "Q58682",
+  "P569": [
+   "2000"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ]
+ },
+ "photographies-celebres_the-falling-man": {
+  "qid": "Q1259460",
+  "P571": [
+   "2001"
+  ]
+ },
+ "photographies-celebres_la-fillette-et-le-vautour": {
+  "qid": "Q5960325",
+  "P571": [
+   "1993"
+  ],
+  "P276": [
+   "Ayod"
+  ],
+  "P495": [
+   "Soudan du Sud"
+  ],
+  "P577": [
+   "1993"
+  ],
+  "P136": [
+   "photojournalisme"
+  ]
+ },
+ "photographies-celebres_la-fille-a-la-fleur": {
+  "qid": "Q22955145",
+  "P571": [
+   "1967"
+  ]
+ },
+ "photographies-celebres_guerrillero-heroico": {
+  "qid": "Q498216",
+  "P571": [
+   "1960"
+  ],
+  "P495": [
+   "Cuba"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "photographies-celebres_mere-migrante": {
+  "qid": "Q3332083",
+  "P571": [
+   "1936"
+  ],
+  "P276": [
+   "Metropolitan Museum of Art"
+  ],
+  "P195": [
+   "Museum of Modern Art",
+   "Franklin D. Roosevelt Presidential Library and Museum",
+   "musée d'Art moderne de San Francisco",
+   "Metropolitan Museum of Art",
+   "Art Institute of Chicago"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "portrait photographique"
+  ]
+ },
+ "photographies-celebres_lunch-atop-a-skyscraper": {
+  "qid": "Q1850543",
+  "P571": [
+   "1932"
+  ],
+  "P276": [
+   "GE Building"
+  ],
+  "P195": [
+   "Bettmann Archive",
+   "Internet Archive"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "photographies-celebres_moonrise-hernandez-nouveau-mexique": {
+  "qid": "Q17107995",
+  "P571": [
+   "1941",
+   "1941"
+  ],
+  "P276": [
+   "Hernandez",
+   "National Gallery of Art",
+   "Cleveland Museum of Art"
+  ],
+  "P195": [
+   "collection du Musée d’art contemporain de Montréal",
+   "National Gallery of Art",
+   "Photographs in the National Gallery of Art",
+   "Cleveland Museum of Art"
+  ],
+  "P131": [
+   "Nouveau-Mexique"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1942"
+  ],
+  "P136": [
+   "photographie de paysage"
+  ],
+  "P186": [
+   "épreuve à la gélatine argentique"
+  ]
+ },
+ "photographies-celebres_cliche-51": {
+  "qid": "Q901530",
+  "P170": [
+   "Raymond Gosling"
+  ],
+  "P2079": [
+   "cristallographie par rayons X"
+  ]
+ },
+ "photographies-celebres_lever-de-terre": {
+  "qid": "Q843864",
+  "P571": [
+   "1968"
+  ],
+  "P195": [
+   "National Aeronautics and Space Administration"
+  ],
+  "P136": [
+   "astronaut photography"
+  ]
+ },
+ "photographies-celebres_la-bille-bleue": {
+  "qid": "Q202014",
+  "P170": [
+   "Harrison Schmitt",
+   "Ronald Evans",
+   "Eugene Cernan"
+  ],
+  "P571": [
+   "1972"
+  ],
+  "P136": [
+   "astronaut photography"
+  ]
+ },
+ "photographies-celebres_un-point-bleu-pale": {
+  "qid": "Q474472",
+  "P170": [
+   "Voyager 1"
+  ],
+  "P571": [
+   "1990"
+  ],
+  "P577": [
+   "1990"
+  ],
+  "P136": [
+   "photographie spatiale"
+  ]
+ },
+ "photographies-celebres_champ-profond-de-hubble": {
+  "qid": "Q741255",
+  "P136": [
+   "astrophotographie"
+  ]
+ },
+ "photographies-celebres_the-terror-of-war": {
+  "qid": "Q20184042",
+  "P571": [
+   "1972"
+  ],
+  "P495": [
+   "Vietnam"
+  ],
+  "P577": [
+   "1972"
+  ],
+  "P136": [
+   "photojournalisme",
+   "photographie de guerre",
+   "photographie noir et blanc"
+  ]
+ },
+ "photographies-celebres_jour-j-photo": {
+  "qid": "Q1191292",
+  "P170": [
+   "Robert Capa"
+  ],
+  "P571": [
+   "1944"
+  ],
+  "P577": [
+   "1944"
+  ],
+  "P136": [
+   "photographie de guerre"
+  ]
+ },
+ "photographies-celebres_conrad-schumann": {
+  "qid": "Q60160",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "Allemagne",
+   "République démocratique allemande",
+   "Allemagne de l'Ouest",
+   "Troisième Reich"
+  ]
+ },
+ "photographies-celebres_afghan-girl": {
+  "qid": "Q19819228",
+  "P571": [
+   "1984"
+  ],
+  "P276": [
+   "Nasir Bagh"
+  ],
+  "P577": [
+   "1985"
+  ],
+  "P136": [
+   "portrait"
+  ]
+ },
+ "photographies-celebres_le-baiser-de-l-hotel-de-ville": {
+  "qid": "Q3220202",
+  "P571": [
+   "1950"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "photographie humaniste"
+  ]
+ },
+ "photographies-celebres_le-violon-d-ingres": {
+  "qid": "Q3228161",
+  "P135": [
+   "surréalisme"
+  ],
+  "P571": [
+   "1924"
+  ],
+  "P276": [
+   "Musée national d'Art moderne"
+  ],
+  "P195": [
+   "Musée national d'Art moderne"
+  ],
+  "P136": [
+   "nu"
+  ],
+  "P186": [
+   "photographie argentique",
+   "mine de plomb",
+   "encre de Chine",
+   "papier"
+  ]
+ },
+ "photographies-celebres_l-entrepont": {
+  "qid": "Q431732",
+  "P135": [
+   "modernisme"
+  ],
+  "P571": [
+   "1907"
+  ],
+  "P195": [
+   "Museum of Modern Art",
+   "Metropolitan Museum of Art"
+  ]
+ },
+ "photographies-celebres_le-lion-rugissant": {
+  "qid": "Q92731208",
+  "P571": [
+   "1941"
+  ],
+  "P276": [
+   "édifice du Centre"
+  ],
+  "P195": [
+   "Bibliothèque et Archives Canada",
+   "National Portrait Gallery"
+  ],
+  "P131": [
+   "Ottawa"
+  ],
+  "P495": [
+   "Canada"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P136": [
+   "portrait"
+  ],
+  "P186": [
+   "épreuve à la gélatine argentique"
+  ]
+ },
+ "photographies-celebres_poing-leve-lors-des-jeux-olympiques-d-ete-de-1968": {
+  "qid": "Q1890705",
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "photographies-celebres_la-marianne-de-mai-68": {
+  "qid": "Q3210548",
+  "P571": [
+   "1968"
+  ],
+  "P577": [
+   "1968"
+  ],
+  "P136": [
+   "portrait photographique"
+  ]
+ },
+ "photographies-celebres_piliers-de-la-creation-astronomie": {
+  "qid": "Q573260",
+  "P170": [
+   "National Aeronautics and Space Administration"
+  ],
+  "P571": [
+   "1995"
+  ]
+ },
+ "photographies-celebres_fees-de-cottingley": {
+  "qid": "Q1136743",
+  "P170": [
+   "Elsie Wright",
+   "Frances Griffiths"
+  ],
+  "P571": [
+   "1917",
+   "1921"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ]
+ }
+}

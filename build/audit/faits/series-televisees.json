@@ -1,0 +1,2371 @@
+{
+ "series-televisees_les-soprano": {
+  "qid": "Q23628",
+  "P170": [
+   "David Chase"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 des Soprano",
+   "saison 2 des Soprano",
+   "saison 3 des Soprano",
+   "saison 4 des Soprano",
+   "saison 5 des Soprano",
+   "saison 6 des Soprano"
+  ]
+ },
+ "series-televisees_breaking-bad": {
+  "qid": "Q1079",
+  "P170": [
+   "Vince Gilligan"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée dramatique",
+   "thriller",
+   "série télévisée à l'humour noir",
+   "contemporary Western film"
+  ],
+  "P527": [
+   "saison 1 de Breaking Bad",
+   "saison 2 de Breaking Bad",
+   "saison 3 de Breaking Bad",
+   "saison 4 de Breaking Bad",
+   "saison 5 de Breaking Bad"
+  ]
+ },
+ "series-televisees_better-call-saul": {
+  "qid": "Q14925221",
+  "P170": [
+   "Vince Gilligan",
+   "Peter Gould"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "drame juridique",
+   "série télévisée policière",
+   "drame",
+   "tragédie"
+  ],
+  "P527": [
+   "saison 1 de Better Call Saul",
+   "saison 2 de Better Call Saul",
+   "saison 3 de Better Call Saul",
+   "saison 4 de Better Call Saul",
+   "saison 5 de Better Call Saul",
+   "saison 6 de Better Call Saul"
+  ]
+ },
+ "series-televisees_game-of-thrones": {
+  "qid": "Q23572",
+  "P170": [
+   "D. B. Weiss",
+   "David Benioff"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série d'action",
+   "série télévisée d'aventures",
+   "série télévisée de fantasy",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 du Trône de fer",
+   "saison 2 du Trône de fer",
+   "saison 3 du Trône de fer",
+   "saison 4 du Trône de fer",
+   "saison 5 de Game of Thrones",
+   "saison 6 de Game of Thrones",
+   "saison 7 de Game of Thrones",
+   "saison 8 de Game of Thrones"
+  ]
+ },
+ "series-televisees_mad-men": {
+  "qid": "Q223977",
+  "P170": [
+   "Matthew Weiner"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Mad Men",
+   "saison 2 de Mad Men",
+   "saison 3 de Mad Men",
+   "saison 4 de Mad Men",
+   "saison 5 de Mad Men",
+   "saison 6 de Mad Men",
+   "saison 7 de Mad Men"
+  ]
+ },
+ "series-televisees_six-feet-under-serie-televisee": {
+  "qid": "Q216919",
+  "P170": [
+   "Alan Ball"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "série télévisée à l'humour noir",
+   "séries télévisées sur le thème des LGBTI+"
+  ],
+  "P527": [
+   "saison 1 de Six Feet Under",
+   "saison 2 de Six Feet Under",
+   "saison 3 de Six Feet Under",
+   "saison 4 de Six Feet Under",
+   "saison 5 de Six Feet Under"
+  ]
+ },
+ "series-televisees_twin-peaks-serie-televisee": {
+  "qid": "Q2085",
+  "P170": [
+   "Mark Frost",
+   "David Lynch"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "thriller",
+   "série télévisée d'horreur",
+   "série télévisée policière",
+   "surrealist television series",
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Twin Peaks",
+   "saison 2 de Twin Peaks",
+   "Twin Peaks: The Return"
+  ]
+ },
+ "series-televisees_deadwood-serie-televisee": {
+  "qid": "Q1050603",
+  "P170": [
+   "David Milch"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "western",
+   "série télévisée policière",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Deadwood",
+   "saison 2 de Deadwood",
+   "saison 3 de Deadwood"
+  ]
+ },
+ "series-televisees_sur-ecoute": {
+  "qid": "Q478360",
+  "P170": [
+   "David Simon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée dramatique",
+   "drama policier"
+  ],
+  "P527": [
+   "saison 1 de Sur écoute",
+   "saison 2 de Sur écoute",
+   "saison 3 de Sur écoute",
+   "saison 4 de Sur écoute",
+   "saison 5 de Sur écoute"
+  ]
+ },
+ "series-televisees_friends": {
+  "qid": "Q79784",
+  "P170": [
+   "Marta Kauffman",
+   "David Crane"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée comique",
+   "série télévisée de romance",
+   "sitcom"
+  ],
+  "P527": [
+   "saison 1 de Friends",
+   "saison 2 de Friends",
+   "saison 3 de Friends",
+   "saison 4 de Friends",
+   "saison 5 de Friends",
+   "saison 6 de Friends",
+   "saison 7 de Friends",
+   "saison 8 de Friends",
+   "saison 9 de Friends",
+   "saison 10 de Friends"
+  ]
+ },
+ "series-televisees_seinfeld": {
+  "qid": "Q23733",
+  "P170": [
+   "Larry David",
+   "Jerry Seinfeld"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom"
+  ],
+  "P527": [
+   "saison 1 de Seinfeld",
+   "saison 2 de Seinfeld",
+   "saison 3 de Seinfeld",
+   "saison 4 de Seinfeld",
+   "saison 5 de Seinfeld",
+   "saison 6 de Seinfeld",
+   "saison 7 de Seinfeld",
+   "Seinfeld saison 8",
+   "Seinfeld saison 9"
+  ]
+ },
+ "series-televisees_the-office-serie-televisee-2005": {
+  "qid": "Q23831",
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom",
+   "documentaire parodique"
+  ],
+  "P527": [
+   "saison 1 de The Office",
+   "saison 2 de The Office",
+   "saison 3 de The Office",
+   "saison 4 de The Office",
+   "saison 5 de The Office",
+   "saison 6 de The Office",
+   "saison 7 de The Office",
+   "saison 8 de The Office",
+   "saison 9 de The Office"
+  ]
+ },
+ "series-televisees_how-i-met-your-mother": {
+  "qid": "Q147235",
+  "P170": [
+   "Carter Bays",
+   "Craig Thomas"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "sitcom",
+   "romantic comedy television program"
+  ],
+  "P527": [
+   "saison 1 de How I Met Your Mother",
+   "saison 2 de How I Met Your Mother",
+   "saison 3 de How I Met Your Mother",
+   "saison 4 de How I Met Your Mother",
+   "saison 5 de How I Met Your Mother",
+   "saison 6 de How I Met Your Mother",
+   "saison 7 de How I Met Your Mother",
+   "saison 8 de How I Met Your Mother",
+   "saison 9 de How I Met Your Mother"
+  ]
+ },
+ "series-televisees_the-big-bang-theory": {
+  "qid": "Q8539",
+  "P170": [
+   "Chuck Lorre",
+   "Bill Prady"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom"
+  ],
+  "P527": [
+   "saison 1 de The Big Bang Theory",
+   "saison 2 de The Big Bang Theory",
+   "saison 3 de The Big Bang Theory",
+   "saison 4 de The Big Bang Theory",
+   "saison 5 de The Big Bang Theory",
+   "saison 6 de The Big Bang Theory",
+   "saison 7 de The Big Bang Theory",
+   "saison 8 de The Big Bang Theory",
+   "saison 9 de The Big Bang Theory",
+   "saison 10 de The Big Bang Theory",
+   "saison 11 de The Big Bang Theory",
+   "saison 12 de The Big Bang Theory"
+  ]
+ },
+ "series-televisees_sex-and-the-city": {
+  "qid": "Q35791",
+  "P170": [
+   "Darren Star"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom",
+   "séries télévisées sur le thème des LGBTI+",
+   "série télévisée érotique",
+   "raunchy comedy television program",
+   "romantic comedy television program"
+  ],
+  "P527": [
+   "saison 1 de Sex and the City",
+   "saison 2 de Sex and the City",
+   "saison 3 de Sex and the City",
+   "saison 4 de Sex and the City",
+   "saison 5 de Sex and the City",
+   "saison 6 de Sex and the City"
+  ]
+ },
+ "series-televisees_desperate-housewives": {
+  "qid": "Q131758",
+  "P170": [
+   "Marc Cherry"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "soap opera"
+  ],
+  "P527": [
+   "saison 1 de Desperate Housewives",
+   "saison 2 de Desperate Housewives",
+   "saison 3 de Desperate Housewives",
+   "saison 4 de Desperate Housewives",
+   "saison 5 de Desperate Housewives",
+   "saison 6 de Desperate Housewives",
+   "saison 7 de Desperate Housewives",
+   "saison 8 de Desperate Housewives"
+  ]
+ },
+ "series-televisees_grey-s-anatomy": {
+  "qid": "Q438406",
+  "P170": [
+   "Shonda Rhimes"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série médicale"
+  ],
+  "P527": [
+   "saison 1 de Grey's Anatomy",
+   "saison 2 de Grey's Anatomy",
+   "saison 3 de Grey's Anatomy",
+   "saison 4 de Grey's Anatomy",
+   "saison 5 de Grey's Anatomy",
+   "saison 6 de Grey's Anatomy",
+   "saison 7 de Grey's Anatomy",
+   "saison 8 de Grey's Anatomy",
+   "saison 9 de Grey's Anatomy",
+   "saison 10 de Grey's Anatomy",
+   "saison 11 de Grey's Anatomy",
+   "saison 12 de Grey's Anatomy",
+   "saison 13 de Grey's Anatomy",
+   "saison 14 de Grey's Anatomy",
+   "saison 15 de Grey's Anatomy",
+   "saison 16 de Grey's Anatomy",
+   "saison 17 de Grey's Anatomy",
+   "saison 18 de Grey's Anatomy",
+   "saison 19 de Grey's Anatomy",
+   "saison 20 de Grey's Anatomy",
+   "saison 21 de Grey's Anatomy",
+   "saison 22 de Grey's Anatomy",
+   "Grey's Anatomy, season 23"
+  ]
+ },
+ "series-televisees_urgences": {
+  "qid": "Q2751242"
+ },
+ "series-televisees_dr-house": {
+  "qid": "Q23558",
+  "P170": [
+   "David Shore"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série médicale"
+  ],
+  "P527": [
+   "saison 1 de Dr House",
+   "saison 2 de Dr House",
+   "saison 3 de Dr House",
+   "saison 4 de Dr House",
+   "saison 5 de Dr House",
+   "saison 6 de Dr House",
+   "saison 7 de Dr House",
+   "saison 8 de Dr House"
+  ]
+ },
+ "series-televisees_lost-les-disparus": {
+  "qid": "Q23567",
+  "P170": [
+   "Damon Lindelof",
+   "J. J. Abrams",
+   "Jeffrey Lieber"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série télévisée dramatique",
+   "série télévisée d'aventures",
+   "thriller"
+  ],
+  "P527": [
+   "saison 1 de Lost : Les Disparus",
+   "saison 2 de Lost : Les Disparus",
+   "saison 3 de Lost : Les Disparus",
+   "saison 4 de Lost : Les Disparus",
+   "saison 5 de Lost : Les Disparus",
+   "saison 6 de Lost : Les Disparus"
+  ]
+ },
+ "series-televisees_x-files-aux-frontieres-du-reel": {
+  "qid": "Q2744",
+  "P170": [
+   "Chris Carter"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science fiction television series",
+   "thriller",
+   "série télévisée d'horreur",
+   "fiction surnaturelle"
+  ],
+  "P527": [
+   "saison 1 de X-Files : Aux frontières du réel",
+   "saison 2 de X-Files : Aux frontières du réel",
+   "saison 3 de X-Files : Aux frontières du réel",
+   "saison 4 de X-Files : Aux frontières du réel",
+   "saison 5 de X-Files : Aux frontières du réel",
+   "saison 6 de X-Files : Aux frontières du réel",
+   "saison 7 de X-Files : Aux frontières du réel",
+   "saison 8 de X-Files : Aux frontières du réel",
+   "saison 9 de X-Files : Aux frontières du réel",
+   "saison 10 de X-Files : Aux frontières du réel",
+   "saison 11 de X-Files : Aux frontières du réel"
+  ]
+ },
+ "series-televisees_buffy-contre-les-vampires": {
+  "qid": "Q183513",
+  "P170": [
+   "Joss Whedon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée de fantasy",
+   "série télévisée d'horreur",
+   "série télévisée dramatique",
+   "séries télévisées sur le thème des LGBTI+",
+   "programme télévisée de vampire",
+   "werewolf television program",
+   "paranormal television program",
+   "série pour la jeunesse"
+  ],
+  "P527": [
+   "saison 1 de Buffy contre les vampires",
+   "saison 2 de Buffy contre les vampires",
+   "saison 3 de Buffy contre les vampires",
+   "saison 4 de Buffy contre les vampires",
+   "saison 5 de Buffy contre les vampires",
+   "saison 6 de Buffy contre les vampires",
+   "saison 7 de Buffy contre les vampires"
+  ]
+ },
+ "series-televisees_doctor-who": {
+  "qid": "Q34316",
+  "P170": [
+   "Donald Wilson",
+   "C. E. Webber",
+   "Sydney Newman"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série d'action",
+   "fiction de voyage dans le temps",
+   "série télévisée d'aventures",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Doctor Who",
+   "saison 2 de Doctor Who",
+   "saison 3 de Doctor Who",
+   "saison 4 de Doctor Who",
+   "saison 5 de Doctor Who",
+   "saison 6 de Doctor Who",
+   "saison 7 de Doctor Who",
+   "saison 8 de Doctor Who",
+   "saison 9 de Doctor Who",
+   "saison 10 de Doctor Who",
+   "saison 11 de Doctor Who",
+   "saison 12 de Doctor Who",
+   "saison 13 de Doctor Who",
+   "saison 14 de Doctor Who",
+   "saison 15 de Doctor Who",
+   "saison 16 de Doctor Who",
+   "saison 17 de Doctor Who",
+   "saison 18 de Doctor Who",
+   "saison 19 de Doctor Who",
+   "saison 20 de Doctor Who",
+   "saison 21 de Doctor Who",
+   "saison 22 de Doctor Who",
+   "saison 23 de Doctor Who",
+   "saison 24 de Doctor Who",
+   "saison 25 de Doctor Who",
+   "saison 26 de Doctor Who",
+   "saison 1 de Doctor Who",
+   "saison 2 de Doctor Who",
+   "saison 3 de Doctor Who",
+   "saison 4 de Doctor Who",
+   "saison 5 de Doctor Who",
+   "saison 6 de Doctor Who",
+   "saison 7 de Doctor Who",
+   "saison 8 de Doctor Who",
+   "saison 9 de Doctor Who",
+   "saison 10 de Doctor Who",
+   "saison 11 de Doctor Who",
+   "saison 12 de Doctor Who",
+   "saison 13 de Doctor Who",
+   "saison 4 de Doctor Who - épisodes spéciaux",
+   "saison 13 de Doctor Who - épisodes spéciaux",
+   "saison 1 de Doctor Who, troisième série",
+   "saison 2 de Doctor Who, troisième série"
+  ]
+ },
+ "series-televisees_star-trek": {
+  "qid": "Q1092",
+  "P800": [
+   "Star Trek is…",
+   "La Cage",
+   "Star Trek"
+  ],
+  "P170": [
+   "Gene Roddenberry"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Gene Roddenberry"
+  ],
+  "P136": [
+   "science-fiction"
+  ],
+  "P527": [
+   "Star Trek canon"
+  ]
+ },
+ "series-televisees_battlestar-galactica": {
+  "qid": "Q836013",
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science-fiction"
+  ]
+ },
+ "series-televisees_le-prisonnier": {
+  "qid": "Q714753",
+  "P170": [
+   "Patrick McGoohan",
+   "George Markstein"
+  ],
+  "P571": [
+   "1967"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série télévisée d'espionnage",
+   "série télévisée policière",
+   "thriller",
+   "surrealist television series"
+  ],
+  "P527": [
+   "saison 1 du Prisonnier"
+  ]
+ },
+ "series-televisees_chapeau-melon-et-bottes-de-cuir": {
+  "qid": "Q113700",
+  "P170": [
+   "Sydney Newman"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "série télévisée d'espionnage",
+   "série d'action",
+   "série télévisée policière",
+   "série télévisée comique",
+   "film et téléfilm de fantasy"
+  ],
+  "P527": [
+   "saison 1 de Chapeau melon et bottes de cuir",
+   "saison 2 de Chapeau melon et bottes de cuir",
+   "saison 3 de Chapeau melon et bottes de cuir",
+   "saison 4 de Chapeau melon et bottes de cuir",
+   "saison 5 de Chapeau melon et bottes de cuir",
+   "saison 6 de Chapeau melon et bottes de cuir"
+  ]
+ },
+ "series-televisees_les-simpson": {
+  "qid": "Q886",
+  "P170": [
+   "Matt Groening"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom animée",
+   "satire",
+   "humour noir"
+  ],
+  "P527": [
+   "saison 1 des Simpson",
+   "saison 2 des Simpson",
+   "saison 3 des Simpson",
+   "saison 4 des Simpson",
+   "saison 5 des Simpson",
+   "saison 6 des Simpson",
+   "saison 7 des Simpson",
+   "saison 8 des Simpson",
+   "saison 9 des Simpson",
+   "saison 10 des Simpson",
+   "saison 11 des Simpson",
+   "saison 12 des Simpson",
+   "saison 13 des Simpson",
+   "saison 14 des Simpson",
+   "saison 15 des Simpson",
+   "saison 16 des Simpson",
+   "saison 17 des Simpson",
+   "saison 18 des Simpson",
+   "saison 19 des Simpson",
+   "saison 20 des Simpson",
+   "saison 21 des Simpson",
+   "saison 22 des Simpson",
+   "saison 23 des Simpson",
+   "saison 24 des Simpson",
+   "saison 25 des Simpson",
+   "saison 26 des Simpson",
+   "saison 27 des Simpson",
+   "saison 28 des Simpson",
+   "saison 29 des Simpson",
+   "saison 30 des Simpson",
+   "saison 31 des Simpson",
+   "saison 32 des Simpson",
+   "saison 33 des Simpson",
+   "saison 34 des Simpson",
+   "saison 35 des Simpson",
+   "saison 36 des Simpson",
+   "saison 37 des Simpson",
+   "Saison 38 des Simpson",
+   "The Simpsons, season 39",
+   "The Simpsons, season 40"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "series-televisees_south-park": {
+  "qid": "Q16538",
+  "P170": [
+   "Trey Parker",
+   "Matt Stone"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Trey Parker",
+   "Matt Stone"
+  ],
+  "P136": [
+   "série télévisée comique",
+   "humour absurde",
+   "raunchy comedy television program"
+  ],
+  "P527": [
+   "saison 1 de South Park",
+   "saison 2 de South Park",
+   "saison 3 de South Park",
+   "saison 4 de South Park",
+   "saison 5 de South Park",
+   "saison 6 de South Park",
+   "saison 7 de South Park",
+   "saison 8 de South Park",
+   "saison 9 de South Park",
+   "saison 10 de South Park",
+   "saison 11 de South Park",
+   "saison 12 de South Park",
+   "saison 13 de South Park",
+   "saison 14 de South Park",
+   "saison 15 de South Park",
+   "saison 16 de South Park",
+   "saison 17 de South Park",
+   "saison 18 de South Park",
+   "saison 19 de South Park",
+   "saison 20 de South Park",
+   "saison 21 de South Park",
+   "saison 22 de South Park",
+   "saison 23 de South Park",
+   "saison 24 de South Park",
+   "saison 25 de South Park",
+   "saison 26 de South Park",
+   "saison 27 de South Park",
+   "saison 28 de South Park",
+   "Saison 29 de South Park"
+  ],
+  "P2079": [
+   "animation de papiers découpés"
+  ]
+ },
+ "series-televisees_futurama": {
+  "qid": "Q73622",
+  "P170": [
+   "Matt Groening",
+   "David X. Cohen"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série d'action",
+   "série télévisée comique",
+   "science fiction television series",
+   "science-fiction humoristique",
+   "adult animated television series"
+  ],
+  "P527": [
+   "saison 1 de Futurama",
+   "saison 2 de Futurama",
+   "saison 3 de Futurama",
+   "saison 4 de Futurama",
+   "saison 5 de Futurama",
+   "saison 6 de Futurama",
+   "saison 7 de Futurama",
+   "saison 8 de Futurama",
+   "saison 9 de Futurama",
+   "saison 10 de Futurama"
+  ]
+ },
+ "series-televisees_rick-et-morty": {
+  "qid": "Q15659308",
+  "P170": [
+   "Justin Roiland",
+   "Dan Harmon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom",
+   "science fiction television series",
+   "humour noir"
+  ],
+  "P527": [
+   "saison 1 de Rick et Morty",
+   "saison 2 de Rick et Morty",
+   "saison 3 de Rick et Morty",
+   "saison 4 de Rick et Morty",
+   "saison 5 de Rick et Morty",
+   "saison 6 de Rick et Morty",
+   "saison 7 de Rick et Morty",
+   "saison 8 de Rick et Morty",
+   "saison 9 de Rick et Morty"
+  ]
+ },
+ "series-televisees_black-mirror-serie-televisee": {
+  "qid": "Q558112",
+  "P170": [
+   "Charlie Brooker"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série télévisée dramatique",
+   "série d'anthologie",
+   "série télévisée dystopique",
+   "satirical television series",
+   "thriller"
+  ],
+  "P527": [
+   "saison 1 de Black Mirror",
+   "saison 2 de Black Mirror",
+   "saison 3 de Black Mirror",
+   "saison 4 de Black Mirror",
+   "saison 5 de Black Mirror",
+   "saison 6 de Black Mirror",
+   "Black Mirror: Bandersnatch",
+   "saison 7 de Black Mirror"
+  ]
+ },
+ "series-televisees_stranger-things": {
+  "qid": "Q19798734",
+  "P170": [
+   "Matt Duffer",
+   "Ross Duffer"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série télévisée d'horreur",
+   "série télévisée dramatique",
+   "série télévisée de fantasy",
+   "série pour la jeunesse",
+   "programme de télévision initiatique"
+  ],
+  "P527": [
+   "saison 1 de Stranger Things",
+   "saison 2 de Stranger Things",
+   "saison 3 de Stranger Things",
+   "saison 4 de Stranger Things",
+   "saison 5 de Stranger Things"
+  ]
+ },
+ "series-televisees_dark-serie-televisee": {
+  "qid": "Q28443710",
+  "P170": [
+   "Baran bo Odar",
+   "Jantje Friese"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P136": [
+   "science fiction television series",
+   "série télévisée dramatique",
+   "thriller",
+   "séries télévisées sur le thème des LGBTI+"
+  ],
+  "P527": [
+   "saison 1 de Dark",
+   "saison 2 de Dark",
+   "saison 3 de Dark"
+  ]
+ },
+ "series-televisees_westworld-serie-televisee": {
+  "qid": "Q17572811",
+  "P170": [
+   "Jonathan Nolan",
+   "Lisa Joy"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science fiction television series",
+   "western",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Westworld",
+   "saison 2 de Westworld",
+   "saison 3 de Westworld",
+   "saison 4 de Westworld"
+  ]
+ },
+ "series-televisees_the-walking-dead-serie-televisee": {
+  "qid": "Q232737",
+  "P170": [
+   "Frank Darabont"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée d'horreur",
+   "série télévisée dramatique",
+   "série télévisée post-apocalyptique"
+  ],
+  "P527": [
+   "saison 1 de The Walking Dead",
+   "saison 2 de The Walking Dead",
+   "saison 3 de The Walking Dead",
+   "saison 4 de The Walking Dead",
+   "saison 5 de The Walking Dead",
+   "saison 6 de The Walking Dead",
+   "saison 7 de The Walking Dead",
+   "saison 8 de The Walking Dead",
+   "saison 9 de The Walking Dead",
+   "saison 10 de The Walking Dead",
+   "saison 11 de The Walking Dead"
+  ]
+ },
+ "series-televisees_the-handmaid-s-tale-la-servante-ecarlate": {
+  "qid": "Q25207350",
+  "P170": [
+   "Bruce Miller"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "fiction dystopique",
+   "séries télévisées sur le thème des LGBTI+",
+   "post-apocalyptic television program"
+  ],
+  "P527": [
+   "saison 1 de The Handmaid's Tale : La Servante écarlate",
+   "saison 2 de The Handmaid's Tale : La Servante écarlate",
+   "saison 3 de The Handmaid's Tale : La Servante écarlate",
+   "saison 4 de The Handmaid's Tale : La Servante écarlate",
+   "saison 5 de The Handmaid's Tale : La Servante écarlate",
+   "saison 6 de The Handmaid's Tale : La Servante écarlate"
+  ]
+ },
+ "series-televisees_chernobyl-mini-serie": {
+  "qid": "Q48741246",
+  "P170": [
+   "Craig Mazin"
+  ],
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2019"
+  ],
+  "P136": [
+   "drame historique"
+  ],
+  "P527": [
+   "1:23:45",
+   "Please Remain Calm",
+   "Open Wide, O Earth",
+   "The Happiness of All Mankind",
+   "Vichnaya Pamyat"
+  ]
+ },
+ "series-televisees_the-crown-serie-televisee": {
+  "qid": "Q20707362",
+  "P170": [
+   "Peter Morgan"
+  ],
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série télévisée historique"
+  ],
+  "P527": [
+   "saison 1 de The Crown",
+   "saison 2 de The Crown",
+   "saison 3 de The Crown",
+   "saison 4 de The Crown",
+   "saison 5 de The Crown",
+   "saison 6 de The Crown"
+  ]
+ },
+ "series-televisees_downton-abbey": {
+  "qid": "Q83071",
+  "P170": [
+   "Julian Fellowes"
+  ],
+  "P276": [
+   "Yorkshire"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "drame historique",
+   "série télévisée dramatique",
+   "série télévisée historique"
+  ],
+  "P527": [
+   "saison 1 de Downton Abbey",
+   "saison 2 de Downton Abbey",
+   "saison 3 de Downton Abbey",
+   "saison 4 de Downton Abbey",
+   "saison 5 de Downton Abbey",
+   "saison 6 de Downton Abbey"
+  ]
+ },
+ "series-televisees_peaky-blinders-serie-televisee": {
+  "qid": "Q14944179",
+  "P170": [
+   "Steven Knight"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "drame historique",
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Peaky Blinders",
+   "saison 2 de Peaky Blinders",
+   "saison 3 de Peaky Blinders",
+   "saison 4 de Peaky Blinders",
+   "saison 5 de Peaky Blinders",
+   "saison 6 de Peaky Blinders"
+  ]
+ },
+ "series-televisees_succession-serie-televisee": {
+  "qid": "Q30599007",
+  "P170": [
+   "Jesse Armstrong"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie dramatique"
+  ],
+  "P527": [
+   "saison 1 de Succession",
+   "saison 2 de Succession",
+   "saison 3 de Succession",
+   "saison 4 de Succession"
+  ]
+ },
+ "series-televisees_true-detective": {
+  "qid": "Q7847400",
+  "P170": [
+   "Nic Pizzolatto"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "néo-noir",
+   "série télévisée policière",
+   "drama policier",
+   "série d'anthologie"
+  ],
+  "P527": [
+   "saison 1 de True Detective",
+   "saison 2 de True Detective",
+   "saison 3 de True Detective",
+   "saison 4 de True Detective"
+  ]
+ },
+ "series-televisees_homeland-serie-televisee": {
+  "qid": "Q23594",
+  "P170": [
+   "Howard Gordon",
+   "Alex Gansa",
+   "Gidi Raff"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "thriller",
+   "série télévisée d'espionnage"
+  ],
+  "P527": [
+   "saison 1 de Homeland",
+   "saison 2 de Homeland",
+   "saison 3 de Homeland",
+   "saison 4 de Homeland",
+   "saison 5 de Homeland",
+   "saison 6 de Homeland",
+   "saison 7 de Homeland",
+   "saison 8 de Homeland"
+  ]
+ },
+ "series-televisees_prison-break-serie-televisee": {
+  "qid": "Q80044",
+  "P170": [
+   "Paul Scheuring"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série d'action",
+   "série télévisée policière",
+   "thriller"
+  ],
+  "P527": [
+   "saison 1 de Prison Break",
+   "saison 2 de Prison Break",
+   "saison 3 de Prison Break",
+   "saison 4 de Prison Break",
+   "saison 5 de Prison Break"
+  ]
+ },
+ "series-televisees_dexter-serie-televisee": {
+  "qid": "Q23577",
+  "P170": [
+   "James Manos Jr."
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "thriller",
+   "enquête policière",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Dexter",
+   "saison 2 de Dexter",
+   "saison 3 de Dexter",
+   "saison 4 de Dexter",
+   "saison 5 de Dexter",
+   "saison 6 de Dexter",
+   "saison 7 de Dexter",
+   "saison 8 de Dexter"
+  ]
+ },
+ "series-televisees_narcos": {
+  "qid": "Q20642206",
+  "P170": [
+   "Chris Brancato"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série télévisée policière",
+   "téléfilm biographique"
+  ],
+  "P527": [
+   "saison 1 de Narcos",
+   "saison 2 de Narcos",
+   "saison 3 de Narcos"
+  ]
+ },
+ "series-televisees_la-casa-de-papel": {
+  "qid": "Q29647346",
+  "P170": [
+   "Álex Pina"
+  ],
+  "P495": [
+   "Espagne"
+  ],
+  "P136": [
+   "série d'action",
+   "série télévisée à l'humour noir",
+   "buddy movie",
+   "film de copains policiers",
+   "série télévisée policière",
+   "thriller d'action",
+   "série télévisée de romance"
+  ],
+  "P527": [
+   "saison 1 de La Maison de papier",
+   "saison 2 de La Maison de papier",
+   "saison 3 de La Maison de papier"
+  ]
+ },
+ "series-televisees_squid-game": {
+  "qid": "Q106582931",
+  "P170": [
+   "Hwang Dong-hyeok"
+  ],
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P136": [
+   "thriller",
+   "série d'action",
+   "série télévisée policière",
+   "série télévisée dramatique",
+   "film de survie"
+  ],
+  "P527": [
+   "saison 1 de Squid Game",
+   "saison 2 de Squid Game",
+   "saison 3 de Squid Game"
+  ]
+ },
+ "series-televisees_le-jeu-de-la-dame": {
+  "qid": "Q85808226",
+  "P170": [
+   "Scott Frank",
+   "Allan Scott"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "programme de télévision initiatique",
+   "film ou téléfilm de sport"
+  ],
+  "P527": [
+   "saison 1 du Jeu de la dame"
+  ]
+ },
+ "series-televisees_sherlock-serie-televisee": {
+  "qid": "Q192837",
+  "P170": [
+   "Steven Moffat",
+   "Mark Gatiss"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "detective television series",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Sherlock",
+   "saison 2 de Sherlock",
+   "saison 3 de Sherlock",
+   "saison 4 de Sherlock"
+  ]
+ },
+ "series-televisees_kaamelott": {
+  "qid": "Q599996",
+  "P170": [
+   "Alexandre Astier"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "médiéval-fantastique",
+   "série télévisée comique",
+   "série télévisée d'aventures",
+   "série télévisée de fantasy"
+  ],
+  "P527": [
+   "saison 1 de Kaamelott",
+   "saison 2 de Kaamelott",
+   "saison 3 de Kaamelott",
+   "saison 4 de Kaamelott",
+   "saison 5 de Kaamelott",
+   "saison 6 de Kaamelott"
+  ]
+ },
+ "series-televisees_le-bureau-des-legendes": {
+  "qid": "Q19593743",
+  "P170": [
+   "Éric Rochant"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "thriller",
+   "drama politique"
+  ],
+  "P527": [
+   "saison 1 du Bureau des légendes",
+   "saison 2 du Bureau des légendes",
+   "saison 3 du Bureau des légendes",
+   "saison 4 du Bureau des légendes",
+   "saison 5 du Bureau des légendes"
+  ]
+ },
+ "series-televisees_engrenages-serie-televisee": {
+  "qid": "Q2708868",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "drama policier",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 d'Engrenages",
+   "saison 2 d'Engrenages",
+   "saison 3 d'Engrenages",
+   "saison 4 d'Engrenages",
+   "saison 5 d'Engrenages",
+   "saison 6 d'Engrenages",
+   "saison 7 d'Engrenages",
+   "saison 8 d'Engrenages"
+  ]
+ },
+ "series-televisees_dix-pour-cent": {
+  "qid": "Q21008333",
+  "P170": [
+   "Dominique Besnehard",
+   "Fanny Herrero"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "séries télévisées sur le thème des LGBTI+"
+  ],
+  "P527": [
+   "saison 1 de Dix pour cent",
+   "saison 2 de Dix pour cent",
+   "saison 3 de Dix pour cent",
+   "saison 4 de Dix pour cent"
+  ]
+ },
+ "series-televisees_fargo-serie-televisee": {
+  "qid": "Q15931555",
+  "P170": [
+   "Noah Hawley"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "thriller psychologique",
+   "comédie dramatique",
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Fargo",
+   "saison 2 de Fargo",
+   "saison 3 de Fargo",
+   "saison 4 de Fargo",
+   "saison 5 de Fargo"
+  ]
+ },
+ "series-televisees_the-mandalorian": {
+  "qid": "Q56876444",
+  "P170": [
+   "Jon Favreau"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "science fiction television series",
+   "space western",
+   "série télévisée d'aventures"
+  ],
+  "P527": [
+   "saison 1 de The Mandalorian",
+   "saison 2 de The Mandalorian",
+   "saison 3 de The Mandalorian"
+  ]
+ },
+ "series-televisees_freres-d-armes": {
+  "qid": "Q208048",
+  "P170": [
+   "Tom Hanks"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Tom Hanks",
+   "Erik Jendrišek",
+   "John Orloff",
+   "E. Max Frye",
+   "Graham Young",
+   "Bruce McKenna"
+  ],
+  "P136": [
+   "série télévisée sur la guerre",
+   "série télévisée dramatique",
+   "série télévisée historique",
+   "mini-série"
+  ],
+  "P527": [
+   "Currahee",
+   "Day of Days",
+   "Carentan",
+   "Replacements",
+   "Crossroads",
+   "Bastogne",
+   "The Breaking Point",
+   "The Last Patrol",
+   "Why We Fight",
+   "Points"
+  ]
+ },
+ "series-televisees_rome-serie-televisee": {
+  "qid": "Q209878",
+  "P170": [
+   "Bruno Heller",
+   "John Milius",
+   "William J. MacDonald"
+  ],
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis",
+   "Italie"
+  ],
+  "P136": [
+   "série télévisée historique",
+   "série télévisée dramatique",
+   "drame historique"
+  ],
+  "P527": [
+   "saison 1 de Rome",
+   "saison 2 de Rome"
+  ]
+ },
+ "series-televisees_boardwalk-empire": {
+  "qid": "Q585758",
+  "P170": [
+   "Terence Winter"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série télévisée policière",
+   "série télévisée historique"
+  ],
+  "P527": [
+   "saison 1 de Boardwalk Empire",
+   "saison 2 de Boardwalk Empire",
+   "saison 3 de Boardwalk Empire",
+   "saison 4 de Boardwalk Empire",
+   "saison 5 de Boardwalk Empire"
+  ]
+ },
+ "series-televisees_ozark-serie-televisee": {
+  "qid": "Q25205293",
+  "P170": [
+   "Bill Dubuque"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Ozark",
+   "saison 2 de Ozark",
+   "saison 3 de Ozark",
+   "saison 4 d'Ozark"
+  ]
+ },
+ "series-televisees_the-boys-serie-televisee": {
+  "qid": "Q48796994",
+  "P170": [
+   "Eric Kripke",
+   "Evan Goldberg",
+   "Seth Rogen"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série d'action",
+   "série télévisée de fantasy",
+   "série télévisée policière",
+   "comédie dramatique",
+   "science fiction television series",
+   "superhero television series",
+   "raunchy comedy television program",
+   "satirical television series"
+  ],
+  "P527": [
+   "saison 1 de The Boys",
+   "saison 2 de The Boys",
+   "saison 3 de The Boys",
+   "saison 4 de The Boys",
+   "saison 5 de The Boys"
+  ]
+ },
+ "series-televisees_house-of-cards-serie-televisee-2013": {
+  "qid": "Q3330940",
+  "P170": [
+   "Beau Willimon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "thriller politique",
+   "drama politique"
+  ],
+  "P527": [
+   "saison 1 de House of Cards",
+   "saison 2 de House of Cards",
+   "saison 3 de House of Cards",
+   "saison 4 de House of Cards",
+   "saison 5 de House of Cards",
+   "saison 6 de House of Cards"
+  ]
+ },
+ "series-televisees_a-la-maison-blanche": {
+  "qid": "Q3577037",
+  "P170": [
+   "Aaron Sorkin"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "drama politique"
+  ],
+  "P527": [
+   "saison 1 de À la Maison-Blanche",
+   "saison 2 de À la Maison-Blanche",
+   "saison 3 de À la Maison-Blanche",
+   "saison 4 de À la Maison-Blanche",
+   "saison 5 de À la Maison-Blanche",
+   "saison 6 de À la Maison-Blanche",
+   "saison 7 de À la Maison-Blanche"
+  ]
+ },
+ "series-televisees_24-heures-chrono": {
+  "qid": "Q56194",
+  "P170": [
+   "Joel Surnow",
+   "Robert Cochran"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série d'action",
+   "série télévisée dramatique",
+   "série télévisée d'espionnage"
+  ],
+  "P527": [
+   "saison 1 de 24 Heures chrono",
+   "saison 2 de 24 Heures chrono",
+   "saison 3 de 24 Heures chrono",
+   "saison 4 de 24 Heures chrono",
+   "saison 5 de 24 Heures chrono",
+   "saison 6 de 24 Heures chrono",
+   "24 Heures chrono : Redemption",
+   "saison 7 de 24 Heures chrono",
+   "saison 8 de 24 Heures chrono",
+   "saison 9 de 24 Heures chrono"
+  ]
+ },
+ "series-televisees_la-quatrieme-dimension-serie-televisee": {
+  "qid": "Q742103",
+  "P170": [
+   "Rod Serling"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée de fantasy",
+   "science fiction television series",
+   "série d'anthologie",
+   "série télévisée d'horreur"
+  ],
+  "P527": [
+   "saison 1 de La Quatrième Dimension",
+   "saison 2 de La Quatrième Dimension",
+   "saison 3 de La Quatrième Dimension",
+   "saison 4 de La Quatrième Dimension",
+   "saison 5 de La Quatrième Dimension"
+  ]
+ },
+ "series-televisees_dallas-serie-televisee-1978": {
+  "qid": "Q168708",
+  "P170": [
+   "David Jacobs"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "soap opera"
+  ],
+  "P527": [
+   "saison 1 de Dallas",
+   "saison 2 de Dallas",
+   "saison 3 de Dallas",
+   "saison 4 de Dallas",
+   "saison 5 de Dallas",
+   "saison 6 de Dallas",
+   "saison 7 de Dallas",
+   "saison 8 de Dallas",
+   "saison 9 de Dallas",
+   "saison 10 de Dallas",
+   "saison 11 de Dallas",
+   "saison 12 de Dallas",
+   "saison 13 de Dallas",
+   "saison 14 de Dallas"
+  ]
+ },
+ "series-televisees_zorro-serie-televisee-1957": {
+  "qid": "Q1061843",
+  "P170": [
+   "Johnston McCulley"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée d'aventures"
+  ],
+  "P527": [
+   "saison 1 de Zorro",
+   "saison 2 de Zorro",
+   "saison 3 de Zorro"
+  ]
+ },
+ "series-televisees_ma-sorciere-bien-aimee": {
+  "qid": "Q1044635",
+  "P170": [
+   "Sol Saks"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée comique",
+   "programme télévisé de fantasy",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Ma sorcière bien aimée",
+   "saison 2 de Ma sorcière bien aimée",
+   "saison 3 de Ma sorcière bien aimée",
+   "saison 4 de Ma sorcière bien aimée",
+   "saison 5 de Ma sorcière bien aimée",
+   "saison 6 de Ma sorcière bien aimée",
+   "saison 7 de Ma sorcière bien aimée",
+   "saison 8 de Ma sorcière bien aimée"
+  ]
+ },
+ "series-televisees_la-petite-maison-dans-la-prairie": {
+  "qid": "Q839869",
+  "P170": [
+   "Michael Landon"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée dramatique",
+   "série télévisée historique",
+   "western"
+  ],
+  "P527": [
+   "saison 1 de La Petite Maison dans la prairie",
+   "saison 2 de La Petite Maison dans la prairie",
+   "saison 3 de La Petite Maison dans la prairie",
+   "saison 4 de La Petite Maison dans la prairie",
+   "saison 5 de La Petite Maison dans la prairie",
+   "saison 6 de La Petite Maison dans la prairie",
+   "saison 7 de La Petite Maison dans la prairie",
+   "saison 8 de La Petite Maison dans la prairie",
+   "saison 9 de La Petite Maison dans la prairie"
+  ]
+ },
+ "series-televisees_happy-days-serie-televisee": {
+  "qid": "Q518589",
+  "P170": [
+   "Garry Marshall"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série pour la jeunesse",
+   "série télévisée comique"
+  ],
+  "P527": [
+   "saison 1 de Happy Days",
+   "saison 2 de Happy Days",
+   "saison 3 de Happy Days",
+   "saison 4 de Happy Days",
+   "saison 5 de Happy Days",
+   "saison 6 de Happy Days",
+   "saison 7 de Happy Days",
+   "saison 8 de Happy Days",
+   "saison 9 de Happy Days",
+   "saison 10 de Happy Days",
+   "saison 11 de Happy Days"
+  ]
+ },
+ "series-televisees_amicalement-votre": {
+  "qid": "Q389578",
+  "P170": [
+   "Robert S. Baker"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée comique",
+   "série d'action"
+  ]
+ },
+ "series-televisees_les-mysteres-de-l-ouest": {
+  "qid": "Q1278637",
+  "P170": [
+   "Michael Garrison"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "western",
+   "science fiction television series",
+   "série télévisée d'aventures"
+  ],
+  "P527": [
+   "saison 1 des Mystères de l'Ouest",
+   "saison 2 des Mystères de l'Ouest",
+   "saison 3 des Mystères de l'Ouest",
+   "saison 4 des Mystères de l'Ouest"
+  ]
+ },
+ "series-televisees_scrubs": {
+  "qid": "Q485668",
+  "P170": [
+   "Bill Lawrence"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série médicale",
+   "sitcom"
+  ],
+  "P527": [
+   "saison 1 de Scrubs",
+   "saison 2 de Scrubs",
+   "saison 3 de Scrubs",
+   "saison 4 de Scrubs",
+   "saison 5 de Scrubs",
+   "saison 6 de Scrubs",
+   "saison 7 de Scrubs",
+   "saison 8 de Scrubs",
+   "saison 9 de Scrubs",
+   "saison 10 de Scrubs"
+  ]
+ },
+ "series-televisees_malcolm-serie-televisee": {
+  "qid": "Q242596",
+  "P170": [
+   "Linwood Boomer"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom",
+   "série télévisée à l'humour noir",
+   "programme de télévision initiatique"
+  ],
+  "P527": [
+   "saison 1 de Malcolm",
+   "saison 2 de Malcolm",
+   "saison 3 de Malcolm",
+   "saison 4 de Malcolm",
+   "saison 5 de Malcolm",
+   "saison 6 de Malcolm",
+   "saison 7 de Malcolm"
+  ]
+ },
+ "series-televisees_brooklyn-nine-nine": {
+  "qid": "Q13417244",
+  "P170": [
+   "Daniel J. Goor",
+   "Michael Schur"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "sitcom",
+   "enquête policière"
+  ],
+  "P527": [
+   "saison 1 de Brooklyn Nine-Nine",
+   "saison 2 de Brooklyn Nine-Nine",
+   "saison 3 de Brooklyn Nine-Nine",
+   "saison 4 de Brooklyn Nine-Nine",
+   "saison 5 de Brooklyn Nine-Nine",
+   "saison 6 de Brooklyn Nine-Nine",
+   "saison 7 de Brooklyn Nine-Nine",
+   "saison 8 de Brooklyn Nine-Nine"
+  ]
+ },
+ "series-televisees_les-griffin": {
+  "qid": "Q5930",
+  "P170": [
+   "Seth MacFarlane"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée comique",
+   "satire",
+   "slapstick"
+  ],
+  "P527": [
+   "saison 1 des Griffin",
+   "saison 2 des Griffin",
+   "saison 3 des Griffin",
+   "saison 4 des Griffin",
+   "saison 5 des Griffin",
+   "saison 6 des Griffin",
+   "saison 7 des Griffin",
+   "saison 8 des Griffin",
+   "saison 9 des Griffin",
+   "saison 10 des Griffin",
+   "saison 11 des Griffin",
+   "saison 12 des Griffin",
+   "saison 13 des Griffin",
+   "saison 14 des Griffin",
+   "saison 15 des Griffin",
+   "saison 16 des Griffin",
+   "saison 17 des Griffin",
+   "saison 18 des Griffin",
+   "saison 19 des Griffin",
+   "saison 20 des Griffin",
+   "saison 21 des Griffin",
+   "saison 2) des Griffin",
+   "saison 23 des Griffin",
+   "saison 24 des Griffin",
+   "Saison 25 des Griffin"
+  ]
+ },
+ "series-televisees_bojack-horseman": {
+  "qid": "Q17733404",
+  "P170": [
+   "Raphael Bob-Waksberg"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2017"
+  ],
+  "P136": [
+   "sitcom animée",
+   "comédie dramatique",
+   "série télévisée comique",
+   "adult animated television series"
+  ],
+  "P527": [
+   "saison 1 de Bojack Horseman",
+   "saison 2 de BoJack Horseman",
+   "saison 3 de BoJack Horseman",
+   "saison 4 de BoJack Horseman",
+   "saison 5 de BoJack Horseman",
+   "saison 6 de BoJack Horseman"
+  ]
+ },
+ "series-televisees_arcane-serie-d-animation": {
+  "qid": "Q85518571",
+  "P170": [
+   "Christian Linke",
+   "Alex Yee"
+  ],
+  "P495": [
+   "États-Unis",
+   "France"
+  ],
+  "P136": [
+   "série télévisée d'aventures",
+   "série télévisée de fantasy",
+   "série d'action",
+   "steampunk"
+  ],
+  "P527": [
+   "saison 1 d'Arcane",
+   "saison 2 d'Arcane"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "series-televisees_avatar-le-dernier-maitre-de-l-air": {
+  "qid": "Q11572",
+  "P170": [
+   "Michael Dante DiMartino",
+   "Bryan Konietzko"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "série télévisée de fantasy",
+   "comédie dramatique",
+   "série télévisée pour la jeunesse",
+   "série télévisée d'aventures",
+   "série d'action"
+  ],
+  "P527": [
+   "saison 1 d'Avatar, le dernier maître de l'air",
+   "saison 2 d'Avatar, le dernier maître de l'air",
+   "saison 3 d'Avatar, le dernier maître de l'air"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "series-televisees_neon-genesis-evangelion": {
+  "qid": "Q662",
+  "P170": [
+   "Hideaki Anno",
+   "Studio Gainax"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P136": [
+   "animé dramatique",
+   "mecha",
+   "science fantasy",
+   "thriller psychologique",
+   "fiction apocalyptique",
+   "animé d'action"
+  ],
+  "P527": [
+   "L'Attaque de l'ange",
+   "Plafonds inconnus",
+   "Le téléphone ne sonne pas",
+   "La pluie, après la fuite",
+   "Rei, par-delà son cœur",
+   "Combat décisif à Tokyo-3",
+   "Construit par l'homme",
+   "L'arrivée d'Asuka au Japon",
+   "Juste un instant, les cœurs, à l'unisson",
+   "Magmadiver",
+   "Dans les ténèbres immobiles",
+   "De la valeur d'un miracle",
+   "L'ange. La pénétration",
+   "Seele, trône de l'âme",
+   "Mensonges et silence",
+   "La désespérance, et après...",
+   "Le quatrième qualifié",
+   "Le droit de vie ou de mort",
+   "La guerre d'un homme",
+   "Forme du cœur, miroir des gens",
+   "Nerv, la naissance",
+   "Humain, au moins d'aspect",
+   "Larmes",
+   "Le dernier messager",
+   "Un monde s'achève",
+   "La bête qui criait « moi » au centre du monde"
+  ]
+ },
+ "series-televisees_l-attaque-des-titans": {
+  "qid": "Q586025",
+  "P495": [
+   "Japon"
+  ],
+  "P50": [
+   "Hajime Isayama"
+  ],
+  "P136": [
+   "manga ou anime d'aventure",
+   "dark fantasy anime and manga",
+   "post-apocalyptic anime and manga",
+   "manga et anime d'action",
+   "manga et animé de fantasy",
+   "survival anime and manga",
+   "supernatural anime and manga",
+   "dystopian anime and manga"
+  ]
+ },
+ "series-televisees_lupin-serie-televisee-2021": {
+  "qid": "Q104082429",
+  "P170": [
+   "George Kay"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Lupin",
+   "saison 2 de Lupin"
+  ]
+ },
+ "series-televisees_baron-noir": {
+  "qid": "Q22683519",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "drama politique"
+  ]
+ },
+ "series-televisees_un-village-francais": {
+  "qid": "Q3549122",
+  "P170": [
+   "Frédéric Krivine",
+   "Philippe Triboit",
+   "Emmanuel Daucé"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2009"
+  ],
+  "P136": [
+   "film ou téléfilm historique",
+   "drame"
+  ],
+  "P527": [
+   "saison 1 d'Un village français",
+   "saison 2 d'Un village français",
+   "saison 3 d'Un village français",
+   "saison 4 d'Un village français",
+   "saison 5 d'Un village français",
+   "saison 6 d'Un village français",
+   "saison 7 d'Un village français"
+  ]
+ },
+ "series-televisees_les-revenants-serie-televisee": {
+  "qid": "Q3853767",
+  "P170": [
+   "Fabrice Gobert"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "paranormal television program",
+   "série télévisée d'horreur",
+   "série télévisée dramatique"
+  ],
+  "P527": [
+   "saison 1 de Les Revenants",
+   "saison 2 des Revenants"
+  ]
+ },
+ "series-televisees_camera-cafe-serie-televisee-2001": {
+  "qid": "Q2700478",
+  "P170": [
+   "Bruno Solo"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "sitcom"
+  ],
+  "P527": [
+   "Camera Café",
+   "Camera Café",
+   "Câmera Café",
+   "Câmara Café",
+   "Camera Café",
+   "Caméra Café",
+   "Camera Café",
+   "Camera công sở",
+   "liste des épisodes de Caméra Café"
+  ]
+ },
+ "series-televisees_plus-belle-la-vie": {
+  "qid": "Q1381883",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "soap opera"
+  ]
+ },
+ "series-televisees_les-brigades-du-tigre-serie-televisee": {
+  "qid": "Q1075548",
+  "P170": [
+   "Claude Desailly"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "fiction de détective"
+  ]
+ },
+ "series-televisees_belphegor-ou-le-fantome-du-louvre": {
+  "qid": "Q816167",
+  "P495": [
+   "France"
+  ]
+ },
+ "series-televisees_inspecteur-derrick": {
+  "qid": "Q511224",
+  "P170": [
+   "Herbert Reinecker"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P136": [
+   "série télévisée policière"
+  ],
+  "P527": [
+   "saison 1 de Derrick",
+   "saison 2 de Derrick",
+   "saison 3 de Derrick",
+   "saison 4 de Derrick",
+   "saison 5 de Derrick",
+   "saison 6 de Derrick",
+   "saison 7 de Derrick",
+   "saison 8 de Derrick",
+   "saison 9 de Derrick",
+   "saison 10 de Derrick",
+   "saison 11 de Derrick",
+   "saison 12 de Derrick",
+   "saison 13 de Derrick",
+   "saison 14 de Derrick",
+   "saison 15 de Derrick",
+   "saison 16 de Derrick",
+   "saison 17 de Derrick",
+   "saison 18 de Derrick",
+   "saison 19 de Derrick",
+   "saison 20 de Derrick",
+   "saison 21 de Derrick",
+   "saison 22 de Derrick",
+   "saison 23 de Derrick",
+   "saison 24 de Derrick",
+   "saison 25 de Derrick"
+  ]
+ },
+ "series-televisees_borgen-une-femme-au-pouvoir": {
+  "qid": "Q250111",
+  "P170": [
+   "Adam Price"
+  ],
+  "P495": [
+   "Danemark"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "drama politique"
+  ],
+  "P527": [
+   "saison 1 de Borgen, une femme au pouvoir",
+   "saison 2 de Borgen, une femme au pouvoir",
+   "saison 3 de Borgen, une femme au pouvoir",
+   "saison 4 de Borgen, une femme au pouvoir"
+  ]
+ },
+ "series-televisees_bron-serie-televisee": {
+  "qid": "Q1211796",
+  "P170": [
+   "Hans Rosenfeldt"
+  ],
+  "P495": [
+   "Suède",
+   "Danemark",
+   "Allemagne"
+  ],
+  "P136": [
+   "polar polaire",
+   "detective television series"
+  ],
+  "P527": [
+   "saison 1 de Bron",
+   "saison 2 de Bron",
+   "saison 3 de Bron",
+   "saison 4 de The Bridge"
+  ]
+ },
+ "series-televisees_babylon-berlin": {
+  "qid": "Q22998408",
+  "P495": [
+   "Allemagne"
+  ],
+  "P136": [
+   "thriller",
+   "drame historique",
+   "drame d'époque",
+   "genre policier"
+  ],
+  "P527": [
+   "saison 1 de Babylon Berlin",
+   "saison 2 de Babylon Berlin",
+   "saison 3 de Babylon Berlin",
+   "saison 4 de Babylon Berlin"
+  ]
+ },
+ "series-televisees_gomorra-serie-televisee": {
+  "qid": "Q16876411",
+  "P170": [
+   "Stefano Sollima",
+   "Roberto Saviano",
+   "Ludovica Rampoldi"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P136": [
+   "série télévisée policière",
+   "série télévisée dramatique",
+   "drame"
+  ],
+  "P527": [
+   "saison 1 de Gomorra",
+   "saison 2 de Gomorra",
+   "saison 3 de Gomorra",
+   "saison 4 de Gomorra",
+   "saison 5 de Gomorra"
+  ]
+ },
+ "series-televisees_severance-serie-televisee": {
+  "qid": "Q101096725",
+  "P170": [
+   "Dan Erickson"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "thriller",
+   "thriller psychologique",
+   "drame",
+   "film ou téléfilm à énigme",
+   "cinéma de science-fiction",
+   "humour noir",
+   "fiction utopique ou dystopique"
+  ],
+  "P527": [
+   "saison 1 de Severance",
+   "saison 2 de Severance"
+  ]
+ },
+ "series-televisees_the-bear-serie-televisee": {
+  "qid": "Q112761982",
+  "P170": [
+   "Christopher Storer"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie dramatique"
+  ],
+  "P527": [
+   "saison 1 de The Bear",
+   "saison 2 de The Bear",
+   "saison 3 de The Bear",
+   "saison 4 de The Bear",
+   "saison 5 de The Bear"
+  ]
+ },
+ "series-televisees_shogun-serie-televisee": {
+  "qid": "Q56276181",
+  "P170": [
+   "Rachel Kondo",
+   "Justin Marks"
+  ],
+  "P495": [
+   "États-Unis",
+   "Canada"
+  ],
+  "P136": [
+   "série télévisée d'aventures",
+   "série télévisée dramatique",
+   "série télévisée historique"
+  ],
+  "P527": [
+   "saison 1 de Shōgun"
+  ]
+ },
+ "series-televisees_euphoria-serie-televisee": {
+  "qid": "Q56275505",
+  "P170": [
+   "Sam Levinson"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019"
+  ],
+  "P136": [
+   "séries télévisées sur le thème des LGBTI+",
+   "série dramatique pour adolescents"
+  ],
+  "P527": [
+   "saison 1 d'Euphoria",
+   "Trouble Don't Last Always",
+   "Fuck Anyone Who's Not a Sea Blob",
+   "saison 2 d'Euphoria",
+   "Saison 3 d'Euphoria"
+  ]
+ },
+ "series-televisees_fleabag": {
+  "qid": "Q16868648",
+  "P170": [
+   "Phoebe Waller-Bridge"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "comédie dramatique"
+  ],
+  "P527": [
+   "saison 1 de Fleabag",
+   "saison 2 de Fleabag"
+  ]
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "creatures-prehistoriques_pterodactyle": {
+  "qid": "Q309490"
+ },
+ "creatures-prehistoriques_pteranodon": {
+  "qid": "Q245060"
+ },
+ "creatures-prehistoriques_quetzalcoatlus": {
+  "qid": "Q131205"
+ },
+ "creatures-prehistoriques_rhamphorhynchus": {
+  "qid": "Q132647"
+ },
+ "creatures-prehistoriques_dimorphodon": {
+  "qid": "Q131245"
+ },
+ "creatures-prehistoriques_mosasaurus": {
+  "qid": "Q312131"
+ },
+ "creatures-prehistoriques_plesiosaurus": {
+  "qid": "Q857081"
+ },
+ "creatures-prehistoriques_elasmosaurus": {
+  "qid": "Q131106"
+ },
+ "creatures-prehistoriques_ichthyosaurus": {
+  "qid": "Q131565"
+ },
+ "creatures-prehistoriques_liopleurodon": {
+  "qid": "Q287975"
+ },
+ "creatures-prehistoriques_kronosaurus": {
+  "qid": "Q131315"
+ },
+ "creatures-prehistoriques_shonisaurus": {
+  "qid": "Q132554"
+ },
+ "creatures-prehistoriques_titanoboa": {
+  "qid": "Q131009"
+ },
+ "creatures-prehistoriques_sarcosuchus": {
+  "qid": "Q131134"
+ },
+ "creatures-prehistoriques_deinosuchus": {
+  "qid": "Q133223",
+  "P527": [
+   "Deinosuchus hatcheri",
+   "Deinosuchus riograndensis",
+   "Deinosuchus schwimmeri",
+   "Deinosuchus rugosus"
+  ]
+ },
+ "creatures-prehistoriques_dimetrodon": {
+  "qid": "Q130869"
+ },
+ "creatures-prehistoriques_lystrosaurus": {
+  "qid": "Q131680"
+ },
+ "creatures-prehistoriques_gorgonops": {
+  "qid": "Q131690"
+ },
+ "creatures-prehistoriques_mammouth-laineux": {
+  "qid": "Q3699044"
+ },
+ "creatures-prehistoriques_mastodonte": {
+  "qid": "Q56315438"
+ },
+ "creatures-prehistoriques_smilodon": {
+  "qid": "Q188717"
+ },
+ "creatures-prehistoriques_megatherium": {
+  "qid": "Q310387"
+ },
+ "creatures-prehistoriques_glyptodon": {
+  "qid": "Q131695"
+ },
+ "creatures-prehistoriques_rhinoceros-laineux": {
+  "qid": "Q188949"
+ },
+ "creatures-prehistoriques_ursus-spelaeus": {
+  "qid": "Q188851"
+ },
+ "creatures-prehistoriques_lion-des-cavernes-eurasiatique": {
+  "qid": "Q7395585"
+ },
+ "creatures-prehistoriques_megaloceros": {
+  "qid": "Q3544136"
+ },
+ "creatures-prehistoriques_paraceratherium": {
+  "qid": "Q311212"
+ },
+ "creatures-prehistoriques_andrewsarchus": {
+  "qid": "Q133214"
+ },
+ "creatures-prehistoriques_megalodon": {
+  "qid": "Q163873"
+ },
+ "creatures-prehistoriques_dunkleosteus": {
+  "qid": "Q131039"
+ },
+ "creatures-prehistoriques_helicoprion": {
+  "qid": "Q133376"
+ },
+ "creatures-prehistoriques_arthropleura": {
+  "qid": "Q131789",
+  "P527": [
+   "Arthropleura armata"
+  ]
+ },
+ "creatures-prehistoriques_meganeura": {
+  "qid": "Q283596"
+ },
+ "creatures-prehistoriques_anomalocaris": {
+  "qid": "Q37395"
+ },
+ "creatures-prehistoriques_trilobita": {
+  "qid": "Q17170"
+ },
+ "creatures-prehistoriques_gastornis": {
+  "qid": "Q131477"
+ },
+ "creatures-prehistoriques_phorusrhacos": {
+  "qid": "Q131317"
+ },
+ "creatures-prehistoriques_dinornithiformes": {
+  "qid": "Q452969"
+ },
+ "creatures-prehistoriques_pyornis": {
+  "qid": "Q2638301"
+ },
+ "creatures-prehistoriques_ammonoidea": {
+  "qid": "Q228002"
+ },
+ "creatures-prehistoriques_basilosaurus": {
+  "qid": "Q134884"
+ },
+ "creatures-prehistoriques_tiktaalik": {
+  "qid": "Q131481"
+ },
+ "creatures-prehistoriques_hallucigenia": {
+  "qid": "Q132406"
+ },
+ "creatures-prehistoriques_megalania-genre": {
+  "qid": "Q733150"
+ },
+ "creatures-prehistoriques_diprotodon": {
+  "qid": "Q131563"
+ },
+ "creatures-prehistoriques_aurochs": {
+  "qid": "Q168903"
+ },
+ "creatures-prehistoriques_thylacine": {
+  "qid": "Q123102"
+ },
+ "creatures-prehistoriques_entelodontidae": {
+  "qid": "Q131139"
+ },
+ "creatures-prehistoriques_eohippus": {
+  "qid": "Q5241216"
+ }
+}

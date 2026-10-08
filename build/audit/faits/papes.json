@@ -1,0 +1,590 @@
+{
+ "papes_pierre-apotre": {
+  "qid": "Q33923",
+  "P569": [
+   "-1"
+  ],
+  "P570": [
+   "65"
+  ]
+ },
+ "papes_leon-ier-pape": {
+  "qid": "Q43954",
+  "P569": [
+   "390",
+   "400"
+  ],
+  "P570": [
+   "461",
+   "461"
+  ],
+  "P27": [
+   "Rome antique"
+  ]
+ },
+ "papes_gregoire-ier": {
+  "qid": "Q42827",
+  "P569": [
+   "540",
+   "540"
+  ],
+  "P570": [
+   "604"
+  ],
+  "P800": [
+   "Q42188867",
+   "Registrum Gregorii",
+   "Règle pastorale",
+   "Morales sur Job",
+   "Omelie super Ezechielem",
+   "Expositio in librum primum Regum",
+   "Expositio super Cantica Canticorum"
+  ]
+ },
+ "papes_leon-iii-pape": {
+  "qid": "Q132086",
+  "P569": [
+   "750"
+  ],
+  "P570": [
+   "816"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_sylvestre-ii": {
+  "qid": "Q172383",
+  "P569": [
+   "938"
+  ],
+  "P570": [
+   "1003"
+  ],
+  "P800": [
+   "Lettres"
+  ]
+ },
+ "papes_gregoire-vii": {
+  "qid": "Q133063",
+  "P569": [
+   "1020"
+  ],
+  "P570": [
+   "1085"
+  ]
+ },
+ "papes_urbain-ii": {
+  "qid": "Q30578",
+  "P569": [
+   "1035"
+  ],
+  "P570": [
+   "1099"
+  ],
+  "P800": [
+   "Cunctis Sanctorum"
+  ]
+ },
+ "papes_innocent-iii": {
+  "qid": "Q128076",
+  "P569": [
+   "1160"
+  ],
+  "P570": [
+   "1216"
+  ],
+  "P800": [
+   "De miseria condicionis humane",
+   "De sacro altaris mysterio"
+  ]
+ },
+ "papes_gregoire-ix": {
+  "qid": "Q124831",
+  "P569": [
+   "1170"
+  ],
+  "P570": [
+   "1241"
+  ]
+ },
+ "papes_boniface-viii": {
+  "qid": "Q134646",
+  "P569": [
+   "1235",
+   "1235"
+  ],
+  "P570": [
+   "1303"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_clement-v": {
+  "qid": "Q131463",
+  "P569": [
+   "1264"
+  ],
+  "P570": [
+   "1314"
+  ]
+ },
+ "papes_jean-xxii": {
+  "qid": "Q165568",
+  "P569": [
+   "1244",
+   "1249",
+   "1245"
+  ],
+  "P570": [
+   "1334"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "papes_urbain-vi": {
+  "qid": "Q171626",
+  "P569": [
+   "1318"
+  ],
+  "P570": [
+   "1389"
+  ]
+ },
+ "papes_sixte-iv": {
+  "qid": "Q163514",
+  "P569": [
+   "1414"
+  ],
+  "P570": [
+   "1484"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_alexandre-vi": {
+  "qid": "Q108316",
+  "P569": [
+   "1431"
+  ],
+  "P570": [
+   "1503"
+  ],
+  "P27": [
+   "couronne d'Aragon"
+  ],
+  "P800": [
+   "Q109318432"
+  ]
+ },
+ "papes_jules-ii": {
+  "qid": "Q80516",
+  "P569": [
+   "1443"
+  ],
+  "P570": [
+   "1513"
+  ],
+  "P27": [
+   "république de Gênes"
+  ],
+  "P101": [
+   "abbé",
+   "politique",
+   "christianisme",
+   "catholicisme",
+   "Renaissance"
+  ]
+ },
+ "papes_leon-x": {
+  "qid": "Q49237",
+  "P569": [
+   "1475"
+  ],
+  "P570": [
+   "1521"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P101": [
+   "administration ecclésiastique"
+  ]
+ },
+ "papes_clement-vii": {
+  "qid": "Q83159",
+  "P569": [
+   "1478"
+  ],
+  "P570": [
+   "1534",
+   "1534"
+  ]
+ },
+ "papes_paul-iii": {
+  "qid": "Q133001",
+  "P569": [
+   "1468"
+  ],
+  "P570": [
+   "1549"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P101": [
+   "administration ecclésiastique"
+  ],
+  "P577": [
+   "1540"
+  ]
+ },
+ "papes_pie-v": {
+  "qid": "Q131945",
+  "P569": [
+   "1504"
+  ],
+  "P570": [
+   "1572"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_gregoire-xiii": {
+  "qid": "Q83029",
+  "P569": [
+   "1502",
+   "1502"
+  ],
+  "P570": [
+   "1585"
+  ],
+  "P27": [
+   "États pontificaux"
+  ],
+  "P800": [
+   "calendrier grégorien"
+  ],
+  "P577": [
+   "1582"
+  ]
+ },
+ "papes_sixte-v": {
+  "qid": "Q133350",
+  "P569": [
+   "1521",
+   "1520",
+   "1521",
+   "1520"
+  ],
+  "P570": [
+   "1590"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_urbain-viii": {
+  "qid": "Q131579",
+  "P569": [
+   "1568",
+   "1568"
+  ],
+  "P570": [
+   "1644"
+  ]
+ },
+ "papes_innocent-x": {
+  "qid": "Q101266",
+  "P569": [
+   "1574"
+  ],
+  "P570": [
+   "1655"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_pie-vi": {
+  "qid": "Q128019",
+  "P569": [
+   "1717"
+  ],
+  "P570": [
+   "1799"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_pie-vii": {
+  "qid": "Q124754",
+  "P569": [
+   "1742"
+  ],
+  "P570": [
+   "1823"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_pie-ix": {
+  "qid": "Q43720",
+  "P569": [
+   "1792"
+  ],
+  "P570": [
+   "1878"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "États pontificaux"
+  ]
+ },
+ "papes_leon-xiii": {
+  "qid": "Q43922",
+  "P569": [
+   "1810"
+  ],
+  "P570": [
+   "1903"
+  ],
+  "P27": [
+   "États pontificaux",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Rerum novarum"
+  ]
+ },
+ "papes_benoit-xv": {
+  "qid": "Q4448",
+  "P569": [
+   "1854"
+  ],
+  "P570": [
+   "1922"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ]
+ },
+ "papes_pie-xi": {
+  "qid": "Q42323",
+  "P569": [
+   "1857",
+   "1857"
+  ],
+  "P570": [
+   "1939"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Vatican"
+  ]
+ },
+ "papes_pie-xii": {
+  "qid": "Q2604",
+  "P569": [
+   "1876"
+  ],
+  "P570": [
+   "1958"
+  ],
+  "P27": [
+   "royaume d'Italie",
+   "Italie"
+  ]
+ },
+ "papes_jean-xxiii": {
+  "qid": "Q23873",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "Italie",
+   "Vatican",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Pacem in Terris",
+   "Ad Petri Cathedram",
+   "Sacerdotii Nostri Primordia",
+   "Grata Recordatio",
+   "Princeps Pastorum",
+   "Mater et Magistra",
+   "Aeterna Dei Sapientia",
+   "Paenitentiam Agere"
+  ]
+ },
+ "papes_paul-vi": {
+  "qid": "Q16975",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "Italie",
+   "Vatican",
+   "royaume d'Italie"
+  ]
+ },
+ "papes_jean-paul-ier": {
+  "qid": "Q37278",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1978",
+   "1978"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie",
+   "Vatican"
+  ],
+  "P101": [
+   "dogme de l'Église catholique",
+   "théologie morale",
+   "droit canonique",
+   "Petrine ministry",
+   "Église catholique",
+   "papauté"
+  ]
+ },
+ "papes_jean-paul-ii": {
+  "qid": "Q989",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "Pologne",
+   "Vatican",
+   "Deuxième République de Pologne"
+  ],
+  "P101": [
+   "Petrine ministry",
+   "poésie",
+   "drame",
+   "scientific writing",
+   "cure",
+   "éducation",
+   "prédication"
+  ]
+ },
+ "papes_benoit-xvi": {
+  "qid": "Q2494",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Allemagne",
+   "Vatican",
+   "Italie"
+  ],
+  "P101": [
+   "théologie chrétienne",
+   "Petrine ministry"
+  ]
+ },
+ "papes_francois-pape": {
+  "qid": "Q450675",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Argentine",
+   "Vatican"
+  ],
+  "P800": [
+   "Ad charisma tuendum"
+  ],
+  "P101": [
+   "littérature chrétienne",
+   "Petrine ministry",
+   "éducation chrétienne"
+  ]
+ },
+ "papes_leon-xiv": {
+  "qid": "Q6109517",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis",
+   "Pérou",
+   "Vatican"
+  ],
+  "P101": [
+   "mission",
+   "Petrine ministry",
+   "christianisme"
+  ]
+ },
+ "papes_celestin-v": {
+  "qid": "Q118081",
+  "P569": [
+   "1215"
+  ],
+  "P570": [
+   "1296"
+  ]
+ },
+ "papes_pie-x": {
+  "qid": "Q43739",
+  "P569": [
+   "1835"
+  ],
+  "P570": [
+   "1914"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ]
+ },
+ "papes_martin-v": {
+  "qid": "Q169612",
+  "P569": [
+   "1369",
+   "1368"
+  ],
+  "P570": [
+   "1431"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ },
+ "papes_formose-pape": {
+  "qid": "Q170499",
+  "P569": [
+   "816"
+  ],
+  "P570": [
+   "896"
+  ],
+  "P27": [
+   "États pontificaux"
+  ]
+ }
+}

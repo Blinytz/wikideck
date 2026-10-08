@@ -1,0 +1,1091 @@
+{
+ "personnages-bd-comics_superman": {
+  "qid": "Q79015",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Jerry Siegel",
+   "Joe Shuster"
+  ],
+  "P571": [
+   "1938"
+  ]
+ },
+ "personnages-bd-comics_batman": {
+  "qid": "Q2695156",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Bob Kane",
+   "Bill Finger"
+  ],
+  "P571": [
+   "1939"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_wonder-woman": {
+  "qid": "Q338430",
+  "P27": [
+   "Themyscira"
+  ],
+  "P170": [
+   "William Moulton Marston",
+   "H. G. Peter",
+   "Elizabeth Holloway Marston"
+  ],
+  "P571": [
+   "1941"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_spider-man": {
+  "qid": "Q79037",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Steve Ditko"
+  ],
+  "P571": [
+   "1962"
+  ]
+ },
+ "personnages-bd-comics_iron-man-film-2008": {
+  "qid": "Q192724",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008",
+   "2008",
+   "2008",
+   "2008"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "film de super-héros"
+  ]
+ },
+ "personnages-bd-comics_hulk": {
+  "qid": "Q188760",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ],
+  "P571": [
+   "1962"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_wolverine": {
+  "qid": "Q186422",
+  "P569": [
+   "1832"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P170": [
+   "Len Wein",
+   "John Romita, Sr."
+  ],
+  "P186": [
+   "Adamantium"
+  ]
+ },
+ "personnages-bd-comics_docteur-strange": {
+  "qid": "Q907767",
+  "P170": [
+   "Stan Lee",
+   "Steve Ditko"
+  ],
+  "P571": [
+   "1963"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_deadpool": {
+  "qid": "Q1631090",
+  "P27": [
+   "Canada"
+  ],
+  "P170": [
+   "Rob Liefeld",
+   "Fabian Nicieza"
+  ]
+ },
+ "personnages-bd-comics_joker-personnage": {
+  "qid": "Q217533",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Jerry Robinson",
+   "Bill Finger",
+   "Bob Kane"
+  ],
+  "P571": [
+   "1940"
+  ]
+ },
+ "personnages-bd-comics_harley-quinn": {
+  "qid": "Q849477",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Paul Dini",
+   "Bruce Timm"
+  ]
+ },
+ "personnages-bd-comics_the-flash-film": {
+  "qid": "Q23562553",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2023",
+   "2023",
+   "2023",
+   "2023"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "film de super-héros",
+   "film de voyage dans le temps",
+   "drame"
+  ]
+ },
+ "personnages-bd-comics_green-lantern": {
+  "qid": "Q32884",
+  "P170": [
+   "Bill Finger",
+   "Martin Nodell"
+  ]
+ },
+ "personnages-bd-comics_aquaman": {
+  "qid": "Q623059",
+  "P27": [
+   "Atlantis",
+   "États-Unis"
+  ],
+  "P170": [
+   "Mort Weisinger",
+   "Paul Norris"
+  ]
+ },
+ "personnages-bd-comics_catwoman": {
+  "qid": "Q158952",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Bob Kane",
+   "Bill Finger"
+  ]
+ },
+ "personnages-bd-comics_punisher-personnage": {
+  "qid": "Q729150",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Gerry Conway",
+   "John Romita, Sr.",
+   "Ross Andru"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_daredevil": {
+  "qid": "Q327553",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Bill Everett"
+  ]
+ },
+ "personnages-bd-comics_professeur-xavier": {
+  "qid": "Q838076",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "génétique"
+  ],
+  "P170": [
+   "Stan Lee"
+  ]
+ },
+ "personnages-bd-comics_magneto-comics": {
+  "qid": "Q840291",
+  "P569": [
+   "1920"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_asterix": {
+  "qid": "Q42490",
+  "P571": [
+   "1959"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P50": [
+   "René Goscinny",
+   "Albert Uderzo"
+  ],
+  "P136": [
+   "bande dessinée uchronique"
+  ],
+  "P527": [
+   "Astérix le Gaulois",
+   "La Serpe d'or",
+   "Astérix et les Goths",
+   "Astérix gladiateur",
+   "Le Tour de Gaule d'Astérix",
+   "Astérix et Cléopâtre",
+   "Le Combat des chefs",
+   "Astérix chez les Bretons",
+   "Astérix et les Normands",
+   "Astérix légionnaire",
+   "Le bouclier Arverne",
+   "Astérix aux Jeux olympiques",
+   "Astérix et le Chaudron",
+   "Astérix en Hispanie",
+   "La Zizanie",
+   "Astérix chez les Helvètes",
+   "Le Domaine des dieux",
+   "Les Lauriers de César",
+   "Le Devin",
+   "Astérix en Corse",
+   "Le Cadeau de César",
+   "La Grande Traversée",
+   "Obélix et Compagnie",
+   "Astérix chez les Belges",
+   "Le Grand Fossé",
+   "L'Odyssée d'Astérix",
+   "Le Fils d'Astérix",
+   "Astérix chez Rahàzade",
+   "La Rose et le Glaive",
+   "La Galère d'Obélix",
+   "Astérix et Latraviata",
+   "Astérix et la Rentrée gauloise",
+   "Le ciel lui tombe sur la tête",
+   "L'Anniversaire d'Astérix et Obélix - Le Livre d'or",
+   "Astérix chez les Pictes",
+   "Le Papyrus de César",
+   "Asterix e la corsa d'Italia",
+   "La Fille de Vercingétorix",
+   "Astérix et le Griffon",
+   "L'Iris blanc"
+  ]
+ },
+ "personnages-bd-comics_obelix": {
+  "qid": "Q715597",
+  "P170": [
+   "Albert Uderzo",
+   "René Goscinny"
+  ]
+ },
+ "personnages-bd-comics_les-aventures-de-tintin": {
+  "qid": "Q744536",
+  "P495": [
+   "Belgique"
+  ],
+  "P50": [
+   "Hergé"
+  ],
+  "P136": [
+   "comic book"
+  ]
+ },
+ "personnages-bd-comics_capitaine-haddock": {
+  "qid": "Q1640063",
+  "P170": [
+   "Hergé"
+  ]
+ },
+ "personnages-bd-comics_lucky-luke": {
+  "qid": "Q137475",
+  "P170": [
+   "Morris"
+  ],
+  "P571": [
+   "1946"
+  ],
+  "P495": [
+   "Belgique"
+  ],
+  "P50": [
+   "René Goscinny",
+   "Morris"
+  ]
+ },
+ "personnages-bd-comics_gaston-lagaffe": {
+  "qid": "Q506920",
+  "P170": [
+   "André Franquin"
+  ]
+ },
+ "personnages-bd-comics_thanos-marvel-comics": {
+  "qid": "Q2276627",
+  "P170": [
+   "Jim Starlin",
+   "Zak Penn",
+   "Joss Whedon"
+  ],
+  "P577": [
+   "1973"
+  ]
+ },
+ "personnages-bd-comics_lex-luthor": {
+  "qid": "Q694790",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Jerry Siegel",
+   "Joe Shuster"
+  ]
+ },
+ "personnages-bd-comics_venom-comics": {
+  "qid": "Q1621261",
+  "P170": [
+   "David Michelinie"
+  ],
+  "P527": [
+   "Eddie Brock",
+   "Mac Gargan",
+   "Normie Osborn",
+   "Eddie Brock"
+  ]
+ },
+ "personnages-bd-comics_docteur-fatalis": {
+  "qid": "Q430178",
+  "P27": [
+   "Latvérie"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_robin-dc-comics": {
+  "qid": "Q59996",
+  "P170": [
+   "Bob Kane",
+   "Jerry Robinson"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_black-widow-film": {
+  "qid": "Q23894626",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2021",
+   "2021",
+   "2021"
+  ],
+  "P136": [
+   "film de super-héros",
+   "film et téléfilm d'action",
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "thriller"
+  ]
+ },
+ "personnages-bd-comics_surfer-d-argent": {
+  "qid": "Q95153",
+  "P170": [
+   "Jack Kirby"
+  ],
+  "P571": [
+   "1966"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_galactus": {
+  "qid": "Q1429836",
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_tornade-comics": {
+  "qid": "Q632212",
+  "P27": [
+   "États-Unis",
+   "Wakanda"
+  ],
+  "P170": [
+   "Len Wein",
+   "Dave Cockrum"
+  ]
+ },
+ "personnages-bd-comics_jean-grey": {
+  "qid": "Q5350072",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee"
+  ]
+ },
+ "personnages-bd-comics_hellboy-personnage": {
+  "qid": "Q1150106",
+  "P569": [
+   "1617"
+  ],
+  "P170": [
+   "Mike Mignola"
+  ],
+  "P495": [
+   "Hébrides extérieures"
+  ]
+ },
+ "personnages-bd-comics_spawn-comics": {
+  "qid": "Q839858",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Todd McFarlane",
+   "Alan Moore"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_judge-dredd-bande-dessinee": {
+  "qid": "Q1065786",
+  "P170": [
+   "John Wagner",
+   "Carlos Ezquerra"
+  ],
+  "P577": [
+   "1977"
+  ]
+ },
+ "personnages-bd-comics_spirou-personnage": {
+  "qid": "Q721050",
+  "P170": [
+   "Rob-Vel",
+   "Jean Dupuis"
+  ]
+ },
+ "personnages-bd-comics_fantasio-personnage": {
+  "qid": "Q2737454",
+  "P170": [
+   "Jean Doisy",
+   "Jijé"
+  ],
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "personnages-bd-comics_marsupilami-film": {
+  "qid": "Q129344299",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2026",
+   "2026",
+   "2026"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm familial"
+  ]
+ },
+ "personnages-bd-comics_corto-maltese": {
+  "qid": "Q12116",
+  "P571": [
+   "1967"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P50": [
+   "Hugo Pratt"
+  ],
+  "P136": [
+   "action"
+  ]
+ },
+ "personnages-bd-comics_thorgal": {
+  "qid": "Q128277",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "personnages-bd-comics_largo-winch": {
+  "qid": "Q21716752"
+ },
+ "personnages-bd-comics_xiii-jeu-video-2003": {
+  "qid": "Q1154327",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2003",
+   "2003",
+   "2003",
+   "2004",
+   "2004",
+   "2004",
+   "2004"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ],
+  "P2079": [
+   "ombrage de celluloïd"
+  ]
+ },
+ "personnages-bd-comics_iznogoud-personnage": {
+  "qid": "Q16644187",
+  "P276": [
+   "Bagdad"
+  ],
+  "P17": [
+   "Irak"
+  ]
+ },
+ "personnages-bd-comics_titeuf": {
+  "qid": "Q174874",
+  "P170": [
+   "Zep"
+  ],
+  "P495": [
+   "Suisse"
+  ],
+  "P50": [
+   "Zep"
+  ],
+  "P136": [
+   "animation"
+  ]
+ },
+ "personnages-bd-comics_snoopy": {
+  "qid": "Q207369",
+  "P569": [
+   "1950"
+  ],
+  "P170": [
+   "Charles M. Schulz"
+  ]
+ },
+ "personnages-bd-comics_garfield-personnage": {
+  "qid": "Q767120",
+  "P569": [
+   "1978"
+  ],
+  "P170": [
+   "Jim Davis"
+  ]
+ },
+ "personnages-bd-comics_calvin-et-hobbes": {
+  "qid": "Q211035",
+  "P170": [
+   "Bill Watterson"
+  ],
+  "P571": [
+   "1985"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Bill Watterson"
+  ],
+  "P527": [
+   "Homicidal Psycho Jungle Cat",
+   "Something Under The Bed Is Drooling",
+   "The Revenge of the Baby-Sat",
+   "Weirdos from Another Planet!"
+  ]
+ },
+ "personnages-bd-comics_boule-et-bill": {
+  "qid": "Q59991",
+  "P170": [
+   "Jean Roba"
+  ],
+  "P495": [
+   "Belgique"
+  ],
+  "P50": [
+   "Jean Roba",
+   "Laurent Verron"
+  ]
+ },
+ "personnages-bd-comics_blake-et-mortimer": {
+  "qid": "Q59990",
+  "P170": [
+   "Edgar P. Jacobs"
+  ],
+  "P495": [
+   "Belgique"
+  ],
+  "P50": [
+   "Edgar P. Jacobs"
+  ],
+  "P136": [
+   "fiction d'aventures"
+  ]
+ },
+ "personnages-bd-comics_rahan": {
+  "qid": "Q475360",
+  "P50": [
+   "Roger Lecureux",
+   "André Chéret"
+  ],
+  "P136": [
+   "fiction préhistorique"
+  ]
+ },
+ "personnages-bd-comics_captain-america": {
+  "qid": "Q190679",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Jack Kirby",
+   "Joe Simon"
+  ],
+  "P571": [
+   "1941"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_panthere-noire-comics": {
+  "qid": "Q998220",
+  "P27": [
+   "Wakanda"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_carol-danvers": {
+  "qid": "Q726756",
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "personnages-bd-comics_ant-man": {
+  "qid": "Q2420783",
+  "P170": [
+   "Stan Lee"
+  ],
+  "P527": [
+   "Homme-Fourmi",
+   "Henry Pym",
+   "Scott Lang"
+  ]
+ },
+ "personnages-bd-comics_nick-fury": {
+  "qid": "Q975100",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_groot": {
+  "qid": "Q3116935",
+  "P170": [
+   "Stan Lee",
+   "Jack Kirby",
+   "Larry Lieber",
+   "Dick Ayers"
+  ]
+ },
+ "personnages-bd-comics_rocket-raccoon": {
+  "qid": "Q638476",
+  "P170": [
+   "Bill Mantlo",
+   "Keith Giffen"
+  ]
+ },
+ "personnages-bd-comics_bouffon-vert": {
+  "qid": "Q735721",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Stan Lee",
+   "Steve Ditko"
+  ]
+ },
+ "personnages-bd-comics_docteur-octopus": {
+  "qid": "Q578094",
+  "P170": [
+   "Stan Lee",
+   "Steve Ditko"
+  ]
+ },
+ "personnages-bd-comics_mystique-comics": {
+  "qid": "Q737236",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Chris Claremont",
+   "Dave Cockrum"
+  ]
+ },
+ "personnages-bd-comics_supergirl-comics": {
+  "qid": "Q8981293",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Curt Swan"
+  ]
+ },
+ "personnages-bd-comics_green-arrow": {
+  "qid": "Q611993",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Mort Weisinger",
+   "George Papp"
+  ]
+ },
+ "personnages-bd-comics_bane-comics": {
+  "qid": "Q158940",
+  "P27": [
+   "Santa Prisca"
+  ],
+  "P170": [
+   "Chuck Dixon",
+   "Doug Moench",
+   "Graham Nolan",
+   "Dennis O'Neil"
+  ]
+ },
+ "personnages-bd-comics_pingouin-comics": {
+  "qid": "Q384193",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Bob Kane",
+   "Bill Finger"
+  ]
+ },
+ "personnages-bd-comics_double-face": {
+  "qid": "Q295599",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Bob Kane",
+   "Bill Finger"
+  ]
+ },
+ "personnages-bd-comics_poison-ivy-dc-comics": {
+  "qid": "Q375671",
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "écoterrorisme",
+   "botanique"
+  ],
+  "P170": [
+   "Robert Kanigher",
+   "Sheldon Moldoff"
+  ]
+ },
+ "personnages-bd-comics_darkseid": {
+  "qid": "Q430698",
+  "P170": [
+   "Jack Kirby"
+  ]
+ },
+ "personnages-bd-comics_rorschach-comics": {
+  "qid": "Q2346769",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Alan Moore",
+   "Dave Gibbons"
+  ]
+ },
+ "personnages-bd-comics_milou": {
+  "qid": "Q1640056",
+  "P170": [
+   "Hergé"
+  ]
+ },
+ "personnages-bd-comics_dupond-et-dupont": {
+  "qid": "Q1756503",
+  "P170": [
+   "Hergé"
+  ],
+  "P527": [
+   "Dupond",
+   "Dupont"
+  ]
+ },
+ "personnages-bd-comics_professeur-tournesol": {
+  "qid": "Q1635605",
+  "P170": [
+   "Hergé"
+  ]
+ },
+ "personnages-bd-comics_bianca-castafiore": {
+  "qid": "Q738325",
+  "P27": [
+   "Italie"
+  ],
+  "P170": [
+   "Hergé"
+  ]
+ },
+ "personnages-bd-comics_roberto-rastapopoulos": {
+  "qid": "Q3222411",
+  "P170": [
+   "Hergé"
+  ]
+ },
+ "personnages-bd-comics_idefix": {
+  "qid": "Q1752911",
+  "P170": [
+   "Albert Uderzo"
+  ]
+ },
+ "personnages-bd-comics_panoramix": {
+  "qid": "Q1756333",
+  "P170": [
+   "René Goscinny",
+   "Albert Uderzo"
+  ]
+ },
+ "personnages-bd-comics_freres-dalton-lucky-luke": {
+  "qid": "Q1211948",
+  "P170": [
+   "Morris",
+   "René Goscinny"
+  ],
+  "P527": [
+   "William Dalton",
+   "Joe Dalton",
+   "Jack Dalton",
+   "Averell Dalton"
+  ]
+ },
+ "personnages-bd-comics_rantanplan": {
+  "qid": "Q59692",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "personnages-bd-comics_blueberry": {
+  "qid": "Q137308",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jean Giraud",
+   "Jean-Michel Charlier"
+  ],
+  "P136": [
+   "bande dessinée de western"
+  ]
+ },
+ "personnages-bd-comics_valerian-et-laureline": {
+  "qid": "Q658568",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Pierre Christin"
+  ]
+ },
+ "personnages-bd-comics_michel-vaillant": {
+  "qid": "Q1503314",
+  "P571": [
+   "1957"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jean Graton",
+   "Philippe Graton",
+   "Denis Lapière",
+   "Q2512757"
+  ]
+ },
+ "personnages-bd-comics_les-tuniques-bleues": {
+  "qid": "Q1030833",
+  "P50": [
+   "Raoul Cauvin"
+  ]
+ },
+ "personnages-bd-comics_le-chat-bande-dessinee": {
+  "qid": "Q2240755",
+  "P571": [
+   "1983"
+  ],
+  "P50": [
+   "Philippe Geluck"
+  ]
+ },
+ "personnages-bd-comics_kid-paddle": {
+  "qid": "Q934530",
+  "P495": [
+   "Belgique"
+  ],
+  "P50": [
+   "Midam"
+  ],
+  "P136": [
+   "bande dessinée"
+  ]
+ },
+ "personnages-bd-comics_achille-talon": {
+  "qid": "Q953980",
+  "P50": [
+   "Greg"
+  ],
+  "P136": [
+   "série télévisée comique"
+  ]
+ },
+ "personnages-bd-comics_blacksad": {
+  "qid": "Q29626",
+  "P170": [
+   "Juan Díaz Canales",
+   "Juanjo Guarnido"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Juan Díaz Canales"
+  ],
+  "P136": [
+   "bande dessinée anthropomorphique",
+   "bande dessinée policière"
+  ]
+ },
+ "personnages-bd-comics_lanfeust-de-troy": {
+  "qid": "Q1758672"
+ },
+ "personnages-bd-comics_les-aventures-extraordinaires-d-adele-blanc-sec": {
+  "qid": "Q354566",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Jacques Tardi"
+  ],
+  "P136": [
+   "merveilleux scientifique"
+  ]
+ },
+ "personnages-bd-comics_mafalda": {
+  "qid": "Q517331",
+  "P170": [
+   "Quino"
+  ],
+  "P571": [
+   "1964"
+  ],
+  "P495": [
+   "Argentine"
+  ],
+  "P17": [
+   "Argentine"
+  ],
+  "P50": [
+   "Quino"
+  ]
+ },
+ "personnages-bd-comics_charlie-brown": {
+  "qid": "Q1168491",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Charles M. Schulz"
+  ]
+ },
+ "personnages-bd-comics_tortues-ninja": {
+  "qid": "Q1381762",
+  "P170": [
+   "Kevin Eastman",
+   "Peter Laird"
+  ],
+  "P527": [
+   "Leonardo",
+   "Raphael",
+   "Donatello",
+   "Michelangelo",
+   "Venus de Milo"
+  ]
+ },
+ "personnages-bd-comics_the-mask-personnage": {
+  "qid": "Q18221662"
+ }
+}

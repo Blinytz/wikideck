@@ -1,0 +1,568 @@
+{
+ "corps-celestes_mercure-planete": {
+  "qid": "Q308",
+  "P276": [
+   "système solaire interne"
+  ],
+  "P527": [
+   "atmosphère de Mercure"
+  ]
+ },
+ "corps-celestes_venus-planete": {
+  "qid": "Q313",
+  "P276": [
+   "système solaire interne"
+  ],
+  "P527": [
+   "atmosphère de Vénus"
+  ]
+ },
+ "corps-celestes_terre": {
+  "qid": "Q2",
+  "P571": [
+   "-4540000000"
+  ],
+  "P276": [
+   "système solaire interne",
+   "zone habitable",
+   "Voie lactée",
+   "groupe local"
+  ],
+  "P527": [
+   "croûte terrestre",
+   "noyau terrestre",
+   "manteau",
+   "atmosphère terrestre",
+   "surface terrestre",
+   "biosphère",
+   "hydrosphère",
+   "lithosphère",
+   "champ magnétique terrestre",
+   "continent",
+   "hémisphère terrestre",
+   "Europe",
+   "Asie",
+   "Afrique",
+   "Eurasie",
+   "Amérique",
+   "Antarctique",
+   "continent australien",
+   "océan Atlantique",
+   "océan Pacifique",
+   "océan Indien"
+  ]
+ },
+ "corps-celestes_mars-planete": {
+  "qid": "Q111",
+  "P571": [
+   "-4540000000"
+  ],
+  "P276": [
+   "système solaire interne"
+  ],
+  "P527": [
+   "atmosphère de Mars",
+   "calottes polaires martiennes",
+   "eau sur Mars"
+  ]
+ },
+ "corps-celestes_jupiter-planete": {
+  "qid": "Q319",
+  "P276": [
+   "système solaire externe"
+  ],
+  "P527": [
+   "atmosphère de Jupiter",
+   "Jupiter's internal structure",
+   "magnétosphère de Jupiter"
+  ]
+ },
+ "corps-celestes_saturne-planete": {
+  "qid": "Q193",
+  "P276": [
+   "système solaire externe"
+  ],
+  "P527": [
+   "Atmosphère de Saturne",
+   "Magnétosphère de Saturne"
+  ]
+ },
+ "corps-celestes_uranus-planete": {
+  "qid": "Q324",
+  "P276": [
+   "système solaire externe"
+  ],
+  "P527": [
+   "Atmosphère d'Uranus",
+   "magnetosphere of Uranus"
+  ]
+ },
+ "corps-celestes_neptune-planete": {
+  "qid": "Q332",
+  "P276": [
+   "système solaire externe"
+  ],
+  "P527": [
+   "magnetosphere of Neptune"
+  ]
+ },
+ "corps-celestes_1-ceres": {
+  "qid": "Q596",
+  "P276": [
+   "ceinture d'astéroïdes"
+  ]
+ },
+ "corps-celestes_pluton-planete-naine": {
+  "qid": "Q339",
+  "P276": [
+   "système solaire externe"
+  ],
+  "P527": [
+   "Atmosphère de Pluton"
+  ]
+ },
+ "corps-celestes_136108-haumea": {
+  "qid": "Q601",
+  "P276": [
+   "système solaire"
+  ]
+ },
+ "corps-celestes_136472-makemake": {
+  "qid": "Q604",
+  "P276": [
+   "système solaire"
+  ]
+ },
+ "corps-celestes_136199-eris": {
+  "qid": "Q611",
+  "P276": [
+   "système solaire"
+  ]
+ },
+ "corps-celestes_lune": {
+  "qid": "Q405",
+  "P571": [
+   "-4527000000"
+  ],
+  "P276": [
+   "système solaire interne"
+  ],
+  "P527": [
+   "atmosphère de la Lune",
+   "Montes Pyrenaeus",
+   "geological features on the Moon",
+   "sol lunaire"
+  ]
+ },
+ "corps-celestes_phobos-lune": {
+  "qid": "Q7547"
+ },
+ "corps-celestes_deimos-lune": {
+  "qid": "Q7548"
+ },
+ "corps-celestes_io-lune": {
+  "qid": "Q3123",
+  "P527": [
+   "Atmosphère de Io"
+  ]
+ },
+ "corps-celestes_europe-lune": {
+  "qid": "Q3143",
+  "P527": [
+   "Atmosphère d'Europe"
+  ]
+ },
+ "corps-celestes_ganymede-lune": {
+  "qid": "Q3169",
+  "P527": [
+   "Atmosphère de Ganymède"
+  ]
+ },
+ "corps-celestes_callisto-lune": {
+  "qid": "Q3134",
+  "P527": [
+   "Q16529658"
+  ]
+ },
+ "corps-celestes_titan-lune": {
+  "qid": "Q2565",
+  "P527": [
+   "lac de Titan",
+   "atmosphère de Titan"
+  ]
+ },
+ "corps-celestes_encelade-lune": {
+  "qid": "Q3303"
+ },
+ "corps-celestes_rhea-lune": {
+  "qid": "Q15050"
+ },
+ "corps-celestes_japet-lune": {
+  "qid": "Q17958"
+ },
+ "corps-celestes_dione-lune": {
+  "qid": "Q15040"
+ },
+ "corps-celestes_tethys-lune": {
+  "qid": "Q15047"
+ },
+ "corps-celestes_mimas-lune": {
+  "qid": "Q15034"
+ },
+ "corps-celestes_titania-lune": {
+  "qid": "Q3322",
+  "P527": [
+   "atmosphere of Titania"
+  ]
+ },
+ "corps-celestes_oberon-lune": {
+  "qid": "Q3332"
+ },
+ "corps-celestes_miranda-lune": {
+  "qid": "Q3352"
+ },
+ "corps-celestes_ariel-lune": {
+  "qid": "Q3343",
+  "P527": [
+   "Pixie Chasma"
+  ]
+ },
+ "corps-celestes_umbriel-lune": {
+  "qid": "Q3338"
+ },
+ "corps-celestes_triton-lune": {
+  "qid": "Q3359",
+  "P527": [
+   "atmosphère de Triton",
+   "Climate of Triton",
+   "Geology of Triton"
+  ]
+ },
+ "corps-celestes_charon-lune": {
+  "qid": "Q6604"
+ },
+ "corps-celestes_nebuleuse-d-orion": {
+  "qid": "Q13903",
+  "P527": [
+   "nébuleuse Kleinmann-Low"
+  ]
+ },
+ "corps-celestes_nebuleuse-de-la-tete-de-cheval": {
+  "qid": "Q14271"
+ },
+ "corps-celestes_nebuleuse-du-crabe": {
+  "qid": "Q10934",
+  "P527": [
+   "pulsar du Crabe"
+  ]
+ },
+ "corps-celestes_nebuleuse-de-l-aigle": {
+  "qid": "Q125178244"
+ },
+ "corps-celestes_nebuleuse-de-la-lyre": {
+  "qid": "Q13969"
+ },
+ "corps-celestes_ngc-7293": {
+  "qid": "Q97017154"
+ },
+ "corps-celestes_nebuleuse-de-la-rosette": {
+  "qid": "Q108041",
+  "P527": [
+   "NGC 2237"
+  ]
+ },
+ "corps-celestes_ngc-6302": {
+  "qid": "Q497739"
+ },
+ "corps-celestes_nebuleuse-de-la-carene": {
+  "qid": "Q50042"
+ },
+ "corps-celestes_nebuleuse-du-cone": {
+  "qid": "Q1709076"
+ },
+ "corps-celestes_sagittarius-a": {
+  "qid": "Q237284"
+ },
+ "corps-celestes_m87": {
+  "qid": "Q3841190"
+ },
+ "corps-celestes_cygnus-x-1": {
+  "qid": "Q332674"
+ },
+ "corps-celestes_ton-618": {
+  "qid": "Q45067390"
+ },
+ "corps-celestes_gaia-bh1": {
+  "qid": "Q114345349"
+ },
+ "corps-celestes_soleil": {
+  "qid": "Q525",
+  "P527": [
+   "protubérance solaire"
+  ]
+ },
+ "corps-celestes_betelgeuse": {
+  "qid": "Q12124"
+ },
+ "corps-celestes_sirius": {
+  "qid": "Q3409",
+  "P527": [
+   "Sirius A",
+   "Sirius B"
+  ]
+ },
+ "corps-celestes_proxima-centauri": {
+  "qid": "Q14266",
+  "P571": [
+   "-4850000000"
+  ]
+ },
+ "corps-celestes_alpha-centauri": {
+  "qid": "Q12176",
+  "P527": [
+   "Alpha Centauri A",
+   "Alpha Centauri B",
+   "Proxima Centauri"
+  ]
+ },
+ "corps-celestes_vega": {
+  "qid": "Q3427"
+ },
+ "corps-celestes_rigel": {
+  "qid": "Q12126"
+ },
+ "corps-celestes_antares": {
+  "qid": "Q12166",
+  "P527": [
+   "alf Sco B"
+  ]
+ },
+ "corps-celestes_aldebaran": {
+  "qid": "Q88540091",
+  "P527": [
+   "Alpha Tauri B",
+   "Aldébaran"
+  ]
+ },
+ "corps-celestes_arcturus": {
+  "qid": "Q12985"
+ },
+ "corps-celestes_deneb": {
+  "qid": "Q12179"
+ },
+ "corps-celestes_altair": {
+  "qid": "Q12975"
+ },
+ "corps-celestes_etoile-polaire": {
+  "qid": "Q662656"
+ },
+ "corps-celestes_voie-lactee": {
+  "qid": "Q321",
+  "P527": [
+   "centre galactique",
+   "Bras de Persée",
+   "Bras de la Règle",
+   "Bras Sagittaire-Carène",
+   "Bras Écu-Croix",
+   "bras d'Orion",
+   "Milky Way Galactic pole",
+   "Galactic north",
+   "Galactic south"
+  ]
+ },
+ "corps-celestes_galaxie-d-andromede": {
+  "qid": "Q2469",
+  "P527": [
+   "S Andromedae"
+  ]
+ },
+ "corps-celestes_m51-galaxie": {
+  "qid": "Q13957",
+  "P527": [
+   "SN 1994I",
+   "SN 2005cs",
+   "Q3277023"
+  ]
+ },
+ "corps-celestes_m104-galaxie": {
+  "qid": "Q91461627"
+ },
+ "corps-celestes_grand-nuage-de-magellan": {
+  "qid": "Q49957",
+  "P527": [
+   "Q88365157",
+   "Q829324",
+   "Q1046302",
+   "Nébuleuse de la Tarentule"
+  ]
+ },
+ "corps-celestes_petit-nuage-de-magellan": {
+  "qid": "Q49984",
+  "P527": [
+   "Q938340",
+   "Q1036169"
+  ]
+ },
+ "corps-celestes_galaxie-du-triangle": {
+  "qid": "Q13724",
+  "P527": [
+   "NGC 592",
+   "Var 83",
+   "M33 X-7",
+   "NGC 604",
+   "NGC 595",
+   "NGC 588"
+  ]
+ },
+ "corps-celestes_centaurus-a": {
+  "qid": "Q487255",
+  "P527": [
+   "SN 1986G",
+   "Q89043115"
+  ]
+ },
+ "corps-celestes_pleiades-astronomie": {
+  "qid": "Q13423",
+  "P527": [
+   "Alcyone",
+   "Atlas",
+   "17 Tauri",
+   "Mérope",
+   "19 Tauri",
+   "Pléioné",
+   "Maïa",
+   "16 Tauri",
+   "Astérope"
+  ]
+ },
+ "corps-celestes_amas-d-hercule": {
+  "qid": "Q11312"
+ },
+ "corps-celestes_amas-de-la-vierge": {
+  "qid": "Q271818",
+  "P527": [
+   "M49",
+   "M58",
+   "M59",
+   "M60",
+   "M61",
+   "M84",
+   "M85",
+   "M86",
+   "M87",
+   "M88",
+   "M89",
+   "M90",
+   "M91",
+   "M98",
+   "Messier 99",
+   "Messier 100",
+   "Q1109920",
+   "NGC 4262",
+   "Q1111058",
+   "Q473064",
+   "Q1111461",
+   "Q265365",
+   "Q30920",
+   "Q918631",
+   "NGC 4527",
+   "Q1112348",
+   "Q1112454",
+   "NGC 4567/8",
+   "Q1112566",
+   "Q1113217",
+   "Q1113239",
+   "chaîne de Markarian",
+   "Virgohi21"
+  ]
+ },
+ "corps-celestes_ceinture-d-asteroides": {
+  "qid": "Q2179"
+ },
+ "corps-celestes_ceinture-de-kuiper": {
+  "qid": "Q427",
+  "P527": [
+   "objet transneptunien en résonance",
+   "cubewano"
+  ]
+ },
+ "corps-celestes_nuage-de-oort": {
+  "qid": "Q40864",
+  "P527": [
+   "nuage de Hills"
+  ]
+ },
+ "corps-celestes_comete-de-halley": {
+  "qid": "Q23054"
+ },
+ "corps-celestes_c-1995-o1-hale-bopp": {
+  "qid": "Q69854"
+ },
+ "corps-celestes_67p-tchourioumov-guerassimenko": {
+  "qid": "Q844672"
+ },
+ "corps-celestes_shoemaker-levy-9": {
+  "qid": "Q3076"
+ },
+ "corps-celestes_c-2020-f3-neowise": {
+  "qid": "Q90776919"
+ },
+ "corps-celestes_1i-oumuamua": {
+  "qid": "Q42313338"
+ },
+ "corps-celestes_4-vesta": {
+  "qid": "Q3030"
+ },
+ "corps-celestes_2-pallas": {
+  "qid": "Q3002"
+ },
+ "corps-celestes_101955-benou": {
+  "qid": "Q11558"
+ },
+ "corps-celestes_99942-apophis": {
+  "qid": "Q118931"
+ },
+ "corps-celestes_162173-ryugu": {
+  "qid": "Q1385178"
+ },
+ "corps-celestes_90377-sedna": {
+  "qid": "Q15610"
+ },
+ "corps-celestes_trappist-1": {
+  "qid": "Q23986556"
+ },
+ "corps-celestes_proxima-centauri-b": {
+  "qid": "Q26692445"
+ },
+ "corps-celestes_kepler-452-b": {
+  "qid": "Q20726281"
+ },
+ "corps-celestes_51-pegasi-b": {
+  "qid": "Q242309"
+ },
+ "corps-celestes_hd-189733-b": {
+  "qid": "Q695224"
+ },
+ "corps-celestes_nebuleuse-de-la-lagune": {
+  "qid": "Q11243"
+ },
+ "corps-celestes_nebuleuse-trifide": {
+  "qid": "Q11377"
+ },
+ "corps-celestes_nebuleuse-de-l-il-de-chat": {
+  "qid": "Q15829"
+ },
+ "corps-celestes_nebuleuse-de-la-tarentule": {
+  "qid": "Q224145",
+  "P527": [
+   "R136a",
+   "VFTS 102"
+  ]
+ },
+ "corps-celestes_m17-nebuleuse": {
+  "qid": "Q11357"
+ },
+ "corps-celestes_canopus-etoile": {
+  "qid": "Q12189"
+ }
+}

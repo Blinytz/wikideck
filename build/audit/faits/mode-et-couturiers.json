@@ -1,0 +1,859 @@
+{
+ "mode-et-couturiers_coco-chanel": {
+  "qid": "Q45661",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1971"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "stylisme",
+   "création de bijoux"
+  ]
+ },
+ "mode-et-couturiers_christian-dior": {
+  "qid": "Q159694",
+  "P569": [
+   "1905"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Christian Dior"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_yves-saint-laurent": {
+  "qid": "Q171556",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "haute couture",
+   "prêt-à-porter"
+  ],
+  "P800": [
+   "Le smoking",
+   "Yves Saint Laurent"
+  ],
+  "P101": [
+   "stylisme",
+   "création de bijoux"
+  ]
+ },
+ "mode-et-couturiers_karl-lagerfeld": {
+  "qid": "Q76716",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P101": [
+   "stylisme",
+   "photographie",
+   "design",
+   "création de costume"
+  ]
+ },
+ "mode-et-couturiers_giorgio-armani": {
+  "qid": "Q157054",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_gianni-versace": {
+  "qid": "Q264490",
+  "P569": [
+   "1946"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_valentino-garavani": {
+  "qid": "Q379664",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2026",
+   "2026"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_hubert-de-givenchy": {
+  "qid": "Q167318",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "mode",
+   "stylisme",
+   "création de costume"
+  ]
+ },
+ "mode-et-couturiers_cristobal-balenciaga": {
+  "qid": "Q381088",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Balenciaga"
+  ]
+ },
+ "mode-et-couturiers_paul-poiret": {
+  "qid": "Q631884",
+  "P569": [
+   "1879"
+  ],
+  "P570": [
+   "1944",
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "orientalisme"
+  ]
+ },
+ "mode-et-couturiers_madeleine-vionnet": {
+  "qid": "Q266934",
+  "P569": [
+   "1876"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_elsa-schiaparelli": {
+  "qid": "Q464023",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie",
+   "France"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P101": [
+   "stylisme",
+   "mode",
+   "industrie de l'habillement"
+  ]
+ },
+ "mode-et-couturiers_jeanne-lanvin": {
+  "qid": "Q272717",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_charles-frederick-worth": {
+  "qid": "Q454330",
+  "P569": [
+   "1825"
+  ],
+  "P570": [
+   "1895"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "France"
+  ]
+ },
+ "mode-et-couturiers_pierre-cardin": {
+  "qid": "Q299211",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Italie",
+   "France"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_andre-courreges": {
+  "qid": "Q465447",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_sonia-rykiel": {
+  "qid": "Q237944",
+  "P569": [
+   "1930",
+   "1930"
+  ],
+  "P570": [
+   "2016",
+   "2016"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_jean-paul-gaultier": {
+  "qid": "Q3173870",
+  "P571": [
+   "1982"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_thierry-mugler": {
+  "qid": "Q862473",
+  "P569": [
+   "1945",
+   "1948"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_alexander-mcqueen": {
+  "qid": "Q207939",
+  "P569": [
+   "1969",
+   "1969"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "No. 13 Climax",
+   "Dante",
+   "Alexander McQueen"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_vivienne-westwood": {
+  "qid": "Q158067",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "punk",
+   "Nouveaux Romantiques"
+  ],
+  "P101": [
+   "stylisme",
+   "création de bijoux",
+   "militantisme",
+   "punk"
+  ]
+ },
+ "mode-et-couturiers_ralph-lauren": {
+  "qid": "Q296647",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "mode-et-couturiers_calvin-klein-styliste": {
+  "qid": "Q214800",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_tom-ford": {
+  "qid": "Q318149",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "mode-et-couturiers_marc-jacobs": {
+  "qid": "Q313108",
+  "P569": [
+   "1963",
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "mode"
+  ]
+ },
+ "mode-et-couturiers_miuccia-prada": {
+  "qid": "Q242342",
+  "P569": [
+   "1949",
+   "1948"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_donatella-versace": {
+  "qid": "Q229437",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "mode-et-couturiers_rei-kawakubo": {
+  "qid": "Q268033",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "mode-et-couturiers_yohji-yamamoto": {
+  "qid": "Q707890",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_issey-miyake": {
+  "qid": "Q469027",
+  "P569": [
+   "1938"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_kenzo-takada": {
+  "qid": "Q454927",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Japon",
+   "France"
+  ],
+  "P101": [
+   "stylisme",
+   "design d'intérieur",
+   "industrie de l'habillement"
+  ]
+ },
+ "mode-et-couturiers_manolo-blahnik": {
+  "qid": "Q334412",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P101": [
+   "stylisme",
+   "design",
+   "soulier"
+  ]
+ },
+ "mode-et-couturiers_christian-louboutin": {
+  "qid": "Q452136",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_virgil-abloh": {
+  "qid": "Q26703582",
+  "P569": [
+   "1980"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Virgil Abloh: “Figures of Speech”"
+  ]
+ },
+ "mode-et-couturiers_azzedine-alaia": {
+  "qid": "Q2553832",
+  "P569": [
+   "1935",
+   "1935",
+   "1940"
+  ],
+  "P570": [
+   "2017",
+   "2017"
+  ],
+  "P27": [
+   "France",
+   "protectorat français de Tunisie",
+   "Tunisie"
+  ],
+  "P101": [
+   "stylisme",
+   "mode",
+   "collectionnisme"
+  ]
+ },
+ "mode-et-couturiers_emilio-pucci": {
+  "qid": "Q604667",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ]
+ },
+ "mode-et-couturiers_ferragamo": {
+  "qid": "Q3946053",
+  "P571": [
+   "1927"
+  ],
+  "P495": [
+   "Italie"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "mode-et-couturiers_nina-ricci": {
+  "qid": "Q234503",
+  "P569": [
+   "1883",
+   "1883"
+  ],
+  "P570": [
+   "1970",
+   "1970"
+  ],
+  "P27": [
+   "France",
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_guccio-gucci": {
+  "qid": "Q714126",
+  "P569": [
+   "1881"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Gucci"
+  ]
+ },
+ "mode-et-couturiers_louis-vuitton-1821-1892": {
+  "qid": "Q277616",
+  "P569": [
+   "1821"
+  ],
+  "P570": [
+   "1892"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "maroquinerie",
+   "haut de gamme",
+   "joaillerie",
+   "accessoire de mode",
+   "marque"
+  ]
+ },
+ "mode-et-couturiers_pierre-balmain": {
+  "qid": "Q551674",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1982",
+   "1982"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "création de costume",
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_paco-rabanne": {
+  "qid": "Q467754",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Espagne",
+   "France"
+  ]
+ },
+ "mode-et-couturiers_christian-lacroix": {
+  "qid": "Q350844",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_john-galliano": {
+  "qid": "Q313607",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_martin-margiela": {
+  "qid": "Q978265",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P101": [
+   "stylisme",
+   "art"
+  ],
+  "P136": [
+   "déconstructivisme"
+  ]
+ },
+ "mode-et-couturiers_hedi-slimane": {
+  "qid": "Q558",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "couturier ou couturière"
+  ]
+ },
+ "mode-et-couturiers_jean-patou": {
+  "qid": "Q1229352",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1936"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "sportswear"
+  ]
+ },
+ "mode-et-couturiers_simon-porte-jacquemus": {
+  "qid": "Q21030814",
+  "P569": [
+   "1990"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_olivier-rousteing": {
+  "qid": "Q18209916",
+  "P569": [
+   "1985"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_thierry-hermes": {
+  "qid": "Q3524312",
+  "P569": [
+   "1801"
+  ],
+  "P570": [
+   "1878"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "stylisme",
+   "mode"
+  ]
+ },
+ "mode-et-couturiers_roger-vivier": {
+  "qid": "Q3439560",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "mode-et-couturiers_fendi": {
+  "qid": "Q926575",
+  "P571": [
+   "1925"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "mode-et-couturiers_dolce-gabbana": {
+  "qid": "Q214480",
+  "P571": [
+   "1980"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "mode-et-couturiers_levi-strauss-co": {
+  "qid": "Q127962",
+  "P571": [
+   "1853"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "mode-et-couturiers_tommy-hilfiger": {
+  "qid": "Q136687",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "mode",
+   "design"
+  ]
+ },
+ "mode-et-couturiers_stella-mccartney": {
+  "qid": "Q232812",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "mode-et-couturiers_mary-quant": {
+  "qid": "Q234147",
+  "P569": [
+   "1930",
+   "1934"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_diane-von-furstenberg": {
+  "qid": "Q272438",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis",
+   "Belgique"
+  ]
+ },
+ "mode-et-couturiers_carolina-herrera": {
+  "qid": "Q264589",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "Venezuela",
+   "États-Unis"
+  ],
+  "P101": [
+   "mode",
+   "stylisme"
+  ]
+ },
+ "mode-et-couturiers_agnes-b": {
+  "qid": "Q282967",
+  "P101": [
+   "vêtement"
+  ],
+  "P571": [
+   "1975"
+  ]
+ },
+ "mode-et-couturiers_iris-van-herpen": {
+  "qid": "Q2556675",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ }
+}

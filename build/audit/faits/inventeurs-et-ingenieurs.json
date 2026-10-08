@@ -1,0 +1,1378 @@
+{
+ "inventeurs-et-ingenieurs_alfred-nobel": {
+  "qid": "Q23810",
+  "P569": [
+   "1833"
+  ],
+  "P570": [
+   "1896"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P800": [
+   "prix Nobel",
+   "dynamite"
+  ],
+  "P101": [
+   "chimie",
+   "ingénierie",
+   "invention",
+   "industrie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_nikola-tesla": {
+  "qid": "Q9036",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "empire d'Autriche",
+   "Hongrie",
+   "États-Unis"
+  ],
+  "P101": [
+   "électrotechnique",
+   "génie mécanique",
+   "physicien ou physicienne",
+   "mécanique",
+   "inventeur"
+  ]
+ },
+ "inventeurs-et-ingenieurs_thomas-edison": {
+  "qid": "Q8743",
+  "P569": [
+   "1847"
+  ],
+  "P570": [
+   "1931"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "lampe à incandescence",
+   "phonographe"
+  ],
+  "P101": [
+   "invention",
+   "entrepreneuriat",
+   "électrotechnique",
+   "ingénierie",
+   "inventeur",
+   "entrepreneur ou entrepreneuse",
+   "scénarisation"
+  ]
+ },
+ "inventeurs-et-ingenieurs_alexander-graham-bell": {
+  "qid": "Q34286",
+  "P569": [
+   "1847"
+  ],
+  "P570": [
+   "1922"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "invention du téléphone"
+  ],
+  "P101": [
+   "logopédie",
+   "téléphonie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_guglielmo-marconi": {
+  "qid": "Q36488",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "Radio Vatican"
+  ],
+  "P101": [
+   "électrotechnique",
+   "sciences physiques"
+  ]
+ },
+ "inventeurs-et-ingenieurs_carl-benz": {
+  "qid": "Q40224",
+  "P569": [
+   "1844"
+  ],
+  "P570": [
+   "1929"
+  ],
+  "P27": [
+   "République de Bade",
+   "grand-duché de Bade"
+  ]
+ },
+ "inventeurs-et-ingenieurs_rudolf-diesel": {
+  "qid": "Q12674",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1913",
+   "1913"
+  ],
+  "P27": [
+   "royaume de Bavière"
+  ],
+  "P101": [
+   "ingénieur ou ingénieure"
+  ]
+ },
+ "inventeurs-et-ingenieurs_henry-ford": {
+  "qid": "Q8768",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_nikolaus-otto": {
+  "qid": "Q75782",
+  "P569": [
+   "1832",
+   "1832"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "royaume de Prusse",
+   "duché de Nassau"
+  ],
+  "P800": [
+   "moteur à combustion interne"
+  ],
+  "P101": [
+   "technologie",
+   "génie mécanique",
+   "construction"
+  ]
+ },
+ "inventeurs-et-ingenieurs_charles-babbage": {
+  "qid": "Q46633",
+  "P569": [
+   "1791"
+  ],
+  "P570": [
+   "1871"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "machine analytique",
+   "On the Economy of Machinery and Manufactures",
+   "Reflections on the Decline of Science in England, and on Some of Its Causes",
+   "machine différentielle",
+   "Passages from the Life of a Philosopher.",
+   "Laws of mechanical notation (for consideration) / [C. Babbage]",
+   "Ninth Bridgewater Treatise",
+   "On the Mathematical Powers of the Calculating Engine"
+  ],
+  "P101": [
+   "mathématiques",
+   "philosophie analytique",
+   "informatique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_gustave-eiffel": {
+  "qid": "Q20882",
+  "P569": [
+   "1832"
+  ],
+  "P570": [
+   "1923"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "viaduc de Garabit",
+   "pont métallique sur l'Adour",
+   "tour Eiffel",
+   "statue de la Liberté",
+   "pont Maria Pia"
+  ],
+  "P101": [
+   "aménagement urbain",
+   "architecture",
+   "construction métallique",
+   "ingénierie de l'aérodynamique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_louis-braille": {
+  "qid": "Q93182",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1852"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "inventeurs-et-ingenieurs_hedy-lamarr": {
+  "qid": "Q49034",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Autriche",
+   "États-Unis"
+  ],
+  "P800": [
+   "Extase",
+   "Samson et Dalila",
+   "Casbah",
+   "Angoisse",
+   "Le Démon de la chair",
+   "Système de communication secrète"
+  ],
+  "P101": [
+   "cinéma",
+   "frequency-hopping spread spectrum",
+   "comédie",
+   "discoveries and inventions"
+  ]
+ },
+ "inventeurs-et-ingenieurs_george-washington-carver": {
+  "qid": "Q296898",
+  "P569": [
+   "1864"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "botanique",
+   "mycologie",
+   "chimie",
+   "pédagogie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_wernher-von-braun": {
+  "qid": "Q57384",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "Troisième Reich",
+   "États-Unis",
+   "Empire allemand",
+   "république de Weimar",
+   "Allemagne de l'Ouest"
+  ],
+  "P101": [
+   "ingénierie et technologie spatiale"
+  ]
+ },
+ "inventeurs-et-ingenieurs_tim-berners-lee": {
+  "qid": "Q80",
+  "P569": [
+   "1955",
+   "1955"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "World Wide Web",
+   "WorldWideWeb",
+   "Hypertext Transfer Protocol",
+   "HTML",
+   "Web sémantique",
+   "Design Issues for the World Wide Web",
+   "Uniform Resource Locator"
+  ],
+  "P101": [
+   "technologie de l'information",
+   "informatique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_margaret-hamilton-scientifique": {
+  "qid": "Q11628",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Universal Systems Language"
+  ],
+  "P101": [
+   "informatique",
+   "génie logiciel",
+   "ingénierie des systèmes",
+   "météorologie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_leonard-de-vinci": {
+  "qid": "Q762",
+  "P569": [
+   "1452",
+   "1452"
+  ],
+  "P570": [
+   "1519",
+   "1519"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P135": [
+   "Haute Renaissance",
+   "Renaissance"
+  ],
+  "P800": [
+   "L'Adoration des mages",
+   "La Vierge aux rochers",
+   "La Joconde",
+   "La Cène",
+   "La Dame à l'hermine",
+   "Homme de Vitruve",
+   "L'Annonciation de San Martino",
+   "Saint Jérôme",
+   "La Vierge, l'Enfant Jésus et sainte Anne",
+   "Saint Jean-Baptiste",
+   "vis aérienne",
+   "Isabelle d'Este",
+   "La Scapigliata",
+   "Salvator Mundi",
+   "Annonciation",
+   "Battle Between a Rider and a Dragon",
+   "Wreath of Laurel, Palm, and Juniper with a Scroll inscribed Virtutem Forma Decorat [reverse]",
+   "Allegory on the Fidelity of the Lizard (recto); Design for a Stage Setting (verso)",
+   "Codex Atlanticus (F0026)",
+   "Codex Atlanticus (F0089)",
+   "Codex Atlanticus (F0133)",
+   "Codex Atlanticus (F0139)",
+   "Codex Atlanticus (F0149)",
+   "Codex Atlanticus (F0157)",
+   "Codex Atlanticus (F0812)",
+   "Codex Atlanticus (F0845)",
+   "Codex Atlanticus (F0965)",
+   "Codex Atlanticus (F1069)",
+   "Codex Atlanticus (F1070)",
+   "Copy of the Leonardo Da Vinci's Last Supper",
+   "Draperie pour une figure assise",
+   "Studies for a Madonna with a Cat",
+   "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
+   "Profile of an Old Man",
+   "Female Head",
+   "Female Head in Profile",
+   "Perspective Study for the Background of the Adoration of the Magi",
+   "Drawing of Two Heads in Profile and Studies of Machines",
+   "Sainte Anne, la Vierge et l'Enfant",
+   "Recto: Sketches for the Last Supper, and other studies. Verso: Calculations with architectural, engineering, and geometric sketches",
+   "Études pour La Vierge, l'Enfant Jésus et sainte Anne",
+   "Design for a Scythed Chariot and Armoured Car (?)",
+   "studies for the London Virgin of the Rocks",
+   "Drapery Study for the Right Arm of Saint Peter in the Last Supper",
+   "Study of Clasped Hands (Hands of Saint John)",
+   "Study for the Last Supper (Judas)",
+   "Study for the Last Supper (Saint Bartholomew)",
+   "Study for the Last Supper (Saint James the Elder) and Architectural Sketches"
+  ],
+  "P101": [
+   "architecture de la Renaissance",
+   "scénographie",
+   "ingénierie",
+   "physiologie",
+   "peinture"
+  ],
+  "P136": [
+   "portrait",
+   "peinture religieuse",
+   "art religieux"
+  ]
+ },
+ "inventeurs-et-ingenieurs_johannes-gutenberg": {
+  "qid": "Q8958",
+  "P569": [
+   "1400"
+  ],
+  "P570": [
+   "1468",
+   "1468"
+  ],
+  "P27": [
+   "Saint-Empire romain germanique"
+  ],
+  "P101": [
+   "inventeur"
+  ]
+ },
+ "inventeurs-et-ingenieurs_denis-papin": {
+  "qid": "Q106208",
+  "P569": [
+   "1647"
+  ],
+  "P570": [
+   "1713"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "Digesteur à vapeur"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_thomas-newcomen": {
+  "qid": "Q193042",
+  "P569": [
+   "1664"
+  ],
+  "P570": [
+   "1729"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "inventeurs-et-ingenieurs_james-watt": {
+  "qid": "Q9041",
+  "P569": [
+   "1736"
+  ],
+  "P570": [
+   "1819",
+   "1819"
+  ],
+  "P27": [
+   "Écosse"
+  ],
+  "P101": [
+   "génie mécanique",
+   "machine à vapeur",
+   "invention",
+   "fabricant d'instruments"
+  ]
+ },
+ "inventeurs-et-ingenieurs_freres-montgolfier": {
+  "qid": "Q193751",
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Jacques-Étienne Montgolfier",
+   "Joseph-Michel Montgolfier"
+  ]
+ },
+ "inventeurs-et-ingenieurs_richard-trevithick": {
+  "qid": "Q217157",
+  "P569": [
+   "1771"
+  ],
+  "P570": [
+   "1833"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "royaume de Grande-Bretagne"
+  ],
+  "P101": [
+   "mine engineering"
+  ]
+ },
+ "inventeurs-et-ingenieurs_george-stephenson": {
+  "qid": "Q133614",
+  "P569": [
+   "1781"
+  ],
+  "P570": [
+   "1848"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Paris"
+  ],
+  "P101": [
+   "génie mécanique",
+   "génie civil"
+  ]
+ },
+ "inventeurs-et-ingenieurs_robert-fulton": {
+  "qid": "Q192496",
+  "P569": [
+   "1765",
+   "1756"
+  ],
+  "P570": [
+   "1815"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_isambard-kingdom-brunel": {
+  "qid": "Q207380",
+  "P569": [
+   "1806"
+  ],
+  "P570": [
+   "1859"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "Royal Albert Bridge",
+   "pont suspendu de Clifton",
+   "Great Western Railway",
+   "Great Britain",
+   "Great Eastern",
+   "Great Western"
+  ]
+ },
+ "inventeurs-et-ingenieurs_ferdinand-de-lesseps": {
+  "qid": "Q209169",
+  "P569": [
+   "1805"
+  ],
+  "P570": [
+   "1894"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "inventeurs-et-ingenieurs_samuel-morse": {
+  "qid": "Q75698",
+  "P569": [
+   "1791"
+  ],
+  "P570": [
+   "1872"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "code Morse"
+  ],
+  "P136": [
+   "peinture de portrait",
+   "paysage",
+   "peinture d'histoire"
+  ]
+ },
+ "inventeurs-et-ingenieurs_nicephore-niepce": {
+  "qid": "Q188342",
+  "P569": [
+   "1765"
+  ],
+  "P570": [
+   "1833"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Point de vue du Gras",
+   "Pyréolophore",
+   "photographie"
+  ],
+  "P101": [
+   "photogrammétrie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_louis-daguerre": {
+  "qid": "Q131405",
+  "P569": [
+   "1787",
+   "1787"
+  ],
+  "P570": [
+   "1851",
+   "1851"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Boulevard du Temple"
+  ]
+ },
+ "inventeurs-et-ingenieurs_elisha-otis": {
+  "qid": "Q171413",
+  "P569": [
+   "1811"
+  ],
+  "P570": [
+   "1861"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_isaac-merritt-singer": {
+  "qid": "Q312011",
+  "P569": [
+   "1811"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Oldway Mansion"
+  ]
+ },
+ "inventeurs-et-ingenieurs_ferdinand-von-zeppelin": {
+  "qid": "Q75780",
+  "P569": [
+   "1838"
+  ],
+  "P570": [
+   "1917"
+  ],
+  "P27": [
+   "grand-duché de Bade"
+  ]
+ },
+ "inventeurs-et-ingenieurs_auguste-et-louis-lumiere": {
+  "qid": "Q55965",
+  "P27": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Louis Lumière",
+   "Auguste Lumière"
+  ]
+ },
+ "inventeurs-et-ingenieurs_willis-carrier": {
+  "qid": "Q2581759",
+  "P569": [
+   "1876",
+   "1876"
+  ],
+  "P570": [
+   "1950",
+   "1950"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "climatisation"
+  ]
+ },
+ "inventeurs-et-ingenieurs_john-logie-baird": {
+  "qid": "Q133544",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "inventeurs-et-ingenieurs_vladimir-zvorykin": {
+  "qid": "Q296545",
+  "P569": [
+   "1888",
+   "1889"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "Empire russe",
+   "République russe",
+   "République sibérienne",
+   "État russe",
+   "États-Unis"
+  ],
+  "P101": [
+   "électrotechnique",
+   "physique",
+   "technologie de télévision",
+   "television transmitter",
+   "télévision",
+   "microscopie électronique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_frank-whittle": {
+  "qid": "Q312547",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1996",
+   "1996"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "génie mécanique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_serguei-korolev": {
+  "qid": "Q170842",
+  "P569": [
+   "1906",
+   "1907"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Empire russe"
+  ],
+  "P800": [
+   "R-7"
+  ],
+  "P101": [
+   "fuséologie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_percy-spencer": {
+  "qid": "Q451052",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_jack-kilby": {
+  "qid": "Q182031",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "circuit intégré"
+  ],
+  "P101": [
+   "physique",
+   "électrotechnique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_robert-noyce": {
+  "qid": "Q241735",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_gordon-earle-moore": {
+  "qid": "Q243969",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "loi de Moore",
+   "Intel"
+  ]
+ },
+ "inventeurs-et-ingenieurs_douglas-engelbart": {
+  "qid": "Q92614",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "souris",
+   "interface graphique",
+   "interactions homme-machine"
+  ],
+  "P101": [
+   "sciences de l'information",
+   "invention",
+   "électrotechnique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_steve-wozniak": {
+  "qid": "Q483382",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "États-Unis",
+   "Serbie",
+   "Pologne"
+  ],
+  "P800": [
+   "Apple I",
+   "Apple II",
+   "Breakout",
+   "Apple",
+   "Macintosh 128K",
+   "US Festival"
+  ],
+  "P101": [
+   "électrotechnique",
+   "technologie informatique",
+   "génie logiciel",
+   "enseignement"
+  ]
+ },
+ "inventeurs-et-ingenieurs_linus-torvalds": {
+  "qid": "Q34253",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis",
+   "Finlande"
+  ],
+  "P800": [
+   "noyau Linux",
+   "Git",
+   "Subsurface"
+  ],
+  "P101": [
+   "ingénieur ou ingénieure logiciel"
+  ]
+ },
+ "inventeurs-et-ingenieurs_shuji-nakamura": {
+  "qid": "Q730065",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Japon",
+   "États-Unis"
+  ],
+  "P800": [
+   "blue light-emitting diode"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_steve-jobs": {
+  "qid": "Q19837",
+  "P569": [
+   "1955"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Apple I",
+   "Apple II",
+   "Apple Lisa",
+   "NeXT Computer",
+   "iMac",
+   "IPod",
+   "iPhone",
+   "Q2796",
+   "Mac OS X v10.0",
+   "NeXTSTEP",
+   "iTunes",
+   "Q368215"
+  ]
+ },
+ "inventeurs-et-ingenieurs_bill-gates": {
+  "qid": "Q5284",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_konrad-zuse": {
+  "qid": "Q60093",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1995"
+  ],
+  "P27": [
+   "Allemagne"
+  ],
+  "P800": [
+   "Zuse 1",
+   "Zuse 2",
+   "Zuse 3",
+   "Zuse 4",
+   "Z5",
+   "Z11",
+   "Z22",
+   "Z23 (computer)",
+   "Calculating Space",
+   "Plankalkül",
+   "Der Computer – Mein Lebenswerk"
+  ],
+  "P101": [
+   "informatique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_william-shockley": {
+  "qid": "Q163415",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P101": [
+   "physique des semi-conducteurs"
+  ]
+ },
+ "inventeurs-et-ingenieurs_dennis-ritchie": {
+  "qid": "Q45575",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "C",
+   "Unix",
+   "The C Programming Language",
+   "ALTRAN",
+   "B",
+   "BCPL",
+   "Multics",
+   "Plan 9"
+  ],
+  "P101": [
+   "informatique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_cai-lun": {
+  "qid": "Q229235",
+  "P569": [
+   "48",
+   "50"
+  ],
+  "P570": [
+   "121"
+  ],
+  "P27": [
+   "dynastie Han"
+  ]
+ },
+ "inventeurs-et-ingenieurs_heron-d-alexandrie": {
+  "qid": "Q161853",
+  "P569": [
+   "10"
+  ],
+  "P570": [
+   "75"
+  ],
+  "P800": [
+   "éolipyle",
+   "formule de Héron",
+   "Fontaine de Héron"
+  ],
+  "P101": [
+   "géométrie",
+   "mécanique",
+   "ingénierie",
+   "optique",
+   "mathématiques",
+   "géodésie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_nicolas-joseph-cugnot": {
+  "qid": "Q210730",
+  "P569": [
+   "1725"
+  ],
+  "P570": [
+   "1804"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "inventeurs-et-ingenieurs_gottlieb-daimler": {
+  "qid": "Q57098",
+  "P569": [
+   "1834"
+  ],
+  "P570": [
+   "1900"
+  ],
+  "P27": [
+   "royaume du Wurtemberg"
+  ]
+ },
+ "inventeurs-et-ingenieurs_louis-renault-industriel": {
+  "qid": "Q298766",
+  "P569": [
+   "1877"
+  ],
+  "P570": [
+   "1944"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "inventeurs-et-ingenieurs_andre-citroen": {
+  "qid": "Q219842",
+  "P569": [
+   "1878"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "construction automobile"
+  ]
+ },
+ "inventeurs-et-ingenieurs_ferdinand-porsche": {
+  "qid": "Q57249",
+  "P569": [
+   "1875"
+  ],
+  "P570": [
+   "1951"
+  ],
+  "P27": [
+   "Allemagne",
+   "Autriche",
+   "Tchécoslovaquie"
+  ],
+  "P101": [
+   "construction automobile"
+  ]
+ },
+ "inventeurs-et-ingenieurs_soichiro-honda": {
+  "qid": "Q313304",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1991"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P101": [
+   "Honda"
+  ]
+ },
+ "inventeurs-et-ingenieurs_joseph-marie-jacquard": {
+  "qid": "Q310833",
+  "P569": [
+   "1752"
+  ],
+  "P570": [
+   "1834"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Métier Jacquard",
+   "carte perforée"
+  ]
+ },
+ "inventeurs-et-ingenieurs_nicolas-appert": {
+  "qid": "Q39637",
+  "P569": [
+   "1749"
+  ],
+  "P570": [
+   "1841"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "conservation des aliments"
+  ]
+ },
+ "inventeurs-et-ingenieurs_george-westinghouse": {
+  "qid": "Q262367",
+  "P569": [
+   "1846"
+  ],
+  "P570": [
+   "1914"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_joseph-swan": {
+  "qid": "Q315422",
+  "P569": [
+   "1828"
+  ],
+  "P570": [
+   "1914"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P101": [
+   "physique",
+   "chimie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_charles-goodyear": {
+  "qid": "Q207667",
+  "P569": [
+   "1800"
+  ],
+  "P570": [
+   "1860"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_philo-farnsworth": {
+  "qid": "Q360098",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "inventeurs-et-ingenieurs_laszlo-biro": {
+  "qid": "Q312680",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "Hongrie"
+  ]
+ },
+ "inventeurs-et-ingenieurs_king-camp-gillette": {
+  "qid": "Q314000",
+  "P569": [
+   "1855"
+  ],
+  "P570": [
+   "1932"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "rasoir de sûreté à double tranchant",
+   "Gillette Company",
+   "double-edge razor blade"
+  ]
+ },
+ "inventeurs-et-ingenieurs_james-dyson": {
+  "qid": "Q1346101",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "inventeurs-et-ingenieurs_erno-rubik": {
+  "qid": "Q186089",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "Hongrie"
+  ],
+  "P800": [
+   "Rubik’s Cube",
+   "Rubik's Flip",
+   "Rubik's Domino",
+   "Rubik's 360",
+   "Rubik's Snake"
+  ],
+  "P101": [
+   "architecture",
+   "jeu vidéo",
+   "casse-tête",
+   "design d'intérieur",
+   "sculpture",
+   "design",
+   "Rubik’s Cube"
+  ]
+ },
+ "inventeurs-et-ingenieurs_martin-cooper": {
+  "qid": "Q319383",
+  "P569": [
+   "1928"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "électrotechnique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_roland-moreno": {
+  "qid": "Q2308660",
+  "P569": [
+   "1945"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "carte à puce"
+  ],
+  "P101": [
+   "technologie de l'information"
+  ]
+ },
+ "inventeurs-et-ingenieurs_georges-claude": {
+  "qid": "Q537061",
+  "P569": [
+   "1870"
+  ],
+  "P570": [
+   "1960"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Air liquide"
+  ]
+ },
+ "inventeurs-et-ingenieurs_evangelista-torricelli": {
+  "qid": "Q102490",
+  "P569": [
+   "1608"
+  ],
+  "P570": [
+   "1647"
+  ],
+  "P27": [
+   "grand-duché de Toscane"
+  ],
+  "P800": [
+   "Opera Geometrica",
+   "formule de Torricelli",
+   "trompette de Gabriel",
+   "expérience de Torricelli",
+   "Torricelli's equation",
+   "torricellian chamber",
+   "baromètre"
+  ],
+  "P101": [
+   "physique"
+  ]
+ },
+ "inventeurs-et-ingenieurs_gabriel-fahrenheit": {
+  "qid": "Q57073",
+  "P569": [
+   "1686"
+  ],
+  "P570": [
+   "1736"
+  ],
+  "P27": [
+   "république des Deux Nations"
+  ],
+  "P800": [
+   "degré Fahrenheit"
+  ],
+  "P101": [
+   "physique"
+  ]
+ }
+}

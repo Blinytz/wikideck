@@ -1,0 +1,1397 @@
+{
+ "architectes_antoni-gaudi": {
+  "qid": "Q25328",
+  "P569": [
+   "1852"
+  ],
+  "P570": [
+   "1926",
+   "1926"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "modernisme catalan"
+  ],
+  "P800": [
+   "Casa Milà",
+   "Sagrada Família",
+   "Bellesguard",
+   "Le Caprice de Gaudí",
+   "parc Güell",
+   "palais épiscopal d'Astorga",
+   "Casa Vicens",
+   "Casa Botines",
+   "crypte de la colonie Güell",
+   "Casa Batlló",
+   "Casa Calvet",
+   "cellier Güell",
+   "palais Güell",
+   "Jardins Artigas",
+   "pavillon Güell"
+  ],
+  "P101": [
+   "architecture",
+   "modernisme"
+  ]
+ },
+ "architectes_le-corbusier": {
+  "qid": "Q4724",
+  "P569": [
+   "1887"
+  ],
+  "P570": [
+   "1965"
+  ],
+  "P27": [
+   "Suisse",
+   "France"
+  ],
+  "P135": [
+   "mouvement moderne",
+   "brutalisme",
+   "purisme"
+  ],
+  "P800": [
+   "chapelle Notre-Dame-du-Haut de Ronchamp",
+   "villa Savoye",
+   "unité d'habitation",
+   "cité radieuse de Marseille",
+   "Complexe du Capitole de Chandigarh",
+   "Tsentrosoyuz",
+   "tombe de Le Corbusier",
+   "Maison Blanche",
+   "villa Schwob",
+   "maison La Roche",
+   "villa Le Lac",
+   "pavillon de l'Esprit nouveau"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_frank-lloyd-wright": {
+  "qid": "Q5604",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Emil Bach House",
+   "Pettit Memorial Chapel",
+   "église orthodoxe grecque de l'Annonciation",
+   "A. D. German Warehouse",
+   "maison sur la cascade",
+   "Prairie School",
+   "musée Solomon-R.-Guggenheim"
+  ],
+  "P101": [
+   "architecture",
+   "verrerie"
+  ]
+ },
+ "architectes_zaha-hadid": {
+  "qid": "Q47780",
+  "P569": [
+   "1950"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "Irak"
+  ],
+  "P135": [
+   "déconstructivisme"
+  ],
+  "P800": [
+   "Aquatics Centre",
+   "centre culturel Heydar-Aliyev",
+   "opéra de Canton",
+   "Centre d'art contemporain Rosenthal",
+   "opéra de Dubai",
+   "BMW Central Building",
+   "Pavillon-Pont",
+   "Tour Lilium",
+   "Tremplin de Bergisel",
+   "Phaeno",
+   "Tour CMA-CGM",
+   "Riverside Museum",
+   "MAXXI - Musée national des arts du XXIe siècle",
+   "one-north",
+   "CityLife",
+   "Havenhuis",
+   "Capital Hill Residence",
+   "Vitra Fire Station"
+  ],
+  "P101": [
+   "architecture",
+   "création de bijoux",
+   "peinture"
+  ],
+  "P136": [
+   "peinture d'architecture",
+   "architecture futuriste"
+  ]
+ },
+ "architectes_oscar-niemeyer": {
+  "qid": "Q134165",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "2012",
+   "2012"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P800": [
+   "cathédrale de Brasilia",
+   "ancien siège de l'Humanité",
+   "Brasilia Digital TV Tower",
+   "Ibirapuera Auditorium",
+   "musée d'art contemporain de Niterói",
+   "Palais du Congrès national",
+   "palais du Planalto",
+   "palais de l’Aurore",
+   "Supremo Tribunal Federal building",
+   "siège du Parti communiste français",
+   "Ensemble moderne de Pampulha"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_tadao-ando": {
+  "qid": "Q208220",
+  "P569": [
+   "1941"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "temple Honpuku",
+   "maison Azuma",
+   "Fabrica research centre"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_ludwig-mies-van-der-rohe": {
+  "qid": "Q41508",
+  "P569": [
+   "1886"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P135": [
+   "Neues Bauen",
+   "modernisme"
+  ],
+  "P800": [
+   "Centre Toronto-Dominion",
+   "Westmount Square",
+   "Seagram Building",
+   "Farnsworth House",
+   "pavillon allemand de Barcelone"
+  ],
+  "P101": [
+   "architecture"
+  ],
+  "P136": [
+   "style international"
+  ]
+ },
+ "architectes_walter-gropius": {
+  "qid": "Q61071",
+  "P569": [
+   "1883"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "Empire allemand",
+   "république de Weimar",
+   "Troisième Reich",
+   "Allemagne"
+  ],
+  "P135": [
+   "Bauhaus",
+   "style international"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_frank-gehry": {
+  "qid": "Q180374",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "États-Unis",
+   "Canada",
+   "Canada"
+  ],
+  "P135": [
+   "architecture postmoderne"
+  ],
+  "P800": [
+   "DZ Bank building",
+   "8 Spruce Street",
+   "Fondation d'entreprise Louis-Vuitton",
+   "Walt Disney Concert Hall",
+   "mémorial Dwight D. Eisenhower",
+   "Stata Center",
+   "Biomuseo",
+   "musée Guggenheim Bilbao",
+   "Weisman Art Museum",
+   "Guggenheim Abou Dabi",
+   "maison dansante"
+  ],
+  "P101": [
+   "architecture",
+   "opéra",
+   "joaillerie"
+  ]
+ },
+ "architectes_renzo-piano": {
+  "qid": "Q190148",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "Italie",
+   "France"
+  ],
+  "P800": [
+   "The Shard",
+   "aéroport international du Kansai",
+   "stade San Nicola",
+   "gratte-ciel Intesa Sanpaolo",
+   "Vulcano buono",
+   "Morgan Library and Museum",
+   "Centre national d'art et de culture Georges-Pompidou",
+   "Académie des sciences de Californie",
+   "pinacothèque Agnelli",
+   "Centre Botín",
+   "FDP",
+   "École normale supérieure Paris-Saclay"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_norman-foster-architecte": {
+  "qid": "Q104898",
+  "P569": [
+   "1935"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "architecture high-tech"
+  ],
+  "P800": [
+   "Commerzbank Tower",
+   "Gerling Ring-Karree",
+   "Canary Wharf",
+   "Carré d'art",
+   "hôtel de ville de Londres",
+   "Two World Trade Center",
+   "Willis Building",
+   "The Sage Gateshead",
+   "Nouvelle-Hollande",
+   "palais de la paix et de la réconciliation",
+   "National Portrait Gallery",
+   "30 St Mary Axe",
+   "HSBC Main Building",
+   "palais du Reichstag",
+   "stade de Wembley",
+   "Crystal Island",
+   "Queen Elizabeth II Great Court",
+   "Dresde-Centrale",
+   "Rose Bowl",
+   "National Police Memorial",
+   "McLaren Technology Centre",
+   "Leslie Dan Faculty of Pharmacy",
+   "Langley Academy",
+   "8 Canada Square",
+   "Faculty of Law, Cambridge",
+   "Tour Moeve",
+   "Reichstag dome",
+   "Millennium Bridge",
+   "Santa Giulia",
+   "Expo",
+   "métro de Bilbao",
+   "Willis Building",
+   "Hilton Valencia",
+   "The Harmon",
+   "Clyde Auditorium",
+   "Langham",
+   "U2 Tower",
+   "Sainsbury centre for visual arts, Norwich, GB",
+   "Deutsche Bank Place",
+   "APIIC Tower",
+   "AT&T Performing Arts Center",
+   "Imperial War Museum Duxford",
+   "The Index",
+   "The Bow",
+   "World Port Center",
+   "Khan Shatyr",
+   "Hearst Tower",
+   "Philological Library of Freie Universität Berlin",
+   "Torre de Collserola",
+   "viaduc de Millau",
+   "Apple Park"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_jean-nouvel": {
+  "qid": "Q214317",
+  "P569": [
+   "1945",
+   "1945"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Quartier 207",
+   "Tour Bleue",
+   "Kölnturm",
+   "tour Glòries",
+   "Nouvel Building",
+   "Louvre Abou Dabi",
+   "Institut du monde arabe"
+  ]
+ },
+ "architectes_rem-koolhaas": {
+  "qid": "Q232364",
+  "P569": [
+   "1944",
+   "1944"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ],
+  "P135": [
+   "déconstructivisme"
+  ],
+  "P800": [
+   "maison Lemoine",
+   "Kunsthal de Rotterdam",
+   "Nederlands Dans Theater",
+   "Seconde Chambre des États généraux",
+   "bibliothèque centrale de Seattle",
+   "quartier Prada",
+   "Ristorante Torre (Prada)",
+   "Golden Tower"
+  ],
+  "P101": [
+   "architecture",
+   "design de produit"
+  ]
+ },
+ "architectes_ieoh-ming-pei": {
+  "qid": "Q46868",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "États-Unis",
+   "Taïwan"
+  ],
+  "P135": [
+   "style international"
+  ],
+  "P800": [
+   "pyramide du Louvre",
+   "Rock and Roll Hall of Fame",
+   "tour de la Bank de Chine",
+   "Mastercard International Global Headquarters",
+   "Luce Memorial Chapel",
+   "Usine d'incinération des déchets de Bali",
+   "The Garden Hotel"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_alvar-aalto": {
+  "qid": "Q82840",
+  "P569": [
+   "1898"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "Finlande",
+   "grand-duché de Finlande"
+  ],
+  "P135": [
+   "Neues Bauen"
+  ],
+  "P800": [
+   "bibliothèque de Viipuri",
+   "maison Finlandia",
+   "Maison Baker",
+   "Sanatorium de Paimio",
+   "hôtel de ville de Säynätsalo",
+   "bâtiment principal de l'Université Aalto",
+   "Aalto Theatre",
+   "Vase Aalto",
+   "Fauteuil Paimio",
+   "Stool 60",
+   "Immeuble de Turun Sanomat",
+   "Aaltokeskus",
+   "église des trois croix de Imatra",
+   "Aalto Centre, Rovaniemi",
+   "Nation de Västmanland-Dala"
+  ],
+  "P101": [
+   "architecture"
+  ],
+  "P136": [
+   "modernisme"
+  ]
+ },
+ "architectes_louis-kahn-architecte": {
+  "qid": "Q210134",
+  "P569": [
+   "1901",
+   "1901"
+  ],
+  "P570": [
+   "1974",
+   "1974"
+  ],
+  "P27": [
+   "Empire russe",
+   "États-Unis"
+  ],
+  "P800": [
+   "musée d'Art Kimbell"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_filippo-brunelleschi": {
+  "qid": "Q174330",
+  "P569": [
+   "1377",
+   "1376"
+  ],
+  "P570": [
+   "1446",
+   "1446"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P135": [
+   "Première Renaissance",
+   "Renaissance italienne"
+  ],
+  "P800": [
+   "cathédrale Santa Maria del Fiore",
+   "chapelle des Pazzi",
+   "Crucifix de Santa Maria Novella",
+   "Spedale degli Innocenti",
+   "basilique San Lorenzo",
+   "église de Santo-Spirito",
+   "couvent Sainte-Marie-des-Anges",
+   "Sagrestia Vecchia",
+   "château de Vicopisano"
+  ],
+  "P101": [
+   "architecture de la Renaissance"
+  ]
+ },
+ "architectes_andrea-palladio": {
+  "qid": "Q177692",
+  "P569": [
+   "1508",
+   "1508"
+  ],
+  "P570": [
+   "1580",
+   "1579",
+   "1580"
+  ],
+  "P27": [
+   "république de Venise"
+  ],
+  "P800": [
+   "basilique palladienne",
+   "Galeries de l'Académie",
+   "villa Saraceno",
+   "villa Almerico Capra",
+   "Gioiello di Vicenza",
+   "basilique San Giorgio Maggiore de Venise",
+   "Teatro olimpico",
+   "Vicenza et Villas de Palladio en Vénétie",
+   "Valmarana chapel"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_christopher-wren": {
+  "qid": "Q170373",
+  "P569": [
+   "1632"
+  ],
+  "P570": [
+   "1723",
+   "1723",
+   "1722",
+   "1723"
+  ],
+  "P27": [
+   "royaume d'Angleterre",
+   "royaume de Grande-Bretagne"
+  ],
+  "P800": [
+   "St Clement Danes",
+   "All-Hallows-the-Great",
+   "Marlborough House",
+   "St Mary Aldermary",
+   "cathédrale Saint-Paul de Londres",
+   "Greenwich Hospital",
+   "hôpital royal de Chelsea",
+   "château de Hampton Court",
+   "palais de Kensington",
+   "Old Royal Naval College",
+   "monument au Grand incendie de Londres",
+   "théâtre de Drury Lane",
+   "église St Andrew (Holborn)",
+   "St Augustine Watling Street",
+   "Pembroke College Chapel",
+   "Observatoire royal de Greenwich"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_eugene-viollet-le-duc": {
+  "qid": "Q272912",
+  "P569": [
+   "1814"
+  ],
+  "P570": [
+   "1879",
+   "1879"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "style néogothique"
+  ],
+  "P800": [
+   "château d'Abbadia",
+   "château de Montdardier",
+   "château de la Flachère",
+   "statue de la Liberté",
+   "Colonne Trajane à Rome, bas-relief de la face principale du piédestal"
+  ]
+ },
+ "architectes_hector-guimard": {
+  "qid": "Q316422",
+  "P569": [
+   "1867"
+  ],
+  "P570": [
+   "1942"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Art nouveau"
+  ],
+  "P800": [
+   "castel d'Orgeval",
+   "hôtel Guimard",
+   "Castel Béranger",
+   "édicule Guimard",
+   "maison Coilliot"
+  ],
+  "P101": [
+   "architecture",
+   "design"
+  ],
+  "P136": [
+   "art public"
+  ]
+ },
+ "architectes_auguste-perret": {
+  "qid": "Q381978",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1954"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "chapelle du Rosaire de Vence",
+   "église Notre-Dame du Raincy",
+   "centre-ville reconstruit du Havre",
+   "théâtre des Champs-Élysées"
+  ]
+ },
+ "architectes_kenzo-tange": {
+  "qid": "Q151794",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "Japon",
+   "empire du Japon"
+  ],
+  "P800": [
+   "Gymnase olympique de Yoyogi",
+   "Nippon Gaishi Hall",
+   "stade national d'athlétisme de Kasumigaoka",
+   "Singapore Indoor Stadium"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_santiago-calatrava-valls": {
+  "qid": "Q168482",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P135": [
+   "architecture high-tech"
+  ],
+  "P800": [
+   "pont de la Constitution",
+   "pont de Cordes",
+   "cité des arts et des sciences",
+   "Place Brookfield",
+   "Zurich-Stadelhofen",
+   "auditorium de Ténérife",
+   "Turning Torso",
+   "complexe olympique d'Athènes",
+   "église grecque orthodoxe Saint-Nicolas",
+   "World Trade Center"
+  ],
+  "P101": [
+   "architecture"
+  ],
+  "P136": [
+   "Architecture bionique"
+  ]
+ },
+ "architectes_bjarke-ingels": {
+  "qid": "Q429817",
+  "P569": [
+   "1974"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P800": [
+   "Oceanix city"
+  ],
+  "P101": [
+   "architecture",
+   "design"
+  ]
+ },
+ "architectes_sinan": {
+  "qid": "Q5600",
+  "P569": [
+   "1490"
+  ],
+  "P570": [
+   "1588"
+  ],
+  "P27": [
+   "Empire ottoman"
+  ],
+  "P800": [
+   "mosquée de Fehrat-pacha",
+   "mosquée Bania Bachi",
+   "mosquée Şehzade Mehmet",
+   "mosquée Süleymaniye",
+   "mosquée Selimiye",
+   "pont Mehmed Pacha Sokolović",
+   "Stari Most"
+  ]
+ },
+ "architectes_imhotep": {
+  "qid": "Q131171",
+  "P569": [
+   "-2800"
+  ],
+  "P570": [
+   "-2700"
+  ],
+  "P27": [
+   "Égypte antique"
+  ]
+ },
+ "architectes_louis-le-vau": {
+  "qid": "Q310530",
+  "P569": [
+   "1613",
+   "1612"
+  ],
+  "P570": [
+   "1670"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "architecture baroque française"
+  ],
+  "P800": [
+   "château de Meudon",
+   "château de Versailles",
+   "château du Raincy",
+   "château de Vaux-le-Vicomte",
+   "palais de l'Institut de France"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_le-bernin": {
+  "qid": "Q160538",
+  "P569": [
+   "1598"
+  ],
+  "P570": [
+   "1680"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "palais Barberini",
+   "place Saint-Pierre",
+   "L'Extase de sainte Thérèse",
+   "Buste de Costanza Bonarelli",
+   "église Saint-André du Quirinal",
+   "fontaine des Quatre-Fleuves",
+   "Louis XIVme de France",
+   "Neptune and Dolphin",
+   "La Vérité",
+   "Bust of Pope Gregory XV",
+   "Méduse"
+  ],
+  "P136": [
+   "art chrétien",
+   "paysage",
+   "nu",
+   "portrait",
+   "caricature"
+  ]
+ },
+ "architectes_vitruve": {
+  "qid": "Q47163",
+  "P569": [
+   "-80"
+  ],
+  "P570": [
+   "-15"
+  ],
+  "P27": [
+   "Rome antique"
+  ],
+  "P800": [
+   "De architectura"
+  ]
+ },
+ "architectes_bramante": {
+  "qid": "Q7793",
+  "P569": [
+   "1444"
+  ],
+  "P570": [
+   "1514",
+   "1514"
+  ],
+  "P135": [
+   "Haute Renaissance"
+  ],
+  "P800": [
+   "basilique Santa Maria Nuova d'Abbiategrasso",
+   "église Santa Maria presso San Satiro",
+   "Christ à la colonne",
+   "1505 Bramante staircase"
+  ],
+  "P101": [
+   "architecture",
+   "peinture"
+  ]
+ },
+ "architectes_francesco-borromini": {
+  "qid": "Q123150",
+  "P569": [
+   "1599",
+   "1599",
+   "1599"
+  ],
+  "P570": [
+   "1667",
+   "1667",
+   "1667",
+   "1667"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P135": [
+   "baroque"
+  ],
+  "P800": [
+   "église Saint-Charles-des-Quatre-Fontaines"
+  ],
+  "P101": [
+   "architecture baroque"
+  ]
+ },
+ "architectes_jules-hardouin-mansart": {
+  "qid": "Q8053",
+  "P569": [
+   "1646"
+  ],
+  "P570": [
+   "1708"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "grand Commun",
+   "Grand Trianon",
+   "château de Chazeron",
+   "château de Versailles",
+   "château de Marly",
+   "Place Vendôme",
+   "hôtel des Invalides",
+   "château de Dampierre"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_andre-le-notre": {
+  "qid": "Q273849",
+  "P569": [
+   "1613"
+  ],
+  "P570": [
+   "1700"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "jardin de Versailles"
+  ],
+  "P101": [
+   "architecture du paysage",
+   "parc d'un château"
+  ]
+ },
+ "architectes_sebastien-le-prestre-de-vauban": {
+  "qid": "Q192839",
+  "P569": [
+   "1633"
+  ],
+  "P570": [
+   "1707"
+  ],
+  "P27": [
+   "royaume de France"
+  ],
+  "P800": [
+   "citadelle d'Arras",
+   "citadelle de Bitche",
+   "fort Libéria",
+   "forteresse de Mont-Royal"
+  ],
+  "P101": [
+   "architecture",
+   "génie civil",
+   "domaine militaire",
+   "art de la guerre",
+   "forteresse",
+   "offensive militaire",
+   "siège militaire",
+   "fortification",
+   "defence of territory"
+  ]
+ },
+ "architectes_claude-nicolas-ledoux": {
+  "qid": "Q552700",
+  "P569": [
+   "1736",
+   "1736"
+  ],
+  "P570": [
+   "1806",
+   "1806"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "château de Bénouville",
+   "église Saint-Pierre de Mauperthuis",
+   "L'architecture considérée sous le rapport de l'art, des moeurs et de la législation"
+  ]
+ },
+ "architectes_georges-eugene-haussmann": {
+  "qid": "Q191798",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "Transformations de Paris sous le Second Empire"
+  ]
+ },
+ "architectes_charles-garnier-architecte": {
+  "qid": "Q313556",
+  "P569": [
+   "1825",
+   "1825"
+  ],
+  "P570": [
+   "1898",
+   "1898"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "palais Garnier",
+   "observatoire de Nice"
+  ]
+ },
+ "architectes_victor-horta": {
+  "qid": "Q49744",
+  "P569": [
+   "1861"
+  ],
+  "P570": [
+   "1947"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P135": [
+   "Art nouveau",
+   "Art déco"
+  ],
+  "P800": [
+   "Hôtel Tassel",
+   "Hôtel Solvay",
+   "Hôtel van Eetvelde",
+   "maison et atelier Horta",
+   "Palais des Beaux-Arts",
+   "Maison du Peuple"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_louis-sullivan": {
+  "qid": "Q243240",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1924"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "École de Chicago"
+  ],
+  "P800": [
+   "cathédrale de la Sainte-Trinité"
+  ]
+ },
+ "architectes_charles-rennie-mackintosh": {
+  "qid": "Q220703",
+  "P569": [
+   "1868"
+  ],
+  "P570": [
+   "1928"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "Arts & Crafts"
+  ],
+  "P800": [
+   "Willow Tearooms",
+   "Glasgow School of Art",
+   "Queen's Cross Church",
+   "Scotland Street School Museum",
+   "Hill House"
+  ],
+  "P101": [
+   "architecture",
+   "design"
+  ]
+ },
+ "architectes_adolf-loos": {
+  "qid": "Q44323",
+  "P569": [
+   "1870",
+   "1870"
+  ],
+  "P570": [
+   "1933",
+   "1933",
+   "1933"
+  ],
+  "P27": [
+   "Autriche",
+   "Tchécoslovaquie",
+   "Cisleithanie"
+  ],
+  "P135": [
+   "mouvement moderne"
+  ],
+  "P800": [
+   "Looshaus",
+   "villa Müller"
+  ],
+  "P101": [
+   "architecture",
+   "mouvement moderne"
+  ]
+ },
+ "architectes_j-rn-utzon": {
+  "qid": "Q180398",
+  "P569": [
+   "1918",
+   "1918"
+  ],
+  "P570": [
+   "2008",
+   "2008"
+  ],
+  "P27": [
+   "Royaume de Danemark"
+  ],
+  "P800": [
+   "opéra de Sydney",
+   "Paustians Hus",
+   "de l'Assemblée nationale"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_richard-rogers": {
+  "qid": "Q237412",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P135": [
+   "mouvement moderne"
+  ],
+  "P800": [
+   "stade Kleánthis-Vikelídis",
+   "Dôme du millénaire",
+   "tour de la Nippon Télévision",
+   "Centre national d'art et de culture Georges-Pompidou",
+   "Lloyd’s Building",
+   "palais des droits de l'homme",
+   "Senedd (bâtiment)"
+  ],
+  "P101": [
+   "architecture",
+   "fonctionnalisme",
+   "modernisme"
+  ]
+ },
+ "architectes_herzog-de-meuron": {
+  "qid": "Q308776",
+  "P800": [
+   "Allianz Arena",
+   "Elbphilharmonie"
+  ],
+  "P101": [
+   "architecture"
+  ],
+  "P571": [
+   "1978"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "architectes_daniel-libeskind": {
+  "qid": "Q154538",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis",
+   "Pologne",
+   "Allemagne"
+  ],
+  "P135": [
+   "architecture postmoderne"
+  ],
+  "P800": [
+   "maison Felix-Nussbaum",
+   "Danish Jewish Museum",
+   "CityLife"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_peter-zumthor": {
+  "qid": "Q123179",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Suisse"
+  ],
+  "P800": [
+   "Feldkapelle"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_richard-buckminster-fuller": {
+  "qid": "Q102289",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1983"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "architecture high-tech"
+  ],
+  "P800": [
+   "Biosphère",
+   "Neuf chaînes vers la Lune",
+   "Manuel Opérationnel du Vaisseau Terre",
+   "Chemin Critique",
+   "Maison Dymaxion",
+   "Science World",
+   "R. Buckminster Fuller and Anne Hewlett Dome Home",
+   "Spoletosfera",
+   "Projection de Fuller",
+   "Dymaxion"
+  ],
+  "P101": [
+   "architecte",
+   "design",
+   "ingénieur ou ingénieure"
+  ]
+ },
+ "architectes_eero-saarinen": {
+  "qid": "Q167073",
+  "P569": [
+   "1910",
+   "1910"
+  ],
+  "P570": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis",
+   "Finlande",
+   "grand-duché de Finlande"
+  ],
+  "P135": [
+   "modernisme"
+  ],
+  "P800": [
+   "Patinoire David S. Ingalls",
+   "CBS Building",
+   "Gateway Arch"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_luis-barragan": {
+  "qid": "Q243295",
+  "P569": [
+   "1902"
+  ],
+  "P570": [
+   "1988",
+   "1988"
+  ],
+  "P27": [
+   "Mexique",
+   "États-Unis"
+  ],
+  "P800": [
+   "maison-atelier de Luis Barragán"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_lina-bo-bardi": {
+  "qid": "Q272400",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1992",
+   "1992"
+  ],
+  "P27": [
+   "Brésil",
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P800": [
+   "musée d'art de São Paulo",
+   "SESC Pompéia",
+   "maison de verre (São Paulo)"
+  ],
+  "P101": [
+   "architecture",
+   "design"
+  ]
+ },
+ "architectes_diebedo-francis-kere": {
+  "qid": "Q99416",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "Burkina Faso"
+  ],
+  "P101": [
+   "architecture",
+   "architecture écologique"
+  ]
+ },
+ "architectes_kengo-kuma": {
+  "qid": "Q725462",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P101": [
+   "architecture"
+  ]
+ },
+ "architectes_shigeru-ban": {
+  "qid": "Q526725",
+  "P569": [
+   "1957"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "centre Pompidou-Metz",
+   "Nomadic Museum",
+   "cathédrale de carton"
+  ]
+ },
+ "architectes_charlotte-perriand": {
+  "qid": "Q446451",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "architectes_jean-prouve": {
+  "qid": "Q381924",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "design",
+   "architecture"
+  ]
+ }
+}

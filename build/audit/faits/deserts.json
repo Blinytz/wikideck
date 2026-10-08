@@ -1,0 +1,370 @@
+{
+ "deserts_sahara": {
+  "qid": "Q6583",
+  "P131": [
+   "Algérie",
+   "Tchad",
+   "Égypte",
+   "Maroc",
+   "Libye",
+   "Mali",
+   "Soudan",
+   "Tunisie",
+   "Mauritanie"
+  ],
+  "P17": [
+   "Algérie",
+   "Tchad",
+   "Égypte",
+   "Maroc",
+   "Tunisie",
+   "Mauritanie",
+   "Niger",
+   "Mali",
+   "Soudan",
+   "France"
+  ]
+ },
+ "deserts_desert-de-gobi": {
+  "qid": "Q42070",
+  "P17": [
+   "république populaire de Chine",
+   "Mongolie"
+  ]
+ },
+ "deserts_desert-d-atacama": {
+  "qid": "Q47141",
+  "P17": [
+   "Chili"
+  ]
+ },
+ "deserts_desert-du-kalahari": {
+  "qid": "Q47700",
+  "P17": [
+   "Botswana",
+   "Namibie",
+   "Angola",
+   "Afrique du Sud"
+  ]
+ },
+ "deserts_desert-du-namib": {
+  "qid": "Q131377",
+  "P17": [
+   "Namibie"
+  ]
+ },
+ "deserts_rub-al-khali": {
+  "qid": "Q229269",
+  "P17": [
+   "Émirats arabes unis",
+   "Arabie saoudite",
+   "Yémen",
+   "Oman"
+  ]
+ },
+ "deserts_desert-de-syrie": {
+  "qid": "Q339162",
+  "P17": [
+   "Syrie",
+   "Jordanie",
+   "Irak",
+   "Arabie saoudite"
+  ]
+ },
+ "deserts_neguev": {
+  "qid": "Q162843",
+  "P131": [
+   "Israël"
+  ],
+  "P17": [
+   "Israël"
+  ]
+ },
+ "deserts_desert-du-thar": {
+  "qid": "Q172691",
+  "P131": [
+   "Rajasthan",
+   "Haryana",
+   "Pendjab",
+   "Gujarat",
+   "Sind",
+   "Pendjab"
+  ],
+  "P17": [
+   "Inde",
+   "Pakistan"
+  ]
+ },
+ "deserts_desert-du-taklamakan": {
+  "qid": "Q132956",
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P527": [
+   "Dunhuang",
+   "Loulan",
+   "Tourfan",
+   "Hotan"
+  ]
+ },
+ "deserts_desert-des-mojaves": {
+  "qid": "Q184355",
+  "P131": [
+   "Californie",
+   "Utah",
+   "Arizona",
+   "Nevada"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "deserts_vallee-de-la-mort": {
+  "qid": "Q118388",
+  "P131": [
+   "comté d'Inyo",
+   "comté de San Bernardino"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "deserts_desert-de-sonora": {
+  "qid": "Q189429",
+  "P131": [
+   "Arizona",
+   "Californie",
+   "Basse-Californie du Sud",
+   "Basse-Californie",
+   "Sonora"
+  ],
+  "P17": [
+   "États-Unis",
+   "Mexique"
+  ]
+ },
+ "deserts_desert-de-chihuahua": {
+  "qid": "Q855658",
+  "P131": [
+   "Chihuahua",
+   "Coahuila",
+   "Nuevo León",
+   "Durango",
+   "Zacatecas",
+   "San Luis Potosí",
+   "Texas",
+   "Nouveau-Mexique",
+   "Arizona"
+  ],
+  "P17": [
+   "États-Unis",
+   "Mexique"
+  ]
+ },
+ "deserts_grand-desert-de-victoria": {
+  "qid": "Q145165",
+  "P131": [
+   "Australie-Occidentale",
+   "Australie-Méridionale"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "deserts_desert-de-simpson": {
+  "qid": "Q211839",
+  "P131": [
+   "Territoire du Nord",
+   "Queensland",
+   "Australie-Méridionale"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "deserts_desert-du-karakoum": {
+  "qid": "Q172702",
+  "P131": [
+   "Ahal",
+   "Turkménistan"
+  ],
+  "P17": [
+   "Turkménistan",
+   "Empire russe",
+   "Union soviétique"
+  ]
+ },
+ "deserts_desert-du-kyzylkoum": {
+  "qid": "Q184364",
+  "P17": [
+   "Turkménistan",
+   "Kazakhstan",
+   "Ouzbékistan"
+  ]
+ },
+ "deserts_dacht-e-lout": {
+  "qid": "Q767128",
+  "P131": [
+   "Kerman",
+   "Sistan-et-Baloutchistan",
+   "Khorassan du Sud"
+  ],
+  "P17": [
+   "Iran"
+  ]
+ },
+ "deserts_dacht-e-kavir": {
+  "qid": "Q272514",
+  "P131": [
+   "Semnan",
+   "Ispahan",
+   "Yazd",
+   "Khorassan du Sud",
+   "Khorassan Razavi",
+   "Téhéran"
+  ],
+  "P17": [
+   "Iran"
+  ]
+ },
+ "deserts_desert-libyque": {
+  "qid": "Q181528",
+  "P131": [
+   "Al-Koufrah",
+   "Al Boutnan"
+  ],
+  "P17": [
+   "Libye",
+   "Égypte",
+   "Soudan"
+  ],
+  "P527": [
+   "Koufra",
+   "Al-Bahariya",
+   "Al-Farafra",
+   "Siwa",
+   "Désert occidental"
+  ]
+ },
+ "deserts_tenere": {
+  "qid": "Q272521",
+  "P17": [
+   "Niger"
+  ],
+  "P527": [
+   "dune"
+  ]
+ },
+ "deserts_depression-de-l-afar": {
+  "qid": "Q217223",
+  "P131": [
+   "Semien-Keih-Bahri",
+   "Debub-Keih-Bahri",
+   "Afar"
+  ],
+  "P17": [
+   "Éthiopie",
+   "Djibouti",
+   "Érythrée",
+   "Somalie"
+  ],
+  "P527": [
+   "dépression de Danakil"
+  ]
+ },
+ "deserts_wadi-rum": {
+  "qid": "Q40729",
+  "P131": [
+   "Aqaba"
+  ],
+  "P17": [
+   "Jordanie"
+  ]
+ },
+ "deserts_desert-de-tabernas": {
+  "qid": "Q939811",
+  "P131": [
+   "province d'Almería",
+   "Tabernas"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "deserts_bardenas-reales": {
+  "qid": "Q521527",
+  "P571": [
+   "1999"
+  ],
+  "P131": [
+   "Navarre"
+  ],
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "deserts_steppe-patagonienne": {
+  "qid": "Q1061324",
+  "P131": [
+   "Veinticinco de Mayo"
+  ],
+  "P17": [
+   "Argentine"
+  ]
+ },
+ "deserts_desert-blanc": {
+  "qid": "Q2556953",
+  "P571": [
+   "2002"
+  ],
+  "P131": [
+   "la Nouvelle-Vallée"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "deserts_grand-erg-oriental": {
+  "qid": "Q307143",
+  "P17": [
+   "Algérie",
+   "Tunisie",
+   "Libye"
+  ]
+ },
+ "deserts_desert-d-arabie": {
+  "qid": "Q208299",
+  "P17": [
+   "Arabie saoudite",
+   "Oman",
+   "Yémen",
+   "Irak",
+   "Jordanie",
+   "Émirats arabes unis"
+  ]
+ },
+ "deserts_grand-desert-de-sable": {
+  "qid": "Q326896",
+  "P131": [
+   "Australie-Occidentale",
+   "Territoire du Nord"
+  ],
+  "P17": [
+   "Australie"
+  ]
+ },
+ "deserts_grand-bassin-des-etats-unis": {
+  "qid": "Q966943",
+  "P131": [
+   "Californie",
+   "Idaho",
+   "Nevada",
+   "Oregon",
+   "Utah",
+   "Wyoming"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ }
+}

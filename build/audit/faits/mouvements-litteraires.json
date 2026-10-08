@@ -1,0 +1,176 @@
+{
+ "mouvements-litteraires_humanisme": {
+  "qid": "Q46158"
+ },
+ "mouvements-litteraires_pleiade-xvie-siecle": {
+  "qid": "Q528648",
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Joachim du Bellay",
+   "Jacques Peletier du Mans",
+   "Rémy Belleau",
+   "Jean-Antoine de Baïf",
+   "Pontus de Tyard",
+   "Étienne Jodelle",
+   "Pierre de Ronsard",
+   "Jean Dorat",
+   "Guillaume Des Autels",
+   "Nicolas Denisot"
+  ]
+ },
+ "mouvements-litteraires_litterature-baroque": {
+  "qid": "Q1431376"
+ },
+ "mouvements-litteraires_preciosite": {
+  "qid": "Q1140487",
+  "P495": [
+   "royaume de France"
+  ],
+  "P17": [
+   "royaume de France"
+  ]
+ },
+ "mouvements-litteraires_classicisme": {
+  "qid": "Q170292"
+ },
+ "mouvements-litteraires_lumieres-philosophie": {
+  "qid": "Q10710179"
+ },
+ "mouvements-litteraires_romantisme": {
+  "qid": "Q37068",
+  "P527": [
+   "musique romantique",
+   "littérature romantique",
+   "peinture romantique",
+   "philosophie romantique",
+   "drame romantique",
+   "romantisme français"
+  ]
+ },
+ "mouvements-litteraires_realisme-litterature": {
+  "qid": "Q667661"
+ },
+ "mouvements-litteraires_naturalisme-litterature": {
+  "qid": "Q55996"
+ },
+ "mouvements-litteraires_parnasse-poesie": {
+  "qid": "Q335652",
+  "P17": [
+   "France"
+  ]
+ },
+ "mouvements-litteraires_symbolisme-art": {
+  "qid": "Q164800",
+  "P571": [
+   "1857"
+  ],
+  "P17": [
+   "France",
+   "Belgique",
+   "Empire russe",
+   "Deuxième République de Pologne"
+  ],
+  "P527": [
+   "symbolisme"
+  ]
+ },
+ "mouvements-litteraires_decadentisme": {
+  "qid": "Q846094"
+ },
+ "mouvements-litteraires_surrealisme": {
+  "qid": "Q39427",
+  "P571": [
+   "1920"
+  ]
+ },
+ "mouvements-litteraires_dada": {
+  "qid": "Q6034",
+  "P571": [
+   "1910"
+  ]
+ },
+ "mouvements-litteraires_existentialisme": {
+  "qid": "Q38066",
+  "P527": [
+   "existentialisme",
+   "existentialisme"
+  ]
+ },
+ "mouvements-litteraires_theatre-de-l-absurde": {
+  "qid": "Q191760"
+ },
+ "mouvements-litteraires_nouveau-roman": {
+  "qid": "Q570341",
+  "P571": [
+   "1956"
+  ],
+  "P495": [
+   "France"
+  ]
+ },
+ "mouvements-litteraires_oulipo": {
+  "qid": "Q744609",
+  "P571": [
+   "1960"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "littérature"
+  ]
+ },
+ "mouvements-litteraires_negritude": {
+  "qid": "Q852544"
+ },
+ "mouvements-litteraires_beat-generation": {
+  "qid": "Q213457",
+  "P800": [
+   "Beat generation literature",
+   "Howl"
+  ],
+  "P527": [
+   "Joyce Johnson"
+  ]
+ },
+ "mouvements-litteraires_generation-perdue": {
+  "qid": "Q234105"
+ },
+ "mouvements-litteraires_realisme-magique": {
+  "qid": "Q147516"
+ },
+ "mouvements-litteraires_futurisme": {
+  "qid": "Q131221",
+  "P571": [
+   "1909"
+  ],
+  "P17": [
+   "Italie",
+   "Russie",
+   "Pologne"
+  ]
+ },
+ "mouvements-litteraires_sturm-und-drang": {
+  "qid": "Q207741"
+ },
+ "mouvements-litteraires_preromantisme": {
+  "qid": "Q2614483"
+ },
+ "mouvements-litteraires_les-hussards-mouvement-litteraire": {
+  "qid": "Q57722"
+ },
+ "mouvements-litteraires_litterature-courtoise": {
+  "qid": "Q3256771"
+ },
+ "mouvements-litteraires_libertin": {
+  "qid": "Q744443"
+ },
+ "mouvements-litteraires_renaissance-de-harlem": {
+  "qid": "Q829895"
+ },
+ "mouvements-litteraires_litterature-postmoderne": {
+  "qid": "Q113013"
+ }
+}

@@ -1,0 +1,1441 @@
+{
+ "age-dor-du-jeu-video_pong": {
+  "qid": "Q216293",
+  "P170": [
+   "Allan Alcorn"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1972"
+  ],
+  "P136": [
+   "jeu vidéo de sport"
+  ]
+ },
+ "age-dor-du-jeu-video_space-invaders": {
+  "qid": "Q220665",
+  "P170": [
+   "Tomohiro Nishikado"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1978",
+   "1990",
+   "1985"
+  ],
+  "P136": [
+   "shoot 'em up"
+  ]
+ },
+ "age-dor-du-jeu-video_pac-man": {
+  "qid": "Q173626",
+  "P170": [
+   "Tōru Iwatani"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1980",
+   "1980",
+   "1993",
+   "1988",
+   "1984"
+  ],
+  "P136": [
+   "jeu de labyrinthe"
+  ]
+ },
+ "age-dor-du-jeu-video_asteroids": {
+  "qid": "Q748890",
+  "P170": [
+   "Lyle Rains"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1979"
+  ],
+  "P136": [
+   "jeu de tir",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_galaga": {
+  "qid": "Q1043534",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1981",
+   "1988",
+   "1988",
+   "1985"
+  ],
+  "P136": [
+   "shoot 'em up"
+  ]
+ },
+ "age-dor-du-jeu-video_donkey-kong-jeu-video-1981": {
+  "qid": "Q12384",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1981",
+   "1986",
+   "1986",
+   "1983"
+  ],
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "age-dor-du-jeu-video_frogger": {
+  "qid": "Q524267",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1981"
+  ],
+  "P136": [
+   "jeu d'action"
+  ]
+ },
+ "age-dor-du-jeu-video_missile-command": {
+  "qid": "Q1192794",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1980"
+  ],
+  "P136": [
+   "shoot 'em up"
+  ]
+ },
+ "age-dor-du-jeu-video_defender-jeu-video-1981": {
+  "qid": "Q1182593",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1981",
+   "1981",
+   "1982",
+   "1983",
+   "1981",
+   "1981",
+   "1982",
+   "1982",
+   "2000",
+   "1983",
+   "1983",
+   "1982",
+   "1983",
+   "1983",
+   "1983",
+   "1983",
+   "2006",
+   "1994"
+  ],
+  "P136": [
+   "shoot 'em up"
+  ]
+ },
+ "age-dor-du-jeu-video_tetris": {
+  "qid": "Q71910",
+  "P170": [
+   "Alekseï Pajitnov"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Union soviétique"
+  ],
+  "P577": [
+   "1984"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion"
+  ]
+ },
+ "age-dor-du-jeu-video_q-bert": {
+  "qid": "Q1565343",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1982",
+   "1989"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion",
+   "jeu de plates-formes",
+   "jeu d'action puzzle"
+  ]
+ },
+ "age-dor-du-jeu-video_super-mario-bros": {
+  "qid": "Q11168",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1985",
+   "1985",
+   "1986",
+   "1986",
+   "1987",
+   "1987",
+   "1999",
+   "1999",
+   "2000",
+   "2004",
+   "2004",
+   "2004",
+   "2006",
+   "2006",
+   "2007",
+   "2011",
+   "2011",
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2013",
+   "2013",
+   "2013",
+   "2018",
+   "1985"
+  ],
+  "P136": [
+   "jeu de plates-formes 2D"
+  ]
+ },
+ "age-dor-du-jeu-video_the-legend-of-zelda": {
+  "qid": "Q12393",
+  "P170": [
+   "Shigeru Miyamoto",
+   "Takashi Tezuka"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1986"
+  ],
+  "P136": [
+   "jeu vidéo de fantasy",
+   "action-RPG",
+   "jeu d'action-aventure",
+   "JRPG"
+  ],
+  "P527": [
+   "Zelda: The Wand of Gamelon"
+  ]
+ },
+ "age-dor-du-jeu-video_metroid": {
+  "qid": "Q12397",
+  "P577": [
+   "1986"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu vidéo de science-fiction"
+  ],
+  "P527": [
+   "Metroid",
+   "Metroid II: Return of Samus",
+   "Super Metroid",
+   "Metroid Prime",
+   "Metroid Prime 2: Echoes",
+   "Metroid Prime 3: Corruption",
+   "Metroid Fusion",
+   "Metroid: Other M",
+   "Metroid: Zero Mission",
+   "Metroid Prime Pinball",
+   "Metroid Prime Hunters",
+   "Metroid Prime: Trilogy",
+   "Metroid Prime: Federation Force",
+   "Metroid: Samus Returns",
+   "Metroid Dread",
+   "Metroid Prime 4: Beyond",
+   "Metroid Prime Remastered",
+   "Metroid 64",
+   "Q141391458"
+  ]
+ },
+ "age-dor-du-jeu-video_punch-out": {
+  "qid": "Q3925581",
+  "P136": [
+   "jeu vidéo de boxe"
+  ],
+  "P527": [
+   "Punch-Out!!",
+   "Super Punch-Out!!",
+   "Mike Tyson's Punch-Out!!",
+   "Super Punch-Out!!",
+   "Punch-Out!!"
+  ]
+ },
+ "age-dor-du-jeu-video_excitebike": {
+  "qid": "Q146124",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1984",
+   "1984",
+   "1985",
+   "1986",
+   "1986",
+   "2004",
+   "2007",
+   "2013",
+   "2018",
+   "2018",
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "jeu vidéo de course"
+  ]
+ },
+ "age-dor-du-jeu-video_duck-hunt": {
+  "qid": "Q764069",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1984",
+   "1987",
+   "1985"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu de tir au pistolet optique",
+   "jeu vidéo de chasse"
+  ]
+ },
+ "age-dor-du-jeu-video_sonic-the-hedgehog": {
+  "qid": "Q1046812",
+  "P571": [
+   "1991"
+  ],
+  "P495": [
+   "Japon"
+  ]
+ },
+ "age-dor-du-jeu-video_street-fighter-ii-the-world-warrior": {
+  "qid": "Q1133204",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1991",
+   "2006",
+   "2006",
+   "2007",
+   "1992",
+   "1992",
+   "1992"
+  ],
+  "P136": [
+   "jeu vidéo de combat en 2D"
+  ]
+ },
+ "age-dor-du-jeu-video_mortal-kombat": {
+  "qid": "Q241163",
+  "P136": [
+   "jeu vidéo de combat"
+  ]
+ },
+ "age-dor-du-jeu-video_super-mario-world": {
+  "qid": "Q853143",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1990",
+   "1991",
+   "1992",
+   "1992",
+   "2006",
+   "2007",
+   "2007",
+   "2008",
+   "2013",
+   "2013",
+   "2016",
+   "2016",
+   "2019",
+   "2019",
+   "1993",
+   "1992"
+  ],
+  "P136": [
+   "jeu de plates-formes 2D"
+  ]
+ },
+ "age-dor-du-jeu-video_donkey-kong-country": {
+  "qid": "Q16201230",
+  "P136": [
+   "jeu de plates-formes"
+  ],
+  "P527": [
+   "Donkey Kong Country",
+   "Donkey Kong Country 2: Diddy's Kong Quest",
+   "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+   "Donkey Kong Country Returns",
+   "Donkey Kong Country: Tropical Freeze"
+  ]
+ },
+ "age-dor-du-jeu-video_the-legend-of-zelda-a-link-to-the-past": {
+  "qid": "Q370055",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1991",
+   "1992",
+   "1992",
+   "2006",
+   "2007",
+   "2007",
+   "2008",
+   "2014",
+   "2016",
+   "2016",
+   "2019",
+   "1992"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "action-RPG"
+  ],
+  "P527": [
+   "mini-jeu",
+   "Donjon",
+   "carte du monde"
+  ]
+ },
+ "age-dor-du-jeu-video_chrono-trigger": {
+  "qid": "Q761815",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1995",
+   "1995",
+   "1999",
+   "2001",
+   "2008",
+   "2008",
+   "2009",
+   "2009",
+   "2011",
+   "2011",
+   "2012",
+   "2018",
+   "2011",
+   "2011",
+   "2011",
+   "1995"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "JRPG au tour par tour",
+   "time travel video game",
+   "jeu vidéo avec des personnages LGBT"
+  ]
+ },
+ "age-dor-du-jeu-video_final-fantasy-vi": {
+  "qid": "Q535940",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "JRPG au tour par tour",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "age-dor-du-jeu-video_prince-of-persia": {
+  "qid": "Q157387",
+  "P170": [
+   "Jordan Mechner"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de plates-formes"
+  ]
+ },
+ "age-dor-du-jeu-video_maniac-mansion": {
+  "qid": "Q240143",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1987",
+   "1992",
+   "1990",
+   "1988"
+  ],
+  "P136": [
+   "jeu d'aventure point'n click",
+   "jeu d'aventure"
+  ]
+ },
+ "age-dor-du-jeu-video_simcity": {
+  "qid": "Q249854",
+  "P136": [
+   "jeu de gestion",
+   "city-builder",
+   "stratégie"
+  ]
+ },
+ "age-dor-du-jeu-video_myst": {
+  "qid": "Q474301",
+  "P170": [
+   "Rand Miller",
+   "Robyn Miller"
+  ],
+  "P136": [
+   "jeu d'aventure"
+  ],
+  "P527": [
+   "Myst",
+   "Riven",
+   "Myst III: Exile",
+   "Myst IV: Revelation",
+   "Uru: Ages Beyond Myst",
+   "Myst V: End of Ages",
+   "Myst Online: Uru Live"
+  ]
+ },
+ "age-dor-du-jeu-video_doom-jeu-video-1993": {
+  "qid": "Q189784",
+  "P571": [
+   "1993"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1993",
+   "1993",
+   "1994",
+   "1994",
+   "1994",
+   "1994",
+   "1994",
+   "1995",
+   "1995",
+   "1995",
+   "1995",
+   "1996",
+   "1996",
+   "1996",
+   "1996",
+   "1996",
+   "1997",
+   "1997",
+   "1997",
+   "2001",
+   "2001",
+   "2006",
+   "2006",
+   "2012",
+   "1995",
+   "1996"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction",
+   "jeu vidéo d’horreur",
+   "jeu vidéo d'arcade"
+  ]
+ },
+ "age-dor-du-jeu-video_wolfenstein-3d": {
+  "qid": "Q18940",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1992",
+   "1995",
+   "1995",
+   "1994",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "age-dor-du-jeu-video_civilization-jeu-video": {
+  "qid": "Q368286",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1991",
+   "1994"
+  ],
+  "P136": [
+   "jeu 4X",
+   "jeu de stratégie au tour par tour",
+   "jeu de grande stratégie",
+   "jeu de guerre sur ordinateur"
+  ]
+ },
+ "age-dor-du-jeu-video_warcraft-ii-tides-of-darkness": {
+  "qid": "Q741716",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1995",
+   "1996"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "jeu vidéo de fantasy"
+  ]
+ },
+ "age-dor-du-jeu-video_command-and-conquer": {
+  "qid": "Q168562",
+  "P136": [
+   "stratégie en temps réel",
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_final-fantasy-vii": {
+  "qid": "Q214232",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1997",
+   "1997",
+   "1997",
+   "1998",
+   "2013",
+   "2015",
+   "2015",
+   "2016",
+   "2019"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "jeu vidéo cyberpunk"
+  ]
+ },
+ "age-dor-du-jeu-video_super-mario-64": {
+  "qid": "Q216995",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1996",
+   "1996",
+   "1997"
+  ],
+  "P136": [
+   "jeu de plateforme en 3D",
+   "collect-a-thon platformer"
+  ]
+ },
+ "age-dor-du-jeu-video_the-legend-of-zelda-ocarina-of-time": {
+  "qid": "Q213911",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1998",
+   "1998",
+   "1998",
+   "1998",
+   "2002",
+   "2003",
+   "2003",
+   "2003",
+   "2007",
+   "2007",
+   "2007",
+   "1998"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "age-dor-du-jeu-video_goldeneye-007": {
+  "qid": "Q369086",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1997",
+   "1997",
+   "1997"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "age-dor-du-jeu-video_resident-evil": {
+  "qid": "Q220260",
+  "P170": [
+   "Shinji Mikami",
+   "Tokurō Fujiwara"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P17": [
+   "Japon"
+  ],
+  "P136": [
+   "survival horror",
+   "jeu de tir à la troisième personne",
+   "jeu de tir en vue subjective",
+   "biopunk"
+  ],
+  "P527": [
+   "Resident Evil",
+   "Q109303478"
+  ]
+ },
+ "age-dor-du-jeu-video_metal-gear-solid": {
+  "qid": "Q6582527",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1998"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu d'infiltration"
+  ]
+ },
+ "age-dor-du-jeu-video_half-life": {
+  "qid": "Q752241",
+  "P136": [
+   "science-fiction",
+   "jeu de tir en vue subjective"
+  ],
+  "P527": [
+   "Half-Life",
+   "Half-Life 2",
+   "Half-Life: Opposing Force",
+   "Half-Life: Blue Shift",
+   "Half-Life 2: Episode One",
+   "Half-Life 2: Episode Two",
+   "Half-Life 2 : Episode Three",
+   "Half-Life: Uplink",
+   "Half-Life: Decay",
+   "Half-Life: Alyx",
+   "Half-Life 2: Lost Coast",
+   "Half-Life 2: Deathmatch",
+   "Half-Life: Source"
+  ]
+ },
+ "age-dor-du-jeu-video_starcraft": {
+  "qid": "Q290106",
+  "P136": [
+   "stratégie en temps réel"
+  ]
+ },
+ "age-dor-du-jeu-video_diablo-jeu-video": {
+  "qid": "Q220960",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1996"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de rôle",
+   "dark fantasy video game"
+  ]
+ },
+ "age-dor-du-jeu-video_pokemon-rouge-et-bleu": {
+  "qid": "Q637137",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1998"
+  ],
+  "P136": [
+   "jeu vidéo de rôle"
+  ],
+  "P527": [
+   "Pokémon Rouge",
+   "Pokémon Bleu",
+   "Pokémon Jaune",
+   "Pokémon Vert"
+  ]
+ },
+ "age-dor-du-jeu-video_tomb-raider": {
+  "qid": "Q270503",
+  "P170": [
+   "Toby Gard"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1996"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ],
+  "P527": [
+   "Tomb Raider",
+   "Tomb Raider II",
+   "Tomb Raider III",
+   "Tomb Raider : La Révélation finale",
+   "Tomb Raider : L'Ange des ténèbres",
+   "Tomb Raider: Legend",
+   "Tomb Raider",
+   "Rise of the Tomb Raider",
+   "Q137363685",
+   "Q137363681",
+   "Shadow of the Tomb Raider"
+  ]
+ },
+ "age-dor-du-jeu-video_crash-bandicoot": {
+  "qid": "Q507898",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1996"
+  ],
+  "P136": [
+   "jeu de plates-formes",
+   "jeu vidéo de course",
+   "party game"
+  ]
+ },
+ "age-dor-du-jeu-video_spyro-the-dragon": {
+  "qid": "Q927422",
+  "P571": [
+   "1998"
+  ],
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "age-dor-du-jeu-video_age-of-empires-jeu-video": {
+  "qid": "Q220767",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1997",
+   "1998"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "jeu vidéo historique"
+  ]
+ },
+ "age-dor-du-jeu-video_super-metroid": {
+  "qid": "Q1194825",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1994",
+   "1994",
+   "1994",
+   "2007",
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "metroidvania",
+   "jeu de tir",
+   "jeu d'action-aventure"
+  ]
+ },
+ "age-dor-du-jeu-video_castlevania-symphony-of-the-night": {
+  "qid": "Q2007022",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1997"
+  ],
+  "P136": [
+   "action-RPG",
+   "metroidvania",
+   "jeu vidéo de fantasy"
+  ]
+ },
+ "age-dor-du-jeu-video_mega-man-2": {
+  "qid": "Q2014882",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1988",
+   "1990",
+   "1991",
+   "1989"
+  ],
+  "P136": [
+   "jeu d'action"
+  ]
+ },
+ "age-dor-du-jeu-video_contra-serie-de-jeux-video": {
+  "qid": "Q2995706",
+  "P571": [
+   "1987"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P136": [
+   "shoot 'em up",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_mario-kart-64": {
+  "qid": "Q1046604",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1997",
+   "2007",
+   "2016",
+   "1997",
+   "1996",
+   "2007",
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "jeu de course de karting"
+  ]
+ },
+ "age-dor-du-jeu-video_super-smash-bros-jeu-video": {
+  "qid": "Q870981",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "platform fighter",
+   "cross-over"
+  ]
+ },
+ "age-dor-du-jeu-video_quake-jeu-video": {
+  "qid": "Q217423",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1996",
+   "1996",
+   "1996",
+   "2007",
+   "1997",
+   "1997",
+   "1997",
+   "1998",
+   "1998",
+   "2021",
+   "2021"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_counter-strike": {
+  "qid": "Q15717790",
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "age-dor-du-jeu-video_dragon-quest": {
+  "qid": "Q615908",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1986"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "manga et animé de fantasy",
+   "JRPG"
+  ]
+ },
+ "age-dor-du-jeu-video_gran-turismo": {
+  "qid": "Q652928",
+  "P495": [
+   "Japon"
+  ],
+  "P136": [
+   "jeu vidéo de course"
+  ],
+  "P527": [
+   "Q944320",
+   "Gran Turismo 2",
+   "Gran Turismo 3: A-Spec",
+   "Gran Turismo 4",
+   "Gran Turismo 5",
+   "Gran Turismo 6",
+   "Q18345763"
+  ]
+ },
+ "age-dor-du-jeu-video_tony-hawk-s-skateboarding": {
+  "qid": "Q2264782",
+  "P495": [
+   "Japon",
+   "États-Unis"
+  ],
+  "P577": [
+   "1999"
+  ],
+  "P136": [
+   "jeu vidéo de sport"
+  ]
+ },
+ "age-dor-du-jeu-video_age-of-empires-ii-the-age-of-kings": {
+  "qid": "Q34852",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1999",
+   "2001",
+   "2002"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "jeu vidéo historique"
+  ]
+ },
+ "age-dor-du-jeu-video_unreal-tournament": {
+  "qid": "Q627877",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1999"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo cyberpunk"
+  ]
+ },
+ "age-dor-du-jeu-video_pitfall": {
+  "qid": "Q1573878",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1982"
+  ],
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "age-dor-du-jeu-video_breakout-jeu-video-1976": {
+  "qid": "Q177491",
+  "P276": [
+   "Amérique anglo-saxonne"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1976"
+  ],
+  "P136": [
+   "jeu d'action",
+   "casse-briques"
+  ]
+ },
+ "age-dor-du-jeu-video_out-run": {
+  "qid": "Q1142287",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1986"
+  ],
+  "P136": [
+   "jeu vidéo de course"
+  ]
+ },
+ "age-dor-du-jeu-video_bubble-bobble": {
+  "qid": "Q10437156",
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "age-dor-du-jeu-video_double-dragon-jeu-video-1987": {
+  "qid": "Q698705",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1987",
+   "1990",
+   "1988",
+   "1988"
+  ],
+  "P136": [
+   "beat them all"
+  ]
+ },
+ "age-dor-du-jeu-video_lemmings": {
+  "qid": "Q18276721",
+  "P136": [
+   "jeu vidéo de réflexion"
+  ],
+  "P527": [
+   "Q864177",
+   "Christmas Lemmings",
+   "Oh No! More Lemmings",
+   "Lemmings 2: The Tribes",
+   "All New World of Lemmings",
+   "3D Lemmings",
+   "Lemmings Revolution"
+  ]
+ },
+ "age-dor-du-jeu-video_another-world-jeu-video": {
+  "qid": "Q257469",
+  "P170": [
+   "Éric Chahi"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1991",
+   "1994",
+   "1994",
+   "1994",
+   "1992"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "cinematic platformer",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_the-secret-of-monkey-island": {
+  "qid": "Q179247",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1990"
+  ],
+  "P136": [
+   "jeu d'aventure"
+  ]
+ },
+ "age-dor-du-jeu-video_alone-in-the-dark-jeu-video-1992": {
+  "qid": "Q5075219",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1994",
+   "1992",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "survival horror"
+  ]
+ },
+ "age-dor-du-jeu-video_elite-jeu-video": {
+  "qid": "Q55815",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Robert Holdstock"
+  ],
+  "P577": [
+   "1984",
+   "1988",
+   "1991"
+  ],
+  "P136": [
+   "simulateur de vol spatial",
+   "jeu de commerce et de combat spatial",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_ultima": {
+  "qid": "Q952606",
+  "P136": [
+   "jeu vidéo de rôle"
+  ]
+ },
+ "age-dor-du-jeu-video_zork": {
+  "qid": "Q226736",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1977"
+  ],
+  "P136": [
+   "fiction interactive"
+  ],
+  "P527": [
+   "Zork I: The Great Underground Empire",
+   "Zork II: The Wizard of Frobozz",
+   "Zork III: The Dungeon Master"
+  ]
+ },
+ "age-dor-du-jeu-video_dune-ii-la-bataille-d-arrakis": {
+  "qid": "Q596631",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1992"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_rayman-jeu-video": {
+  "qid": "Q13219473",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1995",
+   "1995"
+  ],
+  "P136": [
+   "jeu de plates-formes 2D"
+  ]
+ },
+ "age-dor-du-jeu-video_tekken-jeu-video": {
+  "qid": "Q1142893",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1994",
+   "1995",
+   "1994"
+  ],
+  "P136": [
+   "3D fighting game"
+  ]
+ },
+ "age-dor-du-jeu-video_worms-jeu-video": {
+  "qid": "Q278771",
+  "P495": [
+   "Royaume-Uni",
+   "Angleterre"
+  ],
+  "P577": [
+   "1995"
+  ],
+  "P136": [
+   "jeu vidéo de stratégie",
+   "jeu vidéo d'artillerie"
+  ]
+ },
+ "age-dor-du-jeu-video_secret-of-mana": {
+  "qid": "Q1800173",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1993",
+   "1993",
+   "1994",
+   "2008",
+   "2008",
+   "2008",
+   "1993"
+  ],
+  "P136": [
+   "action-RPG",
+   "Christmas video game",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "age-dor-du-jeu-video_earthbound": {
+  "qid": "Q2529000",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1994",
+   "1995",
+   "2003",
+   "2013",
+   "2013",
+   "2016",
+   "2016",
+   "2016",
+   "2022",
+   "2022",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "jeu vidéo avec des personnages LGBT"
+  ]
+ },
+ "age-dor-du-jeu-video_star-wing": {
+  "qid": "Q1326889",
+  "P495": [
+   "Japon",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993"
+  ],
+  "P136": [
+   "rail shooter"
+  ]
+ },
+ "age-dor-du-jeu-video_super-mario-kart": {
+  "qid": "Q1061560",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1992",
+   "1992",
+   "1993"
+  ],
+  "P136": [
+   "jeu de course de karting"
+  ]
+ },
+ "age-dor-du-jeu-video_banjo-kazooie": {
+  "qid": "Q2715287",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "jeu d'aventure"
+  ],
+  "P527": [
+   "Banjo-Kazooie",
+   "Banjo-Tooie",
+   "Banjo-Kazooie : La Revanche de Grunty",
+   "Banjo-Kazooie: Nuts and Bolts",
+   "Banjo-Pilot"
+  ]
+ },
+ "age-dor-du-jeu-video_silent-hill-jeu-video": {
+  "qid": "Q753164",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "horreur psychologique",
+   "survival horror"
+  ]
+ },
+ "age-dor-du-jeu-video_shenmue": {
+  "qid": "Q7238655",
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "age-dor-du-jeu-video_fallout-jeu-video": {
+  "qid": "Q60102",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1997",
+   "2015"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "jeu vidéo postapocalyptique",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "age-dor-du-jeu-video_baldur-s-gate": {
+  "qid": "Q2640148",
+  "P136": [
+   "jeu vidéo de rôle"
+  ],
+  "P527": [
+   "Baldur's Gate",
+   "Baldur's Gate: Tales of the Sword Coast",
+   "Baldur's Gate II: Shadows of Amn",
+   "Baldur's Gate II: Throne of Bhaal",
+   "Baldur's Gate: Dark Alliance",
+   "Baldur's Gate: Dark Alliance II",
+   "Baldur's Gate: Enhanced Edition",
+   "Baldur's Gate II: Enhanced Edition",
+   "Q64441774"
+  ]
+ }
+}

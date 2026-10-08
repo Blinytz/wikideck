@@ -1,0 +1,181 @@
+{
+ "fleurs_rose-fleur": {
+  "qid": "Q64140922"
+ },
+ "fleurs_tulipe": {
+  "qid": "Q93201",
+  "P527": [
+   "fleur",
+   "bulbe",
+   "stolon"
+  ]
+ },
+ "fleurs_tournesol": {
+  "qid": "Q171497"
+ },
+ "fleurs_orchidaceae": {
+  "qid": "Q25308"
+ },
+ "fleurs_lys": {
+  "qid": "Q5194627"
+ },
+ "fleurs_pivoine": {
+  "qid": "Q147105"
+ },
+ "fleurs_marguerite-commune": {
+  "qid": "Q27164"
+ },
+ "fleurs_coquelicot": {
+  "qid": "Q130201"
+ },
+ "fleurs_lavande": {
+  "qid": "Q171892"
+ },
+ "fleurs_jasmin": {
+  "qid": "Q82014"
+ },
+ "fleurs_iris-genre-vegetal": {
+  "qid": "Q156901"
+ },
+ "fleurs_muguet-de-mai": {
+  "qid": "Q101711"
+ },
+ "fleurs_viola-plante": {
+  "qid": "Q108684"
+ },
+ "fleurs_illet": {
+  "qid": "Q3237652"
+ },
+ "fleurs_chrysantheme": {
+  "qid": "Q15102622"
+ },
+ "fleurs_dahlia": {
+  "qid": "Q130918"
+ },
+ "fleurs_hydrangea": {
+  "qid": "Q155997"
+ },
+ "fleurs_camellia": {
+  "qid": "Q212815"
+ },
+ "fleurs_magnolia": {
+  "qid": "Q157017"
+ },
+ "fleurs_wisteria": {
+  "qid": "Q261903"
+ },
+ "fleurs_bougainvillea": {
+  "qid": "Q156996"
+ },
+ "fleurs_hibiscus": {
+  "qid": "Q157124"
+ },
+ "fleurs_nenuphar": {
+  "qid": "Q3347071"
+ },
+ "fleurs_nelumbo-nucifera": {
+  "qid": "Q16528"
+ },
+ "fleurs_edelweiss": {
+  "qid": "Q178265"
+ },
+ "fleurs_cyanus-segetum": {
+  "qid": "Q156921"
+ },
+ "fleurs_viola-plante-b": {
+  "qid": "Q146095"
+ },
+ "fleurs_jonquille": {
+  "qid": "Q16104352"
+ },
+ "fleurs_crocus": {
+  "qid": "Q157806"
+ },
+ "fleurs_bruyere": {
+  "qid": "Q17128757"
+ },
+ "fleurs_acacia-dealbata": {
+  "qid": "Q757123"
+ },
+ "fleurs_prunus-serrulata": {
+  "qid": "Q165321"
+ },
+ "fleurs_plumeria": {
+  "qid": "Q218123"
+ },
+ "fleurs_rafflesia": {
+  "qid": "Q158622"
+ },
+ "fleurs_arum": {
+  "qid": "Q161121"
+ },
+ "fleurs_gentiane": {
+  "qid": "Q16974943"
+ },
+ "fleurs_digitalis-purpurea": {
+  "qid": "Q157555"
+ },
+ "fleurs_renoncule": {
+  "qid": "Q146130"
+ },
+ "fleurs_pissenlit": {
+  "qid": "Q3091399"
+ },
+ "fleurs_chardon": {
+  "qid": "Q538906"
+ },
+ "fleurs_pelargonium": {
+  "qid": "Q146118"
+ },
+ "fleurs_primevere-officinale": {
+  "qid": "Q157552"
+ },
+ "fleurs_perce-neige": {
+  "qid": "Q3375090"
+ },
+ "fleurs_hyacinthus-orientalis": {
+  "qid": "Q157428"
+ },
+ "fleurs_syringa-vulgaris": {
+  "qid": "Q6565319"
+ },
+ "fleurs_myosotis": {
+  "qid": "Q147149"
+ },
+ "fleurs_glaieul": {
+  "qid": "Q156207"
+ },
+ "fleurs_clematite": {
+  "qid": "Q157634",
+  "P527": [
+   "clematis"
+  ]
+ },
+ "fleurs_fuchsia": {
+  "qid": "Q161066"
+ },
+ "fleurs_chevrefeuille-des-bois": {
+  "qid": "Q161584"
+ },
+ "fleurs_rhododendron": {
+  "qid": "Q189393"
+ },
+ "fleurs_rhododendron-b": {
+  "qid": "Q189393"
+ },
+ "fleurs_passiflore": {
+  "qid": "Q161185"
+ },
+ "fleurs_strelitzia-reginae": {
+  "qid": "Q148904"
+ },
+ "fleurs_protea-cynaroides": {
+  "qid": "Q1930962"
+ },
+ "fleurs_arum-titan": {
+  "qid": "Q431224"
+ },
+ "fleurs_dionee-attrape-mouche": {
+  "qid": "Q155825"
+ }
+}

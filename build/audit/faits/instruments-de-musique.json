@@ -1,0 +1,459 @@
+{
+ "instruments-de-musique_piano": {
+  "qid": "Q5994",
+  "P571": [
+   "1720"
+  ]
+ },
+ "instruments-de-musique_violon": {
+  "qid": "Q8355",
+  "P527": [
+   "Chevillier",
+   "touche",
+   "pegbox",
+   "Chevalet",
+   "Tendeur",
+   "cordier",
+   "chinrest",
+   "manche",
+   "f-hole",
+   "table d'harmonie",
+   "caisse de résonance"
+  ]
+ },
+ "instruments-de-musique_violoncelle": {
+  "qid": "Q8371"
+ },
+ "instruments-de-musique_contrebasse": {
+  "qid": "Q80019",
+  "P571": [
+   "1400",
+   "1800"
+  ]
+ },
+ "instruments-de-musique_alto-instrument-a-cordes": {
+  "qid": "Q80284"
+ },
+ "instruments-de-musique_harpe": {
+  "qid": "Q47369"
+ },
+ "instruments-de-musique_guitare": {
+  "qid": "Q6607",
+  "P186": [
+   "bois d'érable",
+   "acajou"
+  ],
+  "P527": [
+   "manche",
+   "corps",
+   "Sillet",
+   "headstock",
+   "Mécanique",
+   "frette",
+   "Barre de réglage",
+   "inlay",
+   "corde de guitare",
+   "ouïe",
+   "touche",
+   "Chevalet",
+   "table d'harmonie"
+  ]
+ },
+ "instruments-de-musique_guitare-electrique": {
+  "qid": "Q78987",
+  "P571": [
+   "1932"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "cellule magnétique",
+   "corde",
+   "manche",
+   "corps",
+   "Chevalet",
+   "Sillet",
+   "potentiomètre",
+   "electrical receptacle",
+   "cheville"
+  ]
+ },
+ "instruments-de-musique_luth": {
+  "qid": "Q180733"
+ },
+ "instruments-de-musique_sitar": {
+  "qid": "Q229205",
+  "P495": [
+   "Inde"
+  ]
+ },
+ "instruments-de-musique_banjo": {
+  "qid": "Q258896"
+ },
+ "instruments-de-musique_mandoline": {
+  "qid": "Q302497",
+  "P17": [
+   "Sri Lanka"
+  ]
+ },
+ "instruments-de-musique_balalaika": {
+  "qid": "Q178389",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "instruments-de-musique_oud": {
+  "qid": "Q191000",
+  "P495": [
+   "Égypte"
+  ],
+  "P17": [
+   "Irak"
+  ]
+ },
+ "instruments-de-musique_koto": {
+  "qid": "Q289037"
+ },
+ "instruments-de-musique_flute-traversiere": {
+  "qid": "Q16875637"
+ },
+ "instruments-de-musique_clarinette": {
+  "qid": "Q8343"
+ },
+ "instruments-de-musique_hautbois": {
+  "qid": "Q8377"
+ },
+ "instruments-de-musique_basson": {
+  "qid": "Q159998"
+ },
+ "instruments-de-musique_saxophone": {
+  "qid": "Q9798",
+  "P571": [
+   "1840"
+  ],
+  "P495": [
+   "Belgique"
+  ],
+  "P527": [
+   "Saxophone tone hole"
+  ]
+ },
+ "instruments-de-musique_trompette": {
+  "qid": "Q8338",
+  "P527": [
+   "sur"
+  ]
+ },
+ "instruments-de-musique_cor-d-harmonie": {
+  "qid": "Q163759",
+  "P527": [
+   "sur"
+  ]
+ },
+ "instruments-de-musique_trombone-instrument": {
+  "qid": "Q8350",
+  "P527": [
+   "slide"
+  ]
+ },
+ "instruments-de-musique_tuba-instrument": {
+  "qid": "Q131168"
+ },
+ "instruments-de-musique_cornemuse": {
+  "qid": "Q8347"
+ },
+ "instruments-de-musique_didjeridoo": {
+  "qid": "Q189388",
+  "P495": [
+   "Australie"
+  ]
+ },
+ "instruments-de-musique_orgue": {
+  "qid": "Q281460",
+  "P495": [
+   "Grèce antique"
+  ],
+  "P527": [
+   "buffet d'orgue",
+   "console",
+   "jeu d'orgue",
+   "Récit",
+   "tuyau d'orgue",
+   "pédalier",
+   "clavier d'orgue"
+  ]
+ },
+ "instruments-de-musique_clavecin": {
+  "qid": "Q81982",
+  "P571": [
+   "1500"
+  ]
+ },
+ "instruments-de-musique_accordeon": {
+  "qid": "Q79838",
+  "P571": [
+   "1829"
+  ],
+  "P495": [
+   "France"
+  ]
+ },
+ "instruments-de-musique_harmonica": {
+  "qid": "Q51290",
+  "P571": [
+   "1821"
+  ]
+ },
+ "instruments-de-musique_batterie-instrument": {
+  "qid": "Q128309",
+  "P527": [
+   "grosse caisse",
+   "cymbale",
+   "baguette de tambour",
+   "caisse claire",
+   "tom",
+   "tom basse",
+   "charleston"
+  ]
+ },
+ "instruments-de-musique_timbales-musique-classique": {
+  "qid": "Q189737"
+ },
+ "instruments-de-musique_xylophone": {
+  "qid": "Q165666"
+ },
+ "instruments-de-musique_marimba": {
+  "qid": "Q220971",
+  "P495": [
+   "Guatemala",
+   "Mexique"
+  ]
+ },
+ "instruments-de-musique_vibraphone": {
+  "qid": "Q206987"
+ },
+ "instruments-de-musique_djembe": {
+  "qid": "Q537750",
+  "P186": [
+   "rawhide",
+   "bois dur",
+   "peau",
+   "bois"
+  ]
+ },
+ "instruments-de-musique_tabla": {
+  "qid": "Q213100",
+  "P495": [
+   "Inde"
+  ]
+ },
+ "instruments-de-musique_gamelan": {
+  "qid": "Q194492",
+  "P276": [
+   "Îles Riau"
+  ],
+  "P495": [
+   "Indonésie"
+  ]
+ },
+ "instruments-de-musique_pan-instrument": {
+  "qid": "Q6610630",
+  "P495": [
+   "Trinité-et-Tobago"
+  ]
+ },
+ "instruments-de-musique_theremine": {
+  "qid": "Q207691",
+  "P527": [
+   "antenne radioélectrique"
+  ]
+ },
+ "instruments-de-musique_synthetiseur": {
+  "qid": "Q163829"
+ },
+ "instruments-de-musique_orgue-de-barbarie": {
+  "qid": "Q752638",
+  "P495": [
+   "France"
+  ]
+ },
+ "instruments-de-musique_kora": {
+  "qid": "Q585969",
+  "P527": [
+   "table d'harmonie"
+  ]
+ },
+ "instruments-de-musique_shamisen": {
+  "qid": "Q241337",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "instruments-de-musique_erhu": {
+  "qid": "Q726306",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "instruments-de-musique_bandoneon": {
+  "qid": "Q215032"
+ },
+ "instruments-de-musique_ukulele": {
+  "qid": "Q61285"
+ },
+ "instruments-de-musique_guitare-basse": {
+  "qid": "Q46185"
+ },
+ "instruments-de-musique_lyre": {
+  "qid": "Q201129",
+  "P571": [
+   "-3200"
+  ]
+ },
+ "instruments-de-musique_cithare": {
+  "qid": "Q76239",
+  "P571": [
+   "1800"
+  ],
+  "P495": [
+   "états alpins"
+  ]
+ },
+ "instruments-de-musique_vielle-a-roue": {
+  "qid": "Q207821",
+  "P495": [
+   "France"
+  ]
+ },
+ "instruments-de-musique_bouzouki": {
+  "qid": "Q322675",
+  "P276": [
+   "Grèce",
+   "Irlande"
+  ]
+ },
+ "instruments-de-musique_charango": {
+  "qid": "Q468776",
+  "P136": [
+   "musique andine"
+  ]
+ },
+ "instruments-de-musique_guzheng": {
+  "qid": "Q726303",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "instruments-de-musique_pipa-instrument": {
+  "qid": "Q6685124"
+ },
+ "instruments-de-musique_viole-de-gambe": {
+  "qid": "Q40125"
+ },
+ "instruments-de-musique_balafon": {
+  "qid": "Q789141",
+  "P17": [
+   "Mali",
+   "Burkina Faso",
+   "Côte d'Ivoire"
+  ]
+ },
+ "instruments-de-musique_mbira": {
+  "qid": "Q1467960",
+  "P495": [
+   "Malawi",
+   "Zimbabwe"
+  ]
+ },
+ "instruments-de-musique_darbouka": {
+  "qid": "Q319154"
+ },
+ "instruments-de-musique_castagnettes": {
+  "qid": "Q183932"
+ },
+ "instruments-de-musique_gong-instrument": {
+  "qid": "Q208320",
+  "P495": [
+   "Indonésie"
+  ],
+  "P186": [
+   "métal"
+  ],
+  "P527": [
+   "poignée",
+   "chaîne"
+  ]
+ },
+ "instruments-de-musique_carillon": {
+  "qid": "Q505174",
+  "P527": [
+   "cloche",
+   "clapper",
+   "clavier"
+  ]
+ },
+ "instruments-de-musique_hang": {
+  "qid": "Q835877"
+ },
+ "instruments-de-musique_cajon": {
+  "qid": "Q748455",
+  "P495": [
+   "Pérou"
+  ]
+ },
+ "instruments-de-musique_conga": {
+  "qid": "Q270200",
+  "P495": [
+   "Cuba"
+  ]
+ },
+ "instruments-de-musique_maraca": {
+  "qid": "Q39777"
+ },
+ "instruments-de-musique_flute-de-pan": {
+  "qid": "Q218802"
+ },
+ "instruments-de-musique_flute-a-bec": {
+  "qid": "Q187851"
+ },
+ "instruments-de-musique_piccolo-instrument": {
+  "qid": "Q83509"
+ },
+ "instruments-de-musique_ocarina": {
+  "qid": "Q187780"
+ },
+ "instruments-de-musique_shakuhachi": {
+  "qid": "Q524526",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "instruments-de-musique_duduk": {
+  "qid": "Q737917",
+  "P495": [
+   "Arménie"
+  ],
+  "P186": [
+   "apricot wood"
+  ]
+ },
+ "instruments-de-musique_bansuri": {
+  "qid": "Q960389",
+  "P495": [
+   "Inde"
+  ],
+  "P186": [
+   "bambou"
+  ]
+ },
+ "instruments-de-musique_cor-des-alpes": {
+  "qid": "Q685206"
+ },
+ "instruments-de-musique_ondes-martenot": {
+  "qid": "Q862501"
+ },
+ "instruments-de-musique_roland-tr-808": {
+  "qid": "Q1414221"
+ }
+}

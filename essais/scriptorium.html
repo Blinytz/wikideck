@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Scriptorium · essai</title>
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<style>
+:root {
+  --fond: #12121c; --fond-2: #1b1b2a; --fond-3: #242438; --fond-4: #2e2e46;
+  --texte: #eceaf6; --doux: #9a97b0; --accent: #7c5cff; --accent-2: #46c8ff;
+  --or: #ffd166; --vert: #3ddc97; --rouge: #ff5c7a; --orange: #ffa94d;
+  --c-commune: #8a93a6; --c-rare: #4aa8ff; --c-epique: #b05cff;
+  --c-mythique: #ff5cd0; --c-legendaire: #ffd166; --c-pantheon: #ffffff;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--fond); color: var(--texte);
+  font: 14px/1.3 system-ui, -apple-system, "Segoe UI", sans-serif; }
+body { max-width: 680px; margin: 0 auto; padding: 12px 16px 40px; }
+button { font: inherit; color: inherit; cursor: pointer; border: 0; }
+.num { font-variant-numeric: tabular-nums; }
+.ph { vertical-align: -2px; }
+
+/* --- tete */
+.hud { display: flex; gap: 14px; align-items: center; background: var(--fond-2); border-radius: 16px; padding: 10px 14px; }
+.anneau { position: relative; width: 74px; height: 74px; flex: none; }
+.anneau svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+.anneau .val { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; font-size: 12.5px; }
+.anneau .val small { display: block; color: var(--doux); font-size: 10.5px; }
+.res { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; }
+.jeton { background: var(--fond-3); border-radius: 999px; padding: 6px 11px; font-weight: 600; white-space: nowrap; }
+.jeton.or { color: var(--or); } .jeton.sceau { color: var(--c-mythique); }
+.ouvrir { background: var(--accent); border-radius: 999px; padding: 8px 14px; font-weight: 600; }
+.ouvrir:disabled { background: var(--fond-3); color: var(--doux); cursor: default; }
+
+.onglets { display: flex; gap: 6px; margin: 12px 0; }
+.onglet { flex: 1; background: var(--fond-2); border-radius: 12px; padding: 9px 6px; color: var(--doux); font-weight: 600; position: relative; }
+.onglet.on { background: var(--fond-4); color: var(--texte); }
+.onglet:disabled { opacity: .45; cursor: default; }
+.onglet .pt { position: absolute; top: 6px; right: 8px; width: 8px; height: 8px; border-radius: 50%; background: var(--vert); }
+
+/* --- atelier */
+.chaine { display: grid; gap: 8px; }
+.bat { display: grid; grid-template-columns: 42px 1fr auto; gap: 10px; align-items: center;
+  background: var(--fond-2); border-radius: 14px; padding: 10px 12px; border-left: 4px solid var(--etat, var(--fond-3)); }
+.bat .ico { width: 42px; height: 42px; border-radius: 11px; display: grid; place-items: center; font-size: 24px; background: var(--fond-3); }
+.bat h4 { margin: 0; font-size: 14.5px; display: flex; gap: 8px; align-items: baseline; }
+.bat h4 small { color: var(--doux); font-weight: 500; }
+.flux { color: var(--doux); font-size: 12.5px; margin-top: 2px; }
+.flux b { color: var(--texte); }
+.jauge { height: 6px; background: var(--fond-3); border-radius: 99px; margin-top: 6px; overflow: hidden; }
+.jauge i { display: block; height: 100%; background: var(--accent-2); border-radius: 99px; }
+.jauge.plein i { background: var(--orange); }
+.amel { display: grid; justify-items: center; gap: 2px; background: var(--fond-3); border-radius: 11px; padding: 6px 10px; min-width: 78px; font-size: 12.5px; }
+.amel b { color: var(--or); }
+.amel small { color: var(--doux); }
+.amel:disabled { opacity: .45; cursor: default; }
+.amel.encours { background: var(--fond-4); }
+.amel.encours b { color: var(--accent-2); }
+.fleche { text-align: center; color: var(--fond-4); font-size: 16px; margin: -4px 0; }
+.file { display: flex; gap: 8px; align-items: center; margin: 12px 0 0; color: var(--doux); font-size: 12.5px; flex-wrap: wrap; }
+.file .slot { background: var(--fond-2); border-radius: 999px; padding: 5px 10px; }
+.file .slot.libre { border: 1px dashed var(--fond-4); }
+.vendre { margin-top: 10px; display: flex; gap: 8px; }
+.vendre button { flex: 1; background: var(--fond-2); border-radius: 12px; padding: 9px; }
+.vendre button b { color: var(--or); }
+
+/* --- comptoir */
+.commandes { display: grid; gap: 8px; }
+.cmd { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; text-align: left;
+  background: var(--fond-2); border-radius: 14px; padding: 11px 12px; width: 100%; }
+.cmd .exig { display: flex; gap: 6px; flex-wrap: wrap; }
+.exi { background: var(--fond-3); border-radius: 8px; padding: 3px 8px; font-size: 12.5px; }
+.cmd .meta { color: var(--doux); font-size: 12px; margin-top: 6px; display: flex; gap: 12px; }
+.gainc { text-align: right; font-weight: 700; color: var(--or); font-size: 15px; }
+.gainc small { display: block; color: var(--c-mythique); font-size: 12px; }
+.cmd.cours { background: var(--fond-2); opacity: .9; }
+.cmd.fini { box-shadow: inset 0 0 0 2px var(--vert); }
+.barre { grid-column: 1 / -1; height: 5px; background: var(--fond-3); border-radius: 99px; overflow: hidden; }
+.barre i { display: block; height: 100%; background: var(--accent); }
+.mini { display: flex; gap: 4px; }
+.mini img { width: 28px; height: 39px; object-fit: cover; border-radius: 4px; border: 1.5px solid var(--r); }
+.prochaine { color: var(--doux); font-size: 12.5px; text-align: center; padding: 6px; }
+
+/* --- fenetre de commande */
+.voile { position: fixed; inset: 0; background: rgba(5,5,12,.72); display: none; place-items: end center; z-index: 20; }
+.voile.ouvert { display: grid; }
+.panneau { width: min(680px, 100%); background: var(--fond-2); border-radius: 18px 18px 0 0; padding: 14px 16px 18px;
+  max-height: 88vh; display: grid; grid-template-rows: auto auto auto 1fr auto; gap: 10px; }
+.panneau .tete { display: flex; justify-content: space-between; gap: 10px; align-items: start; }
+.places { display: flex; gap: 8px; }
+.place { width: 62px; aspect-ratio: 5 / 7; border-radius: 8px; border: 1.5px dashed var(--fond-4); background: var(--fond-3); padding: 0; overflow: hidden; }
+.place.pleine { border: 2px solid var(--r); }
+.place img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.verif { display: flex; gap: 6px; flex-wrap: wrap; }
+.verif .exi.ok { background: rgba(61,220,151,.18); color: var(--vert); }
+.verif .exi.ko { background: rgba(255,92,122,.14); color: var(--rouge); }
+.choixc { overflow: auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); grid-auto-rows: 108px; gap: 8px; align-content: start; min-height: 120px; }
+.choixc .carte { aspect-ratio: auto; height: 108px; }
+.carte { position: relative; padding: 0; border: 2px solid var(--r); border-radius: 8px; background: #000; aspect-ratio: 5 / 7; overflow: hidden; }
+.carte img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.carte .nom { position: absolute; left: 0; right: 0; bottom: 0; padding: 10px 3px 3px; font-size: 9.5px; line-height: 1.1;
+  background: linear-gradient(transparent, rgba(0,0,0,.9)); }
+.carte .pv { position: absolute; top: 3px; right: 3px; background: rgba(0,0,0,.75); border-radius: 99px; padding: 0 5px; font-size: 10px; }
+.carte.prise { outline: 3px solid var(--accent-2); outline-offset: -3px; opacity: .5; }
+.envoyer { background: var(--accent); border-radius: 12px; padding: 12px; font-weight: 700; }
+.envoyer:disabled { background: var(--fond-3); color: var(--doux); }
+.tirage { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; width: min(560px, 100%); padding: 16px; background: var(--fond-2); border-radius: 18px 18px 0 0; }
+.tirage .carte { animation: pop .4s backwards; }
+@keyframes pop { from { transform: scale(.4) rotateY(90deg); opacity: 0; } }
+.vide { color: var(--doux); text-align: center; padding: 20px; grid-column: 1 / -1; }
+</style>
+</head>
+<body>
+
+<section class="hud">
+  <div class="anneau">
+    <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="43" fill="none" stroke="#2c2a40" stroke-width="10"/>
+      <circle id="arc" cx="50" cy="50" r="43" fill="none" stroke="#46c8ff" stroke-width="10" stroke-linecap="round"
+        stroke-dasharray="270.2" stroke-dashoffset="270.2"/></svg>
+    <div class="val num"><div><b id="reste">--:--</b><small id="pct">0 %</small></div></div>
+  </div>
+  <div class="res">
+    <span class="jeton or num"><i class="ph-fill ph-coins"></i> <span id="or">0</span></span>
+    <span class="jeton sceau num"><i class="ph-fill ph-seal"></i> <span id="sceaux">0</span></span>
+    <span class="jeton num"><i class="ph ph-books"></i> <span id="debit">0</span>/h</span>
+  </div>
+  <button class="ouvrir" id="ouvrir" disabled><i class="ph-fill ph-cards"></i> <span id="prets">0</span></button>
+</section>
+
+<nav class="onglets">
+  <button class="onglet on" data-o="atelier"><i class="ph ph-factory"></i> Atelier<span class="pt" id="pt-atelier" hidden></span></button>
+  <button class="onglet" data-o="comptoir"><i class="ph ph-storefront"></i> Comptoir<span class="pt" id="pt-comptoir" hidden></span></button>
+  <button class="onglet" disabled><i class="ph ph-chart-line-up"></i> <i class="ph ph-lock-simple"></i></button>
+  <button class="onglet" disabled><i class="ph ph-sword"></i> <i class="ph ph-lock-simple"></i></button>
+</nav>
+
+<main id="vue"></main>
+<div class="voile" id="voile"></div>
+
+<script type="module">
+const S = 1000, MIN = 60 * S, H = 60 * MIN;
+const CLE = 'wikideck-scriptorium-essai';
+const PAGES_PAQUET = 600, BASE_PAQUET = 24 * H, MAX_RATTRAPAGE = 7 * 24 * H;
+const ORDRE = ['commune', 'rare', 'epique', 'mythique', 'legendaire', 'pantheon'];
+const NOMS_R = { commune: 'commune', rare: 'rare', epique: 'épique', mythique: 'mythique', legendaire: 'légendaire', pantheon: 'Panthéon' };
+const ROLES = { attaque: 'attaque', defense: 'défense', terrain: 'terrain', soutien: 'soutien' };
+
+// Batiments : production par seconde et par niveau, cout et duree d'amelioration
+const BAT = {
+  moulin:      { nom: 'Moulin à papier', ico: 'ph-scroll',   prod: 0.10, cout: 30, coul: '#e9e2c9' },
+  encrier:     { nom: 'Encrier',         ico: 'ph-drop',     prod: 0.07, cout: 40, coul: '#7aa2ff' },
+  scriptorium: { nom: 'Scriptorium',     ico: 'ph-pen-nib',  prod: 0.05, cout: 60, coul: '#ffd166' },
+  reliure:     { nom: 'Reliure',         ico: 'ph-books',    prod: 0.02, cout: 80, coul: '#ff8fab' },
+  entrepot:    { nom: 'Entrepôt',        ico: 'ph-warehouse', prod: 0,   cout: 50, coul: '#9a97b0' },
+};
+const ORDRE_BAT = ['moulin', 'encrier', 'scriptorium', 'reliure', 'entrepot'];
+const coutAmel = (b, L) => Math.round(BAT[b].cout * 1.6 ** (L - 1));
+const dureeAmel = L => Math.round(30 * S * 1.7 ** (L - 1));
+const capacite = L => Math.round(100 * 1.8 ** (L - 1));
+const PRIX_PAGE = 0.4;
+
+const $ = s => document.querySelector(s);
+const fmt = n => Math.floor(n).toLocaleString('fr-FR');
+const duree = ms => { ms = Math.max(0, ms); const s = Math.ceil(ms / S);
+  if (s < 60) return s + ' s'; if (s < 3600) return Math.ceil(s / 60) + ' min';
+  const h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60); return h < 24 ? `${h} h ${String(m).padStart(2, '0')}` : `${Math.floor(h / 24)} j ${h % 24} h`; };
+
+/* ---------------- cartes */
+const D = await (await fetch('musee_cartes.json')).json();
+const THEMES = D.themes, CARTES = new Map();
+for (const [id, nom, ci, rarete, thumb, titre, annee, pays, pv, role] of D.cartes) {
+  const [slug, colnom, ti] = D.collections[ci];
+  CARTES.set(id, { id, nom, slug, colnom, theme: ti, rarete, rr: ORDRE.indexOf(rarete), thumb: '../' + thumb, annee, pays, pv: pv || 0, role,
+    siecle: annee == null ? null : (annee > 0 ? Math.floor((annee - 1) / 100) + 1 : -Math.floor((-annee - 1) / 100) - 1) });
+}
+const romain = n => { const v = [[1000,'M'],[900,'CM'],[500,'D'],[400,'CD'],[100,'C'],[90,'XC'],[50,'L'],[40,'XL'],[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']];
+  let a = Math.abs(n), s = ''; for (const [k, r] of v) while (a >= k) { s += r; a -= k; } return s; };
+const nomSiecle = n => n > 0 ? `${romain(n)}e s.` : `${romain(n)}e s. av.`;
+
+/* ---------------- etat */
+let E;
+try { E = JSON.parse(localStorage.getItem(CLE) || 'null'); } catch { E = null; }
+if (!E) {
+  const now = Date.now();
+  E = { t: now, or: 60, sceaux: 0, prog: 0, prets: 0, extra: [], tout: false,
+        niv: { moulin: 1, encrier: 1, scriptorium: 1, reliure: 1, entrepot: 1 },
+        stock: { papier: 0, encre: 0, pages: 0 }, file: [], places: 1,
+        commandes: [], prochaineCmd: now, occupees: {}, flux: {}, seq: 1 };
+}
+const sauver = () => { try { localStorage.setItem(CLE, JSON.stringify(E)); } catch {} };
+
+function possedees() {
+  if (E.tout) return [...CARTES.keys()];
+  let jeu = {};
+  try { jeu = JSON.parse(localStorage.getItem('gachaWikipediaEtat') || '{}').cartes || {}; } catch {}
+  const s = new Set(Object.keys(jeu).filter(id => jeu[id] > 0 && CARTES.has(id)));
+  if (!s.size && !E.extra.length) {
+    const tous = [...CARTES.keys()];
+    for (let i = 0; i < 80; i++) E.extra.push(tous[Math.floor(Math.random() * tous.length)]);
+  }
+  E.extra.forEach(id => CARTES.has(id) && s.add(id));
+  return [...s];
+}
+const libre = (id, t) => !(E.occupees[id] > t);
+
+/* ---------------- atelier : un pas de simulation */
+function pas(dt, t) {
+  const n = E.niv, st = E.stock, cap = capacite(n.entrepot), sec = dt / S;
+  const p = Math.min(cap - st.papier, BAT.moulin.prod * n.moulin * sec);
+  const e = Math.min(cap - st.encre, BAT.encrier.prod * n.encrier * sec);
+  st.papier += p; st.encre += e;
+  const c = Math.max(0, Math.min(BAT.scriptorium.prod * n.scriptorium * sec, st.papier, st.encre, cap - st.pages));
+  st.papier -= c; st.encre -= c; st.pages += c;
+  const r = Math.min(BAT.reliure.prod * n.reliure * sec, st.pages);
+  st.pages -= r;
+  E.prog += r / PAGES_PAQUET + dt / BASE_PAQUET;
+  while (E.prog >= 1) { E.prog -= 1; E.prets++; }
+  E.flux = { moulin: p / sec, encrier: e / sec, scriptorium: c / sec, reliure: r / sec };
+  // file de construction
+  for (const f of E.file) if (!f.fait && f.fin <= t) { E.niv[f.b]++; f.fait = true; }
+  E.file = E.file.filter(f => !f.fait);
+  // comptoir : nouvelles commandes, expirations
+  E.commandes = E.commandes.filter(c => c.envoi || c.expire > t);
+  while (E.prochaineCmd <= t) {
+    if (E.commandes.filter(c => !c.envoi).length < 5) { const c = genererCommande(E.prochaineCmd); if (c) E.commandes.push(c); }
+    E.prochaineCmd += (12 + Math.random() * 16) * MIN;
+  }
+}
+function avancer() {
+  const now = Date.now();
+  if (now - E.t > MAX_RATTRAPAGE) E.t = now - MAX_RATTRAPAGE;
+  while (now - E.t >= 250) { const dt = Math.min(MIN, now - E.t); E.t += dt; pas(dt, E.t); }
+}
+
+/* ---------------- comptoir : commandes tirees de TES cartes */
+const pioche = a => a[Math.floor(Math.random() * a.length)];
+const DUREES = [0.25, 0.5, 1, 2, 4, 8];
+function genererCommande(t) {
+  const mes = possedees().map(id => CARTES.get(id));
+  if (mes.length < 4) return null;
+  for (let essai = 0; essai < 40; essai++) {
+    const g = pioche(mes), type = pioche(['collection', 'siecle', 'pays', 'rarete', 'roles', 'plafond', 'siecle', 'pays']);
+    let spec = null;
+    const compte = f => mes.filter(f).length;
+    if (type === 'collection') {
+      const k = compte(c => c.slug === g.slug); if (k < 2) continue;
+      spec = { type, n: Math.min(k, 2 + Math.floor(Math.random() * 3)), slug: g.slug, diff: 1 };
+    } else if (type === 'siecle') {
+      if (g.siecle == null) continue;
+      const k = compte(c => c.siecle === g.siecle); if (k < 2) continue;
+      spec = { type, n: Math.min(k, 2 + Math.floor(Math.random() * 2)), siecle: g.siecle, diff: 1.4 };
+    } else if (type === 'pays') {
+      if (!g.pays) continue;
+      const k = compte(c => c.pays === g.pays); if (k < 2) continue;
+      spec = { type, n: Math.min(k, 2 + Math.floor(Math.random() * 2)), pays: g.pays, diff: 1.3 };
+    } else if (type === 'rarete') {
+      if (g.rr < 1) continue;
+      const k = compte(c => c.theme === g.theme); if (k < 3) continue;
+      spec = { type, n: 3, theme: g.theme, rmin: g.rr, diff: 1 + 0.25 * g.rr };
+    } else if (type === 'roles') {
+      const rs = new Set(mes.filter(c => c.theme === g.theme).map(c => c.role));
+      const req = ['attaque', 'defense', 'terrain'].filter(r => rs.has(r));
+      if (req.length < 2) continue;
+      spec = { type, n: req.length, theme: g.theme, roles: req, diff: 1.5 };
+    } else if (type === 'plafond') {
+      const pvs = mes.filter(c => c.theme === g.theme).map(c => c.pv).sort((a, b) => a - b);
+      if (pvs.length < 3) continue;
+      spec = { type, n: 3, theme: g.theme, plafond: Math.ceil((pvs[0] + pvs[1] + pvs[2]) * 1.6 / 10) * 10, diff: 1.3 };
+    }
+    if (!spec) continue;
+    const h = pioche(DUREES);
+    return { id: E.seq++, ...spec, duree: h * H, apparue: t, expire: t + (2 + Math.random() * 4) * H,
+      or: Math.round((10 + 8 * spec.n) * spec.diff * Math.sqrt(h) * 2),
+      sceau: h >= 4 && Math.random() < 0.25 ? 1 : 0 };
+  }
+  return null;
+}
+function exigences(c) {
+  const T = THEMES[c.theme];
+  switch (c.type) {
+    case 'collection': return [`${D.collections.find(x => x[0] === c.slug)[1]} ×${c.n}`];
+    case 'siecle': return [`${nomSiecle(c.siecle)} ×${c.n}`];
+    case 'pays': return [`${c.pays} ×${c.n}`];
+    case 'rarete': return [`${T} ×${c.n}`, `1 ${NOMS_R[ORDRE[c.rmin]]} ou +`];
+    case 'roles': return [T, ...c.roles.map(r => ROLES[r])];
+    case 'plafond': return [`${T} ×${c.n}`, `≤ ${c.plafond} PV`];
+  }
+}
+// une carte peut-elle entrer dans la commande, et la selection est-elle complete ?
+function admissible(c, k) {
+  switch (c.type) {
+    case 'collection': return k.slug === c.slug;
+    case 'siecle': return k.siecle === c.siecle;
+    case 'pays': return k.pays === c.pays;
+    case 'rarete': case 'plafond': return k.theme === c.theme;
+    case 'roles': return k.theme === c.theme && c.roles.includes(k.role);
+  }
+}
+function verifier(c, ids) {
+  const ks = ids.map(id => CARTES.get(id)), out = [];
+  out.push([`${ks.length} / ${c.n}`, ks.length === c.n]);
+  if (c.type === 'rarete') out.push([`${NOMS_R[ORDRE[c.rmin]]} ou +`, ks.some(k => k.rr >= c.rmin)]);
+  if (c.type === 'plafond') { const s = ks.reduce((a, k) => a + k.pv, 0); out.push([`${s} / ${c.plafond} PV`, s <= c.plafond]); }
+  if (c.type === 'roles') for (const r of c.roles) out.push([ROLES[r], ks.some(k => k.role === r)]);
+  return out;
+}
+
+/* ---------------- interface */
+let onglet = 'atelier';
+document.querySelectorAll('.onglet[data-o]').forEach(b => b.onclick = () => {
+  onglet = b.dataset.o;
+  document.querySelectorAll('.onglet').forEach(x => x.classList.toggle('on', x === b));
+  rendre();
+});
+
+function rendreHud() {
+  const t = Date.now(), vit = (E.flux.reliure || 0) / PAGES_PAQUET + 1 / (BASE_PAQUET / S);
+  $('#reste').textContent = duree((1 - E.prog) / vit * S);
+  $('#pct').textContent = Math.floor(E.prog * 100) + ' %';
+  $('#arc').setAttribute('stroke-dashoffset', 270.2 * (1 - E.prog));
+  $('#or').textContent = fmt(E.or);
+  $('#sceaux').textContent = E.sceaux;
+  $('#debit').textContent = fmt((E.flux.reliure || 0) * 3600);
+  $('#prets').textContent = E.prets;
+  $('#ouvrir').disabled = E.prets < 1;
+  $('#pt-atelier').hidden = E.file.length >= E.places;
+  $('#pt-comptoir').hidden = !E.commandes.some(c => c.envoi && c.envoi + c.duree <= t);
+}
+
+function rendreAtelier() {
+  const t = Date.now(), n = E.niv, st = E.stock, cap = capacite(n.entrepot), f = E.flux;
+  const enFile = b => E.file.find(x => x.b === b);
+  const par = v => (v * 60).toFixed(1).replace('.', ',');
+  const ligne = (b, corps, etat) => {
+    const L = n[b], fl = enFile(b), cout = coutAmel(b, L), pleine = E.file.length >= E.places;
+    const btn = fl
+      ? `<button class="amel encours" disabled><b class="num">${duree(fl.fin - t)}</b><small>→ ${L + 1}</small></button>`
+      : `<button class="amel" data-amel="${b}" ${E.or < cout || pleine ? 'disabled' : ''}><b class="num"><i class="ph-fill ph-coins"></i> ${fmt(cout)}</b><small class="num">${duree(dureeAmel(L))}</small></button>`;
+    return `<div class="bat" style="--etat:${etat}"><div class="ico" style="color:${BAT[b].coul}"><i class="ph-duotone ${BAT[b].ico}"></i></div>
+      <div><h4>${BAT[b].nom} <small>niv. ${L}</small></h4>${corps}</div>${btn}</div>`;
+  };
+  const jauge = v => `<div class="jauge${v >= cap - 0.5 ? ' plein' : ''}"><i style="width:${Math.min(100, v / cap * 100)}%"></i></div>`;
+  const etat = (reel, max) => reel >= max * 0.98 ? 'var(--vert)' : reel > 0.01 ? 'var(--orange)' : 'var(--rouge)';
+  const pm = b => BAT[b].prod * n[b];
+  let h = '<div class="chaine">';
+  h += ligne('moulin', `<div class="flux num"><b>${par(f.moulin || 0)}</b> / ${par(pm('moulin'))} par min · <i class="ph ph-scroll"></i> ${fmt(st.papier)}</div>${jauge(st.papier)}`, etat(f.moulin, pm('moulin')));
+  h += ligne('encrier', `<div class="flux num"><b>${par(f.encrier || 0)}</b> / ${par(pm('encrier'))} par min · <i class="ph ph-drop"></i> ${fmt(st.encre)}</div>${jauge(st.encre)}`, etat(f.encrier, pm('encrier')));
+  h += `<div class="fleche"><i class="ph-bold ph-caret-down"></i></div>`;
+  h += ligne('scriptorium', `<div class="flux num"><b>${par(f.scriptorium || 0)}</b> / ${par(pm('scriptorium'))} pages par min · <i class="ph ph-file-text"></i> ${fmt(st.pages)}</div>${jauge(st.pages)}`, etat(f.scriptorium, pm('scriptorium')));
+  h += `<div class="fleche"><i class="ph-bold ph-caret-down"></i></div>`;
+  h += ligne('reliure', `<div class="flux num"><b>${par(f.reliure || 0)}</b> / ${par(pm('reliure'))} par min · ${PAGES_PAQUET} pages = <i class="ph-fill ph-cards"></i></div>`, etat(f.reliure, pm('reliure')));
+  h += ligne('entrepot', `<div class="flux num">${fmt(cap)} par stock</div>`, 'var(--fond-4)');
+  h += '</div>';
+  h += `<div class="file"><i class="ph ph-hammer"></i>${Array.from({ length: E.places }, (_, i) => { const x = E.file[i];
+    return x ? `<span class="slot num">${BAT[x.b].nom} ${duree(x.fin - t)}</span>` : '<span class="slot libre"><i class="ph ph-plus"></i></span>'; }).join('')}
+    ${E.places < 3 ? `<button class="slot" data-place ${E.sceaux < E.places * 2 ? 'disabled' : ''}><i class="ph-fill ph-seal"></i> ${E.places * 2} → +1</button>` : ''}</div>`;
+  const v = k => Math.floor(st.pages * k);
+  h += `<div class="vendre"><button data-vendre=".25" ${v(.25) < 1 ? 'disabled' : ''}><i class="ph ph-file-text"></i> ${fmt(v(.25))} → <b>${fmt(v(.25) * PRIX_PAGE)}</b></button>
+    <button data-vendre="1" ${v(1) < 1 ? 'disabled' : ''}><i class="ph ph-file-text"></i> ${fmt(v(1))} → <b>${fmt(v(1) * PRIX_PAGE)}</b></button></div>`;
+  $('#vue').innerHTML = h;
+}
+
+function rendreComptoir() {
+  const t = Date.now();
+  const ex = c => `<div class="exig">${exigences(c).map(x => `<span class="exi">${x}</span>`).join('')}</div>`;
+  const gain = c => `<div class="gainc num"><i class="ph-fill ph-coins"></i> ${fmt(c.or)}${c.sceau ? `<small><i class="ph-fill ph-seal"></i> 1</small>` : ''}</div>`;
+  const cours = E.commandes.filter(c => c.envoi).sort((a, b) => (a.envoi + a.duree) - (b.envoi + b.duree));
+  const dispo = E.commandes.filter(c => !c.envoi).sort((a, b) => a.expire - b.expire);
+  let h = '<div class="commandes">';
+  for (const c of cours) {
+    const fin = c.envoi + c.duree, fini = fin <= t;
+    h += `<button class="cmd cours${fini ? ' fini' : ''}" data-encaisser="${c.id}" ${fini ? '' : 'disabled'}>
+      <div><div class="mini">${c.cartes.map(id => { const k = CARTES.get(id); return `<img src="${k.thumb}" style="--r:var(--c-${k.rarete})" alt="">`; }).join('')}</div>
+      <div class="meta num">${fini ? '<span style="color:var(--vert)"><i class="ph-bold ph-check"></i></span>' : `<span><i class="ph ph-hourglass"></i> ${duree(fin - t)}</span>`}</div></div>
+      ${gain(c)}<div class="barre"><i style="width:${Math.min(100, (t - c.envoi) / c.duree * 100)}%"></i></div></button>`;
+  }
+  for (const c of dispo) {
+    h += `<button class="cmd" data-cmd="${c.id}"><div>${ex(c)}<div class="meta num"><span><i class="ph ph-hourglass"></i> ${duree(c.duree)}</span>
+      <span><i class="ph ph-timer"></i> ${duree(c.expire - t)}</span></div></div>${gain(c)}</button>`;
+  }
+  h += '</div>';
+  h += `<div class="prochaine num"><i class="ph ph-envelope-simple"></i> ${dispo.length >= 5 ? '5 / 5' : duree(E.prochaineCmd - t)}</div>`;
+  $('#vue').innerHTML = h;
+}
+
+function rendre() { avancer(); rendreHud(); onglet === 'atelier' ? rendreAtelier() : rendreComptoir(); sauver(); }
+
+$('#vue').addEventListener('click', e => {
+  const t = Date.now(), b = e.target.closest('button'); if (!b || b.disabled) return;
+  if (b.dataset.amel) {
+    const k = b.dataset.amel, cout = coutAmel(k, E.niv[k]);
+    if (E.or < cout || E.file.length >= E.places) return;
+    E.or -= cout;
+    E.file.push({ b: k, fin: t + dureeAmel(E.niv[k]) });
+  } else if (b.dataset.vendre) {
+    const q = Math.floor(E.stock.pages * +b.dataset.vendre);
+    E.stock.pages -= q; E.or += q * PRIX_PAGE;
+  } else if ('place' in b.dataset) {
+    if (E.sceaux >= E.places * 2) { E.sceaux -= E.places * 2; E.places++; }
+  } else if (b.dataset.encaisser) {
+    const c = E.commandes.find(x => x.id === +b.dataset.encaisser);
+    if (!c || c.envoi + c.duree > t) return;
+    E.or += c.or; E.sceaux += c.sceau;
+    c.cartes.forEach(id => delete E.occupees[id]);
+    E.commandes = E.commandes.filter(x => x !== c);
+  } else if (b.dataset.cmd) return ouvrirCommande(+b.dataset.cmd);
+  rendre();
+});
+
+function ouvrirCommande(id) {
+  const c = E.commandes.find(x => x.id === id); if (!c) return;
+  let choix = [];
+  const t = Date.now();
+  const candidats = possedees().map(i => CARTES.get(i)).filter(k => libre(k.id, t) && admissible(c, k))
+    .sort((a, b) => a.pv - b.pv);
+  const dessiner = () => {
+    const ver = verifier(c, choix), ok = ver.every(v => v[1]);
+    $('#voile').innerHTML = `<div class="panneau">
+      <div class="tete"><div class="exig">${exigences(c).map(x => `<span class="exi">${x}</span>`).join('')}</div>
+        <div class="gainc num"><i class="ph-fill ph-coins"></i> ${fmt(c.or)}${c.sceau ? `<small><i class="ph-fill ph-seal"></i> 1</small>` : ''}
+        <small style="color:var(--doux)"><i class="ph ph-hourglass"></i> ${duree(c.duree)}</small></div></div>
+      <div class="places">${Array.from({ length: c.n }, (_, i) => { const k = choix[i] && CARTES.get(choix[i]);
+        return k ? `<button class="place pleine" data-retire="${k.id}" style="--r:var(--c-${k.rarete})"><img src="${k.thumb}" alt=""></button>` : '<span class="place"></span>'; }).join('')}</div>
+      <div class="verif">${ver.map(([l, v]) => `<span class="exi num ${v ? 'ok' : 'ko'}">${l}</span>`).join('')}</div>
+      <div class="choixc">${candidats.map(k => `<button class="carte${choix.includes(k.id) ? ' prise' : ''}" data-k="${k.id}" style="--r:var(--c-${k.rarete})">
+        <img src="${k.thumb}" alt="" loading="lazy"><span class="pv num">${k.pv}</span><span class="nom">${k.nom}</span></button>`).join('') || '<div class="vide">∅</div>'}</div>
+      <button class="envoyer" ${ok ? '' : 'disabled'}><i class="ph-bold ph-paper-plane-tilt"></i> ${duree(c.duree)}</button></div>`;
+  };
+  dessiner();
+  $('#voile').classList.add('ouvert');
+  $('#voile').onclick = e => {
+    if (e.target === $('#voile')) return fermer();
+    const b = e.target.closest('button'); if (!b || b.disabled) return;
+    if (b.dataset.k) { const k = b.dataset.k;
+      choix = choix.includes(k) ? choix.filter(x => x !== k) : choix.length < c.n ? [...choix, k] : choix; dessiner(); }
+    else if (b.dataset.retire) { choix = choix.filter(x => x !== b.dataset.retire); dessiner(); }
+    else if (b.classList.contains('envoyer')) {
+      const now = Date.now();
+      c.envoi = now; c.cartes = choix; choix.forEach(k => E.occupees[k] = now + c.duree);
+      fermer(); rendre();
+    }
+  };
+}
+const fermer = () => $('#voile').classList.remove('ouvert');
+
+$('#ouvrir').onclick = () => {
+  if (E.prets < 1) return;
+  E.prets--;
+  const tous = [...CARTES.keys()], tir = [];
+  for (let k = 0; k < 10; k++) { const id = tous[Math.floor(Math.random() * tous.length)]; tir.push(id); E.extra.push(id); }
+  tir.sort((a, b) => CARTES.get(a).rr - CARTES.get(b).rr);
+  $('#voile').innerHTML = `<div class="tirage">${tir.map((id, k) => { const c = CARTES.get(id);
+    return `<div class="carte" style="--r:var(--c-${c.rarete}); animation-delay:${k * 0.12}s"><img src="${c.thumb}" alt=""><span class="nom">${c.nom}</span></div>`; }).join('')}</div>`;
+  $('#voile').classList.add('ouvert');
+  $('#voile').onclick = () => { fermer(); rendre(); };
+  sauver();
+};
+document.addEventListener('keydown', e => { if (e.key === 'Escape') fermer(); });
+document.addEventListener('visibilitychange', () => { if (!document.hidden) rendre(); });
+
+// premieres commandes : tout de suite
+if (!E.commandes.length) { for (let i = 0; i < 3; i++) { const c = genererCommande(Date.now()); if (c) E.commandes.push(c); } }
+rendre();
+setInterval(() => { if (!$('#voile').classList.contains('ouvert')) rendre(); else { avancer(); rendreHud(); sauver(); } }, 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+{
+ "micro-etats_vatican": {
+  "qid": "Q237",
+  "P571": [
+   "1929"
+  ],
+  "P17": [
+   "Vatican"
+  ]
+ },
+ "micro-etats_monaco": {
+  "qid": "Q235",
+  "P571": [
+   "1297"
+  ],
+  "P17": [
+   "Monaco"
+  ]
+ },
+ "micro-etats_nauru": {
+  "qid": "Q697",
+  "P571": [
+   "1968"
+  ],
+  "P17": [
+   "Nauru",
+   "Nouvelle-Guinée allemande"
+  ]
+ },
+ "micro-etats_tuvalu": {
+  "qid": "Q672",
+  "P571": [
+   "1978"
+  ],
+  "P17": [
+   "Tuvalu"
+  ]
+ },
+ "micro-etats_saint-marin": {
+  "qid": "Q238",
+  "P571": [
+   "301"
+  ],
+  "P17": [
+   "Saint-Marin"
+  ]
+ },
+ "micro-etats_liechtenstein": {
+  "qid": "Q347",
+  "P571": [
+   "1806"
+  ],
+  "P17": [
+   "Liechtenstein"
+  ]
+ },
+ "micro-etats_iles-marshall": {
+  "qid": "Q709",
+  "P571": [
+   "1986",
+   "1979"
+  ],
+  "P131": [
+   "Nouvelle-Guinée allemande",
+   "German protectorate Marshall Islands"
+  ],
+  "P17": [
+   "Îles Marshall"
+  ]
+ },
+ "micro-etats_saint-christophe-et-nieves": {
+  "qid": "Q763",
+  "P571": [
+   "1967"
+  ],
+  "P17": [
+   "Saint-Christophe-et-Niévès"
+  ]
+ },
+ "micro-etats_saint-vincent-et-les-grenadines": {
+  "qid": "Q757",
+  "P571": [
+   "1979"
+  ],
+  "P17": [
+   "Saint-Vincent-et-les-Grenadines"
+  ]
+ },
+ "micro-etats_barbade": {
+  "qid": "Q244",
+  "P571": [
+   "1966"
+  ],
+  "P17": [
+   "Barbade",
+   "Empire colonial portugais"
+  ]
+ },
+ "micro-etats_antigua-et-barbuda": {
+  "qid": "Q781",
+  "P571": [
+   "1981"
+  ]
+ },
+ "micro-etats_andorre": {
+  "qid": "Q228",
+  "P571": [
+   "1278",
+   "1715",
+   "1993"
+  ],
+  "P17": [
+   "Andorre"
+  ]
+ },
+ "micro-etats_sainte-lucie": {
+  "qid": "Q760",
+  "P571": [
+   "1979",
+   "1967"
+  ],
+  "P17": [
+   "Sainte-Lucie"
+  ]
+ },
+ "micro-etats_etats-federes-de-micronesie": {
+  "qid": "Q702",
+  "P571": [
+   "1986",
+   "1947",
+   "1979"
+  ],
+  "P17": [
+   "États fédérés de Micronésie"
+  ]
+ },
+ "micro-etats_tonga": {
+  "qid": "Q678",
+  "P571": [
+   "1970"
+  ],
+  "P17": [
+   "Tonga"
+  ]
+ },
+ "micro-etats_dominique-pays": {
+  "qid": "Q784",
+  "P571": [
+   "1978"
+  ],
+  "P17": [
+   "Dominique"
+  ]
+ },
+ "micro-etats_bahrein": {
+  "qid": "Q398",
+  "P571": [
+   "1971"
+  ],
+  "P17": [
+   "Bahreïn"
+  ]
+ },
+ "micro-etats_kiribati": {
+  "qid": "Q710",
+  "P571": [
+   "1979"
+  ],
+  "P17": [
+   "Kiribati"
+  ]
+ },
+ "micro-etats_sao-tome-et-principe": {
+  "qid": "Q1039",
+  "P571": [
+   "1975"
+  ],
+  "P17": [
+   "Sao Tomé-et-Principe",
+   "Empire colonial portugais"
+  ]
+ },
+ "micro-etats_luxembourg": {
+  "qid": "Q32",
+  "P571": [
+   "1815"
+  ],
+  "P17": [
+   "Luxembourg"
+  ],
+  "P527": [
+   "Oesling",
+   "Gutland"
+  ]
+ },
+ "micro-etats_grenade-pays": {
+  "qid": "Q769",
+  "P571": [
+   "1974"
+  ],
+  "P17": [
+   "Grenade"
+  ]
+ }
+}

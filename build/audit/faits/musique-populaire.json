@@ -1,0 +1,2964 @@
+{
+ "musique-populaire_the-beatles": {
+  "qid": "Q1299",
+  "P800": [
+   "Let It Be",
+   "Yesterday",
+   "Strawberry Fields Forever",
+   "Sgt. Pepper's Lonely Hearts Club Band",
+   "Revolver",
+   "Here Comes the Sun",
+   "Come Together",
+   "Abbey Road",
+   "Paperback Writer",
+   "Yellow Submarine",
+   "Get Back",
+   "Ob-La-Di, Ob-La-Da"
+  ],
+  "P101": [
+   "télévision"
+  ],
+  "P571": [
+   "1960"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock",
+   "pop",
+   "hard rock",
+   "rock 'n' roll",
+   "blues rock",
+   "beat",
+   "folk rock",
+   "rock psychédélique",
+   "musique traditionnelle",
+   "rock expérimental",
+   "rock classique"
+  ],
+  "P527": [
+   "John Lennon",
+   "Ringo Starr",
+   "Paul McCartney",
+   "George Harrison",
+   "Pete Best",
+   "Stuart Sutcliffe",
+   "Chas Newby",
+   "Tommy Moore"
+  ]
+ },
+ "musique-populaire_bob-dylan": {
+  "qid": "Q392",
+  "P569": [
+   "1941"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Like a Rolling Stone",
+   "Highway 61 Revisited",
+   "Bringing It All Back Home",
+   "Blonde on Blonde",
+   "Blood on the Tracks",
+   "Blowin' in the Wind",
+   "Subterranean Homesick Blues"
+  ],
+  "P101": [
+   "chant",
+   "pop",
+   "écriture créative et professionnelle",
+   "folk",
+   "blues",
+   "rock",
+   "gospel",
+   "musique country",
+   "jazz",
+   "musique populaire"
+  ],
+  "P136": [
+   "rock",
+   "blues",
+   "musique country",
+   "musique folk américaine",
+   "pop folk",
+   "country rock",
+   "folk rock",
+   "rock chrétien",
+   "gospel",
+   "americana",
+   "jazz"
+  ]
+ },
+ "musique-populaire_elvis-presley": {
+  "qid": "Q303",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rock 'n' roll",
+   "pop",
+   "rockabilly",
+   "musique country",
+   "gospel",
+   "rhythm and blues",
+   "blues",
+   "pop rock",
+   "country rock",
+   "rock"
+  ]
+ },
+ "musique-populaire_michael-jackson": {
+  "qid": "Q2831",
+  "P569": [
+   "1958"
+  ],
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Thriller",
+   "Bad"
+  ],
+  "P101": [
+   "industrie musicale",
+   "spectacle vivant",
+   "industrie du spectacle",
+   "composition",
+   "industrie cinématographique",
+   "industrie du divertissement"
+  ],
+  "P136": [
+   "pop",
+   "RnB contemporain",
+   "soul",
+   "disco",
+   "rock",
+   "samba",
+   "funk"
+  ]
+ },
+ "musique-populaire_david-bowie": {
+  "qid": "Q5383",
+  "P569": [
+   "1947"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "All the Young Dudes",
+   "Labyrinthe",
+   "Life on Mars?",
+   "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+   "Trilogie berlinoise"
+  ],
+  "P101": [
+   "musique",
+   "arts visuels",
+   "comédie"
+  ],
+  "P136": [
+   "pop",
+   "rock",
+   "glam rock",
+   "rock psychédélique",
+   "rock expérimental",
+   "art rock",
+   "hard rock",
+   "pop rock",
+   "pop psychédélique",
+   "rock alternatif",
+   "soul",
+   "new wave",
+   "ambient",
+   "avant-garde jazz",
+   "art pop",
+   "rap",
+   "musique électronique",
+   "blue-eyed soul"
+  ]
+ },
+ "musique-populaire_queen": {
+  "qid": "Q15862",
+  "P800": [
+   "Bohemian Rhapsody",
+   "We Are the Champions",
+   "Don't Stop Me Now"
+  ],
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock progressif",
+   "glam rock",
+   "hard rock",
+   "rock",
+   "art rock",
+   "pop rock",
+   "heavy metal traditionnel",
+   "heavy metal"
+  ],
+  "P527": [
+   "Freddie Mercury",
+   "Brian May",
+   "Roger Taylor",
+   "John Deacon"
+  ]
+ },
+ "musique-populaire_pink-floyd": {
+  "qid": "Q2306",
+  "P101": [
+   "musique"
+  ],
+  "P571": [
+   "1964"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock progressif",
+   "rock psychédélique",
+   "art rock",
+   "space rock",
+   "blues rock",
+   "rock expérimental",
+   "acid rock",
+   "Proto-prog"
+  ],
+  "P527": [
+   "Syd Barrett",
+   "David Gilmour",
+   "Nick Mason",
+   "Roger Waters",
+   "Richard Wright",
+   "Bob Klose",
+   "Richard Wright"
+  ]
+ },
+ "musique-populaire_led-zeppelin": {
+  "qid": "Q2331",
+  "P800": [
+   "Stairway to Heaven",
+   "Led Zeppelin IV"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P571": [
+   "1968"
+  ],
+  "P495": [
+   "Angleterre"
+  ],
+  "P136": [
+   "hard rock",
+   "blues rock",
+   "rock",
+   "folk rock",
+   "rock classique"
+  ],
+  "P527": [
+   "Robert Plant",
+   "Jimmy Page",
+   "John Bonham",
+   "John Paul Jones"
+  ]
+ },
+ "musique-populaire_the-rolling-stones": {
+  "qid": "Q11036",
+  "P135": [
+   "contre-culture des années 1960",
+   "Swinging London"
+  ],
+  "P571": [
+   "1962"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock",
+   "blues rock",
+   "rock psychédélique",
+   "rhythm and blues",
+   "rock 'n' roll",
+   "blues",
+   "rock classique"
+  ],
+  "P527": [
+   "Brian Jones",
+   "Ian Stewart",
+   "Mick Jagger",
+   "Dick Taylor",
+   "Keith Richards",
+   "Colin Golding",
+   "Ricky Fenson",
+   "Carlo Little",
+   "Bill Wyman",
+   "Mick Taylor",
+   "Charlie Watts",
+   "Ron Wood",
+   "Darryl Jones"
+  ]
+ },
+ "musique-populaire_jimi-hendrix": {
+  "qid": "Q5928",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rock psychédélique",
+   "hard rock",
+   "acid rock",
+   "blues rock",
+   "blues électrique"
+  ]
+ },
+ "musique-populaire_aretha-franklin": {
+  "qid": "Q125121",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "composition",
+   "soul",
+   "gospel",
+   "chant",
+   "exécution pianistique"
+  ],
+  "P136": [
+   "soul",
+   "funk",
+   "gospel",
+   "pop",
+   "pop rock",
+   "jazz",
+   "rhythm and blues"
+  ]
+ },
+ "musique-populaire_nina-simone": {
+  "qid": "Q174957",
+  "P569": [
+   "1933",
+   "1933"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Feeling Good",
+   "To Be Young, Gifted and Black"
+  ],
+  "P101": [
+   "composition",
+   "spectacle vivant"
+  ],
+  "P136": [
+   "jazz",
+   "soul",
+   "gospel",
+   "blues"
+  ]
+ },
+ "musique-populaire_ray-charles": {
+  "qid": "Q544387",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Georgia on My Mind / Carry Me Back to Old Virginny"
+  ],
+  "P136": [
+   "jazz",
+   "soul",
+   "rhythm and blues",
+   "blues",
+   "musique country",
+   "gospel"
+  ]
+ },
+ "musique-populaire_james-brown": {
+  "qid": "Q5950",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "soul",
+   "funk",
+   "Doo-wop",
+   "blues",
+   "gospel"
+  ]
+ },
+ "musique-populaire_stevie-wonder": {
+  "qid": "Q714",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "États-Unis",
+   "Ghana"
+  ],
+  "P136": [
+   "rhythm and blues",
+   "soul",
+   "funk",
+   "jazz",
+   "blues",
+   "pop"
+  ]
+ },
+ "musique-populaire_bob-marley": {
+  "qid": "Q409",
+  "P569": [
+   "1945"
+  ],
+  "P570": [
+   "1981"
+  ],
+  "P27": [
+   "Jamaïque"
+  ],
+  "P136": [
+   "reggae",
+   "ska",
+   "rocksteady"
+  ]
+ },
+ "musique-populaire_miles-davis": {
+  "qid": "Q93341",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1991"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "jazz",
+   "bebop",
+   "cool jazz",
+   "hard bop",
+   "Jazz modal",
+   "jazz fusion"
+  ]
+ },
+ "musique-populaire_john-coltrane": {
+  "qid": "Q7346",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "A Love Supreme",
+   "Giant Steps",
+   "Alabama"
+  ],
+  "P101": [
+   "jazz"
+  ],
+  "P136": [
+   "jazz",
+   "Jazz modal",
+   "free jazz",
+   "post-bop",
+   "hard bop"
+  ]
+ },
+ "musique-populaire_louis-armstrong": {
+  "qid": "Q1779",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Louis Armstrong--a self-portrait"
+  ],
+  "P136": [
+   "jazz"
+  ]
+ },
+ "musique-populaire_ella-fitzgerald": {
+  "qid": "Q1768",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "composition",
+   "chant",
+   "jazz"
+  ],
+  "P136": [
+   "jazz",
+   "swing",
+   "pop music traditionnelle",
+   "soul"
+  ]
+ },
+ "musique-populaire_billie-holiday": {
+  "qid": "Q104358",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1959"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "God Bless the Child"
+  ],
+  "P136": [
+   "jazz",
+   "Jazz blues",
+   "ballade",
+   "swing",
+   "jazz vocal",
+   "blues"
+  ]
+ },
+ "musique-populaire_frank-sinatra": {
+  "qid": "Q40912",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "États-Unis",
+   "Italie"
+  ],
+  "P136": [
+   "jazz vocal",
+   "musique de big band",
+   "blues",
+   "jazz",
+   "pop music traditionnelle",
+   "swing",
+   "easy listening"
+  ]
+ },
+ "musique-populaire_edith-piaf": {
+  "qid": "Q1631",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1963",
+   "1963"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Vie en rose",
+   "Milord",
+   "Non, je ne regrette rien"
+  ],
+  "P136": [
+   "chanson française",
+   "Chanson réaliste",
+   "ballade"
+  ]
+ },
+ "musique-populaire_jacques-brel": {
+  "qid": "Q1666",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P800": [
+   "Amsterdam",
+   "Les Bourgeois",
+   "Bruxelles",
+   "Ces gens-là",
+   "La Fanette",
+   "L'Ivrogne",
+   "Ne me quitte pas",
+   "Quand on n'a que l'amour",
+   "Marieke"
+  ],
+  "P136": [
+   "chanson française"
+  ]
+ },
+ "musique-populaire_georges-brassens": {
+  "qid": "Q449",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1981"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "chanson française"
+  ]
+ },
+ "musique-populaire_serge-gainsbourg": {
+  "qid": "Q1698",
+  "P569": [
+   "1928",
+   "1928",
+   "1928"
+  ],
+  "P570": [
+   "1991"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "chanson française",
+   "jazz",
+   "pop",
+   "reggae",
+   "rock",
+   "rock progressif",
+   "cha-cha-cha",
+   "mambo",
+   "funk",
+   "musique de variétés",
+   "pop psychédélique"
+  ]
+ },
+ "musique-populaire_charles-aznavour": {
+  "qid": "Q1785",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "France",
+   "Arménie"
+  ],
+  "P101": [
+   "chanson française",
+   "poésie",
+   "chant"
+  ],
+  "P136": [
+   "musique populaire",
+   "chanson française",
+   "jazz",
+   "musique de variétés",
+   "pop",
+   "ballade",
+   "musique du monde"
+  ]
+ },
+ "musique-populaire_barbara": {
+  "qid": "Q1804",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "composition"
+  ],
+  "P136": [
+   "chanson française"
+  ]
+ },
+ "musique-populaire_leo-ferre": {
+  "qid": "Q320146",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Monaco",
+   "France"
+  ],
+  "P135": [
+   "musique classique"
+  ],
+  "P800": [
+   "L'Espoir",
+   "Amour anarchie",
+   "Il n'y a plus rien",
+   "Léo Ferré",
+   "Les Chansons d'Aragon",
+   "Verlaine et Rimbaud",
+   "Léo Ferré chante Baudelaire",
+   "La Chanson du mal-aimé",
+   "La Violence et l'Ennui",
+   "L'Opéra du pauvre"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ],
+  "P136": [
+   "chanson française",
+   "spoken word",
+   "musique classique",
+   "pop française"
+  ]
+ },
+ "musique-populaire_johnny-hallyday": {
+  "qid": "Q212015",
+  "P569": [
+   "1943"
+  ],
+  "P570": [
+   "2017",
+   "2017"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "comédie",
+   "chant"
+  ],
+  "P136": [
+   "rock",
+   "rock 'n' roll",
+   "chanson française",
+   "blues rock",
+   "country rock",
+   "rock français",
+   "pop",
+   "ballade sentimentale",
+   "blues",
+   "rhythm and blues",
+   "soul",
+   "musique country",
+   "rock psychédélique"
+  ]
+ },
+ "musique-populaire_daft-punk": {
+  "qid": "Q185828",
+  "P571": [
+   "1993"
+  ],
+  "P276": [
+   "France"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P136": [
+   "house",
+   "musique électronique",
+   "French touch",
+   "synth-pop",
+   "rock électronique",
+   "electronica",
+   "nu-disco",
+   "musique de danse",
+   "leftfield house"
+  ],
+  "P527": [
+   "Q471656",
+   "Guy-Manuel de Homem-Christo"
+  ]
+ },
+ "musique-populaire_nirvana-groupe": {
+  "qid": "Q11649",
+  "P571": [
+   "1987"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rock alternatif",
+   "grunge"
+  ],
+  "P527": [
+   "Kurt Cobain",
+   "Krist Novoselic",
+   "Dave Grohl",
+   "Dale Crover",
+   "Aaron Burckhard",
+   "Chad Channing",
+   "Jason Everman"
+  ]
+ },
+ "musique-populaire_radiohead": {
+  "qid": "Q44190",
+  "P571": [
+   "1985"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock alternatif",
+   "Britpop",
+   "rock expérimental",
+   "néo-prog",
+   "rock électronique",
+   "art rock",
+   "Chamber pop",
+   "art pop"
+  ],
+  "P527": [
+   "Thom Yorke",
+   "Jonny Greenwood",
+   "Colin Greenwood",
+   "Ed O'Brien",
+   "Phil Selway"
+  ]
+ },
+ "musique-populaire_u2": {
+  "qid": "Q396",
+  "P800": [
+   "New Year's Day"
+  ],
+  "P571": [
+   "1976"
+  ],
+  "P495": [
+   "Irlande"
+  ],
+  "P136": [
+   "rock alternatif",
+   "post-punk",
+   "soft rock",
+   "dance-rock",
+   "pop rock",
+   "Q3071"
+  ],
+  "P527": [
+   "Bono",
+   "The Edge",
+   "Adam Clayton",
+   "Larry Mullen Junior",
+   "Dik Evans"
+  ]
+ },
+ "musique-populaire_prince-musicien": {
+  "qid": "Q7542",
+  "P569": [
+   "1958"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "musique",
+   "film",
+   "performed music"
+  ],
+  "P136": [
+   "pop rock",
+   "synth funk",
+   "RnB contemporain",
+   "funk",
+   "pop soul",
+   "dance-pop",
+   "Minneapolis Sound",
+   "funk rock",
+   "soul",
+   "rock",
+   "jazz",
+   "disco",
+   "new jack swing"
+  ]
+ },
+ "musique-populaire_madonna": {
+  "qid": "Q1744",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Q654228",
+   "Into the Groove",
+   "Like a Virgin",
+   "Papa Don't Preach",
+   "La Isla Bonita",
+   "Die Another Day",
+   "Open Your Heart",
+   "Holiday"
+  ],
+  "P101": [
+   "industrie musicale",
+   "industrie cinématographique",
+   "spectacle vivant",
+   "industrie du spectacle",
+   "composition"
+  ],
+  "P136": [
+   "pop",
+   "musique de danse",
+   "musique électronique",
+   "dance-pop",
+   "pop rock",
+   "RnB contemporain",
+   "musique contemporaine pour adulte",
+   "jazz",
+   "folk"
+  ]
+ },
+ "musique-populaire_whitney-houston": {
+  "qid": "Q34389",
+  "P569": [
+   "1963"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "I Wanna Dance with Somebody",
+   "How Will I Know",
+   "Saving All My Love for You",
+   "The Greatest Love of All"
+  ],
+  "P136": [
+   "pop",
+   "rhythm and blues",
+   "soul",
+   "gospel",
+   "urban"
+  ]
+ },
+ "musique-populaire_beyonce": {
+  "qid": "Q36153",
+  "P569": [
+   "1981"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "pop",
+   "RnB contemporain",
+   "musique country"
+  ]
+ },
+ "musique-populaire_amy-winehouse": {
+  "qid": "Q15897",
+  "P569": [
+   "1983"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "composition"
+  ],
+  "P136": [
+   "soul",
+   "rhythm and blues",
+   "jazz",
+   "neo soul",
+   "blue-eyed soul",
+   "RnB contemporain",
+   "reggae"
+  ]
+ },
+ "musique-populaire_bruce-springsteen": {
+  "qid": "Q1225",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "folk",
+   "blues",
+   "rock"
+  ],
+  "P136": [
+   "rock"
+  ]
+ },
+ "musique-populaire_johnny-cash": {
+  "qid": "Q42775",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "At Folsom Prison",
+   "Folsom Prison Blues",
+   "I Walk the Line"
+  ],
+  "P136": [
+   "musique country",
+   "Outlaw Country",
+   "gospel",
+   "rock 'n' roll",
+   "rockabilly",
+   "blues",
+   "musique traditionnelle"
+  ]
+ },
+ "musique-populaire_the-doors": {
+  "qid": "Q45354",
+  "P571": [
+   "1965"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rock psychédélique",
+   "blues rock",
+   "rock classique"
+  ],
+  "P527": [
+   "Jim Morrison",
+   "Robby Krieger",
+   "Ray Manzarek",
+   "John Densmore"
+  ]
+ },
+ "musique-populaire_the-who": {
+  "qid": "Q93346",
+  "P800": [
+   "Tommy",
+   "Who's Next",
+   "Baba O'Riley"
+  ],
+  "P571": [
+   "1964"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "art rock",
+   "hard rock",
+   "rhythm and blues",
+   "rock",
+   "rock progressif",
+   "rock classique"
+  ],
+  "P527": [
+   "Roger Daltrey",
+   "Pete Townshend",
+   "John Entwistle",
+   "Keith Moon",
+   "Kenney Jones"
+  ]
+ },
+ "musique-populaire_ac-dc": {
+  "qid": "Q27593",
+  "P571": [
+   "1973"
+  ],
+  "P495": [
+   "Australie"
+  ],
+  "P136": [
+   "hard rock",
+   "rock 'n' roll",
+   "blues rock",
+   "rock classique"
+  ],
+  "P527": [
+   "Angus Young",
+   "Cliff Williams",
+   "Brian Johnson",
+   "Stevie Young",
+   "Matt Laug",
+   "Chris Chaney",
+   "Malcolm Young",
+   "Dave Evans",
+   "Bon Scott",
+   "Mark Evans",
+   "Simon Wright",
+   "Chris Slade",
+   "Phil Rudd",
+   "Phil Rudd",
+   "George Young",
+   "Chris Slade"
+  ]
+ },
+ "musique-populaire_metallica": {
+  "qid": "Q15920",
+  "P135": [
+   "Bay Area thrash metal"
+  ],
+  "P571": [
+   "1981"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "thrash metal",
+   "heavy metal"
+  ],
+  "P527": [
+   "Lars Ulrich",
+   "James Hetfield",
+   "Kirk Hammett",
+   "Robert Trujillo",
+   "Jason Newsted",
+   "Cliff Burton",
+   "Dave Mustaine",
+   "Ron McGovney",
+   "Lloyd Grant",
+   "Bradley J. Parker"
+  ]
+ },
+ "musique-populaire_fela-kuti": {
+  "qid": "Q313868",
+  "P569": [
+   "1938"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Nigeria"
+  ],
+  "P101": [
+   "musicien ou musicienne",
+   "militant ou militante",
+   "saxophoniste",
+   "chef de groupe musical",
+   "auteur-compositeur-interprète ou auteure-compositrice-interprète",
+   "chef ou cheffe d'orchestre ou de chœur",
+   "chanteur ou chanteuse",
+   "compositeur ou compositrice"
+  ],
+  "P136": [
+   "jazz",
+   "highlife",
+   "afrobeat"
+  ]
+ },
+ "musique-populaire_cesaria-evora": {
+  "qid": "Q103759",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Cap-Vert"
+  ],
+  "P136": [
+   "fado",
+   "morna",
+   "modinha"
+  ]
+ },
+ "musique-populaire_ravi-shankar": {
+  "qid": "Q103774",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "Raj britannique",
+   "Inde"
+  ],
+  "P136": [
+   "musique hindoustanie",
+   "musique classique indienne"
+  ]
+ },
+ "musique-populaire_bjork": {
+  "qid": "Q42455",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "Islande"
+  ],
+  "P101": [
+   "poésie"
+  ],
+  "P136": [
+   "rock",
+   "rock alternatif",
+   "musique expérimentale",
+   "musique électronique",
+   "art pop",
+   "musique d'avant-garde",
+   "Gabberpop"
+  ]
+ },
+ "musique-populaire_chuck-berry": {
+  "qid": "Q5921",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Johnny B. Goode",
+   "Maybellene",
+   "Roll Over Beethoven",
+   "Rock and Roll Music"
+  ],
+  "P101": [
+   "rock 'n' roll"
+  ],
+  "P136": [
+   "rock",
+   "blues",
+   "rock 'n' roll"
+  ]
+ },
+ "musique-populaire_b-b-king": {
+  "qid": "Q188969",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2015"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "blues"
+  ],
+  "P136": [
+   "blues",
+   "rhythm and blues"
+  ]
+ },
+ "musique-populaire_tupac-shakur": {
+  "qid": "Q6107",
+  "P569": [
+   "1971"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rap West Coast",
+   "gangsta rap",
+   "rap politique",
+   "conscious hip-hop",
+   "gangsta funk",
+   "Horrorcore",
+   "rap hardcore"
+  ]
+ },
+ "musique-populaire_the-velvet-underground": {
+  "qid": "Q103550",
+  "P800": [
+   "The Velvet Underground and Nico",
+   "Sweet Jane",
+   "I'm Waiting for the Man"
+  ],
+  "P571": [
+   "1965"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "art rock",
+   "noise rock",
+   "rock alternatif",
+   "rock",
+   "rock expérimental",
+   "folk rock",
+   "blues rock",
+   "rock psychédélique",
+   "musique d'avant-garde",
+   "proto-punk",
+   "drone",
+   "musique bruitiste",
+   "art pop",
+   "Avant-punk"
+  ],
+  "P527": [
+   "Lou Reed",
+   "John Cale",
+   "Maureen Tucker",
+   "Sterling Morrison",
+   "Nico"
+  ]
+ },
+ "musique-populaire_joni-mitchell": {
+  "qid": "Q205721",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Canada",
+   "États-Unis"
+  ],
+  "P800": [
+   "Both Sides Now",
+   "Big Yellow Taxi",
+   "Carey",
+   "Got 'til It's Gone",
+   "Help Me",
+   "Blue",
+   "Court and Spark"
+  ],
+  "P101": [
+   "composition"
+  ],
+  "P136": [
+   "folk rock",
+   "Folk jazz",
+   "pop",
+   "musique du monde",
+   "folk",
+   "art rock",
+   "jazz"
+  ]
+ },
+ "musique-populaire_leonard-cohen": {
+  "qid": "Q1276",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "Songs from a Room",
+   "Various Positions",
+   "Old Ideas",
+   "The Future",
+   "Hallelujah",
+   "The Favourite Game",
+   "The Energy of Slaves",
+   "Parasites of Heaven",
+   "Les Perdants magnifiques"
+  ],
+  "P101": [
+   "musique",
+   "poésie"
+  ],
+  "P136": [
+   "rock",
+   "spoken word",
+   "folk rock",
+   "sophisti-pop",
+   "musique du monde",
+   "soft rock",
+   "pop",
+   "folk",
+   "pop rock",
+   "blues"
+  ]
+ },
+ "musique-populaire_kate-bush": {
+  "qid": "Q636",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Wuthering Heights",
+   "Running Up That Hill"
+  ],
+  "P101": [
+   "composition"
+  ],
+  "P136": [
+   "art pop",
+   "pop progressive",
+   "chanson d'auteur",
+   "pop baroque",
+   "pop expérimentale",
+   "art rock",
+   "pop rock"
+  ]
+ },
+ "musique-populaire_talking-heads": {
+  "qid": "Q205001",
+  "P571": [
+   "1975"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "post-punk",
+   "new wave"
+  ],
+  "P527": [
+   "David Byrne",
+   "Chris Frantz",
+   "Tina Weymouth",
+   "Jerry Harrison"
+  ]
+ },
+ "musique-populaire_public-enemy": {
+  "qid": "Q209182",
+  "P135": [
+   "rap East Coast"
+  ],
+  "P571": [
+   "1986"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rap East Coast",
+   "rap politique",
+   "rap hardcore",
+   "hip-hop progressif"
+  ],
+  "P527": [
+   "Q388785",
+   "Chuck D",
+   "DJ Lord",
+   "Khari Wynn",
+   "Professor Griff"
+  ]
+ },
+ "musique-populaire_francoise-hardy": {
+  "qid": "Q53939",
+  "P569": [
+   "1944"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "composition",
+   "chant",
+   "astrologie",
+   "pop",
+   "paroles",
+   "musique populaire"
+  ],
+  "P136": [
+   "pop française",
+   "musique de variétés",
+   "chanson française",
+   "ballade",
+   "bossa nova",
+   "twist",
+   "slow"
+  ]
+ },
+ "musique-populaire_iam": {
+  "qid": "Q1653033",
+  "P571": [
+   "1988"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "hip-hop",
+   "leftist music",
+   "musique anti-raciste"
+  ],
+  "P527": [
+   "Akhenaton",
+   "Shurik'n",
+   "Kheops",
+   "Imhotep",
+   "Kephren",
+   "Freeman"
+  ]
+ },
+ "musique-populaire_alt-j": {
+  "qid": "Q47996",
+  "P571": [
+   "2008"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "art rock",
+   "rock indépendant",
+   "pop indépendante",
+   "folktronica"
+  ]
+ },
+ "musique-populaire_elton-john": {
+  "qid": "Q2808",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Billy Elliot, the Musical",
+   "Goodbye Yellow Brick Road",
+   "Your Song",
+   "Tiny Dancer"
+  ],
+  "P101": [
+   "pop",
+   "rock",
+   "glam rock",
+   "pop rock",
+   "exécution pianistique",
+   "musique populaire"
+  ],
+  "P136": [
+   "rock",
+   "pop rock",
+   "glam rock",
+   "soft rock",
+   "rhythm and blues"
+  ]
+ },
+ "musique-populaire_abba": {
+  "qid": "Q18233",
+  "P800": [
+   "Another Town, Another Train",
+   "People Need Love",
+   "Nina, Pretty Ballerina",
+   "Love Isn't Easy",
+   "Me and Bobby and Bobby's Brother",
+   "He Is Your Brother",
+   "Waterloo",
+   "Hasta Mañana",
+   "My Mama Said",
+   "Dance (While the Music Still Goes On)",
+   "Gonna Sing You My Lovesong",
+   "Mamma Mia",
+   "Hey, Hey Helen",
+   "SOS",
+   "Rock Me",
+   "I've Been Waiting for You",
+   "Fernando",
+   "When I Kissed the Teacher",
+   "Dancing Queen",
+   "Dum Dum Diddle",
+   "Knowing Me, Knowing You",
+   "Money, Money, Money",
+   "That's Me",
+   "Why Did It Have to Be Me?",
+   "Tiger",
+   "Eagle",
+   "Take a Chance on Me",
+   "One Man, One Woman",
+   "The Name of the Game",
+   "Move On",
+   "Hole in Your Soul",
+   "Thank You for the Music",
+   "I'm a Marionette",
+   "Summer Night City",
+   "As Good as New",
+   "I Have a Dream",
+   "Angeleyes",
+   "The King Has Lost His Crown",
+   "Does Your Mother Know",
+   "If It Wasn't for the Nights",
+   "Chiquitita",
+   "Kisses of Fire",
+   "Estoy Soñando",
+   "Gimme! Gimme! Gimme! (A Man After Midnight)",
+   "Gracias por la música",
+   "Elaine",
+   "Super Trouper",
+   "The Winner Takes It All",
+   "On and On and On",
+   "Andante, Andante",
+   "Me and I",
+   "Happy New Year",
+   "Q629159",
+   "The Piper",
+   "Lay All Your Love on Me",
+   "Felicidad",
+   "The Visitors",
+   "Head over Heels",
+   "When All Is Said and Done",
+   "I Let The Music Speak",
+   "One of Us",
+   "Two For the Price of One",
+   "Slipping Through My Fingers",
+   "Like An Angel Passing Through My Room",
+   "Should I Laugh or Cry",
+   "The Day Before You Came",
+   "Cassandra",
+   "Under Attack",
+   "You Owe Me One",
+   "I Still Have Faith in You",
+   "Don't Shut Me Down",
+   "Just a Notion"
+  ],
+  "P571": [
+   "1970",
+   "2016",
+   "2018"
+  ],
+  "P495": [
+   "Suède"
+  ],
+  "P136": [
+   "pop",
+   "pop rock",
+   "europop",
+   "Euro disco",
+   "musique de danse",
+   "glam rock",
+   "musique suédoise",
+   "Scandinavian pop",
+   "disco"
+  ],
+  "P527": [
+   "Agnetha Fältskog",
+   "Björn Ulvaeus",
+   "Benny Andersson",
+   "Anni-Frid Lyngstad"
+  ]
+ },
+ "musique-populaire_bee-gees": {
+  "qid": "Q133405",
+  "P571": [
+   "1958"
+  ],
+  "P495": [
+   "Royaume-Uni",
+   "Australie"
+  ],
+  "P136": [
+   "rock",
+   "disco",
+   "soft rock",
+   "pop rock",
+   "rhythm and blues",
+   "blue-eyed soul",
+   "soul",
+   "pop"
+  ],
+  "P527": [
+   "Barry Gibb",
+   "Robin Gibb",
+   "Maurice Gibb",
+   "Vince Melouney"
+  ]
+ },
+ "musique-populaire_simon-and-garfunkel": {
+  "qid": "Q484918",
+  "P800": [
+   "Bridge over Troubled Water",
+   "The Boxer",
+   "The Sound of Silence",
+   "El Cóndor pasa",
+   "Homeward Bound",
+   "A Hazy Shade of Winter"
+  ],
+  "P571": [
+   "1957"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "folk rock",
+   "soft rock",
+   "pop folk",
+   "Folk psychédélique"
+  ],
+  "P527": [
+   "Paul Simon",
+   "Arthur Garfunkel"
+  ]
+ },
+ "musique-populaire_tina-turner": {
+  "qid": "Q131814",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "États-Unis",
+   "Suisse"
+  ],
+  "P800": [
+   "Private Dancer"
+  ],
+  "P101": [
+   "pop",
+   "composition musicale",
+   "rock",
+   "chant",
+   "chorégraphie",
+   "musique populaire",
+   "composition musicale",
+   "rock 'n' roll"
+  ],
+  "P136": [
+   "rock",
+   "soul",
+   "pop",
+   "musique country",
+   "rock 'n' roll",
+   "rhythm and blues",
+   "funk"
+  ]
+ },
+ "musique-populaire_marvin-gaye": {
+  "qid": "Q189758",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "soul",
+   "pop",
+   "rhythm and blues",
+   "funk"
+  ]
+ },
+ "musique-populaire_little-richard": {
+  "qid": "Q82222",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Long Tall Sally",
+   "Lucille"
+  ],
+  "P101": [
+   "pop",
+   "rock 'n' roll",
+   "chant",
+   "exécution pianistique",
+   "composition",
+   "composition musicale",
+   "musique populaire",
+   "composition musicale"
+  ],
+  "P136": [
+   "rock",
+   "soul",
+   "rock 'n' roll",
+   "gospel",
+   "rhythm and blues",
+   "funk"
+  ]
+ },
+ "musique-populaire_the-clash": {
+  "qid": "Q125603",
+  "P800": [
+   "The Clash",
+   "London Calling",
+   "London Calling",
+   "Should I Stay or Should I Go"
+  ],
+  "P571": [
+   "1976"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "Q3071",
+   "new wave",
+   "ska",
+   "reggae",
+   "post-punk"
+  ],
+  "P527": [
+   "Joe Strummer",
+   "Mick Jones",
+   "Paul Simonon",
+   "Topper Headon",
+   "Terry Chimes",
+   "Keith Levene"
+  ]
+ },
+ "musique-populaire_sex-pistols": {
+  "qid": "Q82545",
+  "P571": [
+   "1975"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "Q3071"
+  ],
+  "P527": [
+   "John Lydon",
+   "Glen Matlock",
+   "Steve Jones",
+   "Paul Cook",
+   "Sid Vicious",
+   "Frank Carter"
+  ]
+ },
+ "musique-populaire_ramones": {
+  "qid": "Q483407",
+  "P571": [
+   "1974"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "Q3071",
+   "pop-punk"
+  ],
+  "P527": [
+   "Joey Ramone",
+   "Johnny Ramone",
+   "Dee Dee Ramone",
+   "Tommy Ramone",
+   "Marky Ramone",
+   "Richie Ramone",
+   "C. J. Ramone"
+  ]
+ },
+ "musique-populaire_the-cure": {
+  "qid": "Q484427",
+  "P571": [
+   "1976"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock alternatif",
+   "rock gothique",
+   "post-punk",
+   "new wave"
+  ],
+  "P527": [
+   "Robert Smith",
+   "Simon Gallup",
+   "Roger O'Donnell",
+   "Jason Cooper",
+   "Reeves Gabrels"
+  ]
+ },
+ "musique-populaire_joy-division": {
+  "qid": "Q172763",
+  "P571": [
+   "1976"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "post-punk"
+  ],
+  "P527": [
+   "Ian Curtis",
+   "Bernard Sumner",
+   "Peter Hook",
+   "Steve Brotherdale",
+   "Stephen Morris"
+  ]
+ },
+ "musique-populaire_depeche-mode": {
+  "qid": "Q482964",
+  "P800": [
+   "Personal Jesus",
+   "Enjoy the Silence",
+   "Just Can't Get Enough"
+  ],
+  "P571": [
+   "1980"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "synth-pop",
+   "electronica",
+   "new wave",
+   "darkwave",
+   "rock alternatif",
+   "musique industrielle",
+   "rock électronique"
+  ],
+  "P527": [
+   "Dave Gahan",
+   "Martin L. Gore",
+   "Andrew Fletcher",
+   "Alan Wilder",
+   "Vince Clarke"
+  ]
+ },
+ "musique-populaire_kraftwerk": {
+  "qid": "Q44892",
+  "P571": [
+   "1961"
+  ],
+  "P495": [
+   "Allemagne"
+  ],
+  "P136": [
+   "musique électronique",
+   "krautrock",
+   "synth-pop",
+   "électro",
+   "techno",
+   "musique expérimentale",
+   "electronica"
+  ],
+  "P527": [
+   "Ralf Hütter",
+   "Florian Schneider",
+   "Karl Bartos",
+   "Wolfgang Flür",
+   "Fernando Abrantes",
+   "Klaus Roeder",
+   "Michael Rother",
+   "Klaus Dinger",
+   "Fritz Hilpert",
+   "Henning Schmitz",
+   "Falk Grieffenhagen"
+  ]
+ },
+ "musique-populaire_black-sabbath": {
+  "qid": "Q47670",
+  "P571": [
+   "1968"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "heavy metal",
+   "heavy metal traditionnel",
+   "doom metal",
+   "hard rock"
+  ],
+  "P527": [
+   "Ozzy Osbourne",
+   "Tony Iommi",
+   "Geezer Butler",
+   "Bill Ward",
+   "Ronnie James Dio"
+  ]
+ },
+ "musique-populaire_iron-maiden": {
+  "qid": "Q42482",
+  "P135": [
+   "New Wave of British Heavy Metal"
+  ],
+  "P571": [
+   "1975"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "heavy metal traditionnel",
+   "New Wave of British Heavy Metal",
+   "heavy metal"
+  ],
+  "P527": [
+   "Bruce Dickinson",
+   "Steve Harris",
+   "Dave Murray",
+   "Adrian Smith",
+   "Janick Gers",
+   "Nicko McBrain",
+   "Paul Di'Anno",
+   "Dave Murray",
+   "Adrian Smith",
+   "Bruce Dickinson",
+   "Paul Day",
+   "Terry Rance",
+   "Dave Sullivan",
+   "Ron Matthews",
+   "Dennis Wilcock",
+   "Bob Sawyer",
+   "Terry Wapram",
+   "Thunderstick",
+   "Tony Moore",
+   "Doug Sampson",
+   "Paul Cairns",
+   "Tony Parsons",
+   "Dennis Stratton",
+   "Clive Burr",
+   "Blaze Bayley"
+  ]
+ },
+ "musique-populaire_guns-n-roses": {
+  "qid": "Q11895",
+  "P571": [
+   "1985"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "hard rock"
+  ],
+  "P527": [
+   "Axl Rose",
+   "Duff McKagan",
+   "Richard Fortus",
+   "Frank Ferrer",
+   "Matt Sorum",
+   "Dizzy Reed",
+   "DJ Ashba",
+   "Gilby Clarke",
+   "Dave Navarro",
+   "Steven Adler",
+   "Izzy Stradlin",
+   "Slash",
+   "Melissa Reese",
+   "Buckethead"
+  ]
+ },
+ "musique-populaire_red-hot-chili-peppers": {
+  "qid": "Q10708",
+  "P571": [
+   "1982"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rock alternatif",
+   "funk rock",
+   "jazz fusion",
+   "rock classique",
+   "rock",
+   "heavy metal",
+   "funk metal",
+   "hard rock",
+   "rap rock",
+   "metal alternatif"
+  ],
+  "P527": [
+   "Michael Balzary",
+   "John Frusciante",
+   "Anthony Kiedis",
+   "Chad Smith",
+   "Dave Navarro",
+   "Josh Klinghoffer"
+  ]
+ },
+ "musique-populaire_oasis-groupe": {
+  "qid": "Q382890",
+  "P135": [
+   "Britpop"
+  ],
+  "P571": [
+   "1991"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock alternatif",
+   "rock indépendant",
+   "Britpop",
+   "pop indépendante",
+   "rock",
+   "neo-psychedelia"
+  ],
+  "P527": [
+   "Liam Gallagher",
+   "Noel Gallagher",
+   "Tony McCarroll",
+   "Paul Arthurs",
+   "Paul McGuigan",
+   "Alan White",
+   "Andy Bell",
+   "Gem Archer",
+   "Chris Sharrock",
+   "Scott McLeod",
+   "Mike Rowe"
+  ]
+ },
+ "musique-populaire_coldplay": {
+  "qid": "Q45188",
+  "P571": [
+   "1999"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "rock alternatif",
+   "pop"
+  ],
+  "P527": [
+   "Chris Martin",
+   "Jon Buckland",
+   "Guy Berryman",
+   "Will Champion"
+  ]
+ },
+ "musique-populaire_eminem": {
+  "qid": "Q5608",
+  "P569": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "hip-hop",
+   "Horrorcore",
+   "rap hardcore",
+   "comedy hip hop",
+   "rap rock",
+   "Midwest rap"
+  ]
+ },
+ "musique-populaire_jay-z": {
+  "qid": "Q62766",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rap East Coast",
+   "mafioso rap",
+   "gangsta rap",
+   "rap hardcore"
+  ]
+ },
+ "musique-populaire_the-notorious-b-i-g": {
+  "qid": "Q179157",
+  "P569": [
+   "1972"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "rap East Coast",
+   "gangsta rap",
+   "rap hardcore",
+   "gangsta funk",
+   "mafioso rap"
+  ]
+ },
+ "musique-populaire_kendrick-lamar": {
+  "qid": "Q130798",
+  "P569": [
+   "1987",
+   "1987"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "rap"
+  ],
+  "P136": [
+   "rap West Coast",
+   "hip-hop progressif",
+   "hip-hop alternatif",
+   "jazz rap",
+   "conscious hip-hop",
+   "gangsta rap",
+   "rap hardcore",
+   "jazz",
+   "pop"
+  ]
+ },
+ "musique-populaire_rihanna": {
+  "qid": "Q36844",
+  "P569": [
+   "1988"
+  ],
+  "P27": [
+   "Barbade"
+  ],
+  "P136": [
+   "pop",
+   "dance hall",
+   "RnB contemporain",
+   "electronic dance music",
+   "musique contemporaine pour adulte"
+  ]
+ },
+ "musique-populaire_taylor-swift": {
+  "qid": "Q26876",
+  "P569": [
+   "1989"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "pop",
+   "musique country",
+   "musique populaire"
+  ],
+  "P136": [
+   "pop",
+   "musique country"
+  ]
+ },
+ "musique-populaire_lady-gaga": {
+  "qid": "Q19848",
+  "P569": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Christmas Tree",
+   "Eh, Eh (Nothing Else I Can Say)",
+   "The Fame",
+   "Just Dance",
+   "Poker Face",
+   "Paparazzi",
+   "The Fame Monster",
+   "Bad Romance",
+   "Telephone",
+   "Alejandro",
+   "The Remix",
+   "Lady Gaga Presents the Monster Ball Tour: At Madison Square Garden",
+   "Born This Way",
+   "Born This Way",
+   "Judas",
+   "The Edge of Glory",
+   "A Very Gaga Thanksgiving",
+   "A Very Gaga Holiday",
+   "ARTPOP",
+   "Applause",
+   "Do What U Want",
+   "Million Reasons",
+   "Shallow",
+   "A Star Is Born",
+   "Rain on Me",
+   "Sour Candy",
+   "Stupid Love",
+   "Hold My Hand",
+   "Bloody Mary",
+   "Die with a Smile",
+   "Disease",
+   "Abracadabra",
+   "The Dead Dance",
+   "Runway"
+  ],
+  "P101": [
+   "pop",
+   "industrie cosmétique",
+   "comédie"
+  ],
+  "P136": [
+   "electropop",
+   "dance-pop",
+   "electronic dance music",
+   "art pop",
+   "pop",
+   "synth-pop"
+  ]
+ },
+ "musique-populaire_adele": {
+  "qid": "Q23215",
+  "P569": [
+   "1988"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "composition",
+   "chanson",
+   "auteur-compositeur ou autrice-compositrice"
+  ],
+  "P136": [
+   "pop",
+   "blue-eyed soul",
+   "rhythm and blues",
+   "soul",
+   "jazz",
+   "rock"
+  ]
+ },
+ "musique-populaire_shakira": {
+  "qid": "Q34424",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "Espagne",
+   "Colombie"
+  ],
+  "P136": [
+   "pop",
+   "pop latino",
+   "pop rock",
+   "rock latino",
+   "musique de danse",
+   "folk",
+   "musique du monde",
+   "RnB contemporain",
+   "rock"
+  ]
+ },
+ "musique-populaire_bts-groupe": {
+  "qid": "Q13580495",
+  "P800": [
+   "IDOL",
+   "Dynamite",
+   "Butter"
+  ],
+  "P101": [
+   "K-pop"
+  ],
+  "P571": [
+   "2013"
+  ],
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P17": [
+   "Corée du Sud"
+  ],
+  "P136": [
+   "K-pop",
+   "dance-pop",
+   "Hip-hop en Corée du Sud"
+  ],
+  "P527": [
+   "V",
+   "J-Hope",
+   "Jin",
+   "Jeon Jungkook",
+   "Suga",
+   "RM",
+   "Jimin"
+  ]
+ },
+ "musique-populaire_charles-trenet": {
+  "qid": "Q212549",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2001",
+   "2001"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "chanson française",
+   "sardane"
+  ]
+ },
+ "musique-populaire_dalida": {
+  "qid": "Q539171",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "Égypte",
+   "France"
+  ],
+  "P101": [
+   "divertissement",
+   "spectacle vivant"
+  ],
+  "P136": [
+   "chanson française",
+   "pop",
+   "chanson traditionnelle",
+   "disco",
+   "musique arabe"
+  ]
+ },
+ "musique-populaire_claude-francois": {
+  "qid": "Q365985",
+  "P569": [
+   "1939"
+  ],
+  "P570": [
+   "1978"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "danse",
+   "chant",
+   "musique"
+  ],
+  "P136": [
+   "yéyé",
+   "chanson française",
+   "disco",
+   "pop",
+   "ballade"
+  ]
+ },
+ "musique-populaire_renaud": {
+  "qid": "Q1716",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "chanson française"
+  ]
+ },
+ "musique-populaire_jean-jacques-goldman": {
+  "qid": "Q44709",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Laura",
+   "À nos actes manqués",
+   "J'irai où tu iras",
+   "Je te donne",
+   "Quand la musique est bonne"
+  ],
+  "P136": [
+   "electropop",
+   "pop rock",
+   "paysage"
+  ]
+ },
+ "musique-populaire_mylene-farmer": {
+  "qid": "Q185002",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Canada",
+   "France"
+  ],
+  "P800": [
+   "Confession",
+   "Confession",
+   "Confession"
+  ],
+  "P101": [
+   "poésie",
+   "composition"
+  ],
+  "P136": [
+   "pop",
+   "synth-pop",
+   "trip hop",
+   "pop rock",
+   "darkwave",
+   "pop française",
+   "musique de danse",
+   "europop",
+   "heavenly voices",
+   "pop gothique",
+   "dark pop"
+  ]
+ },
+ "musique-populaire_indochine-groupe": {
+  "qid": "Q1122583",
+  "P571": [
+   "1981"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "new wave",
+   "rock"
+  ],
+  "P527": [
+   "Nicola Sirkis",
+   "Stéphane Sirkis",
+   "Dominique Nicolas",
+   "François Matuszenski",
+   "François Soulier",
+   "Dimitri Bodiansky",
+   "Olivier Gérard",
+   "Boris Jardel",
+   "Marc Éliard",
+   "Ludwig Dahlberg"
+  ]
+ },
+ "musique-populaire_mc-solaar": {
+  "qid": "Q918784",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "France",
+   "Tchad"
+  ],
+  "P136": [
+   "hip-hop français",
+   "jazz rap",
+   "rap politique"
+  ]
+ },
+ "musique-populaire_supreme-ntm": {
+  "qid": "Q1479960",
+  "P571": [
+   "1989"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "hip-hop"
+  ],
+  "P527": [
+   "Joeystarr",
+   "Kool Shen"
+  ]
+ },
+ "musique-populaire_stromae": {
+  "qid": "Q313453",
+  "P569": [
+   "1985"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P800": [
+   "Formidable",
+   "Papaoutai",
+   "Alors on danse",
+   "Tous les mêmes",
+   "Cheese",
+   "Racine carrée Live",
+   "Racine carrée",
+   "Ta fête",
+   "Te quiero",
+   "Carmen",
+   "Fils de joie",
+   "Santé",
+   "L'Enfer",
+   "Ma meilleure ennemie"
+  ],
+  "P136": [
+   "hip-hop en Belgique",
+   "house",
+   "musique électronique",
+   "electropop",
+   "synth-pop",
+   "New beat",
+   "eurodance",
+   "hip-hop"
+  ]
+ },
+ "musique-populaire_aya-nakamura": {
+  "qid": "Q37793136",
+  "P569": [
+   "1995"
+  ],
+  "P27": [
+   "France",
+   "Mali"
+  ],
+  "P136": [
+   "afrobeat",
+   "RnB contemporain français",
+   "pop urbaine",
+   "zouk",
+   "reggaeton"
+  ]
+ },
+ "musique-populaire_celine-dion": {
+  "qid": "Q5105",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P136": [
+   "pop",
+   "electronic dance music",
+   "rock",
+   "musique contemporaine pour adulte",
+   "dance-pop",
+   "pop rock",
+   "soft rock",
+   "chanson française"
+  ]
+ },
+ "musique-populaire_david-guetta": {
+  "qid": "Q8298",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "electronic dance music",
+   "house",
+   "electroclash",
+   "electro house"
+  ]
+ },
+ "musique-populaire_jean-michel-jarre": {
+  "qid": "Q104326",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "ambient",
+   "rock progressif",
+   "rock électronique",
+   "musique instrumentale",
+   "musique électronique",
+   "trance",
+   "musique de film"
+  ],
+  "P136": [
+   "ambient"
+  ]
+ },
+ "musique-populaire_miriam-makeba": {
+  "qid": "Q146256",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2008",
+   "2008"
+  ],
+  "P27": [
+   "Algérie",
+   "Afrique du Sud",
+   "Guinée",
+   "union d'Afrique du Sud"
+  ],
+  "P136": [
+   "Marabi",
+   "rock",
+   "musique du monde",
+   "afro-pop",
+   "jazz",
+   "township music"
+  ]
+ },
+ "musique-populaire_youssou-n-dour": {
+  "qid": "Q210734",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "Sénégal"
+  ],
+  "P136": [
+   "Mbalax",
+   "afrobeat"
+  ]
+ },
+ "musique-populaire_oum-kalthoum": {
+  "qid": "Q1110560",
+  "P569": [
+   "1898",
+   "1904"
+  ],
+  "P570": [
+   "1975"
+  ],
+  "P27": [
+   "royaume d'Égypte",
+   "République d'Égypte",
+   "République arabe unie",
+   "Égypte",
+   "khédivat d'Égypte",
+   "sultanat d'Égypte"
+  ],
+  "P136": [
+   "musique égyptienne"
+  ]
+ },
+ "musique-populaire_khaled-chanteur": {
+  "qid": "Q312609",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Algérie"
+  ],
+  "P136": [
+   "raï",
+   "jazz",
+   "pop"
+  ]
+ },
+ "musique-populaire_celia-cruz": {
+  "qid": "Q474045",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "États-Unis",
+   "Cuba"
+  ],
+  "P136": [
+   "rumba",
+   "salsa"
+  ]
+ },
+ "musique-populaire_carlos-santana": {
+  "qid": "Q819016",
+  "P569": [
+   "1947",
+   "1947"
+  ],
+  "P27": [
+   "Mexique",
+   "États-Unis"
+  ],
+  "P136": [
+   "rock",
+   "musique latino-américaine"
+  ]
+ },
+ "musique-populaire_antonio-carlos-jobim": {
+  "qid": "Q200131",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P101": [
+   "musique"
+  ],
+  "P136": [
+   "jazz",
+   "bossa nova",
+   "latin jazz"
+  ]
+ },
+ "musique-populaire_carlos-gardel": {
+  "qid": "Q229613",
+  "P569": [
+   "1890",
+   "1890",
+   "1887"
+  ],
+  "P570": [
+   "1935"
+  ],
+  "P27": [
+   "Argentine",
+   "Uruguay",
+   "France"
+  ],
+  "P101": [
+   "musique",
+   "tango",
+   "film"
+  ],
+  "P136": [
+   "tango"
+  ]
+ },
+ "musique-populaire_paco-de-lucia": {
+  "qid": "Q153300",
+  "P569": [
+   "1947",
+   "1947"
+  ],
+  "P570": [
+   "2014",
+   "2014"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P136": [
+   "jazz",
+   "flamenco",
+   "musique classique",
+   "jazz fusion"
+  ]
+ },
+ "musique-populaire_charlie-parker": {
+  "qid": "Q103767",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "jazz"
+  ],
+  "P136": [
+   "jazz",
+   "bebop"
+  ]
+ },
+ "musique-populaire_django-reinhardt": {
+  "qid": "Q44122",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P136": [
+   "jazz",
+   "jazz manouche",
+   "bebop",
+   "musique tzigane"
+  ]
+ }
+}

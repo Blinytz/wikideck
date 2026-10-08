@@ -1,0 +1,87 @@
+{
+ "vehicules-mythiques_argo-mythologie": {
+  "qid": "Q317932"
+ },
+ "vehicules-mythiques_hollandais-volant": {
+  "qid": "Q39252"
+ },
+ "vehicules-mythiques_vimana": {
+  "qid": "Q498647"
+ },
+ "vehicules-mythiques_skidbladnir": {
+  "qid": "Q1123118"
+ },
+ "vehicules-mythiques_naglfar": {
+  "qid": "Q846277",
+  "P186": [
+   "ongle"
+  ]
+ },
+ "vehicules-mythiques_barque-solaire": {
+  "qid": "Q636041",
+  "P17": [
+   "Égypte antique"
+  ]
+ },
+ "vehicules-mythiques_tapis-volant": {
+  "qid": "Q740881",
+  "P186": [
+   "tapis"
+  ]
+ },
+ "vehicules-mythiques_bouraq": {
+  "qid": "Q332242",
+  "P131": [
+   "Jérusalem"
+  ],
+  "P17": [
+   "Israël",
+   "État de Palestine"
+  ]
+ },
+ "vehicules-mythiques_nautilus-jules-verne": {
+  "qid": "Q19967",
+  "P170": [
+   "Jules Verne"
+  ]
+ },
+ "vehicules-mythiques_char-solaire": {
+  "qid": "Q1113875"
+ },
+ "vehicules-mythiques_balai-magique": {
+  "qid": "Q20181630",
+  "P186": [
+   "Genista bristle"
+  ]
+ },
+ "vehicules-mythiques_hringhorni": {
+  "qid": "Q1424849"
+ },
+ "vehicules-mythiques_merkabah": {
+  "qid": "Q1573644"
+ },
+ "vehicules-mythiques_tanngrisnir-et-tanngnjostr": {
+  "qid": "Q1047946",
+  "P527": [
+   "Tanngnjóst",
+   "Tanngrísnir"
+  ]
+ },
+ "vehicules-mythiques_kinto-un": {
+  "qid": "Q387201"
+ },
+ "vehicules-mythiques_rennes-du-pere-noel": {
+  "qid": "Q963088",
+  "P527": [
+   "Rodolphe le renne au nez rouge",
+   "Dasher",
+   "Dancer",
+   "Prancer",
+   "Vixen",
+   "Comet",
+   "Cupid",
+   "Donner",
+   "Blitzen"
+  ]
+ }
+}

@@ -1,0 +1,575 @@
+{
+ "festivals-et-recompenses-cinema_festival-de-cannes": {
+  "qid": "Q42369",
+  "P571": [
+   "1946"
+  ],
+  "P276": [
+   "Cannes"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Cannes Classics",
+   "Un certain regard",
+   "Cinéma de la Plage",
+   "Quinzaine des cinéastes",
+   "Semaine de la critique",
+   "Cinéfondation"
+  ]
+ },
+ "festivals-et-recompenses-cinema_mostra-de-venise": {
+  "qid": "Q49024",
+  "P571": [
+   "1932"
+  ],
+  "P276": [
+   "Lido de Venise"
+  ],
+  "P131": [
+   "Venise"
+  ],
+  "P17": [
+   "Italie"
+  ]
+ },
+ "festivals-et-recompenses-cinema_berlinale": {
+  "qid": "Q130871",
+  "P571": [
+   "1951"
+  ],
+  "P276": [
+   "Berlin"
+  ],
+  "P17": [
+   "Allemagne"
+  ]
+ },
+ "festivals-et-recompenses-cinema_oscars-du-cinema": {
+  "qid": "Q19020",
+  "P571": [
+   "1929"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Oscar du meilleur film",
+   "Oscar du meilleur réalisateur",
+   "oscar du meilleur acteur",
+   "Oscar de la meilleure actrice",
+   "Oscar du meilleur acteur dans un second rôle",
+   "Oscar de la meilleure actrice dans un second rôle",
+   "Oscar du meilleur film d'animation",
+   "Oscar du meilleur film international",
+   "Oscar du meilleur scénario original",
+   "Oscar du meilleur scénario adapté",
+   "Oscar de la meilleure photographie",
+   "Oscar de la meilleure chanson originale",
+   "Oscar de la meilleure création de costumes",
+   "Oscar de la meilleure réalisation (comédie)",
+   "Oscar de la meilleure musique de film",
+   "Oscar de la meilleure partition originale pour un film dramatique",
+   "Oscar du meilleur film documentaire",
+   "Oscar du meilleur casting"
+  ]
+ },
+ "festivals-et-recompenses-cinema_cesar-du-cinema": {
+  "qid": "Q174389",
+  "P571": [
+   "1976"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "César du meilleur film",
+   "César de la meilleure réalisation",
+   "César du meilleur acteur",
+   "César de la meilleure actrice",
+   "César du meilleur acteur dans un second rôle",
+   "César de la meilleure actrice dans un second rôle",
+   "César de la meilleure révélation masculine",
+   "César de la meilleure révélation féminine",
+   "César du meilleur scénario original",
+   "César de la meilleure adaptation",
+   "César du meilleur scénario original ou adaptation",
+   "César des meilleurs décors",
+   "César des meilleurs costumes",
+   "César de la meilleure photographie",
+   "César du meilleur montage",
+   "César du meilleur son",
+   "César de la meilleure musique originale",
+   "César du meilleur premier film",
+   "César du meilleur film d'animation",
+   "César du meilleur court-métrage d'animation",
+   "César du meilleur film documentaire",
+   "César du meilleur film étranger",
+   "César du meilleur film de l'Union européenne",
+   "César du meilleur film francophone",
+   "César du meilleur court-métrage",
+   "César du meilleur court-métrage de fiction",
+   "César du meilleur court-métrage documentaire",
+   "César de la meilleure affiche",
+   "César du meilleur film publicitaire",
+   "César d'honneur",
+   "prix Daniel-Toscan-du-Plantier",
+   "César du meilleur producteur",
+   "trophée César & Techniques",
+   "Médaille d'or de l'Académie des arts et techniques du cinéma",
+   "César du public"
+  ]
+ },
+ "festivals-et-recompenses-cinema_golden-globes": {
+  "qid": "Q1011547",
+  "P571": [
+   "1944"
+  ],
+  "P276": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Golden Globe du meilleur film musical ou de comédie",
+   "Golden Globe du meilleur film dramatique",
+   "Golden Globe du meilleur réalisateur",
+   "Golden Globe du meilleur acteur dans un film dramatique",
+   "Golden Globe du meilleur acteur dans un film musical ou une comédie",
+   "Golden Globe de la meilleure actrice dans un film dramatique",
+   "Golden Globe de la meilleure actrice dans un film musical ou une comédie",
+   "Golden Globe du meilleur acteur dans un second rôle",
+   "Golden Globe de la meilleure actrice dans un second rôle",
+   "Golden Globe du meilleur scénario",
+   "Golden Globe de la meilleure musique de film",
+   "Golden Globe de la meilleure chanson originale",
+   "Golden Globe du meilleur film en langue étrangère",
+   "Golden Globe du meilleur film d'animation",
+   "Cecil B. DeMille Award",
+   "Golden Globe de la meilleure série télévisée dramatique",
+   "Golden Globe de la meilleure série télévisée musicale ou comique",
+   "Golden Globe du meilleur acteur dans une série télévisée dramatique",
+   "Golden Globe du meilleur acteur dans une série télévisée musicale ou comique",
+   "Golden Globe de la meilleure actrice dans une série télévisée dramatique",
+   "Golden Globe de la meilleure actrice dans une série télévisée musicale ou comique",
+   "Golden Globe de la meilleure mini-série ou du meilleur téléfilm",
+   "Golden Globe du meilleur acteur dans une mini-série ou un téléfilm",
+   "Golden Globe de la meilleure actrice dans une mini-série ou un téléfilm",
+   "Golden Globe du meilleur acteur dans un second rôle dans une série, une mini-série ou un téléfilm",
+   "Golden Globe de la meilleure actrice dans un second rôle dans une série, une mini-série ou un téléfilm",
+   "Golden Globe du meilleur documentaire",
+   "Golden Globe Award for Best English-Language Foreign Film",
+   "Golden Globe de la révélation masculine de l'année",
+   "Golden Globe de la révélation féminine de l'année",
+   "Henrietta Award",
+   "Golden Globe de la meilleure promotion pour l'entente internationale"
+  ]
+ },
+ "festivals-et-recompenses-cinema_british-academy-film-awards": {
+  "qid": "Q732997",
+  "P571": [
+   "1949"
+  ],
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P527": [
+   "British Academy Film Award du meilleur film",
+   "British Academy Film Award du meilleur film britannique",
+   "British Academy Film Award du meilleur film documentaire",
+   "British Academy Film Award du meilleur court métrage",
+   "British Academy Film Award du meilleur film en langue étrangère",
+   "British Academy Film Award du meilleur film d'animation",
+   "BAFTA Award for Best Short Animation",
+   "British Academy Film Award du meilleur acteur",
+   "British Academy Film Award de la meilleure actrice",
+   "British Academy Film Award du meilleur acteur dans un second rôle",
+   "British Academy Film Award de la meilleure actrice dans un second rôle",
+   "British Academy Film Award du meilleur réalisateur",
+   "British Academy Film Award de la meilleure musique de film",
+   "British Academy Film Award de la meilleure photographie",
+   "British Academy Film Award des meilleurs décors",
+   "British Academy Film Award du meilleur son",
+   "British Academy Film Award du meilleur casting",
+   "British Academy Film Award des meilleurs costumes",
+   "British Academy Film Award du meilleur montage",
+   "British Academy Film Award des meilleurs maquillages et coiffures",
+   "British Academy Film Award des meilleurs effets visuels",
+   "British Academy Film Award du meilleur scénario original",
+   "British Academy Film Award du meilleur scénario adapté",
+   "BAFTA Fellowship",
+   "British Academy Film Award de la meilleure contribution au cinéma britannique",
+   "British Academy Film Award du meilleur nouveau scénariste, réalisateur ou producteur britannique",
+   "Rising Star Awards"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-de-cinema-de-sundance": {
+  "qid": "Q189887",
+  "P571": [
+   "1978"
+  ],
+  "P276": [
+   "Park City"
+  ],
+  "P131": [
+   "Utah",
+   "Colorado"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P136": [
+   "cinéma indépendant"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-de-toronto": {
+  "qid": "Q390018",
+  "P571": [
+   "1976"
+  ],
+  "P276": [
+   "TIFF Bell Lightbox"
+  ],
+  "P17": [
+   "Canada"
+  ],
+  "P527": [
+   "TIFF Cinémathèque",
+   "Toronto International Film Festival Award for Best Canadian First Feature Film"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-d-animation-d-annecy": {
+  "qid": "Q1408677",
+  "P571": [
+   "1960"
+  ],
+  "P276": [
+   "Annecy"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Cristal du long métrage",
+   "Cristal du court métrage"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-du-cinema-americain-de-deauville": {
+  "qid": "Q1408657",
+  "P571": [
+   "1975"
+  ],
+  "P276": [
+   "Deauville"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-de-locarno": {
+  "qid": "Q502053",
+  "P571": [
+   "1946"
+  ],
+  "P276": [
+   "Locarno"
+  ],
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-de-saint-sebastien": {
+  "qid": "Q622423",
+  "P571": [
+   "1953"
+  ],
+  "P276": [
+   "Saint-Sébastien"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "Official Section",
+   "New Directors",
+   "Horizontes Latinos",
+   "Zabaltegi-Tabakalera",
+   "Pearls",
+   "Eusko Label",
+   "Zinemira",
+   "Q140360500",
+   "Q140360530",
+   "Made in Spain",
+   "Surprise Film",
+   "Loterias Short Films",
+   "Nest",
+   "Belodromoa",
+   "Films for Kids",
+   "Q140360578",
+   "Q140360608",
+   "Q140360612",
+   "Q140360614",
+   "Classic Films"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-de-busan": {
+  "qid": "Q482633",
+  "P571": [
+   "1996"
+  ],
+  "P276": [
+   "Busan Cinema Center"
+  ],
+  "P131": [
+   "Pusan"
+  ],
+  "P17": [
+   "Corée du Sud"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-du-court-metrage-de-clermont-ferrand": {
+  "qid": "Q465682",
+  "P571": [
+   "1979"
+  ],
+  "P276": [
+   "Clermont-Ferrand"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_prix-louis-delluc": {
+  "qid": "Q734335",
+  "P571": [
+   "1937"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_prix-goya": {
+  "qid": "Q212828",
+  "P571": [
+   "1987"
+  ],
+  "P17": [
+   "Espagne"
+  ],
+  "P527": [
+   "prix Goya du meilleur film",
+   "prix Goya du meilleur réalisateur",
+   "prix Goya du meilleur acteur",
+   "prix Goya de la meilleure actrice",
+   "prix Goya du meilleur acteur dans un second rôle",
+   "prix Goya de la meilleure actrice dans un second rôle",
+   "prix Goya du meilleur nouveau réalisateur",
+   "prix Goya du meilleur espoir masculin",
+   "prix Goya du meilleur espoir féminin",
+   "prix Goya du meilleur scénario adapté",
+   "prix Goya du meilleur scénario original",
+   "prix Goya de la meilleure photographie",
+   "prix Goya du meilleur montage",
+   "prix Goya d'honneur",
+   "prix Goya de la meilleure musique originale",
+   "prix Goya de la meilleure chanson originale",
+   "prix Goya du meilleur court métrage documentaire",
+   "prix Goya du meilleur court-métrage de fiction",
+   "Goya Award for Best Animated Short Film"
+  ]
+ },
+ "festivals-et-recompenses-cinema_emmy-awards": {
+  "qid": "Q123737",
+  "P170": [
+   "Académie des arts et des sciences de la télévision",
+   "Académie nationale des arts et des sciences de la télévision"
+  ],
+  "P571": [
+   "1949"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Primetime Emmy Award",
+   "Daytime Emmy Award",
+   "International Emmy Awards",
+   "Sports Emmy Awards",
+   "Technology and Engineering Emmy Award",
+   "News and Documentary Emmy Awards",
+   "Children's and Family Emmy Awards",
+   "Creative Arts Emmy Awards"
+  ]
+ },
+ "festivals-et-recompenses-cinema_razzie-awards": {
+  "qid": "Q40237",
+  "P571": [
+   "1981"
+  ],
+  "P276": [
+   "Los Angeles"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Golden Raspberry Award for Worst Visual Effects",
+   "Golden Raspberry Award for Worst Picture",
+   "Razzie Award du pire acteur",
+   "Golden Raspberry Award for Worst Actress",
+   "Golden Raspberry Award for Worst Actress of the Decade",
+   "Golden Raspberry Award for Worst Supporting Actor - Razzie Award",
+   "Golden Raspberry Award for Worst Supporting Actress",
+   "Razzie Award du pire film",
+   "prix Razzie Award pour le pire couple à l’écran",
+   "Golden Raspberry Award for Worst Screen Ensemble",
+   "Golden Raspberry Award for Worst Original Song"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-lumiere": {
+  "qid": "Q10957",
+  "P571": [
+   "2009"
+  ],
+  "P276": [
+   "Métropole de Lyon"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-de-gerardmer": {
+  "qid": "Q568219",
+  "P571": [
+   "1994"
+  ],
+  "P276": [
+   "Gérardmer"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-fantastique-d-avoriaz": {
+  "qid": "Q2535455",
+  "P571": [
+   "1973"
+  ],
+  "P276": [
+   "Avoriaz"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "festivals-et-recompenses-cinema_lumieres-de-la-presse-internationale": {
+  "qid": "Q693797",
+  "P571": [
+   "1996"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Prix Lumières du meilleur film",
+   "Lumière de la meilleure mise en scène",
+   "prix Lumières de la meilleure actrice",
+   "prix Lumières du meilleur acteur",
+   "prix Lumières du meilleur scénario",
+   "Prix Lumières du meilleur film étranger",
+   "Lumière d'honneur",
+   "Lumière de la révélation féminine",
+   "Lumière de la révélation masculine",
+   "prix Lumières du meilleur film francophone",
+   "prix du public mondial",
+   "Lumière de la meilleure image",
+   "Prix spécial de l'Académie des prix Lumières",
+   "prix Lumières du meilleur premier film",
+   "Prix Lumières du meilleur documentaire",
+   "Prix Lumières de la meilleure musique",
+   "Prix Lumières du meilleur film d'animation",
+   "Lumière de la meilleure coproduction internationale"
+  ]
+ },
+ "festivals-et-recompenses-cinema_european-film-awards": {
+  "qid": "Q223740",
+  "P571": [
+   "1988",
+   "1988"
+  ],
+  "P527": [
+   "prix du cinéma européen du meilleur film",
+   "prix du cinéma européen du meilleur réalisateur",
+   "prix du cinéma européen du meilleur acteur",
+   "prix du cinéma européen de la meilleure actrice",
+   "European Film Award for Best Supporting Actor",
+   "European Film Award for Best Supporting Actress",
+   "prix du cinéma européen du meilleur film d'animation",
+   "European Film Award for Best Achievement",
+   "prix du cinéma européen du meilleur directeur de la photographie",
+   "prix du cinéma européen du meilleur compositeur",
+   "prix du cinéma européen de la meilleure comédie",
+   "European Film Award for Best Supporting Performance",
+   "European Film Award for Best Sound Designer",
+   "prix du cinéma européen du meilleur court métrage",
+   "prix du cinéma européen du meilleur scénariste",
+   "prix du cinéma européen du meilleur chef décorateur",
+   "prix du cinéma européen du meilleur film non-européen",
+   "European Film Award for Best Hair and Makeup Artist",
+   "prix du cinéma européen du meilleur monteur",
+   "European Film Award for Best Young Actor or Actress",
+   "Discovery of the Year",
+   "European Film Award for Best Visual Effects",
+   "European Film Award for Best European Co-Producer",
+   "prix du cinéma européen du meilleur film documentaire",
+   "European Film Award for Best Costume Designer"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-panafricain-du-cinema-et-de-la-television-de-ouagadougou": {
+  "qid": "Q1202380",
+  "P571": [
+   "1969"
+  ],
+  "P276": [
+   "Ouagadougou"
+  ],
+  "P131": [
+   "Ouagadougou"
+  ],
+  "P17": [
+   "Burkina Faso"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-international-du-film-de-karlovy-vary": {
+  "qid": "Q332869",
+  "P571": [
+   "1946"
+  ],
+  "P276": [
+   "Carlsbad",
+   "Marienbad"
+  ],
+  "P131": [
+   "Carlsbad"
+  ],
+  "P17": [
+   "Tchéquie",
+   "Tchécoslovaquie"
+  ]
+ },
+ "festivals-et-recompenses-cinema_festival-du-film-de-tribeca": {
+  "qid": "Q853325",
+  "P571": [
+   "2002"
+  ],
+  "P276": [
+   "TriBeCa",
+   "New York"
+  ],
+  "P17": [
+   "États-Unis"
+  ]
+ }
+}

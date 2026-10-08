@@ -1,0 +1,519 @@
+{
+ "monnaies-historiques_drachme-grece-antique": {
+  "qid": "Q15078648",
+  "P17": [
+   "République romaine"
+  ]
+ },
+ "monnaies-historiques_statere": {
+  "qid": "Q921668"
+ },
+ "monnaies-historiques_obole-monnaie": {
+  "qid": "Q384102",
+  "P527": [
+   "obol"
+  ]
+ },
+ "monnaies-historiques_talent-unite": {
+  "qid": "Q190139",
+  "P17": [
+   "Grèce antique",
+   "Rome antique",
+   "Babylonie"
+  ]
+ },
+ "monnaies-historiques_mine-unite": {
+  "qid": "Q850029"
+ },
+ "monnaies-historiques_sicle": {
+  "qid": "Q1404428"
+ },
+ "monnaies-historiques_denier-monnaie": {
+  "qid": "Q187776",
+  "P17": [
+   "Rome antique"
+  ],
+  "P186": [
+   "argent"
+  ]
+ },
+ "monnaies-historiques_sesterce": {
+  "qid": "Q208041",
+  "P571": [
+   "-211"
+  ],
+  "P17": [
+   "Rome antique"
+  ],
+  "P186": [
+   "argent",
+   "bronze",
+   "laiton"
+  ]
+ },
+ "monnaies-historiques_as-monnaie": {
+  "qid": "Q376895",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "monnaies-historiques_aureus": {
+  "qid": "Q476078",
+  "P17": [
+   "République romaine"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_antoninien": {
+  "qid": "Q599170",
+  "P17": [
+   "Rome antique"
+  ],
+  "P186": [
+   "argent"
+  ]
+ },
+ "monnaies-historiques_follis": {
+  "qid": "Q1135840",
+  "P17": [
+   "Rome antique"
+  ]
+ },
+ "monnaies-historiques_solidus-monnaie": {
+  "qid": "Q231455",
+  "P17": [
+   "Empire byzantin"
+  ]
+ },
+ "monnaies-historiques_besant": {
+  "qid": "Q649847"
+ },
+ "monnaies-historiques_hyperperion": {
+  "qid": "Q127441",
+  "P17": [
+   "Empire byzantin"
+  ]
+ },
+ "monnaies-historiques_denier-franc": {
+  "qid": "Q526050",
+  "P17": [
+   "royaume de France"
+  ]
+ },
+ "monnaies-historiques_gros-tournois": {
+  "qid": "Q118288355",
+  "P17": [
+   "royaume de France"
+  ],
+  "P186": [
+   "argent"
+  ]
+ },
+ "monnaies-historiques_livre-tournois": {
+  "qid": "Q2670039",
+  "P17": [
+   "royaume de France",
+   "Première République française"
+  ]
+ },
+ "monnaies-historiques_florin": {
+  "qid": "Q203607"
+ },
+ "monnaies-historiques_ducat": {
+  "qid": "Q202018"
+ },
+ "monnaies-historiques_maravedis": {
+  "qid": "Q1248202",
+  "P17": [
+   "Espagne"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_ecu-monnaie": {
+  "qid": "Q273724",
+  "P17": [
+   "royaume de France"
+  ]
+ },
+ "monnaies-historiques_louis-monnaie": {
+  "qid": "Q1430760",
+  "P571": [
+   "1640"
+  ],
+  "P17": [
+   "royaume de France"
+  ]
+ },
+ "monnaies-historiques_real-espagnol": {
+  "qid": "Q1370372",
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "monnaies-historiques_doublon-monnaie": {
+  "qid": "Q389152",
+  "P17": [
+   "Empire espagnol"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_pistole-monnaie": {
+  "qid": "Q644463",
+  "P17": [
+   "Empire espagnol"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_piastre": {
+  "qid": "Q17074907"
+ },
+ "monnaies-historiques_thaler": {
+  "qid": "Q162528"
+ },
+ "monnaies-historiques_souverain-piece-en-or": {
+  "qid": "Q584496",
+  "P17": [
+   "Royaume-Uni"
+  ]
+ },
+ "monnaies-historiques_guinee-monnaie": {
+  "qid": "Q918094",
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_farthing": {
+  "qid": "Q1140080",
+  "P17": [
+   "Royaume-Uni"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "monnaies-historiques_franc-francais": {
+  "qid": "Q184172",
+  "P17": [
+   "France",
+   "Monaco",
+   "Andorre"
+  ],
+  "P527": [
+   "franc germinal",
+   "franc Poincaré",
+   "franc français"
+  ]
+ },
+ "monnaies-historiques_franc-belge": {
+  "qid": "Q232415",
+  "P17": [
+   "Belgique"
+  ]
+ },
+ "monnaies-historiques_lire-italienne": {
+  "qid": "Q204992",
+  "P17": [
+   "Italie",
+   "royaume d'Italie"
+  ]
+ },
+ "monnaies-historiques_peseta-espagnole": {
+  "qid": "Q189097",
+  "P17": [
+   "Espagne",
+   "Andorre",
+   "capitainerie générale de Cuba",
+   "capitainerie générale des Philippines",
+   "capitainerie générale de Porto Rico",
+   "Ifni",
+   "Sahara occidental",
+   "protectorat espagnol au Maroc",
+   "Guinée équatoriale"
+  ]
+ },
+ "monnaies-historiques_escudo-portugais": {
+  "qid": "Q468474",
+  "P17": [
+   "Portugal"
+  ]
+ },
+ "monnaies-historiques_florin-neerlandais": {
+  "qid": "Q788472",
+  "P17": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "monnaies-historiques_drachme-grece-moderne": {
+  "qid": "Q1546443",
+  "P17": [
+   "Grèce"
+  ]
+ },
+ "monnaies-historiques_schilling-autrichien": {
+  "qid": "Q208730",
+  "P17": [
+   "Autriche",
+   "Première République d'Autriche"
+  ]
+ },
+ "monnaies-historiques_mark-finlandais": {
+  "qid": "Q203354",
+  "P571": [
+   "1860"
+  ],
+  "P17": [
+   "Finlande",
+   "Empire russe"
+  ]
+ },
+ "monnaies-historiques_deutsche-mark": {
+  "qid": "Q16068",
+  "P276": [
+   "Trizone",
+   "Berlin-Ouest"
+  ],
+  "P17": [
+   "Allemagne de l'Ouest",
+   "Allemagne"
+  ]
+ },
+ "monnaies-historiques_reichsmark": {
+  "qid": "Q155009",
+  "P17": [
+   "république de Weimar",
+   "Troisième Reich"
+  ],
+  "P527": [
+   "reichspfennig"
+  ]
+ },
+ "monnaies-historiques_papiermark": {
+  "qid": "Q705983",
+  "P17": [
+   "Empire allemand",
+   "république de Weimar"
+  ]
+ },
+ "monnaies-historiques_rentenmark": {
+  "qid": "Q260447",
+  "P17": [
+   "république de Weimar",
+   "Troisième Reich",
+   "Allemagne occupée"
+  ]
+ },
+ "monnaies-historiques_mark-est-allemand": {
+  "qid": "Q157011",
+  "P17": [
+   "zone d'occupation soviétique en Allemagne",
+   "République démocratique allemande"
+  ]
+ },
+ "monnaies-historiques_rouble-sovietique": {
+  "qid": "Q615640",
+  "P17": [
+   "Union soviétique",
+   "Russie",
+   "Tadjikistan"
+  ]
+ },
+ "monnaies-historiques_sapeque": {
+  "qid": "Q8572111",
+  "P495": [
+   "Chine"
+  ]
+ },
+ "monnaies-historiques_assignat": {
+  "qid": "Q281914",
+  "P17": [
+   "France"
+  ]
+ },
+ "monnaies-historiques_collier-de-wampum": {
+  "qid": "Q943899",
+  "P186": [
+   "coquille",
+   "Busycotypus canaliculatus",
+   "Mercenaria mercenaria"
+  ]
+ },
+ "monnaies-historiques_monetaria-moneta": {
+  "qid": "Q1314137"
+ },
+ "monnaies-historiques_anciennes-monnaies-chinoises": {
+  "qid": "Q4752816"
+ },
+ "monnaies-historiques_monnaie-de-pierre": {
+  "qid": "Q917019",
+  "P17": [
+   "États fédérés de Micronésie",
+   "Palaos"
+  ]
+ },
+ "monnaies-historiques_manille-monnaie": {
+  "qid": "Q1890419",
+  "P186": [
+   "cuivre",
+   "bronze",
+   "or"
+  ]
+ },
+ "monnaies-historiques_drachme-grece-antique-b": {
+  "qid": "Q15078648",
+  "P17": [
+   "République romaine"
+  ]
+ },
+ "monnaies-historiques_darique": {
+  "qid": "Q1346045",
+  "P17": [
+   "Empire achéménide"
+  ]
+ },
+ "monnaies-historiques_dinar-or": {
+  "qid": "Q11220294",
+  "P571": [
+   "696"
+  ],
+  "P17": [
+   "Califat arabe",
+   "Califat omeyyade",
+   "Égypte au Moyen Âge"
+  ]
+ },
+ "monnaies-historiques_liard-monnaie": {
+  "qid": "Q732740",
+  "P17": [
+   "royaume de France",
+   "Royaume de Navarre (Haute-Navarre)"
+  ]
+ },
+ "monnaies-historiques_franc-a-cheval": {
+  "qid": "Q3080522",
+  "P571": [
+   "1360"
+  ]
+ },
+ "monnaies-historiques_napoleon-piece-de-monnaie": {
+  "qid": "Q733369",
+  "P17": [
+   "Premier Empire français",
+   "Second Empire"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_franc-francais-b": {
+  "qid": "Q184172",
+  "P17": [
+   "France",
+   "Monaco",
+   "Andorre"
+  ],
+  "P527": [
+   "franc germinal",
+   "franc Poincaré",
+   "franc français"
+  ]
+ },
+ "monnaies-historiques_franc-francais-b-b": {
+  "qid": "Q184172",
+  "P17": [
+   "France",
+   "Monaco",
+   "Andorre"
+  ],
+  "P527": [
+   "franc germinal",
+   "franc Poincaré",
+   "franc français"
+  ]
+ },
+ "monnaies-historiques_penny": {
+  "qid": "Q234129"
+ },
+ "monnaies-historiques_shilling": {
+  "qid": "Q213142"
+ },
+ "monnaies-historiques_united-states-note": {
+  "qid": "Q3550749",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monnaies-historiques_piece-de-1-dollar-americain-morgan": {
+  "qid": "Q1785103",
+  "P17": [
+   "États-Unis"
+  ]
+ },
+ "monnaies-historiques_thaler-de-marie-therese": {
+  "qid": "Q661169",
+  "P571": [
+   "1741"
+  ]
+ },
+ "monnaies-historiques_krugerrand": {
+  "qid": "Q1057164",
+  "P17": [
+   "Afrique du Sud"
+  ],
+  "P186": [
+   "or"
+  ]
+ },
+ "monnaies-historiques_tael": {
+  "qid": "Q876244"
+ },
+ "monnaies-historiques_ryo": {
+  "qid": "Q7385582",
+  "P527": [
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō",
+   "Ryō"
+  ]
+ },
+ "monnaies-historiques_mohur": {
+  "qid": "Q1414902",
+  "P17": [
+   "Raj britannique",
+   "Iran",
+   "Afghanistan",
+   "Empire moghol"
+  ]
+ }
+}

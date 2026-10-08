@@ -1,0 +1,300 @@
+{
+ "mineraux-et-pierres_diamant": {
+  "qid": "Q5283",
+  "P186": [
+   "carbone"
+  ],
+  "P527": [
+   "carbone"
+  ]
+ },
+ "mineraux-et-pierres_rubis": {
+  "qid": "Q43088"
+ },
+ "mineraux-et-pierres_saphir": {
+  "qid": "Q127583",
+  "P527": [
+   "alumine"
+  ]
+ },
+ "mineraux-et-pierres_emeraude": {
+  "qid": "Q43513"
+ },
+ "mineraux-et-pierres_amethyste": {
+  "qid": "Q79058"
+ },
+ "mineraux-et-pierres_topaze-mineral": {
+  "qid": "Q134985"
+ },
+ "mineraux-et-pierres_opale": {
+  "qid": "Q171058"
+ },
+ "mineraux-et-pierres_turquoise-mineral": {
+  "qid": "Q165254"
+ },
+ "mineraux-et-pierres_lapis-lazuli": {
+  "qid": "Q216798"
+ },
+ "mineraux-et-pierres_jade": {
+  "qid": "Q175089"
+ },
+ "mineraux-et-pierres_ambre": {
+  "qid": "Q25381"
+ },
+ "mineraux-et-pierres_perle": {
+  "qid": "Q43436",
+  "P186": [
+   "nacre"
+  ]
+ },
+ "mineraux-et-pierres_quartz-mineral": {
+  "qid": "Q43010",
+  "P527": [
+   "dioxyde de silicium"
+  ]
+ },
+ "mineraux-et-pierres_citrine": {
+  "qid": "Q334719"
+ },
+ "mineraux-et-pierres_malachite": {
+  "qid": "Q164411"
+ },
+ "mineraux-et-pierres_obsidienne": {
+  "qid": "Q53754",
+  "P186": [
+   "quartz",
+   "feldspath"
+  ]
+ },
+ "mineraux-et-pierres_pyrite": {
+  "qid": "Q50769",
+  "P527": [
+   "disulfure de fer"
+  ]
+ },
+ "mineraux-et-pierres_hematite": {
+  "qid": "Q103223",
+  "P527": [
+   "oxyde de fer(III)"
+  ]
+ },
+ "mineraux-et-pierres_magnetite": {
+  "qid": "Q181395",
+  "P527": [
+   "oxyde de fer(II,III)"
+  ]
+ },
+ "mineraux-et-pierres_fluorine": {
+  "qid": "Q102151",
+  "P527": [
+   "fluorure de calcium"
+  ]
+ },
+ "mineraux-et-pierres_calcite": {
+  "qid": "Q171917",
+  "P527": [
+   "carbonate de calcium"
+  ]
+ },
+ "mineraux-et-pierres_gypse": {
+  "qid": "Q82658"
+ },
+ "mineraux-et-pierres_halite": {
+  "qid": "Q5314",
+  "P527": [
+   "chlorure de sodium"
+  ]
+ },
+ "mineraux-et-pierres_talc": {
+  "qid": "Q134583",
+  "P527": [
+   "talc"
+  ]
+ },
+ "mineraux-et-pierres_graphite": {
+  "qid": "Q5309",
+  "P527": [
+   "carbone"
+  ]
+ },
+ "mineraux-et-pierres_or-natif": {
+  "qid": "Q898406",
+  "P527": [
+   "or"
+  ]
+ },
+ "mineraux-et-pierres_argent-natif": {
+  "qid": "Q1057174"
+ },
+ "mineraux-et-pierres_cuivre-natif": {
+  "qid": "Q583353"
+ },
+ "mineraux-et-pierres_galene": {
+  "qid": "Q37559",
+  "P527": [
+   "sulfure de plomb(II)"
+  ]
+ },
+ "mineraux-et-pierres_cinabre": {
+  "qid": "Q104614",
+  "P527": [
+   "sulfure de mercure"
+  ]
+ },
+ "mineraux-et-pierres_bauxite": {
+  "qid": "Q102078",
+  "P527": [
+   "Gibbsite",
+   "Boéhmite",
+   "diaspore",
+   "goethite",
+   "hématite",
+   "kaolinite",
+   "Anatase",
+   "ilménite",
+   "aluminium"
+  ]
+ },
+ "mineraux-et-pierres_meteorite": {
+  "qid": "Q60186"
+ },
+ "mineraux-et-pierres_silex": {
+  "qid": "Q83087",
+  "P186": [
+   "dioxyde de silicium"
+  ]
+ },
+ "mineraux-et-pierres_grenat": {
+  "qid": "Q105368"
+ },
+ "mineraux-et-pierres_tourmaline": {
+  "qid": "Q179911"
+ },
+ "mineraux-et-pierres_peridot": {
+  "qid": "Q288732"
+ },
+ "mineraux-et-pierres_aigue-marine": {
+  "qid": "Q58959"
+ },
+ "mineraux-et-pierres_onyx-mineral": {
+  "qid": "Q180884"
+ },
+ "mineraux-et-pierres_agate": {
+  "qid": "Q123314"
+ },
+ "mineraux-et-pierres_jaspe": {
+  "qid": "Q201175"
+ },
+ "mineraux-et-pierres_quartz-mineral-b": {
+  "qid": "Q43010",
+  "P527": [
+   "dioxyde de silicium"
+  ]
+ },
+ "mineraux-et-pierres_pechblende": {
+  "qid": "Q206467",
+  "P527": [
+   "oxygène",
+   "uranium",
+   "dioxyde d'uranium"
+  ]
+ },
+ "mineraux-et-pierres_beryl": {
+  "qid": "Q103480"
+ },
+ "mineraux-et-pierres_corindon": {
+  "qid": "Q131777",
+  "P527": [
+   "alumine"
+  ]
+ },
+ "mineraux-et-pierres_olivine": {
+  "qid": "Q22693"
+ },
+ "mineraux-et-pierres_feldspath": {
+  "qid": "Q170258"
+ },
+ "mineraux-et-pierres_labradorite": {
+  "qid": "Q430062"
+ },
+ "mineraux-et-pierres_pierre-de-lune": {
+  "qid": "Q430034"
+ },
+ "mineraux-et-pierres_tanzanite": {
+  "qid": "Q429942"
+ },
+ "mineraux-et-pierres_alexandrite": {
+  "qid": "Q1765371"
+ },
+ "mineraux-et-pierres_spinelle": {
+  "qid": "Q191310"
+ },
+ "mineraux-et-pierres_zircon": {
+  "qid": "Q178928",
+  "P186": [
+   "zirconium"
+  ]
+ },
+ "mineraux-et-pierres_il-de-tigre": {
+  "qid": "Q430007"
+ },
+ "mineraux-et-pierres_moldavite": {
+  "qid": "Q1503261"
+ },
+ "mineraux-et-pierres_jais": {
+  "qid": "Q543694"
+ },
+ "mineraux-et-pierres_quartz-rose": {
+  "qid": "Q429911"
+ },
+ "mineraux-et-pierres_azurite-mineral": {
+  "qid": "Q108212"
+ },
+ "mineraux-et-pierres_mica": {
+  "qid": "Q114675"
+ },
+ "mineraux-et-pierres_rose-des-sables": {
+  "qid": "Q509713"
+ },
+ "mineraux-et-pierres_coltan": {
+  "qid": "Q518713",
+  "P186": [
+   "columbite-(Mn)",
+   "columbite-(Fe)",
+   "tantalite-(Mn)",
+   "tantalite-(Mg)"
+  ]
+ },
+ "mineraux-et-pierres_marbre": {
+  "qid": "Q40861",
+  "P186": [
+   "carbonate de calcium"
+  ]
+ },
+ "mineraux-et-pierres_granite": {
+  "qid": "Q41177",
+  "P186": [
+   "quartz",
+   "plagioclase",
+   "pierre de lune",
+   "mica",
+   "uranium",
+   "thorium"
+  ]
+ },
+ "mineraux-et-pierres_basalte": {
+  "qid": "Q43338",
+  "P186": [
+   "plagioclase",
+   "pyroxène",
+   "groupe de l'olivine",
+   "feldspathoïde"
+  ]
+ },
+ "mineraux-et-pierres_ardoise": {
+  "qid": "Q207079"
+ },
+ "mineraux-et-pierres_ponce": {
+  "qid": "Q180044"
+ }
+}

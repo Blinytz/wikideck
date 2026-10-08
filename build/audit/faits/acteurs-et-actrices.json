@@ -1,0 +1,954 @@
+{
+ "acteurs-et-actrices_marilyn-monroe": {
+  "qid": "Q4616",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "1962",
+   "1962"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Les hommes préfèrent les blondes",
+   "Sept ans de réflexion",
+   "Le Prince et la Danseuse",
+   "Certains l'aiment chaud",
+   "Les Désaxés",
+   "Happy Birthday, Mr. President",
+   "I Wanna Be Loved by You",
+   "Diamonds Are a Girl's Best Friend"
+  ]
+ },
+ "acteurs-et-actrices_audrey-hepburn": {
+  "qid": "Q42786",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Sabrina",
+   "Drôle de frimousse",
+   "Vacances romaines",
+   "Au risque de se perdre",
+   "Diamants sur canapé",
+   "Charade",
+   "My Fair Lady",
+   "Seule dans la nuit"
+  ],
+  "P101": [
+   "comédie",
+   "art cinématographique",
+   "organisation d'assistance"
+  ]
+ },
+ "acteurs-et-actrices_humphrey-bogart": {
+  "qid": "Q16390",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1957"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "western",
+   "film noir",
+   "drame",
+   "thriller",
+   "film et téléfilm de guerre",
+   "film de gangsters"
+  ]
+ },
+ "acteurs-et-actrices_marlon-brando": {
+  "qid": "Q34012",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Parrain",
+   "Apocalypse Now",
+   "Un tramway nommé Désir",
+   "Sur les quais",
+   "La Vengeance aux deux visages",
+   "Le Dernier Tango à Paris",
+   "Queimada"
+  ],
+  "P136": [
+   "western",
+   "film ou téléfilm épique",
+   "film ou téléfilm criminel",
+   "drame",
+   "film policier dramatique",
+   "thriller",
+   "thriller policier",
+   "film et téléfilm de guerre",
+   "film de gangsters",
+   "mélodrame",
+   "film ou téléfilm d'amour",
+   "film à suspense",
+   "film ou téléfilm à énigme",
+   "film et téléfilm d'action",
+   "comédie",
+   "film ou téléfilm d'aventure",
+   "historical drama film",
+   "film ou téléfilm historique",
+   "drame d'époque",
+   "thriller psychologique",
+   "drame psychologique"
+  ]
+ },
+ "acteurs-et-actrices_james-dean": {
+  "qid": "Q83359",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_grace-kelly": {
+  "qid": "Q3925",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "1982",
+   "1982"
+  ],
+  "P27": [
+   "États-Unis",
+   "Monaco"
+  ],
+  "P136": [
+   "western"
+  ]
+ },
+ "acteurs-et-actrices_cary-grant": {
+  "qid": "Q83410",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1986"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Indiscrétions",
+   "La Mort aux trousses",
+   "L'Impossible Monsieur Bébé",
+   "La Main au collet"
+  ]
+ },
+ "acteurs-et-actrices_katharine-hepburn": {
+  "qid": "Q56016",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "acteur ou actrice",
+   "acteur ou actrice de cinéma"
+  ]
+ },
+ "acteurs-et-actrices_bette-davis": {
+  "qid": "Q71206",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_greta-garbo": {
+  "qid": "Q5443",
+  "P569": [
+   "1905"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "Suède",
+   "États-Unis"
+  ],
+  "P101": [
+   "acteur ou actrice"
+  ]
+ },
+ "acteurs-et-actrices_marlene-dietrich": {
+  "qid": "Q4612",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Empire allemand",
+   "république de Weimar",
+   "Troisième Reich",
+   "États-Unis",
+   "Reich allemand"
+  ],
+  "P800": [
+   "L'Ange bleu"
+  ]
+ },
+ "acteurs-et-actrices_elizabeth-taylor": {
+  "qid": "Q34851",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "États-Unis",
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_paul-newman": {
+  "qid": "Q41871",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "western",
+   "film ou téléfilm criminel",
+   "drame",
+   "film et téléfilm d'action",
+   "thriller",
+   "film et téléfilm de guerre",
+   "film ou téléfilm à énigme",
+   "thriller psychologique",
+   "film noir",
+   "film ou téléfilm de sport",
+   "comédie",
+   "film ou téléfilm d'aventure"
+  ]
+ },
+ "acteurs-et-actrices_robert-de-niro": {
+  "qid": "Q36949",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "États-Unis",
+   "Italie"
+  ]
+ },
+ "acteurs-et-actrices_al-pacino": {
+  "qid": "Q41163",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_jack-nicholson": {
+  "qid": "Q39792",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "comédie"
+  ]
+ },
+ "acteurs-et-actrices_meryl-streep": {
+  "qid": "Q873",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_dustin-hoffman": {
+  "qid": "Q42930",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_tom-hanks": {
+  "qid": "Q2263",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis",
+   "Grèce"
+  ],
+  "P136": [
+   "comédie",
+   "mélodrame"
+  ]
+ },
+ "acteurs-et-actrices_denzel-washington": {
+  "qid": "Q42101",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_morgan-freeman": {
+  "qid": "Q48337",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_harrison-ford": {
+  "qid": "Q81328",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "écologisme"
+  ]
+ },
+ "acteurs-et-actrices_leonardo-dicaprio": {
+  "qid": "Q38111",
+  "P569": [
+   "1974"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_brad-pitt": {
+  "qid": "Q35332",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_tom-cruise": {
+  "qid": "Q37079",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_johnny-depp": {
+  "qid": "Q37175",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "comédie",
+   "rock",
+   "production de films"
+  ],
+  "P136": [
+   "rock"
+  ]
+ },
+ "acteurs-et-actrices_nicole-kidman": {
+  "qid": "Q37459",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "Australie",
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_cate-blanchett": {
+  "qid": "Q80966",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "Australie",
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_scarlett-johansson": {
+  "qid": "Q34436",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "pop"
+  ]
+ },
+ "acteurs-et-actrices_natalie-portman": {
+  "qid": "Q37876",
+  "P569": [
+   "1981"
+  ],
+  "P27": [
+   "États-Unis",
+   "Israël"
+  ]
+ },
+ "acteurs-et-actrices_keanu-reeves": {
+  "qid": "Q43416",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P800": [
+   "Matrix",
+   "L'Excellente Aventure de Bill et Ted",
+   "Speed",
+   "John Wick",
+   "Constantine",
+   "Dracula",
+   "Point Break"
+  ],
+  "P101": [
+   "art cinématographique",
+   "direction de films",
+   "production de films",
+   "écriture créative et professionnelle",
+   "bande dessinée",
+   "maison d'édition"
+  ]
+ },
+ "acteurs-et-actrices_arnold-schwarzenegger": {
+  "qid": "Q2685",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "Autriche",
+   "États-Unis"
+  ],
+  "P101": [
+   "culturisme",
+   "comédie",
+   "politique"
+  ]
+ },
+ "acteurs-et-actrices_bruce-lee": {
+  "qid": "Q16397",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Hong Kong britannique",
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Retour du dragon",
+   "The Big Boss",
+   "La Fureur de vaincre",
+   "La Fureur du dragon",
+   "The Game of Death",
+   "Opération Dragon",
+   "La Valse des truands"
+  ],
+  "P101": [
+   "acteur ou actrice",
+   "réalisateur ou réalisatrice de cinéma",
+   "pratiquant ou pratiquante d'arts martiaux",
+   "philosophe",
+   "scénariste de cinéma",
+   "producteur ou productrice de cinéma"
+  ]
+ },
+ "acteurs-et-actrices_jackie-chan": {
+  "qid": "Q36970",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "États-Unis",
+   "république populaire de Chine",
+   "Hong Kong britannique"
+  ],
+  "P800": [
+   "Le Maître chinois",
+   "La Danse du lion",
+   "Le Marin des mers de Chine",
+   "Police Story",
+   "Rush Hour",
+   "Mister Dynamite"
+  ],
+  "P136": [
+   "comédie",
+   "film et téléfilm d'action",
+   "drame",
+   "film d'arts martiaux",
+   "cantopop",
+   "mandopop",
+   "Hong Kong English pop",
+   "J-pop"
+  ]
+ },
+ "acteurs-et-actrices_toshiro-mifune": {
+  "qid": "Q37001",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1997"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "La Montagne d'argent",
+   "L'Ange ivre",
+   "Chien enragé",
+   "Rashōmon",
+   "Les Sept Samouraïs",
+   "La Légende de Musashi"
+  ]
+ },
+ "acteurs-et-actrices_sophia-loren": {
+  "qid": "Q43252",
+  "P569": [
+   "1934"
+  ],
+  "P27": [
+   "Italie",
+   "France"
+  ],
+  "P800": [
+   "Hier, aujourd'hui et demain"
+  ],
+  "P136": [
+   "comédie",
+   "mélodrame"
+  ]
+ },
+ "acteurs-et-actrices_marcello-mastroianni": {
+  "qid": "Q55469",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ]
+ },
+ "acteurs-et-actrices_anthony-hopkins": {
+  "qid": "Q65932",
+  "P569": [
+   "1937"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "acteur ou actrice"
+  ]
+ },
+ "acteurs-et-actrices_clint-eastwood": {
+  "qid": "Q43203",
+  "P569": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "western",
+   "western spaghetti",
+   "film ou téléfilm à énigme",
+   "film ou téléfilm d'aventure",
+   "film et téléfilm d'action",
+   "drame",
+   "film ou téléfilm d'horreur",
+   "film et téléfilm de fantasy",
+   "thriller",
+   "film ou téléfilm criminel",
+   "thriller psychologique",
+   "film documentaire",
+   "film d'horreur psychologique",
+   "comédie",
+   "film et téléfilm de guerre",
+   "film ou téléfilm de sport"
+  ]
+ },
+ "acteurs-et-actrices_sean-connery": {
+  "qid": "Q4573",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "acteurs-et-actrices_charlton-heston": {
+  "qid": "Q80739",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "acteurs-et-actrices_ingrid-bergman": {
+  "qid": "Q43247",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1982"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P101": [
+   "comédie"
+  ]
+ },
+ "acteurs-et-actrices_alain-delon": {
+  "qid": "Q106529",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "France",
+   "Suisse"
+  ],
+  "P800": [
+   "Plein soleil",
+   "Rocco et ses frères",
+   "Le Guépard",
+   "Le Samouraï",
+   "Borsalino",
+   "La Piscine",
+   "Monsieur Klein"
+  ],
+  "P101": [
+   "comédie",
+   "production de films",
+   "scénario de film"
+  ],
+  "P136": [
+   "drame",
+   "fiction de détective",
+   "thriller"
+  ]
+ },
+ "acteurs-et-actrices_jean-paul-belmondo": {
+  "qid": "Q106255",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "À bout de souffle",
+   "Un singe en hiver",
+   "Pierrot le fou",
+   "Le Professionnel"
+  ],
+  "P101": [
+   "comédie",
+   "mise en scène",
+   "production de films"
+  ]
+ },
+ "acteurs-et-actrices_louis-de-funes": {
+  "qid": "Q2737",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1983"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_brigitte-bardot": {
+  "qid": "Q36268",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Et Dieu… créa la femme",
+   "En cas de malheur",
+   "La Vérité",
+   "Vie privée",
+   "Le Mépris",
+   "Babette s'en va-t-en guerre",
+   "Viva Maria !",
+   "L'Ours et la Poupée",
+   "Les Pétroleuses"
+  ],
+  "P101": [
+   "comédie",
+   "chant",
+   "mannequinat",
+   "protection des animaux"
+  ]
+ },
+ "acteurs-et-actrices_catherine-deneuve": {
+  "qid": "Q106418",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_gerard-depardieu": {
+  "qid": "Q106508",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "Russie",
+   "France",
+   "Émirats arabes unis"
+  ]
+ },
+ "acteurs-et-actrices_jean-gabin": {
+  "qid": "Q23842",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_simone-signoret": {
+  "qid": "Q106126",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "comédie",
+   "traduction littéraire",
+   "traductions de l'anglais",
+   "traductions en français"
+  ]
+ },
+ "acteurs-et-actrices_isabelle-huppert": {
+  "qid": "Q106365",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_jean-reno": {
+  "qid": "Q43697",
+  "P569": [
+   "1948"
+  ],
+  "P27": [
+   "France",
+   "Espagne"
+  ]
+ },
+ "acteurs-et-actrices_marion-cotillard": {
+  "qid": "Q8927",
+  "P569": [
+   "1975"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Môme",
+   "Deux jours, une nuit"
+  ]
+ },
+ "acteurs-et-actrices_omar-sy": {
+  "qid": "Q357387",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_bourvil": {
+  "qid": "Q2750",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_fernandel": {
+  "qid": "Q129092",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1971"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "acteurs-et-actrices_lino-ventura": {
+  "qid": "Q337260",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ]
+ },
+ "acteurs-et-actrices_romy-schneider": {
+  "qid": "Q78469",
+  "P569": [
+   "1938",
+   "1938"
+  ],
+  "P570": [
+   "1982",
+   "1982"
+  ],
+  "P27": [
+   "France",
+   "Allemagne",
+   "Autriche"
+  ],
+  "P800": [
+   "Sissi",
+   "La Piscine",
+   "L'important c'est d'aimer",
+   "Le Vieux Fusil",
+   "Une histoire simple"
+  ]
+ },
+ "acteurs-et-actrices_jeanne-moreau": {
+  "qid": "Q106099",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Moderato cantabile"
+  ],
+  "P101": [
+   "film",
+   "théâtre"
+  ]
+ },
+ "acteurs-et-actrices_juliette-binoche": {
+  "qid": "Q106275",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "poésie"
+  ]
+ }
+}

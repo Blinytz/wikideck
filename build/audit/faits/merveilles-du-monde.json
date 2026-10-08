@@ -1,0 +1,281 @@
+{
+ "merveilles-du-monde_pyramide-de-kheops": {
+  "qid": "Q37200",
+  "P571": [
+   "-2560"
+  ],
+  "P276": [
+   "Gizeh"
+  ],
+  "P131": [
+   "Gizeh"
+  ],
+  "P495": [
+   "Égypte antique"
+  ],
+  "P17": [
+   "Égypte"
+  ],
+  "P186": [
+   "calcaire",
+   "granite"
+  ]
+ },
+ "merveilles-du-monde_jardins-suspendus-de-babylone": {
+  "qid": "Q41931",
+  "P571": [
+   "-600"
+  ],
+  "P276": [
+   "Babylone",
+   "Ninive"
+  ],
+  "P131": [
+   "Irak"
+  ],
+  "P17": [
+   "Assyrie"
+  ]
+ },
+ "merveilles-du-monde_statue-chryselephantine-de-zeus-a-olympie": {
+  "qid": "Q46239",
+  "P170": [
+   "Phidias"
+  ],
+  "P571": [
+   "-430"
+  ],
+  "P276": [
+   "temple de Zeus à Olympie"
+  ],
+  "P131": [
+   "dème d'Archéa Olympía"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P136": [
+   "statue colossale"
+  ],
+  "P186": [
+   "ivoire",
+   "or",
+   "ébène",
+   "bois"
+  ]
+ },
+ "merveilles-du-monde_temple-d-artemis-a-ephese": {
+  "qid": "Q43018",
+  "P571": [
+   "-323"
+  ],
+  "P276": [
+   "Éphèse"
+  ],
+  "P131": [
+   "Selçuk"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "merveilles-du-monde_mausolee-d-halicarnasse": {
+  "qid": "Q45368",
+  "P571": [
+   "-351"
+  ],
+  "P131": [
+   "Bodrum",
+   "Muğla"
+  ],
+  "P495": [
+   "Grèce antique"
+  ],
+  "P17": [
+   "Turquie"
+  ]
+ },
+ "merveilles-du-monde_colosse-de-rhodes": {
+  "qid": "Q41553",
+  "P135": [
+   "sculpture hellénistique"
+  ],
+  "P170": [
+   "Charès de Lindos"
+  ],
+  "P571": [
+   "-284"
+  ],
+  "P131": [
+   "Rhodes"
+  ],
+  "P17": [
+   "Grèce"
+  ],
+  "P186": [
+   "bronze"
+  ]
+ },
+ "merveilles-du-monde_phare-d-alexandrie": {
+  "qid": "Q43244",
+  "P571": [
+   "-279"
+  ],
+  "P276": [
+   "île de Pharos"
+  ],
+  "P131": [
+   "Alexandrie"
+  ],
+  "P17": [
+   "Égypte"
+  ]
+ },
+ "merveilles-du-monde_grande-muraille": {
+  "qid": "Q12501",
+  "P170": [
+   "Qin Shi Huang"
+  ],
+  "P571": [
+   "-700"
+  ],
+  "P131": [
+   "Hebei",
+   "Pékin",
+   "Tianjin",
+   "Shanxi",
+   "Mongolie-Intérieure",
+   "Shaanxi",
+   "Ningxia",
+   "Gansu",
+   "Xinjiang",
+   "Shandong",
+   "Henan",
+   "Hubei",
+   "Hunan",
+   "Sichuan",
+   "Qinghai"
+  ],
+  "P17": [
+   "république populaire de Chine"
+  ],
+  "P186": [
+   "calcaire"
+  ],
+  "P527": [
+   "Jiayuguan",
+   "Vieille tête de dragon",
+   "Guangwu Great Wall",
+   "Q133312601",
+   "Q133312608"
+  ]
+ },
+ "merveilles-du-monde_petra": {
+  "qid": "Q5788",
+  "P571": [
+   "-800"
+  ],
+  "P131": [
+   "Ma'an"
+  ],
+  "P17": [
+   "Jordanie"
+  ],
+  "P186": [
+   "grès"
+  ]
+ },
+ "merveilles-du-monde_statue-du-christ-redempteur": {
+  "qid": "Q79961",
+  "P135": [
+   "Art déco"
+  ],
+  "P170": [
+   "Paul Landowski",
+   "Carlos Oswald"
+  ],
+  "P571": [
+   "1920"
+  ],
+  "P276": [
+   "Corcovado"
+  ],
+  "P131": [
+   "Alto da Boa Vista"
+  ],
+  "P17": [
+   "Brésil"
+  ],
+  "P136": [
+   "art public"
+  ],
+  "P186": [
+   "béton armé",
+   "stéatite"
+  ]
+ },
+ "merveilles-du-monde_machu-picchu": {
+  "qid": "Q676203",
+  "P571": [
+   "1450"
+  ],
+  "P276": [
+   "Machupicchu pueblo"
+  ],
+  "P131": [
+   "Urubamba",
+   "département de Cuzco",
+   "district de Machupicchu"
+  ],
+  "P17": [
+   "Pérou"
+  ]
+ },
+ "merveilles-du-monde_chichen-itza": {
+  "qid": "Q5859",
+  "P571": [
+   "455"
+  ],
+  "P276": [
+   "Chichén-Itzá"
+  ],
+  "P131": [
+   "Yucatán"
+  ],
+  "P17": [
+   "Mexique"
+  ]
+ },
+ "merveilles-du-monde_colisee": {
+  "qid": "Q10285",
+  "P571": [
+   "82"
+  ],
+  "P131": [
+   "Rome Capitale",
+   "Rome",
+   "Municipio I"
+  ],
+  "P17": [
+   "Italie"
+  ],
+  "P186": [
+   "travertin de Rome",
+   "tuf volcanique",
+   "béton de ciment"
+  ]
+ },
+ "merveilles-du-monde_taj-mahal": {
+  "qid": "Q9141",
+  "P131": [
+   "Agra",
+   "Uttar Pradesh"
+  ],
+  "P17": [
+   "Inde"
+  ],
+  "P186": [
+   "marbre"
+  ]
+ }
+}

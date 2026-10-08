@@ -1,0 +1,289 @@
+{
+ "plantes-cultivees_ble": {
+  "qid": "Q15645384"
+ },
+ "plantes-cultivees_riz": {
+  "qid": "Q5090",
+  "P527": [
+   "amidon"
+  ],
+  "P2079": [
+   "culture du riz"
+  ]
+ },
+ "plantes-cultivees_mais": {
+  "qid": "Q67188789"
+ },
+ "plantes-cultivees_pomme-de-terre": {
+  "qid": "Q10998"
+ },
+ "plantes-cultivees_tomate": {
+  "qid": "Q23501"
+ },
+ "plantes-cultivees_vigne": {
+  "qid": "Q3248828"
+ },
+ "plantes-cultivees_canne-a-sucre": {
+  "qid": "Q36940",
+  "P2079": [
+   "roulaison"
+  ]
+ },
+ "plantes-cultivees_soja": {
+  "qid": "Q11006"
+ },
+ "plantes-cultivees_coton": {
+  "qid": "Q11457"
+ },
+ "plantes-cultivees_lin-cultive": {
+  "qid": "Q45108"
+ },
+ "plantes-cultivees_cafe": {
+  "qid": "Q8486",
+  "P495": [
+   "Éthiopie",
+   "Yémen"
+  ],
+  "P186": [
+   "grain de café",
+   "eau chaude"
+  ],
+  "P527": [
+   "composé phytochimique"
+  ],
+  "P2079": [
+   "cuisson à l'eau",
+   "steeping"
+  ]
+ },
+ "plantes-cultivees_cacao": {
+  "qid": "Q1062396",
+  "P186": [
+   "fève de cacao",
+   "masse de cacao"
+  ],
+  "P527": [
+   "théobromine",
+   "caféine"
+  ]
+ },
+ "plantes-cultivees_the": {
+  "qid": "Q6097",
+  "P186": [
+   "eau chaude",
+   "feuille de thé",
+   "sucre",
+   "tanin",
+   "eau",
+   "caféine"
+  ],
+  "P527": [
+   "tanin",
+   "eau",
+   "caféine"
+  ],
+  "P2079": [
+   "steeping",
+   "cuisson à l'eau"
+  ]
+ },
+ "plantes-cultivees_tabac": {
+  "qid": "Q1566",
+  "P527": [
+   "tobacco leaf"
+  ]
+ },
+ "plantes-cultivees_poivrier-noir": {
+  "qid": "Q43084"
+ },
+ "plantes-cultivees_vanille": {
+  "qid": "Q13241"
+ },
+ "plantes-cultivees_safran-epice": {
+  "qid": "Q25434"
+ },
+ "plantes-cultivees_cannelle": {
+  "qid": "Q28165",
+  "P571": [
+   "-2000"
+  ],
+  "P186": [
+   "écorce"
+  ]
+ },
+ "plantes-cultivees_piment": {
+  "qid": "Q165199"
+ },
+ "plantes-cultivees_ail-cultive": {
+  "qid": "Q23400"
+ },
+ "plantes-cultivees_oignon": {
+  "qid": "Q23485"
+ },
+ "plantes-cultivees_carotte": {
+  "qid": "Q81"
+ },
+ "plantes-cultivees_chou-commun": {
+  "qid": "Q146212"
+ },
+ "plantes-cultivees_haricot": {
+  "qid": "Q42339"
+ },
+ "plantes-cultivees_pois-cultive": {
+  "qid": "Q25237"
+ },
+ "plantes-cultivees_lentille-cultivee": {
+  "qid": "Q131226"
+ },
+ "plantes-cultivees_banane": {
+  "qid": "Q503"
+ },
+ "plantes-cultivees_pomme": {
+  "qid": "Q89",
+  "P527": [
+   "(R)-Amygdaline"
+  ]
+ },
+ "plantes-cultivees_orange-fruit": {
+  "qid": "Q13191",
+  "P527": [
+   "loge",
+   "pulpe",
+   "pelure d'orange",
+   "semence"
+  ]
+ },
+ "plantes-cultivees_citron": {
+  "qid": "Q1093742",
+  "P527": [
+   "acide citrique"
+  ]
+ },
+ "plantes-cultivees_fraise": {
+  "qid": "Q14458220"
+ },
+ "plantes-cultivees_melon-plante": {
+  "qid": "Q81602"
+ },
+ "plantes-cultivees_courge": {
+  "qid": "Q5339237"
+ },
+ "plantes-cultivees_aubergine": {
+  "qid": "Q7540"
+ },
+ "plantes-cultivees_concombre": {
+  "qid": "Q23425"
+ },
+ "plantes-cultivees_betterave": {
+  "qid": "Q2240448"
+ },
+ "plantes-cultivees_colza": {
+  "qid": "Q177932"
+ },
+ "plantes-cultivees_orge-commune": {
+  "qid": "Q11577"
+ },
+ "plantes-cultivees_manioc": {
+  "qid": "Q83124"
+ },
+ "plantes-cultivees_avoine-cultivee": {
+  "qid": "Q12104"
+ },
+ "plantes-cultivees_seigle": {
+  "qid": "Q12099"
+ },
+ "plantes-cultivees_sorgo-commun": {
+  "qid": "Q332062"
+ },
+ "plantes-cultivees_quinoa": {
+  "qid": "Q139925"
+ },
+ "plantes-cultivees_patate-douce": {
+  "qid": "Q37937"
+ },
+ "plantes-cultivees_igname": {
+  "qid": "Q8047551"
+ },
+ "plantes-cultivees_arachide": {
+  "qid": "Q37383"
+ },
+ "plantes-cultivees_palmier-a-huile": {
+  "qid": "Q165403"
+ },
+ "plantes-cultivees_chanvre": {
+  "qid": "Q7150699"
+ },
+ "plantes-cultivees_houblon": {
+  "qid": "Q104212"
+ },
+ "plantes-cultivees_gingembre": {
+  "qid": "Q35625"
+ },
+ "plantes-cultivees_curcuma": {
+  "qid": "Q42562",
+  "P527": [
+   "rhizome de curcuma long"
+  ]
+ },
+ "plantes-cultivees_clou-de-girofle": {
+  "qid": "Q15622897",
+  "P186": [
+   "bourgeon"
+  ],
+  "P527": [
+   "huile essentielle",
+   "tanning agent",
+   "eugénol",
+   "caryophyllene"
+  ],
+  "P2079": [
+   "séchage"
+  ]
+ },
+ "plantes-cultivees_noix-de-muscade": {
+  "qid": "Q83165",
+  "P495": [
+   "Indonésie"
+  ]
+ },
+ "plantes-cultivees_laitue-cultivee": {
+  "qid": "Q83193"
+ },
+ "plantes-cultivees_artichaut": {
+  "qid": "Q23041430"
+ },
+ "plantes-cultivees_asperge": {
+  "qid": "Q28367"
+ },
+ "plantes-cultivees_poireau": {
+  "qid": "Q1807269"
+ },
+ "plantes-cultivees_pasteque": {
+  "qid": "Q17507129"
+ },
+ "plantes-cultivees_ananas": {
+  "qid": "Q1493"
+ },
+ "plantes-cultivees_avocat-fruit": {
+  "qid": "Q961769"
+ },
+ "plantes-cultivees_poire": {
+  "qid": "Q13099586"
+ },
+ "plantes-cultivees_peche-fruit": {
+  "qid": "Q13202263",
+  "P527": [
+   "(R)-Amygdaline",
+   "pépins de pêche"
+  ]
+ },
+ "plantes-cultivees_cerise": {
+  "qid": "Q196"
+ },
+ "plantes-cultivees_grenade-fruit": {
+  "qid": "Q13222088"
+ },
+ "plantes-cultivees_mangue": {
+  "qid": "Q169"
+ }
+}

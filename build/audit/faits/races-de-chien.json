@@ -1,0 +1,769 @@
+{
+ "races-de-chien_labrador-retriever": {
+  "qid": "Q38726",
+  "P495": [
+   "Canada",
+   "Royaume-Uni",
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_golden-retriever": {
+  "qid": "Q38686",
+  "P495": [
+   "Royaume-Uni",
+   "Écosse"
+  ]
+ },
+ "races-de-chien_berger-allemand": {
+  "qid": "Q38280",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_malinois-chien": {
+  "qid": "Q38494",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-chien_border-collie": {
+  "qid": "Q37710",
+  "P495": [
+   "Royaume-Uni",
+   "Angleterre",
+   "Écosse"
+  ]
+ },
+ "races-de-chien_colley": {
+  "qid": "Q38650",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_caniche": {
+  "qid": "Q38904"
+ },
+ "races-de-chien_bulldog-anglais": {
+  "qid": "Q38383",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_bouledogue": {
+  "qid": "Q29149",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_boxer-chien": {
+  "qid": "Q38496",
+  "P495": [
+   "Empire allemand"
+  ],
+  "P17": [
+   "Empire allemand"
+  ]
+ },
+ "races-de-chien_rottweiler": {
+  "qid": "Q39093",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_dobermann": {
+  "qid": "Q38358",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_dogue-allemand": {
+  "qid": "Q5414",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_saint-bernard": {
+  "qid": "Q38090",
+  "P17": [
+   "Suisse"
+  ]
+ },
+ "races-de-chien_terre-neuve-chien": {
+  "qid": "Q38706"
+ },
+ "races-de-chien_husky-de-siberie": {
+  "qid": "Q39295",
+  "P495": [
+   "Sibérie"
+  ]
+ },
+ "races-de-chien_malamute-de-l-alaska": {
+  "qid": "Q21206",
+  "P495": [
+   "Alaska"
+  ]
+ },
+ "races-de-chien_samoyede-chien": {
+  "qid": "Q39002"
+ },
+ "races-de-chien_akita-chien": {
+  "qid": "Q29164",
+  "P495": [
+   "Japon",
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_shiba-chien": {
+  "qid": "Q39315",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "races-de-chien_chow-chow": {
+  "qid": "Q29013",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_shar-pei": {
+  "qid": "Q38972",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_basset-hound": {
+  "qid": "Q37716",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_beagle-chien": {
+  "qid": "Q21102",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_chien-de-saint-hubert": {
+  "qid": "Q21098",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-chien_cocker-spaniel": {
+  "qid": "Q4227301"
+ },
+ "races-de-chien_cavalier-king-charles-spaniel": {
+  "qid": "Q38072",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_jack-russell-terrier": {
+  "qid": "Q38287",
+  "P495": [
+   "Royaume-Uni",
+   "Australie"
+  ]
+ },
+ "races-de-chien_fox-terrier": {
+  "qid": "Q39220",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_yorkshire-terrier": {
+  "qid": "Q39330",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_bichon-a-poil-frise": {
+  "qid": "Q37600"
+ },
+ "races-de-chien_bichon-maltais": {
+  "qid": "Q38751"
+ },
+ "races-de-chien_chihuahua-chien": {
+  "qid": "Q653",
+  "P495": [
+   "Mexique"
+  ]
+ },
+ "races-de-chien_pekinois-chien": {
+  "qid": "Q38959",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_carlin": {
+  "qid": "Q38698",
+  "P495": [
+   "Chine"
+  ]
+ },
+ "races-de-chien_teckel": {
+  "qid": "Q29099",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_levrier-whippet": {
+  "qid": "Q39122",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_levrier-afghan": {
+  "qid": "Q21080",
+  "P495": [
+   "Afghanistan"
+  ]
+ },
+ "races-de-chien_irish-wolfhound": {
+  "qid": "Q38668",
+  "P495": [
+   "Irlande"
+  ]
+ },
+ "races-de-chien_dalmatien": {
+  "qid": "Q17504",
+  "P495": [
+   "Croatie"
+  ]
+ },
+ "races-de-chien_braque-de-weimar": {
+  "qid": "Q38965",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_braque-allemand-a-poil-court": {
+  "qid": "Q38084",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_epagneul-breton": {
+  "qid": "Q38156",
+  "P495": [
+   "Bretagne"
+  ]
+ },
+ "races-de-chien_epagneul-francais": {
+  "qid": "Q29160"
+ },
+ "races-de-chien_setter-anglais": {
+  "qid": "Q38309",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_setter-irlandais-rouge": {
+  "qid": "Q38761",
+  "P495": [
+   "Irlande"
+  ]
+ },
+ "races-de-chien_pointer-anglais": {
+  "qid": "Q769804",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_berger-australien": {
+  "qid": "Q37629",
+  "P495": [
+   "Australie",
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_shetland-chien": {
+  "qid": "Q39058",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_berger-blanc-suisse": {
+  "qid": "Q37934",
+  "P495": [
+   "Suisse"
+  ]
+ },
+ "races-de-chien_bouvier-bernois": {
+  "qid": "Q37608",
+  "P495": [
+   "Suisse"
+  ]
+ },
+ "races-de-chien_bouvier-des-flandres": {
+  "qid": "Q37896",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-chien_schnauzer": {
+  "qid": "Q38421",
+  "P527": [
+   "Schnauzer géant",
+   "schnauzer moyen",
+   "Schnauzer miniature"
+  ]
+ },
+ "races-de-chien_airedale-terrier": {
+  "qid": "Q37617",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_bull-terrier": {
+  "qid": "Q38322",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_staffordshire-bull-terrier": {
+  "qid": "Q39285",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_american-staffordshire-terrier": {
+  "qid": "Q37688",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_american-pit-bull-terrier": {
+  "qid": "Q37612",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_cane-corso": {
+  "qid": "Q21082",
+  "P495": [
+   "Europe"
+  ]
+ },
+ "races-de-chien_dogue-de-bordeaux": {
+  "qid": "Q37878",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_mastiff": {
+  "qid": "Q38418",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_fila-brasileiro": {
+  "qid": "Q37808",
+  "P495": [
+   "Brésil"
+  ]
+ },
+ "races-de-chien_chien-de-montagne-des-pyrenees": {
+  "qid": "Q37803",
+  "P495": [
+   "Espagne"
+  ]
+ },
+ "races-de-chien_leonberg-chien": {
+  "qid": "Q38487",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_spitz-japonais": {
+  "qid": "Q38126",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "races-de-chien_spitz-nain": {
+  "qid": "Q39579",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_epagneul-nain-continental-papillon": {
+  "qid": "Q38115",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-chien_lhassa-apso": {
+  "qid": "Q38352",
+  "P495": [
+   "Tibet"
+  ]
+ },
+ "races-de-chien_shih-tzu": {
+  "qid": "Q39357",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_terrier-de-boston": {
+  "qid": "Q37550",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_griffon-bruxellois": {
+  "qid": "Q38889",
+  "P495": [
+   "Belgique"
+  ]
+ },
+ "races-de-chien_king-charles-spaniel": {
+  "qid": "Q38132"
+ },
+ "races-de-chien_basenji": {
+  "qid": "Q37871",
+  "P495": [
+   "République démocratique du Congo"
+  ]
+ },
+ "races-de-chien_xoloitzcuintle": {
+  "qid": "Q38856",
+  "P495": [
+   "Mexique"
+  ]
+ },
+ "races-de-chien_chien-nu-du-perou": {
+  "qid": "Q38874",
+  "P495": [
+   "Pérou"
+  ]
+ },
+ "races-de-chien_chien-de-rhodesie-a-crete-dorsale": {
+  "qid": "Q39026",
+  "P495": [
+   "Rhodésie"
+  ]
+ },
+ "races-de-chien_boerboel": {
+  "qid": "Q37589",
+  "P495": [
+   "Afrique du Sud"
+  ]
+ },
+ "races-de-chien_berger-kangal": {
+  "qid": "Q37541",
+  "P495": [
+   "Turquie"
+  ]
+ },
+ "races-de-chien_berger-de-beauce": {
+  "qid": "Q37720",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_berger-picard": {
+  "qid": "Q37635",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_barbet-chien": {
+  "qid": "Q37585",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_terrier-ecossais": {
+  "qid": "Q39035",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chien_cairn-terrier": {
+  "qid": "Q37888",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chien_west-highland-white-terrier": {
+  "qid": "Q17510",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chien_sealyham-terrier": {
+  "qid": "Q39068",
+  "P495": [
+   "pays de Galles"
+  ]
+ },
+ "races-de-chien_norfolk-terrier": {
+  "qid": "Q38940",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_norwich-terrier": {
+  "qid": "Q38934",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_skye-terrier": {
+  "qid": "Q39052",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chien_border-terrier": {
+  "qid": "Q37558",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_bedlington-terrier": {
+  "qid": "Q37582",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_terrier-kerry-blue": {
+  "qid": "Q38025"
+ },
+ "races-de-chien_terrier-irlandais": {
+  "qid": "Q38644"
+ },
+ "races-de-chien_welsh-terrier": {
+  "qid": "Q39041",
+  "P495": [
+   "pays de Galles"
+  ]
+ },
+ "races-de-chien_manchester-terrier": {
+  "qid": "Q38387",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_bichon-havanais": {
+  "qid": "Q38449",
+  "P495": [
+   "Cuba"
+  ]
+ },
+ "races-de-chien_coton-de-tulear": {
+  "qid": "Q38295",
+  "P495": [
+   "Madagascar"
+  ]
+ },
+ "races-de-chien_berger-hollandais": {
+  "qid": "Q29114",
+  "P495": [
+   "Pays-Bas"
+  ]
+ },
+ "races-de-chien_berger-de-brie": {
+  "qid": "Q37821",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_berger-polonais-de-plaine": {
+  "qid": "Q38836",
+  "P495": [
+   "Pologne"
+  ]
+ },
+ "races-de-chien_puli": {
+  "qid": "Q38864",
+  "P495": [
+   "Hongrie"
+  ]
+ },
+ "races-de-chien_komondor": {
+  "qid": "Q38675",
+  "P495": [
+   "Hongrie"
+  ]
+ },
+ "races-de-chien_chien-loup-tchecoslovaque": {
+  "qid": "Q38651",
+  "P495": [
+   "Tchécoslovaquie"
+  ]
+ },
+ "races-de-chien_chien-loup-de-saarloos": {
+  "qid": "Q39306",
+  "P495": [
+   "Pays-Bas"
+  ]
+ },
+ "races-de-chien_basset-fauve-de-bretagne": {
+  "qid": "Q37570",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_basset-bleu-de-gascogne": {
+  "qid": "Q37552",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_grand-bleu-de-gascogne": {
+  "qid": "Q37769",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_beagle-harrier": {
+  "qid": "Q37478",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_chien-a-loutre": {
+  "qid": "Q38922",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_chien-noir-et-feu-pour-la-chasse-au-raton-laveur": {
+  "qid": "Q37537",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_foxhound-americain": {
+  "qid": "Q37514",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "races-de-chien_foxhound-anglais": {
+  "qid": "Q37789",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_levrier-greyhound": {
+  "qid": "Q38571",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_levrier-persan": {
+  "qid": "Q39108",
+  "P495": [
+   "Arabie"
+  ]
+ },
+ "races-de-chien_barzoi": {
+  "qid": "Q37866",
+  "P495": [
+   "Russie"
+  ]
+ },
+ "races-de-chien_welsh-corgi-pembroke": {
+  "qid": "Q38783",
+  "P495": [
+   "pays de Galles"
+  ]
+ },
+ "races-de-chien_bobtail": {
+  "qid": "Q37704",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "races-de-chien_bearded-collie": {
+  "qid": "Q37619",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "races-de-chien_bouvier-australien": {
+  "qid": "Q37595",
+  "P495": [
+   "Australie"
+  ]
+ },
+ "races-de-chien_australian-kelpie": {
+  "qid": "Q37520",
+  "P495": [
+   "Australie"
+  ]
+ },
+ "races-de-chien_berger-des-pyrenees": {
+  "qid": "Q37786",
+  "P495": [
+   "France"
+  ],
+  "P527": [
+   "Berger des Pyrénées à face rase",
+   "Berger des Pyrénées à poil long"
+  ]
+ },
+ "races-de-chien_dogue-argentin": {
+  "qid": "Q37909",
+  "P495": [
+   "Argentine"
+  ]
+ },
+ "races-de-chien_berger-du-caucase": {
+  "qid": "Q38576"
+ },
+ "races-de-chien_dogue-du-tibet": {
+  "qid": "Q39322",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_braque-hongrois-a-poil-court": {
+  "qid": "Q38819",
+  "P495": [
+   "Hongrie"
+  ]
+ },
+ "races-de-chien_springer-anglais": {
+  "qid": "Q29022"
+ },
+ "races-de-chien_retriever-a-poil-plat": {
+  "qid": "Q29200",
+  "P495": [
+   "Royaume-Uni"
+  ]
+ },
+ "races-de-chien_griffon-d-arret-a-poil-dur-korthals": {
+  "qid": "Q38869",
+  "P495": [
+   "France"
+  ]
+ },
+ "races-de-chien_chien-d-eau-portugais": {
+  "qid": "Q38559",
+  "P495": [
+   "Portugal"
+  ]
+ },
+ "races-de-chien_chien-chinois-a-crete": {
+  "qid": "Q37892",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "races-de-chien_pinscher-nain": {
+  "qid": "Q38990",
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "races-de-chien_affenpinscher": {
+  "qid": "Q7254",
+  "P495": [
+   "Allemagne"
+  ]
+ }
+}

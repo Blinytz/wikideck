@@ -1,0 +1,138 @@
+{
+ "genres-litteraires_roman-litterature": {
+  "qid": "Q8261"
+ },
+ "genres-litteraires_nouvelle": {
+  "qid": "Q49084"
+ },
+ "genres-litteraires_conte": {
+  "qid": "Q17991521"
+ },
+ "genres-litteraires_fable": {
+  "qid": "Q693"
+ },
+ "genres-litteraires_poesie": {
+  "qid": "Q482"
+ },
+ "genres-litteraires_sonnet": {
+  "qid": "Q80056",
+  "P495": [
+   "royaume de Sicile"
+  ],
+  "P527": [
+   "quatrain",
+   "tercet",
+   "stance",
+   "vers"
+  ]
+ },
+ "genres-litteraires_haiku": {
+  "qid": "Q37707",
+  "P495": [
+   "Japon"
+  ]
+ },
+ "genres-litteraires_ballade": {
+  "qid": "Q182659"
+ },
+ "genres-litteraires_epopee": {
+  "qid": "Q37484"
+ },
+ "genres-litteraires_tragedie": {
+  "qid": "Q80930"
+ },
+ "genres-litteraires_comedie": {
+  "qid": "Q40831"
+ },
+ "genres-litteraires_drame-romantique": {
+  "qid": "Q3038946"
+ },
+ "genres-litteraires_vaudeville": {
+  "qid": "Q17084138"
+ },
+ "genres-litteraires_farce-theatre": {
+  "qid": "Q193979"
+ },
+ "genres-litteraires_essai": {
+  "qid": "Q35760"
+ },
+ "genres-litteraires_autobiographie": {
+  "qid": "Q4184"
+ },
+ "genres-litteraires_roman-epistolaire": {
+  "qid": "Q465821"
+ },
+ "genres-litteraires_roman-policier": {
+  "qid": "Q208505"
+ },
+ "genres-litteraires_science-fiction": {
+  "qid": "Q24925"
+ },
+ "genres-litteraires_fantasy": {
+  "qid": "Q132311"
+ },
+ "genres-litteraires_roman-d-aventures": {
+  "qid": "Q319226",
+  "P136": [
+   "fiction d'aventures"
+  ]
+ },
+ "genres-litteraires_roman-historique": {
+  "qid": "Q192239",
+  "P136": [
+   "littérature historique"
+  ]
+ },
+ "genres-litteraires_utopie": {
+  "qid": "Q131156"
+ },
+ "genres-litteraires_dystopie": {
+  "qid": "Q180774",
+  "P527": [
+   "anti-utopia"
+  ]
+ },
+ "genres-litteraires_pamphlet": {
+  "qid": "Q18536349"
+ },
+ "genres-litteraires_chanson-de-geste": {
+  "qid": "Q651019"
+ },
+ "genres-litteraires_roman-de-chevalerie": {
+  "qid": "Q1159457"
+ },
+ "genres-litteraires_fantastique": {
+  "qid": "Q116213606"
+ },
+ "genres-litteraires_roman-d-apprentissage": {
+  "qid": "Q223945",
+  "P170": [
+   "Johann Karl Simon Morgenstern"
+  ]
+ },
+ "genres-litteraires_roman-picaresque": {
+  "qid": "Q44563"
+ },
+ "genres-litteraires_satire": {
+  "qid": "Q128758"
+ },
+ "genres-litteraires_roman-gothique": {
+  "qid": "Q192782",
+  "P136": [
+   "fiction gothique"
+  ]
+ },
+ "genres-litteraires_fabliau": {
+  "qid": "Q905171"
+ },
+ "genres-litteraires_biographie": {
+  "qid": "Q36279",
+  "P527": [
+   "enfance",
+   "information biographique"
+  ]
+ },
+ "genres-litteraires_journal-intime": {
+  "qid": "Q185598"
+ }
+}

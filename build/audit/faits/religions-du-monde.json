@@ -1,0 +1,314 @@
+{
+ "religions-du-monde_christianisme": {
+  "qid": "Q5043",
+  "P571": [
+   "33"
+  ],
+  "P276": [
+   "mondial"
+  ],
+  "P527": [
+   "Occident chrétien",
+   "christianisme oriental",
+   "famille confessionnelle chrétienne",
+   "confession chrétienne",
+   "mouvement chrétien"
+  ]
+ },
+ "religions-du-monde_islam": {
+  "qid": "Q432",
+  "P170": [
+   "Dieu en Islam"
+  ],
+  "P571": [
+   "631"
+  ],
+  "P276": [
+   "civilisation islamique",
+   "mondial"
+  ],
+  "P495": [
+   "Hedjaz"
+  ],
+  "P527": [
+   "Piliers de l'islam",
+   "chahada",
+   "salat",
+   "zakât",
+   "jeûne du Ramadan",
+   "hajj"
+  ]
+ },
+ "religions-du-monde_hindouisme": {
+  "qid": "Q9089",
+  "P276": [
+   "mondial"
+  ],
+  "P527": [
+   "Hindu denomination"
+  ]
+ },
+ "religions-du-monde_bouddhisme": {
+  "qid": "Q748",
+  "P276": [
+   "mondial"
+  ],
+  "P527": [
+   "école du bouddhisme"
+  ]
+ },
+ "religions-du-monde_judaisme": {
+  "qid": "Q9268",
+  "P571": [
+   "-500"
+  ],
+  "P276": [
+   "mondial"
+  ],
+  "P527": [
+   "Jewish movement",
+   "courant du judaïsme",
+   "philosophie juive"
+  ]
+ },
+ "religions-du-monde_sikhisme": {
+  "qid": "Q9316",
+  "P571": [
+   "1469"
+  ]
+ },
+ "religions-du-monde_taoisme": {
+  "qid": "Q9598",
+  "P495": [
+   "Chine"
+  ]
+ },
+ "religions-du-monde_confucianisme": {
+  "qid": "Q9581",
+  "P527": [
+   "confucianisme au Japon",
+   "Confucianisme en Indonésie",
+   "néoconfucianisme",
+   "confucianisme coréen",
+   "three virtues of Confucianism",
+   "Three Essentials and Five Virtues"
+  ]
+ },
+ "religions-du-monde_shintoisme": {
+  "qid": "Q812767"
+ },
+ "religions-du-monde_jainisme": {
+  "qid": "Q9232",
+  "P571": [
+   "-500"
+  ]
+ },
+ "religions-du-monde_zoroastrisme": {
+  "qid": "Q9601",
+  "P571": [
+   "-1500"
+  ],
+  "P17": [
+   "Inde",
+   "Iran",
+   "Kurdistan irakien",
+   "États-Unis",
+   "Ouzbékistan",
+   "Canada",
+   "Tadjikistan"
+  ]
+ },
+ "religions-du-monde_foi-baha-ie": {
+  "qid": "Q22679",
+  "P571": [
+   "1863"
+  ],
+  "P495": [
+   "Iran"
+  ]
+ },
+ "religions-du-monde_catholicisme": {
+  "qid": "Q1841",
+  "P571": [
+   "1054",
+   "33"
+  ],
+  "P527": [
+   "Église catholique",
+   "Églises catholiques indépendantes",
+   "Église vieille-catholique",
+   "Liberal Catholic movement",
+   "folk Catholicism"
+  ]
+ },
+ "religions-du-monde_protestantisme": {
+  "qid": "Q23540",
+  "P571": [
+   "1517"
+  ],
+  "P527": [
+   "luthéranisme",
+   "calvinisme",
+   "méthodisme",
+   "anglicanisme",
+   "anabaptisme",
+   "Mouvement de sanctification",
+   "adventisme",
+   "évangélisme",
+   "Christianisme charismatique",
+   "restaurationnisme",
+   "Mouvement de restauration américain",
+   "Église unie",
+   "baptisme"
+  ]
+ },
+ "religions-du-monde_christianisme-orthodoxe": {
+  "qid": "Q3333484",
+  "P495": [
+   "Empire byzantin"
+  ],
+  "P527": [
+   "Église orthodoxe",
+   "Orthodoxie de rite occidental",
+   "Vrais Chrétiens orthodoxes",
+   "orthodoxes vieux-croyants",
+   "Éparchie d'Abkhazie",
+   "American Orthodox Catholic Church",
+   "Église orthodoxe autocéphale biélorusse",
+   "Église orthodoxe de Lettonie (Patriarcat de Moscou)",
+   "Église orthodoxe monténégrine",
+   "Église orthodoxe ukrainienne - Patriarcat de Kiev",
+   "Turkish Orthodox Church in the United States",
+   "Evangelical Orthodox Church",
+   "Orthodox-Catholic Church of America",
+   "église orthodoxe portugaise",
+   "Communion des églises orthodoxes occidentales"
+  ]
+ },
+ "religions-du-monde_sunnisme": {
+  "qid": "Q483654",
+  "P571": [
+   "601"
+  ],
+  "P527": [
+   "malikisme",
+   "chaféisme",
+   "hanafisme",
+   "hanbalisme",
+   "acharisme",
+   "Maturidisme",
+   "Athariya",
+   "mutazilisme",
+   "soufisme",
+   "Murjisme"
+  ]
+ },
+ "religions-du-monde_chiisme": {
+  "qid": "Q9585",
+  "P527": [
+   "chiisme duodécimain",
+   "zaïdisme",
+   "ismaélisme",
+   "Ghulāt"
+  ]
+ },
+ "religions-du-monde_theravada": {
+  "qid": "Q132265",
+  "P17": [
+   "Cambodge"
+  ]
+ },
+ "religions-du-monde_bouddhisme-mahayana": {
+  "qid": "Q48362"
+ },
+ "religions-du-monde_bouddhisme-tibetain": {
+  "qid": "Q483889"
+ },
+ "religions-du-monde_zen": {
+  "qid": "Q7953",
+  "P527": [
+   "bouddhisme chan",
+   "Zen (Japon)",
+   "Son",
+   "Taiwanese Chan Buddhism"
+  ]
+ },
+ "religions-du-monde_anglicanisme": {
+  "qid": "Q6423963",
+  "P527": [
+   "broad church",
+   "anglo-catholicisme",
+   "anglicanisme évangélique",
+   "quanglican"
+  ]
+ },
+ "religions-du-monde_vaudou": {
+  "qid": "Q177764"
+ },
+ "religions-du-monde_candomble": {
+  "qid": "Q752660",
+  "P495": [
+   "Brésil"
+  ]
+ },
+ "religions-du-monde_mouvement-rastafari": {
+  "qid": "Q101462"
+ },
+ "religions-du-monde_temoins-de-jehovah": {
+  "qid": "Q35269",
+  "P571": [
+   "1881"
+  ]
+ },
+ "religions-du-monde_manicheisme-religion": {
+  "qid": "Q131165"
+ },
+ "religions-du-monde_religion-de-l-egypte-antique": {
+  "qid": "Q447131"
+ },
+ "religions-du-monde_religion-grecque-antique": {
+  "qid": "Q855270",
+  "P276": [
+   "Grèce antique"
+  ]
+ },
+ "religions-du-monde_evangelisme": {
+  "qid": "Q194253"
+ },
+ "religions-du-monde_pentecotisme": {
+  "qid": "Q483978",
+  "P527": [
+   "glossolalie"
+  ]
+ },
+ "religions-du-monde_religion-de-la-rome-antique": {
+  "qid": "Q337547"
+ },
+ "religions-du-monde_religion-nordique-ancienne": {
+  "qid": "Q121617"
+ },
+ "religions-du-monde_druzes": {
+  "qid": "Q163943",
+  "P17": [
+   "Syrie",
+   "Liban",
+   "Israël",
+   "Jordanie"
+  ]
+ },
+ "religions-du-monde_alevisme": {
+  "qid": "Q137097"
+ },
+ "religions-du-monde_amish": {
+  "qid": "Q104444",
+  "P571": [
+   "1693"
+  ],
+  "P17": [
+   "États-Unis",
+   "Canada",
+   "Bolivie",
+   "Argentine"
+  ]
+ }
+}

@@ -2,7 +2,7 @@
 """Donnees compactes du prototype du Musee (essais/musee.html).
 
 Une ligne par carte : id, nom, collection, theme, rarete, vignette, titre de
-page, annee et pays (faits Wikidata, quand la collection a ete lue).
+page, annee, pays, PV et role de combat (faits Wikidata, quand la collection a ete lue).
 Sortie : essais/musee_cartes.json
 """
 import json, re
@@ -32,13 +32,14 @@ def pays(fx):
     return None
 
 
+roles = json.loads((RACINE / 'data' / 'combat.json').read_text(encoding='utf-8'))['roles']
 cols, cartes = [], []
 for i, e in enumerate(idx['collections']):
     cols.append([e['slug'], e['nom'], idx['themes'].index(e['theme'])])
     for c in json.loads((RACINE / e['fichier']).read_text(encoding='utf-8'))['cartes']:
         fx = faits.get(c['id'], {})
         cartes.append([c['id'], c['nom'], i, c['rarete'], c['thumbUrl'], c['titrePage'],
-                       annee(fx), pays(fx)])
+                       annee(fx), pays(fx), c.get('pv'), roles.get(e['slug'])])
 out = {'themes': idx['themes'], 'collections': cols, 'cartes': cartes}
 (RACINE / 'essais' / 'musee_cartes.json').write_text(
     json.dumps(out, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')

@@ -1,0 +1,193 @@
+{
+ "regions-francaises_auvergne-rhone-alpes": {
+  "qid": "Q18338206",
+  "P571": [
+   "2016"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_bourgogne-franche-comte": {
+  "qid": "Q18578267",
+  "P571": [
+   "2016"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_bretagne-region-administrative": {
+  "qid": "Q12130",
+  "P571": [
+   "1960"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_centre-val-de-loire": {
+  "qid": "Q13947",
+  "P571": [
+   "1960"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_politique-en-corse": {
+  "qid": "Q3394765"
+ },
+ "regions-francaises_grand-est": {
+  "qid": "Q18677983",
+  "P571": [
+   "2016"
+  ],
+  "P131": [
+   "France métropolitaine",
+   "zone de défense et de sécurité Est"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_hauts-de-france": {
+  "qid": "Q18677767",
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_ile-de-france": {
+  "qid": "Q13917",
+  "P571": [
+   "1960"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ],
+  "P527": [
+   "Paris"
+  ]
+ },
+ "regions-francaises_nouvelle-aquitaine": {
+  "qid": "Q18678082",
+  "P571": [
+   "2016"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_occitanie-region-administrative": {
+  "qid": "Q18678265",
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_pays-de-la-loire": {
+  "qid": "Q16994",
+  "P571": [
+   "1960"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_provence-alpes-cote-d-azur": {
+  "qid": "Q15104",
+  "P571": [
+   "1970"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_guyane": {
+  "qid": "Q3769",
+  "P571": [
+   "1946"
+  ],
+  "P131": [
+   "France"
+  ],
+  "P17": [
+   "France",
+   "Empire colonial portugais"
+  ]
+ },
+ "regions-francaises_normandie-region-administrative": {
+  "qid": "Q18677875",
+  "P571": [
+   "2016"
+  ],
+  "P131": [
+   "France métropolitaine"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_conseil-regional-de-la-guadeloupe": {
+  "qid": "Q2994255",
+  "P131": [
+   "Guadeloupe"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_collectivite-territoriale-de-martinique": {
+  "qid": "Q19543847",
+  "P571": [
+   "2016"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_conseil-regional-de-la-reunion": {
+  "qid": "Q2994247",
+  "P571": [
+   "1986"
+  ],
+  "P131": [
+   "La Réunion"
+  ],
+  "P17": [
+   "France"
+  ]
+ },
+ "regions-francaises_conseil-departemental-de-mayotte": {
+  "qid": "Q23782076"
+ }
+}

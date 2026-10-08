@@ -1,0 +1,634 @@
+{
+ "presidents-des-etats-unis_george-washington": {
+  "qid": "Q23",
+  "P569": [
+   "1732"
+  ],
+  "P570": [
+   "1799"
+  ],
+  "P27": [
+   "royaume de Grande-Bretagne",
+   "États-Unis"
+  ],
+  "P101": [
+   "politique des États-Unis",
+   "politique extérieure des États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_john-adams-homme-d-etat": {
+  "qid": "Q11806",
+  "P569": [
+   "1735",
+   "1735",
+   "1735"
+  ],
+  "P570": [
+   "1826",
+   "1826"
+  ],
+  "P27": [
+   "États-Unis",
+   "Treize colonies"
+  ]
+ },
+ "presidents-des-etats-unis_thomas-jefferson": {
+  "qid": "Q11812",
+  "P569": [
+   "1743"
+  ],
+  "P570": [
+   "1826"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "plantation",
+   "droit",
+   "philosophie",
+   "diplomatie",
+   "architecture"
+  ]
+ },
+ "presidents-des-etats-unis_james-madison": {
+  "qid": "Q11813",
+  "P569": [
+   "1751"
+  ],
+  "P570": [
+   "1836"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Fédéraliste"
+  ]
+ },
+ "presidents-des-etats-unis_james-monroe": {
+  "qid": "Q11815",
+  "P569": [
+   "1758"
+  ],
+  "P570": [
+   "1831"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_john-quincy-adams": {
+  "qid": "Q11816",
+  "P569": [
+   "1767",
+   "1767"
+  ],
+  "P570": [
+   "1848",
+   "1848"
+  ],
+  "P27": [
+   "États-Unis",
+   "Amérique britannique"
+  ]
+ },
+ "presidents-des-etats-unis_andrew-jackson": {
+  "qid": "Q11817",
+  "P569": [
+   "1767"
+  ],
+  "P570": [
+   "1845"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_martin-van-buren": {
+  "qid": "Q11820",
+  "P569": [
+   "1782"
+  ],
+  "P570": [
+   "1862"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_william-henry-harrison": {
+  "qid": "Q11869",
+  "P569": [
+   "1773"
+  ],
+  "P570": [
+   "1841"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_john-tyler": {
+  "qid": "Q11881",
+  "P569": [
+   "1790"
+  ],
+  "P570": [
+   "1862"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_james-k-polk": {
+  "qid": "Q11891",
+  "P569": [
+   "1795"
+  ],
+  "P570": [
+   "1849"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_zachary-taylor": {
+  "qid": "Q11896",
+  "P569": [
+   "1784"
+  ],
+  "P570": [
+   "1850"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_millard-fillmore": {
+  "qid": "Q12306",
+  "P569": [
+   "1800"
+  ],
+  "P570": [
+   "1874"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_franklin-pierce": {
+  "qid": "Q12312",
+  "P569": [
+   "1804"
+  ],
+  "P570": [
+   "1869"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_james-buchanan": {
+  "qid": "Q12325",
+  "P569": [
+   "1791"
+  ],
+  "P570": [
+   "1868"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-des-etats-unis_abraham-lincoln": {
+  "qid": "Q91",
+  "P569": [
+   "1809"
+  ],
+  "P570": [
+   "1865"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "discours de Gettysburg"
+  ]
+ },
+ "presidents-des-etats-unis_andrew-johnson": {
+  "qid": "Q8612",
+  "P569": [
+   "1808"
+  ],
+  "P570": [
+   "1875"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_ulysses-s-grant": {
+  "qid": "Q34836",
+  "P569": [
+   "1822",
+   "1822"
+  ],
+  "P570": [
+   "1885",
+   "1885"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_rutherford-b-hayes": {
+  "qid": "Q35686",
+  "P569": [
+   "1822"
+  ],
+  "P570": [
+   "1893"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_james-a-garfield": {
+  "qid": "Q34597",
+  "P569": [
+   "1831"
+  ],
+  "P570": [
+   "1881"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_chester-a-arthur": {
+  "qid": "Q35498",
+  "P569": [
+   "1829"
+  ],
+  "P570": [
+   "1886"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_grover-cleveland": {
+  "qid": "Q35171",
+  "P569": [
+   "1837"
+  ],
+  "P570": [
+   "1908",
+   "1908"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_benjamin-harrison": {
+  "qid": "Q35678",
+  "P569": [
+   "1833",
+   "1833"
+  ],
+  "P570": [
+   "1901",
+   "1901"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_william-mckinley": {
+  "qid": "Q35041",
+  "P569": [
+   "1843"
+  ],
+  "P570": [
+   "1901"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_theodore-roosevelt": {
+  "qid": "Q33866",
+  "P569": [
+   "1858"
+  ],
+  "P570": [
+   "1919"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "African game trails : an account of the African wanderings of an American hunter-naturalist",
+   "Hunting trips of a ranchman, sketches of sport on the northern cattle plains;",
+   "The wilderness hunter; an account of the big game of the United States and its chase with horse, hound, and rifle;"
+  ],
+  "P101": [
+   "politique des États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_william-howard-taft": {
+  "qid": "Q35648",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1930"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_woodrow-wilson": {
+  "qid": "Q34296",
+  "P569": [
+   "1856"
+  ],
+  "P570": [
+   "1924"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_warren-g-harding": {
+  "qid": "Q35286",
+  "P569": [
+   "1865"
+  ],
+  "P570": [
+   "1923"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_calvin-coolidge": {
+  "qid": "Q36023",
+  "P569": [
+   "1872"
+  ],
+  "P570": [
+   "1933"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_herbert-hoover": {
+  "qid": "Q35236",
+  "P569": [
+   "1874"
+  ],
+  "P570": [
+   "1964"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_franklin-delano-roosevelt": {
+  "qid": "Q8007",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1945"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_harry-s-truman": {
+  "qid": "Q11613",
+  "P569": [
+   "1884"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_dwight-d-eisenhower": {
+  "qid": "Q9916",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique des États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_john-fitzgerald-kennedy": {
+  "qid": "Q9696",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "We choose to go to the Moon",
+   "Ich bin ein Berliner",
+   "Le Courage dans la politique"
+  ],
+  "P101": [
+   "personnalité politique",
+   "publiciste",
+   "militaire"
+  ]
+ },
+ "presidents-des-etats-unis_lyndon-b-johnson": {
+  "qid": "Q9640",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "contrôle des armes à feu",
+   "politique",
+   "gouvernement"
+  ]
+ },
+ "presidents-des-etats-unis_richard-nixon": {
+  "qid": "Q9588",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "opération Condor"
+  ]
+ },
+ "presidents-des-etats-unis_gerald-ford": {
+  "qid": "Q9582",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "contrôle des armes à feu"
+  ]
+ },
+ "presidents-des-etats-unis_jimmy-carter": {
+  "qid": "Q23685",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-des-etats-unis_ronald-reagan": {
+  "qid": "Q9960",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Tear down this wall!"
+  ]
+ },
+ "presidents-des-etats-unis_george-h-w-bush": {
+  "qid": "Q23505",
+  "P569": [
+   "1924"
+  ],
+  "P570": [
+   "2018"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique",
+   "gouvernement"
+  ]
+ },
+ "presidents-des-etats-unis_bill-clinton": {
+  "qid": "Q1124",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "politique",
+   "théorie du droit"
+  ]
+ },
+ "presidents-des-etats-unis_george-w-bush": {
+  "qid": "Q207",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "presidents-des-etats-unis_barack-obama": {
+  "qid": "Q76",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Une terre promise"
+  ],
+  "P101": [
+   "droits civils",
+   "droit constitutionnel"
+  ]
+ },
+ "presidents-des-etats-unis_donald-trump": {
+  "qid": "Q22686",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Trump par Trump",
+   "Crippled America",
+   "The Apprentice"
+  ],
+  "P101": [
+   "personnalité médiatique",
+   "politique",
+   "commerce",
+   "personnalité politique",
+   "entrepreneur ou entrepreneuse",
+   "écrivain ou écrivaine"
+  ]
+ },
+ "presidents-des-etats-unis_joe-biden": {
+  "qid": "Q6279",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Promises to Keep",
+   "Promise Me, Dad"
+  ],
+  "P101": [
+   "droit",
+   "politique"
+  ]
+ }
+}

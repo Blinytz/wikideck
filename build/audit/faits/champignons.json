@@ -1,0 +1,128 @@
+{
+ "champignons_amanite-tue-mouches": {
+  "qid": "Q131227"
+ },
+ "champignons_amanite-phalloide": {
+  "qid": "Q188643"
+ },
+ "champignons_boletus-edulis": {
+  "qid": "Q19740"
+ },
+ "champignons_truffe-champignon": {
+  "qid": "Q2690965"
+ },
+ "champignons_morchella": {
+  "qid": "Q371101"
+ },
+ "champignons_cantharellus-cibarius": {
+  "qid": "Q188749"
+ },
+ "champignons_coprin-chevelu": {
+  "qid": "Q275125"
+ },
+ "champignons_psilocybe": {
+  "qid": "Q850667"
+ },
+ "champignons_penicillium": {
+  "qid": "Q843136"
+ },
+ "champignons_agaricus-bisporus": {
+  "qid": "Q227690",
+  "P2079": [
+   "culture du champignon de Paris"
+  ]
+ },
+ "champignons_lentinula-edodes": {
+  "qid": "Q320999"
+ },
+ "champignons_pleurotus-ostreatus": {
+  "qid": "Q186451"
+ },
+ "champignons_bolet-satan": {
+  "qid": "Q26203731"
+ },
+ "champignons_vesse-de-loup": {
+  "qid": "Q1759052"
+ },
+ "champignons_amadouvier": {
+  "qid": "Q229814"
+ },
+ "champignons_polypore-soufre": {
+  "qid": "Q772098"
+ },
+ "champignons_chanterelle": {
+  "qid": "Q371126"
+ },
+ "champignons_trompette-de-la-mort": {
+  "qid": "Q857903"
+ },
+ "champignons_russule-charbonniere": {
+  "qid": "Q246696"
+ },
+ "champignons_lactaire-delicieux": {
+  "qid": "Q62138"
+ },
+ "champignons_agaricus-campestris": {
+  "qid": "Q234529"
+ },
+ "champignons_clitocybe": {
+  "qid": "Q97365628"
+ },
+ "champignons_satyre-puant": {
+  "qid": "Q48188"
+ },
+ "champignons_hericium-erinaceus": {
+  "qid": "Q19737"
+ },
+ "champignons_ganoderme-luisant": {
+  "qid": "Q271098"
+ },
+ "champignons_cordyceps": {
+  "qid": "Q312238"
+ },
+ "champignons_armillaria": {
+  "qid": "Q952036"
+ },
+ "champignons_mycena": {
+  "qid": "Q1124575"
+ },
+ "champignons_scleroderma": {
+  "qid": "Q1383511"
+ },
+ "champignons_bolet-bai": {
+  "qid": "Q752497"
+ },
+ "champignons_flammulina-velutipes": {
+  "qid": "Q372893"
+ },
+ "champignons_aspergillus": {
+  "qid": "Q335130"
+ },
+ "champignons_ergot-du-seigle": {
+  "qid": "Q217227"
+ },
+ "champignons_tricholome-de-la-saint-georges": {
+  "qid": "Q731944"
+ },
+ "champignons_oronge": {
+  "qid": "Q220662"
+ },
+ "champignons_macrolepiota-procera": {
+  "qid": "Q243381"
+ },
+ "champignons_matsutake": {
+  "qid": "Q509308"
+ },
+ "champignons_truffe-blanche": {
+  "qid": "Q2360313"
+ },
+ "champignons_clathrus-ruber": {
+  "qid": "Q579190"
+ },
+ "champignons_oreille-de-judas": {
+  "qid": "Q321342"
+ },
+ "champignons_saccharomyces-cerevisiae": {
+  "qid": "Q719725"
+ }
+}

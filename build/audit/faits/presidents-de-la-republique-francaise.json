@@ -1,0 +1,351 @@
+{
+ "presidents-de-la-republique-francaise_napoleon-iii": {
+  "qid": "Q7721",
+  "P569": [
+   "1808"
+  ],
+  "P570": [
+   "1873"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_adolphe-thiers": {
+  "qid": "Q5738",
+  "P569": [
+   "1797",
+   "1797"
+  ],
+  "P570": [
+   "1877"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Histoire de la Révolution française"
+  ]
+ },
+ "presidents-de-la-republique-francaise_patrice-de-mac-mahon": {
+  "qid": "Q158838",
+  "P569": [
+   "1808",
+   "1808",
+   "1808"
+  ],
+  "P570": [
+   "1893",
+   "1893"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_jules-grevy": {
+  "qid": "Q296083",
+  "P569": [
+   "1807"
+  ],
+  "P570": [
+   "1891"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_sadi-carnot-homme-d-etat": {
+  "qid": "Q215778",
+  "P569": [
+   "1837"
+  ],
+  "P570": [
+   "1894"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "pont Carnot"
+  ]
+ },
+ "presidents-de-la-republique-francaise_jean-casimir-perier": {
+  "qid": "Q315656",
+  "P569": [
+   "1847"
+  ],
+  "P570": [
+   "1907"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_felix-faure": {
+  "qid": "Q296076",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1899"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_emile-loubet": {
+  "qid": "Q169502",
+  "P569": [
+   "1838"
+  ],
+  "P570": [
+   "1929"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_armand-fallieres": {
+  "qid": "Q296673",
+  "P569": [
+   "1841"
+  ],
+  "P570": [
+   "1931"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "droit",
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_raymond-poincare": {
+  "qid": "Q191974",
+  "P569": [
+   "1860"
+  ],
+  "P570": [
+   "1934"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique",
+   "droit"
+  ]
+ },
+ "presidents-de-la-republique-francaise_paul-deschanel": {
+  "qid": "Q309995",
+  "P569": [
+   "1855"
+  ],
+  "P570": [
+   "1922"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_alexandre-millerand": {
+  "qid": "Q274540",
+  "P569": [
+   "1859"
+  ],
+  "P570": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_gaston-doumergue": {
+  "qid": "Q296064",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_paul-doumer": {
+  "qid": "Q12680",
+  "P569": [
+   "1857"
+  ],
+  "P570": [
+   "1932"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_albert-lebrun": {
+  "qid": "Q158749",
+  "P569": [
+   "1871",
+   "1871"
+  ],
+  "P570": [
+   "1950",
+   "1950"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_vincent-auriol": {
+  "qid": "Q158772",
+  "P569": [
+   "1884"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_rene-coty": {
+  "qid": "Q158768",
+  "P569": [
+   "1882"
+  ],
+  "P570": [
+   "1962"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "presidents-de-la-republique-francaise_charles-de-gaulle": {
+  "qid": "Q2042",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1970"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Mémoires de guerre"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_georges-pompidou": {
+  "qid": "Q2185",
+  "P569": [
+   "1911"
+  ],
+  "P570": [
+   "1974"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_valery-giscard-d-estaing": {
+  "qid": "Q2124",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique",
+   "activité littéraire"
+  ]
+ },
+ "presidents-de-la-republique-francaise_francois-mitterrand": {
+  "qid": "Q2038",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Grand Louvre",
+   "pyramide du Louvre"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_jacques-chirac": {
+  "qid": "Q2105",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Développement du port de La Nouvelle-Orléans"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_nicolas-sarkozy": {
+  "qid": "Q329",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_francois-hollande": {
+  "qid": "Q157",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique"
+  ]
+ },
+ "presidents-de-la-republique-francaise_emmanuel-macron": {
+  "qid": "Q3052772",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "politique"
+  ]
+ }
+}

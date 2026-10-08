@@ -1,0 +1,131 @@
+{
+ "croyances-et-notions-sacrees_temps-du-reve": {
+  "qid": "Q155881"
+ },
+ "croyances-et-notions-sacrees_karma": {
+  "qid": "Q132196",
+  "P527": [
+   "karma in Hinduism",
+   "karma",
+   "karma in Tibetan Buddhism",
+   "karma in Jainism"
+  ]
+ },
+ "croyances-et-notions-sacrees_samsara": {
+  "qid": "Q173324"
+ },
+ "croyances-et-notions-sacrees_reincarnation": {
+  "qid": "Q128593"
+ },
+ "croyances-et-notions-sacrees_metempsycose": {
+  "qid": "Q1262856"
+ },
+ "croyances-et-notions-sacrees_yin-et-yang": {
+  "qid": "Q62744",
+  "P527": [
+   "yin",
+   "yang"
+  ]
+ },
+ "croyances-et-notions-sacrees_sejour-des-morts": {
+  "qid": "Q443814"
+ },
+ "croyances-et-notions-sacrees_enfer": {
+  "qid": "Q564"
+ },
+ "croyances-et-notions-sacrees_paradis": {
+  "qid": "Q3363340"
+ },
+ "croyances-et-notions-sacrees_purgatoire": {
+  "qid": "Q566"
+ },
+ "croyances-et-notions-sacrees_ame": {
+  "qid": "Q9165"
+ },
+ "croyances-et-notions-sacrees_destin": {
+  "qid": "Q216774"
+ },
+ "croyances-et-notions-sacrees_axis-mundi": {
+  "qid": "Q1421259"
+ },
+ "croyances-et-notions-sacrees_arbre-de-vie": {
+  "qid": "Q1651237"
+ },
+ "croyances-et-notions-sacrees_chamanisme": {
+  "qid": "Q42042"
+ },
+ "croyances-et-notions-sacrees_animisme": {
+  "qid": "Q43004"
+ },
+ "croyances-et-notions-sacrees_dharma": {
+  "qid": "Q134293"
+ },
+ "croyances-et-notions-sacrees_ch-i-spiritualite": {
+  "qid": "Q202742"
+ },
+ "croyances-et-notions-sacrees_kami-divinite": {
+  "qid": "Q524158",
+  "P527": [
+   "kunitsukami",
+   "Amatsukami"
+  ]
+ },
+ "croyances-et-notions-sacrees_ahimsa": {
+  "qid": "Q178498"
+ },
+ "croyances-et-notions-sacrees_mantra": {
+  "qid": "Q131510",
+  "P571": [
+   "-2000"
+  ],
+  "P495": [
+   "Inde",
+   "Iran"
+  ]
+ },
+ "croyances-et-notions-sacrees_mandala": {
+  "qid": "Q191431"
+ },
+ "croyances-et-notions-sacrees_om": {
+  "qid": "Q184128"
+ },
+ "croyances-et-notions-sacrees_mana-spiritualite": {
+  "qid": "Q859517",
+  "P495": [
+   "Polynésie"
+  ]
+ },
+ "croyances-et-notions-sacrees_totemisme": {
+  "qid": "Q947965"
+ },
+ "croyances-et-notions-sacrees_ange": {
+  "qid": "Q235113"
+ },
+ "croyances-et-notions-sacrees_resurrection": {
+  "qid": "Q188681",
+  "P527": [
+   "al-baʻth baʻd al-mawt"
+  ]
+ },
+ "croyances-et-notions-sacrees_kabbale": {
+  "qid": "Q123006"
+ },
+ "croyances-et-notions-sacrees_soufisme": {
+  "qid": "Q9603",
+  "P276": [
+   "civilisation islamique",
+   "mondial",
+   "monde"
+  ],
+  "P527": [
+   "Wird",
+   "Warid",
+   "haal",
+   "maqam",
+   "Lataif-e-sitta"
+  ]
+ },
+ "croyances-et-notions-sacrees_gnose": {
+  "qid": "Q421261"
+ }
+}

@@ -1,0 +1,3191 @@
+{
+ "cinema-moderne_e-t-l-extra-terrestre": {
+  "qid": "Q11621",
+  "P135": [
+   "Nouvel Hollywood"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1985",
+   "1983"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "drame",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm familial"
+  ]
+ },
+ "cinema-moderne_blade-runner-film": {
+  "qid": "Q184843",
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis",
+   "Hong Kong"
+  ],
+  "P577": [
+   "1982",
+   "1982",
+   "1982",
+   "1982",
+   "1982"
+  ],
+  "P136": [
+   "TechNoir",
+   "cyberpunk",
+   "thriller",
+   "néo-noir",
+   "film dystopique",
+   "film noir",
+   "cinéma de science-fiction",
+   "drame",
+   "film et téléfilm d'action",
+   "film ou téléfilm criminel",
+   "film policier dramatique",
+   "thriller policier"
+  ]
+ },
+ "cinema-moderne_retour-vers-le-futur": {
+  "qid": "Q91540",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1985",
+   "1985",
+   "1985",
+   "1985"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "film pour adolescents",
+   "film de voyage dans le temps"
+  ]
+ },
+ "cinema-moderne_les-aventuriers-de-l-arche-perdue": {
+  "qid": "Q174284",
+  "P135": [
+   "Nouvel Hollywood"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1981",
+   "1981",
+   "1981",
+   "1981"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "film de chasse au trésor"
+  ]
+ },
+ "cinema-moderne_terminator": {
+  "qid": "Q162255",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1984",
+   "1985",
+   "1985",
+   "1985",
+   "1987"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "cinéma de science-fiction",
+   "cyberpunk",
+   "film dystopique",
+   "thriller",
+   "Chase Films",
+   "film de voyage dans le temps",
+   "film ou téléfilm d'horreur",
+   "film et téléfilm de fantasy",
+   "film d'horreur de science-fiction",
+   "film ou téléfilm post-apocalyptique",
+   "film d'action de science-fiction",
+   "tech-noir film",
+   "film ou téléfilm d'aventure",
+   "cinéma indépendant",
+   "drame",
+   "film à suspense",
+   "techno-thriller"
+  ]
+ },
+ "cinema-moderne_sos-fantomes": {
+  "qid": "Q108745",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1984",
+   "1984",
+   "1985"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "comédie horrifique",
+   "film ou téléfilm de monstre",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "cinéma de science-fiction",
+   "buddy movie",
+   "film de fantômes"
+  ]
+ },
+ "cinema-moderne_die-hard": {
+  "qid": "Q2716420",
+  "P170": [
+   "Roderick Thorp"
+  ],
+  "P571": [
+   "1988"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "thriller"
+  ],
+  "P527": [
+   "Piège de cristal",
+   "58 Minutes pour vivre",
+   "Une journée en enfer",
+   "Die Hard 4 : Retour en enfer",
+   "Die Hard : Belle journée pour mourir"
+  ]
+ },
+ "cinema-moderne_batman-film-1989": {
+  "qid": "Q116852",
+  "P170": [
+   "Tim Burton"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1989",
+   "1989",
+   "1989",
+   "1989",
+   "1989"
+  ],
+  "P136": [
+   "néo-noir",
+   "film et téléfilm d'action",
+   "film de super-héros"
+  ]
+ },
+ "cinema-moderne_le-cercle-des-poetes-disparus": {
+  "qid": "Q106316",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1989",
+   "1990",
+   "1990"
+  ],
+  "P136": [
+   "film sur le passage à l'âge adulte",
+   "drame",
+   "film pour adolescents"
+  ]
+ },
+ "cinema-moderne_dirty-dancing": {
+  "qid": "Q253978",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1987",
+   "1987",
+   "1987"
+  ],
+  "P136": [
+   "film ou téléfilm d'amour",
+   "film ou téléfilm musical",
+   "drame",
+   "film pour adolescents",
+   "film de danse"
+  ]
+ },
+ "cinema-moderne_top-gun-film": {
+  "qid": "Q110138",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1986",
+   "1986",
+   "1986",
+   "1986",
+   "1986"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "drame",
+   "film ou téléfilm d'amour",
+   "mélodrame"
+  ]
+ },
+ "cinema-moderne_pulp-fiction": {
+  "qid": "Q104123",
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1994",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "cinéma indépendant",
+   "film ou téléfilm criminel",
+   "film policier dramatique",
+   "drame",
+   "thriller policier",
+   "film et téléfilm d'action",
+   "thriller",
+   "film à suspense",
+   "comédie noire",
+   "comédie policière",
+   "thriller d'action",
+   "comédie dramatique",
+   "comédie",
+   "néo-noir",
+   "film de gangsters"
+  ]
+ },
+ "cinema-moderne_le-silence-des-agneaux-film": {
+  "qid": "Q133654",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1991",
+   "1991",
+   "1991",
+   "1991"
+  ],
+  "P136": [
+   "thriller",
+   "film ou téléfilm d'horreur",
+   "film d'horreur psychologique",
+   "thriller psychologique",
+   "film ou téléfilm criminel",
+   "drame",
+   "police procedural film",
+   "thriller policier",
+   "film policier dramatique",
+   "drame psychologique",
+   "film LGBT"
+  ]
+ },
+ "cinema-moderne_forrest-gump": {
+  "qid": "Q134773",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1994",
+   "1994",
+   "1994",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "film sur le passage à l'âge adulte",
+   "film à flash-back",
+   "comédie",
+   "drame",
+   "drame historique",
+   "film comédie romantique",
+   "tragi-comédie",
+   "film sur le football américain"
+  ]
+ },
+ "cinema-moderne_le-roi-lion": {
+  "qid": "Q36479",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1994",
+   "1994",
+   "1995",
+   "1994",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "film ou téléfilm musical",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm familial"
+  ],
+  "P2079": [
+   "animation traditionnelle",
+   "animation 2D numérique"
+  ]
+ },
+ "cinema-moderne_jurassic-park": {
+  "qid": "Q167726",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1993",
+   "1994",
+   "1994"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "film et téléfilm d'action",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_titanic-film-1997": {
+  "qid": "Q44578",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1997",
+   "1997",
+   "1998",
+   "1998",
+   "1998",
+   "1998",
+   "1998"
+  ],
+  "P136": [
+   "film ou téléfilm catastrophe",
+   "drame",
+   "film ou téléfilm d'amour",
+   "film à flash-back",
+   "mélodrame",
+   "film ou téléfilm historique",
+   "film ou téléfilm épique"
+  ]
+ },
+ "cinema-moderne_matrix-film": {
+  "qid": "Q83495",
+  "P495": [
+   "États-Unis",
+   "Australie"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "thriller",
+   "film dystopique",
+   "cyberpunk",
+   "thriller d'action",
+   "film ou téléfilm post-apocalyptique",
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "film noir",
+   "film de super-héros"
+  ],
+  "P2079": [
+   "time slice image"
+  ]
+ },
+ "cinema-moderne_fight-club-film": {
+  "qid": "Q190050",
+  "P495": [
+   "États-Unis",
+   "Allemagne"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "film à flash-back",
+   "drame",
+   "thriller",
+   "thriller psychologique"
+  ]
+ },
+ "cinema-moderne_se7en-chanteur": {
+  "qid": "Q354638",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "Corée du Sud"
+  ],
+  "P136": [
+   "pop"
+  ]
+ },
+ "cinema-moderne_usual-suspects": {
+  "qid": "Q132351",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1995",
+   "1996"
+  ],
+  "P136": [
+   "film ou téléfilm de casse",
+   "néo-noir",
+   "film ou téléfilm à énigme",
+   "film à flash-back",
+   "thriller",
+   "drame",
+   "film et téléfilm d'action",
+   "film de détective",
+   "film policier dramatique",
+   "thriller policier",
+   "film de gangsters",
+   "film à suspense"
+  ]
+ },
+ "cinema-moderne_american-beauty": {
+  "qid": "Q25139",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "2000"
+  ],
+  "P136": [
+   "comédie noire",
+   "comédie dramatique",
+   "drame",
+   "film à flash-back",
+   "film LGBT"
+  ]
+ },
+ "cinema-moderne_il-faut-sauver-le-soldat-ryan": {
+  "qid": "Q165817",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1998",
+   "1998",
+   "1998",
+   "1998"
+  ],
+  "P136": [
+   "film et téléfilm de guerre",
+   "drame",
+   "film et téléfilm d'action"
+  ]
+ },
+ "cinema-moderne_leon-film": {
+  "qid": "Q484675",
+  "P495": [
+   "France",
+   "États-Unis"
+  ],
+  "P577": [
+   "1994",
+   "1995",
+   "1994",
+   "2022"
+  ],
+  "P136": [
+   "thriller policier",
+   "buddy movie",
+   "film de gangsters",
+   "drame",
+   "film ou téléfilm à énigme",
+   "film et téléfilm d'action",
+   "film ou téléfilm criminel"
+  ]
+ },
+ "cinema-moderne_la-liste-de-schindler": {
+  "qid": "Q483941",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1993",
+   "1994",
+   "1994",
+   "1993"
+  ],
+  "P136": [
+   "film anti-guerre",
+   "film ou téléfilm biographique",
+   "drame",
+   "film ou téléfilm historique",
+   "war drama",
+   "historical drama film",
+   "film et téléfilm de guerre",
+   "film ou téléfilm épique",
+   "drame psychologique"
+  ]
+ },
+ "cinema-moderne_le-grand-bleu": {
+  "qid": "Q517239",
+  "P495": [
+   "France",
+   "Italie",
+   "États-Unis"
+  ],
+  "P577": [
+   "1988",
+   "1988",
+   "1988",
+   "1988"
+  ],
+  "P136": [
+   "drame",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm d'amour",
+   "film ou téléfilm biographique"
+  ]
+ },
+ "cinema-moderne_trainspotting-film": {
+  "qid": "Q109135",
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1996",
+   "1996",
+   "1996",
+   "1996"
+  ],
+  "P136": [
+   "buddy movie",
+   "film ou téléfilm criminel",
+   "drame",
+   "cinéma indépendant",
+   "magic realist film"
+  ]
+ },
+ "cinema-moderne_le-seigneur-des-anneaux-la-communaute-de-l-anneau": {
+  "qid": "Q127367",
+  "P170": [
+   "Peter Jackson"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Nouvelle-Zélande",
+   "États-Unis"
+  ],
+  "P577": [
+   "2001",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "film ou téléfilm d'aventure",
+   "film et téléfilm d'action",
+   "high fantasy"
+  ]
+ },
+ "cinema-moderne_le-fabuleux-destin-d-amelie-poulain": {
+  "qid": "Q484048",
+  "P495": [
+   "France",
+   "Allemagne"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "film comédie romantique",
+   "comédie",
+   "drame",
+   "magic realist film"
+  ]
+ },
+ "cinema-moderne_gladiator-film-2000": {
+  "qid": "Q128518",
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2023"
+  ],
+  "P136": [
+   "péplum",
+   "mélodrame",
+   "film et téléfilm d'action",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm épique",
+   "film ou téléfilm historique",
+   "historical drama film"
+  ]
+ },
+ "cinema-moderne_requiem-for-a-dream": {
+  "qid": "Q487181",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2000",
+   "2002",
+   "2000",
+   "2000"
+  ],
+  "P136": [
+   "drame"
+  ]
+ },
+ "cinema-moderne_old-boy-film-2003": {
+  "qid": "Q475693",
+  "P495": [
+   "Corée du Sud",
+   "Japon"
+  ],
+  "P577": [
+   "2004",
+   "2003",
+   "2004",
+   "2005",
+   "2003"
+  ],
+  "P136": [
+   "drame",
+   "thriller",
+   "film ou téléfilm à énigme",
+   "film et téléfilm d'action"
+  ]
+ },
+ "cinema-moderne_eternal-sunshine-of-the-spotless-mind": {
+  "qid": "Q208269",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2004",
+   "2004",
+   "2004"
+  ],
+  "P136": [
+   "comédie romantique",
+   "comédie dramatique",
+   "cinéma de science-fiction",
+   "mélodrame",
+   "film et téléfilm de fantasy"
+  ]
+ },
+ "cinema-moderne_no-country-for-old-men": {
+  "qid": "Q183081",
+  "P170": [
+   "Ethan Coen"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2008",
+   "2008"
+  ],
+  "P136": [
+   "thriller",
+   "western",
+   "drame",
+   "contemporary Western film",
+   "film policier dramatique",
+   "film ou téléfilm d'aventure",
+   "néo-noir",
+   "film ou téléfilm à énigme",
+   "thriller psychologique",
+   "film à suspense",
+   "film ou téléfilm criminel",
+   "film et téléfilm d'action",
+   "thriller policier",
+   "drame psychologique",
+   "film de gangsters"
+  ]
+ },
+ "cinema-moderne_there-will-be-blood": {
+  "qid": "Q244315",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2008",
+   "2008",
+   "2008"
+  ],
+  "P136": [
+   "drame",
+   "film ou téléfilm épique",
+   "drame d'époque",
+   "western",
+   "thriller",
+   "historical drama film",
+   "anti-western",
+   "film ou téléfilm historique",
+   "cinéma indépendant"
+  ]
+ },
+ "cinema-moderne_the-dark-knight-le-chevalier-noir": {
+  "qid": "Q163872",
+  "P170": [
+   "Christopher Nolan"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2022",
+   "2008"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "néo-noir",
+   "thriller policier",
+   "film ou téléfilm criminel",
+   "film de super-héros",
+   "drame",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_le-labyrinthe-de-pan": {
+  "qid": "Q216006",
+  "P495": [
+   "Espagne",
+   "Mexique"
+  ],
+  "P577": [
+   "2006",
+   "2007",
+   "2006",
+   "2006",
+   "2006",
+   "2007"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "drame",
+   "film et téléfilm de guerre",
+   "film pour adolescents"
+  ]
+ },
+ "cinema-moderne_wall-e": {
+  "qid": "Q104905",
+  "P170": [
+   "Andrew Stanton"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008"
+  ],
+  "P136": [
+   "film comédie romantique",
+   "film ou téléfilm post-apocalyptique",
+   "science-fiction humoristique",
+   "film ou téléfilm d'aventure",
+   "film à flash-back",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm d'amour",
+   "film dystopique",
+   "science-fiction d'aventure",
+   "cinéma de science-fiction",
+   "comédie"
+  ]
+ },
+ "cinema-moderne_inglourious-basterds": {
+  "qid": "Q153723",
+  "P495": [
+   "Allemagne",
+   "États-Unis"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2009"
+  ],
+  "P136": [
+   "film et téléfilm de guerre",
+   "film uchronique",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "comédie noire",
+   "film ou téléfilm parodique",
+   "war drama",
+   "film et téléfilm d'action",
+   "film à suspense",
+   "film ou téléfilm historique",
+   "historical drama film",
+   "comédie dramatique",
+   "film ou téléfilm épique",
+   "thriller",
+   "drame d'époque",
+   "comédie d'action",
+   "satire politique"
+  ]
+ },
+ "cinema-moderne_inception": {
+  "qid": "Q25188",
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P577": [
+   "2010",
+   "2010",
+   "2010",
+   "2010",
+   "2010"
+  ],
+  "P136": [
+   "film ou téléfilm de casse",
+   "cinéma de science-fiction",
+   "thriller",
+   "film d'action de science-fiction",
+   "film ou téléfilm d'aventure",
+   "drame",
+   "film ou téléfilm à énigme",
+   "film et téléfilm d'action"
+  ],
+  "P527": [
+   "Braaam sound effect"
+  ]
+ },
+ "cinema-moderne_interstellar": {
+  "qid": "Q13417189",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2025"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "film dystopique",
+   "drame",
+   "film de voyage dans le temps",
+   "thriller",
+   "hard science-fiction"
+  ]
+ },
+ "cinema-moderne_mad-max-fury-road": {
+  "qid": "Q1757288",
+  "P495": [
+   "Australie",
+   "États-Unis"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "cinéma de science-fiction",
+   "film dystopique",
+   "film ou téléfilm post-apocalyptique"
+  ]
+ },
+ "cinema-moderne_parasite-film-2019": {
+  "qid": "Q61448040",
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P577": [
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2020",
+   "2019"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "humour noir",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_get-out-film": {
+  "qid": "Q25136235",
+  "P495": [
+   "États-Unis",
+   "Japon"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "film ou téléfilm d'horreur",
+   "film ou téléfilm à énigme",
+   "comédie horrifique",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_blade-runner-2049": {
+  "qid": "Q21500755",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni",
+   "Canada",
+   "Hongrie"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film ou téléfilm à énigme",
+   "cyberpunk",
+   "film dystopique",
+   "néo-noir",
+   "thriller",
+   "drame",
+   "film et téléfilm d'action"
+  ]
+ },
+ "cinema-moderne_dunkerque-film-2017": {
+  "qid": "Q21935651",
+  "P495": [
+   "France",
+   "États-Unis",
+   "Royaume-Uni",
+   "Pays-Bas"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2017",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "drame",
+   "film et téléfilm de guerre",
+   "film ou téléfilm historique"
+  ]
+ },
+ "cinema-moderne_her-film": {
+  "qid": "Q788822",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2013",
+   "2014",
+   "2014"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "drame",
+   "film comédie romantique",
+   "comédie",
+   "arthouse science fiction film"
+  ]
+ },
+ "cinema-moderne_django-unchained": {
+  "qid": "Q571032",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2012",
+   "2013"
+  ],
+  "P136": [
+   "anti-western",
+   "western",
+   "film et téléfilm d'action",
+   "blaxploitation",
+   "historical drama film",
+   "film ou téléfilm historique",
+   "comédie dramatique",
+   "drame"
+  ]
+ },
+ "cinema-moderne_gravity-film": {
+  "qid": "Q2579784",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013"
+  ],
+  "P136": [
+   "drame",
+   "thriller",
+   "film ou téléfilm catastrophe",
+   "film de survie",
+   "techno-thriller",
+   "film ou téléfilm d'horreur",
+   "cinéma de science-fiction"
+  ],
+  "P2079": [
+   "rendu"
+  ]
+ },
+ "cinema-moderne_the-grand-budapest-hotel": {
+  "qid": "Q3521099",
+  "P495": [
+   "États-Unis",
+   "Allemagne"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2014"
+  ],
+  "P136": [
+   "comédie",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm d'amour",
+   "film ou téléfilm criminel",
+   "tragi-comédie"
+  ]
+ },
+ "cinema-moderne_moonlight-film-2016": {
+  "qid": "Q21527875",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016",
+   "2017",
+   "2017",
+   "2017",
+   "2016"
+  ],
+  "P136": [
+   "drame",
+   "film LGBT",
+   "film sur le passage à l'âge adulte"
+  ]
+ },
+ "cinema-moderne_joker-film-2019": {
+  "qid": "Q42759035",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019"
+  ],
+  "P136": [
+   "film ou téléfilm criminel",
+   "thriller",
+   "drame",
+   "thriller psychologique"
+  ]
+ },
+ "cinema-moderne_everything-everywhere-all-at-once": {
+  "qid": "Q83808444",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2022",
+   "2022",
+   "2022",
+   "2022",
+   "2022",
+   "2022"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "comédie dramatique",
+   "fiction absurde",
+   "film d'arts martiaux",
+   "film psychédélique"
+  ]
+ },
+ "cinema-moderne_oppenheimer-film": {
+  "qid": "Q108839994",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2023",
+   "2023",
+   "2023",
+   "2023"
+  ],
+  "P136": [
+   "film ou téléfilm historique",
+   "film ou téléfilm biographique",
+   "thriller",
+   "film ou téléfilm épique",
+   "drame"
+  ]
+ },
+ "cinema-moderne_dune-film-2021": {
+  "qid": "Q60834962",
+  "P495": [
+   "États-Unis",
+   "Hongrie",
+   "Jordanie",
+   "Émirats arabes unis",
+   "Norvège",
+   "Canada"
+  ],
+  "P50": [
+   "Frank Herbert"
+  ],
+  "P577": [
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021",
+   "2021"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "film et téléfilm fantastique"
+  ]
+ },
+ "cinema-moderne_the-batman": {
+  "qid": "Q61117344",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Matt Reeves",
+   "Peter Craig"
+  ],
+  "P577": [
+   "2022",
+   "2022",
+   "2022",
+   "2022",
+   "2022",
+   "2022",
+   "2022"
+  ],
+  "P136": [
+   "film de super-héros",
+   "film et téléfilm d'action",
+   "drame",
+   "film de détective",
+   "thriller",
+   "film ou téléfilm criminel"
+  ]
+ },
+ "cinema-moderne_mon-voisin-totoro": {
+  "qid": "Q39571",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1988",
+   "1990",
+   "1988",
+   "1988"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "manga et animé de genre drama",
+   "manga et animé de fantasy",
+   "film ou téléfilm pour enfants",
+   "animé surnaturel"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_princesse-mononoke": {
+  "qid": "Q186572",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1997",
+   "2001",
+   "1997"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "fantasy anime",
+   "film et téléfilm d'action",
+   "film d'animation japonais",
+   "drame",
+   "film sur le passage à l'âge adulte",
+   "film anti-guerre"
+  ]
+ },
+ "cinema-moderne_le-voyage-de-chihiro": {
+  "qid": "Q155653",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001",
+   "2003",
+   "2002",
+   "2024"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "manga et animé de fantasy",
+   "film ou téléfilm pour enfants",
+   "film sur le passage à l'âge adulte",
+   "isekai",
+   "drame",
+   "animé surnaturel"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_le-chateau-ambulant": {
+  "qid": "Q29011",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2004",
+   "2004",
+   "2005",
+   "2005"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "manga et animé de fantasy",
+   "film ou téléfilm d'aventure",
+   "cinéma de science-fiction",
+   "drame",
+   "film anti-guerre"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_le-chateau-dans-le-ciel": {
+  "qid": "Q498577",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1986",
+   "1987",
+   "1989",
+   "1991",
+   "1991",
+   "1992",
+   "1992",
+   "1992",
+   "2004",
+   "2006"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "manga et animé romantique",
+   "manga et animé de fantasy",
+   "manga ou anime d'aventure",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm pour enfants",
+   "mecha",
+   "film sur le passage à l'âge adulte",
+   "animé d'action",
+   "adventure anime",
+   "fantasy anime",
+   "animé de science fiction",
+   "film anti-guerre"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_la-haine": {
+  "qid": "Q466101",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1995",
+   "1995",
+   "1995",
+   "1995"
+  ],
+  "P136": [
+   "drame",
+   "film sur la vie de quartier",
+   "film ou téléfilm criminel"
+  ]
+ },
+ "cinema-moderne_amours-chiennes": {
+  "qid": "Q474098",
+  "P495": [
+   "Mexique"
+  ],
+  "P577": [
+   "2000",
+   "2001",
+   "2000"
+  ],
+  "P136": [
+   "drame",
+   "thriller",
+   "cinéma indépendant",
+   "film à flash-back"
+  ]
+ },
+ "cinema-moderne_la-vie-d-adele-chapitres-1-et-2": {
+  "qid": "Q11648811",
+  "P495": [
+   "France",
+   "Belgique",
+   "Espagne"
+  ],
+  "P577": [
+   "2013",
+   "2013",
+   "2013",
+   "2013"
+  ],
+  "P136": [
+   "drame",
+   "film ou téléfilm d'amour",
+   "film sur le passage à l'âge adulte",
+   "film LGBT",
+   "film érotique",
+   "lesbian-related film"
+  ]
+ },
+ "cinema-moderne_the-truman-show": {
+  "qid": "Q214801",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Andrew Niccol"
+  ],
+  "P577": [
+   "1998",
+   "1998",
+   "1998",
+   "1998"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "comédie",
+   "drame",
+   "tragi-comédie",
+   "film dystopique",
+   "fiction dystopique"
+  ]
+ },
+ "cinema-moderne_gone-girl": {
+  "qid": "Q14920425",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2014"
+  ],
+  "P136": [
+   "thriller policier",
+   "film ou téléfilm criminel",
+   "drame",
+   "film ou téléfilm à énigme",
+   "film de détective",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_zodiac-film": {
+  "qid": "Q218172",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "thriller policier",
+   "docudrame",
+   "film ou téléfilm à énigme",
+   "drame",
+   "police procedural film"
+  ]
+ },
+ "cinema-moderne_the-social-network": {
+  "qid": "Q185888",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2010",
+   "2010",
+   "2010",
+   "2010"
+  ],
+  "P136": [
+   "film ou téléfilm biographique",
+   "film de procès",
+   "drame"
+  ]
+ },
+ "cinema-moderne_mademoiselle-film-2016": {
+  "qid": "Q20444585",
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2017",
+   "2017",
+   "2017",
+   "2016",
+   "2016",
+   "2016"
+  ],
+  "P136": [
+   "drame",
+   "film ou téléfilm d'amour",
+   "film LGBT",
+   "thriller érotique"
+  ]
+ },
+ "cinema-moderne_memories-of-murder": {
+  "qid": "Q488169",
+  "P170": [
+   "Bong Joon-ho"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P577": [
+   "2003",
+   "2005"
+  ],
+  "P136": [
+   "thriller policier",
+   "film ou téléfilm à énigme",
+   "drame",
+   "police procedural film",
+   "fiction de détective",
+   "drame",
+   "humour noir",
+   "satire"
+  ]
+ },
+ "cinema-moderne_dernier-train-pour-busan": {
+  "qid": "Q20948236",
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2017",
+   "2016",
+   "2018"
+  ],
+  "P136": [
+   "film de zombies",
+   "film ou téléfilm d'horreur",
+   "film et téléfilm d'action",
+   "thriller",
+   "film apocalyptique"
+  ]
+ },
+ "cinema-moderne_les-evades-film-1994": {
+  "qid": "Q172241",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1994",
+   "1994",
+   "1995",
+   "1995",
+   "1995"
+  ],
+  "P136": [
+   "drame",
+   "buddy movie",
+   "prison au cinéma",
+   "film ou téléfilm criminel"
+  ]
+ },
+ "cinema-moderne_shining-film": {
+  "qid": "Q186341",
+  "P135": [
+   "Nouvel Hollywood"
+  ],
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P577": [
+   "1980",
+   "1980",
+   "1980",
+   "1980",
+   "1980",
+   "1980",
+   "1980"
+  ],
+  "P136": [
+   "film ou téléfilm d'horreur",
+   "film d'horreur psychologique",
+   "drame",
+   "film ou téléfilm à énigme",
+   "film de fantômes",
+   "surnaturel horreur",
+   "thriller",
+   "thriller psychologique",
+   "drame psychologique",
+   "film à suspense"
+  ]
+ },
+ "cinema-moderne_les-affranchis-film": {
+  "qid": "Q42047",
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1990",
+   "1990",
+   "1990",
+   "1990"
+  ],
+  "P136": [
+   "film ou téléfilm biographique",
+   "film de gangsters",
+   "thriller policier",
+   "film ou téléfilm criminel",
+   "thriller",
+   "historical drama film",
+   "police procedural film",
+   "film policier dramatique",
+   "drame",
+   "drame d'époque",
+   "film ou téléfilm historique",
+   "film à suspense"
+  ]
+ },
+ "cinema-moderne_amadeus-film": {
+  "qid": "Q190956",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1984",
+   "1984",
+   "2013",
+   "1984",
+   "1984",
+   "1984"
+  ],
+  "P136": [
+   "film ou téléfilm biographique",
+   "film ou téléfilm musical",
+   "drame",
+   "film à flash-back",
+   "drame d'époque"
+  ]
+ },
+ "cinema-moderne_cinema-paradiso": {
+  "qid": "Q464032",
+  "P495": [
+   "France",
+   "Italie"
+  ],
+  "P577": [
+   "1988",
+   "1988",
+   "1989",
+   "2019",
+   "1989",
+   "1990"
+  ],
+  "P136": [
+   "film sur le passage à l'âge adulte",
+   "drame"
+  ]
+ },
+ "cinema-moderne_braveheart": {
+  "qid": "Q162729",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1995",
+   "1995",
+   "1995",
+   "1995"
+  ],
+  "P136": [
+   "film ou téléfilm biographique",
+   "drame",
+   "film et téléfilm de guerre",
+   "film et téléfilm d'action",
+   "Moyen Âge au cinéma"
+  ]
+ },
+ "cinema-moderne_sixieme-sens-film": {
+  "qid": "Q183063",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1999",
+   "1999",
+   "2000",
+   "1999",
+   "1999"
+  ],
+  "P136": [
+   "film ou téléfilm d'horreur",
+   "thriller",
+   "drame",
+   "film de fantômes",
+   "thriller psychologique",
+   "film d'horreur psychologique",
+   "film ou téléfilm à énigme",
+   "drame psychologique",
+   "film à suspense"
+  ]
+ },
+ "cinema-moderne_fargo-film": {
+  "qid": "Q222720",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1996",
+   "1996"
+  ],
+  "P136": [
+   "film ou téléfilm criminel",
+   "drame",
+   "néo-noir",
+   "comédie noire",
+   "thriller",
+   "police procedural film",
+   "thriller policier",
+   "film policier dramatique",
+   "comédie",
+   "film à suspense",
+   "film et téléfilm d'action",
+   "film ou téléfilm à énigme",
+   "film noir",
+   "comédie dramatique"
+  ]
+ },
+ "cinema-moderne_the-big-lebowski": {
+  "qid": "Q337078",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1998",
+   "1998",
+   "1998"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm criminel",
+   "comedy of error",
+   "film noir"
+  ]
+ },
+ "cinema-moderne_reservoir-dogs": {
+  "qid": "Q72962",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1992",
+   "1992",
+   "1992",
+   "1992"
+  ],
+  "P136": [
+   "film ou téléfilm de casse",
+   "thriller",
+   "film ou téléfilm criminel",
+   "drame",
+   "film de gangsters",
+   "thriller policier",
+   "film policier dramatique",
+   "film et téléfilm d'action",
+   "film à suspense",
+   "comédie policière",
+   "film ou téléfilm d'aventure",
+   "comédie noire",
+   "drame psychologique",
+   "film ou téléfilm à énigme",
+   "cinéma indépendant",
+   "film à flash-back",
+   "néo-noir",
+   "comédie dramatique",
+   "thriller psychologique"
+  ]
+ },
+ "cinema-moderne_kill-bill-volume-1": {
+  "qid": "Q165325",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003"
+  ],
+  "P136": [
+   "thriller d'action",
+   "girls with guns",
+   "film d'arts martiaux",
+   "Wu xia pian",
+   "film de vigilante",
+   "chanbara",
+   "film ou téléfilm criminel",
+   "film et téléfilm d'action",
+   "thriller",
+   "film policier dramatique",
+   "thriller policier",
+   "drame",
+   "film ou téléfilm gore",
+   "néo-noir"
+  ],
+  "P527": [
+   "The blood-splattered BRIDE",
+   "The MAN From OKINAWA",
+   "Showdown at House of Blue Leaves",
+   "2",
+   "The Origin of O-Ren"
+  ]
+ },
+ "cinema-moderne_le-cinquieme-element": {
+  "qid": "Q106506",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1997",
+   "1997",
+   "1997",
+   "1997",
+   "1997"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "film et téléfilm d'action",
+   "film et téléfilm de fantasy",
+   "film dystopique"
+  ]
+ },
+ "cinema-moderne_full-metal-jacket": {
+  "qid": "Q243439",
+  "P495": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P577": [
+   "1987",
+   "1987",
+   "1987",
+   "1987",
+   "1987"
+  ],
+  "P136": [
+   "film et téléfilm de guerre",
+   "drame"
+  ]
+ },
+ "cinema-moderne_scarface-film-1983": {
+  "qid": "Q47075",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1983",
+   "1984",
+   "1983"
+  ],
+  "P136": [
+   "film de gangsters",
+   "drame",
+   "film ou téléfilm criminel",
+   "thriller",
+   "thriller policier",
+   "film policier dramatique",
+   "film à suspense",
+   "police procedural film",
+   "néo-noir",
+   "film et téléfilm d'action",
+   "film ou téléfilm épique"
+  ]
+ },
+ "cinema-moderne_heat-film-1972": {
+  "qid": "Q1149669",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1972",
+   "1972",
+   "1972",
+   "1973",
+   "1973",
+   "1973",
+   "1973",
+   "1974",
+   "1975",
+   "1975",
+   "1980"
+  ],
+  "P136": [
+   "drame",
+   "film LGBT",
+   "comédie romantique"
+  ]
+ },
+ "cinema-moderne_nikita-film": {
+  "qid": "Q743928",
+  "P495": [
+   "France",
+   "Italie"
+  ],
+  "P577": [
+   "1990",
+   "1990",
+   "1991",
+   "1990",
+   "1990",
+   "1990"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "girls with guns",
+   "thriller",
+   "drame"
+  ]
+ },
+ "cinema-moderne_le-diner-de-cons": {
+  "qid": "Q2743126",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Francis Veber"
+  ],
+  "P136": [
+   "comédie"
+  ]
+ },
+ "cinema-moderne_les-visiteurs-film-1993": {
+  "qid": "Q838013",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1993",
+   "1993",
+   "1993"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "comédie"
+  ]
+ },
+ "cinema-moderne_la-cite-de-la-peur-film-1948": {
+  "qid": "Q3207463",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1948"
+  ],
+  "P136": [
+   "western",
+   "film noir"
+  ]
+ },
+ "cinema-moderne_intouchables-film": {
+  "qid": "Q595",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2011",
+   "2012",
+   "2012",
+   "2011"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm biographique",
+   "drame"
+  ]
+ },
+ "cinema-moderne_asterix-et-obelix-mission-cleopatre": {
+  "qid": "Q737904",
+  "P495": [
+   "France",
+   "Allemagne"
+  ],
+  "P577": [
+   "2002",
+   "2002",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm d'aventure"
+  ]
+ },
+ "cinema-moderne_avatar-film-2009": {
+  "qid": "Q24871",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2009",
+   "2009",
+   "2009",
+   "2022"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "science-fiction militaire",
+   "film live / animé",
+   "film ou téléfilm épique",
+   "white savior film"
+  ],
+  "P2079": [
+   "animation informatisée",
+   "capture de mouvement"
+  ]
+ },
+ "cinema-moderne_toy-story": {
+  "qid": "Q171048",
+  "P170": [
+   "John Lasseter"
+  ],
+  "P571": [
+   "1995"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1995",
+   "1996",
+   "1996"
+  ],
+  "P136": [
+   "buddy movie",
+   "film et téléfilm de fantasy",
+   "film ou téléfilm d'aventure",
+   "comédie"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_le-monde-de-nemo": {
+  "qid": "Q132863",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003"
+  ],
+  "P136": [
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm familial",
+   "comédie",
+   "film ou téléfilm pour enfants"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_shrek-film": {
+  "qid": "Q483815",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "buddy movie",
+   "fantasy humoristique",
+   "film ou téléfilm d'aventure",
+   "cinéma de conte de fées"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_la-reine-des-neiges-film-2013": {
+  "qid": "Q246283",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2013",
+   "2013",
+   "2014",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "film ou téléfilm musical",
+   "comédie",
+   "film sur le passage à l'âge adulte",
+   "film et téléfilm de fantasy",
+   "film ou téléfilm familial",
+   "cinéma de conte de fées"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_avengers-endgame": {
+  "qid": "Q23781155",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2019"
+  ],
+  "P136": [
+   "film de super-héros",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure"
+  ]
+ },
+ "cinema-moderne_harry-potter-a-l-ecole-des-sorciers": {
+  "qid": "Q43361",
+  "P571": [
+   "1990"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "J. K. Rowling"
+  ],
+  "P577": [
+   "1997",
+   "1997",
+   "1998",
+   "1999",
+   "1998"
+  ],
+  "P136": [
+   "fiction Young Adult",
+   "fantasy",
+   "fiction d'aventures"
+  ]
+ },
+ "cinema-moderne_les-indestructibles": {
+  "qid": "Q213326",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2004",
+   "2004",
+   "2004",
+   "2004",
+   "2004"
+  ],
+  "P136": [
+   "film de super-héros",
+   "film et téléfilm d'action",
+   "comédie",
+   "film ou téléfilm familial"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_ratatouille-film": {
+  "qid": "Q170035",
+  "P170": [
+   "Brad Bird"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "buddy movie",
+   "film sur le passage à l'âge adulte",
+   "film à flash-back",
+   "comédie dramatique"
+  ],
+  "P2079": [
+   "animation 3D"
+  ]
+ },
+ "cinema-moderne_vice-versa-film-2015": {
+  "qid": "Q6144664",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "comédie",
+   "film et téléfilm de fantasy",
+   "film ou téléfilm familial",
+   "film ou téléfilm d'aventure",
+   "drame",
+   "comédie dramatique",
+   "film ou téléfilm pour enfants"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_la-haut-film-2009": {
+  "qid": "Q174811",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2009",
+   "2009",
+   "2009",
+   "2009",
+   "2009"
+  ],
+  "P136": [
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "film et téléfilm de fantasy"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_akira-film-d-animation": {
+  "qid": "Q1905968",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1988",
+   "1989",
+   "1991",
+   "1991",
+   "1991"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "cyberpunk",
+   "film ou téléfilm post-apocalyptique",
+   "film dystopique",
+   "film et téléfilm d'action",
+   "animé de science fiction"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_le-tombeau-des-lucioles": {
+  "qid": "Q274520",
+  "P495": [
+   "Japon"
+  ],
+  "P50": [
+   "Akiyuki Nosaka"
+  ],
+  "P577": [
+   "1988",
+   "1988",
+   "1989",
+   "2025"
+  ],
+  "P136": [
+   "manga et animé de genre drama",
+   "drame",
+   "film à flash-back",
+   "film sur le passage à l'âge adulte",
+   "film anti-guerre",
+   "film de fantômes"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "cinema-moderne_your-name": {
+  "qid": "Q21697406",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016",
+   "2017",
+   "2017",
+   "2018",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "film sur le passage à l'âge adulte",
+   "film de voyage dans le temps",
+   "film ou téléfilm d'amour",
+   "film et téléfilm de fantasy"
+  ]
+ },
+ "cinema-moderne_in-the-mood-for-love": {
+  "qid": "Q1056853",
+  "P495": [
+   "Hong Kong",
+   "France",
+   "Thaïlande"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2001"
+  ],
+  "P136": [
+   "film ou téléfilm d'amour",
+   "drame"
+  ]
+ },
+ "cinema-moderne_tigre-et-dragon": {
+  "qid": "Q273978",
+  "P495": [
+   "États-Unis",
+   "Taïwan",
+   "Hong Kong",
+   "république populaire de Chine"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "film ou téléfilm d'amour",
+   "film et téléfilm de fantasy",
+   "film d'arts martiaux",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "drame"
+  ]
+ },
+ "cinema-moderne_terminator-2-le-jugement-dernier": {
+  "qid": "Q170564",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1991",
+   "1991",
+   "1991",
+   "1991"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "thriller",
+   "cinéma de science-fiction",
+   "film ou téléfilm post-apocalyptique",
+   "film dystopique",
+   "drame",
+   "film de voyage dans le temps",
+   "film d'action de science-fiction",
+   "comédie noire",
+   "girls with guns",
+   "Chase Films",
+   "comédie",
+   "cyberpunk",
+   "film à suspense",
+   "film ou téléfilm d'aventure",
+   "techno-thriller"
+  ]
+ },
+ "cinema-moderne_edward-aux-mains-d-argent": {
+  "qid": "Q217182",
+  "P170": [
+   "Tim Burton"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1990",
+   "1991",
+   "1990",
+   "1990",
+   "1990"
+  ],
+  "P136": [
+   "film ou téléfilm d'amour",
+   "film et téléfilm de fantasy",
+   "drame",
+   "film de Noël",
+   "cinéma de conte de fées"
+  ]
+ },
+ "cinema-moderne_les-goonies": {
+  "qid": "Q636043",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1985",
+   "1986",
+   "1986",
+   "1986",
+   "1986",
+   "1986",
+   "1986",
+   "1990",
+   "2011",
+   "2011",
+   "2011",
+   "2015",
+   "2015",
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2021",
+   "2021",
+   "1985"
+  ],
+  "P136": [
+   "film ou téléfilm d'aventure",
+   "comédie",
+   "film ou téléfilm pour enfants",
+   "film de chasse au trésor",
+   "film et téléfilm d'action",
+   "film de pirates",
+   "film ou téléfilm familial"
+  ]
+ },
+ "cinema-moderne_mulholland-drive-film": {
+  "qid": "Q272608",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2002",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "film ou téléfilm à énigme",
+   "thriller",
+   "film LGBT",
+   "thriller policier",
+   "drame psychologique",
+   "film d'horreur psychologique",
+   "film ou téléfilm criminel",
+   "cinéma indépendant",
+   "film ou téléfilm d'horreur",
+   "cinéma expérimental",
+   "film ou téléfilm d'amour",
+   "cinéma surréaliste",
+   "film d'art",
+   "film policier dramatique",
+   "film à suspense",
+   "thriller psychologique",
+   "drame",
+   "néo-noir",
+   "film et téléfilm de fantasy"
+  ]
+ },
+ "cinema-moderne_memento-film": {
+  "qid": "Q190525",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "néo-noir",
+   "film ou téléfilm à énigme",
+   "film à flash-back",
+   "film ou téléfilm criminel",
+   "drame",
+   "thriller",
+   "film ou téléfilm d'horreur",
+   "film noir",
+   "adaptation d'une œuvre littéraire au cinéma"
+  ]
+ },
+ "cinema-moderne_les-infiltres": {
+  "qid": "Q172975",
+  "P495": [
+   "États-Unis",
+   "Hong Kong"
+  ],
+  "P577": [
+   "2006",
+   "2006",
+   "2006"
+  ],
+  "P136": [
+   "thriller policier",
+   "drame",
+   "film ou téléfilm criminel",
+   "thriller",
+   "film de gangsters",
+   "film policier dramatique",
+   "film ou téléfilm à énigme",
+   "film à suspense",
+   "film ou téléfilm épique",
+   "néo-noir"
+  ]
+ },
+ "cinema-moderne_shutter-island-film": {
+  "qid": "Q210364",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2010",
+   "2010",
+   "2010",
+   "2010"
+  ],
+  "P136": [
+   "thriller",
+   "drame",
+   "thriller policier",
+   "film ou téléfilm criminel",
+   "film d'horreur psychologique",
+   "néo-noir",
+   "film policier dramatique",
+   "film ou téléfilm à énigme",
+   "thriller psychologique",
+   "drame psychologique",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "film à suspense",
+   "film ou téléfilm d'horreur",
+   "thriller psychologique"
+  ]
+ },
+ "cinema-moderne_le-loup-de-wall-street": {
+  "qid": "Q1392744",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2013",
+   "2014",
+   "2013"
+  ],
+  "P136": [
+   "comédie noire",
+   "film ou téléfilm biographique",
+   "film ou téléfilm criminel",
+   "drame",
+   "film policier dramatique",
+   "comédie",
+   "comédie dramatique",
+   "film ou téléfilm épique"
+  ]
+ },
+ "cinema-moderne_premier-contact-film": {
+  "qid": "Q20382729",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016"
+  ],
+  "P136": [
+   "drame",
+   "cinéma de science-fiction",
+   "thriller",
+   "film ou téléfilm à énigme"
+  ],
+  "P2079": [
+   "rendu"
+  ]
+ },
+ "cinema-moderne_pirates-des-caraibes-la-malediction-du-black-pearl": {
+  "qid": "Q46717",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2003",
+   "2003",
+   "2003"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "film de cape et d'épée",
+   "film de chasse au trésor",
+   "comédie",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "film de pirates"
+  ]
+ },
+ "cinema-moderne_le-pianiste": {
+  "qid": "Q150804",
+  "P495": [
+   "France",
+   "Allemagne",
+   "Royaume-Uni",
+   "Pologne",
+   "États-Unis"
+  ],
+  "P577": [
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "film ou téléfilm musical",
+   "drame",
+   "film ou téléfilm biographique",
+   "film ou téléfilm historique",
+   "film et téléfilm de guerre"
+  ]
+ },
+ "cinema-moderne_la-vie-est-belle-film-1997": {
+  "qid": "Q19355",
+  "P495": [
+   "Italie"
+  ],
+  "P577": [
+   "1997",
+   "1998",
+   "1998",
+   "1999",
+   "1998"
+  ],
+  "P136": [
+   "comédie",
+   "drame"
+  ]
+ },
+ "cinema-moderne_les-bronzes": {
+  "qid": "Q652094",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1978",
+   "1979",
+   "1979",
+   "1979",
+   "1981",
+   "1983"
+  ],
+  "P136": [
+   "comédie"
+  ]
+ },
+ "cinema-moderne_le-pere-noel-est-une-ordure-film": {
+  "qid": "Q1156447",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "1982"
+  ],
+  "P136": [
+   "burlesque",
+   "film de Noël",
+   "film LGBT",
+   "comédie"
+  ]
+ },
+ "cinema-moderne_bienvenue-chez-les-ch-tis": {
+  "qid": "Q1144330",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2009"
+  ],
+  "P136": [
+   "comédie"
+  ]
+ },
+ "cinema-moderne_jean-de-florette-film": {
+  "qid": "Q1315577",
+  "P495": [
+   "France",
+   "Italie",
+   "Suisse"
+  ],
+  "P577": [
+   "1986",
+   "1987"
+  ],
+  "P136": [
+   "drame"
+  ],
+  "P2079": [
+   "Tournage simultané"
+  ]
+ },
+ "cinema-moderne_un-prophete-film": {
+  "qid": "Q1061541",
+  "P495": [
+   "France",
+   "Italie"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2010"
+  ],
+  "P136": [
+   "drame",
+   "prison au cinéma",
+   "film de gangsters",
+   "thriller"
+  ]
+ },
+ "cinema-moderne_anatomie-d-une-chute": {
+  "qid": "Q117037697",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2023",
+   "2023",
+   "2023",
+   "2023",
+   "2024"
+  ],
+  "P136": [
+   "thriller",
+   "film ou téléfilm criminel",
+   "drame",
+   "film de procès"
+  ]
+ },
+ "cinema-moderne_portrait-de-la-jeune-fille-en-feu": {
+  "qid": "Q63246568",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2019",
+   "2019",
+   "2019",
+   "2019",
+   "2020",
+   "2020",
+   "2019"
+  ],
+  "P136": [
+   "film ou téléfilm historique",
+   "drame",
+   "film ou téléfilm d'amour",
+   "film LGBT"
+  ]
+ },
+ "cinema-moderne_the-artist": {
+  "qid": "Q171861",
+  "P495": [
+   "France",
+   "Belgique"
+  ],
+  "P577": [
+   "2011",
+   "2012",
+   "2011",
+   "2020",
+   "2012",
+   "2011",
+   "2011",
+   "2012"
+  ],
+  "P136": [
+   "film comédie romantique",
+   "drame",
+   "film ou téléfilm d'amour",
+   "comédie dramatique",
+   "comédie",
+   "film muet"
+  ]
+ },
+ "cinema-moderne_la-belle-et-la-bete-film-1991": {
+  "qid": "Q179673",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1991",
+   "1992",
+   "1992"
+  ],
+  "P136": [
+   "film ou téléfilm d'amour",
+   "film ou téléfilm musical",
+   "comédie dramatique",
+   "cinéma de conte de fées",
+   "romantic fantasy"
+  ],
+  "P2079": [
+   "animation traditionnelle",
+   "animation 2D numérique"
+  ]
+ },
+ "cinema-moderne_aladdin-film-1992": {
+  "qid": "Q215518",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1992",
+   "1993",
+   "1992",
+   "1993"
+  ],
+  "P136": [
+   "film ou téléfilm musical",
+   "fantasy humoristique",
+   "cinéma de conte de fées"
+  ],
+  "P2079": [
+   "animation traditionnelle",
+   "animation 2D numérique"
+  ]
+ },
+ "cinema-moderne_monstres-et-cie": {
+  "qid": "Q187726",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2001",
+   "2002",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "buddy movie",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm de monstre",
+   "film et téléfilm de fantasy",
+   "comédie"
+  ],
+  "P2079": [
+   "animation informatisée",
+   "animation 3D"
+  ]
+ },
+ "cinema-moderne_coco-film-2017": {
+  "qid": "Q5815826",
+  "P495": [
+   "États-Unis",
+   "Mexique"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2017",
+   "2018",
+   "2018",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "film ou téléfilm musical",
+   "film et téléfilm de fantasy",
+   "film ou téléfilm d'aventure",
+   "film de détective",
+   "film ou téléfilm familial",
+   "drame",
+   "comédie",
+   "mélodrame",
+   "film de fantômes"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "cinema-moderne_spider-man-new-generation": {
+  "qid": "Q29588607",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2018",
+   "2018",
+   "2018",
+   "2018",
+   "2018",
+   "2018",
+   "2018",
+   "2019",
+   "2019"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "cinéma de science-fiction",
+   "film de super-héros",
+   "drame",
+   "comédie"
+  ],
+  "P2079": [
+   "animation 3D"
+  ]
+ },
+ "cinema-moderne_ghost-in-the-shell-film-1995": {
+  "qid": "Q1066948",
+  "P495": [
+   "Japon",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1995"
+  ],
+  "P136": [
+   "cinéma de science-fiction",
+   "film et téléfilm d'action",
+   "film et téléfilm de fantasy",
+   "cyberpunk",
+   "animé d'action",
+   "animé de science fiction"
+  ]
+ }
+}

@@ -1,0 +1,1391 @@
+{
+ "realisateurs_alfred-hitchcock": {
+  "qid": "Q7374",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "États-Unis",
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ],
+  "P800": [
+   "La Mort aux trousses",
+   "L'Homme qui en savait trop",
+   "Correspondant 17",
+   "Une femme disparaît",
+   "Les 39 Marches",
+   "Cinquième Colonne",
+   "Le Rideau déchiré",
+   "Psychose",
+   "Sueurs froides",
+   "Les Oiseaux",
+   "Soupçons",
+   "Le crime était presque parfait",
+   "Fenêtre sur cour",
+   "Frenzy",
+   "L'Ombre d'un doute",
+   "Les Enchaînés",
+   "La Corde",
+   "L'Inconnu du Nord-Express",
+   "Le Faux Coupable",
+   "Le Grand Alibi",
+   "La Loi du silence",
+   "Lifeboat",
+   "Joies matrimoniales",
+   "Complot de famille",
+   "La Maison du docteur Edwardes",
+   "Mais qui a tué Harry ?",
+   "La Main au collet",
+   "Pas de printemps pour Marnie",
+   "L'Homme qui en savait trop",
+   "L'Étau"
+  ],
+  "P136": [
+   "film à suspense",
+   "film ou téléfilm d'horreur",
+   "drame",
+   "film d'horreur psychologique",
+   "film noir",
+   "film ou téléfilm à énigme",
+   "film ou téléfilm d'aventure",
+   "natural horror film",
+   "thriller psychologique",
+   "film policier dramatique",
+   "thriller policier",
+   "film et téléfilm d'action",
+   "film et téléfilm de fantasy",
+   "film muet",
+   "drame psychologique",
+   "thriller"
+  ]
+ },
+ "realisateurs_stanley-kubrick": {
+  "qid": "Q2001",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "2001, l'Odyssée de l'espace",
+   "Docteur Folamour",
+   "Orange mécanique",
+   "Shining",
+   "Eyes Wide Shut"
+  ],
+  "P101": [
+   "direction de films",
+   "production de films"
+  ],
+  "P136": [
+   "film ou téléfilm à énigme",
+   "film ou téléfilm d'horreur",
+   "thriller",
+   "film noir",
+   "film d'horreur psychologique",
+   "film et téléfilm de guerre",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "thriller psychologique",
+   "drame",
+   "film ou téléfilm criminel",
+   "comédie",
+   "cinéma de science-fiction",
+   "film ou téléfilm historique",
+   "film documentaire"
+  ]
+ },
+ "realisateurs_steven-spielberg": {
+  "qid": "Q8877",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "film",
+   "direction de films",
+   "production de films",
+   "scénario de film",
+   "scénarisation"
+  ],
+  "P136": [
+   "thriller",
+   "drame",
+   "cinéma de science-fiction",
+   "film ou téléfilm d'horreur",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'aventure",
+   "film d'horreur psychologique",
+   "film et téléfilm de guerre",
+   "film ou téléfilm criminel",
+   "thriller psychologique",
+   "film et téléfilm de fantasy",
+   "comédie",
+   "natural horror film",
+   "film d'horreur de science-fiction",
+   "film ou téléfilm à énigme"
+  ]
+ },
+ "realisateurs_akira-kurosawa": {
+  "qid": "Q8006",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1998"
+  ],
+  "P27": [
+   "empire du Japon",
+   "Japon"
+  ],
+  "P800": [
+   "La Forteresse cachée",
+   "Rashōmon",
+   "Les Sept Samouraïs",
+   "Entre le ciel et l'enfer",
+   "Le Garde du corps",
+   "Ran",
+   "Vivre",
+   "Le Château de l'araignée"
+  ]
+ },
+ "realisateurs_francois-truffaut": {
+  "qid": "Q53002",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "1984"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Nouvelle Vague"
+  ],
+  "P101": [
+   "direction de films",
+   "scénario",
+   "critique de cinéma",
+   "art cinématographique"
+  ]
+ },
+ "realisateurs_jean-luc-godard": {
+  "qid": "Q53001",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "France",
+   "Suisse"
+  ],
+  "P135": [
+   "Nouvelle Vague"
+  ],
+  "P800": [
+   "Le Mépris",
+   "Pierrot le fou",
+   "Sauve qui peut (la vie)",
+   "À bout de souffle"
+  ],
+  "P101": [
+   "film",
+   "cinéma",
+   "Nouvelle Vague",
+   "direction de films",
+   "théorie du cinéma",
+   "critique de cinéma",
+   "production de films",
+   "film and literature",
+   "activité littéraire"
+  ],
+  "P136": [
+   "Nouvelle Vague"
+  ]
+ },
+ "realisateurs_hayao-miyazaki": {
+  "qid": "Q55400",
+  "P569": [
+   "1941",
+   "1941"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Nausicaä de la vallée du vent",
+   "Le Château dans le ciel",
+   "Mon voisin Totoro",
+   "Kiki la petite sorcière",
+   "Porco Rosso",
+   "Princesse Mononoké",
+   "Le Voyage de Chihiro",
+   "Le Château ambulant",
+   "Ponyo sur la falaise",
+   "Le vent se lève",
+   "Le Château de Cagliostro",
+   "Panda Petit Panda",
+   "Le Garçon et le Héron"
+  ]
+ },
+ "realisateurs_federico-fellini": {
+  "qid": "Q7371",
+  "P569": [
+   "1920"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P800": [
+   "La strada",
+   "Huit et demi",
+   "Amarcord",
+   "Les Vitelloni",
+   "La dolce vita"
+  ]
+ },
+ "realisateurs_ingmar-bergman": {
+  "qid": "Q7546",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P800": [
+   "Le Septième Sceau",
+   "Persona",
+   "Fanny et Alexandre",
+   "Sonate d'automne"
+  ],
+  "P101": [
+   "spectacle vivant"
+  ]
+ },
+ "realisateurs_martin-scorsese": {
+  "qid": "Q41148",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "États-Unis",
+   "Italie"
+  ],
+  "P135": [
+   "Nouvel Hollywood"
+  ]
+ },
+ "realisateurs_francis-ford-coppola": {
+  "qid": "Q56094",
+  "P569": [
+   "1939"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Le Parrain",
+   "Rusty James",
+   "Apocalypse Now",
+   "Conversation secrète",
+   "Megalopolis",
+   "Dracula",
+   "Les Gens de la pluie",
+   "Outsiders",
+   "Apocalypse Now Redux",
+   "Peggy Sue s'est mariée",
+   "Cotton Club",
+   "L'Idéaliste",
+   "La Vallée du bonheur",
+   "New York Stories",
+   "Jardins de pierre",
+   "L'Homme sans âge",
+   "Dementia 13",
+   "Distant Vision",
+   "Supernova",
+   "L'Ouest sauvage et nu",
+   "Captain Eo",
+   "Tucker",
+   "Tetro",
+   "Jack",
+   "Coup de cœur",
+   "Twixt"
+  ],
+  "P101": [
+   "production de films",
+   "direction de films",
+   "scénario de film",
+   "viticulture"
+  ],
+  "P136": [
+   "film ou téléfilm criminel",
+   "drame",
+   "film ou téléfilm d'horreur",
+   "film ou téléfilm à énigme",
+   "film et téléfilm de guerre",
+   "thriller",
+   "film de gangsters",
+   "film et téléfilm de fantasy",
+   "film d'horreur psychologique",
+   "thriller psychologique",
+   "film et téléfilm d'action",
+   "thriller policier",
+   "war drama",
+   "film policier dramatique",
+   "film ou téléfilm épique",
+   "historical drama film",
+   "film ou téléfilm historique",
+   "film d'horreur gothique",
+   "film gothique",
+   "film ou téléfilm d'aventure",
+   "body horror film",
+   "film ou téléfilm d'amour",
+   "slasher",
+   "surnaturel horreur",
+   "Nouvel Hollywood"
+  ]
+ },
+ "realisateurs_quentin-tarantino": {
+  "qid": "Q3772",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Reservoir Dogs",
+   "Pulp Fiction",
+   "Jackie Brown",
+   "Kill Bill: Volume 1",
+   "Kill Bill: Volume 2",
+   "Boulevard de la mort",
+   "Inglourious Basterds",
+   "Django Unchained",
+   "Les Huit Salopards",
+   "Once Upon a Time in... Hollywood",
+   "Grindhouse",
+   "Une nuit en enfer"
+  ],
+  "P136": [
+   "cinéma indépendant",
+   "film et téléfilm d'action",
+   "postmodernisme",
+   "film ou téléfilm criminel",
+   "drame",
+   "thriller",
+   "film policier dramatique",
+   "thriller policier",
+   "film ou téléfilm à énigme",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm d'horreur",
+   "comédie",
+   "film et téléfilm de guerre",
+   "film ou téléfilm de casse",
+   "western"
+  ]
+ },
+ "realisateurs_orson-welles": {
+  "qid": "Q24829",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "1985"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "drame",
+   "film ou téléfilm à énigme",
+   "film et téléfilm d'action",
+   "thriller",
+   "thriller psychologique",
+   "film noir",
+   "film ou téléfilm d'aventure"
+  ]
+ },
+ "realisateurs_charlie-chaplin": {
+  "qid": "Q882",
+  "P569": [
+   "1889"
+  ],
+  "P570": [
+   "1977"
+  ],
+  "P27": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande",
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "film muet",
+   "comédie",
+   "drame",
+   "film et téléfilm de guerre",
+   "film et téléfilm d'action",
+   "film ou téléfilm criminel",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm de sport",
+   "film documentaire",
+   "western",
+   "cinéma indépendant",
+   "film ou téléfilm d'amour",
+   "historical drama film",
+   "film ou téléfilm historique"
+  ]
+ },
+ "realisateurs_buster-keaton": {
+  "qid": "Q103949",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie",
+   "film muet",
+   "drame",
+   "cinéma indépendant",
+   "film ou téléfilm d'aventure",
+   "film et téléfilm d'action",
+   "film ou téléfilm d'amour",
+   "historical drama film",
+   "film ou téléfilm historique"
+  ]
+ },
+ "realisateurs_fritz-lang": {
+  "qid": "Q19504",
+  "P569": [
+   "1890"
+  ],
+  "P570": [
+   "1976"
+  ],
+  "P27": [
+   "Allemagne",
+   "États-Unis",
+   "Autriche"
+  ],
+  "P135": [
+   "expressionnisme"
+  ],
+  "P800": [
+   "Metropolis",
+   "M le maudit",
+   "Les Trois Lumières",
+   "Les Nibelungen",
+   "Docteur Mabuse le joueur"
+  ],
+  "P136": [
+   "expressionnisme"
+  ]
+ },
+ "realisateurs_serguei-eisenstein": {
+  "qid": "Q8003",
+  "P569": [
+   "1898",
+   "1898",
+   "1898"
+  ],
+  "P570": [
+   "1948"
+  ],
+  "P27": [
+   "Empire russe",
+   "Union soviétique"
+  ],
+  "P800": [
+   "Octobre",
+   "Le Cuirassé Potemkine",
+   "La Ligne générale"
+  ],
+  "P136": [
+   "première avant-garde",
+   "réalisme socialiste"
+  ]
+ },
+ "realisateurs_jean-renoir": {
+  "qid": "Q50713",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "realisateurs_georges-melies": {
+  "qid": "Q152272",
+  "P569": [
+   "1861"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "realisateurs_billy-wilder": {
+  "qid": "Q51547",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "2002"
+  ],
+  "P27": [
+   "États-Unis",
+   "Autriche",
+   "Cisleithanie"
+  ],
+  "P800": [
+   "Assurance sur la mort",
+   "Boulevard du crépuscule",
+   "Le Gouffre aux chimères",
+   "Stalag 17",
+   "Sabrina",
+   "Sept ans de réflexion",
+   "Témoin à charge",
+   "Certains l'aiment chaud",
+   "La Garçonnière",
+   "La Grande Combine"
+  ]
+ },
+ "realisateurs_john-ford": {
+  "qid": "Q51114",
+  "P569": [
+   "1894"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "realisateurs_sergio-leone": {
+  "qid": "Q164562",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "Italie"
+  ],
+  "P800": [
+   "Pour une poignée de dollars",
+   "Et pour quelques dollars de plus",
+   "Le Bon, la Brute et le Truand",
+   "Il était une fois dans l'Ouest",
+   "Il était une fois la révolution",
+   "Il était une fois en Amérique"
+  ],
+  "P136": [
+   "western spaghetti",
+   "drame",
+   "western"
+  ]
+ },
+ "realisateurs_andrei-tarkovski": {
+  "qid": "Q853",
+  "P569": [
+   "1932"
+  ],
+  "P570": [
+   "1986",
+   "1986"
+  ],
+  "P27": [
+   "Union soviétique",
+   "France",
+   "Italie"
+  ],
+  "P800": [
+   "Solaris",
+   "Andreï Roublev",
+   "Le Miroir",
+   "Stalker",
+   "L'Enfance d'Ivan",
+   "Nostalghia",
+   "Le Sacrifice"
+  ],
+  "P101": [
+   "film",
+   "scénario de film",
+   "direction de films",
+   "comédie"
+  ]
+ },
+ "realisateurs_luis-bunuel": {
+  "qid": "Q51545",
+  "P569": [
+   "1900"
+  ],
+  "P570": [
+   "1983",
+   "1983"
+  ],
+  "P27": [
+   "Espagne",
+   "Mexique"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "Un chien andalou",
+   "L’Âge d’Or",
+   "Terre sans pain",
+   "Los olvidados",
+   "Nazarín",
+   "Viridiana",
+   "L'Ange exterminateur",
+   "Belle de jour",
+   "Le Charme discret de la bourgeoisie"
+  ],
+  "P136": [
+   "surréalisme"
+  ]
+ },
+ "realisateurs_yasujiro-ozu": {
+  "qid": "Q55402",
+  "P569": [
+   "1903"
+  ],
+  "P570": [
+   "1963"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P800": [
+   "Q20041610",
+   "Q11677397",
+   "Fleurs d'équinoxe",
+   "Printemps tardif"
+  ]
+ },
+ "realisateurs_satyajit-ray": {
+  "qid": "Q8873",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Inde"
+  ],
+  "P800": [
+   "La Complainte du sentier",
+   "La Grande Ville",
+   "Two",
+   "L'Invaincu",
+   "Le Monde d'Apu",
+   "La Pierre philosophale",
+   "Charulata",
+   "Le Héros"
+  ]
+ },
+ "realisateurs_agnes-varda": {
+  "qid": "Q229990",
+  "P569": [
+   "1928"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "France",
+   "Belgique"
+  ],
+  "P135": [
+   "art féministe",
+   "Nouvelle Vague"
+  ],
+  "P800": [
+   "Cléo de 5 à 7",
+   "Sans toit ni loi",
+   "Les Glaneurs et la Glaneuse"
+  ],
+  "P101": [
+   "cinéaste",
+   "film documentaire",
+   "photographie",
+   "direction de films"
+  ]
+ },
+ "realisateurs_jacques-tati": {
+  "qid": "Q51549",
+  "P569": [
+   "1907"
+  ],
+  "P570": [
+   "1982",
+   "1982"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Mon oncle",
+   "Playtime",
+   "Les Vacances de monsieur Hulot",
+   "Jour de fête"
+  ]
+ },
+ "realisateurs_woody-allen": {
+  "qid": "Q25089",
+  "P569": [
+   "1935",
+   "1935"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Prends l'oseille et tire-toi",
+   "Tout ce que vous avez toujours voulu savoir sur le sexe sans jamais oser le demander",
+   "Woody et les Robots",
+   "Guerre et Amour",
+   "Annie Hall",
+   "Intérieurs",
+   "Manhattan",
+   "Stardust Memories",
+   "Zelig",
+   "Broadway Danny Rose",
+   "La Rose pourpre du Caire",
+   "Hannah et ses sœurs",
+   "Radio Days",
+   "September",
+   "Une autre femme",
+   "Crimes et Délits",
+   "Maris et Femmes",
+   "Meurtre mystérieux à Manhattan",
+   "Coups de feu sur Broadway",
+   "Maudite Aphrodite",
+   "Tout le monde dit I love you",
+   "Harry dans tous ses états",
+   "Accords et Désaccords",
+   "Le Sortilège du scorpion de jade",
+   "Match Point",
+   "Scoop",
+   "Le Rêve de Cassandre",
+   "Vicky Cristina Barcelona",
+   "Whatever Works",
+   "Vous allez rencontrer un bel et sombre inconnu",
+   "Minuit à Paris",
+   "To Rome with Love",
+   "Blue Jasmine",
+   "Magic in the Moonlight",
+   "L'Homme irrationnel",
+   "Café Society",
+   "Crisis in Six Scenes",
+   "Wonder Wheel",
+   "Un jour de pluie à New York",
+   "Lily la tigresse",
+   "Bananas",
+   "Comédie érotique d'une nuit d'été",
+   "New York Stories",
+   "Ombres et Brouillard",
+   "Celebrity",
+   "Escrocs mais pas trop",
+   "Hollywood Ending",
+   "Anything Else",
+   "Melinda et Melinda"
+  ]
+ },
+ "realisateurs_david-lynch": {
+  "qid": "Q2071",
+  "P569": [
+   "1946"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "surréalisme"
+  ],
+  "P800": [
+   "Blue Velvet",
+   "Elephant Man",
+   "Eraserhead",
+   "Mulholland Drive",
+   "Twin Peaks: Fire Walk with Me",
+   "Lost Highway"
+  ],
+  "P101": [
+   "film",
+   "direction de films",
+   "scénario de film",
+   "production de films"
+  ],
+  "P136": [
+   "drame",
+   "néo-noir",
+   "film ou téléfilm d'horreur",
+   "thriller psychologique",
+   "thriller",
+   "film d'horreur psychologique",
+   "cinéma surréaliste",
+   "cinéma indépendant",
+   "cinéma expérimental",
+   "film policier dramatique",
+   "drame psychologique",
+   "thriller policier",
+   "cinéma de science-fiction",
+   "body horror film",
+   "film ou téléfilm criminel",
+   "film ou téléfilm historique",
+   "historical drama film",
+   "film à suspense",
+   "film et téléfilm de fantasy",
+   "comédie noire",
+   "film ou téléfilm de sport",
+   "film ou téléfilm biographique"
+  ]
+ },
+ "realisateurs_ridley-scott": {
+  "qid": "Q56005",
+  "P569": [
+   "1937",
+   "1937"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P800": [
+   "Gladiator",
+   "Thelma et Louise",
+   "Blade Runner",
+   "Alien",
+   "American Gangster",
+   "Seul sur Mars",
+   "Gladiator 2",
+   "La Chute du faucon noir",
+   "Prometheus",
+   "Alien: Covenant",
+   "Napoléon"
+  ],
+  "P136": [
+   "drame",
+   "cinéma de science-fiction",
+   "thriller",
+   "film ou téléfilm criminel",
+   "historical drama film",
+   "film d'horreur de science-fiction",
+   "thriller psychologique",
+   "film ou téléfilm d'horreur",
+   "film et téléfilm d'action",
+   "film de gangsters",
+   "film d'horreur psychologique",
+   "film ou téléfilm à énigme",
+   "film ou téléfilm historique",
+   "film ou téléfilm d'aventure",
+   "film gothique",
+   "film d'horreur gothique",
+   "drame psychologique",
+   "film à suspense"
+  ]
+ },
+ "realisateurs_james-cameron": {
+  "qid": "Q42574",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Canada",
+   "Nouvelle-Zélande"
+  ],
+  "P136": [
+   "film et téléfilm d'action",
+   "cinéma de science-fiction",
+   "film d'horreur de science-fiction",
+   "film ou téléfilm d'horreur",
+   "film ou téléfilm épique",
+   "drame",
+   "film ou téléfilm d'aventure",
+   "comédie"
+  ]
+ },
+ "realisateurs_christopher-nolan": {
+  "qid": "Q25191",
+  "P569": [
+   "1970"
+  ],
+  "P27": [
+   "Royaume-Uni",
+   "États-Unis"
+  ],
+  "P101": [
+   "direction de films",
+   "scénario de film"
+  ]
+ },
+ "realisateurs_tim-burton": {
+  "qid": "Q56008",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "The Nightmare Before Christmas"
+  ]
+ },
+ "realisateurs_pedro-almodovar": {
+  "qid": "Q55171",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P800": [
+   "Parle avec elle",
+   "La Loi du désir",
+   "Pepi, Luci, Bom et autres filles du quartier",
+   "Dans les ténèbres",
+   "Attache-moi !",
+   "Talons aiguilles",
+   "La Fleur de mon secret",
+   "Tout sur ma mère",
+   "Volver",
+   "Douleur et Gloire"
+  ],
+  "P101": [
+   "film",
+   "scénario de film",
+   "direction de films",
+   "production de films",
+   "comédie",
+   "littérature",
+   "chant"
+  ]
+ },
+ "realisateurs_wong-kar-wai": {
+  "qid": "Q55431",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Hong Kong"
+  ],
+  "P135": [
+   "Hong Kong Second Wave",
+   "nouvelle vague hongkongaise"
+  ]
+ },
+ "realisateurs_bong-joon-ho": {
+  "qid": "Q495980",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "Corée du Sud"
+  ],
+  "P800": [
+   "Memories of Murder",
+   "Snowpiercer, le Transperceneige",
+   "Okja",
+   "Parasite",
+   "The Host"
+  ]
+ },
+ "realisateurs_joel-et-ethan-coen": {
+  "qid": "Q56095",
+  "P800": [
+   "The Big Lebowski",
+   "Arizona Junior",
+   "No Country for Old Men",
+   "True Grit",
+   "Blood Simple",
+   "Burn After Reading",
+   "Miller's Crossing",
+   "Fargo",
+   "Barton Fink",
+   "Le Grand Saut",
+   "O'Brother",
+   "Intolérable Cruauté",
+   "The Barber",
+   "La Ballade de Buster Scruggs",
+   "Ladykillers",
+   "Inside Llewyn Davis",
+   "A Serious Man",
+   "Ave, César !"
+  ],
+  "P527": [
+   "Joel Coen",
+   "Ethan Coen"
+  ]
+ },
+ "realisateurs_denis-villeneuve": {
+  "qid": "Q548823",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "Canada"
+  ]
+ },
+ "realisateurs_luc-besson": {
+  "qid": "Q484779",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Léon",
+   "Arthur et les Minimoys"
+  ]
+ },
+ "realisateurs_jean-pierre-jeunet": {
+  "qid": "Q217324",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Fabuleux Destin d'Amélie Poulain",
+   "Un long dimanche de fiançailles"
+  ]
+ },
+ "realisateurs_kathryn-bigelow": {
+  "qid": "Q34816",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Aux frontières de l'aube",
+   "Démineurs"
+  ]
+ },
+ "realisateurs_sofia-coppola": {
+  "qid": "Q193628",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Hi Octane",
+   "Virgin Suicides",
+   "Lost in Translation",
+   "The Bling Ring",
+   "On the Rocks",
+   "Priscilla",
+   "Somewhere",
+   "Marie-Antoinette",
+   "Les Proies"
+  ]
+ },
+ "realisateurs_peter-jackson": {
+  "qid": "Q4465",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "realisateurs_george-lucas": {
+  "qid": "Q38222",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "American Graffiti",
+   "THX 1138",
+   "Star Wars"
+  ],
+  "P136": [
+   "film et téléfilm fantastique"
+  ]
+ },
+ "realisateurs_walt-disney": {
+  "qid": "Q8704",
+  "P569": [
+   "1901"
+  ],
+  "P570": [
+   "1966"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Mickey Mouse"
+  ],
+  "P101": [
+   "littérature pour jeunes adultes"
+  ],
+  "P136": [
+   "film ou téléfilm familial",
+   "film d'animation"
+  ]
+ },
+ "realisateurs_roman-polanski": {
+  "qid": "Q51552",
+  "P569": [
+   "1933"
+  ],
+  "P27": [
+   "Pologne",
+   "France"
+  ],
+  "P136": [
+   "film ou téléfilm d'horreur",
+   "film d'horreur psychologique",
+   "thriller",
+   "drame",
+   "film et téléfilm de guerre",
+   "thriller psychologique",
+   "film ou téléfilm à énigme",
+   "comédie d'horreur",
+   "film et téléfilm d'action",
+   "comédie"
+  ]
+ },
+ "realisateurs_michael-haneke": {
+  "qid": "Q84199",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Autriche"
+  ]
+ },
+ "realisateurs_jane-campion": {
+  "qid": "Q230448",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "realisateurs_greta-gerwig": {
+  "qid": "Q271967",
+  "P569": [
+   "1983"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Lady Bird",
+   "Les Filles du docteur March",
+   "Barbie"
+  ],
+  "P101": [
+   "comédie",
+   "direction de films",
+   "scénario de film",
+   "production de films"
+  ]
+ },
+ "realisateurs_guillermo-del-toro": {
+  "qid": "Q219124",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Mexique"
+  ],
+  "P136": [
+   "fantasy",
+   "film ou téléfilm d'horreur",
+   "drame",
+   "thriller psychologique",
+   "néo-noir"
+  ]
+ },
+ "realisateurs_alfonso-cuaron": {
+  "qid": "Q28028",
+  "P569": [
+   "1961",
+   "1961",
+   "1961"
+  ],
+  "P27": [
+   "Mexique"
+  ]
+ },
+ "realisateurs_wes-anderson": {
+  "qid": "Q223687",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "À bord du Darjeeling Limited",
+   "La Famille Tenenbaum",
+   "Moonrise Kingdom",
+   "Fantastic Mr. Fox",
+   "Rushmore",
+   "hôtel Chevalier",
+   "Bottle Rocket",
+   "La Vie aquatique",
+   "Les Berkman se séparent",
+   "The Grand Budapest Hotel",
+   "L'Île aux chiens",
+   "Bar Luce"
+  ]
+ },
+ "realisateurs_park-chan-wook": {
+  "qid": "Q315484",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Corée du Sud"
+  ],
+  "P800": [
+   "Lady Vengeance",
+   "Old Boy",
+   "Sympathy for Mister Vengeance",
+   "Joint Security Area"
+  ],
+  "P101": [
+   "film"
+  ]
+ },
+ "realisateurs_claude-chabrol": {
+  "qid": "Q55375",
+  "P569": [
+   "1930"
+  ],
+  "P570": [
+   "2010"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P135": [
+   "Nouvelle Vague"
+  ]
+ },
+ "realisateurs_jean-pierre-melville": {
+  "qid": "Q168693",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "realisateurs_marcel-carne": {
+  "qid": "Q52409",
+  "P569": [
+   "1906"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "Le Quai des brumes",
+   "Le jour se lève",
+   "Les Enfants du paradis"
+  ]
+ },
+ "realisateurs_gerard-oury": {
+  "qid": "Q470798",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "realisateurs_celine-sciamma": {
+  "qid": "Q461350",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "film"
+  ]
+ },
+ "realisateurs_alice-guy": {
+  "qid": "Q263367",
+  "P569": [
+   "1873",
+   "1873",
+   "1873"
+  ],
+  "P570": [
+   "1968",
+   "1968"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "La Fée aux choux",
+   "A Fool and His Money",
+   "La Vie du Christ",
+   "L'Américanisé",
+   "A House Divided",
+   "Matrimony's Speed Limit"
+  ]
+ }
+}

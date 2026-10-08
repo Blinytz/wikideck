@@ -1,0 +1,288 @@
+{
+ "oiseaux_aigle-royal": {
+  "qid": "Q41181"
+ },
+ "oiseaux_balbuzard-pecheur": {
+  "qid": "Q25332"
+ },
+ "oiseaux_pygargue-a-tete-blanche": {
+  "qid": "Q127216"
+ },
+ "oiseaux_faucon-pelerin": {
+  "qid": "Q30535"
+ },
+ "oiseaux_faucon-crecerelle": {
+  "qid": "Q26490"
+ },
+ "oiseaux_condor-des-andes": {
+  "qid": "Q170598"
+ },
+ "oiseaux_vautour-fauve": {
+  "qid": "Q177856"
+ },
+ "oiseaux_hibou-grand-duc": {
+  "qid": "Q130933"
+ },
+ "oiseaux_effraie-des-clochers": {
+  "qid": "Q25317"
+ },
+ "oiseaux_harfang-des-neiges": {
+  "qid": "Q170177"
+ },
+ "oiseaux_autruche": {
+  "qid": "Q2576337"
+ },
+ "oiseaux_dromaius": {
+  "qid": "Q858264"
+ },
+ "oiseaux_kiwi-austral": {
+  "qid": "Q667778"
+ },
+ "oiseaux_casoar-a-casque": {
+  "qid": "Q375790"
+ },
+ "oiseaux_manchot-empereur": {
+  "qid": "Q161829"
+ },
+ "oiseaux_manchot-adelie": {
+  "qid": "Q187958"
+ },
+ "oiseaux_flamant-rose": {
+  "qid": "Q179863"
+ },
+ "oiseaux_cygne-tubercule": {
+  "qid": "Q25402"
+ },
+ "oiseaux_cygne-noir": {
+  "qid": "Q131044"
+ },
+ "oiseaux_canard-colvert": {
+  "qid": "Q25348"
+ },
+ "oiseaux_paon-bleu": {
+  "qid": "Q61865"
+ },
+ "oiseaux_toucan-toco": {
+  "qid": "Q376038"
+ },
+ "oiseaux_ara-bleu": {
+  "qid": "Q205477"
+ },
+ "oiseaux_perroquet-jaco": {
+  "qid": "Q220328"
+ },
+ "oiseaux_perruche-ondulee": {
+  "qid": "Q121221"
+ },
+ "oiseaux_cacatoes": {
+  "qid": "Q2932478"
+ },
+ "oiseaux_colibri": {
+  "qid": "Q2982547"
+ },
+ "oiseaux_martin-pecheur-d-europe": {
+  "qid": "Q79915"
+ },
+ "oiseaux_pelican-blanc": {
+  "qid": "Q199427"
+ },
+ "oiseaux_albatros-hurleur": {
+  "qid": "Q208682"
+ },
+ "oiseaux_fregate-superbe": {
+  "qid": "Q647512"
+ },
+ "oiseaux_fou-de-bassan": {
+  "qid": "Q26675"
+ },
+ "oiseaux_grue-du-japon": {
+  "qid": "Q232906"
+ },
+ "oiseaux_ibis-sacre": {
+  "qid": "Q208763"
+ },
+ "oiseaux_cigogne-blanche": {
+  "qid": "Q25352"
+ },
+ "oiseaux_heron-cendre": {
+  "qid": "Q25273"
+ },
+ "oiseaux_grand-corbeau": {
+  "qid": "Q25357"
+ },
+ "oiseaux_pie-bavarde": {
+  "qid": "Q25307"
+ },
+ "oiseaux_geai-des-chenes": {
+  "qid": "Q25354"
+ },
+ "oiseaux_hirondelle-rustique": {
+  "qid": "Q25429"
+ },
+ "oiseaux_martinet-noir": {
+  "qid": "Q25377"
+ },
+ "oiseaux_rouge-gorge": {
+  "qid": "Q3443160"
+ },
+ "oiseaux_merle-noir": {
+  "qid": "Q25234"
+ },
+ "oiseaux_mesange-bleue": {
+  "qid": "Q25404"
+ },
+ "oiseaux_moineau-domestique": {
+  "qid": "Q14683"
+ },
+ "oiseaux_pinson-des-arbres": {
+  "qid": "Q25383"
+ },
+ "oiseaux_chardonneret-elegant": {
+  "qid": "Q25418"
+ },
+ "oiseaux_coucou-gris": {
+  "qid": "Q18845"
+ },
+ "oiseaux_pic-epeiche": {
+  "qid": "Q26209"
+ },
+ "oiseaux_pic-vert": {
+  "qid": "Q166171"
+ },
+ "oiseaux_huppe-fasciee": {
+  "qid": "Q25247"
+ },
+ "oiseaux_strigops-kakapo": {
+  "qid": "Q179959"
+ },
+ "oiseaux_dodo-oiseau": {
+  "qid": "Q43502"
+ },
+ "oiseaux_grand-pingouin": {
+  "qid": "Q189193"
+ },
+ "oiseaux_tourte-voyageuse": {
+  "qid": "Q191968"
+ },
+ "oiseaux_grand-geocoucou": {
+  "qid": "Q634804"
+ },
+ "oiseaux_martin-chasseur-geant": {
+  "qid": "Q824974"
+ },
+ "oiseaux_menura": {
+  "qid": "Q214096"
+ },
+ "oiseaux_quetzal-resplendissant": {
+  "qid": "Q459267"
+ },
+ "oiseaux_dinde-domestique": {
+  "qid": "Q780",
+  "P527": [
+   "coq",
+   "poule"
+  ]
+ },
+ "oiseaux_bec-en-sabot-du-nil": {
+  "qid": "Q18700"
+ },
+ "oiseaux_harpie-feroce": {
+  "qid": "Q53745"
+ },
+ "oiseaux_gypaete-barbu": {
+  "qid": "Q126167"
+ },
+ "oiseaux_macareux-moine": {
+  "qid": "Q26685"
+ },
+ "oiseaux_calao-bicorne": {
+  "qid": "Q232768"
+ },
+ "oiseaux_paradisier": {
+  "qid": "Q3363288"
+ },
+ "oiseaux_messager-sagittaire": {
+  "qid": "Q168748"
+ },
+ "oiseaux_sterne-arctique": {
+  "qid": "Q26800"
+ },
+ "oiseaux_rossignol-philomele": {
+  "qid": "Q25393"
+ },
+ "oiseaux_etourneau-sansonnet": {
+  "qid": "Q25469"
+ },
+ "oiseaux_pigeon-biset": {
+  "qid": "Q42326"
+ },
+ "oiseaux_tourterelle-turque": {
+  "qid": "Q54696"
+ },
+ "oiseaux_corneille-noire": {
+  "qid": "Q26198"
+ },
+ "oiseaux_alouette-des-champs": {
+  "qid": "Q25961"
+ },
+ "oiseaux_mesange-charbonniere": {
+  "qid": "Q25485"
+ },
+ "oiseaux_mouette-rieuse": {
+  "qid": "Q25634"
+ },
+ "oiseaux_goeland-argente": {
+  "qid": "Q28236"
+ },
+ "oiseaux_grand-cormoran": {
+  "qid": "Q25440"
+ },
+ "oiseaux_dinde-domestique-b": {
+  "qid": "Q848706"
+ },
+ "oiseaux_oie-cendree": {
+  "qid": "Q25882"
+ },
+ "oiseaux_faisan-de-colchide": {
+  "qid": "Q25432"
+ },
+ "oiseaux_pintade-de-numidie": {
+  "qid": "Q251842"
+ },
+ "oiseaux_caille-des-bles": {
+  "qid": "Q28358"
+ },
+ "oiseaux_buse-variable": {
+  "qid": "Q25385"
+ },
+ "oiseaux_chouette-hulotte": {
+  "qid": "Q25756"
+ },
+ "oiseaux_milan-royal": {
+  "qid": "Q156250"
+ },
+ "oiseaux_marabout-d-afrique": {
+  "qid": "Q512737"
+ },
+ "oiseaux_grue-cendree": {
+  "qid": "Q4764"
+ },
+ "oiseaux_aigrette-garzette": {
+  "qid": "Q131709"
+ },
+ "oiseaux_spatule-blanche": {
+  "qid": "Q171360"
+ },
+ "oiseaux_serin-des-canaries": {
+  "qid": "Q192524"
+ },
+ "oiseaux_nestor-kea": {
+  "qid": "Q193337"
+ },
+ "oiseaux_guepier-d-europe": {
+  "qid": "Q170718"
+ },
+ "oiseaux_nandou-d-amerique": {
+  "qid": "Q192044"
+ }
+}

@@ -1,0 +1,943 @@
+{
+ "personnages-animation_mickey-mouse": {
+  "qid": "Q11934",
+  "P170": [
+   "Walt Disney",
+   "Ub Iwerks"
+  ],
+  "P571": [
+   "1928"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_donald-duck": {
+  "qid": "Q6550",
+  "P170": [
+   "Dick Lundy",
+   "Walt Disney"
+  ],
+  "P571": [
+   "1934"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_dingo-disney": {
+  "qid": "Q111135",
+  "P170": [
+   "Art Babbitt"
+  ],
+  "P571": [
+   "1932"
+  ]
+ },
+ "personnages-animation_blanche-neige-disney": {
+  "qid": "Q2739228",
+  "P170": [
+   "Hamilton Luske"
+  ]
+ },
+ "personnages-animation_cendrillon": {
+  "qid": "Q11841",
+  "P136": [
+   "conte merveilleux"
+  ]
+ },
+ "personnages-animation_la-belle-au-bois-dormant": {
+  "qid": "Q11824",
+  "P136": [
+   "conte"
+  ]
+ },
+ "personnages-animation_simba-disney": {
+  "qid": "Q1649583"
+ },
+ "personnages-animation_aladdin-disney": {
+  "qid": "Q1358109"
+ },
+ "personnages-animation_genie-disney": {
+  "qid": "Q2345667",
+  "P170": [
+   "Eric Goldberg"
+  ]
+ },
+ "personnages-animation_ariel-disney": {
+  "qid": "Q892442",
+  "P571": [
+   "1989"
+  ]
+ },
+ "personnages-animation_elsa-disney": {
+  "qid": "Q15620419",
+  "P27": [
+   "Arendelle"
+  ],
+  "P170": [
+   "Chris Buck",
+   "Jennifer Lee"
+  ]
+ },
+ "personnages-animation_sherif-woody": {
+  "qid": "Q2290907",
+  "P170": [
+   "John Lasseter",
+   "Andrew Stanton",
+   "Pete Docter",
+   "Joe Ranft"
+  ],
+  "P571": [
+   "1995"
+  ]
+ },
+ "personnages-animation_buzz-l-eclair": {
+  "qid": "Q1986193",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "John Lasseter",
+   "Pete Docter",
+   "Andrew Stanton",
+   "Joe Ranft"
+  ],
+  "P571": [
+   "1995"
+  ]
+ },
+ "personnages-animation_nemo-poisson": {
+  "qid": "Q3338016",
+  "P170": [
+   "Andrew Stanton"
+  ]
+ },
+ "personnages-animation_shrek-personnage": {
+  "qid": "Q52401",
+  "P170": [
+   "William Steig"
+  ],
+  "P571": [
+   "1990"
+  ]
+ },
+ "personnages-animation_l-ane-shrek": {
+  "qid": "Q748427",
+  "P170": [
+   "William Steig"
+  ],
+  "P571": [
+   "1990"
+  ]
+ },
+ "personnages-animation_homer-simpson": {
+  "qid": "Q7810",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Groening"
+  ]
+ },
+ "personnages-animation_bart-simpson": {
+  "qid": "Q5480",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Groening"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_bugs-bunny": {
+  "qid": "Q183102",
+  "P170": [
+   "Tex Avery"
+  ],
+  "P571": [
+   "1940"
+  ]
+ },
+ "personnages-animation_daffy-duck": {
+  "qid": "Q319918",
+  "P170": [
+   "Tex Avery",
+   "Bob Clampett"
+  ],
+  "P571": [
+   "1937"
+  ],
+  "P577": [
+   "1937"
+  ]
+ },
+ "personnages-animation_tom-et-jerry": {
+  "qid": "Q131144",
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm pour enfants"
+  ]
+ },
+ "personnages-animation_scooby-doo": {
+  "qid": "Q205683",
+  "P170": [
+   "Joe Ruby",
+   "Ken Spears"
+  ],
+  "P571": [
+   "1969"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "Scooby-Doo",
+   "Fantomatiquement vôtre, signé Scoubidou",
+   "Scoubidou Show",
+   "Scooby-Doo : Jeux Epiques pour Stars Olympiques",
+   "Scooby-Doo et Scrappy-Doo",
+   "Les Voyages fantomatiques de Scoubidou",
+   "Mystérieusement vôtre, signé Scoubidou",
+   "Les Treize Fantômes de Scooby-Doo",
+   "Agence Toutou Risques",
+   "Quoi d'neuf Scooby-Doo ?",
+   "Sammy et Scooby en folie",
+   "Scooby-Doo : Mystères associés",
+   "Trop cool, Scooby-Doo !",
+   "Scooby-Doo et Compagnie",
+   "Scooby-Doo",
+   "Scooby-Doo's Haunted Mansion",
+   "Scooby !",
+   "Daphne and Velma",
+   "Scooby-Doo 2 : Les monstres se déchaînent",
+   "Lego Scooby-Doo",
+   "Scooby-Doo et les Boo Brothers",
+   "Scooby-Doo et l'École des sorcières",
+   "Scooby-Doo et le Rallye des monstres",
+   "Scooby-Doo et les Contes des mille et une nuits",
+   "Scooby-Doo sur l'île aux zombies",
+   "Scooby-Doo et le Fantôme de la sorcière",
+   "Scooby-Doo et les Extraterrestres",
+   "Scooby-Doo et la Cybertraque",
+   "Scooby-Doo et les Vampires",
+   "Scooby-Doo et le Monstre du Mexique",
+   "Lego Scooby-Doo : Le Fantôme d'Hollywood",
+   "Scooby-Doo! et WWE : La Malédiction du pilote fantôme",
+   "Scooby-Doo : Les Jeux monstrolympiques",
+   "Scooby-Doo et les Vacances de la peur",
+   "Scooby-Doo et l’Épouvantable Épouvantail",
+   "Scooby-Doo au secours de la NASA",
+   "Scooby-Doo ! et le Monstre de la plage",
+   "Scooby-Doo et la mission d'Halloween",
+   "Scooby-Doo : Le mystère commence",
+   "Scooby-Doo et le Monstre du lac",
+   "Scooby Apocalypse",
+   "The Scooby-Doo/Dynomutt Hour",
+   "The Richie Rich/Scooby-Doo Hour",
+   "Velma",
+   "The Scooby-Doo Project",
+   "Scooby-Doo et le Monstre du loch Ness",
+   "Yokoso Scooby-Doo!",
+   "Scooby-Doo: Origins",
+   "Scooby-Doo à Hollywood",
+   "The Scooby and Scrappy-Doo/Puppy Hour",
+   "Scary Scooby Funnies",
+   "Scooby's Mystery Funhouse",
+   "Scooby-Doo et la carte au trésor"
+  ]
+ },
+ "personnages-animation_pinocchio": {
+  "qid": "Q6502703",
+  "P27": [
+   "Italie"
+  ],
+  "P170": [
+   "Carlo Collodi"
+  ],
+  "P186": [
+   "bois"
+  ]
+ },
+ "personnages-animation_bambi-personnage": {
+  "qid": "Q27688665",
+  "P170": [
+   "Felix Salten"
+  ]
+ },
+ "personnages-animation_dumbo": {
+  "qid": "Q2750318",
+  "P170": [
+   "Helen Aberson"
+  ]
+ },
+ "personnages-animation_baloo": {
+  "qid": "Q2245378",
+  "P170": [
+   "Q34743"
+  ]
+ },
+ "personnages-animation_mulan-disney": {
+  "qid": "Q246838",
+  "P170": [
+   "Robert D. San Souci"
+  ]
+ },
+ "personnages-animation_remy-ratatouille": {
+  "qid": "Q3456108",
+  "P27": [
+   "France"
+  ],
+  "P495": [
+   "France"
+  ]
+ },
+ "personnages-animation_dory": {
+  "qid": "Q20823008",
+  "P170": [
+   "Andrew Stanton"
+  ]
+ },
+ "personnages-animation_raiponce-disney": {
+  "qid": "Q4902053",
+  "P170": [
+   "Glen Keane"
+  ]
+ },
+ "personnages-animation_merida-disney": {
+  "qid": "Q6819227",
+  "P170": [
+   "Brenda Chapman"
+  ]
+ },
+ "personnages-animation_mufasa-disney": {
+  "qid": "Q2287748",
+  "P571": [
+   "1994"
+  ],
+  "P577": [
+   "1994"
+  ]
+ },
+ "personnages-animation_scar-disney": {
+  "qid": "Q1977325",
+  "P571": [
+   "1994"
+  ]
+ },
+ "personnages-animation_pumbaa": {
+  "qid": "Q2469812"
+ },
+ "personnages-animation_malefique-disney": {
+  "qid": "Q1660555",
+  "P170": [
+   "Marc Davis"
+  ]
+ },
+ "personnages-animation_ursula-disney": {
+  "qid": "Q6175066",
+  "P170": [
+   "Ron Clements"
+  ]
+ },
+ "personnages-animation_jafar-disney": {
+  "qid": "Q2331578",
+  "P170": [
+   "Andreas Deja"
+  ],
+  "P571": [
+   "1992"
+  ]
+ },
+ "personnages-animation_cruella-d-enfer": {
+  "qid": "Q388605",
+  "P170": [
+   "Dodie Smith"
+  ]
+ },
+ "personnages-animation_bob-l-eponge-personnage": {
+  "qid": "Q935079",
+  "P569": [
+   "1986"
+  ],
+  "P101": [
+   "restauration rapide"
+  ],
+  "P170": [
+   "Stephen Hillenburg"
+  ],
+  "P186": [
+   "éponge"
+  ]
+ },
+ "personnages-animation_patrick-etoile-de-mer": {
+  "qid": "Q1077456",
+  "P170": [
+   "Stephen Hillenburg"
+  ]
+ },
+ "personnages-animation_vil-coyote": {
+  "qid": "Q598503",
+  "P569": [
+   "1949"
+  ]
+ },
+ "personnages-animation_titi-personnage": {
+  "qid": "Q623553",
+  "P170": [
+   "Bob Clampett"
+  ]
+ },
+ "personnages-animation_les-schtroumpfs": {
+  "qid": "Q11221",
+  "P170": [
+   "Peyo",
+   "Yvan Delporte"
+  ],
+  "P495": [
+   "Belgique"
+  ],
+  "P577": [
+   "1958"
+  ],
+  "P136": [
+   "bande dessinée fantastique",
+   "bande dessinée humoristique",
+   "bande dessinée franco-belge"
+  ],
+  "P527": [
+   "schtroumpf",
+   "Les Schtroumpfs",
+   "Les Schtroumpfs",
+   "The Smurfs in film",
+   "Les Schtroumpfs"
+  ]
+ },
+ "personnages-animation_popeye-personnage": {
+  "qid": "Q199796",
+  "P170": [
+   "Elzie Crisler Segar"
+  ],
+  "P571": [
+   "1929"
+  ]
+ },
+ "personnages-animation_betty-boop": {
+  "qid": "Q583810",
+  "P170": [
+   "Grim Natwick",
+   "Ted Sears"
+  ],
+  "P571": [
+   "1930"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_casper-film": {
+  "qid": "Q1048166",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1995",
+   "1995"
+  ],
+  "P136": [
+   "comédie dramatique",
+   "film et téléfilm de fantasy",
+   "film ou téléfilm pour enfants",
+   "comédie",
+   "film de fantômes",
+   "film ou téléfilm familial"
+  ]
+ },
+ "personnages-animation_wall-e-personnage": {
+  "qid": "Q104905",
+  "P170": [
+   "Andrew Stanton"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2008"
+  ],
+  "P136": [
+   "film comédie romantique",
+   "film ou téléfilm post-apocalyptique",
+   "science-fiction humoristique",
+   "film ou téléfilm d'aventure",
+   "film à flash-back",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm d'amour",
+   "film dystopique",
+   "science-fiction d'aventure",
+   "cinéma de science-fiction",
+   "comédie"
+  ]
+ },
+ "personnages-animation_vaiana": {
+  "qid": "Q18647981",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm musical",
+   "film ou téléfilm d'aventure",
+   "comédie dramatique",
+   "film et téléfilm d'action"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "personnages-animation_stitch": {
+  "qid": "Q36092",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2002",
+   "2002",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "buddy movie",
+   "comédie dramatique",
+   "cinéma de science-fiction",
+   "comédie"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ },
+ "personnages-animation_sulli": {
+  "qid": "Q187726",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2001",
+   "2002",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "buddy movie",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm de monstre",
+   "film et téléfilm de fantasy",
+   "comédie"
+  ],
+  "P2079": [
+   "animation informatisée",
+   "animation 3D"
+  ]
+ },
+ "personnages-animation_minnie-mouse": {
+  "qid": "Q11936",
+  "P170": [
+   "Walt Disney",
+   "Ub Iwerks"
+  ],
+  "P571": [
+   "1928"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_pluto-disney": {
+  "qid": "Q108732",
+  "P170": [
+   "Norman Ferguson",
+   "Walt Disney",
+   "Walt Disney Animation Studios"
+  ],
+  "P571": [
+   "1930"
+  ]
+ },
+ "personnages-animation_tigrou": {
+  "qid": "Q4446039",
+  "P170": [
+   "Alan Alexander Milne"
+  ]
+ },
+ "personnages-animation_fee-clochette": {
+  "qid": "Q853847",
+  "P170": [
+   "James Matthew Barrie"
+  ],
+  "P571": [
+   "1904"
+  ]
+ },
+ "personnages-animation_jiminy-cricket": {
+  "qid": "Q1028714",
+  "P170": [
+   "Ward Kimball"
+  ]
+ },
+ "personnages-animation_shere-khan": {
+  "qid": "Q2305638",
+  "P170": [
+   "Q34743"
+  ]
+ },
+ "personnages-animation_kaa": {
+  "qid": "Q275475",
+  "P170": [
+   "Q34743"
+  ]
+ },
+ "personnages-animation_pocahontas-disney": {
+  "qid": "Q2625989",
+  "P170": [
+   "Glen Keane"
+  ]
+ },
+ "personnages-animation_belle-disney": {
+  "qid": "Q2502489",
+  "P170": [
+   "Linda Woolverton"
+  ]
+ },
+ "personnages-animation_la-bete-disney": {
+  "qid": "Q2559802",
+  "P170": [
+   "Linda Woolverton"
+  ]
+ },
+ "personnages-animation_jasmine-disney": {
+  "qid": "Q951483"
+ },
+ "personnages-animation_jack-skellington": {
+  "qid": "Q2708262",
+  "P170": [
+   "Tim Burton"
+  ],
+  "P136": [
+   "film de Noël"
+  ]
+ },
+ "personnages-animation_flash-mcqueen": {
+  "qid": "Q864418",
+  "P569": [
+   "2002"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "John Lasseter",
+   "Joe Ranft"
+  ],
+  "P571": [
+   "2006"
+  ]
+ },
+ "personnages-animation_gru-personnage": {
+  "qid": "Q10291638",
+  "P569": [
+   "1960"
+  ]
+ },
+ "personnages-animation_les-minions": {
+  "qid": "Q13619743",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "comédie",
+   "film ou téléfilm pour enfants",
+   "film ou téléfilm de casse"
+  ],
+  "P2079": [
+   "animation informatisée"
+  ]
+ },
+ "personnages-animation_porky-pig": {
+  "qid": "Q937186",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Friz Freleng",
+   "Tex Avery",
+   "Bob Clampett"
+  ],
+  "P571": [
+   "1935"
+  ],
+  "P495": [
+   "Allemagne"
+  ]
+ },
+ "personnages-animation_speedy-gonzales": {
+  "qid": "Q912984",
+  "P170": [
+   "Robert McKimson"
+  ]
+ },
+ "personnages-animation_taz-langue": {
+  "qid": "Q3516511"
+ },
+ "personnages-animation_woody-woodpecker": {
+  "qid": "Q741321",
+  "P170": [
+   "Ben Hardaway",
+   "Walter Lantz"
+  ],
+  "P571": [
+   "1940"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1940"
+  ],
+  "P136": [
+   "animation"
+  ]
+ },
+ "personnages-animation_droopy": {
+  "qid": "Q1260264",
+  "P170": [
+   "Tex Avery"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-animation_fred-pierrafeu": {
+  "qid": "Q614889",
+  "P170": [
+   "Hanna-Barbera Productions"
+  ]
+ },
+ "personnages-animation_barbapapa": {
+  "qid": "Q755021",
+  "P571": [
+   "1970"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Annette Tison",
+   "Talus Taylor"
+  ],
+  "P136": [
+   "littérature d'enfance"
+  ]
+ },
+ "personnages-animation_wallace-et-gromit": {
+  "qid": "Q691528",
+  "P170": [
+   "Nick Park"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "animation"
+  ],
+  "P527": [
+   "Une grande excursion",
+   "Un mauvais pantalon",
+   "Rasé de près",
+   "Sacré Pétrin",
+   "Wallace et Gromit : Le Mystère du lapin-garou",
+   "Wallace et Gromit : La Palme de la vengeance"
+  ],
+  "P2079": [
+   "animation de pâte à modeler"
+  ]
+ },
+ "personnages-animation_scrat": {
+  "qid": "Q1088515",
+  "P571": [
+   "2002"
+  ]
+ },
+ "personnages-animation_bender-tordeur-rodriguez": {
+  "qid": "Q750023",
+  "P27": [
+   "Mexique"
+  ],
+  "P170": [
+   "David X. Cohen"
+  ]
+ },
+ "personnages-animation_eric-cartman": {
+  "qid": "Q47352",
+  "P569": [
+   "1987"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Stone",
+   "Trey Parker"
+  ]
+ },
+ "personnages-animation_peter-griffin": {
+  "qid": "Q28465",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Seth MacFarlane"
+  ]
+ },
+ "personnages-animation_rick-sanchez": {
+  "qid": "Q24207815",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Justin Roiland",
+   "Dan Harmon"
+  ]
+ },
+ "personnages-animation_marge-simpson": {
+  "qid": "Q7828",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Groening"
+  ]
+ },
+ "personnages-animation_lisa-simpson": {
+  "qid": "Q5846",
+  "P569": [
+   "1982"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Groening"
+  ]
+ },
+ "personnages-animation_charles-montgomery-burns": {
+  "qid": "Q716636",
+  "P569": [
+   "1890"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Matt Groening"
+  ]
+ },
+ "personnages-animation_peppa-pig": {
+  "qid": "Q938985",
+  "P170": [
+   "Neville Astley",
+   "Mark Baker"
+  ],
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P136": [
+   "série télévisée pour la jeunesse",
+   "série télévisée comique",
+   "educational television"
+  ],
+  "P527": [
+   "saison 1 de Peppa Pig",
+   "saison 2 de Peppa Pig",
+   "saison 3 de Peppa Pig",
+   "saison 4 de Peppa Pig",
+   "saison 5 de Peppa Pig",
+   "saison 6 de Peppa Pig",
+   "saison 7 de Peppa Pig",
+   "saison 8 de Peppa Pig"
+  ]
+ },
+ "personnages-animation_hello-kitty": {
+  "qid": "Q191794",
+  "P569": [
+   "1974"
+  ],
+  "P101": [
+   "Felis"
+  ],
+  "P170": [
+   "Yuko Shimizu"
+  ],
+  "P571": [
+   "1974"
+  ]
+ },
+ "personnages-animation_kirikou-et-la-sorciere": {
+  "qid": "Q605620",
+  "P495": [
+   "France",
+   "Belgique",
+   "Luxembourg"
+  ],
+  "P577": [
+   "1998",
+   "1999"
+  ],
+  "P136": [
+   "film et téléfilm de fantasy",
+   "film ou téléfilm d'aventure",
+   "film ou téléfilm pour enfants"
+  ],
+  "P2079": [
+   "animation traditionnelle"
+  ]
+ }
+}

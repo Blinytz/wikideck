@@ -38512,9 +38512,9 @@
   },
   "mythologies-proche-orient_lamassu": {
    "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.7473,
-   "editeLe": 1790426188464,
+   "cy": 0.4766,
+   "w": 1,
+   "editeLe": 1791486562126,
    "original": true
   },
   "mythologies-proche-orient_uta-napishtim": {
@@ -58113,7 +58113,7 @@
   "personnages-bd-comics_tortues-ninja": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58121,7 +58121,7 @@
   "personnages-bd-comics_the-mask-personnage": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true

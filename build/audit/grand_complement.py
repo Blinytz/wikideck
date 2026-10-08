@@ -1591,3 +1591,7 @@ PLANS['presidents-de-la-republique-francaise'] = dict(
     ajouts=[(t.split(' (')[0], t) for t in PRESIDENTS_FR
             if t not in ('Napoléon III', 'Charles de Gaulle', 'François Mitterrand')])
 AJOUTS.setdefault('presidents-de-la-republique-francaise', []).append(('Sadi Carnot (président)', "Sadi Carnot (homme d'État)"))
+
+# 08/10/2026 : The Mask et les Tortues Ninja
+AJOUTS.setdefault('personnages-bd-comics', []).extend([
+    ('The Mask', 'The Mask (personnage)'), ('Tortues Ninja', 'Tortues Ninja')])

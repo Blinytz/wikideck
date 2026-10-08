@@ -58109,6 +58109,22 @@
    "w": 1,
    "editeLe": 1791323851120,
    "original": true
+  },
+  "personnages-bd-comics_tortues-ninja": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "personnages-bd-comics_the-mask-personnage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
   }
  },
  "notes": [

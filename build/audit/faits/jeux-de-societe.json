@@ -1,0 +1,383 @@
+{
+ "jeux-de-societe_echecs": {
+  "qid": "Q718",
+  "P571": [
+   "1500",
+   "601"
+  ],
+  "P495": [
+   "Empire Gupta"
+  ],
+  "P136": [
+   "jeu de réflexion",
+   "jeu de stratégie combinatoire abstrait"
+  ]
+ },
+ "jeux-de-societe_go-jeu": {
+  "qid": "Q11413"
+ },
+ "jeux-de-societe_dames": {
+  "qid": "Q1293"
+ },
+ "jeux-de-societe_backgammon": {
+  "qid": "Q11411"
+ },
+ "jeux-de-societe_mah-jong": {
+  "qid": "Q12263",
+  "P571": [
+   "1900"
+  ],
+  "P495": [
+   "Chine"
+  ]
+ },
+ "jeux-de-societe_shogi": {
+  "qid": "Q131375",
+  "P495": [
+   "Japon"
+  ],
+  "P17": [
+   "Japon"
+  ]
+ },
+ "jeux-de-societe_xiangqi": {
+  "qid": "Q191448",
+  "P495": [
+   "république populaire de Chine"
+  ]
+ },
+ "jeux-de-societe_awale": {
+  "qid": "Q575620"
+ },
+ "jeux-de-societe_senet": {
+  "qid": "Q582169"
+ },
+ "jeux-de-societe_jeu-royal-d-ur": {
+  "qid": "Q937315",
+  "P571": [
+   "-2600"
+  ]
+ },
+ "jeux-de-societe_jeu-de-l-oie-jeu-de-societe": {
+  "qid": "Q1548611"
+ },
+ "jeux-de-societe_jeu-des-petits-chevaux": {
+  "qid": "Q669917"
+ },
+ "jeux-de-societe_dominos-jeu": {
+  "qid": "Q32907",
+  "P527": [
+   "tuile de domino"
+  ]
+ },
+ "jeux-de-societe_tarot": {
+  "qid": "Q510406"
+ },
+ "jeux-de-societe_belote": {
+  "qid": "Q6433358",
+  "P495": [
+   "France"
+  ]
+ },
+ "jeux-de-societe_poker": {
+  "qid": "Q80131"
+ },
+ "jeux-de-societe_bridge": {
+  "qid": "Q188966"
+ },
+ "jeux-de-societe_monopoly": {
+  "qid": "Q17243",
+  "P571": [
+   "1935"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1937"
+  ],
+  "P136": [
+   "roll-and-move game"
+  ],
+  "P527": [
+   "Chance and Community Chest cards",
+   "Community Chest"
+  ]
+ },
+ "jeux-de-societe_scrabble": {
+  "qid": "Q170436",
+  "P577": [
+   "1938"
+  ],
+  "P527": [
+   "tablier",
+   "sac"
+  ]
+ },
+ "jeux-de-societe_cluedo": {
+  "qid": "Q17245",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "1949"
+  ],
+  "P136": [
+   "jeu d'enquête"
+  ]
+ },
+ "jeux-de-societe_risk": {
+  "qid": "Q12541",
+  "P577": [
+   "1957"
+  ],
+  "P136": [
+   "wargame sur plateau"
+  ]
+ },
+ "jeux-de-societe_trivial-pursuit": {
+  "qid": "Q17250",
+  "P577": [
+   "1981"
+  ],
+  "P136": [
+   "quiz board game",
+   "jeux en croix et cercle"
+  ]
+ },
+ "jeux-de-societe_pictionary": {
+  "qid": "Q565449",
+  "P170": [
+   "Robert Angel"
+  ],
+  "P571": [
+   "1985"
+  ],
+  "P577": [
+   "1985"
+  ]
+ },
+ "jeux-de-societe_uno": {
+  "qid": "Q17267",
+  "P577": [
+   "1971"
+  ]
+ },
+ "jeux-de-societe_puissance-4": {
+  "qid": "Q17254"
+ },
+ "jeux-de-societe_othello-jeu": {
+  "qid": "Q748139",
+  "P170": [
+   "MegaHouse",
+   "Jaques of London",
+   "Gorō Hasegawa"
+  ]
+ },
+ "jeux-de-societe_stratego": {
+  "qid": "Q241538",
+  "P136": [
+   "wargame sur plateau"
+  ],
+  "P527": [
+   "pièce de jeu",
+   "tablier"
+  ]
+ },
+ "jeux-de-societe_mastermind": {
+  "qid": "Q17286",
+  "P577": [
+   "1970"
+  ]
+ },
+ "jeux-de-societe_yahtzee": {
+  "qid": "Q696920"
+ },
+ "jeux-de-societe_jenga": {
+  "qid": "Q869870",
+  "P170": [
+   "Leslie Scott"
+  ],
+  "P577": [
+   "1983"
+  ],
+  "P136": [
+   "jeu d'ambiance"
+  ]
+ },
+ "jeux-de-societe_bataille-navale-jeu": {
+  "qid": "Q953491",
+  "P571": [
+   "1931"
+  ]
+ },
+ "jeux-de-societe_1000-bornes": {
+  "qid": "Q17263",
+  "P577": [
+   "1954"
+  ]
+ },
+ "jeux-de-societe_donjons-et-dragons": {
+  "qid": "Q1375",
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Gary Gygax",
+   "Q1381"
+  ],
+  "P577": [
+   "1974"
+  ],
+  "P136": [
+   "fantasy",
+   "jeu de rôle sur table"
+  ]
+ },
+ "jeux-de-societe_les-colons-de-catane": {
+  "qid": "Q17271",
+  "P50": [
+   "Klaus Teuber"
+  ],
+  "P577": [
+   "1995"
+  ],
+  "P136": [
+   "Eurogame",
+   "jeu de cartes"
+  ],
+  "P527": [
+   "monnaie de carte",
+   "pièce de jeu",
+   "dé à six faces",
+   "carte"
+  ]
+ },
+ "jeux-de-societe_carcassonne-jeu": {
+  "qid": "Q17262",
+  "P495": [
+   "Allemagne"
+  ],
+  "P577": [
+   "2000"
+  ],
+  "P136": [
+   "Eurogame",
+   "jeu par arrangement"
+  ]
+ },
+ "jeux-de-societe_les-aventuriers-du-rail": {
+  "qid": "Q228308",
+  "P170": [
+   "Alan R. Moon"
+  ],
+  "P577": [
+   "2004"
+  ],
+  "P136": [
+   "Eurogame",
+   "connection game"
+  ]
+ },
+ "jeux-de-societe_dixit-jeu": {
+  "qid": "Q906623",
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu de cartes",
+   "jeu de devinette"
+  ],
+  "P527": [
+   "carte"
+  ]
+ },
+ "jeux-de-societe_dobble": {
+  "qid": "Q3033270",
+  "P577": [
+   "2009"
+  ]
+ },
+ "jeux-de-societe_les-loups-garous-de-thiercelieux": {
+  "qid": "Q15720587",
+  "P170": [
+   "Philippe des Pallières",
+   "Hervé Marly"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "jeu de déduction sociale"
+  ]
+ },
+ "jeux-de-societe_magic-l-assemblee": {
+  "qid": "Q207302",
+  "P170": [
+   "Richard Garfield"
+  ],
+  "P571": [
+   "1993",
+   "1993"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P17": [
+   "États-Unis"
+  ],
+  "P577": [
+   "1993"
+  ],
+  "P136": [
+   "fantasy"
+  ],
+  "P527": [
+   "Magic: The Gathering rules",
+   "Magic: The Gathering deck types",
+   "Formats de tournoi de Magic : L'Assemblée"
+  ]
+ },
+ "jeux-de-societe_pandemie-jeu": {
+  "qid": "Q531592",
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu de société coopératif"
+  ]
+ },
+ "jeux-de-societe_7-wonders": {
+  "qid": "Q17276",
+  "P170": [
+   "Antoine Bauza"
+  ],
+  "P577": [
+   "2010"
+  ]
+ },
+ "jeux-de-societe_warhammer-40-000": {
+  "qid": "Q209026",
+  "P136": [
+   "science fantasy"
+  ]
+ },
+ "jeux-de-societe_rubik-s-cube": {
+  "qid": "Q47043",
+  "P571": [
+   "1974"
+  ],
+  "P17": [
+   "Hongrie"
+  ]
+ },
+ "jeux-de-societe_mikado-jeu": {
+  "qid": "Q1333813"
+ },
+ "jeux-de-societe_tangram": {
+  "qid": "Q245336",
+  "P495": [
+   "Chine"
+  ]
+ }
+}

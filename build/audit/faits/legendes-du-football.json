@@ -1,0 +1,767 @@
+{
+ "legendes-du-football_pele": {
+  "qid": "Q12897",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Brésil"
+  ],
+  "P101": [
+   "football",
+   "sport professionnel"
+  ]
+ },
+ "legendes-du-football_diego-maradona": {
+  "qid": "Q17515",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Argentine"
+  ],
+  "P101": [
+   "football",
+   "entraînement sportif",
+   "management sportif"
+  ]
+ },
+ "legendes-du-football_johan-cruyff": {
+  "qid": "Q17163",
+  "P569": [
+   "1947"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ],
+  "P101": [
+   "football"
+  ]
+ },
+ "legendes-du-football_franz-beckenbauer": {
+  "qid": "Q4457",
+  "P569": [
+   "1945"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Allemagne de l'Ouest",
+   "Allemagne"
+  ],
+  "P101": [
+   "sport",
+   "football"
+  ]
+ },
+ "legendes-du-football_alfredo-di-stefano": {
+  "qid": "Q164546",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "Argentine",
+   "Espagne",
+   "Colombie"
+  ]
+ },
+ "legendes-du-football_ferenc-puskas": {
+  "qid": "Q482931",
+  "P569": [
+   "1927"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "Hongrie",
+   "Espagne"
+  ]
+ },
+ "legendes-du-football_garrincha": {
+  "qid": "Q180642",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "1983"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_bobby-charlton": {
+  "qid": "Q171583",
+  "P569": [
+   "1937"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P101": [
+   "football"
+  ]
+ },
+ "legendes-du-football_gerd-muller": {
+  "qid": "Q43744",
+  "P569": [
+   "1945"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "legendes-du-football_michel-platini": {
+  "qid": "Q4261",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-football_zico": {
+  "qid": "Q47526",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "Brésil",
+   "Portugal"
+  ]
+ },
+ "legendes-du-football_socrates": {
+  "qid": "Q102331",
+  "P569": [
+   "1954",
+   "1954"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_paulo-roberto-falcao": {
+  "qid": "Q312454",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_lev-yachine": {
+  "qid": "Q167828",
+  "P569": [
+   "1929",
+   "1929"
+  ],
+  "P570": [
+   "1990"
+  ],
+  "P27": [
+   "Union soviétique"
+  ]
+ },
+ "legendes-du-football_raymond-kopa": {
+  "qid": "Q123118",
+  "P569": [
+   "1931"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "France",
+   "Pologne"
+  ]
+ },
+ "legendes-du-football_just-fontaine": {
+  "qid": "Q192749",
+  "P569": [
+   "1933"
+  ],
+  "P570": [
+   "2023",
+   "2023"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-football_marco-van-basten": {
+  "qid": "Q483629",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "legendes-du-football_ruud-gullit": {
+  "qid": "Q173972",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "legendes-du-football_frank-rijkaard": {
+  "qid": "Q169098",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "legendes-du-football_franco-baresi": {
+  "qid": "Q189984",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-football_lothar-matthaus": {
+  "qid": "Q36386",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Allemagne",
+   "Allemagne de l'Ouest"
+  ]
+ },
+ "legendes-du-football_jurgen-klinsmann": {
+  "qid": "Q57079",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Allemagne",
+   "Allemagne de l'Ouest",
+   "États-Unis"
+  ]
+ },
+ "legendes-du-football_roger-milla": {
+  "qid": "Q168540",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "Cameroun",
+   "France"
+  ]
+ },
+ "legendes-du-football_eusebio-football": {
+  "qid": "Q162043",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2014"
+  ],
+  "P27": [
+   "Portugal"
+  ]
+ },
+ "legendes-du-football_stanley-matthews": {
+  "qid": "Q216140",
+  "P569": [
+   "1915"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_bobby-moore": {
+  "qid": "Q191492",
+  "P569": [
+   "1941"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_gordon-banks": {
+  "qid": "Q213879",
+  "P569": [
+   "1937"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_george-best": {
+  "qid": "Q164521",
+  "P569": [
+   "1946"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_denis-law": {
+  "qid": "Q233565",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "2025"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_jimmy-greaves": {
+  "qid": "Q297271",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "2021"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_kenny-dalglish": {
+  "qid": "Q187198",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_kevin-keegan": {
+  "qid": "Q152832",
+  "P569": [
+   "1951"
+  ],
+  "P570": [
+   "2026"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_dino-zoff": {
+  "qid": "Q180661",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-football_giuseppe-meazza": {
+  "qid": "Q192131",
+  "P569": [
+   "1910"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "Italie",
+   "Italie"
+  ]
+ },
+ "legendes-du-football_gianni-rivera": {
+  "qid": "Q230046",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-football_giacinto-facchetti": {
+  "qid": "Q219390",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2006"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P101": [
+   "football"
+  ]
+ },
+ "legendes-du-football_carlos-alberto-football-1944": {
+  "qid": "Q295262",
+  "P569": [
+   "1944"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_jairzinho": {
+  "qid": "Q210102",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_didi": {
+  "qid": "Q312486",
+  "P569": [
+   "1928",
+   "1929"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_nilton-santos": {
+  "qid": "Q83329",
+  "P569": [
+   "1925"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_rivelino": {
+  "qid": "Q220283",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_johan-neeskens": {
+  "qid": "Q233819",
+  "P569": [
+   "1951"
+  ],
+  "P570": [
+   "2024"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "legendes-du-football_karl-heinz-rummenigge": {
+  "qid": "Q152871",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "legendes-du-football_uwe-seeler": {
+  "qid": "Q44470",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "Allemagne de l'Ouest"
+  ]
+ },
+ "legendes-du-football_sepp-maier": {
+  "qid": "Q44194",
+  "P569": [
+   "1944"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "legendes-du-football_paul-breitner": {
+  "qid": "Q44458",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "legendes-du-football_oleg-blokhine": {
+  "qid": "Q186691",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Ukraine"
+  ]
+ },
+ "legendes-du-football_mario-kempes": {
+  "qid": "Q180649",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "Argentine"
+  ]
+ },
+ "legendes-du-football_daniel-passarella": {
+  "qid": "Q15802",
+  "P569": [
+   "1953"
+  ],
+  "P27": [
+   "Argentine"
+  ]
+ },
+ "legendes-du-football_larbi-benbarek": {
+  "qid": "Q609626",
+  "P569": [
+   "1917",
+   "1914"
+  ],
+  "P570": [
+   "1992"
+  ],
+  "P27": [
+   "Maroc"
+  ]
+ },
+ "legendes-du-football_gary-lineker": {
+  "qid": "Q47778",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_ian-rush": {
+  "qid": "Q219354",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-football_jean-tigana": {
+  "qid": "Q295559",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-football_alain-giresse": {
+  "qid": "Q312170",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-football_marius-tresor": {
+  "qid": "Q313405",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-football_zbigniew-boniek": {
+  "qid": "Q68039",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "Pologne"
+  ]
+ },
+ "legendes-du-football_josef-bican": {
+  "qid": "Q352017",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Autriche",
+   "Tchécoslovaquie",
+   "Cisleithanie"
+  ],
+  "P101": [
+   "football"
+  ]
+ },
+ "legendes-du-football_sandor-kocsis": {
+  "qid": "Q295265",
+  "P569": [
+   "1929"
+  ],
+  "P570": [
+   "1979"
+  ],
+  "P27": [
+   "Hongrie"
+  ]
+ },
+ "legendes-du-football_paolo-rossi-football": {
+  "qid": "Q178628",
+  "P569": [
+   "1956"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-football_luis-suarez-football-1935": {
+  "qid": "Q270367",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "legendes-du-football_leonidas": {
+  "qid": "Q311739",
+  "P569": [
+   "1913",
+   "1913"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "Brésil"
+  ]
+ },
+ "legendes-du-football_obdulio-varela": {
+  "qid": "Q471743",
+  "P569": [
+   "1917"
+  ],
+  "P570": [
+   "1996"
+  ],
+  "P27": [
+   "Uruguay"
+  ]
+ },
+ "legendes-du-football_enzo-francescoli": {
+  "qid": "Q210083",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Uruguay"
+  ]
+ },
+ "legendes-du-football_omar-sivori": {
+  "qid": "Q220700",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2005"
+  ],
+  "P27": [
+   "Argentine"
+  ]
+ },
+ "legendes-du-football_teofilo-cubillas": {
+  "qid": "Q311403",
+  "P569": [
+   "1949"
+  ],
+  "P27": [
+   "Pérou"
+  ]
+ },
+ "legendes-du-football_elias-figueroa": {
+  "qid": "Q310981",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "Chili"
+  ]
+ },
+ "legendes-du-football_salif-keita-football-1946": {
+  "qid": "Q964530",
+  "P569": [
+   "1946",
+   "1946",
+   "1946"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "Mali"
+  ]
+ }
+}

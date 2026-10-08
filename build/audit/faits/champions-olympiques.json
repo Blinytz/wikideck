@@ -1,0 +1,651 @@
+{
+ "champions-olympiques_jesse-owens": {
+  "qid": "Q52651",
+  "P569": [
+   "1913"
+  ],
+  "P570": [
+   "1980"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_carl-lewis": {
+  "qid": "Q131237",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_usain-bolt": {
+  "qid": "Q1189",
+  "P569": [
+   "1986"
+  ],
+  "P27": [
+   "Jamaïque"
+  ]
+ },
+ "champions-olympiques_michael-phelps": {
+  "qid": "Q39562",
+  "P569": [
+   "1985"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_mark-spitz": {
+  "qid": "Q180748",
+  "P569": [
+   "1950"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_nadia-comaneci": {
+  "qid": "Q33228",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Roumanie",
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_larissa-latynina": {
+  "qid": "Q22102",
+  "P569": [
+   "1934"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ]
+ },
+ "champions-olympiques_simone-biles": {
+  "qid": "Q7520267",
+  "P569": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis",
+   "Belize"
+  ]
+ },
+ "champions-olympiques_paavo-nurmi": {
+  "qid": "Q101942",
+  "P569": [
+   "1897"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Finlande",
+   "grand-duché de Finlande"
+  ]
+ },
+ "champions-olympiques_emil-zatopek": {
+  "qid": "Q52589",
+  "P569": [
+   "1922"
+  ],
+  "P570": [
+   "2000"
+  ],
+  "P27": [
+   "Tchécoslovaquie",
+   "Tchéquie"
+  ],
+  "P101": [
+   "athlétisme",
+   "domaine militaire"
+  ]
+ },
+ "champions-olympiques_abebe-bikila": {
+  "qid": "Q52596",
+  "P569": [
+   "1932",
+   "1932"
+  ],
+  "P570": [
+   "1973"
+  ],
+  "P27": [
+   "Éthiopie"
+  ]
+ },
+ "champions-olympiques_bob-beamon": {
+  "qid": "Q52604",
+  "P569": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_serguei-bubka": {
+  "qid": "Q184556",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Ukraine"
+  ]
+ },
+ "champions-olympiques_haile-gebrselassie": {
+  "qid": "Q171500",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "Éthiopie"
+  ]
+ },
+ "champions-olympiques_katie-ledecky": {
+  "qid": "Q137374",
+  "P569": [
+   "1997"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_ian-thorpe": {
+  "qid": "Q185044",
+  "P569": [
+   "1982"
+  ],
+  "P27": [
+   "Australie"
+  ]
+ },
+ "champions-olympiques_michael-johnson": {
+  "qid": "Q190924",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_florence-griffith-joyner": {
+  "qid": "Q31082",
+  "P569": [
+   "1959"
+  ],
+  "P570": [
+   "1998",
+   "1998"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_nikolai-andrianov": {
+  "qid": "Q219309",
+  "P569": [
+   "1952"
+  ],
+  "P570": [
+   "2011"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Russie"
+  ]
+ },
+ "champions-olympiques_birgit-fischer": {
+  "qid": "Q2151006",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "République démocratique allemande",
+   "Allemagne"
+  ]
+ },
+ "champions-olympiques_steve-redgrave": {
+  "qid": "Q52679",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "champions-olympiques_marit-bj-rgen": {
+  "qid": "Q216256",
+  "P569": [
+   "1980"
+  ],
+  "P27": [
+   "Norvège"
+  ]
+ },
+ "champions-olympiques_ole-einar-bj-rndalen": {
+  "qid": "Q189408",
+  "P569": [
+   "1974"
+  ],
+  "P27": [
+   "Norvège"
+  ]
+ },
+ "champions-olympiques_eric-heiden": {
+  "qid": "Q311289",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_jean-claude-killy": {
+  "qid": "Q11485",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_teofilo-stevenson": {
+  "qid": "Q508514",
+  "P569": [
+   "1952"
+  ],
+  "P570": [
+   "2012"
+  ],
+  "P27": [
+   "Cuba"
+  ]
+ },
+ "champions-olympiques_laszlo-papp": {
+  "qid": "Q296473",
+  "P569": [
+   "1926"
+  ],
+  "P570": [
+   "2003"
+  ],
+  "P27": [
+   "Hongrie"
+  ]
+ },
+ "champions-olympiques_alexander-kareline": {
+  "qid": "Q187247",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "Russie",
+   "Union soviétique"
+  ]
+ },
+ "champions-olympiques_kohei-uchimura": {
+  "qid": "Q316664",
+  "P569": [
+   "1989"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "champions-olympiques_allyson-felix": {
+  "qid": "Q5799",
+  "P569": [
+   "1985"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_teddy-riner": {
+  "qid": "Q353514",
+  "P569": [
+   "1989"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_marie-jose-perec": {
+  "qid": "Q228808",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_david-douillet": {
+  "qid": "Q725694",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_cathy-freeman": {
+  "qid": "Q234762",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "Australie"
+  ]
+ },
+ "champions-olympiques_fanny-blankers-koen": {
+  "qid": "Q229046",
+  "P569": [
+   "1918"
+  ],
+  "P570": [
+   "2004"
+  ],
+  "P27": [
+   "Royaume des Pays-Bas"
+  ]
+ },
+ "champions-olympiques_al-oerter": {
+  "qid": "Q52642",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2007"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_dick-fosbury": {
+  "qid": "Q310989",
+  "P569": [
+   "1947"
+  ],
+  "P570": [
+   "2023"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "fosbury-flop"
+  ],
+  "P101": [
+   "athlétisme",
+   "saut horizontal",
+   "saut en hauteur",
+   "sport olympique"
+  ]
+ },
+ "champions-olympiques_greg-louganis": {
+  "qid": "Q311332",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_naim-suleymanoglu": {
+  "qid": "Q311259",
+  "P569": [
+   "1967"
+  ],
+  "P570": [
+   "2017"
+  ],
+  "P27": [
+   "Bulgarie",
+   "Turquie"
+  ]
+ },
+ "champions-olympiques_wilma-rudolph": {
+  "qid": "Q31083",
+  "P569": [
+   "1940"
+  ],
+  "P570": [
+   "1994"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_jim-thorpe": {
+  "qid": "Q221482",
+  "P569": [
+   "1888"
+  ],
+  "P570": [
+   "1953"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_johnny-weissmuller": {
+  "qid": "Q151284",
+  "P569": [
+   "1904"
+  ],
+  "P570": [
+   "1984",
+   "1984"
+  ],
+  "P27": [
+   "États-Unis",
+   "Hongrie"
+  ]
+ },
+ "champions-olympiques_vera-caslavska": {
+  "qid": "Q229503",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "Tchécoslovaquie",
+   "Tchéquie"
+  ],
+  "P101": [
+   "gymnastique",
+   "éducation physique et sportive",
+   "sport"
+  ]
+ },
+ "champions-olympiques_olga-korbut": {
+  "qid": "Q221575",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "Union soviétique",
+   "Biélorussie",
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_sebastian-coe": {
+  "qid": "Q188502",
+  "P569": [
+   "1956",
+   "1956"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "champions-olympiques_mohamed-farah": {
+  "qid": "Q1671",
+  "P569": [
+   "1983"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "champions-olympiques_eliud-kipchoge": {
+  "qid": "Q9124",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "Kenya"
+  ]
+ },
+ "champions-olympiques_alain-mimoun": {
+  "qid": "Q435068",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "2013"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_edwin-moses": {
+  "qid": "Q52620",
+  "P569": [
+   "1955"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_shelly-ann-fraser-pryce": {
+  "qid": "Q5793",
+  "P569": [
+   "1986"
+  ],
+  "P27": [
+   "Jamaïque"
+  ]
+ },
+ "champions-olympiques_jackie-joyner-kersee": {
+  "qid": "Q209390",
+  "P569": [
+   "1962"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_armand-duplantis": {
+  "qid": "Q20740797",
+  "P569": [
+   "1999"
+  ],
+  "P27": [
+   "Suède",
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_sonja-henie": {
+  "qid": "Q204205",
+  "P569": [
+   "1912"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "Norvège",
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_katarina-witt": {
+  "qid": "Q58028",
+  "P569": [
+   "1965",
+   "1964"
+  ],
+  "P27": [
+   "Allemagne",
+   "République démocratique allemande"
+  ]
+ },
+ "champions-olympiques_yuzuru-hanyu": {
+  "qid": "Q597023",
+  "P569": [
+   "1994"
+  ],
+  "P27": [
+   "Japon"
+  ]
+ },
+ "champions-olympiques_toni-sailer": {
+  "qid": "Q310471",
+  "P569": [
+   "1935"
+  ],
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "Autriche"
+  ]
+ },
+ "champions-olympiques_shaun-white": {
+  "qid": "Q288656",
+  "P569": [
+   "1986"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "champions-olympiques_martin-fourcade": {
+  "qid": "Q359348",
+  "P569": [
+   "1988"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "biathlon"
+  ]
+ },
+ "champions-olympiques_leon-marchand": {
+  "qid": "Q63246909",
+  "P569": [
+   "2002"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_laure-manaudou": {
+  "qid": "Q45659",
+  "P569": [
+   "1986"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "champions-olympiques_tony-estanguet": {
+  "qid": "Q316224",
+  "P569": [
+   "1978"
+  ],
+  "P27": [
+   "France"
+  ]
+ }
+}

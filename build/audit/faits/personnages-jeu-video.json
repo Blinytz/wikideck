@@ -1,0 +1,969 @@
+{
+ "personnages-jeu-video_mario-personnage": {
+  "qid": "Q12379",
+  "P27": [
+   "Royaume Champignon",
+   "États-Unis"
+  ],
+  "P170": [
+   "Shigeru Miyamoto"
+  ],
+  "P571": [
+   "1981"
+  ]
+ },
+ "personnages-jeu-video_luigi": {
+  "qid": "Q210593",
+  "P170": [
+   "Shigeru Miyamoto"
+  ],
+  "P527": [
+   "Bébé Luigi"
+  ]
+ },
+ "personnages-jeu-video_bowser": {
+  "qid": "Q845864",
+  "P170": [
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_princesse-peach": {
+  "qid": "Q507001",
+  "P27": [
+   "Royaume Champignon"
+  ],
+  "P170": [
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_link-the-legend-of-zelda": {
+  "qid": "Q568553",
+  "P27": [
+   "Hyrule"
+  ],
+  "P170": [
+   "Shigeru Miyamoto"
+  ],
+  "P527": [
+   "incarnation of Link"
+  ]
+ },
+ "personnages-jeu-video_princesse-zelda": {
+  "qid": "Q1067046",
+  "P27": [
+   "Hyrule"
+  ],
+  "P170": [
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_ganon": {
+  "qid": "Q545044",
+  "P170": [
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_sonic": {
+  "qid": "Q191626",
+  "P170": [
+   "Yūji Naka",
+   "Naoto Ōshima",
+   "Hirokazu Yasuhara",
+   "Yūji Uekawa",
+   "Sega",
+   "Diffusion Information Communication"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "personnages-jeu-video_kirby-personnage": {
+  "qid": "Q613241",
+  "P170": [
+   "Masahiro Sakurai"
+  ]
+ },
+ "personnages-jeu-video_pikachu": {
+  "qid": "Q9351",
+  "P170": [
+   "Atsuko Nishida"
+  ]
+ },
+ "personnages-jeu-video_spartan-john-117": {
+  "qid": "Q652022",
+  "P569": [
+   "2517"
+  ]
+ },
+ "personnages-jeu-video_lara-croft": {
+  "qid": "Q223684",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Toby Gard"
+  ]
+ },
+ "personnages-jeu-video_solid-snake": {
+  "qid": "Q1621656",
+  "P569": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "aide humanitaire",
+   "auto-justice",
+   "antiterrorisme",
+   "émancipation",
+   "désarmement nucléaire",
+   "Contre-surveillance"
+  ],
+  "P170": [
+   "Hideo Kojima"
+  ]
+ },
+ "personnages-jeu-video_kratos-god-of-war": {
+  "qid": "Q2291154",
+  "P27": [
+   "Grèce"
+  ],
+  "P170": [
+   "David Jaffe"
+  ],
+  "P577": [
+   "2005"
+  ]
+ },
+ "personnages-jeu-video_ezio-auditore-da-firenze": {
+  "qid": "Q994344",
+  "P569": [
+   "1459"
+  ],
+  "P570": [
+   "1524"
+  ],
+  "P27": [
+   "République florentine"
+  ],
+  "P170": [
+   "Q188273"
+  ]
+ },
+ "personnages-jeu-video_gordon-freeman": {
+  "qid": "Q907",
+  "P569": [
+   "1970",
+   "1980"
+  ],
+  "P27": [
+   "Cité 17"
+  ],
+  "P170": [
+   "Gabe Newell"
+  ]
+ },
+ "personnages-jeu-video_cloud-strife": {
+  "qid": "Q1798592",
+  "P569": [
+   "1986"
+  ],
+  "P101": [
+   "écoterrorisme"
+  ],
+  "P170": [
+   "Tetsuya Nomura"
+  ]
+ },
+ "personnages-jeu-video_sephiroth-final-fantasy": {
+  "qid": "Q649546",
+  "P170": [
+   "Tetsuya Nomura"
+  ]
+ },
+ "personnages-jeu-video_chun-li": {
+  "qid": "Q1945499",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P170": [
+   "Akira Nishitani"
+  ]
+ },
+ "personnages-jeu-video_ryu-street-fighter": {
+  "qid": "Q1223440",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Japon"
+  ],
+  "P170": [
+   "Takashi Nishiyama"
+  ]
+ },
+ "personnages-jeu-video_samus-aran": {
+  "qid": "Q12400",
+  "P170": [
+   "Makoto Kanoh"
+  ]
+ },
+ "personnages-jeu-video_donkey-kong-personnage": {
+  "qid": "Q12389",
+  "P170": [
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_yoshi": {
+  "qid": "Q214174",
+  "P170": [
+   "Shigefumi Hino",
+   "Shigeru Miyamoto"
+  ]
+ },
+ "personnages-jeu-video_crash-bandicoot-personnage": {
+  "qid": "Q1063506",
+  "P170": [
+   "Andy Gavin",
+   "Jason Rubin"
+  ]
+ },
+ "personnages-jeu-video_spyro": {
+  "qid": "Q3300732",
+  "P170": [
+   "Charles Zembillas"
+  ],
+  "P571": [
+   "1998"
+  ]
+ },
+ "personnages-jeu-video_47-hitman": {
+  "qid": "Q1996431",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Roumanie",
+   "États-Unis",
+   "Royaume-Uni",
+   "Allemagne",
+   "Suisse"
+  ],
+  "P170": [
+   "Q746059"
+  ]
+ },
+ "personnages-jeu-video_nathan-drake-personnage": {
+  "qid": "Q568463",
+  "P569": [
+   "1975"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Amy Hennig"
+  ],
+  "P577": [
+   "2005"
+  ]
+ },
+ "personnages-jeu-video_aloy": {
+  "qid": "Q53737957"
+ },
+ "personnages-jeu-video_arthur-morgan-red-dead-redemption-ii": {
+  "qid": "Q58881083",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1899"
+  ]
+ },
+ "personnages-jeu-video_commandant-shepard": {
+  "qid": "Q3683919",
+  "P571": [
+   "2007"
+  ]
+ },
+ "personnages-jeu-video_fallout": {
+  "qid": "Q167835",
+  "P170": [
+   "Tim Cain"
+  ],
+  "P136": [
+   "jeu vidéo postapocalyptique"
+  ],
+  "P527": [
+   "Q60102",
+   "Q910938",
+   "Fallout Tactics",
+   "Fallout: Brotherhood of Steel",
+   "Q221164",
+   "Fallout: New Vegas",
+   "Q10493813",
+   "Fallout Shelter",
+   "Fallout 76"
+  ]
+ },
+ "personnages-jeu-video_duke-nukem": {
+  "qid": "Q2722692",
+  "P569": [
+   "1967"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "George Broussard",
+   "Scott Miller",
+   "Todd Replogle"
+  ]
+ },
+ "personnages-jeu-video_geralt-de-riv": {
+  "qid": "Q2492923",
+  "P27": [
+   "Kaedwen"
+  ],
+  "P170": [
+   "Andrzej Sapkowski"
+  ]
+ },
+ "personnages-jeu-video_pac-man": {
+  "qid": "Q173626",
+  "P170": [
+   "Tōru Iwatani"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1980",
+   "1980",
+   "1993",
+   "1988",
+   "1984"
+  ],
+  "P136": [
+   "jeu de labyrinthe"
+  ]
+ },
+ "personnages-jeu-video_rayman-personnage": {
+  "qid": "Q1089230",
+  "P170": [
+   "Michel Ancel"
+  ]
+ },
+ "personnages-jeu-video_mega-man-personnage": {
+  "qid": "Q3174269"
+ },
+ "personnages-jeu-video_sub-zero": {
+  "qid": "Q388796",
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P170": [
+   "Ed Boon",
+   "John Tobias"
+  ]
+ },
+ "personnages-jeu-video_scorpion-mortal-kombat": {
+  "qid": "Q584674",
+  "P27": [
+   "Japon",
+   "république populaire de Chine"
+  ],
+  "P170": [
+   "John Tobias",
+   "Ed Boon"
+  ]
+ },
+ "personnages-jeu-video_ellie-the-last-of-us": {
+  "qid": "Q20715989",
+  "P569": [
+   "2019"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Neil Druckmann",
+   "Bruce Straley"
+  ]
+ },
+ "personnages-jeu-video_joel-miller": {
+  "qid": "Q56012236",
+  "P569": [
+   "1981"
+  ],
+  "P570": [
+   "2038"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Neil Druckmann"
+  ]
+ },
+ "personnages-jeu-video_leon-s-kennedy": {
+  "qid": "Q1138965",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Hideki Kamiya",
+   "Shinji Mikami"
+  ]
+ },
+ "personnages-jeu-video_jill-valentine": {
+  "qid": "Q840368",
+  "P569": [
+   "1974"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Shinji Mikami"
+  ]
+ },
+ "personnages-jeu-video_alucard-castlevania": {
+  "qid": "Q2840528",
+  "P569": [
+   "1500"
+  ],
+  "P27": [
+   "Principauté de Transylvanie"
+  ]
+ },
+ "personnages-jeu-video_simon-belmont": {
+  "qid": "Q6128744"
+ },
+ "personnages-jeu-video_bayonetta": {
+  "qid": "Q20062305",
+  "P136": [
+   "jeu d'action"
+  ],
+  "P527": [
+   "Bayonetta",
+   "Bayonetta 2",
+   "Bayonetta 3",
+   "Bayonetta Origins: Cereza and the Lost Demon",
+   "8-Bit Bayonetta"
+  ]
+ },
+ "personnages-jeu-video_sora-kingdom-hearts": {
+  "qid": "Q2089970",
+  "P170": [
+   "Tetsuya Nomura"
+  ],
+  "P571": [
+   "2002"
+  ]
+ },
+ "personnages-jeu-video_steve-minecraft": {
+  "qid": "Q104901351",
+  "P170": [
+   "Markus Persson"
+  ],
+  "P571": [
+   "2009"
+  ]
+ },
+ "personnages-jeu-video_creeper-dc-comics": {
+  "qid": "Q612720",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Steve Ditko",
+   "Don Segall"
+  ]
+ },
+ "personnages-jeu-video_ratchet-and-clank": {
+  "qid": "Q5170139",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2002"
+  ],
+  "P136": [
+   "jeu de plates-formes",
+   "jeu vidéo de science-fiction",
+   "space opera video game",
+   "jeu de tir à la troisième personne"
+  ],
+  "P527": [
+   "Ratchet & Clank",
+   "Ratchet and Clank 2",
+   "Ratchet and Clank 3",
+   "Ratchet: Gladiator",
+   "Ratchet and Clank: Going Mobile",
+   "Ratchet and Clank : La taille, ça compte",
+   "Ratchet and Clank : Opération Destruction",
+   "Secret Agent Clank",
+   "Ratchet and Clank: Quest for Booty",
+   "Ratchet and Clank: A Crack in Time",
+   "Ratchet and Clank: All 4 One",
+   "The Ratchet and Clank Trilogy",
+   "Ratchet and Clank: Q-Force",
+   "Ratchet and Clank: Into the Nexus",
+   "Ratchet and Clank: Before the Nexus",
+   "Ratchet and Clank",
+   "Ratchet and Clank: Rift Apart"
+  ]
+ },
+ "personnages-jeu-video_pyramid-head": {
+  "qid": "Q752835",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "horreur psychologique"
+  ]
+ },
+ "personnages-jeu-video_2b": {
+  "qid": "Q21078985",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2017",
+   "2022",
+   "2018",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "action-RPG",
+   "hack and slash",
+   "character-action video game",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "personnages-jeu-video_sackboy": {
+  "qid": "Q6579517",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion",
+   "jeu de plates-formes"
+  ]
+ },
+ "personnages-jeu-video_big-daddy": {
+  "qid": "Q4914658",
+  "P50": [
+   "Ken Levine"
+  ],
+  "P577": [
+   "2007"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ],
+  "P527": [
+   "BioShock Infinite"
+  ]
+ },
+ "personnages-jeu-video_nemesis": {
+  "qid": "Q739784",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "1999"
+  ],
+  "P136": [
+   "survival horror"
+  ]
+ },
+ "personnages-jeu-video_cuphead-personnage": {
+  "qid": "Q18149495",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2017",
+   "2018",
+   "2019",
+   "2020"
+  ],
+  "P136": [
+   "jeu de plates-formes",
+   "Run & Gun"
+  ]
+ },
+ "personnages-jeu-video_wario": {
+  "qid": "Q536138",
+  "P527": [
+   "Bébé Wario"
+  ]
+ },
+ "personnages-jeu-video_toad": {
+  "qid": "Q1061603"
+ },
+ "personnages-jeu-video_personnages-de-the-legend-of-zelda": {
+  "qid": "Q2698862"
+ },
+ "personnages-jeu-video_fox-mccloud": {
+  "qid": "Q2081430",
+  "P170": [
+   "Shigeru Miyamoto",
+   "Takaya Imamura"
+  ]
+ },
+ "personnages-jeu-video_captain-falcon": {
+  "qid": "Q2340460",
+  "P170": [
+   "Takaya Imamura"
+  ]
+ },
+ "personnages-jeu-video_pit-kid-icarus": {
+  "qid": "Q2270749",
+  "P527": [
+   "aile"
+  ]
+ },
+ "personnages-jeu-video_tom-nook": {
+  "qid": "Q7817054",
+  "P170": [
+   "Nintendo Entertainment Analysis and Development"
+  ]
+ },
+ "personnages-jeu-video_marie-animal-crossing": {
+  "qid": "Q59220438",
+  "P170": [
+   "Nintendo Entertainment Analysis and Development"
+  ]
+ },
+ "personnages-jeu-video_mewtwo": {
+  "qid": "Q2141803"
+ },
+ "personnages-jeu-video_salameche-et-ses-evolutions": {
+  "qid": "Q12013598",
+  "P527": [
+   "Salamèche",
+   "Reptincel",
+   "Dracaufeu",
+   "Méga-Dracaufeu X",
+   "Méga-Dracaufeu Y"
+  ]
+ },
+ "personnages-jeu-video_toudoudou-et-ses-evolutions": {
+  "qid": "Q12127197",
+  "P527": [
+   "Toudoudou",
+   "Rondoudou",
+   "Grodoudou"
+  ]
+ },
+ "personnages-jeu-video_evoli-et-ses-evolutions": {
+  "qid": "Q12357586",
+  "P527": [
+   "Évoli",
+   "Aquali",
+   "Voltali",
+   "Pyroli",
+   "Mentali",
+   "Noctali",
+   "Phyllali",
+   "Givrali",
+   "Nymphali"
+  ]
+ },
+ "personnages-jeu-video_tails-sonic-the-hedgehog": {
+  "qid": "Q194135",
+  "P170": [
+   "Yasushi Yamaguchi"
+  ]
+ },
+ "personnages-jeu-video_knuckles": {
+  "qid": "Q904189"
+ },
+ "personnages-jeu-video_eggman": {
+  "qid": "Q1996763",
+  "P569": [
+   "1990"
+  ],
+  "P170": [
+   "Naoto Ōshima"
+  ],
+  "P571": [
+   "1991"
+  ]
+ },
+ "personnages-jeu-video_shadow-sonic": {
+  "qid": "Q1136987",
+  "P170": [
+   "Takashi Iizuka"
+  ]
+ },
+ "personnages-jeu-video_ken-masters": {
+  "qid": "Q11020382",
+  "P569": [
+   "1965"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "personnages-jeu-video_m-bison": {
+  "qid": "Q31378",
+  "P27": [
+   "Thaïlande"
+  ]
+ },
+ "personnages-jeu-video_raiden-mortal-kombat": {
+  "qid": "Q1245404",
+  "P170": [
+   "John Tobias"
+  ]
+ },
+ "personnages-jeu-video_liu-kang": {
+  "qid": "Q2266023",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "république populaire de Chine"
+  ],
+  "P170": [
+   "John Tobias"
+  ]
+ },
+ "personnages-jeu-video_heihachi-mishima": {
+  "qid": "Q1980338",
+  "P27": [
+   "Japon"
+  ],
+  "P170": [
+   "Seiichi Ishii"
+  ]
+ },
+ "personnages-jeu-video_dante-devil-may-cry": {
+  "qid": "Q901893",
+  "P170": [
+   "Hideki Kamiya"
+  ],
+  "P571": [
+   "2001"
+  ]
+ },
+ "personnages-jeu-video_yakuza-jeu-video": {
+  "qid": "Q1608476",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2005"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "personnages-jeu-video_tifa-lockhart": {
+  "qid": "Q1199059",
+  "P101": [
+   "écoterrorisme"
+  ],
+  "P170": [
+   "Tetsuya Nomura"
+  ]
+ },
+ "personnages-jeu-video_aerith-gainsborough": {
+  "qid": "Q2294772",
+  "P569": [
+   "1985"
+  ],
+  "P170": [
+   "Yoshinori Kitase"
+  ]
+ },
+ "personnages-jeu-video_chocobo": {
+  "qid": "Q1910444",
+  "P170": [
+   "Hironobu Sakaguchi"
+  ]
+ },
+ "personnages-jeu-video_carl-johnson-grand-theft-auto": {
+  "qid": "Q376682",
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Q94893"
+  ]
+ },
+ "personnages-jeu-video_niko-bellic": {
+  "qid": "Q1774685",
+  "P27": [
+   "république fédérative socialiste de Yougoslavie",
+   "Serbie"
+  ]
+ },
+ "personnages-jeu-video_trevor-philips": {
+  "qid": "Q15622224",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "Canada"
+  ],
+  "P170": [
+   "Q94893"
+  ]
+ },
+ "personnages-jeu-video_tommy-vercetti": {
+  "qid": "Q2725594",
+  "P569": [
+   "1952"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Q94893",
+   "Q94912"
+  ]
+ },
+ "personnages-jeu-video_red-dead-redemption": {
+  "qid": "Q548203",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2010",
+   "2010",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "personnages-jeu-video_altair-ibn-la-ahad": {
+  "qid": "Q4063579",
+  "P569": [
+   "1165"
+  ],
+  "P570": [
+   "1257"
+  ],
+  "P170": [
+   "Q188273"
+  ]
+ },
+ "personnages-jeu-video_albert-wesker": {
+  "qid": "Q1146291",
+  "P569": [
+   "1960"
+  ],
+  "P570": [
+   "2009"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Shinji Mikami"
+  ]
+ },
+ "personnages-jeu-video_chris-redfield": {
+  "qid": "Q587387",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P170": [
+   "Shinji Mikami"
+  ]
+ },
+ "personnages-jeu-video_dead-space-jeu-video": {
+  "qid": "Q729074",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu de tir à la troisième personne",
+   "horreur psychologique",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "personnages-jeu-video_cortana-personnage": {
+  "qid": "Q2744250",
+  "P569": [
+   "2001"
+  ],
+  "P170": [
+   "Bungie Studios"
+  ]
+ },
+ "personnages-jeu-video_glados": {
+  "qid": "Q605125",
+  "P170": [
+   "Erik Wolpaw",
+   "Kim Swift"
+  ],
+  "P276": [
+   "Aperture Science Enrichment Center"
+  ]
+ },
+ "personnages-jeu-video_tracer-overwatch": {
+  "qid": "Q25204271",
+  "P27": [
+   "Royaume-Uni"
+  ],
+  "P170": [
+   "Blizzard Entertainment"
+  ]
+ },
+ "personnages-jeu-video_jinx-league-of-legends": {
+  "qid": "Q100255008",
+  "P577": [
+   "2013"
+  ]
+ },
+ "personnages-jeu-video_malenia": {
+  "qid": "Q6743092",
+  "P131": [
+   "Buczek"
+  ],
+  "P17": [
+   "Pologne"
+  ]
+ }
+}

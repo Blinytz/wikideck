@@ -1,0 +1,1964 @@
+{
+ "jeu-video-moderne_halo-combat-evolved": {
+  "qid": "Q276217",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "jeu-video-moderne_grand-theft-auto-san-andreas": {
+  "qid": "Q83265",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2004",
+   "2005",
+   "2008",
+   "2010",
+   "2012"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de tir à la troisième personne"
+  ]
+ },
+ "jeu-video-moderne_world-of-warcraft": {
+  "qid": "Q131007",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2004",
+   "2005",
+   "2005",
+   "2005",
+   "2005",
+   "2008"
+  ],
+  "P136": [
+   "jeu de rôle en ligne massivement multijoueur",
+   "high fantasy",
+   "jeu vidéo de fantasy"
+  ]
+ },
+ "jeu-video-moderne_les-sims": {
+  "qid": "Q4897444",
+  "P170": [
+   "Will Wright"
+  ],
+  "P136": [
+   "jeu de simulation de vie"
+  ],
+  "P527": [
+   "Les Sims",
+   "Les Sims 2",
+   "Les Sims 3",
+   "Les Sims 4",
+   "Les Sims Mobile",
+   "SimsVille",
+   "Les Sims Online",
+   "Les Sims: Permis de sortir",
+   "Les Urbz : Les Sims in the City",
+   "The Sims 2: Pets",
+   "Les Sims 2 : Naufragés",
+   "Les Sims 2 : Mes petits compagnons",
+   "The Sims DJ",
+   "The Sims Bowling",
+   "The Sims Pool",
+   "Histoires de Sims",
+   "MySims",
+   "The Sims 3: World Adventures Mobile",
+   "The Sims 3: Ambitions Mobile",
+   "The Sims 3: Pets",
+   "Les Sims Medieval",
+   "The Sims Social",
+   "Les Sims Freeplay"
+  ]
+ },
+ "jeu-video-moderne_half-life-2": {
+  "qid": "Q193581",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2004",
+   "2005",
+   "2005",
+   "2013",
+   "2010"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction",
+   "jeu vidéo postapocalyptique",
+   "science fiction horror"
+  ]
+ },
+ "jeu-video-moderne_shadow-of-the-colossus": {
+  "qid": "Q846051",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2005"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_god-of-war": {
+  "qid": "Q390137",
+  "P571": [
+   "2005"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P136": [
+   "hack and slash",
+   "jeu d'action-aventure"
+  ],
+  "P527": [
+   "God of War: Ascension",
+   "God of War: Chains of Olympus",
+   "God of War",
+   "God of War: Ghost of Sparta",
+   "God of War: Betrayal",
+   "God of War II",
+   "God of War III",
+   "Q18345138",
+   "Q99397916"
+  ]
+ },
+ "jeu-video-moderne_resident-evil-4": {
+  "qid": "Q275950",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2005",
+   "2005",
+   "2014",
+   "2007",
+   "2007",
+   "2007",
+   "2007"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de tir à la troisième personne",
+   "survival horror"
+  ]
+ },
+ "jeu-video-moderne_portal-jeu-video": {
+  "qid": "Q274897",
+  "P170": [
+   "Valve Corporation"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P50": [
+   "Erik Wolpaw",
+   "Chet Faliszek",
+   "Kim Swift"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2010",
+   "2013",
+   "2007"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion",
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_bioshock": {
+  "qid": "Q4914658",
+  "P50": [
+   "Ken Levine"
+  ],
+  "P577": [
+   "2007"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ],
+  "P527": [
+   "BioShock Infinite"
+  ]
+ },
+ "jeu-video-moderne_call-of-duty-4-modern-warfare": {
+  "qid": "Q76255",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2009",
+   "2008",
+   "2011",
+   "2009",
+   "2016"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "jeu-video-moderne_the-elder-scrolls-iv-oblivion": {
+  "qid": "Q49607",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2006",
+   "2006",
+   "2006",
+   "2007",
+   "2007",
+   "2006",
+   "2009"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "action-RPG"
+  ]
+ },
+ "jeu-video-moderne_guitar-hero-serie-de-jeux-video": {
+  "qid": "Q533752",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2005"
+  ],
+  "P136": [
+   "jeu vidéo musical",
+   "jeu de rythme"
+  ],
+  "P527": [
+   "Guitar Hero",
+   "Guitar Hero II",
+   "Guitar Hero Live",
+   "Guitar Hero 3: Legends of Rock",
+   "Guitar Hero: World Tour"
+  ]
+ },
+ "jeu-video-moderne_katamari-damacy": {
+  "qid": "Q1206519",
+  "P170": [
+   "Keita Takahashi"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2004"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion"
+  ]
+ },
+ "jeu-video-moderne_ico-jeu-video": {
+  "qid": "Q1324448",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_minecraft": {
+  "qid": "Q49740",
+  "P170": [
+   "Markus Persson"
+  ],
+  "P195": [
+   "Museum of Modern Art"
+  ],
+  "P495": [
+   "Suède"
+  ],
+  "P577": [
+   "2011",
+   "2009"
+  ],
+  "P136": [
+   "jeu de survie",
+   "jeu d'action-aventure",
+   "jeu sandbox",
+   "retro-style video game",
+   "jeu de gestion"
+  ]
+ },
+ "jeu-video-moderne_dark-souls": {
+  "qid": "Q99431276",
+  "P170": [
+   "Hidetaka Miyazaki"
+  ],
+  "P136": [
+   "action-RPG"
+  ],
+  "P527": [
+   "Q1166232",
+   "Dark Souls: Remastered",
+   "Dark Souls II",
+   "Dark Souls III"
+  ]
+ },
+ "jeu-video-moderne_the-witcher-3-wild-hunt": {
+  "qid": "Q4267401",
+  "P495": [
+   "Pologne"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2021",
+   "2021"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de fantasy"
+  ]
+ },
+ "jeu-video-moderne_the-elder-scrolls-v-skyrim": {
+  "qid": "Q323862",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2011"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "action-RPG",
+   "jeu vidéo de fantasy",
+   "jeu d'action-aventure",
+   "jeu vidéo avec des personnages LGBT"
+  ]
+ },
+ "jeu-video-moderne_portal-2": {
+  "qid": "Q279446",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2011",
+   "2014",
+   "2011"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion",
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_journey-jeu-video-2012": {
+  "qid": "Q677274",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2012",
+   "2012",
+   "2012",
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "art game",
+   "walking simulator"
+  ]
+ },
+ "jeu-video-moderne_the-last-of-us": {
+  "qid": "Q28062624",
+  "P170": [
+   "Neil Druckmann",
+   "Bruce Straley"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2013",
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2014",
+   "2020",
+   "2022",
+   "2023"
+  ],
+  "P136": [
+   "survival horror",
+   "jeu d'infiltration",
+   "jeu d'action-aventure"
+  ],
+  "P527": [
+   "Q1986744",
+   "Q19880755",
+   "Q19057897",
+   "Q27950674",
+   "Q113377532"
+  ]
+ },
+ "jeu-video-moderne_undertale": {
+  "qid": "Q21039924",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2015",
+   "2016",
+   "2017",
+   "2018",
+   "2018",
+   "2021"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "jeu vidéo de réflexion",
+   "jeu vidéo avec des personnages LGBT",
+   "manic shooter",
+   "jeu vidéo du comédie"
+  ]
+ },
+ "jeu-video-moderne_overwatch": {
+  "qid": "Q18515944",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo de science-fiction",
+   "hero shooter"
+  ]
+ },
+ "jeu-video-moderne_fortnite": {
+  "qid": "Q349375",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2017"
+  ],
+  "P136": [
+   "jeu de survie",
+   "battle royale",
+   "jeu sandbox"
+  ],
+  "P527": [
+   "Fortnite : Sauver le monde",
+   "Q50822580",
+   "Fortnite Créatif"
+  ]
+ },
+ "jeu-video-moderne_league-of-legends": {
+  "qid": "Q223341",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2009"
+  ],
+  "P136": [
+   "arène de bataille en ligne multijoueur"
+  ],
+  "P527": [
+   "League of Legends mythical object"
+  ]
+ },
+ "jeu-video-moderne_dota-2": {
+  "qid": "Q771541",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2013"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "jeu d'action",
+   "arène de bataille en ligne multijoueur"
+  ]
+ },
+ "jeu-video-moderne_stardew-valley": {
+  "qid": "Q23013817",
+  "P170": [
+   "Eric Barone"
+  ],
+  "P571": [
+   "2012"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2017",
+   "2017",
+   "2017",
+   "2018",
+   "2018",
+   "2018",
+   "2019",
+   "2026",
+   "2025"
+  ],
+  "P136": [
+   "farm life sim",
+   "jeu vidéo de simulation",
+   "jeu vidéo de rôle",
+   "jeu de simulation de vie",
+   "jeu vidéo de simulation agricole"
+  ]
+ },
+ "jeu-video-moderne_celeste-jeu-video": {
+  "qid": "Q28451532",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2018",
+   "2018"
+  ],
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "jeu-video-moderne_hollow-knight": {
+  "qid": "Q29300592",
+  "P495": [
+   "Australie"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2018",
+   "2018",
+   "2026"
+  ],
+  "P136": [
+   "metroidvania",
+   "jeu vidéo avec des personnages LGBT",
+   "jeu de plates-formes 2D",
+   "soulsvania"
+  ]
+ },
+ "jeu-video-moderne_the-legend-of-zelda-breath-of-the-wild": {
+  "qid": "Q17185964",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2017"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu vidéo de rôle",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_red-dead-redemption-ii": {
+  "qid": "Q27438121",
+  "P495": [
+   "États-Unis",
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2018",
+   "2019",
+   "2019",
+   "2019"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_god-of-war-jeu-video-2018": {
+  "qid": "Q18345138",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2018",
+   "2022"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_cuphead": {
+  "qid": "Q18149495",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2017",
+   "2018",
+   "2019",
+   "2020"
+  ],
+  "P136": [
+   "jeu de plates-formes",
+   "Run & Gun"
+  ]
+ },
+ "jeu-video-moderne_dishonored": {
+  "qid": "Q98649769",
+  "P495": [
+   "France"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ],
+  "P527": [
+   "Dishonored",
+   "Dishonored 2"
+  ]
+ },
+ "jeu-video-moderne_bloodborne": {
+  "qid": "Q17154554",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "action-RPG",
+   "soulslike",
+   "survival horror",
+   "dark fantasy video game"
+  ]
+ },
+ "jeu-video-moderne_elden-ring": {
+  "qid": "Q64826862",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2022",
+   "2026"
+  ],
+  "P136": [
+   "action-RPG",
+   "soulslike",
+   "dark fantasy video game"
+  ]
+ },
+ "jeu-video-moderne_baldur-s-gate-iii": {
+  "qid": "Q64441774",
+  "P495": [
+   "Belgique"
+  ],
+  "P577": [
+   "2023",
+   "2023",
+   "2023",
+   "2023",
+   "2020",
+   "2025"
+  ],
+  "P136": [
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_hades-jeu-video": {
+  "qid": "Q59756366",
+  "P170": [
+   "Supergiant Games"
+  ],
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2020",
+   "2018"
+  ],
+  "P136": [
+   "action-RPG",
+   "roguelite",
+   "roguelike"
+  ]
+ },
+ "jeu-video-moderne_outer-wilds": {
+  "qid": "Q19631660",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019",
+   "2019",
+   "2019",
+   "2022"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu vidéo de science-fiction",
+   "Metroidbrainia"
+  ]
+ },
+ "jeu-video-moderne_disco-elysium": {
+  "qid": "Q71693825",
+  "P495": [
+   "Estonie",
+   "Royaume-Uni"
+  ],
+  "P50": [
+   "Robert Kurvitz",
+   "Helen Hindpere"
+  ],
+  "P577": [
+   "2019",
+   "2020",
+   "2021",
+   "2021"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "neo-noir video game",
+   "jeu vidéo politique"
+  ]
+ },
+ "jeu-video-moderne_among-us": {
+  "qid": "Q96417649",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2018",
+   "2018",
+   "2018",
+   "2018",
+   "2020",
+   "2021",
+   "2021",
+   "2020"
+  ],
+  "P136": [
+   "party game",
+   "jeu vidéo de déduction sociale",
+   "jeu vidéo de science-fiction",
+   "jeu occasionnel"
+  ],
+  "P527": [
+   "dialogue en ligne",
+   "collector's edition",
+   "niveau",
+   "skin",
+   "animal de compagnie virtuel",
+   "tâche"
+  ]
+ },
+ "jeu-video-moderne_animal-crossing-new-horizons": {
+  "qid": "Q64566657",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2020",
+   "2026"
+  ],
+  "P136": [
+   "jeu de simulation de vie"
+  ],
+  "P527": [
+   "Animal Crossing : New Horizons – Happy Home Paradise"
+  ]
+ },
+ "jeu-video-moderne_it-takes-two-jeu-video": {
+  "qid": "Q105038239",
+  "P495": [
+   "Suède"
+  ],
+  "P577": [
+   "2021",
+   "2022",
+   "2026"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de plates-formes"
+  ]
+ },
+ "jeu-video-moderne_hades-ii": {
+  "qid": "Q115641620",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2024",
+   "2024",
+   "2025",
+   "2026"
+  ],
+  "P136": [
+   "roguelike"
+  ]
+ },
+ "jeu-video-moderne_balatro": {
+  "qid": "Q124357469",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2024",
+   "2024",
+   "2024",
+   "2026"
+  ],
+  "P136": [
+   "jeu de construction de paquet de cartes roguelike"
+  ]
+ },
+ "jeu-video-moderne_no-man-s-sky": {
+  "qid": "Q15297043",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2018",
+   "2020",
+   "2020",
+   "2022",
+   "2023",
+   "2025"
+  ],
+  "P136": [
+   "jeu de survie",
+   "jeu d'action-aventure",
+   "simulateur de vol spatial",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_grand-theft-auto-v": {
+  "qid": "Q17452",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2013",
+   "2013",
+   "2014",
+   "2015",
+   "2022"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de tir en vue subjective",
+   "jeu de tir à la troisième personne",
+   "jeu vidéo de simulation"
+  ],
+  "P527": [
+   "Blonded Los Santos 97.8 FM"
+  ]
+ },
+ "jeu-video-moderne_assassin-s-creed-ii": {
+  "qid": "Q211735",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2009",
+   "2010",
+   "2010",
+   "2010",
+   "2010",
+   "2011",
+   "2009"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu d'infiltration",
+   "jeu de tir à la troisième personne",
+   "jeu vidéo historique"
+  ]
+ },
+ "jeu-video-moderne_fallout-3": {
+  "qid": "Q221164",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu de tir en vue subjective",
+   "jeu de tir à la troisième personne",
+   "jeu vidéo de rôle",
+   "jeu vidéo avec des personnages LGBT",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_uncharted-2-among-thieves": {
+  "qid": "Q17146",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2009",
+   "2009",
+   "2009"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de plates-formes",
+   "jeu de tir à la troisième personne"
+  ]
+ },
+ "jeu-video-moderne_mass-effect-2": {
+  "qid": "Q725057",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2010"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "jeu de tir à la troisième personne",
+   "thèmes LGBT dans les jeux vidéo",
+   "jeu vidéo avec des personnages LGBT",
+   "jeu vidéo de science-fiction",
+   "space opera video game"
+  ]
+ },
+ "jeu-video-moderne_grand-theft-auto-iii": {
+  "qid": "Q149106",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_diablo-ii": {
+  "qid": "Q244033",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2000"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de rôle",
+   "hack and slash",
+   "dark fantasy video game"
+  ]
+ },
+ "jeu-video-moderne_deus-ex": {
+  "qid": "Q746459",
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo cyberpunk",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_silent-hill-2": {
+  "qid": "Q752835",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001",
+   "2001",
+   "2001",
+   "2001",
+   "2002",
+   "2002"
+  ],
+  "P136": [
+   "horreur psychologique"
+  ]
+ },
+ "jeu-video-moderne_the-elder-scrolls-iii-morrowind": {
+  "qid": "Q718448",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2002",
+   "2009"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de rôle"
+  ],
+  "P527": [
+   "The Elder Scrolls III: Bloodmoon",
+   "The Elder Scrolls III: Tribunal"
+  ]
+ },
+ "jeu-video-moderne_baldur-s-gate-ii-shadows-of-amn": {
+  "qid": "Q804859",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2000",
+   "2000",
+   "2000",
+   "2000",
+   "2001",
+   "2001",
+   "2001"
+  ],
+  "P136": [
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_metal-gear-solid-3-snake-eater": {
+  "qid": "Q247935",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2004"
+  ],
+  "P136": [
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_final-fantasy-x": {
+  "qid": "Q223381",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_kingdom-hearts": {
+  "qid": "Q755167",
+  "P170": [
+   "Shinji Hashimoto",
+   "Tetsuya Nomura"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P136": [
+   "cross-over",
+   "action-RPG",
+   "hack and slash",
+   "jeu de rythme",
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_super-smash-bros-melee": {
+  "qid": "Q1052131",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2001"
+  ],
+  "P136": [
+   "platform fighter",
+   "cross-over"
+  ]
+ },
+ "jeu-video-moderne_team-fortress-2": {
+  "qid": "Q382108",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2008",
+   "2008",
+   "2008",
+   "2008",
+   "2010",
+   "2013"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "jeu-video-moderne_fallout-new-vegas": {
+  "qid": "Q753749",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2010"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de rôle",
+   "jeu vidéo avec des personnages LGBT",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_persona-5": {
+  "qid": "Q15225985",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2016",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_nier-automata": {
+  "qid": "Q21078985",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2017",
+   "2022",
+   "2018",
+   "2017",
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "action-RPG",
+   "hack and slash",
+   "character-action video game",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_monster-hunter-world": {
+  "qid": "Q30252256",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2018"
+  ],
+  "P136": [
+   "action-RPG"
+  ]
+ },
+ "jeu-video-moderne_sekiro-shadows-die-twice": {
+  "qid": "Q54906424",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2019"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "soulslike",
+   "dark fantasy video game"
+  ]
+ },
+ "jeu-video-moderne_ghost-of-tsushima": {
+  "qid": "Q42564798",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2020"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu d'infiltration"
+  ]
+ },
+ "jeu-video-moderne_cyberpunk-2077": {
+  "qid": "Q3182559",
+  "P495": [
+   "Pologne"
+  ],
+  "P577": [
+   "2020",
+   "2022",
+   "2025"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo cyberpunk",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_death-stranding": {
+  "qid": "Q24666782",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2019",
+   "2020"
+  ],
+  "P136": [
+   "jeu d'action",
+   "jeu d'infiltration",
+   "jeu vidéo de science-fiction",
+   "jeu vidéo postapocalyptique",
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_the-legend-of-zelda-tears-of-the-kingdom": {
+  "qid": "Q64577191",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2023"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_mario-kart-8": {
+  "qid": "Q13427106",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2014"
+  ],
+  "P136": [
+   "jeu de course de karting"
+  ]
+ },
+ "jeu-video-moderne_rocket-league": {
+  "qid": "Q20031743",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2015",
+   "2016",
+   "2016",
+   "2017"
+  ],
+  "P136": [
+   "jeu vidéo de football"
+  ]
+ },
+ "jeu-video-moderne_terraria": {
+  "qid": "Q332697",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2011",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2013",
+   "2014",
+   "2014",
+   "2014",
+   "2015",
+   "2015",
+   "2016",
+   "2016",
+   "2019",
+   "2021",
+   "2011"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu sandbox",
+   "jeu vidéo de rôle"
+  ]
+ },
+ "jeu-video-moderne_slay-the-spire": {
+  "qid": "Q48078440",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019"
+  ],
+  "P136": [
+   "roguelite",
+   "jeu de construction de paquet de cartes roguelike"
+  ]
+ },
+ "jeu-video-moderne_papers-please": {
+  "qid": "Q14565978",
+  "P170": [
+   "Lucas Pope"
+  ],
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2013",
+   "2014",
+   "2014",
+   "2017"
+  ],
+  "P136": [
+   "jeu d'aventure",
+   "jeu vidéo de simulation"
+  ]
+ },
+ "jeu-video-moderne_hotline-miami": {
+  "qid": "Q3389836",
+  "P495": [
+   "Suède"
+  ],
+  "P577": [
+   "2012"
+  ],
+  "P136": [
+   "jeu d'action"
+  ]
+ },
+ "jeu-video-moderne_limbo-jeu-video-2010": {
+  "qid": "Q1339030",
+  "P495": [
+   "Danemark"
+  ],
+  "P577": [
+   "2010",
+   "2011",
+   "2011",
+   "2011",
+   "2011",
+   "2013",
+   "2013",
+   "2014",
+   "2014",
+   "2015",
+   "2015",
+   "2018"
+  ],
+  "P136": [
+   "jeu de plates-formes et de réflexion",
+   "jeu de plates-formes",
+   "jeu vidéo à défilement horizontal"
+  ]
+ },
+ "jeu-video-moderne_braid": {
+  "qid": "Q897376",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu de plates-formes et de réflexion"
+  ]
+ },
+ "jeu-video-moderne_vampire-survivors": {
+  "qid": "Q110726215",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2021",
+   "2022",
+   "2024"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "roguelite",
+   "bullet heaven",
+   "jeu occasionnel"
+  ]
+ },
+ "jeu-video-moderne_wii-sports": {
+  "qid": "Q71936",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2006",
+   "2006",
+   "2006",
+   "2006"
+  ],
+  "P136": [
+   "jeu vidéo de sport"
+  ]
+ },
+ "jeu-video-moderne_pokemon-go": {
+  "qid": "Q20966579",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2016",
+   "2017",
+   "2016",
+   "2016"
+  ],
+  "P136": [
+   "réalité augmentée",
+   "jeu de localisation"
+  ]
+ },
+ "jeu-video-moderne_angry-birds": {
+  "qid": "Q165094",
+  "P571": [
+   "2009"
+  ],
+  "P195": [
+   "musée finlandais du jeu"
+  ],
+  "P495": [
+   "Finlande"
+  ]
+ },
+ "jeu-video-moderne_roblox": {
+  "qid": "Q692989",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2006"
+  ],
+  "P136": [
+   "jeu de rôle en ligne massivement multijoueur",
+   "jeu en ligne massivement multijoueur",
+   "jeu sandbox"
+  ]
+ },
+ "jeu-video-moderne_pubg-battlegrounds": {
+  "qid": "Q28937399",
+  "P495": [
+   "Corée du Sud"
+  ],
+  "P577": [
+   "2017",
+   "2017"
+  ],
+  "P136": [
+   "battle royale",
+   "jeu de tir à la troisième personne",
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "jeu-video-moderne_apex-legends": {
+  "qid": "Q61478103",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2019",
+   "2020",
+   "2021",
+   "2025"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "battle royale",
+   "jeu de tir tactique",
+   "hero shooter"
+  ]
+ },
+ "jeu-video-moderne_valorant": {
+  "qid": "Q86919275",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2020"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu de tir tactique",
+   "hero shooter"
+  ]
+ },
+ "jeu-video-moderne_genshin-impact": {
+  "qid": "Q65059474",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P577": [
+   "2020",
+   "2024",
+   "2025"
+  ],
+  "P136": [
+   "jeu vidéo de rôle",
+   "action-RPG",
+   "gacha"
+  ],
+  "P527": [
+   "Sérénithéière",
+   "Genius Invokation TCG",
+   "Paradisia milliastral"
+  ]
+ },
+ "jeu-video-moderne_super-mario-galaxy": {
+  "qid": "Q170489",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2007",
+   "2007",
+   "2007",
+   "2007",
+   "2018",
+   "2015"
+  ],
+  "P136": [
+   "jeu de plateforme en 3D"
+  ]
+ },
+ "jeu-video-moderne_super-mario-odyssey": {
+  "qid": "Q28234671",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2017"
+  ],
+  "P136": [
+   "jeu de plateforme en 3D",
+   "collect-a-thon platformer"
+  ]
+ },
+ "jeu-video-moderne_metroid-prime": {
+  "qid": "Q1765733",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2003",
+   "2002",
+   "2002",
+   "2003",
+   "2003",
+   "2009",
+   "2009",
+   "2009",
+   "2009"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective"
+  ]
+ },
+ "jeu-video-moderne_splatoon": {
+  "qid": "Q17490239",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2015",
+   "2015",
+   "2015"
+  ],
+  "P136": [
+   "jeu de tir à la troisième personne",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_fifa-serie-de-jeux-video": {
+  "qid": "Q326704",
+  "P577": [
+   "1988"
+  ],
+  "P136": [
+   "jeu vidéo de football"
+  ]
+ },
+ "jeu-video-moderne_batman-arkham-city": {
+  "qid": "Q288811",
+  "P495": [
+   "Royaume-Uni"
+  ],
+  "P577": [
+   "2011",
+   "2011"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "beat them all",
+   "jeu d'infiltration",
+   "jeu d'action",
+   "jeu d'aventure"
+  ]
+ },
+ "jeu-video-moderne_marvel-s-spider-man": {
+  "qid": "Q25340029",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2018",
+   "2020",
+   "2022"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "superhero video game",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_beyond-good-and-evil": {
+  "qid": "Q794367",
+  "P495": [
+   "France"
+  ],
+  "P50": [
+   "Michel Ancel",
+   "Jacques Exertier"
+  ],
+  "P577": [
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2003",
+   "2004",
+   "2004",
+   "2008"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu d'infiltration",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_prince-of-persia-les-sables-du-temps": {
+  "qid": "Q715292",
+  "P495": [
+   "Canada"
+  ],
+  "P577": [
+   "2003"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "jeu d'action",
+   "jeu d'aventure"
+  ]
+ },
+ "jeu-video-moderne_dead-space-jeu-video": {
+  "qid": "Q729074",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008"
+  ],
+  "P136": [
+   "jeu de tir à la troisième personne",
+   "horreur psychologique",
+   "jeu vidéo de science-fiction"
+  ]
+ },
+ "jeu-video-moderne_left-4-dead": {
+  "qid": "Q323981",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2008",
+   "2010",
+   "2008"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "survival horror",
+   "jeu vidéo postapocalyptique",
+   "horde shooter"
+  ]
+ },
+ "jeu-video-moderne_clash-of-clans": {
+  "qid": "Q13399098",
+  "P195": [
+   "musée finlandais du jeu"
+  ],
+  "P495": [
+   "Finlande"
+  ],
+  "P577": [
+   "2012",
+   "2013"
+  ],
+  "P136": [
+   "jeu vidéo de stratégie",
+   "jeu en ligne massivement multijoueur",
+   "tactical video game"
+  ]
+ },
+ "jeu-video-moderne_candy-crush-saga": {
+  "qid": "Q8768018",
+  "P495": [
+   "Angleterre"
+  ],
+  "P577": [
+   "2012"
+  ],
+  "P136": [
+   "jeu vidéo de réflexion"
+  ]
+ },
+ "jeu-video-moderne_life-is-strange": {
+  "qid": "Q38609053",
+  "P136": [
+   "jeu d'aventure"
+  ],
+  "P527": [
+   "Life Is Strange",
+   "Life Is Strange: Before the Storm",
+   "Les Aventures extraordinaires de Captain Spirit",
+   "Life Is Strange 2",
+   "Life Is Strange: True Colors",
+   "Life Is Strange: Double Exposure",
+   "Q137796923"
+  ]
+ },
+ "jeu-video-moderne_detroit-become-human": {
+  "qid": "Q21246348",
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2018",
+   "2019"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "film interactif",
+   "jeu vidéo cyberpunk",
+   "jeu d'aventure"
+  ]
+ },
+ "jeu-video-moderne_horizon-zero-dawn": {
+  "qid": "Q20155528",
+  "P195": [
+   "Institut néerlandais de l'image et du son"
+  ],
+  "P495": [
+   "Pays-Bas"
+  ],
+  "P577": [
+   "2017",
+   "2017",
+   "2020"
+  ],
+  "P136": [
+   "action-RPG",
+   "jeu vidéo de science-fiction",
+   "jeu vidéo postapocalyptique",
+   "jeu d'action",
+   "jeu d'action-aventure"
+  ]
+ },
+ "jeu-video-moderne_astro-bot": {
+  "qid": "Q126199700",
+  "P495": [
+   "Japon"
+  ],
+  "P577": [
+   "2024"
+  ],
+  "P136": [
+   "jeu de plates-formes"
+  ]
+ },
+ "jeu-video-moderne_black-myth-wukong": {
+  "qid": "Q98582386",
+  "P495": [
+   "république populaire de Chine"
+  ],
+  "P577": [
+   "2024",
+   "2024",
+   "2025",
+   "2025"
+  ],
+  "P136": [
+   "jeu d'action-aventure",
+   "action-RPG"
+  ]
+ },
+ "jeu-video-moderne_clair-obscur-expedition-33": {
+  "qid": "Q126462072",
+  "P571": [
+   "2025"
+  ],
+  "P495": [
+   "France"
+  ],
+  "P577": [
+   "2025"
+  ],
+  "P136": [
+   "jeu de rôle au tour par tour",
+   "jeu vidéo de rôle",
+   "JRPG",
+   "jeu vidéo de fantasy"
+  ]
+ },
+ "jeu-video-moderne_factorio": {
+  "qid": "Q16972008",
+  "P495": [
+   "Tchéquie"
+  ],
+  "P577": [
+   "2016",
+   "2020",
+   "2022"
+  ],
+  "P136": [
+   "jeu de survie",
+   "stratégie en temps réel",
+   "jeu d'action",
+   "jeu vidéo de science-fiction",
+   "jeu de gestion",
+   "jeu sandbox",
+   "jeu vidéo de simulation de processus industriel"
+  ]
+ },
+ "jeu-video-moderne_kerbal-space-program": {
+  "qid": "Q1471545",
+  "P495": [
+   "États-Unis",
+   "Mexique"
+  ],
+  "P577": [
+   "2015"
+  ],
+  "P136": [
+   "simulateur de vol spatial",
+   "jeu vidéo de simulation",
+   "gameplay non linéaire",
+   "jeu sandbox"
+  ]
+ },
+ "jeu-video-moderne_half-life-alyx": {
+  "qid": "Q75653574",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2020"
+  ],
+  "P136": [
+   "jeu de tir en vue subjective",
+   "jeu vidéo postapocalyptique"
+  ]
+ },
+ "jeu-video-moderne_hearthstone": {
+  "qid": "Q8262784",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2014",
+   "2014",
+   "2015",
+   "2014"
+  ],
+  "P136": [
+   "jeu vidéo de cartes à collectionner",
+   "jeu de stratégie au tour par tour",
+   "jeu de cartes",
+   "jeu de stratégie"
+  ]
+ },
+ "jeu-video-moderne_starcraft-2-wings-of-liberty": {
+  "qid": "Q239288",
+  "P495": [
+   "États-Unis"
+  ],
+  "P577": [
+   "2010"
+  ],
+  "P136": [
+   "stratégie en temps réel",
+   "science-fiction militaire"
+  ]
+ }
+}

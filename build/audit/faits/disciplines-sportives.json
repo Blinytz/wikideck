@@ -1,0 +1,322 @@
+{
+ "disciplines-sportives_football": {
+  "qid": "Q2736",
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "disciplines-sportives_rugby-a-xv": {
+  "qid": "Q5849",
+  "P571": [
+   "1823"
+  ],
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "disciplines-sportives_basket-ball": {
+  "qid": "Q5372",
+  "P571": [
+   "1891"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "disciplines-sportives_volley-ball": {
+  "qid": "Q1734",
+  "P571": [
+   "1947"
+  ],
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "disciplines-sportives_handball": {
+  "qid": "Q8418",
+  "P495": [
+   "Empire allemand"
+  ]
+ },
+ "disciplines-sportives_tennis": {
+  "qid": "Q847",
+  "P571": [
+   "1873"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "disciplines-sportives_tennis-de-table": {
+  "qid": "Q3930",
+  "P571": [
+   "1891"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "disciplines-sportives_badminton": {
+  "qid": "Q7291"
+ },
+ "disciplines-sportives_golf": {
+  "qid": "Q5377",
+  "P495": [
+   "Écosse"
+  ]
+ },
+ "disciplines-sportives_baseball": {
+  "qid": "Q5369",
+  "P495": [
+   "États-Unis"
+  ],
+  "P527": [
+   "manche",
+   "Marbre",
+   "hauteur"
+  ]
+ },
+ "disciplines-sportives_cricket": {
+  "qid": "Q5375",
+  "P571": [
+   "1599"
+  ],
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "disciplines-sportives_football-americain": {
+  "qid": "Q41323",
+  "P495": [
+   "États-Unis"
+  ]
+ },
+ "disciplines-sportives_hockey-sur-glace": {
+  "qid": "Q41466",
+  "P495": [
+   "Canada"
+  ]
+ },
+ "disciplines-sportives_hockey-sur-gazon": {
+  "qid": "Q1455",
+  "P495": [
+   "Angleterre"
+  ]
+ },
+ "disciplines-sportives_water-polo": {
+  "qid": "Q7707",
+  "P571": [
+   "1900"
+  ],
+  "P495": [
+   "Royaume-Uni de Grande-Bretagne et d'Irlande"
+  ]
+ },
+ "disciplines-sportives_athletisme": {
+  "qid": "Q542",
+  "P527": [
+   "épreuves de course à pied en athlétisme",
+   "marche athlétique",
+   "saut",
+   "épreuve de lancer",
+   "épreuves combinées",
+   "athlétisme",
+   "field event",
+   "athlétisme en salle",
+   "course de fond"
+  ]
+ },
+ "disciplines-sportives_marathon-sport": {
+  "qid": "Q40244"
+ },
+ "disciplines-sportives_natation": {
+  "qid": "Q6388"
+ },
+ "disciplines-sportives_plongeon": {
+  "qid": "Q7735"
+ },
+ "disciplines-sportives_gymnastique-artistique": {
+  "qid": "Q326827"
+ },
+ "disciplines-sportives_cyclisme-sur-route": {
+  "qid": "Q3609"
+ },
+ "disciplines-sportives_ski-alpin": {
+  "qid": "Q186222"
+ },
+ "disciplines-sportives_ski-de-fond": {
+  "qid": "Q179687"
+ },
+ "disciplines-sportives_biathlon": {
+  "qid": "Q166788",
+  "P527": [
+   "ski de fond",
+   "tir sportif"
+  ]
+ },
+ "disciplines-sportives_patinage-artistique": {
+  "qid": "Q38108"
+ },
+ "disciplines-sportives_snowboard": {
+  "qid": "Q178131"
+ },
+ "disciplines-sportives_boxe-anglaise": {
+  "qid": "Q2922870"
+ },
+ "disciplines-sportives_judo": {
+  "qid": "Q11420",
+  "P571": [
+   "1882"
+  ],
+  "P495": [
+   "Japon"
+  ]
+ },
+ "disciplines-sportives_karate": {
+  "qid": "Q11419",
+  "P170": [
+   "Kanga Sakugawa",
+   "Sōkon Matsumura",
+   "Ankō Itosu",
+   "Seishō Arakaki",
+   "Kanryō Higaonna"
+  ],
+  "P495": [
+   "royaume de Ryūkyū"
+  ]
+ },
+ "disciplines-sportives_taekwondo": {
+  "qid": "Q36389",
+  "P495": [
+   "Empire de Corée",
+   "Corée du Sud",
+   "Corée du Nord"
+  ]
+ },
+ "disciplines-sportives_lutte": {
+  "qid": "Q42486"
+ },
+ "disciplines-sportives_sumo": {
+  "qid": "Q40561",
+  "P571": [
+   "642"
+  ],
+  "P495": [
+   "Japon"
+  ]
+ },
+ "disciplines-sportives_escrime": {
+  "qid": "Q12100",
+  "P527": [
+   "Phrase d'armes",
+   "Attaque (escrime)",
+   "épée"
+  ]
+ },
+ "disciplines-sportives_tir-a-l-arc": {
+  "qid": "Q108429"
+ },
+ "disciplines-sportives_equitation": {
+  "qid": "Q5384640"
+ },
+ "disciplines-sportives_aviron-sport": {
+  "qid": "Q159354"
+ },
+ "disciplines-sportives_canoe-kayak": {
+  "qid": "Q213934",
+  "P527": [
+   "canoë",
+   "kayak"
+  ]
+ },
+ "disciplines-sportives_nautisme-voile": {
+  "qid": "Q14085739",
+  "P276": [
+   "étendue d'eau"
+  ]
+ },
+ "disciplines-sportives_surf": {
+  "qid": "Q159992"
+ },
+ "disciplines-sportives_skateboard": {
+  "qid": "Q842284"
+ },
+ "disciplines-sportives_escalade": {
+  "qid": "Q22857",
+  "P527": [
+   "ascent",
+   "descent",
+   "escalade sur rochers",
+   "escalade glaciaire",
+   "alpinisme"
+  ]
+ },
+ "disciplines-sportives_alpinisme": {
+  "qid": "Q36908"
+ },
+ "disciplines-sportives_petanque": {
+  "qid": "Q189317",
+  "P495": [
+   "France"
+  ]
+ },
+ "disciplines-sportives_billard": {
+  "qid": "Q3341285"
+ },
+ "disciplines-sportives_formule-1": {
+  "qid": "Q1968",
+  "P571": [
+   "1950"
+  ]
+ },
+ "disciplines-sportives_pelote-basque": {
+  "qid": "Q212845",
+  "P17": [
+   "Espagne"
+  ]
+ },
+ "disciplines-sportives_polo": {
+  "qid": "Q134211"
+ },
+ "disciplines-sportives_triathlon": {
+  "qid": "Q10980",
+  "P527": [
+   "swimming race",
+   "course cycliste",
+   "course à pied"
+  ]
+ },
+ "disciplines-sportives_halterophilie": {
+  "qid": "Q83462"
+ },
+ "disciplines-sportives_arts-martiaux-mixtes": {
+  "qid": "Q114466"
+ },
+ "disciplines-sportives_capoeira": {
+  "qid": "Q159452",
+  "P170": [
+   "Afro-Brésilien"
+  ],
+  "P571": [
+   "1600"
+  ],
+  "P495": [
+   "Brésil"
+  ],
+  "P17": [
+   "Brésil"
+  ],
+  "P527": [
+   "capoeira music"
+  ]
+ },
+ "disciplines-sportives_curling": {
+  "qid": "Q136851",
+  "P571": [
+   "1966"
+  ],
+  "P495": [
+   "Écosse"
+  ]
+ }
+}

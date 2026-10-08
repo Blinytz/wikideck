@@ -1,0 +1,762 @@
+{
+ "legendes-du-sport_mohamed-ali": {
+  "qid": "Q36107",
+  "P569": [
+   "1942"
+  ],
+  "P570": [
+   "2016"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_michael-jordan": {
+  "qid": "Q41421",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_lebron-james": {
+  "qid": "Q36159",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "basket-ball"
+  ]
+ },
+ "legendes-du-sport_roger-federer": {
+  "qid": "Q1426",
+  "P569": [
+   "1981"
+  ],
+  "P27": [
+   "Suisse",
+   "Afrique du Sud"
+  ]
+ },
+ "legendes-du-sport_rafael-nadal": {
+  "qid": "Q10132",
+  "P569": [
+   "1986"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "legendes-du-sport_novak-djokovic": {
+  "qid": "Q5812",
+  "P569": [
+   "1987"
+  ],
+  "P27": [
+   "république fédérative socialiste de Yougoslavie",
+   "république fédérale de Yougoslavie",
+   "Serbie-et-Monténégro",
+   "Serbie"
+  ]
+ },
+ "legendes-du-sport_serena-williams": {
+  "qid": "Q11459",
+  "P569": [
+   "1981",
+   "1981"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_steffi-graf": {
+  "qid": "Q11662",
+  "P569": [
+   "1969"
+  ],
+  "P27": [
+   "Allemagne"
+  ]
+ },
+ "legendes-du-sport_bjorn-borg": {
+  "qid": "Q104506",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "Suède"
+  ],
+  "P101": [
+   "tennis"
+  ]
+ },
+ "legendes-du-sport_tiger-woods": {
+  "qid": "Q10993",
+  "P569": [
+   "1975"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Albany, New Providence"
+  ]
+ },
+ "legendes-du-sport_eddy-merckx": {
+  "qid": "Q103756",
+  "P569": [
+   "1945"
+  ],
+  "P27": [
+   "Belgique"
+  ],
+  "P101": [
+   "cyclisme"
+  ]
+ },
+ "legendes-du-sport_bernard-hinault": {
+  "qid": "Q109255",
+  "P569": [
+   "1954"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "cyclisme"
+  ]
+ },
+ "legendes-du-sport_jacques-anquetil": {
+  "qid": "Q221001",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "1987"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P101": [
+   "cyclisme"
+  ]
+ },
+ "legendes-du-sport_miguel-indurain": {
+  "qid": "Q105542",
+  "P569": [
+   "1964"
+  ],
+  "P27": [
+   "Espagne"
+  ],
+  "P101": [
+   "cyclisme"
+  ]
+ },
+ "legendes-du-sport_babe-ruth": {
+  "qid": "Q213812",
+  "P569": [
+   "1895"
+  ],
+  "P570": [
+   "1948"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_wayne-gretzky": {
+  "qid": "Q209518",
+  "P569": [
+   "1961"
+  ],
+  "P27": [
+   "Canada",
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_kobe-bryant": {
+  "qid": "Q25369",
+  "P569": [
+   "1978"
+  ],
+  "P570": [
+   "2020"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "basket-ball",
+   "sport professionnel"
+  ],
+  "P136": [
+   "hip-hop"
+  ]
+ },
+ "legendes-du-sport_magic-johnson": {
+  "qid": "Q134183",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_larry-bird": {
+  "qid": "Q190152",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_kareem-abdul-jabbar": {
+  "qid": "Q179051",
+  "P569": [
+   "1947"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_wilt-chamberlain": {
+  "qid": "Q182455",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "1999"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_jack-nicklaus": {
+  "qid": "Q9424",
+  "P569": [
+   "1940"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_rod-laver": {
+  "qid": "Q105550",
+  "P569": [
+   "1938"
+  ],
+  "P27": [
+   "Australie"
+  ]
+ },
+ "legendes-du-sport_martina-navratilova": {
+  "qid": "Q54545",
+  "P569": [
+   "1956"
+  ],
+  "P27": [
+   "États-Unis",
+   "Tchéquie",
+   "Tchécoslovaquie"
+  ]
+ },
+ "legendes-du-sport_mike-tyson": {
+  "qid": "Q79031",
+  "P569": [
+   "1966"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_sugar-ray-robinson": {
+  "qid": "Q316706",
+  "P569": [
+   "1921"
+  ],
+  "P570": [
+   "1989"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_joe-louis": {
+  "qid": "Q273206",
+  "P569": [
+   "1914"
+  ],
+  "P570": [
+   "1981"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_rocky-marciano": {
+  "qid": "Q188362",
+  "P569": [
+   "1923"
+  ],
+  "P570": [
+   "1969"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_bobby-fischer": {
+  "qid": "Q41314",
+  "P569": [
+   "1943"
+  ],
+  "P570": [
+   "2008"
+  ],
+  "P27": [
+   "Islande",
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_garry-kasparov": {
+  "qid": "Q28614",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Russie",
+   "Croatie",
+   "Union soviétique"
+  ],
+  "P800": [
+   "Winter Is Coming"
+  ]
+ },
+ "legendes-du-sport_jahangir-khan": {
+  "qid": "Q741690",
+  "P569": [
+   "1963"
+  ],
+  "P27": [
+   "Pakistan"
+  ]
+ },
+ "legendes-du-sport_sachin-tendulkar": {
+  "qid": "Q9488",
+  "P569": [
+   "1973"
+  ],
+  "P27": [
+   "Inde"
+  ],
+  "P101": [
+   "cricket"
+  ]
+ },
+ "legendes-du-sport_donald-bradman": {
+  "qid": "Q313591",
+  "P569": [
+   "1908"
+  ],
+  "P570": [
+   "2001"
+  ],
+  "P27": [
+   "Australie"
+  ]
+ },
+ "legendes-du-sport_jonny-wilkinson": {
+  "qid": "Q318920",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "Royaume-Uni"
+  ]
+ },
+ "legendes-du-sport_richie-mccaw": {
+  "qid": "Q726148",
+  "P569": [
+   "1980"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "legendes-du-sport_jonah-lomu": {
+  "qid": "Q363717",
+  "P569": [
+   "1975"
+  ],
+  "P570": [
+   "2015"
+  ],
+  "P27": [
+   "Nouvelle-Zélande"
+  ]
+ },
+ "legendes-du-sport_sebastien-loeb": {
+  "qid": "Q7855",
+  "P569": [
+   "1974"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-sport_valentino-rossi": {
+  "qid": "Q169814",
+  "P569": [
+   "1979"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-sport_tony-hawk": {
+  "qid": "Q295020",
+  "P569": [
+   "1968"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "skateboard"
+  ]
+ },
+ "legendes-du-sport_kelly-slater": {
+  "qid": "Q364406",
+  "P569": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "surf",
+   "film"
+  ]
+ },
+ "legendes-du-sport_pierre-de-coubertin": {
+  "qid": "Q82984",
+  "P569": [
+   "1863"
+  ],
+  "P570": [
+   "1937"
+  ],
+  "P27": [
+   "France"
+  ],
+  "P800": [
+   "pentathlon moderne"
+  ]
+ },
+ "legendes-du-sport_stephen-curry": {
+  "qid": "Q352159",
+  "P569": [
+   "1988",
+   "1988"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "basket-ball",
+   "autobiographie"
+  ]
+ },
+ "legendes-du-sport_bill-russell": {
+  "qid": "Q242185",
+  "P569": [
+   "1934"
+  ],
+  "P570": [
+   "2022"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_shaquille-o-neal": {
+  "qid": "Q169452",
+  "P569": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P136": [
+   "hip-hop"
+  ]
+ },
+ "legendes-du-sport_tony-parker": {
+  "qid": "Q193108",
+  "P569": [
+   "1982"
+  ],
+  "P27": [
+   "France",
+   "Belgique",
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_suzanne-lenglen": {
+  "qid": "Q232831",
+  "P569": [
+   "1899"
+  ],
+  "P570": [
+   "1938"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-sport_billie-jean-king": {
+  "qid": "Q54527",
+  "P569": [
+   "1943"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_john-mcenroe": {
+  "qid": "Q16474",
+  "P569": [
+   "1959"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P101": [
+   "tennis"
+  ]
+ },
+ "legendes-du-sport_pete-sampras": {
+  "qid": "Q9446",
+  "P569": [
+   "1971"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_andre-agassi": {
+  "qid": "Q7407",
+  "P569": [
+   "1970"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_yannick-noah": {
+  "qid": "Q221908",
+  "P569": [
+   "1960"
+  ],
+  "P27": [
+   "France",
+   "Cameroun"
+  ],
+  "P136": [
+   "pop",
+   "funk"
+  ]
+ },
+ "legendes-du-sport_arthur-ashe": {
+  "qid": "Q53325",
+  "P569": [
+   "1943"
+  ],
+  "P570": [
+   "1993"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P800": [
+   "Days of Grace: a memoir"
+  ],
+  "P101": [
+   "sport",
+   "autobiographie"
+  ]
+ },
+ "legendes-du-sport_marcel-cerdan": {
+  "qid": "Q347201",
+  "P569": [
+   "1916"
+  ],
+  "P570": [
+   "1949",
+   "1949"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-sport_jack-johnson-boxe-anglaise": {
+  "qid": "Q316689",
+  "P569": [
+   "1878"
+  ],
+  "P570": [
+   "1946"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_fausto-coppi": {
+  "qid": "Q219912",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "1960"
+  ],
+  "P27": [
+   "Italie",
+   "royaume d'Italie"
+  ],
+  "P101": [
+   "cyclisme sur route"
+  ]
+ },
+ "legendes-du-sport_raymond-poulidor": {
+  "qid": "Q435462",
+  "P569": [
+   "1936"
+  ],
+  "P570": [
+   "2019"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-sport_tadej-pogacar": {
+  "qid": "Q26904312",
+  "P569": [
+   "1998"
+  ],
+  "P27": [
+   "Slovénie"
+  ],
+  "P101": [
+   "cyclisme sur route"
+  ]
+ },
+ "legendes-du-sport_giacomo-agostini": {
+  "qid": "Q253450",
+  "P569": [
+   "1942"
+  ],
+  "P27": [
+   "Italie"
+  ]
+ },
+ "legendes-du-sport_marc-marquez": {
+  "qid": "Q40615",
+  "P569": [
+   "1993"
+  ],
+  "P27": [
+   "Espagne"
+  ]
+ },
+ "legendes-du-sport_jackie-robinson": {
+  "qid": "Q221048",
+  "P569": [
+   "1919"
+  ],
+  "P570": [
+   "1972"
+  ],
+  "P27": [
+   "États-Unis"
+  ],
+  "P135": [
+   "non-violence"
+  ]
+ },
+ "legendes-du-sport_tom-brady": {
+  "qid": "Q313381",
+  "P569": [
+   "1977"
+  ],
+  "P27": [
+   "États-Unis"
+  ]
+ },
+ "legendes-du-sport_serge-blanco": {
+  "qid": "Q1322456",
+  "P569": [
+   "1958"
+  ],
+  "P27": [
+   "Venezuela",
+   "France"
+  ]
+ },
+ "legendes-du-sport_antoine-dupont": {
+  "qid": "Q20666534",
+  "P569": [
+   "1996"
+  ],
+  "P27": [
+   "France"
+  ]
+ },
+ "legendes-du-sport_magnus-carlsen": {
+  "qid": "Q106807",
+  "P569": [
+   "1990"
+  ],
+  "P27": [
+   "Norvège"
+  ]
+ },
+ "legendes-du-sport_anatoli-karpov": {
+  "qid": "Q131674",
+  "P569": [
+   "1951"
+  ],
+  "P27": [
+   "Russie",
+   "Union soviétique"
+  ]
+ },
+ "legendes-du-sport_judit-polgar": {
+  "qid": "Q183250",
+  "P569": [
+   "1976"
+  ],
+  "P27": [
+   "Hongrie"
+  ],
+  "P101": [
+   "échecs"
+  ]
+ },
+ "legendes-du-sport_nikola-karabatic": {
+  "qid": "Q157809",
+  "P569": [
+   "1984"
+  ],
+  "P27": [
+   "France",
+   "Serbie"
+  ]
+ }
+}

@@ -759,7 +759,7 @@
   {
    "slug": "personnages-bd-comics",
    "nom": "Personnages de bande dessinée et de comics",
-   "nbCartes": 92,
+   "nbCartes": 94,
    "fichier": "data/personnages-bd-comics.json",
    "theme": "Écrans et jeux"
   },

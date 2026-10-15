@@ -178,8 +178,15 @@
   {
    "slug": "monuments-emblematiques",
    "nom": "Monuments et architecture",
-   "nbCartes": 107,
+   "nbCartes": 95,
    "fichier": "data/monuments-emblematiques.json",
+   "theme": "Géographie"
+  },
+  {
+   "slug": "chateaux-celebres",
+   "nom": "Châteaux célèbres",
+   "nbCartes": 84,
+   "fichier": "data/chateaux-celebres.json",
    "theme": "Géographie"
   },
   {

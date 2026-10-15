@@ -1595,3 +1595,42 @@ AJOUTS.setdefault('presidents-de-la-republique-francaise', []).append(('Sadi Car
 # 08/10/2026 : The Mask et les Tortues Ninja
 AJOUTS.setdefault('personnages-bd-comics', []).extend([
     ('The Mask', 'The Mask (personnage)'), ('Tortues Ninja', 'Tortues Ninja')])
+
+# 15/10/2026 : chateaux celebres. Les chateaux quittent les monuments ;
+# les palais (Louvre, Buckingham, Doges...) y restent.
+_CHATEAUX_DEPLACES = ['Château de Neuschwanstein', 'Château de Himeji', 'Château de Versailles',
+    "Château d'Édimbourg", 'Château de Chambord', 'Château de Prague', 'Château de Chenonceau',
+    'Château de Schönbrunn', 'Château de Bran', 'Château de Windsor', 'Tour de Londres', 'Krak des Chevaliers']
+_CHATEAUX = [
+    # France
+    'Château de Fontainebleau', 'Château de Vaux-le-Vicomte', 'Château de Chantilly', "Château d'Amboise",
+    'Château de Blois', 'Château de Cheverny', "Château d'Azay-le-Rideau", 'Château de Villandry',
+    "Château d'Ussé", 'Château de Chinon', 'Château de Saumur', 'Château de Pierrefonds',
+    'Château du Haut-Kœnigsbourg', 'Château de Montségur', 'Château de Peyrepertuse',
+    'Château de Foix', 'Château des ducs de Bretagne', 'Château de Fougères', 'Château de Josselin',
+    'Château de Vincennes', 'Château de Saint-Germain-en-Laye', 'Château de Malmaison', "Château d'If",
+    'Château de Pau', 'Château de Bonaguil', 'Château de Guédelon', 'Cité de Carcassonne',
+    'Château de Vitré', 'Château de Castelnaud', 'Château de Beynac', 'Château de Tarascon',
+    # Royaume-Uni et Irlande
+    'Château de Warwick', 'Château de Caernarfon', 'Château de Conwy',
+    'Château de Stirling', 'Château d\'Eilean Donan', 'Château de Balmoral', 'Château de Blarney',
+    'Château de Leeds', 'Château de Bodiam',
+    # Europe centrale et du Nord
+    'Château de Hohenzollern', "Château d'Eltz", 'Château de Heidelberg', 'Château de la Wartburg',
+    'Château de Sanssouci', 'Forteresse de Hohensalzburg', 'Château de Malbork',
+    'Château de Karlštejn', 'Château de Český Krumlov', 'Château de Buda', 'Château de Spiš',
+    'Château de Kronborg', 'Château de Frederiksborg', 'Château de Drottningholm', 'Château de Chillon',
+    'Château de Peleș', 'Château de Hunedoara', 'Château des Comtes de Gand', 'Muiderslot',
+    # Europe du Sud
+    'Château Saint-Ange', 'Castel del Monte', 'Château des Sforza', 'Alcazar de Ségovie',
+    'Palais national de Pena', 'Château de Belmonte',
+    # Reste du monde
+    "Château d'Osaka", 'Château de Matsumoto', "Fort d'Amber", 'Hearst Castle',
+    'Château Frontenac',
+]
+PLANS['chateaux-celebres'] = dict(nom='Châteaux célèbres',
+    transferts=[('monuments-emblematiques', t) for t in _CHATEAUX_DEPLACES],
+    ajouts=[(t, t) for t in _CHATEAUX] + [('Château-Gaillard', 'Château-Gaillard (Les Andelys)'),
+                                          ('Château du Wawel', 'Wawel')])
+AJOUTS.setdefault('chateaux-celebres', []).extend([
+    ('Forteresse de Hohensalzburg', 'Forteresse de Hohensalzburg'), ('Château du Wawel', 'Wawel')])

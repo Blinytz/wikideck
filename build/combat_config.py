@@ -154,6 +154,7 @@ HERITAGES = {
     'souverains-et-conquerants': 'grands-dirigeants',
     'dirigeants-contemporains': 'grands-dirigeants',
     'sites-antiques': 'monuments-emblematiques',
+    'chateaux-celebres': 'monuments-emblematiques',
     'empires-et-civilisations': 'dynasties-et-empires-historiques',
     'dynasties-regnantes': 'dynasties-et-empires-historiques',
     'creatures-prehistoriques': 'dinosaures-celebres',

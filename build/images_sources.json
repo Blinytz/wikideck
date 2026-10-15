@@ -1103,9 +1103,6 @@
 "monuments-emblematiques_kremlin-de-moscou": {
 "source": "wiki-sans-filtre"
 },
-"monuments-emblematiques_chateau-de-neuschwanstein": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_mont-rushmore": {
 "source": "wiki-fr"
 },
@@ -1124,9 +1121,6 @@
 "monuments-emblematiques_alhambra-grenade": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-de-himeji": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_porte-de-brandebourg": {
 "source": "wiki-fr"
 },
@@ -1137,9 +1131,6 @@
 "source": "wiki-fr"
 },
 "monuments-emblematiques_le-mont-saint-michel": {
-"source": "wiki-fr"
-},
-"monuments-emblematiques_chateau-de-versailles": {
 "source": "wiki-fr"
 },
 "monuments-emblematiques_mosquee-bleue": {
@@ -1157,9 +1148,6 @@
 "monuments-emblematiques_tour-cn": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-d-edimbourg": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_palais-de-buckingham": {
 "source": "wiki-fr"
 },
@@ -1169,9 +1157,6 @@
 "monuments-emblematiques_basilique-saint-pierre": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-de-chambord": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_grande-mosquee-de-djenne": {
 "source": "wiki-fr"
 },
@@ -1179,9 +1164,6 @@
 "source": "wiki-fr"
 },
 "monuments-emblematiques_montagne-de-la-table": {
-"source": "wiki-fr"
-},
-"monuments-emblematiques_chateau-de-prague": {
 "source": "wiki-fr"
 },
 "monuments-emblematiques_palais-du-potala": {
@@ -7428,16 +7410,10 @@
 "monuments-emblematiques_palais-des-papes-d-avignon": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-de-chenonceau": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_pont-du-gard": {
 "source": "wiki-fr"
 },
 "monuments-emblematiques_tower-bridge": {
-"source": "wiki-fr"
-},
-"monuments-emblematiques_tour-de-londres": {
 "source": "wiki-fr"
 },
 "monuments-emblematiques_abbaye-de-westminster": {
@@ -7467,9 +7443,6 @@
 "monuments-emblematiques_grand-place-de-bruxelles": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-de-schonbrunn": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_musee-guggenheim-bilbao": {
 "source": "wiki-fr"
 },
@@ -7479,9 +7452,6 @@
 "monuments-emblematiques_mur-de-berlin": {
 "source": "wiki-fr"
 },
-"monuments-emblematiques_chateau-de-bran": {
-"source": "wiki-fr"
-},
 "monuments-emblematiques_palais-du-parlement-bucarest": {
 "source": "wiki-fr"
 },
@@ -7489,9 +7459,6 @@
 "source": "wiki-fr"
 },
 "monuments-emblematiques_mosquee-al-haram": {
-"source": "wiki-fr"
-},
-"monuments-emblematiques_krak-des-chevaliers": {
 "source": "wiki-fr"
 },
 "monuments-emblematiques_mosquee-hassan-ii": {
@@ -26495,11 +26462,6 @@
 "origine": "web",
 "url": "https://sumfinity.com/wp-content/uploads/2018/09/Piazza-del-Duomo-Milano-Italy-sunrise.jpg"
 },
-"monuments-emblematiques_chateau-de-windsor": {
-"source": "grand-complement",
-"origine": "wiki",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/1280px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-},
 "monuments-emblematiques_place-rouge": {
 "source": "grand-complement",
 "origine": "web",
@@ -33925,5 +33887,403 @@
 "source": "grand-complement",
 "origine": "web",
 "url": "https://saintchristophe-lesneven.com/cache/images/product/6b017aed5ea8f1beceb8889b4413de39-0020249-image-9791090916609.jpg"
+},
+"chateaux-celebres_chateau-de-neuschwanstein": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-himeji": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-versailles": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-d-edimbourg": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-chambord": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-prague": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-chenonceau": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-schonbrunn": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-bran": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-windsor": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/1280px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_tour-de-londres": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_krak-des-chevaliers": {
+"source": "wiki-fr"
+},
+"chateaux-celebres_chateau-de-fontainebleau": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://unebrevehistoiredart.com/wp-content/uploads/2019/08/chc3a2teau-de-fontainebleau.jpg"
+},
+"chateaux-celebres_chateau-de-vaux-le-vicomte": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://a.cdn-hotels.com/gdcs/production59/d683/ddfcbba0-f675-49d1-907d-a27aa94ba2f9.jpg"
+},
+"chateaux-celebres_chateau-de-chantilly": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.actualitix.com/wp-content/uploads/2017/08/chateau-de-chantilly.jpg"
+},
+"chateaux-celebres_chateau-d-amboise": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ch%C3%A2teau_et_tour_des_Minimes_%28Amboise%29.jpg/1280px-Ch%C3%A2teau_et_tour_des_Minimes_%28Amboise%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-blois": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://centre.media.tourinsoft.eu/upload/Cour-I-Chateau-royal-de-Blois---Facade-Francois-Ier--c--T.-Sommerset--2-.jpg"
+},
+"chateaux-celebres_chateau-de-cheverny": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Le_ch%C3%A2teau_de_Cheverny_%281%29.jpg/1280px-Le_ch%C3%A2teau_de_Cheverny_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-d-azay-le-rideau": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chateau-Azay-le-Rudeau-1.jpg/1280px-Chateau-Azay-le-Rudeau-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-villandry": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.connaissancedesarts.com/wp-content/thumbnails/uploads/2020/07/cda20_villandry_jardin_chateau_main-tt-width-1200-height-630-fill-0-crop-1-bgcolor-ffffff.jpg"
+},
+"chateaux-celebres_chateau-d-usse": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.lasourisglobe-trotteuse.fr/wp-content/uploads/2025/06/chateau-dUsse-3.jpg"
+},
+"chateaux-celebres_forteresse-royale-de-chinon": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://serenitrip.fr/wp-content/uploads/2022/11/chateau-de-chinon.jpg"
+},
+"chateaux-celebres_chateau-de-saumur": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Saumur_%2849%29_Ch%C3%A2teau_-_Ext%C3%A9rieur_-_01.jpg/1280px-Saumur_%2849%29_Ch%C3%A2teau_-_Ext%C3%A9rieur_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-pierrefonds": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://i.redd.it/hh1tkqpt62101.jpg"
+},
+"chateaux-celebres_chateau-du-haut-koenigsbourg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://static-cms.routard.com/web-routard/uploads/xlarge_chateau_du_haut-koenigsbourg_9e02e5615c.jpg"
+},
+"chateaux-celebres_chateau-de-montsegur": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.communes.com/images/orig/midi-pyrenees/ariege/montsegur_09300/Montsegur_716_Chateau.jpg"
+},
+"chateaux-celebres_chateau-de-peyrepertuse": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/ChateauPeyrepertuse.JPG/1280px-ChateauPeyrepertuse.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-foix": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.generationvoyage.fr/2025/04/Chateau-de-Foix.jpeg"
+},
+"chateaux-celebres_chateau-des-ducs-de-bretagne": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.getyourguide.com/img/location/5a1d3e244b349.jpeg/88.jpg"
+},
+"chateaux-celebres_chateau-de-fougeres": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.britannica.com/37/149437-050-37700F91/Castle-Fougeres-France.jpg"
+},
+"chateaux-celebres_chateau-de-josselin": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://ml6wtexejvon.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://www.aux-agapanthes.com/app/uploads/chateau-de-josselin.jpg"
+},
+"chateaux-celebres_chateau-de-vincennes": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.sortiraparis.com/images/80/97130/812217-visuels-musee-et-monument-chateau-vincennes.jpg"
+},
+"chateaux-celebres_chateau-de-saint-germain-en-laye": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://i.pinimg.com/originals/62/76/e9/6276e98414d0d1153f5eda3fa3f796c3.jpg"
+},
+"chateaux-celebres_chateau-de-malmaison": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://musees-nationaux-malmaison.fr/chateau-malmaison/sites/malmaison/files/styles/w1920_extra_wide/public/2020-11/2017.04.19.3.JPG?itok=_eFjh1tr"
+},
+"chateaux-celebres_chateau-d-if": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://madeinmarseille.net/actualites-marseille/archipel-frioul-chateau-if-mathieu-grapeloup.jpg"
+},
+"chateaux-celebres_chateau-de-pau": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://chateau-pau.fr/musees-napoleonien-africain/sites/pau/files/styles/w1920_extra_wide/public/2021-01/Dec_cha_chateau_pau_le_chateau_JF_Lairez.png?itok=E8jqHdkh"
+},
+"chateaux-celebres_chateau-de-bonaguil": {
+"source": "grand-complement",
+"origine": "web",
+"url": "http://www.chateau-bonaguil.com/sites/default/files/styles/bandeau_1920_915/public/bandeau/atelier_duho_c_cedric_zacchia_2023_23_copie_0.jpg?itok=Zix153ff"
+},
+"chateaux-celebres_guedelon": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.warhistoryonline.com/wp-content/uploads/sites/64/2023/10/guedelon-castle-2020-43538.jpg"
+},
+"chateaux-celebres_cite-de-carcassonne": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.tourisme-carcassonne.fr/assets/uploads/2022/09/juphotography-1-sur-1-169-scaled.jpg"
+},
+"chateaux-celebres_chateau-de-vitre": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.bretagne-vitre.com/wp-content/uploads/2022/10/crtb-ae04667_PORIEL-Thibault-compressed.jpg"
+},
+"chateaux-celebres_chateau-de-castelnaud": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://woody.cloudly.space/app/uploads/dordogne-perigord/2021/03/thumbs/castelnaud9u3a7563-1920x1440.jpg"
+},
+"chateaux-celebres_chateau-de-beynac": {
+"source": "grand-complement",
+"origine": "web",
+"url": "http://chateau-beynac.com/wp-content/uploads/2018/04/Beynac_plaquette_ciel_sansnuage-copie.jpg"
+},
+"chateaux-celebres_chateau-de-tarascon": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.provenceweb.fr/img/containers/images/villages-hd/13/tarascon/4_g-tarascon.jpg/46d1b1ef2380f0981d37d98211280648/4_g-tarascon.jpg"
+},
+"chateaux-celebres_chateau-de-warwick": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://bonjourlondres.fr/wp-content/uploads/2023/12/chateau-de-warwick.jpg"
+},
+"chateaux-celebres_chateau-de-caernarfon": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.unlimitedmiles.net/wp-content/uploads/2024/10/241024_160917-1-scaled.jpg"
+},
+"chateaux-celebres_chateau-de-conwy": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.pixabay.com/photo/2020/04/09/18/55/conwy-castle-5022724_1280.jpg"
+},
+"chateaux-celebres_chateau-de-stirling": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Stirlingcastle.jpg/1280px-Stirlingcastle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_eilean-donan": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.les-covoyageurs.com/ressources/images-lieux/photo-lieu-1158-2.jpg"
+},
+"chateaux-celebres_chateau-de-balmoral": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://static.independent.co.uk/2024/04/03/09/iStock-1344597775.jpg"
+},
+"chateaux-celebres_chateau-de-blarney": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.generationvoyage.fr/2025/03/Blarney-Castle-a-Cork.jpeg"
+},
+"chateaux-celebres_chateau-de-leeds": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Leeds_Castle_%282004a%29.jpg/1280px-Leeds_Castle_%282004a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-bodiam": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.goodfreephotos.com/albums/england/other-england/bodiam-castle.jpg"
+},
+"chateaux-celebres_chateau-de-hohenzollern": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://wallpaperaccess.com/full/6719365.jpg"
+},
+"chateaux-celebres_chateau-d-eltz": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://wallpaperaccess.com/full/26379432.jpg"
+},
+"chateaux-celebres_chateau-de-heidelberg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.germany.travel/media/redaktion/schloesser_burgen_content/_grb9397.jpg"
+},
+"chateaux-celebres_chateau-de-la-wartbourg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://blogger.googleusercontent.com/img/a/AVvXsEjPHWSA0l7wl1dCajkclek2SX_MsOuwq1oFJ7mRnIlT1MXSFnEX8kpubecMKcjBUjhtrOJ_X7y3zljMJwJqkZCMNhNwnt5bfXFIZUIWeFXG6EjtAefx6mmhea8qxvO8oBhJ1cGDgh-0mOncLWIg_C9lUivMKEsLiQOnb7N91z14ef2IMSWdCTfLnxx6=s16000-rw"
+},
+"chateaux-celebres_palais-de-sanssouci": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.getyourguide.com/img/location/54ef3902e1e18.jpeg/88.jpg"
+},
+"chateaux-celebres_forteresse-teutonique-de-marienbourg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.getyourguide.com/img/location/5962171172ec7.jpeg/88.jpg"
+},
+"chateaux-celebres_chateau-de-karlstejn": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://travel.usnews.com/images/Karlstejn_Castle-Vrabelpeter1-Getty.jpg"
+},
+"chateaux-celebres_chateau-de-cesky-krumlov": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%C4%8Cesk%C3%BD_Krumlov%2C_z%C3%A1mek_cel%C3%BD_z_vyhl%C3%ADdky.jpg/1280px-%C4%8Cesk%C3%BD_Krumlov%2C_z%C3%A1mek_cel%C3%BD_z_vyhl%C3%ADdky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_palais-de-budavar": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.voyageavecnous.fr/wp-content/uploads/2024/07/chateau-de-budapest.jpg"
+},
+"chateaux-celebres_chateau-de-spis": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://images.trekhunt.com/cdn-cgi/imagedelivery/LYBOAsNdwD1Fvpuds5SzGA/2022/05/spis-castle-slovakia-1.webp/w3840"
+},
+"chateaux-celebres_chateau-de-kronborg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://images.locationscout.net/2022/05/kronborg-castle-denmark-06dg.jpg?h=1100&q=83"
+},
+"chateaux-celebres_chateau-de-frederiksborg": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Frederiksborg_Castle_and_boat_crop.jpg/1280px-Frederiksborg_Castle_and_boat_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-drottningholm": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://wallpapers.com/images/featured/drottningholm-palace-ig7pp2naie2eqap1.jpg"
+},
+"chateaux-celebres_chateau-de-chillon": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Chillon_viewed_from_south_2021.jpg/1280px-Chillon_viewed_from_south_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-de-peles": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://cdn.getyourguide.com/img/location/5d5ad66521fd0-wide.jpeg/88.jpg"
+},
+"chateaux-celebres_chateau-de-hunedoara": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.digitalfieldguide.com/wp-content/uploads/2017/08/Corvin-Castle.jpg"
+},
+"chateaux-celebres_chateau-des-comtes-de-flandre": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://curioguide.net/wp-content/uploads/2020/11/Une_ChateauComtes.jpg"
+},
+"chateaux-celebres_muiderslot": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Muiderslot_by_Edi_Weissmann.jpg/1280px-Muiderslot_by_Edi_Weissmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-saint-ange": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Castel_Sant%27Angelo_%28_Mausoleo_di_Andriano%29.jpg/1280px-Castel_Sant%27Angelo_%28_Mausoleo_di_Andriano%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_castel-del-monte": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Castel_del_Monte_-_Andria.jpg/1280px-Castel_del_Monte_-_Andria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-des-sforza": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.theoffline.fr/wp-content/uploads/2024/11/Le-chateau-des-Sforza.jpg"
+},
+"chateaux-celebres_alcazar-de-segovie": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg/1280px-Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_palais-national-de-pena": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.parquesdesintra.pt/media/txthvb2v/parques_de_sintra_parque_e_palacio_da_pena_hero_01.jpg?rxy=0.335"
+},
+"chateaux-celebres_chateau-de-belmonte": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.65ymas.com/uploads/s1/89/61/8/bigstock-185788180.jpeg"
+},
+"chateaux-celebres_chateau-d-osaka": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://nomadesurrails.fr/wp-content/uploads/2025/05/PXL_20250520_062926292.MP_-scaled.jpg"
+},
+"chateaux-celebres_chateau-de-matsumoto": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://s3.voyapon.com/wp-content/uploads/2016/04/IMG_2692.jpg"
+},
+"chateaux-celebres_fort-d-amber": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://lp-cms-production.imgix.net/2025-04/GettyImages-636955712-crop.jpg?auto=format"
+},
+"chateaux-celebres_hearst-castle": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg/1280px-Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-frontenac": {
+"source": "grand-complement",
+"origine": "wiki",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg/1280px-Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+},
+"chateaux-celebres_chateau-gaillard-les-andelys": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://www.nouvelle-normandie-tourisme.com/wp-content/uploads/2024/09/www.nouvelle-normandie-tourisme.com-chateau-gaillard-le-medieval-chateaugaillard-ot-nnt-aurelienpapa-76-2-1600x800.jpg"
+},
+"chateaux-celebres_wawel": {
+"source": "grand-complement",
+"origine": "web",
+"url": "http://krakau-citytours.com/wp-content/uploads/2025/05/wawel.jpg"
+},
+"chateaux-celebres_forteresse-de-hohensalzburg": {
+"source": "grand-complement",
+"origine": "web",
+"url": "https://static.vecteezy.com/system/resources/previews/059/782/663/large_2x/hohensalzburg-fortress-atop-a-hill-in-salzburg-austria-with-white-walls-medieval-architecture-lush-greenery-and-the-alps-under-a-clear-blue-sky-photo.jpg"
 }
 }

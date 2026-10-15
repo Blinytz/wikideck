@@ -681,13 +681,6 @@
    "editeLe": 1786909114543,
    "original": true
   },
-  "monuments-emblematiques_chateau-de-neuschwanstein": {
-   "cx": 0.4494,
-   "cy": 0.4532,
-   "w": 0.6807,
-   "original": true,
-   "editeLe": 1784493504536
-  },
   "monuments-emblematiques_mont-rushmore": {
    "cx": 0.5083,
    "cy": 0.4509,
@@ -716,13 +709,6 @@
    "original": true,
    "editeLe": 1784493742744
   },
-  "monuments-emblematiques_chateau-de-himeji": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8889,
-   "original": true,
-   "editeLe": 1784493795803
-  },
   "monuments-emblematiques_tour-de-pise": {
    "cx": 0.657,
    "cy": 0.4741,
@@ -743,13 +729,6 @@
    "w": 0.6071,
    "original": true,
    "editeLe": 1784494048150
-  },
-  "monuments-emblematiques_chateau-de-versailles": {
-   "cx": 0.4978,
-   "cy": 0.5,
-   "w": 0.887,
-   "original": true,
-   "editeLe": 1784494186779
   },
   "monuments-emblematiques_mosquee-bleue": {
    "cx": 0.5,
@@ -779,13 +758,6 @@
    "original": true,
    "editeLe": 1784494548778
   },
-  "monuments-emblematiques_chateau-d-edimbourg": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6931,
-   "original": true,
-   "editeLe": 1784494567789
-  },
   "monuments-emblematiques_palais-de-buckingham": {
    "cx": 0.5,
    "cy": 0.5,
@@ -799,13 +771,6 @@
    "w": 1,
    "original": true,
    "editeLe": 1784494818116
-  },
-  "monuments-emblematiques_chateau-de-chambord": {
-   "cx": 0.4859,
-   "cy": 0.5417,
-   "w": 0.7576,
-   "original": true,
-   "editeLe": 1784494947656
   },
   "monuments-emblematiques_grande-mosquee-de-djenne": {
    "cx": 0.5,
@@ -827,13 +792,6 @@
    "w": 0.8741,
    "original": true,
    "editeLe": 1784495110011
-  },
-  "monuments-emblematiques_chateau-de-prague": {
-   "cx": 0.5926,
-   "cy": 0.3757,
-   "w": 0.5009,
-   "original": true,
-   "editeLe": 1784495170717
   },
   "monuments-emblematiques_palais-du-potala": {
    "cx": 0.5194,
@@ -8178,13 +8136,6 @@
    "editeLe": 1786307842636,
    "original": true
   },
-  "monuments-emblematiques_chateau-de-chenonceau": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 1,
-   "editeLe": 1786307847736,
-   "original": true
-  },
   "monuments-emblematiques_pont-du-gard": {
    "cx": 0.5,
    "cy": 0.5,
@@ -8197,13 +8148,6 @@
    "cy": 0.5,
    "w": 0.61,
    "editeLe": 1786307859395,
-   "original": true
-  },
-  "monuments-emblematiques_tour-de-londres": {
-   "cx": 0.4611,
-   "cy": 0.489,
-   "w": 0.8112,
-   "editeLe": 1786307882181,
    "original": true
   },
   "monuments-emblematiques_abbaye-de-westminster": {
@@ -8269,13 +8213,6 @@
    "editeLe": 1786308078969,
    "original": true
   },
-  "monuments-emblematiques_chateau-de-schonbrunn": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.6784,
-   "editeLe": 1786308127017,
-   "original": true
-  },
   "monuments-emblematiques_musee-guggenheim-bilbao": {
    "cx": 0.5257,
    "cy": 0.5,
@@ -8297,13 +8234,6 @@
    "editeLe": 1786308168408,
    "original": true
   },
-  "monuments-emblematiques_chateau-de-bran": {
-   "cx": 0.5502,
-   "cy": 0.5,
-   "w": 0.885,
-   "editeLe": 1786308173990,
-   "original": true
-  },
   "monuments-emblematiques_palais-du-parlement-bucarest": {
    "cx": 0.5,
    "cy": 0.5,
@@ -8323,13 +8253,6 @@
    "cy": 0.5,
    "w": 0.8967,
    "editeLe": 1786308214879,
-   "original": true
-  },
-  "monuments-emblematiques_krak-des-chevaliers": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8933,
-   "editeLe": 1786308218204,
    "original": true
   },
   "monuments-emblematiques_mosquee-hassan-ii": {
@@ -47372,13 +47295,6 @@
    "editeLe": 1790414111586,
    "original": true
   },
-  "monuments-emblematiques_chateau-de-windsor": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.8885,
-   "editeLe": 1790414115606,
-   "original": true
-  },
   "monuments-emblematiques_place-rouge": {
    "cx": 0.5113,
    "cy": 0.5,
@@ -58122,6 +58038,666 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 1,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-neuschwanstein": {
+   "cx": 0.4494,
+   "cy": 0.4532,
+   "w": 0.6807,
+   "original": true,
+   "editeLe": 1784493504536
+  },
+  "chateaux-celebres_chateau-de-himeji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8889,
+   "original": true,
+   "editeLe": 1784493795803
+  },
+  "chateaux-celebres_chateau-de-versailles": {
+   "cx": 0.4978,
+   "cy": 0.5,
+   "w": 0.887,
+   "original": true,
+   "editeLe": 1784494186779
+  },
+  "chateaux-celebres_chateau-d-edimbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6931,
+   "original": true,
+   "editeLe": 1784494567789
+  },
+  "chateaux-celebres_chateau-de-chambord": {
+   "cx": 0.4859,
+   "cy": 0.5417,
+   "w": 0.7576,
+   "original": true,
+   "editeLe": 1784494947656
+  },
+  "chateaux-celebres_chateau-de-prague": {
+   "cx": 0.5926,
+   "cy": 0.3757,
+   "w": 0.5009,
+   "original": true,
+   "editeLe": 1784495170717
+  },
+  "chateaux-celebres_chateau-de-chenonceau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "editeLe": 1786307847736,
+   "original": true
+  },
+  "chateaux-celebres_chateau-de-schonbrunn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6784,
+   "editeLe": 1786308127017,
+   "original": true
+  },
+  "chateaux-celebres_chateau-de-bran": {
+   "cx": 0.5502,
+   "cy": 0.5,
+   "w": 0.885,
+   "editeLe": 1786308173990,
+   "original": true
+  },
+  "chateaux-celebres_chateau-de-windsor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885,
+   "editeLe": 1790414115606,
+   "original": true
+  },
+  "chateaux-celebres_tour-de-londres": {
+   "cx": 0.4611,
+   "cy": 0.489,
+   "w": 0.8112,
+   "editeLe": 1786307882181,
+   "original": true
+  },
+  "chateaux-celebres_krak-des-chevaliers": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8933,
+   "editeLe": 1786308218204,
+   "original": true
+  },
+  "chateaux-celebres_chateau-de-fontainebleau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-vaux-le-vicomte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-chantilly": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7608333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-amboise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-blois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8916666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-cheverny": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.621875,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-azay-le-rideau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-villandry": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-usse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.890625,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_forteresse-royale-de-chinon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7641666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-saumur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-pierrefonds": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8816666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-du-haut-koenigsbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8876190476190476,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-montsegur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8854166666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-peyrepertuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-foix": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8858333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-des-ducs-de-bretagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-fougeres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8475,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-josselin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-vincennes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9241666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-saint-germain-en-laye": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-malmaison": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-if": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-pau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-bonaguil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.635,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_guedelon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9975,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_cite-de-carcassonne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-vitre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.888888888888889,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-castelnaud": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-beynac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.695,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-tarascon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8880208333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-warwick": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-caernarfon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-conwy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-stirling": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_eilean-donan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8825,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-balmoral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8933333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-blarney": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-leeds": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-bodiam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-hohenzollern": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8833333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-eltz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-heidelberg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-la-wartbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8893229166666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_palais-de-sanssouci": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_forteresse-teutonique-de-marienbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-karlstejn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8708333333333332,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-cesky-krumlov": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8239583333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_palais-de-budavar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8925,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-spis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9416666666666668,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-kronborg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-frederiksborg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.88125,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-drottningholm": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-chillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-peles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-hunedoara": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.89,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-des-comtes-de-flandre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_muiderslot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-saint-ange": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9239583333333334,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_castel-del-monte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.959375,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-des-sforza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6977777777777778,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_alcazar-de-segovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_palais-national-de-pena": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-belmonte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8891666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-d-osaka": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-de-matsumoto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8883333333333333,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_fort-d-amber": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_hearst-castle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-frontenac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8885416666666666,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_chateau-gaillard-les-andelys": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6666666666666667,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_wawel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1.0,
+   "original": true,
+   "editeLe": 0,
+   "auto": true
+  },
+  "chateaux-celebres_forteresse-de-hohensalzburg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9991666666666668,
    "original": true,
    "editeLe": 0,
    "auto": true

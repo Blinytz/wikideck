@@ -295,8 +295,19 @@ async function demarrer() {
     notesChargees = true;
   } catch (e) {
     console.error('notes illisibles', e);
-    alert('Les notes de l’atelier n’ont pas pu être lues (' + e.message + '). '
-          + 'Rien ne sera enregistré dans les notes tant que la page n’est pas rechargée.');
+    // Jeton refuse (expire ou revoque) : on affiche quand meme les notes
+    // publiques, en lecture seule, et on ouvre le reglage du jeton.
+    const refuse = /HTTP 40[13]/.test(e.message);
+    try {
+      const texte = await (await fetch('build/notes_atelier.json' + bust)).text();
+      if (texte) notes = { ...notes, ...JSON.parse(texte) };
+    } catch {}
+    alert(refuse
+      ? 'Ton jeton GitHub est refusé : il a sans doute expiré. Colle un nouveau jeton dans l’onglet ⚙. '
+        + 'En attendant, l’atelier est en lecture seule.'
+      : 'Les notes de l’atelier n’ont pas pu être lues (' + e.message + '). '
+        + 'Rien ne sera enregistré dans les notes tant que la page n’est pas rechargée.');
+    if (refuse) afficherVue('config');
   }
 
   await chargerCombat(bust);
@@ -1138,8 +1149,10 @@ function rendreConfig() {
     const v = $('#cfg-token').value.trim();
     if (v && !v.startsWith('•')) setToken(v);
     $('#cfg-etat').textContent = '… test en cours';
-    $('#cfg-etat').textContent = (await testerToken().catch(() => false))
-      ? '🟢 token valide — écriture activée' : '🔴 token invalide';
+    const ok = await testerToken().catch(() => false);
+    $('#cfg-etat').textContent = ok ? '🟢 token valide — écriture activée' : '🔴 token invalide';
+    // notes lues en lecture seule faute de jeton : on recharge pour les relire avec
+    if (ok && !notesChargees) location.reload();
   };
   $('#cfg-deco')?.addEventListener('click', () => { setToken(''); rendreConfig(); });
 }

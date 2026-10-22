@@ -1118,7 +1118,7 @@ function rendreConfig() {
       Il faut un token « personnel (classic) » avec la portée <b>repo</b> :
       github.com → Settings → Developer settings → Personal access tokens →
       Generate new token (classic). Le token reste sur CET appareil.</p>
-      <input type="password" id="cfg-token" placeholder="ghp_…" value="${ok ? '••••••••' : ''}">
+      <input type="password" id="cfg-token" placeholder="${ok ? '•••••••• (jeton enregistré)' : 'ghp_… ou github_pat_…'}" value="">
       <div class="m-boutons">
         <button class="btn btn-primaire" id="cfg-ok">Enregistrer et tester</button>
         ${ok ? '<button class="btn btn-danger" id="cfg-deco">Déconnecter cet appareil</button>' : ''}
@@ -1146,8 +1146,8 @@ function rendreConfig() {
       champs marqués manuels ne sont jamais réécrasés.</p>
     </div>`;
   $('#cfg-ok').onclick = async () => {
-    const v = $('#cfg-token').value.trim();
-    if (v && !v.startsWith('•')) setToken(v);
+    const v = $('#cfg-token').value.replace(/[•\s]/g, '');
+    if (v) setToken(v);
     $('#cfg-etat').textContent = '… test en cours';
     const ok = await testerToken().catch(() => false);
     $('#cfg-etat').textContent = ok ? '🟢 token valide — écriture activée' : '🔴 token invalide';

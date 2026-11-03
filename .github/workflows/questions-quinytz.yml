@@ -8,6 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # seulement les scripts (et les données) : pas les milliers d'images
+          sparse-checkout: |
+            build/serveur
+          sparse-checkout-cone-mode: true
       - run: python build/serveur/copie_quinytz.py
         env:
           QUINYTZ_SUPABASE_URL: ${{ secrets.QUINYTZ_SUPABASE_URL }}

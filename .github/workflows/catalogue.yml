@@ -9,6 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # seulement les scripts (et les données) : pas les milliers d'images
+          sparse-checkout: |
+            build/serveur
+            data
+          sparse-checkout-cone-mode: true
       - run: python build/serveur/sync_catalogue.py
         env:
           ECLATS_SUPABASE_URL: https://psutbulpezfdftmaqkoo.supabase.co

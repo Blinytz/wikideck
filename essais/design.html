@@ -87,6 +87,21 @@
   .defile .k { --w: 132px; cursor: pointer; scroll-snap-align: start; }
 
   /* ---------- questions ---------- */
+  .multi.chaud { background: #f2c66d33; box-shadow: 0 0 24px -4px #f2c66d88; }
+  .multi.monte { animation: pop .5s var(--ressort); }
+  .suite { display: flex; align-items: center; gap: 16px; margin: -6px 0 18px; }
+  .suite-l { display: flex; align-items: baseline; gap: 8px; }
+  .suite-l b { font-size: 20px; }
+  .suite-barre { flex: 1; display: flex; align-items: center; gap: 10px; }
+  .suite-barre .barre2 { flex: 1; }
+  .suite-barre .barre2 > i { background: var(--or); }
+  .suite-barre span { font: 500 12px var(--mono); color: var(--texte-3); white-space: nowrap; }
+  .props { display: flex; flex-direction: column; gap: 10px; }
+  .prop { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "meta meta" "niv gain"; gap: 16px 10px; padding: 18px; border: 0; text-align: left; cursor: pointer; }
+  .prop .meta { grid-area: meta; display: flex; justify-content: space-between; align-items: center; }
+  .prop .niv { grid-area: niv; font: 400 28px/1 var(--serif); }
+  .prop .gain-prop { grid-area: gain; align-self: end; display: flex; align-items: center; gap: 6px; font: 600 14px var(--mono); color: var(--vert); }
+  .qdj-c { box-shadow: 0 0 0 1px #f2c66d55 inset, 0 0 60px -20px #f2c66d55; }
   .multi { display: flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px; border-radius: 99px; background: #f2c66d1a; color: var(--or); font: 600 14px var(--mono); }
   .points { display: flex; gap: 5px; margin-bottom: 16px; }
   .points i { flex: 1; height: 4px; border-radius: 99px; background: #ffffff12; }
@@ -116,7 +131,7 @@
   .verdict .txt { flex: 1; min-width: 0; }
   .verdict .txt b { display: block; font: 400 21px/1.1 var(--serif); }
   .verdict .txt span { font: 500 12px var(--mono); color: var(--texte-3); }
-  .gain { position: fixed; left: 50%; top: 40%; z-index: 90; translate: -50%; font: 600 28px var(--mono); color: var(--or); text-shadow: 0 0 30px #f2c66d88; pointer-events: none; animation: gain 1.1s ease-out forwards; }
+  .gain { position: fixed; left: 50%; top: 40%; z-index: 90; translate: -50%; display: flex; align-items: center; gap: 8px; white-space: nowrap; font: 600 28px var(--mono); color: var(--or); text-shadow: 0 0 30px #f2c66d88; pointer-events: none; animation: gain 1.1s ease-out forwards; }
   @keyframes gain { from { opacity: 0; transform: translateY(20px) scale(.8); } 20% { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-70px); } }
 
   /* ---------- collection ---------- */
@@ -303,7 +318,7 @@ function crediter(n) {
 // ---------- accueil ----------
 let paquets = 3, tete = 'auto';
 const historique = [];
-const fin = Date.now() + 4 * 3600e3 + 12 * 60e3;
+let fin = Date.now() + 4 * 3600e3 + 12 * 60e3;
 function rendreAccueil() {
   const z = $('#accueil');
   const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length;
@@ -322,9 +337,9 @@ function rendreAccueil() {
     <div class="essai" id="essai">${['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === tete ? 'actif' : ''}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('')}</div>
 
     <button class="bloc qdj pressable" data-aller="questions">
-      <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag">×2</span></div>
-      <div class="q">${esc(QUESTIONS[0].q)}</div>
-      <div class="aller"><span>Histoire</span><i class="ph-bold ph-arrow-right"></i></div>
+      <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag"><i class="ph-bold ph-timer"></i>−3 h</span></div>
+      <div class="q">${esc(QDJ.question)}</div>
+      <div class="aller"><span>${esc(QDJ.theme)}</span><i class="ph-bold ph-arrow-right"></i></div>
     </button>
     <div class="duo">
       <button class="bloc pressable">
@@ -344,7 +359,7 @@ function rendreAccueil() {
     <div class="section-titre"><h2>Dernières cartes</h2><button class="lien">Historique</button></div>
     <div class="defile" id="dernieres">${historique.map((c) => htmlCarte(c)).join('')}</div>`;
 
-  const minuteur = () => { const s = Math.max(0, Math.round((fin - Date.now()) / 1000)); const m = $('#minuteur'); if (m) m.textContent = `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor(s / 60) % 60).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`; };
+  const minuteur = () => { if (fin <= Date.now()) { while (fin <= Date.now()) { paquets++; fin += 12 * 3600e3; } if (ecran === 'accueil') rendreAccueil(); return; } const s = Math.max(0, Math.round((fin - Date.now()) / 1000)); const m = $('#minuteur'); if (m) m.textContent = `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor(s / 60) % 60).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`; };
   minuteur(); clearInterval(window.__min); window.__min = setInterval(minuteur, 1000);
   $('#essai').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; tete = b.dataset.r; z.querySelectorAll('#essai button').forEach((x) => x.classList.toggle('actif', x === b)); });
   $('#ouvrir').addEventListener('click', lancer);
@@ -372,30 +387,103 @@ async function lancer() {
   rendreAccueil();
 }
 
-// ---------- questions ----------
-const QUESTIONS = [
-  { q: 'Quel souverain fit bâtir la galerie des Glaces ?', r: ['louis xiv', 'louis 14'], aff: 'Louis XIV', th: 'Histoire', d: 2 },
-  { q: 'Quel élément chimique a pour symbole « W » ?', r: ['tungstene', 'wolfram'], aff: 'Le tungstène', th: 'Sciences', d: 3 },
-  { q: 'Dans quel pays se trouve le château de Neuschwanstein ?', r: ['allemagne'], aff: "L'Allemagne", th: 'Géographie', d: 1 },
-  { q: 'Qui a peint « La Jeune Fille à la perle » ?', r: ['vermeer', 'johannes vermeer'], aff: 'Johannes Vermeer', th: 'Arts', d: 2 },
-  { q: 'Quel oiseau est l’emblème de la Nouvelle-Zélande ?', r: ['kiwi'], aff: 'Le kiwi', th: 'Nature', d: 2 },
-  { q: 'Quelle planète possède le plus grand volcan connu, Olympus Mons ?', r: ['mars'], aff: 'Mars', th: 'Sciences', d: 3 },
-];
-let qi = 0; const resultats = [];
-const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+// ---------- questions : règles du vrai jeu (sans fin, 3 propositions, suite) ----------
+const ECHANTILLON = [
+  ['Quel souverain fit bâtir la galerie des Glaces ?', 'Louis XIV', 'Histoire', 2],
+  ['Quel élément chimique a pour symbole W ?', 'Tungstène', 'Sciences', 3],
+  ['Dans quel pays se trouve le château de Neuschwanstein ?', 'Allemagne', 'Géographie', 1],
+  ['Qui a peint La Jeune Fille à la perle ?', 'Johannes Vermeer', 'Arts', 2],
+  ['Quel oiseau est l’emblème de la Nouvelle-Zélande ?', 'Kiwi', 'Nature', 1],
+  ['Sur quelle planète se trouve Olympus Mons ?', 'Mars', 'Sciences', 2],
+  ['Quelle est la capitale de l’Australie ?', 'Canberra', 'Géographie', 2],
+  ['Qui a écrit Les Misérables ?', 'Victor Hugo', 'Littérature', 1],
+  ['Quel compositeur a écrit La Flûte enchantée ?', 'Wolfgang Amadeus Mozart', 'Musique', 2],
+  ['En quelle année est tombé le mur de Berlin ?', '1989', 'Histoire', 2],
+  ['Quel est le plus long fleuve de France ?', 'Loire', 'Géographie', 1],
+  ['Qui a formulé la théorie de la relativité générale ?', 'Albert Einstein', 'Sciences', 1],
+  ['Quel peintre s’est coupé une partie de l’oreille ?', 'Vincent van Gogh', 'Arts', 1],
+  ['Quelle reine d’Égypte s’allia à Marc Antoine ?', 'Cléopâtre', 'Histoire', 1],
+  ['Quel gaz les plantes absorbent-elles pour la photosynthèse ?', 'Dioxyde de carbone', 'Sciences', 2],
+  ['Quel architecte a conçu la Sagrada Família ?', 'Antoni Gaudí', 'Arts', 2],
+  ['Quel est le plus haut sommet d’Afrique ?', 'Kilimandjaro', 'Géographie', 2],
+  ['Qui a réalisé le film Les Temps modernes ?', 'Charlie Chaplin', 'Cinéma', 2],
+  ['Quel philosophe a écrit Ainsi parlait Zarathoustra ?', 'Friedrich Nietzsche', 'Philosophie', 3],
+  ['Quelle mer borde la ville d’Odessa ?', 'Mer Noire', 'Géographie', 2],
+  ['Quel empereur romain fit construire un mur dans le nord de la Bretagne romaine ?', 'Hadrien', 'Histoire', 3],
+  ['Dans quel opéra de Bizet chante-t-on la Habanera ?', 'Carmen', 'Musique', 2],
+  ['Quel navigateur portugais a atteint l’Inde par la mer en 1498 ?', 'Vasco de Gama', 'Histoire', 3],
+  ['Quelle particule porte une charge électrique négative dans l’atome ?', 'Électron', 'Sciences', 1],
+  ['Quel poète a écrit Les Fleurs du mal ?', 'Charles Baudelaire', 'Littérature', 1],
+  ['Quel pays a pour capitale Oulan-Bator ?', 'Mongolie', 'Géographie', 2],
+  ['Qui a peint le plafond de la chapelle Sixtine ?', 'Michel-Ange', 'Arts', 1],
+  ['Quel savant a découvert la pénicilline ?', 'Alexander Fleming', 'Sciences', 2],
+  ['Quelle bataille de 1815 marqua la chute de Napoléon ?', 'Waterloo', 'Histoire', 1],
+  ['Quel est l’os le plus long du corps humain ?', 'Fémur', 'Sciences', 2],
+  ['Quel écrivain russe a écrit Crime et Châtiment ?', 'Fiodor Dostoïevski', 'Littérature', 3],
+  ['Quel dieu grec porte un trident ?', 'Poséidon', 'Mythologie', 1],
+  ['Quel détroit sépare l’Europe de l’Afrique ?', 'Gibraltar', 'Géographie', 1],
+  ['Quel physicien a énoncé le principe d’incertitude ?', 'Werner Heisenberg', 'Sciences', 4],
+  ['Quelle dynastie régnait en Chine quand fut bâtie la Cité interdite ?', 'Ming', 'Histoire', 4],
+  ['Quel mathématicien grec a donné son nom au théorème sur le triangle rectangle ?', 'Pythagore', 'Sciences', 1],
+].map(([q, r, th, d], i) => ({ id: 'e' + i, question: q, reponse: r, variantes: [], theme: th, difficulte: d }));
+// sur l'appareil où le vrai jeu est connecté, on reprend sa copie des vraies questions
+let BANQUE = ECHANTILLON;
+try { const c = JSON.parse(localStorage.getItem('wikideck-questions-cache') || '[]'); if (c.length > 50) BANQUE = c; } catch {}
+const NIVEAUX = ['', 'Débutant', 'Confirmé', 'Expert', 'Nobel', 'Omniscient'];
+const GAINS = [0, 6, 12, 24, 45, 90];
+const PALIERS = [[3, 1.5], [5, 2], [10, 3], [20, 4]];
+const multiplicateur = (s) => [...PALIERS].reverse().find(([n]) => s >= n)?.[1] ?? 1;
+const ARTICLES = /^(le|la|les|l|un|une|des|du|de|d|au|aux|the|a|an)\s+/;
+const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'`]/g, ' ').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim().replace(ARTICLES, '').replace(ARTICLES, '');
+const lev = (a, b) => { let p = Array.from({ length: b.length + 1 }, (_, j) => j); for (let i = 1; i <= a.length; i++) { const c = [i]; for (let j = 1; j <= b.length; j++) c[j] = Math.min(p[j] + 1, c[j - 1] + 1, p[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); p = c; } return p[b.length]; };
+function correcte(qu, saisie) {
+  const s = norm(saisie); if (!s) return false;
+  const brut = [qu.reponse, ...(qu.variantes || [])];
+  brut.slice().forEach((r) => { const x = r.replace(/\s*\([^)]*\)\s*/g, ' ').trim(); if (x !== r) brut.push(x); });
+  const ok = brut.map(norm).filter(Boolean);
+  ok.slice().forEach((r) => { const m = r.split(' '); if (m.length >= 2 && m.length <= 3 && m.at(-1).length >= 4) ok.push(m.at(-1)); });
+  return ok.some((r) => lev(s, r) <= Math.floor(r.length * .2));
+}
+const fmtMin = (m) => (m >= 60 ? `${Math.floor(m / 60)} h${m % 60 ? ' ' + String(m % 60).padStart(2, '0') : ''}` : `${m} min`);
+const fmtX = (x) => '×' + String(x).replace('.', ',');
+const QDJ = BANQUE[Math.floor(hash(new Date().toDateString()) * BANQUE.length)];
+const qs = { suite: 0, qdjFaite: false, props: null, enCours: null, vues: new Set([QDJ.id]) };
+function tirerPropositions() {
+  const pool = BANQUE.filter((x) => !qs.vues.has(x.id)); const out = [];
+  while (out.length < 3 && pool.length) out.push(pool.splice(Math.floor(Math.random() * pool.length), 1)[0]);
+  if (out.length < 3) { qs.vues = new Set([QDJ.id]); return tirerPropositions(); }
+  return out;
+}
+function htmlMulti(classe = '') {
+  const m = multiplicateur(qs.suite);
+  return `<span class="multi${m > 1 ? ' chaud' : ''}${classe}"><i class="ph-fill ph-lightning"></i>${fmtX(m)}</span>`;
+}
+function htmlSuite() {
+  const base = [...PALIERS].reverse().find(([n]) => qs.suite >= n)?.[0] ?? 0;
+  const pp = PALIERS.find(([n]) => n > qs.suite);
+  return `<div class="suite"><div class="suite-l"><span class="surtitre">Suite</span><b class="chiffre">${qs.suite}</b></div>
+    <div class="suite-barre">${pp ? `<div class="barre2"><i style="width:${(qs.suite - base) / (pp[0] - base) * 100}%"></i></div><span>${fmtX(pp[1])} à ${pp[0]}</span>` : '<span>Maximum</span>'}</div></div>`;
+}
+const enteteQuestions = () => `<div class="grand-titre"><div><h1>Questions</h1></div>${htmlMulti()}</div>${htmlSuite()}`;
 function rendreQuestions() {
   const z = $('#questions');
-  if (qi >= QUESTIONS.length) {
-    z.innerHTML = `<div class="grand-titre"><div><h1>Questions</h1><div class="sous">${resultats.filter(Boolean).length} / ${QUESTIONS.length}</div></div></div>
-      <div class="bloc q-carte" style="align-items:center;justify-content:center;text-align:center"><i class="ph-fill ph-check-circle" style="font-size:44px;color:var(--vert)"></i><p class="q-texte" style="margin-top:14px">À demain</p></div>`;
+  if (!qs.qdjFaite && !qs.enCours) qs.enCours = { ...QDJ, qdj: true };
+  if (!qs.enCours) {
+    qs.props ??= tirerPropositions();
+    const m = multiplicateur(qs.suite);
+    z.innerHTML = `${enteteQuestions()}
+      <div class="props">${qs.props.map((p, i) => `<button class="bloc prop pressable" data-i="${i}">
+        <div class="meta"><span class="tag">${esc(p.theme)}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= p.difficulte ? 'on' : ''}"></i>`).join('')}</span></div>
+        <div class="niv">${NIVEAUX[p.difficulte]}</div>
+        <div class="gain-prop"><i class="ph-bold ph-timer"></i>−${fmtMin(GAINS[p.difficulte] * m)}</div></button>`).join('')}</div>`;
+    z.querySelectorAll('.prop').forEach((b) => b.addEventListener('click', () => { vibrer(); transition(() => { qs.enCours = qs.props[b.dataset.i]; qs.props = null; qs.vues.add(qs.enCours.id); rendreQuestions(); }); }));
     return;
   }
-  const q = QUESTIONS[qi];
-  z.innerHTML = `<div class="grand-titre"><div><h1>Questions</h1><div class="sous">${qi + 1} / ${QUESTIONS.length}</div></div><span class="multi"><i class="ph-fill ph-lightning"></i>×1,5</span></div>
-    <div class="points">${QUESTIONS.map((_, i) => `<i class="${i < resultats.length ? (resultats[i] ? 'juste' : 'faux') : i === qi ? 'ici' : ''}"></i>`).join('')}</div>
-    <div class="bloc q-carte" id="qc">
-      <div class="meta"><span class="tag${qi === 0 ? ' or' : ''}">${qi === 0 ? '<i class="ph-fill ph-star"></i>' : ''}${q.th}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= q.d ? 'on' : ''}"></i>`).join('')}</span></div>
-      <p class="q-texte">${esc(q.q)}</p>
+  const q = qs.enCours, gain = q.qdj ? 180 : GAINS[q.difficulte] * multiplicateur(qs.suite);
+  z.innerHTML = `${enteteQuestions()}
+    <div class="bloc q-carte${q.qdj ? ' qdj-c' : ''}" id="qc">
+      <div class="meta"><span class="tag${q.qdj ? ' or' : ''}">${q.qdj ? '<i class="ph-fill ph-star"></i>Question du jour' : esc(q.theme)}</span><span class="tag"><i class="ph-bold ph-timer"></i>−${fmtMin(gain)}</span></div>
+      <p class="q-texte">${esc(q.question)}</p>
     </div>
     <form class="q-form" id="qf"><input id="qr" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="send" placeholder="Réponse"><button disabled><i class="ph-bold ph-arrow-up"></i></button></form>
     <div class="verdict" id="qv"></div>`;
@@ -404,16 +492,28 @@ function rendreQuestions() {
   $('#qf').addEventListener('submit', (e) => {
     e.preventDefault();
     if (!inp.value.trim() || inp.disabled) return;
-    const ok = q.r.some((r) => norm(inp.value) === r || norm(inp.value).endsWith(' ' + r));
-    resultats.push(ok); inp.disabled = true; bt.disabled = true;
+    const ok = correcte(q, inp.value);
+    inp.disabled = true; bt.disabled = true;
+    if (q.qdj) { qs.qdjFaite = true; $('#onglets .pastille')?.remove(); }
+    const avant = multiplicateur(qs.suite);
+    qs.suite = ok ? qs.suite + 1 : 0;
+    const apres = multiplicateur(qs.suite);
     $('#qc').classList.add(ok ? 'juste' : 'faux');
     vibrer(ok ? 20 : [30, 40, 30]);
+    if (ok) gagnerMinutes(gain);
+    $('#questions .multi').outerHTML = htmlMulti(apres > avant ? ' monte' : '');
+    $('#questions .suite').outerHTML = htmlSuite();
     const v = $('#qv'); v.className = `verdict vu ${ok ? 'ok' : 'ko'}`;
-    v.innerHTML = `<div class="ico"><i class="ph-bold ${ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.aff)}</b><span>${ok ? `+${qi === 0 ? 240 : 120} ◆` : 'Revient dans 3 jours'}</span></div><button class="btn2 petit" id="suiv">Suivante</button>`;
-    if (ok) crediter(qi === 0 ? 240 : 120);
-    $('#suiv').addEventListener('click', () => { qi++; transition(rendreQuestions); });
-    $('#suiv').focus();
+    const detail = ok ? (apres > avant ? `${fmtX(apres)} débloqué` : `−${fmtMin(gain)}`) : (avant > 1 ? `Suite perdue · ${fmtX(1)}` : 'Revient dans 3 jours');
+    v.innerHTML = `<div class="ico"><i class="ph-bold ${ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${detail}</span></div><button class="btn2 petit" id="suiv">Suivante</button>`;
+    $('#suiv').addEventListener('click', () => { qs.enCours = null; transition(rendreQuestions); });
+    setTimeout(() => $('#suiv')?.focus(), 50);
   });
+}
+function gagnerMinutes(m) {
+  fin -= m * 60e3;
+  const g = document.createElement('div'); g.className = 'gain'; g.innerHTML = `<i class="ph-bold ph-timer"></i>−${fmtMin(m)}`;
+  document.body.append(g); setTimeout(() => g.remove(), 1200);
 }
 
 // ---------- collection ----------

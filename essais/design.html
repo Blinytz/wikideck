@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e0e13">
+<title>WikiDeck · essai de design</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=swap">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<link rel="stylesheet" href="../css/design.css">
+<link rel="stylesheet" href="../css/ouverture2.css">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; min-height: 100%; }
+  body { overscroll-behavior: none; }
+  button { font: inherit; color: inherit; }
+  .page { max-width: 560px; margin: 0 auto; padding: max(18px, env(safe-area-inset-top)) 16px 120px; }
+  .ecran { display: none; }
+  .ecran.actif { display: block; animation: monte .35s ease both; }
+  @keyframes monte { from { opacity: 0; transform: translateY(8px); } }
+
+  /* barre du haut */
+  .barre { display: flex; align-items: center; justify-content: space-between; margin-bottom: 22px; }
+  .marque { font: 400 26px/1 var(--serif); letter-spacing: -.01em; }
+  .marque em { color: var(--accent); }
+  .solde { display: flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px 0 10px; border-radius: 99px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; }
+  .solde i { color: var(--accent); font-size: 16px; }
+
+  /* accueil : le paquet */
+  .scene-paquet { position: relative; display: grid; place-items: center; padding: 18px 0 8px; }
+  .scene-paquet::before { content: ''; position: absolute; width: 320px; height: 320px; border-radius: 50%; background: radial-gradient(closest-side, #e8d5a31f, transparent); top: 0; }
+  .mini-pk { position: relative; width: 168px; height: 248px; border-radius: 10px; overflow: hidden; cursor: pointer;
+    background: linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%, radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%);
+    animation: pk-moire 5s linear infinite, pk-flotte 4s ease-in-out infinite; box-shadow: 0 30px 50px -20px #000, 0 0 0 1px #ffffff12 inset;
+    display: grid; place-items: center; }
+  .mini-pk::before { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(90deg, #ffffff08 0 2px, transparent 2px 7px); }
+  .mini-pk::after { content: ''; position: absolute; left: 0; right: 0; top: 16%; border-top: 1px dashed #e8d5a344; }
+  .mini-pk .k-mono { width: 74px; font-size: 36px; position: relative; }
+  .compteur { margin-top: 22px; text-align: center; }
+  .compteur .chiffre { font-size: 30px; letter-spacing: -.02em; }
+  .compteur .surtitre { display: block; margin-bottom: 6px; }
+  .actions-paquet { display: flex; justify-content: center; gap: 10px; margin: 18px 0 30px; }
+
+  .tuiles { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 30px; }
+  .tuile { background: var(--surface); border-radius: 18px; padding: 14px; box-shadow: 0 0 0 1px var(--ligne) inset; display: flex; flex-direction: column; gap: 10px; min-height: 108px; cursor: pointer; text-align: left; border: 0; }
+  .tuile .haut { display: flex; justify-content: space-between; align-items: center; color: var(--texte-3); }
+  .tuile .haut i { font-size: 20px; }
+  .tuile .grand { font: 400 32px/1 var(--serif); }
+  .tuile .grand small { font: 500 13px var(--mono); color: var(--texte-3); margin-left: 4px; }
+  .tuile.large { grid-column: 1 / -1; min-height: 0; }
+  .tuile .q { font: 400 21px/1.2 var(--serif); }
+  .flamme { color: #ff9f5a !important; }
+
+  .section-titre { display: flex; justify-content: space-between; align-items: baseline; margin: 0 0 12px; }
+  .section-titre h2 { font: 400 24px/1 var(--serif); }
+  .defile { display: flex; gap: 10px; overflow-x: auto; margin: 0 -16px; padding: 4px 16px 10px; scrollbar-width: none; }
+  .defile .k { --w: 118px; cursor: pointer; }
+
+  /* collection */
+  .entete-ecran { margin: 6px 0 18px; }
+  .entete-ecran h1 { font: 400 44px/1 var(--serif); letter-spacing: -.02em; }
+  .entete-ecran p { margin: 8px 0 0; color: var(--texte-3); font: 500 13px var(--mono); }
+  .puces { display: flex; gap: 6px; overflow-x: auto; margin: 0 -16px 18px; padding: 0 16px; scrollbar-width: none; }
+  .puce { flex: none; height: 32px; padding: 0 13px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); font: 500 13px var(--sans); cursor: pointer; box-shadow: 0 0 0 1px var(--ligne) inset; }
+  .puce.actif { background: var(--texte); color: var(--encre); }
+  .liste-col { display: flex; flex-direction: column; gap: 2px; }
+  .ligne-col { display: grid; grid-template-columns: 64px 1fr auto; gap: 14px; align-items: center; padding: 10px 6px; border-radius: 14px; cursor: pointer; border: 0; background: none; text-align: left; }
+  .ligne-col:active { background: var(--surface); }
+  .mosaique { position: relative; width: 64px; height: 64px; }
+  .mosaique img { position: absolute; width: 44px; height: 58px; object-fit: cover; border-radius: 6px; box-shadow: 0 0 0 1px #ffffff1a, 0 6px 14px #0009; background: #22222c; }
+  .mosaique img:nth-child(1) { left: 0; top: 4px; transform: rotate(-8deg); }
+  .mosaique img:nth-child(2) { left: 10px; top: 2px; transform: rotate(0deg); }
+  .mosaique img:nth-child(3) { left: 20px; top: 4px; transform: rotate(8deg); }
+  .ligne-col .nom { font: 400 21px/1.1 var(--serif); }
+  .ligne-col .meta { display: flex; align-items: center; gap: 10px; margin-top: 7px; }
+  .ligne-col .barre2 { width: 90px; }
+  .ligne-col .meta span { font: 500 12px var(--mono); color: var(--texte-3); }
+  .ligne-col > i { color: var(--texte-3); }
+  .ligne-col.complete .barre2 > i { background: var(--accent); }
+
+  .retour { display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px 0 8px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); cursor: pointer; margin-bottom: 14px; }
+  .grille { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .grille .k { --w: calc((min(100vw, 560px) - 52px) / 3); cursor: pointer; }
+  .absente { aspect-ratio: 63 / 88; border-radius: calc((min(100vw, 560px) - 52px) / 3 * .065); box-shadow: 0 0 0 1px var(--ligne) inset; background: repeating-linear-gradient(45deg, #ffffff04 0 1px, transparent 1px 8px), var(--surface); display: grid; place-items: center; font: 500 12px var(--mono); color: var(--texte-3); }
+  .quantite { position: absolute; right: 6px; bottom: 6px; z-index: 3; font: 600 10px var(--mono); background: #000b; padding: 2px 6px; border-radius: 99px; }
+
+  /* fiche carte */
+  .fiche { position: fixed; inset: 0; z-index: 60; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px; padding: 20px 16px calc(20px + env(safe-area-inset-bottom));
+    background: #08080bf2; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); animation: ov2-entree .25s ease both; }
+  .fiche .k { --w: min(78vw, 330px); }
+  .fiche .k .k-desc { -webkit-line-clamp: 6; }
+  .fiche .actions { display: flex; gap: 10px; }
+  .fiche .fermer { position: absolute; top: max(14px, env(safe-area-inset-top)); right: 14px; }
+  .fiche .infos { display: flex; gap: 18px; color: var(--texte-3); font: 500 12px var(--mono); }
+  .fiche .infos b { color: var(--texte); font-weight: 500; }
+
+  /* outil d'essai : forcer la rareté de tête */
+  .essai { display: flex; gap: 4px; justify-content: center; margin-top: -14px; margin-bottom: 26px; }
+  .essai button { width: 34px; height: 30px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-3); cursor: pointer; font-size: 15px; }
+  .essai button.actif { color: var(--encre); background: var(--accent); }
+</style>
+</head>
+<body class="v2">
+<div class="page">
+  <div class="barre">
+    <div class="marque">Wiki<em>Deck</em></div>
+    <div class="solde"><i class="ph-fill ph-diamond"></i><span class="chiffre">12 480</span></div>
+  </div>
+
+  <section class="ecran actif" id="accueil">
+    <div class="scene-paquet"><div class="mini-pk" id="mini-pk"><div class="k-mono">W</div></div></div>
+    <div class="compteur"><span class="surtitre">Paquet suivant</span><span class="chiffre" id="minuteur">Prêt</span></div>
+    <div class="actions-paquet">
+      <button class="btn2" id="ouvrir"><i class="ph-bold ph-cards"></i>Ouvrir</button>
+    </div>
+    <div class="essai" id="essai"></div>
+
+    <div class="tuiles">
+      <button class="tuile large" data-aller="questions">
+        <div class="haut"><span class="surtitre">Question du jour</span><i class="ph ph-question"></i></div>
+        <div class="q">Quel souverain fit bâtir la galerie des Glaces ?</div>
+      </button>
+      <button class="tuile">
+        <div class="haut"><span class="surtitre">Série</span><i class="ph-fill ph-fire flamme"></i></div>
+        <div class="grand">12<small>jours</small></div>
+      </button>
+      <button class="tuile" data-aller="collection">
+        <div class="haut"><span class="surtitre">Collection</span><i class="ph ph-stack"></i></div>
+        <div class="grand" id="pct">0<small>%</small></div>
+        <div class="barre2"><i id="pct-barre" style="width:0"></i></div>
+      </button>
+    </div>
+
+    <div class="section-titre"><h2>Dernières cartes</h2><span class="surtitre">Historique</span></div>
+    <div class="defile" id="dernieres"></div>
+  </section>
+
+  <section class="ecran" id="collection"></section>
+  <section class="ecran" id="questions"><div class="entete-ecran"><h1>Questions</h1><p>à venir dans l'essai</p></div></section>
+  <section class="ecran" id="boutique"><div class="entete-ecran"><h1>Boutique</h1><p>à venir dans l'essai</p></div></section>
+  <section class="ecran" id="plus"><div class="entete-ecran"><h1>Plus</h1><p>à venir dans l'essai</p></div></section>
+</div>
+
+<nav class="onglets2" id="onglets">
+  <button data-aller="accueil" class="actif"><i class="ph-fill ph-house"></i>Accueil</button>
+  <button data-aller="questions"><i class="ph ph-question"></i>Questions</button>
+  <button data-aller="collection"><i class="ph ph-cards-three"></i>Collection</button>
+  <button data-aller="boutique"><i class="ph ph-storefront"></i>Boutique</button>
+  <button data-aller="plus"><i class="ph ph-dots-three-outline"></i>Plus</button>
+</nav>
+
+<script type="module">
+import { htmlCarte, brancherInclinaison, RARETES, ICONES } from '../js/v2/carte.js';
+import { ouvrirPaquet } from '../js/v2/ouverture.js';
+
+const BASE = '../';
+const fix = (c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl });
+const idx = await (await fetch(BASE + 'data/collections.json')).json();
+const cols = await Promise.all(idx.collections.map(async (e) => ({ ...e, cartes: (await (await fetch(BASE + e.fichier)).json()).cartes.map(fix) })));
+const toutes = cols.flatMap((c) => c.cartes);
+const parRarete = Object.groupBy(toutes, (c) => c.rarete);
+
+// collection simulée, stable d'un chargement à l'autre
+let graine = 7;
+const alea = () => ((graine = (graine * 16807) % 2147483647) / 2147483647);
+const possede = new Map();
+for (const c of toutes) { const p = { commune: .55, rare: .4, epique: .25, mythique: .12, legendaire: .05, pantheon: .02 }[c.rarete]; if (alea() < p) possede.set(c.id, 1 + (alea() < .25 ? Math.ceil(alea() * 3) : 0)); }
+const hasard = (t) => t[Math.floor(Math.random() * t.length)];
+
+// ---------- navigation ----------
+const aller = (nom) => {
+  document.querySelectorAll('.ecran').forEach((e) => e.classList.toggle('actif', e.id === nom));
+  document.querySelectorAll('#onglets button').forEach((b) => {
+    const a = b.dataset.aller === nom;
+    b.classList.toggle('actif', a);
+    const i = b.querySelector('i'); i.className = i.className.replace(/ph(-fill)? /, a ? 'ph-fill ' : 'ph ');
+  });
+  if (nom === 'collection') afficherCollections();
+  scrollTo(0, 0);
+};
+document.addEventListener('click', (e) => { const b = e.target.closest('[data-aller]'); if (b) aller(b.dataset.aller); });
+
+// ---------- accueil ----------
+const pct = Math.round(possede.size / toutes.length * 100);
+document.getElementById('pct').innerHTML = `${pct}<small>%</small>`;
+document.getElementById('pct-barre').style.width = pct + '%';
+const dernieres = Array.from({ length: 10 }, () => hasard(toutes.filter((c) => possede.has(c.id))));
+const zd = document.getElementById('dernieres');
+zd.innerHTML = dernieres.map((c) => htmlCarte(c, { desc: false })).join('');
+zd.querySelectorAll('.k').forEach((el, i) => el.addEventListener('click', () => fiche(dernieres[i])));
+
+let tete = 'auto';
+const essai = document.getElementById('essai');
+essai.innerHTML = ['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === 'auto' ? 'actif' : ''}" title="${r}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('');
+essai.addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  tete = b.dataset.r;
+  essai.querySelectorAll('button').forEach((x) => x.classList.toggle('actif', x === b));
+});
+
+function tirer() {
+  const pick = (r) => hasard(parRarete[r]);
+  const t = ['commune', 'commune', 'commune', 'commune', alea() < .5 ? 'commune' : 'rare', 'rare'];
+  let haut = tete;
+  if (haut === 'auto') { const x = Math.random(); haut = x < .005 ? 'pantheon' : x < .03 ? 'legendaire' : x < .1 ? 'mythique' : x < .3 ? 'epique' : 'rare'; }
+  t.push(haut);
+  return t.map((r) => { const c = pick(r); return { carte: c, neuve: !possede.has(c.id) }; });
+}
+const lancer = async () => { const t = tirer(); await ouvrirPaquet(t); t.forEach(({ carte }) => possede.set(carte.id, (possede.get(carte.id) || 0) + 1)); };
+document.getElementById('ouvrir').addEventListener('click', lancer);
+document.getElementById('mini-pk').addEventListener('click', lancer);
+
+// ---------- collection ----------
+let theme = 'Tous';
+function afficherCollections() {
+  const z = document.getElementById('collection');
+  const themes = ['Tous', ...new Set(cols.map((c) => c.theme))];
+  const visibles = cols.filter((c) => theme === 'Tous' || c.theme === theme);
+  z.innerHTML = `
+    <div class="entete-ecran"><h1>Collection</h1><p>${possede.size.toLocaleString('fr')} / ${toutes.length.toLocaleString('fr')}</p></div>
+    <div class="puces">${themes.map((t) => `<button class="puce${t === theme ? ' actif' : ''}" data-t="${t}">${t}</button>`).join('')}</div>
+    <div class="liste-col">${visibles.map((c) => {
+      const n = c.cartes.filter((x) => possede.has(x.id)).length, p = n / c.cartes.length;
+      const vit = [...c.cartes].sort((a, b) => RARETES.indexOf(b.rarete) - RARETES.indexOf(a.rarete)).slice(0, 3);
+      return `<button class="ligne-col${p === 1 ? ' complete' : ''}" data-slug="${c.slug}">
+        <div class="mosaique">${vit.map((x) => `<img src="${x.thumbUrl}" alt="" loading="lazy">`).join('')}</div>
+        <div><div class="nom">${c.nom}</div><div class="meta"><div class="barre2"><i style="width:${p * 100}%"></i></div><span>${n}/${c.cartes.length}</span></div></div>
+        <i class="ph ph-caret-right"></i></button>`;
+    }).join('')}</div>`;
+  z.querySelectorAll('.puce').forEach((b) => b.addEventListener('click', () => { theme = b.dataset.t; afficherCollections(); }));
+  z.querySelectorAll('.ligne-col').forEach((b) => b.addEventListener('click', () => afficherCollection(cols.find((c) => c.slug === b.dataset.slug))));
+}
+function afficherCollection(col) {
+  const z = document.getElementById('collection');
+  const n = col.cartes.filter((x) => possede.has(x.id)).length;
+  z.innerHTML = `<button class="retour"><i class="ph ph-caret-left"></i>Collection</button>
+    <div class="entete-ecran"><h1>${col.nom}</h1><p>${n} / ${col.cartes.length}</p></div>
+    <div class="grille">${col.cartes.map((c, i) => possede.has(c.id)
+      ? `<div style="position:relative">${htmlCarte(c, { desc: false })}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
+      : `<div class="absente">${String(c.numero ?? i + 1).padStart(3, '0')}</div>`).join('')}</div>`;
+  z.querySelector('.retour').addEventListener('click', afficherCollections);
+  z.querySelectorAll('.grille .k').forEach((el) => el.addEventListener('click', () => fiche(col.cartes.find((c) => c.id === el.dataset.id))));
+  scrollTo(0, 0);
+}
+
+// ---------- fiche ----------
+function fiche(c) {
+  const f = document.createElement('div');
+  f.className = 'fiche';
+  const q = possede.get(c.id) || 0;
+  f.innerHTML = `<button class="ov2-btn fermer" aria-label="Fermer"><i class="ph ph-x"></i></button>
+    ${htmlCarte(c, { image: 'full' })}
+    <div class="infos"><span>Possédée <b>×${q}</b></span><span>Vues <b>${(c.pageviews ?? 0).toLocaleString('fr')}</b></span></div>
+    <div class="actions">
+      <a class="btn2" href="${c.lienWikipedia}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>
+      ${q > 1 ? '<button class="btn2 fantome"><i class="ph ph-coins"></i>Vendre</button>' : ''}
+    </div>`;
+  document.body.append(f);
+  brancherInclinaison(f.querySelector('.k'), 16);
+  const fermer = () => f.remove();
+  f.querySelector('.fermer').addEventListener('click', fermer);
+  f.addEventListener('click', (e) => { if (e.target === f) fermer(); });
+}
+</script>
+</body>
+</html>

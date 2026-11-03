@@ -78,7 +78,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     function afficherPile() {
       pile = document.createElement('div');
       pile.className = 'pile monte';
-      pile.innerHTML = suite.map((t, i) => htmlCarte(t.carte, { dos: true, neuve: false, image: 'full' })).join('');
+      pile.innerHTML = suite.map((t, i) => htmlCarte(t.carte, { dos: true, image: 'full' })).join('');
       // la première carte de la suite est au-dessus
       [...pile.children].forEach((el, i) => {
         el.style.setProperty('--i', suite.length - i);
@@ -225,7 +225,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       const neuves = suite.filter((t) => t.neuve).length;
       scene.innerHTML = `<div class="ov2-recap">
         <div class="titre"><b>${neuves}</b><span>${neuves > 1 ? 'nouvelles' : 'nouvelle'}</span></div>
-        <div class="recap-grille">${suite.map((t, i) => htmlCarte(t.carte, { neuve: t.neuve, desc: false }).replace('class="k ', `style="--i:${i}" class="k `)).join('')}</div>
+        <div class="recap-grille">${suite.map((t, i) => htmlCarte(t.carte, { neuve: t.neuve, attrs: `data-i="${i}"` })).join('')}</div>
         <button class="btn2"><i class="ph-bold ph-check"></i>Continuer</button>
       </div>`;
       ov.querySelector('.ov2-haut').remove();

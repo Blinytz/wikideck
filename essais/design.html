@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0e0e13">
+<meta name="theme-color" content="#0b0b0f">
 <title>WikiDeck · essai de design</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,255 +14,546 @@
 <style>
   * { box-sizing: border-box; }
   html, body { margin: 0; min-height: 100%; }
-  body { overscroll-behavior: none; }
-  button { font: inherit; color: inherit; }
-  .page { max-width: 560px; margin: 0 auto; padding: max(18px, env(safe-area-inset-top)) 16px 120px; }
+  body { overscroll-behavior-y: none; }
+  button, input { font: inherit; color: inherit; }
+  .page { max-width: 560px; margin: 0 auto; padding: max(16px, env(safe-area-inset-top)) 16px 120px; }
   .ecran { display: none; }
-  .ecran.actif { display: block; animation: monte .35s ease both; }
-  @keyframes monte { from { opacity: 0; transform: translateY(8px); } }
+  .ecran.actif { display: block; }
+  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: .22s; }
+  ::view-transition-group(carte) { animation-duration: .45s; animation-timing-function: cubic-bezier(.2, .9, .25, 1); }
 
-  /* barre du haut */
-  .barre { display: flex; align-items: center; justify-content: space-between; margin-bottom: 22px; }
-  .marque { font: 400 26px/1 var(--serif); letter-spacing: -.01em; }
+  /* chargement */
+  #attente { position: fixed; inset: 0; z-index: 200; display: grid; place-items: center; background: var(--fond); transition: opacity .4s; }
+  #attente .k-mono { width: 84px; font-size: 40px; animation: respire 1.6s ease-in-out infinite; }
+  @keyframes respire { 50% { opacity: .45; scale: .94; } }
+
+  /* en-têtes */
+  .barre { display: flex; align-items: center; justify-content: space-between; height: 44px; margin-bottom: 8px; }
+  .marque { font: 400 27px/1 var(--serif); letter-spacing: -.01em; }
   .marque em { color: var(--accent); }
-  .solde { display: flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px 0 10px; border-radius: 99px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; }
-  .solde i { color: var(--accent); font-size: 16px; }
+  .solde { display: flex; align-items: center; gap: 7px; height: 36px; padding: 0 14px 0 11px; border: 0; border-radius: 99px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; cursor: pointer; }
+  .solde i { color: var(--or); font-size: 15px; }
+  .grand-titre { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; margin: 10px 0 20px; }
+  .grand-titre h1 { font: 400 46px/.95 var(--serif); letter-spacing: -.02em; }
+  .grand-titre .sous { margin-top: 8px; color: var(--texte-3); font: 500 13px var(--mono); }
 
-  /* accueil : le paquet */
-  .scene-paquet { position: relative; display: grid; place-items: center; padding: 18px 0 8px; }
-  .scene-paquet::before { content: ''; position: absolute; width: 320px; height: 320px; border-radius: 50%; background: radial-gradient(closest-side, #e8d5a31f, transparent); top: 0; }
-  .mini-pk { position: relative; width: 168px; height: 248px; border-radius: 10px; overflow: hidden; cursor: pointer;
+  /* ---------- accueil ---------- */
+  .hero { position: relative; display: flex; flex-direction: column; align-items: center; padding: 14px 0 26px; }
+  .hero::before { content: ''; position: absolute; top: -40px; width: 420px; height: 420px; border-radius: 50%; background: radial-gradient(closest-side, #e9d7a624, transparent); pointer-events: none; }
+  .paquets { position: relative; width: 176px; height: 260px; margin-bottom: 26px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+  .mini-pk { position: absolute; inset: 0; border-radius: 12px; overflow: hidden; display: grid; place-items: center;
     background: linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%, radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%);
-    animation: pk-moire 5s linear infinite, pk-flotte 4s ease-in-out infinite; box-shadow: 0 30px 50px -20px #000, 0 0 0 1px #ffffff12 inset;
-    display: grid; place-items: center; }
+    box-shadow: 0 30px 50px -20px #000, 0 0 0 1px #ffffff14 inset; }
   .mini-pk::before { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(90deg, #ffffff08 0 2px, transparent 2px 7px); }
-  .mini-pk::after { content: ''; position: absolute; left: 0; right: 0; top: 16%; border-top: 1px dashed #e8d5a344; }
-  .mini-pk .k-mono { width: 74px; font-size: 36px; position: relative; }
-  .compteur { margin-top: 22px; text-align: center; }
-  .compteur .chiffre { font-size: 30px; letter-spacing: -.02em; }
-  .compteur .surtitre { display: block; margin-bottom: 6px; }
-  .actions-paquet { display: flex; justify-content: center; gap: 10px; margin: 18px 0 30px; }
+  .mini-pk::after { content: ''; position: absolute; left: 0; right: 0; top: 16%; border-top: 1px dashed #e9d7a650; }
+  .mini-pk .k-mono { width: 78px; font-size: 38px; }
+  .mini-pk.devant { animation: pk-moire 5s linear infinite, pk-flotte 4s ease-in-out infinite; }
+  .mini-pk.derriere { transform: rotate(7deg) translate(14px, 6px); filter: brightness(.55); }
+  .mini-pk.derriere2 { transform: rotate(-6deg) translate(-12px, 8px); filter: brightness(.4); }
+  .paquets:active .devant { scale: .97; }
+  .nb-paquets { position: absolute; top: -10px; right: -12px; z-index: 3; min-width: 30px; height: 30px; padding: 0 9px; border-radius: 99px; background: var(--texte); color: var(--encre); display: grid; place-items: center; font: 700 14px var(--mono); box-shadow: 0 6px 16px #000a; }
+  .hero .btn2 { width: 220px; }
+  .prochain { margin-top: 14px; display: flex; align-items: center; gap: 8px; color: var(--texte-3); font: 500 13px var(--mono); }
+  .prochain i { font-size: 15px; }
 
-  .tuiles { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 30px; }
-  .tuile { background: var(--surface); border-radius: 18px; padding: 14px; box-shadow: 0 0 0 1px var(--ligne) inset; display: flex; flex-direction: column; gap: 10px; min-height: 108px; cursor: pointer; text-align: left; border: 0; }
-  .tuile .haut { display: flex; justify-content: space-between; align-items: center; color: var(--texte-3); }
-  .tuile .haut i { font-size: 20px; }
-  .tuile .grand { font: 400 32px/1 var(--serif); }
-  .tuile .grand small { font: 500 13px var(--mono); color: var(--texte-3); margin-left: 4px; }
-  .tuile.large { grid-column: 1 / -1; min-height: 0; }
-  .tuile .q { font: 400 21px/1.2 var(--serif); }
-  .flamme { color: #ff9f5a !important; }
+  .bloc { background: var(--surface); border-radius: 22px; box-shadow: 0 0 0 1px var(--ligne) inset; }
+  .qdj { display: block; width: 100%; padding: 18px; border: 0; text-align: left; cursor: pointer; margin-bottom: 10px; position: relative; overflow: hidden; }
+  .qdj::after { content: ''; position: absolute; right: -40px; top: -40px; width: 160px; height: 160px; border-radius: 50%; background: radial-gradient(closest-side, #f2c66d22, transparent); }
+  .qdj .ligne1 { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+  .tag { display: inline-flex; align-items: center; gap: 6px; height: 24px; padding: 0 10px; border-radius: 99px; background: #ffffff0d; font: 600 11px var(--sans); color: var(--texte-2); }
+  .tag.or { background: #f2c66d1f; color: var(--or); }
+  .qdj .q { font: 400 25px/1.12 var(--serif); text-wrap: balance; }
+  .qdj .aller { margin-top: 14px; display: flex; align-items: center; justify-content: space-between; color: var(--texte-3); font: 500 13px var(--sans); }
+  .qdj .aller i { width: 34px; height: 34px; border-radius: 50%; background: var(--texte); color: var(--encre); display: grid; place-items: center; font-size: 16px; }
 
-  .section-titre { display: flex; justify-content: space-between; align-items: baseline; margin: 0 0 12px; }
-  .section-titre h2 { font: 400 24px/1 var(--serif); }
-  .defile { display: flex; gap: 10px; overflow-x: auto; margin: 0 -16px; padding: 4px 16px 10px; scrollbar-width: none; }
-  .defile .k { --w: 118px; cursor: pointer; }
+  .duo { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 30px; }
+  .duo .bloc { padding: 16px; border: 0; text-align: left; cursor: pointer; display: flex; flex-direction: column; gap: 12px; }
+  .duo .haut { display: flex; justify-content: space-between; align-items: center; }
+  .duo .grand { font: 400 38px/1 var(--serif); }
+  .duo .grand small { font: 500 12px var(--mono); color: var(--texte-3); margin-left: 5px; }
+  .semaine { display: flex; gap: 5px; }
+  .semaine i { width: 16px; height: 16px; border-radius: 50%; background: #ffffff10; display: grid; place-items: center; font-style: normal; font: 600 8px var(--sans); color: var(--texte-3); }
+  .semaine i.fait { background: #ff9f5a; color: #2b1300; }
+  .semaine i.auj { box-shadow: 0 0 0 1.5px #ff9f5a; }
+  .anneau { position: relative; width: 52px; height: 52px; }
+  .anneau svg { transform: rotate(-90deg); }
+  .anneau b { position: absolute; inset: 0; display: grid; place-items: center; font: 500 12px var(--mono); }
 
-  /* collection */
-  .entete-ecran { margin: 6px 0 18px; }
-  .entete-ecran h1 { font: 400 44px/1 var(--serif); letter-spacing: -.02em; }
-  .entete-ecran p { margin: 8px 0 0; color: var(--texte-3); font: 500 13px var(--mono); }
+  .section-titre { display: flex; justify-content: space-between; align-items: baseline; margin: 0 0 14px; }
+  .section-titre h2 { font: 400 26px/1 var(--serif); }
+  .lien { border: 0; background: none; color: var(--texte-3); font: 500 13px var(--sans); cursor: pointer; padding: 0; }
+  .defile { display: flex; gap: 12px; overflow-x: auto; margin: 0 -16px; padding: 4px 16px 18px; scrollbar-width: none; scroll-snap-type: x mandatory; scroll-padding: 16px; }
+  .defile::-webkit-scrollbar { display: none; }
+  .defile .k { --w: 132px; cursor: pointer; scroll-snap-align: start; }
+
+  /* ---------- questions ---------- */
+  .multi { display: flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px; border-radius: 99px; background: #f2c66d1a; color: var(--or); font: 600 14px var(--mono); }
+  .points { display: flex; gap: 5px; margin-bottom: 16px; }
+  .points i { flex: 1; height: 4px; border-radius: 99px; background: #ffffff12; }
+  .points i.juste { background: var(--vert); }
+  .points i.faux { background: var(--rouge); }
+  .points i.ici { background: var(--texte); }
+  .q-carte { padding: 22px 20px 24px; min-height: 230px; display: flex; flex-direction: column; transition: box-shadow .3s; }
+  .q-carte .meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: auto; }
+  .diff { display: flex; gap: 3px; }
+  .diff i { width: 6px; height: 14px; border-radius: 2px; background: #ffffff18; }
+  .diff i.on { background: var(--texte-2); }
+  .q-texte { font: 400 30px/1.1 var(--serif); margin: 28px 0 0; text-wrap: balance; }
+  .q-carte.juste { box-shadow: 0 0 0 1.5px var(--vert) inset, 0 0 60px -10px #5ee0a866; }
+  .q-carte.faux { box-shadow: 0 0 0 1.5px var(--rouge) inset; animation: secoue .4s; }
+  @keyframes secoue { 20% { translate: -8px; } 45% { translate: 7px; } 70% { translate: -4px; } }
+  .q-form { position: relative; margin-top: 12px; }
+  .q-form input { width: 100%; height: 60px; border: 0; border-radius: 18px; padding: 0 70px 0 20px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; font: 500 17px var(--sans); outline: none; transition: box-shadow .2s; }
+  .q-form input:focus { box-shadow: 0 0 0 1.5px var(--texte-2) inset; }
+  .q-form button { position: absolute; right: 8px; top: 8px; width: 44px; height: 44px; border-radius: 14px; border: 0; background: var(--texte); color: var(--encre); display: grid; place-items: center; font-size: 20px; cursor: pointer; }
+  .q-form button:disabled { opacity: .25; }
+  .verdict { margin-top: 16px; display: none; align-items: center; gap: 14px; padding: 14px 16px; border-radius: 18px; background: var(--surface); }
+  .verdict.vu { display: flex; animation: monte .35s var(--ressort) both; }
+  @keyframes monte { from { opacity: 0; translate: 0 10px; } }
+  .verdict .ico { width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-size: 20px; flex: none; }
+  .verdict.ok .ico { background: #5ee0a822; color: var(--vert); }
+  .verdict.ko .ico { background: #ff6b6b22; color: var(--rouge); }
+  .verdict .txt { flex: 1; min-width: 0; }
+  .verdict .txt b { display: block; font: 400 21px/1.1 var(--serif); }
+  .verdict .txt span { font: 500 12px var(--mono); color: var(--texte-3); }
+  .gain { position: fixed; left: 50%; top: 40%; z-index: 90; translate: -50%; font: 600 28px var(--mono); color: var(--or); text-shadow: 0 0 30px #f2c66d88; pointer-events: none; animation: gain 1.1s ease-out forwards; }
+  @keyframes gain { from { opacity: 0; transform: translateY(20px) scale(.8); } 20% { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-70px); } }
+
+  /* ---------- collection ---------- */
+  .recherche { position: relative; margin-bottom: 14px; }
+  .recherche i { position: absolute; left: 16px; top: 50%; translate: 0 -50%; color: var(--texte-3); font-size: 18px; }
+  .recherche input { width: 100%; height: 46px; border: 0; border-radius: 14px; padding: 0 16px 0 44px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; font: 500 15px var(--sans); outline: none; }
   .puces { display: flex; gap: 6px; overflow-x: auto; margin: 0 -16px 18px; padding: 0 16px; scrollbar-width: none; }
-  .puce { flex: none; height: 32px; padding: 0 13px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); font: 500 13px var(--sans); cursor: pointer; box-shadow: 0 0 0 1px var(--ligne) inset; }
-  .puce.actif { background: var(--texte); color: var(--encre); }
-  .liste-col { display: flex; flex-direction: column; gap: 2px; }
-  .ligne-col { display: grid; grid-template-columns: 64px 1fr auto; gap: 14px; align-items: center; padding: 10px 6px; border-radius: 14px; cursor: pointer; border: 0; background: none; text-align: left; }
-  .ligne-col:active { background: var(--surface); }
-  .mosaique { position: relative; width: 64px; height: 64px; }
-  .mosaique img { position: absolute; width: 44px; height: 58px; object-fit: cover; border-radius: 6px; box-shadow: 0 0 0 1px #ffffff1a, 0 6px 14px #0009; background: #22222c; }
-  .mosaique img:nth-child(1) { left: 0; top: 4px; transform: rotate(-8deg); }
-  .mosaique img:nth-child(2) { left: 10px; top: 2px; transform: rotate(0deg); }
-  .mosaique img:nth-child(3) { left: 20px; top: 4px; transform: rotate(8deg); }
-  .ligne-col .nom { font: 400 21px/1.1 var(--serif); }
-  .ligne-col .meta { display: flex; align-items: center; gap: 10px; margin-top: 7px; }
-  .ligne-col .barre2 { width: 90px; }
-  .ligne-col .meta span { font: 500 12px var(--mono); color: var(--texte-3); }
-  .ligne-col > i { color: var(--texte-3); }
-  .ligne-col.complete .barre2 > i { background: var(--accent); }
+  .puces::-webkit-scrollbar { display: none; }
+  .puce { flex: none; height: 34px; padding: 0 14px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); font: 500 13px var(--sans); cursor: pointer; box-shadow: 0 0 0 1px var(--ligne) inset; }
+  .puce.actif { background: var(--texte); color: var(--encre); box-shadow: none; }
+  .tuiles-col { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .tc { position: relative; aspect-ratio: 4 / 5; border-radius: 20px; overflow: hidden; border: 0; padding: 0; cursor: pointer; background: var(--surface); text-align: left; box-shadow: 0 0 0 1px var(--ligne) inset; }
+  .tc img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .tc.vide img { filter: grayscale(1) brightness(.35); }
+  .tc::after { content: ''; position: absolute; inset: 0; background: linear-gradient(transparent 35%, #000d); }
+  .tc .bas { position: absolute; left: 14px; right: 14px; bottom: 14px; z-index: 2; }
+  .tc .nom { font: 400 22px/1 var(--serif); text-wrap: balance; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .tc .meta { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+  .tc .barre2 { flex: 1; background: #ffffff26; }
+  .tc .meta span { font: 500 11px var(--mono); color: #fffb; }
+  .tc.complete { box-shadow: 0 0 0 2px var(--or) inset; }
+  .tc.complete .barre2 > i { background: var(--or); }
+  .tc .squelette { position: absolute; inset: 0; background: linear-gradient(100deg, #ffffff05 30%, #ffffff0c 50%, #ffffff05 70%) 0 0 / 300% 100%; animation: luit 1.4s linear infinite; }
+  @keyframes luit { to { background-position: -300% 0; } }
 
-  .retour { display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px 0 8px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); cursor: pointer; margin-bottom: 14px; }
+  .col-hero { position: relative; margin: -16px -16px 18px; padding: max(16px, env(safe-area-inset-top)) 16px 22px; overflow: hidden; }
+  .col-hero .flou { position: absolute; inset: -30px; background: var(--img) center / cover; filter: blur(40px) saturate(1.4) brightness(.4); z-index: -1; }
+  .col-hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(transparent 50%, var(--fond)); z-index: -1; }
+  .retour { width: 40px; height: 40px; border-radius: 50%; border: 0; background: #0006; color: var(--texte); display: grid; place-items: center; cursor: pointer; font-size: 18px; backdrop-filter: blur(10px); }
+  .col-hero h1 { font: 400 40px/.98 var(--serif); letter-spacing: -.02em; margin: 26px 0 12px; text-wrap: balance; }
+  .col-hero .ligne-prog { display: flex; align-items: center; gap: 12px; }
+  .col-hero .barre2 { flex: 1; }
+  .rar-detail { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
+  .rar-detail span { display: inline-flex; align-items: center; gap: 5px; height: 26px; padding: 0 10px; border-radius: 99px; background: #0005; font: 500 11px var(--mono); color: var(--texte-2); }
+  .rar-detail span i { font-size: 12px; }
+  .segment { position: sticky; top: 8px; z-index: 10; display: grid; grid-template-columns: repeat(3, 1fr); padding: 4px; border-radius: 99px; background: #15151be6; backdrop-filter: blur(16px); box-shadow: 0 0 0 1px var(--ligne) inset; margin-bottom: 16px; }
+  .segment button { height: 34px; border: 0; border-radius: 99px; background: none; color: var(--texte-3); font: 600 13px var(--sans); cursor: pointer; }
+  .segment button.actif { background: var(--texte); color: var(--encre); }
   .grille { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
   .grille .k { --w: calc((min(100vw, 560px) - 52px) / 3); cursor: pointer; }
-  .absente { aspect-ratio: 63 / 88; border-radius: calc((min(100vw, 560px) - 52px) / 3 * .065); box-shadow: 0 0 0 1px var(--ligne) inset; background: repeating-linear-gradient(45deg, #ffffff04 0 1px, transparent 1px 8px), var(--surface); display: grid; place-items: center; font: 500 12px var(--mono); color: var(--texte-3); }
-  .quantite { position: absolute; right: 6px; bottom: 6px; z-index: 3; font: 600 10px var(--mono); background: #000b; padding: 2px 6px; border-radius: 99px; }
+  .absente { position: relative; aspect-ratio: 63 / 88; border-radius: calc((min(100vw, 560px) - 52px) / 3 * .055); background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; color: var(--texte-3); }
+  .absente b { font: 500 13px var(--mono); }
+  .absente i { font-size: 14px; opacity: .6; }
+  .quantite { position: absolute; left: 50%; bottom: -8px; translate: -50%; z-index: 6; font: 700 10px var(--mono); background: var(--texte); color: var(--encre); padding: 3px 8px; border-radius: 99px; }
+  .cellule { position: relative; }
 
-  /* fiche carte */
-  .fiche { position: fixed; inset: 0; z-index: 60; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px; padding: 20px 16px calc(20px + env(safe-area-inset-bottom));
-    background: #08080bf2; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); animation: ov2-entree .25s ease both; }
-  .fiche .k { --w: min(78vw, 330px); }
-  .fiche .k .k-desc { -webkit-line-clamp: 6; }
-  .fiche .actions { display: flex; gap: 10px; }
-  .fiche .fermer { position: absolute; top: max(14px, env(safe-area-inset-top)); right: 14px; }
-  .fiche .infos { display: flex; gap: 18px; color: var(--texte-3); font: 500 12px var(--mono); }
-  .fiche .infos b { color: var(--texte); font-weight: 500; }
+  /* ---------- fiche ---------- */
+  .fiche { position: fixed; inset: 0; z-index: 60; overflow-y: auto; overscroll-behavior: contain; background: var(--fond); }
+  .fiche .flou { position: fixed; inset: -60px; background: var(--img) center / cover; filter: blur(60px) saturate(1.5) brightness(.35); transition: background .3s; }
+  .fiche .barre-f { position: sticky; top: 0; z-index: 5; display: flex; justify-content: space-between; align-items: center; padding: max(14px, env(safe-area-inset-top)) 16px 10px; }
+  .fiche .pos { font: 500 12px var(--mono); color: var(--texte-2); }
+  .fiche .scene { position: relative; display: flex; justify-content: center; padding: 8px 0 26px; touch-action: pan-y; }
+  .fiche .scene .k { --w: min(80vw, 340px); view-transition-name: carte; }
+  .fiche .scene .k.sort-g { animation: sort-g .22s ease-in forwards; }
+  .fiche .scene .k.sort-d { animation: sort-d .22s ease-in forwards; }
+  .fiche .scene .k.entre-g { animation: entre-g .35s var(--doux); }
+  .fiche .scene .k.entre-d { animation: entre-d .35s var(--doux); }
+  @keyframes sort-g { to { translate: -60%; rotate: -8deg; opacity: 0; } }
+  @keyframes sort-d { to { translate: 60%; rotate: 8deg; opacity: 0; } }
+  @keyframes entre-g { from { translate: 50%; rotate: 6deg; opacity: 0; } }
+  @keyframes entre-d { from { translate: -50%; rotate: -6deg; opacity: 0; } }
+  .feuille { position: relative; max-width: 560px; margin: 0 auto; padding: 22px 18px calc(30px + env(safe-area-inset-bottom)); border-radius: 26px 26px 0 0; background: #121217f2; box-shadow: 0 -1px 0 var(--ligne); min-height: 50vh; }
+  .feuille .poignee { width: 36px; height: 4px; border-radius: 99px; background: #ffffff22; margin: -8px auto 18px; }
+  .feuille .rar { display: inline-flex; align-items: center; gap: 6px; font: 600 11px var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--rar); }
+  .feuille h2 { font: 400 34px/1 var(--serif); margin: 8px 0 4px !important; }
+  .feuille .col { color: var(--texte-3); font: 500 13px var(--sans); }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 20px 0; }
+  .stats div { padding: 12px; border-radius: 16px; background: #ffffff08; }
+  .stats b { display: block; font: 500 17px var(--mono); }
+  .stats span { font: 600 10px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--texte-3); }
+  .feuille p { color: var(--texte-2); font-size: 15px; line-height: 1.6; margin: 0 0 22px; }
+  .feuille .actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .feuille .actions .seul { grid-column: 1 / -1; }
 
-  /* outil d'essai : forcer la rareté de tête */
-  .essai { display: flex; gap: 4px; justify-content: center; margin-top: -14px; margin-bottom: 26px; }
-  .essai button { width: 34px; height: 30px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-3); cursor: pointer; font-size: 15px; }
+  /* ---------- boutique ---------- */
+  .offres { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
+  .offre { display: grid; grid-template-columns: 62px 1fr auto; gap: 14px; align-items: center; padding: 14px; }
+  .offre .pk-ico { width: 62px; height: 86px; border-radius: 8px; display: grid; place-items: center; font-size: 26px; color: var(--accent);
+    background: linear-gradient(115deg, transparent 30%, #ffffff14 45%, transparent 60%), radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%); box-shadow: 0 0 0 1px #ffffff14 inset, 0 10px 20px -8px #000; }
+  .offre h3 { font: 400 22px/1.05 var(--serif); }
+  .offre .contenu { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .offre .btn2 { height: 40px; padding: 0 14px; font: 600 14px var(--mono); gap: 6px; }
+  .offre .btn2 i { color: #a77a1e; }
+  .vente { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 18px; }
+  .vente b { font: 400 24px/1 var(--serif); display: block; }
+  .vente span { font: 500 12px var(--mono); color: var(--texte-3); }
+
+  /* ---------- plus ---------- */
+  .groupe { margin-bottom: 14px; overflow: hidden; }
+  .rangee { display: flex; align-items: center; gap: 14px; width: 100%; padding: 15px 16px; border: 0; background: none; text-align: left; cursor: pointer; }
+  .rangee + .rangee { box-shadow: 0 -1px 0 var(--ligne); }
+  .rangee .ic { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; font-size: 18px; background: #ffffff0d; }
+  .rangee .lib { flex: 1; font: 500 15px var(--sans); }
+  .rangee .val { font: 500 13px var(--mono); color: var(--texte-3); }
+  .rangee > i { color: var(--texte-3); }
+
+  /* outil d'essai : forcer la meilleure carte du paquet */
+  .essai { display: flex; gap: 4px; justify-content: center; margin: 4px 0 26px; opacity: .55; }
+  .essai button { width: 32px; height: 28px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-3); cursor: pointer; font-size: 14px; }
   .essai button.actif { color: var(--encre); background: var(--accent); }
 </style>
 </head>
 <body class="v2">
+<div id="attente"><div class="k-mono">W</div></div>
+
 <div class="page">
-  <div class="barre">
-    <div class="marque">Wiki<em>Deck</em></div>
-    <div class="solde"><i class="ph-fill ph-diamond"></i><span class="chiffre">12 480</span></div>
-  </div>
-
-  <section class="ecran actif" id="accueil">
-    <div class="scene-paquet"><div class="mini-pk" id="mini-pk"><div class="k-mono">W</div></div></div>
-    <div class="compteur"><span class="surtitre">Paquet suivant</span><span class="chiffre" id="minuteur">Prêt</span></div>
-    <div class="actions-paquet">
-      <button class="btn2" id="ouvrir"><i class="ph-bold ph-cards"></i>Ouvrir</button>
-    </div>
-    <div class="essai" id="essai"></div>
-
-    <div class="tuiles">
-      <button class="tuile large" data-aller="questions">
-        <div class="haut"><span class="surtitre">Question du jour</span><i class="ph ph-question"></i></div>
-        <div class="q">Quel souverain fit bâtir la galerie des Glaces ?</div>
-      </button>
-      <button class="tuile">
-        <div class="haut"><span class="surtitre">Série</span><i class="ph-fill ph-fire flamme"></i></div>
-        <div class="grand">12<small>jours</small></div>
-      </button>
-      <button class="tuile" data-aller="collection">
-        <div class="haut"><span class="surtitre">Collection</span><i class="ph ph-stack"></i></div>
-        <div class="grand" id="pct">0<small>%</small></div>
-        <div class="barre2"><i id="pct-barre" style="width:0"></i></div>
-      </button>
-    </div>
-
-    <div class="section-titre"><h2>Dernières cartes</h2><span class="surtitre">Historique</span></div>
-    <div class="defile" id="dernieres"></div>
-  </section>
-
+  <section class="ecran actif" id="accueil"></section>
+  <section class="ecran" id="questions"></section>
   <section class="ecran" id="collection"></section>
-  <section class="ecran" id="questions"><div class="entete-ecran"><h1>Questions</h1><p>à venir dans l'essai</p></div></section>
-  <section class="ecran" id="boutique"><div class="entete-ecran"><h1>Boutique</h1><p>à venir dans l'essai</p></div></section>
-  <section class="ecran" id="plus"><div class="entete-ecran"><h1>Plus</h1><p>à venir dans l'essai</p></div></section>
+  <section class="ecran" id="boutique"></section>
+  <section class="ecran" id="plus"></section>
 </div>
 
 <nav class="onglets2" id="onglets">
-  <button data-aller="accueil" class="actif"><i class="ph-fill ph-house"></i>Accueil</button>
-  <button data-aller="questions"><i class="ph ph-question"></i>Questions</button>
-  <button data-aller="collection"><i class="ph ph-cards-three"></i>Collection</button>
-  <button data-aller="boutique"><i class="ph ph-storefront"></i>Boutique</button>
-  <button data-aller="plus"><i class="ph ph-dots-three-outline"></i>Plus</button>
+  <button data-aller="accueil" class="actif"><i class="ph ph-house"></i><span>Accueil</span></button>
+  <button data-aller="questions"><i class="ph ph-lightbulb"></i><span>Questions</span><b class="pastille"></b></button>
+  <button data-aller="collection"><i class="ph ph-cards-three"></i><span>Collection</span></button>
+  <button data-aller="boutique"><i class="ph ph-storefront"></i><span>Boutique</span></button>
+  <button data-aller="plus"><i class="ph ph-dots-three-circle"></i><span>Plus</span></button>
 </nav>
 
 <script type="module">
-import { htmlCarte, brancherInclinaison, RARETES, ICONES } from '../js/v2/carte.js';
+import { htmlCarte, brancherInclinaison, RARETES, NOMS, ICONES, esc } from '../js/v2/carte.js';
 import { ouvrirPaquet } from '../js/v2/ouverture.js';
 
 const BASE = '../';
-const fix = (c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl });
-const idx = await (await fetch(BASE + 'data/collections.json')).json();
-const cols = await Promise.all(idx.collections.map(async (e) => ({ ...e, cartes: (await (await fetch(BASE + e.fichier)).json()).cartes.map(fix) })));
-const toutes = cols.flatMap((c) => c.cartes);
-const parRarete = Object.groupBy(toutes, (c) => c.rarete);
+const $ = (s, r = document) => r.querySelector(s);
+const vibrer = (ms = 8) => navigator.vibrate?.(ms);
+const fr = (n) => n.toLocaleString('fr-FR');
+const transition = (fn) => (document.startViewTransition ? document.startViewTransition(fn) : fn());
+const REVENTE = { commune: 150, rare: 300, epique: 750, mythique: 1500, legendaire: 4500, pantheon: 15000 };
 
-// collection simulée, stable d'un chargement à l'autre
-let graine = 7;
-const alea = () => ((graine = (graine * 16807) % 2147483647) / 2147483647);
+// ---------- données réelles, possession simulée mais stable ----------
+const hash = (s) => { let h = 2166136261; for (const ch of s) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
+const TAUX = { commune: .55, rare: .4, epique: .25, mythique: .12, legendaire: .06, pantheon: .03 };
 const possede = new Map();
-for (const c of toutes) { const p = { commune: .55, rare: .4, epique: .25, mythique: .12, legendaire: .05, pantheon: .02 }[c.rarete]; if (alea() < p) possede.set(c.id, 1 + (alea() < .25 ? Math.ceil(alea() * 3) : 0)); }
+const idx = await (await fetch(BASE + 'data/collections.json')).json();
+const cols = idx.collections.map((e) => ({ ...e, cartes: null }));
+async function charger(col) {
+  if (col.cartes) return col;
+  col.cartes = (await (await fetch(BASE + col.fichier)).json()).cartes.map((c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl }));
+  col.parId = new Map(col.cartes.map((c) => [c.id, c]));
+  for (const c of col.cartes) { const h = hash(c.id); if (h < TAUX[c.rarete]) possede.set(c.id, 1 + (hash(c.id + 'x') < .25 ? 1 + Math.floor(hash(c.id + 'y') * 3) : 0)); }
+  return col;
+}
+// une vingtaine de collections pour démarrer, le reste en arrière-plan
+const melange = [...cols].sort((a, b) => hash(a.slug) - hash(b.slug));
+await Promise.all(melange.slice(0, 20).map(charger));
+(async () => { for (let i = 20; i < melange.length; i += 8) await Promise.all(melange.slice(i, i + 8).map(charger)); if ($('#collection.actif')) rendreCollection(); })();
+const chargees = () => cols.filter((c) => c.cartes);
+const toutes = () => chargees().flatMap((c) => c.cartes);
+const colDe = (carte) => cols.find((c) => c.parId?.has(carte.id));
 const hasard = (t) => t[Math.floor(Math.random() * t.length)];
 
 // ---------- navigation ----------
-const aller = (nom) => {
-  document.querySelectorAll('.ecran').forEach((e) => e.classList.toggle('actif', e.id === nom));
-  document.querySelectorAll('#onglets button').forEach((b) => {
-    const a = b.dataset.aller === nom;
-    b.classList.toggle('actif', a);
-    const i = b.querySelector('i'); i.className = i.className.replace(/ph(-fill)? /, a ? 'ph-fill ' : 'ph ');
+let ecran = 'accueil';
+const RENDUS = { accueil: rendreAccueil, questions: rendreQuestions, collection: rendreCollection, boutique: rendreBoutique, plus: rendrePlus };
+function aller(nom) {
+  if (nom === ecran && nom !== 'collection') return;
+  vibrer();
+  transition(() => {
+    ecran = nom;
+    document.querySelectorAll('.ecran').forEach((e) => e.classList.toggle('actif', e.id === nom));
+    document.querySelectorAll('#onglets button').forEach((b) => {
+      const a = b.dataset.aller === nom;
+      b.classList.toggle('actif', a);
+      b.querySelector('i').className = `${a ? 'ph-fill' : 'ph'} ${b.querySelector('i').className.split(' ').find((x) => x.startsWith('ph-') && x !== 'ph-fill')}`;
+    });
+    if (nom === 'collection') vueCol = null;
+    RENDUS[nom]();
+    scrollTo(0, 0);
   });
-  if (nom === 'collection') afficherCollections();
-  scrollTo(0, 0);
-};
+}
 document.addEventListener('click', (e) => { const b = e.target.closest('[data-aller]'); if (b) aller(b.dataset.aller); });
+const barreSolde = () => `<div class="barre"><div class="marque">Wiki<em>Deck</em></div><button class="solde pressable" data-aller="boutique"><i class="ph-fill ph-diamond"></i><span class="chiffre" id="solde">${fr(solde)}</span></button></div>`;
+let solde = 12480;
+function crediter(n) {
+  solde += n;
+  document.querySelectorAll('#solde').forEach((s) => (s.textContent = fr(solde)));
+  const g = document.createElement('div'); g.className = 'gain'; g.textContent = `+${fr(n)} ◆`;
+  document.body.append(g); setTimeout(() => g.remove(), 1200);
+}
 
 // ---------- accueil ----------
-const pct = Math.round(possede.size / toutes.length * 100);
-document.getElementById('pct').innerHTML = `${pct}<small>%</small>`;
-document.getElementById('pct-barre').style.width = pct + '%';
-const dernieres = Array.from({ length: 10 }, () => hasard(toutes.filter((c) => possede.has(c.id))));
-const zd = document.getElementById('dernieres');
-zd.innerHTML = dernieres.map((c) => htmlCarte(c, { desc: false })).join('');
-zd.querySelectorAll('.k').forEach((el, i) => el.addEventListener('click', () => fiche(dernieres[i])));
+let paquets = 3, tete = 'auto';
+const historique = [];
+const fin = Date.now() + 4 * 3600e3 + 12 * 60e3;
+function rendreAccueil() {
+  const z = $('#accueil');
+  const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length;
+  const pct = n / Math.max(1, tous.length);
+  if (!historique.length) historique.push(...tous.filter((c) => possede.has(c.id)).sort((a, b) => hash(a.id + 'h') - hash(b.id + 'h')).slice(0, 10));
+  z.innerHTML = `${barreSolde()}
+    <div class="hero">
+      <div class="paquets" id="paquets">
+        ${paquets > 2 ? '<div class="mini-pk derriere2"></div>' : ''}${paquets > 1 ? '<div class="mini-pk derriere"></div>' : ''}
+        <div class="mini-pk devant"><div class="k-mono">W</div></div>
+        ${paquets > 1 ? `<span class="nb-paquets">${paquets}</span>` : ''}
+      </div>
+      <button class="btn2 or" id="ouvrir" ${paquets ? '' : 'disabled'}><i class="ph-bold ph-cards"></i>Ouvrir</button>
+      <div class="prochain"><i class="ph ph-timer"></i><span id="minuteur"></span></div>
+    </div>
+    <div class="essai" id="essai">${['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === tete ? 'actif' : ''}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('')}</div>
 
-let tete = 'auto';
-const essai = document.getElementById('essai');
-essai.innerHTML = ['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === 'auto' ? 'actif' : ''}" title="${r}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('');
-essai.addEventListener('click', (e) => {
-  const b = e.target.closest('button'); if (!b) return;
-  tete = b.dataset.r;
-  essai.querySelectorAll('button').forEach((x) => x.classList.toggle('actif', x === b));
-});
+    <button class="bloc qdj pressable" data-aller="questions">
+      <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag">×2</span></div>
+      <div class="q">${esc(QUESTIONS[0].q)}</div>
+      <div class="aller"><span>Histoire</span><i class="ph-bold ph-arrow-right"></i></div>
+    </button>
+    <div class="duo">
+      <button class="bloc pressable">
+        <div class="haut"><span class="surtitre">Série</span><i class="ph-fill ph-fire" style="color:#ff9f5a;font-size:20px"></i></div>
+        <div class="grand">12<small>jours</small></div>
+        <div class="semaine">${['L', 'M', 'M', 'J', 'V', 'S', 'D'].map((j, i) => `<i class="${i < 1 ? 'fait' : i === 1 ? 'auj' : ''}">${j}</i>`).join('')}</div>
+      </button>
+      <button class="bloc pressable" data-aller="collection">
+        <div class="haut"><span class="surtitre">Collection</span></div>
+        <div style="display:flex;align-items:center;justify-content:space-between">
+          <div class="grand">${Math.round(pct * 100)}<small>%</small></div>
+          <div class="anneau"><svg width="52" height="52"><circle cx="26" cy="26" r="22" fill="none" stroke="#ffffff14" stroke-width="5"/><circle cx="26" cy="26" r="22" fill="none" stroke="#f3f1ec" stroke-width="5" stroke-linecap="round" stroke-dasharray="${2 * Math.PI * 22}" stroke-dashoffset="${2 * Math.PI * 22 * (1 - pct)}"/></svg></div>
+        </div>
+        <span class="chiffre" style="font-size:12px;color:var(--texte-3)">${fr(n)} cartes</span>
+      </button>
+    </div>
+    <div class="section-titre"><h2>Dernières cartes</h2><button class="lien">Historique</button></div>
+    <div class="defile" id="dernieres">${historique.map((c) => htmlCarte(c)).join('')}</div>`;
+
+  const minuteur = () => { const s = Math.max(0, Math.round((fin - Date.now()) / 1000)); const m = $('#minuteur'); if (m) m.textContent = `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor(s / 60) % 60).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`; };
+  minuteur(); clearInterval(window.__min); window.__min = setInterval(minuteur, 1000);
+  $('#essai').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; tete = b.dataset.r; z.querySelectorAll('#essai button').forEach((x) => x.classList.toggle('actif', x === b)); });
+  $('#ouvrir').addEventListener('click', lancer);
+  $('#paquets').addEventListener('click', lancer);
+  z.querySelectorAll('#dernieres .k').forEach((el, i) => { el.classList.add('pressable'); el.addEventListener('click', () => fiche(historique, i, el)); });
+}
 
 function tirer() {
-  const pick = (r) => hasard(parRarete[r]);
-  const t = ['commune', 'commune', 'commune', 'commune', alea() < .5 ? 'commune' : 'rare', 'rare'];
+  const tous = toutes();
+  const par = Object.groupBy(tous, (c) => c.rarete);
+  const t = ['commune', 'commune', 'commune', 'commune', Math.random() < .5 ? 'commune' : 'rare', 'rare'];
   let haut = tete;
   if (haut === 'auto') { const x = Math.random(); haut = x < .005 ? 'pantheon' : x < .03 ? 'legendaire' : x < .1 ? 'mythique' : x < .3 ? 'epique' : 'rare'; }
   t.push(haut);
-  return t.map((r) => { const c = pick(r); return { carte: c, neuve: !possede.has(c.id) }; });
+  return t.map((r) => { const c = hasard(par[r] || par.commune); return { carte: { ...c, total: colDe(c)?.nbCartes }, neuve: !possede.has(c.id) }; });
 }
-const lancer = async () => { const t = tirer(); await ouvrirPaquet(t); t.forEach(({ carte }) => possede.set(carte.id, (possede.get(carte.id) || 0) + 1)); };
-document.getElementById('ouvrir').addEventListener('click', lancer);
-document.getElementById('mini-pk').addEventListener('click', lancer);
+async function lancer() {
+  if (!paquets) return;
+  vibrer(12);
+  const t = tirer();
+  await ouvrirPaquet(t);
+  paquets--;
+  t.forEach(({ carte }) => { possede.set(carte.id, (possede.get(carte.id) || 0) + 1); historique.unshift(carte); });
+  historique.length = Math.min(historique.length, 14);
+  rendreAccueil();
+}
+
+// ---------- questions ----------
+const QUESTIONS = [
+  { q: 'Quel souverain fit bâtir la galerie des Glaces ?', r: ['louis xiv', 'louis 14'], aff: 'Louis XIV', th: 'Histoire', d: 2 },
+  { q: 'Quel élément chimique a pour symbole « W » ?', r: ['tungstene', 'wolfram'], aff: 'Le tungstène', th: 'Sciences', d: 3 },
+  { q: 'Dans quel pays se trouve le château de Neuschwanstein ?', r: ['allemagne'], aff: "L'Allemagne", th: 'Géographie', d: 1 },
+  { q: 'Qui a peint « La Jeune Fille à la perle » ?', r: ['vermeer', 'johannes vermeer'], aff: 'Johannes Vermeer', th: 'Arts', d: 2 },
+  { q: 'Quel oiseau est l’emblème de la Nouvelle-Zélande ?', r: ['kiwi'], aff: 'Le kiwi', th: 'Nature', d: 2 },
+  { q: 'Quelle planète possède le plus grand volcan connu, Olympus Mons ?', r: ['mars'], aff: 'Mars', th: 'Sciences', d: 3 },
+];
+let qi = 0; const resultats = [];
+const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+function rendreQuestions() {
+  const z = $('#questions');
+  if (qi >= QUESTIONS.length) {
+    z.innerHTML = `<div class="grand-titre"><div><h1>Questions</h1><div class="sous">${resultats.filter(Boolean).length} / ${QUESTIONS.length}</div></div></div>
+      <div class="bloc q-carte" style="align-items:center;justify-content:center;text-align:center"><i class="ph-fill ph-check-circle" style="font-size:44px;color:var(--vert)"></i><p class="q-texte" style="margin-top:14px">À demain</p></div>`;
+    return;
+  }
+  const q = QUESTIONS[qi];
+  z.innerHTML = `<div class="grand-titre"><div><h1>Questions</h1><div class="sous">${qi + 1} / ${QUESTIONS.length}</div></div><span class="multi"><i class="ph-fill ph-lightning"></i>×1,5</span></div>
+    <div class="points">${QUESTIONS.map((_, i) => `<i class="${i < resultats.length ? (resultats[i] ? 'juste' : 'faux') : i === qi ? 'ici' : ''}"></i>`).join('')}</div>
+    <div class="bloc q-carte" id="qc">
+      <div class="meta"><span class="tag${qi === 0 ? ' or' : ''}">${qi === 0 ? '<i class="ph-fill ph-star"></i>' : ''}${q.th}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= q.d ? 'on' : ''}"></i>`).join('')}</span></div>
+      <p class="q-texte">${esc(q.q)}</p>
+    </div>
+    <form class="q-form" id="qf"><input id="qr" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="send" placeholder="Réponse"><button disabled><i class="ph-bold ph-arrow-up"></i></button></form>
+    <div class="verdict" id="qv"></div>`;
+  const inp = $('#qr'), bt = $('#qf button');
+  inp.addEventListener('input', () => (bt.disabled = !inp.value.trim()));
+  $('#qf').addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (!inp.value.trim() || inp.disabled) return;
+    const ok = q.r.some((r) => norm(inp.value) === r || norm(inp.value).endsWith(' ' + r));
+    resultats.push(ok); inp.disabled = true; bt.disabled = true;
+    $('#qc').classList.add(ok ? 'juste' : 'faux');
+    vibrer(ok ? 20 : [30, 40, 30]);
+    const v = $('#qv'); v.className = `verdict vu ${ok ? 'ok' : 'ko'}`;
+    v.innerHTML = `<div class="ico"><i class="ph-bold ${ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.aff)}</b><span>${ok ? `+${qi === 0 ? 240 : 120} ◆` : 'Revient dans 3 jours'}</span></div><button class="btn2 petit" id="suiv">Suivante</button>`;
+    if (ok) crediter(qi === 0 ? 240 : 120);
+    $('#suiv').addEventListener('click', () => { qi++; transition(rendreQuestions); });
+    $('#suiv').focus();
+  });
+}
 
 // ---------- collection ----------
-let theme = 'Tous';
-function afficherCollections() {
-  const z = document.getElementById('collection');
+let vueCol = null, theme = 'Tous', requete = '', filtre = 'toutes';
+const couverture = (col) => { const p = col.cartes?.filter((c) => possede.has(c.id)) ?? []; return [...(p.length ? p : col.cartes ?? [])].sort((a, b) => RARETES.indexOf(b.rarete) - RARETES.indexOf(a.rarete) || b.pv - a.pv)[0]; };
+function rendreCollection() {
+  if (vueCol) return rendreUneCollection(vueCol);
+  const z = $('#collection');
+  const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length;
   const themes = ['Tous', ...new Set(cols.map((c) => c.theme))];
-  const visibles = cols.filter((c) => theme === 'Tous' || c.theme === theme);
-  z.innerHTML = `
-    <div class="entete-ecran"><h1>Collection</h1><p>${possede.size.toLocaleString('fr')} / ${toutes.length.toLocaleString('fr')}</p></div>
-    <div class="puces">${themes.map((t) => `<button class="puce${t === theme ? ' actif' : ''}" data-t="${t}">${t}</button>`).join('')}</div>
-    <div class="liste-col">${visibles.map((c) => {
-      const n = c.cartes.filter((x) => possede.has(x.id)).length, p = n / c.cartes.length;
-      const vit = [...c.cartes].sort((a, b) => RARETES.indexOf(b.rarete) - RARETES.indexOf(a.rarete)).slice(0, 3);
-      return `<button class="ligne-col${p === 1 ? ' complete' : ''}" data-slug="${c.slug}">
-        <div class="mosaique">${vit.map((x) => `<img src="${x.thumbUrl}" alt="" loading="lazy">`).join('')}</div>
-        <div><div class="nom">${c.nom}</div><div class="meta"><div class="barre2"><i style="width:${p * 100}%"></i></div><span>${n}/${c.cartes.length}</span></div></div>
-        <i class="ph ph-caret-right"></i></button>`;
+  z.innerHTML = `<div class="grand-titre"><div><h1>Collection</h1><div class="sous">${fr(n)} / ${fr(idx.collections.reduce((s, c) => s + c.nbCartes, 0))}</div></div></div>
+    <div class="recherche"><i class="ph ph-magnifying-glass"></i><input id="rq" type="search" placeholder="Rechercher" value="${esc(requete)}" autocomplete="off"></div>
+    <div class="puces">${themes.map((t) => `<button class="puce${t === theme ? ' actif' : ''}" data-t="${esc(t)}">${esc(t)}</button>`).join('')}</div>
+    <div id="res"></div>`;
+  const remplir = () => {
+    const q = norm(requete);
+    const res = $('#res');
+    if (q.length >= 2) {
+      const cartes = toutes().filter((c) => possede.has(c.id) && norm(c.nom).includes(q)).slice(0, 60);
+      res.innerHTML = cartes.length ? `<div class="grille">${cartes.map((c) => `<div class="cellule">${htmlCarte(c)}</div>`).join('')}</div>` : `<div style="text-align:center;color:var(--texte-3);padding:40px 0"><i class="ph ph-cards" style="font-size:32px"></i></div>`;
+      res.querySelectorAll('.k').forEach((el, i) => el.addEventListener('click', () => fiche(cartes, i, el)));
+      return;
+    }
+    const visibles = cols.filter((c) => theme === 'Tous' || c.theme === theme);
+    res.innerHTML = `<div class="tuiles-col">${visibles.map((c) => {
+      if (!c.cartes) return `<button class="tc"><div class="squelette"></div><div class="bas"><div class="nom">${esc(c.nom)}</div></div></button>`;
+      const k = c.cartes.filter((x) => possede.has(x.id)).length, p = k / c.cartes.length, cv = couverture(c);
+      return `<button class="tc pressable${p === 1 ? ' complete' : ''}${k ? '' : ' vide'}" data-slug="${c.slug}">
+        <img src="${cv.thumbUrl}" alt="" loading="lazy" decoding="async">
+        <div class="bas"><div class="nom">${esc(c.nom)}</div><div class="meta"><div class="barre2"><i style="width:${p * 100}%"></i></div><span>${k}/${c.cartes.length}</span></div></div></button>`;
     }).join('')}</div>`;
-  z.querySelectorAll('.puce').forEach((b) => b.addEventListener('click', () => { theme = b.dataset.t; afficherCollections(); }));
-  z.querySelectorAll('.ligne-col').forEach((b) => b.addEventListener('click', () => afficherCollection(cols.find((c) => c.slug === b.dataset.slug))));
+    res.querySelectorAll('.tc[data-slug]').forEach((b) => b.addEventListener('click', () => { vibrer(); transition(() => { vueCol = b.dataset.slug; filtre = 'toutes'; rendreCollection(); scrollTo(0, 0); }); }));
+  };
+  remplir();
+  $('#rq').addEventListener('input', (e) => { requete = e.target.value; remplir(); });
+  z.querySelectorAll('.puce').forEach((b) => b.addEventListener('click', () => { theme = b.dataset.t; vibrer(); rendreCollection(); }));
 }
-function afficherCollection(col) {
-  const z = document.getElementById('collection');
-  const n = col.cartes.filter((x) => possede.has(x.id)).length;
-  z.innerHTML = `<button class="retour"><i class="ph ph-caret-left"></i>Collection</button>
-    <div class="entete-ecran"><h1>${col.nom}</h1><p>${n} / ${col.cartes.length}</p></div>
-    <div class="grille">${col.cartes.map((c, i) => possede.has(c.id)
-      ? `<div style="position:relative">${htmlCarte(c, { desc: false })}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
-      : `<div class="absente">${String(c.numero ?? i + 1).padStart(3, '0')}</div>`).join('')}</div>`;
-  z.querySelector('.retour').addEventListener('click', afficherCollections);
-  z.querySelectorAll('.grille .k').forEach((el) => el.addEventListener('click', () => fiche(col.cartes.find((c) => c.id === el.dataset.id))));
-  scrollTo(0, 0);
+function rendreUneCollection(slug) {
+  const col = cols.find((c) => c.slug === slug);
+  const z = $('#collection');
+  const k = col.cartes.filter((x) => possede.has(x.id)).length, cv = couverture(col);
+  const parR = RARETES.map((r) => [r, col.cartes.filter((c) => c.rarete === r)]).filter(([, l]) => l.length);
+  const liste = col.cartes.filter((c) => filtre === 'toutes' || (filtre === 'possedees') === possede.has(c.id));
+  z.innerHTML = `<div class="col-hero" style="--img:url('${cv.imageUrl}')"><div class="flou"></div>
+      <button class="retour" id="ret"><i class="ph-bold ph-caret-left"></i></button>
+      <h1>${esc(col.nom)}</h1>
+      <div class="ligne-prog"><div class="barre2"><i style="width:${k / col.cartes.length * 100}%"></i></div><span class="chiffre" style="font-size:13px">${k}/${col.cartes.length}</span></div>
+      <div class="rar-detail">${parR.map(([r, l]) => `<span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${l.filter((c) => possede.has(c.id)).length}/${l.length}</span>`).join('')}</div>
+    </div>
+    <div class="segment">${[['toutes', 'Toutes'], ['possedees', 'Possédées'], ['manquantes', 'Manquantes']].map(([v, l]) => `<button data-f="${v}" class="${v === filtre ? 'actif' : ''}">${l}</button>`).join('')}</div>
+    <div class="grille">${liste.map((c) => possede.has(c.id)
+      ? `<div class="cellule">${htmlCarte(c, { total: col.cartes.length })}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
+      : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b><i class="ph-fill ${ICONES[c.rarete]}" style="color:var(--r-${c.rarete})"></i></div>`).join('')}</div>`;
+  $('#ret').addEventListener('click', () => { vibrer(); transition(() => { vueCol = null; rendreCollection(); scrollTo(0, 0); }); });
+  z.querySelectorAll('.segment button').forEach((b) => b.addEventListener('click', () => { filtre = b.dataset.f; vibrer(); const y = scrollY; rendreUneCollection(slug); scrollTo(0, Math.min(y, $('.segment').offsetTop - 8)); }));
+  const possedees = liste.filter((c) => possede.has(c.id)).map((c) => ({ ...c, total: col.cartes.length }));
+  z.querySelectorAll('.grille .k').forEach((el) => { el.classList.add('pressable'); el.addEventListener('click', () => fiche(possedees, possedees.findIndex((c) => c.id === el.dataset.id), el)); });
 }
 
-// ---------- fiche ----------
-function fiche(c) {
+// ---------- fiche : la carte s'agrandit depuis la grille, on glisse pour passer à la suivante ----------
+function fiche(liste, i, source) {
+  vibrer();
   const f = document.createElement('div');
   f.className = 'fiche';
-  const q = possede.get(c.id) || 0;
-  f.innerHTML = `<button class="ov2-btn fermer" aria-label="Fermer"><i class="ph ph-x"></i></button>
-    ${htmlCarte(c, { image: 'full' })}
-    <div class="infos"><span>Possédée <b>×${q}</b></span><span>Vues <b>${(c.pageviews ?? 0).toLocaleString('fr')}</b></span></div>
-    <div class="actions">
-      <a class="btn2" href="${c.lienWikipedia}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>
-      ${q > 1 ? '<button class="btn2 fantome"><i class="ph ph-coins"></i>Vendre</button>' : ''}
-    </div>`;
-  document.body.append(f);
-  brancherInclinaison(f.querySelector('.k'), 16);
-  const fermer = () => f.remove();
-  f.querySelector('.fermer').addEventListener('click', fermer);
-  f.addEventListener('click', (e) => { if (e.target === f) fermer(); });
+  const remplir = (sens) => {
+    const c = liste[i], q = possede.get(c.id) || 0, col = colDe(c);
+    f.style.setProperty('--img', `url('${c.thumbUrl}')`);
+    f.innerHTML = `<div class="flou"></div>
+      <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span class="pos">${i + 1} / ${liste.length}</span><span style="width:40px"></span></div>
+      <div class="scene">${htmlCarte({ ...c, total: c.total ?? col?.nbCartes }, { image: 'full' })}</div>
+      <div class="feuille" style="--rar:var(--r-${c.rarete})">
+        <div class="poignee"></div>
+        <span class="rar"><i class="ph-fill ${ICONES[c.rarete]}"></i>${NOMS[c.rarete]}</span>
+        <h2>${esc(c.nom)}</h2>
+        <div class="col">${esc(c.collection)}</div>
+        <div class="stats"><div><b>${c.pv}</b><span>PV</span></div><div><b>×${q}</b><span>Possédée</span></div><div><b>${fr(REVENTE[c.rarete])}</b><span>Revente</span></div></div>
+        <p>${esc((c.description || '').split('\n')[0])}</p>
+        <div class="actions">
+          <a class="btn2 ${q > 1 ? '' : 'seul'}" href="${esc(c.lienWikipedia)}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>
+          ${q > 1 ? `<button class="btn2 fantome" id="fv"><i class="ph ph-coins"></i>Vendre ×${q - 1}</button>` : ''}
+        </div>
+      </div>`;
+    const k = $('.scene .k', f);
+    if (sens) k.classList.add(sens > 0 ? 'entre-g' : 'entre-d');
+    brancherInclinaison(k, 16);
+    $('#ff', f).addEventListener('click', fermer);
+    $('#fv', f)?.addEventListener('click', () => { crediter(REVENTE[c.rarete] * (q - 1)); possede.set(c.id, 1); remplir(); });
+    // glisser horizontalement pour changer de carte
+    const sc = $('.scene', f); let x0 = null;
+    sc.addEventListener('pointerdown', (e) => (x0 = e.clientX));
+    sc.addEventListener('pointerup', (e) => {
+      if (x0 == null) return; const dx = e.clientX - x0; x0 = null;
+      const j = i + (dx < -50 ? 1 : dx > 50 ? -1 : 0);
+      if (j === i || j < 0 || j >= liste.length) return;
+      vibrer(); k.classList.add(dx < 0 ? 'sort-g' : 'sort-d');
+      setTimeout(() => { i = j; remplir(dx < 0 ? 1 : -1); }, 200);
+    });
+  };
+  const ouvrir = () => { if (source) source.style.viewTransitionName = ''; remplir(); document.body.append(f); document.body.style.overflow = 'hidden'; };
+  if (source && document.startViewTransition) { source.style.viewTransitionName = 'carte'; document.startViewTransition(ouvrir); } else ouvrir();
+  function fermer() {
+    vibrer();
+    const cible = document.querySelector(`.ecran.actif .k[data-id="${CSS.escape(liste[i].id)}"]`);
+    const partir = () => { f.remove(); document.body.style.overflow = ''; if (cible) cible.style.viewTransitionName = 'carte'; };
+    if (document.startViewTransition) document.startViewTransition(partir).finished.then(() => cible && (cible.style.viewTransitionName = ''));
+    else partir();
+  }
 }
+
+// ---------- boutique ----------
+function rendreBoutique() {
+  const OFFRES = [
+    { n: 'Paquet', ic: 'ph-cards', c: ['7 cartes'], p: 1500 },
+    { n: 'Grand paquet', ic: 'ph-stack', c: ['15 cartes'], p: 3000 },
+    { n: 'Collection', ic: 'ph-books', c: ['7 cartes', 'au choix'], p: 3500 },
+    { n: 'Inédit', ic: 'ph-sparkle', c: ['5 cartes', 'toutes nouvelles'], p: 6000 },
+    { n: 'Sommet', ic: 'ph-crown-simple', c: ['1 carte', 'Mythique ou mieux'], p: 15000 },
+    { n: 'Mystère', ic: 'ph-question', c: ['?'], p: 2500 },
+  ];
+  const z = $('#boutique');
+  const doublons = [...possede.values()].reduce((s, q) => s + Math.max(0, q - 1), 0);
+  z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div><button class="solde"><i class="ph-fill ph-diamond"></i><span class="chiffre" id="solde">${fr(solde)}</span></button></div>
+    <div class="offres">${OFFRES.map((o, i) => `<div class="bloc offre"><div class="pk-ico"><i class="ph-fill ${o.ic}"></i></div>
+      <div><h3>${o.n}</h3><div class="contenu">${o.c.map((x) => `<span class="tag">${x}</span>`).join('')}</div></div>
+      <button class="btn2 or pressable" data-i="${i}" ${o.p > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(o.p)}</button></div>`).join('')}</div>
+    <div class="section-titre"><h2>Doublons</h2></div>
+    <div class="bloc vente"><div><b>${fr(doublons)} cartes</b><span>+${fr(doublons * 180)} ◆</span></div><button class="btn2 fantome petit"><i class="ph ph-coins"></i>Tout vendre</button></div>`;
+  z.querySelectorAll('.offre .btn2').forEach((b) => b.addEventListener('click', () => { const o = OFFRES[b.dataset.i]; solde -= o.p; paquets++; vibrer(15); rendreBoutique(); aller('accueil'); }));
+}
+
+// ---------- plus ----------
+function rendrePlus() {
+  const r = (ic, lib, val = '', coul = 'var(--texte-2)') => `<button class="rangee pressable"><span class="ic" style="color:${coul}"><i class="ph-fill ${ic}"></i></span><span class="lib">${lib}</span><span class="val">${val}</span><i class="ph ph-caret-right"></i></button>`;
+  $('#plus').innerHTML = `<div class="grand-titre"><div><h1>Plus</h1></div></div>
+    <div class="bloc groupe">${r('ph-fire', 'Série', '12 j', '#ff9f5a')}${r('ph-target', 'Objectifs', '3/5', 'var(--vert)')}${r('ph-clock-counter-clockwise', 'Historique')}</div>
+    <div class="bloc groupe">${r('ph-user-circle', 'Compte Éclats', 'connecté')}${r('ph-bell', 'Notifications', 'activées')}${r('ph-gear-six', 'Réglages')}</div>`;
+}
+
+rendreAccueil();
+$('#attente').style.opacity = 0; setTimeout(() => $('#attente').remove(), 400);
 </script>
 </body>
 </html>

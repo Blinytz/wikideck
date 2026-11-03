@@ -2,6 +2,7 @@
 // rejoint l'inventaire et s'ouvre quand on veut ; un « paquet » de récompense
 // sans précision est un paquet standard, ajouté aux paquets prêts.
 
+import { crediterEclats } from './portefeuille.js';
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 import { donnees } from './donnees.js';
@@ -121,7 +122,7 @@ export function ouvrirSpecial(uid) {
   const c = contenu(p);
   const reel = c.revele || p;
   const r = acquerir(c.ids, { source: p.source, type: reel.type });
-  if (c.eclats) { etat.eclats += c.eclats; r.eclats = c.eclats; }
+  if (c.eclats) { crediterEclats(c.eclats, 'Paquet Inédit : collection déjà complète', 'recompense'); r.eclats = c.eclats; }
   r.titre = libelle(reel);
   r.mystere = !!c.revele;
   etat.paquets.ouverts += 1;

@@ -1,0 +1,15 @@
+name: Catalogue vers Supabase Éclats
+on:
+  push:
+    branches: [main]
+    paths: ['data/**']
+  workflow_dispatch:
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python build/serveur/sync_catalogue.py
+        env:
+          ECLATS_SUPABASE_URL: https://psutbulpezfdftmaqkoo.supabase.co
+          ECLATS_SERVICE_KEY: ${{ secrets.ECLATS_SERVICE_KEY }}

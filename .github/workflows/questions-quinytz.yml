@@ -1,0 +1,16 @@
+name: Copie des questions Quinytz
+on:
+  schedule:
+    - cron: '0 3 * * 1'   # lundi 3 h UTC, soit 4 h à Paris en hiver (5 h en été)
+  workflow_dispatch:
+jobs:
+  copie:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python build/serveur/copie_quinytz.py
+        env:
+          QUINYTZ_SUPABASE_URL: ${{ secrets.QUINYTZ_SUPABASE_URL }}
+          QUINYTZ_SERVICE_KEY: ${{ secrets.QUINYTZ_SERVICE_KEY }}
+          ECLATS_SUPABASE_URL: https://psutbulpezfdftmaqkoo.supabase.co
+          ECLATS_SERVICE_KEY: ${{ secrets.ECLATS_SERVICE_KEY }}

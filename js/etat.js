@@ -52,8 +52,12 @@ export function sauvegarder() {
   minuterieSauvegarde = setTimeout(sauvegarderMaintenant, 400);
 }
 
+const apresSauvegarde = [];
+export function surSauvegarde(fn) { apresSauvegarde.push(fn); }
+
 export function sauvegarderMaintenant() {
   clearTimeout(minuterieSauvegarde);
+  for (const fn of apresSauvegarde) { try { fn(); } catch (e) { console.warn(e); } }
   try {
     localStorage.setItem(CLE, JSON.stringify(etat));
   } catch (err) {

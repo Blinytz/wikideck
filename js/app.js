@@ -22,6 +22,8 @@ import { reconcilierCatalogue } from './recompenses.js';
 import { traiterJours } from './serie.js';
 import { verifierObjectifs } from './objectifs.js';
 import { chargerQuestions } from './source-questions.js';
+import { demarrerSynchro } from './synchro.js';
+import { vider } from './portefeuille.js';
 import './vente.js';   // branche la vente de doublons sur le détail de carte
 
 const ecrans = {
@@ -91,6 +93,7 @@ async function demarrer() {
   }
   document.getElementById('chargement').remove();
 
+  await demarrerSynchro();   // état le plus récent (serveur ou appareil), migration unique
   initEclats();          // purge de l'ancien état de taux, s'il subsiste
   if (config.get('stationActive')) initStation();   // Station désactivée par défaut (code conservé)
   const changements = reconcilierCatalogue();
@@ -106,7 +109,11 @@ async function demarrer() {
   document.addEventListener('wikideck:aller', e => afficherEcran(e.detail));
   document.addEventListener('wikideck:notif', e => toast(e.detail));
 
+  // lien direct (notification) : #boutique, #questions…
+  const depuisAncre = () => { const h = location.hash.slice(1); if (h in ecrans) afficherEcran(h); };
   afficherEcran('accueil');
+  depuisAncre();
+  window.addEventListener('hashchange', depuisAncre);
   rafraichirEntete();
   recapRaretes(changements);
 
@@ -125,8 +132,10 @@ async function demarrer() {
   // Retour au premier plan : rattrapage immédiat (paquets, jours de série).
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible') {
-      tickPaquets(); traiterJours(); rafraichirEntete();
-      afficherEcran(ecranActif);
+      demarrerSynchro().finally(() => {
+        tickPaquets(); traiterJours(); vider(); rafraichirEntete();
+        afficherEcran(ecranActif);
+      });
     }
   });
 

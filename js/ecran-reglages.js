@@ -5,6 +5,9 @@ import { etat, exporterJSON, importerJSON, reinitialiserTout, sauvegarder } from
 import { config, DEFAUTS } from './config.js';
 import { donnees } from './donnees.js';
 import { esc, confirmer } from './ui.js';
+import { estConnecte, utilisateur, connexion, deconnexion } from './serveur.js';
+import { demarrerSynchro, chargerQuestionsServeur } from './synchro.js';
+import { TYPES_NOTIF, prefs as prefsNotifs, disponible as notifsDisponibles, estAbonne, activer, desactiver, changerPref } from './notifications.js';
 
 function htmlSectionsParametres() {
   return Object.entries(config.sections()).map(([section, cles]) => {
@@ -49,13 +52,34 @@ export function rendreEcranReglages(section) {
     ${avertissement}
     <div class="carte-panneau">
       <h2>Sauvegarde</h2>
-      <p class="texte-doux">L'état complet du jeu (cartes, Éclats, réglages) vit
-      uniquement sur cet appareil. Exporte régulièrement !</p>
+      <p class="texte-doux">Copie complète du jeu sur cet appareil.</p>
       <div class="rangee-boutons">
         <button id="btn-export" class="btn">📤 Exporter</button>
         <button id="btn-import" class="btn">📥 Importer</button>
         <input type="file" id="fichier-import" accept=".json,application/json" hidden>
       </div>
+    </div>
+
+    <div class="carte-panneau">
+      <h2>Compte Éclats</h2>
+      ${estConnecte()
+        ? `<p class="texte-doux">${esc(utilisateur()?.email || '')}${etat.serveur?.actif ? ' · synchronisé' : ''}</p>
+           <button id="btn-deconnexion" class="btn btn-discret">Se déconnecter</button>`
+        : `<form id="form-connexion" class="form-connexion">
+             <input type="email" id="cx-email" autocomplete="username" placeholder="E-mail">
+             <input type="password" id="cx-mdp" autocomplete="current-password" placeholder="Mot de passe">
+             <button class="btn btn-primaire">Se connecter</button>
+             <p id="cx-erreur" class="texte-doux"></p>
+           </form>`}
+    </div>
+
+    <div class="carte-panneau" id="panneau-notifs">
+      <h2>Notifications</h2>
+      ${notifsDisponibles() ? `
+        <button id="btn-notifs" class="btn">…</button>
+        ${Object.entries(TYPES_NOTIF).map(([k, nom]) => `
+          <label class="ligne-pref"><input type="checkbox" data-notif="${k}" ${prefsNotifs()[k] ? 'checked' : ''}> ${esc(nom)}</label>`).join('')}
+        <p id="notif-erreur" class="texte-doux"></p>` : '<p class="texte-doux">Indisponibles sur ce navigateur.</p>'}
     </div>
 
     <div class="carte-panneau">
@@ -87,6 +111,39 @@ export function rendreEcranReglages(section) {
 
   for (const d of section.querySelectorAll('details.section-params')) {
     if (ouvertes.has(d.dataset.section)) d.open = true;
+  }
+
+  // --- compte Éclats
+  section.querySelector('#form-connexion')?.addEventListener('submit', async ev => {
+    ev.preventDefault();
+    const err = section.querySelector('#cx-erreur');
+    err.textContent = '…';
+    try {
+      await connexion(section.querySelector('#cx-email').value.trim(), section.querySelector('#cx-mdp').value);
+      await demarrerSynchro();
+      await chargerQuestionsServeur();
+      location.reload();
+    } catch (e) { err.textContent = e.message; }
+  });
+  section.querySelector('#btn-deconnexion')?.addEventListener('click', () => {
+    if (!confirmer('Se déconnecter du compte Éclats sur cet appareil ?')) return;
+    deconnexion(); location.reload();
+  });
+
+  // --- notifications
+  const btnNotifs = section.querySelector('#btn-notifs');
+  if (btnNotifs) {
+    estAbonne().then(ok => {
+      btnNotifs.textContent = ok ? 'Désactiver les notifications' : 'Activer les notifications';
+      btnNotifs.onclick = async () => {
+        const err = section.querySelector('#notif-erreur');
+        try { ok ? await desactiver() : await activer(); err.textContent = ''; rendreEcranReglages(section); }
+        catch (e) { err.textContent = e.message; }
+      };
+    });
+    for (const c of section.querySelectorAll('[data-notif]')) {
+      c.addEventListener('change', () => changerPref(c.dataset.notif, c.checked).catch(() => {}));
+    }
   }
 
   // --- filtre des paramètres (nom + texte d'aide)

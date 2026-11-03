@@ -3,7 +3,7 @@
 // Tout ce qui est servi (shell, data/*.json, images) est mis en cache au vol,
 // donc l'app reste 100% fonctionnelle hors-ligne après la première visite.
 
-const CACHE = 'wikideck-v9-jeu';
+const CACHE = 'wikideck-v10-serveur';
 
 const COQUILLE = [
   './', './index.html', './manifest.json', './css/app.css', './css/ouverture.css', './css/jeu.css',
@@ -16,7 +16,8 @@ const COQUILLE = [
   './js/ecran-historique.js', './js/speciaux.js', './js/recompenses.js', './js/jour.js',
   './js/questions.js', './js/serie.js', './js/objectifs.js', './js/boutique.js', './js/source-questions.js',
   './js/ecran-accueil.js', './js/ecran-questions.js', './js/ecran-boutique.js', './js/ecran-serie.js',
-  './js/ecran-objectifs.js', './js/ecran-plus.js',
+  './js/ecran-objectifs.js', './js/ecran-plus.js', './js/serveur.js', './js/synchro.js',
+  './js/portefeuille.js', './js/notifications.js',
   './data/collections.json',
   './icons/icon-192.png', './icons/icon-512.png',
 ];
@@ -75,5 +76,26 @@ self.addEventListener('fetch', (ev) => {
     } catch {
       return repli(req, null);
     }
+  })());
+});
+
+// Notifications push envoyées par la fonction serveur (spec §9).
+self.addEventListener('push', (ev) => {
+  let d = {};
+  try { d = ev.data ? ev.data.json() : {}; } catch { d = { titre: 'WikiDeck', texte: ev.data?.text() }; }
+  ev.waitUntil(self.registration.showNotification(d.titre || 'WikiDeck', {
+    body: d.texte || '', tag: d.tag || 'wikideck', icon: './icons/icon-192.png', badge: './icons/icon-192.png',
+    data: { url: d.url || './' },
+  }));
+});
+
+self.addEventListener('notificationclick', (ev) => {
+  ev.notification.close();
+  const cible = new URL(ev.notification.data?.url || './', self.registration.scope).href;
+  ev.waitUntil((async () => {
+    const fenetres = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
+    const ouverte = fenetres.find(f => f.url.startsWith(self.registration.scope));
+    if (ouverte) { await ouverte.focus(); return ouverte.navigate ? ouverte.navigate(cible) : null; }
+    return self.clients.openWindow(cible);
   })());
 });

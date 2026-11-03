@@ -242,5 +242,6 @@ Questions, Collection, Historique, Boutique, Série, Objectifs, Réglages.
 
 ## Avancement
 
-- **Étape 1, publiée le 03/11/2026 (état local, sur l'appareil)** : §1 paquets 12 h / 7 cartes, Station retirée (code conservé, `stationActive`) ; §2 ouverture complète ; §5.1 historique ; §5.2 cartes lues ; §5.3 Résonance ; §5.4 valeurs, revente 30 % et vente groupée (Éclats encore locaux).
-- **À faire** : §5.5 fins de collection, §7 paquets spéciaux et inventaire, §8 boutique, §5.6 catalogue évolutif (archivage, « anciennement X »), §6 objectifs, §3 questions (attend la source Quinytz), §4 série, §0 Supabase Éclats + Centrale + migration, §9 notifications.
+- **Étape 1, publiée le 03/11/2026** : §1 paquets 12 h / 7 cartes, Station retirée (code conservé, `stationActive`) ; §2 ouverture complète ; §5.1 historique ; §5.2 cartes lues ; §5.3 Résonance ; §5.4 valeurs, revente 30 %, vente groupée.
+- **Étape 2, publiée le 03/11/2026** : §10 accueil et navigation ; §7 paquets spéciaux et inventaire ; §5.5 fins de collection ; §5.6 catalogue évolutif (archivage, « anciennement X », récapitulatif) ; §3 moteur de questions complet ; §4 série ; §6 objectifs ; §8 boutique.
+- **Étape 3, code publié le 03/11/2026, à activer** : §0 synchronisation de l'état avec le Supabase Éclats et migration unique (`js/synchro.js`), Éclats sur le registre commun (`js/portefeuille.js`), copie Quinytz et catalogue par GitHub Actions (`.github/workflows/`, `build/serveur/`), notifications push (`supabase/functions/wikideck-push`, `sql/02_cron.sql`, `js/notifications.js`). Activation : `sql/01_wikideck.sql`, secrets GitHub et Supabase, déploiement de la fonction (voir `sql/ACTIVATION.md`).

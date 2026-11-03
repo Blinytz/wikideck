@@ -1,6 +1,7 @@
 // Récompenses : paquets standard, paquets spéciaux, Éclats, Panthéon garantie.
 // Fins de collection (spec §5.5, §5.6) : branchées sur chaque acquisition.
 
+import { crediterEclats } from './portefeuille.js';
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 import { donnees } from './donnees.js';
@@ -36,11 +37,11 @@ export function donner(r, motif) {
       acquerir([id], { source: 'recompense', type: 'pantheon' });
       dons.push(`la Panthéon ${donnees.parId.get(id).nom}`);
     } else {
-      etat.eclats += valeurReference('pantheon');
+      crediterEclats(valeurReference('pantheon'), `${motif} : Panthéon déjà toutes possédées`, 'recompense');
       dons.push(`${valeurReference('pantheon').toLocaleString('fr-FR')} Éclats`);
     }
   }
-  if (r.eclats) { etat.eclats += r.eclats; dons.push(`${r.eclats.toLocaleString('fr-FR')} Éclats`); }
+  if (r.eclats) { crediterEclats(r.eclats, motif, 'recompense'); dons.push(`${r.eclats.toLocaleString('fr-FR')} Éclats`); }
   sauvegarder();
   document.dispatchEvent(new CustomEvent('gacha:eclats-changes'));
   if (dons.length) notifier(`${motif} : ${dons.join(', ')}`);

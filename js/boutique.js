@@ -1,6 +1,7 @@
 // Boutique (spec §8) : 3 emplacements, offres pondérées au contenu précis,
 // achat unique, remises, offres flash, baisse avec le temps.
 
+import { debiterEclats } from './portefeuille.js';
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 import { donnees } from './donnees.js';
@@ -116,8 +117,7 @@ export function acheter(uid) {
   const em = e.emplacements.find(x => x.offre?.uid === uid);
   if (!em) return { ok: false, raison: 'offre disparue' };
   const p = prix(em.offre);
-  if (etat.eclats < p) return { ok: false, raison: 'solde insuffisant' };
-  etat.eclats -= p;
+  if (!debiterEclats(p, `Boutique : ${libelleOffre(em.offre)}`, 'boutique')) return { ok: false, raison: 'solde insuffisant' };
   ajouterSpecial(em.offre.type, em.offre.type === 'mystere' ? {} : em.offre.params, 'boutique');
   em.offre = null;
   em.prochaine = Date.now() + entre(config.get('remplissageMinH'), config.get('remplissageMaxH')) * H;

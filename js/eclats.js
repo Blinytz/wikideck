@@ -11,6 +11,7 @@
 // Ces Éclats restent **locaux à WikiDeck** : l'application n'est pas encore
 // raccordée au registre commun de l'écosystème.
 
+import { crediterEclats, debiterEclats } from './portefeuille.js';
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 
@@ -53,8 +54,8 @@ export function vendreDoublons(lots) {
     etat.cartes[carte.id] = q - k;
     total += k * valeurVente(carte);
   }
-  etat.eclats += total;
   sauvegarder();
+  if (total) crediterEclats(total, 'Revente groupée de doublons', 'revente');
   return total;
 }
 
@@ -64,18 +65,16 @@ export function vendreDoublon(carte) {
   if (qte < 2) return null;
   const montant = valeurVente(carte);
   etat.cartes[carte.id] = qte - 1;
-  etat.eclats += montant;
   sauvegarder();
+  crediterEclats(montant, `Revente d'un doublon : ${carte.nom}`, 'revente');
   return montant;
 }
 
 // Retire des Éclats du compteur (simple décompte, aucune action automatisée).
 export function consommerEclats(montant) {
   montant = Math.floor(montant);
-  if (!Number.isFinite(montant) || montant <= 0 || montant > etat.eclats) return false;
-  etat.eclats -= montant;
-  sauvegarder();
-  return true;
+  if (!Number.isFinite(montant) || montant <= 0) return false;
+  return debiterEclats(montant, 'Dépense WikiDeck', 'achat');
 }
 
 /*

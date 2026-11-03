@@ -3,6 +3,7 @@
 
 import { etat } from './etat.js';
 import { esc, htmlImageCarte, NOMS_RARETE } from './ui.js';
+import { marquerLue } from './acquisition.js';
 
 export function htmlCarte(carte, { quantite = 0, dosVisible = false } = {}) {
   const badgeQte = quantite >= 2
@@ -57,6 +58,8 @@ export function ouvrirDetailCarte(carte, options = {}) {
     if (ev.target.closest('a')) return;   // le lien Wikipedia reste cliquable
     el.classList.toggle('dos-visible');
   });
+  // une carte est lue quand on ouvre sa page Wikipédia depuis sa fiche
+  overlay.querySelector('.lien-wiki')?.addEventListener('click', () => marquerLue(carte.id));
   const fermer = () => overlay.remove();
   overlay.querySelector('.btn-fermer').addEventListener('click', fermer);
   overlay.querySelector('.fond-overlay').addEventListener('click', fermer);

@@ -12,20 +12,50 @@
 // raccordée au registre commun de l'écosystème.
 
 import { etat, sauvegarder } from './etat.js';
+import { config } from './config.js';
 
-/* Valeur d'un doublon, en Éclats, selon la rareté de la carte. */
-export const BAREME_VENTE = {
-  commune: 100,
-  rare: 500,
-  epique: 1500,
-  mythique: 2500,
-  legendaire: 5000,
-  pantheon: 12000,
+const CLES_VALEUR = {
+  commune: 'valeurCommune', rare: 'valeurRare', epique: 'valeurEpique',
+  mythique: 'valeurMythique', legendaire: 'valeurLegendaire', pantheon: 'valeurPantheon',
 };
 
-/* Montant crédité par la vente d'un doublon de cette carte. */
+/* Valeur de référence d'une carte selon sa rareté actuelle. */
+export function valeurReference(rarete) {
+  return config.get(CLES_VALEUR[rarete] ?? 'valeurCommune');
+}
+
+/* Montant crédité par la revente d'un doublon (30 % de la valeur de référence). */
 export function valeurVente(carte) {
-  return BAREME_VENTE[carte?.rarete] ?? BAREME_VENTE.commune;
+  return Math.round(valeurReference(carte?.rarete) * config.get('tauxRevente'));
+}
+
+/* Tous les doublons vendables, filtrés par rareté : [{carte, n}] et total. */
+export function doublonsVendables(raretes, cartesParId) {
+  const lots = [];
+  let total = 0;
+  for (const [id, q] of Object.entries(etat.cartes)) {
+    if (q < 2) continue;
+    const carte = cartesParId.get(id);
+    if (!carte || !raretes.includes(carte.rarete)) continue;
+    lots.push({ carte, n: q - 1 });
+    total += (q - 1) * valeurVente(carte);
+  }
+  return { lots, total };
+}
+
+/* Vend tous ces doublons, en gardant toujours un exemplaire. */
+export function vendreDoublons(lots) {
+  let total = 0;
+  for (const { carte, n } of lots) {
+    const q = etat.cartes[carte.id] || 0;
+    const k = Math.min(n, q - 1);
+    if (k <= 0) continue;
+    etat.cartes[carte.id] = q - k;
+    total += k * valeurVente(carte);
+  }
+  etat.eclats += total;
+  sauvegarder();
+  return total;
 }
 
 // Vend UN doublon : jamais le dernier exemplaire. Retourne le montant ou null.

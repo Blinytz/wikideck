@@ -4,12 +4,13 @@
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 import { donnees } from './donnees.js';
+import { acquerir } from './acquisition.js';
 import { vitesseTotale, rejouerStation } from './station.js';
 
 // Point d'entrée UNIQUE de la vitesse : produit des boosts des 3 modules de
 // la Station de Recherche (chacun ≥ 1).
 export function getVitesseTotale() {
-  return vitesseTotale();
+  return config.get('stationActive') ? vitesseTotale() : 1;
 }
 
 export function initPaquets() {
@@ -27,6 +28,15 @@ export function rattraperPaquets() {
   const p = etat.paquets;
   if (!p) return;
   const duree = config.get('dureeBaseSecondes');
+  if (!config.get('stationActive')) {
+    // Station désactivée : vitesse fixe ×1, simple temps écoulé.
+    const maintenant = Date.now();
+    p.progression += Math.max(0, (maintenant - (p.lastTs || maintenant)) / 1000) / duree;
+    while (p.progression >= 1) { p.prets += 1; p.progression -= 1; }
+    p.lastTs = maintenant;
+    sauvegarder();
+    return;
+  }
   rejouerStation((dt, vitesse) => {
     p.progression += dt * vitesse / duree;
     while (p.progression >= 1) {
@@ -44,23 +54,19 @@ export function secondesRestantes() {
   return Math.max(0, (1 - p.progression) * duree / getVitesseTotale());
 }
 
-// Tire un paquet depuis la file : cartes équiprobables, doublons conservés.
-// Retourne [{carte, nouvelle}] ou null si aucun paquet prêt.
+// Tire un paquet standard depuis la file : cartes équiprobables sur le pool
+// global, doublons conservés. Retourne le résultat d'acquisition ou null.
+export function tirerIds(n) {
+  const ids = [];
+  for (let i = 0; i < n; i++) ids.push(donnees.pool[Math.floor(Math.random() * donnees.pool.length)]);
+  return ids;
+}
+
 export function ouvrirPaquet() {
   rattraperPaquets();
   const p = etat.paquets;
   if (p.prets < 1) return null;
   p.prets -= 1;
   p.ouverts += 1;
-  const taille = config.get('tailleDuPaquet');
-  const tirage = [];
-  for (let i = 0; i < taille; i++) {
-    const id = donnees.pool[Math.floor(Math.random() * donnees.pool.length)];
-    const carte = donnees.parId.get(id);
-    const nouvelle = !(etat.cartes[id] > 0);
-    etat.cartes[id] = (etat.cartes[id] || 0) + 1;
-    tirage.push({ carte, nouvelle });
-  }
-  sauvegarder();
-  return tirage;
+  return acquerir(tirerIds(config.get('tailleDuPaquet')), { source: 'passif', type: 'standard' });
 }

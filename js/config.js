@@ -6,10 +6,28 @@ import { etat, sauvegarder } from './etat.js';
 
 export const DEFAUTS = {
   // --- Tirage et paquets
-  dureeBaseSecondes:  { valeur: 86400, section: 'Tirage et paquets',
-    aide: "Temps de chargement d'un paquet à vitesse x1, en secondes (24h = 86400)." },
-  tailleDuPaquet:     { valeur: 10, section: 'Tirage et paquets',
-    aide: 'Nombre de cartes tirées par paquet.' },
+  dureeBaseSecondes:  { valeur: 43200, section: 'Tirage et paquets',
+    aide: "Temps de chargement d'un paquet passif, en secondes (12 h = 43200)." },
+  tailleDuPaquet:     { valeur: 7, section: 'Tirage et paquets',
+    aide: 'Nombre de cartes tirées par paquet standard.' },
+  stationActive:      { valeur: false, section: 'Tirage et paquets',
+    aide: 'Station de Recherche (désactivée : vitesse fixe ×1, écran retiré).' },
+
+  // --- Valeurs et revente (valeur de référence d'une carte, en Éclats)
+  valeurCommune:    { valeur: 500,   section: 'Valeurs et revente', aide: 'Valeur de référence d’une Commune.' },
+  valeurRare:       { valeur: 1000,  section: 'Valeurs et revente', aide: 'Valeur de référence d’une Rare.' },
+  valeurEpique:     { valeur: 2500,  section: 'Valeurs et revente', aide: 'Valeur de référence d’une Épique.' },
+  valeurMythique:   { valeur: 5000,  section: 'Valeurs et revente', aide: 'Valeur de référence d’une Mythique.' },
+  valeurLegendaire: { valeur: 15000, section: 'Valeurs et revente', aide: 'Valeur de référence d’une Légendaire.' },
+  valeurPantheon:   { valeur: 50000, section: 'Valeurs et revente', aide: 'Valeur de référence d’une Panthéon.' },
+  tauxRevente:      { valeur: 0.3,   section: 'Valeurs et revente', aide: 'Part de la valeur de référence rendue à la revente d’un doublon.' },
+
+  // --- Résonance
+  resonanceSeuilBase:   { valeur: 15,  section: 'Résonance', aide: 'Doublons nécessaires pour la première Résonance d’une collection.' },
+  resonanceFacteur:     { valeur: 1.5, section: 'Résonance', aide: 'Multiplicateur du seuil après chaque Résonance déclenchée.' },
+
+  // --- Ouverture
+  sonActive: { valeur: true, section: 'Ouverture', aide: 'Sons et musique des révélations.' },
 
   // --- Rareté et PV (utilisés à la génération des données, informatif ici)
   seuilLegendaire: { valeur: 0.02, section: 'Rareté et PV',

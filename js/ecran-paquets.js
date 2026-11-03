@@ -4,9 +4,10 @@
 import { etat } from './etat.js';
 import { donnees } from './donnees.js';
 import { formaterDuree, esc, NOMS_RARETE, htmlImageCarte } from './ui.js';
-import { htmlCarte } from './carte.js';
 import { initPaquets, rattraperPaquets, secondesRestantes, ouvrirPaquet,
          getVitesseTotale } from './paquets.js';
+import { config } from './config.js';
+import { lancerOuverture } from './ouverture.js';
 
 export function tickPaquets() {
   rattraperPaquets();
@@ -22,8 +23,8 @@ export function rendreEcranPaquets(section, options = {}) {
   // complet, sinon les clics/animations seraient interrompus).
   if (options.tick && section.dataset.rendu === 'v7') {
     section.querySelector('#temps-restant').textContent = formaterDuree(reste);
-    section.querySelector('#vitesse-paquets').textContent =
-      `×${getVitesseTotale().toFixed(2)}`;
+    const vit = section.querySelector('#vitesse-paquets');
+    if (vit) vit.textContent = `×${getVitesseTotale().toFixed(2)}`;
     section.querySelector('#pct-paquet').textContent = `${pct}%`;
     const cercle = section.querySelector('#cercle-progres');
     cercle.style.strokeDashoffset = String(283 * (1 - p.progression));
@@ -49,8 +50,8 @@ export function rendreEcranPaquets(section, options = {}) {
         </div>
       </div>
       <p class="texte-doux centre">
-        Prêt dans <b id="temps-restant">${formaterDuree(reste)}</b><br>
-        Vitesse de recherche : <b id="vitesse-paquets">×${getVitesseTotale().toFixed(2)}</b>
+        Prêt dans <b id="temps-restant">${formaterDuree(reste)}</b>
+        ${config.get('stationActive') ? `<br>Vitesse de recherche : <b id="vitesse-paquets">×${getVitesseTotale().toFixed(2)}</b>` : ''}
       </p>
     </div>
 
@@ -62,73 +63,7 @@ export function rendreEcranPaquets(section, options = {}) {
     </div>`;
 
   section.querySelector('#btn-ouvrir').addEventListener('click', () => {
-    const tirage = ouvrirPaquet();
-    if (tirage) lancerRevelation(tirage, () => rendreEcranPaquets(section, {}));
+    const resultat = ouvrirPaquet();
+    if (resultat) lancerOuverture(resultat, () => rendreEcranPaquets(section, {}), { titre: 'Paquet standard' });
   });
-}
-
-/* ---------- révélation façon gacha ---------- */
-
-function lancerRevelation(tirage, surFin) {
-  const overlay = document.createElement('div');
-  overlay.className = 'overlay-ouverture';
-  document.getElementById('overlays').append(overlay);
-  let index = -1;   // -1 = paquet fermé, tap pour commencer
-
-  const suivant = () => {
-    index += 1;
-    if (index >= tirage.length) return montrerBilan();
-    const { carte, nouvelle } = tirage[index];
-    const rarePlus = carte.rarete !== 'commune';
-    overlay.innerHTML = `
-      <div class="scene-ouverture ${rarePlus ? 'aura-' + carte.rarete : ''}">
-        <div class="compteur-ouverture">${index + 1} / ${tirage.length}</div>
-        ${nouvelle ? '<div class="badge-nouvelle">NOUVELLE !</div>' : ''}
-        <div class="conteneur-revelation">${htmlCarte(carte, { dosVisible: true })}</div>
-        <p class="astuce-carte">Touche la carte pour la révéler</p>
-      </div>`;
-    const el = overlay.querySelector('.carte-jeu');
-    let revelee = false;
-    overlay.querySelector('.scene-ouverture').addEventListener('click', (ev) => {
-      if (ev.target.closest('a')) return;
-      if (!revelee) {
-        revelee = true;
-        el.classList.remove('dos-visible');
-        if (rarePlus) overlay.querySelector('.scene-ouverture').classList.add('flash');
-      } else {
-        suivant();
-      }
-    });
-  };
-
-  const montrerBilan = () => {
-    const nbNouvelles = tirage.filter(t => t.nouvelle).length;
-    overlay.innerHTML = `
-      <div class="scene-ouverture bilan-ouverture">
-        <h2>Paquet ouvert !</h2>
-        <p class="texte-doux">${nbNouvelles} nouvelle(s) carte(s) sur ${tirage.length}</p>
-        <div class="grille-bilan">
-          ${tirage.map(({ carte, nouvelle }) => `
-            <div class="mini-carte rarete-${carte.rarete}">
-              ${htmlImageCarte(carte)}
-              <span class="nom-mini">${esc(carte.nom)}</span>
-              <span class="rarete-mini">${NOMS_RARETE[carte.rarete]}</span>
-              ${nouvelle ? '<span class="pastille-nouvelle">★</span>' : ''}
-            </div>`).join('')}
-        </div>
-        <button class="btn btn-primaire btn-large" id="btn-fin">Ranger dans la collection</button>
-      </div>`;
-    overlay.querySelector('#btn-fin').addEventListener('click', () => {
-      overlay.remove();
-      surFin();
-    });
-  };
-
-  // écran d'entrée : le paquet à déchirer
-  overlay.innerHTML = `
-    <div class="scene-ouverture">
-      <button class="paquet-a-ouvrir">🎁</button>
-      <p class="astuce-carte">Touche le paquet pour l'ouvrir</p>
-    </div>`;
-  overlay.querySelector('.paquet-a-ouvrir').addEventListener('click', suivant);
 }

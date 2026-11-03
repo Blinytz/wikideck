@@ -6,6 +6,7 @@ export const donnees = {
   provisoire: false,
   collections: [],       // [{slug, nom, nbCartes, cartes: [...]}]
   parId: new Map(),      // id -> carte
+  colDe: new Map(),      // id -> collection
   pool: [],              // tous les ids (tirage équiprobable global)
 };
 
@@ -49,12 +50,13 @@ export async function chargerDonnees() {
   const fichiers = await parLots(index.collections,
     c => fetchRetente(c.fichier).then(r => r.json()));
   donnees.collections = fichiers.map(f => ({
-    slug: f.slug, nom: f.collection, nbCartes: f.cartes.length, cartes: f.cartes,
+    slug: f.slug, nom: f.collection, theme: index.collections.find(c => c.slug === f.slug)?.theme, nbCartes: f.cartes.length, cartes: f.cartes,
   }));
   for (const col of donnees.collections) {
     for (const carte of col.cartes) {
       donnees.parId.set(carte.id, carte);
-      donnees.pool.push(carte.id);
+      donnees.colDe.set(carte.id, col);
+      if (!carte.archivee) donnees.pool.push(carte.id);
     }
   }
 }

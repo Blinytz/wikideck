@@ -14,7 +14,7 @@ definirDetailOptions((carte, surMaj) => {
       <div class="panneau-vente">
         <button class="btn btn-vendre">◆ Vendre un doublon —
           ${formaterNombre(valeurVente(carte))} Éclats
-          <small>(valeur fixe d'une ${NOMS_RARETE[carte.rarete].toLowerCase()})</small></button>
+          <small>(30 % de la valeur d'une ${NOMS_RARETE[carte.rarete].toLowerCase()})</small></button>
         <p class="note-vente">Le dernier exemplaire n'est jamais vendable.</p>
       </div>`,
     brancherActions(overlay, fermer) {

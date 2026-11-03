@@ -21,8 +21,10 @@ function htmlSectionsParametres() {
         <label class="ligne-param ${surcharge ? 'surchargee' : ''}">
           <span class="nom-param">${cle}
             ${surcharge ? '<span class="puce-surcharge">●</span>' : ''}</span>
-          <input type="number" data-param="${cle}" value="${config.get(cle)}"
-                 step="any" inputmode="decimal">
+          ${typeof def.valeur === 'boolean'
+            ? `<input type="checkbox" data-param="${cle}" ${config.get(cle) ? 'checked' : ''}>`
+            : `<input type="number" data-param="${cle}" value="${config.get(cle)}"
+                 step="any" inputmode="decimal">`}
           <span class="aide-param">${esc(def.aide)}
             <em class="rappel-defaut">défaut : ${def.valeur}</em></span>
         </label>`;
@@ -144,6 +146,11 @@ export function rendreEcranReglages(section) {
 
   for (const input of section.querySelectorAll('input[data-param]')) {
     input.addEventListener('change', () => {
+      if (input.type === 'checkbox') {
+        config.set(input.dataset.param, input.checked);
+        rendreEcranReglages(section);
+        return;
+      }
       const v = Number(input.value);
       // ≥ 0 : les seuils/taux < 1 sont légitimes ; jamais de négatif ni NaN.
       if (Number.isFinite(v) && v >= 0) {

@@ -5,14 +5,15 @@
 // en euros se fait désormais dans Cagnottes.
 
 import { etat } from './etat.js';
-import { BAREME_VENTE } from './eclats.js';
+import { valeurReference, valeurVente } from './eclats.js';
 import { formaterNombre, NOMS_RARETE } from './ui.js';
 
 export function rendreEcranEclats(section) {
-  const lignes = Object.entries(BAREME_VENTE).map(([rarete, valeur]) => `
+  const lignes = Object.keys(NOMS_RARETE).map(rarete => `
     <li class="ligne-bareme">
       <span class="badge-rarete rarete-${rarete}">${NOMS_RARETE[rarete]}</span>
-      <b>${formaterNombre(valeur)} ◆</b>
+      <span class="texte-doux">${formaterNombre(valeurReference(rarete))}</span>
+      <b>${formaterNombre(valeurVente({ rarete }))} ◆</b>
     </li>`).join('');
 
   section.innerHTML = `
@@ -27,9 +28,9 @@ export function rendreEcranEclats(section) {
     </div>
 
     <div class="carte-panneau">
-      <h2>Valeur d'un doublon</h2>
+      <h2>Valeur et revente</h2>
       <ul class="liste-bareme">${lignes}</ul>
-      <p class="texte-doux">Montant fixe, connu d'avance : plus de taux à guetter.
+      <p class="texte-doux">Valeur de référence, puis revente d'un doublon (30 %).
       Le dernier exemplaire d'une carte n'est jamais vendable.</p>
     </div>`;
 }

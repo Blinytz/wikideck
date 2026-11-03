@@ -8,6 +8,8 @@ import { rendreEcranCollection } from './ecran-collection.js';
 import { rendreEcranStation, majStationUI } from './ecran-station.js';
 import { initStation } from './station.js';
 import { rendreEcranReglages } from './ecran-reglages.js';
+import { rendreEcranHistorique } from './ecran-historique.js';
+import { config } from './config.js';
 import { rendreEcranEclats, majEclatsUI } from './ecran-eclats.js';
 import { initEclats } from './eclats.js';
 import './vente.js';   // branche la vente de doublons sur le détail de carte
@@ -16,6 +18,7 @@ const ecrans = {
   paquets: rendreEcranPaquets,
   collection: rendreEcranCollection,
   station: rendreEcranStation,
+  historique: rendreEcranHistorique,
   eclats: rendreEcranEclats,
   reglages: rendreEcranReglages,
 };
@@ -49,7 +52,7 @@ async function demarrer() {
   document.getElementById('chargement').remove();
 
   initEclats();          // purge de l'ancien état de taux, s'il subsiste
-  initStation();         // création de la Station (rattrapage via tickPaquets)
+  if (config.get('stationActive')) initStation();   // Station désactivée par défaut (code conservé)
 
   for (const btn of document.querySelectorAll('#navbar button')) {
     btn.addEventListener('click', () => afficherEcran(btn.dataset.ecran));

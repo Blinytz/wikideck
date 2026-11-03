@@ -48,6 +48,17 @@ export function rattraperPaquets() {
   sauvegarder();
 }
 
+/* Gain (ou retrait, si négatif) de temps sur le paquet passif en cours ;
+   le surplus déborde sur les paquets suivants, sans plafond. */
+export function crediterTemps(secondes) {
+  initPaquets();
+  const p = etat.paquets;
+  p.progression += secondes / config.get('dureeBaseSecondes');
+  while (p.progression >= 1) { p.prets += 1; p.progression -= 1; }
+  while (p.progression < 0 && p.prets > 0) { p.prets -= 1; p.progression += 1; }
+  sauvegarder();
+}
+
 export function secondesRestantes() {
   const p = etat.paquets;
   const duree = config.get('dureeBaseSecondes');

@@ -47,7 +47,8 @@ export function ouvrirDetailCarte(carte, options = {}) {
     <div class="fond-overlay"></div>
     <div class="contenu-overlay">
       ${htmlCarte(carte, { quantite })}
-      <p class="astuce-carte">Touche la carte pour la retourner</p>
+      ${etat.anciennesRaretes?.[carte.id] ? `<p class="mention-fiche">anciennement ${NOMS_RARETE[etat.anciennesRaretes[carte.id]]}</p>` : ''}
+      ${carte.archivee ? '<p class="mention-fiche">archivée</p>' : ''}
       ${options.actions || ''}
       <button class="btn btn-discret btn-fermer">Fermer</button>
     </div>`;

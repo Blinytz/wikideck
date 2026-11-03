@@ -29,6 +29,45 @@ export const DEFAUTS = {
   // --- Ouverture
   sonActive: { valeur: true, section: 'Ouverture', aide: 'Sons et musique des révélations.' },
 
+  // --- Paquets spéciaux
+  tailleGrandPaquet: { valeur: 20, section: 'Paquets spéciaux', aide: 'Cartes d’un Grand paquet.' },
+  tailleInedit:      { valeur: 5,  section: 'Paquets spéciaux', aide: 'Cartes jamais possédées d’un paquet Inédit.' },
+  initialeMinCartes: { valeur: 30, section: 'Paquets spéciaux', aide: 'Cartes minimales pour qu’une lettre serve de paquet Initiale.' },
+
+  // --- Fins de collection
+  eclatsParCarteTerminee: { valeur: 500, section: 'Fins de collection', aide: 'Éclats par carte d’une collection terminée.' },
+
+  // --- Jour de jeu
+  heureDebutJour: { valeur: 4, section: 'Jour de jeu', aide: 'Heure (Europe/Paris) où commence le jour de jeu.' },
+
+  // --- Questions
+  gainDebutant:   { valeur: 6,  section: 'Questions', aide: 'Minutes gagnées, difficulté Débutant.' },
+  gainConfirme:   { valeur: 12, section: 'Questions', aide: 'Minutes gagnées, difficulté Confirmé.' },
+  gainExpert:     { valeur: 24, section: 'Questions', aide: 'Minutes gagnées, difficulté Expert.' },
+  gainNobel:      { valeur: 45, section: 'Questions', aide: 'Minutes gagnées, difficulté Nobel.' },
+  gainOmniscient: { valeur: 90, section: 'Questions', aide: 'Minutes gagnées, difficulté Omniscient.' },
+  gainQuestionDuJour: { valeur: 180, section: 'Questions', aide: 'Minutes gagnées par la question du jour.' },
+  toleranceLevenshtein: { valeur: 0.2, section: 'Questions', aide: 'Fautes tolérées, en part de la longueur de la réponse.' },
+  delaiRatee:     { valeur: 7,  section: 'Questions', aide: 'Jours avant le retour d’une question ratée.' },
+  delaiReussie:   { valeur: 15, section: 'Questions', aide: 'Jours avant le retour d’une question réussie (doublé à chaque réussite consécutive).' },
+  propositions:   { valeur: 3,  section: 'Questions', aide: 'Questions proposées au choix.' },
+
+  // --- Série
+  bonnesParJour:  { valeur: 10, section: 'Série', aide: 'Bonnes réponses pour valider un jour.' },
+  gelTousLes:     { valeur: 30, section: 'Série', aide: 'Un Gel tous les N jours de série validés.' },
+
+  // --- Boutique
+  emplacementsBoutique: { valeur: 3, section: 'Boutique', aide: 'Offres simultanées.' },
+  remplissageMinH: { valeur: 2, section: 'Boutique', aide: 'Délai minimal (h) avant une nouvelle offre.' },
+  remplissageMaxH: { valeur: 6, section: 'Boutique', aide: 'Délai maximal (h) avant une nouvelle offre.' },
+  probaRemise:     { valeur: 0.25, section: 'Boutique', aide: 'Part des offres avec remise de 10 à 30 %.' },
+  probaFlash:      { valeur: 0.05, section: 'Boutique', aide: 'Part des offres flash (-40 à -50 %, 2 à 6 h).' },
+  probaBaisse:     { valeur: 0.2,  section: 'Boutique', aide: 'Part des offres non flash qui baissent avec le temps.' },
+  multiplicateurInedit: { valeur: 3, section: 'Boutique', aide: 'Prix d’un Inédit : valeur du contenu multipliée par ce facteur.' },
+
+  // --- Objectifs
+  eclatsObjectifAvance: { valeur: 25000, section: 'Objectifs', aide: 'Éclats ajoutés à partir du 5e palier d’une famille.' },
+
   // --- Rareté et PV (utilisés à la génération des données, informatif ici)
   seuilLegendaire: { valeur: 0.02, section: 'Rareté et PV',
     aide: 'Fraction de la collection en Légendaire. ⚠️ N’agit qu’à la régénération des données de cartes, jamais sur les cartes existantes.' },

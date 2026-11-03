@@ -12,6 +12,10 @@ export const SOURCES = {
   recompense: 'Récompense', resonance: 'Résonance',
 };
 
+// crochet appelé après chaque acquisition (fins de collection, objectifs…)
+const crochets = [];
+export function definirSurAcquisition(fn) { crochets.push(fn); }
+
 function initEtat() {
   etat.historique ??= [];      // [{t, source, type, cartes: [{id, r, n}]}]
   etat.resonance ??= {};       // slug -> {jauge, n}
@@ -89,6 +93,7 @@ export function acquerir(ids, { source = 'passif', type = 'standard' } = {}) {
     if (col && !avant.has(col.slug)) avant.set(col.slug, nbPossedees(col));
     const nouvelle = !(etat.cartes[id] > 0);
     etat.cartes[id] = (etat.cartes[id] || 0) + 1;
+    (etat.raretesConnues ??= {})[id] ??= carte.rarete;
     cartes.push({ carte, nouvelle });
     if (!nouvelle && col) chargerResonance(col, resonances);
   }
@@ -105,8 +110,16 @@ export function acquerir(ids, { source = 'passif', type = 'standard' } = {}) {
     if (apres > n) progres.push({ slug, nom: col.nom, avant: n, apres, total: col.cartes.length });
   }
   progres.sort((a, b) => (b.apres - b.avant) - (a.apres - a.avant));
+  // la Résonance peut compléter une collection : on la compte aussi
+  for (const s of resonances.values()) {
+    if (s.declenchees.length && !avant.has(s.slug)) avant.set(s.slug, 0);
+  }
+  etat.stats ??= {};
+  etat.stats.resonances = (etat.stats.resonances || 0) + [...resonances.values()].reduce((a, s) => a + s.declenchees.length, 0);
   sauvegarder();
-  return { cartes, progres, resonances: [...resonances.values()], source, type };
+  const resultat = { cartes, progres, resonances: [...resonances.values()], source, type };
+  for (const fn of crochets) fn(resultat);
+  return resultat;
 }
 
 export function marquerLue(id) {

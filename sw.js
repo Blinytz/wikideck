@@ -3,17 +3,20 @@
 // Tout ce qui est servi (shell, data/*.json, images) est mis en cache au vol,
 // donc l'app reste 100% fonctionnelle hors-ligne après la première visite.
 
-const CACHE = 'wikideck-v8-ouverture';
+const CACHE = 'wikideck-v9-jeu';
 
 const COQUILLE = [
-  './', './index.html', './manifest.json', './css/app.css', './css/ouverture.css',
+  './', './index.html', './manifest.json', './css/app.css', './css/ouverture.css', './css/jeu.css',
   './js/app.js', './js/etat.js', './js/config.js', './js/donnees.js',
   './js/ui.js', './js/eclats.js', './js/carte.js', './js/paquets.js',
   './js/vente.js', './js/station.js', './js/station-m1.js',
   './js/station-m2.js', './js/station-m3.js', './js/ecran-paquets.js',
   './js/ecran-collection.js', './js/ecran-station.js', './js/ecran-eclats.js',
   './js/ecran-reglages.js', './js/acquisition.js', './js/ouverture.js',
-  './js/ecran-historique.js',
+  './js/ecran-historique.js', './js/speciaux.js', './js/recompenses.js', './js/jour.js',
+  './js/questions.js', './js/serie.js', './js/objectifs.js', './js/boutique.js', './js/source-questions.js',
+  './js/ecran-accueil.js', './js/ecran-questions.js', './js/ecran-boutique.js', './js/ecran-serie.js',
+  './js/ecran-objectifs.js', './js/ecran-plus.js',
   './data/collections.json',
   './icons/icon-192.png', './icons/icon-512.png',
 ];

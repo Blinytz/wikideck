@@ -11,31 +11,37 @@
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="stylesheet" href="css/app.css">
 <link rel="stylesheet" href="css/ouverture.css">
+<link rel="stylesheet" href="css/jeu.css">
 </head>
 <body>
 <header id="entete">
-  <div class="titre-app">Gacha <span>Wikipedia</span></div>
+  <div class="titre-app">Wiki<span>Deck</span></div>
   <button id="chip-eclats" title="Éclats">
     <span class="gemme">◆</span><span id="eclats-total">0</span>
   </button>
 </header>
 
 <main id="contenu">
-  <section id="ecran-paquets" class="ecran"></section>
+  <section id="ecran-accueil" class="ecran"></section>
+  <section id="ecran-questions" class="ecran"></section>
   <section id="ecran-collection" class="ecran"></section>
-  <section id="ecran-station" class="ecran"></section>
+  <section id="ecran-boutique" class="ecran"></section>
+  <section id="ecran-plus" class="ecran"></section>
   <section id="ecran-historique" class="ecran"></section>
+  <section id="ecran-serie" class="ecran"></section>
+  <section id="ecran-objectifs" class="ecran"></section>
+  <section id="ecran-station" class="ecran"></section>
   <section id="ecran-eclats" class="ecran"></section>
   <section id="ecran-reglages" class="ecran"></section>
   <div id="chargement">Chargement des collections…</div>
 </main>
 
 <nav id="navbar">
-  <button data-ecran="paquets" class="actif"><span class="ico">🎁</span>Paquets</button>
+  <button data-ecran="accueil" class="actif"><span class="ico">🎁</span>Accueil</button>
+  <button data-ecran="questions"><span class="ico">❓</span>Questions</button>
   <button data-ecran="collection"><span class="ico">🃏</span>Collection</button>
-  <button data-ecran="historique"><span class="ico">🕘</span>Historique</button>
-  <button data-ecran="eclats"><span class="ico">💠</span>Éclats</button>
-  <button data-ecran="reglages"><span class="ico">⚙️</span>Réglages</button>
+  <button data-ecran="boutique"><span class="ico">🛒</span>Boutique</button>
+  <button data-ecran="plus"><span class="ico">☰</span>Plus</button>
 </nav>
 
 <div id="overlays"></div>

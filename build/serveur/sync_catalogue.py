@@ -13,7 +13,9 @@ from pathlib import Path
 RACINE = Path(__file__).resolve().parents[2]
 URL = os.environ['ECLATS_SUPABASE_URL'].rstrip('/')
 CLE = os.environ['ECLATS_SERVICE_KEY']
-H = {'apikey': CLE, 'Authorization': f'Bearer {CLE}', 'Content-Type': 'application/json'}
+# les nouvelles clés secrètes (sb_secret_…) ne s'envoient que dans apikey
+H = {'apikey': CLE, 'Content-Type': 'application/json',
+     **({} if CLE.startswith('sb_') else {'Authorization': f'Bearer {CLE}'})}
 
 
 def appel(chemin, methode='GET', corps=None, entetes=None):

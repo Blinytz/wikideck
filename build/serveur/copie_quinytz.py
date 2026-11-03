@@ -14,7 +14,9 @@ import json, os, sys, urllib.request
 
 def client(url, cle):
     url = url.rstrip('/')
-    h = {'apikey': cle, 'Authorization': f'Bearer {cle}', 'Content-Type': 'application/json'}
+    # les nouvelles clés secrètes (sb_secret_…) ne s'envoient que dans apikey
+    h = {'apikey': cle, 'Content-Type': 'application/json',
+         **({} if cle.startswith('sb_') else {'Authorization': f'Bearer {cle}'})}
 
     def appel(chemin, methode='GET', corps=None, entetes=None):
         req = urllib.request.Request(f'{url}/rest/v1/{chemin}', method=methode,

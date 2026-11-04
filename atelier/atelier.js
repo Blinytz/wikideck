@@ -4,7 +4,7 @@
 import { getToken, setToken, testerToken, getFichierTexte, putFichier,
          supprimerFichier, commitLot, getSha, blobVersBase64, enfiler,
          surFileChangee, reessayerErreurs, DEPOT } from './github.js?v=20260927b';
-import { Editeur } from './editeur.js?v=20260927b';
+import { Editeur } from './editeur.js?v=20261104c';
 import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
          ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js?v=20260802a';
 

@@ -370,3 +370,11 @@ body[data-ecran="accueil"] #ambiance { opacity: 1; }
 .chance b { text-align: right; font: 500 13px var(--mono); }
 .chance .barre2 > i { animation: remplit 1s var(--doux) both; }
 .ob .pki-nom { display: none; }
+.ob-rar { margin-top: 0; }
+.ob-rar span { background: #ffffff0a; }
+.manques { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.manques div { display: flex; flex-direction: column; gap: 4px; padding: 12px; border-radius: 16px; background: #ffffff08; box-shadow: 0 0 0 1px color-mix(in srgb, var(--r) 30%, transparent) inset; }
+.manques i { color: var(--r); font-size: 16px; }
+.manques b { font: 500 22px var(--mono); }
+.manques span { font: 600 10px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--texte-3); }
+.pki:not(:has(img)):not(.t-sommet):not(.t-inedit) { background: radial-gradient(90% 70% at 50% 40%, color-mix(in srgb, var(--t) 55%, #000), #121016 80%); }

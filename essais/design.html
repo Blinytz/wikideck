@@ -522,19 +522,18 @@ function offresDuMoment() {
   const cand = pretes.map((c) => ({ c, manque: c.cartes.filter((x) => !possede.has(x.id)).length })).filter((x) => x.manque >= 6).sort((a, b) => g(a.c.slug) - g(b.c.slug));
   const ved = cand[0]?.c ?? pretes[0];
   const themes = [...new Set(pretes.map((c) => c.theme))].filter((t) => t !== ved.theme).sort((a, b) => g(a) - g(b));
-  const theme = themes[0], col2 = cand.find((x) => x.c.theme !== ved.theme && x.c.theme !== theme)?.c;
+  const theme = themes[0];
   const special = tour % 2 ? { id: 'sommet', n: 'Sommet', ic: 'ph-crown-simple' } : { id: 'inedit', n: 'Inédit', ic: 'ph-sparkle' };
-  const coll = (c, o) => ({ cle: `col:${c.slug}`, type: 'collection', titre: c.nom, sous: c.theme, t: c.t, nb: 5, garantie: 'epique', stock: 3, cartes: c.cartes, ...o });
+  const coll = (c, o) => ({ cle: `col:${c.slug}`, type: 'collection', titre: c.nom, sous: c.theme, t: c.t, nb: 5, garantie: 'epique', stock: 1, cartes: c.cartes, ...o });
   return [
     coll(ved, { vedette: true, prix: 2000, avant: 2500 }),
-    { cle: `theme:${theme}`, type: 'theme', titre: theme, sous: 'Thème', t: teinte(theme), nb: 5, garantie: 'rare', stock: 3, prix: 1800, cartes: pretes.filter((c) => c.theme === theme).flatMap((c) => c.cartes) },
+    { cle: `theme:${theme}`, type: 'theme', titre: theme, sous: 'Thème', t: teinte(theme), nb: 5, garantie: 'rare', stock: 1, prix: 1800, cartes: pretes.filter((c) => c.theme === theme).flatMap((c) => c.cartes) },
     special.id === 'sommet'
       ? { cle: 'sommet', type: 'sommet', titre: 'Sommet', sous: 'Spécial', t: { c: '#f2c66d', ic: special.ic }, nb: 1, garantie: 'mythique', stock: 1, prix: 12000, cartes: toutes().filter((c) => RANG(c.rarete) >= 3) }
       : { cle: 'inedit', type: 'inedit', titre: 'Inédit', sous: 'Spécial', t: { c: '#b69cff', ic: special.ic }, nb: 3, garantie: 'rare', stock: 1, prix: 5000, inedites: true, cartes: toutes().filter((c) => !possede.has(c.id)) },
-    ...(col2 ? [coll(col2, { prix: 2500 })] : []),
-  ].slice(0, 4);
+  ];
 }
-const phares = (o, n = 4) => [...o.cartes].sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || (possede.has(a.id) - possede.has(b.id)) || b.pv - a.pv).slice(0, n);
+const vitrines = (o, n = 4) => { const p = o.cartes.filter((c) => possede.has(c.id)).sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || b.pv - a.pv); return p.slice(0, n); };
 function tirerOffre(o) {
   const pool = o.inedites ? o.cartes.filter((c) => !possede.has(c.id)) : o.cartes;
   const par = Object.groupBy(pool, (c) => c.rarete);
@@ -545,8 +544,8 @@ function tirerOffre(o) {
   return out.map((c) => ({ carte: c, neuve: !possede.has(c.id) }));
 }
 function htmlVisuel(o, grand = false) {
-  const im = phares(o, 4);
-  const fond = o.type === 'theme' ? `<div class="pki-mosaique">${im.map((c) => `<img src="${c.imageUrl}" alt="" loading="lazy">`).join('')}</div>` : o.type === 'collection' ? `<img class="pki-img" src="${im[0].imageUrl}" alt="" loading="lazy">` : '';
+  const im = vitrines(o, 4);
+  const fond = o.type === 'theme' ? `<div class="pki-mosaique">${im.map((c) => `<img src="${c.imageUrl}" alt="" loading="lazy">`).join('')}</div>` : o.type === 'collection' && im[0] ? `<img class="pki-img" src="${im[0].imageUrl}" alt="" loading="lazy">` : '';
   return `<div class="pki t-${o.type}${grand ? ' grand' : ''}" style="--t:${o.t.c}">${fond}<div class="pki-voile"></div>
     <div class="pki-haut"><span class="k-mono">W</span></div>
     ${o.type === 'sommet' || o.type === 'inedit' ? `<i class="ph-fill ${o.t.ic} pki-ic"></i>` : ''}
@@ -562,12 +561,12 @@ function htmlOffre(o) {
       <span class="tag teinte"><i class="ph-fill ${o.t.ic}"></i>${esc(o.sous)}</span>
       <h3>${esc(o.titre)}</h3>
       <div class="ob-contenu"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
-      <div class="ob-phares">${phares(o).map((c) => `<span style="--r:var(--r-${c.rarete})"><img src="${c.thumbUrl}" alt="" loading="lazy"><i class="ph-fill ${ICONES[c.rarete]}"></i></span>`).join('')}</div>
       <div class="ob-info">${o.inedites ? '100 % nouvelles' : `${fr(nouvelles)} à découvrir`}</div>
+      <div class="rar-detail ob-rar">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); const m = l.filter((c) => !possede.has(c.id)).length; return l.length ? `<span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${m}</span>` : ''; }).join('')}</div>
       <div class="ob-pied">
         <button class="btn2 or pressable" data-acheter ${reste && o.prix <= solde ? '' : 'disabled'}><i class="ph-fill ph-diamond"></i>${fr(o.prix)}</button>
         ${o.avant ? `<s>${fr(o.avant)}</s>` : ''}
-        <span class="ob-stock${reste === 1 ? ' dernier' : ''}">${reste ? `${reste} restant${reste > 1 ? 's' : ''}` : 'Épuisé'}</span>
+        ${reste ? '' : '<span class="ob-stock">Vendu</span>'}
         <button class="retour ob-det" data-detail aria-label="Contenu"><i class="ph-bold ph-info"></i></button>
       </div>
     </div></article>`;
@@ -577,7 +576,7 @@ function detailOffre(o) {
   const f = document.createElement('div'); f.className = 'fiche';
   const par = Object.groupBy(o.inedites ? o.cartes.filter((c) => !possede.has(c.id)) : o.cartes, (c) => c.rarete);
   const rs = RARETES.filter((r) => par[r]?.length), tot = rs.reduce((s, r) => s + CHANCES[r], 0);
-  f.style.setProperty('--img', `url('${phares(o, 1)[0].thumbUrl}')`);
+  const fondImg = vitrines(o, 1)[0]; if (fondImg) f.style.setProperty('--img', `url('${fondImg.thumbUrl}')`);
   f.innerHTML = `<div class="flou"></div>
     <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span></span><span style="width:40px"></span></div>
     <div class="scene">${htmlVisuel(o, true)}</div>
@@ -587,8 +586,8 @@ function detailOffre(o) {
       <h2>${esc(o.titre)}</h2>
       <div class="chances">${rs.map((r) => { const p = CHANCES[r] / tot * 100; return `<div class="chance"><span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${NOMS[r]}</span><div class="barre2"><i style="width:${Math.max(1.5, p)}%;background:var(--r-${r})"></i></div><b>${p < 1 ? p.toFixed(1).replace('.', ',') : Math.round(p)} %</b></div>`; }).join('')}</div>
       <div class="ob-contenu" style="margin-bottom:18px"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>dernière : ${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
-      <div class="section-titre"><h2>Cartes phares</h2></div>
-      <div class="grille">${phares(o, 9).map((c) => `<div class="cellule">${htmlCarte(c)}${possede.has(c.id) ? '' : '<span class="quantite" style="background:var(--or)">À trouver</span>'}</div>`).join('')}</div>
+      <div class="section-titre"><h2>À découvrir</h2><span class="surtitre">${fr(o.cartes.filter((c) => !possede.has(c.id)).length)} / ${fr(o.cartes.length)}</span></div>
+      <div class="manques">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); if (!l.length) return ''; const m = l.filter((c) => !possede.has(c.id)).length; return `<div style="--r:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i><b>${m}</b><span>${NOMS[r]}</span></div>`; }).join('')}</div>
     </div>`;
   document.body.append(f); document.body.style.overflow = 'hidden';
   $('#ff', f).addEventListener('click', () => { son('tap'); f.remove(); document.body.style.overflow = ''; });

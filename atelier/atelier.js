@@ -4,7 +4,7 @@
 import { getToken, setToken, testerToken, getFichierTexte, putFichier,
          supprimerFichier, commitLot, getSha, blobVersBase64, enfiler,
          surFileChangee, reessayerErreurs, DEPOT } from './github.js?v=20260927b';
-import { Editeur } from './editeur.js?v=20261104c';
+import { Editeur } from './editeur.js?v=20261104d';
 import { combat, chargerCombat, familleParId, textePouvoir, sauverCombat,
          ajouterAuRegistre, ROLES, LIBELLE_ROLE } from './combat.js?v=20260802a';
 
@@ -703,6 +703,10 @@ function brancherEditeur() {
   $('#ed-reset').addEventListener('click', () => editeur.reset());
   $('#ed-enregistrer').addEventListener('click', () => (modeEd === 'carte' ? enregistrerFormatCarte() : enregistrerCadrage()));
   $('#ed-modes').addEventListener('click', (ev) => { const b = ev.target.closest('[data-mode]'); if (b) changerMode(b.dataset.mode); });
+  $('#ed-hd').addEventListener('click', () => {
+    if (!carteEnEdition || modeEd !== 'carte') return;
+    chargerFormatCarte(carteEnEdition, sourceCarte === 'orig' ? 'full' : 'orig');
+  });
   editeur.surRendu = () => { majResolution(); apercuCarte(); };
   $('#ed-note').addEventListener('click', () => carteEnEdition && modaleNote([carteEnEdition.id]));
   $('#ed-remplacer').addEventListener('click', modaleRemplacement);
@@ -1016,6 +1020,7 @@ let modeEd = 'illus';
 function basculerCadre(mode) {
   modeEd = mode;
   $('#ed-conteneur').classList.toggle('carte', mode === 'carte');
+  $('#ed-hd').hidden = mode !== 'carte';
   editeur.vide = mode === 'carte';
   document.querySelectorAll('#ed-modes [data-mode]').forEach((b) => b.classList.toggle('actif', b.dataset.mode === mode));
   // au format carte, l'aperçu montre la carte entière (63:88) telle que le jeu l'affichera
@@ -1062,15 +1067,25 @@ async function changerMode(mode) {
   if (!carteEnEdition || mode === modeEd) return;
   await ouvrirEditeur(carteEnEdition, mode);
 }
-async function chargerFormatCarte(carte) {
+// Source du cadrage : par défaut l'illustration que le jeu affiche déjà (le
+// cadrage de départ est alors identique à la vignette) ; « HD » passe sur
+// l'image d'origine, plus grande et plus large de champ.
+let sourceCarte = 'full';
+async function chargerFormatCarte(carte, source) {
+  const cad = notes.cadragesCarte?.[carte.id];
+  // les premiers cadrages enregistrés partaient tous de l'image d'origine
+  sourceCarte = source || (cad ? (cad.src || 'orig') : 'full');
   const ch = cheminsDe(carte), bust = `?v=${Date.now()}`;
-  const sources = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig, carte.imageUrl + bust].filter(Boolean);
+  const illus = [carte.imageUrl + (carte.imgV ? `?v=${carte.imgV}` : bust), RAW + carte.imageUrl];
+  const hd = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig];
+  const sources = (sourceCarte === 'orig' ? [...hd, ...illus] : [...illus, ...hd]).filter(Boolean);
   for (const src of sources) {
     try { await editeur.chargerDepuisURL(src); break; } catch { /* source suivante */ }
   }
   $('#ed-flou').src = editeur.img.src;
-  const cad = notes.cadragesCarte?.[carte.id];
-  if (cad) editeur.setCadrage(cad); else editeur.reset();
+  $('#ed-hd').classList.toggle('actif', sourceCarte === 'orig');
+  // un cadrage enregistré ne vaut que pour la source sur laquelle il a été fait
+  if (cad && (cad.src || 'orig') === sourceCarte) editeur.setCadrage(cad); else editeur.reset();
   majResolution(); apercuCarte();
 }
 async function enregistrerFormatCarte() {
@@ -1080,7 +1095,7 @@ async function enregistrerFormatCarte() {
   if (!editeur.source) return;
   const blob = await editeur.exporterCarte();
   const v = Date.now().toString(36);
-  (notes.cadragesCarte ??= {})[carte.id] = { ...editeur.getCadrage(), editeLe: Date.now() };
+  (notes.cadragesCarte ??= {})[carte.id] = { ...editeur.getCadrage(), src: sourceCarte, editeLe: Date.now() };
   planifierSauvegardeNotes();
   carte.imgC = v;
   const chemin = cheminsDe(carte).carte;

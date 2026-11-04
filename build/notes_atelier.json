@@ -58153,7 +58153,7 @@
   "chateaux-celebres_chateau-d-amboise": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58289,7 +58289,7 @@
   "chateaux-celebres_chateau-de-saint-germain-en-laye": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58297,7 +58297,7 @@
   "chateaux-celebres_chateau-de-malmaison": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58353,7 +58353,7 @@
   "chateaux-celebres_chateau-de-castelnaud": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58393,7 +58393,7 @@
   "chateaux-celebres_chateau-de-conwy": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58401,7 +58401,7 @@
   "chateaux-celebres_chateau-de-stirling": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58433,7 +58433,7 @@
   "chateaux-celebres_chateau-de-leeds": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58553,7 +58553,7 @@
   "chateaux-celebres_chateau-de-chillon": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58585,7 +58585,7 @@
   "chateaux-celebres_muiderslot": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58617,7 +58617,7 @@
   "chateaux-celebres_alcazar-de-segovie": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58625,7 +58625,7 @@
   "chateaux-celebres_palais-national-de-pena": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58641,7 +58641,7 @@
   "chateaux-celebres_chateau-d-osaka": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58665,7 +58665,7 @@
   "chateaux-celebres_hearst-castle": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -58689,7 +58689,7 @@
   "chateaux-celebres_wawel": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 1.0,
+   "w": 1,
    "original": true,
    "editeLe": 0,
    "auto": true
@@ -59178,5 +59178,13 @@
    "creeLe": 1786916448611,
    "majLe": 1787518610723
   }
- ]
+ ],
+ "cadragesCarte": {
+  "souverains-et-conquerants_elisabeth-ire-imperatrice-de-russie": {
+   "cx": 0.5,
+   "cy": 0.5298,
+   "w": 1,
+   "editeLe": 1793818234353
+  }
+ }
 }

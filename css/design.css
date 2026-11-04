@@ -52,16 +52,23 @@
 .k.manip .k-in { transition: none; }
 .k.manip { cursor: grab; touch-action: none; }
 .k.manip.tenue { cursor: grabbing; }
-.k-face, .k-dos, .k-tranche { position: absolute; inset: 0; border-radius: calc(var(--w) * .055); }
+.k-face, .k-dos { position: absolute; inset: 0; border-radius: calc(var(--w) * .055); }
 .k-face, .k-dos { overflow: hidden; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
 .k-face { transform: translateZ(var(--ep)); background: #0d0d11; container-type: inline-size; isolation: isolate;
   box-shadow: 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
 .k-dos { transform: rotateY(180deg) translateZ(var(--ep)); }
 /* tranche : visible quand la carte est vue de côté */
-.k-tranche { background: linear-gradient(90deg, #3a3640, #1b1a20); }
-.k-tranche.t1 { transform: translateZ(calc(var(--ep) * .5)); }
-.k-tranche.t2 { transform: translateZ(0); }
-.k-tranche.t3 { transform: translateZ(calc(var(--ep) * -.5)); }
+/* tranche : quatre bords perpendiculaires aux faces, jamais superposés à elles */
+.k-tranche { display: none; position: absolute; background: linear-gradient(#4a4552, #24222a); }
+.k.manip .k-tranche { display: block; }
+.k-tranche.g, .k-tranche.d { top: 5.5%; bottom: 5.5%; width: calc(var(--ep) * 2); }
+.k-tranche.g { left: calc(var(--ep) * -1); transform: rotateY(90deg); }
+.k-tranche.d { right: calc(var(--ep) * -1); transform: rotateY(90deg); }
+.k-tranche.h, .k-tranche.b { left: 5.5%; right: 5.5%; height: calc(var(--ep) * 2); }
+.k-tranche.h { top: calc(var(--ep) * -1); transform: rotateX(90deg); }
+.k-tranche.b { bottom: calc(var(--ep) * -1); transform: rotateX(90deg); }
+/* une carte tenue est rendue une fois puis tournée en bloc : pas de scintillement du texte */
+.k.manip .k-in { will-change: transform; }
 
 .k-fond { position: absolute; inset: -12%; background: var(--img) center / cover; filter: blur(calc(var(--w) * .09)) saturate(1.5) brightness(.45); z-index: -1; }
 .k-art { position: absolute; left: 0; right: 0; top: 0; height: 66%; }

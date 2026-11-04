@@ -13,7 +13,8 @@
 .ov2-fx, .ov2-flash { position: absolute; inset: 0; pointer-events: none; display: grid; place-items: center; }
 .ov2-fx { z-index: 2; overflow: hidden; }
 .ov2-flash { z-index: 5; background: #fff; opacity: 0; }
-.ov2-scene { position: absolute; inset: 0; display: grid; place-items: center; z-index: 3; }
+.ov2-scene { position: absolute; inset: 0; display: grid; place-items: center; z-index: 3; padding-bottom: 14vh; }
+.ov2-scene > * { grid-area: 1 / 1; }
 .ov2-haut {
   position: absolute; top: max(16px, env(safe-area-inset-top)); left: 16px; right: 16px; z-index: 6;
   display: flex; justify-content: space-between; align-items: center;
@@ -25,10 +26,12 @@
 }
 
 /* ---------- le paquet : la déchirure suit le doigt ---------- */
-.pk { --pw: min(62vw, 250px); --ph: calc(var(--pw) * 1.48); position: relative; width: var(--pw); height: var(--ph); cursor: crosshair; touch-action: none;
-  animation: pk-flotte 4s ease-in-out infinite; filter: drop-shadow(0 30px 40px #000c); }
+.pk-boite { position: relative; z-index: 2; animation: pk-flotte 4s ease-in-out infinite; }
 @keyframes pk-flotte { 50% { transform: translateY(-8px) rotate(-.6deg); } }
-.pk.trace { animation: none; }
+/* dès qu'on touche le paquet, il se fige là où il est : aucun saut */
+.pk-boite.tenu { animation-play-state: paused; }
+.pk { --pw: min(76vw, 312px); --ph: calc(var(--pw) * 1.5); position: relative; width: var(--pw); height: var(--ph); cursor: crosshair; touch-action: none;
+  filter: drop-shadow(0 30px 40px #000c); }
 .pk.secoue { animation: pk-secoue .45s ease; }
 @keyframes pk-secoue { 25% { transform: rotate(-3deg); } 60% { transform: rotate(2.5deg); } }
 .pk-part {
@@ -57,13 +60,12 @@
 @keyframes pk-guide { 0% { transform: translate(0, 0); opacity: 0; } 12% { opacity: .9; } 40% { transform: translate(calc(var(--pw) * .3), 6px); } 65% { transform: translate(calc(var(--pw) * .55), -5px); }
   85% { transform: translate(calc(var(--pw) * .82), 3px); opacity: .9; } 100% { transform: translate(calc(var(--pw) * .86), 3px); opacity: 0; } }
 .pk.trace .pk-guide, .pk.dechire .pk-guide { display: none; }
-.pk.dechire { animation: none; cursor: default; filter: none; }
-.pk.dechire .pk-part { filter: drop-shadow(0 20px 30px #000c); }
+.pk.dechire { cursor: default; }
 
 /* ---------- la pile ---------- */
-.pile { --w: min(72vw, 300px); position: relative; width: var(--w); aspect-ratio: 63 / 88; margin-bottom: 12vh; }
+.pile { --w: min(68vw, 280px); position: relative; z-index: 1; width: var(--w); aspect-ratio: 63 / 88; }
 .slot { position: absolute; inset: 0; }
-.slot .k { --w: min(72vw, 300px); }
+.slot .k { --w: min(68vw, 280px); }
 .slot .k { pointer-events: none; }
 .slot.actif .k { pointer-events: auto; }
 

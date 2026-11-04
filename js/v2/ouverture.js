@@ -22,12 +22,12 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     <div class="ov2-voile"></div>
     <div class="ov2-fx"></div>
     <div class="ov2-scene">
-      <div class="pk">
+      <div class="pk-boite"><div class="pk">
         <div class="pk-part pk-corps">${marque}</div>
         <div class="pk-part pk-haut">${marque}</div>
         <svg class="pk-trace"><polyline/></svg>
         <i class="ph ph-hand-pointing pk-guide"></i>
-      </div>
+      </div></div>
     </div>
     <div class="ov2-legende"></div>
     <div class="ov2-flash"></div>
@@ -44,7 +44,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     passer.style.visibility = 'hidden';
 
     // ---------- 1. déchirer en suivant le doigt ----------
-    const pk = ov.querySelector('.pk');
+    const pk = ov.querySelector('.pk'), boite = ov.querySelector('.pk-boite');
     const trace = pk.querySelector('polyline');
     let pts = null, fait = false;
     const bande = () => ({ h: pk.offsetHeight, w: pk.offsetWidth, min: pk.offsetHeight * .06, max: pk.offsetHeight * .3 });
@@ -55,7 +55,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       const b = bande(), p = local(e);
       if (p.y > b.max + b.h * .12 || p.x > b.w * .35) { secouer(); return; }
       pts = [{ x: Math.max(0, p.x), y: Math.min(b.max, Math.max(b.min, p.y)) }];
-      pk.classList.add('trace');
+      pk.classList.add('trace'); boite.classList.add('tenu');
       try { pk.setPointerCapture(e.pointerId); } catch {}
     });
     pk.addEventListener('pointermove', (e) => {
@@ -69,7 +69,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     const lacher = () => {
       if (fait || !pts) return;
       const avance = pts.at(-1).x - pts[0].x;
-      pts = null; pk.classList.remove('trace'); trace.setAttribute('points', '');
+      pts = null; pk.classList.remove('trace'); boite.classList.remove('tenu'); trace.setAttribute('points', '');
       if (avance < 20) secouer();
     };
     pk.addEventListener('pointerup', lacher);
@@ -94,11 +94,17 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       pk.classList.remove('trace'); pk.classList.add('dechire');
       trace.setAttribute('points', '');
       vibrer(18); son('dechirure');
-      haut.animate([{ transform: 'none' }, { transform: 'translate(30%, -130%) rotate(22deg)', opacity: 0 }], { duration: 750, easing: 'cubic-bezier(.3,.6,.3,1)', fill: 'forwards' });
-      corps.animate([{ transform: 'none' }, { transform: 'translateY(115vh)' }], { duration: 750, delay: 280, easing: 'cubic-bezier(.5,0,.75,.4)', fill: 'forwards' });
-      await attendre(420);
+      haut.animate([{ transform: 'none' }, { transform: 'translate(12%, -18%) rotate(7deg)', offset: .35 }, { transform: 'translate(40%, -150%) rotate(28deg)', opacity: 0 }],
+        { duration: 900, easing: 'cubic-bezier(.3,.5,.3,1)', fill: 'forwards' });
+      // la pile est déjà dans le paquet, derrière l'emballage ; elle en sort par le haut ouvert
       afficherPile();
-      setTimeout(() => pk.remove(), 900);
+      const decal = boite.getBoundingClientRect().top - pile.getBoundingClientRect().top;
+      pile.animate([{ transform: `translateY(${decal + h * .15}px)` }, { transform: `translateY(${decal - h * .12}px)`, offset: .55 }, { transform: 'none' }],
+        { duration: 1300, delay: 200, easing: 'cubic-bezier(.3,.7,.3,1)', fill: 'backwards' })
+        .finished.then(() => { verrou = false; prendre(); });
+      boite.animate([{ transform: getComputedStyle(boite).transform === 'none' ? 'none' : getComputedStyle(boite).transform }, { transform: 'translateY(105vh) rotate(-4deg)' }],
+        { duration: 800, delay: 650, easing: 'cubic-bezier(.55,0,.8,.4)', fill: 'forwards' })
+        .finished.then(() => boite.remove());
     }
 
     // ---------- 2. la pile ----------
@@ -109,20 +115,19 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       pile = document.createElement('div');
       pile.className = 'pile';
       pile.innerHTML = suite.map((t, i) => `<div class="slot" style="z-index:${suite.length - i};transform:translateY(${-i * 2.5}px) rotate(${(i % 2 ? 1 : -1) * Math.min(i, 3) * .7}deg)">${htmlCarte(t.carte, { dos: true })}</div>`).join('');
-      scene.append(pile);
-      pile.animate([{ transform: 'translateY(75vh) scale(.92)', opacity: 0 }, { transform: 'none', opacity: 1 }], { duration: 700, easing: 'cubic-bezier(.2,.9,.25,1)' })
-        .finished.then(() => { verrou = false; prendre(); });
+      scene.prepend(pile);
       majCompte();
       passer.style.visibility = '';
     }
     const majCompte = () => { compte.textContent = `${Math.min(n + 1, suite.length)} / ${suite.length}`; };
     function prendre() {
       revelee = false;
-      const el = carteEl(n); if (!el) return;
-      slot(n).style.transform = '';
-      slot(n).classList.add('actif');
-      manip = brancherManipulation(el, { surTap: () => (revelee ? envoyer() : retourner()) });
+      const el = carteEl(n), s = slot(n); if (!el) return;
+      s.style.transform = '';
+      s.classList.add('actif');
+      manip = brancherManipulation(el, { surTap: () => { if (!revelee) retourner(); } });
       el.addEventListener('retournee', (e) => { if (!e.detail.dos && !revelee) reveler(); });
+      brancherLancer(el, s);
     }
     function retourner() {
       if (verrou || revelee) return;
@@ -132,6 +137,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     async function reveler() {
       if (revelee) return;
       revelee = true; verrou = true;
+      manip.verrouiller(true);   // révélée, la carte se lance au lieu de tourner
       const t = suite[n], el = carteEl(n);
       await attendre(240);   // la face apparaît à mi-retournement
       if (t.neuve) el.querySelector('.k-in').insertAdjacentHTML('beforeend', '<span class="k-neuve">Nouvelle</span>');
@@ -141,7 +147,36 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       await fini;
       verrou = false;
     }
-    function envoyer() {
+    // la carte révélée suit le doigt ; lâchée assez loin ou assez vite, elle part de ce côté
+    function brancherLancer(el, s) {
+      let p = null;
+      el.addEventListener('pointerdown', (e) => {
+        if (!revelee || verrou) return;
+        p = { x0: e.clientX, y0: e.clientY, x: e.clientX, y: e.clientY, t: performance.now(), vx: 0, vy: 0 };
+        try { el.setPointerCapture(e.pointerId); } catch {}
+        s.getAnimations().forEach((a) => a.cancel());
+      });
+      el.addEventListener('pointermove', (e) => {
+        if (!p) return;
+        const now = performance.now(), dt = Math.max(8, now - p.t);
+        p.vx = p.vx * .5 + (e.clientX - p.x) / dt * .5; p.vy = p.vy * .5 + (e.clientY - p.y) / dt * .5;
+        p.x = e.clientX; p.y = e.clientY; p.t = now;
+        const dx = p.x - p.x0, dy = p.y - p.y0;
+        s.style.transform = `translate(${dx}px, ${dy}px) rotate(${dx * .05}deg)`;
+        manip.etat.ry = dx * .1; manip.etat.rx = -dy * .06;
+      });
+      const lacher = () => {
+        if (!p) return;
+        const q = p; p = null;
+        const dx = q.x - q.x0, dy = q.y - q.y0, dist = Math.hypot(dx, dy), v = Math.hypot(q.vx, q.vy);
+        if (dist > 110 || (dist > 30 && v > .7)) { envoyer(dx, dy, q.vx, q.vy); return; }
+        const depuis = s.style.transform; s.style.transform = '';
+        if (depuis) s.animate([{ transform: depuis }, { transform: 'none' }], { duration: 420, easing: 'cubic-bezier(.2,1.2,.4,1)' });
+      };
+      el.addEventListener('pointerup', lacher);
+      el.addEventListener('pointercancel', lacher);
+    }
+    function envoyer(dx = -1, dy = 0, vx = 0, vy = 0) {
       if (verrou) return;
       verrou = true;
       manip?.arreter();
@@ -149,7 +184,11 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       s.classList.remove('actif');
       son('envoie');
       legende.classList.remove('vue');
-      s.animate([{ transform: 'none', opacity: 1 }, { transform: 'translate(-70vw, -4vh) rotate(-10deg)', opacity: 0 }], { duration: 520, easing: 'cubic-bezier(.4,0,.6,1)', fill: 'forwards' })
+      // la carte poursuit la direction du geste jusqu'à sortir de l'écran
+      const ang = Math.atan2(dy + vy * 120, dx + vx * 120), loin = Math.max(innerWidth, innerHeight) * 1.1;
+      const depuis = s.style.transform || 'none';
+      s.animate([{ transform: depuis }, { transform: `translate(${dx + Math.cos(ang) * loin}px, ${dy + Math.sin(ang) * loin}px) rotate(${Math.cos(ang) * 28}deg)` }],
+        { duration: 480, easing: 'cubic-bezier(.3,.5,.6,1)', fill: 'forwards' })
         .finished.then(() => { s.style.visibility = 'hidden'; });
       nettoyerFx();
       n++;

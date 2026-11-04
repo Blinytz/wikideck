@@ -59,7 +59,7 @@ export function htmlCarte(c, { dos = false, neuve = false, total = c.total, imag
       <div class="k-glare"></div>
       <div class="k-cadre"></div>
     </div>
-    <div class="k-tranche t1"></div><div class="k-tranche t2"></div><div class="k-tranche t3"></div>
+    <div class="k-tranche g"></div><div class="k-tranche d"></div><div class="k-tranche h"></div><div class="k-tranche b"></div>
     ${htmlDos()}
     ${neuve ? '<span class="k-neuve">Nouvelle</span>' : ''}
   </div>
@@ -91,6 +91,9 @@ function flotter(el, etat) {
 // sur la face la plus proche ; un toucher sans glissé appelle `surTap`.
 export function brancherManipulation(el, { surTap, libre = true, flotte = true } = {}) {
   const etat = { rx: 0, ry: 0, vx: 0, vy: 0, prise: null, p: Math.random() * 6, actif: true, retour: false };
+  // ressort : une commune se pose sans rebond, l'élan grandit avec la rareté
+  const r = RARETES.find((x) => el.classList.contains('r-' + x)) || 'commune';
+  const [raideur, amorti] = { commune: [.1, .55], rare: [.09, .64], epique: [.08, .72], mythique: [.07, .77], legendaire: [.065, .8], pantheon: [.06, .82] }[r];
   el.classList.add('manip');
   const appliquer = () => {
     el.style.setProperty('--rx', `${etat.rx}deg`);
@@ -103,8 +106,8 @@ export function brancherManipulation(el, { surTap, libre = true, flotte = true }
     if (!etat.prise) {
       // élan puis rappel à ressort vers la face visible (+ flottement)
       const cible = flotte ? flotter(el, etat) : { rx: 0, ry: 0 };
-      etat.vy += (cible.ry - etat.ry) * .06; etat.vx += (cible.rx - etat.rx) * .06;
-      etat.vy *= .82; etat.vx *= .82;
+      etat.vy += (cible.ry - etat.ry) * raideur; etat.vx += (cible.rx - etat.rx) * raideur;
+      etat.vy *= amorti; etat.vx *= amorti;
       etat.ry += etat.vy; etat.rx += etat.vx;
     }
     appliquer();

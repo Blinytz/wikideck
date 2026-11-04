@@ -408,7 +408,7 @@ function rendreCollection() {
       if (!c.cartes) return `<button class="tc" style="--t:${c.t.c}"><div class="squelette"></div><div class="bas"><div class="nom">${esc(c.nom)}</div></div></button>`;
       const k = c.cartes.filter((x) => possede.has(x.id)).length, p = k / c.cartes.length, cv = couverture(c);
       return `<button class="tc pressable${p === 1 ? ' complete' : ''}${k ? '' : ' vide'}" data-slug="${c.slug}" style="--t:${c.t.c}">
-        <img src="${cv.thumbUrl}" alt="" loading="lazy" decoding="async"><span class="theme-ic"><i class="ph-fill ${c.t.ic}"></i></span>${p === 1 ? '<span class="sceau"><i class="ph-fill ph-seal-check"></i></span>' : ''}
+        <img src="${cv.imageUrl}" alt="" loading="lazy" decoding="async"><span class="theme-ic"><i class="ph-fill ${c.t.ic}"></i></span>${p === 1 ? '<span class="sceau"><i class="ph-fill ph-seal-check"></i></span>' : ''}
         <div class="bas"><div class="nom">${esc(c.nom)}</div><div class="meta"><div class="barre2"><i style="width:${p * 100}%"></i></div><span>${k}/${c.cartes.length}</span></div></div></button>`;
     }).join('')}</div>`;
     cascade($('.tuiles-col', res));
@@ -511,39 +511,115 @@ function fiche(liste, i, source) {
   }
 }
 
-// ---------- boutique ----------
-const OFFRES = [
-  { id: 'paquet', n: 'Paquet', ic: 'ph-cards', c: ['7 cartes'], p: 1500 },
-  { id: 'grand', n: 'Grand paquet', ic: 'ph-stack', c: ['15 cartes'], p: 3000 },
-  { id: 'collection', n: 'Collection', ic: 'ph-books', c: ['7 cartes', 'au choix'], p: 3500 },
-  { id: 'inedit', n: 'Inédit', ic: 'ph-sparkle', c: ['5 cartes', 'toutes nouvelles'], p: 6000 },
-  { id: 'sommet', n: 'Sommet', ic: 'ph-crown-simple', c: ['1 carte', 'Mythique ou mieux'], p: 15000 },
-  { id: 'mystere', n: 'Mystère', ic: 'ph-question', c: ['?'], p: 2500 },
-];
-const pkv = (o, t = '#e5766a') => `<div class="pkv t-${o.id}" style="--t:${t}"><i class="ph-fill ${o.ic}"></i></div>`;
+// ---------- boutique : peu d'offres, qui tournent toutes les 6 h, stock limité ----------
+const ROTATION = 6 * 3600e3;
+const CHANCES = { commune: 55, rare: 30, epique: 11, mythique: 3, legendaire: .9, pantheon: .1 };
+const achats = new Map();   // clé d'offre -> nombre acheté pendant cette rotation
+function offresDuMoment() {
+  const tour = Math.floor(Date.now() / ROTATION), g = (s) => hash(`${tour}:${s}`);
+  const pretes = chargees().filter((c) => c.cartes.length >= 12);
+  // la vedette : une collection où il reste beaucoup à trouver
+  const cand = pretes.map((c) => ({ c, manque: c.cartes.filter((x) => !possede.has(x.id)).length })).filter((x) => x.manque >= 6).sort((a, b) => g(a.c.slug) - g(b.c.slug));
+  const ved = cand[0]?.c ?? pretes[0];
+  const themes = [...new Set(pretes.map((c) => c.theme))].filter((t) => t !== ved.theme).sort((a, b) => g(a) - g(b));
+  const theme = themes[0], col2 = cand.find((x) => x.c.theme !== ved.theme && x.c.theme !== theme)?.c;
+  const special = tour % 2 ? { id: 'sommet', n: 'Sommet', ic: 'ph-crown-simple' } : { id: 'inedit', n: 'Inédit', ic: 'ph-sparkle' };
+  const coll = (c, o) => ({ cle: `col:${c.slug}`, type: 'collection', titre: c.nom, sous: c.theme, t: c.t, nb: 5, garantie: 'epique', stock: 3, cartes: c.cartes, ...o });
+  return [
+    coll(ved, { vedette: true, prix: 2000, avant: 2500 }),
+    { cle: `theme:${theme}`, type: 'theme', titre: theme, sous: 'Thème', t: teinte(theme), nb: 5, garantie: 'rare', stock: 3, prix: 1800, cartes: pretes.filter((c) => c.theme === theme).flatMap((c) => c.cartes) },
+    special.id === 'sommet'
+      ? { cle: 'sommet', type: 'sommet', titre: 'Sommet', sous: 'Spécial', t: { c: '#f2c66d', ic: special.ic }, nb: 1, garantie: 'mythique', stock: 1, prix: 12000, cartes: toutes().filter((c) => RANG(c.rarete) >= 3) }
+      : { cle: 'inedit', type: 'inedit', titre: 'Inédit', sous: 'Spécial', t: { c: '#b69cff', ic: special.ic }, nb: 3, garantie: 'rare', stock: 1, prix: 5000, inedites: true, cartes: toutes().filter((c) => !possede.has(c.id)) },
+    ...(col2 ? [coll(col2, { prix: 2500 })] : []),
+  ].slice(0, 4);
+}
+const phares = (o, n = 4) => [...o.cartes].sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || (possede.has(a.id) - possede.has(b.id)) || b.pv - a.pv).slice(0, n);
+function tirerOffre(o) {
+  const pool = o.inedites ? o.cartes.filter((c) => !possede.has(c.id)) : o.cartes;
+  const par = Object.groupBy(pool, (c) => c.rarete);
+  const dispo = RARETES.filter((r) => par[r]?.length);
+  const tirerRarete = (min) => { const rs = dispo.filter((r) => RANG(r) >= RANG(min)); const tot = rs.reduce((s, r) => s + CHANCES[r], 0); let x = Math.random() * tot; for (const r of rs) { x -= CHANCES[r]; if (x <= 0) return r; } return rs.at(-1); };
+  const out = [];
+  for (let i = 0; i < o.nb; i++) out.push(hasard(par[tirerRarete(i === o.nb - 1 ? o.garantie : 'commune')] || pool));
+  return out.map((c) => ({ carte: c, neuve: !possede.has(c.id) }));
+}
+function htmlVisuel(o, grand = false) {
+  const im = phares(o, 4);
+  const fond = o.type === 'theme' ? `<div class="pki-mosaique">${im.map((c) => `<img src="${c.imageUrl}" alt="" loading="lazy">`).join('')}</div>` : o.type === 'collection' ? `<img class="pki-img" src="${im[0].imageUrl}" alt="" loading="lazy">` : '';
+  return `<div class="pki t-${o.type}${grand ? ' grand' : ''}" style="--t:${o.t.c}">${fond}<div class="pki-voile"></div>
+    <div class="pki-haut"><span class="k-mono">W</span></div>
+    ${o.type === 'sommet' || o.type === 'inedit' ? `<i class="ph-fill ${o.t.ic} pki-ic"></i>` : ''}
+    <div class="pki-nom">${esc(o.titre)}</div></div>`;
+}
+function htmlOffre(o) {
+  const reste = o.stock - (achats.get(o.cle) || 0);
+  const nouvelles = o.cartes.filter((c) => !possede.has(c.id)).length;
+  return `<article class="bloc ob${o.vedette ? ' vedette' : ''}${reste ? '' : ' epuise'}" style="--t:${o.t.c}" data-cle="${esc(o.cle)}">
+    ${o.vedette ? '<span class="ob-ruban">À la une</span>' : ''}
+    <div class="ob-visuel">${htmlVisuel(o, o.vedette)}</div>
+    <div class="ob-corps">
+      <span class="tag teinte"><i class="ph-fill ${o.t.ic}"></i>${esc(o.sous)}</span>
+      <h3>${esc(o.titre)}</h3>
+      <div class="ob-contenu"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
+      <div class="ob-phares">${phares(o).map((c) => `<span style="--r:var(--r-${c.rarete})"><img src="${c.thumbUrl}" alt="" loading="lazy"><i class="ph-fill ${ICONES[c.rarete]}"></i></span>`).join('')}</div>
+      <div class="ob-info">${o.inedites ? '100 % nouvelles' : `${fr(nouvelles)} à découvrir`}</div>
+      <div class="ob-pied">
+        <button class="btn2 or pressable" data-acheter ${reste && o.prix <= solde ? '' : 'disabled'}><i class="ph-fill ph-diamond"></i>${fr(o.prix)}</button>
+        ${o.avant ? `<s>${fr(o.avant)}</s>` : ''}
+        <span class="ob-stock${reste === 1 ? ' dernier' : ''}">${reste ? `${reste} restant${reste > 1 ? 's' : ''}` : 'Épuisé'}</span>
+        <button class="retour ob-det" data-detail aria-label="Contenu"><i class="ph-bold ph-info"></i></button>
+      </div>
+    </div></article>`;
+}
+function detailOffre(o) {
+  vibrer(); son('tap');
+  const f = document.createElement('div'); f.className = 'fiche';
+  const par = Object.groupBy(o.inedites ? o.cartes.filter((c) => !possede.has(c.id)) : o.cartes, (c) => c.rarete);
+  const rs = RARETES.filter((r) => par[r]?.length), tot = rs.reduce((s, r) => s + CHANCES[r], 0);
+  f.style.setProperty('--img', `url('${phares(o, 1)[0].thumbUrl}')`);
+  f.innerHTML = `<div class="flou"></div>
+    <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span></span><span style="width:40px"></span></div>
+    <div class="scene">${htmlVisuel(o, true)}</div>
+    <div class="feuille" style="--t:${o.t.c}">
+      <div class="poignee"></div>
+      <span class="tag teinte"><i class="ph-fill ${o.t.ic}"></i>${esc(o.sous)}</span>
+      <h2>${esc(o.titre)}</h2>
+      <div class="chances">${rs.map((r) => { const p = CHANCES[r] / tot * 100; return `<div class="chance"><span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${NOMS[r]}</span><div class="barre2"><i style="width:${Math.max(1.5, p)}%;background:var(--r-${r})"></i></div><b>${p < 1 ? p.toFixed(1).replace('.', ',') : Math.round(p)} %</b></div>`; }).join('')}</div>
+      <div class="ob-contenu" style="margin-bottom:18px"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>dernière : ${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
+      <div class="section-titre"><h2>Cartes phares</h2></div>
+      <div class="grille">${phares(o, 9).map((c) => `<div class="cellule">${htmlCarte(c)}${possede.has(c.id) ? '' : '<span class="quantite" style="background:var(--or)">À trouver</span>'}</div>`).join('')}</div>
+    </div>`;
+  document.body.append(f); document.body.style.overflow = 'hidden';
+  $('#ff', f).addEventListener('click', () => { son('tap'); f.remove(); document.body.style.overflow = ''; });
+}
 function rendreBoutique() {
   const z = $('#boutique');
-  const ved = OFFRES[1 + Math.floor(hash(new Date().toDateString() + 'v') * (OFFRES.length - 1))], prixVed = Math.round(ved.p * .7 / 100) * 100;
-  const minuit = new Date(); minuit.setHours(24, 0, 0, 0);
+  const offres = offresDuMoment();
+  const prochaine = (Math.floor(Date.now() / ROTATION) + 1) * ROTATION;
   const doublons = [...possede.values()].reduce((s, q) => s + Math.max(0, q - 1), 0);
   z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div>${htmlSolde()}</div>
-    <div class="bloc vedette"><span class="reduc">−30 %</span>${pkv(ved)}
-      <div class="droite"><span class="surtitre">Offre du jour</span><h3>${ved.n}</h3><div class="contenu" style="display:flex;gap:5px;flex-wrap:wrap">${ved.c.map((x) => `<span class="tag">${x}</span>`).join('')}</div>
-        <div class="prix"><button class="btn2 or pressable" data-achat="${ved.id}" data-prix="${prixVed}" ${prixVed > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(prixVed)}</button><s>${fr(ved.p)}</s></div>
-        <span class="chiffre" style="font-size:12px;color:var(--texte-3)"><i class="ph ph-hourglass-medium"></i> <span id="fin-offre">${fmtTemps(Math.round((minuit - Date.now()) / 1000))}</span></span></div></div>
-    <div class="offres">${OFFRES.map((o) => `<div class="bloc offre">${pkv(o)}
-      <div><h3>${o.n}</h3><div class="contenu">${o.c.map((x) => `<span class="tag">${x}</span>`).join('')}</div></div>
-      <button class="btn2 or pressable" data-achat="${o.id}" data-prix="${o.p}" ${o.p > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(o.p)}</button></div>`).join('')}</div>
+    <div class="rotation"><i class="ph-fill ph-arrows-clockwise"></i><span>Nouveaux paquets dans</span><b class="chiffre" id="fin-offre">${fmtTemps(Math.round((prochaine - Date.now()) / 1000))}</b></div>
+    <div class="offres">${offres.map(htmlOffre).join('')}</div>
     <div class="section-titre"><h2>Doublons</h2></div>
     <div class="bloc vente"><div><b>${fr(doublons)} cartes</b><span>+${fr(doublons * 180)} ◆</span></div><button class="btn2 fantome petit" id="tout-vendre" ${doublons ? '' : 'disabled'}><i class="ph ph-coins"></i>Tout vendre</button></div>`;
   cascade(z);
-  clearInterval(window.__offre); window.__offre = setInterval(() => { const e = $('#fin-offre'); if (e) e.textContent = fmtTemps(Math.max(0, Math.round((minuit - Date.now()) / 1000))); }, 1000);
-  z.querySelectorAll('[data-achat]').forEach((b) => b.addEventListener('click', () => {
-    const prix = +b.dataset.prix; if (prix > solde) return;
-    son('achat'); vibrer(15); majSolde(-prix); paquets++;
-    toast('ph-cards', OFFRES.find((o) => o.id === b.dataset.achat).n);
-    setTimeout(() => aller('accueil'), 500);
-  }));
+  clearInterval(window.__offre);
+  window.__offre = setInterval(() => { const e = $('#fin-offre'); if (!e) return; const s = Math.round((prochaine - Date.now()) / 1000); if (s <= 0) { achats.clear(); toast('ph-arrows-clockwise', 'Nouveaux paquets'); return rendreBoutique(); } e.textContent = fmtTemps(s); }, 1000);
+  z.querySelectorAll('.ob').forEach((el) => {
+    const o = offres.find((x) => x.cle === el.dataset.cle);
+    el.querySelector('[data-detail]').addEventListener('click', () => detailOffre(o));
+    el.querySelector('.ob-visuel').addEventListener('click', () => detailOffre(o));
+    el.querySelector('[data-acheter]').addEventListener('click', async () => {
+      if (o.prix > solde || (achats.get(o.cle) || 0) >= o.stock) return;
+      son('achat'); vibrer(15); majSolde(-o.prix); achats.set(o.cle, (achats.get(o.cle) || 0) + 1);
+      const t = tirerOffre(o);
+      await ouvrirPaquet(t, { nom: o.titre });
+      t.forEach(({ carte }) => { possede.set(carte.id, (possede.get(carte.id) || 0) + 1); historique.unshift(carte); });
+      historique.length = Math.min(historique.length, 14);
+      rendreBoutique();
+    });
+  });
   $('#tout-vendre')?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(doublons * 180); for (const [id, q] of possede) if (q > 1) possede.set(id, 1); toast('ph-diamond', `+${fr(doublons * 180)}`); rendreBoutique(); });
   compter($('.solde-v', z), 'solde', solde, 1);
 }

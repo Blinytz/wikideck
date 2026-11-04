@@ -11,7 +11,7 @@ export function htmlDos() {
   return `<div class="k-dos"><div class="k-mono">W</div></div>`;
 }
 
-export function htmlCarte(c, { dos = false, neuve = false, total = c.total, image = 'thumb', attrs = '' } = {}) {
+export function htmlCarte(c, { dos = false, neuve = false, total = c.total, image = 'full', attrs = '' } = {}) {
   const src = (image === 'full' ? c.imageUrl : c.thumbUrl) + (c.imgV ? `?v=${c.imgV}` : '');
   const num = c.numero != null ? `<span class="k-num">${String(c.numero).padStart(3, '0')}${total ? `<small>/${total}</small>` : ''}</span>` : '<span></span>';
   return `<div class="k r-${c.rarete}${dos ? ' dos' : ''}" data-id="${esc(c.id)}" style="--img:url('${esc(src)}');--rar:var(--r-${c.rarete})" ${attrs}>

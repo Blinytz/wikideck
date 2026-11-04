@@ -37,7 +37,7 @@
 </nav>
 
 <script type="module">
-import { htmlCarte, brancherInclinaison, RARETES, NOMS, ICONES, esc } from '../js/v2/carte.js';
+import { htmlCarte, brancherManipulation, RARETES, NOMS, ICONES, esc } from '../js/v2/carte.js';
 import { ouvrirPaquet } from '../js/v2/ouverture.js';
 import { son, sonActif, activerSon } from '../js/v2/son.js';
 
@@ -463,7 +463,7 @@ function fiche(liste, i, source) {
     f.innerHTML = `<div class="flou"></div>
       <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span class="pos">${liste.length > 1 ? `${i + 1} / ${liste.length}` : ''}</span>
         ${q ? `<button class="retour epingle${epinglee ? ' on' : ''}" id="fe"><i class="ph${epinglee ? '-fill' : ''} ph-push-pin"></i></button>` : '<span style="width:40px"></span>'}</div>
-      <div class="scene">${htmlCarte(c, { image: 'full' })}</div>
+      <div class="scene">${i > 0 ? '<button class="nav-f g" aria-label="Précédente"><i class="ph-bold ph-caret-left"></i></button>' : ''}${htmlCarte(c, { image: 'full' })}${i < liste.length - 1 ? '<button class="nav-f d" aria-label="Suivante"><i class="ph-bold ph-caret-right"></i></button>' : ''}</div>
       <div class="feuille" style="--rar:var(--r-${c.rarete})">
         <div class="poignee"></div>
         <span class="rar"><i class="ph-fill ${ICONES[c.rarete]}"></i>${NOMS[c.rarete]}</span>
@@ -478,7 +478,7 @@ function fiche(liste, i, source) {
       </div>`;
     const k = $('.scene .k', f);
     if (sens) k.classList.add(sens > 0 ? 'entre-g' : 'entre-d');
-    brancherInclinaison(k, 16);
+    brancherManipulation(k);
     $('#ff', f).addEventListener('click', fermer);
     $('#fv', f)?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(REVENTE[c.rarete] * (q - 1)); toast('ph-diamond', `+${fr(REVENTE[c.rarete] * (q - 1))}`); possede.set(c.id, 1); remplir(); });
     $('#fe', f)?.addEventListener('click', () => {
@@ -487,15 +487,17 @@ function fiche(liste, i, source) {
       else { vitrine = [...vitrine, c.id].slice(-3); toast('ph-push-pin', 'Vitrine'); }
       remplir();
     });
+    // la carte se manipule en 3D ; on change de carte avec les flèches ou en glissant à côté d'elle
+    const aller = (pas) => {
+      const j = i + pas; if (j < 0 || j >= liste.length) return;
+      vibrer(); son('envoie'); k.classList.add(pas > 0 ? 'sort-g' : 'sort-d');
+      setTimeout(() => { i = j; remplir(pas); }, 200);
+    };
+    f.querySelector('.nav-f.g')?.addEventListener('click', () => aller(-1));
+    f.querySelector('.nav-f.d')?.addEventListener('click', () => aller(1));
     const sc = $('.scene', f); let x0 = null;
-    sc.addEventListener('pointerdown', (e) => (x0 = e.clientX));
-    sc.addEventListener('pointerup', (e) => {
-      if (x0 == null) return; const dx = e.clientX - x0; x0 = null;
-      const j = i + (dx < -50 ? 1 : dx > 50 ? -1 : 0);
-      if (j === i || j < 0 || j >= liste.length) return;
-      vibrer(); son('envoie'); k.classList.add(dx < 0 ? 'sort-g' : 'sort-d');
-      setTimeout(() => { i = j; remplir(dx < 0 ? 1 : -1); }, 200);
-    });
+    sc.addEventListener('pointerdown', (e) => { x0 = e.target.closest('.k, .nav-f') ? null : e.clientX; });
+    sc.addEventListener('pointerup', (e) => { if (x0 == null) return; const dx = e.clientX - x0; x0 = null; if (Math.abs(dx) > 50) aller(dx < 0 ? 1 : -1); });
   };
   const ouvrir = () => { if (source) source.style.viewTransitionName = ''; remplir(); document.body.append(f); document.body.style.overflow = 'hidden'; };
   if (source && document.startViewTransition) { source.style.viewTransitionName = 'carte'; document.startViewTransition(ouvrir); } else ouvrir();

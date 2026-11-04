@@ -378,3 +378,7 @@ body[data-ecran="accueil"] #ambiance { opacity: 1; }
 .manques b { font: 500 22px var(--mono); }
 .manques span { font: 600 10px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--texte-3); }
 .pki:not(:has(img)):not(.t-sommet):not(.t-inedit) { background: radial-gradient(90% 70% at 50% 40%, color-mix(in srgb, var(--t) 55%, #000), #121016 80%); }
+.fiche .scene { align-items: center; gap: 0; }
+.nav-f { position: absolute; top: 50%; translate: 0 -50%; z-index: 3; width: 38px; height: 38px; border-radius: 50%; border: 0; display: grid; place-items: center; background: #0007; color: var(--texte); font-size: 16px; backdrop-filter: blur(10px); cursor: pointer; }
+.nav-f.g { left: 6px; }
+.nav-f.d { right: 6px; }

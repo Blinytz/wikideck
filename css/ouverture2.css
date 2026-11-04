@@ -11,8 +11,9 @@
 .ov2-voile { position: absolute; inset: 0; background: #000; opacity: 0; transition: opacity .6s; pointer-events: none; }
 .ov2.sombre .ov2-voile { opacity: .55; }
 .ov2-fx, .ov2-flash { position: absolute; inset: 0; pointer-events: none; display: grid; place-items: center; }
+.ov2-fx { z-index: 2; overflow: hidden; }
 .ov2-flash { z-index: 5; background: #fff; opacity: 0; }
-.ov2-scene { position: absolute; inset: 0; display: grid; place-items: center; }
+.ov2-scene { position: absolute; inset: 0; display: grid; place-items: center; z-index: 3; }
 .ov2-haut {
   position: absolute; top: max(16px, env(safe-area-inset-top)); left: 16px; right: 16px; z-index: 6;
   display: flex; justify-content: space-between; align-items: center;
@@ -23,62 +24,55 @@
   background: #ffffff0f; color: var(--texte-2); font-size: 20px; backdrop-filter: blur(10px);
 }
 
-/* ---------- le paquet ---------- */
-.pk { --pw: min(62vw, 250px); --ph: calc(var(--pw) * 1.48); position: relative; width: var(--pw); height: var(--ph); cursor: grab;
+/* ---------- le paquet : la déchirure suit le doigt ---------- */
+.pk { --pw: min(62vw, 250px); --ph: calc(var(--pw) * 1.48); position: relative; width: var(--pw); height: var(--ph); cursor: crosshair; touch-action: none;
   animation: pk-flotte 4s ease-in-out infinite; filter: drop-shadow(0 30px 40px #000c); }
 @keyframes pk-flotte { 50% { transform: translateY(-8px) rotate(-.6deg); } }
+.pk.trace { animation: none; }
 .pk.secoue { animation: pk-secoue .45s ease; }
 @keyframes pk-secoue { 25% { transform: rotate(-3deg); } 60% { transform: rotate(2.5deg); } }
 .pk-part {
-  position: absolute; left: 0; right: 0; overflow: hidden;
+  position: absolute; inset: 0; overflow: hidden; border-radius: 10px; display: grid; place-items: center;
   background:
     linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%,
     radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%),
     #141218;
-  background-attachment: local;
   animation: pk-moire 5s linear infinite;
 }
 @keyframes pk-moire { from { background-position: 120% 0, 0 0, 0 0; } to { background-position: -130% 0, 0 0, 0 0; } }
-.pk-haut { top: 0; height: 16%; border-radius: 10px 10px 0 0;
-  -webkit-mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / 10px 100%, linear-gradient(#000 0 0) top / 100% calc(100% - 5px) no-repeat;
-  -webkit-mask-composite: source-over; }
-.pk-corps { top: 16%; bottom: 0; border-radius: 0 0 10px 10px; display: grid; place-items: center; }
 .pk-part::before { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(90deg, #ffffff08 0 2px, transparent 2px 7px); }
-.pk-haut::after { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 14px;
-  background: repeating-linear-gradient(90deg, #ffffff10 0 3px, transparent 3px 6px); }
-.pk-corps::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 14px;
-  background: repeating-linear-gradient(90deg, #ffffff10 0 3px, transparent 3px 6px); }
-.pk-marque { position: relative; display: grid; justify-items: center; gap: 14px; margin-top: -8%; }
+.pk-part::after { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 12px; background: repeating-linear-gradient(90deg, #ffffff10 0 3px, transparent 3px 6px);
+  box-shadow: 0 calc(var(--ph) - 12px) 0 0 #ffffff08; }
+.pk-haut { visibility: hidden; }
+.pk.dechire .pk-haut { visibility: visible; }
+.pk-marque { position: relative; display: grid; justify-items: center; gap: 14px; margin-top: 8%; }
 .pk-marque .k-mono { width: calc(var(--pw) * .42); font-size: calc(var(--pw) * .2); }
-.pk-nom { font: 400 calc(var(--pw) * .11)/1 var(--serif); color: var(--accent); letter-spacing: .01em; }
+.pk-nom { max-width: calc(var(--pw) * .85); text-align: center; text-wrap: balance; font: 400 calc(var(--pw) * .1)/1.05 var(--serif); color: var(--accent); letter-spacing: .01em; }
 .pk-nb { font: 500 11px var(--mono); color: var(--texte-3); letter-spacing: .3em; }
-/* ligne de déchirure */
-.pk-ligne { position: absolute; left: 6%; right: 6%; top: 16%; height: 2px; transform: translateY(-1px); z-index: 2;
-  background: repeating-linear-gradient(90deg, #e8d5a355 0 5px, transparent 5px 10px); }
-.pk-ligne i { position: absolute; left: 0; top: -1px; height: 4px; width: calc(var(--p, 0) * 100%); border-radius: 4px;
-  background: linear-gradient(90deg, #e8d5a300, #fff6dc); box-shadow: 0 0 14px #fff6dc, 0 0 30px #e8d5a3; }
-.pk-ligne b { position: absolute; top: 50%; left: calc(var(--p, 0) * 100%); width: 10px; height: 10px; margin: -5px 0 0 -5px; border-radius: 50%;
-  background: #fff; box-shadow: 0 0 18px 4px #fff6dccc; opacity: var(--o, 0); }
-.pk-guide { position: absolute; top: calc(16% - 22px); left: 6%; font-size: 18px; color: var(--accent); opacity: .7;
-  animation: pk-guide 2.2s ease-in-out infinite; pointer-events: none; }
-@keyframes pk-guide { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: .8; } 80% { transform: translateX(calc(var(--pw) * .8)); opacity: .8; } 100% { transform: translateX(calc(var(--pw) * .85)); opacity: 0; } }
-.pk.dechire { animation: none; cursor: default; }
-.pk.dechire .pk-guide, .pk.dechire .pk-ligne { display: none; }
-.pk.dechire .pk-haut { animation: pk-arrache .7s cubic-bezier(.3, .6, .3, 1) forwards; }
-@keyframes pk-arrache { to { transform: translate(55%, -160%) rotate(28deg); opacity: 0; } }
-.pk.dechire .pk-corps { animation: pk-descend .8s .35s cubic-bezier(.5, 0, .7, .4) forwards; }
-@keyframes pk-descend { to { transform: translateY(120vh); } }
+/* tracé lumineux qui suit le doigt */
+.pk-trace { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; z-index: 3; }
+.pk-trace polyline { fill: none; stroke: #fff6dc; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; filter: drop-shadow(0 0 4px #fff6dc) drop-shadow(0 0 10px #e9d7a6); }
+.pk-guide { position: absolute; top: 14%; left: 4%; z-index: 4; font-size: 20px; color: var(--accent); pointer-events: none;
+  animation: pk-guide 2.6s ease-in-out infinite; }
+@keyframes pk-guide { 0% { transform: translate(0, 0); opacity: 0; } 12% { opacity: .9; } 40% { transform: translate(calc(var(--pw) * .3), 6px); } 65% { transform: translate(calc(var(--pw) * .55), -5px); }
+  85% { transform: translate(calc(var(--pw) * .82), 3px); opacity: .9; } 100% { transform: translate(calc(var(--pw) * .86), 3px); opacity: 0; } }
+.pk.trace .pk-guide, .pk.dechire .pk-guide { display: none; }
+.pk.dechire { animation: none; cursor: default; filter: none; }
+.pk.dechire .pk-part { filter: drop-shadow(0 20px 30px #000c); }
 
 /* ---------- la pile ---------- */
-.pile { --w: min(74vw, 300px); position: relative; width: var(--w); aspect-ratio: 63 / 88; }
-.pile .k { position: absolute; inset: 0; --w: min(74vw, 300px); transition: transform .45s cubic-bezier(.2, .9, .25, 1), opacity .3s; cursor: pointer; }
-.pile .k:not(.dessus) { pointer-events: none; }
-.pile.monte .k { animation: pile-monte .7s cubic-bezier(.2, .9, .25, 1) both; animation-delay: calc(var(--i) * 45ms + .55s); }
-@keyframes pile-monte { from { transform: translateY(80vh) rotate(-4deg); } }
-.pile .k.part { transition: transform .5s cubic-bezier(.5, 0, .75, .3), opacity .5s .1s; opacity: 0; pointer-events: none; }
-.pile .k.dessus:not(.dos) { z-index: 50; }
-.pile .k.revele { animation: carte-hausse .5s cubic-bezier(.2, 1.4, .4, 1); }
-@keyframes carte-hausse { 40% { transform: scale(1.06); } }
+.pile { --w: min(72vw, 300px); position: relative; width: var(--w); aspect-ratio: 63 / 88; margin-bottom: 12vh; }
+.slot { position: absolute; inset: 0; }
+.slot .k { --w: min(72vw, 300px); }
+.slot:not(:first-child) .k { pointer-events: none; }
+
+/* descriptif sous la carte révélée */
+.ov2-legende { position: absolute; left: 50%; bottom: max(28px, env(safe-area-inset-bottom)); width: min(calc(100% - 32px), 420px); translate: -50% 0; z-index: 4;
+  display: flex; flex-direction: column; align-items: center; gap: 8px; text-align: center; opacity: 0; transform: translateY(14px); transition: opacity .35s, transform .45s var(--doux); pointer-events: none; }
+.ov2-legende.vue { opacity: 1; transform: none; }
+.ov2-legende p { margin: 0; font: 14px/1.5 var(--sans); color: var(--texte-2); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.ov2-legende .tag { background: #ffffff12; }
+.toile-fx { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 4; pointer-events: none; }
 
 /* ---------- effets après retournement ---------- */
 .fx-balayage { position: absolute; inset: 0; border-radius: inherit; pointer-events: none; z-index: 4; overflow: hidden; }

@@ -1009,14 +1009,15 @@ function modaleNouvelleCarte() {
 
 /* ---------- format carte (63:88) ---------- */
 // Second cadrage, indépendant de l'illustration 4:3 (que Mnémo et l'ancien jeu
-// utilisent) : l'image remplit toute la carte. Il part de l'image d'origine
+// utilisent) : la zone d'image exacte des nouvelles cartes (760 × 700). Il part de l'image d'origine
 // en haute définition quand elle existe, sinon de l'illustration.
 let modeEd = 'illus';
 function basculerCadre(mode) {
   modeEd = mode;
   $('#ed-conteneur').classList.toggle('carte', mode === 'carte');
+  editeur.vide = mode === 'carte';
   document.querySelectorAll('#ed-modes [data-mode]').forEach((b) => b.classList.toggle('actif', b.dataset.mode === mode));
-  $('#ed-canvas-apercu').width = mode === 'carte' ? 86 : 160;
+  $('#ed-canvas-apercu').width = mode === 'carte' ? 130 : 160;
   $('#ed-canvas-apercu').height = 120;
   majResolution();
 }
@@ -1026,7 +1027,7 @@ function majResolution() {
   if (modeEd !== 'carte' || !editeur?.source) { e.textContent = ''; return; }
   const r = editeur.resolution();
   e.textContent = `${r} px`;
-  e.classList.toggle('faible', r < 630);
+  e.classList.toggle('faible', r < 760);
 }
 async function changerMode(mode) {
   if (!carteEnEdition || mode === modeEd) return;
@@ -1038,6 +1039,7 @@ async function changerMode(mode) {
   for (const src of sources) {
     try { await editeur.chargerDepuisURL(src); break; } catch { /* source suivante */ }
   }
+  $('#ed-flou').src = editeur.img.src;
   const cad = notes.cadragesCarte?.[carte.id];
   if (cad) editeur.setCadrage(cad); else editeur.reset();
   majResolution();

@@ -6,8 +6,9 @@
 const RATIO = 4 / 3;          // cadre de l'illustration des cartes
 export const EXPORT_FULL = [800, 600];
 export const EXPORT_THUMB = [213, 160];
-// format carte (63:88) : l'image occupe toute la carte, nom par-dessus
-export const EXPORT_CARTE = [630, 880];
+// format carte : la zone d'image de la carte (le haut, 66 % de sa hauteur) ;
+// sous elle, le jeu prolonge l'image par un fond flou fondu
+export const EXPORT_CARTE = [760, 700];
 
 export class Editeur {
   constructor(conteneur, img, canvasApercu) {
@@ -47,10 +48,12 @@ export class Editeur {
 
   get fw() { return this.conteneur.clientWidth; }
   get fh() { return this.conteneur.clientHeight; }
-  get sMin() { return Math.max(this.fw / this.iw, this.fh / this.ih); }
+  // en format carte, on peut dézoomer jusqu'à voir toute l'image : le vide sera comblé par un flou
+  get sMin() { return this.vide ? Math.min(this.fw / this.iw, this.fh / this.ih) : Math.max(this.fw / this.iw, this.fh / this.ih); }
 
   reset() {
-    this.s = this.sMin;
+    // recadrage auto : l'image couvre toujours le cadre ; dézoomer reste possible ensuite
+    this.s = Math.max(this.fw / this.iw, this.fh / this.ih);
     this.tx = (this.fw - this.iw * this.s) / 2;
     this.ty = (this.fh - this.ih * this.s) / 2;
     this._rendre();
@@ -58,8 +61,9 @@ export class Editeur {
 
   _clamp() {
     this.s = Math.max(this.sMin, Math.min(this.s, this.sMin * 12));
-    this.tx = Math.min(0, Math.max(this.fw - this.iw * this.s, this.tx));
-    this.ty = Math.min(0, Math.max(this.fh - this.ih * this.s, this.ty));
+    const lw = this.fw - this.iw * this.s, lh = this.fh - this.ih * this.s;
+    this.tx = lw <= 0 ? Math.min(0, Math.max(lw, this.tx)) : Math.max(0, Math.min(lw, this.tx));
+    this.ty = lh <= 0 ? Math.min(0, Math.max(lh, this.ty)) : Math.max(0, Math.min(lh, this.ty));
   }
 
   _rendre() {
@@ -109,7 +113,33 @@ export class Editeur {
     canvas.width = W; canvas.height = H;
     const ctx = canvas.getContext('2d');
     ctx.imageSmoothingQuality = 'high';
-    ctx.drawImage(this.source, r.x, r.y, r.w, r.h, 0, 0, W, H);
+    const k = W / r.w;   // pixels de sortie par pixel source
+    // position de l'image entière dans la sortie
+    const dx = -r.x * k, dy = -r.y * k, dw = this.iw * k, dh = this.ih * k;
+    const vide = dx > .5 || dy > .5 || dx + dw < W - .5 || dy + dh < H - .5;
+    if (!vide) { ctx.drawImage(this.source, r.x, r.y, r.w, r.h, 0, 0, W, H); return; }
+    // fond : l'image elle-même, agrandie et floutée, pour combler le vide
+    const c = Math.max(W / this.iw, H / this.ih);
+    ctx.filter = `blur(${Math.round(W * .04)}px) saturate(1.3) brightness(.62)`;
+    ctx.drawImage(this.source, (W - this.iw * c) / 2 - W * .05, (H - this.ih * c) / 2 - H * .05, this.iw * c * 1.1, this.ih * c * 1.1);
+    ctx.filter = 'none';
+    // l'image nette, fondue sur les bords qui touchent le vide
+    const t = document.createElement('canvas'); t.width = W; t.height = H;
+    const tc = t.getContext('2d'); tc.imageSmoothingQuality = 'high';
+    tc.drawImage(this.source, dx, dy, dw, dh);
+    // on efface progressivement les bords (destination-out ne touche que la bande peinte)
+    tc.globalCompositeOperation = 'destination-out';
+    const fondu = (x0, y0, x1, y1) => {
+      const g = tc.createLinearGradient(x0, y0, x1, y1);
+      g.addColorStop(0, 'rgba(0,0,0,1)'); g.addColorStop(1, 'rgba(0,0,0,0)');
+      return g;
+    };
+    const bande = Math.min(dh, dw) * .16;
+    if (dy > .5) { tc.fillStyle = fondu(0, dy, 0, dy + bande); tc.fillRect(0, dy, W, bande); }
+    if (dy + dh < H - .5) { tc.fillStyle = fondu(0, dy + dh, 0, dy + dh - bande); tc.fillRect(0, dy + dh - bande, W, bande); }
+    if (dx > .5) { tc.fillStyle = fondu(dx, 0, dx + bande, 0); tc.fillRect(dx, 0, bande, H); }
+    if (dx + dw < W - .5) { tc.fillStyle = fondu(dx + dw, 0, dx + dw - bande, 0); tc.fillRect(dx + dw - bande, 0, bande, H); }
+    ctx.drawImage(t, 0, 0);
   }
 
   _versBlob(canvas, qualite) {

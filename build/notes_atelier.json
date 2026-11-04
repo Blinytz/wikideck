@@ -59208,7 +59208,7 @@
    "cx": 0.5,
    "cy": 0.4607,
    "w": 1,
-   "editeLe": 1793819847865
+   "editeLe": 1793820618829
   },
   "souverains-et-conquerants_ramses-ii": {
    "cx": 0.4745,
@@ -59221,6 +59221,12 @@
    "cy": 0.4684,
    "w": 1,
    "editeLe": 1793819859947
+  },
+  "souverains-et-conquerants_qin-shi-huang": {
+   "cx": 0.5,
+   "cy": 0.3113,
+   "w": 1,
+   "editeLe": 1793820614985
   }
  }
 }

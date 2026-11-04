@@ -71,9 +71,11 @@
 .k.manip .k-in { will-change: transform; }
 
 .k-fond { position: absolute; inset: -12%; background: var(--img) center / cover; filter: blur(calc(var(--w) * .09)) saturate(1.5) brightness(.45); z-index: -1; }
-.k-art { position: absolute; left: 0; right: 0; top: 0; height: 66%; }
+/* l'image garde son format 4:3 sur toute la largeur : rien n'est rogné sur les côtés,
+   elle se fond vers le bas dans son propre fond flouté */
+.k-art { position: absolute; left: 0; right: 0; top: 0; aspect-ratio: 4 / 3; }
 .k-art img { width: 100%; height: 100%; object-fit: cover; display: block;
-  -webkit-mask: linear-gradient(#000 55%, transparent); mask: linear-gradient(#000 55%, transparent); }
+  -webkit-mask: linear-gradient(#000 72%, transparent); mask: linear-gradient(#000 72%, transparent); }
 .k-art .k-init { position: absolute; inset: 0; display: grid; place-items: center; font: 5em var(--serif); color: #ffffff30; }
 .k-art img + .k-init { display: none; }
 
@@ -207,9 +209,8 @@
 
 /* petites cartes : image pleine, nom seul */
 @container (max-width: 170px) {
-  .k-fond { display: none; }
-  .k-art { height: 100%; }
-  .k-art img { -webkit-mask: linear-gradient(#000 40%, transparent 92%); mask: linear-gradient(#000 40%, transparent 92%); }
+  .k-fond { filter: blur(calc(var(--w) * .07)) saturate(1.5) brightness(.5); }
+  .k-holo { opacity: .16 !important; }
   .k-haut { top: .6em; left: .6em; right: .6em; justify-content: flex-end; }
   .k-num, .k-col, .k-pied { display: none; }
   .k-ico { font-size: 1.5em; background: #000a; }

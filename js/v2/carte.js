@@ -40,9 +40,11 @@ window.__kErreur ??= (img) => {
 
 export function htmlCarte(c, { dos = false, neuve = false, total = c.total, image = 'full', attrs = '' } = {}) {
   const v = c.imgV ? `?v=${c.imgV}` : '';
-  const src = (image === 'full' ? c.imageUrl : c.thumbUrl) + v;
+  // une image recadrée au format carte dans l'atelier passe avant l'illustration 4:3
+  const plein = c.imgC && c.imageUrl ? c.imageUrl.replace('/full/', '/cartes/') + `?v=${c.imgC}` : null;
+  const src = plein || ((image === 'full' ? c.imageUrl : c.thumbUrl) + v);
   const num = c.numero != null ? `<span class="k-num">${String(c.numero).padStart(3, '0')}${total ? `<small>/${total}</small>` : ''}</span>` : '<span></span>';
-  return `<div class="k r-${c.rarete}${dos ? ' dos' : ''}" data-id="${esc(c.id)}" style="--img:url('${esc(src)}');--rar:var(--r-${c.rarete});--en:${echelleNom(c.nom)};--ec:${echelleCol(c.collection || '')}" ${attrs}>
+  return `<div class="k r-${c.rarete}${plein ? ' plein' : ''}${dos ? ' dos' : ''}" data-id="${esc(c.id)}" style="--img:url('${esc(src)}');--rar:var(--r-${c.rarete});--en:${echelleNom(c.nom)};--ec:${echelleCol(c.collection || '')}" ${attrs}>
   <div class="k-in">
     <div class="k-face">
       <div class="k-fond"></div>

@@ -491,7 +491,7 @@ function rendreGrille() {
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
           ${visuel}
           <button class="v-statut ${st}" data-statut="${esc(c.id)}" title="statut">${pastille || '·'}</button>
-          ${note}
+          ${note}${c.imgC ? '<span class="v-carte" title="format carte">▯</span>' : ''}
           <div class="v-nom">${esc(c.nom)}</div>
           <div class="v-source"><b class="v-rarete">${esc(c.rarete)}</b> ·
             ${esc(sourcesImages[c.id]?.source || '?')}</div>
@@ -701,7 +701,9 @@ function brancherEditeur() {
   $('#ed-plus').addEventListener('click', () => editeur.zoomer(1.2));
   $('#ed-moins').addEventListener('click', () => editeur.zoomer(1 / 1.2));
   $('#ed-reset').addEventListener('click', () => editeur.reset());
-  $('#ed-enregistrer').addEventListener('click', enregistrerCadrage);
+  $('#ed-enregistrer').addEventListener('click', () => (modeEd === 'carte' ? enregistrerFormatCarte() : enregistrerCadrage()));
+  $('#ed-modes').addEventListener('click', (ev) => { const b = ev.target.closest('[data-mode]'); if (b) changerMode(b.dataset.mode); });
+  editeur.surRendu = majResolution;
   $('#ed-note').addEventListener('click', () => carteEnEdition && modaleNote([carteEnEdition.id]));
   $('#ed-remplacer').addEventListener('click', modaleRemplacement);
   $('#ed-fichier').addEventListener('change', async () => {
@@ -737,11 +739,13 @@ function cheminsDe(carte) {
     orig: `images/originaux/${col}/${slug}.webp`,
     full: `images/full/${col}/${slug}.webp`,
     thumb: `images/thumbs/${col}/${slug}.webp`,
+    carte: `images/cartes/${col}/${slug}.webp`,
   };
 }
 
 async function ouvrirEditeur(carte) {
   carteEnEdition = carte;
+  basculerCadre('illus');
   remplacementEnCours = false;
   $('#ed-nom').textContent = carte.nom;
   $('#ed-infos').textContent = ` ${carte.collection} · image : ${sourcesImages[carte.id]?.source || '?'}`;
@@ -1003,6 +1007,64 @@ function modaleNouvelleCarte() {
   };
 }
 
+/* ---------- format carte (63:88) ---------- */
+// Second cadrage, indépendant de l'illustration 4:3 (que Mnémo et l'ancien jeu
+// utilisent) : l'image remplit toute la carte. Il part de l'image d'origine
+// en haute définition quand elle existe, sinon de l'illustration.
+let modeEd = 'illus';
+function basculerCadre(mode) {
+  modeEd = mode;
+  $('#ed-conteneur').classList.toggle('carte', mode === 'carte');
+  document.querySelectorAll('#ed-modes [data-mode]').forEach((b) => b.classList.toggle('actif', b.dataset.mode === mode));
+  $('#ed-canvas-apercu').width = mode === 'carte' ? 86 : 160;
+  $('#ed-canvas-apercu').height = 120;
+  majResolution();
+}
+function majResolution() {
+  const e = $('#ed-resol');
+  if (!e) return;
+  if (modeEd !== 'carte' || !editeur?.source) { e.textContent = ''; return; }
+  const r = editeur.resolution();
+  e.textContent = `${r} px`;
+  e.classList.toggle('faible', r < 630);
+}
+async function changerMode(mode) {
+  if (!carteEnEdition || mode === modeEd) return;
+  const carte = carteEnEdition;
+  if (mode === 'illus') { await ouvrirEditeur(carte); return; }
+  basculerCadre('carte');
+  const ch = cheminsDe(carte), bust = `?v=${Date.now()}`;
+  const sources = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig, carte.imageUrl + bust].filter(Boolean);
+  for (const src of sources) {
+    try { await editeur.chargerDepuisURL(src); break; } catch { /* source suivante */ }
+  }
+  const cad = notes.cadragesCarte?.[carte.id];
+  if (cad) editeur.setCadrage(cad); else editeur.reset();
+  majResolution();
+}
+async function enregistrerFormatCarte() {
+  const carte = carteEnEdition;
+  if (!carte) return;
+  if (!getToken()) { alert('Configure ton token GitHub (onglet ⚙) avant d’enregistrer.'); return; }
+  if (!editeur.source) return;
+  const blob = await editeur.exporterCarte();
+  const v = Date.now().toString(36);
+  (notes.cadragesCarte ??= {})[carte.id] = { ...editeur.getCadrage(), editeLe: Date.now() };
+  planifierSauvegardeNotes();
+  carte.imgC = v;
+  const chemin = cheminsDe(carte).carte;
+  // l'image d'abord, puis la fiche : le jeu ne pointe dessus qu'une fois le fichier en place
+  enfiler(`format carte ${carte.nom}`, async () => {
+    await commitLot([{ chemin, base64: await blobVersBase64(blob) }], `Atelier : format carte ${carte.id}`);
+  });
+  jobModifierCollection(colSlugDe(carte), `Atelier : format carte ${carte.id} (fiche)`, (d) => {
+    const c = d.cartes.find((x) => x.id === carte.id);
+    if (c) c.imgC = v;
+  });
+  rendreGrille();
+  fermerEditeur();
+}
+
 /* ---------- enregistrement (file GitHub) ---------- */
 
 async function enregistrerCadrage() {
@@ -1083,6 +1145,7 @@ function planifierSauvegardeNotes() {
             ...distant, ...notes,
             statuts: { ...(distant.statuts || {}), ...notes.statuts },
             cadrages: { ...(distant.cadrages || {}), ...notes.cadrages },
+            cadragesCarte: { ...(distant.cadragesCarte || {}), ...(notes.cadragesCarte || {}) },
             notes: fusionnerNotes(distant.notes || [], notes.notes),
           };
           notesSha = await putFichier('build/notes_atelier.json',

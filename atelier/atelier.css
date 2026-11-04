@@ -213,3 +213,18 @@ h2 small { color: var(--doux); font-weight: 600; }
 .sommaire a.s-theme { flex-basis: 100%; margin-top: 6px; color: var(--texte);
   font-weight: 700; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
   border: none; background: none; padding-left: 2px; }
+
+/* format carte (63:88) : l'image remplit toute la carte, le nom passe par-dessus */
+.ed-cadre-conteneur.carte { aspect-ratio: 63 / 88; width: min(78vw, 400px); }
+.ed-repere-carte { display: none; position: absolute; inset: 0; pointer-events: none; }
+.ed-cadre-conteneur.carte .ed-repere-carte { display: block; }
+.ed-repere-carte .r-texte { position: absolute; left: 0; right: 0; bottom: 0; height: 30%;
+  background: linear-gradient(transparent, #000c 60%); border-top: 1px dashed #ffffff55; }
+.ed-repere-carte .r-num, .ed-repere-carte .r-ico { position: absolute; top: 3%; height: 6%; border-radius: 99px; border: 1px dashed #ffffff66; background: #0005; }
+.ed-repere-carte .r-num { left: 4%; width: 24%; }
+.ed-repere-carte .r-ico { right: 4%; width: 9%; aspect-ratio: 1; height: auto; }
+.ed-modes { display: flex; gap: 6px; align-items: center; }
+.ed-modes .btn.actif { background: #46c8ff; color: #04121a; }
+.ed-resol { font: 600 12px ui-monospace, monospace; color: #9aa; padding: 0 6px; }
+.ed-resol.faible { color: #ffb347; }
+.v-carte { position: absolute; left: 4px; bottom: 30px; font-size: 10px; padding: 1px 5px; border-radius: 6px; background: #46c8ff; color: #04121a; font-weight: 700; }

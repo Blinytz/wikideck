@@ -6,6 +6,8 @@
 const RATIO = 4 / 3;          // cadre de l'illustration des cartes
 export const EXPORT_FULL = [800, 600];
 export const EXPORT_THUMB = [213, 160];
+// format carte (63:88) : l'image occupe toute la carte, nom par-dessus
+export const EXPORT_CARTE = [630, 880];
 
 export class Editeur {
   constructor(conteneur, img, canvasApercu) {
@@ -64,6 +66,7 @@ export class Editeur {
     this._clamp();
     this.img.style.transform = `translate(${this.tx}px, ${this.ty}px) scale(${this.s})`;
     this._rendreApercu();
+    this.surRendu?.();
   }
 
   zoomer(facteur, px = this.fw / 2, py = this.fh / 2) {
@@ -120,6 +123,15 @@ export class Editeur {
     this._dessiner(c2, EXPORT_THUMB);
     return { full: await this._versBlob(c1, 0.9), thumb: await this._versBlob(c2, 0.82) };
   }
+
+  async exporterCarte() {
+    const c = document.createElement('canvas');
+    this._dessiner(c, EXPORT_CARTE);
+    return this._versBlob(c, 0.88);
+  }
+
+  // largeur réelle, en pixels de la source, de la zone cadrée
+  resolution() { return Math.round(this._rectSource().w); }
 
   // l'image source complète re-encodée (≤1600 px) pour images/originaux/
   async exporterOriginal() {

@@ -39,8 +39,10 @@
   --rx: 0deg; --ry: 0deg; --mx: 50%; --my: 50%;
   position: relative; width: var(--w); aspect-ratio: 63 / 88; flex: none;
   perspective: 1100px; -webkit-user-select: none; user-select: none; -webkit-tap-highlight-color: transparent;
-  font-size: calc(var(--w) / 260 * 16px);
+  container-type: inline-size;
 }
+/* le texte suit la largeur de la carte : 16 px pour une carte de 260 px */
+.k-in { font-size: 6.154cqw; }
 .k-in {
   position: absolute; inset: 0; transform-style: preserve-3d;
   transform: rotateX(var(--rx)) rotateY(var(--ry));
@@ -114,7 +116,7 @@
 .k.r-legendaire .k-cadre { padding: .24em; background: linear-gradient(135deg, #7a5517, #f8e1a1 25%, #c48f2c 45%, #fff4cc 60%, #9a6b1f 80%, #f8e1a1) 0 0 / 250% 250%; animation: glisse 5s linear infinite; }
 .k.r-legendaire .k-nom { background: linear-gradient(180deg, #fff6d8, #f2c66d 70%, #c99a3e); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none; filter: drop-shadow(0 2px 12px #0009); }
 
-.k.r-pantheon .k-holo { opacity: .7;
+.k.r-pantheon .k-holo { opacity: .42;
   background-image:
     radial-gradient(circle, #fff 0 .05em, transparent .08em),
     repeating-linear-gradient(115deg, #ff6b6b77 0 4%, #f2c66d77 4% 8%, #6ee7b777 8% 12%, #7dd3fc77 12% 16%, #b69cff77 16% 20%, #ff8fd677 20% 24%);
@@ -142,7 +144,7 @@
 /* pastille « Nouvelle », posée sur le bord haut */
 .k-neuve {
   position: absolute; top: 0; left: 50%; z-index: 9; translate: -50% -50%; padding: .38em .8em; border-radius: 99px;
-  background: var(--texte); color: var(--encre); font: 700 .58em var(--sans); letter-spacing: .14em; text-transform: uppercase; white-space: nowrap;
+  background: var(--texte); color: var(--encre); font: 700 max(8px, 3.6cqw) var(--sans); letter-spacing: .14em; text-transform: uppercase; white-space: nowrap;
   box-shadow: 0 6px 18px #000a; animation: pop .5s var(--ressort) both;
 }
 @keyframes pop { from { scale: 0; } }
@@ -154,10 +156,10 @@
   .k-art img { -webkit-mask: linear-gradient(#000 40%, transparent 92%); mask: linear-gradient(#000 40%, transparent 92%); }
   .k-haut { top: .6em; left: .6em; right: .6em; justify-content: flex-end; }
   .k-num, .k-col, .k-pied { display: none; }
-  .k-ico { font-size: 1.15em; background: #000a; }
+  .k-ico { font-size: 1.5em; background: #000a; }
   .k.r-commune .k-ico { display: none; }
-  .k-bas { padding: 0 .8em .8em; }
-  .k-nom { font-size: 1.85em; line-height: .98; -webkit-line-clamp: 3; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; }
+  .k-bas { padding: 0 1em 1em; }
+  .k-nom { font-size: 2.35em; line-height: .98; -webkit-line-clamp: 3; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; }
 }
 
 /* ======================= interface ======================= */

@@ -11,231 +11,14 @@
 <script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
 <link rel="stylesheet" href="../css/design.css">
 <link rel="stylesheet" href="../css/ouverture2.css">
-<style>
-  * { box-sizing: border-box; }
-  html, body { margin: 0; min-height: 100%; }
-  body { overscroll-behavior-y: none; }
-  button, input { font: inherit; color: inherit; }
-  .page { max-width: 560px; margin: 0 auto; padding: max(16px, env(safe-area-inset-top)) 16px 120px; }
-  .ecran { display: none; }
-  .ecran.actif { display: block; }
-  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: .22s; }
-  ::view-transition-group(carte) { animation-duration: .45s; animation-timing-function: cubic-bezier(.2, .9, .25, 1); }
-
-  /* chargement */
-  #attente { position: fixed; inset: 0; z-index: 200; display: grid; place-items: center; background: var(--fond); transition: opacity .4s; }
-  #attente .k-mono { width: 84px; font-size: 40px; animation: respire 1.6s ease-in-out infinite; }
-  @keyframes respire { 50% { opacity: .45; scale: .94; } }
-
-  /* en-têtes */
-  .barre { display: flex; align-items: center; justify-content: space-between; height: 44px; margin-bottom: 8px; }
-  .marque { font: 400 27px/1 var(--serif); letter-spacing: -.01em; }
-  .marque em { color: var(--accent); }
-  .solde { display: flex; align-items: center; gap: 7px; height: 36px; padding: 0 14px 0 11px; border: 0; border-radius: 99px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; cursor: pointer; }
-  .solde i { color: var(--or); font-size: 15px; }
-  .grand-titre { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; margin: 10px 0 20px; }
-  .grand-titre h1 { font: 400 46px/.95 var(--serif); letter-spacing: -.02em; }
-  .grand-titre .sous { margin-top: 8px; color: var(--texte-3); font: 500 13px var(--mono); }
-
-  /* ---------- accueil ---------- */
-  .hero { position: relative; display: flex; flex-direction: column; align-items: center; padding: 14px 0 26px; }
-  .hero::before { content: ''; position: absolute; top: -40px; width: 420px; height: 420px; border-radius: 50%; background: radial-gradient(closest-side, #e9d7a624, transparent); pointer-events: none; }
-  .paquets { position: relative; width: 176px; height: 260px; margin-bottom: 26px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
-  .mini-pk { position: absolute; inset: 0; border-radius: 12px; overflow: hidden; display: grid; place-items: center;
-    background: linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%, radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%);
-    box-shadow: 0 30px 50px -20px #000, 0 0 0 1px #ffffff14 inset; }
-  .mini-pk::before { content: ''; position: absolute; inset: 0; background-image: repeating-linear-gradient(90deg, #ffffff08 0 2px, transparent 2px 7px); }
-  .mini-pk::after { content: ''; position: absolute; left: 0; right: 0; top: 16%; border-top: 1px dashed #e9d7a650; }
-  .mini-pk .k-mono { width: 78px; font-size: 38px; }
-  .mini-pk.devant { animation: pk-moire 5s linear infinite, pk-flotte 4s ease-in-out infinite; }
-  .mini-pk.derriere { transform: rotate(7deg) translate(14px, 6px); filter: brightness(.55); }
-  .mini-pk.derriere2 { transform: rotate(-6deg) translate(-12px, 8px); filter: brightness(.4); }
-  .paquets:active .devant { scale: .97; }
-  .nb-paquets { position: absolute; top: -10px; right: -12px; z-index: 3; min-width: 30px; height: 30px; padding: 0 9px; border-radius: 99px; background: var(--texte); color: var(--encre); display: grid; place-items: center; font: 700 14px var(--mono); box-shadow: 0 6px 16px #000a; }
-  .hero .btn2 { width: 220px; }
-  .prochain { margin-top: 14px; display: flex; align-items: center; gap: 8px; color: var(--texte-3); font: 500 13px var(--mono); }
-  .prochain i { font-size: 15px; }
-
-  .bloc { background: var(--surface); border-radius: 22px; box-shadow: 0 0 0 1px var(--ligne) inset; }
-  .qdj { display: block; width: 100%; padding: 18px; border: 0; text-align: left; cursor: pointer; margin-bottom: 10px; position: relative; overflow: hidden; }
-  .qdj::after { content: ''; position: absolute; right: -40px; top: -40px; width: 160px; height: 160px; border-radius: 50%; background: radial-gradient(closest-side, #f2c66d22, transparent); }
-  .qdj .ligne1 { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-  .tag { display: inline-flex; align-items: center; gap: 6px; height: 24px; padding: 0 10px; border-radius: 99px; background: #ffffff0d; font: 600 11px var(--sans); color: var(--texte-2); }
-  .tag.or { background: #f2c66d1f; color: var(--or); }
-  .qdj .q { font: 400 25px/1.12 var(--serif); text-wrap: balance; }
-  .qdj .aller { margin-top: 14px; display: flex; align-items: center; justify-content: space-between; color: var(--texte-3); font: 500 13px var(--sans); }
-  .qdj .aller i { width: 34px; height: 34px; border-radius: 50%; background: var(--texte); color: var(--encre); display: grid; place-items: center; font-size: 16px; }
-
-  .duo { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 30px; }
-  .duo .bloc { padding: 16px; border: 0; text-align: left; cursor: pointer; display: flex; flex-direction: column; gap: 12px; }
-  .duo .haut { display: flex; justify-content: space-between; align-items: center; }
-  .duo .grand { font: 400 38px/1 var(--serif); }
-  .duo .grand small { font: 500 12px var(--mono); color: var(--texte-3); margin-left: 5px; }
-  .semaine { display: flex; gap: 5px; }
-  .semaine i { width: 16px; height: 16px; border-radius: 50%; background: #ffffff10; display: grid; place-items: center; font-style: normal; font: 600 8px var(--sans); color: var(--texte-3); }
-  .semaine i.fait { background: #ff9f5a; color: #2b1300; }
-  .semaine i.auj { box-shadow: 0 0 0 1.5px #ff9f5a; }
-  .anneau { position: relative; width: 52px; height: 52px; }
-  .anneau svg { transform: rotate(-90deg); }
-  .anneau b { position: absolute; inset: 0; display: grid; place-items: center; font: 500 12px var(--mono); }
-
-  .section-titre { display: flex; justify-content: space-between; align-items: baseline; margin: 0 0 14px; }
-  .section-titre h2 { font: 400 26px/1 var(--serif); }
-  .lien { border: 0; background: none; color: var(--texte-3); font: 500 13px var(--sans); cursor: pointer; padding: 0; }
-  .defile { display: flex; gap: 12px; overflow-x: auto; margin: 0 -16px; padding: 4px 16px 18px; scrollbar-width: none; scroll-snap-type: x mandatory; scroll-padding: 16px; }
-  .defile::-webkit-scrollbar { display: none; }
-  .defile .k { --w: 132px; cursor: pointer; scroll-snap-align: start; }
-
-  /* ---------- questions ---------- */
-  .multi.chaud { background: #f2c66d33; box-shadow: 0 0 24px -4px #f2c66d88; }
-  .multi.monte { animation: pop .5s var(--ressort); }
-  .suite { display: flex; align-items: center; gap: 16px; margin: -6px 0 18px; }
-  .suite-l { display: flex; align-items: baseline; gap: 8px; }
-  .suite-l b { font-size: 20px; }
-  .suite-barre { flex: 1; display: flex; align-items: center; gap: 10px; }
-  .suite-barre .barre2 { flex: 1; }
-  .suite-barre .barre2 > i { background: var(--or); }
-  .suite-barre span { font: 500 12px var(--mono); color: var(--texte-3); white-space: nowrap; }
-  .props { display: flex; flex-direction: column; gap: 10px; }
-  .prop { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "meta meta" "niv gain"; gap: 16px 10px; padding: 18px; border: 0; text-align: left; cursor: pointer; }
-  .prop .meta { grid-area: meta; display: flex; justify-content: space-between; align-items: center; }
-  .prop .niv { grid-area: niv; font: 400 28px/1 var(--serif); }
-  .prop .gain-prop { grid-area: gain; align-self: end; display: flex; align-items: center; gap: 6px; font: 600 14px var(--mono); color: var(--vert); }
-  .qdj-c { box-shadow: 0 0 0 1px #f2c66d55 inset, 0 0 60px -20px #f2c66d55; }
-  .multi { display: flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px; border-radius: 99px; background: #f2c66d1a; color: var(--or); font: 600 14px var(--mono); }
-  .points { display: flex; gap: 5px; margin-bottom: 16px; }
-  .points i { flex: 1; height: 4px; border-radius: 99px; background: #ffffff12; }
-  .points i.juste { background: var(--vert); }
-  .points i.faux { background: var(--rouge); }
-  .points i.ici { background: var(--texte); }
-  .q-carte { padding: 22px 20px 24px; min-height: 230px; display: flex; flex-direction: column; transition: box-shadow .3s; }
-  .q-carte .meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: auto; }
-  .diff { display: flex; gap: 3px; }
-  .diff i { width: 6px; height: 14px; border-radius: 2px; background: #ffffff18; }
-  .diff i.on { background: var(--texte-2); }
-  .q-texte { font: 400 30px/1.1 var(--serif); margin: 28px 0 0; text-wrap: balance; }
-  .q-carte.juste { box-shadow: 0 0 0 1.5px var(--vert) inset, 0 0 60px -10px #5ee0a866; }
-  .q-carte.faux { box-shadow: 0 0 0 1.5px var(--rouge) inset; animation: secoue .4s; }
-  @keyframes secoue { 20% { translate: -8px; } 45% { translate: 7px; } 70% { translate: -4px; } }
-  .q-form { position: relative; margin-top: 12px; }
-  .q-form input { width: 100%; height: 60px; border: 0; border-radius: 18px; padding: 0 70px 0 20px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; font: 500 17px var(--sans); outline: none; transition: box-shadow .2s; }
-  .q-form input:focus { box-shadow: 0 0 0 1.5px var(--texte-2) inset; }
-  .q-form button { position: absolute; right: 8px; top: 8px; width: 44px; height: 44px; border-radius: 14px; border: 0; background: var(--texte); color: var(--encre); display: grid; place-items: center; font-size: 20px; cursor: pointer; }
-  .q-form button:disabled { opacity: .25; }
-  .verdict { margin-top: 16px; display: none; align-items: center; gap: 14px; padding: 14px 16px; border-radius: 18px; background: var(--surface); }
-  .verdict.vu { display: flex; animation: monte .35s var(--ressort) both; }
-  @keyframes monte { from { opacity: 0; translate: 0 10px; } }
-  .verdict .ico { width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-size: 20px; flex: none; }
-  .verdict.ok .ico { background: #5ee0a822; color: var(--vert); }
-  .verdict.ko .ico { background: #ff6b6b22; color: var(--rouge); }
-  .verdict .txt { flex: 1; min-width: 0; }
-  .verdict .txt b { display: block; font: 400 21px/1.1 var(--serif); }
-  .verdict .txt span { font: 500 12px var(--mono); color: var(--texte-3); }
-  .gain { position: fixed; left: 50%; top: 40%; z-index: 90; translate: -50%; display: flex; align-items: center; gap: 8px; white-space: nowrap; font: 600 28px var(--mono); color: var(--or); text-shadow: 0 0 30px #f2c66d88; pointer-events: none; animation: gain 1.1s ease-out forwards; }
-  @keyframes gain { from { opacity: 0; transform: translateY(20px) scale(.8); } 20% { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-70px); } }
-
-  /* ---------- collection ---------- */
-  .recherche { position: relative; margin-bottom: 14px; }
-  .recherche i { position: absolute; left: 16px; top: 50%; translate: 0 -50%; color: var(--texte-3); font-size: 18px; }
-  .recherche input { width: 100%; height: 46px; border: 0; border-radius: 14px; padding: 0 16px 0 44px; background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; font: 500 15px var(--sans); outline: none; }
-  .puces { display: flex; gap: 6px; overflow-x: auto; margin: 0 -16px 18px; padding: 0 16px; scrollbar-width: none; }
-  .puces::-webkit-scrollbar { display: none; }
-  .puce { flex: none; height: 34px; padding: 0 14px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-2); font: 500 13px var(--sans); cursor: pointer; box-shadow: 0 0 0 1px var(--ligne) inset; }
-  .puce.actif { background: var(--texte); color: var(--encre); box-shadow: none; }
-  .tuiles-col { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .tc { position: relative; aspect-ratio: 4 / 5; border-radius: 20px; overflow: hidden; border: 0; padding: 0; cursor: pointer; background: var(--surface); text-align: left; box-shadow: 0 0 0 1px var(--ligne) inset; }
-  .tc img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-  .tc.vide img { filter: grayscale(1) brightness(.35); }
-  .tc::after { content: ''; position: absolute; inset: 0; background: linear-gradient(transparent 35%, #000d); }
-  .tc .bas { position: absolute; left: 14px; right: 14px; bottom: 14px; z-index: 2; }
-  .tc .nom { font: 400 22px/1 var(--serif); text-wrap: balance; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  .tc .meta { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
-  .tc .barre2 { flex: 1; background: #ffffff26; }
-  .tc .meta span { font: 500 11px var(--mono); color: #fffb; }
-  .tc.complete { box-shadow: 0 0 0 2px var(--or) inset; }
-  .tc.complete .barre2 > i { background: var(--or); }
-  .tc .squelette { position: absolute; inset: 0; background: linear-gradient(100deg, #ffffff05 30%, #ffffff0c 50%, #ffffff05 70%) 0 0 / 300% 100%; animation: luit 1.4s linear infinite; }
-  @keyframes luit { to { background-position: -300% 0; } }
-
-  .col-hero { position: relative; margin: -16px -16px 18px; padding: max(16px, env(safe-area-inset-top)) 16px 22px; overflow: hidden; }
-  .col-hero .flou { position: absolute; inset: -30px; background: var(--img) center / cover; filter: blur(40px) saturate(1.4) brightness(.4); z-index: -1; }
-  .col-hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(transparent 50%, var(--fond)); z-index: -1; }
-  .retour { width: 40px; height: 40px; border-radius: 50%; border: 0; background: #0006; color: var(--texte); display: grid; place-items: center; cursor: pointer; font-size: 18px; backdrop-filter: blur(10px); }
-  .col-hero h1 { font: 400 40px/.98 var(--serif); letter-spacing: -.02em; margin: 26px 0 12px; text-wrap: balance; }
-  .col-hero .ligne-prog { display: flex; align-items: center; gap: 12px; }
-  .col-hero .barre2 { flex: 1; }
-  .rar-detail { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
-  .rar-detail span { display: inline-flex; align-items: center; gap: 5px; height: 26px; padding: 0 10px; border-radius: 99px; background: #0005; font: 500 11px var(--mono); color: var(--texte-2); }
-  .rar-detail span i { font-size: 12px; }
-  .segment { position: sticky; top: 8px; z-index: 10; display: grid; grid-template-columns: repeat(3, 1fr); padding: 4px; border-radius: 99px; background: #15151be6; backdrop-filter: blur(16px); box-shadow: 0 0 0 1px var(--ligne) inset; margin-bottom: 16px; }
-  .segment button { height: 34px; border: 0; border-radius: 99px; background: none; color: var(--texte-3); font: 600 13px var(--sans); cursor: pointer; }
-  .segment button.actif { background: var(--texte); color: var(--encre); }
-  .grille { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-  .grille .k { --w: calc((min(100vw, 560px) - 52px) / 3); cursor: pointer; }
-  .absente { position: relative; aspect-ratio: 63 / 88; border-radius: calc((min(100vw, 560px) - 52px) / 3 * .055); background: var(--surface); box-shadow: 0 0 0 1px var(--ligne) inset; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; color: var(--texte-3); }
-  .absente b { font: 500 13px var(--mono); }
-  .absente i { font-size: 14px; opacity: .6; }
-  .quantite { position: absolute; left: 50%; bottom: -8px; translate: -50%; z-index: 6; font: 700 10px var(--mono); background: var(--texte); color: var(--encre); padding: 3px 8px; border-radius: 99px; }
-  .cellule { position: relative; }
-
-  /* ---------- fiche ---------- */
-  .fiche { position: fixed; inset: 0; z-index: 60; overflow-y: auto; overscroll-behavior: contain; background: var(--fond); }
-  .fiche .flou { position: fixed; inset: -60px; background: var(--img) center / cover; filter: blur(60px) saturate(1.5) brightness(.35); transition: background .3s; }
-  .fiche .barre-f { position: sticky; top: 0; z-index: 5; display: flex; justify-content: space-between; align-items: center; padding: max(14px, env(safe-area-inset-top)) 16px 10px; }
-  .fiche .pos { font: 500 12px var(--mono); color: var(--texte-2); }
-  .fiche .scene { position: relative; display: flex; justify-content: center; padding: 8px 0 26px; touch-action: pan-y; }
-  .fiche .scene .k { --w: min(80vw, 340px); view-transition-name: carte; }
-  .fiche .scene .k.sort-g { animation: sort-g .22s ease-in forwards; }
-  .fiche .scene .k.sort-d { animation: sort-d .22s ease-in forwards; }
-  .fiche .scene .k.entre-g { animation: entre-g .35s var(--doux); }
-  .fiche .scene .k.entre-d { animation: entre-d .35s var(--doux); }
-  @keyframes sort-g { to { translate: -60%; rotate: -8deg; opacity: 0; } }
-  @keyframes sort-d { to { translate: 60%; rotate: 8deg; opacity: 0; } }
-  @keyframes entre-g { from { translate: 50%; rotate: 6deg; opacity: 0; } }
-  @keyframes entre-d { from { translate: -50%; rotate: -6deg; opacity: 0; } }
-  .feuille { position: relative; max-width: 560px; margin: 0 auto; padding: 22px 18px calc(30px + env(safe-area-inset-bottom)); border-radius: 26px 26px 0 0; background: #121217f2; box-shadow: 0 -1px 0 var(--ligne); min-height: 50vh; }
-  .feuille .poignee { width: 36px; height: 4px; border-radius: 99px; background: #ffffff22; margin: -8px auto 18px; }
-  .feuille .rar { display: inline-flex; align-items: center; gap: 6px; font: 600 11px var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--rar); }
-  .feuille h2 { font: 400 34px/1 var(--serif); margin: 8px 0 4px !important; }
-  .feuille .col { color: var(--texte-3); font: 500 13px var(--sans); }
-  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 20px 0; }
-  .stats div { padding: 12px; border-radius: 16px; background: #ffffff08; }
-  .stats b { display: block; font: 500 17px var(--mono); }
-  .stats span { font: 600 10px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--texte-3); }
-  .feuille p { color: var(--texte-2); font-size: 15px; line-height: 1.6; margin: 0 0 22px; }
-  .feuille .actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .feuille .actions .seul { grid-column: 1 / -1; }
-
-  /* ---------- boutique ---------- */
-  .offres { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
-  .offre { display: grid; grid-template-columns: 62px 1fr auto; gap: 14px; align-items: center; padding: 14px; }
-  .offre .pk-ico { width: 62px; height: 86px; border-radius: 8px; display: grid; place-items: center; font-size: 26px; color: var(--accent);
-    background: linear-gradient(115deg, transparent 30%, #ffffff14 45%, transparent 60%), radial-gradient(90% 60% at 50% 45%, #2b2835, #141218 75%); box-shadow: 0 0 0 1px #ffffff14 inset, 0 10px 20px -8px #000; }
-  .offre h3 { font: 400 22px/1.05 var(--serif); }
-  .offre .contenu { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
-  .offre .btn2 { height: 40px; padding: 0 14px; font: 600 14px var(--mono); gap: 6px; }
-  .offre .btn2 i { color: #a77a1e; }
-  .vente { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 18px; }
-  .vente b { font: 400 24px/1 var(--serif); display: block; }
-  .vente span { font: 500 12px var(--mono); color: var(--texte-3); }
-
-  /* ---------- plus ---------- */
-  .groupe { margin-bottom: 14px; overflow: hidden; }
-  .rangee { display: flex; align-items: center; gap: 14px; width: 100%; padding: 15px 16px; border: 0; background: none; text-align: left; cursor: pointer; }
-  .rangee + .rangee { box-shadow: 0 -1px 0 var(--ligne); }
-  .rangee .ic { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; font-size: 18px; background: #ffffff0d; }
-  .rangee .lib { flex: 1; font: 500 15px var(--sans); }
-  .rangee .val { font: 500 13px var(--mono); color: var(--texte-3); }
-  .rangee > i { color: var(--texte-3); }
-
-  /* outil d'essai : forcer la meilleure carte du paquet */
-  .essai { display: flex; gap: 4px; justify-content: center; margin: 4px 0 26px; opacity: .55; }
-  .essai button { width: 32px; height: 28px; border-radius: 99px; border: 0; background: var(--surface); color: var(--texte-3); cursor: pointer; font-size: 14px; }
-  .essai button.actif { color: var(--encre); background: var(--accent); }
-</style>
+<link rel="stylesheet" href="../css/ecrans2.css">
 </head>
-<body class="v2">
-<div id="attente"><div class="k-mono">W</div></div>
+<body class="v2" data-ecran="accueil">
+<div id="attente">
+  <div class="sceau"><svg viewBox="0 0 112 112"><circle cx="56" cy="56" r="54"/></svg><span class="w">W</span></div>
+  <div class="nom">Wiki<em>Deck</em></div>
+</div>
+<div id="ambiance"></div>
 
 <div class="page">
   <section class="ecran actif" id="accueil"></section>
@@ -246,7 +29,7 @@
 </div>
 
 <nav class="onglets2" id="onglets">
-  <button data-aller="accueil" class="actif"><i class="ph ph-house"></i><span>Accueil</span></button>
+  <button data-aller="accueil" class="actif"><i class="ph-fill ph-house"></i><span>Accueil</span></button>
   <button data-aller="questions"><i class="ph ph-lightbulb"></i><span>Questions</span><b class="pastille"></b></button>
   <button data-aller="collection"><i class="ph ph-cards-three"></i><span>Collection</span></button>
   <button data-aller="boutique"><i class="ph ph-storefront"></i><span>Boutique</span></button>
@@ -256,49 +39,89 @@
 <script type="module">
 import { htmlCarte, brancherInclinaison, RARETES, NOMS, ICONES, esc } from '../js/v2/carte.js';
 import { ouvrirPaquet } from '../js/v2/ouverture.js';
+import { son, sonActif, activerSon } from '../js/v2/son.js';
 
 const BASE = '../';
 const $ = (s, r = document) => r.querySelector(s);
-const vibrer = (ms = 8) => navigator.vibrate?.(ms);
-const fr = (n) => n.toLocaleString('fr-FR');
-const transition = (fn) => (document.startViewTransition ? document.startViewTransition(fn) : fn());
+const vibrer = (ms = 8) => { try { if (navigator.userActivation?.hasBeenActive !== false) navigator.vibrate?.(ms); } catch {} };
+const fr = (n) => Math.round(n).toLocaleString('fr-FR');
+const transition = (fn) => (document.startViewTransition ? document.startViewTransition(fn) : (fn(), { finished: Promise.resolve() }));
 const REVENTE = { commune: 150, rare: 300, epique: 750, mythique: 1500, legendaire: 4500, pantheon: 15000 };
+const RANG = (r) => RARETES.indexOf(r);
+
+// ---------- une teinte par thème : collections comme questions ----------
+const TEINTES = [
+  [/gastro|cuisine|aliment|boisson/i, '#f0876a', 'ph-fork-knife'],
+  [/relig|mytho|croyance/i, '#b79cff', 'ph-flower-lotus'],
+  [/hist|politi|guerre/i, '#e5766a', 'ph-crown-simple'],
+  [/scien|tech|math|physi|chimi|m[ée]dec|astro|invent/i, '#6ea8ff', 'ph-atom'],
+  [/nature|anima|botan|zoo|oiseau/i, '#66d19e', 'ph-leaf'],
+  [/g[ée]o|pays|ville|capital/i, '#4cc9c0', 'ph-globe-hemisphere-west'],
+  [/[ée]cran|jeu|cin[ée]|t[ée]l[ée]|film|s[ée]rie|bande/i, '#ff7fc3', 'ph-film-slate'],
+  [/art|peint|archi|musi|sculpt|op[ée]ra/i, '#f0b25a', 'ph-paint-brush-broad'],
+  [/sport/i, '#ff9b52', 'ph-soccer-ball'],
+  [/lettre|litt[ée]r|pens[ée]e|philo|langu/i, '#d8c49a', 'ph-feather'],
+];
+const teinte = (t = '') => { const m = TEINTES.find(([r]) => r.test(t)); return m ? { c: m[1], ic: m[2] } : { c: '#a7a4ae', ic: 'ph-circles-four' }; };
+
+// ---------- mouvement : cascade, compteurs ----------
+function cascade(z) { [...z.children].forEach((el, i) => { el.classList.add('entre'); el.style.setProperty('--i', i); }); }
+const derniers = new Map();
+function compter(el, cle, vers, dur = 900) {
+  if (!el) return;
+  const de = derniers.get(cle) ?? 0; derniers.set(cle, vers);
+  const t0 = performance.now(), suffixe = el.dataset.suffixe || '';
+  const pas = (t) => { const p = Math.min(1, (t - t0) / dur), e = 1 - (1 - p) ** 3; el.innerHTML = fr(de + (vers - de) * e) + suffixe; if (p < 1) requestAnimationFrame(pas); };
+  requestAnimationFrame(pas);
+}
+function toast(ic, txt) { const t = document.createElement('div'); t.className = 'toast'; t.innerHTML = `<i class="ph-fill ${ic}"></i>${txt}`; document.body.append(t); setTimeout(() => t.remove(), 2500); }
 
 // ---------- données réelles, possession simulée mais stable ----------
 const hash = (s) => { let h = 2166136261; for (const ch of s) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
 const TAUX = { commune: .55, rare: .4, epique: .25, mythique: .12, legendaire: .06, pantheon: .03 };
 const possede = new Map();
+let indexNoms = null;
+const progresAttente = (p) => $('#attente svg')?.style.setProperty('--p', p);
+const debutAttente = performance.now();
 const idx = await (await fetch(BASE + 'data/collections.json')).json();
-const cols = idx.collections.map((e) => ({ ...e, cartes: null }));
+const cols = idx.collections.map((e) => ({ ...e, cartes: null, t: teinte(e.theme) }));
 async function charger(col) {
   if (col.cartes) return col;
-  col.cartes = (await (await fetch(BASE + col.fichier)).json()).cartes.map((c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl }));
+  col.cartes = (await (await fetch(BASE + col.fichier)).json()).cartes.map((c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl, total: col.nbCartes }));
   col.parId = new Map(col.cartes.map((c) => [c.id, c]));
   for (const c of col.cartes) { const h = hash(c.id); if (h < TAUX[c.rarete]) possede.set(c.id, 1 + (hash(c.id + 'x') < .25 ? 1 + Math.floor(hash(c.id + 'y') * 3) : 0)); }
+  indexNoms = null;
   return col;
 }
-// une vingtaine de collections pour démarrer, le reste en arrière-plan
 const melange = [...cols].sort((a, b) => hash(a.slug) - hash(b.slug));
-await Promise.all(melange.slice(0, 20).map(charger));
-(async () => { for (let i = 20; i < melange.length; i += 8) await Promise.all(melange.slice(i, i + 8).map(charger)); if ($('#collection.actif')) rendreCollection(); })();
+let n0 = 0;
+await Promise.all(melange.slice(0, 20).map((c) => charger(c).then(() => progresAttente(++n0 / 20))));
+(async () => { for (let i = 20; i < melange.length; i += 8) await Promise.all(melange.slice(i, i + 8).map(charger)); if (ecran === 'collection' && !vueCol) rendreCollection(); })();
 const chargees = () => cols.filter((c) => c.cartes);
 const toutes = () => chargees().flatMap((c) => c.cartes);
 const colDe = (carte) => cols.find((c) => c.parId?.has(carte.id));
 const hasard = (t) => t[Math.floor(Math.random() * t.length)];
+const ARTICLES = /^(le|la|les|l|un|une|des|du|de|d|au|aux|the|a|an)\s+/;
+const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'`]/g, ' ').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim().replace(ARTICLES, '').replace(ARTICLES, '');
+function carteLiee(reponse) {
+  if (!indexNoms) { indexNoms = new Map(); for (const c of toutes()) for (const n of [c.nom, c.titrePage, (c.titrePage || '').replace(/\s*\([^)]*\)/g, '')]) if (n) indexNoms.set(norm(n), c); }
+  for (const r of [reponse, reponse.replace(/\s*\([^)]*\)/g, '')]) { const c = indexNoms.get(norm(r)); if (c) return c; }
+  return null;
+}
 
 // ---------- navigation ----------
 let ecran = 'accueil';
 const RENDUS = { accueil: rendreAccueil, questions: rendreQuestions, collection: rendreCollection, boutique: rendreBoutique, plus: rendrePlus };
 function aller(nom) {
   if (nom === ecran && nom !== 'collection') return;
-  vibrer();
+  vibrer(); son('onglet');
   transition(() => {
-    ecran = nom;
+    ecran = nom; document.body.dataset.ecran = nom;
     document.querySelectorAll('.ecran').forEach((e) => e.classList.toggle('actif', e.id === nom));
     document.querySelectorAll('#onglets button').forEach((b) => {
-      const a = b.dataset.aller === nom;
+      const a = b.dataset.aller === nom, i = b.querySelector('i');
       b.classList.toggle('actif', a);
-      b.querySelector('i').className = `${a ? 'ph-fill' : 'ph'} ${b.querySelector('i').className.split(' ').find((x) => x.startsWith('ph-') && x !== 'ph-fill')}`;
+      i.className = `${a ? 'ph-fill' : 'ph'} ${i.className.split(' ').find((x) => x.startsWith('ph-') && x !== 'ph-fill')}`;
     });
     if (nom === 'collection') vueCol = null;
     RENDUS[nom]();
@@ -306,75 +129,110 @@ function aller(nom) {
   });
 }
 document.addEventListener('click', (e) => { const b = e.target.closest('[data-aller]'); if (b) aller(b.dataset.aller); });
-const barreSolde = () => `<div class="barre"><div class="marque">Wiki<em>Deck</em></div><button class="solde pressable" data-aller="boutique"><i class="ph-fill ph-diamond"></i><span class="chiffre" id="solde">${fr(solde)}</span></button></div>`;
 let solde = 12480;
-function crediter(n) {
-  solde += n;
-  document.querySelectorAll('#solde').forEach((s) => (s.textContent = fr(solde)));
-  const g = document.createElement('div'); g.className = 'gain'; g.textContent = `+${fr(n)} ◆`;
-  document.body.append(g); setTimeout(() => g.remove(), 1200);
-}
+const htmlSolde = () => `<button class="solde pressable" data-aller="boutique"><i class="ph-fill ph-diamond"></i><span class="chiffre solde-v">${fr(solde)}</span></button>`;
+function majSolde(delta) { const avant = solde; solde += delta; document.querySelectorAll('.solde-v').forEach((s) => { derniers.set('solde', avant); compter(s, 'solde', solde, 700); }); }
+const fmtTemps = (s) => `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor(s / 60) % 60).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
 
 // ---------- accueil ----------
+const DUREE = 12 * 3600e3;
 let paquets = 3, tete = 'auto';
-const historique = [];
 let fin = Date.now() + 4 * 3600e3 + 12 * 60e3;
+const historique = [];
+let vitrine = null;
+const RAYON = 134, CIRC = 2 * Math.PI * RAYON;
+function vedetteAmbiance() {
+  const c = [...historique].sort((a, b) => RANG(b.rarete) - RANG(a.rarete))[0];
+  if (c) $('#ambiance').style.setProperty('--img', `url('${c.imageUrl}')`);
+}
+function carteDuJour() {
+  const pool = toutes().filter((c) => RANG(c.rarete) >= 2 && (c.description || '').length > 120);
+  return pool[Math.floor(hash(new Date().toDateString() + 'cdj') * pool.length)];
+}
+const phrase = (d) => { const s = (d || '').replace(/\s*\([^)]*\)/g, '').replace(/\s+/g, ' ').trim(); const m = s.match(/^.{60,260}?[.!?](\s|$)/); return m ? m[0].trim() : s.slice(0, 220) + '…'; };
 function rendreAccueil() {
   const z = $('#accueil');
-  const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length;
-  const pct = n / Math.max(1, tous.length);
+  const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length, pct = n / Math.max(1, tous.length);
   if (!historique.length) historique.push(...tous.filter((c) => possede.has(c.id)).sort((a, b) => hash(a.id + 'h') - hash(b.id + 'h')).slice(0, 10));
-  z.innerHTML = `${barreSolde()}
-    <div class="hero">
-      <div class="paquets" id="paquets">
-        ${paquets > 2 ? '<div class="mini-pk derriere2"></div>' : ''}${paquets > 1 ? '<div class="mini-pk derriere"></div>' : ''}
-        <div class="mini-pk devant"><div class="k-mono">W</div></div>
-        ${paquets > 1 ? `<span class="nb-paquets">${paquets}</span>` : ''}
+  vitrine ??= tous.filter((c) => possede.has(c.id)).sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || b.pv - a.pv).slice(0, 2).map((c) => c.id);
+  const cdj = carteDuJour(), tc = teinte(colDe(cdj)?.theme), tq = teinte(QDJ.theme);
+  const vit = vitrine.map((id) => toutes().find((c) => c.id === id)).filter(Boolean);
+  vedetteAmbiance();
+  z.innerHTML = `<div class="barre"><div class="marque">Wiki<em>Deck</em></div>${htmlSolde()}</div>
+    <div class="hero" id="hero">
+      <div class="orbite">
+        <svg viewBox="0 0 280 280"><defs><linearGradient id="degrade-or" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3c4"/><stop offset="1" stop-color="#e2b35a"/></linearGradient></defs>
+          <circle class="fond-anneau" cx="140" cy="140" r="${RAYON}"/><circle class="arc" id="arc" cx="140" cy="140" r="${RAYON}" stroke-dasharray="${CIRC}" stroke-dashoffset="${CIRC}"/><circle class="tete" id="tete-arc" r="4.5" cx="${140 + RAYON}" cy="140"/></svg>
+        <div class="paquets${paquets ? '' : ' aucun'}" id="paquets">
+          ${paquets > 2 ? '<div class="mini-pk derriere2"></div>' : ''}${paquets > 1 ? '<div class="mini-pk derriere"></div>' : ''}
+          <div class="mini-pk devant"><div class="k-mono">W</div></div>
+          ${paquets > 1 ? `<span class="nb-paquets">${paquets}</span>` : ''}
+        </div>
       </div>
-      <button class="btn2 or" id="ouvrir" ${paquets ? '' : 'disabled'}><i class="ph-bold ph-cards"></i>Ouvrir</button>
-      <div class="prochain"><i class="ph ph-timer"></i><span id="minuteur"></span></div>
+      ${paquets ? `<button class="btn2 or" id="ouvrir"><i class="ph-bold ph-cards"></i>Ouvrir</button>` : ''}
+      <div class="prochain"><i class="ph-fill ph-timer"></i><span id="minuteur"></span></div>
     </div>
     <div class="essai" id="essai">${['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === tete ? 'actif' : ''}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('')}</div>
 
-    <button class="bloc qdj pressable" data-aller="questions">
+    <button class="bloc qdj pressable" data-aller="questions" style="--t:${tq.c}">
       <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag"><i class="ph-bold ph-timer"></i>−3 h</span></div>
       <div class="q">${esc(QDJ.question)}</div>
-      <div class="aller"><span>${esc(QDJ.theme)}</span><i class="ph-bold ph-arrow-right"></i></div>
+      <div class="aller"><span class="tag teinte"><i class="ph-fill ${tq.ic}"></i>${esc(QDJ.theme)}</span><i class="ph-bold ph-arrow-right"></i></div>
+    </button>
+    <button class="bloc carte-jour pressable" id="cdj" style="--t:${tc.c}">
+      ${htmlCarte(cdj)}
+      <div class="droite"><span class="surtitre">Carte du jour</span><h3>${esc(cdj.nom)}</h3><p>${esc(phrase(cdj.description))}</p></div>
     </button>
     <div class="duo">
       <button class="bloc pressable">
         <div class="haut"><span class="surtitre">Série</span><i class="ph-fill ph-fire" style="color:#ff9f5a;font-size:20px"></i></div>
-        <div class="grand">12<small>jours</small></div>
-        <div class="semaine">${['L', 'M', 'M', 'J', 'V', 'S', 'D'].map((j, i) => `<i class="${i < 1 ? 'fait' : i === 1 ? 'auj' : ''}">${j}</i>`).join('')}</div>
+        <div class="grand"><span id="v-serie">12</span><small>jours</small></div>
+        <div class="semaine">${['L', 'M', 'M', 'J', 'V', 'S', 'D'].map((j, i) => `<i class="${i < 2 ? 'fait' : i === 2 ? 'auj' : ''}">${j}</i>`).join('')}</div>
       </button>
       <button class="bloc pressable" data-aller="collection">
         <div class="haut"><span class="surtitre">Collection</span></div>
         <div style="display:flex;align-items:center;justify-content:space-between">
-          <div class="grand">${Math.round(pct * 100)}<small>%</small></div>
-          <div class="anneau"><svg width="52" height="52"><circle cx="26" cy="26" r="22" fill="none" stroke="#ffffff14" stroke-width="5"/><circle cx="26" cy="26" r="22" fill="none" stroke="#f3f1ec" stroke-width="5" stroke-linecap="round" stroke-dasharray="${2 * Math.PI * 22}" stroke-dashoffset="${2 * Math.PI * 22 * (1 - pct)}"/></svg></div>
+          <div class="grand"><span id="v-pct">0</span><small>%</small></div>
+          <div class="anneau"><svg width="52" height="52"><circle cx="26" cy="26" r="22" fill="none" stroke="#ffffff14" stroke-width="5"/><circle class="v" id="anneau-col" cx="26" cy="26" r="22" fill="none" stroke="#f3f1ec" stroke-width="5" stroke-linecap="round" stroke-dasharray="${2 * Math.PI * 22}" stroke-dashoffset="${2 * Math.PI * 22}"/></svg></div>
         </div>
-        <span class="chiffre" style="font-size:12px;color:var(--texte-3)">${fr(n)} cartes</span>
+        <span class="chiffre" style="font-size:12px;color:var(--texte-3)"><span id="v-n">0</span> cartes</span>
       </button>
     </div>
-    <div class="section-titre"><h2>Dernières cartes</h2><button class="lien">Historique</button></div>
-    <div class="defile" id="dernieres">${historique.map((c) => htmlCarte(c)).join('')}</div>`;
-
-  const minuteur = () => { if (fin <= Date.now()) { while (fin <= Date.now()) { paquets++; fin += 12 * 3600e3; } if (ecran === 'accueil') rendreAccueil(); return; } const s = Math.max(0, Math.round((fin - Date.now()) / 1000)); const m = $('#minuteur'); if (m) m.textContent = `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor(s / 60) % 60).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`; };
-  minuteur(); clearInterval(window.__min); window.__min = setInterval(minuteur, 1000);
+    <div class="section-titre"><h2>Vitrine</h2><span class="surtitre">${vit.length}/3</span></div>
+    <div class="vitrine" id="vitrine">${[0, 1, 2].map((i) => (vit[i] ? htmlCarte(vit[i]) : `<button class="case-vide" data-aller="collection"><i class="ph ph-push-pin"></i></button>`)).join('')}</div>
+    ${historique.length ? `<div class="section-titre"><h2>Dernières cartes</h2><button class="lien">Historique</button></div>
+    <div class="defile" id="dernieres">${historique.map((c) => htmlCarte(c)).join('')}</div>` : ''}`;
+  cascade(z);
+  requestAnimationFrame(() => {
+    compter($('#v-pct'), 'pct', Math.round(pct * 100)); compter($('#v-n'), 'n', n);
+    $('#anneau-col').style.strokeDashoffset = 2 * Math.PI * 22 * (1 - pct);
+  });
+  majMinuteur(); clearInterval(window.__min); window.__min = setInterval(majMinuteur, 1000);
   $('#essai').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; tete = b.dataset.r; z.querySelectorAll('#essai button').forEach((x) => x.classList.toggle('actif', x === b)); });
-  $('#ouvrir').addEventListener('click', lancer);
-  $('#paquets').addEventListener('click', lancer);
-  z.querySelectorAll('#dernieres .k').forEach((el, i) => { el.classList.add('pressable'); el.addEventListener('click', () => fiche(historique, i, el)); });
+  $('#ouvrir')?.addEventListener('click', lancer);
+  const pk = $('#paquets'), hero = $('.orbite');
+  pk.addEventListener('click', lancer);
+  hero.addEventListener('pointermove', (e) => { const r = pk.getBoundingClientRect(); pk.classList.add('tilt'); pk.style.setProperty('--ry', `${((e.clientX - r.left) / r.width - .5) * 26}deg`); pk.style.setProperty('--rx', `${(.5 - (e.clientY - r.top) / r.height) * 26}deg`); });
+  hero.addEventListener('pointerleave', () => { pk.classList.remove('tilt'); pk.style.setProperty('--rx', '0deg'); pk.style.setProperty('--ry', '0deg'); });
+  const lier = (sel, liste) => z.querySelectorAll(sel).forEach((el) => { el.classList.add('pressable'); el.addEventListener('click', (e) => { e.stopPropagation(); fiche(liste, liste.findIndex((c) => c.id === el.dataset.id), el); }); });
+  lier('#dernieres .k', historique); lier('#vitrine .k', vit);
+  $('#cdj').addEventListener('click', () => fiche([cdj], 0, $('#cdj .k')));
 }
-
+function majMinuteur() {
+  if (fin <= Date.now()) { while (fin <= Date.now()) { paquets++; fin += DUREE; } toast('ph-cards', 'Nouveau paquet'); son('palier'); if (ecran === 'accueil') rendreAccueil(); return; }
+  const reste = fin - Date.now(), m = $('#minuteur'); if (!m) return;
+  m.textContent = fmtTemps(Math.round(reste / 1000));
+  const p = 1 - reste / DUREE, a = $('#arc'), t = $('#tete-arc');
+  if (a) a.style.strokeDashoffset = CIRC * (1 - p);
+  if (t) { const ang = p * 2 * Math.PI; t.setAttribute('cx', 140 + RAYON * Math.cos(ang)); t.setAttribute('cy', 140 + RAYON * Math.sin(ang)); }
+}
 function tirer() {
-  const tous = toutes();
-  const par = Object.groupBy(tous, (c) => c.rarete);
+  const par = Object.groupBy(toutes(), (c) => c.rarete);
   const t = ['commune', 'commune', 'commune', 'commune', Math.random() < .5 ? 'commune' : 'rare', 'rare'];
   let haut = tete;
   if (haut === 'auto') { const x = Math.random(); haut = x < .005 ? 'pantheon' : x < .03 ? 'legendaire' : x < .1 ? 'mythique' : x < .3 ? 'epique' : 'rare'; }
   t.push(haut);
-  return t.map((r) => { const c = hasard(par[r] || par.commune); return { carte: { ...c, total: colDe(c)?.nbCartes }, neuve: !possede.has(c.id) }; });
+  return t.map((r) => { const c = hasard(par[r] || par.commune); return { carte: c, neuve: !possede.has(c.id) }; });
 }
 async function lancer() {
   if (!paquets) return;
@@ -402,7 +260,7 @@ const ECHANTILLON = [
   ['Quel est le plus long fleuve de France ?', 'Loire', 'Géographie', 1],
   ['Qui a formulé la théorie de la relativité générale ?', 'Albert Einstein', 'Sciences', 1],
   ['Quel peintre s’est coupé une partie de l’oreille ?', 'Vincent van Gogh', 'Arts', 1],
-  ['Quelle reine d’Égypte s’allia à Marc Antoine ?', 'Cléopâtre', 'Histoire', 1],
+  ['Quelle reine d’Égypte s’allia à Marc Antoine ?', 'Cléopâtre VII', 'Histoire', 1],
   ['Quel gaz les plantes absorbent-elles pour la photosynthèse ?', 'Dioxyde de carbone', 'Sciences', 2],
   ['Quel architecte a conçu la Sagrada Família ?', 'Antoni Gaudí', 'Arts', 2],
   ['Quel est le plus haut sommet d’Afrique ?', 'Kilimandjaro', 'Géographie', 2],
@@ -417,13 +275,13 @@ const ECHANTILLON = [
   ['Quel pays a pour capitale Oulan-Bator ?', 'Mongolie', 'Géographie', 2],
   ['Qui a peint le plafond de la chapelle Sixtine ?', 'Michel-Ange', 'Arts', 1],
   ['Quel savant a découvert la pénicilline ?', 'Alexander Fleming', 'Sciences', 2],
-  ['Quelle bataille de 1815 marqua la chute de Napoléon ?', 'Waterloo', 'Histoire', 1],
+  ['Quelle bataille de 1815 marqua la chute de Napoléon ?', 'Bataille de Waterloo', 'Histoire', 1],
   ['Quel est l’os le plus long du corps humain ?', 'Fémur', 'Sciences', 2],
   ['Quel écrivain russe a écrit Crime et Châtiment ?', 'Fiodor Dostoïevski', 'Littérature', 3],
   ['Quel dieu grec porte un trident ?', 'Poséidon', 'Mythologie', 1],
-  ['Quel détroit sépare l’Europe de l’Afrique ?', 'Gibraltar', 'Géographie', 1],
+  ['Quel détroit sépare l’Europe de l’Afrique ?', 'Détroit de Gibraltar', 'Géographie', 1],
   ['Quel physicien a énoncé le principe d’incertitude ?', 'Werner Heisenberg', 'Sciences', 4],
-  ['Quelle dynastie régnait en Chine quand fut bâtie la Cité interdite ?', 'Ming', 'Histoire', 4],
+  ['Quelle dynastie régnait en Chine quand fut bâtie la Cité interdite ?', 'Dynastie Ming', 'Histoire', 4],
   ['Quel mathématicien grec a donné son nom au théorème sur le triangle rectangle ?', 'Pythagore', 'Sciences', 1],
 ].map(([q, r, th, d], i) => ({ id: 'e' + i, question: q, reponse: r, variantes: [], theme: th, difficulte: d }));
 // sur l'appareil où le vrai jeu est connecté, on reprend sa copie des vraies questions
@@ -432,9 +290,8 @@ try { const c = JSON.parse(localStorage.getItem('wikideck-questions-cache') || '
 const NIVEAUX = ['', 'Débutant', 'Confirmé', 'Expert', 'Nobel', 'Omniscient'];
 const GAINS = [0, 6, 12, 24, 45, 90];
 const PALIERS = [[3, 1.5], [5, 2], [10, 3], [20, 4]];
+const FLAMMES = { 1: ['#6b6873', 0], 1.5: ['#ff9f5a', 6], 2: ['#ff7a3d', 10], 3: ['#f2c66d', 14], 4: ['#9fd8ff', 20] };
 const multiplicateur = (s) => [...PALIERS].reverse().find(([n]) => s >= n)?.[1] ?? 1;
-const ARTICLES = /^(le|la|les|l|un|une|des|du|de|d|au|aux|the|a|an)\s+/;
-const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'`]/g, ' ').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim().replace(ARTICLES, '').replace(ARTICLES, '');
 const lev = (a, b) => { let p = Array.from({ length: b.length + 1 }, (_, j) => j); for (let i = 1; i <= a.length; i++) { const c = [i]; for (let j = 1; j <= b.length; j++) c[j] = Math.min(p[j] + 1, c[j - 1] + 1, p[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); p = c; } return p[b.length]; };
 function correcte(qu, saisie) {
   const s = norm(saisie); if (!s) return false;
@@ -454,14 +311,13 @@ function tirerPropositions() {
   if (out.length < 3) { qs.vues = new Set([QDJ.id]); return tirerPropositions(); }
   return out;
 }
-function htmlMulti(classe = '') {
-  const m = multiplicateur(qs.suite);
-  return `<span class="multi${m > 1 ? ' chaud' : ''}${classe}"><i class="ph-fill ph-lightning"></i>${fmtX(m)}</span>`;
-}
+const htmlMulti = (classe = '') => { const m = multiplicateur(qs.suite); return `<span class="multi${m > 1 ? ' chaud' : ''}${classe}"><i class="ph-fill ph-lightning"></i>${fmtX(m)}</span>`; };
 function htmlSuite() {
-  const base = [...PALIERS].reverse().find(([n]) => qs.suite >= n)?.[0] ?? 0;
-  const pp = PALIERS.find(([n]) => n > qs.suite);
-  return `<div class="suite"><div class="suite-l"><span class="surtitre">Suite</span><b class="chiffre">${qs.suite}</b></div>
+  const m = multiplicateur(qs.suite), [fc, glow] = FLAMMES[m];
+  const base = [...PALIERS].reverse().find(([n]) => qs.suite >= n)?.[0] ?? 0, pp = PALIERS.find(([n]) => n > qs.suite);
+  return `<div class="suite" style="--fc:${fc};--glow:${glow}px">
+    <div class="flamme${qs.suite ? '' : ' eteinte'}"><i class="ph-fill ph-fire" style="--h:${Math.min(40, 22 + qs.suite * 1.2)}px"></i></div>
+    <div class="suite-l"><b>${qs.suite}</b></div>
     <div class="suite-barre">${pp ? `<div class="barre2"><i style="width:${(qs.suite - base) / (pp[0] - base) * 100}%"></i></div><span>${fmtX(pp[1])} à ${pp[0]}</span>` : '<span>Maximum</span>'}</div></div>`;
 }
 const enteteQuestions = () => `<div class="grand-titre"><div><h1>Questions</h1></div>${htmlMulti()}</div>${htmlSuite()}`;
@@ -472,42 +328,52 @@ function rendreQuestions() {
     qs.props ??= tirerPropositions();
     const m = multiplicateur(qs.suite);
     z.innerHTML = `${enteteQuestions()}
-      <div class="props">${qs.props.map((p, i) => `<button class="bloc prop pressable" data-i="${i}">
-        <div class="meta"><span class="tag">${esc(p.theme)}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= p.difficulte ? 'on' : ''}"></i>`).join('')}</span></div>
+      <div class="props">${qs.props.map((p, i) => { const t = teinte(p.theme); return `<button class="bloc prop pressable" data-i="${i}" style="--t:${t.c}">
+        <div class="meta"><span class="tag teinte"><i class="ph-fill ${t.ic}"></i>${esc(p.theme)}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= p.difficulte ? 'on' : ''}"></i>`).join('')}</span></div>
         <div class="niv">${NIVEAUX[p.difficulte]}</div>
-        <div class="gain-prop"><i class="ph-bold ph-timer"></i>−${fmtMin(GAINS[p.difficulte] * m)}</div></button>`).join('')}</div>`;
-    z.querySelectorAll('.prop').forEach((b) => b.addEventListener('click', () => { vibrer(); transition(() => { qs.enCours = qs.props[b.dataset.i]; qs.props = null; qs.vues.add(qs.enCours.id); rendreQuestions(); }); }));
+        <div class="gain-prop"><i class="ph-bold ph-timer"></i>−${fmtMin(GAINS[p.difficulte] * m)}</div></button>`; }).join('')}</div>`;
+    cascade($('.props', z));
+    z.querySelectorAll('.prop').forEach((b) => b.addEventListener('click', () => { vibrer(); son('tap'); transition(() => { qs.enCours = qs.props[b.dataset.i]; qs.props = null; qs.vues.add(qs.enCours.id); rendreQuestions(); }); }));
     return;
   }
-  const q = qs.enCours, gain = q.qdj ? 180 : GAINS[q.difficulte] * multiplicateur(qs.suite);
+  const q = qs.enCours, t = teinte(q.theme), gain = q.qdj ? 180 : GAINS[q.difficulte] * multiplicateur(qs.suite);
+  z.style.setProperty('--t', t.c);
   z.innerHTML = `${enteteQuestions()}
     <div class="bloc q-carte${q.qdj ? ' qdj-c' : ''}" id="qc">
-      <div class="meta"><span class="tag${q.qdj ? ' or' : ''}">${q.qdj ? '<i class="ph-fill ph-star"></i>Question du jour' : esc(q.theme)}</span><span class="tag"><i class="ph-bold ph-timer"></i>−${fmtMin(gain)}</span></div>
+      <div class="meta"><span class="tag${q.qdj ? ' or' : ' teinte'}">${q.qdj ? '<i class="ph-fill ph-star"></i>Question du jour' : `<i class="ph-fill ${t.ic}"></i>${esc(q.theme)}`}</span><span class="tag"><i class="ph-bold ph-timer"></i>−${fmtMin(gain)}</span></div>
       <p class="q-texte">${esc(q.question)}</p>
     </div>
     <form class="q-form" id="qf"><input id="qr" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="send" placeholder="Réponse"><button disabled><i class="ph-bold ph-arrow-up"></i></button></form>
-    <div class="verdict" id="qv"></div>`;
+    <div class="verdict" id="qv"></div><div id="liee"></div>`;
   const inp = $('#qr'), bt = $('#qf button');
   inp.addEventListener('input', () => (bt.disabled = !inp.value.trim()));
   $('#qf').addEventListener('submit', (e) => {
     e.preventDefault();
     if (!inp.value.trim() || inp.disabled) return;
     const ok = correcte(q, inp.value);
-    inp.disabled = true; bt.disabled = true;
+    inp.disabled = true; bt.disabled = true; inp.blur();
     if (q.qdj) { qs.qdjFaite = true; $('#onglets .pastille')?.remove(); }
     const avant = multiplicateur(qs.suite);
     qs.suite = ok ? qs.suite + 1 : 0;
     const apres = multiplicateur(qs.suite);
     $('#qc').classList.add(ok ? 'juste' : 'faux');
     vibrer(ok ? 20 : [30, 40, 30]);
+    son(!ok ? 'faux' : apres > avant ? 'palier' : 'juste');
     if (ok) gagnerMinutes(gain);
     $('#questions .multi').outerHTML = htmlMulti(apres > avant ? ' monte' : '');
     $('#questions .suite').outerHTML = htmlSuite();
     const v = $('#qv'); v.className = `verdict vu ${ok ? 'ok' : 'ko'}`;
     const detail = ok ? (apres > avant ? `${fmtX(apres)} débloqué` : `−${fmtMin(gain)}`) : (avant > 1 ? `Suite perdue · ${fmtX(1)}` : 'Revient dans 3 jours');
     v.innerHTML = `<div class="ico"><i class="ph-bold ${ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${detail}</span></div><button class="btn2 petit" id="suiv">Suivante</button>`;
-    $('#suiv').addEventListener('click', () => { qs.enCours = null; transition(rendreQuestions); });
-    setTimeout(() => $('#suiv')?.focus(), 50);
+    // la réponse est peut-être une carte du catalogue
+    const c = carteLiee(q.reponse);
+    if (c) {
+      const a = possede.has(c.id);
+      $('#liee').innerHTML = `<div class="liee">${a ? htmlCarte(c) : `<div class="silhouette"><img src="${c.thumbUrl}" alt=""></div>`}
+        <div class="txt"><span class="tag ${a ? 'teinte' : ''}" style="--t:${teinte(colDe(c)?.theme).c}"><i class="ph-fill ${a ? 'ph-cards' : 'ph-magnifying-glass'}"></i>${a ? 'Dans ta collection' : 'À trouver'}</span><b>${esc(c.nom)}</b><span>${esc(c.collection)}</span></div></div>`;
+      if (a) $('#liee .k').addEventListener('click', () => fiche([c], 0, $('#liee .k')));
+    }
+    $('#suiv').addEventListener('click', () => { qs.enCours = null; son('tap'); transition(rendreQuestions); });
   });
 }
 function gagnerMinutes(m) {
@@ -518,77 +384,91 @@ function gagnerMinutes(m) {
 
 // ---------- collection ----------
 let vueCol = null, theme = 'Tous', requete = '', filtre = 'toutes';
-const couverture = (col) => { const p = col.cartes?.filter((c) => possede.has(c.id)) ?? []; return [...(p.length ? p : col.cartes ?? [])].sort((a, b) => RARETES.indexOf(b.rarete) - RARETES.indexOf(a.rarete) || b.pv - a.pv)[0]; };
+const JALONS = [[.25, 'ph-cards', 'Paquet'], [.5, 'ph-books', 'Collection'], [.75, 'ph-diamond', '5 000'], [1, 'ph-seal-check', 'Sommet']];
+const couverture = (col) => { const p = col.cartes?.filter((c) => possede.has(c.id)) ?? []; return [...(p.length ? p : col.cartes ?? [])].sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || b.pv - a.pv)[0]; };
 function rendreCollection() {
   if (vueCol) return rendreUneCollection(vueCol);
   const z = $('#collection');
-  const tous = toutes(), n = tous.filter((c) => possede.has(c.id)).length;
-  const themes = ['Tous', ...new Set(cols.map((c) => c.theme))];
+  const n = toutes().filter((c) => possede.has(c.id)).length;
+  const themes = ['Tous', ...[...new Set(cols.map((c) => c.theme))].sort()];
   z.innerHTML = `<div class="grand-titre"><div><h1>Collection</h1><div class="sous">${fr(n)} / ${fr(idx.collections.reduce((s, c) => s + c.nbCartes, 0))}</div></div></div>
     <div class="recherche"><i class="ph ph-magnifying-glass"></i><input id="rq" type="search" placeholder="Rechercher" value="${esc(requete)}" autocomplete="off"></div>
-    <div class="puces">${themes.map((t) => `<button class="puce${t === theme ? ' actif' : ''}" data-t="${esc(t)}">${esc(t)}</button>`).join('')}</div>
+    <div class="puces">${themes.map((t) => { const x = teinte(t); return `<button class="puce${t === theme ? ' actif' : ''}" data-t="${esc(t)}" style="--t:${t === 'Tous' ? '#f3f1ec' : x.c}">${t === 'Tous' ? '' : `<i class="ph-fill ${x.ic}"></i>`}${esc(t)}</button>`; }).join('')}</div>
     <div id="res"></div>`;
   const remplir = () => {
-    const q = norm(requete);
-    const res = $('#res');
+    const q = norm(requete), res = $('#res');
     if (q.length >= 2) {
       const cartes = toutes().filter((c) => possede.has(c.id) && norm(c.nom).includes(q)).slice(0, 60);
-      res.innerHTML = cartes.length ? `<div class="grille">${cartes.map((c) => `<div class="cellule">${htmlCarte(c)}</div>`).join('')}</div>` : `<div style="text-align:center;color:var(--texte-3);padding:40px 0"><i class="ph ph-cards" style="font-size:32px"></i></div>`;
+      res.innerHTML = cartes.length ? `<div class="grille">${cartes.map((c) => `<div class="cellule">${htmlCarte(c)}</div>`).join('')}</div>` : `<div class="vide-etat"><i class="ph ph-cards"></i>Aucune carte</div>`;
       res.querySelectorAll('.k').forEach((el, i) => el.addEventListener('click', () => fiche(cartes, i, el)));
       return;
     }
     const visibles = cols.filter((c) => theme === 'Tous' || c.theme === theme);
     res.innerHTML = `<div class="tuiles-col">${visibles.map((c) => {
-      if (!c.cartes) return `<button class="tc"><div class="squelette"></div><div class="bas"><div class="nom">${esc(c.nom)}</div></div></button>`;
+      if (!c.cartes) return `<button class="tc" style="--t:${c.t.c}"><div class="squelette"></div><div class="bas"><div class="nom">${esc(c.nom)}</div></div></button>`;
       const k = c.cartes.filter((x) => possede.has(x.id)).length, p = k / c.cartes.length, cv = couverture(c);
-      return `<button class="tc pressable${p === 1 ? ' complete' : ''}${k ? '' : ' vide'}" data-slug="${c.slug}">
-        <img src="${cv.thumbUrl}" alt="" loading="lazy" decoding="async">
+      return `<button class="tc pressable${p === 1 ? ' complete' : ''}${k ? '' : ' vide'}" data-slug="${c.slug}" style="--t:${c.t.c}">
+        <img src="${cv.thumbUrl}" alt="" loading="lazy" decoding="async"><span class="theme-ic"><i class="ph-fill ${c.t.ic}"></i></span>${p === 1 ? '<span class="sceau"><i class="ph-fill ph-seal-check"></i></span>' : ''}
         <div class="bas"><div class="nom">${esc(c.nom)}</div><div class="meta"><div class="barre2"><i style="width:${p * 100}%"></i></div><span>${k}/${c.cartes.length}</span></div></div></button>`;
     }).join('')}</div>`;
-    res.querySelectorAll('.tc[data-slug]').forEach((b) => b.addEventListener('click', () => { vibrer(); transition(() => { vueCol = b.dataset.slug; filtre = 'toutes'; rendreCollection(); scrollTo(0, 0); }); }));
+    cascade($('.tuiles-col', res));
+    res.querySelectorAll('.tc[data-slug]').forEach((b) => b.addEventListener('click', () => {
+      vibrer(); son('tap');
+      b.style.viewTransitionName = 'couv';
+      transition(() => { b.style.viewTransitionName = ''; vueCol = b.dataset.slug; filtre = 'toutes'; rendreCollection(); scrollTo(0, 0); });
+    }));
   };
   remplir();
   $('#rq').addEventListener('input', (e) => { requete = e.target.value; remplir(); });
-  z.querySelectorAll('.puce').forEach((b) => b.addEventListener('click', () => { theme = b.dataset.t; vibrer(); rendreCollection(); }));
+  z.querySelectorAll('.puce').forEach((b) => b.addEventListener('click', () => { theme = b.dataset.t; vibrer(); son('tap'); rendreCollection(); }));
 }
 function rendreUneCollection(slug) {
   const col = cols.find((c) => c.slug === slug);
   const z = $('#collection');
-  const k = col.cartes.filter((x) => possede.has(x.id)).length, cv = couverture(col);
+  const k = col.cartes.filter((x) => possede.has(x.id)).length, p = k / col.cartes.length, cv = couverture(col);
   const parR = RARETES.map((r) => [r, col.cartes.filter((c) => c.rarete === r)]).filter(([, l]) => l.length);
   const liste = col.cartes.filter((c) => filtre === 'toutes' || (filtre === 'possedees') === possede.has(c.id));
-  z.innerHTML = `<div class="col-hero" style="--img:url('${cv.imageUrl}')"><div class="flou"></div>
-      <button class="retour" id="ret"><i class="ph-bold ph-caret-left"></i></button>
+  z.innerHTML = `<div class="col-hero" style="--img:url('${cv.imageUrl}');--t:${col.t.c};view-transition-name:couv"><div class="flou"></div>
+      <div class="haut-hero"><button class="retour" id="ret"><i class="ph-bold ph-caret-left"></i></button><span class="tag teinte"><i class="ph-fill ${col.t.ic}"></i>${esc(col.theme)}</span></div>
       <h1>${esc(col.nom)}</h1>
-      <div class="ligne-prog"><div class="barre2"><i style="width:${k / col.cartes.length * 100}%"></i></div><span class="chiffre" style="font-size:13px">${k}/${col.cartes.length}</span></div>
+      <span class="chiffre">${k} / ${col.cartes.length}</span>
+      <div class="jalons"><div class="barre2"><i style="width:${p * 100}%"></i></div>
+        ${JALONS.map(([s, ic, lib]) => `<div class="jalon${p >= s ? ' atteint' : ''}" style="left:${s * 100}%"><b><i class="ph-fill ${ic}"></i></b><span>${lib}</span></div>`).join('')}</div>
+      <div class="jalons-pied"></div>
       <div class="rar-detail">${parR.map(([r, l]) => `<span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${l.filter((c) => possede.has(c.id)).length}/${l.length}</span>`).join('')}</div>
     </div>
     <div class="segment">${[['toutes', 'Toutes'], ['possedees', 'Possédées'], ['manquantes', 'Manquantes']].map(([v, l]) => `<button data-f="${v}" class="${v === filtre ? 'actif' : ''}">${l}</button>`).join('')}</div>
-    <div class="grille">${liste.map((c) => possede.has(c.id)
-      ? `<div class="cellule">${htmlCarte(c, { total: col.cartes.length })}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
-      : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b><i class="ph-fill ${ICONES[c.rarete]}" style="color:var(--r-${c.rarete})"></i></div>`).join('')}</div>`;
-  $('#ret').addEventListener('click', () => { vibrer(); transition(() => { vueCol = null; rendreCollection(); scrollTo(0, 0); }); });
-  z.querySelectorAll('.segment button').forEach((b) => b.addEventListener('click', () => { filtre = b.dataset.f; vibrer(); const y = scrollY; rendreUneCollection(slug); scrollTo(0, Math.min(y, $('.segment').offsetTop - 8)); }));
-  const possedees = liste.filter((c) => possede.has(c.id)).map((c) => ({ ...c, total: col.cartes.length }));
+    ${liste.length ? `<div class="grille">${liste.map((c) => possede.has(c.id)
+      ? `<div class="cellule">${htmlCarte(c)}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
+      : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b><i class="ph-fill ${ICONES[c.rarete]}" style="color:var(--r-${c.rarete})"></i></div>`).join('')}</div>`
+      : filtre === 'manquantes' ? `<div class="vide-etat"><i class="ph-fill ph-seal-check" style="color:var(--or)"></i>Complète</div>` : `<div class="vide-etat"><i class="ph ph-cards"></i>Aucune carte</div>`}`;
+  $('#ret').addEventListener('click', () => {
+    vibrer(); son('tap');
+    transition(() => { vueCol = null; rendreCollection(); scrollTo(0, 0); const t = $(`.tc[data-slug="${slug}"]`); if (t) t.style.viewTransitionName = 'couv'; })
+      .finished.then(() => { const t = $(`.tc[data-slug="${slug}"]`); if (t) t.style.viewTransitionName = ''; });
+  });
+  z.querySelectorAll('.segment button').forEach((b) => b.addEventListener('click', () => { filtre = b.dataset.f; vibrer(); son('tap'); const y = scrollY; rendreUneCollection(slug); scrollTo(0, Math.min(y, $('.segment').offsetTop - 8)); }));
+  const possedees = liste.filter((c) => possede.has(c.id));
   z.querySelectorAll('.grille .k').forEach((el) => { el.classList.add('pressable'); el.addEventListener('click', () => fiche(possedees, possedees.findIndex((c) => c.id === el.dataset.id), el)); });
 }
 
-// ---------- fiche : la carte s'agrandit depuis la grille, on glisse pour passer à la suivante ----------
+// ---------- fiche : la carte s'agrandit depuis sa place, on glisse pour passer à la suivante ----------
 function fiche(liste, i, source) {
-  vibrer();
+  vibrer(); son('tap');
   const f = document.createElement('div');
   f.className = 'fiche';
   const remplir = (sens) => {
-    const c = liste[i], q = possede.get(c.id) || 0, col = colDe(c);
+    const c = liste[i], q = possede.get(c.id) || 0, epinglee = vitrine?.includes(c.id);
     f.style.setProperty('--img', `url('${c.thumbUrl}')`);
     f.innerHTML = `<div class="flou"></div>
-      <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span class="pos">${i + 1} / ${liste.length}</span><span style="width:40px"></span></div>
-      <div class="scene">${htmlCarte({ ...c, total: c.total ?? col?.nbCartes }, { image: 'full' })}</div>
+      <div class="barre-f"><button class="retour" id="ff"><i class="ph-bold ph-x"></i></button><span class="pos">${liste.length > 1 ? `${i + 1} / ${liste.length}` : ''}</span>
+        ${q ? `<button class="retour epingle${epinglee ? ' on' : ''}" id="fe"><i class="ph${epinglee ? '-fill' : ''} ph-push-pin"></i></button>` : '<span style="width:40px"></span>'}</div>
+      <div class="scene">${htmlCarte(c, { image: 'full' })}</div>
       <div class="feuille" style="--rar:var(--r-${c.rarete})">
         <div class="poignee"></div>
         <span class="rar"><i class="ph-fill ${ICONES[c.rarete]}"></i>${NOMS[c.rarete]}</span>
         <h2>${esc(c.nom)}</h2>
-        <div class="col">${esc(c.collection)}</div>
+        <span class="tag teinte" style="--t:${teinte(colDe(c)?.theme).c}"><i class="ph-fill ${teinte(colDe(c)?.theme).ic}"></i>${esc(c.collection)}</span>
         <div class="stats"><div><b>${c.pv}</b><span>PV</span></div><div><b>×${q}</b><span>Possédée</span></div><div><b>${fr(REVENTE[c.rarete])}</b><span>Revente</span></div></div>
         <p>${esc((c.description || '').split('\n')[0])}</p>
         <div class="actions">
@@ -600,60 +480,89 @@ function fiche(liste, i, source) {
     if (sens) k.classList.add(sens > 0 ? 'entre-g' : 'entre-d');
     brancherInclinaison(k, 16);
     $('#ff', f).addEventListener('click', fermer);
-    $('#fv', f)?.addEventListener('click', () => { crediter(REVENTE[c.rarete] * (q - 1)); possede.set(c.id, 1); remplir(); });
-    // glisser horizontalement pour changer de carte
+    $('#fv', f)?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(REVENTE[c.rarete] * (q - 1)); toast('ph-diamond', `+${fr(REVENTE[c.rarete] * (q - 1))}`); possede.set(c.id, 1); remplir(); });
+    $('#fe', f)?.addEventListener('click', () => {
+      son('epingle'); vibrer(10);
+      if (vitrine.includes(c.id)) vitrine = vitrine.filter((x) => x !== c.id);
+      else { vitrine = [...vitrine, c.id].slice(-3); toast('ph-push-pin', 'Vitrine'); }
+      remplir();
+    });
     const sc = $('.scene', f); let x0 = null;
     sc.addEventListener('pointerdown', (e) => (x0 = e.clientX));
     sc.addEventListener('pointerup', (e) => {
       if (x0 == null) return; const dx = e.clientX - x0; x0 = null;
       const j = i + (dx < -50 ? 1 : dx > 50 ? -1 : 0);
       if (j === i || j < 0 || j >= liste.length) return;
-      vibrer(); k.classList.add(dx < 0 ? 'sort-g' : 'sort-d');
+      vibrer(); son('envoie'); k.classList.add(dx < 0 ? 'sort-g' : 'sort-d');
       setTimeout(() => { i = j; remplir(dx < 0 ? 1 : -1); }, 200);
     });
   };
   const ouvrir = () => { if (source) source.style.viewTransitionName = ''; remplir(); document.body.append(f); document.body.style.overflow = 'hidden'; };
   if (source && document.startViewTransition) { source.style.viewTransitionName = 'carte'; document.startViewTransition(ouvrir); } else ouvrir();
   function fermer() {
-    vibrer();
-    const cible = document.querySelector(`.ecran.actif .k[data-id="${CSS.escape(liste[i].id)}"]`);
-    const partir = () => { f.remove(); document.body.style.overflow = ''; if (cible) cible.style.viewTransitionName = 'carte'; };
-    if (document.startViewTransition) document.startViewTransition(partir).finished.then(() => cible && (cible.style.viewTransitionName = ''));
-    else partir();
+    vibrer(); son('tap');
+    const partir = () => {
+      f.remove(); document.body.style.overflow = '';
+      if (ecran === 'accueil') rendreAccueil();
+      const cible = document.querySelector(`.ecran.actif .k[data-id="${CSS.escape(liste[i].id)}"]`);
+      if (cible) { cible.style.viewTransitionName = 'carte'; setTimeout(() => (cible.style.viewTransitionName = ''), 600); }
+    };
+    transition(partir);
   }
 }
 
 // ---------- boutique ----------
+const OFFRES = [
+  { id: 'paquet', n: 'Paquet', ic: 'ph-cards', c: ['7 cartes'], p: 1500 },
+  { id: 'grand', n: 'Grand paquet', ic: 'ph-stack', c: ['15 cartes'], p: 3000 },
+  { id: 'collection', n: 'Collection', ic: 'ph-books', c: ['7 cartes', 'au choix'], p: 3500 },
+  { id: 'inedit', n: 'Inédit', ic: 'ph-sparkle', c: ['5 cartes', 'toutes nouvelles'], p: 6000 },
+  { id: 'sommet', n: 'Sommet', ic: 'ph-crown-simple', c: ['1 carte', 'Mythique ou mieux'], p: 15000 },
+  { id: 'mystere', n: 'Mystère', ic: 'ph-question', c: ['?'], p: 2500 },
+];
+const pkv = (o, t = '#e5766a') => `<div class="pkv t-${o.id}" style="--t:${t}"><i class="ph-fill ${o.ic}"></i></div>`;
 function rendreBoutique() {
-  const OFFRES = [
-    { n: 'Paquet', ic: 'ph-cards', c: ['7 cartes'], p: 1500 },
-    { n: 'Grand paquet', ic: 'ph-stack', c: ['15 cartes'], p: 3000 },
-    { n: 'Collection', ic: 'ph-books', c: ['7 cartes', 'au choix'], p: 3500 },
-    { n: 'Inédit', ic: 'ph-sparkle', c: ['5 cartes', 'toutes nouvelles'], p: 6000 },
-    { n: 'Sommet', ic: 'ph-crown-simple', c: ['1 carte', 'Mythique ou mieux'], p: 15000 },
-    { n: 'Mystère', ic: 'ph-question', c: ['?'], p: 2500 },
-  ];
   const z = $('#boutique');
+  const ved = OFFRES[1 + Math.floor(hash(new Date().toDateString() + 'v') * (OFFRES.length - 1))], prixVed = Math.round(ved.p * .7 / 100) * 100;
+  const minuit = new Date(); minuit.setHours(24, 0, 0, 0);
   const doublons = [...possede.values()].reduce((s, q) => s + Math.max(0, q - 1), 0);
-  z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div><button class="solde"><i class="ph-fill ph-diamond"></i><span class="chiffre" id="solde">${fr(solde)}</span></button></div>
-    <div class="offres">${OFFRES.map((o, i) => `<div class="bloc offre"><div class="pk-ico"><i class="ph-fill ${o.ic}"></i></div>
+  z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div>${htmlSolde()}</div>
+    <div class="bloc vedette"><span class="reduc">−30 %</span>${pkv(ved)}
+      <div class="droite"><span class="surtitre">Offre du jour</span><h3>${ved.n}</h3><div class="contenu" style="display:flex;gap:5px;flex-wrap:wrap">${ved.c.map((x) => `<span class="tag">${x}</span>`).join('')}</div>
+        <div class="prix"><button class="btn2 or pressable" data-achat="${ved.id}" data-prix="${prixVed}" ${prixVed > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(prixVed)}</button><s>${fr(ved.p)}</s></div>
+        <span class="chiffre" style="font-size:12px;color:var(--texte-3)"><i class="ph ph-hourglass-medium"></i> <span id="fin-offre">${fmtTemps(Math.round((minuit - Date.now()) / 1000))}</span></span></div></div>
+    <div class="offres">${OFFRES.map((o) => `<div class="bloc offre">${pkv(o)}
       <div><h3>${o.n}</h3><div class="contenu">${o.c.map((x) => `<span class="tag">${x}</span>`).join('')}</div></div>
-      <button class="btn2 or pressable" data-i="${i}" ${o.p > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(o.p)}</button></div>`).join('')}</div>
+      <button class="btn2 or pressable" data-achat="${o.id}" data-prix="${o.p}" ${o.p > solde ? 'disabled' : ''}><i class="ph-fill ph-diamond"></i>${fr(o.p)}</button></div>`).join('')}</div>
     <div class="section-titre"><h2>Doublons</h2></div>
-    <div class="bloc vente"><div><b>${fr(doublons)} cartes</b><span>+${fr(doublons * 180)} ◆</span></div><button class="btn2 fantome petit"><i class="ph ph-coins"></i>Tout vendre</button></div>`;
-  z.querySelectorAll('.offre .btn2').forEach((b) => b.addEventListener('click', () => { const o = OFFRES[b.dataset.i]; solde -= o.p; paquets++; vibrer(15); rendreBoutique(); aller('accueil'); }));
+    <div class="bloc vente"><div><b>${fr(doublons)} cartes</b><span>+${fr(doublons * 180)} ◆</span></div><button class="btn2 fantome petit" id="tout-vendre" ${doublons ? '' : 'disabled'}><i class="ph ph-coins"></i>Tout vendre</button></div>`;
+  cascade(z);
+  clearInterval(window.__offre); window.__offre = setInterval(() => { const e = $('#fin-offre'); if (e) e.textContent = fmtTemps(Math.max(0, Math.round((minuit - Date.now()) / 1000))); }, 1000);
+  z.querySelectorAll('[data-achat]').forEach((b) => b.addEventListener('click', () => {
+    const prix = +b.dataset.prix; if (prix > solde) return;
+    son('achat'); vibrer(15); majSolde(-prix); paquets++;
+    toast('ph-cards', OFFRES.find((o) => o.id === b.dataset.achat).n);
+    setTimeout(() => aller('accueil'), 500);
+  }));
+  $('#tout-vendre')?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(doublons * 180); for (const [id, q] of possede) if (q > 1) possede.set(id, 1); toast('ph-diamond', `+${fr(doublons * 180)}`); rendreBoutique(); });
+  compter($('.solde-v', z), 'solde', solde, 1);
 }
 
 // ---------- plus ----------
 function rendrePlus() {
-  const r = (ic, lib, val = '', coul = 'var(--texte-2)') => `<button class="rangee pressable"><span class="ic" style="color:${coul}"><i class="ph-fill ${ic}"></i></span><span class="lib">${lib}</span><span class="val">${val}</span><i class="ph ph-caret-right"></i></button>`;
+  const r = (ic, lib, val = '', coul = 'var(--texte-2)', id = '') => `<button class="rangee pressable" ${id ? `id="${id}"` : ''}><span class="ic" style="color:${coul}"><i class="ph-fill ${ic}"></i></span><span class="lib">${lib}</span>${val}</button>`;
+  const chevron = (v = '') => `<span class="val">${v}</span><i class="ph ph-caret-right"></i>`;
   $('#plus').innerHTML = `<div class="grand-titre"><div><h1>Plus</h1></div></div>
-    <div class="bloc groupe">${r('ph-fire', 'Série', '12 j', '#ff9f5a')}${r('ph-target', 'Objectifs', '3/5', 'var(--vert)')}${r('ph-clock-counter-clockwise', 'Historique')}</div>
-    <div class="bloc groupe">${r('ph-user-circle', 'Compte Éclats', 'connecté')}${r('ph-bell', 'Notifications', 'activées')}${r('ph-gear-six', 'Réglages')}</div>`;
+    <div class="bloc groupe">${r('ph-fire', 'Série', chevron('12 j'), '#ff9f5a')}${r('ph-target', 'Objectifs', chevron('3/5'), 'var(--vert)')}${r('ph-clock-counter-clockwise', 'Historique', chevron())}</div>
+    <div class="bloc groupe">${r('ph-speaker-high', 'Sons', `<span class="interrupteur${sonActif() ? ' on' : ''}"></span>`, '#6ea8ff', 'r-son')}${r('ph-bell', 'Notifications', chevron('activées'), '#b79cff')}</div>
+    <div class="bloc groupe">${r('ph-user-circle', 'Compte Éclats', chevron('connecté'))}${r('ph-gear-six', 'Réglages', chevron())}</div>`;
+  cascade($('#plus'));
+  $('#r-son').addEventListener('click', () => { activerSon(!sonActif()); $('#r-son .interrupteur').classList.toggle('on', sonActif()); son('epingle'); vibrer(); });
 }
 
+// ---------- démarrage ----------
 rendreAccueil();
-$('#attente').style.opacity = 0; setTimeout(() => $('#attente').remove(), 400);
+setTimeout(() => { $('#attente').classList.add('parti'); setTimeout(() => $('#attente').remove(), 500); }, Math.max(0, 900 - (performance.now() - debutAttente)));
 </script>
 </body>
 </html>

@@ -2,6 +2,7 @@
 // une à une. Le dos est le même pour toutes : la rareté ne se lit qu'à la face.
 
 import { htmlCarte, brancherInclinaison, RARETES } from './carte.js';
+import { son } from './son.js';
 
 const ORDRE = Object.fromEntries(RARETES.map((r, i) => [r, i]));
 const COULEURS = {
@@ -66,6 +67,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     async function dechirer() {
       fait = true;
       navigator.vibrate?.(18);
+      son('dechirure');
       pk.classList.add('dechire');
       await attendre(500);
       afficherPile();
@@ -118,6 +120,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       const t = suite[n], el = carteEl(n);
       el.style.transform = '';
       el.classList.remove('dos');
+      son('retourne');
       await attendre(260);   // la face apparaît à mi-retournement
       if (t.neuve) el.insertAdjacentHTML('beforeend', '<span class="k-neuve">Nouvelle</span>');
       await effet(t.carte.rarete, el);
@@ -129,6 +132,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       const el = carteEl(n);
       const d = Math.max(innerWidth, innerHeight) * 1.1;
       el.classList.remove('dessus');
+      son('envoie');
       el.classList.add('part');
       el.style.transform = `translate(${Math.cos(angle) * d}px, ${Math.sin(angle) * d}px) rotate(${Math.cos(angle) * 30}deg)`;
       nettoyerFx();
@@ -171,6 +175,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     async function effet(r, el) {
       const c = COULEURS[r];
       if (r === 'commune') return attendre(150);
+      son(r);
       el.classList.add('revele');
       setTimeout(() => el.classList.remove('revele'), 600);
       el.querySelector('.k-face').insertAdjacentHTML('beforeend', '<div class="fx-balayage"></div>');

@@ -486,10 +486,10 @@ function rendreGrille() {
           && !(cad && (cad.editeLe || 0) > pl.genereLe);
         const visuel = surPlanche
           ? `<div class="v-planche" style="--bx:${pl.cols > 1 ? (rang % pl.cols) / (pl.cols - 1) * 100 : 0}%;--by:${pl.lignes > 1 ? Math.floor(rang / pl.cols) / (pl.lignes - 1) * 100 : 0}%"></div>`
-          : `<img data-src="${esc(src)}" alt="">`;
+          : `<img data-src="${esc(c.imgC ? `${cheminsDe(c).carte}?v=${c.imgC}` : src)}" alt="">`;
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
-          ${visuel}
+          <div class="v-cadre">${visuel}</div>
           <button class="v-statut ${st}" data-statut="${esc(c.id)}" title="statut">${pastille || '·'}</button>
           ${note}${c.imgC ? '<span class="v-carte" title="format carte">▯</span>' : ''}
           <div class="v-nom">${esc(c.nom)}</div>
@@ -703,7 +703,7 @@ function brancherEditeur() {
   $('#ed-reset').addEventListener('click', () => editeur.reset());
   $('#ed-enregistrer').addEventListener('click', () => (modeEd === 'carte' ? enregistrerFormatCarte() : enregistrerCadrage()));
   $('#ed-modes').addEventListener('click', (ev) => { const b = ev.target.closest('[data-mode]'); if (b) changerMode(b.dataset.mode); });
-  editeur.surRendu = majResolution;
+  editeur.surRendu = () => { majResolution(); apercuCarte(); };
   $('#ed-note').addEventListener('click', () => carteEnEdition && modaleNote([carteEnEdition.id]));
   $('#ed-remplacer').addEventListener('click', modaleRemplacement);
   $('#ed-fichier').addEventListener('change', async () => {
@@ -743,9 +743,9 @@ function cheminsDe(carte) {
   };
 }
 
-async function ouvrirEditeur(carte) {
+async function ouvrirEditeur(carte, mode = 'carte') {
   carteEnEdition = carte;
-  basculerCadre('illus');
+  basculerCadre(mode);
   remplacementEnCours = false;
   $('#ed-nom').textContent = carte.nom;
   $('#ed-infos').textContent = ` ${carte.collection} · image : ${sourcesImages[carte.id]?.source || '?'}`;
@@ -766,6 +766,7 @@ async function ouvrirEditeur(carte) {
     modaleRemplacement();
     return;
   }
+  if (mode === 'carte') { await chargerFormatCarte(carte); return; }
   const cad = notes.cadrages[carte.id];
   const sources = [];
   // l'image enregistrée pendant cette session passe avant tout : c'est elle
@@ -1017,9 +1018,37 @@ function basculerCadre(mode) {
   $('#ed-conteneur').classList.toggle('carte', mode === 'carte');
   editeur.vide = mode === 'carte';
   document.querySelectorAll('#ed-modes [data-mode]').forEach((b) => b.classList.toggle('actif', b.dataset.mode === mode));
-  $('#ed-canvas-apercu').width = mode === 'carte' ? 130 : 160;
-  $('#ed-canvas-apercu').height = 120;
+  // au format carte, l'aperçu montre la carte entière (63:88) telle que le jeu l'affichera
+  $('#ed-canvas-apercu').width = mode === 'carte' ? 126 : 160;
+  $('#ed-canvas-apercu').height = mode === 'carte' ? 176 : 120;
+  editeur.apercu = mode === 'carte' ? null : $('#ed-canvas-apercu');
   majResolution();
+}
+const zoneCarte = document.createElement('canvas');
+function apercuCarte() {
+  if (modeEd !== 'carte' || !editeur?.source) return;
+  const cv = $('#ed-canvas-apercu'), W = cv.width, H = cv.height, ctx = cv.getContext('2d');
+  const zh = Math.round(H * .66);
+  editeur._dessiner(zoneCarte, [W, Math.round(W * 700 / 760)]);
+  ctx.clearRect(0, 0, W, H);
+  ctx.save();
+  ctx.beginPath(); ctx.roundRect(0, 0, W, H, W * .055); ctx.clip();
+  // fond : la zone d'image agrandie et floutée, comme sur la carte
+  ctx.filter = 'blur(10px) saturate(1.5) brightness(.45)';
+  ctx.drawImage(zoneCarte, -W * .12, -H * .12, W * 1.24, H * 1.24);
+  ctx.filter = 'none';
+  // l'image, fondue vers le bas à partir de 55 % de sa hauteur
+  const t = document.createElement('canvas'); t.width = W; t.height = zh;
+  const tc = t.getContext('2d');
+  tc.drawImage(zoneCarte, 0, 0, W, zh);
+  tc.globalCompositeOperation = 'destination-out';
+  const g = tc.createLinearGradient(0, zh * .55, 0, zh); g.addColorStop(0, 'rgba(0,0,0,0)'); g.addColorStop(1, 'rgba(0,0,0,1)');
+  tc.fillStyle = g; tc.fillRect(0, zh * .55, W, zh * .45);
+  ctx.drawImage(t, 0, 0);
+  // nom
+  ctx.fillStyle = '#fff'; ctx.font = `${Math.round(W * .13)}px "Instrument Serif", Georgia, serif`;
+  ctx.fillText(carteEnEdition?.nom || '', W * .062, H * .86, W * .88);
+  ctx.restore();
 }
 function majResolution() {
   const e = $('#ed-resol');
@@ -1031,9 +1060,9 @@ function majResolution() {
 }
 async function changerMode(mode) {
   if (!carteEnEdition || mode === modeEd) return;
-  const carte = carteEnEdition;
-  if (mode === 'illus') { await ouvrirEditeur(carte); return; }
-  basculerCadre('carte');
+  await ouvrirEditeur(carteEnEdition, mode);
+}
+async function chargerFormatCarte(carte) {
   const ch = cheminsDe(carte), bust = `?v=${Date.now()}`;
   const sources = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig, carte.imageUrl + bust].filter(Boolean);
   for (const src of sources) {
@@ -1042,7 +1071,7 @@ async function changerMode(mode) {
   $('#ed-flou').src = editeur.img.src;
   const cad = notes.cadragesCarte?.[carte.id];
   if (cad) editeur.setCadrage(cad); else editeur.reset();
-  majResolution();
+  majResolution(); apercuCarte();
 }
 async function enregistrerFormatCarte() {
   const carte = carteEnEdition;

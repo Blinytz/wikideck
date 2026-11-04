@@ -173,7 +173,7 @@ export class Editeur {
   }
 
   _rendreApercu() {
-    if (!this.source || !this.apercu) return;
+    if (!this.source || !this.apercu) return;   // au format carte, l'atelier dessine son propre aperçu
     this._dessiner(this.apercu, [this.apercu.width, this.apercu.height]);
   }
 

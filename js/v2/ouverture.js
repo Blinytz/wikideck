@@ -120,6 +120,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       revelee = false;
       const el = carteEl(n); if (!el) return;
       slot(n).style.transform = '';
+      slot(n).classList.add('actif');
       manip = brancherManipulation(el, { surTap: () => (revelee ? envoyer() : retourner()) });
       el.addEventListener('retournee', (e) => { if (!e.detail.dos && !revelee) reveler(); });
     }
@@ -145,9 +146,10 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       verrou = true;
       manip?.arreter();
       const s = slot(n);
+      s.classList.remove('actif');
       son('envoie');
       legende.classList.remove('vue');
-      s.animate([{ transform: 'none', opacity: 1 }, { transform: 'translate(-115vw, -12vh) rotate(-24deg)', opacity: .6 }], { duration: 420, easing: 'cubic-bezier(.5,0,.75,.3)', fill: 'forwards' })
+      s.animate([{ transform: 'none', opacity: 1 }, { transform: 'translate(-70vw, -4vh) rotate(-10deg)', opacity: 0 }], { duration: 520, easing: 'cubic-bezier(.4,0,.6,1)', fill: 'forwards' })
         .finished.then(() => { s.style.visibility = 'hidden'; });
       nettoyerFx();
       n++;

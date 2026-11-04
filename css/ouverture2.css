@@ -64,7 +64,8 @@
 .pile { --w: min(72vw, 300px); position: relative; width: var(--w); aspect-ratio: 63 / 88; margin-bottom: 12vh; }
 .slot { position: absolute; inset: 0; }
 .slot .k { --w: min(72vw, 300px); }
-.slot:not(:first-child) .k { pointer-events: none; }
+.slot .k { pointer-events: none; }
+.slot.actif .k { pointer-events: auto; }
 
 /* descriptif sous la carte révélée */
 .ov2-legende { position: absolute; left: 50%; bottom: max(28px, env(safe-area-inset-bottom)); width: min(calc(100% - 32px), 420px); translate: -50% 0; z-index: 4;

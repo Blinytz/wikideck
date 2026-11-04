@@ -67,17 +67,24 @@ export function htmlCarte(c, { dos = false, neuve = false, total = c.total, imag
 }
 
 /* ---------- lumière : calculée depuis l'orientation de la carte ---------- */
-function eclairer(el, rx, ry) {
+// On n'écrit que sur les calques qui bougent (rotation, reflet, éclat, paillettes) :
+// rien n'oblige le navigateur à recalculer ni redessiner le reste de la carte.
+function calques(el) {
+  return { inn: el.querySelector('.k-in'), holo: el.querySelector('.k-holo'), glare: el.querySelector('.k-glare'),
+    ps: [...el.querySelectorAll('.k-paillettes i')].map((p) => [p, +p.style.getPropertyValue('--ph')]) };
+}
+function eclairer(c, rx, ry) {
   const a = ry * Math.PI / 180, b = rx * Math.PI / 180;
-  el.style.setProperty('--lx', `${50 + Math.sin(a) * 60}%`);
-  el.style.setProperty('--ly', `${50 - Math.sin(b) * 60}%`);
-  el.style.setProperty('--lum', Math.min(1, (Math.abs(Math.sin(a)) + Math.abs(Math.sin(b))) * 2.2).toFixed(3));
-  const ps = el.querySelectorAll('.k-paillettes i');
-  for (const p of ps) {
-    const ph = +p.style.getPropertyValue('--ph');
+  const lx = Math.sin(a), ly = -Math.sin(b);
+  if (c.holo) c.holo.style.transform = `translate3d(${(lx * 22).toFixed(2)}%, ${(ly * 22).toFixed(2)}%, 0)`;
+  if (c.glare) {
+    c.glare.style.transform = `translate3d(${(lx * 30).toFixed(2)}%, ${(ly * 30).toFixed(2)}%, 0)`;
+    c.glare.style.opacity = (.15 + Math.min(1, (Math.abs(lx) + Math.abs(ly)) * 2.2) * .85).toFixed(3);
+  }
+  for (const [p, ph] of c.ps) {
     // chaque paillette s'allume sous un angle qui lui est propre
     const v = Math.cos(a * 3.2 + ph) * Math.cos(b * 2.6 + ph * 1.7);
-    p.style.opacity = Math.max(0, v) ** 6;
+    p.style.opacity = (Math.max(0, v) ** 6).toFixed(3);
   }
 }
 
@@ -95,20 +102,22 @@ export function brancherManipulation(el, { surTap, libre = true, flotte = true }
   const r = RARETES.find((x) => el.classList.contains('r-' + x)) || 'commune';
   const [raideur, amorti] = { commune: [.1, .55], rare: [.09, .64], epique: [.08, .72], mythique: [.07, .77], legendaire: [.065, .8], pantheon: [.06, .82] }[r];
   el.classList.add('manip');
+  let c = calques(el);
   const appliquer = () => {
-    el.style.setProperty('--rx', `${etat.rx}deg`);
-    el.style.setProperty('--ry', `${etat.ry}deg`);
     const base = el.classList.contains('dos') ? 180 : 0;
-    eclairer(el, etat.rx, etat.ry + base);
+    c.inn.style.transform = `rotateX(${etat.rx.toFixed(2)}deg) rotateY(${(etat.ry + base).toFixed(2)}deg)`;
+    eclairer(c, etat.rx, etat.ry + base);
   };
-  const boucle = () => {
+  let avant = performance.now();
+  const boucle = (t) => {
     if (!etat.actif || !el.isConnected) return;
+    // physique rapportée au temps écoulé : même ressenti à 60 ou 120 images par seconde
+    const f = Math.min(3, (t - avant) / 16.667); avant = t;
     if (!etat.prise) {
-      // élan puis rappel à ressort vers la face visible (+ flottement)
       const cible = flotte ? flotter(el, etat) : { rx: 0, ry: 0 };
-      etat.vy += (cible.ry - etat.ry) * raideur; etat.vx += (cible.rx - etat.rx) * raideur;
-      etat.vy *= amorti; etat.vx *= amorti;
-      etat.ry += etat.vy; etat.rx += etat.vx;
+      etat.vy += (cible.ry - etat.ry) * raideur * f; etat.vx += (cible.rx - etat.rx) * raideur * f;
+      etat.vy *= amorti ** f; etat.vx *= amorti ** f;
+      etat.ry += etat.vy * f; etat.rx += etat.vx * f;
     }
     appliquer();
     requestAnimationFrame(boucle);
@@ -122,10 +131,12 @@ export function brancherManipulation(el, { surTap, libre = true, flotte = true }
     const p = etat.prise; if (!p) return;
     const dx = e.clientX - p.x, dy = e.clientY - p.y;
     if (Math.hypot(e.clientX - p.x0, e.clientY - p.y0) > 6) { p.bouge = true; el.classList.add('tenue'); }
+    const now = performance.now(), dt = Math.max(4, now - p.t);
     etat.ry += dx * .55; etat.rx -= dy * .35;
     etat.rx = Math.max(-35, Math.min(35, etat.rx));
-    etat.vy = dx * .55; etat.vx = -dy * .35;
-    p.x = e.clientX; p.y = e.clientY;
+    etat.vy = etat.vy * .4 + (dx * .55) / dt * 16.667 * .6; etat.vx = etat.vx * .4 + (-dy * .35) / dt * 16.667 * .6;
+    p.x = e.clientX; p.y = e.clientY; p.t = now;
+    appliquer();
   });
   const lacher = () => {
     const p = etat.prise; if (!p) return;
@@ -145,6 +156,8 @@ export function brancherManipulation(el, { surTap, libre = true, flotte = true }
     arreter: () => { etat.actif = false; },
     // retournement animé par le ressort : on bascule la face et on part d'un demi-tour
     retourner: (sens = 1) => { el.classList.toggle('dos'); etat.ry -= 180 * sens; etat.vy = 0; },
+    rafraichir: () => { c = calques(el); },
+    flotter: (oui) => { flotte = oui; },
     verrouiller: (oui) => { libre = !oui; },
   };
 }

@@ -91,13 +91,17 @@
 .k-pv small { font-size: .78em; color: #fff8; margin-left: .25em; }
 
 .k-matiere, .k-holo, .k-glare, .k-paillettes { position: absolute; inset: 0; pointer-events: none; }
+/* reflets plus grands que la carte : on les déplace (transform) au lieu de les redessiner */
+.k-holo { inset: -40%; }
+.k-glare { inset: -50%; }
+.k-fond, .k.manip .k-holo, .k.manip .k-glare { will-change: transform; }
 .k-matiere { z-index: 1; }
-.k-holo { z-index: 2; opacity: 0; mix-blend-mode: color-dodge; background-size: 240% 240%; background-position: var(--lx) var(--ly); }
+.k-holo { z-index: 2; opacity: 0; mix-blend-mode: color-dodge; }
 .k:not(.manip) .k-holo { animation: holo-repos 8s ease-in-out infinite alternate; }
 .k.r-mythique:not(.manip) .k-holo { opacity: .32; }
-@keyframes holo-repos { from { background-position: 10% 30%; } to { background-position: 90% 70%; } }
-.k-glare { z-index: 5; mix-blend-mode: overlay; opacity: calc(.15 + var(--lum) * .85);
-  background: radial-gradient(farthest-corner circle at var(--lx) var(--ly), #ffffff3a 0%, #ffffff0c 28%, transparent 55%); }
+@keyframes holo-repos { from { transform: translate(-16%, -10%); } to { transform: translate(16%, 10%); } }
+.k-glare { z-index: 5; mix-blend-mode: overlay; opacity: .15;
+  background: radial-gradient(circle at 50% 50%, #ffffff3a 0%, #ffffff0c 14%, transparent 28%); }
 .k:not(.manip) .k-glare { opacity: 0; }
 .k-cadre { position: absolute; inset: 0; z-index: 6; pointer-events: none; border-radius: inherit; box-shadow: 0 0 0 1px #ffffff1f inset; }
 .k-cadre::before, .k-cadre::after { content: none; }
@@ -129,7 +133,7 @@
 
 /* ----- mythique : hologramme arc-en-ciel ----- */
 .k.r-mythique { --pc: #fff; }
-.k.r-mythique .k-holo { opacity: calc(.22 + var(--lum) * .35);
+.k.r-mythique .k-holo { opacity: .4;
   background-image: repeating-linear-gradient(115deg, #ff8fd655 0 1.2%, #a78bfa55 1.2% 2.4%, #67e8f955 2.4% 3.6%, #6ee7b755 3.6% 4.8%, #fde68a55 4.8% 6%, #ff8fd655 6% 7.2%),
     repeating-linear-gradient(25deg, #ffffff10 0 2px, transparent 2px 6px); }
 .k.r-mythique .k-cadre { padding: .18em; background: linear-gradient(135deg, #ff8fd6, #a78bfa, #67e8f9, #6ee7b7, #fde68a, #ff8fd6) 0 0 / 300% 300%; animation: glisse 6s linear infinite;

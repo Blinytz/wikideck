@@ -123,9 +123,10 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     function prendre() {
       revelee = false;
       const el = carteEl(n), s = slot(n); if (!el) return;
-      s.style.transform = '';
+      // la carte garde sa place dans la pile : aucun mouvement quand elle passe dessus
+      s.dataset.base = s.style.transform || '';
       s.classList.add('actif');
-      manip = brancherManipulation(el, { surTap: () => { if (!revelee) retourner(); } });
+      manip = brancherManipulation(el, { flotte: false, surTap: () => { if (!revelee) retourner(); } });
       el.addEventListener('retournee', (e) => { if (!e.detail.dos && !revelee) reveler(); });
       brancherLancer(el, s);
     }
@@ -138,6 +139,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       if (revelee) return;
       revelee = true; verrou = true;
       manip.verrouiller(true);   // révélée, la carte se lance au lieu de tourner
+      manip.flotter(true);
       const t = suite[n], el = carteEl(n);
       await attendre(240);   // la face apparaît à mi-retournement
       if (t.neuve) el.querySelector('.k-in').insertAdjacentHTML('beforeend', '<span class="k-neuve">Nouvelle</span>');
@@ -162,7 +164,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
         p.vx = p.vx * .5 + (e.clientX - p.x) / dt * .5; p.vy = p.vy * .5 + (e.clientY - p.y) / dt * .5;
         p.x = e.clientX; p.y = e.clientY; p.t = now;
         const dx = p.x - p.x0, dy = p.y - p.y0;
-        s.style.transform = `translate(${dx}px, ${dy}px) rotate(${dx * .05}deg)`;
+        s.style.transform = `translate(${dx}px, ${dy}px) rotate(${dx * .05}deg) ${s.dataset.base}`;
         manip.etat.ry = dx * .1; manip.etat.rx = -dy * .06;
       });
       const lacher = () => {
@@ -170,8 +172,8 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
         const q = p; p = null;
         const dx = q.x - q.x0, dy = q.y - q.y0, dist = Math.hypot(dx, dy), v = Math.hypot(q.vx, q.vy);
         if (dist > 110 || (dist > 30 && v > .7)) { envoyer(dx, dy, q.vx, q.vy); return; }
-        const depuis = s.style.transform; s.style.transform = '';
-        if (depuis) s.animate([{ transform: depuis }, { transform: 'none' }], { duration: 420, easing: 'cubic-bezier(.2,1.2,.4,1)' });
+        const depuis = s.style.transform; s.style.transform = s.dataset.base;
+        if (depuis) s.animate([{ transform: depuis }, { transform: s.dataset.base || 'none' }], { duration: 420, easing: 'cubic-bezier(.2,1.2,.4,1)' });
       };
       el.addEventListener('pointerup', lacher);
       el.addEventListener('pointercancel', lacher);

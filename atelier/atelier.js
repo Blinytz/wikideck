@@ -260,7 +260,13 @@ async function demarrer() {
   if (!getToken()) { afficherVue('config'); }
 
   const bust = `?v=${Date.now()}`;
-  const index = await (await fetchRetente('data/collections.json' + bust)).json();
+  // Les données se lisent dans le dépôt lui-même : la copie publiée sur Pages
+  // peut avoir des heures de retard, chaque enregistrement relançant sa
+  // publication. Pages ne sert qu'en secours.
+  const lire = (chemin) => fetch(RAW + chemin + bust, { cache: 'no-store' })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .catch(() => fetchRetente(chemin + bust).then((r) => r.json()));
+  const index = await lire('data/collections.json');
   // Le total etait ecrit en dur dans atelier.html — « 2304 cartes » — et n'a
   // plus rien dit des que le jeu a grossi. L'index le connait : on le lui
   // demande des qu'il arrive, avant meme d'avoir telecharge les collections.
@@ -271,7 +277,7 @@ async function demarrer() {
       + ` de ${index.collections.length} collections…`;
   }
   const fichiers = await parLots(index.collections,
-    c => fetchRetente(c.fichier + bust).then(r => r.json()));
+    c => lire(c.fichier));
   // le theme vient de l'index (build/audit/themes.py) ; une collection neuve
   // pas encore classee tombe dans « Autres »
   collections = fichiers.map((f, i) => ({ slug: f.slug, nom: f.collection, cartes: f.cartes,

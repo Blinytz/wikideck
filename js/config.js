@@ -37,6 +37,11 @@ export const DEFAUTS = {
   // --- Fins de collection
   eclatsParCarteTerminee: { valeur: 500, section: 'Fins de collection', aide: 'Éclats par carte d’une collection terminée.' },
 
+  // --- Jalons de collection (25, 50, 75 % ; 100 % = fin de collection)
+  jalon25Paquets: { valeur: 1, section: 'Jalons de collection', aide: 'Paquets standard donnés à 25 % d’une collection.' },
+  jalon50Collection: { valeur: 1, section: 'Jalons de collection', aide: 'Paquets « Collection » de cette collection donnés à 50 %.' },
+  jalon75Eclats: { valeur: 5000, section: 'Jalons de collection', aide: 'Éclats donnés à 75 % d’une collection.' },
+
   // --- Jour de jeu
   heureDebutJour: { valeur: 4, section: 'Jour de jeu', aide: 'Heure (Europe/Paris) où commence le jour de jeu.' },
 

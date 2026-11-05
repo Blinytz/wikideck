@@ -5,7 +5,7 @@ import { crediterEclats } from './portefeuille.js';
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
 import { donnees } from './donnees.js';
-import { definirSurAcquisition, estComplete, acquerir } from './acquisition.js';
+import { definirSurAcquisition, estComplete, acquerir, nbPossedees } from './acquisition.js';
 import { ajouterSpecial, ajouterStandard, libelle } from './speciaux.js';
 import { valeurReference } from './eclats.js';
 
@@ -84,8 +84,33 @@ function verifierTheme(theme) {
   }
 }
 
+/* ---------- jalons de collection : 25, 50 et 75 % (100 % = fin de collection) ---------- */
+const PALIERS_COLLECTION = [25, 50, 75];
+function jalons() { return (etat.jalons ??= {}); }   // slug -> paliers déjà récompensés
+function pourcent(col) { return col.cartes.length ? nbPossedees(col) / col.cartes.length * 100 : 0; }
+function recompenseJalon(p, col) {
+  if (p === 25) return { paquets: config.get('jalon25Paquets') };
+  if (p === 50) return { speciaux: Array.from({ length: config.get('jalon50Collection') }, () => ({ type: 'collection', params: { slug: col.slug } })) };
+  return { eclats: config.get('jalon75Eclats') };
+}
+function verifierJalons(slugs) {
+  for (const slug of slugs) {
+    const col = donnees.collections.find(c => c.slug === slug);
+    if (!col) continue;
+    const faits = jalons()[slug] ??= [];
+    const pct = pourcent(col);
+    for (const p of PALIERS_COLLECTION) {
+      if (pct < p || faits.includes(p)) continue;
+      faits.push(p);
+      donner(recompenseJalon(p, col), `${col.nom} : ${p} %`);
+    }
+  }
+}
+
 definirSurAcquisition(resultat => {
-  verifierFins((resultat.progres || []).map(p => p.slug));
+  const slugs = (resultat.progres || []).map(p => p.slug);
+  verifierJalons(slugs);
+  verifierFins(slugs);
 });
 
 /*
@@ -96,6 +121,15 @@ definirSurAcquisition(resultat => {
  * Retourne la liste des changements de rareté à présenter.
  */
 export function reconcilierCatalogue() {
+  // Arrivée des jalons : les paliers déjà franchis sont notés sans être donnés,
+  // seuls les suivants rapportent (pas de pluie de récompenses rétroactives).
+  if (!etat.jalonsInities) {
+    for (const col of donnees.collections) {
+      const pct = pourcent(col);
+      jalons()[col.slug] = PALIERS_COLLECTION.filter(p => pct >= p);
+    }
+    etat.jalonsInities = true;
+  }
   for (const [slug, t] of Object.entries(terminees())) {
     const col = donnees.collections.find(c => c.slug === slug);
     if (col && t.premiere && !t.ouverte && !estComplete(col)) { t.ouverte = true; t.reouvertures += 1; }

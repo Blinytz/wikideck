@@ -384,7 +384,7 @@ function gagnerMinutes(m) {
 
 // ---------- collection ----------
 let vueCol = null, theme = 'Tous', requete = '', filtre = 'toutes';
-const JALONS = [[.25, 'ph-cards', 'Paquet'], [.5, 'ph-books', 'Collection'], [.75, 'ph-diamond', '5 000'], [1, 'ph-seal-check', 'Sommet']];
+const JALONS = [[.25, 'ph-cards', 'Paquet'], [.5, 'ph-books', 'Collection'], [.75, 'ph-diamond', '5 000'], [1, 'ph-seal-check', 'Finale']];
 const couverture = (col) => { const p = col.cartes?.filter((c) => possede.has(c.id)) ?? []; return [...(p.length ? p : col.cartes ?? [])].sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || b.pv - a.pv)[0]; };
 function rendreCollection() {
   if (vueCol) return rendreUneCollection(vueCol);

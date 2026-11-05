@@ -234,6 +234,8 @@ let remplacementEnCours = false;
 // aperçus locaux (blob) des cartes éditées cette session : la grille les
 // utilise en priorité, sans attendre la republication GitHub Pages
 const apercusLocaux = {};
+// format carte enregistré pendant la séance : la vignette le montre aussitôt
+const apercusCarte = {};
 // sources pleine résolution des images enregistrées pendant la session :
 // l'éditeur les reprend telles quelles, sans repasser par le réseau
 const originauxLocaux = {};
@@ -488,11 +490,18 @@ function rendreGrille() {
         // La planche sert la vignette, SAUF si la carte a ete retouchee apres
         // sa fabrication : son image individuelle est alors la seule a jour.
         const rang = rangs?.get(c.id);
-        const surPlanche = rang !== undefined && !apercusLocaux[c.id]
+        // Une carte cadrée au format carte ne passe jamais par la planche (qui
+        // garde l'ancienne illustration). Récemment enregistrée, son image se lit
+        // dans le dépôt : la copie publiée sur Pages arrive bien plus tard.
+        const cadC = notes.cadragesCarte?.[c.id];
+        const srcCarte = apercusCarte[c.id] || (c.imgC
+          ? (cadC && Date.now() - (cadC.editeLe || 0) < 6 * 3600e3 ? RAW : '') + `${cheminsDe(c).carte}?v=${c.imgC}`
+          : null);
+        const surPlanche = rang !== undefined && !apercusLocaux[c.id] && !srcCarte
           && !(cad && (cad.editeLe || 0) > pl.genereLe);
         const visuel = surPlanche
           ? `<div class="v-planche" style="--bx:${pl.cols > 1 ? (rang % pl.cols) / (pl.cols - 1) * 100 : 0}%;--by:${pl.lignes > 1 ? Math.floor(rang / pl.cols) / (pl.lignes - 1) * 100 : 0}%"></div>`
-          : `<img data-src="${esc(c.imgC ? `${cheminsDe(c).carte}?v=${c.imgC}` : src)}" alt="">`;
+          : `<img data-src="${esc(srcCarte || src)}" alt="">`;
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
           <div class="v-cadre">${visuel}</div>
@@ -1104,6 +1113,7 @@ async function enregistrerFormatCarte() {
   (notes.cadragesCarte ??= {})[carte.id] = { ...editeur.getCadrage(), src: sourceCarte, editeLe: Date.now() };
   planifierSauvegardeNotes();
   carte.imgC = v;
+  apercusCarte[carte.id] = URL.createObjectURL(blob);
   const chemin = cheminsDe(carte).carte;
   // l'image d'abord, puis la fiche : le jeu ne pointe dessus qu'une fois le fichier en place
   enfiler(`format carte ${carte.nom}`, async () => {

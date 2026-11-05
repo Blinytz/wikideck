@@ -59363,6 +59363,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793822471519
+  },
+  "dirigeants-contemporains_ho-chi-minh": {
+   "cx": 0.5053,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793868530063
+  },
+  "dirigeants-contemporains_boris-eltsine": {
+   "cx": 0.5,
+   "cy": 0.4447,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793868537865
   }
  }
 }

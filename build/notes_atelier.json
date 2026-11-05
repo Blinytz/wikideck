@@ -59428,11 +59428,11 @@
    "editeLe": 1793869271038
   },
   "traites-et-textes-fondateurs_declaration-des-droits-de-la-femme-et-de-la-citoyenne": {
-   "cx": 0.4587,
-   "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793869280243
+   "cx": 0.5,
+   "cy": 0.3824,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793869303740
   },
   "traites-et-textes-fondateurs_bulle-d-or-1356": {
    "cx": 0.532,
@@ -59440,6 +59440,13 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793869286695
+  },
+  "traites-et-textes-fondateurs_code-noir": {
+   "cx": 0.5628,
+   "cy": 0.5,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1793869297403
   }
  }
 }

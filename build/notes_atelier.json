@@ -71021,6 +71021,41 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793979604269
+  },
+  "sites-antiques_phil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4891,
+   "src": "orig",
+   "editeLe": 1793979607414
+  },
+  "sites-antiques_herculanum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1793979610076
+  },
+  "sites-antiques_mur-d-hadrien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793979613087
+  },
+  "sites-antiques_copan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793979615398
+  },
+  "sites-antiques_chan-chan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7753,
+   "src": "orig",
+   "editeLe": 1793979617384
   }
  }
 }

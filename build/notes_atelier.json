@@ -76295,6 +76295,13 @@
    "w": 0.6105,
    "src": "full",
    "editeLe": 1793989950275
+  },
+  "maladies-et-epidemies_obesite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7081,
+   "src": "orig",
+   "editeLe": 1793989954265
   }
  }
 }

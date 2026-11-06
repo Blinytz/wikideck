@@ -75123,6 +75123,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793983162666
+  },
+  "theoremes-et-lois_paradoxes-de-zenon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983167301
+  },
+  "corps-humain_c-ur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983170420
+  },
+  "corps-humain_encephale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983172816
   }
  }
 }

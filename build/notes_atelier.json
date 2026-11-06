@@ -62089,6 +62089,27 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793959917637
+  },
+  "empires-et-civilisations_ancien-empire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7673,
+   "src": "orig",
+   "editeLe": 1793959921299
+  },
+  "empires-et-civilisations_moyen-empire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6888,
+   "src": "orig",
+   "editeLe": 1793959924098
+  },
+  "empires-et-civilisations_nouvel-empire": {
+   "cx": 0.5,
+   "cy": 0.3879,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959928879
   }
  }
 }

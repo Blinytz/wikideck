@@ -61599,6 +61599,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959505433
+  },
+  "dynasties-regnantes_shogunat-tokugawa": {
+   "cx": 0.467,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793959509017
+  },
+  "dynasties-regnantes_califat-omeyyade": {
+   "cx": 0.4511,
+   "cy": 0.5,
+   "w": 0.622,
+   "src": "orig",
+   "editeLe": 1793959512983
   }
  }
 }

@@ -62707,11 +62707,25 @@
    "editeLe": 1793960513351
   },
   "grandes-batailles-historiques_bataille-de-crecy": {
-   "cx": 0.5,
+   "cx": 0.5746,
    "cy": 0.5,
    "w": 0.747,
    "src": "orig",
-   "editeLe": 1793960516361
+   "editeLe": 1793960525591
+  },
+  "grandes-batailles-historiques_bataille-d-azincourt": {
+   "cx": 0.452,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960530111
+  },
+  "grandes-batailles-historiques_bataille-de-castillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960532148
   }
  }
 }

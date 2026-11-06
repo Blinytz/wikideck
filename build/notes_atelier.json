@@ -72792,6 +72792,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980984872
+  },
+  "scientifiques-celebres_edward-osborne-wilson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980987289
+  },
+  "scientifiques-celebres_alfred-wegener": {
+   "cx": 0.5,
+   "cy": 0.4282,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980991127
+  },
+  "scientifiques-celebres_james-hutton": {
+   "cx": 0.5,
+   "cy": 0.3696,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980994438
   }
  }
 }

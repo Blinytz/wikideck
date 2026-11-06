@@ -55251,14 +55251,6 @@
    "editeLe": 0,
    "auto": true
   },
-  "corps-humain_appareil-respiratoire": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
   "corps-humain_systeme-lymphatique": {
    "cx": 0.512,
    "cy": 0.4619,

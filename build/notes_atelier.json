@@ -62306,6 +62306,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960192860
+  },
+  "empires-et-civilisations_empire-allemand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960195472
+  },
+  "empires-et-civilisations_empire-colonial-neerlandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960199242
+  },
+  "empires-et-civilisations_union-des-republiques-socialistes-sovietiques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960201525
   }
  }
 }

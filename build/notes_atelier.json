@@ -73737,6 +73737,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793981622150
+  },
+  "inventions-importantes_pile-electrique": {
+   "cx": 0.5506,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793981628518
+  },
+  "inventions-importantes_telegraphie-electrique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793981632593
   }
  }
 }

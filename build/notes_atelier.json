@@ -72610,6 +72610,62 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980857771
+  },
+  "scientifiques-celebres_amedeo-avogadro": {
+   "cx": 0.4838,
+   "cy": 0.5,
+   "w": 0.7081,
+   "src": "orig",
+   "editeLe": 1793980861130
+  },
+  "scientifiques-celebres_james-prescott-joule": {
+   "cx": 0.5,
+   "cy": 0.4262,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980864193
+  },
+  "scientifiques-celebres_william-thomson-lord-kelvin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980866810
+  },
+  "scientifiques-celebres_ludwig-boltzmann": {
+   "cx": 0.5,
+   "cy": 0.4898,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980869746
+  },
+  "scientifiques-celebres_heinrich-hertz": {
+   "cx": 0.5,
+   "cy": 0.5199,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980872724
+  },
+  "scientifiques-celebres_friedrich-kekule-von-stradonitz": {
+   "cx": 0.5,
+   "cy": 0.4583,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980876835
+  },
+  "scientifiques-celebres_svante-august-arrhenius": {
+   "cx": 0.5,
+   "cy": 0.3968,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980881005
+  },
+  "scientifiques-celebres_fritz-haber": {
+   "cx": 0.5,
+   "cy": 0.428,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980884629
   }
  }
 }

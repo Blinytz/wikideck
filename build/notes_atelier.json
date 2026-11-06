@@ -72204,6 +72204,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980609347
+  },
+  "scientifiques-celebres_grace-hopper": {
+   "cx": 0.5,
+   "cy": 0.3943,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980612122
+  },
+  "scientifiques-celebres_leon-foucault": {
+   "cx": 0.5,
+   "cy": 0.4484,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980615228
+  },
+  "scientifiques-celebres_antoine-becquerel": {
+   "cx": 0.5,
+   "cy": 0.4496,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980618180
   }
  }
 }

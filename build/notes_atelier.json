@@ -69523,6 +69523,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964785404
+  },
+  "monuments-emblematiques_sainte-sophie-constantinople": {
+   "cx": 0.4227,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964791154
+  },
+  "monuments-emblematiques_palais-de-topkap": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964794209
   }
  }
 }

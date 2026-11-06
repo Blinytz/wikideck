@@ -65883,6 +65883,83 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962601638
+  },
+  "monnaies-historiques_dinar-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962603047
+  },
+  "monnaies-historiques_liard-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962604229
+  },
+  "monnaies-historiques_franc-a-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962605448
+  },
+  "monnaies-historiques_napoleon-piece-de-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962606500
+  },
+  "monnaies-historiques_franc-francais-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962607684
+  },
+  "monnaies-historiques_franc-francais-b-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962608612
+  },
+  "monnaies-historiques_penny": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962609628
+  },
+  "monnaies-historiques_shilling": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962610684
+  },
+  "monnaies-historiques_united-states-note": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962611753
+  },
+  "monnaies-historiques_piece-de-1-dollar-americain-morgan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962612893
+  },
+  "monnaies-historiques_thaler-de-marie-therese": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962613796
   }
  }
 }

@@ -68795,6 +68795,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964462727
+  },
+  "lacs_lac-de-bled": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964466330
+  },
+  "lacs_parc-national-des-lacs-de-plitvice": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964469016
+  },
+  "lacs_lac-rose": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964472120
+  },
+  "lacs_lac-natron": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964474275
   }
  }
 }

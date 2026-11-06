@@ -76358,6 +76358,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989977626
+  },
+  "corps-celestes_1-ceres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989979833
+  },
+  "corps-celestes_pluton-planete-naine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989981916
   }
  }
 }

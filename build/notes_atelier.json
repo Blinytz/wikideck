@@ -76255,11 +76255,32 @@
    "editeLe": 1793989902851
   },
   "maladies-et-epidemies_hepatite": {
-   "cx": 0.5,
+   "cx": 0.382,
    "cy": 0.5,
    "w": 0.764,
    "src": "orig",
-   "editeLe": 1793989906441
+   "editeLe": 1793989913034
+  },
+  "maladies-et-epidemies_meningite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989914527
+  },
+  "maladies-et-epidemies_varicelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989916821
+  },
+  "maladies-et-epidemies_coqueluche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989919526
   }
  }
 }

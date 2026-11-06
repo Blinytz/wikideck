@@ -76029,6 +76029,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989587330
+  },
+  "maladies-et-epidemies_paludisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8538,
+   "src": "orig",
+   "editeLe": 1793989594724
+  },
+  "maladies-et-epidemies_lepre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8076,
+   "src": "orig",
+   "editeLe": 1793989597792
+  },
+  "maladies-et-epidemies_rage-maladie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793989599758
+  },
+  "maladies-et-epidemies_poliomyelite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7529,
+   "src": "orig",
+   "editeLe": 1793989601452
+  },
+  "maladies-et-epidemies_rougeole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989603266
   }
  }
 }

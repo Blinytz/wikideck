@@ -71070,9 +71070,9 @@
   "langues-du-monde_ecriture-hieroglyphique-egyptienne": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6102,
+   "w": 0.6105,
    "src": "orig",
-   "editeLe": 1793979976784
+   "editeLe": 1793990536498
   },
   "langues-du-monde_copte": {
    "cx": 0.5,
@@ -75576,18 +75576,18 @@
    "editeLe": 1793990484914
   },
   "langues-du-monde_tamoul": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.475,
+   "cx": 0.499,
+   "cy": 0.5201,
+   "w": 0.3926,
    "src": "orig",
-   "editeLe": 1
+   "editeLe": 1793990538392
   },
   "langues-du-monde_vietnamien": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.475,
+   "cx": 0.4996,
+   "cy": 0.5229,
+   "w": 0.3926,
    "src": "orig",
-   "editeLe": 1
+   "editeLe": 1793990540240
   },
   "langues-du-monde_thai": {
    "cx": 0.5,

@@ -74269,6 +74269,27 @@
    "w": 0.6148,
    "src": "orig",
    "editeLe": 1793982335461
+  },
+  "inventions-importantes_pasteurisation": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982337961
+  },
+  "inventions-importantes_locomotive-a-vapeur": {
+   "cx": 0.597,
+   "cy": 0.5,
+   "w": 0.5291,
+   "src": "orig",
+   "editeLe": 1793982341584
+  },
+  "inventions-importantes_chemin-de-fer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7556,
+   "src": "orig",
+   "editeLe": 1793982345886
   }
  }
 }

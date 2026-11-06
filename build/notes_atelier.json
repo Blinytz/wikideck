@@ -61543,6 +61543,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959467805
+  },
+  "papes_martin-v": {
+   "cx": 0.5,
+   "cy": 0.4312,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959471754
+  },
+  "papes_formose-pape": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8019,
+   "src": "orig",
+   "editeLe": 1793959475597
+  },
+  "dynasties-regnantes_dynastie-qin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959479610
   }
  }
 }

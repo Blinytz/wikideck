@@ -72827,6 +72827,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981000256
+  },
+  "scientifiques-celebres_claude-shannon": {
+   "cx": 0.4971,
+   "cy": 0.5796,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793981006219
+  },
+  "scientifiques-celebres_norbert-wiener": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6627,
+   "src": "orig",
+   "editeLe": 1793981010168
   }
  }
 }

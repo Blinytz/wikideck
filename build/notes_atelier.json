@@ -73961,6 +73961,27 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1793981943003
+  },
+  "inventions-importantes_stimulateur-cardiaque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.727,
+   "src": "orig",
+   "editeLe": 1793981946974
+  },
+  "inventions-importantes_carte-a-puce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5698,
+   "src": "orig",
+   "editeLe": 1793981950610
+  },
+  "inventions-importantes_code-barres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6512,
+   "src": "orig",
+   "editeLe": 1793981954224
   }
  }
 }

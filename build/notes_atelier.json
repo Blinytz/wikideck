@@ -63286,6 +63286,20 @@
    "w": 0.7074,
    "src": "orig",
    "editeLe": 1793960821649
+  },
+  "grandes-batailles-historiques_bataille-de-dunkerque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7274,
+   "src": "orig",
+   "editeLe": 1793960824614
+  },
+  "grandes-batailles-historiques_bataille-de-bir-hakeim": {
+   "cx": 0.5653,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960828361
   }
  }
 }

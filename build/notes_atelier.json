@@ -74430,6 +74430,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793982506141
+  },
+  "inventions-importantes_transfusion-sanguine": {
+   "cx": 0.5,
+   "cy": 0.4456,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982509898
+  },
+  "inventions-importantes_vaccin-a-arn": {
+   "cx": 0.4341,
+   "cy": 0.5,
+   "w": 0.61,
+   "src": "orig",
+   "editeLe": 1793982513685
+  },
+  "inventions-importantes_crispr": {
+   "cx": 0.4709,
+   "cy": 0.5,
+   "w": 0.6139,
+   "src": "orig",
+   "editeLe": 1793982517689
   }
  }
 }

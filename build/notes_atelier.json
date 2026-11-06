@@ -63804,6 +63804,27 @@
    "w": 0.7795,
    "src": "orig",
    "editeLe": 1793961262566
+  },
+  "grandes-guerres_guerre-anglo-zouloue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961263475
+  },
+  "grandes-guerres_premiere-guerre-de-tchetchenie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6087,
+   "src": "orig",
+   "editeLe": 1793961268316
+  },
+  "traites-et-textes-fondateurs_code-de-hammurabi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793961271572
   }
  }
 }

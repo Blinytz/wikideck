@@ -74395,6 +74395,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793982488451
+  },
+  "inventions-importantes_antibiotique": {
+   "cx": 0.411,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982491931
+  },
+  "inventions-importantes_contraception": {
+   "cx": 0.4587,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982494733
+  },
+  "inventions-importantes_echographie": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982499174
   }
  }
 }

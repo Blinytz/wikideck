@@ -72855,6 +72855,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981020901
+  },
+  "scientifiques-celebres_adam-smith": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981024439
+  },
+  "scientifiques-celebres_john-maynard-keynes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1793981027526
+  },
+  "scientifiques-celebres_david-ricardo": {
+   "cx": 0.5,
+   "cy": 0.4581,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981030801
   }
  }
 }

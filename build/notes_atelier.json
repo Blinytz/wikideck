@@ -62880,6 +62880,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960596539
+  },
+  "grandes-batailles-historiques_bataille-de-dien-bien-phu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5684,
+   "src": "orig",
+   "editeLe": 1793960599529
+  },
+  "grandes-batailles-historiques_bataille-de-khe-sanh": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7353,
+   "src": "orig",
+   "editeLe": 1793960602770
+  },
+  "grandes-batailles-historiques_deuxieme-bataille-de-falloujah": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.761,
+   "src": "orig",
+   "editeLe": 1793960605968
   }
  }
 }

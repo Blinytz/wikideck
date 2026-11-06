@@ -65022,6 +65022,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962267505
+  },
+  "figures-resistance_jacques-chaban-delmas": {
+   "cx": 0.5,
+   "cy": 0.4024,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962272240
+  },
+  "figures-resistance_dietrich-bonhoeffer": {
+   "cx": 0.5,
+   "cy": 0.3621,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962275975
+  },
+  "organisations-internationales_organisation-des-nations-unies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7265,
+   "src": "orig",
+   "editeLe": 1793962278751
   }
  }
 }

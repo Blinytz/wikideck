@@ -70860,6 +70860,20 @@
    "w": 0.7217,
    "src": "orig",
    "editeLe": 1793979519758
+  },
+  "sites-antiques_cnossos": {
+   "cx": 0.4494,
+   "cy": 0.5,
+   "w": 0.7027,
+   "src": "orig",
+   "editeLe": 1793979525575
+  },
+  "sites-antiques_leptis-magna": {
+   "cx": 0.5424,
+   "cy": 0.5,
+   "w": 0.7203,
+   "src": "orig",
+   "editeLe": 1793979530364
   }
  }
 }

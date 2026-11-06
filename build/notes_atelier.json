@@ -74066,6 +74066,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982026387
+  },
+  "inventions-importantes_satellite-artificiel": {
+   "cx": 0.4787,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982030974
+  },
+  "inventions-importantes_navette-spatiale": {
+   "cx": 0.5786,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982034549
+  },
+  "inventions-importantes_turbine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982038125
   }
  }
 }

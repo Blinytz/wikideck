@@ -65316,6 +65316,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962425217
+  },
+  "organisations-internationales_wwf": {
+   "cx": 0.5759,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793962430122
+  },
+  "organisations-internationales_federation-internationale-de-football-association": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962431813
+  },
+  "crises-economiques_tulipomanie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6235,
+   "src": "orig",
+   "editeLe": 1793962435333
+  },
+  "crises-economiques_grande-depression": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962437880
   }
  }
 }

@@ -70216,6 +70216,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976596267
+  },
+  "chateaux-celebres_chateau-de-saumur": {
+   "cx": 0.564,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976599387
+  },
+  "chateaux-celebres_chateau-de-pierrefonds": {
+   "cx": 0.5133,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976603156
+  },
+  "chateaux-celebres_chateau-du-haut-koenigsbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976605371
   }
  }
 }

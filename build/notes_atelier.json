@@ -74626,6 +74626,34 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793982628359
+  },
+  "inventions-importantes_monnaie-fiduciaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7909,
+   "src": "orig",
+   "editeLe": 1793982632019
+  },
+  "inventions-importantes_ordinateur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8461,
+   "src": "orig",
+   "editeLe": 1793982635044
+  },
+  "inventions-importantes_machine-electrique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9828,
+   "src": "orig",
+   "editeLe": 1793982638328
+  },
+  "inventions-importantes_acide-acetylsalicylique": {
+   "cx": 0.5,
+   "cy": 0.5131,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982641810
   }
  }
 }

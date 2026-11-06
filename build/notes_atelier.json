@@ -66058,6 +66058,20 @@
    "w": 0.7239,
    "src": "orig",
    "editeLe": 1793962681257
+  },
+  "grands-explorateurs_vasco-nunez-de-balboa": {
+   "cx": 0.5,
+   "cy": 0.4083,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962684683
+  },
+  "grands-explorateurs_juan-ponce-de-leon": {
+   "cx": 0.5455,
+   "cy": 0.3909,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793962692458
   }
  }
 }

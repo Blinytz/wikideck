@@ -68298,6 +68298,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964046303
+  },
+  "fleuves-mers-et-oceans_grande-barriere-de-corail": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964048713
+  },
+  "fleuves-mers-et-oceans_detroit-de-gibraltar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964050621
+  },
+  "fleuves-mers-et-oceans_canal-de-suez": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964052536
+  },
+  "fleuves-mers-et-oceans_canal-de-panama": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964054514
+  },
+  "fleuves-mers-et-oceans_fleuve-saint-laurent": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964056341
   }
  }
 }

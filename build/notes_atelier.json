@@ -72085,6 +72085,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980534044
+  },
+  "scientifiques-celebres_ivan-pavlov": {
+   "cx": 0.5,
+   "cy": 0.3498,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980537502
+  },
+  "scientifiques-celebres_jean-piaget": {
+   "cx": 0.5,
+   "cy": 0.2868,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980540925
+  },
+  "scientifiques-celebres_alexander-fleming": {
+   "cx": 0.5,
+   "cy": 0.3902,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980543988
   }
  }
 }

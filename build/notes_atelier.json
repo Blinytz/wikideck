@@ -72477,6 +72477,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980781687
+  },
+  "scientifiques-celebres_georg-cantor": {
+   "cx": 0.5,
+   "cy": 0.4163,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980784064
+  },
+  "scientifiques-celebres_henri-poincare": {
+   "cx": 0.5,
+   "cy": 0.3676,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980787760
+  },
+  "scientifiques-celebres_david-hilbert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980790543
   }
  }
 }

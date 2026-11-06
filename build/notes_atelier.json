@@ -68984,6 +68984,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964523828
+  },
+  "deserts_desert-de-sonora": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964525756
+  },
+  "deserts_desert-de-chihuahua": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964528372
+  },
+  "deserts_grand-desert-de-victoria": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964530745
+  },
+  "deserts_desert-de-simpson": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964532804
   }
  }
 }

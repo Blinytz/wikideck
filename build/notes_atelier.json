@@ -74745,6 +74745,27 @@
    "w": 0.7673,
    "src": "orig",
    "editeLe": 1793982697683
+  },
+  "inventions-importantes_char-d-assaut": {
+   "cx": 0.4337,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793982700954
+  },
+  "inventions-importantes_disque-compact": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7217,
+   "src": "orig",
+   "editeLe": 1793982703724
+  },
+  "inventions-importantes_cassette-audio": {
+   "cx": 0.496,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982707936
   }
  }
 }

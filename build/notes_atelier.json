@@ -75081,6 +75081,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793983078102
+  },
+  "theoremes-et-lois_theoreme-de-bayes": {
+   "cx": 0.5006,
+   "cy": 0.5943,
+   "w": 0.8427,
+   "src": "orig",
+   "editeLe": 1793983140239
+  },
+  "theoremes-et-lois_loi-de-hubble-lemaitre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983144979
   }
  }
 }

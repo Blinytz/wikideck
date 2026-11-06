@@ -73870,6 +73870,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981862312
+  },
+  "inventions-importantes_laser": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793981866538
+  },
+  "inventions-importantes_transistor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793981869543
+  },
+  "inventions-importantes_circuit-integre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.62,
+   "src": "orig",
+   "editeLe": 1793981872081
   }
  }
 }

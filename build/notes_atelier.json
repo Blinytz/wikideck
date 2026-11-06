@@ -62572,6 +62572,20 @@
    "w": 0.6959,
    "src": "orig",
    "editeLe": 1793960406233
+  },
+  "empires-et-civilisations_dynastie-qadjar": {
+   "cx": 0.4427,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960413550
+  },
+  "empires-et-civilisations_empire-du-bresil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5806,
+   "src": "orig",
+   "editeLe": 1793960416940
   }
  }
 }

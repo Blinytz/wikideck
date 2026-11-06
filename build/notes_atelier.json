@@ -70104,6 +70104,34 @@
    "w": 0.5426,
    "src": "orig",
    "editeLe": 1793965143028
+  },
+  "chateaux-celebres_chateau-de-chenonceau": {
+   "cx": 0.445,
+   "cy": 0.5,
+   "w": 0.8397,
+   "src": "orig",
+   "editeLe": 1793965149097
+  },
+  "chateaux-celebres_chateau-de-schonbrunn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5522,
+   "src": "orig",
+   "editeLe": 1793965151320
+  },
+  "chateaux-celebres_chateau-de-bran": {
+   "cx": 0.5837,
+   "cy": 0.5,
+   "w": 0.7203,
+   "src": "orig",
+   "editeLe": 1793965154580
+  },
+  "chateaux-celebres_chateau-de-windsor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793965157182
   }
  }
 }

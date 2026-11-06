@@ -72918,6 +72918,27 @@
    "w": 0.7228,
    "src": "orig",
    "editeLe": 1793981050000
+  },
+  "scientifiques-celebres_claude-levi-strauss": {
+   "cx": 0.5,
+   "cy": 0.396,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981053785
+  },
+  "scientifiques-celebres_franz-boas": {
+   "cx": 0.5,
+   "cy": 0.4256,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981056944
+  },
+  "scientifiques-celebres_bronis-aw-malinowski": {
+   "cx": 0.5,
+   "cy": 0.3819,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981060153
   }
  }
 }

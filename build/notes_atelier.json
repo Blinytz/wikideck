@@ -72260,6 +72260,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980658114
+  },
+  "scientifiques-celebres_peter-higgs": {
+   "cx": 0.5,
+   "cy": 0.3821,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980663770
+  },
+  "scientifiques-celebres_roger-penrose": {
+   "cx": 0.5,
+   "cy": 0.4596,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980668253
+  },
+  "scientifiques-celebres_kip-thorne": {
+   "cx": 0.5,
+   "cy": 0.4366,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980671070
+  },
+  "scientifiques-celebres_jocelyn-bell": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980674331
   }
  }
 }

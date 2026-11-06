@@ -70783,6 +70783,20 @@
    "w": 0.74,
    "src": "orig",
    "editeLe": 1793979431777
+  },
+  "sites-antiques_deir-el-bahari": {
+   "cx": 0.484,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979441230
+  },
+  "sites-antiques_persepolis": {
+   "cx": 0.4947,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979444726
   }
  }
 }

@@ -68914,6 +68914,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964504852
+  },
+  "deserts_desert-d-atacama": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964506685
+  },
+  "deserts_desert-du-kalahari": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964508478
+  },
+  "deserts_desert-du-namib": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964510192
+  },
+  "deserts_rub-al-khali": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964511995
+  },
+  "deserts_desert-de-syrie": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964513899
   }
  }
 }

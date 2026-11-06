@@ -65498,6 +65498,55 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793962502644
+  },
+  "monnaies-historiques_drachme-grece-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793962506308
+  },
+  "monnaies-historiques_statere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962508577
+  },
+  "monnaies-historiques_obole-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962511371
+  },
+  "monnaies-historiques_talent-unite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962513248
+  },
+  "monnaies-historiques_mine-unite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962515099
+  },
+  "monnaies-historiques_sicle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962516564
+  },
+  "monnaies-historiques_denier-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962518230
   }
  }
 }

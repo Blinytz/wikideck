@@ -67073,6 +67073,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963082125
+  },
+  "villes-du-monde_johannesbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963083620
+  },
+  "villes-du-monde_la-mecque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963085394
+  },
+  "villes-du-monde_teheran": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963087397
+  },
+  "villes-du-monde_benares": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963089816
+  },
+  "villes-du-monde_calcutta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963091828
   }
  }
 }

@@ -70442,11 +70442,32 @@
    "editeLe": 1793976796391
   },
   "chateaux-celebres_chateau-de-heidelberg": {
+   "cx": 0.4614,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976810189
+  },
+  "chateaux-celebres_chateau-de-la-wartbourg": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793976797989
+   "editeLe": 1793976812139
+  },
+  "chateaux-celebres_palais-de-sanssouci": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976814297
+  },
+  "chateaux-celebres_forteresse-teutonique-de-marienbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976816729
   }
  }
 }

@@ -255,7 +255,7 @@
   {
    "slug": "corps-humain",
    "nom": "Corps humain",
-   "nbCartes": 51,
+   "nbCartes": 50,
    "fichier": "data/corps-humain.json",
    "theme": "Sciences et techniques"
   },

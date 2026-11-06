@@ -64329,6 +64329,20 @@
    "w": 0.714,
    "src": "orig",
    "editeLe": 1793961716818
+  },
+  "figures-emancipation_desmond-tutu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793961721858
+  },
+  "figures-emancipation_winnie-mandela": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961726826
   }
  }
 }

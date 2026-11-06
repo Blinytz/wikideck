@@ -74864,6 +74864,27 @@
    "w": 0.592,
    "src": "orig",
    "editeLe": 1793982801345
+  },
+  "theoremes-et-lois_lois-de-kepler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982804114
+  },
+  "theoremes-et-lois_relativite-restreinte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793982806467
+  },
+  "theoremes-et-lois_relativite-generale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793982809390
   }
  }
 }

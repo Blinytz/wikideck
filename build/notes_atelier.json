@@ -62376,6 +62376,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960249578
+  },
+  "empires-et-civilisations_dynastie-chola": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7597,
+   "src": "orig",
+   "editeLe": 1793960253775
+  },
+  "empires-et-civilisations_empire-ethiopien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960259006
   }
  }
 }

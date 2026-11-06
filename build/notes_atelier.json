@@ -67969,6 +67969,76 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963952822
+  },
+  "montagnes-et-volcans_nyiragongo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963953921
+  },
+  "montagnes-et-volcans_tambora": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963954967
+  },
+  "montagnes-et-volcans_merapi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963955921
+  },
+  "montagnes-et-volcans_hekla": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963957008
+  },
+  "montagnes-et-volcans_chimborazo-volcan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963958052
+  },
+  "montagnes-et-volcans_huascaran": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963959494
+  },
+  "montagnes-et-volcans_mont-roraima": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963960547
+  },
+  "montagnes-et-volcans_mont-du-pain-de-sucre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963961619
+  },
+  "montagnes-et-volcans_el-capitan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963962734
+  },
+  "montagnes-et-volcans_mont-damavand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963963597
   }
  }
 }

@@ -61662,6 +61662,27 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1793959538150
+  },
+  "dynasties-regnantes_shogunat-ashikaga": {
+   "cx": 0.5998,
+   "cy": 0.5325,
+   "w": 0.7444,
+   "src": "orig",
+   "editeLe": 1793959546271
+  },
+  "dynasties-regnantes_dynastie-lagide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6022,
+   "src": "orig",
+   "editeLe": 1793959549655
+  },
+  "dynasties-regnantes_fatimides": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793959553048
   }
  }
 }

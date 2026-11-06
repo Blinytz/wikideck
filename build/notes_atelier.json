@@ -71798,6 +71798,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980355115
+  },
+  "scientifiques-celebres_alhazen": {
+   "cx": 0.4609,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980358753
+  },
+  "scientifiques-celebres_nicolas-copernic": {
+   "cx": 0.5,
+   "cy": 0.4656,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980362293
+  },
+  "scientifiques-celebres_galilee-savant": {
+   "cx": 0.5,
+   "cy": 0.4368,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980366172
   }
  }
 }

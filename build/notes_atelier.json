@@ -71959,6 +71959,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980455929
+  },
+  "scientifiques-celebres_marie-curie": {
+   "cx": 0.5,
+   "cy": 0.4073,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980459700
+  },
+  "scientifiques-celebres_pierre-curie": {
+   "cx": 0.5,
+   "cy": 0.4605,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980463358
+  },
+  "scientifiques-celebres_max-planck": {
+   "cx": 0.5,
+   "cy": 0.3668,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980466803
   }
  }
 }

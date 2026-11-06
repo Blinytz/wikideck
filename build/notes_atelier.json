@@ -65148,6 +65148,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962333622
+  },
+  "organisations-internationales_association-des-nations-de-l-asie-du-sud-est": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.723,
+   "src": "orig",
+   "editeLe": 1793962337493
+  },
+  "organisations-internationales_organisation-des-etats-americains": {
+   "cx": 0.4622,
+   "cy": 0.5,
+   "w": 0.721,
+   "src": "orig",
+   "editeLe": 1793962341711
   }
  }
 }

@@ -61522,6 +61522,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959453407
+  },
+  "papes_leon-xiv": {
+   "cx": 0.448,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959458154
+  },
+  "papes_celestin-v": {
+   "cx": 0.5,
+   "cy": 0.4684,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959462642
   }
  }
 }

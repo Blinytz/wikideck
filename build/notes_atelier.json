@@ -75032,6 +75032,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983055775
+  },
+  "theoremes-et-lois_conjecture-de-poincare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983058912
+  },
+  "theoremes-et-lois_loi-de-moore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7163,
+   "src": "orig",
+   "editeLe": 1793983062546
   }
  }
 }

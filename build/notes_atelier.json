@@ -68480,6 +68480,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964105193
+  },
+  "fleuves-mers-et-oceans_mer-egee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964109576
+  },
+  "fleuves-mers-et-oceans_mer-adriatique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964114989
   }
  }
 }

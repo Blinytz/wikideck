@@ -63580,6 +63580,27 @@
    "w": 0.6638,
    "src": "orig",
    "editeLe": 1793961007977
+  },
+  "grandes-guerres_guerre-de-vendee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961011241
+  },
+  "grandes-guerres_guerre-d-independance-grecque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961013809
+  },
+  "grandes-guerres_guerre-de-crimee": {
+   "cx": 0.5328,
+   "cy": 0.4288,
+   "w": 0.5319,
+   "src": "orig",
+   "editeLe": 1793961018620
   }
  }
 }

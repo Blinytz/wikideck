@@ -69390,6 +69390,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964713112
+  },
+  "micro-etats_grenade-pays": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964715135
+  },
+  "monuments-emblematiques_tunnel-sous-la-manche": {
+   "cx": 0.552,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964719179
+  },
+  "monuments-emblematiques_tour-eiffel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793964722070
   }
  }
 }

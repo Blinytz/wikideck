@@ -74766,6 +74766,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793982707936
+  },
+  "inventions-importantes_magnetoscope": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982711146
+  },
+  "inventions-importantes_jeu-video": {
+   "cx": 0.4929,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793982716071
+  },
+  "inventions-importantes_telephone-mobile": {
+   "cx": 0.5297,
+   "cy": 0.5,
+   "w": 0.7553,
+   "src": "orig",
+   "editeLe": 1793982720280
   }
  }
 }

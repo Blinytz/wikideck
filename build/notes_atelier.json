@@ -71448,6 +71448,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980225722
+  },
+  "monnaies-du-monde_dollar-namibien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980227249
+  },
+  "monnaies-du-monde_ariary": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980228843
+  },
+  "monnaies-du-monde_riyal-saoudien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980230222
+  },
+  "monnaies-du-monde_dirham-des-emirats-arabes-unis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980231703
+  },
+  "monnaies-du-monde_riyal-qatarien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980233181
+  },
+  "monnaies-du-monde_dinar-koweitien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980234496
+  },
+  "monnaies-du-monde_dinar-jordanien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980235538
   }
  }
 }

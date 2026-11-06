@@ -67444,6 +67444,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963776219
+  },
+  "iles_ouessant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963778435
+  },
+  "iles_taiwan-ile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963780473
+  },
+  "iles_martinique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963782595
+  },
+  "iles_guadeloupe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963784716
   }
  }
 }

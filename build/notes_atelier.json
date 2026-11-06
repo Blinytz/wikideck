@@ -73226,6 +73226,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981246546
+  },
+  "inventeurs-et-ingenieurs_wernher-von-braun": {
+   "cx": 0.4926,
+   "cy": 0.5,
+   "w": 0.9044,
+   "src": "orig",
+   "editeLe": 1793981250980
+  },
+  "inventeurs-et-ingenieurs_tim-berners-lee": {
+   "cx": 0.5039,
+   "cy": 0.4339,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793981258340
   }
  }
 }

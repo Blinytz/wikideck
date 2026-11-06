@@ -62152,6 +62152,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959976707
+  },
+  "empires-et-civilisations_empire-du-ghana": {
+   "cx": 0.5507,
+   "cy": 0.5,
+   "w": 0.6196,
+   "src": "orig",
+   "editeLe": 1793959980968
+  },
+  "empires-et-civilisations_royaume-zoulou": {
+   "cx": 0.5636,
+   "cy": 0.5,
+   "w": 0.719,
+   "src": "orig",
+   "editeLe": 1793959985280
+  },
+  "empires-et-civilisations_royaume-d-aksoum": {
+   "cx": 0.5438,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793959988572
   }
  }
 }

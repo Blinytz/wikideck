@@ -68417,6 +68417,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964084001
+  },
+  "fleuves-mers-et-oceans_ob": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964086668
+  },
+  "fleuves-mers-et-oceans_lena": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964089595
+  },
+  "fleuves-mers-et-oceans_jourdain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964091972
   }
  }
 }

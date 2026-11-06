@@ -62838,6 +62838,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960577532
+  },
+  "grandes-batailles-historiques_bataille-de-verdun": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960580630
+  },
+  "grandes-batailles-historiques_bataille-de-la-somme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960582645
+  },
+  "grandes-batailles-historiques_bataille-de-stalingrad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960584238
   }
  }
 }

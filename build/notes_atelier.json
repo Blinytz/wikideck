@@ -63552,6 +63552,34 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793961000189
+  },
+  "grandes-guerres_guerre-des-malouines": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5698,
+   "src": "orig",
+   "editeLe": 1793961002127
+  },
+  "grandes-guerres_reconquista": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6166,
+   "src": "orig",
+   "editeLe": 1793961003842
+  },
+  "grandes-guerres_guerres-d-italie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7041,
+   "src": "orig",
+   "editeLe": 1793961005997
+  },
+  "grandes-guerres_guerre-de-succession-d-autriche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6638,
+   "src": "orig",
+   "editeLe": 1793961007977
   }
  }
 }

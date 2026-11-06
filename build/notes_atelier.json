@@ -73415,6 +73415,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981421175
+  },
+  "inventeurs-et-ingenieurs_jack-kilby": {
+   "cx": 0.4522,
+   "cy": 0.5,
+   "w": 0.9044,
+   "src": "orig",
+   "editeLe": 1793981425713
+  },
+  "inventeurs-et-ingenieurs_robert-noyce": {
+   "cx": 0.6529,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793981430682
+  },
+  "inventeurs-et-ingenieurs_gordon-earle-moore": {
+   "cx": 0.5402,
+   "cy": 0.5,
+   "w": 0.7225,
+   "src": "orig",
+   "editeLe": 1793981433775
   }
  }
 }

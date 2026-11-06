@@ -61291,6 +61291,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793959275827
+  },
+  "papes_sylvestre-ii": {
+   "cx": 0.5,
+   "cy": 0.4705,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959282733
+  },
+  "papes_gregoire-vii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959286476
   }
  }
 }

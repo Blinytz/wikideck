@@ -75186,6 +75186,13 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983215952
+  },
+  "corps-humain_pancreas": {
+   "cx": 0.55,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983221781
   }
  }
 }

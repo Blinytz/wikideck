@@ -62670,6 +62670,34 @@
    "w": 0.6425,
    "src": "orig",
    "editeLe": 1793960458135
+  },
+  "grandes-batailles-historiques_bataille-des-champs-catalauniques-451": {
+   "cx": 0.4919,
+   "cy": 0.5295,
+   "w": 0.7207,
+   "src": "orig",
+   "editeLe": 1793960463458
+  },
+  "grandes-batailles-historiques_bataille-de-manzikert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960465218
+  },
+  "grandes-batailles-historiques_bataille-de-hattin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960466989
+  },
+  "grandes-batailles-historiques_bataille-de-courtrai-1302": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960468474
   }
  }
 }

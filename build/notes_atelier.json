@@ -65134,6 +65134,20 @@
    "w": 0.7229,
    "src": "orig",
    "editeLe": 1793962324433
+  },
+  "organisations-internationales_organisation-des-pays-exportateurs-de-petrole": {
+   "cx": 0.5357,
+   "cy": 0.5,
+   "w": 0.7262,
+   "src": "orig",
+   "editeLe": 1793962328546
+  },
+  "organisations-internationales_union-africaine": {
+   "cx": 0.56,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962333622
   }
  }
 }

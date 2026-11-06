@@ -63601,6 +63601,27 @@
    "w": 0.5319,
    "src": "orig",
    "editeLe": 1793961018620
+  },
+  "grandes-guerres_guerres-de-l-opium": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7054,
+   "src": "orig",
+   "editeLe": 1793961020963
+  },
+  "grandes-guerres_revolte-des-taiping": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6099,
+   "src": "orig",
+   "editeLe": 1793961023543
+  },
+  "grandes-guerres_risorgimento": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793961026993
   }
  }
 }

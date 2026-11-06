@@ -67724,6 +67724,34 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793963886458
+  },
+  "montagnes-et-volcans_mauna-kea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793963903182
+  },
+  "montagnes-et-volcans_mauna-loa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963905868
+  },
+  "montagnes-et-volcans_popocatepetl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963908108
+  },
+  "montagnes-et-volcans_eyjafjallajokull": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963910227
   }
  }
 }

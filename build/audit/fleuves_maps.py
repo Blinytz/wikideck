@@ -132,6 +132,8 @@ def main():
     noms = [a for a in sys.argv[1:] if not a.startswith("--")]
     if "--tous" in sys.argv:
         noms = list(TRACES) + list(LIEUX)
+    if "--fleuves" in sys.argv:
+        noms = list(FLEUVES) + list(TRACES)
     cartes = {c['nom']: c for c in json.loads(
         (RACINE / 'data' / 'fleuves-mers-et-oceans.json').read_text(encoding='utf-8'))['cartes']}
     (M.BROUILLON / 'fleuves').mkdir(parents=True, exist_ok=True)
@@ -187,7 +189,9 @@ def main():
             x0z, y0z, x1z, y1z = M.ZONE_DIRECTE
             h_max = min(y1z - y0z, (x1z - x0z) * 3 / 4) * M.ECHELLE
             gros, _ = M.recadrer(im, (cx, cy), h_max / resserre, M.ZONE_DIRECTE)
-            img = M.composer(gros, planisphere.carte_zone(clat, clng, 900), None)
+            # le trace dessine, recadre comme la carte : l'encart doit l'eviter
+            trace, _ = M.recadrer(calque.split()[3], (cx, cy), h_max / resserre, M.ZONE_DIRECTE)
+            img = M.composer(gros, planisphere.carte_zone(clat, clng, 900), None, interdit=trace)
             f = c['id'].split('_', 1)[1]
             if apercu:
                 img.save(M.BROUILLON / 'fleuves' / f'{f}.png')
@@ -203,7 +207,9 @@ def main():
                 (RACINE / rel).write_bytes(octets)
             fn = RACINE / 'build' / 'notes_atelier.json'
             notes = json.loads(fn.read_text(encoding='utf-8'))
-            notes['cadrages'][c['id']] = {'cx': 0.5, 'cy': 0.5, 'w': 0.8, 'original': True, 'editeLe': 0, 'auto': True}
+            # un cadrage deja valide dans l'atelier est garde (meme cadre, meme taille)
+            if not (notes['cadrages'].get(c['id']) or {}).get('editeLe'):
+                notes['cadrages'][c['id']] = {'cx': 0.5, 'cy': 0.5, 'w': 0.8, 'original': True, 'editeLe': 0, 'auto': True}
             fn.write_text(json.dumps(notes, ensure_ascii=False, indent=1), encoding='utf-8')
             fs = RACINE / 'build' / 'images_sources.json'
             src = json.loads(fs.read_text(encoding='utf-8'))

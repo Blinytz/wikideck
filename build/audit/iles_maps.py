@@ -235,24 +235,32 @@ def part_eau(im):
     return eau.mean()
 
 
-def composer(gros, encart, ile=None):
+def composer(gros, encart, ile=None, interdit=None):
     """Pose l'encart la ou il ne cache que de l'eau : on essaie les quatre
     coins de ce que montre la carte, puis le milieu des bords, et on garde la
     place la plus « mouillee » (a egalite, un coin)."""
     im = gros.copy()
     W, H = im.size
     cw, ch = int(W * 0.8), int(H * 0.8)          # ce que la carte montre
-    ew = int(cw * 0.34)
+    ew = int(cw * 0.3)
     eh = round(ew * encart.height / encart.width)
     if eh > ch * 0.42:                      # carte de continent en hauteur : on la borne
         eh = int(ch * 0.42); ew = round(eh * encart.width / encart.height)
     e = encart.resize((ew, eh), Image.LANCZOS)
-    mx, my = int(cw * 0.025), int(ch * 0.03)
+    # marge laterale : les nouvelles cartes n'affichent que les 81 % centraux de
+    # la largeur (zone d'image 760 x 700) ; l'encart doit rester dedans
+    mx, my = int(cw * 0.115), int(ch * 0.03)
     gx, gy = (W - cw) // 2 + mx, (H - ch) // 2 + my
     dx, dy = (W + cw) // 2 - mx - e.width, (H + ch) // 2 - my - e.height
     cx, cy = (W - e.width) // 2, (H - e.height) // 2
     places = [(gx, dy), (dx, dy), (gx, gy), (dx, gy),          # coins
               (cx, dy), (cx, gy), (gx, cy), (dx, cy)]          # milieux des bords
+    if interdit is not None:
+        # avec un trace a eviter (fleuve), on essaie aussi les tiers des bords
+        for t in (1 / 3, 2 / 3):
+            x = round(gx + (dx - gx) * t); y = round(gy + (dy - gy) * t)
+            places += [(x, gy), (x, dy), (gx, y), (dx, y)]
+        masque = np.asarray(interdit.convert('L')) > 0
 
     # l'ile : sa boite si on la connait, sinon le centre de la carte (cadrage
     # par etendue : l'ile y occupe ~68 %)
@@ -265,6 +273,13 @@ def composer(gros, encart, ile=None):
         w = max(0, min(x0 + e.width + m, boite[2]) - max(x0 - m, boite[0]))
         h = max(0, min(y0 + e.height + m, boite[3]) - max(y0 - m, boite[1]))
         sur_ile = w * h / ((e.width + 2 * m) * (e.height + 2 * m))
+        # le trace (fleuve, epingle) ne doit jamais passer sous l'encart
+        trace = 0.0
+        if interdit is not None:
+            zone = masque[max(0, y0 - 20):y0 + e.height + 20, max(0, x0 - 20):x0 + e.width + 20]
+            trace = zone.mean() if zone.size else 0.0
+            if trace > 0:
+                return -10 - trace
         # de la mer d'abord ; une terre etrangere plutot que l'ile elle-meme
         return eau - 0.8 * sur_ile - (0.04 if k >= 4 else 0)
     k = max(range(len(places)), key=lambda k: note(k, places[k]))

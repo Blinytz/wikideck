@@ -74010,6 +74010,20 @@
    "w": 0.7231,
    "src": "full",
    "editeLe": 1793982000317
+  },
+  "inventions-importantes_calculatrice": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982005462
+  },
+  "inventions-importantes_four-a-micro-ondes": {
+   "cx": 0.5426,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982009177
   }
  }
 }

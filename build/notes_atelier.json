@@ -71903,6 +71903,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980419684
+  },
+  "scientifiques-celebres_michael-faraday": {
+   "cx": 0.5,
+   "cy": 0.4595,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980423442
+  },
+  "scientifiques-celebres_charles-darwin": {
+   "cx": 0.5,
+   "cy": 0.3737,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980426943
+  },
+  "scientifiques-celebres_gregor-mendel": {
+   "cx": 0.5,
+   "cy": 0.421,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980430467
   }
  }
 }

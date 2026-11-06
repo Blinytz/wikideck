@@ -67416,6 +67416,34 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1793963765035
+  },
+  "iles_seychelles": {
+   "cx": 0.5586,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963769662
+  },
+  "iles_archipel-des-comores": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963771287
+  },
+  "iles_ile-maurice": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963774140
+  },
+  "iles_la-reunion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963776219
   }
  }
 }

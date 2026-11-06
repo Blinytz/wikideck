@@ -59358,7 +59358,7 @@
    "cy": 0.5,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793822452159
+   "editeLe": 1793960161316
   },
   "empires-et-civilisations_huns": {
    "cx": 0.5291,
@@ -62271,6 +62271,13 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793960158942
+  },
+  "empires-et-civilisations_bilan-du-regne-d-alexandre-le-grand": {
+   "cx": 0.6059,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960167452
   }
  }
 }

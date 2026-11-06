@@ -71938,6 +71938,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980446714
+  },
+  "scientifiques-celebres_james-clerk-maxwell": {
+   "cx": 0.5,
+   "cy": 0.4479,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980450172
+  },
+  "scientifiques-celebres_dmitri-mendeleiev": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980453425
+  },
+  "scientifiques-celebres_wilhelm-rontgen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980455929
   }
  }
 }

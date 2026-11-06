@@ -70075,7 +70075,28 @@
    "cy": 0.5,
    "w": 0.7235,
    "src": "orig",
-   "editeLe": 1793965114502
+   "editeLe": 1793965131612
+  },
+  "chateaux-celebres_chateau-de-versailles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793965133795
+  },
+  "chateaux-celebres_chateau-d-edimbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793965136018
+  },
+  "chateaux-celebres_chateau-de-chambord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793965138479
   }
  }
 }

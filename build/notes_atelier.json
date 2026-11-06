@@ -76015,6 +76015,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989583105
+  },
+  "maladies-et-epidemies_cholera": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989585865
+  },
+  "maladies-et-epidemies_tuberculose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989587330
   }
  }
 }

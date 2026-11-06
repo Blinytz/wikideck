@@ -70587,6 +70587,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976878808
+  },
+  "chateaux-celebres_chateau-de-belmonte": {
+   "cx": 0.536,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976882264
+  },
+  "chateaux-celebres_chateau-d-osaka": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793976887848
+  },
+  "chateaux-celebres_chateau-de-matsumoto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976889809
   }
  }
 }

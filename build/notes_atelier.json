@@ -65239,6 +65239,34 @@
    "w": 0.6703,
    "src": "orig",
    "editeLe": 1793962383709
+  },
+  "organisations-internationales_medecins-sans-frontieres": {
+   "cx": 0.5613,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962387985
+  },
+  "organisations-internationales_amnesty-international": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962390898
+  },
+  "organisations-internationales_comite-international-olympique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962393060
+  },
+  "organisations-internationales_greenpeace": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962395045
   }
  }
 }

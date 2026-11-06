@@ -73436,6 +73436,27 @@
    "w": 0.7225,
    "src": "orig",
    "editeLe": 1793981433775
+  },
+  "inventeurs-et-ingenieurs_douglas-engelbart": {
+   "cx": 0.463,
+   "cy": 0.5,
+   "w": 0.6104,
+   "src": "orig",
+   "editeLe": 1793981437043
+  },
+  "inventeurs-et-ingenieurs_steve-wozniak": {
+   "cx": 0.5,
+   "cy": 0.3399,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981440153
+  },
+  "inventeurs-et-ingenieurs_linus-torvalds": {
+   "cx": 0.5,
+   "cy": 0.4787,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981443640
   }
  }
 }

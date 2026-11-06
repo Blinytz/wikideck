@@ -75305,6 +75305,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793983707123
+  },
+  "corps-humain_appareil-cardiovasculaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793983739520
+  },
+  "corps-humain_appareil-respiratoire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983742047
   }
  }
 }

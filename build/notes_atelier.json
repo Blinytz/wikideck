@@ -62173,6 +62173,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793959988572
+  },
+  "empires-et-civilisations_empire-khmer": {
+   "cx": 0.3653,
+   "cy": 0.5002,
+   "w": 0.6061,
+   "src": "orig",
+   "editeLe": 1793959998344
+  },
+  "empires-et-civilisations_empire-britannique": {
+   "cx": 0.5,
+   "cy": 0.4557,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960004926
   }
  }
 }

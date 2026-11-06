@@ -75857,6 +75857,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983856135
+  },
+  "corps-humain_erythrocyte": {
+   "cx": 0.4947,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983859912
+  },
+  "corps-humain_leucocyte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983861685
   }
  }
 }

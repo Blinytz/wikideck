@@ -75975,6 +75975,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989507306
+  },
+  "corps-humain_glande-surrenale": {
+   "cx": 0.3052,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793989519895
+  },
+  "corps-humain_dent": {
+   "cx": 0.5746,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989523617
   }
  }
 }

@@ -68333,6 +68333,34 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1793964056341
+  },
+  "fleuves-mers-et-oceans_orenoque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964058553
+  },
+  "fleuves-mers-et-oceans_rio-parana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964060613
+  },
+  "fleuves-mers-et-oceans_missouri-riviere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964062971
+  },
+  "fleuves-mers-et-oceans_tamise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964064829
   }
  }
 }

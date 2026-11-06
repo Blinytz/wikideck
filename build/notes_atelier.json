@@ -74689,6 +74689,20 @@
    "w": 0.6202,
    "src": "orig",
    "editeLe": 1793982663238
+  },
+  "inventions-importantes_moulin-a-vent": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7522,
+   "src": "orig",
+   "editeLe": 1793982665994
+  },
+  "inventions-importantes_brouette": {
+   "cx": 0.4159,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793982669074
   }
  }
 }

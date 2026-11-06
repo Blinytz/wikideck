@@ -74717,6 +74717,20 @@
    "w": 0.7251,
    "src": "orig",
    "editeLe": 1793982678234
+  },
+  "inventions-importantes_cadran-solaire": {
+   "cx": 0.4692,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793982683842
+  },
+  "inventions-importantes_chronometre-de-marine": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982687847
   }
  }
 }

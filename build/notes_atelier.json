@@ -73520,6 +73520,20 @@
    "w": 0.5426,
    "src": "orig",
    "editeLe": 1793981485675
+  },
+  "inventeurs-et-ingenieurs_gottlieb-daimler": {
+   "cx": 0.5,
+   "cy": 0.4149,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981489969
+  },
+  "inventeurs-et-ingenieurs_louis-renault-industriel": {
+   "cx": 0.5,
+   "cy": 0.373,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981492811
   }
  }
 }

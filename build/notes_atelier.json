@@ -74353,6 +74353,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793982461372
+  },
+  "inventions-importantes_vulcanisation": {
+   "cx": 0.5064,
+   "cy": 0.5235,
+   "w": 0.7848,
+   "src": "orig",
+   "editeLe": 1793982466567
+  },
+  "inventions-importantes_procede-haber": {
+   "cx": 0.4307,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982470723
   }
  }
 }

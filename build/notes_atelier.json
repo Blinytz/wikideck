@@ -66219,6 +66219,27 @@
    "w": 0.7973,
    "src": "orig",
    "editeLe": 1793962778695
+  },
+  "grands-explorateurs_freya-stark": {
+   "cx": 0.5,
+   "cy": 0.4619,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962782058
+  },
+  "grands-explorateurs_nellie-bly": {
+   "cx": 0.5,
+   "cy": 0.3663,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962785731
+  },
+  "grands-explorateurs_ida-pfeiffer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8915,
+   "src": "orig",
+   "editeLe": 1793962788404
   }
  }
 }

@@ -73338,6 +73338,41 @@
    "w": 0.683,
    "src": "orig",
    "editeLe": 1793981382586
+  },
+  "inventeurs-et-ingenieurs_louis-daguerre": {
+   "cx": 0.5153,
+   "cy": 0.4317,
+   "w": 0.8264,
+   "src": "orig",
+   "editeLe": 1793981388933
+  },
+  "inventeurs-et-ingenieurs_elisha-otis": {
+   "cx": 0.5,
+   "cy": 0.4013,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981392455
+  },
+  "inventeurs-et-ingenieurs_isaac-merritt-singer": {
+   "cx": 0.5,
+   "cy": 0.3764,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981395787
+  },
+  "inventeurs-et-ingenieurs_ferdinand-von-zeppelin": {
+   "cx": 0.5,
+   "cy": 0.3918,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981398474
+  },
+  "inventeurs-et-ingenieurs_auguste-et-louis-lumiere": {
+   "cx": 0.5,
+   "cy": 0.4246,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981401357
   }
  }
 }

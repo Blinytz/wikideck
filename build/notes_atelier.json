@@ -76666,6 +76666,76 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793990229039
+  },
+  "corps-celestes_proxima-centauri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990231129
+  },
+  "corps-celestes_alpha-centauri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990233627
+  },
+  "corps-celestes_vega": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990235692
+  },
+  "corps-celestes_rigel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990237576
+  },
+  "corps-celestes_antares": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990239501
+  },
+  "corps-celestes_aldebaran": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990241249
+  },
+  "corps-celestes_arcturus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7556,
+   "src": "orig",
+   "editeLe": 1793990242984
+  },
+  "corps-celestes_deneb": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6992,
+   "src": "orig",
+   "editeLe": 1793990244861
+  },
+  "corps-celestes_altair": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990246826
+  },
+  "corps-celestes_etoile-polaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7404,
+   "src": "orig",
+   "editeLe": 1793990248736
   }
  }
 }

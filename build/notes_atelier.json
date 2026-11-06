@@ -62516,6 +62516,34 @@
    "w": 0.759,
    "src": "orig",
    "editeLe": 1793960373214
+  },
+  "empires-et-civilisations_hanse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793960376082
+  },
+  "empires-et-civilisations_republique-des-deux-nations": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.603,
+   "src": "orig",
+   "editeLe": 1793960378802
+  },
+  "empires-et-civilisations_empire-suedois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793960381188
+  },
+  "empires-et-civilisations_premier-empire-bulgare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8644,
+   "src": "orig",
+   "editeLe": 1793960383305
   }
  }
 }

@@ -61319,6 +61319,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959298532
+  },
+  "papes_gregoire-ix": {
+   "cx": 0.5146,
+   "cy": 0.6056,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793959306197
+  },
+  "papes_boniface-viii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959308782
+  },
+  "papes_clement-v": {
+   "cx": 0.5,
+   "cy": 0.4177,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959313433
   }
  }
 }

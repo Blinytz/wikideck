@@ -64777,6 +64777,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962091609
+  },
+  "figures-resistance_missak-manouchian": {
+   "cx": 0.4618,
+   "cy": 0.5,
+   "w": 0.5988,
+   "src": "orig",
+   "editeLe": 1793962096128
+  },
+  "figures-resistance_sophie-scholl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793962099325
   }
  }
 }

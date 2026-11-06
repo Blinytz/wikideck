@@ -67500,6 +67500,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963793264
+  },
+  "iles_ile-de-re": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963795412
+  },
+  "iles_belle-ile-en-mer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963797712
+  },
+  "iles_jersey": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963799560
+  },
+  "iles_ile-de-skye": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963801348
   }
  }
 }

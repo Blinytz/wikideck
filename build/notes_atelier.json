@@ -73471,6 +73471,27 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1793981457852
+  },
+  "inventeurs-et-ingenieurs_bill-gates": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981461258
+  },
+  "inventeurs-et-ingenieurs_konrad-zuse": {
+   "cx": 0.5,
+   "cy": 0.4267,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981464312
+  },
+  "inventeurs-et-ingenieurs_william-shockley": {
+   "cx": 0.5,
+   "cy": 0.4521,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981467781
   }
  }
 }

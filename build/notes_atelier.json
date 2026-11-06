@@ -61970,6 +61970,27 @@
    "w": 0.7597,
    "src": "orig",
    "editeLe": 1793959823489
+  },
+  "dynasties-regnantes_famille-royale-saoudienne": {
+   "cx": 0.5027,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959833981
+  },
+  "dynasties-regnantes_dynastie-hachemite": {
+   "cx": 0.6239,
+   "cy": 0.5422,
+   "w": 0.74,
+   "src": "full",
+   "editeLe": 1793959837611
+  },
+  "dynasties-regnantes_dynastie-alaouite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959839831
   }
  }
 }

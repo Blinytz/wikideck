@@ -61613,6 +61613,20 @@
    "w": 0.622,
    "src": "orig",
    "editeLe": 1793959512983
+  },
+  "dynasties-regnantes_califat-abbasside": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.5969,
+   "src": "orig",
+   "editeLe": 1793959517239
+  },
+  "dynasties-regnantes_dynastie-shang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.608,
+   "src": "orig",
+   "editeLe": 1793959520226
   }
  }
 }

@@ -67787,6 +67787,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963920429
+  },
+  "montagnes-et-volcans_annapurna": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963921578
+  },
+  "montagnes-et-volcans_nanga-parbat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963923097
+  },
+  "montagnes-et-volcans_elbrouz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963924333
+  },
+  "montagnes-et-volcans_montagne-de-la-table": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963925466
+  },
+  "montagnes-et-volcans_uluru-ayers-rock": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963926752
+  },
+  "montagnes-et-volcans_caldeira-de-yellowstone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963928062
+  },
+  "montagnes-et-volcans_mont-erebus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963929466
+  },
+  "montagnes-et-volcans_pinatubo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963930785
   }
  }
 }

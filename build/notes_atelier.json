@@ -62061,6 +62061,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959896069
+  },
+  "empires-et-civilisations_empire-gupta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793959899754
+  },
+  "empires-et-civilisations_empire-azteque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.813,
+   "src": "orig",
+   "editeLe": 1793959903189
   }
  }
 }

@@ -75291,6 +75291,20 @@
    "w": 0.9971,
    "src": "orig",
    "editeLe": 1793983697066
+  },
+  "corps-humain_systeme-endocrinien": {
+   "cx": 0.5211,
+   "cy": 0.5,
+   "w": 0.5867,
+   "src": "orig",
+   "editeLe": 1793983704525
+  },
+  "corps-humain_appareil-digestif": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983707123
   }
  }
 }

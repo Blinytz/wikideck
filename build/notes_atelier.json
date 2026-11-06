@@ -70391,6 +70391,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976774830
+  },
+  "chateaux-celebres_eilean-donan": {
+   "cx": 0.4867,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976780443
+  },
+  "chateaux-celebres_chateau-de-balmoral": {
+   "cx": 0.488,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976783581
+  },
+  "chateaux-celebres_chateau-de-blarney": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976786253
   }
  }
 }

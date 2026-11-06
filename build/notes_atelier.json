@@ -72015,6 +72015,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980497587
+  },
+  "scientifiques-celebres_paul-dirac": {
+   "cx": 0.5,
+   "cy": 0.4389,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980501869
+  },
+  "scientifiques-celebres_enrico-fermi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980504380
   }
  }
 }

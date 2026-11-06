@@ -73534,6 +73534,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981492811
+  },
+  "inventeurs-et-ingenieurs_andre-citroen": {
+   "cx": 0.5,
+   "cy": 0.4101,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981495900
+  },
+  "inventeurs-et-ingenieurs_ferdinand-porsche": {
+   "cx": 0.5,
+   "cy": 0.4051,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981499340
+  },
+  "inventeurs-et-ingenieurs_soichiro-honda": {
+   "cx": 0.5,
+   "cy": 0.4263,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981502482
   }
  }
 }

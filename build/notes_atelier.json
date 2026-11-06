@@ -66947,6 +66947,48 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963052730
+  },
+  "villes-du-monde_edimbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963054289
+  },
+  "villes-du-monde_dublin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963055609
+  },
+  "villes-du-monde_copenhague": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963057945
+  },
+  "villes-du-monde_stockholm": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963059476
+  },
+  "villes-du-monde_varsovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963061310
+  },
+  "villes-du-monde_cracovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963063067
   }
  }
 }

@@ -72400,6 +72400,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980745580
+  },
+  "scientifiques-celebres_rita-levi-montalcini": {
+   "cx": 0.5,
+   "cy": 0.343,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980748959
+  },
+  "scientifiques-celebres_barbara-liskov": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980751269
+  },
+  "scientifiques-celebres_leonardo-fibonacci": {
+   "cx": 0.5,
+   "cy": 0.4996,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980754271
   }
  }
 }

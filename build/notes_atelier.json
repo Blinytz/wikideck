@@ -63538,6 +63538,20 @@
    "w": 0.7229,
    "src": "orig",
    "editeLe": 1793960985881
+  },
+  "grandes-guerres_guerre-d-irak": {
+   "cx": 0.3763,
+   "cy": 0.5,
+   "w": 0.6297,
+   "src": "orig",
+   "editeLe": 1793960996884
+  },
+  "grandes-guerres_guerre-d-afghanistan-1979-1989": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793961000189
   }
  }
 }

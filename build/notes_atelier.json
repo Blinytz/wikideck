@@ -61389,6 +61389,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959359893
+  },
+  "papes_paul-iii": {
+   "cx": 0.5,
+   "cy": 0.3921,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959365683
+  },
+  "papes_pie-v": {
+   "cx": 0.5,
+   "cy": 0.3576,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959370356
+  },
+  "papes_gregoire-xiii": {
+   "cx": 0.5,
+   "cy": 0.3723,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959374871
   }
  }
 }

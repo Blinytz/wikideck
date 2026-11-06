@@ -67157,6 +67157,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963102916
+  },
+  "villes-du-monde_honolulu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963104464
+  },
+  "villes-du-monde_toulouse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963105598
+  },
+  "iles_madagascar": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963110184
   }
  }
 }

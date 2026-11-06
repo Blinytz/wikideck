@@ -72554,6 +72554,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980829811
+  },
+  "scientifiques-celebres_caroline-herschel": {
+   "cx": 0.5,
+   "cy": 0.5417,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980833655
+  },
+  "scientifiques-celebres_georges-lemaitre": {
+   "cx": 0.5166,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980837675
+  },
+  "scientifiques-celebres_arthur-eddington": {
+   "cx": 0.5,
+   "cy": 0.4504,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980840594
   }
  }
 }

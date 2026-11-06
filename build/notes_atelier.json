@@ -68270,6 +68270,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964038225
+  },
+  "fleuves-mers-et-oceans_chutes-victoria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964040656
+  },
+  "fleuves-mers-et-oceans_chutes-du-niagara": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964042171
+  },
+  "fleuves-mers-et-oceans_chutes-d-iguazu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964044086
+  },
+  "fleuves-mers-et-oceans_fosse-des-mariannes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964046303
   }
  }
 }

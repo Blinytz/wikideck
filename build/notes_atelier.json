@@ -71303,11 +71303,74 @@
    "editeLe": 1793980108626
   },
   "monnaies-du-monde_couronne-suedoise": {
+   "cx": 0.3618,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "full",
+   "editeLe": 1793980189962
+  },
+  "monnaies-du-monde_couronne-norvegienne": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793980109927
+   "editeLe": 1793980193972
+  },
+  "monnaies-du-monde_couronne-danoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980196043
+  },
+  "monnaies-du-monde_z-oty": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980198309
+  },
+  "monnaies-du-monde_forint": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980200086
+  },
+  "monnaies-du-monde_couronne-tcheque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980201727
+  },
+  "monnaies-du-monde_leu-roumain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980203534
+  },
+  "monnaies-du-monde_hryvnia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980205042
+  },
+  "monnaies-du-monde_rouble-russe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980206484
+  },
+  "monnaies-du-monde_livre-turque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980208172
   }
  }
 }

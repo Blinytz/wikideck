@@ -71056,6 +71056,34 @@
    "w": 0.7753,
    "src": "orig",
    "editeLe": 1793979617384
+  },
+  "sites-antiques_monte-alban": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793979619648
+  },
+  "sites-antiques_caral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8072,
+   "src": "orig",
+   "editeLe": 1793979621548
+  },
+  "sites-antiques_sigiriya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793979623695
+  },
+  "sites-antiques_bagan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7376,
+   "src": "orig",
+   "editeLe": 1793979626006
   }
  }
 }

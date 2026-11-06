@@ -65764,6 +65764,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962565269
+  },
+  "monnaies-historiques_schilling-autrichien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962570623
+  },
+  "monnaies-historiques_mark-finlandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962572216
+  },
+  "monnaies-historiques_deutsche-mark": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962573299
+  },
+  "monnaies-historiques_reichsmark": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962575001
+  },
+  "monnaies-historiques_papiermark": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962576041
   }
  }
 }

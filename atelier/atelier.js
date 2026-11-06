@@ -718,6 +718,24 @@ function brancherEditeur() {
   $('#ed-reset').addEventListener('click', () => editeur.reset());
   $('#ed-enregistrer').addEventListener('click', () => (modeEd === 'carte' ? enregistrerFormatCarte() : enregistrerCadrage()));
   $('#ed-modes').addEventListener('click', (ev) => { const b = ev.target.closest('[data-mode]'); if (b) changerMode(b.dataset.mode); });
+  // Espace : enregistrer la carte ouverte et passer directement à la suivante de la grille
+  document.addEventListener('keydown', async (ev) => {
+    if (ev.code !== 'Space' || ev.repeat || $('#editeur').hidden || !carteEnEdition) return;
+    if (ev.target.closest('input, textarea, select, [contenteditable]')) return;
+    if (document.querySelector('.modale:not([hidden]), #modale:not([hidden])')) return;
+    ev.preventDefault();
+    // un bouton gardant le focus serait aussi déclenché par la barre espace
+    if (document.activeElement?.tagName === 'BUTTON') document.activeElement.blur();
+    const id = carteEnEdition.id;
+    const ordre = [...document.querySelectorAll('.vignette[data-id]')].map((v) => v.dataset.id);
+    const suivante = parId.get(ordre[ordre.indexOf(id) + 1]);
+    const ok = await (modeEd === 'carte' ? enregistrerFormatCarte() : enregistrerCadrage());
+    if (!ok) return;
+    if (suivante) {
+      await ouvrirEditeur(suivante);
+      document.querySelector(`.vignette[data-id="${CSS.escape(suivante.id)}"]`)?.scrollIntoView({ block: 'center' });
+    }
+  });
   $('#ed-hd').addEventListener('click', () => {
     if (!carteEnEdition || modeEd !== 'carte') return;
     chargerFormatCarte(carteEnEdition, sourceCarte === 'orig' ? 'full' : 'orig');
@@ -1125,6 +1143,7 @@ async function enregistrerFormatCarte() {
   });
   rendreGrille();
   fermerEditeur();
+  return true;
 }
 
 /* ---------- enregistrement (file GitHub) ---------- */
@@ -1184,6 +1203,7 @@ async function enregistrerCadrage() {
     }
   });
   fermerEditeur();
+  return true;
 }
 
 /* ---------- sauvegarde des notes/statuts/cadrages ---------- */

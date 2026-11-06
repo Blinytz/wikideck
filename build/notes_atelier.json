@@ -69455,11 +69455,18 @@
    "editeLe": 1793964750979
   },
   "monuments-emblematiques_empire-state-building": {
+   "cx": 0.4564,
+   "cy": 0.5455,
+   "w": 0.6579,
+   "src": "orig",
+   "editeLe": 1793964764838
+  },
+  "monuments-emblematiques_burj-khalifa": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793964752554
+   "editeLe": 1793964767136
   }
  }
 }

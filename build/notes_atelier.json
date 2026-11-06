@@ -75172,6 +75172,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983209867
+  },
+  "corps-humain_intestin-grele": {
+   "cx": 0.5019,
+   "cy": 0.478,
+   "w": 0.6727,
+   "src": "full",
+   "editeLe": 1793983214096
+  },
+  "corps-humain_colon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983215952
   }
  }
 }

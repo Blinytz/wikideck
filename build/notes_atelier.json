@@ -70874,6 +70874,27 @@
    "w": 0.7203,
    "src": "orig",
    "editeLe": 1793979530364
+  },
+  "sites-antiques_grand-zimbabwe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979533203
+  },
+  "sites-antiques_alignements-de-carnac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1793979536560
+  },
+  "sites-antiques_newgrange": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5481,
+   "src": "orig",
+   "editeLe": 1793979539851
   }
  }
 }

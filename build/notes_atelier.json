@@ -67248,6 +67248,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963639854
+  },
+  "iles_java-ile": {
+   "cx": 0.4387,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963642762
+  },
+  "iles_sumatra": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963646002
+  },
+  "iles_hawai-ile": {
+   "cx": 0.4121,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963648518
   }
  }
 }

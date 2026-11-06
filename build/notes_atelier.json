@@ -61627,6 +61627,20 @@
    "w": 0.608,
    "src": "orig",
    "editeLe": 1793959520226
+  },
+  "dynasties-regnantes_dynastie-zhou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6111,
+   "src": "orig",
+   "editeLe": 1793959523876
+  },
+  "dynasties-regnantes_dynastie-sui": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7685,
+   "src": "orig",
+   "editeLe": 1793959526791
   }
  }
 }

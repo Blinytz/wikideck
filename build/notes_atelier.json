@@ -69187,6 +69187,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964582375
+  },
+  "regions-francaises_occitanie-region-administrative": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964585413
+  },
+  "regions-francaises_pays-de-la-loire": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964587826
+  },
+  "regions-francaises_provence-alpes-cote-d-azur": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964590191
+  },
+  "regions-francaises_guyane": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964592381
   }
  }
 }

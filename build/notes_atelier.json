@@ -64196,6 +64196,27 @@
    "w": 0.7585,
    "src": "orig",
    "editeLe": 1793961601488
+  },
+  "traites-et-textes-fondateurs_traite-de-waitangi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6106,
+   "src": "orig",
+   "editeLe": 1793961604399
+  },
+  "traites-et-textes-fondateurs_vente-de-la-louisiane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961606903
+  },
+  "traites-et-textes-fondateurs_traite-de-nankin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961609054
   }
  }
 }

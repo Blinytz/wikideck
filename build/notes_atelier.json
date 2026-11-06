@@ -76736,6 +76736,34 @@
    "w": 0.7404,
    "src": "orig",
    "editeLe": 1793990248736
+  },
+  "corps-celestes_voie-lactee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793990250893
+  },
+  "corps-celestes_galaxie-d-andromede": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7285,
+   "src": "orig",
+   "editeLe": 1793990252751
+  },
+  "corps-celestes_m51-galaxie": {
+   "cx": 0.408,
+   "cy": 0.5,
+   "w": 0.7529,
+   "src": "orig",
+   "editeLe": 1793990256001
+  },
+  "corps-celestes_m104-galaxie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7041,
+   "src": "orig",
+   "editeLe": 1793990258294
   }
  }
 }

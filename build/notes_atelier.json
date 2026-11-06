@@ -67472,6 +67472,34 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793963784716
+  },
+  "iles_grande-terre-nouvelle-caledonie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963786725
+  },
+  "iles_bora-bora": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963788856
+  },
+  "iles_iles-marquises": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963791099
+  },
+  "iles_mayotte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963793264
   }
  }
 }

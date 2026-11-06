@@ -74171,6 +74171,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982142589
+  },
+  "inventions-importantes_charrue": {
+   "cx": 0.5098,
+   "cy": 0.5,
+   "w": 0.9804,
+   "src": "full",
+   "editeLe": 1793982263765
+  },
+  "inventions-importantes_voile-navire": {
+   "cx": 0.5293,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982268448
   }
  }
 }

@@ -73947,6 +73947,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793981931574
+  },
+  "inventions-importantes_radiographie": {
+   "cx": 0.5023,
+   "cy": 0.5197,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793981938581
+  },
+  "inventions-importantes_imagerie-par-resonance-magnetique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793981943003
   }
  }
 }

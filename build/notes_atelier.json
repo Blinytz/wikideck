@@ -65043,6 +65043,27 @@
    "w": 0.7265,
    "src": "orig",
    "editeLe": 1793962278751
+  },
+  "organisations-internationales_conseil-de-securite-des-nations-unies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793962282229
+  },
+  "organisations-internationales_organisation-des-nations-unies-pour-l-education-la-science-et-la-culture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.719,
+   "src": "orig",
+   "editeLe": 1793962285054
+  },
+  "organisations-internationales_fonds-des-nations-unies-pour-l-enfance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "full",
+   "editeLe": 1793962287897
   }
  }
 }

@@ -70412,6 +70412,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976786253
+  },
+  "chateaux-celebres_chateau-de-leeds": {
+   "cx": 0.5147,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976791196
+  },
+  "chateaux-celebres_chateau-de-bodiam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976793385
+  },
+  "chateaux-celebres_chateau-de-hohenzollern": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976794969
+  },
+  "chateaux-celebres_chateau-d-eltz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976796391
+  },
+  "chateaux-celebres_chateau-de-heidelberg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976797989
   }
  }
 }

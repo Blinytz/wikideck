@@ -68613,6 +68613,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964369285
+  },
+  "lacs_leman": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964372912
+  },
+  "lacs_loch-ness": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964376169
+  },
+  "lacs_mer-morte": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964379050
   }
  }
 }

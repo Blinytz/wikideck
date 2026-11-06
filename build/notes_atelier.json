@@ -64931,6 +64931,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962212840
+  },
+  "figures-resistance_witold-pilecki": {
+   "cx": 0.5,
+   "cy": 0.3631,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962218146
+  },
+  "figures-resistance_jan-karski": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7544,
+   "src": "orig",
+   "editeLe": 1793962221184
   }
  }
 }

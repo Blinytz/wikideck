@@ -74927,6 +74927,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982897637
+  },
+  "theoremes-et-lois_deuxieme-principe-de-la-thermodynamique": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982900424
+  },
+  "theoremes-et-lois_loi-de-boyle-mariotte": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982903052
   }
  }
 }

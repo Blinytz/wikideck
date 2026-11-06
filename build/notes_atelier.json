@@ -68144,6 +68144,41 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793964000944
+  },
+  "fleuves-mers-et-oceans_euphrate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964003003
+  },
+  "fleuves-mers-et-oceans_loire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964005248
+  },
+  "fleuves-mers-et-oceans_seine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1793964007221
+  },
+  "fleuves-mers-et-oceans_amour-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964009205
+  },
+  "fleuves-mers-et-oceans_zambeze": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964011015
   }
  }
 }

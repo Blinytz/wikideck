@@ -72897,6 +72897,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981040146
+  },
+  "scientifiques-celebres_emile-durkheim": {
+   "cx": 0.5,
+   "cy": 0.4013,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981044057
+  },
+  "scientifiques-celebres_max-weber": {
+   "cx": 0.5,
+   "cy": 0.4264,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981047759
+  },
+  "scientifiques-celebres_pierre-bourdieu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1793981050000
   }
  }
 }

@@ -68515,6 +68515,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964122845
+  },
+  "fleuves-mers-et-oceans_salto-angel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964125618
+  },
+  "fleuves-mers-et-oceans_bosphore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964127505
+  },
+  "fleuves-mers-et-oceans_detroit-de-bering": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964131155
+  },
+  "fleuves-mers-et-oceans_detroit-de-magellan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964133815
   }
  }
 }

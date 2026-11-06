@@ -74542,6 +74542,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982571310
+  },
+  "inventions-importantes_allumette": {
+   "cx": 0.5,
+   "cy": 0.5971,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982576031
+  },
+  "inventions-importantes_lave-vaisselle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982579935
+  },
+  "inventions-importantes_zero": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1793982582265
   }
  }
 }

@@ -69688,9 +69688,16 @@
   "monuments-emblematiques_tour-de-belem": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793964841889
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1793964874685
+  },
+  "monuments-emblematiques_cathedrale-santa-maria-del-fiore": {
+   "cx": 0.5363,
+   "cy": 0.5,
+   "w": 0.9252,
+   "src": "orig",
+   "editeLe": 1793964878698
   }
  }
 }

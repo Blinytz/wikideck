@@ -74318,6 +74318,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793982430477
+  },
+  "inventions-importantes_montgolfiere": {
+   "cx": 0.5006,
+   "cy": 0.5,
+   "w": 0.7855,
+   "src": "orig",
+   "editeLe": 1793982437047
+  },
+  "inventions-importantes_parachute": {
+   "cx": 0.5,
+   "cy": 0.3402,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982440930
+  },
+  "inventions-importantes_dynamite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6898,
+   "src": "orig",
+   "editeLe": 1793982444029
   }
  }
 }

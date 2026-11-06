@@ -72778,6 +72778,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793980975362
+  },
+  "scientifiques-celebres_lynn-margulis": {
+   "cx": 0.5,
+   "cy": 0.4204,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980980562
+  },
+  "scientifiques-celebres_richard-dawkins": {
+   "cx": 0.5,
+   "cy": 0.3605,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980984872
   }
  }
 }

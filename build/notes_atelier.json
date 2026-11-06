@@ -71927,10 +71927,17 @@
   },
   "scientifiques-celebres_louis-pasteur": {
    "cx": 0.5,
-   "cy": 0.5428,
+   "cy": 0.4946,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793980433643
+   "editeLe": 1793980441765
+  },
+  "scientifiques-celebres_claude-bernard": {
+   "cx": 0.5,
+   "cy": 0.4708,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980446714
   }
  }
 }

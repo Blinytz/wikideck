@@ -62208,6 +62208,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793960054924
+  },
+  "empires-et-civilisations_empire-russe": {
+   "cx": 0.5,
+   "cy": 0.4385,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960060151
+  },
+  "empires-et-civilisations_saint-empire-romain-germanique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.615,
+   "src": "orig",
+   "editeLe": 1793960063455
   }
  }
 }

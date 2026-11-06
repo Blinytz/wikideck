@@ -60857,6 +60857,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793958854227
+  },
+  "presidents-des-etats-unis_harry-s-truman": {
+   "cx": 0.5,
+   "cy": 0.4066,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793958857677
+  },
+  "presidents-des-etats-unis_dwight-d-eisenhower": {
+   "cx": 0.5,
+   "cy": 0.4056,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793958861641
+  },
+  "presidents-des-etats-unis_john-fitzgerald-kennedy": {
+   "cx": 0.5,
+   "cy": 0.4356,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793958864976
   }
  }
 }

@@ -68655,6 +68655,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964387397
+  },
+  "lacs_grand-lac-de-l-ours": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964390308
+  },
+  "lacs_lac-malawi": {
+   "cx": 0.4201,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964392791
+  },
+  "lacs_lac-erie": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964395364
   }
  }
 }

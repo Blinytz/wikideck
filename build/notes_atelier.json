@@ -69450,9 +69450,16 @@
   "monuments-emblematiques_mont-rushmore": {
    "cx": 0.5,
    "cy": 0.5,
+   "w": 0.738,
+   "src": "orig",
+   "editeLe": 1793964750979
+  },
+  "monuments-emblematiques_empire-state-building": {
+   "cx": 0.5,
+   "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793964744771
+   "editeLe": 1793964752554
   }
  }
 }

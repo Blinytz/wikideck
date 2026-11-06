@@ -71833,6 +71833,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793980374475
+  },
+  "scientifiques-celebres_blaise-pascal": {
+   "cx": 0.5,
+   "cy": 0.4286,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980379474
+  },
+  "scientifiques-celebres_isaac-newton": {
+   "cx": 0.5,
+   "cy": 0.4182,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980382978
   }
  }
 }

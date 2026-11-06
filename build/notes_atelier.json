@@ -76106,6 +76106,20 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1793989621018
+  },
+  "maladies-et-epidemies_grippe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7183,
+   "src": "orig",
+   "editeLe": 1793989623026
+  },
+  "maladies-et-epidemies_scorbut": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8199,
+   "src": "orig",
+   "editeLe": 1793989625482
   }
  }
 }

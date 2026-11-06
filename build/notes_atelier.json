@@ -61445,6 +61445,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959401948
+  },
+  "papes_pie-ix": {
+   "cx": 0.4894,
+   "cy": 0.5,
+   "w": 0.7203,
+   "src": "orig",
+   "editeLe": 1793959409210
+  },
+  "papes_leon-xiii": {
+   "cx": 0.5,
+   "cy": 0.3494,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959415742
   }
  }
 }

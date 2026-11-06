@@ -76302,6 +76302,34 @@
    "w": 0.7081,
    "src": "orig",
    "editeLe": 1793989954265
+  },
+  "corps-celestes_mercure-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989961076
+  },
+  "corps-celestes_venus-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989963424
+  },
+  "corps-celestes_terre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989965649
+  },
+  "corps-celestes_mars-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989967690
   }
  }
 }

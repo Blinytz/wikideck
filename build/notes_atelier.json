@@ -74248,6 +74248,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982324005
+  },
+  "inventions-importantes_sextant": {
+   "cx": 0.5782,
+   "cy": 0.5,
+   "w": 0.771,
+   "src": "orig",
+   "editeLe": 1793982329163
+  },
+  "inventions-importantes_machine-a-coudre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982332656
+  },
+  "inventions-importantes_conserve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6148,
+   "src": "orig",
+   "editeLe": 1793982335461
   }
  }
 }

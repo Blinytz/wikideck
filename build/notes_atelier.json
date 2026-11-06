@@ -76190,6 +76190,20 @@
    "w": 0.5901,
    "src": "full",
    "editeLe": 1793989853708
+  },
+  "maladies-et-epidemies_asthme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6777,
+   "src": "full",
+   "editeLe": 1793989882426
+  },
+  "maladies-et-epidemies_peste-de-justinien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989886549
   }
  }
 }

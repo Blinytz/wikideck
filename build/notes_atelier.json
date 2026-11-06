@@ -69803,6 +69803,27 @@
    "w": 0.6298,
    "src": "orig",
    "editeLe": 1793964928781
+  },
+  "monuments-emblematiques_grand-bouddha-de-leshan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793964933229
+  },
+  "monuments-emblematiques_tours-petronas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793964935820
+  },
+  "monuments-emblematiques_taipei-101": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964938029
   }
  }
 }

@@ -65855,6 +65855,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962592772
+  },
+  "monnaies-historiques_monnaie-de-pierre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962594643
+  },
+  "monnaies-historiques_manille-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962596910
+  },
+  "monnaies-historiques_drachme-grece-antique-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962600081
+  },
+  "monnaies-historiques_darique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962601638
   }
  }
 }

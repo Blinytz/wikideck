@@ -72127,6 +72127,27 @@
    "w": 1,
    "src": "full",
    "editeLe": 1793980552696
+  },
+  "scientifiques-celebres_rosalind-franklin": {
+   "cx": 0.5,
+   "cy": 0.3845,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980556698
+  },
+  "scientifiques-celebres_james-dewey-watson": {
+   "cx": 0.5,
+   "cy": 0.4514,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980559420
+  },
+  "scientifiques-celebres_francis-crick": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980562141
   }
  }
 }

@@ -74381,6 +74381,20 @@
    "w": 0.7692,
    "src": "orig",
    "editeLe": 1793982478479
+  },
+  "inventions-importantes_bombe-a": {
+   "cx": 0.5045,
+   "cy": 0.5,
+   "w": 0.6812,
+   "src": "orig",
+   "editeLe": 1793982484422
+  },
+  "inventions-importantes_reseau-electrique": {
+   "cx": 0.4775,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793982488451
   }
  }
 }

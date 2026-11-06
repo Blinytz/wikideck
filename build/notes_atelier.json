@@ -71203,6 +71203,69 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980089997
+  },
+  "monnaies-du-monde_yen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980091500
+  },
+  "monnaies-du-monde_yuan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980092934
+  },
+  "monnaies-du-monde_franc-suisse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980094105
+  },
+  "monnaies-du-monde_dollar-canadien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980095561
+  },
+  "monnaies-du-monde_real-bresilien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980096604
+  },
+  "monnaies-du-monde_peso-mexicain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980098003
+  },
+  "monnaies-du-monde_peso-argentin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980099400
+  },
+  "monnaies-du-monde_peso-chilien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980100722
+  },
+  "monnaies-du-monde_peso-colombien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980102163
   }
  }
 }

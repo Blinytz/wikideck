@@ -74675,6 +74675,20 @@
    "w": 0.7266,
    "src": "orig",
    "editeLe": 1793982652982
+  },
+  "inventions-importantes_ballon-dirigeable": {
+   "cx": 0.4266,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793982658531
+  },
+  "inventions-importantes_scaphandre-autonome": {
+   "cx": 0.6299,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1793982663238
   }
  }
 }

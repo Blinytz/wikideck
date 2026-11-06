@@ -62292,6 +62292,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793960179767
+  },
+  "empires-et-civilisations_empire-carolingien": {
+   "cx": 0.5141,
+   "cy": 0.4464,
+   "w": 0.6419,
+   "src": "orig",
+   "editeLe": 1793960190175
+  },
+  "empires-et-civilisations_rus-de-kiev": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960192860
   }
  }
 }

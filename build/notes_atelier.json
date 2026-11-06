@@ -61879,6 +61879,20 @@
    "w": 0.6179,
    "src": "orig",
    "editeLe": 1793959704202
+  },
+  "dynasties-regnantes_maison-de-wittelsbach": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7684,
+   "src": "orig",
+   "editeLe": 1793959707426
+  },
+  "dynasties-regnantes_maison-de-hanovre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7176,
+   "src": "orig",
+   "editeLe": 1793959711251
   }
  }
 }

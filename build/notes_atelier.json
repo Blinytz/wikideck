@@ -71987,6 +71987,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980474186
+  },
+  "scientifiques-celebres_niels-bohr": {
+   "cx": 0.5089,
+   "cy": 0.4096,
+   "w": 0.683,
+   "src": "full",
+   "editeLe": 1793980481732
+  },
+  "scientifiques-celebres_ernest-rutherford": {
+   "cx": 0.5,
+   "cy": 0.3816,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980486151
   }
  }
 }

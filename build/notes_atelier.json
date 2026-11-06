@@ -70048,6 +70048,34 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793965101548
+  },
+  "monuments-emblematiques_itsukushima-jinja": {
+   "cx": 0.6202,
+   "cy": 0.5,
+   "w": 0.7597,
+   "src": "orig",
+   "editeLe": 1793965106264
+  },
+  "monuments-emblematiques_todai-ji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793965109788
+  },
+  "chateaux-celebres_chateau-de-neuschwanstein": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8112,
+   "src": "orig",
+   "editeLe": 1793965112106
+  },
+  "chateaux-celebres_chateau-de-himeji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793965114502
   }
  }
 }

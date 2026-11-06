@@ -75095,6 +75095,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793983144979
+  },
+  "theoremes-et-lois_equation-de-schrodinger": {
+   "cx": 0.4937,
+   "cy": 0.5,
+   "w": 0.6367,
+   "src": "orig",
+   "editeLe": 1793983150181
+  },
+  "theoremes-et-lois_induction-electromagnetique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983153459
+  },
+  "theoremes-et-lois_loi-des-gaz-parfaits": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983156025
   }
  }
 }

@@ -68039,6 +68039,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963963597
+  },
+  "montagnes-et-volcans_djebel-toubkal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963964837
+  },
+  "montagnes-et-volcans_mont-kenya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963966090
+  },
+  "fleuves-mers-et-oceans_nil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963967016
+  },
+  "fleuves-mers-et-oceans_amazone-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963968487
   }
  }
 }

@@ -76911,6 +76911,34 @@
    "w": 0.6672,
    "src": "orig",
    "editeLe": 1793990331762
+  },
+  "corps-celestes_90377-sedna": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5448,
+   "src": "orig",
+   "editeLe": 1793990334558
+  },
+  "corps-celestes_trappist-1": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990336441
+  },
+  "corps-celestes_proxima-centauri-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793990338725
+  },
+  "corps-celestes_kepler-452-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.723,
+   "src": "orig",
+   "editeLe": 1793990341579
   }
  }
 }

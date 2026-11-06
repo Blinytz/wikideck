@@ -69152,6 +69152,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964570425
+  },
+  "regions-francaises_politique-en-corse": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964573363
+  },
+  "regions-francaises_grand-est": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964575879
+  },
+  "regions-francaises_hauts-de-france": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964578148
+  },
+  "regions-francaises_ile-de-france": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964580253
+  },
+  "regions-francaises_nouvelle-aquitaine": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964582375
   }
  }
 }

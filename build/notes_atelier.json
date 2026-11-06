@@ -61697,6 +61697,27 @@
    "w": 0.97,
    "src": "orig",
    "editeLe": 1793959559485
+  },
+  "dynasties-regnantes_merovingiens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7702,
+   "src": "orig",
+   "editeLe": 1793959562426
+  },
+  "dynasties-regnantes_carolingiens": {
+   "cx": 0.4534,
+   "cy": 0.5,
+   "w": 0.5695,
+   "src": "orig",
+   "editeLe": 1793959566770
+  },
+  "dynasties-regnantes_capetiens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793959569798
   }
  }
 }

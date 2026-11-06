@@ -69502,6 +69502,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964776219
+  },
+  "monuments-emblematiques_cathedrale-notre-dame-de-paris": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964779640
+  },
+  "monuments-emblematiques_le-mont-saint-michel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964781556
+  },
+  "monuments-emblematiques_mosquee-bleue": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964785404
   }
  }
 }

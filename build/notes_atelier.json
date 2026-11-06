@@ -72169,6 +72169,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980586018
+  },
+  "scientifiques-celebres_carl-sagan": {
+   "cx": 0.528,
+   "cy": 0.3932,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793980594176
+  },
+  "scientifiques-celebres_edwin-hubble": {
+   "cx": 0.5,
+   "cy": 0.4053,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980598211
+  },
+  "scientifiques-celebres_stephen-jay-gould": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6454,
+   "src": "orig",
+   "editeLe": 1793980601598
   }
  }
 }

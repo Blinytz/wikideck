@@ -75207,6 +75207,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793983234046
+  },
+  "corps-humain_peau": {
+   "cx": 0.464,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983238186
+  },
+  "corps-humain_il-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983240683
   }
  }
 }

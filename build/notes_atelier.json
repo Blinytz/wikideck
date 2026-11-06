@@ -72143,11 +72143,25 @@
    "editeLe": 1793980559420
   },
   "scientifiques-celebres_francis-crick": {
-   "cx": 0.5,
+   "cx": 0.4851,
+   "cy": 0.5127,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793980569204
+  },
+  "scientifiques-celebres_barbara-mcclintock": {
+   "cx": 0.484,
    "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793980576332
+  },
+  "scientifiques-celebres_jane-goodall": {
+   "cx": 0.5,
+   "cy": 0.3686,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793980562141
+   "editeLe": 1793980582156
   }
  }
 }

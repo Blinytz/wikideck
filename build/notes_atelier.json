@@ -63909,6 +63909,27 @@
    "w": 0.7041,
    "src": "orig",
    "editeLe": 1793961350021
+  },
+  "traites-et-textes-fondateurs_traite-de-maastricht": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.544,
+   "src": "orig",
+   "editeLe": 1793961353307
+  },
+  "traites-et-textes-fondateurs_accords-de-camp-david": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7298,
+   "src": "orig",
+   "editeLe": 1793961356260
+  },
+  "traites-et-textes-fondateurs_accord-de-paris-sur-le-climat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793961359272
   }
  }
 }

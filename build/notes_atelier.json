@@ -70692,6 +70692,27 @@
    "w": 0.6103,
    "src": "orig",
    "editeLe": 1793977119903
+  },
+  "sites-antiques_acropole-d-athenes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5879,
+   "src": "orig",
+   "editeLe": 1793979383051
+  },
+  "sites-antiques_stonehenge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793979386762
+  },
+  "sites-antiques_teotihuacan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793979389697
   }
  }
 }

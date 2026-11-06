@@ -72379,6 +72379,27 @@
    "w": 0.6082,
    "src": "orig",
    "editeLe": 1793980730611
+  },
+  "scientifiques-celebres_shen-kuo": {
+   "cx": 0.5209,
+   "cy": 0.4115,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793980737729
+  },
+  "scientifiques-celebres_ada-yonath": {
+   "cx": 0.5,
+   "cy": 0.333,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980741981
+  },
+  "scientifiques-celebres_dorothy-crowfoot-hodgkin": {
+   "cx": 0.5,
+   "cy": 0.5211,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980745580
   }
  }
 }

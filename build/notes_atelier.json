@@ -62348,6 +62348,20 @@
    "w": 0.7366,
    "src": "orig",
    "editeLe": 1793960230271
+  },
+  "empires-et-civilisations_dynastie-des-sefevides": {
+   "cx": 0.5253,
+   "cy": 0.4545,
+   "w": 0.4506,
+   "src": "orig",
+   "editeLe": 1793960237696
+  },
+  "empires-et-civilisations_empire-timouride": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960241138
   }
  }
 }

@@ -74451,6 +74451,27 @@
    "w": 0.6139,
    "src": "orig",
    "editeLe": 1793982517689
+  },
+  "inventions-importantes_processeur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8112,
+   "src": "orig",
+   "editeLe": 1793982528760
+  },
+  "inventions-importantes_disque-dur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793982532422
+  },
+  "inventions-importantes_memoire-flash": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793982534974
   }
  }
 }

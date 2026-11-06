@@ -64735,6 +64735,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962070022
+  },
+  "figures-emancipation_robert-badinter": {
+   "cx": 0.512,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793962074216
+  },
+  "figures-emancipation_greta-thunberg": {
+   "cx": 0.4228,
+   "cy": 0.5,
+   "w": 0.5684,
+   "src": "orig",
+   "editeLe": 1793962077692
+  },
+  "figures-emancipation_chico-mendes": {
+   "cx": 0.5,
+   "cy": 0.3674,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962081180
   }
  }
 }

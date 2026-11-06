@@ -76883,6 +76883,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793990322432
+  },
+  "corps-celestes_2-pallas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990325075
+  },
+  "corps-celestes_101955-benou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990327271
+  },
+  "corps-celestes_99942-apophis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793990329706
+  },
+  "corps-celestes_162173-ryugu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6672,
+   "src": "orig",
+   "editeLe": 1793990331762
   }
  }
 }

@@ -69537,6 +69537,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964794209
+  },
+  "monuments-emblematiques_pont-du-golden-gate": {
+   "cx": 0.59,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "full",
+   "editeLe": 1793964798170
+  },
+  "monuments-emblematiques_tour-cn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964800278
+  },
+  "monuments-emblematiques_palais-de-buckingham": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964802506
   }
  }
 }

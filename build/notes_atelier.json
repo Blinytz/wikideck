@@ -76414,6 +76414,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793990131975
+  },
+  "corps-celestes_io-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990134299
+  },
+  "corps-celestes_europe-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990136064
+  },
+  "corps-celestes_ganymede-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990137887
+  },
+  "corps-celestes_callisto-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990139636
   }
  }
 }

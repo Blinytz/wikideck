@@ -65722,6 +65722,48 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962557336
+  },
+  "monnaies-historiques_franc-belge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962558944
+  },
+  "monnaies-historiques_lire-italienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962560181
+  },
+  "monnaies-historiques_peseta-espagnole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962561703
+  },
+  "monnaies-historiques_escudo-portugais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962562680
+  },
+  "monnaies-historiques_florin-neerlandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962563964
+  },
+  "monnaies-historiques_drachme-grece-moderne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962565269
   }
  }
 }

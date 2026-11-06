@@ -73996,6 +73996,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793981989255
+  },
+  "inventions-importantes_stylo-a-bille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7271,
+   "src": "full",
+   "editeLe": 1793981996630
+  },
+  "inventions-importantes_machine-a-ecrire": {
+   "cx": 0.5284,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "full",
+   "editeLe": 1793982000317
   }
  }
 }

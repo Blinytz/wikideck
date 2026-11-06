@@ -66275,6 +66275,27 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793962825864
+  },
+  "grands-explorateurs_ibn-fadlan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962828702
+  },
+  "grands-explorateurs_juan-sebastian-elcano": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962831104
+  },
+  "grands-explorateurs_giovanni-da-verrazzano": {
+   "cx": 0.5,
+   "cy": 0.4176,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962834732
   }
  }
 }

@@ -70181,6 +70181,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976578629
+  },
+  "chateaux-celebres_chateau-de-cheverny": {
+   "cx": 0.508,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976585591
+  },
+  "chateaux-celebres_chateau-d-azay-le-rideau": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976588381
   }
  }
 }

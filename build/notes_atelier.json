@@ -65617,6 +65617,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962535717
+  },
+  "monnaies-historiques_livre-tournois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962539305
+  },
+  "monnaies-historiques_florin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962540998
+  },
+  "monnaies-historiques_ducat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962542118
+  },
+  "monnaies-historiques_maravedis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962543306
+  },
+  "monnaies-historiques_ecu-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962544312
+  },
+  "monnaies-historiques_louis-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962545248
+  },
+  "monnaies-historiques_real-espagnol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962546308
+  },
+  "monnaies-historiques_doublon-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962547264
   }
  }
 }

@@ -74577,6 +74577,27 @@
    "w": 0.5764,
    "src": "orig",
    "editeLe": 1793982602076
+  },
+  "inventions-importantes_conteneur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982605107
+  },
+  "inventions-importantes_ligne-de-montage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982608698
+  },
+  "inventions-importantes_ecluse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982611571
   }
  }
 }

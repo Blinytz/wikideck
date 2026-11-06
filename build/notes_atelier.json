@@ -72001,6 +72001,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980486151
+  },
+  "scientifiques-celebres_werner-heisenberg": {
+   "cx": 0.4785,
+   "cy": 0.3508,
+   "w": 0.7513,
+   "src": "orig",
+   "editeLe": 1793980492934
+  },
+  "scientifiques-celebres_erwin-schrodinger": {
+   "cx": 0.5,
+   "cy": 0.4371,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980497587
   }
  }
 }

@@ -69418,6 +69418,41 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793964727544
+  },
+  "monuments-emblematiques_big-ben": {
+   "cx": 0.4739,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964732126
+  },
+  "monuments-emblematiques_sagrada-familia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964734098
+  },
+  "monuments-emblematiques_opera-de-sydney": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964736107
+  },
+  "monuments-emblematiques_kremlin-de-moscou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6851,
+   "src": "full",
+   "editeLe": 1793964737791
+  },
+  "monuments-emblematiques_mont-rushmore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964738927
   }
  }
 }

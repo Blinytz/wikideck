@@ -71168,6 +71168,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980080248
+  },
+  "langues-du-monde_rune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980082216
+  },
+  "langues-du-monde_alphabet-phenicien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980083898
+  },
+  "monnaies-du-monde_euro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980086504
+  },
+  "monnaies-du-monde_dollar-americain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980088324
+  },
+  "monnaies-du-monde_livre-sterling": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980089997
   }
  }
 }

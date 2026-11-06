@@ -73891,6 +73891,20 @@
    "w": 0.62,
    "src": "orig",
    "editeLe": 1793981872081
+  },
+  "inventions-importantes_ordinateur-personnel": {
+   "cx": 0.497,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793981876190
+  },
+  "inventions-importantes_internet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6094,
+   "src": "orig",
+   "editeLe": 1793981880651
   }
  }
 }

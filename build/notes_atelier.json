@@ -64256,16 +64256,23 @@
   "figures-emancipation_frederick-douglass": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793961630407
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961647755
   },
   "figures-emancipation_harriet-tubman": {
    "cx": 0.5,
    "cy": 0.3846,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793961634759
+   "editeLe": 1793961649145
+  },
+  "figures-emancipation_sojourner-truth": {
+   "cx": 0.5,
+   "cy": 0.441,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961653365
   }
  }
 }

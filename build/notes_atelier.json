@@ -66695,6 +66695,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962990124
+  },
+  "villes-du-monde_seoul": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962991222
+  },
+  "villes-du-monde_shanghai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962992590
+  },
+  "villes-du-monde_kyoto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962993840
+  },
+  "villes-du-monde_delhi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962994987
+  },
+  "villes-du-monde_katmandou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962996273
+  },
+  "villes-du-monde_tombouctou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962998364
+  },
+  "villes-du-monde_lagos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963001295
   }
  }
 }

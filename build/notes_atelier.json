@@ -63188,6 +63188,34 @@
    "w": 0.7217,
    "src": "orig",
    "editeLe": 1793960758960
+  },
+  "grandes-batailles-historiques_debarquement-de-la-baie-des-cochons": {
+   "cx": 0.5264,
+   "cy": 0.5,
+   "w": 0.7339,
+   "src": "orig",
+   "editeLe": 1793960763926
+  },
+  "grandes-batailles-historiques_bataille-de-mogadiscio": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960767128
+  },
+  "grandes-batailles-historiques_bataille-d-ain-djalout": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7543,
+   "src": "orig",
+   "editeLe": 1793960769267
+  },
+  "grandes-batailles-historiques_bataille-de-talas": {
+   "cx": 0.4822,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793960772646
   }
  }
 }

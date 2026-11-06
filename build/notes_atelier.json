@@ -63790,6 +63790,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961249891
+  },
+  "grandes-guerres_guerre-americano-mexicaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6111,
+   "src": "orig",
+   "editeLe": 1793961257069
+  },
+  "grandes-guerres_guerres-indiennes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7795,
+   "src": "orig",
+   "editeLe": 1793961262566
   }
  }
 }

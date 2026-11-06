@@ -59452,11 +59452,11 @@
    "editeLe": 1793961493302
   },
   "traites-et-textes-fondateurs_loi-des-douze-tables": {
-   "cx": 0.5573,
+   "cx": 0.548,
    "cy": 0.5,
    "w": 0.814,
-   "src": "orig",
-   "editeLe": 1793869323477
+   "src": "full",
+   "editeLe": 1793961570824
   },
   "dirigeants-contemporains_nelson-mandela": {
    "cx": 0.5,
@@ -64161,6 +64161,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961554665
+  },
+  "traites-et-textes-fondateurs_code-de-justinien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793961575002
+  },
+  "traites-et-textes-fondateurs_loi-salique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.615,
+   "src": "orig",
+   "editeLe": 1793961578041
   }
  }
 }

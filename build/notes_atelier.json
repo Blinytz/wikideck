@@ -61837,6 +61837,20 @@
    "w": 0.6681,
    "src": "orig",
    "editeLe": 1793959675937
+  },
+  "dynasties-regnantes_maison-paleologue": {
+   "cx": 0.5,
+   "cy": 0.3556,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959682346
+  },
+  "dynasties-regnantes_dynastie-ottomane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8258,
+   "src": "orig",
+   "editeLe": 1793959686399
   }
  }
 }

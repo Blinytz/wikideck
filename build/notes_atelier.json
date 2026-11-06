@@ -70818,6 +70818,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793979455625
+  },
+  "sites-antiques_massada": {
+   "cx": 0.5,
+   "cy": 0.4951,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793979462008
+  },
+  "sites-antiques_ephese": {
+   "cx": 0.532,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979466558
   }
  }
 }

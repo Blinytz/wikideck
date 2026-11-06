@@ -65064,6 +65064,27 @@
    "w": 0.7237,
    "src": "full",
    "editeLe": 1793962287897
+  },
+  "organisations-internationales_organisation-mondiale-de-la-sante": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8065,
+   "src": "orig",
+   "editeLe": 1793962290782
+  },
+  "organisations-internationales_fonds-monetaire-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8146,
+   "src": "orig",
+   "editeLe": 1793962292930
+  },
+  "organisations-internationales_banque-mondiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793962294960
   }
  }
 }

@@ -71770,6 +71770,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980330278
+  },
+  "scientifiques-celebres_hippocrate": {
+   "cx": 0.499,
+   "cy": 0.3045,
+   "w": 0.7513,
+   "src": "orig",
+   "editeLe": 1793980339034
+  },
+  "scientifiques-celebres_claude-ptolemee": {
+   "cx": 0.5,
+   "cy": 0.3808,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980343631
   }
  }
 }

@@ -62551,6 +62551,27 @@
    "w": 0.6059,
    "src": "orig",
    "editeLe": 1793960396947
+  },
+  "empires-et-civilisations_majapahit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793960400315
+  },
+  "empires-et-civilisations_sriwijaya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960403078
+  },
+  "empires-et-civilisations_empire-marathe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6959,
+   "src": "orig",
+   "editeLe": 1793960406233
   }
  }
 }

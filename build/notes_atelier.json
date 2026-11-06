@@ -69915,6 +69915,27 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1793964994194
+  },
+  "monuments-emblematiques_fatehpur-sikri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793964996835
+  },
+  "monuments-emblematiques_wat-arun": {
+   "cx": 0.523,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793965000243
+  },
+  "monuments-emblematiques_grande-mosquee-de-kairouan": {
+   "cx": 0.5095,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1793965004245
   }
  }
 }

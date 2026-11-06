@@ -74528,6 +74528,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793982562838
+  },
+  "inventions-importantes_egout": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6055,
+   "src": "orig",
+   "editeLe": 1793982567531
+  },
+  "inventions-importantes_savon": {
+   "cx": 0.5,
+   "cy": 0.5673,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982571310
   }
  }
 }

@@ -71784,6 +71784,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980343631
+  },
+  "scientifiques-celebres_al-khwarizmi": {
+   "cx": 0.4545,
+   "cy": 0.5002,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793980349121
+  },
+  "scientifiques-celebres_avicenne": {
+   "cx": 0.5,
+   "cy": 0.4124,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980355115
   }
  }
 }

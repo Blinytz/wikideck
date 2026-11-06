@@ -64756,6 +64756,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962081180
+  },
+  "figures-emancipation_jean-jaures": {
+   "cx": 0.5,
+   "cy": 0.4333,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962085254
+  },
+  "figures-resistance_jean-moulin": {
+   "cx": 0.4988,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793962088841
+  },
+  "figures-resistance_lucie-aubrac": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962091609
   }
  }
 }

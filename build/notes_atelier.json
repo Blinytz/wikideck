@@ -70195,6 +70195,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976588381
+  },
+  "chateaux-celebres_chateau-de-villandry": {
+   "cx": 0.415,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976591907
+  },
+  "chateaux-celebres_chateau-d-usse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976593984
+  },
+  "chateaux-celebres_forteresse-royale-de-chinon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976596267
   }
  }
 }

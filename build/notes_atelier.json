@@ -63713,6 +63713,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961192523
+  },
+  "grandes-guerres_guerre-civile-yemenite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961195848
+  },
+  "grandes-guerres_guerre-russo-ukrainienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793961200697
   }
  }
 }

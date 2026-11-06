@@ -73373,6 +73373,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981401357
+  },
+  "inventeurs-et-ingenieurs_willis-carrier": {
+   "cx": 0.5,
+   "cy": 0.3579,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981404939
+  },
+  "inventeurs-et-ingenieurs_john-logie-baird": {
+   "cx": 0.5,
+   "cy": 0.3918,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981407527
+  },
+  "inventeurs-et-ingenieurs_vladimir-zvorykin": {
+   "cx": 0.5,
+   "cy": 0.5393,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981410092
+  },
+  "inventeurs-et-ingenieurs_frank-whittle": {
+   "cx": 0.494,
+   "cy": 0.5,
+   "w": 0.7298,
+   "src": "orig",
+   "editeLe": 1793981414619
   }
  }
 }

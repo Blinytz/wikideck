@@ -72029,6 +72029,27 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793980504380
+  },
+  "scientifiques-celebres_robert-oppenheimer": {
+   "cx": 0.5,
+   "cy": 0.4258,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980509866
+  },
+  "scientifiques-celebres_richard-feynman": {
+   "cx": 0.5,
+   "cy": 0.4687,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980513774
+  },
+  "scientifiques-celebres_stephen-hawking": {
+   "cx": 0.5,
+   "cy": 0.5326,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980518226
   }
  }
 }

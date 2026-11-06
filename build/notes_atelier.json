@@ -74948,6 +74948,20 @@
    "w": 0.8264,
    "src": "orig",
    "editeLe": 1793982912604
+  },
+  "theoremes-et-lois_loi-de-coulomb-electrostatique": {
+   "cx": 0.5,
+   "cy": 0.512,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982918887
+  },
+  "theoremes-et-lois_conservation-de-la-masse": {
+   "cx": 0.5088,
+   "cy": 0.5165,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793982923248
   }
  }
 }

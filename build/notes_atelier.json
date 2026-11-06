@@ -70972,6 +70972,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793979578084
+  },
+  "sites-antiques_jericho": {
+   "cx": 0.4988,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793979583228
+  },
+  "sites-antiques_catal-hoyuk": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979585591
+  },
+  "sites-antiques_hattusa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979587694
   }
  }
 }

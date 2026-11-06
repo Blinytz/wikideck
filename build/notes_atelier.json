@@ -62817,6 +62817,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960565377
+  },
+  "grandes-batailles-historiques_bataille-de-gettysburg": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960570859
+  },
+  "grandes-batailles-historiques_bataille-de-sedan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960573088
+  },
+  "grandes-batailles-historiques_bataille-de-la-marne-1914": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960577532
   }
  }
 }

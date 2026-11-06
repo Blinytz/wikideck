@@ -64910,6 +64910,27 @@
    "w": 0.4308,
    "src": "orig",
    "editeLe": 1793962201107
+  },
+  "figures-resistance_jacques-bingen": {
+   "cx": 0.5,
+   "cy": 0.3345,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962205209
+  },
+  "figures-resistance_claus-von-stauffenberg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6097,
+   "src": "orig",
+   "editeLe": 1793962208617
+  },
+  "figures-resistance_hans-scholl": {
+   "cx": 0.5,
+   "cy": 0.4951,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962212840
   }
  }
 }

@@ -67600,11 +67600,25 @@
    "editeLe": 1793963820590
   },
   "iles_ile-de-la-tortue": {
-   "cx": 0.4347,
+   "cx": 0.407,
    "cy": 0.5,
    "w": 0.814,
    "src": "orig",
-   "editeLe": 1793963824551
+   "editeLe": 1793963832342
+  },
+  "iles_tristan-da-cunha": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963834741
+  },
+  "iles_iles-kerguelen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963837282
   }
  }
 }

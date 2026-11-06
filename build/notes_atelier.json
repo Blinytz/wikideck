@@ -64945,6 +64945,20 @@
    "w": 0.7544,
    "src": "orig",
    "editeLe": 1793962221184
+  },
+  "figures-resistance_hannie-schaft": {
+   "cx": 0.5,
+   "cy": 0.4709,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962224781
+  },
+  "figures-resistance_nancy-wake": {
+   "cx": 0.5,
+   "cy": 0.462,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962227823
   }
  }
 }

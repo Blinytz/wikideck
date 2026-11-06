@@ -66016,6 +66016,20 @@
    "w": 0.555,
    "src": "orig",
    "editeLe": 1793962653172
+  },
+  "grands-explorateurs_james-cook": {
+   "cx": 0.544,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962658076
+  },
+  "grands-explorateurs_amerigo-vespucci": {
+   "cx": 0.4888,
+   "cy": 0.4672,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793962665344
   }
  }
 }

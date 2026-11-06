@@ -67276,6 +67276,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963651105
+  },
+  "iles_ile-de-paques": {
+   "cx": 0.4893,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963660086
+  },
+  "iles_iles-galapagos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963663252
   }
  }
 }

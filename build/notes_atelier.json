@@ -70286,6 +70286,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976634993
+  },
+  "chateaux-celebres_chateau-de-saint-germain-en-laye": {
+   "cx": 0.5013,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976637609
+  },
+  "chateaux-celebres_chateau-de-malmaison": {
+   "cx": 0.4227,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976642956
   }
  }
 }

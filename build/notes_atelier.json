@@ -69082,6 +69082,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964551981
+  },
+  "deserts_steppe-patagonienne": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964553827
+  },
+  "deserts_desert-blanc": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964555651
+  },
+  "deserts_grand-erg-oriental": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964557553
+  },
+  "deserts_desert-d-arabie": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964559391
+  },
+  "deserts_grand-desert-de-sable": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964561302
   }
  }
 }

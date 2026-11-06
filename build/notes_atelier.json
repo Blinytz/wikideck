@@ -61907,6 +61907,20 @@
    "w": 0.7054,
    "src": "orig",
    "editeLe": 1793959721497
+  },
+  "dynasties-regnantes_maisons-d-orleans": {
+   "cx": 0.512,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959725235
+  },
+  "dynasties-regnantes_maison-bernadotte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6102,
+   "src": "orig",
+   "editeLe": 1793959728504
   }
  }
 }

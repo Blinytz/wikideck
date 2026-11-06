@@ -65162,6 +65162,27 @@
    "w": 0.721,
    "src": "orig",
    "editeLe": 1793962341711
+  },
+  "organisations-internationales_ligue-arabe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7221,
+   "src": "orig",
+   "editeLe": 1793962344961
+  },
+  "organisations-internationales_commonwealth": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962349505
+  },
+  "organisations-internationales_organisation-internationale-de-la-francophonie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6104,
+   "src": "orig",
+   "editeLe": 1793962352420
   }
  }
 }

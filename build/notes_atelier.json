@@ -72498,6 +72498,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980790543
+  },
+  "scientifiques-celebres_kurt-godel": {
+   "cx": 0.5,
+   "cy": 0.3702,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980794311
+  },
+  "scientifiques-celebres_john-forbes-nash": {
+   "cx": 0.5,
+   "cy": 0.3446,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980798588
+  },
+  "scientifiques-celebres_alexandre-grothendieck": {
+   "cx": 0.5545,
+   "cy": 0.5455,
+   "w": 0.592,
+   "src": "orig",
+   "editeLe": 1793980803490
   }
  }
 }

@@ -64595,6 +64595,20 @@
    "w": 0.9218,
    "src": "orig",
    "editeLe": 1793961973023
+  },
+  "figures-emancipation_olaudah-equiano": {
+   "cx": 0.5147,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961979059
+  },
+  "figures-emancipation_john-brown": {
+   "cx": 0.5,
+   "cy": 0.4625,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961982798
   }
  }
 }

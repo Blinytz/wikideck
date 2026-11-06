@@ -69243,6 +69243,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964650857
+  },
+  "regions-francaises_conseil-departemental-de-mayotte": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964652713
+  },
+  "micro-etats_vatican": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964654683
+  },
+  "micro-etats_monaco": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964656754
+  },
+  "micro-etats_nauru": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964658812
+  },
+  "micro-etats_tuvalu": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964660663
   }
  }
 }

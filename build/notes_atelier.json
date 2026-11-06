@@ -73555,6 +73555,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981502482
+  },
+  "inventeurs-et-ingenieurs_joseph-marie-jacquard": {
+   "cx": 0.5117,
+   "cy": 0.488,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793981508205
+  },
+  "inventeurs-et-ingenieurs_nicolas-appert": {
+   "cx": 0.5,
+   "cy": 0.4625,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981512544
+  },
+  "inventeurs-et-ingenieurs_george-westinghouse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.899,
+   "src": "orig",
+   "editeLe": 1793981515407
   }
  }
 }

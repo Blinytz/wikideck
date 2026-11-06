@@ -60990,6 +60990,20 @@
    "w": 0.6209,
    "src": "orig",
    "editeLe": 1793958953829
+  },
+  "monarques-anglais-et-britanniques_henri-ier-roi-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.4251,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793958962441
+  },
+  "monarques-anglais-et-britanniques_mathilde-l-emperesse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793958965809
   }
  }
 }

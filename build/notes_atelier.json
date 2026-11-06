@@ -72106,6 +72106,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980543988
+  },
+  "scientifiques-celebres_robert-koch": {
+   "cx": 0.5,
+   "cy": 0.4525,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980547170
+  },
+  "scientifiques-celebres_edward-jenner": {
+   "cx": 0.5,
+   "cy": 0.4935,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980551781
+  },
+  "scientifiques-celebres_florence-nightingale": {
+   "cx": 0.5,
+   "cy": 0.4935,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793980552696
   }
  }
 }

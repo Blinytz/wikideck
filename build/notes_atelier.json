@@ -68116,6 +68116,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963990556
+  },
+  "fleuves-mers-et-oceans_congo-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963993153
+  },
+  "fleuves-mers-et-oceans_niger-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963997169
+  },
+  "fleuves-mers-et-oceans_mekong": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963998678
+  },
+  "fleuves-mers-et-oceans_tigre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964000944
   }
  }
 }

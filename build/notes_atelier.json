@@ -63363,6 +63363,34 @@
    "w": 0.7782,
    "src": "orig",
    "editeLe": 1793960866360
+  },
+  "grandes-guerres_guerre-des-deux-roses": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960869870
+  },
+  "grandes-guerres_guerres-de-religion-france": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8919,
+   "src": "orig",
+   "editeLe": 1793960872876
+  },
+  "grandes-guerres_guerre-de-trente-ans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7366,
+   "src": "orig",
+   "editeLe": 1793960874866
+  },
+  "grandes-guerres_guerre-de-succession-d-espagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7495,
+   "src": "orig",
+   "editeLe": 1793960876998
   }
  }
 }

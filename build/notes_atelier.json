@@ -62222,6 +62222,27 @@
    "w": 0.615,
    "src": "orig",
    "editeLe": 1793960063455
+  },
+  "empires-et-civilisations_autriche-hongrie": {
+   "cx": 0.5735,
+   "cy": 0.4047,
+   "w": 0.683,
+   "src": "orig",
+   "editeLe": 1793960076321
+  },
+  "empires-et-civilisations_sumer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960080660
+  },
+  "empires-et-civilisations_empire-d-akkad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6084,
+   "src": "orig",
+   "editeLe": 1793960084086
   }
  }
 }

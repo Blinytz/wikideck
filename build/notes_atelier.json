@@ -66583,6 +66583,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962968992
+  },
+  "villes-du-monde_rio-de-janeiro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962970289
+  },
+  "villes-du-monde_buenos-aires": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962971630
+  },
+  "villes-du-monde_mexico": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962972943
+  },
+  "villes-du-monde_marrakech": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962974260
+  },
+  "villes-du-monde_le-cap": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962975883
+  },
+  "villes-du-monde_sydney": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962977202
+  },
+  "villes-du-monde_san-francisco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962978687
+  },
+  "villes-du-monde_la-havane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962980038
   }
  }
 }

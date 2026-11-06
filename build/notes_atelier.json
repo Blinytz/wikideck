@@ -66086,6 +66086,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962699276
+  },
+  "grands-explorateurs_david-livingstone": {
+   "cx": 0.4996,
+   "cy": 0.5035,
+   "w": 0.6115,
+   "src": "orig",
+   "editeLe": 1793962705683
+  },
+  "grands-explorateurs_henry-morton-stanley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962707677
   }
  }
 }

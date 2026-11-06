@@ -67381,6 +67381,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963754738
+  },
+  "iles_terre-neuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963756784
+  },
+  "iles_tasmanie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963758687
+  },
+  "iles_fidji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963760487
+  },
+  "iles_palaos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1793963763335
+  },
+  "iles_maldives": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963765035
   }
  }
 }

@@ -61767,6 +61767,20 @@
    "w": 0.555,
    "src": "orig",
    "editeLe": 1793959613367
+  },
+  "dynasties-regnantes_maison-de-hohenstaufen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959619835
+  },
+  "dynasties-regnantes_maison-de-hohenzollern": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793959623092
   }
  }
 }

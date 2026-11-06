@@ -66744,6 +66744,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963001295
+  },
+  "villes-du-monde_nairobi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963004056
+  },
+  "villes-du-monde_addis-abeba": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963005969
+  },
+  "villes-du-monde_damas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963007472
+  },
+  "villes-du-monde_bagdad": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963008782
+  },
+  "villes-du-monde_samarcande": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963010092
   }
  }
 }

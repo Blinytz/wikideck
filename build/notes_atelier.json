@@ -72876,6 +72876,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981030801
+  },
+  "scientifiques-celebres_ferdinand-de-saussure": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981033112
+  },
+  "scientifiques-celebres_noam-chomsky": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793981035689
+  },
+  "scientifiques-celebres_jean-francois-champollion": {
+   "cx": 0.5,
+   "cy": 0.5307,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981040146
   }
  }
 }

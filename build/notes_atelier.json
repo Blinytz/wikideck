@@ -70615,6 +70615,27 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793976894436
+  },
+  "chateaux-celebres_hearst-castle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793976899420
+  },
+  "chateaux-celebres_chateau-frontenac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793976902782
+  },
+  "chateaux-celebres_chateau-gaillard-les-andelys": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793976905288
   }
  }
 }

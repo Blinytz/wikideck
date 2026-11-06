@@ -69894,6 +69894,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793964982859
+  },
+  "monuments-emblematiques_cite-radieuse-de-marseille": {
+   "cx": 0.4656,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1793964986859
+  },
+  "monuments-emblematiques_ellora": {
+   "cx": 0.5613,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964991108
+  },
+  "monuments-emblematiques_hampi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793964994194
   }
  }
 }

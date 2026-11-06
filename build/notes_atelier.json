@@ -68179,6 +68179,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964011015
+  },
+  "fleuves-mers-et-oceans_colorado-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964012743
+  },
+  "fleuves-mers-et-oceans_rio-grande-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964014518
+  },
+  "fleuves-mers-et-oceans_mer-mediterranee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964016308
+  },
+  "fleuves-mers-et-oceans_mer-rouge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964018940
+  },
+  "fleuves-mers-et-oceans_mer-noire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964021276
   }
  }
 }

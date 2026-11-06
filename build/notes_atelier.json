@@ -68057,16 +68057,37 @@
   "fleuves-mers-et-oceans_nil": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963967016
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963974666
   },
   "fleuves-mers-et-oceans_amazone-fleuve": {
    "cx": 0.5,
    "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963976553
+  },
+  "fleuves-mers-et-oceans_yangtse": {
+   "cx": 0.5,
+   "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963968487
+   "src": "orig",
+   "editeLe": 1793963978526
+  },
+  "fleuves-mers-et-oceans_mississippi-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1793963980167
+  },
+  "fleuves-mers-et-oceans_danube": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963982035
   }
  }
 }

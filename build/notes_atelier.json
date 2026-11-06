@@ -68949,6 +68949,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964513899
+  },
+  "deserts_neguev": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964515652
+  },
+  "deserts_desert-du-thar": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964517594
+  },
+  "deserts_desert-du-taklamakan": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964519755
+  },
+  "deserts_desert-des-mojaves": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964521766
+  },
+  "deserts_vallee-de-la-mort": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964523828
   }
  }
 }

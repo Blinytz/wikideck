@@ -67332,6 +67332,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963735031
+  },
+  "iles_santorin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963737186
+  },
+  "iles_capri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963739368
+  },
+  "iles_ibiza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963741817
+  },
+  "iles_bahamas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963744024
+  },
+  "iles_cuba": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963746219
   }
  }
 }

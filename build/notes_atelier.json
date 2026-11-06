@@ -68676,6 +68676,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964395364
+  },
+  "lacs_lac-ontario": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964397965
+  },
+  "lacs_lac-ladoga": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964400885
+  },
+  "lacs_lac-balkhach": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964403325
+  },
+  "lacs_lac-du-bourget": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964405502
+  },
+  "lacs_lac-d-annecy": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964408713
   }
  }
 }

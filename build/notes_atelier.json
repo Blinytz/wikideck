@@ -73058,6 +73058,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981128734
+  },
+  "scientifiques-celebres_claude-galien": {
+   "cx": 0.516,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981135471
+  },
+  "scientifiques-celebres_hans-christian-rsted": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981139190
   }
  }
 }

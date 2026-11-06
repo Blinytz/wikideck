@@ -64798,6 +64798,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962103520
+  },
+  "figures-resistance_irena-sendler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962110686
+  },
+  "figures-resistance_raymond-aubrac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9511,
+   "src": "orig",
+   "editeLe": 1793962113862
+  },
+  "figures-resistance_pierre-brossolette": {
+   "cx": 0.3831,
+   "cy": 0.5,
+   "w": 0.7638,
+   "src": "orig",
+   "editeLe": 1793962118568
   }
  }
 }

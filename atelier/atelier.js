@@ -288,6 +288,8 @@ async function demarrer() {
   try {
     sourcesImages = await (await fetch('build/images_sources.json' + bust)).json();
   } catch { sourcesImages = {}; }
+  // images d'origine qui ne correspondent plus à l'illustration (build/audit/originaux_divergents.py)
+  try { divergents = new Set(await lire('build/originaux_divergents.json')); } catch { divergents = new Set(); }
   try {
     planches = await (await fetchRetente('data/planches.json' + bust)).json();
   } catch { planches = {}; }       // sans planches, la grille charge carte par carte
@@ -495,13 +497,13 @@ function rendreGrille() {
         // dans le dépôt : la copie publiée sur Pages arrive bien plus tard.
         const cadC = notes.cadragesCarte?.[c.id];
         const srcCarte = apercusCarte[c.id] || (c.imgC
-          ? (cadC && Date.now() - (cadC.editeLe || 0) < 6 * 3600e3 ? RAW : '') + `${cheminsDe(c).carte}?v=${c.imgC}`
+          ? (cadC && Date.now() - (cadC.editeLe || 0) < 30 * 60e3 ? RAW : '') + `${cheminsDe(c).carte}?v=${c.imgC}`
           : null);
         const surPlanche = rang !== undefined && !apercusLocaux[c.id] && !srcCarte
           && !(cad && (cad.editeLe || 0) > pl.genereLe);
         const visuel = surPlanche
           ? `<div class="v-planche" style="--bx:${pl.cols > 1 ? (rang % pl.cols) / (pl.cols - 1) * 100 : 0}%;--by:${pl.lignes > 1 ? Math.floor(rang / pl.cols) / (pl.lignes - 1) * 100 : 0}%"></div>`
-          : `<img data-src="${esc(srcCarte || src)}" alt="">`;
+          : `<img data-src="${esc(srcCarte || src)}" alt="" onerror="vignetteEnSecours(this)">`;
         return `<div class="vignette${sel}" data-id="${esc(c.id)}"
                      style="--rar:${COULEUR_RARETE[c.rarete]}">
           <div class="v-cadre">${visuel}</div>
@@ -1104,21 +1106,51 @@ async function changerMode(mode) {
 // cadrage de départ est alors identique à la vignette) ; « HD » passe sur
 // l'image d'origine, plus grande et plus large de champ.
 let sourceCarte = 'full';
+// Où l'illustration 4:3 (images/full) a été prise dans l'image d'origine, quand on le sait
+let divergents = new Set();
+// vignette lue dans le dépôt et refusée (GitHub limite les lectures en rafale) :
+// on la reprend sur le site publié, puis sur l'illustration
+window.vignetteEnSecours = (img) => {
+  if (img.src.startsWith(RAW)) { img.src = img.src.slice(RAW.length); return; }
+  const id = img.closest('[data-id]')?.dataset.id, c = id && parId.get(id);
+  if (c && !img.dataset.secours) { img.dataset.secours = '1'; img.src = vign(c); }
+};
+function illusDansOrigine(carte) {
+  if (divergents.has(carte.id)) return null;
+  const a = notes.cadrages[carte.id];
+  return a?.original && a.w ? a : null;
+}
+// un cadrage exprimé sur l'illustration, ré-exprimé sur l'image d'origine
+function versOrigine(f, a, iw, ih) {
+  const wi = a.w * iw, hi = wi * 3 / 4, x0 = a.cx * iw - wi / 2, y0 = a.cy * ih - hi / 2;
+  return { cx: (x0 + f.cx * wi) / iw, cy: (y0 + f.cy * hi) / ih, w: f.w * wi / iw };
+}
+// cadrage par défaut sur l'illustration : la zone centrale, exactement comme la vignette
+const CADRAGE_ILLUS = { cx: 0.5, cy: 0.5, w: (600 * 760 / 700) / 800 };
+
+// On cadre sur l'image d'origine (pleine définition) en partant exactement du
+// cadrage que montre la vignette ; « HD » éteint revient à l'illustration seule.
 async function chargerFormatCarte(carte, source) {
   const cad = notes.cadragesCarte?.[carte.id];
-  // les premiers cadrages enregistrés partaient tous de l'image d'origine
-  sourceCarte = source || (cad ? (cad.src || 'orig') : 'full');
+  const a = illusDansOrigine(carte);
+  const voulue = source || ((cad && (cad.src || 'orig') === 'orig') || a ? 'orig' : 'full');
+  // sans correspondance connue avec l'origine, on reste sur l'illustration (sauf demande « HD »)
   const ch = cheminsDe(carte), bust = `?v=${Date.now()}`;
-  const illus = [carte.imageUrl + (carte.imgV ? `?v=${carte.imgV}` : bust), RAW + carte.imageUrl];
-  const hd = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig];
-  const sources = (sourceCarte === 'orig' ? [...hd, ...illus] : [...illus, ...hd]).filter(Boolean);
-  for (const src of sources) {
-    try { await editeur.chargerDepuisURL(src); break; } catch { /* source suivante */ }
+  const illus = [carte.imageUrl + (carte.imgV ? `?v=${carte.imgV}` : bust), RAW + carte.imageUrl].map((u) => ['full', u]);
+  const hd = [originauxLocaux[carte.id], ch.orig + bust, RAW + ch.orig].filter(Boolean).map((u) => ['orig', u]);
+  let charge = null;
+  for (const [quoi, src] of voulue === 'orig' ? [...hd, ...illus] : [...illus, ...hd]) {
+    try { await editeur.chargerDepuisURL(src); charge = quoi; break; } catch { /* source suivante */ }
   }
+  sourceCarte = charge || voulue;
   $('#ed-flou').src = editeur.img.src;
   $('#ed-hd').classList.toggle('actif', sourceCarte === 'orig');
-  // un cadrage enregistré ne vaut que pour la source sur laquelle il a été fait
-  if (cad && (cad.src || 'orig') === sourceCarte) editeur.setCadrage(cad); else editeur.reset();
+  if (cad && (cad.src || 'orig') === sourceCarte) editeur.setCadrage(cad);
+  else if (sourceCarte === 'orig' && a && !originauxLocaux[carte.id]) {
+    // même cadrage que sur l'illustration, mais dans l'image d'origine
+    editeur.setCadrage(versOrigine(cad?.src === 'full' ? cad : CADRAGE_ILLUS, a, editeur.iw, editeur.ih));
+  } else if (sourceCarte === 'full') editeur.setCadrage(cad?.src === 'full' ? cad : CADRAGE_ILLUS);
+  else editeur.reset();
   majResolution(); apercuCarte();
 }
 async function enregistrerFormatCarte() {

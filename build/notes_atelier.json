@@ -64994,6 +64994,20 @@
    "w": 0.8221,
    "src": "orig",
    "editeLe": 1793962253819
+  },
+  "figures-resistance_henri-rol-tanguy": {
+   "cx": 0.5,
+   "cy": 0.3793,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962257792
+  },
+  "figures-resistance_colonel-remy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6374,
+   "src": "orig",
+   "editeLe": 1793962260089
   }
  }
 }

@@ -71679,6 +71679,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980269162
+  },
+  "monnaies-du-monde_roupie-srilankaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980270436
+  },
+  "monnaies-du-monde_roupie-nepalaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980271574
+  },
+  "monnaies-du-monde_livre-libanaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980272756
+  },
+  "monnaies-du-monde_dinar-bahreini": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980274136
+  },
+  "monnaies-du-monde_rial-omanais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980275472
+  },
+  "monnaies-du-monde_won-nord-coreen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980276838
+  },
+  "monnaies-du-monde_dollar-du-zimbabwe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980278180
   }
  }
 }

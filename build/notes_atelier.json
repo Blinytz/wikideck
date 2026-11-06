@@ -62859,6 +62859,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960584238
+  },
+  "grandes-batailles-historiques_bataille-de-midway": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7916,
+   "src": "orig",
+   "editeLe": 1793960590414
+  },
+  "grandes-batailles-historiques_debarquement-de-normandie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8165,
+   "src": "orig",
+   "editeLe": 1793960594510
+  },
+  "grandes-batailles-historiques_bataille-des-ardennes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960596539
   }
  }
 }

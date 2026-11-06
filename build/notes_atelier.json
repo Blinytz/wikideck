@@ -70664,6 +70664,20 @@
    "w": 0.6338,
    "src": "full",
    "editeLe": 1793977088045
+  },
+  "merveilles-du-monde_statue-chryselephantine-de-zeus-a-olympie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793977094525
+  },
+  "merveilles-du-monde_temple-d-artemis-a-ephese": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6109,
+   "src": "orig",
+   "editeLe": 1793977097661
   }
  }
 }

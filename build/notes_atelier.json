@@ -74906,6 +74906,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982881965
+  },
+  "theoremes-et-lois_equations-de-maxwell": {
+   "cx": 0.5,
+   "cy": 0.4511,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982888958
+  },
+  "theoremes-et-lois_conservation-de-l-energie": {
+   "cx": 0.5024,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793982893119
+  },
+  "theoremes-et-lois_premier-principe-de-la-thermodynamique": {
+   "cx": 0.5,
+   "cy": 0.4924,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982897637
   }
  }
 }

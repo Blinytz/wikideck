@@ -59361,11 +59361,11 @@
    "editeLe": 1793960161316
   },
   "empires-et-civilisations_huns": {
-   "cx": 0.5291,
-   "cy": 0.4745,
+   "cx": 0.4964,
+   "cy": 0.4717,
    "w": 0.9091,
    "src": "orig",
-   "editeLe": 1793822471519
+   "editeLe": 1793960343034
   },
   "dirigeants-contemporains_ho-chi-minh": {
    "cx": 0.5053,
@@ -62460,6 +62460,13 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960333174
+  },
+  "empires-et-civilisations_scythes": {
+   "cx": 0.5173,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960337570
   }
  }
 }

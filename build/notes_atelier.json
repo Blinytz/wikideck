@@ -59438,11 +59438,11 @@
    "editeLe": 1793961558859
   },
   "traites-et-textes-fondateurs_bulle-d-or-1356": {
-   "cx": 0.532,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793869286695
+   "w": 0.7178,
+   "src": "orig",
+   "editeLe": 1793961580307
   },
   "traites-et-textes-fondateurs_code-noir": {
    "cx": 0.5549,
@@ -64175,6 +64175,13 @@
    "w": 0.615,
    "src": "orig",
    "editeLe": 1793961578041
+  },
+  "traites-et-textes-fondateurs_declaration-balfour-de-1917": {
+   "cx": 0.7223,
+   "cy": 0.4858,
+   "w": 0.5554,
+   "src": "orig",
+   "editeLe": 1793961585624
   }
  }
 }

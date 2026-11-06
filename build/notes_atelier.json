@@ -69012,6 +69012,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964532804
+  },
+  "deserts_desert-du-karakoum": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964534881
+  },
+  "deserts_desert-du-kyzylkoum": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964536594
+  },
+  "deserts_dacht-e-lout": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964538329
+  },
+  "deserts_dacht-e-kavir": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964540237
+  },
+  "deserts_desert-libyque": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964542395
   }
  }
 }

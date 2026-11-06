@@ -70342,6 +70342,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976652694
+  },
+  "chateaux-celebres_chateau-de-castelnaud": {
+   "cx": 0.5586,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976754197
+  },
+  "chateaux-celebres_chateau-de-beynac": {
+   "cx": 0.5346,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976757172
+  },
+  "chateaux-celebres_chateau-de-tarascon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976759619
   }
  }
 }

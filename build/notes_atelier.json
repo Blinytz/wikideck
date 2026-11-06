@@ -67257,18 +67257,18 @@
    "editeLe": 1793963700561
   },
   "iles_sumatra": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963702782
+  },
+  "iles_hawai-ile": {
    "cx": 0.407,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793963646002
-  },
-  "iles_hawai-ile": {
-   "cx": 0.4121,
-   "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963648518
+   "editeLe": 1793963707485
   },
   "iles_tahiti": {
    "cx": 0.4494,

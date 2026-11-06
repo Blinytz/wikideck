@@ -74367,6 +74367,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982470723
+  },
+  "inventions-importantes_production-de-l-aluminium-par-electrolyse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1793982474808
+  },
+  "inventions-importantes_reacteur-nucleaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7692,
+   "src": "orig",
+   "editeLe": 1793982478479
   }
  }
 }

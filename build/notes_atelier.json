@@ -65990,11 +65990,18 @@
    "editeLe": 1793962618422
   },
   "grands-explorateurs_christophe-colomb": {
-   "cx": 0.5,
+   "cx": 0.4973,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793962620204
+   "editeLe": 1793962630597
+  },
+  "grands-explorateurs_vasco-de-gama": {
+   "cx": 0.4735,
+   "cy": 0.5,
+   "w": 0.7346,
+   "src": "orig",
+   "editeLe": 1793962625886
   }
  }
 }

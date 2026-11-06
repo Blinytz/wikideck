@@ -68543,6 +68543,20 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793964133815
+  },
+  "fleuves-mers-et-oceans_cap-horn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964145298
+  },
+  "fleuves-mers-et-oceans_triangle-des-bermudes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964151236
   }
  }
 }

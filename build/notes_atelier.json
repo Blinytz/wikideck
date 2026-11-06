@@ -63664,6 +63664,27 @@
    "w": 0.5702,
    "src": "orig",
    "editeLe": 1793961063471
+  },
+  "grandes-guerres_guerre-du-liban": {
+   "cx": 0.4884,
+   "cy": 0.5039,
+   "w": 0.6744,
+   "src": "orig",
+   "editeLe": 1793961068142
+  },
+  "grandes-guerres_guerre-iran-irak": {
+   "cx": 0.559,
+   "cy": 0.5,
+   "w": 0.7514,
+   "src": "orig",
+   "editeLe": 1793961073121
+  },
+  "grandes-guerres_guerres-de-yougoslavie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7229,
+   "src": "orig",
+   "editeLe": 1793961075436
   }
  }
 }

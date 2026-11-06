@@ -69572,6 +69572,41 @@
    "w": 0.5671,
    "src": "full",
    "editeLe": 1793964810287
+  },
+  "monuments-emblematiques_grande-mosquee-de-djenne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964812187
+  },
+  "monuments-emblematiques_temple-du-ciel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964814099
+  },
+  "monuments-emblematiques_palais-du-potala": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964816012
+  },
+  "monuments-emblematiques_burj-al-arab": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964817776
+  },
+  "monuments-emblematiques_kinkaku-ji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964819334
   }
  }
 }

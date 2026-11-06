@@ -62950,6 +62950,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793960645716
+  },
+  "grandes-batailles-historiques_bataille-de-philippes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960648607
+  },
+  "grandes-batailles-historiques_bataille-du-pont-milvius": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960651207
+  },
+  "grandes-batailles-historiques_bataille-de-roncevaux-778": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960653701
   }
  }
 }

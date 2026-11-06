@@ -74290,6 +74290,20 @@
    "w": 0.7556,
    "src": "orig",
    "editeLe": 1793982345886
+  },
+  "inventions-importantes_bateau-a-vapeur": {
+   "cx": 0.3415,
+   "cy": 0.3938,
+   "w": 0.683,
+   "src": "orig",
+   "editeLe": 1793982352191
+  },
+  "inventions-importantes_sous-marin": {
+   "cx": 0.4318,
+   "cy": 0.5,
+   "w": 0.6512,
+   "src": "orig",
+   "editeLe": 1793982357380
   }
  }
 }

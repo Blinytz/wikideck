@@ -64119,6 +64119,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961475495
+  },
+  "traites-et-textes-fondateurs_accords-de-bretton-woods": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7018,
+   "src": "orig",
+   "editeLe": 1793961479629
+  },
+  "traites-et-textes-fondateurs_plan-marshall": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793961483641
+  },
+  "traites-et-textes-fondateurs_loi-du-9-decembre-1905-concernant-la-separation-des-eglises-et-de-l-etat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961486873
   }
  }
 }

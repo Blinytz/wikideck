@@ -66121,6 +66121,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962719785
+  },
+  "grands-explorateurs_francis-drake": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962724500
+  },
+  "grands-explorateurs_willem-barentsz": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962728728
   }
  }
 }

@@ -74493,6 +74493,27 @@
    "w": 0.7244,
    "src": "orig",
    "editeLe": 1793982545190
+  },
+  "inventions-importantes_wi-fi": {
+   "cx": 0.3181,
+   "cy": 0.5,
+   "w": 0.6362,
+   "src": "orig",
+   "editeLe": 1793982548207
+  },
+  "inventions-importantes_courrier-electronique": {
+   "cx": 0.6032,
+   "cy": 0.5,
+   "w": 0.5167,
+   "src": "orig",
+   "editeLe": 1793982552330
+  },
+  "inventions-importantes_moteur-de-recherche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793982555157
   }
  }
 }

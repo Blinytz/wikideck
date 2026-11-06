@@ -62033,6 +62033,20 @@
    "w": 0.6934,
    "src": "orig",
    "editeLe": 1793959881279
+  },
+  "empires-et-civilisations_sassanides": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8422,
+   "src": "orig",
+   "editeLe": 1793959884818
+  },
+  "empires-et-civilisations_empire-mongol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959888436
   }
  }
 }

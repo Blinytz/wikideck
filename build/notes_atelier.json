@@ -55290,14 +55290,6 @@
    "editeLe": 0,
    "auto": true
   },
-  "corps-humain_cervelet": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.75,
-   "original": true,
-   "editeLe": 0,
-   "auto": true
-  },
   "corps-humain_diaphragme-organe": {
    "cx": 0.5,
    "cy": 0.5,

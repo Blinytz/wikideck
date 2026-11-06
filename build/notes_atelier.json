@@ -73695,6 +73695,20 @@
    "w": 0.7052,
    "src": "orig",
    "editeLe": 1793981579162
+  },
+  "inventions-importantes_papier": {
+   "cx": 0.4823,
+   "cy": 0.5,
+   "w": 0.9645,
+   "src": "orig",
+   "editeLe": 1793981583721
+  },
+  "inventions-importantes_imprimerie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.837,
+   "src": "orig",
+   "editeLe": 1793981587665
   }
  }
 }

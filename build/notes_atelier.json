@@ -61578,6 +61578,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959494778
+  },
+  "dynasties-regnantes_dynastie-song": {
+   "cx": 0.5,
+   "cy": 0.4164,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959498883
+  },
+  "dynasties-regnantes_dynastie-ming": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959501942
+  },
+  "dynasties-regnantes_dynastie-qing": {
+   "cx": 0.5,
+   "cy": 0.379,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959505433
   }
  }
 }

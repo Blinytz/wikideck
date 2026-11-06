@@ -71140,6 +71140,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980070897
+  },
+  "langues-du-monde_etrusque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980072662
+  },
+  "langues-du-monde_vieux-norrois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980075485
+  },
+  "langues-du-monde_lineaire-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980077686
+  },
+  "langues-du-monde_ecriture-maya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980080248
   }
  }
 }

@@ -72750,6 +72750,20 @@
    "w": 0.8465,
    "src": "orig",
    "editeLe": 1793980937110
+  },
+  "scientifiques-celebres_paul-ehrlich": {
+   "cx": 0.5,
+   "cy": 0.3944,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980941536
+  },
+  "scientifiques-celebres_jonas-salk": {
+   "cx": 0.5,
+   "cy": 0.3779,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980945081
   }
  }
 }

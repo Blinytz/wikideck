@@ -62747,6 +62747,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960539317
+  },
+  "grandes-batailles-historiques_invincible-armada": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4789,
+   "src": "orig",
+   "editeLe": 1793960544613
+  },
+  "grandes-batailles-historiques_bataille-de-breitenfeld-1631": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960547161
+  },
+  "grandes-batailles-historiques_bataille-de-rocroi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960549027
+  },
+  "grandes-batailles-historiques_bataille-de-poltava": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960550793
   }
  }
 }

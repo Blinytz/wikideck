@@ -76953,6 +76953,41 @@
    "w": 0.7746,
    "src": "orig",
    "editeLe": 1793990349125
+  },
+  "corps-celestes_nebuleuse-de-la-lagune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7271,
+   "src": "orig",
+   "editeLe": 1793990351546
+  },
+  "corps-celestes_nebuleuse-trifide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990353934
+  },
+  "corps-celestes_nebuleuse-de-l-il-de-chat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990355942
+  },
+  "corps-celestes_nebuleuse-de-la-tarentule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8149,
+   "src": "orig",
+   "editeLe": 1793990357762
+  },
+  "corps-celestes_m17-nebuleuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990359586
   }
  }
 }

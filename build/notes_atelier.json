@@ -76141,6 +76141,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793989720475
+  },
+  "maladies-et-epidemies_maladie-de-parkinson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793989764305
+  },
+  "maladies-et-epidemies_accident-vasculaire-cerebral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989768502
   }
  }
 }

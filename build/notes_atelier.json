@@ -69838,6 +69838,34 @@
    "w": 0.6783,
    "src": "orig",
    "editeLe": 1793964943122
+  },
+  "monuments-emblematiques_lincoln-memorial": {
+   "cx": 0.5047,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793964949546
+  },
+  "monuments-emblematiques_panneau-hollywood": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793964952337
+  },
+  "monuments-emblematiques_capitole-des-etats-unis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.741,
+   "src": "orig",
+   "editeLe": 1793964955094
+  },
+  "monuments-emblematiques_eglises-rupestres-de-lalibela": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5698,
+   "src": "orig",
+   "editeLe": 1793964957654
   }
  }
 }

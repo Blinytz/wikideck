@@ -74885,6 +74885,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793982809390
+  },
+  "theoremes-et-lois_e-mc2": {
+   "cx": 0.5046,
+   "cy": 0.4188,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793982873068
+  },
+  "theoremes-et-lois_principe-d-incertitude": {
+   "cx": 0.5213,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982879269
   }
  }
 }

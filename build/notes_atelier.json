@@ -68879,6 +68879,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964492398
+  },
+  "lacs_lac-d-ohrid": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964494707
+  },
+  "lacs_lac-nasser": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964497003
+  },
+  "lacs_lac-volta": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964500231
+  },
+  "deserts_sahara": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964502670
+  },
+  "deserts_desert-de-gobi": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964504852
   }
  }
 }

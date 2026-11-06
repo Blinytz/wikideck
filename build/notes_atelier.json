@@ -64098,6 +64098,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961458033
+  },
+  "traites-et-textes-fondateurs_traite-de-l-elysee": {
+   "cx": 0.4142,
+   "cy": 0.5,
+   "w": 0.7588,
+   "src": "orig",
+   "editeLe": 1793961463853
+  },
+  "traites-et-textes-fondateurs_accord-de-schengen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961465791
   }
  }
 }

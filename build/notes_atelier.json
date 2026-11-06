@@ -76813,6 +76813,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793990288536
+  },
+  "corps-celestes_ceinture-d-asteroides": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793990290996
+  },
+  "corps-celestes_ceinture-de-kuiper": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6104,
+   "src": "orig",
+   "editeLe": 1793990293170
+  },
+  "corps-celestes_nuage-de-oort": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6109,
+   "src": "orig",
+   "editeLe": 1793990295425
   }
  }
 }

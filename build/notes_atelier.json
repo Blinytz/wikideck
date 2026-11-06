@@ -62488,6 +62488,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960357096
+  },
+  "empires-et-civilisations_cahokia": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960363585
+  },
+  "empires-et-civilisations_empire-kouchan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7597,
+   "src": "orig",
+   "editeLe": 1793960366655
   }
  }
 }

@@ -69866,6 +69866,20 @@
    "w": 0.5698,
    "src": "orig",
    "editeLe": 1793964957654
+  },
+  "monuments-emblematiques_harbour-bridge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793964959481
+  },
+  "monuments-emblematiques_villa-savoye": {
+   "cx": 0.5093,
+   "cy": 0.4132,
+   "w": 0.5956,
+   "src": "orig",
+   "editeLe": 1793964973237
   }
  }
 }

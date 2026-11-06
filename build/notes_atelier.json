@@ -60016,6 +60016,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793957044461
+  },
+  "souverains-et-conquerants_kamehameha-ier": {
+   "cx": 0.5,
+   "cy": 0.4379,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957052859
+  },
+  "souverains-et-conquerants_tecumseh": {
+   "cx": 0.5155,
+   "cy": 0.4316,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793957062382
+  },
+  "souverains-et-conquerants_hammurabi": {
+   "cx": 0.5,
+   "cy": 0.3908,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957069368
   }
  }
 }

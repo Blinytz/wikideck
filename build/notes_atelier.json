@@ -71560,6 +71560,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980247280
+  },
+  "monnaies-du-monde_dollar-de-singapour": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980249048
+  },
+  "monnaies-du-monde_baht": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980250220
+  },
+  "monnaies-du-monde_dong-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980251697
+  },
+  "monnaies-du-monde_ringgit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980252893
+  },
+  "monnaies-du-monde_roupie-indonesienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980254200
+  },
+  "monnaies-du-monde_peso-philippin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980255617
+  },
+  "monnaies-du-monde_kyat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980256769
+  },
+  "monnaies-du-monde_tugrik": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980258051
   }
  }
 }

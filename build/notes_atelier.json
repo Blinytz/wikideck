@@ -67689,6 +67689,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963864384
+  },
+  "montagnes-et-volcans_mont-fuji": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793963866968
+  },
+  "montagnes-et-volcans_vesuve": {
+   "cx": 0.6954,
+   "cy": 0.5,
+   "w": 0.6091,
+   "src": "orig",
+   "editeLe": 1793963871555
+  },
+  "montagnes-et-volcans_etna": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7217,
+   "src": "orig",
+   "editeLe": 1793963873701
   }
  }
 }

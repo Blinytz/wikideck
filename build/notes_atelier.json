@@ -75973,6 +75973,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989523617
+  },
+  "maladies-et-epidemies_peste-noire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793989557984
+  },
+  "maladies-et-epidemies_grippe-espagnole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8131,
+   "src": "orig",
+   "editeLe": 1793989560487
   }
  }
 }

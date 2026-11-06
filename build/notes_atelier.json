@@ -76330,6 +76330,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989967690
+  },
+  "corps-celestes_jupiter-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989969654
+  },
+  "corps-celestes_saturne-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.525,
+   "src": "orig",
+   "editeLe": 1793989973339
+  },
+  "corps-celestes_uranus-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989975499
+  },
+  "corps-celestes_neptune-planete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989977626
   }
  }
 }

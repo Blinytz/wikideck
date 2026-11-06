@@ -73163,6 +73163,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981205673
+  },
+  "inventeurs-et-ingenieurs_carl-benz": {
+   "cx": 0.5,
+   "cy": 0.3931,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981210158
+  },
+  "inventeurs-et-ingenieurs_rudolf-diesel": {
+   "cx": 0.5,
+   "cy": 0.3845,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981213734
+  },
+  "inventeurs-et-ingenieurs_henry-ford": {
+   "cx": 0.5,
+   "cy": 0.4018,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981216587
   }
  }
 }

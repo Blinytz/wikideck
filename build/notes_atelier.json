@@ -63979,6 +63979,27 @@
    "w": 0.6062,
    "src": "orig",
    "editeLe": 1793961404451
+  },
+  "traites-et-textes-fondateurs_habeas-corpus": {
+   "cx": 0.4931,
+   "cy": 0.2977,
+   "w": 0.8264,
+   "src": "orig",
+   "editeLe": 1793961412598
+  },
+  "traites-et-textes-fondateurs_edit-de-milan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961414837
+  },
+  "traites-et-textes-fondateurs_traite-de-verdun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961416947
   }
  }
 }

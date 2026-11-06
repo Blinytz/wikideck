@@ -59292,9 +59292,10 @@
   },
   "souverains-et-conquerants_clovis-ier": {
    "cx": 0.5,
-   "cy": 0.337,
+   "cy": 0.3679,
    "w": 1,
-   "editeLe": 1793821920868
+   "src": "orig",
+   "editeLe": 1793957172714
   },
   "souverains-et-conquerants_aurangzeb": {
    "cx": 0.407,

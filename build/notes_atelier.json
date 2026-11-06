@@ -68823,6 +68823,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964474275
+  },
+  "lacs_lac-de-tiberiade": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964476660
+  },
+  "lacs_grands-lacs-amerique-du-nord": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964478681
+  },
+  "lacs_lac-balaton": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964481315
+  },
+  "lacs_vanern": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964483652
   }
  }
 }

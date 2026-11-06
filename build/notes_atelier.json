@@ -63426,6 +63426,34 @@
    "w": 0.9858,
    "src": "orig",
    "editeLe": 1793960892242
+  },
+  "grandes-guerres_guerre-franco-allemande-de-1870": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8389,
+   "src": "orig",
+   "editeLe": 1793960894294
+  },
+  "grandes-guerres_guerre-des-boers": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1793960896149
+  },
+  "grandes-guerres_premiere-guerre-mondiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.949,
+   "src": "orig",
+   "editeLe": 1793960898506
+  },
+  "grandes-guerres_guerre-civile-russe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8456,
+   "src": "orig",
+   "editeLe": 1793960900545
   }
  }
 }

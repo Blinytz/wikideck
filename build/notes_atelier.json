@@ -63489,6 +63489,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793960936860
+  },
+  "grandes-guerres_guerre-de-coree": {
+   "cx": 0.3052,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960942645
+  },
+  "grandes-guerres_guerre-du-vietnam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1793960948500
   }
  }
 }

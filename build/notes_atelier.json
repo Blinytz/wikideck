@@ -70489,6 +70489,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976825940
+  },
+  "chateaux-celebres_chateau-de-spis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976828072
+  },
+  "chateaux-celebres_chateau-de-kronborg": {
+   "cx": 0.52,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976832066
   }
  }
 }

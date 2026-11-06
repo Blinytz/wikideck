@@ -69950,6 +69950,62 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793965011525
+  },
+  "monuments-emblematiques_opera-garnier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793965014956
+  },
+  "monuments-emblematiques_pantheon-paris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793965017889
+  },
+  "monuments-emblematiques_hotel-des-invalides": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793965020177
+  },
+  "monuments-emblematiques_palais-du-louvre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793965023325
+  },
+  "monuments-emblematiques_pont-charles": {
+   "cx": 0.538,
+   "cy": 0.5,
+   "w": 0.7253,
+   "src": "orig",
+   "editeLe": 1793965028299
+  },
+  "monuments-emblematiques_ponte-vecchio": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793965031868
+  },
+  "monuments-emblematiques_palais-des-doges": {
+   "cx": 0.5666,
+   "cy": 0.5,
+   "w": 0.7265,
+   "src": "orig",
+   "editeLe": 1793965035399
+  },
+  "monuments-emblematiques_dome-de-milan": {
+   "cx": 0.4824,
+   "cy": 0.5,
+   "w": 0.6708,
+   "src": "orig",
+   "editeLe": 1793965040354
   }
  }
 }

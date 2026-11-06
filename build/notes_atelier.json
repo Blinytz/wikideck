@@ -65225,6 +65225,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962374605
+  },
+  "organisations-internationales_organisation-internationale-du-travail": {
+   "cx": 0.5868,
+   "cy": 0.5,
+   "w": 0.8158,
+   "src": "orig",
+   "editeLe": 1793962379507
+  },
+  "organisations-internationales_agence-internationale-de-l-energie-atomique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6703,
+   "src": "orig",
+   "editeLe": 1793962383709
   }
  }
 }

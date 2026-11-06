@@ -68557,6 +68557,20 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793964151236
+  },
+  "fleuves-mers-et-oceans_cap-de-bonne-esperance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964161769
+  },
+  "lacs_mer-caspienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964164285
   }
  }
 }

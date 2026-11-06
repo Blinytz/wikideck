@@ -67173,25 +67173,25 @@
    "editeLe": 1793963105598
   },
   "iles_madagascar": {
-   "cx": 0.593,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963110184
+   "src": "orig",
+   "editeLe": 1793963668649
   },
   "iles_islande": {
-   "cx": 0.4924,
-   "cy": 0.605,
-   "w": 0.9849,
-   "src": "full",
-   "editeLe": 1793963142255
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963671725
   },
   "iles_borneo": {
-   "cx": 0.407,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963146182
+   "src": "orig",
+   "editeLe": 1793963674009
   },
   "iles_groenland": {
    "cx": 0.5,

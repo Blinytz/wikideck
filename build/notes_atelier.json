@@ -76862,6 +76862,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793990311751
+  },
+  "corps-celestes_c-2020-f3-neowise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7488,
+   "src": "orig",
+   "editeLe": 1793990314818
+  },
+  "corps-celestes_1i-oumuamua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7095,
+   "src": "orig",
+   "editeLe": 1793990318838
+  },
+  "corps-celestes_4-vesta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990322432
   }
  }
 }

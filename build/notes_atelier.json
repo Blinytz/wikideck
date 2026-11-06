@@ -75590,11 +75590,11 @@
    "editeLe": 1793990540240
   },
   "langues-du-monde_thai": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.475,
+   "cx": 0.4996,
+   "cy": 0.5229,
+   "w": 0.3926,
    "src": "orig",
-   "editeLe": 1
+   "editeLe": 1793990542639
   },
   "langues-du-monde_catalan": {
    "cx": 0.5,
@@ -76995,6 +76995,13 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793990361409
+  },
+  "langues-du-monde_arameen": {
+   "cx": 0.5455,
+   "cy": 0.4923,
+   "w": 0.9091,
+   "src": "full",
+   "editeLe": 1793990547227
   }
  }
 }

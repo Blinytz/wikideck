@@ -67220,6 +67220,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963613013
+  },
+  "iles_corse": {
+   "cx": 0.536,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963616247
+  },
+  "iles_crete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963618353
+  },
+  "iles_chypre-ile": {
+   "cx": 0.4667,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963623203
   }
  }
 }

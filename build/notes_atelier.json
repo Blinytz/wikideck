@@ -69558,6 +69558,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964802506
+  },
+  "monuments-emblematiques_cathedrale-de-cologne": {
+   "cx": 0.5029,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964808447
+  },
+  "monuments-emblematiques_basilique-saint-pierre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5671,
+   "src": "full",
+   "editeLe": 1793964810287
   }
  }
 }

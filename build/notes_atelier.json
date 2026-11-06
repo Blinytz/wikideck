@@ -75885,6 +75885,13 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983873159
+  },
+  "corps-humain_moelle-spinale": {
+   "cx": 0.5,
+   "cy": 0.4288,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793983880687
   }
  }
 }

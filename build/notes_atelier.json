@@ -70468,6 +70468,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976816729
+  },
+  "chateaux-celebres_chateau-de-karlstejn": {
+   "cx": 0.5346,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976820016
+  },
+  "chateaux-celebres_chateau-de-cesky-krumlov": {
+   "cx": 0.5773,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976823022
+  },
+  "chateaux-celebres_palais-de-budavar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976825940
   }
  }
 }

@@ -65379,6 +65379,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962447315
+  },
+  "crises-economiques_bulle-internet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962449388
+  },
+  "crises-economiques_crise-des-subprimes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962451328
+  },
+  "crises-economiques_crise-financiere-mondiale-de-2007-2008": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962453339
+  },
+  "crises-economiques_crise-de-la-dette-dans-la-zone-euro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793962457603
   }
  }
 }

@@ -67752,6 +67752,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963910227
+  },
+  "montagnes-et-volcans_mont-saint-helens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6091,
+   "src": "orig",
+   "editeLe": 1793963913611
+  },
+  "montagnes-et-volcans_piton-de-la-fournaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963915184
+  },
+  "montagnes-et-volcans_mont-ararat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963917290
+  },
+  "montagnes-et-volcans_mont-olympe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963918963
+  },
+  "montagnes-et-volcans_mont-kailash": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963920429
   }
  }
 }

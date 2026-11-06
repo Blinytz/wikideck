@@ -68571,6 +68571,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793964164285
+  },
+  "lacs_lac-victoria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964169045
+  },
+  "lacs_lac-tanganyika": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964172062
   }
  }
 }

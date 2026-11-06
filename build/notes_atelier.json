@@ -71119,6 +71119,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793979998554
+  },
+  "langues-du-monde_sumerien": {
+   "cx": 0.5005,
+   "cy": 0.4618,
+   "w": 0.683,
+   "src": "orig",
+   "editeLe": 1793980064427
+  },
+  "langues-du-monde_akkadien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980068702
+  },
+  "langues-du-monde_hittite-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980070897
   }
  }
 }

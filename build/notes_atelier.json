@@ -59474,10 +59474,10 @@
   },
   "souverains-et-conquerants_gustave-ii-adolphe": {
    "cx": 0.5,
-   "cy": 0.3783,
+   "cy": 0.3914,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793949837719
+   "editeLe": 1793957423273
   },
   "souverains-et-conquerants_ranavalona-ire": {
    "cx": 0.5,
@@ -60318,6 +60318,13 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793957407461
+  },
+  "souverains-et-conquerants_ferdinand-le-catholique": {
+   "cx": 0.5,
+   "cy": 0.3937,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957416734
   }
  }
 }

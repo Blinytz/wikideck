@@ -67038,6 +67038,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963073623
+  },
+  "villes-du-monde_fes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963075263
+  },
+  "villes-du-monde_alger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963076659
+  },
+  "villes-du-monde_tunis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963079013
+  },
+  "villes-du-monde_dakar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963080623
+  },
+  "villes-du-monde_kinshasa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963082125
   }
  }
 }

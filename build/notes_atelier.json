@@ -68725,6 +68725,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964414476
+  },
+  "lacs_lac-majeur": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964423378
+  },
+  "lacs_lac-de-constance": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964427205
   }
  }
 }

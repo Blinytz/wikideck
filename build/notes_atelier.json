@@ -63636,6 +63636,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793961037830
+  },
+  "grandes-guerres_guerres-balkaniques": {
+   "cx": 0.6843,
+   "cy": 0.5,
+   "w": 0.6315,
+   "src": "orig",
+   "editeLe": 1793961044987
+  },
+  "grandes-guerres_guerre-d-indochine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793961049874
   }
  }
 }

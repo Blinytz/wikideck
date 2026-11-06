@@ -67619,6 +67619,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963837282
+  },
+  "iles_pitcairn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963840735
+  },
+  "iles_komodo-ile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963842582
+  },
+  "iles_bikini-atoll": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963845320
   }
  }
 }

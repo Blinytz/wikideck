@@ -65547,6 +65547,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962518230
+  },
+  "monnaies-historiques_sesterce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962520411
+  },
+  "monnaies-historiques_as-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962521684
+  },
+  "monnaies-historiques_aureus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962523006
+  },
+  "monnaies-historiques_antoninien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962524285
+  },
+  "monnaies-historiques_follis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962525717
+  },
+  "monnaies-historiques_solidus-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962526842
+  },
+  "monnaies-historiques_besant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962527934
   }
  }
 }

@@ -64238,6 +64238,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961618921
+  },
+  "figures-emancipation_malcolm-x": {
+   "cx": 0.468,
+   "cy": 0.5242,
+   "w": 0.6616,
+   "src": "orig",
+   "editeLe": 1793961624335
+  },
+  "figures-emancipation_rosa-parks": {
+   "cx": 0.4367,
+   "cy": 0.5,
+   "w": 0.624,
+   "src": "orig",
+   "editeLe": 1793961627949
   }
  }
 }

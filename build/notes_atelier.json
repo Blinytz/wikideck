@@ -70713,6 +70713,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793979389697
+  },
+  "sites-antiques_forum-romain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793979392087
+  },
+  "sites-antiques_armee-de-terre-cuite": {
+   "cx": 0.5806,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793979398189
   }
  }
 }

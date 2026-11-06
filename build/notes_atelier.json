@@ -73674,6 +73674,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793981571454
+  },
+  "inventions-importantes_agriculture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981573457
+  },
+  "inventions-importantes_boussole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981575830
+  },
+  "inventions-importantes_poudre-noire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7052,
+   "src": "orig",
+   "editeLe": 1793981579162
   }
  }
 }

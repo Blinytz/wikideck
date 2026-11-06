@@ -72421,6 +72421,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980754271
+  },
+  "scientifiques-celebres_pierre-de-fermat": {
+   "cx": 0.5,
+   "cy": 0.4125,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980758829
+  },
+  "scientifiques-celebres_leonhard-euler": {
+   "cx": 0.5,
+   "cy": 0.4266,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980762608
   }
  }
 }

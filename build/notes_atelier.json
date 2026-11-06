@@ -61718,6 +61718,20 @@
    "w": 0.5426,
    "src": "orig",
    "editeLe": 1793959569798
+  },
+  "dynasties-regnantes_maison-de-valois": {
+   "cx": 0.49,
+   "cy": 0.5868,
+   "w": 0.6189,
+   "src": "orig",
+   "editeLe": 1793959578974
+  },
+  "dynasties-regnantes_maison-de-bourbon": {
+   "cx": 0.5517,
+   "cy": 0.5,
+   "w": 0.8535,
+   "src": "orig",
+   "editeLe": 1793959583560
   }
  }
 }

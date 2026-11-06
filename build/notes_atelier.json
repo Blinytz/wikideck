@@ -67271,25 +67271,25 @@
    "editeLe": 1793963707485
   },
   "iles_tahiti": {
-   "cx": 0.4494,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963651105
+   "src": "orig",
+   "editeLe": 1793963710271
   },
   "iles_ile-de-paques": {
    "cx": 0.4893,
    "cy": 0.5,
    "w": 0.814,
    "src": "orig",
-   "editeLe": 1793963660086
+   "editeLe": 1793963713728
   },
   "iles_iles-galapagos": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
    "src": "orig",
-   "editeLe": 1793963663252
+   "editeLe": 1793963717645
   }
  }
 }

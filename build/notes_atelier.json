@@ -69047,6 +69047,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964542395
+  },
+  "deserts_tenere": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964544300
+  },
+  "deserts_depression-de-l-afar": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964546204
+  },
+  "deserts_wadi-rum": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964548162
+  },
+  "deserts_desert-de-tabernas": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964549920
+  },
+  "deserts_bardenas-reales": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964551981
   }
  }
 }

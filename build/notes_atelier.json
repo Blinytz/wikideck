@@ -70251,6 +70251,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976616736
+  },
+  "chateaux-celebres_chateau-de-foix": {
+   "cx": 0.5613,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976620973
+  },
+  "chateaux-celebres_chateau-des-ducs-de-bretagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793976627016
   }
  }
 }

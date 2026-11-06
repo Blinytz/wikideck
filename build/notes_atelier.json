@@ -72337,6 +72337,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980701357
+  },
+  "scientifiques-celebres_abdus-salam": {
+   "cx": 0.5,
+   "cy": 0.4747,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980704444
+  },
+  "scientifiques-celebres_chandrashekhara-venkata-raman": {
+   "cx": 0.4929,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980709398
+  },
+  "scientifiques-celebres_har-gobind-khorana": {
+   "cx": 0.5,
+   "cy": 0.4025,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980714814
+  },
+  "scientifiques-celebres_al-biruni": {
+   "cx": 0.5,
+   "cy": 0.4317,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980718296
   }
  }
 }

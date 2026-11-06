@@ -66989,6 +66989,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963063067
+  },
+  "villes-du-monde_budapest": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963064593
+  },
+  "villes-du-monde_kiev": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963065861
+  },
+  "villes-du-monde_marseille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963067226
+  },
+  "villes-du-monde_lyon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963068533
+  },
+  "villes-du-monde_strasbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963070434
+  },
+  "villes-du-monde_bordeaux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963072092
+  },
+  "villes-du-monde_alexandrie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963073623
   }
  }
 }

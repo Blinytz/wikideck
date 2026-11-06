@@ -71054,11 +71054,11 @@
    "editeLe": 1793979626006
   },
   "langues-du-monde_latin": {
-   "cx": 0.4336,
-   "cy": 0.5,
-   "w": 0.814,
+   "cx": 0.5105,
+   "cy": 0.5174,
+   "w": 0.74,
    "src": "full",
-   "editeLe": 1793979633418
+   "editeLe": 1793990395094
   },
   "langues-du-monde_ecriture-cuneiforme": {
    "cx": 0.3704,
@@ -75289,32 +75289,32 @@
    "editeLe": 1793983742047
   },
   "langues-du-monde_grec-ancien": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.475,
+   "cx": 0.5037,
+   "cy": 0.505,
+   "w": 0.3926,
    "src": "orig",
-   "editeLe": 1
+   "editeLe": 1793990397925
   },
   "langues-du-monde_sanskrit": {
-   "cx": 0.5,
-   "cy": 0.5,
-   "w": 0.475,
+   "cx": 0.5037,
+   "cy": 0.505,
+   "w": 0.3926,
    "src": "orig",
-   "editeLe": 1
+   "editeLe": 1793990400198
   },
   "langues-du-monde_hebreu": {
    "cx": 0.4954,
    "cy": 0.498,
    "w": 0.3926,
    "src": "orig",
-   "editeLe": 1793990382474
+   "editeLe": 1793990402013
   },
   "langues-du-monde_arabe": {
    "cx": 0.4952,
    "cy": 0.5014,
    "w": 0.3926,
    "src": "orig",
-   "editeLe": 1793990387505
+   "editeLe": 1793990403481
   },
   "langues-du-monde_langues-chinoises": {
    "cx": 0.5,

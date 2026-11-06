@@ -61865,6 +61865,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793959695861
+  },
+  "dynasties-regnantes_famille-borgia": {
+   "cx": 0.5346,
+   "cy": 0.5,
+   "w": 0.5707,
+   "src": "orig",
+   "editeLe": 1793959700811
+  },
+  "dynasties-regnantes_famille-sforza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6179,
+   "src": "orig",
+   "editeLe": 1793959704202
   }
  }
 }

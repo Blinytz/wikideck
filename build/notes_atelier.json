@@ -63300,6 +63300,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960828361
+  },
+  "grandes-batailles-historiques_bataille-d-okinawa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8623,
+   "src": "orig",
+   "editeLe": 1793960831994
+  },
+  "grandes-batailles-historiques_bataille-du-golfe-de-leyte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.717,
+   "src": "orig",
+   "editeLe": 1793960834573
+  },
+  "grandes-guerres_guerres-mediques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7556,
+   "src": "orig",
+   "editeLe": 1793960836877
+  },
+  "grandes-guerres_guerres-puniques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8272,
+   "src": "orig",
+   "editeLe": 1793960839572
   }
  }
 }

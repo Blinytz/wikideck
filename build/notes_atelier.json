@@ -66044,6 +66044,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962672542
+  },
+  "grands-explorateurs_hernan-cortes": {
+   "cx": 0.5,
+   "cy": 0.4345,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962676587
+  },
+  "grands-explorateurs_francisco-pizarro": {
+   "cx": 0.4692,
+   "cy": 0.5,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1793962681257
   }
  }
 }

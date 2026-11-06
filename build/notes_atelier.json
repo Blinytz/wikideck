@@ -70951,6 +70951,27 @@
    "w": 0.7228,
    "src": "orig",
    "editeLe": 1793979567176
+  },
+  "sites-antiques_saqsaywaman": {
+   "cx": 0.4147,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1793979572332
+  },
+  "sites-antiques_troie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793979575131
+  },
+  "sites-antiques_babylone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793979578084
   }
  }
 }

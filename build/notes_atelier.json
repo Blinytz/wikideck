@@ -74990,6 +74990,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982981513
+  },
+  "theoremes-et-lois_dernier-theoreme-de-fermat": {
+   "cx": 0.4563,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982986497
+  },
+  "theoremes-et-lois_theoremes-d-incompletude-de-godel": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982988865
+  },
+  "theoremes-et-lois_suite-de-fibonacci": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982993294
   }
  }
 }

@@ -74808,6 +74808,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982736536
+  },
+  "inventions-importantes_horloge-atomique": {
+   "cx": 0.5073,
+   "cy": 0.5,
+   "w": 0.6381,
+   "src": "orig",
+   "editeLe": 1793982741491
+  },
+  "inventions-importantes_drone": {
+   "cx": 0.455,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793982745290
   }
  }
 }

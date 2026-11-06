@@ -66779,6 +66779,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963010092
+  },
+  "villes-du-monde_ispahan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963011479
+  },
+  "villes-du-monde_cuzco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963012657
+  },
+  "villes-du-monde_vancouver": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963013845
+  },
+  "villes-du-monde_chicago": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963015642
+  },
+  "villes-du-monde_la-nouvelle-orleans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963016910
+  },
+  "villes-du-monde_reykjavik": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963019018
+  },
+  "villes-du-monde_oslo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963020804
   }
  }
 }

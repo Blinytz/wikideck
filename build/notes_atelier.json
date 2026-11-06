@@ -72680,6 +72680,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980892513
+  },
+  "scientifiques-celebres_max-born": {
+   "cx": 0.5,
+   "cy": 0.3871,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980895818
+  },
+  "scientifiques-celebres_murray-gell-mann": {
+   "cx": 0.5,
+   "cy": 0.4367,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980901219
   }
  }
 }

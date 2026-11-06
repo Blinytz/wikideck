@@ -75933,6 +75933,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989464237
+  },
+  "corps-humain_testicule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.616,
+   "src": "full",
+   "editeLe": 1793989493283
+  },
+  "corps-humain_prostate": {
+   "cx": 0.4974,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989497325
+  },
+  "corps-humain_vessie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989499754
   }
  }
 }

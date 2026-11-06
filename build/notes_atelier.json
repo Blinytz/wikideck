@@ -76232,6 +76232,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989896323
+  },
+  "maladies-et-epidemies_schizophrenie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989898700
+  },
+  "maladies-et-epidemies_trouble-bipolaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989901028
+  },
+  "maladies-et-epidemies_syndrome-respiratoire-aigu-severe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989902851
+  },
+  "maladies-et-epidemies_hepatite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.764,
+   "src": "orig",
+   "editeLe": 1793989906441
   }
  }
 }

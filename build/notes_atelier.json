@@ -70636,6 +70636,20 @@
    "w": 0.5426,
    "src": "orig",
    "editeLe": 1793976905288
+  },
+  "chateaux-celebres_wawel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793976909014
+  },
+  "chateaux-celebres_forteresse-de-hohensalzburg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8133,
+   "src": "orig",
+   "editeLe": 1793976911336
   }
  }
 }

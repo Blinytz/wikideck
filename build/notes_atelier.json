@@ -59538,6 +59538,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793949922976
+  },
+  "dirigeants-contemporains_sun-yat-sen": {
+   "cx": 0.5,
+   "cy": 0.3825,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793950113099
+  },
+  "dirigeants-contemporains_guillaume-ii-roi-des-pays-bas": {
+   "cx": 0.5,
+   "cy": 0.5353,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793950119507
   }
  }
 }

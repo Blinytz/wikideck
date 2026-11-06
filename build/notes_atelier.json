@@ -61851,6 +61851,20 @@
    "w": 0.8258,
    "src": "orig",
    "editeLe": 1793959686399
+  },
+  "dynasties-regnantes_maison-grimaldi": {
+   "cx": 0.5616,
+   "cy": 0.5,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1793959692424
+  },
+  "dynasties-regnantes_maison-de-savoie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793959695861
   }
  }
 }

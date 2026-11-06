@@ -67640,6 +67640,34 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793963845320
+  },
+  "montagnes-et-volcans_everest": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793963848214
+  },
+  "montagnes-et-volcans_k2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7217,
+   "src": "orig",
+   "editeLe": 1793963849872
+  },
+  "montagnes-et-volcans_mont-blanc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793963851845
+  },
+  "montagnes-et-volcans_cervin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.719,
+   "src": "orig",
+   "editeLe": 1793963853824
   }
  }
 }

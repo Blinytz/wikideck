@@ -75843,6 +75843,20 @@
    "w": 0.475,
    "src": "orig",
    "editeLe": 1
+  },
+  "corps-humain_systeme-lymphatique": {
+   "cx": 0.4819,
+   "cy": 0.3461,
+   "w": 0.7513,
+   "src": "full",
+   "editeLe": 1793983853078
+  },
+  "corps-humain_neurone": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983856135
   }
  }
 }

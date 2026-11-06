@@ -61564,6 +61564,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959479610
+  },
+  "dynasties-regnantes_dynastie-han": {
+   "cx": 0.4483,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793959490502
+  },
+  "dynasties-regnantes_dynastie-tang": {
+   "cx": 0.5,
+   "cy": 0.3828,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959494778
   }
  }
 }

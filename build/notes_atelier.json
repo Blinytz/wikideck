@@ -68634,6 +68634,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964379050
+  },
+  "lacs_lac-superieur": {
+   "cx": 0.5879,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964382177
+  },
+  "lacs_lac-huron": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964384925
+  },
+  "lacs_lac-michigan": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964387397
   }
  }
 }

@@ -72519,6 +72519,41 @@
    "w": 0.592,
    "src": "orig",
    "editeLe": 1793980803490
+  },
+  "scientifiques-celebres_grigori-perelman": {
+   "cx": 0.4736,
+   "cy": 0.5455,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1793980807961
+  },
+  "scientifiques-celebres_tycho-brahe": {
+   "cx": 0.5,
+   "cy": 0.3879,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980812485
+  },
+  "scientifiques-celebres_christian-huygens": {
+   "cx": 0.4481,
+   "cy": 0.3118,
+   "w": 0.683,
+   "src": "orig",
+   "editeLe": 1793980821505
+  },
+  "scientifiques-celebres_edmond-halley": {
+   "cx": 0.5,
+   "cy": 0.4587,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980825831
+  },
+  "scientifiques-celebres_william-herschel": {
+   "cx": 0.5,
+   "cy": 0.417,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980829811
   }
  }
 }

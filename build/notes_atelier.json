@@ -70237,6 +70237,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976605371
+  },
+  "chateaux-celebres_chateau-de-montsegur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7207,
+   "src": "orig",
+   "editeLe": 1793976613873
+  },
+  "chateaux-celebres_chateau-de-peyrepertuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976616736
   }
  }
 }

@@ -72939,6 +72939,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981060153
+  },
+  "scientifiques-celebres_margaret-mead": {
+   "cx": 0.5,
+   "cy": 0.4683,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981062665
+  },
+  "scientifiques-celebres_eratosthene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981065396
+  },
+  "scientifiques-celebres_averroes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981068757
   }
  }
 }

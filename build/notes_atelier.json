@@ -67563,6 +67563,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963810953
+  },
+  "iles_acores": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963812795
+  },
+  "iles_ile-de-goree": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963814735
+  },
+  "iles_ile-d-alcatraz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963816634
+  },
+  "iles_ellis-island": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963818681
+  },
+  "iles_ile-du-diable": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963820590
   }
  }
 }

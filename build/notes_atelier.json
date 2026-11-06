@@ -65113,6 +65113,27 @@
    "w": 0.5698,
    "src": "orig",
    "editeLe": 1793962312420
+  },
+  "organisations-internationales_cour-internationale-de-justice": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793962317417
+  },
+  "organisations-internationales_cour-penale-internationale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7453,
+   "src": "orig",
+   "editeLe": 1793962320866
+  },
+  "organisations-internationales_comite-international-de-la-croix-rouge": {
+   "cx": 0.4692,
+   "cy": 0.5,
+   "w": 0.7229,
+   "src": "orig",
+   "editeLe": 1793962324433
   }
  }
 }

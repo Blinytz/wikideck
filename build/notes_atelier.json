@@ -71728,6 +71728,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980278180
+  },
+  "monnaies-du-monde_kwanza-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980279374
+  },
+  "monnaies-du-monde_metical": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980280561
+  },
+  "monnaies-du-monde_bitcoin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980281778
+  },
+  "scientifiques-celebres_archimede": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980286438
+  },
+  "scientifiques-celebres_euclide": {
+   "cx": 0.5,
+   "cy": 0.478,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980293509
   }
  }
 }

@@ -72456,6 +72456,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980771903
+  },
+  "scientifiques-celebres_joseph-fourier": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980775078
+  },
+  "scientifiques-celebres_evariste-galois": {
+   "cx": 0.4759,
+   "cy": 0.5,
+   "w": 0.9517,
+   "src": "orig",
+   "editeLe": 1793980778595
+  },
+  "scientifiques-celebres_bernhard-riemann": {
+   "cx": 0.5,
+   "cy": 0.4221,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980781687
   }
  }
 }

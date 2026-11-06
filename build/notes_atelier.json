@@ -74654,6 +74654,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982641810
+  },
+  "inventions-importantes_stethoscope": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.741,
+   "src": "orig",
+   "editeLe": 1793982645283
+  },
+  "inventions-importantes_diode-electroluminescente": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8046,
+   "src": "orig",
+   "editeLe": 1793982648223
+  },
+  "inventions-importantes_metro": {
+   "cx": 0.4251,
+   "cy": 0.5,
+   "w": 0.7266,
+   "src": "orig",
+   "editeLe": 1793982652982
   }
  }
 }

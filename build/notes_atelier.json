@@ -76204,6 +76204,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989886549
+  },
+  "maladies-et-epidemies_variole-simienne": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989889215
+  },
+  "maladies-et-epidemies_maladie-a-virus-zika": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989891313
+  },
+  "maladies-et-epidemies_cancer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989893152
+  },
+  "maladies-et-epidemies_depression-psychiatrie": {
+   "cx": 0.4987,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989896323
   }
  }
 }

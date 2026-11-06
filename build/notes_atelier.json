@@ -76547,6 +76547,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793990178254
+  },
+  "corps-celestes_nebuleuse-de-la-tete-de-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990180700
+  },
+  "corps-celestes_nebuleuse-du-crabe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990183267
+  },
+  "corps-celestes_nebuleuse-de-l-aigle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990186043
+  },
+  "corps-celestes_nebuleuse-de-la-lyre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8411,
+   "src": "orig",
+   "editeLe": 1793990188192
   }
  }
 }

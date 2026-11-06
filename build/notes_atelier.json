@@ -67215,18 +67215,18 @@
    "editeLe": 1793963682378
   },
   "iles_sardaigne": {
-   "cx": 0.5373,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963613013
+   "src": "orig",
+   "editeLe": 1793963684427
   },
   "iles_corse": {
-   "cx": 0.536,
+   "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963616247
+   "src": "orig",
+   "editeLe": 1793963687179
   },
   "iles_crete": {
    "cx": 0.5,

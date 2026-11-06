@@ -67843,6 +67843,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963930785
+  },
+  "montagnes-et-volcans_teide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963932348
+  },
+  "montagnes-et-volcans_cotopaxi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963933786
+  },
+  "montagnes-et-volcans_sinai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963934972
+  },
+  "montagnes-et-volcans_fitz-roy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963936178
+  },
+  "montagnes-et-volcans_cerro-torre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963937338
+  },
+  "montagnes-et-volcans_kangchenjunga": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963938550
+  },
+  "montagnes-et-volcans_lhotse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963939854
+  },
+  "montagnes-et-volcans_makalu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963941085
   }
  }
 }

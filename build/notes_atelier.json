@@ -75018,6 +75018,20 @@
    "w": 0.514,
    "src": "orig",
    "editeLe": 1793983002929
+  },
+  "theoremes-et-lois_pi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5582,
+   "src": "orig",
+   "editeLe": 1793983053222
+  },
+  "theoremes-et-lois_theoreme-des-quatre-couleurs": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983055775
   }
  }
 }

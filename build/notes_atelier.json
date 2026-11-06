@@ -70930,6 +70930,27 @@
    "w": 0.698,
    "src": "orig",
    "editeLe": 1793979558920
+  },
+  "sites-antiques_tikal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979560875
+  },
+  "sites-antiques_palenque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.74,
+   "src": "orig",
+   "editeLe": 1793979563967
+  },
+  "sites-antiques_geoglyphes-de-nazca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1793979567176
   }
  }
 }

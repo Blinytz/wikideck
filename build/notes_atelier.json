@@ -67528,6 +67528,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963801348
+  },
+  "iles_ithaque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963803525
+  },
+  "iles_rhodes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963805169
+  },
+  "iles_majorque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963807241
+  },
+  "iles_tenerife": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963808997
+  },
+  "iles_madere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963810953
   }
  }
 }

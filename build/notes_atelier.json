@@ -73138,10 +73138,17 @@
   },
   "inventeurs-et-ingenieurs_nikola-tesla": {
    "cx": 0.5,
-   "cy": 0.5,
+   "cy": 0.4505,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793981180657
+   "editeLe": 1793981193909
+  },
+  "inventeurs-et-ingenieurs_thomas-edison": {
+   "cx": 0.5,
+   "cy": 0.3836,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981197729
   }
  }
 }

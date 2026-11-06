@@ -67899,6 +67899,76 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963941085
+  },
+  "montagnes-et-volcans_cho-oyu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963942327
+  },
+  "montagnes-et-volcans_dhaulagiri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963943486
+  },
+  "montagnes-et-volcans_massif-vinson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963944659
+  },
+  "montagnes-et-volcans_puncak-jaya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963945751
+  },
+  "montagnes-et-volcans_mont-kosciuszko": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963946926
+  },
+  "montagnes-et-volcans_eiger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963947907
+  },
+  "montagnes-et-volcans_mont-rose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963949146
+  },
+  "montagnes-et-volcans_mont-ventoux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963950386
+  },
+  "montagnes-et-volcans_puy-de-dome": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963951649
+  },
+  "montagnes-et-volcans_montagne-pelee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963952822
   }
  }
 }

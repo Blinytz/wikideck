@@ -70517,6 +70517,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976843120
+  },
+  "chateaux-celebres_chateau-de-chillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976845874
+  },
+  "chateaux-celebres_chateau-de-peles": {
+   "cx": 0.552,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976849281
+  },
+  "chateaux-celebres_chateau-de-hunedoara": {
+   "cx": 0.4347,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976852419
   }
  }
 }

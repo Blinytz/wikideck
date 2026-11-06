@@ -69880,6 +69880,20 @@
    "w": 0.5956,
    "src": "orig",
    "editeLe": 1793964973237
+  },
+  "monuments-emblematiques_maison-sur-la-cascade": {
+   "cx": 0.5478,
+   "cy": 0.5,
+   "w": 0.9044,
+   "src": "orig",
+   "editeLe": 1793964977412
+  },
+  "monuments-emblematiques_musee-solomon-r-guggenheim": {
+   "cx": 0.5722,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793964982859
   }
  }
 }

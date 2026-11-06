@@ -69117,6 +69117,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964561302
+  },
+  "deserts_grand-bassin-des-etats-unis": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964563009
+  },
+  "regions-francaises_auvergne-rhone-alpes": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964565097
+  },
+  "regions-francaises_bourgogne-franche-comte": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964566838
+  },
+  "regions-francaises_bretagne-region-administrative": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964568639
+  },
+  "regions-francaises_centre-val-de-loire": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964570425
   }
  }
 }

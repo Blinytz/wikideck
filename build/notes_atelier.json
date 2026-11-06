@@ -72225,6 +72225,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980618180
+  },
+  "scientifiques-celebres_irene-joliot-curie": {
+   "cx": 0.5,
+   "cy": 0.4729,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980621252
+  },
+  "scientifiques-celebres_lise-meitner": {
+   "cx": 0.5,
+   "cy": 0.3035,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980624991
+  },
+  "scientifiques-celebres_emmy-noether": {
+   "cx": 0.5,
+   "cy": 0.3035,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793980625793
+  },
+  "scientifiques-celebres_srinivasa-ramanujan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980629283
   }
  }
 }

@@ -72071,6 +72071,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980527709
+  },
+  "scientifiques-celebres_sigmund-freud": {
+   "cx": 0.5,
+   "cy": 0.3665,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980531181
+  },
+  "scientifiques-celebres_carl-gustav-jung": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980534044
   }
  }
 }

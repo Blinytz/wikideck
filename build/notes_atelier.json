@@ -63118,6 +63118,34 @@
    "w": 0.6593,
    "src": "orig",
    "editeLe": 1793960730363
+  },
+  "grandes-batailles-historiques_bataille-du-chemin-des-dames": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960732943
+  },
+  "grandes-batailles-historiques_attaque-de-pearl-harbor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1793960735166
+  },
+  "grandes-batailles-historiques_bataille-d-angleterre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7041,
+   "src": "orig",
+   "editeLe": 1793960737236
+  },
+  "grandes-batailles-historiques_seconde-bataille-d-el-alamein": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7027,
+   "src": "orig",
+   "editeLe": 1793960739433
   }
  }
 }

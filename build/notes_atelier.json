@@ -74731,6 +74731,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793982687847
+  },
+  "inventions-importantes_arme-a-feu": {
+   "cx": 0.3467,
+   "cy": 0.5,
+   "w": 0.6672,
+   "src": "orig",
+   "editeLe": 1793982694291
+  },
+  "inventions-importantes_canon-artillerie": {
+   "cx": 0.4736,
+   "cy": 0.5,
+   "w": 0.7673,
+   "src": "orig",
+   "editeLe": 1793982697683
   }
  }
 }

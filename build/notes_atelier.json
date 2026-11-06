@@ -63776,6 +63776,20 @@
    "w": 0.7498,
    "src": "orig",
    "editeLe": 1793961233383
+  },
+  "grandes-guerres_guerre-de-hollande": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8532,
+   "src": "orig",
+   "editeLe": 1793961246707
+  },
+  "grandes-guerres_guerre-anglo-americaine-de-1812": {
+   "cx": 0.5493,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961249891
   }
  }
 }

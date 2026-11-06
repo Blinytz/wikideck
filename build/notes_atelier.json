@@ -72050,6 +72050,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980518226
+  },
+  "scientifiques-celebres_alan-turing": {
+   "cx": 0.5,
+   "cy": 0.4179,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980521621
+  },
+  "scientifiques-celebres_john-von-neumann": {
+   "cx": 0.5,
+   "cy": 0.4583,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980525094
+  },
+  "scientifiques-celebres_ada-lovelace": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980527709
   }
  }
 }

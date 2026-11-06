@@ -70909,6 +70909,27 @@
    "w": 0.7115,
    "src": "orig",
    "editeLe": 1793979547640
+  },
+  "sites-antiques_gobekli-tepe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793979551661
+  },
+  "sites-antiques_mohenjo-daro": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.818,
+   "src": "orig",
+   "editeLe": 1793979555361
+  },
+  "sites-antiques_ajanta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.698,
+   "src": "orig",
+   "editeLe": 1793979558920
   }
  }
 }

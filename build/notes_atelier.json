@@ -73653,6 +73653,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981555821
+  },
+  "inventeurs-et-ingenieurs_gabriel-fahrenheit": {
+   "cx": 0.5,
+   "cy": 0.4093,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981560292
+  },
+  "inventions-importantes_roue": {
+   "cx": 0.4677,
+   "cy": 0.5,
+   "w": 0.9354,
+   "src": "orig",
+   "editeLe": 1793981569434
+  },
+  "inventions-importantes_ecriture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981571454
   }
  }
 }

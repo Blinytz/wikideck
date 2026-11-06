@@ -69285,6 +69285,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964674172
+  },
+  "micro-etats_liechtenstein": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964677489
+  },
+  "micro-etats_iles-marshall": {
+   "cx": 0.5333,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964680837
+  },
+  "micro-etats_saint-christophe-et-nieves": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964683750
+  },
+  "micro-etats_saint-vincent-et-les-grenadines": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964685795
   }
  }
 }

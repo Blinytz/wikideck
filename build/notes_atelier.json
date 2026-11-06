@@ -65799,6 +65799,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962576041
+  },
+  "monnaies-historiques_rentenmark": {
+   "cx": 0.452,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962579643
+  },
+  "monnaies-historiques_mark-est-allemand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962581419
+  },
+  "monnaies-historiques_rouble-sovietique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962583742
+  },
+  "monnaies-historiques_sapeque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962586519
+  },
+  "monnaies-historiques_assignat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962588358
+  },
+  "monnaies-historiques_collier-de-wampum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962589775
+  },
+  "monnaies-historiques_monetaria-moneta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962591168
+  },
+  "monnaies-historiques_anciennes-monnaies-chinoises": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962592772
   }
  }
 }

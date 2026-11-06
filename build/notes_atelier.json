@@ -73765,6 +73765,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981643280
+  },
+  "inventions-importantes_lampe-a-incandescence": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981646847
+  },
+  "inventions-importantes_phonographe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9788,
+   "src": "orig",
+   "editeLe": 1793981650773
+  },
+  "inventions-importantes_dynamo": {
+   "cx": 0.516,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793981654991
   }
  }
 }

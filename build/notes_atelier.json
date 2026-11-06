@@ -69628,6 +69628,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964824349
+  },
+  "monuments-emblematiques_arc-de-triomphe": {
+   "cx": 0.52,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964829870
+  },
+  "monuments-emblematiques_basilique-du-sacre-c-ur-de-montmartre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964832071
+  },
+  "monuments-emblematiques_pyramide-du-louvre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964833828
+  },
+  "monuments-emblematiques_palais-des-papes-d-avignon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964835224
+  },
+  "monuments-emblematiques_pont-du-gard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964836456
   }
  }
 }

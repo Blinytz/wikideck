@@ -74122,6 +74122,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982090297
+  },
+  "inventions-importantes_domestication-du-feu": {
+   "cx": 0.5344,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793982124630
+  },
+  "inventions-importantes_industrie-lithique": {
+   "cx": 0.5597,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982129543
+  },
+  "inventions-importantes_poterie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982131581
   }
  }
 }

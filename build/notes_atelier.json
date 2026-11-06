@@ -68711,6 +68711,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964408713
+  },
+  "lacs_lac-de-come": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964411152
+  },
+  "lacs_lac-de-garde": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964414476
   }
  }
 }

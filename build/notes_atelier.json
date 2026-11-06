@@ -76633,11 +76633,39 @@
    "editeLe": 1793990205852
   },
   "corps-celestes_ton-618": {
+   "cx": 0.492,
+   "cy": 0.4546,
+   "w": 0.555,
+   "src": "orig",
+   "editeLe": 1793990216862
+  },
+  "corps-celestes_gaia-bh1": {
+   "cx": 0.5863,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793990221996
+  },
+  "corps-celestes_soleil": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.6105,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793990223744
+  },
+  "corps-celestes_betelgeuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
    "src": "orig",
-   "editeLe": 1793990208164
+   "editeLe": 1793990226723
+  },
+  "corps-celestes_sirius": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990229039
   }
  }
 }

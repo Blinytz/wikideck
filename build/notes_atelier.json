@@ -73716,6 +73716,20 @@
    "w": 0.6359,
    "src": "orig",
    "editeLe": 1793981606481
+  },
+  "inventions-importantes_microscope": {
+   "cx": 0.4864,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981613404
+  },
+  "inventions-importantes_machine-a-vapeur": {
+   "cx": 0.488,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981617097
   }
  }
 }

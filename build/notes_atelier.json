@@ -62985,6 +62985,27 @@
    "w": 0.6702,
    "src": "orig",
    "editeLe": 1793960658234
+  },
+  "grandes-batailles-historiques_bataille-de-grunwald": {
+   "cx": 0.5,
+   "cy": 0.3444,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960664137
+  },
+  "grandes-batailles-historiques_siege-d-orleans-1428-1429": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960668142
+  },
+  "grandes-batailles-historiques_bataille-de-marignan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7687,
+   "src": "orig",
+   "editeLe": 1793960670335
   }
  }
 }

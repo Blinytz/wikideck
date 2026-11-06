@@ -68361,6 +68361,41 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1793964064829
+  },
+  "fleuves-mers-et-oceans_tibre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964067029
+  },
+  "fleuves-mers-et-oceans_po": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964068857
+  },
+  "fleuves-mers-et-oceans_elbe-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964070956
+  },
+  "fleuves-mers-et-oceans_dniepr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964073080
+  },
+  "fleuves-mers-et-oceans_rhone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964075009
   }
  }
 }

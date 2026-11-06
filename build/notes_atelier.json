@@ -72288,6 +72288,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980674331
+  },
+  "scientifiques-celebres_vera-rubin": {
+   "cx": 0.5,
+   "cy": 0.3686,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980677484
+  },
+  "scientifiques-celebres_katalin-kariko": {
+   "cx": 0.4838,
+   "cy": 0.5812,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793980682802
+  },
+  "scientifiques-celebres_jennifer-doudna": {
+   "cx": 0.4997,
+   "cy": 0.5,
+   "w": 0.9995,
+   "src": "orig",
+   "editeLe": 1793980686937
+  },
+  "scientifiques-celebres_emmanuelle-charpentier": {
+   "cx": 0.5,
+   "cy": 0.33,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980691410
   }
  }
 }

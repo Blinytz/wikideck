@@ -62075,6 +62075,20 @@
    "w": 0.813,
    "src": "orig",
    "editeLe": 1793959903189
+  },
+  "empires-et-civilisations_empire-inca": {
+   "cx": 0.4393,
+   "cy": 0.5,
+   "w": 0.7407,
+   "src": "orig",
+   "editeLe": 1793959910875
+  },
+  "empires-et-civilisations_civilisation-maya": {
+   "cx": 0.5036,
+   "cy": 0.5236,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793959917637
   }
  }
 }

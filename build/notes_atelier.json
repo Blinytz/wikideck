@@ -70265,6 +70265,27 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793976627016
+  },
+  "chateaux-celebres_chateau-de-fougeres": {
+   "cx": 0.532,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976630617
+  },
+  "chateaux-celebres_chateau-de-josselin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976632626
+  },
+  "chateaux-celebres_chateau-de-vincennes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976634993
   }
  }
 }

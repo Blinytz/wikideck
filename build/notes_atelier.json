@@ -74206,6 +74206,20 @@
    "w": 0.6384,
    "src": "orig",
    "editeLe": 1793982279341
+  },
+  "inventions-importantes_lunettes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7142,
+   "src": "orig",
+   "editeLe": 1793982282900
+  },
+  "inventions-importantes_moulin-a-eau": {
+   "cx": 0.5249,
+   "cy": 0.5,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1793982287432
   }
  }
 }

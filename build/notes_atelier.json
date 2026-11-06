@@ -65211,6 +65211,20 @@
    "w": 0.7244,
    "src": "orig",
    "editeLe": 1793962366269
+  },
+  "organisations-internationales_societe-des-nations": {
+   "cx": 0.5035,
+   "cy": 0.5,
+   "w": 0.7224,
+   "src": "orig",
+   "editeLe": 1793962370937
+  },
+  "organisations-internationales_pacte-de-varsovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962374605
   }
  }
 }

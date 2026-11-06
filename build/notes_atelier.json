@@ -65673,6 +65673,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962547264
+  },
+  "monnaies-historiques_pistole-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962548810
+  },
+  "monnaies-historiques_piastre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962550815
+  },
+  "monnaies-historiques_thaler": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962553279
+  },
+  "monnaies-historiques_souverain-piece-en-or": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962554662
+  },
+  "monnaies-historiques_guinee-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962555549
+  },
+  "monnaies-historiques_farthing": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962556502
+  },
+  "monnaies-historiques_franc-francais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962557336
   }
  }
 }

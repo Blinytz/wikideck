@@ -76393,6 +76393,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989993374
+  },
+  "corps-celestes_lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "full",
+   "editeLe": 1793990126495
+  },
+  "corps-celestes_phobos-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990130077
+  },
+  "corps-celestes_deimos-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990131975
   }
  }
 }

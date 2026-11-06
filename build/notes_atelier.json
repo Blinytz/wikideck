@@ -69789,6 +69789,20 @@
    "w": 0.6444,
    "src": "orig",
    "editeLe": 1793964921612
+  },
+  "monuments-emblematiques_harmandir-sahib": {
+   "cx": 0.5,
+   "cy": 0.3072,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793964925422
+  },
+  "monuments-emblematiques_pagode-shwedagon": {
+   "cx": 0.5041,
+   "cy": 0.5,
+   "w": 0.6298,
+   "src": "orig",
+   "editeLe": 1793964928781
   }
  }
 }

@@ -67367,6 +67367,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963746219
+  },
+  "iles_jamaique": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963750881
+  },
+  "iles_hispaniola": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963754738
   }
  }
 }

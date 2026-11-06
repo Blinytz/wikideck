@@ -70160,6 +70160,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976570079
+  },
+  "chateaux-celebres_chateau-de-chantilly": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976572136
+  },
+  "chateaux-celebres_chateau-d-amboise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976574317
+  },
+  "chateaux-celebres_chateau-de-blois": {
+   "cx": 0.5013,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976578629
   }
  }
 }

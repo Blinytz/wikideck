@@ -70013,6 +70013,41 @@
    "w": 0.74,
    "src": "full",
    "editeLe": 1793965078672
+  },
+  "monuments-emblematiques_barrage-hoover": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793965087085
+  },
+  "monuments-emblematiques_gateway-arch": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793965090310
+  },
+  "monuments-emblematiques_space-needle": {
+   "cx": 0.4408,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1793965094181
+  },
+  "monuments-emblematiques_marina-bay-sands": {
+   "cx": 0.55,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793965097969
+  },
+  "monuments-emblematiques_tokyo-skytree": {
+   "cx": 0.522,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793965101548
   }
  }
 }

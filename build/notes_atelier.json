@@ -70797,6 +70797,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793979444726
+  },
+  "sites-antiques_ziggurat-d-ur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4734,
+   "src": "orig",
+   "editeLe": 1793979449912
+  },
+  "sites-antiques_porte-d-ishtar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.813,
+   "src": "orig",
+   "editeLe": 1793979453147
+  },
+  "sites-antiques_baalbek": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979455625
   }
  }
 }

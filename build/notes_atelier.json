@@ -68438,6 +68438,48 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964091972
+  },
+  "fleuves-mers-et-oceans_brahmapoutre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964094901
+  },
+  "fleuves-mers-et-oceans_fleuve-jaune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964097269
+  },
+  "fleuves-mers-et-oceans_okavango": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964099431
+  },
+  "fleuves-mers-et-oceans_senegal-fleuve": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964101219
+  },
+  "fleuves-mers-et-oceans_mer-du-nord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964103193
+  },
+  "fleuves-mers-et-oceans_manche-mer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964105193
   }
  }
 }

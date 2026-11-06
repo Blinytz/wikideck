@@ -74598,6 +74598,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793982611571
+  },
+  "inventions-importantes_antisepsie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793982613898
+  },
+  "inventions-importantes_braille": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7203,
+   "src": "orig",
+   "editeLe": 1793982618729
   }
  }
 }

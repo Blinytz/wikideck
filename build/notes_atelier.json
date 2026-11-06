@@ -59432,10 +59432,10 @@
   },
   "traites-et-textes-fondateurs_declaration-des-droits-de-la-femme-et-de-la-citoyenne": {
    "cx": 0.5,
-   "cy": 0.3824,
+   "cy": 0.391,
    "w": 1,
    "src": "orig",
-   "editeLe": 1793869303740
+   "editeLe": 1793961558859
   },
   "traites-et-textes-fondateurs_bulle-d-or-1356": {
    "cx": 0.532,
@@ -64154,6 +64154,13 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961551907
+  },
+  "traites-et-textes-fondateurs_decret-d-abolition-de-l-esclavage-du-27-avril-1848": {
+   "cx": 0.4787,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961554665
   }
  }
 }

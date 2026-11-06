@@ -73072,6 +73072,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981139190
+  },
+  "scientifiques-celebres_georg-ohm": {
+   "cx": 0.5,
+   "cy": 0.4569,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981143534
+  },
+  "scientifiques-celebres_henry-cavendish": {
+   "cx": 0.5009,
+   "cy": 0.5,
+   "w": 0.5689,
+   "src": "orig",
+   "editeLe": 1793981146763
+  },
+  "scientifiques-celebres_joseph-priestley": {
+   "cx": 0.5,
+   "cy": 0.5074,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981149965
   }
  }
 }

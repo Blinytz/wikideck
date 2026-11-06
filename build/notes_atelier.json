@@ -64077,6 +64077,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793961448109
+  },
+  "traites-et-textes-fondateurs_conference-de-yalta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8597,
+   "src": "orig",
+   "editeLe": 1793961454178
+  },
+  "traites-et-textes-fondateurs_accords-d-evian": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961456149
+  },
+  "traites-et-textes-fondateurs_accords-d-oslo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961458033
   }
  }
 }

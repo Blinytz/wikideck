@@ -72435,6 +72435,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980762608
+  },
+  "scientifiques-celebres_carl-friedrich-gauss": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980765781
+  },
+  "scientifiques-celebres_pierre-simon-de-laplace": {
+   "cx": 0.5,
+   "cy": 0.4406,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980768875
+  },
+  "scientifiques-celebres_joseph-louis-lagrange": {
+   "cx": 0.5,
+   "cy": 0.4331,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980771903
   }
  }
 }

@@ -62775,6 +62775,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960550793
+  },
+  "grandes-batailles-historiques_bataille-de-yorktown": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960552704
+  },
+  "grandes-batailles-historiques_bataille-de-valmy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960554764
+  },
+  "grandes-batailles-historiques_bataille-d-austerlitz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960557046
+  },
+  "grandes-batailles-historiques_bataille-de-trafalgar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960559009
   }
  }
 }

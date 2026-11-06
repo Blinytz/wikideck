@@ -66030,6 +66030,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793962665344
+  },
+  "grands-explorateurs_jacques-cartier": {
+   "cx": 0.4374,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962668508
+  },
+  "grands-explorateurs_samuel-de-champlain": {
+   "cx": 0.5,
+   "cy": 0.4836,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962672542
   }
  }
 }

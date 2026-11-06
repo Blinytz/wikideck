@@ -67229,32 +67229,32 @@
    "editeLe": 1793963687179
   },
   "iles_crete": {
+   "cx": 0.4071,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793963692267
+  },
+  "iles_chypre-ile": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963618353
-  },
-  "iles_chypre-ile": {
-   "cx": 0.4667,
-   "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963623203
+   "src": "orig",
+   "editeLe": 1793963694551
   },
   "iles_bali": {
-   "cx": 0.536,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963639854
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793963696849
   },
   "iles_java-ile": {
-   "cx": 0.4387,
+   "cx": 0.4161,
    "cy": 0.5,
    "w": 0.814,
-   "src": "full",
-   "editeLe": 1793963642762
+   "src": "orig",
+   "editeLe": 1793963700561
   },
   "iles_sumatra": {
    "cx": 0.407,

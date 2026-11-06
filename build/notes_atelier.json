@@ -74850,6 +74850,20 @@
    "w": 0.7147,
    "src": "orig",
    "editeLe": 1793982792530
+  },
+  "theoremes-et-lois_lois-du-mouvement-de-newton": {
+   "cx": 0.5166,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793982797772
+  },
+  "theoremes-et-lois_loi-universelle-de-la-gravitation": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.592,
+   "src": "orig",
+   "editeLe": 1793982801345
   }
  }
 }

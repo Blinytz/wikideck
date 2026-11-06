@@ -59482,6 +59482,20 @@
    "w": 0.6825,
    "src": "orig",
    "editeLe": 1793949850037
+  },
+  "dirigeants-contemporains_otto-von-bismarck": {
+   "cx": 0.5,
+   "cy": 0.4509,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793949857062
+  },
+  "dirigeants-contemporains_mohandas-karamchand-gandhi": {
+   "cx": 0.5,
+   "cy": 0.3691,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793949862569
   }
  }
 }

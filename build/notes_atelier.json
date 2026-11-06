@@ -62586,6 +62586,34 @@
    "w": 0.5806,
    "src": "orig",
    "editeLe": 1793960416940
+  },
+  "empires-et-civilisations_tolteques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960419841
+  },
+  "grandes-batailles-historiques_bataille-de-marathon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8193,
+   "src": "orig",
+   "editeLe": 1793960423013
+  },
+  "grandes-batailles-historiques_bataille-des-thermopyles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9876,
+   "src": "orig",
+   "editeLe": 1793960425608
+  },
+  "grandes-batailles-historiques_bataille-de-salamine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7314,
+   "src": "orig",
+   "editeLe": 1793960427979
   }
  }
 }

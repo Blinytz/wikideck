@@ -73835,6 +73835,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793981748288
+  },
+  "inventions-importantes_television": {
+   "cx": 0.3445,
+   "cy": 0.5,
+   "w": 0.6088,
+   "src": "orig",
+   "editeLe": 1793981839616
+  },
+  "inventions-importantes_refrigerateur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793981842480
   }
  }
 }

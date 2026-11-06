@@ -63454,6 +63454,27 @@
    "w": 0.8456,
    "src": "orig",
    "editeLe": 1793960900545
+  },
+  "grandes-guerres_guerre-d-espagne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7496,
+   "src": "orig",
+   "editeLe": 1793960902810
+  },
+  "grandes-guerres_seconde-guerre-mondiale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6102,
+   "src": "orig",
+   "editeLe": 1793960905039
+  },
+  "grandes-guerres_guerre-civile-chinoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7172,
+   "src": "orig",
+   "editeLe": 1793960907749
   }
  }
 }

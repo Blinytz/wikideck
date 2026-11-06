@@ -72589,6 +72589,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980847993
+  },
+  "scientifiques-celebres_robert-boyle": {
+   "cx": 0.5,
+   "cy": 0.3864,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980851133
+  },
+  "scientifiques-celebres_emilie-du-chatelet": {
+   "cx": 0.5,
+   "cy": 0.4216,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980854994
+  },
+  "scientifiques-celebres_john-dalton": {
+   "cx": 0.5,
+   "cy": 0.4771,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980857771
   }
  }
 }

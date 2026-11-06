@@ -65267,6 +65267,34 @@
    "w": 0.7239,
    "src": "orig",
    "editeLe": 1793962404483
+  },
+  "organisations-internationales_groupe-d-experts-intergouvernemental-sur-l-evolution-du-climat": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962412502
+  },
+  "organisations-internationales_haut-commissariat-des-nations-unies-pour-les-refugies": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962414809
+  },
+  "organisations-internationales_organisation-des-nations-unies-pour-l-alimentation-et-l-agriculture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962416740
+  },
+  "organisations-internationales_banque-centrale-europeenne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962418760
   }
  }
 }

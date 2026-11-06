@@ -69214,7 +69214,35 @@
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793964592381
+   "editeLe": 1793964643208
+  },
+  "regions-francaises_normandie-region-administrative": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964643971
+  },
+  "regions-francaises_conseil-regional-de-la-guadeloupe": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964646124
+  },
+  "regions-francaises_collectivite-territoriale-de-martinique": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964648531
+  },
+  "regions-francaises_conseil-regional-de-la-reunion": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964650857
   }
  }
 }

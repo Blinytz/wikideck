@@ -72988,6 +72988,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981086606
+  },
+  "scientifiques-celebres_georges-louis-leclerc-de-buffon": {
+   "cx": 0.5,
+   "cy": 0.403,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981090001
+  },
+  "scientifiques-celebres_charles-augustin-coulomb": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793981092764
+  },
+  "scientifiques-celebres_sadi-carnot-physicien": {
+   "cx": 0.5,
+   "cy": 0.4623,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981096712
   }
  }
 }

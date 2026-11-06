@@ -69674,9 +69674,9 @@
   "monuments-emblematiques_abbaye-de-westminster": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793964838909
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793964858591
   },
   "monuments-emblematiques_mosquee-cathedrale-de-cordoue": {
    "cx": 0.5,

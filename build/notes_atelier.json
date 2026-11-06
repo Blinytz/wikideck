@@ -76834,6 +76834,20 @@
    "w": 0.6109,
    "src": "orig",
    "editeLe": 1793990295425
+  },
+  "corps-celestes_comete-de-halley": {
+   "cx": 0.3765,
+   "cy": 0.5,
+   "w": 0.7529,
+   "src": "orig",
+   "editeLe": 1793990300074
+  },
+  "corps-celestes_c-1995-o1-hale-bopp": {
+   "cx": 0.5,
+   "cy": 0.5393,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990304557
   }
  }
 }

@@ -62910,11 +62910,18 @@
    "editeLe": 1793960609062
   },
   "grandes-batailles-historiques_bataille-de-megiddo-1918": {
+   "cx": 0.5112,
+   "cy": 0.5234,
+   "w": 0.6236,
+   "src": "orig",
+   "editeLe": 1793960622883
+  },
+  "grandes-batailles-historiques_bataille-de-platees": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7545,
+   "w": 0.6105,
    "src": "orig",
-   "editeLe": 1793960611493
+   "editeLe": 1793960628704
   }
  }
 }

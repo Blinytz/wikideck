@@ -63757,11 +63757,18 @@
    "editeLe": 1793961208783
   },
   "grandes-guerres_revolution-mexicaine": {
+   "cx": 0.6972,
+   "cy": 0.5,
+   "w": 0.443,
+   "src": "orig",
+   "editeLe": 1793961220168
+  },
+  "grandes-guerres_revolution-russe": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793961209974
+   "w": 0.7719,
+   "src": "orig",
+   "editeLe": 1793961223566
   }
  }
 }

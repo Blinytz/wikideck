@@ -68580,18 +68580,25 @@
    "editeLe": 1793964350775
   },
   "lacs_lac-tanganyika": {
-   "cx": 0.5,
+   "cx": 0.4242,
    "cy": 0.5,
    "w": 0.7235,
    "src": "orig",
-   "editeLe": 1793964172062
+   "editeLe": 1793964357876
   },
   "lacs_lac-baikal": {
    "cx": 0.5786,
    "cy": 0.5,
    "w": 0.814,
    "src": "full",
-   "editeLe": 1793964177559
+   "editeLe": 1793964360742
+  },
+  "lacs_lac-titicaca": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964362992
   }
  }
 }

@@ -68851,6 +68851,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964483652
+  },
+  "lacs_lac-winnipeg": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964485754
+  },
+  "lacs_grand-lac-des-esclaves": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964487772
+  },
+  "lacs_yssyk-koul": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964490044
+  },
+  "lacs_lac-nicaragua": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964492398
   }
  }
 }

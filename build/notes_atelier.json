@@ -67668,6 +67668,27 @@
    "w": 0.719,
    "src": "orig",
    "editeLe": 1793963853824
+  },
+  "montagnes-et-volcans_kilimandjaro": {
+   "cx": 0.6371,
+   "cy": 0.5,
+   "w": 0.7258,
+   "src": "orig",
+   "editeLe": 1793963858264
+  },
+  "montagnes-et-volcans_mont-mckinley": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8357,
+   "src": "orig",
+   "editeLe": 1793963861042
+  },
+  "montagnes-et-volcans_aconcagua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963864384
   }
  }
 }

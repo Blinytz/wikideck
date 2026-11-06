@@ -63825,6 +63825,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793961271572
+  },
+  "traites-et-textes-fondateurs_magna-carta": {
+   "cx": 0.4883,
+   "cy": 0.4766,
+   "w": 0.8709,
+   "src": "orig",
+   "editeLe": 1793961281902
+  },
+  "traites-et-textes-fondateurs_edit-de-nantes": {
+   "cx": 0.4841,
+   "cy": 0.55,
+   "w": 0.8953,
+   "src": "full",
+   "editeLe": 1793961287134
   }
  }
 }

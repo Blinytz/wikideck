@@ -76503,8 +76503,15 @@
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990164435
+  },
+  "corps-celestes_miranda-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
    "src": "full",
-   "editeLe": 1793990150455
+   "editeLe": 1793990166195
   }
  }
 }

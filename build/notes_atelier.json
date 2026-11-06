@@ -76785,6 +76785,34 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793990279878
+  },
+  "corps-celestes_centaurus-a": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990282291
+  },
+  "corps-celestes_pleiades-astronomie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7828,
+   "src": "orig",
+   "editeLe": 1793990284476
+  },
+  "corps-celestes_amas-d-hercule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990286409
+  },
+  "corps-celestes_amas-de-la-vierge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990288536
   }
  }
 }

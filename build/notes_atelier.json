@@ -73240,6 +73240,27 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793981258340
+  },
+  "inventeurs-et-ingenieurs_margaret-hamilton-scientifique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981261052
+  },
+  "inventeurs-et-ingenieurs_leonard-de-vinci": {
+   "cx": 0.5,
+   "cy": 0.463,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981263798
+  },
+  "inventeurs-et-ingenieurs_johannes-gutenberg": {
+   "cx": 0.5,
+   "cy": 0.3757,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981267826
   }
  }
 }

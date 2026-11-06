@@ -68396,6 +68396,27 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1793964075009
+  },
+  "fleuves-mers-et-oceans_garonne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964076745
+  },
+  "fleuves-mers-et-oceans_tage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964078690
+  },
+  "fleuves-mers-et-oceans_ienissei": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964084001
   }
  }
 }

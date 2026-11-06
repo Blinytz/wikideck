@@ -63328,6 +63328,34 @@
    "w": 0.8272,
    "src": "orig",
    "editeLe": 1793960839572
+  },
+  "grandes-guerres_guerre-du-peloponnese": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8649,
+   "src": "orig",
+   "editeLe": 1793960841882
+  },
+  "grandes-guerres_guerre-des-gaules": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7223,
+   "src": "orig",
+   "editeLe": 1793960843964
+  },
+  "grandes-guerres_guerres-civiles-romaines": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960845887
+  },
+  "grandes-guerres_croisade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960847880
   }
  }
 }

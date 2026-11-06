@@ -62047,6 +62047,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793959888436
+  },
+  "empires-et-civilisations_empire-moghol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6196,
+   "src": "orig",
+   "editeLe": 1793959892350
+  },
+  "empires-et-civilisations_empire-maurya": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959896069
   }
  }
 }

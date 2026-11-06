@@ -69467,6 +69467,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964767136
+  },
+  "monuments-emblematiques_angkor-vat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964769661
+  },
+  "monuments-emblematiques_cite-interdite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964771222
+  },
+  "monuments-emblematiques_alhambra-grenade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964772886
+  },
+  "monuments-emblematiques_porte-de-brandebourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "full",
+   "editeLe": 1793964774575
+  },
+  "monuments-emblematiques_tour-de-pise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964776219
   }
  }
 }

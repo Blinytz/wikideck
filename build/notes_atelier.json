@@ -66177,6 +66177,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962751186
+  },
+  "grands-explorateurs_sacagawea": {
+   "cx": 0.5,
+   "cy": 0.4192,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962755243
+  },
+  "grands-explorateurs_mungo-park": {
+   "cx": 0.4987,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962761271
   }
  }
 }

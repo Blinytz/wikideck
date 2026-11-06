@@ -73786,6 +73786,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793981654991
+  },
+  "inventions-importantes_automobile": {
+   "cx": 0.4614,
+   "cy": 0.5,
+   "w": 0.8126,
+   "src": "orig",
+   "editeLe": 1793981660919
+  },
+  "inventions-importantes_moteur-a-combustion-interne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6449,
+   "src": "orig",
+   "editeLe": 1793981664122
   }
  }
 }

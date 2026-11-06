@@ -70566,6 +70566,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976871048
+  },
+  "chateaux-celebres_chateau-des-sforza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976873107
+  },
+  "chateaux-celebres_alcazar-de-segovie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976875315
+  },
+  "chateaux-celebres_palais-national-de-pena": {
+   "cx": 0.5187,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976878808
   }
  }
 }

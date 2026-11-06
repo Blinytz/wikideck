@@ -76064,6 +76064,34 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989603266
+  },
+  "maladies-et-epidemies_fievre-jaune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989605363
+  },
+  "maladies-et-epidemies_maladie-a-virus-ebola": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793989607545
+  },
+  "maladies-et-epidemies_typhus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8865,
+   "src": "orig",
+   "editeLe": 1793989609772
+  },
+  "maladies-et-epidemies_syphilis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989611748
   }
  }
 }

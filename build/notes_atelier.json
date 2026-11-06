@@ -76759,11 +76759,32 @@
    "editeLe": 1793990256001
   },
   "corps-celestes_m104-galaxie": {
+   "cx": 0.5021,
+   "cy": 0.4753,
+   "w": 0.6401,
+   "src": "orig",
+   "editeLe": 1793990269723
+  },
+  "corps-celestes_grand-nuage-de-magellan": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.7041,
+   "w": 0.814,
    "src": "orig",
-   "editeLe": 1793990258294
+   "editeLe": 1793990274131
+  },
+  "corps-celestes_petit-nuage-de-magellan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990277524
+  },
+  "corps-celestes_galaxie-du-triangle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793990279878
   }
  }
 }

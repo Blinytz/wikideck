@@ -72316,6 +72316,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980691410
+  },
+  "scientifiques-celebres_tu-youyou": {
+   "cx": 0.5,
+   "cy": 0.4072,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980695208
+  },
+  "scientifiques-celebres_chien-shiung-wu": {
+   "cx": 0.5,
+   "cy": 0.4051,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980698296
+  },
+  "scientifiques-celebres_subrahmanyan-chandrasekhar": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980701357
   }
  }
 }

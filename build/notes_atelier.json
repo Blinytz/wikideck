@@ -71819,6 +71819,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980366172
+  },
+  "scientifiques-celebres_johannes-kepler": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980368955
+  },
+  "scientifiques-celebres_francis-bacon-philosophe": {
+   "cx": 0.564,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793980374475
   }
  }
 }

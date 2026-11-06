@@ -74703,6 +74703,20 @@
    "w": 0.7232,
    "src": "orig",
    "editeLe": 1793982669074
+  },
+  "inventions-importantes_metier-a-tisser": {
+   "cx": 0.5,
+   "cy": 0.4774,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793982675829
+  },
+  "inventions-importantes_boulier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7251,
+   "src": "orig",
+   "editeLe": 1793982678234
   }
  }
 }

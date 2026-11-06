@@ -62446,6 +62446,20 @@
    "w": 0.7018,
    "src": "orig",
    "editeLe": 1793960323708
+  },
+  "empires-et-civilisations_celtes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960326938
+  },
+  "empires-et-civilisations_vikings": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960333174
   }
  }
 }

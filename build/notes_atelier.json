@@ -63412,6 +63412,20 @@
    "w": 0.8159,
    "src": "orig",
    "editeLe": 1793960885961
+  },
+  "grandes-guerres_guerres-napoleoniennes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6166,
+   "src": "orig",
+   "editeLe": 1793960889026
+  },
+  "grandes-guerres_guerre-de-secession": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9858,
+   "src": "orig",
+   "editeLe": 1793960892242
   }
  }
 }

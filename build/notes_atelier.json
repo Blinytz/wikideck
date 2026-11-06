@@ -72708,6 +72708,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980909934
+  },
+  "scientifiques-celebres_ambroise-pare": {
+   "cx": 0.5,
+   "cy": 0.3972,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980912721
+  },
+  "scientifiques-celebres_william-harvey": {
+   "cx": 0.5,
+   "cy": 0.5257,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980916291
+  },
+  "scientifiques-celebres_jean-baptiste-de-lamarck": {
+   "cx": 0.5,
+   "cy": 0.4637,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980918781
   }
  }
 }

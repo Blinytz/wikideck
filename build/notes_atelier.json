@@ -62404,6 +62404,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960263863
+  },
+  "empires-et-civilisations_royaume-du-kanem-bornou": {
+   "cx": 0.63,
+   "cy": 0.4545,
+   "w": 0.74,
+   "src": "full",
+   "editeLe": 1793960269217
+  },
+  "empires-et-civilisations_olmeques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.62,
+   "src": "orig",
+   "editeLe": 1793960273777
   }
  }
 }

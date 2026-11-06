@@ -65960,6 +65960,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962613796
+  },
+  "monnaies-historiques_krugerrand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962614818
+  },
+  "monnaies-historiques_tael": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962615886
+  },
+  "monnaies-historiques_ryo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962616882
+  },
+  "monnaies-historiques_mohur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962618422
+  },
+  "grands-explorateurs_christophe-colomb": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962620204
   }
  }
 }

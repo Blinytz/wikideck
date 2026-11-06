@@ -66639,6 +66639,62 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962980038
+  },
+  "villes-du-monde_saint-petersbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962981243
+  },
+  "villes-du-monde_vienne-autriche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962982415
+  },
+  "villes-du-monde_amsterdam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962983587
+  },
+  "villes-du-monde_prague": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962984806
+  },
+  "villes-du-monde_lisbonne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962986366
+  },
+  "villes-du-monde_dubai-ville": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962987699
+  },
+  "villes-du-monde_singapour": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962988932
+  },
+  "villes-du-monde_bangkok": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962990124
   }
  }
 }

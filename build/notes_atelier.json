@@ -69607,6 +69607,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964819334
+  },
+  "monuments-emblematiques_cathedrale-saint-basile-le-bienheureux-de-moscou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964820808
+  },
+  "monuments-emblematiques_alcazar-de-seville": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964822416
+  },
+  "monuments-emblematiques_pont-de-brooklyn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964824349
   }
  }
 }

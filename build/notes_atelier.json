@@ -68249,6 +68249,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1793964031101
+  },
+  "fleuves-mers-et-oceans_ocean-indien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964032975
+  },
+  "fleuves-mers-et-oceans_ocean-arctique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964034927
+  },
+  "fleuves-mers-et-oceans_ocean-austral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964038225
   }
  }
 }

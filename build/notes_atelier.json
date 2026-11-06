@@ -63083,6 +63083,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793960712857
+  },
+  "grandes-batailles-historiques_bataille-de-little-bighorn": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7461,
+   "src": "orig",
+   "editeLe": 1793960715928
+  },
+  "grandes-batailles-historiques_bataille-de-tsushima": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8248,
+   "src": "orig",
+   "editeLe": 1793960718600
+  },
+  "grandes-batailles-historiques_bataille-des-dardanelles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6849,
+   "src": "orig",
+   "editeLe": 1793960720833
   }
  }
 }

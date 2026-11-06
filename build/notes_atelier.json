@@ -66520,6 +66520,69 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962956824
+  },
+  "villes-du-monde_istanbul": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962958222
+  },
+  "villes-du-monde_pekin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962959539
+  },
+  "villes-du-monde_moscou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962961158
+  },
+  "villes-du-monde_berlin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962962432
+  },
+  "villes-du-monde_venise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962963756
+  },
+  "villes-du-monde_barcelone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962965160
+  },
+  "villes-du-monde_athenes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962966453
+  },
+  "villes-du-monde_jerusalem": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962967724
+  },
+  "villes-du-monde_bombay": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962968992
   }
  }
 }

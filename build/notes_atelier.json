@@ -73030,6 +73030,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793981116059
+  },
+  "scientifiques-celebres_paul-langevin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981118509
+  },
+  "scientifiques-celebres_jacques-monod": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1793981120976
+  },
+  "scientifiques-celebres_theodore-monod": {
+   "cx": 0.5,
+   "cy": 0.5555,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981124590
   }
  }
 }

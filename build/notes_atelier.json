@@ -71266,6 +71266,48 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980102163
+  },
+  "monnaies-du-monde_sol-monnaie-du-perou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980103550
+  },
+  "monnaies-du-monde_boliviano": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980104808
+  },
+  "monnaies-du-monde_guarani-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980106008
+  },
+  "monnaies-du-monde_quetzal-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980107166
+  },
+  "monnaies-du-monde_balboa-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980108626
+  },
+  "monnaies-du-monde_couronne-suedoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980109927
   }
  }
 }

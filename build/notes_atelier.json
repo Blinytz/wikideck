@@ -74143,6 +74143,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982131581
+  },
+  "inventions-importantes_arc-architecture": {
+   "cx": 0.569,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982136816
+  },
+  "inventions-importantes_age-du-bronze": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982138939
+  },
+  "inventions-importantes_verre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982140671
   }
  }
 }

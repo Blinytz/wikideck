@@ -64882,6 +64882,27 @@
    "w": 0.5041,
    "src": "orig",
    "editeLe": 1793962179446
+  },
+  "figures-resistance_daniel-cordier": {
+   "cx": 0.5,
+   "cy": 0.4409,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962183938
+  },
+  "figures-resistance_jean-cavailles": {
+   "cx": 0.5,
+   "cy": 0.3984,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962187334
+  },
+  "figures-resistance_marc-bloch": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793962190409
   }
  }
 }

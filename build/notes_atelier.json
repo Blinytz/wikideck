@@ -73856,6 +73856,20 @@
    "w": 0.8264,
    "src": "orig",
    "editeLe": 1793981852231
+  },
+  "inventions-importantes_aspirateur": {
+   "cx": 0.4628,
+   "cy": 0.5,
+   "w": 0.7329,
+   "src": "orig",
+   "editeLe": 1793981857660
+  },
+  "inventions-importantes_radar": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981862312
   }
  }
 }

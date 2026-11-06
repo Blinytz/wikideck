@@ -62005,6 +62005,20 @@
    "w": 0.6858,
    "src": "orig",
    "editeLe": 1793959854944
+  },
+  "empires-et-civilisations_empire-byzantin": {
+   "cx": 0.5,
+   "cy": 0.4436,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959860321
+  },
+  "empires-et-civilisations_empire-ottoman": {
+   "cx": 0.5,
+   "cy": 0.3928,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959864520
   }
  }
 }

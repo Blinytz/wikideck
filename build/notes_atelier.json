@@ -66842,6 +66842,76 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963030298
+  },
+  "villes-du-monde_washington-district-de-columbia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963031767
+  },
+  "villes-du-monde_boston": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963033079
+  },
+  "villes-du-monde_montreal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963034387
+  },
+  "villes-du-monde_quebec-ville": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963035683
+  },
+  "villes-du-monde_toronto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963036825
+  },
+  "villes-du-monde_sao-paulo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963038109
+  },
+  "villes-du-monde_brasilia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963039424
+  },
+  "villes-du-monde_lima": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963040742
+  },
+  "villes-du-monde_bogota": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963041833
+  },
+  "villes-du-monde_madrid": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963043095
   }
  }
 }

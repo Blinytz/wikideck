@@ -64980,6 +64980,20 @@
    "w": 0.5547,
    "src": "orig",
    "editeLe": 1793962240920
+  },
+  "figures-resistance_pierre-de-benouville": {
+   "cx": 0.505,
+   "cy": 0.4127,
+   "w": 0.4174,
+   "src": "orig",
+   "editeLe": 1793962248978
+  },
+  "figures-resistance_josephine-baker": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8221,
+   "src": "orig",
+   "editeLe": 1793962253819
   }
  }
 }

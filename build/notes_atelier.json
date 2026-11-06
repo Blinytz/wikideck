@@ -70300,6 +70300,48 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976642956
+  },
+  "chateaux-celebres_chateau-d-if": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976644824
+  },
+  "chateaux-celebres_chateau-de-pau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976646566
+  },
+  "chateaux-celebres_chateau-de-bonaguil": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976648102
+  },
+  "chateaux-celebres_guedelon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976649882
+  },
+  "chateaux-celebres_cite-de-carcassonne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976651431
+  },
+  "chateaux-celebres_chateau-de-vitre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976652694
   }
  }
 }

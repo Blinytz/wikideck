@@ -71000,6 +71000,27 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1793979595139
+  },
+  "sites-antiques_jerash": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1793979598188
+  },
+  "sites-antiques_saqqarah": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7122,
+   "src": "orig",
+   "editeLe": 1793979600889
+  },
+  "sites-antiques_temple-d-amon-louxor": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793979604269
   }
  }
 }

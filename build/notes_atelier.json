@@ -60199,6 +60199,20 @@
    "w": 0.8196,
    "src": "orig",
    "editeLe": 1793957279520
+  },
+  "souverains-et-conquerants_kangxi": {
+   "cx": 0.5,
+   "cy": 0.3688,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957285728
+  },
+  "souverains-et-conquerants_shah-jahan": {
+   "cx": 0.5,
+   "cy": 0.4482,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957291550
   }
  }
 }

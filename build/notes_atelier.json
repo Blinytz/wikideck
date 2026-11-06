@@ -63391,6 +63391,27 @@
    "w": 0.7495,
    "src": "orig",
    "editeLe": 1793960876998
+  },
+  "grandes-guerres_guerre-de-sept-ans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793960879079
+  },
+  "grandes-guerres_guerre-d-independance-des-etats-unis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960881291
+  },
+  "grandes-guerres_guerres-de-la-revolution-francaise": {
+   "cx": 0.5668,
+   "cy": 0.5,
+   "w": 0.8159,
+   "src": "orig",
+   "editeLe": 1793960885961
   }
  }
 }

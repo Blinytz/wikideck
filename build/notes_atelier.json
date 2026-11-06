@@ -74612,6 +74612,20 @@
    "w": 0.7203,
    "src": "orig",
    "editeLe": 1793982618729
+  },
+  "inventions-importantes_code-morse-international": {
+   "cx": 0.4773,
+   "cy": 0.5,
+   "w": 0.8682,
+   "src": "orig",
+   "editeLe": 1793982625377
+  },
+  "inventions-importantes_roulement-mecanique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793982628359
   }
  }
 }

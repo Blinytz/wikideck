@@ -67290,6 +67290,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793963717645
+  },
+  "iles_iles-feroe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963720210
+  },
+  "iles_svalbard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963722487
+  },
+  "iles_sainte-helene-ile": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1793963724492
+  },
+  "iles_zanzibar-archipel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793963726790
   }
  }
 }

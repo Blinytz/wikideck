@@ -68739,6 +68739,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964427205
+  },
+  "lacs_lac-tana": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964429746
+  },
+  "lacs_lac-turkana": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964433245
+  },
+  "lacs_lac-kivu": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964435460
+  },
+  "lacs_grand-lac-sale": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964437518
   }
  }
 }

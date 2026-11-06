@@ -72190,6 +72190,20 @@
    "w": 0.6454,
    "src": "orig",
    "editeLe": 1793980601598
+  },
+  "scientifiques-celebres_linus-pauling": {
+   "cx": 0.5,
+   "cy": 0.4024,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980604908
+  },
+  "scientifiques-celebres_katherine-johnson": {
+   "cx": 0.5,
+   "cy": 0.4607,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980609347
   }
  }
 }

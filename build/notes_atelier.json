@@ -69936,6 +69936,20 @@
    "w": 0.7228,
    "src": "orig",
    "editeLe": 1793965004245
+  },
+  "monuments-emblematiques_stade-olympique-de-berlin": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793965006844
+  },
+  "monuments-emblematiques_seagram-building": {
+   "cx": 0.5,
+   "cy": 0.3834,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793965011525
   }
  }
 }

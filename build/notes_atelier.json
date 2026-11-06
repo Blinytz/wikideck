@@ -66135,6 +66135,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793962728728
+  },
+  "grands-explorateurs_henry-hudson": {
+   "cx": 0.5,
+   "cy": 0.4129,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962732750
+  },
+  "grands-explorateurs_jean-cabot": {
+   "cx": 0.4991,
+   "cy": 0.5,
+   "w": 0.5581,
+   "src": "orig",
+   "editeLe": 1793962735910
   }
  }
 }

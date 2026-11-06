@@ -63727,6 +63727,41 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1793961200697
+  },
+  "grandes-guerres_guerre-de-la-triple-alliance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961202289
+  },
+  "grandes-guerres_guerre-du-chaco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5983,
+   "src": "orig",
+   "editeLe": 1793961205628
+  },
+  "grandes-guerres_guerres-d-independance-hispano-americaines": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961207291
+  },
+  "grandes-guerres_revolution-haitienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961208783
+  },
+  "grandes-guerres_revolution-mexicaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961209974
   }
  }
 }

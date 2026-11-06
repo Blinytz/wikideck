@@ -62614,6 +62614,27 @@
    "w": 0.7314,
    "src": "orig",
    "editeLe": 1793960427979
+  },
+  "grandes-batailles-historiques_bataille-de-gaugameles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4471,
+   "src": "orig",
+   "editeLe": 1793960430428
+  },
+  "grandes-batailles-historiques_bataille-de-cannes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793960432825
+  },
+  "grandes-batailles-historiques_bataille-de-zama": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7346,
+   "src": "orig",
+   "editeLe": 1793960436815
   }
  }
 }

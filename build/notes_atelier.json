@@ -61823,6 +61823,20 @@
    "w": 0.679,
    "src": "orig",
    "editeLe": 1793959665197
+  },
+  "dynasties-regnantes_flaviens": {
+   "cx": 0.5,
+   "cy": 0.4245,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959672739
+  },
+  "dynasties-regnantes_maison-comnene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6681,
+   "src": "orig",
+   "editeLe": 1793959675937
   }
  }
 }

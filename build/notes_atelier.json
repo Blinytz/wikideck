@@ -75193,6 +75193,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793983221781
+  },
+  "corps-humain_rate": {
+   "cx": 0.5022,
+   "cy": 0.46,
+   "w": 0.6727,
+   "src": "full",
+   "editeLe": 1793983230853
+  },
+  "corps-humain_vesicule-biliaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983234046
   }
  }
 }

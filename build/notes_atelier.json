@@ -68214,6 +68214,41 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964021276
+  },
+  "fleuves-mers-et-oceans_mer-des-caraibes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964023129
+  },
+  "fleuves-mers-et-oceans_mer-baltique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793964024982
+  },
+  "fleuves-mers-et-oceans_mer-de-corail": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1793964027075
+  },
+  "fleuves-mers-et-oceans_ocean-atlantique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1793964028972
+  },
+  "fleuves-mers-et-oceans_ocean-pacifique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1793964031101
   }
  }
 }

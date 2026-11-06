@@ -133,17 +133,17 @@ def texte_udhr(code):
 
 PAGE = """<!doctype html><html><head><meta charset="utf-8"><style>
 html,body{{margin:0;width:{W}px;height:{H}px;overflow:hidden;background:#2a2320}}
-.feuille{{position:absolute;left:{fx}px;top:{fy}px;width:940px;height:760px;
+.feuille{{position:absolute;left:{fx}px;top:{fy}px;width:{fw}px;height:{fh}px;overflow:hidden;
   transform:rotate({angle}deg);transform-origin:50% 50%;
   background:
     radial-gradient(ellipse at 30% 20%, rgba(255,255,255,.35), transparent 60%),
     radial-gradient(ellipse at 80% 90%, rgba(120,90,50,.18), transparent 55%),
     linear-gradient(180deg,#f4ecd8,#ead9b8);
   box-shadow: inset 0 0 120px rgba(90,60,20,.35);
-  padding:70px 90px;box-sizing:border-box;direction:{sens};
+  padding:{pad};box-sizing:border-box;direction:{sens};
   font-family:{police},serif;color:#2b2118;}}
-h1{{font-size:44px;margin:0 0 22px;font-weight:700;letter-spacing:.5px}}
-p{{font-size:31px;line-height:1.42;margin:0 0 16px;text-align:justify}}
+h1{{font-size:{th}px;margin:0 0 20px;font-weight:700;letter-spacing:.5px;line-height:1.15}}
+p{{font-size:{tp}px;line-height:1.45;margin:0 0 14px;text-align:justify}}
 .grain{{position:absolute;inset:0;opacity:.18;mix-blend-mode:multiply;
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>")}}
 .ombre{{position:absolute;left:{dx}px;top:{dy}px;width:800px;height:600px;background:radial-gradient(ellipse at 50% 45%, transparent 55%, rgba(0,0,0,.28) 100%)}}
@@ -157,8 +157,12 @@ def composer(nom, code, police, sens, dossier):
     # La page est composee sur une table deux fois plus grande que la carte :
     # la carte en est le centre (identique a l'ancienne composition), et
     # l'atelier peut deplacer ou dezoomer le cadrage sans tomber dans le vide.
-    page = PAGE.format(angle=round(rng.uniform(-3.5, 3.5), 2), sens=sens, police=police,
-                       W=1600, H=1200, dx=400, dy=300, fx=340, fy=230,
+    # La feuille tient entiere dans la zone d'image des nouvelles cartes
+    # (760 x 700 au centre de la table) ; l'illustration 4:3 (800 x 600 au
+    # centre) montre la meme feuille avec un peu de table autour.
+    page = PAGE.format(angle=round(rng.uniform(-2.5, 2.5), 2), sens=sens, police=police,
+                       W=1600, H=1200, dx=400, dy=300, fx=800 - 330, fy=312, fw=660, fh=760,
+                       pad='44px 50px', th=36, tp=27,
                        titre=html.escape(titre),
                        paras=''.join(f'<p>{html.escape(p)}</p>' for p in paras))
     f_html = dossier / f'{code}.html'
@@ -169,6 +173,9 @@ def composer(nom, code, police, sens, dossier):
                     f'--screenshot={f_png}', f_html.as_uri()],
                    capture_output=True, timeout=90)
     return Image.open(f_png).convert('RGB') if f_png.exists() else None
+
+
+CARTES_FAITES = {}
 
 
 def main():
@@ -194,12 +201,19 @@ def main():
             continue
         if apercu:
             img.save(brouillon / f'langue_{code}.png')
+            img.crop((420, 250, 1180, 950)).save(brouillon / f'langue_{code}_carte.png')
             print(f'  {nom:<18} apercu ecrit')
             continue
         c = cartes[nom]
         # la carte = le centre 800 x 600 ; la page entiere devient l'original,
         # avec un cadrage qui retombe exactement sur ce centre
         brut = io.BytesIO(); img.crop((400, 300, 1200, 900)).save(brut, 'PNG')
+        # format carte : la zone 760 x 700 au centre de la table
+        zone = img.crop((420, 250, 1180, 950))
+        carte_png = RACINE / 'images' / 'cartes' / 'langues-du-monde' / (c['id'].split('_', 1)[1] + '.webp')
+        carte_png.parent.mkdir(parents=True, exist_ok=True)
+        zone.save(carte_png, 'WEBP', quality=90)
+        CARTES_FAITES[c['id']] = format(int(__import__('time').time() * 1000), 'x')[-8:]
         for rel, octets in ((c['imageUrl'], il.to_full(brut.getvalue())),
                             (c['thumbUrl'], il.to_thumb(brut.getvalue()))):
             (RACINE / rel).write_bytes(octets)
@@ -215,6 +229,17 @@ def main():
         print(f'  {nom:<18} <- DUDH [{code}]')
     if not apercu:
         sf.write_text(json.dumps(sources, ensure_ascii=False, indent=0), encoding='utf-8')
+        # fiches : version de l'image au format carte ; notes : cadrage carte equivalent
+        fd = RACINE / 'data' / 'langues-du-monde.json'
+        d = json.loads(fd.read_text(encoding='utf-8'))
+        for c in d['cartes']:
+            if c['id'] in CARTES_FAITES:
+                c['imgC'] = CARTES_FAITES[c['id']]
+        fd.write_text(json.dumps(d, ensure_ascii=False), encoding='utf-8')
+        notes = json.loads(NOTES.read_text(encoding='utf-8'))
+        for cid in CARTES_FAITES:
+            notes.setdefault('cadragesCarte', {})[cid] = {'cx': 0.5, 'cy': 0.5, 'w': 760 / 1600, 'src': 'orig', 'editeLe': 1}
+        NOTES.write_text(json.dumps(notes, ensure_ascii=False, indent=1), encoding='utf-8')
 
 
 if __name__ == '__main__':

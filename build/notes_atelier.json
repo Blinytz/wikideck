@@ -69660,16 +69660,16 @@
   "monuments-emblematiques_pont-du-gard": {
    "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793964836456
+   "w": 0.6593,
+   "src": "orig",
+   "editeLe": 1793964849929
   },
   "monuments-emblematiques_tower-bridge": {
-   "cx": 0.5,
+   "cx": 0.4187,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793964837832
+   "w": 0.4965,
+   "src": "orig",
+   "editeLe": 1793964854039
   },
   "monuments-emblematiques_abbaye-de-westminster": {
    "cx": 0.5,

@@ -67108,6 +67108,55 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963091828
+  },
+  "villes-du-monde_jaipur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963093437
+  },
+  "villes-du-monde_hanoi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963095163
+  },
+  "villes-du-monde_jakarta": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963096850
+  },
+  "villes-du-monde_hong-kong": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963098622
+  },
+  "villes-du-monde_osaka": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963100264
+  },
+  "villes-du-monde_lhassa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963101955
+  },
+  "villes-du-monde_melbourne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963102916
   }
  }
 }

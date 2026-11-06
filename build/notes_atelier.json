@@ -61641,6 +61641,20 @@
    "w": 0.7685,
    "src": "orig",
    "editeLe": 1793959526791
+  },
+  "dynasties-regnantes_dynastie-yuan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6894,
+   "src": "orig",
+   "editeLe": 1793959529407
+  },
+  "dynasties-regnantes_periode-joseon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7097,
+   "src": "orig",
+   "editeLe": 1793959532095
   }
  }
 }

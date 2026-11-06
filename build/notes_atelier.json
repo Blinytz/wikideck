@@ -65596,6 +65596,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962527934
+  },
+  "monnaies-historiques_hyperperion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962529515
+  },
+  "monnaies-historiques_denier-franc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962530929
+  },
+  "monnaies-historiques_gros-tournois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962535717
   }
  }
 }

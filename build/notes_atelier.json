@@ -74185,6 +74185,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793982268448
+  },
+  "inventions-importantes_aqueduc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982271072
+  },
+  "inventions-importantes_acier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793982273711
+  },
+  "inventions-importantes_horloge-mecanique": {
+   "cx": 0.4979,
+   "cy": 0.5,
+   "w": 0.6384,
+   "src": "orig",
+   "editeLe": 1793982279341
   }
  }
 }

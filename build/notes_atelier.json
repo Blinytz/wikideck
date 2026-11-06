@@ -71868,6 +71868,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793980397481
+  },
+  "scientifiques-celebres_carl-von-linne": {
+   "cx": 0.4495,
+   "cy": 0.3215,
+   "w": 0.8264,
+   "src": "orig",
+   "editeLe": 1793980404712
+  },
+  "scientifiques-celebres_benjamin-franklin": {
+   "cx": 0.5,
+   "cy": 0.4775,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980409197
+  },
+  "scientifiques-celebres_antoine-lavoisier": {
+   "cx": 0.5,
+   "cy": 0.5185,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793980412715
   }
  }
 }

@@ -76939,6 +76939,20 @@
    "w": 0.723,
    "src": "orig",
    "editeLe": 1793990341579
+  },
+  "corps-celestes_51-pegasi-b": {
+   "cx": 0.5959,
+   "cy": 0.5,
+   "w": 0.5426,
+   "src": "orig",
+   "editeLe": 1793990346142
+  },
+  "corps-celestes_hd-189733-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7746,
+   "src": "orig",
+   "editeLe": 1793990349125
   }
  }
 }

@@ -75884,6 +75884,13 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793983880687
+  },
+  "corps-humain_diaphragme-organe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6102,
+   "src": "full",
+   "editeLe": 1793984143267
   }
  }
 }

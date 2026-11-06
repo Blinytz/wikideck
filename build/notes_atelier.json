@@ -75158,6 +75158,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793983198336
+  },
+  "corps-humain_rein": {
+   "cx": 0.5029,
+   "cy": 0.4934,
+   "w": 0.4587,
+   "src": "orig",
+   "editeLe": 1793983206567
+  },
+  "corps-humain_estomac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983209867
   }
  }
 }

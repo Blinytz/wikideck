@@ -76603,6 +76603,34 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793990196384
+  },
+  "corps-celestes_nebuleuse-du-cone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6516,
+   "src": "orig",
+   "editeLe": 1793990198433
+  },
+  "corps-celestes_sagittarius-a": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990201368
+  },
+  "corps-celestes_m87": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6322,
+   "src": "orig",
+   "editeLe": 1793990203293
+  },
+  "corps-celestes_cygnus-x-1": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990205852
   }
  }
 }

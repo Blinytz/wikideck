@@ -76575,6 +76575,34 @@
    "w": 0.8411,
    "src": "orig",
    "editeLe": 1793990188192
+  },
+  "corps-celestes_ngc-7293": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990190221
+  },
+  "corps-celestes_nebuleuse-de-la-rosette": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793990192297
+  },
+  "corps-celestes_ngc-6302": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8567,
+   "src": "orig",
+   "editeLe": 1793990194371
+  },
+  "corps-celestes_nebuleuse-de-la-carene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793990196384
   }
  }
 }

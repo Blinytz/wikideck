@@ -69663,6 +69663,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964836456
+  },
+  "monuments-emblematiques_tower-bridge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964837832
+  },
+  "monuments-emblematiques_abbaye-de-westminster": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964838909
+  },
+  "monuments-emblematiques_mosquee-cathedrale-de-cordoue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964840402
+  },
+  "monuments-emblematiques_tour-de-belem": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964841889
   }
  }
 }

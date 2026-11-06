@@ -65085,6 +65085,27 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793962294960
+  },
+  "organisations-internationales_organisation-mondiale-du-commerce": {
+   "cx": 0.5899,
+   "cy": 0.5,
+   "w": 0.6099,
+   "src": "orig",
+   "editeLe": 1793962300365
+  },
+  "organisations-internationales_organisation-du-traite-de-l-atlantique-nord": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1793962303414
+  },
+  "organisations-internationales_union-europeenne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7285,
+   "src": "orig",
+   "editeLe": 1793962305893
   }
  }
 }

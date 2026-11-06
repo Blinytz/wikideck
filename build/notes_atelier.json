@@ -75046,6 +75046,34 @@
    "w": 0.7163,
    "src": "orig",
    "editeLe": 1793983062546
+  },
+  "theoremes-et-lois_selection-naturelle": {
+   "cx": 0.4879,
+   "cy": 0.5,
+   "w": 0.8187,
+   "src": "orig",
+   "editeLe": 1793983067523
+  },
+  "theoremes-et-lois_lois-de-mendel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7719,
+   "src": "orig",
+   "editeLe": 1793983069457
+  },
+  "theoremes-et-lois_big-bang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793983072108
+  },
+  "theoremes-et-lois_tectonique-des-plaques": {
+   "cx": 0.467,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793983076195
   }
  }
 }

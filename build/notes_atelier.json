@@ -66247,6 +66247,20 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1793962798113
+  },
+  "grands-explorateurs_leif-erikson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962812690
+  },
+  "grands-explorateurs_pytheas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962815977
   }
  }
 }

@@ -70734,6 +70734,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793979402938
+  },
+  "sites-antiques_karnak": {
+   "cx": 0.4739,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793979409480
+  },
+  "sites-antiques_vallee-des-rois": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979412938
+  },
+  "sites-antiques_abou-simbel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979415218
+  },
+  "sites-antiques_palmyre": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979418704
   }
  }
 }

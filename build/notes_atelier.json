@@ -69733,6 +69733,27 @@
    "w": 0.6512,
    "src": "orig",
    "editeLe": 1793964899441
+  },
+  "monuments-emblematiques_musee-guggenheim-bilbao": {
+   "cx": 0.5548,
+   "cy": 0.5,
+   "w": 0.6088,
+   "src": "orig",
+   "editeLe": 1793964904183
+  },
+  "monuments-emblematiques_palais-d-hiver": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964906273
+  },
+  "monuments-emblematiques_mur-de-berlin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8262,
+   "src": "orig",
+   "editeLe": 1793964908603
   }
  }
 }

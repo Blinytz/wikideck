@@ -71371,6 +71371,83 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980208172
+  },
+  "monnaies-du-monde_rand-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980209721
+  },
+  "monnaies-du-monde_naira": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980211274
+  },
+  "monnaies-du-monde_cedi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980212701
+  },
+  "monnaies-du-monde_shilling-kenyan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980214386
+  },
+  "monnaies-du-monde_birr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980216393
+  },
+  "monnaies-du-monde_dirham-marocain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980218219
+  },
+  "monnaies-du-monde_dinar-algerien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980219680
+  },
+  "monnaies-du-monde_dinar-tunisien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980221006
+  },
+  "monnaies-du-monde_livre-egyptienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980222409
+  },
+  "monnaies-du-monde_franc-cfa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980223842
+  },
+  "monnaies-du-monde_kwacha-zambien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980225722
   }
  }
 }

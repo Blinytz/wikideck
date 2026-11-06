@@ -75987,6 +75987,34 @@
    "w": 0.8131,
    "src": "orig",
    "editeLe": 1793989560487
+  },
+  "maladies-et-epidemies_maladie-a-coronavirus-2019": {
+   "cx": 0.4842,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989575305
+  },
+  "maladies-et-epidemies_syndrome-d-immunodeficience-acquise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989578994
+  },
+  "maladies-et-epidemies_variole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989581413
+  },
+  "maladies-et-epidemies_peste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989583105
   }
  }
 }

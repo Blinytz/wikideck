@@ -75256,6 +75256,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983271921
+  },
+  "corps-humain_muscle": {
+   "cx": 0.4964,
+   "cy": 0.5,
+   "w": 0.7229,
+   "src": "orig",
+   "editeLe": 1793983684738
+  },
+  "corps-humain_sang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983689562
   }
  }
 }

@@ -75891,6 +75891,27 @@
    "w": 0.6102,
    "src": "full",
    "editeLe": 1793984143267
+  },
+  "corps-humain_cornee": {
+   "cx": 0.593,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793984148785
+  },
+  "corps-humain_retine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793984151039
+  },
+  "corps-humain_tympan-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793984152952
   }
  }
 }

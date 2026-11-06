@@ -66912,6 +66912,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793963043095
+  },
+  "villes-du-monde_seville": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963044854
+  },
+  "villes-du-monde_florence": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963046568
+  },
+  "villes-du-monde_milan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963049343
+  },
+  "villes-du-monde_naples": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963050875
+  },
+  "villes-du-monde_bruxelles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793963052730
   }
  }
 }

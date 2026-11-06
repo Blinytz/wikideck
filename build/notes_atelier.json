@@ -61753,6 +61753,20 @@
    "w": 0.4335,
    "src": "orig",
    "editeLe": 1793959603556
+  },
+  "dynasties-regnantes_maison-windsor": {
+   "cx": 0.5493,
+   "cy": 0.5,
+   "w": 0.8307,
+   "src": "orig",
+   "editeLe": 1793959608577
+  },
+  "dynasties-regnantes_maison-de-habsbourg": {
+   "cx": 0.5014,
+   "cy": 0.5348,
+   "w": 0.555,
+   "src": "orig",
+   "editeLe": 1793959613367
   }
  }
 }

@@ -65344,6 +65344,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962437880
+  },
+  "crises-economiques_krach-de-1929": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962439800
+  },
+  "crises-economiques_premier-choc-petrolier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962441678
+  },
+  "crises-economiques_deuxieme-choc-petrolier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962443956
+  },
+  "crises-economiques_krach-d-octobre-1987": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962445603
+  },
+  "crises-economiques_crise-economique-asiatique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962447315
   }
  }
 }

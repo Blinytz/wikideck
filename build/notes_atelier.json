@@ -70363,6 +70363,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976759619
+  },
+  "chateaux-celebres_chateau-de-warwick": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976762467
+  },
+  "chateaux-celebres_chateau-de-caernarfon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976765489
+  },
+  "chateaux-celebres_chateau-de-conwy": {
+   "cx": 0.5133,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976768999
   }
  }
 }

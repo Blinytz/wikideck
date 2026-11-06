@@ -75954,6 +75954,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793989499754
+  },
+  "corps-humain_larynx": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989502322
+  },
+  "corps-humain_trachee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989504795
+  },
+  "corps-humain_sophage": {
+   "cx": 0.4281,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793989507306
   }
  }
 }

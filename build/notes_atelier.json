@@ -75228,6 +75228,34 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983264898
+  },
+  "corps-humain_langue-anatomie-humaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983266441
+  },
+  "corps-humain_nez": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983269174
+  },
+  "corps-humain_glande-thyroide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983270628
+  },
+  "corps-humain_squelette-humain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793983271921
   }
  }
 }

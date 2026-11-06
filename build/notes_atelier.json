@@ -61732,6 +61732,20 @@
    "w": 0.8535,
    "src": "orig",
    "editeLe": 1793959583560
+  },
+  "dynasties-regnantes_maison-plantagenet": {
+   "cx": 0.4751,
+   "cy": 0.5937,
+   "w": 0.9091,
+   "src": "orig",
+   "editeLe": 1793959589720
+  },
+  "dynasties-regnantes_maison-tudor": {
+   "cx": 0.4526,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793959593931
   }
  }
 }

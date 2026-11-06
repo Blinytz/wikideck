@@ -69824,6 +69824,20 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1793964938029
+  },
+  "monuments-emblematiques_maison-blanche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5806,
+   "src": "orig",
+   "editeLe": 1793964941106
+  },
+  "monuments-emblematiques_chrysler-building": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793964943122
   }
  }
 }

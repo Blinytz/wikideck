@@ -76372,6 +76372,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989981916
+  },
+  "corps-celestes_136108-haumea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.911,
+   "src": "orig",
+   "editeLe": 1793989986194
+  },
+  "corps-celestes_136472-makemake": {
+   "cx": 0.3618,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793989990461
+  },
+  "corps-celestes_136199-eris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793989993374
   }
  }
 }

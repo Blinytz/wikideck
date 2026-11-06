@@ -66100,6 +66100,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793962707677
+  },
+  "grands-explorateurs_meriwether-lewis": {
+   "cx": 0.5,
+   "cy": 0.3867,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962712573
+  },
+  "grands-explorateurs_william-clark": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962718099
+  },
+  "grands-explorateurs_alexander-von-humboldt": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962719785
   }
  }
 }

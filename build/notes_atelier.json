@@ -69754,6 +69754,41 @@
    "w": 0.8262,
    "src": "orig",
    "editeLe": 1793964908603
+  },
+  "monuments-emblematiques_palais-du-parlement-bucarest": {
+   "cx": 0.5333,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793964913020
+  },
+  "monuments-emblematiques_dome-du-rocher": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7692,
+   "src": "orig",
+   "editeLe": 1793964915028
+  },
+  "monuments-emblematiques_mosquee-al-haram": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7298,
+   "src": "orig",
+   "editeLe": 1793964917349
+  },
+  "monuments-emblematiques_mosquee-hassan-ii": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1793964919477
+  },
+  "monuments-emblematiques_temple-de-borobudur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6444,
+   "src": "orig",
+   "editeLe": 1793964921612
   }
  }
 }

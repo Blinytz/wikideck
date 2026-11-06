@@ -59330,7 +59330,7 @@
    "cy": 0.4845,
    "w": 0.5645,
    "src": "orig",
-   "editeLe": 1793871648133
+   "editeLe": 1793959204178
   },
   "monarques-anglais-et-britanniques_charles-iii-roi-du-royaume-uni": {
    "cx": 0.5,
@@ -61228,6 +61228,13 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793959194726
+  },
+  "monarques-anglais-et-britanniques_guillaume-iv-roi-du-royaume-uni": {
+   "cx": 0.5,
+   "cy": 0.3817,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793959200351
   }
  }
 }

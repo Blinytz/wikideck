@@ -63846,6 +63846,20 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793961290436
+  },
+  "traites-et-textes-fondateurs_declaration-d-independance-des-etats-unis": {
+   "cx": 0.4996,
+   "cy": 0.5455,
+   "w": 0.6345,
+   "src": "orig",
+   "editeLe": 1793961298232
+  },
+  "traites-et-textes-fondateurs_constitution-des-etats-unis": {
+   "cx": 0.436,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793961303291
   }
  }
 }

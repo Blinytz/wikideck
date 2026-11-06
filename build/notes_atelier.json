@@ -69698,6 +69698,27 @@
    "w": 0.9252,
    "src": "orig",
    "editeLe": 1793964878698
+  },
+  "monuments-emblematiques_basilique-saint-marc-de-venise": {
+   "cx": 0.6382,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793964883372
+  },
+  "monuments-emblematiques_fontaine-de-trevi": {
+   "cx": 0.527,
+   "cy": 0.5,
+   "w": 0.5888,
+   "src": "orig",
+   "editeLe": 1793964887847
+  },
+  "monuments-emblematiques_cathedrale-notre-dame-de-chartres": {
+   "cx": 0.44,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793964891880
   }
  }
 }

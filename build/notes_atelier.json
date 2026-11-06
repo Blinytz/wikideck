@@ -69719,6 +69719,20 @@
    "w": 0.6105,
    "src": "orig",
    "editeLe": 1793964891880
+  },
+  "monuments-emblematiques_atomium": {
+   "cx": 0.5,
+   "cy": 0.4584,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793964896067
+  },
+  "monuments-emblematiques_grand-place-de-bruxelles": {
+   "cx": 0.5277,
+   "cy": 0.5,
+   "w": 0.6512,
+   "src": "orig",
+   "editeLe": 1793964899441
   }
  }
 }

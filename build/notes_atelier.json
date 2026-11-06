@@ -66436,6 +66436,27 @@
    "w": 0.9044,
    "src": "orig",
    "editeLe": 1793962919551
+  },
+  "grands-explorateurs_jacques-marquette": {
+   "cx": 0.5,
+   "cy": 0.3968,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962923512
+  },
+  "grands-explorateurs_louis-jolliet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.9523,
+   "src": "orig",
+   "editeLe": 1793962926630
+  },
+  "grands-explorateurs_alexander-mackenzie-explorateur": {
+   "cx": 0.5,
+   "cy": 0.4283,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793962929381
   }
  }
 }

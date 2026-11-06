@@ -63510,6 +63510,27 @@
    "w": 0.5263,
    "src": "orig",
    "editeLe": 1793960964062
+  },
+  "grandes-guerres_guerre-froide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1793960976637
+  },
+  "grandes-guerres_guerre-israelo-arabe-de-1948-1949": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793960979894
+  },
+  "grandes-guerres_guerre-du-kippour": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5257,
+   "src": "orig",
+   "editeLe": 1793960983311
   }
  }
 }

@@ -65414,6 +65414,41 @@
    "w": 0.7239,
    "src": "orig",
    "editeLe": 1793962460604
+  },
+  "crises-economiques_hyperinflation-de-la-republique-de-weimar": {
+   "cx": 0.6013,
+   "cy": 0.4786,
+   "w": 0.7554,
+   "src": "orig",
+   "editeLe": 1793962469325
+  },
+  "crises-economiques_systeme-de-law": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962471172
+  },
+  "crises-economiques_krach-de-1720": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962472819
+  },
+  "crises-economiques_panique-du-18-septembre-1873": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962474438
+  },
+  "crises-economiques_panique-bancaire-americaine-de-1907": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962476698
   }
  }
 }

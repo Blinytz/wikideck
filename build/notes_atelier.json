@@ -71078,11 +71078,11 @@
    "editeLe": 1793979626006
   },
   "langues-du-monde_latin": {
-   "cx": 0.4336,
+   "cx": 0.5,
    "cy": 0.5,
-   "w": 0.814,
-   "src": "full",
-   "editeLe": 1793979633418
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
   },
   "langues-du-monde_ecriture-cuneiforme": {
    "cx": 0.3704,
@@ -75311,6 +75311,538 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793983742047
+  },
+  "langues-du-monde_grec-ancien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_sanskrit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_hebreu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_arabe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_langues-chinoises": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_mandarin-standard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_japonais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_coreen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_hindi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_bengali": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_ourdou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_persan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_turc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_russe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_polonais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_allemand": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_anglais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_francais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_espagnol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_portugais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_italien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_neerlandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_suedois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_finnois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_hongrois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_basque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_breton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_gallois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_irlandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_islandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_swahili": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_yoruba-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_zoulou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_amharique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_haoussa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_quechua": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_guarani-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_nahuatl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_langues-maories": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_hawaien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_esperanto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_tamoul": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_vietnamien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_thai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_catalan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_occitan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_grec-moderne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_ukrainien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_roumain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_tcheque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_serbo-croate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_albanais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_yiddish": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_romani": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_wolof-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_afrikaans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_malgache": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_langues-berberes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_lingala": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_armenien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_georgien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_kurde": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_pachto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_tibetain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_mongol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_pendjabi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_telougou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_tagalog": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_indonesien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_khmer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_creole-haitien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_inuktitut": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_navajo-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_cherokee-langue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_maya-yucateque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
+  },
+  "langues-du-monde_aymara": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.475,
+   "src": "orig",
+   "editeLe": 1
   }
  }
 }

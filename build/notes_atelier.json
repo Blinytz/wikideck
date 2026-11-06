@@ -70139,6 +70139,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793976547555
+  },
+  "chateaux-celebres_krak-des-chevaliers": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976565182
+  },
+  "chateaux-celebres_chateau-de-fontainebleau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976567078
+  },
+  "chateaux-celebres_chateau-de-vaux-le-vicomte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793976570079
   }
  }
 }

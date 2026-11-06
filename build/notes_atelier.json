@@ -63020,6 +63020,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960681553
+  },
+  "grandes-batailles-historiques_siege-de-vienne-1683": {
+   "cx": 0.4874,
+   "cy": 0.4926,
+   "w": 0.7274,
+   "src": "orig",
+   "editeLe": 1793960687316
+  },
+  "grandes-batailles-historiques_bataille-de-hochstadt-1704": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8194,
+   "src": "orig",
+   "editeLe": 1793960690056
+  },
+  "grandes-batailles-historiques_bataille-des-plaines-d-abraham": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7,
+   "src": "orig",
+   "editeLe": 1793960692843
   }
  }
 }

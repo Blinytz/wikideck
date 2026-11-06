@@ -64287,6 +64287,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793961670137
+  },
+  "figures-emancipation_nat-turner": {
+   "cx": 0.2775,
+   "cy": 0.5455,
+   "w": 0.555,
+   "src": "orig",
+   "editeLe": 1793961676580
+  },
+  "figures-emancipation_angela-davis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1793961680831
   }
  }
 }

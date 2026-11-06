@@ -62726,6 +62726,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793960532148
+  },
+  "grandes-batailles-historiques_bataille-de-nicopolis": {
+   "cx": 0.4494,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960534734
+  },
+  "grandes-batailles-historiques_chute-de-constantinople": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960536629
+  },
+  "grandes-batailles-historiques_bataille-de-lepante": {
+   "cx": 0.452,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793960539317
   }
  }
 }

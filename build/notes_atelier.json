@@ -69327,6 +69327,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793964689887
+  },
+  "micro-etats_andorre": {
+   "cx": 0.4454,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964696065
+  },
+  "micro-etats_sainte-lucie": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964698287
+  },
+  "micro-etats_etats-federes-de-micronesie": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964700339
+  },
+  "micro-etats_tonga": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964702367
+  },
+  "micro-etats_dominique-pays": {
+   "cx": 0.407,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793964704679
   }
  }
 }

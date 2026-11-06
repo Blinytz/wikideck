@@ -72841,6 +72841,20 @@
    "w": 0.6627,
    "src": "orig",
    "editeLe": 1793981010168
+  },
+  "scientifiques-celebres_donald-knuth": {
+   "cx": 0.5288,
+   "cy": 0.5,
+   "w": 0.8389,
+   "src": "orig",
+   "editeLe": 1793981017450
+  },
+  "scientifiques-celebres_vint-cerf": {
+   "cx": 0.5,
+   "cy": 0.332,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793981020901
   }
  }
 }

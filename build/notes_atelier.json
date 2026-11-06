@@ -71616,6 +71616,69 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793980258051
+  },
+  "monnaies-du-monde_tenge-kazakh": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980259251
+  },
+  "monnaies-du-monde_dollar-australien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980260537
+  },
+  "monnaies-du-monde_dollar-neo-zelandais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980261832
+  },
+  "monnaies-du-monde_franc-pacifique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980263046
+  },
+  "monnaies-du-monde_couronne-islandaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980264280
+  },
+  "monnaies-du-monde_lev-bulgare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980265626
+  },
+  "monnaies-du-monde_peso-uruguayen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980266881
+  },
+  "monnaies-du-monde_peso-cubain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980268104
+  },
+  "monnaies-du-monde_gourde-monnaie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793980269162
   }
  }
 }

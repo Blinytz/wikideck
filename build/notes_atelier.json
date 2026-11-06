@@ -76512,6 +76512,41 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793990166195
+  },
+  "corps-celestes_ariel-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990168856
+  },
+  "corps-celestes_umbriel-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1793990171776
+  },
+  "corps-celestes_triton-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6119,
+   "src": "orig",
+   "editeLe": 1793990173861
+  },
+  "corps-celestes_charon-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6512,
+   "src": "orig",
+   "editeLe": 1793990176036
+  },
+  "corps-celestes_nebuleuse-d-orion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793990178254
   }
  }
 }

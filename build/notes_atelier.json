@@ -59284,10 +59284,11 @@
    "editeLe": 1793821890530
   },
   "souverains-et-conquerants_haroun-ar-rachid": {
-   "cx": 0.4979,
-   "cy": 0.3704,
-   "w": 0.8264,
-   "editeLe": 1793821908882
+   "cx": 0.4952,
+   "cy": 0.3769,
+   "w": 0.7513,
+   "src": "orig",
+   "editeLe": 1793957016642
   },
   "souverains-et-conquerants_clovis-ier": {
    "cx": 0.5,
@@ -59987,6 +59988,13 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793957002333
+  },
+  "souverains-et-conquerants_attila": {
+   "cx": 0.5,
+   "cy": 0.5469,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1793957011765
   }
  }
 }

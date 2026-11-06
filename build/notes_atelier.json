@@ -70832,6 +70832,27 @@
    "w": 0.814,
    "src": "full",
    "editeLe": 1793979466558
+  },
+  "sites-antiques_pompei": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1793979469939
+  },
+  "sites-antiques_delphes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793979473795
+  },
+  "sites-antiques_olympie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793979476569
   }
  }
 }

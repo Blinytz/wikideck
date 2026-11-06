@@ -66492,6 +66492,34 @@
    "w": 0.4612,
    "src": "orig",
    "editeLe": 1793962947493
+  },
+  "villes-du-monde_new-york": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793962951278
+  },
+  "villes-du-monde_tokyo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793962953389
+  },
+  "villes-du-monde_rome": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962955199
+  },
+  "villes-du-monde_le-caire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "full",
+   "editeLe": 1793962956824
   }
  }
 }

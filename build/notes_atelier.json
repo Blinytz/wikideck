@@ -76092,6 +76092,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1793989611748
+  },
+  "maladies-et-epidemies_diphterie": {
+   "cx": 0.4205,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1793989618021
+  },
+  "maladies-et-epidemies_tetanos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1793989621018
   }
  }
 }

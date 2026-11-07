@@ -81223,6 +81223,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794059340222
+  },
+  "oiseaux_chouette-hulotte": {
+   "cx": 0.5293,
+   "cy": 0.392,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059342840
+  },
+  "oiseaux_milan-royal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7753,
+   "src": "orig",
+   "editeLe": 1794059345008
+  },
+  "oiseaux_marabout-d-afrique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059347201
   }
  }
 }

@@ -83799,6 +83799,34 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794063149380
+  },
+  "races-de-chien_mastiff": {
+   "cx": 0.3701,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063154806
+  },
+  "races-de-chien_fila-brasileiro": {
+   "cx": 0.5337,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063157636
+  },
+  "races-de-chien_chien-de-montagne-des-pyrenees": {
+   "cx": 0.5186,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063160009
+  },
+  "races-de-chien_leonberg-chien": {
+   "cx": 0.4071,
+   "cy": 0.4994,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063162766
   }
  }
 }

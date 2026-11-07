@@ -81538,6 +81538,41 @@
    "w": 0.803,
    "src": "orig",
    "editeLe": 1794059475533
+  },
+  "reptiles-et-amphibiens_sphenodon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059477540
+  },
+  "reptiles-et-amphibiens_taipan-du-desert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059479670
+  },
+  "reptiles-et-amphibiens_vipere-du-gabon": {
+   "cx": 0.4581,
+   "cy": 0.5002,
+   "w": 0.7994,
+   "src": "orig",
+   "editeLe": 1794059482264
+  },
+  "reptiles-et-amphibiens_monstre-de-gila": {
+   "cx": 0.4642,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059484640
+  },
+  "reptiles-et-amphibiens_tortue-verte": {
+   "cx": 0.5868,
+   "cy": 0.45,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794059486369
   }
  }
 }

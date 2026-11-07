@@ -87320,6 +87320,27 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1794064823833
+  },
+  "grands-peintres_joan-miro": {
+   "cx": 0.4965,
+   "cy": 0.3376,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064826601
+  },
+  "grands-peintres_frida-kahlo": {
+   "cx": 0.5074,
+   "cy": 0.401,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064830116
+  },
+  "grands-peintres_diego-rivera": {
+   "cx": 0.4926,
+   "cy": 0.3751,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064832640
   }
  }
 }

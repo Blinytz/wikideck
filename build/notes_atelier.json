@@ -82693,6 +82693,20 @@
    "w": 0.6205,
    "src": "orig",
    "editeLe": 1794062287825
+  },
+  "dinosaures-celebres_carnotaurus": {
+   "cx": 0.3932,
+   "cy": 0.5453,
+   "w": 0.6909,
+   "src": "orig",
+   "editeLe": 1794062290460
+  },
+  "dinosaures-celebres_giganotosaurus": {
+   "cx": 0.4988,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794062292827
   }
  }
 }

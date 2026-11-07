@@ -79053,6 +79053,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794057896125
+  },
+  "vehicules-celebres_vasa": {
+   "cx": 0.4007,
+   "cy": 0.4998,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794057899321
+  },
+  "vehicules-celebres_mary-rose": {
+   "cx": 0.626,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794057902178
   }
  }
 }

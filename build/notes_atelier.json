@@ -87537,6 +87537,20 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064929446
+  },
+  "grands-peintres_fra-angelico": {
+   "cx": 0.5074,
+   "cy": 0.5367,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064933638
+  },
+  "grands-peintres_masaccio": {
+   "cx": 0.4926,
+   "cy": 0.4003,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064939165
   }
  }
 }

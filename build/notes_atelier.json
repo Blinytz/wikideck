@@ -89539,6 +89539,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066670568
+  },
+  "sculptures-celebres_ange-du-nord": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794066673156
+  },
+  "sculptures-celebres_taureau-de-wall-street": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066674917
+  },
+  "sculptures-celebres_statue-de-la-mere-patrie-volgograd": {
+   "cx": 0.5,
+   "cy": 0.4116,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066676567
+  },
+  "sculptures-celebres_kotoku-in": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794066678395
   }
  }
 }

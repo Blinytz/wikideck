@@ -78906,6 +78906,41 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794057820624
+  },
+  "pionniers-de-lextreme_alex-honnold": {
+   "cx": 0.5,
+   "cy": 0.332,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057822965
+  },
+  "vehicules-celebres_bateau-dragon-pirogue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057825527
+  },
+  "vehicules-celebres_bateau-viking": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7592,
+   "src": "orig",
+   "editeLe": 1794057827585
+  },
+  "vehicules-celebres_jonque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057829195
+  },
+  "vehicules-celebres_triere": {
+   "cx": 0.473,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794057830590
   }
  }
 }

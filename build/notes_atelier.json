@@ -96994,6 +96994,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070040338
+  },
+  "personnages-litterature_capitaine-achab": {
+   "cx": 0.4989,
+   "cy": 0.5002,
+   "w": 0.6153,
+   "src": "orig",
+   "editeLe": 1794070043872
+  },
+  "personnages-litterature_rodion-raskolnikov": {
+   "cx": 0.6266,
+   "cy": 0.5,
+   "w": 0.6082,
+   "src": "orig",
+   "editeLe": 1794070045806
+  },
+  "personnages-litterature_javert": {
+   "cx": 0.4479,
+   "cy": 0.3633,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794070050062
   }
  }
 }

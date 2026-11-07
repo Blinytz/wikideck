@@ -78283,6 +78283,27 @@
    "w": 0.6542,
    "src": "orig",
    "editeLe": 1794057508888
+  },
+  "aviateurs-celebres_juan-de-la-cierva-y-codorniu": {
+   "cx": 0.4332,
+   "cy": 0.6415,
+   "w": 0.4147,
+   "src": "orig",
+   "editeLe": 1794057552283
+  },
+  "aviateurs-celebres_geoffrey-de-havilland": {
+   "cx": 0.5693,
+   "cy": 0.4821,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057554781
+  },
+  "aviateurs-celebres_willy-messerschmitt": {
+   "cx": 0.6762,
+   "cy": 0.2322,
+   "w": 0.4179,
+   "src": "orig",
+   "editeLe": 1794057558967
   }
  }
 }

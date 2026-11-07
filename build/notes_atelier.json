@@ -86438,6 +86438,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064423233
+  },
+  "plantes-cultivees_palmier-a-huile": {
+   "cx": 0.5444,
+   "cy": 0.5,
+   "w": 0.7224,
+   "src": "orig",
+   "editeLe": 1794064425042
+  },
+  "plantes-cultivees_chanvre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064426718
+  },
+  "plantes-cultivees_houblon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064428134
+  },
+  "plantes-cultivees_gingembre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7253,
+   "src": "orig",
+   "editeLe": 1794064430573
   }
  }
 }

@@ -82469,6 +82469,34 @@
    "w": 0.5985,
    "src": "orig",
    "editeLe": 1794059932778
+  },
+  "insectes_mouche-tse-tse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059934828
+  },
+  "insectes_tabanidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059936647
+  },
+  "insectes_ctenocephalides-felis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794059938370
+  },
+  "insectes_pou-de-tete": {
+   "cx": 0.5542,
+   "cy": 0.5,
+   "w": 0.7261,
+   "src": "orig",
+   "editeLe": 1794059940160
   }
  }
 }

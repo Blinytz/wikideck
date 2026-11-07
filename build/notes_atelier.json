@@ -77800,6 +77800,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055391370
+  },
+  "astronautes-et-cosmonautes_timothy-peake": {
+   "cx": 0.5027,
+   "cy": 0.3438,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055396146
+  },
+  "astronautes-et-cosmonautes_helen-sharman": {
+   "cx": 0.5,
+   "cy": 0.3268,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055399461
+  },
+  "astronautes-et-cosmonautes_sigmund-jahn": {
+   "cx": 0.5,
+   "cy": 0.4284,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055401744
   }
  }
 }

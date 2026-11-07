@@ -82511,6 +82511,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059961929
+  },
+  "insectes_charancon-du-ble": {
+   "cx": 0.6629,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1794059976818
+  },
+  "insectes_doryphore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7044,
+   "src": "orig",
+   "editeLe": 1794059978688
+  },
+  "insectes_myrmeleontidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794059980640
   }
  }
 }

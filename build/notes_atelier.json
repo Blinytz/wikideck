@@ -78241,6 +78241,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794056791124
+  },
+  "aviateurs-celebres_chuck-yeager": {
+   "cx": 0.5,
+   "cy": 0.326,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056794634
+  },
+  "aviateurs-celebres_amy-johnson": {
+   "cx": 0.5301,
+   "cy": 0.4134,
+   "w": 0.5967,
+   "src": "orig",
+   "editeLe": 1794056797682
+  },
+  "aviateurs-celebres_bessie-coleman": {
+   "cx": 0.508,
+   "cy": 0.3776,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056800456
   }
  }
 }

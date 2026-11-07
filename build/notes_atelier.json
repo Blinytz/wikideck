@@ -77765,6 +77765,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055368058
+  },
+  "astronautes-et-cosmonautes_sunita-williams": {
+   "cx": 0.4973,
+   "cy": 0.4701,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055380910
+  },
+  "astronautes-et-cosmonautes_scott-kelly": {
+   "cx": 0.5,
+   "cy": 0.3483,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055383823
+  },
+  "astronautes-et-cosmonautes_samantha-cristoforetti": {
+   "cx": 0.5,
+   "cy": 0.4787,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055386295
   }
  }
 }

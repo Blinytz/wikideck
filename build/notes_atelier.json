@@ -91359,6 +91359,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067344708
+  },
+  "grands-compositeurs_johann-pachelbel": {
+   "cx": 0.5013,
+   "cy": 0.4377,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067346913
+  },
+  "grands-compositeurs_arcangelo-corelli": {
+   "cx": 0.5,
+   "cy": 0.3872,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067349863
+  },
+  "grands-compositeurs_tomaso-albinoni": {
+   "cx": 0.478,
+   "cy": 0.3206,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794067352100
   }
  }
 }

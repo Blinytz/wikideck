@@ -78955,6 +78955,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794057845234
+  },
+  "vehicules-celebres_mayflower": {
+   "cx": 0.4581,
+   "cy": 0.4998,
+   "w": 0.5564,
+   "src": "orig",
+   "editeLe": 1794057847762
+  },
+  "vehicules-celebres_hms-victory-1765": {
+   "cx": 0.5774,
+   "cy": 0.4547,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794057851209
+  },
+  "vehicules-celebres_hms-bounty": {
+   "cx": 0.4721,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794057855715
   }
  }
 }

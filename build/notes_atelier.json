@@ -81825,6 +81825,34 @@
    "w": 0.6575,
    "src": "orig",
    "editeLe": 1794059641079
+  },
+  "poissons-et-vie-marine_anguille-d-europe": {
+   "cx": 0.5375,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059643255
+  },
+  "poissons-et-vie-marine_hippocampe-poisson": {
+   "cx": 0.527,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059646051
+  },
+  "poissons-et-vie-marine_murene-commune": {
+   "cx": 0.5372,
+   "cy": 0.5,
+   "w": 0.6928,
+   "src": "orig",
+   "editeLe": 1794059648109
+  },
+  "poissons-et-vie-marine_scaridae": {
+   "cx": 0.556,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059650681
   }
  }
 }

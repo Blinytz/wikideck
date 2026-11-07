@@ -97393,6 +97393,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070190259
+  },
+  "mouvements-litteraires_pleiade-xvie-siecle": {
+   "cx": 0.5003,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794070194016
+  },
+  "mouvements-litteraires_litterature-baroque": {
+   "cx": 0.517,
+   "cy": 0.562,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070197504
+  },
+  "mouvements-litteraires_preciosite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7733,
+   "src": "orig",
+   "editeLe": 1794070199501
+  },
+  "mouvements-litteraires_classicisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070201256
   }
  }
 }

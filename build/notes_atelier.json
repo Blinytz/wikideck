@@ -81104,6 +81104,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059253416
+  },
+  "oiseaux_sterne-arctique": {
+   "cx": 0.5407,
+   "cy": 0.4998,
+   "w": 0.754,
+   "src": "orig",
+   "editeLe": 1794059255998
+  },
+  "oiseaux_rossignol-philomele": {
+   "cx": 0.5147,
+   "cy": 0.3886,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059258338
+  },
+  "oiseaux_etourneau-sansonnet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7329,
+   "src": "orig",
+   "editeLe": 1794059260515
+  },
+  "oiseaux_pigeon-biset": {
+   "cx": 0.4658,
+   "cy": 0.4998,
+   "w": 0.7465,
+   "src": "orig",
+   "editeLe": 1794059262951
   }
  }
 }

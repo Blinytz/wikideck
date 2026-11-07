@@ -79263,6 +79263,27 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794057985754
+  },
+  "vehicules-celebres_titanic": {
+   "cx": 0.5392,
+   "cy": 0.4998,
+   "w": 0.7982,
+   "src": "orig",
+   "editeLe": 1794057989035
+  },
+  "vehicules-celebres_potemkine-cuirasse": {
+   "cx": 0.47,
+   "cy": 0.4998,
+   "w": 0.7456,
+   "src": "orig",
+   "editeLe": 1794057992718
+  },
+  "vehicules-celebres_aurore-croiseur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057994728
   }
  }
 }

@@ -80236,6 +80236,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794058787562
+  },
+  "mammiferes_hermine": {
+   "cx": 0.5998,
+   "cy": 0.5002,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794058790487
+  },
+  "mammiferes_sanglier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794058792455
+  },
+  "mammiferes_cerf-elaphe": {
+   "cx": 0.6032,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058795290
   }
  }
 }

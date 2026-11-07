@@ -78976,6 +78976,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794057855715
+  },
+  "vehicules-celebres_kon-tiki": {
+   "cx": 0.4962,
+   "cy": 0.5,
+   "w": 0.7722,
+   "src": "orig",
+   "editeLe": 1794057857990
+  },
+  "vehicules-celebres_lz-129-hindenburg": {
+   "cx": 0.5124,
+   "cy": 0.4998,
+   "w": 0.6582,
+   "src": "orig",
+   "editeLe": 1794057860757
+  },
+  "vehicules-celebres_spirit-of-st-louis": {
+   "cx": 0.5105,
+   "cy": 0.5,
+   "w": 0.6837,
+   "src": "orig",
+   "editeLe": 1794057862798
   }
  }
 }

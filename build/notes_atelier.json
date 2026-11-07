@@ -81608,6 +81608,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794059554286
+  },
+  "reptiles-et-amphibiens_python-royal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7287,
+   "src": "orig",
+   "editeLe": 1794059556688
+  },
+  "reptiles-et-amphibiens_vipere-aspic": {
+   "cx": 0.5336,
+   "cy": 0.5002,
+   "w": 0.6421,
+   "src": "orig",
+   "editeLe": 1794059559620
+  },
+  "reptiles-et-amphibiens_anguis-fragilis": {
+   "cx": 0.5062,
+   "cy": 0.522,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794059562244
   }
  }
 }

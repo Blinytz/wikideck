@@ -89007,6 +89007,27 @@
    "w": 0.9091,
    "src": "orig",
    "editeLe": 1794066460141
+  },
+  "tableaux-celebres_la-nef-des-fous-bosch": {
+   "cx": 0.4942,
+   "cy": 0.4903,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794066464789
+  },
+  "tableaux-celebres_l-enterrement-du-comte-d-orgaz": {
+   "cx": 0.5,
+   "cy": 0.6938,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066467557
+  },
+  "tableaux-celebres_et-in-arcadia-ego-poussin": {
+   "cx": 0.4772,
+   "cy": 0.505,
+   "w": 0.7032,
+   "src": "orig",
+   "editeLe": 1794066469441
   }
  }
 }

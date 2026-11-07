@@ -90365,6 +90365,27 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794066999591
+  },
+  "styles-architecturaux_deconstructivisme": {
+   "cx": 0.4385,
+   "cy": 0.5198,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067003481
+  },
+  "styles-architecturaux_architecture-high-tech": {
+   "cx": 0.45,
+   "cy": 0.42,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794067006183
+  },
+  "styles-architecturaux_architecture-moghole": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7142,
+   "src": "orig",
+   "editeLe": 1794067008500
   }
  }
 }

@@ -77457,6 +77457,20 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794055172936
+  },
+  "astronautes-et-cosmonautes_buzz-aldrin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1794055178629
+  },
+  "astronautes-et-cosmonautes_michael-collins-astronaute": {
+   "cx": 0.5,
+   "cy": 0.3975,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055181432
   }
  }
 }

@@ -80110,6 +80110,27 @@
    "w": 0.7888,
    "src": "orig",
    "editeLe": 1794058663494
+  },
+  "mammiferes_castor-d-europe": {
+   "cx": 0.4545,
+   "cy": 0.4608,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794058665630
+  },
+  "mammiferes_blaireau-europeen": {
+   "cx": 0.5637,
+   "cy": 0.5128,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794058668095
+  },
+  "mammiferes_ecureuil-roux": {
+   "cx": 0.4497,
+   "cy": 0.5483,
+   "w": 0.609,
+   "src": "orig",
+   "editeLe": 1794058670092
   }
  }
 }

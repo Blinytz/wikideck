@@ -80257,6 +80257,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058795290
+  },
+  "mammiferes_rangifer-tarandus": {
+   "cx": 0.5469,
+   "cy": 0.5052,
+   "w": 0.4931,
+   "src": "orig",
+   "editeLe": 1794058797337
+  },
+  "mammiferes_alces": {
+   "cx": 0.6661,
+   "cy": 0.4931,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794058799173
+  },
+  "mammiferes_chevreuil": {
+   "cx": 0.3859,
+   "cy": 0.529,
+   "w": 0.5977,
+   "src": "orig",
+   "editeLe": 1794058801036
+  },
+  "mammiferes_gazelle-de-thomson": {
+   "cx": 0.4961,
+   "cy": 0.4467,
+   "w": 0.5978,
+   "src": "orig",
+   "editeLe": 1794058802860
   }
  }
 }

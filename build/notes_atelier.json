@@ -92612,6 +92612,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067827997
+  },
+  "musique-populaire_johnny-hallyday": {
+   "cx": 0.5,
+   "cy": 0.3956,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067829824
+  },
+  "musique-populaire_daft-punk": {
+   "cx": 0.5,
+   "cy": 0.4994,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067831910
+  },
+  "musique-populaire_nirvana-groupe": {
+   "cx": 0.5,
+   "cy": 0.4944,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067833773
   }
  }
 }

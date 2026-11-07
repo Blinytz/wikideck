@@ -92262,6 +92262,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067706162
+  },
+  "oeuvres-musicales_pomp-and-circumstance": {
+   "cx": 0.5191,
+   "cy": 0.5472,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794067711007
+  },
+  "oeuvres-musicales_les-planetes": {
+   "cx": 0.5,
+   "cy": 0.5662,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067712883
+  },
+  "oeuvres-musicales_war-requiem": {
+   "cx": 0.5219,
+   "cy": 0.4998,
+   "w": 0.558,
+   "src": "orig",
+   "editeLe": 1794067718801
   }
  }
 }

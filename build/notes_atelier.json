@@ -91030,6 +91030,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067245779
+  },
+  "grands-compositeurs_dmitri-chostakovitch": {
+   "cx": 0.4764,
+   "cy": 0.4633,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067248216
+  },
+  "grands-compositeurs_serguei-prokofiev": {
+   "cx": 0.4987,
+   "cy": 0.3577,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067250366
+  },
+  "grands-compositeurs_bela-bartok": {
+   "cx": 0.3674,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067252670
+  },
+  "grands-compositeurs_arnold-schonberg": {
+   "cx": 0.5269,
+   "cy": 0.5,
+   "w": 0.6366,
+   "src": "orig",
+   "editeLe": 1794067254475
   }
  }
 }

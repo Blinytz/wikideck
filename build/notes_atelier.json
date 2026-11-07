@@ -84590,6 +84590,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794063552166
+  },
+  "races-de-chat_nebelung": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063554310
+  },
+  "races-de-chat_ragamuffin": {
+   "cx": 0.471,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063557199
+  },
+  "races-de-chat_snowshoe": {
+   "cx": 0.5514,
+   "cy": 0.5,
+   "w": 0.7305,
+   "src": "orig",
+   "editeLe": 1794063559324
   }
  }
 }

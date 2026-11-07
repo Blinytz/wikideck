@@ -84212,6 +84212,41 @@
    "w": 0.658,
    "src": "orig",
    "editeLe": 1794063396184
+  },
+  "races-de-chien_berger-des-pyrenees": {
+   "cx": 0.5455,
+   "cy": 0.5092,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063397965
+  },
+  "races-de-chien_dogue-argentin": {
+   "cx": 0.5,
+   "cy": 0.4656,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063399748
+  },
+  "races-de-chien_berger-du-caucase": {
+   "cx": 0.5673,
+   "cy": 0.5,
+   "w": 0.7046,
+   "src": "orig",
+   "editeLe": 1794063401602
+  },
+  "races-de-chien_dogue-du-tibet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6406,
+   "src": "orig",
+   "editeLe": 1794063403476
+  },
+  "races-de-chien_braque-hongrois-a-poil-court": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063405253
   }
  }
 }

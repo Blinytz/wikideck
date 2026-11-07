@@ -77485,6 +77485,34 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794055187407
+  },
+  "astronautes-et-cosmonautes_eileen-collins": {
+   "cx": 0.4693,
+   "cy": 0.3836,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055190929
+  },
+  "astronautes-et-cosmonautes_chris-hadfield": {
+   "cx": 0.5,
+   "cy": 0.3513,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055193082
+  },
+  "astronautes-et-cosmonautes_sophie-adenot": {
+   "cx": 0.5,
+   "cy": 0.3812,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055195596
+  },
+  "astronautes-et-cosmonautes_jean-loup-chretien": {
+   "cx": 0.5,
+   "cy": 0.405,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055197875
   }
  }
 }

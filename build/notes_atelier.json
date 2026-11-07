@@ -95265,6 +95265,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069069730
+  },
+  "auteurs-modernes_william-butler-yeats": {
+   "cx": 0.4926,
+   "cy": 0.4073,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069072039
+  },
+  "auteurs-modernes_federico-garcia-lorca": {
+   "cx": 0.4926,
+   "cy": 0.3999,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069074439
+  },
+  "auteurs-modernes_octavio-paz": {
+   "cx": 0.4926,
+   "cy": 0.3308,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069076754
+  },
+  "auteurs-modernes_lu-xun-ecrivain": {
+   "cx": 0.4926,
+   "cy": 0.3581,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069079405
   }
  }
 }

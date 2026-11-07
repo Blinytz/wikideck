@@ -84744,6 +84744,27 @@
    "w": 0.6799,
    "src": "orig",
    "editeLe": 1794063607892
+  },
+  "races-de-cheval_connemara-cheval": {
+   "cx": 0.4143,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794063614612
+  },
+  "races-de-cheval_camargue-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063616588
+  },
+  "races-de-cheval_selle-francais": {
+   "cx": 0.5393,
+   "cy": 0.4886,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063619984
   }
  }
 }

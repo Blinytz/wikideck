@@ -97519,6 +97519,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794070235378
+  },
+  "mouvements-litteraires_beat-generation": {
+   "cx": 0.4425,
+   "cy": 0.5002,
+   "w": 0.7214,
+   "src": "orig",
+   "editeLe": 1794070241215
+  },
+  "mouvements-litteraires_generation-perdue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7289,
+   "src": "orig",
+   "editeLe": 1794070245217
   }
  }
 }

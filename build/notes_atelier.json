@@ -80040,6 +80040,34 @@
    "w": 0.6015,
    "src": "orig",
    "editeLe": 1794058637134
+  },
+  "mammiferes_wombat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058639154
+  },
+  "mammiferes_quokka": {
+   "cx": 0.43,
+   "cy": 0.5866,
+   "w": 0.5978,
+   "src": "orig",
+   "editeLe": 1794058641280
+  },
+  "mammiferes_diable-de-tasmanie": {
+   "cx": 0.5208,
+   "cy": 0.5002,
+   "w": 0.7953,
+   "src": "orig",
+   "editeLe": 1794058644276
+  },
+  "mammiferes_ornithorynque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794058646372
   }
  }
 }

@@ -77891,6 +77891,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055462025
+  },
+  "astronautes-et-cosmonautes_felicette": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5625,
+   "src": "orig",
+   "editeLe": 1794055466954
+  },
+  "astronautes-et-cosmonautes_ham-chimpanze": {
+   "cx": 0.496,
+   "cy": 0.2708,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055471412
   }
  }
 }

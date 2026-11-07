@@ -91681,6 +91681,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067458026
+  },
+  "oeuvres-musicales_les-noces-de-figaro": {
+   "cx": 0.4136,
+   "cy": 0.5,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794067460046
+  },
+  "oeuvres-musicales_don-giovanni": {
+   "cx": 0.5773,
+   "cy": 0.5168,
+   "w": 0.5911,
+   "src": "orig",
+   "editeLe": 1794067461960
+  },
+  "oeuvres-musicales_carmen-opera": {
+   "cx": 0.5,
+   "cy": 0.2606,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067463353
+  },
+  "oeuvres-musicales_la-traviata": {
+   "cx": 0.495,
+   "cy": 0.5453,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067464588
+  },
+  "oeuvres-musicales_aida": {
+   "cx": 0.501,
+   "cy": 0.5,
+   "w": 0.5405,
+   "src": "orig",
+   "editeLe": 1794067466151
+  },
+  "oeuvres-musicales_nabucco": {
+   "cx": 0.4628,
+   "cy": 0.5,
+   "w": 0.4615,
+   "src": "orig",
+   "editeLe": 1794067467272
+  },
+  "oeuvres-musicales_le-barbier-de-seville-rossini": {
+   "cx": 0.6836,
+   "cy": 0.4661,
+   "w": 0.5136,
+   "src": "orig",
+   "editeLe": 1794067468675
   }
  }
 }

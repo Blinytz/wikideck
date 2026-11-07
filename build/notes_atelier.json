@@ -88167,6 +88167,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065254476
+  },
+  "grands-peintres_leonora-carrington": {
+   "cx": 0.5,
+   "cy": 0.5329,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794065257250
+  },
+  "grands-peintres_norman-rockwell": {
+   "cx": 0.4926,
+   "cy": 0.3632,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065260040
+  },
+  "grands-peintres_andrew-wyeth": {
+   "cx": 0.5,
+   "cy": 0.4938,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794065261811
   }
  }
 }

@@ -94635,6 +94635,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068809799
+  },
+  "auteurs-classiques_edmond-rostand": {
+   "cx": 0.4926,
+   "cy": 0.3331,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068812461
+  },
+  "auteurs-classiques_anatole-france": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068814731
+  },
+  "auteurs-classiques_lautreamont": {
+   "cx": 0.4862,
+   "cy": 0.5002,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794068817781
   }
  }
 }

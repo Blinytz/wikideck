@@ -80376,6 +80376,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058907369
+  },
+  "mammiferes_oryctolagus-cuniculus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7759,
+   "src": "orig",
+   "editeLe": 1794058909575
+  },
+  "mammiferes_rattus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058911514
+  },
+  "mammiferes_souris-bleue-grise": {
+   "cx": 0.5868,
+   "cy": 0.5866,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794058913357
+  },
+  "mammiferes_panthere-des-neiges": {
+   "cx": 0.5,
+   "cy": 0.5647,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058915589
   }
  }
 }

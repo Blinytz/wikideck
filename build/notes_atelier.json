@@ -79186,6 +79186,27 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794057952289
+  },
+  "vehicules-celebres_enola-gay": {
+   "cx": 0.4387,
+   "cy": 0.4665,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057955773
+  },
+  "vehicules-celebres_hughes-h-4-hercules": {
+   "cx": 0.4493,
+   "cy": 0.495,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057959471
+  },
+  "vehicules-celebres_solar-impulse": {
+   "cx": 0.4388,
+   "cy": 0.4997,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794057962569
   }
  }
 }

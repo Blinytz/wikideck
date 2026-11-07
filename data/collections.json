@@ -325,7 +325,7 @@
   {
    "slug": "mammiferes",
    "nom": "Mammiferes",
-   "nbCartes": 128,
+   "nbCartes": 127,
    "fichier": "data/mammiferes.json",
    "theme": "Nature"
   },
@@ -388,7 +388,7 @@
   {
    "slug": "races-de-cheval",
    "nom": "Races de cheval",
-   "nbCartes": 52,
+   "nbCartes": 53,
    "fichier": "data/races-de-cheval.json",
    "theme": "Nature"
   },

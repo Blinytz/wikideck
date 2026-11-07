@@ -77324,6 +77324,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055030662
+  },
+  "conquete-spatiale_kepler-telescope-spatial": {
+   "cx": 0.4987,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055036806
+  },
+  "conquete-spatiale_saliout-1": {
+   "cx": 0.5544,
+   "cy": 0.4998,
+   "w": 0.7395,
+   "src": "orig",
+   "editeLe": 1794055040439
   }
  }
 }

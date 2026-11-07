@@ -93256,6 +93256,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794068064780
+  },
+  "instruments-de-musique_harpe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7234,
+   "src": "orig",
+   "editeLe": 1794068066654
+  },
+  "instruments-de-musique_guitare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068068303
+  },
+  "instruments-de-musique_guitare-electrique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794068070056
+  },
+  "instruments-de-musique_luth": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794068072093
   }
  }
 }

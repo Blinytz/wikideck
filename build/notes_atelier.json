@@ -95237,6 +95237,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069060668
+  },
+  "auteurs-modernes_raymond-queneau": {
+   "cx": 0.6112,
+   "cy": 0.4884,
+   "w": 0.5182,
+   "src": "orig",
+   "editeLe": 1794069062648
+  },
+  "auteurs-modernes_guillaume-apollinaire": {
+   "cx": 0.4926,
+   "cy": 0.4464,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069065534
+  },
+  "auteurs-modernes_rainer-maria-rilke": {
+   "cx": 0.4145,
+   "cy": 0.3144,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794069067493
+  },
+  "auteurs-modernes_t-s-eliot": {
+   "cx": 0.4926,
+   "cy": 0.4448,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069069730
   }
  }
 }

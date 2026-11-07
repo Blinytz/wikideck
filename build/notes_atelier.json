@@ -93382,6 +93382,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068121170
+  },
+  "instruments-de-musique_tuba-instrument": {
+   "cx": 0.4623,
+   "cy": 0.4953,
+   "w": 0.5983,
+   "src": "orig",
+   "editeLe": 1794068123068
+  },
+  "instruments-de-musique_cornemuse": {
+   "cx": 0.4697,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794068125011
+  },
+  "instruments-de-musique_didjeridoo": {
+   "cx": 0.4202,
+   "cy": 0.502,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068128556
+  },
+  "instruments-de-musique_orgue": {
+   "cx": 0.4819,
+   "cy": 0.5578,
+   "w": 0.599,
+   "src": "orig",
+   "editeLe": 1794068130380
   }
  }
 }

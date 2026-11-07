@@ -91729,7 +91729,7 @@
    "cy": 0.4661,
    "w": 0.5136,
    "src": "orig",
-   "editeLe": 1794067468675
+   "editeLe": 1794067513220
   },
   "oeuvres-musicales_tosca": {
    "cx": 0.5659,
@@ -91751,6 +91751,20 @@
    "w": 0.8057,
    "src": "orig",
    "editeLe": 1794067473178
+  },
+  "oeuvres-musicales_tristan-und-isolde": {
+   "cx": 0.375,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067517690
+  },
+  "oeuvres-musicales_casse-noisette": {
+   "cx": 0.5028,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067519798
   }
  }
 }

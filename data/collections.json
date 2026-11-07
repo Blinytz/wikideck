@@ -311,7 +311,7 @@
   {
    "slug": "vehicules-celebres",
    "nom": "Navires et véhicules célèbres",
-   "nbCartes": 85,
+   "nbCartes": 84,
    "fichier": "data/vehicules-celebres.json",
    "theme": "Sciences et techniques"
   },

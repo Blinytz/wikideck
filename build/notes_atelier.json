@@ -82210,6 +82210,34 @@
    "w": 0.724,
    "src": "orig",
    "editeLe": 1794059803663
+  },
+  "insectes_lasius-niger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059805329
+  },
+  "insectes_formica-rufa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059807056
+  },
+  "insectes_camponotus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6061,
+   "src": "orig",
+   "editeLe": 1794059808828
+  },
+  "insectes_fourmi-legionnaire": {
+   "cx": 0.4844,
+   "cy": 0.5115,
+   "w": 0.6588,
+   "src": "orig",
+   "editeLe": 1794059812146
   }
  }
 }

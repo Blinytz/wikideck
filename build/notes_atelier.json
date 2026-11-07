@@ -84863,6 +84863,27 @@
    "w": 0.57,
    "src": "orig",
    "editeLe": 1794063684631
+  },
+  "races-de-cheval_trotteur-francais": {
+   "cx": 0.5394,
+   "cy": 0.4547,
+   "w": 0.6558,
+   "src": "orig",
+   "editeLe": 1794063687037
+  },
+  "races-de-cheval_standardbred": {
+   "cx": 0.4884,
+   "cy": 0.4548,
+   "w": 0.6565,
+   "src": "orig",
+   "editeLe": 1794063690449
+  },
+  "races-de-cheval_barbe-cheval": {
+   "cx": 0.467,
+   "cy": 0.4998,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1794063693201
   }
  }
 }

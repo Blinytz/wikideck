@@ -83477,6 +83477,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062828358
+  },
+  "races-de-chien_terre-neuve-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794062831002
+  },
+  "races-de-chien_husky-de-siberie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062832979
+  },
+  "races-de-chien_malamute-de-l-alaska": {
+   "cx": 0.4163,
+   "cy": 0.4887,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062836402
   }
  }
 }

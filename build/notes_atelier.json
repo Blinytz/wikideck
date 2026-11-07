@@ -79508,6 +79508,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058264717
+  },
+  "noeuds_n-ud-en-huit": {
+   "cx": 0.4866,
+   "cy": 0.5293,
+   "w": 0.6118,
+   "src": "full",
+   "editeLe": 1794058276730
+  },
+  "noeuds_n-ud-en-huit-en-double": {
+   "cx": 0.472,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058280441
   }
  }
 }

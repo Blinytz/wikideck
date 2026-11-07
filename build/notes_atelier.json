@@ -83785,6 +83785,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794063145864
+  },
+  "races-de-chien_cane-corso": {
+   "cx": 0.4787,
+   "cy": 0.5124,
+   "w": 0.5434,
+   "src": "orig",
+   "editeLe": 1794063147627
+  },
+  "races-de-chien_dogue-de-bordeaux": {
+   "cx": 0.5308,
+   "cy": 0.5221,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794063149380
   }
  }
 }

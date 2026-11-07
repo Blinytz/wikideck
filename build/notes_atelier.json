@@ -94334,6 +94334,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068682386
+  },
+  "auteurs-classiques_matsuo-basho": {
+   "cx": 0.5099,
+   "cy": 0.4248,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794068685005
+  },
+  "auteurs-classiques_pierre-corneille": {
+   "cx": 0.4926,
+   "cy": 0.4789,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068687595
+  },
+  "auteurs-classiques_jean-de-la-fontaine": {
+   "cx": 0.4926,
+   "cy": 0.4291,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068689700
   }
  }
 }

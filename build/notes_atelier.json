@@ -83722,6 +83722,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063098033
+  },
+  "races-de-chien_berger-blanc-suisse": {
+   "cx": 0.534,
+   "cy": 0.4944,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063100704
+  },
+  "races-de-chien_bouvier-bernois": {
+   "cx": 0.5439,
+   "cy": 0.5002,
+   "w": 0.5673,
+   "src": "orig",
+   "editeLe": 1794063103425
+  },
+  "races-de-chien_bouvier-des-flandres": {
+   "cx": 0.5877,
+   "cy": 0.4147,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063106614
   }
  }
 }

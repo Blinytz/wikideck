@@ -97155,6 +97155,41 @@
    "w": 0.6204,
    "src": "orig",
    "editeLe": 1794070105689
+  },
+  "personnages-litterature_heidi-roman": {
+   "cx": 0.5,
+   "cy": 0.6,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070108654
+  },
+  "personnages-litterature_fifi-brindacier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.769,
+   "src": "orig",
+   "editeLe": 1794070110558
+  },
+  "personnages-litterature_mowgli": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6047,
+   "src": "orig",
+   "editeLe": 1794070112821
+  },
+  "personnages-litterature_winnie-l-ourson": {
+   "cx": 0.7133,
+   "cy": 0.6516,
+   "w": 0.3435,
+   "src": "orig",
+   "editeLe": 1794070115086
+  },
+  "personnages-litterature_babar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070116964
   }
  }
 }

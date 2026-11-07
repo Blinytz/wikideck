@@ -95678,6 +95678,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069284589
+  },
+  "auteurs-modernes_e-m-forster": {
+   "cx": 0.4706,
+   "cy": 0.4292,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794069286805
+  },
+  "auteurs-modernes_fernando-pessoa": {
+   "cx": 0.4123,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069289858
+  },
+  "auteurs-modernes_jose-saramago": {
+   "cx": 0.5015,
+   "cy": 0.5002,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794069292706
   }
  }
 }

@@ -87621,6 +87621,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064972682
+  },
+  "grands-peintres_jean-francois-millet": {
+   "cx": 0.4993,
+   "cy": 0.3797,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064975795
+  },
+  "grands-peintres_alfred-sisley": {
+   "cx": 0.4926,
+   "cy": 0.4711,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064979955
+  },
+  "grands-peintres_gustave-caillebotte": {
+   "cx": 0.4926,
+   "cy": 0.363,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064982200
   }
  }
 }

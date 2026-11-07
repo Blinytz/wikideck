@@ -92024,6 +92024,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794067613474
+  },
+  "oeuvres-musicales_sonates-pour-clavier-de-domenico-scarlatti": {
+   "cx": 0.4836,
+   "cy": 0.5,
+   "w": 0.7125,
+   "src": "orig",
+   "editeLe": 1794067614743
+  },
+  "oeuvres-musicales_orphee-et-eurydice-gluck": {
+   "cx": 0.5794,
+   "cy": 0.4998,
+   "w": 0.6752,
+   "src": "orig",
+   "editeLe": 1794067619114
+  },
+  "oeuvres-musicales_requiem-faure": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067621074
+  },
+  "oeuvres-musicales_symphonie-en-re-mineur-de-franck": {
+   "cx": 0.4566,
+   "cy": 0.4278,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067623002
   }
  }
 }

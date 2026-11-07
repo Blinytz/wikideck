@@ -85108,6 +85108,41 @@
    "w": 0.723,
    "src": "orig",
    "editeLe": 1794063845980
+  },
+  "arbres_platane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1794063850298
+  },
+  "arbres_cypres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063852328
+  },
+  "arbres_if-commun": {
+   "cx": 0.5,
+   "cy": 0.4689,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063854298
+  },
+  "arbres_epicea-commun": {
+   "cx": 0.5868,
+   "cy": 0.4512,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794063856305
+  },
+  "arbres_meleze": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063858325
   }
  }
 }

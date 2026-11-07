@@ -92629,10 +92629,31 @@
   },
   "musique-populaire_nirvana-groupe": {
    "cx": 0.5,
-   "cy": 0.4944,
+   "cy": 0.5,
+   "w": 0.7705,
+   "src": "orig",
+   "editeLe": 1794067870209
+  },
+  "musique-populaire_radiohead": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6895,
+   "src": "orig",
+   "editeLe": 1794067872347
+  },
+  "musique-populaire_u2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7182,
+   "src": "orig",
+   "editeLe": 1794067874787
+  },
+  "musique-populaire_prince-musicien": {
+   "cx": 0.5,
+   "cy": 0.3412,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794067833773
+   "editeLe": 1794067876601
   }
  }
 }

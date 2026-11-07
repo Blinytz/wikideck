@@ -80985,6 +80985,20 @@
    "w": 0.6514,
    "src": "orig",
    "editeLe": 1794059195126
+  },
+  "oiseaux_huppe-fasciee": {
+   "cx": 0.5929,
+   "cy": 0.4334,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059198977
+  },
+  "oiseaux_strigops-kakapo": {
+   "cx": 0.6668,
+   "cy": 0.4759,
+   "w": 0.5967,
+   "src": "orig",
+   "editeLe": 1794059201783
   }
  }
 }

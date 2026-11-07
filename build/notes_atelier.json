@@ -83428,6 +83428,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062769492
+  },
+  "races-de-chien_bulldog-anglais": {
+   "cx": 0.5581,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794062813371
+  },
+  "races-de-chien_bouledogue": {
+   "cx": 0.4934,
+   "cy": 0.4998,
+   "w": 0.681,
+   "src": "orig",
+   "editeLe": 1794062816335
+  },
+  "races-de-chien_boxer-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062818670
   }
  }
 }

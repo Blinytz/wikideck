@@ -97092,6 +97092,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070087356
+  },
+  "personnages-litterature_cosette": {
+   "cx": 0.5,
+   "cy": 0.55,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070089141
+  },
+  "personnages-litterature_gavroche": {
+   "cx": 0.4197,
+   "cy": 0.5,
+   "w": 0.6834,
+   "src": "orig",
+   "editeLe": 1794070090753
+  },
+  "personnages-litterature_la-esmeralda-personnage": {
+   "cx": 0.5,
+   "cy": 0.35,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070092377
+  },
+  "personnages-litterature_porthos": {
+   "cx": 0.5,
+   "cy": 0.5855,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070093767
+  },
+  "personnages-litterature_aramis": {
+   "cx": 0.5,
+   "cy": 0.4063,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070095239
+  },
+  "personnages-litterature_milady-de-winter": {
+   "cx": 0.4895,
+   "cy": 0.5,
+   "w": 0.6087,
+   "src": "orig",
+   "editeLe": 1794070097331
   }
  }
 }

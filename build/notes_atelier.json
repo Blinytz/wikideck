@@ -94236,6 +94236,27 @@
    "w": 0.6098,
    "src": "orig",
    "editeLe": 1794068636286
+  },
+  "auteurs-classiques_herodote": {
+   "cx": 0.4659,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068639360
+  },
+  "auteurs-classiques_thucydide": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.5682,
+   "src": "orig",
+   "editeLe": 1794068642366
+  },
+  "auteurs-classiques_ciceron": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068645174
   }
  }
 }

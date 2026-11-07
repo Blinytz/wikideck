@@ -77100,6 +77100,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794054810296
+  },
+  "conquete-spatiale_voyager-2": {
+   "cx": 0.5018,
+   "cy": 0.4998,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794054819327
+  },
+  "conquete-spatiale_pioneer-10": {
+   "cx": 0.5259,
+   "cy": 0.4998,
+   "w": 0.6867,
+   "src": "orig",
+   "editeLe": 1794054822636
   }
  }
 }

@@ -81937,6 +81937,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059678855
+  },
+  "poissons-et-vie-marine_anemone-de-mer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059681013
+  },
+  "poissons-et-vie-marine_faviidae": {
+   "cx": 0.4602,
+   "cy": 0.4932,
+   "w": 0.6723,
+   "src": "orig",
+   "editeLe": 1794059683111
+  },
+  "poissons-et-vie-marine_macrocheira-kaempferi": {
+   "cx": 0.487,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059686057
   }
  }
 }

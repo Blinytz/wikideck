@@ -93811,18 +93811,18 @@
    "editeLe": 1794068457083
   },
   "auteurs-classiques_michel-de-montaigne": {
-   "cx": 0.5,
-   "cy": 0.4012,
-   "w": 0.8143,
-   "src": "orig",
-   "editeLe": 1794068426041
-  },
-  "auteurs-classiques_william-shakespeare": {
-   "cx": 0.4926,
-   "cy": 0.4202,
+   "cx": 0.4927,
+   "cy": 0.3686,
    "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794068429370
+   "editeLe": 1794068459868
+  },
+  "auteurs-classiques_william-shakespeare": {
+   "cx": 0.5074,
+   "cy": 0.4696,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068463632
   }
  }
 }

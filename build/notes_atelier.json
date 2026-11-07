@@ -82126,6 +82126,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794059777902
+  },
+  "poissons-et-vie-marine_petromyzon-marinus": {
+   "cx": 0.4566,
+   "cy": 0.4998,
+   "w": 0.69,
+   "src": "orig",
+   "editeLe": 1794059780796
+  },
+  "poissons-et-vie-marine_huitre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059782771
+  },
+  "poissons-et-vie-marine_coquille-saint-jacques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059784834
+  },
+  "poissons-et-vie-marine_tridacne-geant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059786821
   }
  }
 }

@@ -96399,6 +96399,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069755091
+  },
+  "oeuvres-litteraires_les-hauts-de-hurlevent": {
+   "cx": 0.5,
+   "cy": 0.5586,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069756978
+  },
+  "oeuvres-litteraires_moby-dick": {
+   "cx": 0.5,
+   "cy": 0.7086,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069758661
+  },
+  "oeuvres-litteraires_les-aventures-d-alice-au-pays-des-merveilles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069760284
+  },
+  "oeuvres-litteraires_l-ile-au-tresor": {
+   "cx": 0.5,
+   "cy": 0.6106,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069762263
+  },
+  "oeuvres-litteraires_guerre-et-paix": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069763976
   }
  }
 }

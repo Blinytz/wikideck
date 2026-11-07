@@ -91765,6 +91765,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794067519798
+  },
+  "oeuvres-musicales_le-lac-des-cygnes": {
+   "cx": 0.4442,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794067521633
+  },
+  "oeuvres-musicales_la-belle-au-bois-dormant-ballet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067523769
+  },
+  "oeuvres-musicales_messiah": {
+   "cx": 0.5,
+   "cy": 0.6161,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067526098
+  },
+  "oeuvres-musicales_water-music": {
+   "cx": 0.4091,
+   "cy": 0.3343,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067528436
   }
  }
 }

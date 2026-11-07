@@ -79970,6 +79970,27 @@
    "w": 0.6783,
    "src": "orig",
    "editeLe": 1794058608381
+  },
+  "mammiferes_bonobo": {
+   "cx": 0.4454,
+   "cy": 0.3406,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058612520
+  },
+  "mammiferes_orang-outan": {
+   "cx": 0.5107,
+   "cy": 0.5018,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058615257
+  },
+  "mammiferes_hylobatidae": {
+   "cx": 0.528,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058617825
   }
  }
 }

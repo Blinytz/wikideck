@@ -77037,6 +77037,20 @@
    "w": 0.736,
    "src": "orig",
    "editeLe": 1794054776855
+  },
+  "conquete-spatiale_saturn-v": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054780812
+  },
+  "conquete-spatiale_navette-spatiale-americaine": {
+   "cx": 0.5,
+   "cy": 0.3942,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054785753
   }
  }
 }

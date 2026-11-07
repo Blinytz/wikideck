@@ -85073,6 +85073,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063800285
+  },
+  "arbres_saule-pleureur": {
+   "cx": 0.55,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794063818784
+  },
+  "arbres_peuplier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8052,
+   "src": "orig",
+   "editeLe": 1794063820988
+  },
+  "arbres_frene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1794063823988
   }
  }
 }

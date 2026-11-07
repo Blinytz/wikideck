@@ -95874,6 +95874,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069380564
+  },
+  "auteurs-modernes_robert-a-heinlein": {
+   "cx": 0.5021,
+   "cy": 0.4577,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069384332
+  },
+  "auteurs-modernes_ian-fleming": {
+   "cx": 0.4926,
+   "cy": 0.3782,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069386741
+  },
+  "auteurs-modernes_john-le-carre": {
+   "cx": 0.4926,
+   "cy": 0.3121,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069389009
   }
  }
 }

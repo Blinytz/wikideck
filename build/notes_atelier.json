@@ -93494,6 +93494,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794068165098
+  },
+  "instruments-de-musique_theremine": {
+   "cx": 0.5148,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794068167702
+  },
+  "instruments-de-musique_synthetiseur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6704,
+   "src": "orig",
+   "editeLe": 1794068169613
+  },
+  "instruments-de-musique_orgue-de-barbarie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7136,
+   "src": "orig",
+   "editeLe": 1794068171364
+  },
+  "instruments-de-musique_kora": {
+   "cx": 0.334,
+   "cy": 0.6009,
+   "w": 0.5439,
+   "src": "orig",
+   "editeLe": 1794068174711
   }
  }
 }

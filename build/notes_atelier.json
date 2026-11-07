@@ -90288,6 +90288,41 @@
    "w": 0.6447,
    "src": "orig",
    "editeLe": 1794066977795
+  },
+  "styles-architecturaux_architecture-neo-classique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7744,
+   "src": "orig",
+   "editeLe": 1794066979829
+  },
+  "styles-architecturaux_style-neogothique": {
+   "cx": 0.5047,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066982471
+  },
+  "styles-architecturaux_style-beaux-arts": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7159,
+   "src": "orig",
+   "editeLe": 1794066984391
+  },
+  "styles-architecturaux_architecture-victorienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066986424
+  },
+  "styles-architecturaux_art-nouveau": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066988484
   }
  }
 }

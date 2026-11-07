@@ -79228,6 +79228,20 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794057970685
+  },
+  "vehicules-celebres_tgv": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7172,
+   "src": "orig",
+   "editeLe": 1794057972923
+  },
+  "vehicules-celebres_ford-t": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794057974841
   }
  }
 }

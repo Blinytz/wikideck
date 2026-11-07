@@ -84961,6 +84961,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063750212
+  },
+  "races-de-cheval_hackney-cheval": {
+   "cx": 0.5349,
+   "cy": 0.5002,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794063752505
+  },
+  "races-de-cheval_islandais-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063754598
+  },
+  "races-de-cheval_mongol-cheval": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794063756653
+  },
+  "races-de-cheval_brumby": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063758593
   }
  }
 }

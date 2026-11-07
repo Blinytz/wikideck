@@ -86403,6 +86403,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064407065
+  },
+  "plantes-cultivees_sorgo-commun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064409242
+  },
+  "plantes-cultivees_quinoa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064411665
+  },
+  "plantes-cultivees_patate-douce": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064413914
+  },
+  "plantes-cultivees_igname": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794064416026
   }
  }
 }

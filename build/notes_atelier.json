@@ -94593,6 +94593,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068792847
+  },
+  "auteurs-classiques_pierre-de-ronsard": {
+   "cx": 0.4926,
+   "cy": 0.4586,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068796416
+  },
+  "auteurs-classiques_francois-de-la-rochefoucauld": {
+   "cx": 0.4926,
+   "cy": 0.4053,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068799238
+  },
+  "auteurs-classiques_madame-de-sevigne": {
+   "cx": 0.4926,
+   "cy": 0.3185,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068801411
   }
  }
 }

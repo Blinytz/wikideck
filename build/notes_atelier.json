@@ -84534,6 +84534,27 @@
    "w": 0.721,
    "src": "orig",
    "editeLe": 1794063526519
+  },
+  "races-de-chat_american-curl": {
+   "cx": 0.5557,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063528873
+  },
+  "races-de-chat_scottish-fold-highland-fold-b": {
+   "cx": 0.5361,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063531185
+  },
+  "races-de-chat_bobtail-japonais": {
+   "cx": 0.5731,
+   "cy": 0.5866,
+   "w": 0.5888,
+   "src": "orig",
+   "editeLe": 1794063533488
   }
  }
 }

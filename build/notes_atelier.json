@@ -83610,6 +83610,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794062928081
+  },
+  "races-de-chien_pekinois-chien": {
+   "cx": 0.4465,
+   "cy": 0.4998,
+   "w": 0.6406,
+   "src": "orig",
+   "editeLe": 1794062931059
+  },
+  "races-de-chien_carlin": {
+   "cx": 0.4595,
+   "cy": 0.5,
+   "w": 0.6031,
+   "src": "orig",
+   "editeLe": 1794062933641
+  },
+  "races-de-chien_teckel": {
+   "cx": 0.424,
+   "cy": 0.4998,
+   "w": 0.7225,
+   "src": "orig",
+   "editeLe": 1794062936543
   }
  }
 }

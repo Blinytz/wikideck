@@ -318,7 +318,7 @@
   {
    "slug": "noeuds",
    "nom": "Nœuds",
-   "nbCartes": 36,
+   "nbCartes": 35,
    "fichier": "data/noeuds.json",
    "theme": "Sciences et techniques"
   },

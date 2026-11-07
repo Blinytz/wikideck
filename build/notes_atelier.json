@@ -79914,6 +79914,27 @@
    "w": 0.6867,
    "src": "orig",
    "editeLe": 1794058586287
+  },
+  "mammiferes_canis-lupus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058588097
+  },
+  "mammiferes_renard-roux": {
+   "cx": 0.4919,
+   "cy": 0.4931,
+   "w": 0.6576,
+   "src": "orig",
+   "editeLe": 1794058589899
+  },
+  "mammiferes_fennec": {
+   "cx": 0.44,
+   "cy": 0.5069,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058593974
   }
  }
 }

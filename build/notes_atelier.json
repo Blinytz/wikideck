@@ -81447,6 +81447,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059442598
+  },
+  "reptiles-et-amphibiens_ouaouaron": {
+   "cx": 0.4747,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059445037
+  },
+  "reptiles-et-amphibiens_crapaud-commun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059447088
+  },
+  "reptiles-et-amphibiens_andrias-japonicus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059449942
   }
  }
 }

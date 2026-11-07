@@ -85663,18 +85663,25 @@
    "editeLe": 1794064132376
   },
   "fleurs_rafflesia": {
-   "cx": 0.5,
+   "cx": 0.4594,
    "cy": 0.7301,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794064133983
+   "editeLe": 1794064146322
   },
   "fleurs_arum": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7238,
    "src": "orig",
-   "editeLe": 1794064136327
+   "editeLe": 1794064147365
+  },
+  "fleurs_gentiane": {
+   "cx": 0.5083,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794064148363
   }
  }
 }

@@ -86662,6 +86662,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064520426
+  },
+  "mineraux-et-pierres_citrine": {
+   "cx": 0.4882,
+   "cy": 0.5027,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794064521955
+  },
+  "mineraux-et-pierres_malachite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064523457
+  },
+  "mineraux-et-pierres_obsidienne": {
+   "cx": 0.424,
+   "cy": 0.5866,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794064526210
+  },
+  "mineraux-et-pierres_pyrite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6101,
+   "src": "orig",
+   "editeLe": 1794064528113
+  },
+  "mineraux-et-pierres_hematite": {
+   "cx": 0.5,
+   "cy": 0.4703,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064529825
   }
  }
 }

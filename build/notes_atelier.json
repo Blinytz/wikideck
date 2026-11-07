@@ -83519,6 +83519,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062845256
+  },
+  "races-de-chien_chow-chow": {
+   "cx": 0.4852,
+   "cy": 0.4645,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794062848389
+  },
+  "races-de-chien_shar-pei": {
+   "cx": 0.4179,
+   "cy": 0.4998,
+   "w": 0.7736,
+   "src": "orig",
+   "editeLe": 1794062852071
+  },
+  "races-de-chien_basset-hound": {
+   "cx": 0.4708,
+   "cy": 0.4998,
+   "w": 0.7256,
+   "src": "orig",
+   "editeLe": 1794062855380
   }
  }
 }

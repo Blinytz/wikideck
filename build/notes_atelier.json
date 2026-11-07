@@ -92710,6 +92710,34 @@
    "w": 0.6514,
    "src": "orig",
    "editeLe": 1794067895524
+  },
+  "musique-populaire_ac-dc": {
+   "cx": 0.549,
+   "cy": 0.5,
+   "w": 0.6904,
+   "src": "orig",
+   "editeLe": 1794067897523
+  },
+  "musique-populaire_metallica": {
+   "cx": 0.4545,
+   "cy": 0.4991,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067899676
+  },
+  "musique-populaire_fela-kuti": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067901762
+  },
+  "musique-populaire_cesaria-evora": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7057,
+   "src": "orig",
+   "editeLe": 1794067903975
   }
  }
 }

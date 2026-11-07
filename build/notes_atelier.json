@@ -82343,6 +82343,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059888730
+  },
+  "insectes_bousier": {
+   "cx": 0.4396,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059891501
+  },
+  "insectes_cetoine-doree": {
+   "cx": 0.6039,
+   "cy": 0.4999,
+   "w": 0.7136,
+   "src": "orig",
+   "editeLe": 1794059894449
+  },
+  "insectes_lucanus-cervus": {
+   "cx": 0.5553,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059896482
+  },
+  "insectes_carabe-dore": {
+   "cx": 0.5149,
+   "cy": 0.5054,
+   "w": 0.6873,
+   "src": "orig",
+   "editeLe": 1794059898265
   }
  }
 }

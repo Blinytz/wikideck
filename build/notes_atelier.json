@@ -79594,18 +79594,18 @@
    "editeLe": 1794058358261
   },
   "noeuds_n-ud-de-papillon-alpin": {
-   "cx": 0.5,
+   "cx": 0.4822,
    "cy": 0.5,
-   "w": 0.8143,
-   "src": "full",
-   "editeLe": 1794058362994
+   "w": 0.8357,
+   "src": "orig",
+   "editeLe": 1794058486196
   },
   "noeuds_n-ud-de-plein-poing": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.4787,
+   "cy": 0.5002,
    "w": 0.8143,
    "src": "full",
-   "editeLe": 1794058364924
+   "editeLe": 1794058488892
   },
   "noeuds_n-ud-coulant": {
    "cx": 0.5,

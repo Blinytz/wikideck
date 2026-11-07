@@ -95762,6 +95762,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069325590
+  },
+  "auteurs-modernes_ismail-kadare": {
+   "cx": 0.6794,
+   "cy": 0.5002,
+   "w": 0.6411,
+   "src": "orig",
+   "editeLe": 1794069330051
+  },
+  "auteurs-modernes_yasunari-kawabata": {
+   "cx": 0.4926,
+   "cy": 0.4295,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069332596
+  },
+  "auteurs-modernes_liu-cixin": {
+   "cx": 0.3395,
+   "cy": 0.4547,
+   "w": 0.6791,
+   "src": "orig",
+   "editeLe": 1794069334877
+  },
+  "auteurs-modernes_han-kang": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069337138
   }
  }
 }

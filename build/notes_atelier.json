@@ -84443,6 +84443,27 @@
    "w": 0.658,
    "src": "orig",
    "editeLe": 1794063466972
+  },
+  "races-de-chat_turc-de-van": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1794063495037
+  },
+  "races-de-chat_siberien-chat": {
+   "cx": 0.3989,
+   "cy": 0.5,
+   "w": 0.5922,
+   "src": "orig",
+   "editeLe": 1794063497007
+  },
+  "races-de-chat_ocicat": {
+   "cx": 0.6247,
+   "cy": 0.4998,
+   "w": 0.7505,
+   "src": "orig",
+   "editeLe": 1794063499607
   }
  }
 }

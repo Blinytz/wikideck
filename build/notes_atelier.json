@@ -94754,6 +94754,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068862046
+  },
+  "auteurs-classiques_giacomo-leopardi": {
+   "cx": 0.4926,
+   "cy": 0.4358,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068865296
+  },
+  "auteurs-classiques_alfred-tennyson": {
+   "cx": 0.5006,
+   "cy": 0.369,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068868347
+  },
+  "auteurs-classiques_harriet-beecher-stowe": {
+   "cx": 0.5164,
+   "cy": 0.45,
+   "w": 0.7402,
+   "src": "orig",
+   "editeLe": 1794068871508
   }
  }
 }

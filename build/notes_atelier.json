@@ -85143,6 +85143,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063858325
+  },
+  "arbres_eucalyptus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063860589
+  },
+  "arbres_phoenix-dactylifera": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063862940
+  },
+  "arbres_cocotier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063865087
+  },
+  "arbres_bambou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5748,
+   "src": "orig",
+   "editeLe": 1794063867420
   }
  }
 }

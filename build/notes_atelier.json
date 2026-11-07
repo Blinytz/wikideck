@@ -93522,6 +93522,34 @@
    "w": 0.5439,
    "src": "orig",
    "editeLe": 1794068174711
+  },
+  "instruments-de-musique_shamisen": {
+   "cx": 0.4623,
+   "cy": 0.4868,
+   "w": 0.5985,
+   "src": "orig",
+   "editeLe": 1794068176531
+  },
+  "instruments-de-musique_erhu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068178231
+  },
+  "instruments-de-musique_bandoneon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.725,
+   "src": "orig",
+   "editeLe": 1794068180014
+  },
+  "instruments-de-musique_ukulele": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068181763
   }
  }
 }

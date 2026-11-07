@@ -85392,9 +85392,30 @@
   "arbres_arganier": {
    "cx": 0.5,
    "cy": 0.5,
+   "w": 0.7253,
+   "src": "orig",
+   "editeLe": 1794064053519
+  },
+  "arbres_karite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794064056024
+  },
+  "arbres_pin-bristlecone": {
+   "cx": 0.5,
+   "cy": 0.5,
    "w": 0.7241,
    "src": "orig",
-   "editeLe": 1794064012753
+   "editeLe": 1794064058458
+  },
+  "arbres_wollemia-nobilis": {
+   "cx": 0.5,
+   "cy": 0.6248,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064060418
   }
  }
 }

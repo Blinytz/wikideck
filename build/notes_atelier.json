@@ -91499,6 +91499,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067404926
+  },
+  "grands-compositeurs_heitor-villa-lobos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067406947
+  },
+  "grands-compositeurs_francis-poulenc": {
+   "cx": 0.4987,
+   "cy": 0.3538,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067409507
+  },
+  "grands-compositeurs_pierre-boulez": {
+   "cx": 0.5,
+   "cy": 0.4143,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067411813
+  },
+  "grands-compositeurs_edgard-varese": {
+   "cx": 0.5052,
+   "cy": 0.5532,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067413956
   }
  }
 }

@@ -95496,6 +95496,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069160080
+  },
+  "auteurs-modernes_alexandre-soljenitsyne": {
+   "cx": 0.4926,
+   "cy": 0.4658,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069162308
+  },
+  "auteurs-modernes_boris-pasternak": {
+   "cx": 0.4926,
+   "cy": 0.293,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069164918
+  },
+  "auteurs-modernes_maxime-gorki": {
+   "cx": 0.4926,
+   "cy": 0.4108,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069167074
+  },
+  "auteurs-modernes_vladimir-maiakovski": {
+   "cx": 0.4926,
+   "cy": 0.4289,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069169078
   }
  }
 }

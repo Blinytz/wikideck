@@ -85479,6 +85479,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064077789
+  },
+  "fleurs_coquelicot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064079566
+  },
+  "fleurs_lavande": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064081447
+  },
+  "fleurs_jasmin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064083443
+  },
+  "fleurs_iris-genre-vegetal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064085478
+  },
+  "fleurs_muguet-de-mai": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064087637
   }
  }
 }

@@ -80908,6 +80908,27 @@
    "w": 0.7424,
    "src": "orig",
    "editeLe": 1794059171206
+  },
+  "oiseaux_hirondelle-rustique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059173150
+  },
+  "oiseaux_martinet-noir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059175394
+  },
+  "oiseaux_rouge-gorge": {
+   "cx": 0.5147,
+   "cy": 0.4693,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059178387
   }
  }
 }

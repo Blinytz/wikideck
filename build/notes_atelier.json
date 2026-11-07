@@ -85955,6 +85955,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064229958
+  },
+  "champignons_russule-charbonniere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064231923
+  },
+  "champignons_lactaire-delicieux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064233833
+  },
+  "champignons_agaricus-campestris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7817,
+   "src": "orig",
+   "editeLe": 1794064235833
+  },
+  "champignons_clitocybe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064237935
+  },
+  "champignons_satyre-puant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794064240199
   }
  }
 }

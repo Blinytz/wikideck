@@ -93438,6 +93438,27 @@
    "w": 0.6204,
    "src": "orig",
    "editeLe": 1794068140084
+  },
+  "instruments-de-musique_timbales-musique-classique": {
+   "cx": 0.5,
+   "cy": 0.3953,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068142279
+  },
+  "instruments-de-musique_xylophone": {
+   "cx": 0.4724,
+   "cy": 0.4726,
+   "w": 0.6578,
+   "src": "orig",
+   "editeLe": 1794068144523
+  },
+  "instruments-de-musique_marimba": {
+   "cx": 0.5179,
+   "cy": 0.4924,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794068146544
   }
  }
 }

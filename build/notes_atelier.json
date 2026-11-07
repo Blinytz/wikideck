@@ -84464,6 +84464,27 @@
    "w": 0.7505,
    "src": "orig",
    "editeLe": 1794063499607
+  },
+  "races-de-chat_american-shorthair": {
+   "cx": 0.515,
+   "cy": 0.5177,
+   "w": 0.6478,
+   "src": "orig",
+   "editeLe": 1794063502591
+  },
+  "races-de-chat_exotic-shorthair": {
+   "cx": 0.4756,
+   "cy": 0.5,
+   "w": 0.7234,
+   "src": "orig",
+   "editeLe": 1794063505253
+  },
+  "races-de-chat_himalayen": {
+   "cx": 0.5328,
+   "cy": 0.5,
+   "w": 0.7609,
+   "src": "orig",
+   "editeLe": 1794063507563
   }
  }
 }

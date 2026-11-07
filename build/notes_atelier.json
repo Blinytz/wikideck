@@ -95447,6 +95447,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069140876
+  },
+  "auteurs-modernes_annie-ernaux": {
+   "cx": 0.3571,
+   "cy": 0.5628,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794069144368
+  },
+  "auteurs-modernes_louis-aragon": {
+   "cx": 0.4926,
+   "cy": 0.3927,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069146703
+  },
+  "auteurs-modernes_paul-eluard": {
+   "cx": 0.4926,
+   "cy": 0.4001,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069149186
+  },
+  "auteurs-modernes_jacques-prevert": {
+   "cx": 0.4926,
+   "cy": 0.3739,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069151276
   }
  }
 }

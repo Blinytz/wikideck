@@ -84093,6 +84093,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063320899
+  },
+  "races-de-chien_chien-loup-de-saarloos": {
+   "cx": 0.5353,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063323361
+  },
+  "races-de-chien_basset-fauve-de-bretagne": {
+   "cx": 0.4176,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063326162
+  },
+  "races-de-chien_basset-bleu-de-gascogne": {
+   "cx": 0.3608,
+   "cy": 0.4998,
+   "w": 0.6528,
+   "src": "orig",
+   "editeLe": 1794063328956
   }
  }
 }

@@ -85416,6 +85416,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064060418
+  },
+  "arbres_agathis-australis": {
+   "cx": 0.625,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064062588
+  },
+  "arbres_pseudotsuga-menziesii": {
+   "cx": 0.5,
+   "cy": 0.5738,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064064788
+  },
+  "fleurs_rose-fleur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064066721
+  },
+  "fleurs_tulipe": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064068866
   }
  }
 }

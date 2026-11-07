@@ -77702,6 +77702,27 @@
    "w": 0.5006,
    "src": "orig",
    "editeLe": 1794055337417
+  },
+  "astronautes-et-cosmonautes_guennadi-padalka": {
+   "cx": 0.4933,
+   "cy": 0.3482,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055340087
+  },
+  "astronautes-et-cosmonautes_serguei-krikaliov": {
+   "cx": 0.504,
+   "cy": 0.3019,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055342691
+  },
+  "astronautes-et-cosmonautes_valeri-poliakov": {
+   "cx": 0.5,
+   "cy": 0.327,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055345679
   }
  }
 }

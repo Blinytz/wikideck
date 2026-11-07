@@ -83029,6 +83029,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062499048
+  },
+  "creatures-prehistoriques_pterodactyle": {
+   "cx": 0.4499,
+   "cy": 0.5002,
+   "w": 0.6116,
+   "src": "orig",
+   "editeLe": 1794062503714
+  },
+  "creatures-prehistoriques_pteranodon": {
+   "cx": 0.4882,
+   "cy": 0.4537,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062506158
+  },
+  "creatures-prehistoriques_quetzalcoatlus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5921,
+   "src": "orig",
+   "editeLe": 1794062508192
   }
  }
 }

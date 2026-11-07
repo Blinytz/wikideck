@@ -86802,6 +86802,48 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794064552365
+  },
+  "mineraux-et-pierres_grenat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064554565
+  },
+  "mineraux-et-pierres_tourmaline": {
+   "cx": 0.4167,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794064556104
+  },
+  "mineraux-et-pierres_peridot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794064557701
+  },
+  "mineraux-et-pierres_aigue-marine": {
+   "cx": 0.5656,
+   "cy": 0.5399,
+   "w": 0.4895,
+   "src": "orig",
+   "editeLe": 1794064559204
+  },
+  "mineraux-et-pierres_onyx-mineral": {
+   "cx": 0.4905,
+   "cy": 0.5206,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794064560600
+  },
+  "mineraux-et-pierres_agate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064562041
   }
  }
 }

@@ -92927,6 +92927,27 @@
    "w": 0.4538,
    "src": "orig",
    "editeLe": 1794067974848
+  },
+  "musique-populaire_kraftwerk": {
+   "cx": 0.5929,
+   "cy": 0.4439,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067978532
+  },
+  "musique-populaire_black-sabbath": {
+   "cx": 0.4982,
+   "cy": 0.5,
+   "w": 0.7481,
+   "src": "orig",
+   "editeLe": 1794067980381
+  },
+  "musique-populaire_iron-maiden": {
+   "cx": 0.5467,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067984183
   }
  }
 }

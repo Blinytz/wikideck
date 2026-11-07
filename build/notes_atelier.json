@@ -79662,6 +79662,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058393645
+  },
+  "noeuds_n-ud-d-elingue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058395636
+  },
+  "noeuds_n-ud-de-ride": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058397739
   }
  }
 }

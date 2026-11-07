@@ -94110,6 +94110,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068583711
+  },
+  "auteurs-classiques_emily-dickinson": {
+   "cx": 0.4926,
+   "cy": 0.3726,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068585873
+  },
+  "auteurs-classiques_walt-whitman": {
+   "cx": 0.4974,
+   "cy": 0.49,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068588521
+  },
+  "auteurs-classiques_charles-baudelaire": {
+   "cx": 0.4926,
+   "cy": 0.4255,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068590587
   }
  }
 }

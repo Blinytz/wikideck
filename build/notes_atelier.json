@@ -87810,6 +87810,27 @@
    "w": 0.7654,
    "src": "orig",
    "editeLe": 1794065057877
+  },
+  "grands-peintres_willem-de-kooning": {
+   "cx": 0.4926,
+   "cy": 0.3987,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065060528
+  },
+  "grands-peintres_jean-dubuffet": {
+   "cx": 0.5074,
+   "cy": 0.4399,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065063890
+  },
+  "grands-peintres_gerhard-richter": {
+   "cx": 0.3928,
+   "cy": 0.5002,
+   "w": 0.6092,
+   "src": "orig",
+   "editeLe": 1794065067440
   }
  }
 }

@@ -97554,6 +97554,27 @@
    "w": 0.7329,
    "src": "orig",
    "editeLe": 1794070268470
+  },
+  "mouvements-litteraires_preromantisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070271898
+  },
+  "mouvements-litteraires_les-hussards-mouvement-litteraire": {
+   "cx": 0.5,
+   "cy": 0.5399,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070274102
+  },
+  "mouvements-litteraires_litterature-courtoise": {
+   "cx": 0.5108,
+   "cy": 0.4718,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794070276523
   }
  }
 }

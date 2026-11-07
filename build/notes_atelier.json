@@ -89945,6 +89945,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066847942
+  },
+  "architectes_hector-guimard": {
+   "cx": 0.5236,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066849842
+  },
+  "architectes_auguste-perret": {
+   "cx": 0.5013,
+   "cy": 0.2911,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066852242
+  },
+  "architectes_kenzo-tange": {
+   "cx": 0.5,
+   "cy": 0.323,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066853985
   }
  }
 }

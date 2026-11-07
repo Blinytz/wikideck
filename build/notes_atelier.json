@@ -83666,6 +83666,20 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1794062986596
+  },
+  "races-de-chien_braque-allemand-a-poil-court": {
+   "cx": 0.3604,
+   "cy": 0.4998,
+   "w": 0.7209,
+   "src": "orig",
+   "editeLe": 1794062991740
+  },
+  "races-de-chien_epagneul-breton": {
+   "cx": 0.483,
+   "cy": 0.4961,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794062994431
   }
  }
 }

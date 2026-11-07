@@ -87341,6 +87341,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064832640
+  },
+  "grands-peintres_georgia-o-keeffe": {
+   "cx": 0.4974,
+   "cy": 0.4287,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064835340
+  },
+  "grands-peintres_edward-hopper": {
+   "cx": 0.5123,
+   "cy": 0.4283,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794064838369
+  },
+  "grands-peintres_jackson-pollock": {
+   "cx": 0.4926,
+   "cy": 0.4309,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064840650
   }
  }
 }

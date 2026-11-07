@@ -89147,6 +89147,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066512952
+  },
+  "tableaux-celebres_anthropometrie-de-l-epoque-bleue": {
+   "cx": 0.3891,
+   "cy": 0.5,
+   "w": 0.6,
+   "src": "orig",
+   "editeLe": 1794066515414
+  },
+  "tableaux-celebres_the-lady-of-shalott-waterhouse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066517482
+  },
+  "tableaux-celebres_l-enfant-bleu-gainsborough": {
+   "cx": 0.5,
+   "cy": 0.3421,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066519298
+  },
+  "tableaux-celebres_vertumne-arcimboldo": {
+   "cx": 0.5,
+   "cy": 0.3047,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066521286
+  },
+  "tableaux-celebres_vue-du-grand-canal-canaletto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6803,
+   "src": "orig",
+   "editeLe": 1794066523212
+  },
+  "tableaux-celebres_la-bataille-de-san-romano": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6099,
+   "src": "orig",
+   "editeLe": 1794066525176
   }
  }
 }

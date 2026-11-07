@@ -85815,6 +85815,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064186585
+  },
+  "fleurs_arum-titan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064188200
+  },
+  "fleurs_dionee-attrape-mouche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064189879
+  },
+  "champignons_amanite-tue-mouches": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064191445
+  },
+  "champignons_amanite-phalloide": {
+   "cx": 0.5,
+   "cy": 0.4608,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064193054
+  },
+  "champignons_boletus-edulis": {
+   "cx": 0.5,
+   "cy": 0.4493,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064194781
+  },
+  "champignons_truffe-champignon": {
+   "cx": 0.5062,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064196579
+  },
+  "champignons_morchella": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7588,
+   "src": "orig",
+   "editeLe": 1794064198016
   }
  }
 }

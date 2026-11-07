@@ -79368,6 +79368,20 @@
    "w": 0.6415,
    "src": "orig",
    "editeLe": 1794058047367
+  },
+  "vehicules-celebres_flying-scotsman": {
+   "cx": 0.5504,
+   "cy": 0.5002,
+   "w": 0.652,
+   "src": "orig",
+   "editeLe": 1794058050940
+  },
+  "vehicules-celebres_big-boy-locomotive": {
+   "cx": 0.4969,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794058053945
   }
  }
 }

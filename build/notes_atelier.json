@@ -82259,6 +82259,20 @@
    "w": 0.543,
    "src": "orig",
    "editeLe": 1794059820352
+  },
+  "insectes_machaon-papillon": {
+   "cx": 0.5249,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059825095
+  },
+  "insectes_pieride-du-chou": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059827333
   }
  }
 }

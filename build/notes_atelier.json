@@ -82595,6 +82595,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794060002990
+  },
+  "dinosaures-celebres_tyrannosaurus": {
+   "cx": 0.5353,
+   "cy": 0.4973,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062243589
+  },
+  "dinosaures-celebres_velociraptor": {
+   "cx": 0.5013,
+   "cy": 0.4687,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062247126
   }
  }
 }

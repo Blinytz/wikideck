@@ -79333,6 +79333,20 @@
    "w": 0.7121,
    "src": "orig",
    "editeLe": 1794058025106
+  },
+  "vehicules-celebres_lockheed-sr-71-blackbird": {
+   "cx": 0.5161,
+   "cy": 0.5002,
+   "w": 0.7573,
+   "src": "orig",
+   "editeLe": 1794058028540
+  },
+  "vehicules-celebres_air-force-one": {
+   "cx": 0.5173,
+   "cy": 0.505,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058032476
   }
  }
 }

@@ -83855,6 +83855,27 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794063172297
+  },
+  "races-de-chien_shih-tzu": {
+   "cx": 0.4666,
+   "cy": 0.5,
+   "w": 0.622,
+   "src": "orig",
+   "editeLe": 1794063174244
+  },
+  "races-de-chien_terrier-de-boston": {
+   "cx": 0.5824,
+   "cy": 0.4344,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063177592
+  },
+  "races-de-chien_griffon-bruxellois": {
+   "cx": 0.468,
+   "cy": 0.4602,
+   "w": 0.4995,
+   "src": "orig",
+   "editeLe": 1794063180281
   }
  }
 }

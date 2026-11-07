@@ -78528,6 +78528,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794057652611
+  },
+  "aviateurs-celebres_marcel-dassault": {
+   "cx": 0.5,
+   "cy": 0.3476,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057655191
+  },
+  "aviateurs-celebres_anthony-fokker": {
+   "cx": 0.5013,
+   "cy": 0.2763,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057657529
+  },
+  "aviateurs-celebres_hugo-junkers": {
+   "cx": 0.5026,
+   "cy": 0.4239,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794057659526
+  },
+  "aviateurs-celebres_andrei-tupolev": {
+   "cx": 0.5013,
+   "cy": 0.4966,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057661517
+  },
+  "aviateurs-celebres_serguei-iliouchine": {
+   "cx": 0.5027,
+   "cy": 0.3457,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057663465
   }
  }
 }

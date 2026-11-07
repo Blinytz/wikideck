@@ -96259,6 +96259,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069708633
+  },
+  "oeuvres-litteraires_fables-de-la-fontaine": {
+   "cx": 0.4254,
+   "cy": 0.5451,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069711827
+  },
+  "oeuvres-litteraires_le-cid-corneille": {
+   "cx": 0.5,
+   "cy": 0.5374,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069714183
+  },
+  "oeuvres-litteraires_phedre-racine": {
+   "cx": 0.5,
+   "cy": 0.501,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069716195
+  },
+  "oeuvres-litteraires_candide": {
+   "cx": 0.5,
+   "cy": 0.7144,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069718490
   }
  }
 }

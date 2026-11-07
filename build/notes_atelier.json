@@ -83771,6 +83771,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794063116781
+  },
+  "races-de-chien_american-staffordshire-terrier": {
+   "cx": 0.4931,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "orig",
+   "editeLe": 1794063143970
+  },
+  "races-de-chien_american-pit-bull-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063145864
   }
  }
 }

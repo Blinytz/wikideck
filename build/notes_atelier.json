@@ -86466,6 +86466,27 @@
    "w": 0.7253,
    "src": "orig",
    "editeLe": 1794064430573
+  },
+  "plantes-cultivees_curcuma": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7224,
+   "src": "orig",
+   "editeLe": 1794064436582
+  },
+  "plantes-cultivees_clou-de-girofle": {
+   "cx": 0.5,
+   "cy": 0.5531,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064438474
+  },
+  "plantes-cultivees_noix-de-muscade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794064440152
   }
  }
 }

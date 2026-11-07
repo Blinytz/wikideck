@@ -85528,6 +85528,27 @@
    "w": 0.7305,
    "src": "orig",
    "editeLe": 1794064091549
+  },
+  "fleurs_chrysantheme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8061,
+   "src": "orig",
+   "editeLe": 1794064100774
+  },
+  "fleurs_dahlia": {
+   "cx": 0.5,
+   "cy": 0.4074,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064102545
+  },
+  "fleurs_hydrangea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7206,
+   "src": "orig",
+   "editeLe": 1794064104237
   }
  }
 }

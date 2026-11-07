@@ -85360,6 +85360,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064003317
+  },
+  "arbres_flamboyant-bleu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064005353
+  },
+  "arbres_flamboyant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794064007304
+  },
+  "arbres_paletuvier": {
+   "cx": 0.5155,
+   "cy": 0.3988,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064009107
+  },
+  "arbres_fromager-arbre": {
+   "cx": 0.4945,
+   "cy": 0.4547,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064011064
+  },
+  "arbres_arganier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064012753
   }
  }
 }

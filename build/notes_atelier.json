@@ -79242,6 +79242,27 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1794057974841
+  },
+  "vehicules-celebres_volkswagen-coccinelle": {
+   "cx": 0.5779,
+   "cy": 0.6004,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794057979042
+  },
+  "vehicules-celebres_citroen-2-cv": {
+   "cx": 0.5602,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794057981813
+  },
+  "vehicules-celebres_delorean-dmc-12": {
+   "cx": 0.4372,
+   "cy": 0.5003,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794057985754
   }
  }
 }

@@ -84415,6 +84415,34 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794063458900
+  },
+  "races-de-chat_burmese": {
+   "cx": 0.5668,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063460701
+  },
+  "races-de-chat_tonkinois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063462762
+  },
+  "races-de-chat_mau-egyptien": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063464864
+  },
+  "races-de-chat_angora-turc": {
+   "cx": 0.404,
+   "cy": 0.5453,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794063466972
   }
  }
 }

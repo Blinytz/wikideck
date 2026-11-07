@@ -85311,6 +85311,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063927768
+  },
+  "arbres_juniperus-communis": {
+   "cx": 0.4804,
+   "cy": 0.516,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063931479
+  },
+  "arbres_amandier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7851,
+   "src": "orig",
+   "editeLe": 1794063933227
+  },
+  "arbres_acajou-des-antilles": {
+   "cx": 0.5,
+   "cy": 0.5091,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063935409
+  },
+  "arbres_ebene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794063936602
   }
  }
 }

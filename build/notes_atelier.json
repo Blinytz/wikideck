@@ -80824,6 +80824,34 @@
    "w": 0.4589,
    "src": "orig",
    "editeLe": 1794059137769
+  },
+  "oiseaux_martin-pecheur-d-europe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059139678
+  },
+  "oiseaux_pelican-blanc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059141356
+  },
+  "oiseaux_albatros-hurleur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059142892
+  },
+  "oiseaux_fregate-superbe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7396,
+   "src": "orig",
+   "editeLe": 1794059145045
   }
  }
 }

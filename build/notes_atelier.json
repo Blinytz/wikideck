@@ -91226,6 +91226,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067308334
+  },
+  "grands-compositeurs_jacques-offenbach": {
+   "cx": 0.5013,
+   "cy": 0.3196,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067310501
+  },
+  "grands-compositeurs_anton-bruckner": {
+   "cx": 0.5,
+   "cy": 0.3532,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067312395
+  },
+  "grands-compositeurs_felix-mendelssohn": {
+   "cx": 0.5,
+   "cy": 0.3511,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067314376
+  },
+  "grands-compositeurs_carl-orff": {
+   "cx": 0.5614,
+   "cy": 0.4998,
+   "w": 0.7143,
+   "src": "orig",
+   "editeLe": 1794067316359
   }
  }
 }

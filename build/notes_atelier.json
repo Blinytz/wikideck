@@ -85934,6 +85934,27 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794064219284
+  },
+  "champignons_polypore-soufre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064225484
+  },
+  "champignons_chanterelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064227383
+  },
+  "champignons_trompette-de-la-mort": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064229958
   }
  }
 }

@@ -77835,6 +77835,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1794055440278
+  },
+  "astronautes-et-cosmonautes_thomas-reiter": {
+   "cx": 0.5,
+   "cy": 0.4036,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055443750
+  },
+  "astronautes-et-cosmonautes_yang-liwei": {
+   "cx": 0.4986,
+   "cy": 0.3752,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794055446207
+  },
+  "astronautes-et-cosmonautes_rakesh-sharma": {
+   "cx": 0.4586,
+   "cy": 0.3098,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794055449457
   }
  }
 }

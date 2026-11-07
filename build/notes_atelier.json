@@ -93319,6 +93319,27 @@
    "w": 0.7253,
    "src": "orig",
    "editeLe": 1794068083586
+  },
+  "instruments-de-musique_koto": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5794,
+   "src": "orig",
+   "editeLe": 1794068085378
+  },
+  "instruments-de-musique_flute-traversiere": {
+   "cx": 0.5528,
+   "cy": 0.5,
+   "w": 0.7243,
+   "src": "orig",
+   "editeLe": 1794068087660
+  },
+  "instruments-de-musique_clarinette": {
+   "cx": 0.4792,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068089592
   }
  }
 }

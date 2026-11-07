@@ -82532,6 +82532,34 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794059980640
+  },
+  "insectes_ephemeroptera": {
+   "cx": 0.4373,
+   "cy": 0.4803,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794059983897
+  },
+  "insectes_drosophile": {
+   "cx": 0.4787,
+   "cy": 0.4831,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059986545
+  },
+  "insectes_dynaste-hercule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059988338
+  },
+  "insectes_fourmi-coupe-feuille": {
+   "cx": 0.5438,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059991363
   }
  }
 }

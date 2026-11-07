@@ -87600,6 +87600,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064964928
+  },
+  "grands-peintres_theodore-gericault": {
+   "cx": 0.4979,
+   "cy": 0.4186,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064967548
+  },
+  "grands-peintres_jean-auguste-dominique-ingres": {
+   "cx": 0.4962,
+   "cy": 0.3416,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064969916
+  },
+  "grands-peintres_camille-corot": {
+   "cx": 0.4926,
+   "cy": 0.3236,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064972682
   }
  }
 }

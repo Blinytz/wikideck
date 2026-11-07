@@ -96574,6 +96574,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069818845
+  },
+  "oeuvres-litteraires_l-attrape-c-urs": {
+   "cx": 0.5455,
+   "cy": 0.5429,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069820975
+  },
+  "oeuvres-litteraires_ne-tirez-pas-sur-l-oiseau-moqueur": {
+   "cx": 0.5691,
+   "cy": 0.5499,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069822529
+  },
+  "oeuvres-litteraires_beloved-roman": {
+   "cx": 0.5196,
+   "cy": 0.5327,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069826613
+  },
+  "oeuvres-litteraires_le-maitre-et-marguerite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069828577
   }
  }
 }

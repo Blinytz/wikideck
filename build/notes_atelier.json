@@ -94488,6 +94488,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068746992
+  },
+  "auteurs-classiques_anne-bronte": {
+   "cx": 0.4926,
+   "cy": 0.3796,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068749052
+  },
+  "auteurs-classiques_heinrich-heine": {
+   "cx": 0.4926,
+   "cy": 0.3858,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068751203
+  },
+  "auteurs-classiques_ernst-theodor-amadeus-hoffmann": {
+   "cx": 0.4926,
+   "cy": 0.3904,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068753381
   }
  }
 }

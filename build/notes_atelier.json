@@ -84898,6 +84898,27 @@
    "w": 0.7606,
    "src": "orig",
    "editeLe": 1794063699805
+  },
+  "races-de-cheval_breton-cheval": {
+   "cx": 0.5542,
+   "cy": 0.4998,
+   "w": 0.6128,
+   "src": "orig",
+   "editeLe": 1794063704482
+  },
+  "races-de-cheval_merens-cheval": {
+   "cx": 0.5499,
+   "cy": 0.5002,
+   "w": 0.777,
+   "src": "orig",
+   "editeLe": 1794063707902
+  },
+  "races-de-cheval_pottok": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063710313
   }
  }
 }

@@ -96945,6 +96945,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070015784
+  },
+  "personnages-litterature_elric-de-melnibone": {
+   "cx": 0.4792,
+   "cy": 0.5,
+   "w": 0.603,
+   "src": "orig",
+   "editeLe": 1794070018002
+  },
+  "personnages-litterature_b-612-le-petit-prince": {
+   "cx": 0.4647,
+   "cy": 0.5154,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070021691
+  },
+  "personnages-litterature_arsene-lupin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070024032
   }
  }
 }

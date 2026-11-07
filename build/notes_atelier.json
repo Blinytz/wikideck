@@ -80425,6 +80425,34 @@
    "w": 0.814,
    "src": "orig",
    "editeLe": 1794058924803
+  },
+  "mammiferes_marmota-marmota": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794058926961
+  },
+  "mammiferes_mandrillus-sphinx": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7564,
+   "src": "orig",
+   "editeLe": 1794058929667
+  },
+  "mammiferes_ane": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794058932314
+  },
+  "mammiferes_hamster-dore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794058934131
   }
  }
 }

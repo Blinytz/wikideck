@@ -84366,6 +84366,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063442881
+  },
+  "races-de-chat_scottish-fold-highland-fold": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063444923
+  },
+  "races-de-chat_sacre-de-birmanie": {
+   "cx": 0.5556,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063446654
+  },
+  "races-de-chat_bleu-russe": {
+   "cx": 0.4541,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063448476
+  },
+  "races-de-chat_somali-chat": {
+   "cx": 0.5153,
+   "cy": 0.5002,
+   "w": 0.6099,
+   "src": "orig",
+   "editeLe": 1794063451739
   }
  }
 }

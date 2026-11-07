@@ -93767,6 +93767,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068413059
+  },
+  "auteurs-classiques_euripide": {
+   "cx": 0.4293,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068415635
+  },
+  "auteurs-classiques_virgile": {
+   "cx": 0.5,
+   "cy": 0.4221,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068417497
+  },
+  "auteurs-classiques_ovide": {
+   "cx": 0.5057,
+   "cy": 0.4318,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794068419309
+  },
+  "auteurs-classiques_dante-alighieri": {
+   "cx": 0.5,
+   "cy": 0.3431,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068421270
   }
  }
 }

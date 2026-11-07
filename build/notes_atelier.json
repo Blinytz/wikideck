@@ -87908,6 +87908,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065115035
+  },
+  "grands-peintres_lucas-cranach-l-ancien": {
+   "cx": 0.5006,
+   "cy": 0.3634,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065118430
+  },
+  "grands-peintres_hans-memling": {
+   "cx": 0.4926,
+   "cy": 0.4203,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065121093
+  },
+  "grands-peintres_rogier-van-der-weyden": {
+   "cx": 0.5074,
+   "cy": 0.4155,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065124320
   }
  }
 }

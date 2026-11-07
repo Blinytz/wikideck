@@ -77660,6 +77660,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055276223
+  },
+  "astronautes-et-cosmonautes_david-scott": {
+   "cx": 0.5013,
+   "cy": 0.3354,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055278339
+  },
+  "astronautes-et-cosmonautes_jack-swigert": {
+   "cx": 0.496,
+   "cy": 0.4664,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055280387
+  },
+  "astronautes-et-cosmonautes_fred-haise": {
+   "cx": 0.5,
+   "cy": 0.3996,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055282449
   }
  }
 }

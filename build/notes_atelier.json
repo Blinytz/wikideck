@@ -91142,6 +91142,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067279165
+  },
+  "grands-compositeurs_domenico-scarlatti": {
+   "cx": 0.4987,
+   "cy": 0.4035,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067281666
+  },
+  "grands-compositeurs_christoph-willibald-gluck": {
+   "cx": 0.5065,
+   "cy": 0.4151,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067284081
+  },
+  "grands-compositeurs_camille-saint-saens": {
+   "cx": 0.4895,
+   "cy": 0.3115,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067286920
+  },
+  "grands-compositeurs_gabriel-faure": {
+   "cx": 0.4751,
+   "cy": 0.3254,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067289718
   }
  }
 }

@@ -79006,11 +79006,11 @@
    "editeLe": 1794057867005
   },
   "vehicules-celebres_orient-express": {
-   "cx": 0.4724,
-   "cy": 0.5,
+   "cx": 0.4451,
+   "cy": 0.4997,
    "w": 0.5749,
    "src": "orig",
-   "editeLe": 1794057868956
+   "editeLe": 1794057880840
   },
   "vehicules-celebres_cutty-sark": {
    "cx": 0.5,
@@ -79025,6 +79025,20 @@
    "w": 0.7236,
    "src": "orig",
    "editeLe": 1794057872992
+  },
+  "vehicules-celebres_santa-maria-1492": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794057884722
+  },
+  "vehicules-celebres_golden-hind": {
+   "cx": 0.5508,
+   "cy": 0.5,
+   "w": 0.7573,
+   "src": "orig",
+   "editeLe": 1794057887567
   }
  }
 }

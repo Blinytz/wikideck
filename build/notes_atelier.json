@@ -81132,6 +81132,41 @@
    "w": 0.7465,
    "src": "orig",
    "editeLe": 1794059262951
+  },
+  "oiseaux_tourterelle-turque": {
+   "cx": 0.5786,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059265589
+  },
+  "oiseaux_corneille-noire": {
+   "cx": 0.4681,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059267470
+  },
+  "oiseaux_alouette-des-champs": {
+   "cx": 0.5627,
+   "cy": 0.5756,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794059269192
+  },
+  "oiseaux_mesange-charbonniere": {
+   "cx": 0.4709,
+   "cy": 0.5,
+   "w": 0.7669,
+   "src": "orig",
+   "editeLe": 1794059270762
+  },
+  "oiseaux_mouette-rieuse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059272750
   }
  }
 }

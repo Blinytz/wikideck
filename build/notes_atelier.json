@@ -86613,6 +86613,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064509306
+  },
+  "mineraux-et-pierres_opale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064510966
+  },
+  "mineraux-et-pierres_turquoise-mineral": {
+   "cx": 0.464,
+   "cy": 0.4781,
+   "w": 0.6578,
+   "src": "orig",
+   "editeLe": 1794064512847
+  },
+  "mineraux-et-pierres_lapis-lazuli": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794064514299
+  },
+  "mineraux-et-pierres_jade": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064515836
+  },
+  "mineraux-et-pierres_ambre": {
+   "cx": 0.5176,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064517324
+  },
+  "mineraux-et-pierres_perle": {
+   "cx": 0.4442,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064519008
+  },
+  "mineraux-et-pierres_quartz-mineral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064520426
   }
  }
 }

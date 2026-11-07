@@ -86977,6 +86977,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064593287
+  },
+  "mineraux-et-pierres_rose-des-sables": {
+   "cx": 0.5,
+   "cy": 0.4845,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064595839
+  },
+  "mineraux-et-pierres_coltan": {
+   "cx": 0.4913,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794064597398
   }
  }
 }

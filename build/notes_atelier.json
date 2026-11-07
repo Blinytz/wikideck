@@ -83316,6 +83316,27 @@
    "w": 0.7219,
    "src": "orig",
    "editeLe": 1794062621477
+  },
+  "creatures-prehistoriques_basilosaurus": {
+   "cx": 0.4267,
+   "cy": 0.5,
+   "w": 0.625,
+   "src": "orig",
+   "editeLe": 1794062625365
+  },
+  "creatures-prehistoriques_tiktaalik": {
+   "cx": 0.4024,
+   "cy": 0.5002,
+   "w": 0.6268,
+   "src": "orig",
+   "editeLe": 1794062628724
+  },
+  "creatures-prehistoriques_hallucigenia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7383,
+   "src": "orig",
+   "editeLe": 1794062630931
   }
  }
 }

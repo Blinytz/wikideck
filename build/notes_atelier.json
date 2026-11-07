@@ -82329,6 +82329,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794059847769
+  },
+  "insectes_bousier-sacre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1794059886502
+  },
+  "insectes_melolonthinae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059888730
   }
  }
 }

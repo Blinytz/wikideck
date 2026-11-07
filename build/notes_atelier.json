@@ -89693,6 +89693,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794066724630
+  },
+  "photographies-celebres_lever-de-terre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066726469
+  },
+  "photographies-celebres_la-bille-bleue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066730253
+  },
+  "photographies-celebres_un-point-bleu-pale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066732523
   }
  }
 }

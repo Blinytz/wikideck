@@ -89392,6 +89392,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066600990
+  },
+  "sculptures-celebres_aurige-de-delphes": {
+   "cx": 0.5151,
+   "cy": 0.5021,
+   "w": 0.7387,
+   "src": "orig",
+   "editeLe": 1794066604660
+  },
+  "sculptures-celebres_apollon-du-belvedere": {
+   "cx": 0.4869,
+   "cy": 0.2858,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066607460
+  },
+  "sculptures-celebres_galate-mourant": {
+   "cx": 0.4674,
+   "cy": 0.4998,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794066610134
+  },
+  "sculptures-celebres_masque-d-agamemnon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066612158
   }
  }
 }

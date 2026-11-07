@@ -83939,6 +83939,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063255075
+  },
+  "races-de-chien_barbet-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7171,
+   "src": "orig",
+   "editeLe": 1794063262152
+  },
+  "races-de-chien_terrier-ecossais": {
+   "cx": 0.4806,
+   "cy": 0.4998,
+   "w": 0.6691,
+   "src": "orig",
+   "editeLe": 1794063264803
+  },
+  "races-de-chien_cairn-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063266786
+  },
+  "races-de-chien_west-highland-white-terrier": {
+   "cx": 0.5558,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063268630
   }
  }
 }

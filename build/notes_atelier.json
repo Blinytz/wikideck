@@ -77387,6 +77387,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794055065096
+  },
+  "conquete-spatiale_starship-fusee": {
+   "cx": 0.4926,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794055067952
+  },
+  "conquete-spatiale_spacex-dragon-2": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794055070043
+  },
+  "conquete-spatiale_ariane-6": {
+   "cx": 0.5059,
+   "cy": 0.4998,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794055073953
   }
  }
 }

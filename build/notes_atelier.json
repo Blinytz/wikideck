@@ -89042,6 +89042,27 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794066476876
+  },
+  "tableaux-celebres_pluie-vapeur-et-vitesse": {
+   "cx": 0.4938,
+   "cy": 0.5002,
+   "w": 0.8109,
+   "src": "orig",
+   "editeLe": 1794066480841
+  },
+  "tableaux-celebres_la-charrette-de-foin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7481,
+   "src": "orig",
+   "editeLe": 1794066482840
+  },
+  "tableaux-celebres_ophelie-millais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7388,
+   "src": "orig",
+   "editeLe": 1794066484833
   }
  }
 }

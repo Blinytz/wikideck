@@ -94313,6 +94313,27 @@
    "w": 0.6098,
    "src": "orig",
    "editeLe": 1794068673160
+  },
+  "auteurs-classiques_lope-de-vega": {
+   "cx": 0.4926,
+   "cy": 0.3676,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068676975
+  },
+  "auteurs-classiques_pedro-calderon-de-la-barca": {
+   "cx": 0.4926,
+   "cy": 0.4514,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068679796
+  },
+  "auteurs-classiques_john-donne": {
+   "cx": 0.4926,
+   "cy": 0.4817,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068682386
   }
  }
 }

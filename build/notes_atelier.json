@@ -94460,6 +94460,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068736440
+  },
+  "auteurs-classiques_john-keats": {
+   "cx": 0.4942,
+   "cy": 0.5134,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068740147
+  },
+  "auteurs-classiques_percy-bysshe-shelley": {
+   "cx": 0.4926,
+   "cy": 0.444,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068742768
+  },
+  "auteurs-classiques_william-wordsworth": {
+   "cx": 0.4926,
+   "cy": 0.3805,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068744841
+  },
+  "auteurs-classiques_george-eliot": {
+   "cx": 0.4926,
+   "cy": 0.4058,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068746992
   }
  }
 }

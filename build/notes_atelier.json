@@ -88183,11 +88183,25 @@
    "editeLe": 1794065260040
   },
   "grands-peintres_andrew-wyeth": {
-   "cx": 0.5,
-   "cy": 0.4938,
-   "w": 0.8143,
+   "cx": 0.4927,
+   "cy": 0.4755,
+   "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794065261811
+   "editeLe": 1794065271784
+  },
+  "grands-peintres_robert-rauschenberg": {
+   "cx": 0.5042,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794065275257
+  },
+  "grands-peintres_jasper-johns": {
+   "cx": 0.4926,
+   "cy": 0.3669,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065278222
   }
  }
 }

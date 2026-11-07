@@ -85549,6 +85549,34 @@
    "w": 0.7206,
    "src": "orig",
    "editeLe": 1794064104237
+  },
+  "fleurs_camellia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064106686
+  },
+  "fleurs_magnolia": {
+   "cx": 0.5,
+   "cy": 0.4595,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064108910
+  },
+  "fleurs_wisteria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064110705
+  },
+  "fleurs_bougainvillea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064112673
   }
  }
 }

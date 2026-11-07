@@ -79293,11 +79293,18 @@
    "editeLe": 1794057998566
   },
   "vehicules-celebres_mary-celeste": {
-   "cx": 0.5212,
-   "cy": 0.4498,
+   "cx": 0.5503,
+   "cy": 0.4514,
    "w": 0.7403,
    "src": "orig",
-   "editeLe": 1794058000587
+   "editeLe": 1794058006528
+  },
+  "vehicules-celebres_rainbow-warrior-i": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7213,
+   "src": "orig",
+   "editeLe": 1794058008259
   }
  }
 }

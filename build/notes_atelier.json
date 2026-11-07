@@ -84114,6 +84114,34 @@
    "w": 0.6528,
    "src": "orig",
    "editeLe": 1794063328956
+  },
+  "races-de-chien_grand-bleu-de-gascogne": {
+   "cx": 0.4864,
+   "cy": 0.471,
+   "w": 0.6689,
+   "src": "orig",
+   "editeLe": 1794063331734
+  },
+  "races-de-chien_beagle-harrier": {
+   "cx": 0.4545,
+   "cy": 0.4959,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063333568
+  },
+  "races-de-chien_chien-a-loutre": {
+   "cx": 0.3608,
+   "cy": 0.4998,
+   "w": 0.7215,
+   "src": "orig",
+   "editeLe": 1794063336612
+  },
+  "races-de-chien_chien-noir-et-feu-pour-la-chasse-au-raton-laveur": {
+   "cx": 0.5043,
+   "cy": 0.5453,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063338529
   }
  }
 }

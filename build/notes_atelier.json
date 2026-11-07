@@ -92318,6 +92318,34 @@
    "w": 0.4854,
    "src": "orig",
    "editeLe": 1794067732620
+  },
+  "oeuvres-musicales_le-marteau-sans-maitre": {
+   "cx": 0.6376,
+   "cy": 0.4998,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794067738383
+  },
+  "oeuvres-musicales_ionisation-varese": {
+   "cx": 0.4962,
+   "cy": 0.5087,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067740331
+  },
+  "oeuvres-musicales_wozzeck": {
+   "cx": 0.5,
+   "cy": 0.4306,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067743134
+  },
+  "oeuvres-musicales_gesang-der-junglinge": {
+   "cx": 0.4638,
+   "cy": 0.4164,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067746649
   }
  }
 }

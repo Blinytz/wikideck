@@ -93459,6 +93459,20 @@
    "w": 0.658,
    "src": "orig",
    "editeLe": 1794068146544
+  },
+  "instruments-de-musique_vibraphone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068149638
+  },
+  "instruments-de-musique_djembe": {
+   "cx": 0.5,
+   "cy": 0.4998,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794068155547
   }
  }
 }

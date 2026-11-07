@@ -77940,6 +77940,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055495088
+  },
+  "astronautes-et-cosmonautes_ilan-ramon": {
+   "cx": 0.5,
+   "cy": 0.4121,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055498217
+  },
+  "astronautes-et-cosmonautes_edward-white": {
+   "cx": 0.4987,
+   "cy": 0.4536,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055500488
+  },
+  "astronautes-et-cosmonautes_roger-b-chaffee": {
+   "cx": 0.4773,
+   "cy": 0.3834,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055503173
   }
  }
 }

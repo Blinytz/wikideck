@@ -94663,6 +94663,27 @@
    "w": 0.7402,
    "src": "orig",
    "editeLe": 1794068821161
+  },
+  "auteurs-classiques_plutarque": {
+   "cx": 0.5016,
+   "cy": 0.5002,
+   "w": 0.6057,
+   "src": "orig",
+   "editeLe": 1794068827564
+  },
+  "auteurs-classiques_tacite": {
+   "cx": 0.4926,
+   "cy": 0.4353,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068830636
+  },
+  "auteurs-classiques_plaute": {
+   "cx": 0.5106,
+   "cy": 0.3595,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794068833540
   }
  }
 }

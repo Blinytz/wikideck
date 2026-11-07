@@ -90400,6 +90400,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067018177
+  },
+  "styles-architecturaux_pan-de-bois": {
+   "cx": 0.5012,
+   "cy": 0.5002,
+   "w": 0.654,
+   "src": "orig",
+   "editeLe": 1794067021709
+  },
+  "styles-architecturaux_architecture-en-egypte-antique": {
+   "cx": 0.5197,
+   "cy": 0.5002,
+   "w": 0.7219,
+   "src": "orig",
+   "editeLe": 1794067024697
+  },
+  "styles-architecturaux_architecture-maya": {
+   "cx": 0.4738,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067028405
   }
  }
 }

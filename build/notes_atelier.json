@@ -79039,6 +79039,20 @@
    "w": 0.7573,
    "src": "orig",
    "editeLe": 1794057887567
+  },
+  "vehicules-celebres_ss-great-eastern": {
+   "cx": 0.4247,
+   "cy": 0.5002,
+   "w": 0.6573,
+   "src": "orig",
+   "editeLe": 1794057891025
+  },
+  "vehicules-celebres_belem": {
+   "cx": 0.4525,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794057896125
   }
  }
 }

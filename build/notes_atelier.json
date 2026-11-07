@@ -83743,6 +83743,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063106614
+  },
+  "races-de-chien_schnauzer": {
+   "cx": 0.5013,
+   "cy": 0.4044,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063109387
+  },
+  "races-de-chien_airedale-terrier": {
+   "cx": 0.4447,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063111705
+  },
+  "races-de-chien_bull-terrier": {
+   "cx": 0.4879,
+   "cy": 0.4998,
+   "w": 0.7518,
+   "src": "orig",
+   "editeLe": 1794063114433
+  },
+  "races-de-chien_staffordshire-bull-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063116781
   }
  }
 }

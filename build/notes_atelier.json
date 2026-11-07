@@ -95608,6 +95608,27 @@
    "w": 0.7329,
    "src": "orig",
    "editeLe": 1794069212918
+  },
+  "auteurs-modernes_saul-bellow": {
+   "cx": 0.4975,
+   "cy": 0.5236,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069216985
+  },
+  "auteurs-modernes_truman-capote": {
+   "cx": 0.5,
+   "cy": 0.4008,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069218946
+  },
+  "auteurs-modernes_tennessee-williams": {
+   "cx": 0.4926,
+   "cy": 0.4023,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069221460
   }
  }
 }

@@ -88496,6 +88496,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066206871
+  },
+  "tableaux-celebres_guitare-et-compotier-paris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066208659
+  },
+  "tableaux-celebres_autoportrait-a-l-oreille-bandee-et-a-la-pipe": {
+   "cx": 0.5,
+   "cy": 0.4538,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066210310
+  },
+  "tableaux-celebres_la-chute-d-icare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7166,
+   "src": "orig",
+   "editeLe": 1794066212247
+  },
+  "tableaux-celebres_la-tour-de-babel-brueghel": {
+   "cx": 0.5131,
+   "cy": 0.4975,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066215204
   }
  }
 }

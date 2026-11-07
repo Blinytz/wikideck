@@ -96875,6 +96875,20 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794069913790
+  },
+  "personnages-litterature_gandalf": {
+   "cx": 0.5,
+   "cy": 0.4743,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069915342
+  },
+  "personnages-litterature_aragorn": {
+   "cx": 0.4883,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069916870
   }
  }
 }

@@ -83078,6 +83078,27 @@
    "w": 0.5271,
    "src": "orig",
    "editeLe": 1794062525373
+  },
+  "creatures-prehistoriques_elasmosaurus": {
+   "cx": 0.5353,
+   "cy": 0.4376,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062528373
+  },
+  "creatures-prehistoriques_ichthyosaurus": {
+   "cx": 0.6495,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062531551
+  },
+  "creatures-prehistoriques_liopleurodon": {
+   "cx": 0.6171,
+   "cy": 0.4692,
+   "w": 0.5517,
+   "src": "orig",
+   "editeLe": 1794062534083
   }
  }
 }

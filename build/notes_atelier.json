@@ -95104,6 +95104,34 @@
    "w": 0.6985,
    "src": "orig",
    "editeLe": 1794069016685
+  },
+  "auteurs-modernes_haruki-murakami": {
+   "cx": 0.4926,
+   "cy": 0.2965,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069019205
+  },
+  "auteurs-modernes_yukio-mishima": {
+   "cx": 0.4926,
+   "cy": 0.4221,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069021264
+  },
+  "auteurs-modernes_kenzaburo-oe": {
+   "cx": 0.4926,
+   "cy": 0.4244,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069023261
+  },
+  "auteurs-modernes_naguib-mahfouz": {
+   "cx": 0.4999,
+   "cy": 0.4952,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794069025349
   }
  }
 }

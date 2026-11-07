@@ -81909,6 +81909,34 @@
    "w": 0.5047,
    "src": "orig",
    "editeLe": 1794059669707
+  },
+  "poissons-et-vie-marine_seiche-animal": {
+   "cx": 0.4973,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059672376
+  },
+  "poissons-et-vie-marine_nautile-sous-marin-de-poche": {
+   "cx": 0.4718,
+   "cy": 0.5,
+   "w": 0.6681,
+   "src": "orig",
+   "editeLe": 1794059674402
+  },
+  "poissons-et-vie-marine_cubozoa": {
+   "cx": 0.5479,
+   "cy": 0.5002,
+   "w": 0.8121,
+   "src": "orig",
+   "editeLe": 1794059677103
+  },
+  "poissons-et-vie-marine_aurelia-aurita": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059678855
   }
  }
 }

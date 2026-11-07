@@ -80089,6 +80089,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794058654777
+  },
+  "mammiferes_manidae": {
+   "cx": 0.4822,
+   "cy": 0.5002,
+   "w": 0.7234,
+   "src": "orig",
+   "editeLe": 1794058657243
+  },
+  "mammiferes_tamanoir": {
+   "cx": 0.5517,
+   "cy": 0.5867,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794058660005
+  },
+  "mammiferes_lutrinae": {
+   "cx": 0.5582,
+   "cy": 0.5,
+   "w": 0.7888,
+   "src": "orig",
+   "editeLe": 1794058663494
   }
  }
 }

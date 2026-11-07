@@ -89315,6 +89315,34 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794066569801
+  },
+  "sculptures-celebres_cariatide": {
+   "cx": 0.4588,
+   "cy": 0.5,
+   "w": 0.7831,
+   "src": "orig",
+   "editeLe": 1794066573058
+  },
+  "sculptures-celebres_la-petite-danseuse-de-quatorze-ans": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1794066575069
+  },
+  "sculptures-celebres_fontaine-duchamp": {
+   "cx": 0.4722,
+   "cy": 0.543,
+   "w": 0.4944,
+   "src": "orig",
+   "editeLe": 1794066576899
+  },
+  "sculptures-celebres_maman-sculpture": {
+   "cx": 0.4667,
+   "cy": 0.5,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794066578416
   }
  }
 }

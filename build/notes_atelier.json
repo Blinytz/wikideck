@@ -77282,6 +77282,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055007759
+  },
+  "conquete-spatiale_opportunity": {
+   "cx": 0.5307,
+   "cy": 0.505,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055012006
+  },
+  "conquete-spatiale_ingenuity-helicoptere": {
+   "cx": 0.5955,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794055014597
   }
  }
 }

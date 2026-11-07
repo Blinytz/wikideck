@@ -88076,6 +88076,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065216640
+  },
+  "grands-peintres_juan-gris": {
+   "cx": 0.5165,
+   "cy": 0.5165,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794065221401
+  },
+  "grands-peintres_balthus": {
+   "cx": 0.4926,
+   "cy": 0.3673,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065224894
+  },
+  "grands-peintres_victor-vasarely": {
+   "cx": 0.5113,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794065229344
   }
  }
 }

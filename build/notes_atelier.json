@@ -92416,6 +92416,55 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794067778647
+  },
+  "musique-populaire_bob-dylan": {
+   "cx": 0.5,
+   "cy": 0.2912,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067780521
+  },
+  "musique-populaire_elvis-presley": {
+   "cx": 0.5,
+   "cy": 0.3171,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067781967
+  },
+  "musique-populaire_michael-jackson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067783526
+  },
+  "musique-populaire_david-bowie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7327,
+   "src": "orig",
+   "editeLe": 1794067785263
+  },
+  "musique-populaire_queen": {
+   "cx": 0.4806,
+   "cy": 0.5,
+   "w": 0.724,
+   "src": "orig",
+   "editeLe": 1794067786685
+  },
+  "musique-populaire_pink-floyd": {
+   "cx": 0.4836,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067788561
+  },
+  "musique-populaire_led-zeppelin": {
+   "cx": 0.5,
+   "cy": 0.4524,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067790750
   }
  }
 }

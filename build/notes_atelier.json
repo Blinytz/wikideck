@@ -83449,6 +83449,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062818670
+  },
+  "races-de-chien_rottweiler": {
+   "cx": 0.5,
+   "cy": 0.4362,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062820818
+  },
+  "races-de-chien_dobermann": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6522,
+   "src": "orig",
+   "editeLe": 1794062822898
+  },
+  "races-de-chien_dogue-allemand": {
+   "cx": 0.5455,
+   "cy": 0.5241,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794062825118
+  },
+  "races-de-chien_saint-bernard": {
+   "cx": 0.4542,
+   "cy": 0.466,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062828358
   }
  }
 }

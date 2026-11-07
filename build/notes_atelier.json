@@ -86746,6 +86746,62 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794064540815
+  },
+  "mineraux-et-pierres_or-natif": {
+   "cx": 0.5243,
+   "cy": 0.3794,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794064542365
+  },
+  "mineraux-et-pierres_argent-natif": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064543804
+  },
+  "mineraux-et-pierres_cuivre-natif": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064545269
+  },
+  "mineraux-et-pierres_galene": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064546715
+  },
+  "mineraux-et-pierres_cinabre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7722,
+   "src": "orig",
+   "editeLe": 1794064548337
+  },
+  "mineraux-et-pierres_bauxite": {
+   "cx": 0.5139,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064549589
+  },
+  "mineraux-et-pierres_meteorite": {
+   "cx": 0.5121,
+   "cy": 0.4937,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064551296
+  },
+  "mineraux-et-pierres_silex": {
+   "cx": 0.5121,
+   "cy": 0.4937,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064552365
   }
  }
 }

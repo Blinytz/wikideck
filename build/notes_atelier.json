@@ -79991,6 +79991,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058617825
+  },
+  "mammiferes_babouin": {
+   "cx": 0.4719,
+   "cy": 0.4998,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794058620429
+  },
+  "mammiferes_macaque": {
+   "cx": 0.4646,
+   "cy": 0.5002,
+   "w": 0.7573,
+   "src": "orig",
+   "editeLe": 1794058622645
+  },
+  "mammiferes_lemur-catta": {
+   "cx": 0.4773,
+   "cy": 0.3431,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058625027
+  },
+  "mammiferes_aye-aye": {
+   "cx": 0.6126,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058627902
   }
  }
 }

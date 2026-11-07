@@ -95699,6 +95699,34 @@
    "w": 0.6785,
    "src": "orig",
    "editeLe": 1794069292706
+  },
+  "auteurs-modernes_mario-vargas-llosa": {
+   "cx": 0.4926,
+   "cy": 0.3964,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069295264
+  },
+  "auteurs-modernes_juan-rulfo": {
+   "cx": 0.2473,
+   "cy": 0.3416,
+   "w": 0.4945,
+   "src": "orig",
+   "editeLe": 1794069297732
+  },
+  "auteurs-modernes_roberto-bolano": {
+   "cx": 0.4926,
+   "cy": 0.4164,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069300064
+  },
+  "auteurs-modernes_jorge-amado": {
+   "cx": 0.5019,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069302547
   }
  }
 }

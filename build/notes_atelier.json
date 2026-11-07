@@ -97220,11 +97220,25 @@
    "editeLe": 1794070124797
   },
   "personnages-litterature_voldemort": {
-   "cx": 0.5,
-   "cy": 0.272,
+   "cx": 0.5105,
+   "cy": 0.2743,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794070126547
+   "editeLe": 1794070134622
+  },
+  "personnages-litterature_jon-snow": {
+   "cx": 0.5445,
+   "cy": 0.5258,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070137701
+  },
+  "personnages-litterature_tyrion-lannister": {
+   "cx": 0.5,
+   "cy": 0.3375,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070139656
   }
  }
 }

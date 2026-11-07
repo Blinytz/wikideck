@@ -90911,6 +90911,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067206776
+  },
+  "grands-compositeurs_ludwig-van-beethoven": {
+   "cx": 0.5131,
+   "cy": 0.3675,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067210691
+  },
+  "grands-compositeurs_franz-schubert": {
+   "cx": 0.4974,
+   "cy": 0.4315,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067212928
+  },
+  "grands-compositeurs_hector-berlioz": {
+   "cx": 0.5,
+   "cy": 0.3813,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067215169
   }
  }
 }

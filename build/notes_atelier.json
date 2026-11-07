@@ -96287,6 +96287,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069718490
+  },
+  "oeuvres-litteraires_les-liaisons-dangereuses": {
+   "cx": 0.5746,
+   "cy": 0.545,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069723207
+  },
+  "oeuvres-litteraires_les-miserables": {
+   "cx": 0.5,
+   "cy": 0.622,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069726588
   }
  }
 }

@@ -90421,6 +90421,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067028405
+  },
+  "styles-architecturaux_architecture-chinoise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6879,
+   "src": "orig",
+   "editeLe": 1794067030618
+  },
+  "styles-architecturaux_art-ottoman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067032950
+  },
+  "styles-architecturaux_architecture-constructiviste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7943,
+   "src": "orig",
+   "editeLe": 1794067035849
   }
  }
 }

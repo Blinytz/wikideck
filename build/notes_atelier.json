@@ -80558,6 +80558,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794058998624
+  },
+  "mammiferes_chacal-dore": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059001123
+  },
+  "mammiferes_renard-polaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6201,
+   "src": "orig",
+   "editeLe": 1794059003062
+  },
+  "mammiferes_dingo-chien-sauvage": {
+   "cx": 0.556,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059006399
+  },
+  "mammiferes_loup-a-criniere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059008696
   }
  }
 }

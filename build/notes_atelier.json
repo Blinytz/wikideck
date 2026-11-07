@@ -94054,6 +94054,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068559629
+  },
+  "auteurs-classiques_anton-tchekhov": {
+   "cx": 0.5074,
+   "cy": 0.3969,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068565051
+  },
+  "auteurs-classiques_thomas-hardy-ecrivain": {
+   "cx": 0.4926,
+   "cy": 0.3725,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068568492
+  },
+  "auteurs-classiques_oscar-wilde": {
+   "cx": 0.4926,
+   "cy": 0.4004,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068570722
+  },
+  "auteurs-classiques_rudyard-kipling": {
+   "cx": 0.4926,
+   "cy": 0.4517,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068573823
   }
  }
 }

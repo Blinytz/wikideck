@@ -78451,6 +78451,34 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794057628104
+  },
+  "aviateurs-celebres_pierre-georges-latecoere": {
+   "cx": 0.5,
+   "cy": 0.3158,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057630175
+  },
+  "aviateurs-celebres_dieudonne-costes": {
+   "cx": 0.5,
+   "cy": 0.3675,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057632539
+  },
+  "aviateurs-celebres_maurice-bellonte": {
+   "cx": 0.5,
+   "cy": 0.4211,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057634522
+  },
+  "aviateurs-celebres_charles-kingsford-smith": {
+   "cx": 0.5067,
+   "cy": 0.4235,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057636787
   }
  }
 }

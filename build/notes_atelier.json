@@ -85003,6 +85003,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063764129
+  },
+  "arbres_chene": {
+   "cx": 0.4914,
+   "cy": 0.4998,
+   "w": 0.7487,
+   "src": "orig",
+   "editeLe": 1794063768325
+  },
+  "arbres_sequoia-geant": {
+   "cx": 0.5157,
+   "cy": 0.3913,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063772523
+  },
+  "arbres_adansonia": {
+   "cx": 0.4987,
+   "cy": 0.4628,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063775306
   }
  }
 }

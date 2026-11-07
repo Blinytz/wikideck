@@ -81405,6 +81405,27 @@
    "w": 0.5673,
    "src": "orig",
    "editeLe": 1794059426023
+  },
+  "reptiles-et-amphibiens_varan-du-nil": {
+   "cx": 0.4103,
+   "cy": 0.4999,
+   "w": 0.6004,
+   "src": "orig",
+   "editeLe": 1794059429104
+  },
+  "reptiles-et-amphibiens_dragon-de-komodo": {
+   "cx": 0.4819,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059431208
+  },
+  "reptiles-et-amphibiens_tortue-geante-des-galapagos": {
+   "cx": 0.4491,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059434182
   }
  }
 }

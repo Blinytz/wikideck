@@ -88293,6 +88293,34 @@
    "w": 0.5545,
    "src": "orig",
    "editeLe": 1794066106708
+  },
+  "tableaux-celebres_les-epoux-arnolfini": {
+   "cx": 0.4948,
+   "cy": 0.3378,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066120040
+  },
+  "tableaux-celebres_le-jardin-des-delices": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066122312
+  },
+  "tableaux-celebres_la-ronde-de-nuit": {
+   "cx": 0.4594,
+   "cy": 0.539,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066125429
+  },
+  "tableaux-celebres_la-jeune-fille-a-la-perle": {
+   "cx": 0.5,
+   "cy": 0.4773,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066127679
   }
  }
 }

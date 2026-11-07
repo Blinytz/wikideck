@@ -81804,6 +81804,27 @@
    "w": 0.5211,
    "src": "orig",
    "editeLe": 1794059632140
+  },
+  "poissons-et-vie-marine_saumon-atlantique": {
+   "cx": 0.5858,
+   "cy": 0.5002,
+   "w": 0.6089,
+   "src": "orig",
+   "editeLe": 1794059636272
+  },
+  "poissons-et-vie-marine_koi": {
+   "cx": 0.4627,
+   "cy": 0.5,
+   "w": 0.7193,
+   "src": "orig",
+   "editeLe": 1794059638485
+  },
+  "poissons-et-vie-marine_anguille-electrique": {
+   "cx": 0.4842,
+   "cy": 0.4683,
+   "w": 0.6575,
+   "src": "orig",
+   "editeLe": 1794059641079
   }
  }
 }

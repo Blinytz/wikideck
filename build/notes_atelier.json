@@ -77198,6 +77198,27 @@
    "w": 0.5429,
    "src": "orig",
    "editeLe": 1794054889060
+  },
+  "conquete-spatiale_cosmodrome-de-baikonour": {
+   "cx": 0.5753,
+   "cy": 0.5,
+   "w": 0.6916,
+   "src": "orig",
+   "editeLe": 1794054891271
+  },
+  "conquete-spatiale_cap-canaveral": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794054893609
+  },
+  "conquete-spatiale_chang-e-4": {
+   "cx": 0.5524,
+   "cy": 0.5,
+   "w": 0.6065,
+   "src": "orig",
+   "editeLe": 1794054896499
   }
  }
 }

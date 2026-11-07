@@ -87446,6 +87446,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064888272
+  },
+  "grands-peintres_antoine-van-dyck": {
+   "cx": 0.4925,
+   "cy": 0.5056,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064892232
+  },
+  "grands-peintres_le-greco": {
+   "cx": 0.4926,
+   "cy": 0.4728,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064895165
+  },
+  "grands-peintres_francisco-de-zurbaran": {
+   "cx": 0.4926,
+   "cy": 0.3717,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064897730
   }
  }
 }

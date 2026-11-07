@@ -92528,6 +92528,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794067808987
+  },
+  "musique-populaire_john-coltrane": {
+   "cx": 0.5,
+   "cy": 0.3826,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067810680
+  },
+  "musique-populaire_louis-armstrong": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8021,
+   "src": "orig",
+   "editeLe": 1794067812160
+  },
+  "musique-populaire_ella-fitzgerald": {
+   "cx": 0.5,
+   "cy": 0.3929,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067813609
+  },
+  "musique-populaire_billie-holiday": {
+   "cx": 0.5,
+   "cy": 0.4143,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067815478
+  },
+  "musique-populaire_frank-sinatra": {
+   "cx": 0.5,
+   "cy": 0.4079,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067817082
   }
  }
 }

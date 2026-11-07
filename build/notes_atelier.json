@@ -97239,6 +97239,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070139656
+  },
+  "personnages-litterature_holden-caulfield": {
+   "cx": 0.5,
+   "cy": 0.3355,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070141607
+  },
+  "personnages-litterature_jay-gatsby": {
+   "cx": 0.5,
+   "cy": 0.3649,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070143435
+  },
+  "personnages-litterature_scarlett-o-hara": {
+   "cx": 0.5,
+   "cy": 0.425,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070145123
+  },
+  "personnages-litterature_jane-eyre-personnage": {
+   "cx": 0.5,
+   "cy": 0.3624,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070146858
   }
  }
 }

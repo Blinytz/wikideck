@@ -83204,6 +83204,34 @@
    "w": 0.6113,
    "src": "orig",
    "editeLe": 1794062575785
+  },
+  "creatures-prehistoriques_lion-des-cavernes-eurasiatique": {
+   "cx": 0.4056,
+   "cy": 0.4998,
+   "w": 0.8111,
+   "src": "orig",
+   "editeLe": 1794062580206
+  },
+  "creatures-prehistoriques_megaloceros": {
+   "cx": 0.4751,
+   "cy": 0.5004,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062583765
+  },
+  "creatures-prehistoriques_paraceratherium": {
+   "cx": 0.5719,
+   "cy": 0.5,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794062585664
+  },
+  "creatures-prehistoriques_andrewsarchus": {
+   "cx": 0.5,
+   "cy": 0.4046,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062587661
   }
  }
 }

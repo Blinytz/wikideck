@@ -95293,6 +95293,41 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069079405
+  },
+  "auteurs-modernes_mo-yan": {
+   "cx": 0.4926,
+   "cy": 0.4062,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069082494
+  },
+  "auteurs-modernes_rabindranath-tagore": {
+   "cx": 0.4926,
+   "cy": 0.4076,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069086327
+  },
+  "auteurs-modernes_munshi-premchand": {
+   "cx": 0.4926,
+   "cy": 0.457,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069088388
+  },
+  "auteurs-modernes_khalil-gibran": {
+   "cx": 0.5074,
+   "cy": 0.4168,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794069092667
+  },
+  "auteurs-modernes_ngugi-wa-thiong-o": {
+   "cx": 0.6019,
+   "cy": 0.5002,
+   "w": 0.6141,
+   "src": "orig",
+   "editeLe": 1794069095730
   }
  }
 }

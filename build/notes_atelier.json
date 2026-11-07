@@ -84632,6 +84632,20 @@
    "w": 0.7243,
    "src": "orig",
    "editeLe": 1794063567059
+  },
+  "races-de-chat_lykoi": {
+   "cx": 0.5172,
+   "cy": 0.5,
+   "w": 0.7863,
+   "src": "orig",
+   "editeLe": 1794063568891
+  },
+  "races-de-cheval_pur-sang": {
+   "cx": 0.5189,
+   "cy": 0.4928,
+   "w": 0.5967,
+   "src": "orig",
+   "editeLe": 1794063573766
   }
  }
 }

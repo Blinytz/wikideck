@@ -91597,6 +91597,41 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794067438883
+  },
+  "grands-compositeurs_vangelis": {
+   "cx": 0.5481,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794067440415
+  },
+  "grands-compositeurs_howard-shore": {
+   "cx": 0.5,
+   "cy": 0.5781,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067442127
+  },
+  "grands-compositeurs_clara-schumann": {
+   "cx": 0.5375,
+   "cy": 0.4007,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794067444446
+  },
+  "grands-compositeurs_fanny-mendelssohn": {
+   "cx": 0.5,
+   "cy": 0.4594,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067446175
+  },
+  "grands-compositeurs_lili-boulanger": {
+   "cx": 0.6222,
+   "cy": 0.5,
+   "w": 0.6153,
+   "src": "orig",
+   "editeLe": 1794067447688
   }
  }
 }

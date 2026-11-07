@@ -83876,6 +83876,27 @@
    "w": 0.4995,
    "src": "orig",
    "editeLe": 1794063180281
+  },
+  "races-de-chien_king-charles-spaniel": {
+   "cx": 0.4249,
+   "cy": 0.4998,
+   "w": 0.7786,
+   "src": "orig",
+   "editeLe": 1794063183223
+  },
+  "races-de-chien_basenji": {
+   "cx": 0.5707,
+   "cy": 0.4631,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063186448
+  },
+  "races-de-chien_xoloitzcuintle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063188519
   }
  }
 }

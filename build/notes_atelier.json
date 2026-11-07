@@ -90323,6 +90323,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066988484
+  },
+  "styles-architecturaux_art-deco": {
+   "cx": 0.5,
+   "cy": 0.4726,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066990033
+  },
+  "styles-architecturaux_ecole-de-chicago-architecture": {
+   "cx": 0.5,
+   "cy": 0.4493,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066991791
+  },
+  "styles-architecturaux_style-international": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066993911
+  },
+  "styles-architecturaux_architecture-organique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7125,
+   "src": "orig",
+   "editeLe": 1794066995678
+  },
+  "styles-architecturaux_brutalisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066997697
+  },
+  "styles-architecturaux_postmodernisme-architecture": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794066999591
   }
  }
 }

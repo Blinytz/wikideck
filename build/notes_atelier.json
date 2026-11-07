@@ -81335,6 +81335,20 @@
    "w": 0.7396,
    "src": "orig",
    "editeLe": 1794059389737
+  },
+  "reptiles-et-amphibiens_boa-constricteur": {
+   "cx": 0.4799,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059395913
+  },
+  "reptiles-et-amphibiens_cobra-royal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8129,
+   "src": "orig",
+   "editeLe": 1794059397933
   }
  }
 }

@@ -84282,6 +84282,27 @@
    "w": 0.7614,
    "src": "orig",
    "editeLe": 1794063415710
+  },
+  "races-de-chien_pinscher-nain": {
+   "cx": 0.424,
+   "cy": 0.5,
+   "w": 0.6906,
+   "src": "orig",
+   "editeLe": 1794063417464
+  },
+  "races-de-chien_affenpinscher": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.75,
+   "src": "orig",
+   "editeLe": 1794063419318
+  },
+  "races-de-chat_maine-coon": {
+   "cx": 0.4347,
+   "cy": 0.4996,
+   "w": 0.725,
+   "src": "orig",
+   "editeLe": 1794063422279
   }
  }
 }

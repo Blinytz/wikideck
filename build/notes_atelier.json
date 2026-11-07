@@ -79956,6 +79956,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058602596
+  },
+  "mammiferes_gorille-de-l-ouest": {
+   "cx": 0.524,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058605505
+  },
+  "mammiferes_chimpanze": {
+   "cx": 0.4346,
+   "cy": 0.5,
+   "w": 0.6783,
+   "src": "orig",
+   "editeLe": 1794058608381
   }
  }
 }

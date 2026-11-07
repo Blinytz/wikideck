@@ -84884,6 +84884,20 @@
    "w": 0.7228,
    "src": "orig",
    "editeLe": 1794063693201
+  },
+  "races-de-cheval_konik": {
+   "cx": 0.4642,
+   "cy": 0.5886,
+   "w": 0.5441,
+   "src": "orig",
+   "editeLe": 1794063696285
+  },
+  "races-de-cheval_falabella": {
+   "cx": 0.5379,
+   "cy": 0.4998,
+   "w": 0.7606,
+   "src": "orig",
+   "editeLe": 1794063699805
   }
  }
 }

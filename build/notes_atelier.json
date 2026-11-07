@@ -87432,6 +87432,20 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794064880286
+  },
+  "grands-peintres_artemisia-gentileschi": {
+   "cx": 0.5074,
+   "cy": 0.4463,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794064884782
+  },
+  "grands-peintres_frans-hals": {
+   "cx": 0.4926,
+   "cy": 0.4882,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064888272
   }
  }
 }

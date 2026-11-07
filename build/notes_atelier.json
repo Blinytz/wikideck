@@ -91443,6 +91443,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067378416
+  },
+  "grands-compositeurs_alexandre-borodine": {
+   "cx": 0.4814,
+   "cy": 0.5,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794067382274
+  },
+  "grands-compositeurs_mikhail-glinka": {
+   "cx": 0.5,
+   "cy": 0.4242,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067384508
+  },
+  "grands-compositeurs_edward-elgar": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067387307
   }
  }
 }

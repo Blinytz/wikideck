@@ -94019,6 +94019,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068545776
+  },
+  "auteurs-classiques_emile-zola": {
+   "cx": 0.5074,
+   "cy": 0.3845,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068549551
+  },
+  "auteurs-classiques_guy-de-maupassant": {
+   "cx": 0.4926,
+   "cy": 0.4068,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068552617
+  },
+  "auteurs-classiques_lewis-carroll": {
+   "cx": 0.4926,
+   "cy": 0.3212,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068554690
   }
  }
 }

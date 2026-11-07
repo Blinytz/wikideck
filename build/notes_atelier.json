@@ -77249,11 +77249,25 @@
    "editeLe": 1794054910300
   },
   "conquete-spatiale_luna-9": {
-   "cx": 0.5739,
-   "cy": 0.4998,
-   "w": 0.7722,
+   "cx": 0.479,
+   "cy": 0.5,
+   "w": 0.6105,
    "src": "orig",
-   "editeLe": 1794054914254
+   "editeLe": 1794054994519
+  },
+  "conquete-spatiale_lunokhod-1": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794054998539
+  },
+  "conquete-spatiale_programme-venera": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794055000351
   }
  }
 }

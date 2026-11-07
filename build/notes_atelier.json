@@ -80201,6 +80201,20 @@
    "w": 0.6895,
    "src": "orig",
    "editeLe": 1794058771730
+  },
+  "mammiferes_elephant-de-mer": {
+   "cx": 0.6378,
+   "cy": 0.4998,
+   "w": 0.6681,
+   "src": "orig",
+   "editeLe": 1794058774823
+  },
+  "mammiferes_otariidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058778144
   }
  }
 }

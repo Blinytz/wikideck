@@ -86151,6 +86151,48 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794064296638
+  },
+  "plantes-cultivees_vigne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064298549
+  },
+  "plantes-cultivees_canne-a-sucre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1794064300182
+  },
+  "plantes-cultivees_soja": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7184,
+   "src": "orig",
+   "editeLe": 1794064301410
+  },
+  "plantes-cultivees_coton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7274,
+   "src": "orig",
+   "editeLe": 1794064302829
+  },
+  "plantes-cultivees_lin-cultive": {
+   "cx": 0.4083,
+   "cy": 0.5,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794064304508
+  },
+  "plantes-cultivees_cafe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6031,
+   "src": "orig",
+   "editeLe": 1794064305861
   }
  }
 }

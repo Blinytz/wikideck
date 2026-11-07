@@ -94173,6 +94173,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068610580
+  },
+  "auteurs-classiques_cao-xueqin": {
+   "cx": 0.5293,
+   "cy": 0.3067,
+   "w": 0.7402,
+   "src": "orig",
+   "editeLe": 1794068613864
+  },
+  "auteurs-classiques_ferdowsi": {
+   "cx": 0.4926,
+   "cy": 0.3653,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068616136
+  },
+  "auteurs-classiques_rumi": {
+   "cx": 0.4926,
+   "cy": 0.4808,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068618939
   }
  }
 }

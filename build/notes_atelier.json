@@ -93550,6 +93550,41 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794068181763
+  },
+  "instruments-de-musique_guitare-basse": {
+   "cx": 0.4872,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794068185204
+  },
+  "instruments-de-musique_lyre": {
+   "cx": 0.6099,
+   "cy": 0.5168,
+   "w": 0.4661,
+   "src": "orig",
+   "editeLe": 1794068187160
+  },
+  "instruments-de-musique_cithare": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068188905
+  },
+  "instruments-de-musique_vielle-a-roue": {
+   "cx": 0.5286,
+   "cy": 0.5,
+   "w": 0.7209,
+   "src": "orig",
+   "editeLe": 1794068190884
+  },
+  "instruments-de-musique_bouzouki": {
+   "cx": 0.4888,
+   "cy": 0.5,
+   "w": 0.7234,
+   "src": "orig",
+   "editeLe": 1794068192349
   }
  }
 }

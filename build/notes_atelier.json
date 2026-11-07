@@ -78563,6 +78563,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794057663465
+  },
+  "aviateurs-celebres_william-edward-boeing": {
+   "cx": 0.5013,
+   "cy": 0.4,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057665702
+  },
+  "aviateurs-celebres_bob-hoover": {
+   "cx": 0.5477,
+   "cy": 0.5829,
+   "w": 0.5047,
+   "src": "orig",
+   "editeLe": 1794057667747
+  },
+  "aviateurs-celebres_andre-turcat": {
+   "cx": 0.3045,
+   "cy": 0.5113,
+   "w": 0.4172,
+   "src": "orig",
+   "editeLe": 1794057669557
+  },
+  "aviateurs-celebres_steve-fossett": {
+   "cx": 0.5,
+   "cy": 0.316,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057671373
+  },
+  "aviateurs-celebres_yves-rossy": {
+   "cx": 0.5558,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794057673228
   }
  }
 }

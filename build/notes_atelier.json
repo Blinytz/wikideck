@@ -90134,6 +90134,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066924095
+  },
+  "architectes_richard-buckminster-fuller": {
+   "cx": 0.5065,
+   "cy": 0.4166,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066926626
+  },
+  "architectes_eero-saarinen": {
+   "cx": 0.5,
+   "cy": 0.4631,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066929133
+  },
+  "architectes_luis-barragan": {
+   "cx": 0.5,
+   "cy": 0.5607,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066931089
+  },
+  "architectes_lina-bo-bardi": {
+   "cx": 0.4813,
+   "cy": 0.4482,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794066933539
   }
  }
 }

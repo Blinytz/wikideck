@@ -94943,6 +94943,27 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1794068953012
+  },
+  "auteurs-modernes_simone-de-beauvoir": {
+   "cx": 0.3958,
+   "cy": 0.5002,
+   "w": 0.6097,
+   "src": "orig",
+   "editeLe": 1794068955760
+  },
+  "auteurs-modernes_gabriel-garcia-marquez": {
+   "cx": 0.4926,
+   "cy": 0.339,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068958814
+  },
+  "auteurs-modernes_jorge-luis-borges": {
+   "cx": 0.4926,
+   "cy": 0.3382,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068964383
   }
  }
 }

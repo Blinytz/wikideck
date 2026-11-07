@@ -82938,6 +82938,34 @@
    "w": 0.4172,
    "src": "orig",
    "editeLe": 1794062419516
+  },
+  "dinosaures-celebres_tarbosaurus": {
+   "cx": 0.4057,
+   "cy": 0.4998,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794062421871
+  },
+  "dinosaures-celebres_albertosaurus": {
+   "cx": 0.5929,
+   "cy": 0.4998,
+   "w": 0.7429,
+   "src": "orig",
+   "editeLe": 1794062424298
+  },
+  "dinosaures-celebres_troodon": {
+   "cx": 0.5424,
+   "cy": 0.4998,
+   "w": 0.5921,
+   "src": "orig",
+   "editeLe": 1794062426770
+  },
+  "dinosaures-celebres_deinocheirus": {
+   "cx": 0.4142,
+   "cy": 0.4279,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794062429315
   }
  }
 }

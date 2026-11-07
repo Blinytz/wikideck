@@ -82637,6 +82637,20 @@
    "w": 0.5562,
    "src": "orig",
    "editeLe": 1794062262885
+  },
+  "dinosaures-celebres_spinosaurus": {
+   "cx": 0.5155,
+   "cy": 0.4998,
+   "w": 0.7211,
+   "src": "orig",
+   "editeLe": 1794062266863
+  },
+  "dinosaures-celebres_allosaurus": {
+   "cx": 0.4878,
+   "cy": 0.4378,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794062269984
   }
  }
 }

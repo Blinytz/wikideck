@@ -80537,6 +80537,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794058966025
+  },
+  "mammiferes_lamantin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6512,
+   "src": "orig",
+   "editeLe": 1794058991593
+  },
+  "mammiferes_dugong": {
+   "cx": 0.4602,
+   "cy": 0.4407,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794058996353
+  },
+  "mammiferes_loutre-de-mer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794058998624
   }
  }
 }

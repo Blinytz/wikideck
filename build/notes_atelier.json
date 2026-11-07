@@ -77961,6 +77961,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055503173
+  },
+  "astronautes-et-cosmonautes_edgar-mitchell": {
+   "cx": 0.5,
+   "cy": 0.3438,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055505295
+  },
+  "astronautes-et-cosmonautes_james-irwin": {
+   "cx": 0.4653,
+   "cy": 0.4021,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055509788
+  },
+  "astronautes-et-cosmonautes_thomas-stafford": {
+   "cx": 0.476,
+   "cy": 0.4257,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055512320
   }
  }
 }

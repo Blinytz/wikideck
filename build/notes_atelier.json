@@ -83183,6 +83183,27 @@
    "w": 0.5985,
    "src": "orig",
    "editeLe": 1794062567655
+  },
+  "creatures-prehistoriques_glyptodon": {
+   "cx": 0.4442,
+   "cy": 0.5032,
+   "w": 0.5985,
+   "src": "orig",
+   "editeLe": 1794062571456
+  },
+  "creatures-prehistoriques_rhinoceros-laineux": {
+   "cx": 0.6327,
+   "cy": 0.5028,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794062573813
+  },
+  "creatures-prehistoriques_ursus-spelaeus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6113,
+   "src": "orig",
+   "editeLe": 1794062575785
   }
  }
 }

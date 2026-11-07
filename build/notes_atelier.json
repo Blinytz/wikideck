@@ -80761,6 +80761,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794059119227
+  },
+  "oiseaux_cygne-noir": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059121933
+  },
+  "oiseaux_canard-colvert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059124281
+  },
+  "oiseaux_paon-bleu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059126627
+  },
+  "oiseaux_toucan-toco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059128668
   }
  }
 }

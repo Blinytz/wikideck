@@ -96322,6 +96322,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069736055
+  },
+  "oeuvres-litteraires_le-pere-goriot": {
+   "cx": 0.527,
+   "cy": 0.5327,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069737953
+  },
+  "oeuvres-litteraires_madame-bovary": {
+   "cx": 0.5048,
+   "cy": 0.5891,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069740004
+  },
+  "oeuvres-litteraires_germinal-roman": {
+   "cx": 0.4684,
+   "cy": 0.5,
+   "w": 0.7178,
+   "src": "orig",
+   "editeLe": 1794069741902
+  },
+  "oeuvres-litteraires_les-fleurs-du-mal": {
+   "cx": 0.5,
+   "cy": 0.5401,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069743813
+  },
+  "oeuvres-litteraires_vingt-mille-lieues-sous-les-mers": {
+   "cx": 0.5,
+   "cy": 0.4971,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069745473
   }
  }
 }

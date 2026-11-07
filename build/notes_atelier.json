@@ -87565,6 +87565,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064947571
+  },
+  "grands-peintres_giorgione": {
+   "cx": 0.4926,
+   "cy": 0.4144,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064950987
+  },
+  "grands-peintres_le-tintoret": {
+   "cx": 0.4926,
+   "cy": 0.417,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064953499
+  },
+  "grands-peintres_paul-veronese": {
+   "cx": 0.498,
+   "cy": 0.3618,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064956097
   }
  }
 }

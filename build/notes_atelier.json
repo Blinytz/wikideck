@@ -83911,6 +83911,20 @@
    "w": 0.8035,
    "src": "orig",
    "editeLe": 1794063242909
+  },
+  "races-de-chien_boerboel": {
+   "cx": 0.5641,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063245234
+  },
+  "races-de-chien_berger-kangal": {
+   "cx": 0.5929,
+   "cy": 0.4619,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063248034
   }
  }
 }

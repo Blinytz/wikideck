@@ -93858,6 +93858,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068479835
+  },
+  "auteurs-classiques_voltaire": {
+   "cx": 0.5027,
+   "cy": 0.5002,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794068483440
+  },
+  "auteurs-classiques_jean-jacques-rousseau": {
+   "cx": 0.5002,
+   "cy": 0.358,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794068486020
+  },
+  "auteurs-classiques_denis-diderot": {
+   "cx": 0.4926,
+   "cy": 0.4113,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068488407
+  },
+  "auteurs-classiques_johann-wolfgang-von-goethe": {
+   "cx": 0.4926,
+   "cy": 0.3683,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068492024
   }
  }
 }

@@ -89434,6 +89434,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066617354
+  },
+  "sculptures-celebres_louve-capitoline": {
+   "cx": 0.4036,
+   "cy": 0.4998,
+   "w": 0.7066,
+   "src": "orig",
+   "editeLe": 1794066621837
+  },
+  "sculptures-celebres_tete-colossale-olmeque": {
+   "cx": 0.5,
+   "cy": 0.4901,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066623735
+  },
+  "sculptures-celebres_bronzes-du-benin": {
+   "cx": 0.5,
+   "cy": 0.3822,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066625456
+  },
+  "sculptures-celebres_david-donatello": {
+   "cx": 0.5,
+   "cy": 0.3382,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066627301
   }
  }
 }

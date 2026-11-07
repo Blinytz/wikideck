@@ -83540,6 +83540,27 @@
    "w": 0.7256,
    "src": "orig",
    "editeLe": 1794062855380
+  },
+  "races-de-chien_beagle-chien": {
+   "cx": 0.508,
+   "cy": 0.4545,
+   "w": 0.6579,
+   "src": "orig",
+   "editeLe": 1794062858021
+  },
+  "races-de-chien_chien-de-saint-hubert": {
+   "cx": 0.5179,
+   "cy": 0.4998,
+   "w": 0.619,
+   "src": "orig",
+   "editeLe": 1794062860851
+  },
+  "races-de-chien_cocker-spaniel": {
+   "cx": 0.5534,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062864668
   }
  }
 }

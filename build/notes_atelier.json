@@ -94922,6 +94922,27 @@
    "w": 0.7236,
    "src": "orig",
    "editeLe": 1794068945039
+  },
+  "auteurs-modernes_h-p-lovecraft": {
+   "cx": 0.4926,
+   "cy": 0.3701,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068948302
+  },
+  "auteurs-modernes_albert-camus": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068950690
+  },
+  "auteurs-modernes_jean-paul-sartre": {
+   "cx": 0.4669,
+   "cy": 0.5104,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794068953012
   }
  }
 }

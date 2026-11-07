@@ -80600,6 +80600,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059015412
+  },
+  "mammiferes_herpestidae": {
+   "cx": 0.3554,
+   "cy": 0.4998,
+   "w": 0.6677,
+   "src": "orig",
+   "editeLe": 1794059035629
+  },
+  "mammiferes_gulo-gulo": {
+   "cx": 0.4692,
+   "cy": 0.4998,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1794059038168
   }
  }
 }

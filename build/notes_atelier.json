@@ -81391,6 +81391,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059415002
+  },
+  "reptiles-et-amphibiens_furcifer-pardalis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059423759
+  },
+  "reptiles-et-amphibiens_gecko-leopard": {
+   "cx": 0.4708,
+   "cy": 0.5002,
+   "w": 0.5673,
+   "src": "orig",
+   "editeLe": 1794059426023
   }
  }
 }

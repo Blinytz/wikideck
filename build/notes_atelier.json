@@ -79116,6 +79116,20 @@
    "w": 0.6862,
    "src": "orig",
    "editeLe": 1794057919788
+  },
+  "vehicules-celebres_calypso-navire": {
+   "cx": 0.5711,
+   "cy": 0.4998,
+   "w": 0.6902,
+   "src": "orig",
+   "editeLe": 1794057923506
+  },
+  "vehicules-celebres_rms-lusitania": {
+   "cx": 0.5293,
+   "cy": 0.369,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794057929396
   }
  }
 }

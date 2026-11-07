@@ -82903,6 +82903,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062403880
+  },
+  "dinosaures-celebres_plateosaurus": {
+   "cx": 0.5505,
+   "cy": 0.4547,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794062407849
+  },
+  "dinosaures-celebres_megalosaurus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794062410091
   }
  }
 }

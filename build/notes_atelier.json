@@ -79207,6 +79207,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794057962569
+  },
+  "vehicules-celebres_fusee-de-stephenson": {
+   "cx": 0.4559,
+   "cy": 0.4547,
+   "w": 0.7337,
+   "src": "orig",
+   "editeLe": 1794057965401
+  },
+  "vehicules-celebres_mallard-locomotive": {
+   "cx": 0.528,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057968498
+  },
+  "vehicules-celebres_shinkansen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794057970685
   }
  }
 }

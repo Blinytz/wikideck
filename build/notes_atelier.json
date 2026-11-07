@@ -82854,6 +82854,34 @@
    "w": 0.618,
    "src": "orig",
    "editeLe": 1794062384250
+  },
+  "dinosaures-celebres_chasmosaurus": {
+   "cx": 0.5389,
+   "cy": 0.4111,
+   "w": 0.5714,
+   "src": "orig",
+   "editeLe": 1794062387236
+  },
+  "dinosaures-celebres_microraptor": {
+   "cx": 0.5,
+   "cy": 0.3811,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062389370
+  },
+  "dinosaures-celebres_sinosauropteryx": {
+   "cx": 0.4796,
+   "cy": 0.4998,
+   "w": 0.5921,
+   "src": "orig",
+   "editeLe": 1794062391987
+  },
+  "dinosaures-celebres_yutyrannus": {
+   "cx": 0.5753,
+   "cy": 0.4684,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794062394703
   }
  }
 }

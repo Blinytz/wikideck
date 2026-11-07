@@ -82238,6 +82238,27 @@
    "w": 0.6588,
    "src": "orig",
    "editeLe": 1794059812146
+  },
+  "insectes_termite": {
+   "cx": 0.4526,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059816180
+  },
+  "insectes_monarque-papillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7127,
+   "src": "orig",
+   "editeLe": 1794059818121
+  },
+  "insectes_paon-du-jour": {
+   "cx": 0.4833,
+   "cy": 0.4833,
+   "w": 0.543,
+   "src": "orig",
+   "editeLe": 1794059820352
   }
  }
 }

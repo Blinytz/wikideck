@@ -77373,6 +77373,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055057030
+  },
+  "conquete-spatiale_station-spatiale-chinoise": {
+   "cx": 0.4609,
+   "cy": 0.4998,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794055061923
+  },
+  "conquete-spatiale_chandrayaan-3": {
+   "cx": 0.4585,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794055065096
   }
  }
 }

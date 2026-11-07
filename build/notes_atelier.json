@@ -79529,6 +79529,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058284102
+  },
+  "noeuds_n-ud-de-carrick": {
+   "cx": 0.5409,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058291112
+  },
+  "noeuds_n-ud-de-zeppelin": {
+   "cx": 0.5842,
+   "cy": 0.5273,
+   "w": 0.6118,
+   "src": "full",
+   "editeLe": 1794058298668
   }
  }
 }

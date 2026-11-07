@@ -90554,6 +90554,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067077079
+  },
+  "mode-et-couturiers_sonia-rykiel": {
+   "cx": 0.5217,
+   "cy": 0.4562,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794067079298
+  },
+  "mode-et-couturiers_jean-paul-gaultier": {
+   "cx": 0.5,
+   "cy": 0.3227,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067081404
+  },
+  "mode-et-couturiers_thierry-mugler": {
+   "cx": 0.5,
+   "cy": 0.3292,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067084057
+  },
+  "mode-et-couturiers_alexander-mcqueen": {
+   "cx": 0.5,
+   "cy": 0.4281,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067085839
   }
  }
 }

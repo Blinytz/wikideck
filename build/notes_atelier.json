@@ -77072,6 +77072,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794054801788
+  },
+  "conquete-spatiale_soyouz-vehicule-spatial": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7763,
+   "src": "orig",
+   "editeLe": 1794054804130
+  },
+  "conquete-spatiale_hubble-telescope-spatial": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054806243
+  },
+  "conquete-spatiale_james-webb-telescope-spatial": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.725,
+   "src": "orig",
+   "editeLe": 1794054808699
+  },
+  "conquete-spatiale_voyager-1": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054810296
   }
  }
 }

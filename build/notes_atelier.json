@@ -81580,6 +81580,34 @@
    "w": 0.7836,
    "src": "full",
    "editeLe": 1794059543944
+  },
+  "reptiles-et-amphibiens_macrochelys-temminckii": {
+   "cx": 0.3875,
+   "cy": 0.5002,
+   "w": 0.7681,
+   "src": "orig",
+   "editeLe": 1794059546856
+  },
+  "reptiles-et-amphibiens_tortue-d-hermann": {
+   "cx": 0.4446,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059548657
+  },
+  "reptiles-et-amphibiens_caretta-caretta": {
+   "cx": 0.577,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059551754
+  },
+  "reptiles-et-amphibiens_cobra-indien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059554286
   }
  }
 }

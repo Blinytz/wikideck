@@ -81279,6 +81279,20 @@
    "w": 0.7687,
    "src": "orig",
    "editeLe": 1794059365816
+  },
+  "oiseaux_guepier-d-europe": {
+   "cx": 0.5558,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059368080
+  },
+  "oiseaux_nandou-d-amerique": {
+   "cx": 0.5387,
+   "cy": 0.483,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059373126
   }
  }
 }

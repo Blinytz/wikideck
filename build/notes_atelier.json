@@ -79795,6 +79795,41 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058536152
+  },
+  "mammiferes_caracal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058538164
+  },
+  "mammiferes_ours-blanc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058540100
+  },
+  "mammiferes_ours-brun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058541877
+  },
+  "mammiferes_ours-noir-d-amerique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7953,
+   "src": "orig",
+   "editeLe": 1794058543656
+  },
+  "mammiferes_panda-geant": {
+   "cx": 0.5,
+   "cy": 0.4244,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058545624
   }
  }
 }

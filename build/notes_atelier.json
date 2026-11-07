@@ -81426,6 +81426,27 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794059434182
+  },
+  "reptiles-et-amphibiens_tortue-luth": {
+   "cx": 0.4055,
+   "cy": 0.4998,
+   "w": 0.6325,
+   "src": "orig",
+   "editeLe": 1794059437105
+  },
+  "reptiles-et-amphibiens_tortue-de-floride": {
+   "cx": 0.544,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059439821
+  },
+  "reptiles-et-amphibiens_basiliscus-plumifrons": {
+   "cx": 0.5253,
+   "cy": 0.4191,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059442598
   }
  }
 }

@@ -85682,6 +85682,62 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794064148363
+  },
+  "fleurs_digitalis-purpurea": {
+   "cx": 0.5,
+   "cy": 0.4782,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064150377
+  },
+  "fleurs_renoncule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064151965
+  },
+  "fleurs_pissenlit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064153361
+  },
+  "fleurs_chardon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794064154690
+  },
+  "fleurs_pelargonium": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7634,
+   "src": "orig",
+   "editeLe": 1794064155966
+  },
+  "fleurs_primevere-officinale": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.721,
+   "src": "orig",
+   "editeLe": 1794064157776
+  },
+  "fleurs_perce-neige": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794064159292
+  },
+  "fleurs_hyacinthus-orientalis": {
+   "cx": 0.5,
+   "cy": 0.4593,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064160857
   }
  }
 }

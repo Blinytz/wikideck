@@ -82301,6 +82301,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059836761
+  },
+  "insectes_bombyx-du-murier": {
+   "cx": 0.6083,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1794059839300
+  },
+  "insectes_coccinella-septempunctata": {
+   "cx": 0.412,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059842050
+  },
+  "insectes_dynastinae": {
+   "cx": 0.5493,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059844687
   }
  }
 }

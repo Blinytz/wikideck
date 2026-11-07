@@ -94292,6 +94292,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068663771
+  },
+  "auteurs-classiques_boccace": {
+   "cx": 0.4997,
+   "cy": 0.2949,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068667259
+  },
+  "auteurs-classiques_erasme": {
+   "cx": 0.4926,
+   "cy": 0.4059,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068669893
+  },
+  "auteurs-classiques_luis-de-camoes": {
+   "cx": 0.4185,
+   "cy": 0.5002,
+   "w": 0.6098,
+   "src": "orig",
+   "editeLe": 1794068673160
   }
  }
 }

@@ -83589,6 +83589,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062919695
+  },
+  "races-de-chien_bichon-a-poil-frise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7844,
+   "src": "orig",
+   "editeLe": 1794062921666
+  },
+  "races-de-chien_bichon-maltais": {
+   "cx": 0.445,
+   "cy": 0.4118,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062926018
+  },
+  "races-de-chien_chihuahua-chien": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794062928081
   }
  }
 }

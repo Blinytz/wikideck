@@ -79,9 +79,11 @@
 .k-art img + .k-init { display: none; }
 
 .k-haut { position: absolute; top: .75em; left: .75em; right: .75em; display: flex; justify-content: space-between; align-items: center; z-index: 4; }
-.k-num, .k-ico { display: inline-flex; align-items: center; border-radius: 99px; background: #0009; box-shadow: 0 0 0 1px #ffffff18 inset; }
-.k-num { font: 500 .66em var(--mono); color: #fffd; letter-spacing: .04em; height: 2.2em; padding: 0 .8em; }
-.k-num small { color: #fff7; font-size: 1em; }
+.k-pvh, .k-ico { display: inline-flex; align-items: center; border-radius: 99px; background: #0009; box-shadow: 0 0 0 1px #ffffff18 inset; }
+.k-pvh { font: 600 .74em var(--mono); color: #fff; letter-spacing: .02em; height: 2.1em; padding: 0 .8em; }
+.k-pvh small { color: #fff9; font-size: .78em; margin-left: .3em; letter-spacing: .08em; }
+.k-num { font: 500 .66em var(--mono); color: #fffb; letter-spacing: .04em; }
+.k-num small { color: #fff6; font-size: 1em; }
 .k-ico { width: 1.7em; height: 1.7em; justify-content: center; color: var(--rar); font-size: .95em; }
 .k-bas { position: absolute; left: 0; right: 0; bottom: 0; padding: 0 1em .95em; z-index: 4; }
 .k-col { font: 600 calc(.56em * var(--ec)) / 1.25 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: #fffa; margin-bottom: .45em; text-wrap: balance; }
@@ -155,7 +157,7 @@
 .k.r-legendaire .k-holo { opacity: .38; background-image: linear-gradient(115deg, transparent 25%, #f2c66d66 42%, #fff3c488 50%, #f2c66d66 58%, transparent 75%); }
 .k.r-legendaire .k-nom { background: linear-gradient(180deg, #fff6d8, #f2c66d 60%, #b9862e); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none; filter: drop-shadow(0 1px 0 #3a2706) drop-shadow(0 2px 12px #000a); }
 .k.r-legendaire .k-pied { border-top-color: #f2c66d55; }
-.k.r-legendaire .k-num { background: #1d1303d0; box-shadow: 0 0 0 1px #f2c66d77 inset; color: #f8e1a1; }
+.k.r-legendaire .k-pvh { background: #1d1303d0; box-shadow: 0 0 0 1px #f2c66d77 inset; color: #f8e1a1; }
 
 /* ----- panthéon : céleste ----- */
 .k.r-pantheon { --pc: #fff; }
@@ -211,7 +213,7 @@
   .k-fond { filter: blur(calc(var(--w) * .07)) saturate(1.5) brightness(.5); }
   .k-holo { opacity: .16 !important; }
   .k-haut { top: .6em; left: .6em; right: .6em; justify-content: flex-end; }
-  .k-num, .k-col, .k-pied { display: none; }
+  .k-pvh, .k-col, .k-pied { display: none; }
   .k-ico { font-size: 1.5em; background: #000a; }
   .k.r-commune .k-ico { display: none; }
   .k-bas { padding: 0 1em 1em; background: none !important; backdrop-filter: none !important; }

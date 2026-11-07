@@ -120,7 +120,9 @@ export function htmlCarte(c, { dos = false, neuve = false, total = c.total, imag
   // une image recadrée au format carte dans l'atelier passe avant l'illustration 4:3
   const plein = c.imgC && c.imageUrl ? c.imageUrl.replace('/full/', '/cartes/') + `?v=${c.imgC}` : null;
   const src = plein || ((image === 'full' ? c.imageUrl : c.thumbUrl) + v);
+  // les PV sont en tête, la numérotation descend au pied de la carte
   const num = c.numero != null ? `<span class="k-num">${String(c.numero).padStart(3, '0')}${total ? `<small>/${total}</small>` : ''}</span>` : '<span></span>';
+  const pv = `<span class="k-pvh">${c.pv}<small>PV</small></span>`;
   return `<div class="k r-${c.rarete}${plein ? ' plein' : ''}${dos ? ' dos' : ''}" data-id="${esc(c.id)}" style="--img:url('${esc(src)}');--rar:var(--r-${c.rarete});--en:${echelleNom(c.nom)};--ec:${echelleCol(c.collection || '')}" ${attrs}>
   <div class="k-in">
     <div class="k-face">
@@ -129,11 +131,11 @@ export function htmlCarte(c, { dos = false, neuve = false, total = c.total, imag
       <div class="k-matiere"></div>
       <div class="k-holo"></div>
       ${htmlPaillettes(c)}
-      <div class="k-haut">${num}<span class="k-ico">${iconeRarete(c.rarete)}</span></div>
+      <div class="k-haut">${pv}<span class="k-ico">${iconeRarete(c.rarete)}</span></div>
       <div class="k-bas">
         <div class="k-col">${esc(c.collection)}</div>
         <div class="k-nom">${esc(c.nom)}</div>
-        <div class="k-pied"><span class="k-rarnom">${iconeRarete(c.rarete)}${NOMS[c.rarete]}</span><span class="k-pv">${c.pv}<small>PV</small></span></div>
+        <div class="k-pied"><span class="k-rarnom">${iconeRarete(c.rarete)}${NOMS[c.rarete]}</span>${num}</div>
       </div>
       <div class="k-glare"></div>
       <div class="k-cadre"></div>

@@ -81020,6 +81020,27 @@
    "w": 0.673,
    "src": "full",
    "editeLe": 1794059217109
+  },
+  "oiseaux_grand-geocoucou": {
+   "cx": 0.5929,
+   "cy": 0.407,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059219560
+  },
+  "oiseaux_martin-chasseur-geant": {
+   "cx": 0.452,
+   "cy": 0.3099,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059222505
+  },
+  "oiseaux_menura": {
+   "cx": 0.5071,
+   "cy": 0.4998,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794059225104
   }
  }
 }

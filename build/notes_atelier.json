@@ -80467,6 +80467,41 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794058939904
+  },
+  "mammiferes_bouquetin-des-alpes": {
+   "cx": 0.4185,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794058943645
+  },
+  "mammiferes_chamois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794058945626
+  },
+  "mammiferes_b-uf-musque": {
+   "cx": 0.55,
+   "cy": 0.5,
+   "w": 0.7329,
+   "src": "orig",
+   "editeLe": 1794058947682
+  },
+  "mammiferes_impala": {
+   "cx": 0.4327,
+   "cy": 0.5,
+   "w": 0.7046,
+   "src": "orig",
+   "editeLe": 1794058950013
+  },
+  "mammiferes_oryx-gazelle": {
+   "cx": 0.5094,
+   "cy": 0.5048,
+   "w": 0.5435,
+   "src": "orig",
+   "editeLe": 1794058952191
   }
  }
 }

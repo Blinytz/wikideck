@@ -96077,6 +96077,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069469812
+  },
+  "auteurs-modernes_selma-lagerlof": {
+   "cx": 0.4926,
+   "cy": 0.4828,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069472054
+  },
+  "auteurs-modernes_karel-capek": {
+   "cx": 0.4926,
+   "cy": 0.3379,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069474300
+  },
+  "auteurs-modernes_nikos-kazantzakis": {
+   "cx": 0.548,
+   "cy": 0.5002,
+   "w": 0.6225,
+   "src": "orig",
+   "editeLe": 1794069477734
+  },
+  "auteurs-modernes_nadine-gordimer": {
+   "cx": 0.4926,
+   "cy": 0.421,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069480146
   }
  }
 }

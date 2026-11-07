@@ -82917,6 +82917,27 @@
    "w": 0.7227,
    "src": "orig",
    "editeLe": 1794062410091
+  },
+  "dinosaures-celebres_utahraptor": {
+   "cx": 0.4302,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794062412727
+  },
+  "dinosaures-celebres_carcharodontosaurus": {
+   "cx": 0.5881,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062417091
+  },
+  "dinosaures-celebres_brontosaurus": {
+   "cx": 0.5684,
+   "cy": 0.5042,
+   "w": 0.4172,
+   "src": "orig",
+   "editeLe": 1794062419516
   }
  }
 }

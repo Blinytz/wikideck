@@ -81468,6 +81468,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059449942
+  },
+  "reptiles-et-amphibiens_salamandre-maculee": {
+   "cx": 0.5435,
+   "cy": 0.4998,
+   "w": 0.7942,
+   "src": "orig",
+   "editeLe": 1794059452923
+  },
+  "reptiles-et-amphibiens_axolotl": {
+   "cx": 0.5288,
+   "cy": 0.5,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794059455676
+  },
+  "reptiles-et-amphibiens_rainette-verte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059458073
   }
  }
 }

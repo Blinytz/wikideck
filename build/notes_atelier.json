@@ -90106,6 +90106,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066914797
+  },
+  "architectes_richard-rogers": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794066916705
+  },
+  "architectes_herzog-de-meuron": {
+   "cx": 0.485,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794066919216
+  },
+  "architectes_daniel-libeskind": {
+   "cx": 0.5,
+   "cy": 0.4444,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066921040
+  },
+  "architectes_peter-zumthor": {
+   "cx": 0.4948,
+   "cy": 0.4817,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066924095
   }
  }
 }

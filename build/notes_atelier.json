@@ -83358,6 +83358,20 @@
    "w": 0.7756,
    "src": "orig",
    "editeLe": 1794062637947
+  },
+  "creatures-prehistoriques_thylacine": {
+   "cx": 0.5265,
+   "cy": 0.5866,
+   "w": 0.4672,
+   "src": "orig",
+   "editeLe": 1794062690894
+  },
+  "creatures-prehistoriques_entelodontidae": {
+   "cx": 0.5211,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062692920
   }
  }
 }

@@ -90232,6 +90232,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066958716
+  },
+  "styles-architecturaux_architecture-gothique": {
+   "cx": 0.4948,
+   "cy": 0.4818,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066961275
+  },
+  "styles-architecturaux_architecture-islamique": {
+   "cx": 0.5,
+   "cy": 0.4998,
+   "w": 0.7685,
+   "src": "orig",
+   "editeLe": 1794066963569
+  },
+  "styles-architecturaux_art-mudejar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794066966028
+  },
+  "styles-architecturaux_architecture-de-la-renaissance": {
+   "cx": 0.4979,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794066968981
   }
  }
 }

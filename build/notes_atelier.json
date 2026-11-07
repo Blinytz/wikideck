@@ -77856,6 +77856,27 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794055449457
+  },
+  "astronautes-et-cosmonautes_roberta-bondar": {
+   "cx": 0.451,
+   "cy": 0.4998,
+   "w": 0.7824,
+   "src": "orig",
+   "editeLe": 1794055452109
+  },
+  "astronautes-et-cosmonautes_marc-garneau": {
+   "cx": 0.5072,
+   "cy": 0.4459,
+   "w": 0.659,
+   "src": "orig",
+   "editeLe": 1794055454632
+  },
+  "astronautes-et-cosmonautes_julie-payette": {
+   "cx": 0.5027,
+   "cy": 0.3243,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055457234
   }
  }
 }

@@ -78943,18 +78943,18 @@
    "editeLe": 1794057830590
   },
   "vehicules-celebres_galion": {
-   "cx": 0.5341,
-   "cy": 0.5,
+   "cx": 0.5555,
+   "cy": 0.5004,
    "w": 0.727,
    "src": "orig",
-   "editeLe": 1794057832561
+   "editeLe": 1794057843929
   },
   "vehicules-celebres_caravelle-navire": {
    "cx": 0.5,
    "cy": 0.4468,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794057834530
+   "editeLe": 1794057845234
   }
  }
 }

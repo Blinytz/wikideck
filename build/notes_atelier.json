@@ -92192,6 +92192,27 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794067679770
+  },
+  "oeuvres-musicales_vingt-quatre-caprices-pour-violon-de-paganini": {
+   "cx": 0.5,
+   "cy": 0.3498,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067682485
+  },
+  "oeuvres-musicales_lucia-di-lammermoor": {
+   "cx": 0.5,
+   "cy": 0.5169,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067684175
+  },
+  "oeuvres-musicales_norma-opera": {
+   "cx": 0.4651,
+   "cy": 0.491,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067688019
   }
  }
 }

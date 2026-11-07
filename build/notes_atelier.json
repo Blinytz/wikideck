@@ -93746,6 +93746,27 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794068405237
+  },
+  "instruments-de-musique_roland-tr-808": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7057,
+   "src": "orig",
+   "editeLe": 1794068407108
+  },
+  "auteurs-classiques_homere": {
+   "cx": 0.5615,
+   "cy": 0.309,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068411133
+  },
+  "auteurs-classiques_sophocle": {
+   "cx": 0.5,
+   "cy": 0.3067,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068413059
   }
  }
 }

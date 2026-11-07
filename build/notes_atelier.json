@@ -83099,6 +83099,27 @@
    "w": 0.5517,
    "src": "orig",
    "editeLe": 1794062534083
+  },
+  "creatures-prehistoriques_kronosaurus": {
+   "cx": 0.469,
+   "cy": 0.4998,
+   "w": 0.7429,
+   "src": "orig",
+   "editeLe": 1794062536518
+  },
+  "creatures-prehistoriques_shonisaurus": {
+   "cx": 0.5615,
+   "cy": 0.4237,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062539216
+  },
+  "creatures-prehistoriques_titanoboa": {
+   "cx": 0.4153,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062542077
   }
  }
 }

@@ -91996,6 +91996,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067605547
+  },
+  "oeuvres-musicales_einstein-on-the-beach": {
+   "cx": 0.5,
+   "cy": 0.4089,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067607838
+  },
+  "oeuvres-musicales_music-for-18-musicians": {
+   "cx": 0.4942,
+   "cy": 0.5634,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067609650
+  },
+  "oeuvres-musicales_les-indes-galantes": {
+   "cx": 0.5433,
+   "cy": 0.4735,
+   "w": 0.6578,
+   "src": "orig",
+   "editeLe": 1794067611627
+  },
+  "oeuvres-musicales_dido-and-neas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794067613474
   }
  }
 }

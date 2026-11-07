@@ -82063,6 +82063,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794059731250
+  },
+  "poissons-et-vie-marine_sardina-pilchardus": {
+   "cx": 0.4505,
+   "cy": 0.5002,
+   "w": 0.6867,
+   "src": "orig",
+   "editeLe": 1794059734378
+  },
+  "poissons-et-vie-marine_clupea-harengus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059736176
+  },
+  "poissons-et-vie-marine_scomber-scombrus": {
+   "cx": 0.4693,
+   "cy": 0.5053,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059739895
   }
  }
 }

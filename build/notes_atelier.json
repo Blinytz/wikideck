@@ -86361,6 +86361,48 @@
    "w": 0.6327,
    "src": "orig",
    "editeLe": 1794064397368
+  },
+  "plantes-cultivees_betterave": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5682,
+   "src": "orig",
+   "editeLe": 1794064398884
+  },
+  "plantes-cultivees_colza": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064400229
+  },
+  "plantes-cultivees_orge-commune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7211,
+   "src": "orig",
+   "editeLe": 1794064402082
+  },
+  "plantes-cultivees_manioc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064403811
+  },
+  "plantes-cultivees_avoine-cultivee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064405483
+  },
+  "plantes-cultivees_seigle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064407065
   }
  }
 }

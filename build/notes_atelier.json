@@ -84247,6 +84247,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794063405253
+  },
+  "races-de-chien_springer-anglais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063407325
+  },
+  "races-de-chien_retriever-a-poil-plat": {
+   "cx": 0.4198,
+   "cy": 0.5,
+   "w": 0.6837,
+   "src": "orig",
+   "editeLe": 1794063409143
+  },
+  "races-de-chien_griffon-d-arret-a-poil-dur-korthals": {
+   "cx": 0.4306,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063411602
+  },
+  "races-de-chien_chien-d-eau-portugais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063413618
+  },
+  "races-de-chien_chien-chinois-a-crete": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7614,
+   "src": "orig",
+   "editeLe": 1794063415710
   }
  }
 }

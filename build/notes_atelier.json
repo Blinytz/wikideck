@@ -93928,6 +93928,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068509739
+  },
+  "auteurs-classiques_honore-de-balzac": {
+   "cx": 0.4926,
+   "cy": 0.4211,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068512553
+  },
+  "auteurs-classiques_stendhal": {
+   "cx": 0.4926,
+   "cy": 0.4288,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068515546
+  },
+  "auteurs-classiques_charles-dickens": {
+   "cx": 0.4994,
+   "cy": 0.5001,
+   "w": 0.6701,
+   "src": "orig",
+   "editeLe": 1794068518578
   }
  }
 }

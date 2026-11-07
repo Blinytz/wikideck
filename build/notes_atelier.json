@@ -94411,6 +94411,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068718762
+  },
+  "auteurs-classiques_chateaubriand-viande": {
+   "cx": 0.4926,
+   "cy": 0.3535,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068720971
+  },
+  "auteurs-classiques_alphonse-de-lamartine": {
+   "cx": 0.4926,
+   "cy": 0.3816,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068723548
+  },
+  "auteurs-classiques_alfred-de-musset": {
+   "cx": 0.4926,
+   "cy": 0.3819,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068725796
   }
  }
 }

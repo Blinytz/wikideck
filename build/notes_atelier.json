@@ -97470,6 +97470,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070219038
+  },
+  "mouvements-litteraires_surrealisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.791,
+   "src": "orig",
+   "editeLe": 1794070220907
+  },
+  "mouvements-litteraires_dada": {
+   "cx": 0.5,
+   "cy": 0.3626,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070222967
+  },
+  "mouvements-litteraires_existentialisme": {
+   "cx": 0.5334,
+   "cy": 0.4998,
+   "w": 0.7413,
+   "src": "orig",
+   "editeLe": 1794070225943
+  },
+  "mouvements-litteraires_theatre-de-l-absurde": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8016,
+   "src": "orig",
+   "editeLe": 1794070227771
   }
  }
 }

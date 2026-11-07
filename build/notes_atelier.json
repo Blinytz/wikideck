@@ -97029,6 +97029,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794070059231
+  },
+  "personnages-litterature_anna-karenine": {
+   "cx": 0.4926,
+   "cy": 0.3569,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070061817
+  },
+  "personnages-litterature_meursault": {
+   "cx": 0.4926,
+   "cy": 0.5671,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070065281
+  },
+  "personnages-litterature_romeo-et-juliette": {
+   "cx": 0.4926,
+   "cy": 0.4279,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070067842
   }
  }
 }

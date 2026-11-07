@@ -85864,6 +85864,41 @@
    "w": 0.7588,
    "src": "orig",
    "editeLe": 1794064198016
+  },
+  "champignons_cantharellus-cibarius": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7709,
+   "src": "orig",
+   "editeLe": 1794064199560
+  },
+  "champignons_coprin-chevelu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064201187
+  },
+  "champignons_psilocybe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064202856
+  },
+  "champignons_penicillium": {
+   "cx": 0.5121,
+   "cy": 0.4945,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794064204798
+  },
+  "champignons_agaricus-bisporus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064207105
   }
  }
 }

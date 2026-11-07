@@ -80852,6 +80852,20 @@
    "w": 0.7396,
    "src": "orig",
    "editeLe": 1794059145045
+  },
+  "oiseaux_fou-de-bassan": {
+   "cx": 0.4855,
+   "cy": 0.4548,
+   "w": 0.6578,
+   "src": "orig",
+   "editeLe": 1794059148401
+  },
+  "oiseaux_grue-du-japon": {
+   "cx": 0.5565,
+   "cy": 0.5853,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794059153581
   }
  }
 }

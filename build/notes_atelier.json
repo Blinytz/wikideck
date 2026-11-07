@@ -81783,6 +81783,27 @@
    "w": 0.6948,
    "src": "orig",
    "editeLe": 1794059623290
+  },
+  "poissons-et-vie-marine_espadon": {
+   "cx": 0.4677,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059625613
+  },
+  "poissons-et-vie-marine_istiophoridae": {
+   "cx": 0.5932,
+   "cy": 0.4998,
+   "w": 0.6273,
+   "src": "orig",
+   "editeLe": 1794059629576
+  },
+  "poissons-et-vie-marine_thon-rouge": {
+   "cx": 0.4602,
+   "cy": 0.5002,
+   "w": 0.5211,
+   "src": "orig",
+   "editeLe": 1794059632140
   }
  }
 }

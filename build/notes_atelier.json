@@ -89343,6 +89343,34 @@
    "w": 0.76,
    "src": "orig",
    "editeLe": 1794066578416
+  },
+  "sculptures-celebres_cloud-gate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.724,
+   "src": "orig",
+   "editeLe": 1794066580346
+  },
+  "sculptures-celebres_apollon-et-daphne-le-bernin": {
+   "cx": 0.5018,
+   "cy": 0.4174,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794066582008
+  },
+  "sculptures-celebres_l-extase-de-sainte-therese": {
+   "cx": 0.5,
+   "cy": 0.3926,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066583968
+  },
+  "sculptures-celebres_christ-des-abysses": {
+   "cx": 0.4288,
+   "cy": 0.455,
+   "w": 0.5567,
+   "src": "orig",
+   "editeLe": 1794066587453
   }
  }
 }

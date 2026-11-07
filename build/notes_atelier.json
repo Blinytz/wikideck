@@ -94152,6 +94152,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068599873
+  },
+  "auteurs-classiques_george-sand": {
+   "cx": 0.4942,
+   "cy": 0.422,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068604431
+  },
+  "auteurs-classiques_confucius": {
+   "cx": 0.4527,
+   "cy": 0.341,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794068607620
+  },
+  "auteurs-classiques_sun-tzu": {
+   "cx": 0.4926,
+   "cy": 0.4914,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068610580
   }
  }
 }

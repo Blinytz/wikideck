@@ -79088,6 +79088,34 @@
    "w": 0.7863,
    "src": "orig",
    "editeLe": 1794057911671
+  },
+  "vehicules-celebres_hms-beagle": {
+   "cx": 0.5659,
+   "cy": 0.5,
+   "w": 0.6733,
+   "src": "orig",
+   "editeLe": 1794057913450
+  },
+  "vehicules-celebres_uss-constitution": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8007,
+   "src": "orig",
+   "editeLe": 1794057915615
+  },
+  "vehicules-celebres_fram-navire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057917526
+  },
+  "vehicules-celebres_pourquoi-pas-iv": {
+   "cx": 0.4763,
+   "cy": 0.5,
+   "w": 0.6862,
+   "src": "orig",
+   "editeLe": 1794057919788
   }
  }
 }

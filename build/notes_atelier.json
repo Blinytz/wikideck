@@ -91527,6 +91527,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067413956
+  },
+  "grands-compositeurs_alban-berg": {
+   "cx": 0.5128,
+   "cy": 0.4001,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067415902
+  },
+  "grands-compositeurs_gyorgy-ligeti": {
+   "cx": 0.5,
+   "cy": 0.4554,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067417728
+  },
+  "grands-compositeurs_karlheinz-stockhausen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067422097
   }
  }
 }

@@ -37,7 +37,7 @@
 </nav>
 
 <script type="module">
-import { htmlCarte, brancherManipulation, RARETES, NOMS, ICONES, esc } from '../js/v2/carte.js';
+import { htmlCarte, brancherManipulation, RARETES, NOMS, ICONES, iconeRarete, esc } from '../js/v2/carte.js';
 import { ouvrirPaquet } from '../js/v2/ouverture.js';
 import { son, sonActif, activerSon } from '../js/v2/son.js';
 
@@ -172,7 +172,7 @@ function rendreAccueil() {
       ${paquets ? `<button class="btn2 or" id="ouvrir"><i class="ph-bold ph-cards"></i>Ouvrir</button>` : ''}
       <div class="prochain"><i class="ph-fill ph-timer"></i><span id="minuteur"></span></div>
     </div>
-    <div class="essai" id="essai">${['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === tete ? 'actif' : ''}"><i class="ph${r === 'auto' ? ' ph-shuffle' : '-fill ' + ICONES[r]}"></i></button>`).join('')}</div>
+    <div class="essai" id="essai">${['auto', ...RARETES].map((r) => `<button data-r="${r}" class="${r === tete ? 'actif' : ''}">${r === 'auto' ? '<i class="ph ph-shuffle"></i>' : iconeRarete(r)}</button>`).join('')}</div>
 
     <button class="bloc qdj pressable" data-aller="questions" style="--t:${tq.c}">
       <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag"><i class="ph-bold ph-timer"></i>−3 h</span></div>
@@ -435,12 +435,12 @@ function rendreUneCollection(slug) {
       <div class="jalons"><div class="barre2"><i style="width:${p * 100}%"></i></div>
         ${JALONS.map(([s, ic, lib]) => `<div class="jalon${p >= s ? ' atteint' : ''}" style="left:${s * 100}%"><b><i class="ph-fill ${ic}"></i></b><span>${lib}</span></div>`).join('')}</div>
       <div class="jalons-pied"></div>
-      <div class="rar-detail">${parR.map(([r, l]) => `<span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${l.filter((c) => possede.has(c.id)).length}/${l.length}</span>`).join('')}</div>
+      <div class="rar-detail">${parR.map(([r, l]) => `<span style="color:var(--r-${r})">${iconeRarete(r)}${l.filter((c) => possede.has(c.id)).length}/${l.length}</span>`).join('')}</div>
     </div>
     <div class="segment">${[['toutes', 'Toutes'], ['possedees', 'Possédées'], ['manquantes', 'Manquantes']].map(([v, l]) => `<button data-f="${v}" class="${v === filtre ? 'actif' : ''}">${l}</button>`).join('')}</div>
     ${liste.length ? `<div class="grille">${liste.map((c) => possede.has(c.id)
       ? `<div class="cellule">${htmlCarte(c)}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
-      : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b><i class="ph-fill ${ICONES[c.rarete]}" style="color:var(--r-${c.rarete})"></i></div>`).join('')}</div>`
+      : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b>${iconeRarete(c.rarete)}</div>`).join('')}</div>`
       : filtre === 'manquantes' ? `<div class="vide-etat"><i class="ph-fill ph-seal-check" style="color:var(--or)"></i>Complète</div>` : `<div class="vide-etat"><i class="ph ph-cards"></i>Aucune carte</div>`}`;
   $('#ret').addEventListener('click', () => {
     vibrer(); son('tap');
@@ -466,7 +466,7 @@ function fiche(liste, i, source) {
       <div class="scene">${i > 0 ? '<button class="nav-f g" aria-label="Précédente"><i class="ph-bold ph-caret-left"></i></button>' : ''}${htmlCarte(c, { image: 'full' })}${i < liste.length - 1 ? '<button class="nav-f d" aria-label="Suivante"><i class="ph-bold ph-caret-right"></i></button>' : ''}</div>
       <div class="feuille" style="--rar:var(--r-${c.rarete})">
         <div class="poignee"></div>
-        <span class="rar"><i class="ph-fill ${ICONES[c.rarete]}"></i>${NOMS[c.rarete]}</span>
+        <span class="rar">${iconeRarete(c.rarete)}${NOMS[c.rarete]}</span>
         <h2>${esc(c.nom)}</h2>
         <span class="tag teinte" style="--t:${teinte(colDe(c)?.theme).c}"><i class="ph-fill ${teinte(colDe(c)?.theme).ic}"></i>${esc(c.collection)}</span>
         <div class="stats"><div><b>${c.pv}</b><span>PV</span></div><div><b>×${q}</b><span>Possédée</span></div><div><b>${fr(REVENTE[c.rarete])}</b><span>Revente</span></div></div>
@@ -562,9 +562,9 @@ function htmlOffre(o) {
     <div class="ob-corps">
       <span class="tag teinte"><i class="ph-fill ${o.t.ic}"></i>${esc(o.sous)}</span>
       <h3>${esc(o.titre)}</h3>
-      <div class="ob-contenu"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
+      <div class="ob-contenu"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})">${iconeRarete(o.garantie)}${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
       <div class="ob-info">${o.inedites ? '100 % nouvelles' : `${fr(nouvelles)} à découvrir`}</div>
-      <div class="rar-detail ob-rar">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); const m = l.filter((c) => !possede.has(c.id)).length; return l.length ? `<span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${m}</span>` : ''; }).join('')}</div>
+      <div class="rar-detail ob-rar">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); const m = l.filter((c) => !possede.has(c.id)).length; return l.length ? `<span style="color:var(--r-${r})">${iconeRarete(r)}${m}</span>` : ''; }).join('')}</div>
       <div class="ob-pied">
         <button class="btn2 or pressable" data-acheter ${reste && o.prix <= solde ? '' : 'disabled'}><i class="ph-fill ph-diamond"></i>${fr(o.prix)}</button>
         ${o.avant ? `<s>${fr(o.avant)}</s>` : ''}
@@ -586,10 +586,10 @@ function detailOffre(o) {
       <div class="poignee"></div>
       <span class="tag teinte"><i class="ph-fill ${o.t.ic}"></i>${esc(o.sous)}</span>
       <h2>${esc(o.titre)}</h2>
-      <div class="chances">${rs.map((r) => { const p = CHANCES[r] / tot * 100; return `<div class="chance"><span style="color:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i>${NOMS[r]}</span><div class="barre2"><i style="width:${Math.max(1.5, p)}%;background:var(--r-${r})"></i></div><b>${p < 1 ? p.toFixed(1).replace('.', ',') : Math.round(p)} %</b></div>`; }).join('')}</div>
-      <div class="ob-contenu" style="margin-bottom:18px"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})"><i class="ph-fill ${ICONES[o.garantie]}"></i>dernière : ${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
+      <div class="chances">${rs.map((r) => { const p = CHANCES[r] / tot * 100; return `<div class="chance"><span style="color:var(--r-${r})">${iconeRarete(r)}${NOMS[r]}</span><div class="barre2"><i style="width:${Math.max(1.5, p)}%;background:var(--r-${r})"></i></div><b>${p < 1 ? p.toFixed(1).replace('.', ',') : Math.round(p)} %</b></div>`; }).join('')}</div>
+      <div class="ob-contenu" style="margin-bottom:18px"><span><b>${o.nb}</b> carte${o.nb > 1 ? 's' : ''}</span><span style="color:var(--r-${o.garantie})">${iconeRarete(o.garantie)}dernière : ${NOMS[o.garantie]}${o.garantie === 'pantheon' ? '' : ' ou mieux'}</span></div>
       <div class="section-titre"><h2>À découvrir</h2><span class="surtitre">${fr(o.cartes.filter((c) => !possede.has(c.id)).length)} / ${fr(o.cartes.length)}</span></div>
-      <div class="manques">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); if (!l.length) return ''; const m = l.filter((c) => !possede.has(c.id)).length; return `<div style="--r:var(--r-${r})"><i class="ph-fill ${ICONES[r]}"></i><b>${m}</b><span>${NOMS[r]}</span></div>`; }).join('')}</div>
+      <div class="manques">${RARETES.map((r) => { const l = o.cartes.filter((c) => c.rarete === r); if (!l.length) return ''; const m = l.filter((c) => !possede.has(c.id)).length; return `<div style="--r:var(--r-${r})">${iconeRarete(r)}<b>${m}</b><span>${NOMS[r]}</span></div>`; }).join('')}</div>
     </div>`;
   document.body.append(f); document.body.style.overflow = 'hidden';
   $('#ff', f).addEventListener('click', () => { son('tap'); f.remove(); document.body.style.overflow = ''; });

@@ -8,6 +8,83 @@ export const RARETES = ['commune', 'rare', 'epique', 'mythique', 'legendaire', '
 export const NOMS = { commune: 'Commune', rare: 'Rare', epique: 'Épique', mythique: 'Mythique', legendaire: 'Légendaire', pantheon: 'Panthéon' };
 export const ICONES = { commune: 'ph-circle', rare: 'ph-diamond', epique: 'ph-star-four', mythique: 'ph-sparkle', legendaire: 'ph-crown-simple', pantheon: 'ph-sun-horizon' };
 
+/* ---------- emblèmes de rareté : des pierres taillées, calculées et non dessinées ----------
+   La silhouette se complique avec la rareté (cabochon, losange, hexagone, étoiles à 4, 6, 8
+   branches) et chaque rang a sa matière ; chaque facette est ombrée selon son orientation
+   face à une lumière venue d'en haut à gauche, ce qui donne le relief d'une pierre ou d'une médaille. */
+const MATIERES = {
+  commune: ['#3c3f46', '#dcdee3'],
+  rare: ['#5d6f84', '#ffffff'],
+  epique: ['#33197e', '#e6dcff'],
+  mythique: ['#7a1f68', '#ffe1f4'],
+  legendaire: ['#6e3f06', '#fff3c2'],
+  pantheon: ['#4a86c9', '#ffffff'],
+};
+const IRISE = ['#ff8fd6', '#9fd4ff', '#c9a8ff', '#8ff0dc'];
+const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
+const melange = (a, b, t) => '#' + hex(a).map((x, i) => Math.round(x + (hex(b)[i] - x) * t).toString(16).padStart(2, '0')).join('');
+const LUM = [-.6, -.8];
+const eclat = (x, y) => { const n = Math.hypot(x, y) || 1; return .5 + .5 * ((x * LUM[0] + y * LUM[1]) / n); };
+const pt = (a, r) => [12 + Math.cos(a) * r, 12 + Math.sin(a) * r];
+const f2 = ([x, y]) => `${x.toFixed(2)},${y.toFixed(2)}`;
+const poly = (pts, fill, extra = '') => `<polygon points="${pts.map(f2).join(' ')}" fill="${fill}"${extra}/>`;
+
+function facettes(r) {
+  const [sombre, clair] = MATIERES[r];
+  const teinte = (t, i) => {
+    const base = r === 'mythique' ? melange(sombre, IRISE[i % 4], .35) : sombre;
+    return melange(base, r === 'mythique' ? melange(IRISE[(i + 1) % 4], '#ffffff', .3) : clair, Math.max(0, Math.min(1, t)));
+  };
+  const trait = ' stroke="#0000004d" stroke-width=".35" stroke-linejoin="round"';
+  if (r === 'commune') {
+    return `<defs><radialGradient id="rgc" cx=".36" cy=".32" r=".8"><stop offset="0" stop-color="${clair}"/><stop offset=".55" stop-color="${melange(sombre, clair, .45)}"/><stop offset="1" stop-color="${sombre}"/></radialGradient></defs>`
+      + `<circle cx="12" cy="12" r="7" fill="url(#rgc)"${trait}/><ellipse cx="9.6" cy="9.2" rx="2.4" ry="1.4" fill="#fff" opacity=".55" transform="rotate(-35 9.6 9.2)"/>`;
+  }
+  // taille à table : losange et hexagone
+  if (r === 'rare' || r === 'epique') {
+    const n = r === 'rare' ? 4 : 6, R = r === 'rare' ? 9.5 : 8.8, k = .46, a0 = -Math.PI / 2;
+    const ext = [...Array(n)].map((_, i) => pt(a0 + i * 2 * Math.PI / n, R));
+    const tab = [...Array(n)].map((_, i) => pt(a0 + i * 2 * Math.PI / n, R * k));
+    let s = '';
+    for (let i = 0; i < n; i++) {
+      const j = (i + 1) % n, m = [(ext[i][0] + ext[j][0]) / 2 - 12, (ext[i][1] + ext[j][1]) / 2 - 12];
+      s += poly([ext[i], ext[j], tab[j], tab[i]], teinte(eclat(...m), i), ' stroke="#ffffff2e" stroke-width=".25"');
+    }
+    s += poly(tab, teinte(.78, 0), ' stroke="#ffffff59" stroke-width=".3"');
+    return s + poly(ext, 'none', trait);
+  }
+  // étoiles biseautées : chaque branche fendue en deux pans, l'un éclairé, l'autre dans l'ombre
+  const n = { mythique: 4, legendaire: 6, pantheon: 8 }[r];
+  const R = { mythique: 10.2, legendaire: 10, pantheon: 9.6 }[r], ri = R * ({ mythique: .36, legendaire: .5, pantheon: .44 }[r]);
+  const a0 = -Math.PI / 2;
+  let s = '';
+  if (r === 'pantheon') s += `<circle cx="12" cy="12" r="11.1" fill="none" stroke="${clair}" stroke-opacity=".55" stroke-width=".6"/><circle cx="12" cy="12" r="11.1" fill="none" stroke="#9fd8ff" stroke-opacity=".35" stroke-width="1.6"/>`;
+  for (let i = 0; i < n; i++) {
+    const a = a0 + i * 2 * Math.PI / n, p = pt(a, R);
+    const g = pt(a - Math.PI / n, ri), d = pt(a + Math.PI / n, ri);
+    for (const [q, w] of [[g, -1], [d, 1]]) {
+      const m = [(p[0] + q[0]) / 2 - 12 + Math.cos(a + w * Math.PI / 2) * 2, (p[1] + q[1]) / 2 - 12 + Math.sin(a + w * Math.PI / 2) * 2];
+      s += poly([[12, 12], p, q], teinte(eclat(...m), i * 2 + (w > 0)), ' stroke="#ffffff26" stroke-width=".2" stroke-linejoin="round"');
+    }
+  }
+  const contour = [];
+  for (let i = 0; i < n; i++) { const a = a0 + i * 2 * Math.PI / n; contour.push(pt(a, R), pt(a + Math.PI / n, ri)); }
+  s += poly(contour, 'none', trait);
+  if (r === 'legendaire' || r === 'pantheon') s += `<circle cx="12" cy="12" r="${(ri * .26).toFixed(2)}" fill="${clair}" opacity=".85"/>`;
+  return s;
+}
+
+function poserSprite() {
+  if (typeof document === 'undefined' || document.getElementById('rar-sprite')) return;
+  const svg = `<svg id="rar-sprite" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">${RARETES.map((r) => `<symbol id="rg-${r}" viewBox="0 0 24 24">${facettes(r)}</symbol>`).join('')}</svg>`;
+  const go = () => document.body.insertAdjacentHTML('afterbegin', svg);
+  document.body ? go() : document.addEventListener('DOMContentLoaded', go, { once: true });
+}
+poserSprite();
+
+// l'emblème d'une rareté, à la taille du texte qui l'entoure
+export const iconeRarete = (r, cls = '') => `<svg class="rar-ico r-${r} ${cls}" viewBox="0 0 24 24" aria-label="${NOMS[r]}"><use href="#rg-${r}"/></svg>`;
+
 // paillettes : chacune a sa place, sa taille et l'angle sous lequel elle s'allume
 const PAILLETTES = { epique: 10, mythique: 26, legendaire: 30, pantheon: 34 };
 function graine(s) { let h = 2166136261; for (const ch of s) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return () => ((h = Math.imul(h ^ (h >>> 15), 2246822507) >>> 0) / 4294967295); }
@@ -52,11 +129,11 @@ export function htmlCarte(c, { dos = false, neuve = false, total = c.total, imag
       <div class="k-matiere"></div>
       <div class="k-holo"></div>
       ${htmlPaillettes(c)}
-      <div class="k-haut">${num}<span class="k-ico"><i class="ph-fill ${ICONES[c.rarete]}"></i></span></div>
+      <div class="k-haut">${num}<span class="k-ico">${iconeRarete(c.rarete)}</span></div>
       <div class="k-bas">
         <div class="k-col">${esc(c.collection)}</div>
         <div class="k-nom">${esc(c.nom)}</div>
-        <div class="k-pied"><span class="k-rarnom">${NOMS[c.rarete]}</span><span class="k-pv">${c.pv}<small>PV</small></span></div>
+        <div class="k-pied"><span class="k-rarnom">${iconeRarete(c.rarete)}${NOMS[c.rarete]}</span><span class="k-pv">${c.pv}<small>PV</small></span></div>
       </div>
       <div class="k-glare"></div>
       <div class="k-cadre"></div>

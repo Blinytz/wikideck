@@ -84730,6 +84730,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063602042
+  },
+  "races-de-cheval_fjord-cheval": {
+   "cx": 0.4804,
+   "cy": 0.4563,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063605313
+  },
+  "races-de-cheval_shetland-cheval": {
+   "cx": 0.4585,
+   "cy": 0.4998,
+   "w": 0.6799,
+   "src": "orig",
+   "editeLe": 1794063607892
   }
  }
 }

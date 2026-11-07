@@ -79305,6 +79305,20 @@
    "w": 0.7213,
    "src": "orig",
    "editeLe": 1794058008259
+  },
+  "vehicules-celebres_pen-duick": {
+   "cx": 0.4933,
+   "cy": 0.6072,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058012117
+  },
+  "vehicules-celebres_uss-nautilus-ssn-571": {
+   "cx": 0.5373,
+   "cy": 0.5017,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058014767
   }
  }
 }

@@ -93697,6 +93697,27 @@
    "w": 0.7193,
    "src": "orig",
    "editeLe": 1794068227082
+  },
+  "instruments-de-musique_piccolo-instrument": {
+   "cx": 0.4409,
+   "cy": 0.5002,
+   "w": 0.7662,
+   "src": "orig",
+   "editeLe": 1794068230318
+  },
+  "instruments-de-musique_ocarina": {
+   "cx": 0.5102,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794068234654
+  },
+  "instruments-de-musique_shakuhachi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7111,
+   "src": "orig",
+   "editeLe": 1794068236778
   }
  }
 }

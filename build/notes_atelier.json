@@ -92696,6 +92696,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067887555
+  },
+  "musique-populaire_the-doors": {
+   "cx": 0.4496,
+   "cy": 0.5,
+   "w": 0.8048,
+   "src": "orig",
+   "editeLe": 1794067891172
+  },
+  "musique-populaire_the-who": {
+   "cx": 0.4696,
+   "cy": 0.5,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794067895524
   }
  }
 }

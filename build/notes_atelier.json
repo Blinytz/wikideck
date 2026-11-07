@@ -79480,6 +79480,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058228436
+  },
+  "vehicules-celebres_draisienne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058231960
+  },
+  "vehicules-celebres_routemaster": {
+   "cx": 0.4304,
+   "cy": 0.5,
+   "w": 0.6759,
+   "src": "orig",
+   "editeLe": 1794058235333
+  },
+  "vehicules-celebres_cable-cars-de-san-francisco": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058237591
   }
  }
 }

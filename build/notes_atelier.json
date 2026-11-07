@@ -96210,6 +96210,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069692301
+  },
+  "oeuvres-litteraires_les-mille-et-une-nuits": {
+   "cx": 0.5075,
+   "cy": 0.4955,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794069694697
+  },
+  "oeuvres-litteraires_divine-comedie": {
+   "cx": 0.5148,
+   "cy": 0.5184,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069696568
+  },
+  "oeuvres-litteraires_decameron": {
+   "cx": 0.574,
+   "cy": 0.5,
+   "w": 0.6939,
+   "src": "orig",
+   "editeLe": 1794069698511
+  },
+  "oeuvres-litteraires_les-contes-de-canterbury": {
+   "cx": 0.5,
+   "cy": 0.5305,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069700648
   }
  }
 }

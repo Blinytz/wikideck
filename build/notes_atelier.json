@@ -82560,6 +82560,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794059991363
+  },
+  "insectes_coleoptere-bombardier": {
+   "cx": 0.5405,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059993978
+  },
+  "insectes_hymenopus-coronatus": {
+   "cx": 0.4833,
+   "cy": 0.4547,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794059996611
+  },
+  "insectes_phylliidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059998769
+  },
+  "insectes_punaise-de-lit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7614,
+   "src": "orig",
+   "editeLe": 1794060001026
   }
  }
 }

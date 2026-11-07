@@ -97421,6 +97421,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070201256
+  },
+  "mouvements-litteraires_lumieres-philosophie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7108,
+   "src": "orig",
+   "editeLe": 1794070203304
+  },
+  "mouvements-litteraires_romantisme": {
+   "cx": 0.5,
+   "cy": 0.45,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070204964
+  },
+  "mouvements-litteraires_realisme-litterature": {
+   "cx": 0.5041,
+   "cy": 0.4991,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794070206932
+  },
+  "mouvements-litteraires_naturalisme-litterature": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7634,
+   "src": "orig",
+   "editeLe": 1794070208749
+  },
+  "mouvements-litteraires_parnasse-poesie": {
+   "cx": 0.5025,
+   "cy": 0.5,
+   "w": 0.715,
+   "src": "orig",
+   "editeLe": 1794070210930
   }
  }
 }

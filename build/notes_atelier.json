@@ -94357,11 +94357,32 @@
    "editeLe": 1794068689700
   },
   "auteurs-classiques_charles-perrault": {
-   "cx": 0.4926,
-   "cy": 0.4133,
+   "cx": 0.5026,
+   "cy": 0.4145,
    "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794068692597
+   "editeLe": 1794068701743
+  },
+  "auteurs-classiques_madame-de-la-fayette": {
+   "cx": 0.4926,
+   "cy": 0.4118,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068704143
+  },
+  "auteurs-classiques_pierre-augustin-caron-de-beaumarchais": {
+   "cx": 0.4926,
+   "cy": 0.4127,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068706491
+  },
+  "auteurs-classiques_pierre-choderlos-de-laclos": {
+   "cx": 0.4926,
+   "cy": 0.4303,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068708595
   }
  }
 }

@@ -81629,6 +81629,27 @@
    "w": 0.6085,
    "src": "orig",
    "editeLe": 1794059562244
+  },
+  "reptiles-et-amphibiens_lezard-des-murailles": {
+   "cx": 0.5477,
+   "cy": 0.4905,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794059565838
+  },
+  "reptiles-et-amphibiens_lacerta-bilineata": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059567912
+  },
+  "reptiles-et-amphibiens_moloch-horridus": {
+   "cx": 0.5165,
+   "cy": 0.5866,
+   "w": 0.5328,
+   "src": "orig",
+   "editeLe": 1794059570507
   }
  }
 }

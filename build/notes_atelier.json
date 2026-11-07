@@ -90260,6 +90260,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794066968981
+  },
+  "styles-architecturaux_architecture-baroque": {
+   "cx": 0.4979,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794066971023
+  },
+  "styles-architecturaux_rococo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066972877
+  },
+  "styles-architecturaux_architecture-classique": {
+   "cx": 0.5013,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066974904
+  },
+  "styles-architecturaux_palladianisme": {
+   "cx": 0.4502,
+   "cy": 0.4998,
+   "w": 0.6447,
+   "src": "orig",
+   "editeLe": 1794066977795
   }
  }
 }

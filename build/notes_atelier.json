@@ -94082,6 +94082,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068573823
+  },
+  "auteurs-classiques_jules-verne": {
+   "cx": 0.4926,
+   "cy": 0.3721,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068576690
+  },
+  "auteurs-classiques_h-g-wells": {
+   "cx": 0.4926,
+   "cy": 0.3353,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068579257
+  },
+  "auteurs-classiques_mary-shelley": {
+   "cx": 0.4926,
+   "cy": 0.3786,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068581318
+  },
+  "auteurs-classiques_bram-stoker": {
+   "cx": 0.4926,
+   "cy": 0.3589,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068583711
   }
  }
 }

@@ -80453,6 +80453,20 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794058934131
+  },
+  "mammiferes_cavia-porcellus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7219,
+   "src": "orig",
+   "editeLe": 1794058936364
+  },
+  "mammiferes_yack": {
+   "cx": 0.4739,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794058939904
   }
  }
 }

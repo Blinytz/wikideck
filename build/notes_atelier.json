@@ -87028,11 +87028,11 @@
    "editeLe": 1794064611725
   },
   "grands-peintres_giotto-di-bondone": {
-   "cx": 0.5,
-   "cy": 0.4252,
+   "cx": 0.4974,
+   "cy": 0.4073,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794064613442
+   "editeLe": 1794064627680
   },
   "grands-peintres_sandro-botticelli": {
    "cx": 0.5,
@@ -87040,6 +87040,13 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064615336
+  },
+  "grands-peintres_michel-ange": {
+   "cx": 0.4942,
+   "cy": 0.5241,
+   "w": 0.9883,
+   "src": "orig",
+   "editeLe": 1794064622675
   }
  }
 }

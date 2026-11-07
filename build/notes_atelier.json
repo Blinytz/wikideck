@@ -92486,6 +92486,48 @@
    "w": 0.8141,
    "src": "orig",
    "editeLe": 1794067799007
+  },
+  "musique-populaire_nina-simone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067800730
+  },
+  "musique-populaire_ray-charles": {
+   "cx": 0.5,
+   "cy": 0.4523,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067802883
+  },
+  "musique-populaire_james-brown": {
+   "cx": 0.5,
+   "cy": 0.4201,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067804483
+  },
+  "musique-populaire_stevie-wonder": {
+   "cx": 0.5,
+   "cy": 0.4183,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067806013
+  },
+  "musique-populaire_bob-marley": {
+   "cx": 0.5611,
+   "cy": 0.5453,
+   "w": 0.6625,
+   "src": "orig",
+   "editeLe": 1794067807560
+  },
+  "musique-populaire_miles-davis": {
+   "cx": 0.425,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067808987
   }
  }
 }

@@ -94271,6 +94271,27 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794068651455
+  },
+  "auteurs-classiques_murasaki-shikibu": {
+   "cx": 0.4708,
+   "cy": 0.5292,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068656509
+  },
+  "auteurs-classiques_chretien-de-troyes": {
+   "cx": 0.4926,
+   "cy": 0.4867,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068659769
+  },
+  "auteurs-classiques_petrarque": {
+   "cx": 0.5069,
+   "cy": 0.4287,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068663771
   }
  }
 }

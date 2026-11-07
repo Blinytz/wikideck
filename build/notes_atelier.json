@@ -87712,6 +87712,27 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794065007178
+  },
+  "grands-peintres_kasimir-malevitch": {
+   "cx": 0.5074,
+   "cy": 0.408,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065011128
+  },
+  "grands-peintres_giorgio-de-chirico": {
+   "cx": 0.4926,
+   "cy": 0.4332,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065014125
+  },
+  "grands-peintres_max-ernst": {
+   "cx": 0.5074,
+   "cy": 0.4022,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065017757
   }
  }
 }

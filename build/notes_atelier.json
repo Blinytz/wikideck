@@ -88139,6 +88139,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065245186
+  },
+  "grands-peintres_james-ensor": {
+   "cx": 0.4926,
+   "cy": 0.322,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065247639
+  },
+  "grands-peintres_paul-delvaux": {
+   "cx": 0.4926,
+   "cy": 0.4441,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065249743
+  },
+  "grands-peintres_yves-tanguy-peintre": {
+   "cx": 0.4931,
+   "cy": 0.4304,
+   "w": 0.7402,
+   "src": "orig",
+   "editeLe": 1794065252193
+  },
+  "grands-peintres_remedios-varo": {
+   "cx": 0.4926,
+   "cy": 0.454,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065254476
   }
  }
 }

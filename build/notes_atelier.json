@@ -86900,6 +86900,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064573946
+  },
+  "mineraux-et-pierres_pierre-de-lune": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064575651
+  },
+  "mineraux-et-pierres_tanzanite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064576622
+  },
+  "mineraux-et-pierres_alexandrite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064578254
+  },
+  "mineraux-et-pierres_spinelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064579791
+  },
+  "mineraux-et-pierres_zircon": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064581233
+  },
+  "mineraux-et-pierres_il-de-tigre": {
+   "cx": 0.4993,
+   "cy": 0.5,
+   "w": 0.8131,
+   "src": "orig",
+   "editeLe": 1794064583130
   }
  }
 }

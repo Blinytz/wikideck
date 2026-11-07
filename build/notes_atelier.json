@@ -79578,6 +79578,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058349087
+  },
+  "noeuds_n-ud-de-chaise-double-en-huit": {
+   "cx": 0.4948,
+   "cy": 0.536,
+   "w": 0.6118,
+   "src": "full",
+   "editeLe": 1794058356016
+  },
+  "noeuds_n-ud-de-chaise-double-sur-son-double": {
+   "cx": 0.4547,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058358261
   }
  }
 }

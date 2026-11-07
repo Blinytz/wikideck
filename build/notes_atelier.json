@@ -83498,6 +83498,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062836402
+  },
+  "races-de-chien_samoyede-chien": {
+   "cx": 0.4149,
+   "cy": 0.3571,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062839354
+  },
+  "races-de-chien_akita-chien": {
+   "cx": 0.5417,
+   "cy": 0.4998,
+   "w": 0.8102,
+   "src": "orig",
+   "editeLe": 1794062842748
+  },
+  "races-de-chien_shiba-chien": {
+   "cx": 0.5,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062845256
   }
  }
 }

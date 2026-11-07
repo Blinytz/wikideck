@@ -83008,6 +83008,27 @@
    "w": 0.5238,
    "src": "orig",
    "editeLe": 1794062491496
+  },
+  "dinosaures-celebres_hadrosaurus": {
+   "cx": 0.5853,
+   "cy": 0.4547,
+   "w": 0.6753,
+   "src": "orig",
+   "editeLe": 1794062493455
+  },
+  "dinosaures-celebres_ornithomimus": {
+   "cx": 0.5096,
+   "cy": 0.3767,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794062496654
+  },
+  "dinosaures-celebres_majungasaurus": {
+   "cx": 0.5013,
+   "cy": 0.4469,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062499048
   }
  }
 }

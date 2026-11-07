@@ -81083,6 +81083,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059244297
+  },
+  "oiseaux_calao-bicorne": {
+   "cx": 0.428,
+   "cy": 0.3104,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059248606
+  },
+  "oiseaux_paradisier": {
+   "cx": 0.449,
+   "cy": 0.5,
+   "w": 0.618,
+   "src": "orig",
+   "editeLe": 1794059250916
+  },
+  "oiseaux_messager-sagittaire": {
+   "cx": 0.524,
+   "cy": 0.4297,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059253416
   }
  }
 }

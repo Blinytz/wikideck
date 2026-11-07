@@ -86991,6 +86991,41 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1794064597398
+  },
+  "mineraux-et-pierres_marbre": {
+   "cx": 0.5,
+   "cy": 0.4775,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064603611
+  },
+  "mineraux-et-pierres_granite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064605131
+  },
+  "mineraux-et-pierres_basalte": {
+   "cx": 0.3585,
+   "cy": 0.6894,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794064606460
+  },
+  "mineraux-et-pierres_ardoise": {
+   "cx": 0.5,
+   "cy": 0.448,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064608142
+  },
+  "mineraux-et-pierres_ponce": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.703,
+   "src": "orig",
+   "editeLe": 1794064611725
   }
  }
 }

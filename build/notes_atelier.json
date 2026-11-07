@@ -91793,6 +91793,41 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794067528436
+  },
+  "oeuvres-musicales_symphonie-no-9-de-dvorak": {
+   "cx": 0.5,
+   "cy": 0.5569,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067530860
+  },
+  "oeuvres-musicales_suite-bergamasque": {
+   "cx": 0.4815,
+   "cy": 0.3411,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067532745
+  },
+  "oeuvres-musicales_prelude-a-l-apres-midi-d-un-faune": {
+   "cx": 0.463,
+   "cy": 0.6085,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067534970
+  },
+  "oeuvres-musicales_gymnopedies-satie": {
+   "cx": 0.4942,
+   "cy": 0.4864,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067536953
+  },
+  "oeuvres-musicales_pierre-et-le-loup": {
+   "cx": 0.4935,
+   "cy": 0.5866,
+   "w": 0.6326,
+   "src": "orig",
+   "editeLe": 1794067538792
   }
  }
 }

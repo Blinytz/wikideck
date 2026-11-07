@@ -78941,6 +78941,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794057830590
+  },
+  "vehicules-celebres_galion": {
+   "cx": 0.5341,
+   "cy": 0.5,
+   "w": 0.727,
+   "src": "orig",
+   "editeLe": 1794057832561
+  },
+  "vehicules-celebres_caravelle-navire": {
+   "cx": 0.5,
+   "cy": 0.4468,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057834530
   }
  }
 }

@@ -86193,6 +86193,34 @@
    "w": 0.6031,
    "src": "orig",
    "editeLe": 1794064305861
+  },
+  "plantes-cultivees_cacao": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064307489
+  },
+  "plantes-cultivees_the": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064309007
+  },
+  "plantes-cultivees_tabac": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794064310747
+  },
+  "plantes-cultivees_poivrier-noir": {
+   "cx": 0.5242,
+   "cy": 0.5007,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794064312556
   }
  }
 }

@@ -89499,11 +89499,18 @@
    "editeLe": 1794066648287
   },
   "sculptures-celebres_la-porte-de-l-enfer": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.5009,
+   "cy": 0.4998,
    "w": 0.57,
    "src": "orig",
-   "editeLe": 1794066652425
+   "editeLe": 1794066658040
+  },
+  "sculptures-celebres_la-valse-camille-claudel": {
+   "cx": 0.4071,
+   "cy": 0.4412,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066661613
   }
  }
 }

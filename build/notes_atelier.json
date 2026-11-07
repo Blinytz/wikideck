@@ -87831,6 +87831,34 @@
    "w": 0.6092,
    "src": "orig",
    "editeLe": 1794065067440
+  },
+  "grands-peintres_anselm-kiefer": {
+   "cx": 0.4926,
+   "cy": 0.4586,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065070023
+  },
+  "grands-peintres_yayoi-kusama": {
+   "cx": 0.4926,
+   "cy": 0.3579,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065072595
+  },
+  "grands-peintres_takashi-murakami": {
+   "cx": 0.4926,
+   "cy": 0.4534,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065074941
+  },
+  "grands-peintres_zao-wou-ki": {
+   "cx": 0.4926,
+   "cy": 0.4518,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065077374
   }
  }
 }

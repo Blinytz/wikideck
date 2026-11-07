@@ -93718,6 +93718,27 @@
    "w": 0.7111,
    "src": "orig",
    "editeLe": 1794068236778
+  },
+  "instruments-de-musique_duduk": {
+   "cx": 0.5313,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068247006
+  },
+  "instruments-de-musique_bansuri": {
+   "cx": 0.4712,
+   "cy": 0.5002,
+   "w": 0.6899,
+   "src": "orig",
+   "editeLe": 1794068250754
+  },
+  "instruments-de-musique_cor-des-alpes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068252792
   }
  }
 }

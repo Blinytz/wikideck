@@ -82497,6 +82497,20 @@
    "w": 0.7261,
    "src": "orig",
    "editeLe": 1794059940160
+  },
+  "insectes_dermaptera": {
+   "cx": 0.5187,
+   "cy": 0.5,
+   "w": 0.815,
+   "src": "orig",
+   "editeLe": 1794059959979
+  },
+  "insectes_blatte-americaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059961929
   }
  }
 }

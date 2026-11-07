@@ -89567,6 +89567,34 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794066678395
+  },
+  "sculptures-celebres_la-petite-sirene-copenhague": {
+   "cx": 0.5,
+   "cy": 0.4001,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066681462
+  },
+  "photographies-celebres_point-de-vue-du-gras": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7546,
+   "src": "orig",
+   "editeLe": 1794066684027
+  },
+  "photographies-celebres_boulevard-du-temple": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.778,
+   "src": "orig",
+   "editeLe": 1794066685734
+  },
+  "photographies-celebres_la-table-servie": {
+   "cx": 0.519,
+   "cy": 0.5,
+   "w": 0.6596,
+   "src": "orig",
+   "editeLe": 1794066687806
   }
  }
 }

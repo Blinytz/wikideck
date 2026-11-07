@@ -87882,11 +87882,18 @@
    "editeLe": 1794065086259
   },
   "grands-peintres_cimabue": {
-   "cx": 0.4965,
-   "cy": 0.4529,
-   "w": 1.0838,
+   "cx": 0.5074,
+   "cy": 0.3892,
+   "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794065093718
+   "editeLe": 1794065105586
+  },
+  "grands-peintres_paolo-uccello": {
+   "cx": 0.4926,
+   "cy": 0.4004,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065108053
   }
  }
 }

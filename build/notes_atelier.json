@@ -79851,6 +79851,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058553638
+  },
+  "mammiferes_rhinoceros-noir": {
+   "cx": 0.4617,
+   "cy": 0.5,
+   "w": 0.6813,
+   "src": "orig",
+   "editeLe": 1794058556805
+  },
+  "mammiferes_rhinoceros-blanc": {
+   "cx": 0.4229,
+   "cy": 0.4998,
+   "w": 0.589,
+   "src": "orig",
+   "editeLe": 1794058559581
+  },
+  "mammiferes_hippopotamidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058561955
   }
  }
 }

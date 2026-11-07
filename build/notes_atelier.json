@@ -81720,6 +81720,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794059596424
+  },
+  "poissons-et-vie-marine_dasyatis-pastinaca": {
+   "cx": 0.5475,
+   "cy": 0.5002,
+   "w": 0.7443,
+   "src": "orig",
+   "editeLe": 1794059600718
+  },
+  "poissons-et-vie-marine_poisson-clown": {
+   "cx": 0.54,
+   "cy": 0.3001,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059605020
+  },
+  "poissons-et-vie-marine_acanthuridae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059607124
   }
  }
 }

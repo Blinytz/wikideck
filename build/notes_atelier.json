@@ -97071,6 +97071,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794070078356
+  },
+  "personnages-litterature_eugene-de-rastignac": {
+   "cx": 0.5037,
+   "cy": 0.472,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070081337
+  },
+  "personnages-litterature_julien-sorel": {
+   "cx": 0.4996,
+   "cy": 0.4868,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070085131
+  },
+  "personnages-litterature_le-petit-nicolas": {
+   "cx": 0.5,
+   "cy": 0.4593,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070087356
   }
  }
 }

@@ -81874,6 +81874,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059657766
+  },
+  "poissons-et-vie-marine_echinoidea": {
+   "cx": 0.528,
+   "cy": 0.501,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059660811
+  },
+  "poissons-et-vie-marine_holothurie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059662942
+  },
+  "poissons-et-vie-marine_pieuvre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7283,
+   "src": "orig",
+   "editeLe": 1794059664796
+  },
+  "poissons-et-vie-marine_pieuvre-aux-anneaux-bleus": {
+   "cx": 0.5178,
+   "cy": 0.4555,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794059667065
+  },
+  "poissons-et-vie-marine_calmar-geant": {
+   "cx": 0.5112,
+   "cy": 0.4976,
+   "w": 0.5047,
+   "src": "orig",
+   "editeLe": 1794059669707
   }
  }
 }

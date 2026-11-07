@@ -80068,6 +80068,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794058646372
+  },
+  "mammiferes_echidne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058648422
+  },
+  "mammiferes_paresseux-a-trois-doigts": {
+   "cx": 0.4031,
+   "cy": 0.4046,
+   "w": 0.4944,
+   "src": "orig",
+   "editeLe": 1794058652006
+  },
+  "mammiferes_priodontes-maximus": {
+   "cx": 0.4443,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794058654777
   }
  }
 }

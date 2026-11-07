@@ -85234,6 +85234,48 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794063893674
+  },
+  "arbres_sequoia-sempervirens": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7203,
+   "src": "orig",
+   "editeLe": 1794063895451
+  },
+  "arbres_dragonnier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063897173
+  },
+  "arbres_manguier": {
+   "cx": 0.5059,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063899231
+  },
+  "arbres_figuier-des-banians": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1794063901268
+  },
+  "arbres_cacaoyer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6129,
+   "src": "orig",
+   "editeLe": 1794063903344
+  },
+  "arbres_cafeier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7334,
+   "src": "orig",
+   "editeLe": 1794063905704
   }
  }
 }

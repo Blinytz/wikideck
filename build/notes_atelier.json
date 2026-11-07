@@ -77219,6 +77219,20 @@
    "w": 0.6065,
    "src": "orig",
    "editeLe": 1794054896499
+  },
+  "conquete-spatiale_programme-mercury": {
+   "cx": 0.5147,
+   "cy": 0.5447,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054903947
+  },
+  "conquete-spatiale_programme-gemini": {
+   "cx": 0.5054,
+   "cy": 0.5,
+   "w": 0.8055,
+   "src": "orig",
+   "editeLe": 1794054905845
   }
  }
 }

@@ -91842,6 +91842,55 @@
    "w": 0.3448,
    "src": "orig",
    "editeLe": 1794067544419
+  },
+  "oeuvres-musicales_carmina-burana-cantate": {
+   "cx": 0.4851,
+   "cy": 0.6589,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067547420
+  },
+  "oeuvres-musicales_symphonie-fantastique": {
+   "cx": 0.6109,
+   "cy": 0.6554,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067549347
+  },
+  "oeuvres-musicales_romeo-et-juliette-ballet": {
+   "cx": 0.5375,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067551235
+  },
+  "oeuvres-musicales_rhapsodies-hongroises": {
+   "cx": 0.3747,
+   "cy": 0.3939,
+   "w": 0.4589,
+   "src": "orig",
+   "editeLe": 1794067553010
+  },
+  "oeuvres-musicales_ainsi-parlait-zarathoustra-strauss": {
+   "cx": 0.5817,
+   "cy": 0.5969,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067554620
+  },
+  "oeuvres-musicales_adagio-pour-cordes": {
+   "cx": 0.5817,
+   "cy": 0.5969,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067555299
+  },
+  "oeuvres-musicales_le-carnaval-des-animaux": {
+   "cx": 0.6222,
+   "cy": 0.5,
+   "w": 0.6153,
+   "src": "orig",
+   "editeLe": 1794067557257
   }
  }
 }

@@ -96658,6 +96658,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069846368
+  },
+  "oeuvres-litteraires_le-chateau": {
+   "cx": 0.2146,
+   "cy": 0.4548,
+   "w": 0.4045,
+   "src": "orig",
+   "editeLe": 1794069850238
+  },
+  "oeuvres-litteraires_le-parfum": {
+   "cx": 0.5,
+   "cy": 0.3381,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069852276
+  },
+  "oeuvres-litteraires_le-grand-meaulnes": {
+   "cx": 0.5,
+   "cy": 0.5505,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069854132
+  },
+  "oeuvres-litteraires_bel-ami": {
+   "cx": 0.5,
+   "cy": 0.3269,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069855966
   }
  }
 }

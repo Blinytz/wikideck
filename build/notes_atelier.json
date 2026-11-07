@@ -87938,11 +87938,25 @@
    "editeLe": 1794065139850
   },
   "grands-peintres_bartolome-esteban-murillo": {
-   "cx": 0.4926,
-   "cy": 0.3907,
+   "cx": 0.5074,
+   "cy": 0.4309,
    "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794065140825
+   "editeLe": 1794065150539
+  },
+  "grands-peintres_jose-de-ribera": {
+   "cx": 0.4934,
+   "cy": 0.3817,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794065153554
+  },
+  "grands-peintres_claude-gellee": {
+   "cx": 0.4957,
+   "cy": 0.4171,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794065156354
   }
  }
 }

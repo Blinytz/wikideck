@@ -79144,6 +79144,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794057934503
+  },
+  "vehicules-celebres_bismarck-cuirasse": {
+   "cx": 0.45,
+   "cy": 0.4657,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794057938993
+  },
+  "vehicules-celebres_yamato-cuirasse": {
+   "cx": 0.3948,
+   "cy": 0.4548,
+   "w": 0.5546,
+   "src": "orig",
+   "editeLe": 1794057941095
+  },
+  "vehicules-celebres_trieste-bathyscaphe": {
+   "cx": 0.5213,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057943723
   }
  }
 }

@@ -93599,6 +93599,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068201436
+  },
+  "instruments-de-musique_pipa-instrument": {
+   "cx": 0.5116,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794068203301
+  },
+  "instruments-de-musique_viole-de-gambe": {
+   "cx": 0.5,
+   "cy": 0.5644,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068205556
+  },
+  "instruments-de-musique_balafon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068207424
+  },
+  "instruments-de-musique_mbira": {
+   "cx": 0.4978,
+   "cy": 0.5,
+   "w": 0.8107,
+   "src": "orig",
+   "editeLe": 1794068209281
+  },
+  "instruments-de-musique_darbouka": {
+   "cx": 0.5525,
+   "cy": 0.5,
+   "w": 0.7234,
+   "src": "orig",
+   "editeLe": 1794068211005
   }
  }
 }

@@ -82399,6 +82399,27 @@
    "w": 0.8125,
    "src": "orig",
    "editeLe": 1794059907599
+  },
+  "insectes_mante-religieuse": {
+   "cx": 0.5373,
+   "cy": 0.4998,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794059910762
+  },
+  "insectes_phasme": {
+   "cx": 0.4596,
+   "cy": 0.5,
+   "w": 0.7368,
+   "src": "orig",
+   "editeLe": 1794059914389
+  },
+  "insectes_anax-empereur": {
+   "cx": 0.5054,
+   "cy": 0.5,
+   "w": 0.7044,
+   "src": "orig",
+   "editeLe": 1794059916636
   }
  }
 }

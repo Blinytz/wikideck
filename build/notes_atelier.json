@@ -77296,6 +77296,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794055014597
+  },
+  "conquete-spatiale_galileo-sonde-spatiale": {
+   "cx": 0.4627,
+   "cy": 0.4703,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055020654
+  },
+  "conquete-spatiale_juno-sonde-spatiale": {
+   "cx": 0.5733,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055023838
   }
  }
 }

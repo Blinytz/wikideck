@@ -83050,6 +83050,27 @@
    "w": 0.5921,
    "src": "orig",
    "editeLe": 1794062508192
+  },
+  "creatures-prehistoriques_rhamphorhynchus": {
+   "cx": 0.5,
+   "cy": 0.4285,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062510201
+  },
+  "creatures-prehistoriques_dimorphodon": {
+   "cx": 0.4205,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062512853
+  },
+  "creatures-prehistoriques_mosasaurus": {
+   "cx": 0.552,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062515646
   }
  }
 }

@@ -93634,6 +93634,41 @@
    "w": 0.7234,
    "src": "orig",
    "editeLe": 1794068211005
+  },
+  "instruments-de-musique_castagnettes": {
+   "cx": 0.5364,
+   "cy": 0.5,
+   "w": 0.6203,
+   "src": "orig",
+   "editeLe": 1794068212298
+  },
+  "instruments-de-musique_gong-instrument": {
+   "cx": 0.499,
+   "cy": 0.5453,
+   "w": 0.5922,
+   "src": "orig",
+   "editeLe": 1794068213951
+  },
+  "instruments-de-musique_carillon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068215858
+  },
+  "instruments-de-musique_hang": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.724,
+   "src": "orig",
+   "editeLe": 1794068217607
+  },
+  "instruments-de-musique_cajon": {
+   "cx": 0.375,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794068219376
   }
  }
 }

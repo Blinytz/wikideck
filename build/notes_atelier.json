@@ -94565,6 +94565,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068783355
+  },
+  "auteurs-classiques_hans-christian-andersen": {
+   "cx": 0.4926,
+   "cy": 0.4035,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068785474
+  },
+  "auteurs-classiques_freres-grimm": {
+   "cx": 0.4926,
+   "cy": 0.4788,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068787487
+  },
+  "auteurs-classiques_henrik-ibsen": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068789667
+  },
+  "auteurs-classiques_francois-villon": {
+   "cx": 0.5074,
+   "cy": 0.4217,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068792847
   }
  }
 }

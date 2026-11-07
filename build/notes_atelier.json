@@ -91905,6 +91905,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067570799
+  },
+  "oeuvres-musicales_messe-en-si-mineur": {
+   "cx": 0.5,
+   "cy": 0.5357,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067573049
+  },
+  "oeuvres-musicales_l-orfeo": {
+   "cx": 0.625,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067575022
+  },
+  "oeuvres-musicales_symphonie-no-94-de-joseph-haydn": {
+   "cx": 0.5026,
+   "cy": 0.6578,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067576889
+  },
+  "oeuvres-musicales_scenes-d-enfants-de-schumann": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067579630
   }
  }
 }

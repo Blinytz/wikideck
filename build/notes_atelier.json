@@ -92766,6 +92766,48 @@
    "w": 0.7451,
    "src": "orig",
    "editeLe": 1794067913713
+  },
+  "musique-populaire_tupac-shakur": {
+   "cx": 0.4617,
+   "cy": 0.5,
+   "w": 0.752,
+   "src": "orig",
+   "editeLe": 1794067915238
+  },
+  "musique-populaire_the-velvet-underground": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067916854
+  },
+  "musique-populaire_joni-mitchell": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6103,
+   "src": "orig",
+   "editeLe": 1794067918109
+  },
+  "musique-populaire_leonard-cohen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067919583
+  },
+  "musique-populaire_kate-bush": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067921164
+  },
+  "musique-populaire_talking-heads": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794067923623
   }
  }
 }

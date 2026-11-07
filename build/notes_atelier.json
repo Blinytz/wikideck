@@ -82749,6 +82749,27 @@
    "w": 0.5921,
    "src": "orig",
    "editeLe": 1794062313377
+  },
+  "dinosaures-celebres_protoceratops": {
+   "cx": 0.3812,
+   "cy": 0.5,
+   "w": 0.7576,
+   "src": "orig",
+   "editeLe": 1794062316776
+  },
+  "dinosaures-celebres_maiasaura": {
+   "cx": 0.4637,
+   "cy": 0.5,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794062318823
+  },
+  "dinosaures-celebres_edmontosaurus": {
+   "cx": 0.572,
+   "cy": 0.5,
+   "w": 0.5519,
+   "src": "orig",
+   "editeLe": 1794062320755
   }
  }
 }

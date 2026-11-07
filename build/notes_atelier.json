@@ -77471,6 +77471,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055181432
+  },
+  "astronautes-et-cosmonautes_alexei-leonov": {
+   "cx": 0.5148,
+   "cy": 0.5002,
+   "w": 0.7513,
+   "src": "orig",
+   "editeLe": 1794055184816
+  },
+  "astronautes-et-cosmonautes_sally-ride": {
+   "cx": 0.5455,
+   "cy": 0.3515,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794055187407
   }
  }
 }

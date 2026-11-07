@@ -80614,6 +80614,34 @@
    "w": 0.7244,
    "src": "orig",
    "editeLe": 1794059038168
+  },
+  "mammiferes_ratel": {
+   "cx": 0.5338,
+   "cy": 0.5002,
+   "w": 0.7125,
+   "src": "orig",
+   "editeLe": 1794059040660
+  },
+  "mammiferes_tarsier": {
+   "cx": 0.4958,
+   "cy": 0.5,
+   "w": 0.7213,
+   "src": "orig",
+   "editeLe": 1794059042871
+  },
+  "mammiferes_callithrix-jacchus": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059044894
+  },
+  "oiseaux_aigle-royal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059047389
   }
  }
 }

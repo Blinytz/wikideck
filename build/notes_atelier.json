@@ -96525,6 +96525,55 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794069808311
+  },
+  "oeuvres-litteraires_le-hobbit": {
+   "cx": 0.4335,
+   "cy": 0.4632,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794069809792
+  },
+  "oeuvres-litteraires_le-trone-de-fer": {
+   "cx": 0.5,
+   "cy": 0.4669,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069811000
+  },
+  "oeuvres-litteraires_dune-roman": {
+   "cx": 0.5,
+   "cy": 0.4972,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069812682
+  },
+  "oeuvres-litteraires_fondation-isaac-asimov": {
+   "cx": 0.5,
+   "cy": 0.7521,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069814229
+  },
+  "oeuvres-litteraires_cent-ans-de-solitude": {
+   "cx": 0.5174,
+   "cy": 0.5238,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794069815750
+  },
+  "oeuvres-litteraires_le-nom-de-la-rose-roman": {
+   "cx": 0.5,
+   "cy": 0.6623,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069817298
+  },
+  "oeuvres-litteraires_lolita": {
+   "cx": 0.5,
+   "cy": 0.3134,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069818845
   }
  }
 }

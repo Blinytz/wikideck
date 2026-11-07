@@ -97295,6 +97295,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794070157469
+  },
+  "personnages-litterature_katniss-everdeen": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7642,
+   "src": "orig",
+   "editeLe": 1794070159416
+  },
+  "personnages-litterature_lisbeth-salander": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070161414
+  },
+  "personnages-litterature_docteur-watson": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5772,
+   "src": "orig",
+   "editeLe": 1794070163266
+  },
+  "personnages-litterature_professeur-moriarty": {
+   "cx": 0.5,
+   "cy": 0.3948,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070165209
   }
  }
 }

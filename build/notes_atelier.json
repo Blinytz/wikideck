@@ -82651,6 +82651,27 @@
    "w": 0.5982,
    "src": "orig",
    "editeLe": 1794062269984
+  },
+  "dinosaures-celebres_ankylosaurus": {
+   "cx": 0.4861,
+   "cy": 0.5373,
+   "w": 0.6169,
+   "src": "orig",
+   "editeLe": 1794062273961
+  },
+  "dinosaures-celebres_parasaurolophus": {
+   "cx": 0.5158,
+   "cy": 0.5112,
+   "w": 0.6158,
+   "src": "orig",
+   "editeLe": 1794062276461
+  },
+  "dinosaures-celebres_iguanodon": {
+   "cx": 0.4349,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794062279743
   }
  }
 }

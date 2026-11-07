@@ -89987,6 +89987,20 @@
    "w": 0.611,
    "src": "orig",
    "editeLe": 1794066863747
+  },
+  "architectes_imhotep": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066866748
+  },
+  "architectes_louis-le-vau": {
+   "cx": 0.5,
+   "cy": 0.5196,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066868574
   }
  }
 }

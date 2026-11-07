@@ -84023,6 +84023,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063295069
+  },
+  "races-de-chien_welsh-terrier": {
+   "cx": 0.5761,
+   "cy": 0.4676,
+   "w": 0.6711,
+   "src": "orig",
+   "editeLe": 1794063297368
+  },
+  "races-de-chien_manchester-terrier": {
+   "cx": 0.4965,
+   "cy": 0.4997,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794063300118
+  },
+  "races-de-chien_bichon-havanais": {
+   "cx": 0.5707,
+   "cy": 0.4653,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063302934
   }
  }
 }

@@ -96689,10 +96689,31 @@
   },
   "oeuvres-litteraires_contes-de-l-enfance-et-du-foyer": {
    "cx": 0.4663,
-   "cy": 0.4411,
+   "cy": 0.4508,
    "w": 0.673,
    "src": "orig",
-   "editeLe": 1794069860794
+   "editeLe": 1794069867323
+  },
+  "oeuvres-litteraires_la-case-de-l-oncle-tom": {
+   "cx": 0.5353,
+   "cy": 0.545,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069869928
+  },
+  "oeuvres-litteraires_odyssee": {
+   "cx": 0.5187,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069872392
+  },
+  "personnages-litterature_sherlock-holmes": {
+   "cx": 0.5,
+   "cy": 0.3908,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069874387
   }
  }
 }

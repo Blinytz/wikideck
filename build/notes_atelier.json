@@ -95055,6 +95055,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068999409
+  },
+  "auteurs-modernes_ursula-k-le-guin": {
+   "cx": 0.4926,
+   "cy": 0.3813,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069001216
+  },
+  "auteurs-modernes_stephen-king": {
+   "cx": 0.5342,
+   "cy": 0.4136,
+   "w": 0.5981,
+   "src": "orig",
+   "editeLe": 1794069003280
+  },
+  "auteurs-modernes_j-k-rowling": {
+   "cx": 0.4942,
+   "cy": 0.5171,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069006369
+  },
+  "auteurs-modernes_george-r-r-martin": {
+   "cx": 0.4926,
+   "cy": 0.3654,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069009001
   }
  }
 }

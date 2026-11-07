@@ -94733,6 +94733,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068853255
+  },
+  "auteurs-classiques_wu-cheng-en": {
+   "cx": 0.4926,
+   "cy": 0.3484,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068856183
+  },
+  "auteurs-classiques_carlo-collodi": {
+   "cx": 0.4926,
+   "cy": 0.3535,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068858624
+  },
+  "auteurs-classiques_carlo-goldoni": {
+   "cx": 0.4942,
+   "cy": 0.3992,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068862046
   }
  }
 }

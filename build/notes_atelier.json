@@ -86277,6 +86277,48 @@
    "w": 0.7232,
    "src": "orig",
    "editeLe": 1794064377283
+  },
+  "plantes-cultivees_haricot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064379287
+  },
+  "plantes-cultivees_pois-cultive": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064381201
+  },
+  "plantes-cultivees_lentille-cultivee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794064382766
+  },
+  "plantes-cultivees_banane": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6787,
+   "src": "orig",
+   "editeLe": 1794064384244
+  },
+  "plantes-cultivees_pomme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064385785
+  },
+  "plantes-cultivees_orange-fruit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064387078
   }
  }
 }

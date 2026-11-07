@@ -79893,6 +79893,27 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058572810
+  },
+  "mammiferes_gnou": {
+   "cx": 0.6893,
+   "cy": 0.5107,
+   "w": 0.5608,
+   "src": "orig",
+   "editeLe": 1794058580635
+  },
+  "mammiferes_buffle-d-afrique": {
+   "cx": 0.544,
+   "cy": 0.4306,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058583014
+  },
+  "mammiferes_bison-d-amerique": {
+   "cx": 0.4078,
+   "cy": 0.5,
+   "w": 0.6867,
+   "src": "orig",
+   "editeLe": 1794058586287
   }
  }
 }

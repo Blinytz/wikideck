@@ -79396,6 +79396,27 @@
    "w": 0.7276,
    "src": "orig",
    "editeLe": 1794058062114
+  },
+  "vehicules-celebres_mini-1959-2000": {
+   "cx": 0.4693,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058064911
+  },
+  "vehicules-celebres_fiat-500-1957": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058066897
+  },
+  "vehicules-celebres_renault-4": {
+   "cx": 0.5872,
+   "cy": 0.5135,
+   "w": 0.5555,
+   "src": "orig",
+   "editeLe": 1794058071282
   }
  }
 }

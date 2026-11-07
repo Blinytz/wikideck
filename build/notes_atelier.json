@@ -87971,6 +87971,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065163072
+  },
+  "grands-peintres_thomas-gainsborough": {
+   "cx": 0.4926,
+   "cy": 0.5204,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065165962
+  },
+  "grands-peintres_joshua-reynolds": {
+   "cx": 0.497,
+   "cy": 0.5002,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794065169341
+  },
+  "grands-peintres_william-hogarth": {
+   "cx": 0.4926,
+   "cy": 0.3498,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065172531
   }
  }
 }

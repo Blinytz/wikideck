@@ -86018,6 +86018,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794064249347
+  },
+  "champignons_mycena": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064251369
+  },
+  "champignons_scleroderma": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.777,
+   "src": "orig",
+   "editeLe": 1794064253680
+  },
+  "champignons_bolet-bai": {
+   "cx": 0.5,
+   "cy": 0.5251,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064255576
+  },
+  "champignons_flammulina-velutipes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064258177
   }
  }
 }

@@ -97337,6 +97337,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070172246
+  },
+  "personnages-litterature_macbeth-personnage": {
+   "cx": 0.5114,
+   "cy": 0.5182,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794070174907
+  },
+  "personnages-litterature_othello-personnage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070177088
+  },
+  "personnages-litterature_le-roi-lear": {
+   "cx": 0.5,
+   "cy": 0.3,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070179451
+  },
+  "personnages-litterature_iago": {
+   "cx": 0.5111,
+   "cy": 0.3686,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794070181206
+  },
+  "personnages-litterature_les-souffrances-du-jeune-werther": {
+   "cx": 0.5251,
+   "cy": 0.3946,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794070183579
   }
  }
 }

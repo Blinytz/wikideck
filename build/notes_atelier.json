@@ -96455,6 +96455,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069770762
+  },
+  "oeuvres-litteraires_la-metamorphose": {
+   "cx": 0.4704,
+   "cy": 0.4434,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794069774743
+  },
+  "oeuvres-litteraires_le-proces": {
+   "cx": 0.4398,
+   "cy": 0.5589,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069777846
+  },
+  "oeuvres-litteraires_gatsby-le-magnifique": {
+   "cx": 0.5,
+   "cy": 0.5283,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069779788
+  },
+  "oeuvres-litteraires_le-vieil-homme-et-la-mer": {
+   "cx": 0.51,
+   "cy": 0.5991,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069781480
   }
  }
 }

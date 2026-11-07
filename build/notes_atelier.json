@@ -80523,6 +80523,20 @@
    "w": 0.7227,
    "src": "orig",
    "editeLe": 1794058959788
+  },
+  "mammiferes_mustela-nivalis": {
+   "cx": 0.528,
+   "cy": 0.5047,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058962864
+  },
+  "mammiferes_musaraigne": {
+   "cx": 0.5815,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794058966025
   }
  }
 }

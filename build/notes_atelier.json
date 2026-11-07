@@ -80733,6 +80733,34 @@
    "w": 0.6564,
    "src": "orig",
    "editeLe": 1794059109328
+  },
+  "oiseaux_manchot-empereur": {
+   "cx": 0.4519,
+   "cy": 0.5,
+   "w": 0.6681,
+   "src": "orig",
+   "editeLe": 1794059112234
+  },
+  "oiseaux_manchot-adelie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059114913
+  },
+  "oiseaux_flamant-rose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059117045
+  },
+  "oiseaux_cygne-tubercule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059119227
   }
  }
 }

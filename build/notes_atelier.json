@@ -84807,6 +84807,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794063657721
+  },
+  "races-de-cheval_criollo": {
+   "cx": 0.4402,
+   "cy": 0.4998,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1794063661247
+  },
+  "races-de-cheval_paso-fino": {
+   "cx": 0.457,
+   "cy": 0.5165,
+   "w": 0.5983,
+   "src": "orig",
+   "editeLe": 1794063664508
+  },
+  "races-de-cheval_tennessee-walker": {
+   "cx": 0.5278,
+   "cy": 0.4594,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063667698
   }
  }
 }

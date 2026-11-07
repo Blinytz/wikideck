@@ -85773,6 +85773,48 @@
    "w": 0.7254,
    "src": "orig",
    "editeLe": 1794064176754
+  },
+  "fleurs_chevrefeuille-des-bois": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5798,
+   "src": "orig",
+   "editeLe": 1794064178632
+  },
+  "fleurs_rhododendron": {
+   "cx": 0.532,
+   "cy": 0.5,
+   "w": 0.7246,
+   "src": "orig",
+   "editeLe": 1794064180311
+  },
+  "fleurs_rhododendron-b": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7017,
+   "src": "orig",
+   "editeLe": 1794064182096
+  },
+  "fleurs_passiflore": {
+   "cx": 0.5,
+   "cy": 0.4453,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064183732
+  },
+  "fleurs_strelitzia-reginae": {
+   "cx": 0.5305,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064185219
+  },
+  "fleurs_protea-cynaroides": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064186585
   }
  }
 }

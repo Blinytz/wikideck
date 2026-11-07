@@ -93410,6 +93410,34 @@
    "w": 0.599,
    "src": "orig",
    "editeLe": 1794068130380
+  },
+  "instruments-de-musique_clavecin": {
+   "cx": 0.5,
+   "cy": 0.4637,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068132242
+  },
+  "instruments-de-musique_accordeon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7429,
+   "src": "orig",
+   "editeLe": 1794068134085
+  },
+  "instruments-de-musique_harmonica": {
+   "cx": 0.4857,
+   "cy": 0.5,
+   "w": 0.684,
+   "src": "orig",
+   "editeLe": 1794068138080
+  },
+  "instruments-de-musique_batterie-instrument": {
+   "cx": 0.5429,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794068140084
   }
  }
 }

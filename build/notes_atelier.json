@@ -81993,6 +81993,27 @@
    "w": 0.6569,
    "src": "orig",
    "editeLe": 1794059696964
+  },
+  "poissons-et-vie-marine_requin-du-groenland": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059698883
+  },
+  "poissons-et-vie-marine_requin-pelerin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059700964
+  },
+  "poissons-et-vie-marine_poisson-rouge": {
+   "cx": 0.556,
+   "cy": 0.4614,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059705155
   }
  }
 }

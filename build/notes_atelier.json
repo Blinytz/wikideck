@@ -82966,6 +82966,20 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794062429315
+  },
+  "dinosaures-celebres_psittacosaurus": {
+   "cx": 0.531,
+   "cy": 0.4998,
+   "w": 0.7429,
+   "src": "orig",
+   "editeLe": 1794062431507
+  },
+  "dinosaures-celebres_cryolophosaurus": {
+   "cx": 0.2572,
+   "cy": 0.3554,
+   "w": 0.3134,
+   "src": "orig",
+   "editeLe": 1794062433417
   }
  }
 }

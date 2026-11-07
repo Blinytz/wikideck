@@ -79417,6 +79417,20 @@
    "w": 0.5555,
    "src": "orig",
    "editeLe": 1794058071282
+  },
+  "vehicules-celebres_willys-mb": {
+   "cx": 0.5059,
+   "cy": 0.5002,
+   "w": 0.7166,
+   "src": "orig",
+   "editeLe": 1794058074711
+  },
+  "vehicules-celebres_trabant-601": {
+   "cx": 0.532,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058077582
   }
  }
 }

@@ -84947,6 +84947,20 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794063723465
+  },
+  "races-de-cheval_paint-horse": {
+   "cx": 0.4466,
+   "cy": 0.5385,
+   "w": 0.8933,
+   "src": "orig",
+   "editeLe": 1794063744057
+  },
+  "races-de-cheval_trotteur-d-orlov": {
+   "cx": 0.4098,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063750212
   }
  }
 }

@@ -85899,6 +85899,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064207105
+  },
+  "champignons_lentinula-edodes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064209105
+  },
+  "champignons_pleurotus-ostreatus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064212467
+  },
+  "champignons_bolet-satan": {
+   "cx": 0.5,
+   "cy": 0.4749,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064214484
+  },
+  "champignons_vesse-de-loup": {
+   "cx": 0.5148,
+   "cy": 0.4547,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064216539
+  },
+  "champignons_amadouvier": {
+   "cx": 0.555,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794064219284
   }
  }
 }

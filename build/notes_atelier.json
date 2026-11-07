@@ -83162,6 +83162,27 @@
    "w": 0.8134,
    "src": "orig",
    "editeLe": 1794062561332
+  },
+  "creatures-prehistoriques_mastodonte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062563543
+  },
+  "creatures-prehistoriques_smilodon": {
+   "cx": 0.4724,
+   "cy": 0.4547,
+   "w": 0.6612,
+   "src": "orig",
+   "editeLe": 1794062565491
+  },
+  "creatures-prehistoriques_megatherium": {
+   "cx": 0.5015,
+   "cy": 0.4835,
+   "w": 0.5985,
+   "src": "orig",
+   "editeLe": 1794062567655
   }
  }
 }

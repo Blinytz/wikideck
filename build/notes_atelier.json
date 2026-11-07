@@ -83701,6 +83701,27 @@
    "w": 0.8141,
    "src": "full",
    "editeLe": 1794063065842
+  },
+  "races-de-chien_pointer-anglais": {
+   "cx": 0.4459,
+   "cy": 0.5455,
+   "w": 0.6577,
+   "src": "full",
+   "editeLe": 1794063090616
+  },
+  "races-de-chien_berger-australien": {
+   "cx": 0.4529,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794063093826
+  },
+  "races-de-chien_shetland-chien": {
+   "cx": 0.4607,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063098033
   }
  }
 }

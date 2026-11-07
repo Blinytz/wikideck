@@ -85577,6 +85577,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064112673
+  },
+  "fleurs_hibiscus": {
+   "cx": 0.5,
+   "cy": 0.4344,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064114380
+  },
+  "fleurs_nenuphar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8052,
+   "src": "orig",
+   "editeLe": 1794064115996
+  },
+  "fleurs_nelumbo-nucifera": {
+   "cx": 0.4667,
+   "cy": 0.5,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794064117617
+  },
+  "fleurs_edelweiss": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064119137
+  },
+  "fleurs_cyanus-segetum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064121485
   }
  }
 }

@@ -77415,6 +77415,20 @@
    "w": 0.7513,
    "src": "orig",
    "editeLe": 1794055149941
+  },
+  "astronautes-et-cosmonautes_john-glenn": {
+   "cx": 0.4733,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794055154015
+  },
+  "astronautes-et-cosmonautes_laika": {
+   "cx": 0.48,
+   "cy": 0.4998,
+   "w": 0.7498,
+   "src": "orig",
+   "editeLe": 1794055158077
   }
  }
 }

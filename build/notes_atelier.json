@@ -85654,6 +85654,27 @@
    "w": 0.7389,
    "src": "orig",
    "editeLe": 1794064130777
+  },
+  "fleurs_plumeria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064132376
+  },
+  "fleurs_rafflesia": {
+   "cx": 0.5,
+   "cy": 0.7301,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064133983
+  },
+  "fleurs_arum": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064136327
   }
  }
 }

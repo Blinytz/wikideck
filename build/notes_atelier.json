@@ -80292,6 +80292,27 @@
    "w": 0.6524,
    "src": "orig",
    "editeLe": 1794058805787
+  },
+  "mammiferes_chameau-de-bactriane": {
+   "cx": 0.4813,
+   "cy": 0.5,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1794058828858
+  },
+  "mammiferes_dromadaire": {
+   "cx": 0.4986,
+   "cy": 0.502,
+   "w": 0.5978,
+   "src": "orig",
+   "editeLe": 1794058830858
+  },
+  "mammiferes_lama-animal": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058832683
   }
  }
 }

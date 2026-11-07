@@ -93886,6 +93886,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068492024
+  },
+  "auteurs-classiques_friedrich-schiller": {
+   "cx": 0.4926,
+   "cy": 0.4414,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068496004
+  },
+  "auteurs-classiques_jane-austen": {
+   "cx": 0.4926,
+   "cy": 0.379,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068498940
+  },
+  "auteurs-classiques_walter-scott": {
+   "cx": 0.4926,
+   "cy": 0.4121,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068501032
   }
  }
 }

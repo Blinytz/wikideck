@@ -79592,6 +79592,27 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058358261
+  },
+  "noeuds_n-ud-de-papillon-alpin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058362994
+  },
+  "noeuds_n-ud-de-plein-poing": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058364924
+  },
+  "noeuds_n-ud-coulant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058367875
   }
  }
 }

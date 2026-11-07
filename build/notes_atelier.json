@@ -78178,6 +78178,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794056766071
+  },
+  "aviateurs-celebres_amelia-earhart": {
+   "cx": 0.4911,
+   "cy": 0.4634,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794056768349
+  },
+  "aviateurs-celebres_howard-hughes": {
+   "cx": 0.504,
+   "cy": 0.3802,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056770646
+  },
+  "aviateurs-celebres_charles-nungesser": {
+   "cx": 0.2446,
+   "cy": 0.243,
+   "w": 0.4597,
+   "src": "orig",
+   "editeLe": 1794056773079
   }
  }
 }

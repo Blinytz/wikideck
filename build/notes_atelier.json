@@ -86046,6 +86046,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794064258177
+  },
+  "champignons_aspergillus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794064260048
+  },
+  "champignons_ergot-du-seigle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064262376
+  },
+  "champignons_tricholome-de-la-saint-georges": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7681,
+   "src": "orig",
+   "editeLe": 1794064264751
+  },
+  "champignons_oronge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064266640
+  },
+  "champignons_macrolepiota-procera": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7778,
+   "src": "orig",
+   "editeLe": 1794064268371
   }
  }
 }

@@ -93228,6 +93228,34 @@
    "w": 0.5633,
    "src": "orig",
    "editeLe": 1794068056782
+  },
+  "instruments-de-musique_violon": {
+   "cx": 0.4881,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794068058248
+  },
+  "instruments-de-musique_violoncelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068059659
+  },
+  "instruments-de-musique_contrebasse": {
+   "cx": 0.4767,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068063004
+  },
+  "instruments-de-musique_alto-instrument-a-cordes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068064780
   }
  }
 }

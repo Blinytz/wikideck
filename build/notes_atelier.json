@@ -90183,6 +90183,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066942377
+  },
+  "architectes_charlotte-perriand": {
+   "cx": 0.4267,
+   "cy": 0.3646,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066945437
+  },
+  "architectes_jean-prouve": {
+   "cx": 0.4385,
+   "cy": 0.4416,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066948591
+  },
+  "styles-architecturaux_bauhaus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066951091
   }
  }
 }

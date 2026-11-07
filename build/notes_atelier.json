@@ -92052,6 +92052,48 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794067623002
+  },
+  "oeuvres-musicales_tableaux-d-une-exposition": {
+   "cx": 0.5,
+   "cy": 0.3805,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067624490
+  },
+  "oeuvres-musicales_scheherazade-rimski-korsakov": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067626018
+  },
+  "oeuvres-musicales_finlandia-poeme-symphonique": {
+   "cx": 0.4295,
+   "cy": 0.5,
+   "w": 0.6229,
+   "src": "orig",
+   "editeLe": 1794067627622
+  },
+  "oeuvres-musicales_peer-gynt-suites-orchestrales": {
+   "cx": 0.5891,
+   "cy": 0.5353,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067630125
+  },
+  "oeuvres-musicales_orphee-aux-enfers": {
+   "cx": 0.4903,
+   "cy": 0.4963,
+   "w": 0.6141,
+   "src": "orig",
+   "editeLe": 1794067631876
+  },
+  "oeuvres-musicales_symphonie-no-7-de-bruckner": {
+   "cx": 0.524,
+   "cy": 0.5319,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067633336
   }
  }
 }

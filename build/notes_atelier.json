@@ -96434,6 +96434,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069763976
+  },
+  "oeuvres-litteraires_crime-et-chatiment": {
+   "cx": 0.5,
+   "cy": 0.4083,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069766080
+  },
+  "oeuvres-litteraires_les-freres-karamazov": {
+   "cx": 0.5376,
+   "cy": 0.3339,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069769128
+  },
+  "oeuvres-litteraires_ulysse-roman": {
+   "cx": 0.5,
+   "cy": 0.2573,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069770762
   }
  }
 }

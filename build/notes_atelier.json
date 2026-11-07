@@ -89826,6 +89826,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066788133
+  },
+  "architectes_zaha-hadid": {
+   "cx": 0.5,
+   "cy": 0.4424,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066790167
+  },
+  "architectes_oscar-niemeyer": {
+   "cx": 0.5,
+   "cy": 0.3427,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066792703
+  },
+  "architectes_tadao-ando": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066794589
+  },
+  "architectes_ludwig-mies-van-der-rohe": {
+   "cx": 0.5048,
+   "cy": 0.3669,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794066796535
   }
  }
 }

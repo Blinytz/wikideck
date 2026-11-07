@@ -86081,6 +86081,27 @@
    "w": 0.7778,
    "src": "orig",
    "editeLe": 1794064268371
+  },
+  "champignons_matsutake": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064270459
+  },
+  "champignons_truffe-blanche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7193,
+   "src": "orig",
+   "editeLe": 1794064272897
+  },
+  "champignons_clathrus-ruber": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5653,
+   "src": "orig",
+   "editeLe": 1794064276205
   }
  }
 }

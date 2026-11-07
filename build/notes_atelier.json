@@ -90932,6 +90932,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067215169
+  },
+  "grands-compositeurs_frederic-chopin": {
+   "cx": 0.5065,
+   "cy": 0.2856,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067217984
+  },
+  "grands-compositeurs_robert-schumann": {
+   "cx": 0.4987,
+   "cy": 0.4632,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067220019
+  },
+  "grands-compositeurs_franz-liszt": {
+   "cx": 0.5092,
+   "cy": 0.3647,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067221971
+  },
+  "grands-compositeurs_richard-wagner": {
+   "cx": 0.4948,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067224110
   }
  }
 }

@@ -93585,6 +93585,20 @@
    "w": 0.7234,
    "src": "orig",
    "editeLe": 1794068192349
+  },
+  "instruments-de-musique_charango": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068198946
+  },
+  "instruments-de-musique_guzheng": {
+   "cx": 0.5,
+   "cy": 0.4494,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068201436
   }
  }
 }

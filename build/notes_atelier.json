@@ -96238,6 +96238,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069700648
+  },
+  "oeuvres-litteraires_pantagruel": {
+   "cx": 0.5389,
+   "cy": 0.4141,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069703293
+  },
+  "oeuvres-litteraires_essais-montaigne": {
+   "cx": 0.5,
+   "cy": 0.5802,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069706701
+  },
+  "oeuvres-litteraires_le-misanthrope": {
+   "cx": 0.5,
+   "cy": 0.4666,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069708633
   }
  }
 }

@@ -77352,6 +77352,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055048281
+  },
+  "conquete-spatiale_accident-de-la-navette-spatiale-challenger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794055051296
+  },
+  "conquete-spatiale_accident-de-la-navette-spatiale-columbia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055055019
+  },
+  "conquete-spatiale_v2-missile": {
+   "cx": 0.5,
+   "cy": 0.4863,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055057030
   }
  }
 }

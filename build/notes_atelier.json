@@ -96966,6 +96966,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794070024032
+  },
+  "personnages-litterature_hercule-poirot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794070026055
+  },
+  "personnages-litterature_commissaire-maigret": {
+   "cx": 0.2328,
+   "cy": 0.3106,
+   "w": 0.3792,
+   "src": "orig",
+   "editeLe": 1794070028149
   }
  }
 }

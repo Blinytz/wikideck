@@ -92563,6 +92563,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067817082
+  },
+  "musique-populaire_edith-piaf": {
+   "cx": 0.5,
+   "cy": 0.4019,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067818613
+  },
+  "musique-populaire_jacques-brel": {
+   "cx": 0.5,
+   "cy": 0.4437,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067820059
+  },
+  "musique-populaire_georges-brassens": {
+   "cx": 0.5038,
+   "cy": 0.5,
+   "w": 0.8081,
+   "src": "orig",
+   "editeLe": 1794067821567
+  },
+  "musique-populaire_serge-gainsbourg": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.707,
+   "src": "orig",
+   "editeLe": 1794067823136
+  },
+  "musique-populaire_charles-aznavour": {
+   "cx": 0.5094,
+   "cy": 0.5,
+   "w": 0.6101,
+   "src": "orig",
+   "editeLe": 1794067824774
+  },
+  "musique-populaire_barbara": {
+   "cx": 0.5,
+   "cy": 0.4594,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067826382
+  },
+  "musique-populaire_leo-ferre": {
+   "cx": 0.5,
+   "cy": 0.4738,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067827997
   }
  }
 }

@@ -84303,6 +84303,34 @@
    "w": 0.725,
    "src": "orig",
    "editeLe": 1794063422279
+  },
+  "races-de-chat_persan-chat": {
+   "cx": 0.4344,
+   "cy": 0.4998,
+   "w": 0.7702,
+   "src": "orig",
+   "editeLe": 1794063425177
+  },
+  "races-de-chat_siamois-chat": {
+   "cx": 0.4965,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794063428044
+  },
+  "races-de-chat_bengal": {
+   "cx": 0.3715,
+   "cy": 0.4998,
+   "w": 0.6365,
+   "src": "orig",
+   "editeLe": 1794063430940
+  },
+  "races-de-chat_sphynx": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794063432874
   }
  }
 }

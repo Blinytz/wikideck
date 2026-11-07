@@ -87642,6 +87642,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064982200
+  },
+  "grands-peintres_mary-cassatt": {
+   "cx": 0.4926,
+   "cy": 0.3726,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064984807
+  },
+  "grands-peintres_paul-signac": {
+   "cx": 0.4926,
+   "cy": 0.3799,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064987204
+  },
+  "grands-peintres_henri-rousseau": {
+   "cx": 0.4779,
+   "cy": 0.279,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794064989403
   }
  }
 }

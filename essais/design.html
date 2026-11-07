@@ -80,6 +80,7 @@ function toast(ic, txt) { const t = document.createElement('div'); t.className =
 const hash = (s) => { let h = 2166136261; for (const ch of s) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
 const TAUX = { commune: .55, rare: .4, epique: .25, mythique: .12, legendaire: .06, pantheon: .03 };
 const possede = new Map();
+const GAGNEES = new Set((() => { try { return JSON.parse(localStorage.getItem('wikideck-essai-gagnees') || '[]'); } catch { return []; } })());
 let indexNoms = null;
 const progresAttente = (p) => $('#attente svg')?.style.setProperty('--p', p);
 const debutAttente = performance.now();
@@ -89,7 +90,7 @@ async function charger(col) {
   if (col.cartes) return col;
   col.cartes = (await (await fetch(BASE + col.fichier)).json()).cartes.map((c) => ({ ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl, total: col.nbCartes }));
   col.parId = new Map(col.cartes.map((c) => [c.id, c]));
-  for (const c of col.cartes) { const h = hash(c.id); if (h < TAUX[c.rarete]) possede.set(c.id, 1 + (hash(c.id + 'x') < .25 ? 1 + Math.floor(hash(c.id + 'y') * 3) : 0)); }
+  for (const c of col.cartes) { const h = hash(c.id); if (GAGNEES.has(c.id)) possede.set(c.id, 1); else if (h < TAUX[c.rarete]) possede.set(c.id, 1 + (hash(c.id + 'x') < .25 ? 1 + Math.floor(hash(c.id + 'y') * 3) : 0)); }
   indexNoms = null;
   return col;
 }
@@ -145,10 +146,21 @@ function vedetteAmbiance() {
   const c = [...historique].sort((a, b) => RANG(b.rarete) - RANG(a.rarete))[0];
   if (c) $('#ambiance').style.setProperty('--img', `url('${c.imageUrl}')`);
 }
+// ---------- carte du jour : une carte qu'on n'a pas, à gagner par une série sans faute ----------
+const SERIE_DEFI = { commune: 3, rare: 5, epique: 8, mythique: 10, legendaire: 12, pantheon: 15 };
+const JOUR = new Date().toDateString();
+let defi = (() => { try { const d = JSON.parse(localStorage.getItem('wikideck-essai-defi')); if (d?.jour === JOUR) return d; } catch {} return { jour: JOUR, id: null, suite: 0, record: 0, gagne: false }; })();
+const sauverDefi = () => { try { localStorage.setItem('wikideck-essai-defi', JSON.stringify(defi)); localStorage.setItem('wikideck-essai-gagnees', JSON.stringify([...GAGNEES])); } catch {} };
 function carteDuJour() {
-  const pool = toutes().filter((c) => RANG(c.rarete) >= 2 && (c.description || '').length > 120);
-  return pool[Math.floor(hash(new Date().toDateString() + 'cdj') * pool.length)];
+  let c = defi.id && toutes().find((x) => x.id === defi.id);
+  if (!c) {
+    const pool = toutes().filter((x) => !possede.has(x.id)).sort((a, b) => (a.id < b.id ? -1 : 1));
+    c = pool[Math.floor(hash(JOUR + 'cdj') * pool.length)];
+    defi = { jour: JOUR, id: c.id, suite: 0, record: 0, gagne: false }; sauverDefi();
+  }
+  return c;
 }
+const htmlPerles = (n, k) => `<div class="perles">${Array.from({ length: n }, (_, i) => `<i class="${i < k ? 'on' : ''}"></i>`).join('')}</div>`;
 const phrase = (d) => { const s = (d || '').replace(/\s*\([^)]*\)/g, '').replace(/\s+/g, ' ').trim(); const m = s.match(/^.{60,260}?[.!?](\s|$)/); return m ? m[0].trim() : s.slice(0, 220) + '…'; };
 function rendreAccueil() {
   const z = $('#accueil');
@@ -179,9 +191,11 @@ function rendreAccueil() {
       <div class="q">${esc(QDJ.question)}</div>
       <div class="aller"><span class="tag teinte"><i class="ph-fill ${tq.ic}"></i>${esc(QDJ.theme)}</span><i class="ph-bold ph-arrow-right"></i></div>
     </button>
-    <button class="bloc carte-jour pressable" id="cdj" style="--t:${tc.c}">
-      ${htmlCarte(cdj)}
-      <div class="droite"><span class="surtitre">Carte du jour</span><h3>${esc(cdj.nom)}</h3><p>${esc(phrase(cdj.description))}</p></div>
+    <button class="bloc carte-jour pressable${defi.gagne ? ' gagnee' : ''}" id="cdj" style="--t:${tc.c};--rar:var(--r-${cdj.rarete})">
+      <div class="${defi.gagne ? '' : 'voile'}" style="--p:${Math.max(.12, defi.suite / SERIE_DEFI[cdj.rarete])}">${htmlCarte(cdj)}</div>
+      <div class="droite"><span class="surtitre">Carte du jour</span><h3>${esc(cdj.nom)}</h3>
+        ${defi.gagne ? '<span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span>' : `<span class="tag"><i class="ph-fill ph-fire"></i>Série de ${SERIE_DEFI[cdj.rarete]}</span>${htmlPerles(SERIE_DEFI[cdj.rarete], defi.suite)}`}
+        <p>${esc(phrase(cdj.description))}</p></div>
     </button>
     <div class="duo">
       <button class="bloc pressable">
@@ -216,7 +230,7 @@ function rendreAccueil() {
   hero.addEventListener('pointerleave', () => { pk.classList.remove('tilt'); pk.style.setProperty('--rx', '0deg'); pk.style.setProperty('--ry', '0deg'); });
   const lier = (sel, liste) => z.querySelectorAll(sel).forEach((el) => { el.classList.add('pressable'); el.addEventListener('click', (e) => { e.stopPropagation(); fiche(liste, liste.findIndex((c) => c.id === el.dataset.id), el); }); });
   lier('#dernieres .k', historique); lier('#vitrine .k', vit);
-  $('#cdj').addEventListener('click', () => fiche([cdj], 0, $('#cdj .k')));
+  $('#cdj').addEventListener('click', () => (defi.gagne ? fiche([cdj], 0, $('#cdj .k')) : ouvrirDefi(cdj)));
 }
 function majMinuteur() {
   if (fin <= Date.now()) { while (fin <= Date.now()) { paquets++; fin += DUREE; } toast('ph-cards', 'Nouveau paquet'); son('palier'); if (ecran === 'accueil') rendreAccueil(); return; }
@@ -375,6 +389,75 @@ function rendreQuestions() {
     }
     $('#suiv').addEventListener('click', () => { qs.enCours = null; son('tap'); transition(rendreQuestions); });
   });
+}
+// le défi : questions imposées et tirées au hasard ; une erreur remet la série à zéro
+let vuesDefi = new Set();
+function questionDefi() {
+  let pool = BANQUE.filter((x) => x.id !== QDJ.id && !vuesDefi.has(x.id));
+  if (!pool.length) { vuesDefi = new Set(); pool = BANQUE.filter((x) => x.id !== QDJ.id); }
+  const q = hasard(pool); vuesDefi.add(q.id); return q;
+}
+function ouvrirDefi(c) {
+  vibrer(); son('tap');
+  const N = SERIE_DEFI[c.rarete];
+  const f = document.createElement('div');
+  f.className = 'fiche defi';
+  f.style.setProperty('--img', `url('${c.thumbUrl}')`);
+  f.style.setProperty('--rar', `var(--r-${c.rarete})`);
+  f.innerHTML = `<div class="flou"></div>
+    <div class="barre-f"><button class="retour" id="dx"><i class="ph-bold ph-x"></i></button><span class="surtitre">Carte du jour</span><span class="record"><i class="ph-fill ph-trophy"></i>${defi.record}</span></div>
+    <div class="defi-scene voile" style="--p:${Math.max(.08, defi.suite / N)}">${htmlCarte(c, { image: 'full' })}</div>
+    <div class="defi-suite"><b id="dn">${defi.suite}</b><span>/ ${N}</span>${htmlPerles(N, defi.suite)}</div>
+    <div class="defi-corps" id="dc"></div>`;
+  document.body.append(f);
+  document.documentElement.style.overflow = 'hidden';
+  const fermer = () => { f.remove(); document.documentElement.style.overflow = ''; if (ecran === 'accueil') rendreAccueil(); };
+  $('#dx', f).addEventListener('click', fermer);
+  const majSuite = (ko) => {
+    $('.defi-scene', f).style.setProperty('--p', Math.max(.08, defi.suite / N));
+    $('#dn', f).textContent = defi.suite;
+    $('.defi-suite .perles', f).outerHTML = htmlPerles(N, defi.suite);
+    if (ko) { const sc = $('.defi-scene', f); sc.classList.remove('rechute'); void sc.offsetWidth; sc.classList.add('rechute'); }
+  };
+  const gagner = () => {
+    defi.gagne = true; GAGNEES.add(c.id); possede.set(c.id, (possede.get(c.id) || 0) + 1);
+    historique.unshift(c); historique.length = Math.min(historique.length, 14); sauverDefi();
+    son('palier'); vibrer([20, 40, 60]);
+    const sc = $('.defi-scene', f); sc.classList.remove('voile'); sc.classList.add('devoilee');
+    brancherManipulation($('.k', sc));
+    $('#dc', f).innerHTML = `<div class="defi-fin"><span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span><h2>${esc(c.nom)}</h2>
+      <button class="btn2 or" id="dv"><i class="ph-bold ph-cards"></i>Voir la fiche</button></div>`;
+    $('#dv', f).addEventListener('click', () => { fermer(); fiche([c], 0); });
+  };
+  const poser = () => {
+    const q = questionDefi(), t = teinte(q.theme);
+    const dc = $('#dc', f); dc.style.setProperty('--t', t.c);
+    dc.innerHTML = `<div class="bloc q-carte" id="dq">
+        <div class="meta"><span class="tag teinte"><i class="ph-fill ${t.ic}"></i>${esc(q.theme)}</span><span class="diff">${[1, 2, 3, 4, 5].map((d) => `<i class="${d <= q.difficulte ? 'on' : ''}"></i>`).join('')}</span></div>
+        <p class="q-texte">${esc(q.question)}</p></div>
+      <form class="q-form" id="df"><input id="dr" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="send" placeholder="Réponse"><button disabled><i class="ph-bold ph-arrow-up"></i></button></form>
+      <div class="verdict" id="dvd"></div>`;
+    const inp = $('#dr', f), bt = $('#df button', f);
+    inp.addEventListener('input', () => (bt.disabled = !inp.value.trim()));
+    setTimeout(() => inp.focus({ preventScroll: true }), 60);
+    $('#df', f).addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (!inp.value.trim() || inp.disabled) return;
+      const ok = correcte(q, inp.value);
+      inp.disabled = true; bt.disabled = true;
+      defi.suite = ok ? defi.suite + 1 : 0; defi.record = Math.max(defi.record, defi.suite); sauverDefi();
+      $('.record', f).innerHTML = `<i class="ph-fill ph-trophy"></i>${defi.record}`;
+      $('#dq', f).classList.add(ok ? 'juste' : 'faux');
+      majSuite(!ok);
+      if (ok && defi.suite >= N) { setTimeout(gagner, 500); return; }
+      vibrer(ok ? 20 : [30, 40, 30]); son(ok ? 'juste' : 'faux');
+      const v = $('#dvd', f); v.className = `verdict vu ${ok ? 'ok' : 'ko'}`;
+      v.innerHTML = `<div class="ico"><i class="ph-bold ${ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${ok ? `${defi.suite} / ${N}` : 'Série perdue'}</span></div><button class="btn2 petit" id="ds">${ok ? 'Suivante' : 'Recommencer'}</button>`;
+      $('#ds', f).addEventListener('click', () => { son('tap'); poser(); });
+      $('#ds', f).focus({ preventScroll: true });
+    });
+  };
+  poser();
 }
 function gagnerMinutes(m) {
   fin -= m * 60e3;

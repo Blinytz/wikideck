@@ -90995,6 +90995,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067235130
+  },
+  "grands-compositeurs_claude-debussy": {
+   "cx": 0.5183,
+   "cy": 0.3816,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067237093
+  },
+  "grands-compositeurs_maurice-ravel": {
+   "cx": 0.5039,
+   "cy": 0.3824,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067239269
+  },
+  "grands-compositeurs_erik-satie": {
+   "cx": 0.4987,
+   "cy": 0.4581,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067241220
+  },
+  "grands-compositeurs_igor-stravinsky": {
+   "cx": 0.5369,
+   "cy": 0.4998,
+   "w": 0.7339,
+   "src": "orig",
+   "editeLe": 1794067243916
+  },
+  "grands-compositeurs_serguei-rachmaninov": {
+   "cx": 0.5118,
+   "cy": 0.382,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067245779
   }
  }
 }

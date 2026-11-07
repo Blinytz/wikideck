@@ -95587,6 +95587,27 @@
    "w": 1.0838,
    "src": "orig",
    "editeLe": 1794069190531
+  },
+  "auteurs-modernes_jack-kerouac": {
+   "cx": 0.4926,
+   "cy": 0.4122,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069206937
+  },
+  "auteurs-modernes_cormac-mccarthy": {
+   "cx": 0.4926,
+   "cy": 0.3114,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069209136
+  },
+  "auteurs-modernes_philip-roth": {
+   "cx": 0.5028,
+   "cy": 0.5002,
+   "w": 0.7329,
+   "src": "orig",
+   "editeLe": 1794069212918
   }
  }
 }

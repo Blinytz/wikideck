@@ -91730,6 +91730,27 @@
    "w": 0.5136,
    "src": "orig",
    "editeLe": 1794067468675
+  },
+  "oeuvres-musicales_tosca": {
+   "cx": 0.5659,
+   "cy": 0.391,
+   "w": 0.6115,
+   "src": "orig",
+   "editeLe": 1794067469893
+  },
+  "oeuvres-musicales_la-boheme": {
+   "cx": 0.5659,
+   "cy": 0.391,
+   "w": 0.6115,
+   "src": "orig",
+   "editeLe": 1794067471085
+  },
+  "oeuvres-musicales_l-anneau-du-nibelung": {
+   "cx": 0.5053,
+   "cy": 0.5,
+   "w": 0.8057,
+   "src": "orig",
+   "editeLe": 1794067473178
   }
  }
 }

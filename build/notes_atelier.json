@@ -88937,6 +88937,27 @@
    "w": 0.7587,
    "src": "orig",
    "editeLe": 1794066413649
+  },
+  "tableaux-celebres_golconde-magritte": {
+   "cx": 0.456,
+   "cy": 0.5251,
+   "w": 0.8264,
+   "src": "orig",
+   "editeLe": 1794066419682
+  },
+  "tableaux-celebres_la-femme-qui-pleure-picasso": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066421716
+  },
+  "tableaux-celebres_trois-musiciens-picasso": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066423487
   }
  }
 }

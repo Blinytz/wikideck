@@ -91254,6 +91254,34 @@
    "w": 0.7143,
    "src": "orig",
    "editeLe": 1794067316359
+  },
+  "grands-compositeurs_toru-takemitsu": {
+   "cx": 0.3431,
+   "cy": 0.5002,
+   "w": 0.6862,
+   "src": "orig",
+   "editeLe": 1794067319235
+  },
+  "grands-compositeurs_astor-piazzolla": {
+   "cx": 0.5013,
+   "cy": 0.3333,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067321461
+  },
+  "grands-compositeurs_duke-ellington": {
+   "cx": 0.4987,
+   "cy": 0.3261,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067323484
+  },
+  "grands-compositeurs_scott-joplin": {
+   "cx": 0.6181,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067325847
   }
  }
 }

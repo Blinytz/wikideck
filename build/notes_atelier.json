@@ -80866,6 +80866,27 @@
    "w": 0.5982,
    "src": "orig",
    "editeLe": 1794059153581
+  },
+  "oiseaux_ibis-sacre": {
+   "cx": 0.4982,
+   "cy": 0.5327,
+   "w": 0.5435,
+   "src": "orig",
+   "editeLe": 1794059156253
+  },
+  "oiseaux_cigogne-blanche": {
+   "cx": 0.5,
+   "cy": 0.4562,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059158139
+  },
+  "oiseaux_heron-cendre": {
+   "cx": 0.5,
+   "cy": 0.3043,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059160093
   }
  }
 }

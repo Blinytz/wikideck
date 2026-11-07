@@ -85444,6 +85444,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064068866
+  },
+  "fleurs_tournesol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064070527
+  },
+  "fleurs_orchidaceae": {
+   "cx": 0.4875,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064072313
+  },
+  "fleurs_lys": {
+   "cx": 0.5,
+   "cy": 0.6827,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064074116
+  },
+  "fleurs_pivoine": {
+   "cx": 0.5,
+   "cy": 0.498,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064075962
+  },
+  "fleurs_marguerite-commune": {
+   "cx": 0.5,
+   "cy": 0.3746,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064077789
   }
  }
 }

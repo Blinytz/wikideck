@@ -78381,6 +78381,34 @@
    "w": 0.5955,
    "src": "orig",
    "editeLe": 1794057599525
+  },
+  "aviateurs-celebres_hubert-latham": {
+   "cx": 0.5,
+   "cy": 0.3364,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057602087
+  },
+  "aviateurs-celebres_louis-charles-breguet": {
+   "cx": 0.4987,
+   "cy": 0.4101,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057604618
+  },
+  "aviateurs-celebres_rene-fonck": {
+   "cx": 0.5,
+   "cy": 0.3867,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057606796
+  },
+  "aviateurs-celebres_edward-vernon-rickenbacker": {
+   "cx": 0.5027,
+   "cy": 0.3208,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057609101
   }
  }
 }

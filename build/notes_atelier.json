@@ -82812,6 +82812,27 @@
    "w": 0.7672,
    "src": "orig",
    "editeLe": 1794062367948
+  },
+  "dinosaures-celebres_kentrosaurus": {
+   "cx": 0.6657,
+   "cy": 0.5002,
+   "w": 0.625,
+   "src": "orig",
+   "editeLe": 1794062371065
+  },
+  "dinosaures-celebres_gallimimus": {
+   "cx": 0.292,
+   "cy": 0.5635,
+   "w": 0.4882,
+   "src": "orig",
+   "editeLe": 1794062374430
+  },
+  "dinosaures-celebres_struthiomimus": {
+   "cx": 0.6151,
+   "cy": 0.4312,
+   "w": 0.614,
+   "src": "orig",
+   "editeLe": 1794062376867
   }
  }
 }

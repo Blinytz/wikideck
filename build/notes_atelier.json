@@ -81202,6 +81202,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794059303569
+  },
+  "oiseaux_pintade-de-numidie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 1,
+   "src": "orig",
+   "editeLe": 1794059336149
+  },
+  "oiseaux_caille-des-bles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059338504
+  },
+  "oiseaux_buse-variable": {
+   "cx": 0.4447,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059340222
   }
  }
 }

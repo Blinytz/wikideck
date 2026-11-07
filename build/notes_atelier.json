@@ -89882,6 +89882,20 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794066807481
+  },
+  "architectes_jean-nouvel": {
+   "cx": 0.4681,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794066809411
+  },
+  "architectes_rem-koolhaas": {
+   "cx": 0.665,
+   "cy": 0.5227,
+   "w": 0.4935,
+   "src": "orig",
+   "editeLe": 1794066811566
   }
  }
 }

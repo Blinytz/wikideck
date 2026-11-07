@@ -84765,6 +84765,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063619984
+  },
+  "races-de-cheval_hanovrien": {
+   "cx": 0.4699,
+   "cy": 0.4691,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063622925
+  },
+  "races-de-cheval_holsteiner": {
+   "cx": 0.5616,
+   "cy": 0.4998,
+   "w": 0.7671,
+   "src": "orig",
+   "editeLe": 1794063625526
   }
  }
 }

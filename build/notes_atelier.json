@@ -96616,6 +96616,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069832624
+  },
+  "oeuvres-litteraires_si-c-est-un-homme": {
+   "cx": 0.5,
+   "cy": 0.4799,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069837528
+  },
+  "oeuvres-litteraires_le-reve-dans-le-pavillon-rouge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.625,
+   "src": "orig",
+   "editeLe": 1794069839519
+  },
+  "oeuvres-litteraires_le-dit-du-genji": {
+   "cx": 0.4308,
+   "cy": 0.5227,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794069841271
+  },
+  "oeuvres-litteraires_les-trois-royaumes-roman": {
+   "cx": 0.5,
+   "cy": 0.437,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069842940
+  },
+  "oeuvres-litteraires_mahabharata": {
+   "cx": 0.4829,
+   "cy": 0.4787,
+   "w": 0.6692,
+   "src": "orig",
+   "editeLe": 1794069844821
+  },
+  "oeuvres-litteraires_tout-s-effondre": {
+   "cx": 0.5,
+   "cy": 0.5607,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069846368
   }
  }
 }

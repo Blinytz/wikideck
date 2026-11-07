@@ -83631,6 +83631,20 @@
    "w": 0.7225,
    "src": "orig",
    "editeLe": 1794062936543
+  },
+  "races-de-chien_levrier-whippet": {
+   "cx": 0.4407,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794062959605
+  },
+  "races-de-chien_levrier-afghan": {
+   "cx": 0.3884,
+   "cy": 0.4414,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794062963084
   }
  }
 }

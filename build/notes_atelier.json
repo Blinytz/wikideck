@@ -77562,6 +77562,34 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794055225187
+  },
+  "astronautes-et-cosmonautes_virgil-grissom": {
+   "cx": 0.5,
+   "cy": 0.4979,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055227946
+  },
+  "astronautes-et-cosmonautes_walter-schirra": {
+   "cx": 0.4987,
+   "cy": 0.4892,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055230301
+  },
+  "astronautes-et-cosmonautes_gordon-cooper": {
+   "cx": 0.5053,
+   "cy": 0.3965,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055232441
+  },
+  "astronautes-et-cosmonautes_donald-slayton": {
+   "cx": 0.504,
+   "cy": 0.3812,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055234665
   }
  }
 }

@@ -88559,6 +88559,27 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794066237427
+  },
+  "tableaux-celebres_autoportrait-rembrandt-vienne": {
+   "cx": 0.4935,
+   "cy": 0.3501,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066240013
+  },
+  "tableaux-celebres_la-laitiere": {
+   "cx": 0.5,
+   "cy": 0.4791,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066242013
+  },
+  "tableaux-celebres_vue-de-delft": {
+   "cx": 0.5,
+   "cy": 0.5425,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066244246
   }
  }
 }

@@ -77058,6 +77058,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794054791978
+  },
+  "conquete-spatiale_mir-station-spatiale": {
+   "cx": 0.4773,
+   "cy": 0.524,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054799740
+  },
+  "conquete-spatiale_skylab": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054801788
   }
  }
 }

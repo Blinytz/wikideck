@@ -77233,6 +77233,27 @@
    "w": 0.8055,
    "src": "orig",
    "editeLe": 1794054905845
+  },
+  "conquete-spatiale_apollo-17": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054908036
+  },
+  "conquete-spatiale_programme-artemis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8082,
+   "src": "orig",
+   "editeLe": 1794054910300
+  },
+  "conquete-spatiale_luna-9": {
+   "cx": 0.5739,
+   "cy": 0.4998,
+   "w": 0.7722,
+   "src": "orig",
+   "editeLe": 1794054914254
   }
  }
 }

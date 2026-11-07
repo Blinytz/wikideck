@@ -83372,6 +83372,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794062692920
+  },
+  "creatures-prehistoriques_eohippus": {
+   "cx": 0.5308,
+   "cy": 0.5,
+   "w": 0.7642,
+   "src": "orig",
+   "editeLe": 1794062695201
+  },
+  "races-de-chien_labrador-retriever": {
+   "cx": 0.4398,
+   "cy": 0.4397,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062698162
   }
  }
 }

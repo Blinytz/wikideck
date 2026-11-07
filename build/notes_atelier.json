@@ -79613,6 +79613,34 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058367875
+  },
+  "noeuds_n-ud-de-pendu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058371400
+  },
+  "noeuds_demi-clef": {
+   "cx": 0.4653,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058373920
+  },
+  "noeuds_n-ud-de-cabestan": {
+   "cx": 0.4773,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058376465
+  },
+  "noeuds_n-ud-de-demi-cabestan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058378686
   }
  }
 }

@@ -97134,6 +97134,27 @@
    "w": 0.6087,
    "src": "orig",
    "editeLe": 1794070097331
+  },
+  "personnages-litterature_le-petit-chaperon-rouge": {
+   "cx": 0.5031,
+   "cy": 0.3141,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794070100440
+  },
+  "personnages-litterature_la-barbe-bleue": {
+   "cx": 0.484,
+   "cy": 0.3983,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794070102684
+  },
+  "personnages-litterature_le-maitre-chat-ou-le-chat-botte": {
+   "cx": 0.5807,
+   "cy": 0.5002,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794070105689
   }
  }
 }

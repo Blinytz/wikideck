@@ -78425,11 +78425,32 @@
    "editeLe": 1794057614264
   },
   "aviateurs-celebres_saburo-sakai": {
-   "cx": 0.479,
-   "cy": 0.5735,
+   "cx": 0.4765,
+   "cy": 0.6002,
    "w": 0.518,
    "src": "orig",
-   "editeLe": 1794057616510
+   "editeLe": 1794057621718
+  },
+  "aviateurs-celebres_pierre-clostermann": {
+   "cx": 0.504,
+   "cy": 0.2603,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057623857
+  },
+  "aviateurs-celebres_henri-guillaumet": {
+   "cx": 0.5158,
+   "cy": 0.373,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794057625988
+  },
+  "aviateurs-celebres_didier-daurat": {
+   "cx": 0.5198,
+   "cy": 0.3157,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794057628104
   }
  }
 }

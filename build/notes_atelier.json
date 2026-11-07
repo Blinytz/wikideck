@@ -84513,6 +84513,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794063518041
+  },
+  "races-de-chat_selkirk-rex": {
+   "cx": 0.4907,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063520813
+  },
+  "races-de-chat_laperm": {
+   "cx": 0.4628,
+   "cy": 0.4997,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063523833
+  },
+  "races-de-chat_munchkin-chat": {
+   "cx": 0.5985,
+   "cy": 0.5,
+   "w": 0.721,
+   "src": "orig",
+   "editeLe": 1794063526519
   }
  }
 }

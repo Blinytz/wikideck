@@ -84842,6 +84842,27 @@
    "w": 0.7254,
    "src": "orig",
    "editeLe": 1794063676198
+  },
+  "races-de-cheval_boulonnais-cheval": {
+   "cx": 0.5482,
+   "cy": 0.4722,
+   "w": 0.7156,
+   "src": "orig",
+   "editeLe": 1794063678927
+  },
+  "races-de-cheval_comtois-cheval": {
+   "cx": 0.5559,
+   "cy": 0.5823,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794063681785
+  },
+  "races-de-cheval_welsh-cheval": {
+   "cx": 0.544,
+   "cy": 0.4998,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794063684631
   }
  }
 }

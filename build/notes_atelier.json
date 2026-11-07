@@ -87026,6 +87026,20 @@
    "w": 0.703,
    "src": "orig",
    "editeLe": 1794064611725
+  },
+  "grands-peintres_giotto-di-bondone": {
+   "cx": 0.5,
+   "cy": 0.4252,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064613442
+  },
+  "grands-peintres_sandro-botticelli": {
+   "cx": 0.5,
+   "cy": 0.328,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064615336
   }
  }
 }

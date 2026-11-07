@@ -93473,6 +93473,27 @@
    "w": 0.6204,
    "src": "orig",
    "editeLe": 1794068155547
+  },
+  "instruments-de-musique_tabla": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7236,
+   "src": "orig",
+   "editeLe": 1794068161027
+  },
+  "instruments-de-musique_gamelan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068163176
+  },
+  "instruments-de-musique_pan-instrument": {
+   "cx": 0.4986,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068165098
   }
  }
 }

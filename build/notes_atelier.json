@@ -94131,6 +94131,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068590587
+  },
+  "auteurs-classiques_arthur-rimbaud": {
+   "cx": 0.5074,
+   "cy": 0.4195,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068593726
+  },
+  "auteurs-classiques_paul-verlaine": {
+   "cx": 0.4926,
+   "cy": 0.3964,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068595710
+  },
+  "auteurs-classiques_stephane-mallarme": {
+   "cx": 0.4926,
+   "cy": 0.3853,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068599873
   }
  }
 }

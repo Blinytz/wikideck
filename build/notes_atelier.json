@@ -81510,6 +81510,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059467817
+  },
+  "reptiles-et-amphibiens_centrolenidae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059469680
+  },
+  "reptiles-et-amphibiens_conraua-goliath": {
+   "cx": 0.3973,
+   "cy": 0.5167,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794059471478
+  },
+  "reptiles-et-amphibiens_caecilia": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794059473665
+  },
+  "reptiles-et-amphibiens_protee-anguillard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.803,
+   "src": "orig",
+   "editeLe": 1794059475533
   }
  }
 }

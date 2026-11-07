@@ -85339,6 +85339,27 @@
    "w": 1,
    "src": "orig",
    "editeLe": 1794063994750
+  },
+  "arbres_teck": {
+   "cx": 0.5,
+   "cy": 0.546,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063996583
+  },
+  "arbres_santalum-album": {
+   "cx": 0.5366,
+   "cy": 0.5424,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064000858
+  },
+  "arbres_arbre-a-pain": {
+   "cx": 0.5,
+   "cy": 0.5574,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064003317
   }
  }
 }

@@ -93669,6 +93669,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794068219376
+  },
+  "instruments-de-musique_conga": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7774,
+   "src": "orig",
+   "editeLe": 1794068220927
+  },
+  "instruments-de-musique_maraca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794068222828
+  },
+  "instruments-de-musique_flute-de-pan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068224522
+  },
+  "instruments-de-musique_flute-a-bec": {
+   "cx": 0.5099,
+   "cy": 0.5,
+   "w": 0.7193,
+   "src": "orig",
+   "editeLe": 1794068227082
   }
  }
 }

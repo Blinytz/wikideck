@@ -83120,6 +83120,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794062542077
+  },
+  "creatures-prehistoriques_sarcosuchus": {
+   "cx": 0.4071,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062546343
+  },
+  "creatures-prehistoriques_deinosuchus": {
+   "cx": 0.4907,
+   "cy": 0.5286,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794062549212
+  },
+  "creatures-prehistoriques_dimetrodon": {
+   "cx": 0.4452,
+   "cy": 0.5002,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794062551806
   }
  }
 }

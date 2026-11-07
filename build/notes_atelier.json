@@ -84065,6 +84065,34 @@
    "w": 0.6528,
    "src": "orig",
    "editeLe": 1794063310162
+  },
+  "races-de-chien_berger-polonais-de-plaine": {
+   "cx": 0.399,
+   "cy": 0.4998,
+   "w": 0.798,
+   "src": "orig",
+   "editeLe": 1794063313993
+  },
+  "races-de-chien_puli": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7844,
+   "src": "orig",
+   "editeLe": 1794063315947
+  },
+  "races-de-chien_komondor": {
+   "cx": 0.411,
+   "cy": 0.3536,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063318547
+  },
+  "races-de-chien_chien-loup-tchecoslovaque": {
+   "cx": 0.5157,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063320899
   }
  }
 }

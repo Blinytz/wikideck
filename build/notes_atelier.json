@@ -90085,6 +90085,27 @@
    "w": 0.7751,
    "src": "orig",
    "editeLe": 1794066906635
+  },
+  "architectes_charles-rennie-mackintosh": {
+   "cx": 0.5,
+   "cy": 0.3151,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066908753
+  },
+  "architectes_adolf-loos": {
+   "cx": 0.4361,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794066912294
+  },
+  "architectes_j-rn-utzon": {
+   "cx": 0.5,
+   "cy": 0.5286,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066914797
   }
  }
 }

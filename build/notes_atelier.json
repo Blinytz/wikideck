@@ -84044,6 +84044,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063302934
+  },
+  "races-de-chien_coton-de-tulear": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8111,
+   "src": "orig",
+   "editeLe": 1794063304804
+  },
+  "races-de-chien_berger-hollandais": {
+   "cx": 0.5929,
+   "cy": 0.4739,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063308065
+  },
+  "races-de-chien_berger-de-brie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6528,
+   "src": "orig",
+   "editeLe": 1794063310162
   }
  }
 }

@@ -78094,6 +78094,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794056713581
+  },
+  "astronautes-et-cosmonautes_andre-kuipers": {
+   "cx": 0.4747,
+   "cy": 0.3702,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056717893
+  },
+  "astronautes-et-cosmonautes_mark-shuttleworth": {
+   "cx": 0.5013,
+   "cy": 0.4548,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056720561
+  },
+  "astronautes-et-cosmonautes_wally-funk": {
+   "cx": 0.5036,
+   "cy": 0.4547,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794056722881
+  },
+  "astronautes-et-cosmonautes_william-shatner": {
+   "cx": 0.4621,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794056725361
   }
  }
 }

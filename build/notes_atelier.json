@@ -80313,6 +80313,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058832683
+  },
+  "mammiferes_alpaga": {
+   "cx": 0.4374,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058838011
+  },
+  "mammiferes_cheval-de-przewalski": {
+   "cx": 0.5,
+   "cy": 0.5809,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058840588
   }
  }
 }

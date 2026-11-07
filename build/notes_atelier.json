@@ -82609,6 +82609,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062247126
+  },
+  "dinosaures-celebres_triceratops": {
+   "cx": 0.4587,
+   "cy": 0.4997,
+   "w": 0.7792,
+   "src": "orig",
+   "editeLe": 1794062249717
+  },
+  "dinosaures-celebres_stegosaurus": {
+   "cx": 0.4748,
+   "cy": 0.5055,
+   "w": 0.6582,
+   "src": "orig",
+   "editeLe": 1794062252553
   }
  }
 }

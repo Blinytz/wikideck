@@ -95923,6 +95923,34 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794069404687
+  },
+  "auteurs-modernes_blaise-cendrars": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.6153,
+   "src": "orig",
+   "editeLe": 1794069407745
+  },
+  "auteurs-modernes_francoise-sagan": {
+   "cx": 0.4926,
+   "cy": 0.4069,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069410505
+  },
+  "auteurs-modernes_joseph-kessel": {
+   "cx": 0.4926,
+   "cy": 0.3508,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069413276
+  },
+  "auteurs-modernes_georges-bernanos": {
+   "cx": 0.5018,
+   "cy": 0.509,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794069417088
   }
  }
 }

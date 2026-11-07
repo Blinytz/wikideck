@@ -92850,6 +92850,41 @@
    "w": 0.7231,
    "src": "orig",
    "editeLe": 1794067956434
+  },
+  "musique-populaire_bee-gees": {
+   "cx": 0.5,
+   "cy": 0.3854,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067958463
+  },
+  "musique-populaire_simon-and-garfunkel": {
+   "cx": 0.5004,
+   "cy": 0.5,
+   "w": 0.8136,
+   "src": "orig",
+   "editeLe": 1794067960218
+  },
+  "musique-populaire_tina-turner": {
+   "cx": 0.5,
+   "cy": 0.3756,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067962061
+  },
+  "musique-populaire_marvin-gaye": {
+   "cx": 0.5,
+   "cy": 0.4736,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067963628
+  },
+  "musique-populaire_little-richard": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067965118
   }
  }
 }

@@ -82084,6 +82084,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059739895
+  },
+  "poissons-et-vie-marine_epinephelus-marginatus": {
+   "cx": 0.4775,
+   "cy": 0.5002,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059742389
+  },
+  "poissons-et-vie-marine_requin-mako": {
+   "cx": 0.54,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059744861
+  },
+  "poissons-et-vie-marine_requin-lutin": {
+   "cx": 0.321,
+   "cy": 0.5002,
+   "w": 0.5827,
+   "src": "orig",
+   "editeLe": 1794059748046
   }
  }
 }

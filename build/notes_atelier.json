@@ -97372,6 +97372,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794070183579
+  },
+  "personnages-litterature_mephistopheles": {
+   "cx": 0.5,
+   "cy": 0.3143,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070185529
+  },
+  "personnages-litterature_athos": {
+   "cx": 0.4996,
+   "cy": 0.5297,
+   "w": 0.6409,
+   "src": "orig",
+   "editeLe": 1794070187703
+  },
+  "mouvements-litteraires_humanisme": {
+   "cx": 0.5,
+   "cy": 0.4758,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070190259
   }
  }
 }

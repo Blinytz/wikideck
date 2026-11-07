@@ -83645,6 +83645,20 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794062963084
+  },
+  "races-de-chien_irish-wolfhound": {
+   "cx": 0.4634,
+   "cy": 0.4998,
+   "w": 0.684,
+   "src": "orig",
+   "editeLe": 1794062966855
+  },
+  "races-de-chien_dalmatien": {
+   "cx": 0.4248,
+   "cy": 0.5,
+   "w": 0.6031,
+   "src": "orig",
+   "editeLe": 1794062969293
   }
  }
 }

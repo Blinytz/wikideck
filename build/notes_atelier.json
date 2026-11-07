@@ -78003,6 +78003,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055519892
+  },
+  "astronautes-et-cosmonautes_liu-yang-astronaute": {
+   "cx": 0.48,
+   "cy": 0.398,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055523171
+  },
+  "astronautes-et-cosmonautes_zhai-zhigang": {
+   "cx": 0.5053,
+   "cy": 0.3595,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055525593
+  },
+  "astronautes-et-cosmonautes_chiaki-mukai": {
+   "cx": 0.488,
+   "cy": 0.4154,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055528952
   }
  }
 }

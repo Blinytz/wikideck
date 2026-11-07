@@ -79466,6 +79466,20 @@
    "w": 0.7537,
    "src": "orig",
    "editeLe": 1794058221707
+  },
+  "vehicules-celebres_harley-davidson": {
+   "cx": 0.4853,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058225228
+  },
+  "vehicules-celebres_vespa": {
+   "cx": 0.5213,
+   "cy": 0.5068,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058228436
   }
  }
 }

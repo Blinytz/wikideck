@@ -89966,6 +89966,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066853985
+  },
+  "architectes_santiago-calatrava-valls": {
+   "cx": 0.5,
+   "cy": 0.4455,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066857572
+  },
+  "architectes_bjarke-ingels": {
+   "cx": 0.4974,
+   "cy": 0.416,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066860113
+  },
+  "architectes_sinan": {
+   "cx": 0.3555,
+   "cy": 0.4998,
+   "w": 0.611,
+   "src": "orig",
+   "editeLe": 1794066863747
   }
  }
 }

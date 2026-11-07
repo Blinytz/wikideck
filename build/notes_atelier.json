@@ -96105,6 +96105,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069480146
+  },
+  "auteurs-modernes_j-m-coetzee": {
+   "cx": 0.4926,
+   "cy": 0.4877,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069482260
+  },
+  "auteurs-modernes_kateb-yacine": {
+   "cx": 0.4926,
+   "cy": 0.4278,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069484381
+  },
+  "auteurs-modernes_tahar-ben-jelloun": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794069487245
+  },
+  "auteurs-modernes_mahmoud-darwich": {
+   "cx": 0.4926,
+   "cy": 0.4697,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069489836
   }
  }
 }

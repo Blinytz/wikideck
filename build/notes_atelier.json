@@ -80642,6 +80642,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059047389
+  },
+  "oiseaux_balbuzard-pecheur": {
+   "cx": 0.4003,
+   "cy": 0.4868,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794059050445
+  },
+  "oiseaux_pygargue-a-tete-blanche": {
+   "cx": 0.5,
+   "cy": 0.3571,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059052686
+  },
+  "oiseaux_faucon-pelerin": {
+   "cx": 0.4409,
+   "cy": 0.4989,
+   "w": 0.5927,
+   "src": "orig",
+   "editeLe": 1794059054774
+  },
+  "oiseaux_faucon-crecerelle": {
+   "cx": 0.4467,
+   "cy": 0.3973,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059058183
   }
  }
 }

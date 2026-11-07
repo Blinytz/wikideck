@@ -80929,6 +80929,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059178387
+  },
+  "oiseaux_merle-noir": {
+   "cx": 0.4853,
+   "cy": 0.4639,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059180706
+  },
+  "oiseaux_mesange-bleue": {
+   "cx": 0.5102,
+   "cy": 0.5002,
+   "w": 0.7763,
+   "src": "orig",
+   "editeLe": 1794059183194
+  },
+  "oiseaux_moineau-domestique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059184961
+  },
+  "oiseaux_pinson-des-arbres": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059186746
   }
  }
 }

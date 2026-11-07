@@ -93963,6 +93963,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068525222
+  },
+  "auteurs-classiques_nathaniel-hawthorne": {
+   "cx": 0.4926,
+   "cy": 0.4373,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068527764
+  },
+  "auteurs-classiques_edgar-allan-poe": {
+   "cx": 0.4926,
+   "cy": 0.3633,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068530855
+  },
+  "auteurs-classiques_herman-melville": {
+   "cx": 0.4926,
+   "cy": 0.3797,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068533163
+  },
+  "auteurs-classiques_nicolas-gogol": {
+   "cx": 0.4926,
+   "cy": 0.3979,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068535508
   }
  }
 }

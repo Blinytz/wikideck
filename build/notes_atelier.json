@@ -94194,6 +94194,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068618939
+  },
+  "auteurs-classiques_omar-khayyam": {
+   "cx": 0.4926,
+   "cy": 0.4085,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068621125
+  },
+  "auteurs-classiques_eschyle": {
+   "cx": 0.5074,
+   "cy": 0.4154,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068624297
+  },
+  "auteurs-classiques_aristophane": {
+   "cx": 0.4926,
+   "cy": 0.4315,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068626573
+  },
+  "auteurs-classiques_hesiode": {
+   "cx": 0.4926,
+   "cy": 0.4038,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068628980
   }
  }
 }

@@ -89805,6 +89805,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066780339
+  },
+  "architectes_antoni-gaudi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794066782727
+  },
+  "architectes_le-corbusier": {
+   "cx": 0.5,
+   "cy": 0.4641,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066785552
+  },
+  "architectes_frank-lloyd-wright": {
+   "cx": 0.5,
+   "cy": 0.3878,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066788133
   }
  }
 }

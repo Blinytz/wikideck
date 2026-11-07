@@ -92136,6 +92136,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794067644052
+  },
+  "oeuvres-musicales_messe-du-pape-marcel": {
+   "cx": 0.4325,
+   "cy": 0.653,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067653159
+  },
+  "oeuvres-musicales_le-bourgeois-gentilhomme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067655214
+  },
+  "oeuvres-musicales_les-barricades-mysterieuses": {
+   "cx": 0.4633,
+   "cy": 0.4125,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067656913
   }
  }
 }

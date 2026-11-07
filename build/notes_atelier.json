@@ -89238,6 +89238,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066541154
+  },
+  "sculptures-celebres_pieta-michel-ange": {
+   "cx": 0.5173,
+   "cy": 0.4905,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794066544517
+  },
+  "sculptures-celebres_le-penseur": {
+   "cx": 0.4102,
+   "cy": 0.4473,
+   "w": 0.5608,
+   "src": "orig",
+   "editeLe": 1794066548137
+  },
+  "sculptures-celebres_le-baiser-rodin": {
+   "cx": 0.5,
+   "cy": 0.2899,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066550246
   }
  }
 }

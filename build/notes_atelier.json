@@ -84142,6 +84142,34 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794063338529
+  },
+  "races-de-chien_foxhound-americain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063340464
+  },
+  "races-de-chien_foxhound-anglais": {
+   "cx": 0.4936,
+   "cy": 0.4998,
+   "w": 0.5673,
+   "src": "orig",
+   "editeLe": 1794063343062
+  },
+  "races-de-chien_levrier-greyhound": {
+   "cx": 0.4794,
+   "cy": 0.4547,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063345949
+  },
+  "races-de-chien_levrier-persan": {
+   "cx": 0.5561,
+   "cy": 0.5701,
+   "w": 0.5617,
+   "src": "orig",
+   "editeLe": 1794063348049
   }
  }
 }

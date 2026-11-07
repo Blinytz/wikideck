@@ -84550,11 +84550,18 @@
    "editeLe": 1794063531185
   },
   "races-de-chat_bobtail-japonais": {
-   "cx": 0.5731,
-   "cy": 0.5866,
+   "cx": 0.5286,
+   "cy": 0.5823,
    "w": 0.5888,
    "src": "orig",
-   "editeLe": 1794063533488
+   "editeLe": 1794063540776
+  },
+  "races-de-chat_bobtail-des-kouriles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063542480
   }
  }
 }

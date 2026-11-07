@@ -81314,6 +81314,27 @@
    "w": 0.5061,
    "src": "orig",
    "editeLe": 1794059381810
+  },
+  "reptiles-et-amphibiens_gavial-du-gange": {
+   "cx": 0.532,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059384961
+  },
+  "reptiles-et-amphibiens_eunectes-murinus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059387465
+  },
+  "reptiles-et-amphibiens_python-reticule": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7396,
+   "src": "orig",
+   "editeLe": 1794059389737
   }
  }
 }

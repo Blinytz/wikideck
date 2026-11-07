@@ -83232,6 +83232,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062587661
+  },
+  "creatures-prehistoriques_megalodon": {
+   "cx": 0.5082,
+   "cy": 0.4998,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794062591525
+  },
+  "creatures-prehistoriques_dunkleosteus": {
+   "cx": 0.519,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794062594172
+  },
+  "creatures-prehistoriques_helicoprion": {
+   "cx": 0.5718,
+   "cy": 0.5034,
+   "w": 0.7262,
+   "src": "orig",
+   "editeLe": 1794062597491
   }
  }
 }

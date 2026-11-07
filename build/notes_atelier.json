@@ -89917,6 +89917,34 @@
    "w": 0.5438,
    "src": "orig",
    "editeLe": 1794066839304
+  },
+  "architectes_filippo-brunelleschi": {
+   "cx": 0.5,
+   "cy": 0.2994,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066841290
+  },
+  "architectes_andrea-palladio": {
+   "cx": 0.4921,
+   "cy": 0.2965,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066843825
+  },
+  "architectes_christopher-wren": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066845607
+  },
+  "architectes_eugene-viollet-le-duc": {
+   "cx": 0.5,
+   "cy": 0.3629,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066847942
   }
  }
 }

@@ -95209,6 +95209,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069052681
+  },
+  "auteurs-modernes_colette": {
+   "cx": 0.4926,
+   "cy": 0.3511,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069054800
+  },
+  "auteurs-modernes_romain-gary": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069056842
+  },
+  "auteurs-modernes_boris-vian": {
+   "cx": 0.4926,
+   "cy": 0.3369,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069058740
+  },
+  "auteurs-modernes_georges-perec": {
+   "cx": 0.4926,
+   "cy": 0.5032,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069060668
   }
  }
 }

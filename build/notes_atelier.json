@@ -83995,6 +83995,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794063283781
+  },
+  "races-de-chien_border-terrier": {
+   "cx": 0.457,
+   "cy": 0.4999,
+   "w": 0.7239,
+   "src": "orig",
+   "editeLe": 1794063286905
+  },
+  "races-de-chien_bedlington-terrier": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6522,
+   "src": "orig",
+   "editeLe": 1794063289111
+  },
+  "races-de-chien_terrier-kerry-blue": {
+   "cx": 0.5012,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063291890
+  },
+  "races-de-chien_terrier-irlandais": {
+   "cx": 0.4529,
+   "cy": 0.4523,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063295069
   }
  }
 }

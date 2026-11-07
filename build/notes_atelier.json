@@ -83680,6 +83680,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794062994431
+  },
+  "races-de-chien_epagneul-francais": {
+   "cx": 0.4186,
+   "cy": 0.5,
+   "w": 0.6105,
+   "src": "full",
+   "editeLe": 1794063034360
+  },
+  "races-de-chien_setter-anglais": {
+   "cx": 0.4071,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794063037497
   }
  }
 }

@@ -96749,6 +96749,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069883163
+  },
+  "personnages-litterature_les-voyages-de-gulliver": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069885064
+  },
+  "personnages-litterature_don-quichotte": {
+   "cx": 0.5,
+   "cy": 0.4866,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069888541
+  },
+  "personnages-litterature_d-artagnan": {
+   "cx": 0.5,
+   "cy": 0.4083,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069890196
+  },
+  "personnages-litterature_jean-valjean": {
+   "cx": 0.5,
+   "cy": 0.3331,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069891638
   }
  }
 }

@@ -86697,6 +86697,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064529825
+  },
+  "mineraux-et-pierres_magnetite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064531668
+  },
+  "mineraux-et-pierres_fluorine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064533469
+  },
+  "mineraux-et-pierres_calcite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6908,
+   "src": "orig",
+   "editeLe": 1794064535081
+  },
+  "mineraux-et-pierres_gypse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064536594
+  },
+  "mineraux-et-pierres_halite": {
+   "cx": 0.5009,
+   "cy": 0.497,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794064538031
+  },
+  "mineraux-et-pierres_talc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1794064539428
+  },
+  "mineraux-et-pierres_graphite": {
+   "cx": 0.4915,
+   "cy": 0.5099,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794064540815
   }
  }
 }

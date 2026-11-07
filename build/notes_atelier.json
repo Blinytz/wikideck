@@ -95160,6 +95160,27 @@
    "w": 0.5982,
    "src": "orig",
    "editeLe": 1794069036219
+  },
+  "auteurs-modernes_margaret-atwood": {
+   "cx": 0.4926,
+   "cy": 0.384,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069038330
+  },
+  "auteurs-modernes_alice-munro": {
+   "cx": 0.4227,
+   "cy": 0.5004,
+   "w": 0.6883,
+   "src": "orig",
+   "editeLe": 1794069041445
+  },
+  "auteurs-modernes_vladimir-nabokov": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069043938
   }
  }
 }

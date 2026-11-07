@@ -85745,6 +85745,34 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794064162371
+  },
+  "fleurs_myosotis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064171899
+  },
+  "fleurs_glaieul": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064173585
+  },
+  "fleurs_clematite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064174670
+  },
+  "fleurs_fuchsia": {
+   "cx": 0.5546,
+   "cy": 0.5,
+   "w": 0.7254,
+   "src": "orig",
+   "editeLe": 1794064176754
   }
  }
 }

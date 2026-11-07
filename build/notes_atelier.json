@@ -77436,6 +77436,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055163553
+  },
+  "astronautes-et-cosmonautes_youri-gagarine": {
+   "cx": 0.5014,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1794055167214
+  },
+  "astronautes-et-cosmonautes_valentina-terechkova": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.707,
+   "src": "orig",
+   "editeLe": 1794055169966
+  },
+  "astronautes-et-cosmonautes_neil-armstrong": {
+   "cx": 0.5868,
+   "cy": 0.3431,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794055172936
   }
  }
 }

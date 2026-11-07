@@ -90652,6 +90652,27 @@
    "w": 0.5419,
    "src": "orig",
    "editeLe": 1794067115085
+  },
+  "mode-et-couturiers_kenzo-takada": {
+   "cx": 0.4764,
+   "cy": 0.415,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067117520
+  },
+  "mode-et-couturiers_manolo-blahnik": {
+   "cx": 0.5,
+   "cy": 0.4017,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067119606
+  },
+  "mode-et-couturiers_christian-louboutin": {
+   "cx": 0.4071,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067123003
   }
  }
 }

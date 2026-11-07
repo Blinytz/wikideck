@@ -95349,6 +95349,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069105299
+  },
+  "auteurs-modernes_andre-gide": {
+   "cx": 0.4926,
+   "cy": 0.3688,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069108115
+  },
+  "auteurs-modernes_louis-ferdinand-celine": {
+   "cx": 0.4926,
+   "cy": 0.4527,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069110357
+  },
+  "auteurs-modernes_andre-malraux": {
+   "cx": 0.4926,
+   "cy": 0.4823,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069112470
+  },
+  "auteurs-modernes_francois-mauriac": {
+   "cx": 0.4926,
+   "cy": 0.3401,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069114383
   }
  }
 }

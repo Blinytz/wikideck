@@ -87789,6 +87789,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065045255
+  },
+  "grands-peintres_pierre-soulages": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794065050706
+  },
+  "grands-peintres_yves-klein": {
+   "cx": 0.4926,
+   "cy": 0.4418,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794065054077
+  },
+  "grands-peintres_roy-lichtenstein": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.7654,
+   "src": "orig",
+   "editeLe": 1794065057877
   }
  }
 }

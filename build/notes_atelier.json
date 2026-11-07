@@ -79753,6 +79753,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058519595
+  },
+  "mammiferes_leopard": {
+   "cx": 0.394,
+   "cy": 0.5002,
+   "w": 0.7614,
+   "src": "orig",
+   "editeLe": 1794058522075
+  },
+  "mammiferes_jaguar": {
+   "cx": 0.4291,
+   "cy": 0.5,
+   "w": 0.7844,
+   "src": "orig",
+   "editeLe": 1794058524652
+  },
+  "mammiferes_guepard": {
+   "cx": 0.5493,
+   "cy": 0.3508,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058527886
   }
  }
 }

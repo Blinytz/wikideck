@@ -77002,6 +77002,13 @@
    "w": 0.9091,
    "src": "full",
    "editeLe": 1793990547227
+  },
+  "conquete-spatiale_spoutnik-1": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794054740696
   }
  }
 }

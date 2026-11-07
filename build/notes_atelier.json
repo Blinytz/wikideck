@@ -79830,6 +79830,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058545624
+  },
+  "mammiferes_ailurus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058547462
+  },
+  "mammiferes_elephant-d-afrique": {
+   "cx": 0.4976,
+   "cy": 0.5002,
+   "w": 0.7355,
+   "src": "orig",
+   "editeLe": 1794058550365
+  },
+  "mammiferes_elephant-d-asie": {
+   "cx": 0.5929,
+   "cy": 0.4771,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058553638
   }
  }
 }

@@ -86249,6 +86249,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064369742
+  },
+  "plantes-cultivees_ail-cultive": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064371809
+  },
+  "plantes-cultivees_oignon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064373828
+  },
+  "plantes-cultivees_carotte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7216,
+   "src": "orig",
+   "editeLe": 1794064375541
+  },
+  "plantes-cultivees_chou-commun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1794064377283
   }
  }
 }

@@ -78598,6 +78598,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794057673228
+  },
+  "pionniers-de-lextreme_felix-baumgartner": {
+   "cx": 0.5,
+   "cy": 0.4144,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057675467
+  },
+  "pionniers-de-lextreme_roald-amundsen": {
+   "cx": 0.5482,
+   "cy": 0.395,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794057678054
+  },
+  "pionniers-de-lextreme_robert-falcon-scott": {
+   "cx": 0.428,
+   "cy": 0.3718,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794057680905
+  },
+  "pionniers-de-lextreme_ernest-shackleton": {
+   "cx": 0.7374,
+   "cy": 0.3183,
+   "w": 0.3999,
+   "src": "orig",
+   "editeLe": 1794057683586
   }
  }
 }

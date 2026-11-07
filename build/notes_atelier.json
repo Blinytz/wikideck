@@ -94684,6 +94684,27 @@
    "w": 0.673,
    "src": "orig",
    "editeLe": 1794068833540
+  },
+  "auteurs-classiques_lucrece": {
+   "cx": 0.5074,
+   "cy": 0.3619,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068836920
+  },
+  "auteurs-classiques_pindare": {
+   "cx": 0.4926,
+   "cy": 0.3064,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068839361
+  },
+  "auteurs-classiques_li-bai": {
+   "cx": 0.4926,
+   "cy": 0.4395,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068842754
   }
  }
 }

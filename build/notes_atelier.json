@@ -80131,6 +80131,34 @@
    "w": 0.609,
    "src": "orig",
    "editeLe": 1794058670092
+  },
+  "mammiferes_herisson": {
+   "cx": 0.5155,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794058672958
+  },
+  "mammiferes_desmodontinae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058675215
+  },
+  "mammiferes_baleine-bleue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794058677269
+  },
+  "mammiferes_baleine-a-bosse": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6148,
+   "src": "orig",
+   "editeLe": 1794058679201
   }
  }
 }

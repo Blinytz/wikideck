@@ -77338,6 +77338,20 @@
    "w": 0.7395,
    "src": "orig",
    "editeLe": 1794055040439
+  },
+  "conquete-spatiale_ok-1-01": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794055044185
+  },
+  "conquete-spatiale_apollo-soyouz": {
+   "cx": 0.5373,
+   "cy": 0.4694,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055048281
   }
  }
 }

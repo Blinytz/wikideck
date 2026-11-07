@@ -80999,6 +80999,20 @@
    "w": 0.5967,
    "src": "orig",
    "editeLe": 1794059201783
+  },
+  "oiseaux_dodo-oiseau": {
+   "cx": 0.5027,
+   "cy": 0.3567,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059205733
+  },
+  "oiseaux_grand-pingouin": {
+   "cx": 0.5913,
+   "cy": 0.4612,
+   "w": 0.604,
+   "src": "orig",
+   "editeLe": 1794059207676
   }
  }
 }

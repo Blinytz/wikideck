@@ -96182,6 +96182,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069509622
+  },
+  "oeuvres-litteraires_iliade": {
+   "cx": 0.5,
+   "cy": 0.5054,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069685596
+  },
+  "oeuvres-litteraires_metamorphoses-ovide": {
+   "cx": 0.5894,
+   "cy": 0.4787,
+   "w": 0.6351,
+   "src": "orig",
+   "editeLe": 1794069688203
+  },
+  "oeuvres-litteraires_eneide": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7538,
+   "src": "orig",
+   "editeLe": 1794069690169
+  },
+  "oeuvres-litteraires_epopee-de-gilgamesh": {
+   "cx": 0.5,
+   "cy": 0.6218,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069692301
   }
  }
 }

@@ -84394,6 +84394,27 @@
    "w": 0.6099,
    "src": "orig",
    "editeLe": 1794063451739
+  },
+  "races-de-chat_balinais-chat": {
+   "cx": 0.517,
+   "cy": 0.501,
+   "w": 0.6478,
+   "src": "orig",
+   "editeLe": 1794063453661
+  },
+  "races-de-chat_oriental-shorthair": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063456379
+  },
+  "races-de-chat_bombay-chat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063458900
   }
  }
 }

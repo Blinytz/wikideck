@@ -89210,6 +89210,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066530589
+  },
+  "tableaux-celebres_la-naissance-de-venus-bouguereau": {
+   "cx": 0.5,
+   "cy": 0.4459,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066535313
+  },
+  "sculptures-celebres_venus-de-milo": {
+   "cx": 0.5,
+   "cy": 0.2506,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066537542
+  },
+  "sculptures-celebres_victoire-de-samothrace": {
+   "cx": 0.5,
+   "cy": 0.3604,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066539382
+  },
+  "sculptures-celebres_david-michel-ange": {
+   "cx": 0.5,
+   "cy": 0.3241,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066541154
   }
  }
 }

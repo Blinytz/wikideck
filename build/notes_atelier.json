@@ -87264,6 +87264,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064798370
+  },
+  "grands-peintres_amedeo-modigliani": {
+   "cx": 0.5074,
+   "cy": 0.3286,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064801873
+  },
+  "grands-peintres_marc-chagall": {
+   "cx": 0.4926,
+   "cy": 0.3846,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064804369
+  },
+  "grands-peintres_vassily-kandinsky": {
+   "cx": 0.4926,
+   "cy": 0.417,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064806517
+  },
+  "grands-peintres_piet-mondrian": {
+   "cx": 0.4926,
+   "cy": 0.373,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064808774
   }
  }
 }

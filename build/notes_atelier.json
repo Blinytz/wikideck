@@ -80789,6 +80789,41 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794059128668
+  },
+  "oiseaux_ara-bleu": {
+   "cx": 0.51,
+   "cy": 0.5,
+   "w": 0.6517,
+   "src": "orig",
+   "editeLe": 1794059130434
+  },
+  "oiseaux_perroquet-jaco": {
+   "cx": 0.4845,
+   "cy": 0.4901,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794059132252
+  },
+  "oiseaux_perruche-ondulee": {
+   "cx": 0.5071,
+   "cy": 0.5405,
+   "w": 0.6576,
+   "src": "orig",
+   "editeLe": 1794059134093
+  },
+  "oiseaux_cacatoes": {
+   "cx": 0.5,
+   "cy": 0.4453,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059135924
+  },
+  "oiseaux_colibri": {
+   "cx": 0.4679,
+   "cy": 0.4534,
+   "w": 0.4589,
+   "src": "orig",
+   "editeLe": 1794059137769
   }
  }
 }

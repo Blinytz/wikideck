@@ -86529,6 +86529,48 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794064449750
+  },
+  "plantes-cultivees_avocat-fruit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1794064451236
+  },
+  "plantes-cultivees_poire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064452725
+  },
+  "plantes-cultivees_peche-fruit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7582,
+   "src": "orig",
+   "editeLe": 1794064454284
+  },
+  "plantes-cultivees_cerise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064455912
+  },
+  "plantes-cultivees_grenade-fruit": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7953,
+   "src": "orig",
+   "editeLe": 1794064457559
+  },
+  "plantes-cultivees_mangue": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064458709
   }
  }
 }

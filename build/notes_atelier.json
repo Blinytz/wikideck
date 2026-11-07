@@ -96301,6 +96301,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069726588
+  },
+  "oeuvres-litteraires_notre-dame-de-paris-roman": {
+   "cx": 0.5601,
+   "cy": 0.4895,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069731178
+  },
+  "oeuvres-litteraires_les-trois-mousquetaires": {
+   "cx": 0.5393,
+   "cy": 0.6192,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069734012
+  },
+  "oeuvres-litteraires_le-rouge-et-le-noir": {
+   "cx": 0.5,
+   "cy": 0.4819,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069736055
   }
  }
 }

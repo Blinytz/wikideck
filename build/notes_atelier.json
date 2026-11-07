@@ -95132,6 +95132,34 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794069025349
+  },
+  "auteurs-modernes_chinua-achebe": {
+   "cx": 0.5126,
+   "cy": 0.5004,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794069028827
+  },
+  "auteurs-modernes_wole-soyinka": {
+   "cx": 0.4926,
+   "cy": 0.4135,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069031154
+  },
+  "auteurs-modernes_salman-rushdie": {
+   "cx": 0.4926,
+   "cy": 0.3658,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069034002
+  },
+  "auteurs-modernes_kazuo-ishiguro": {
+   "cx": 0.4545,
+   "cy": 0.4132,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794069036219
   }
  }
 }

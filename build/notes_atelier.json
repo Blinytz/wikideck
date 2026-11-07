@@ -81349,6 +81349,34 @@
    "w": 0.8129,
    "src": "orig",
    "editeLe": 1794059397933
+  },
+  "reptiles-et-amphibiens_dendroaspis-polylepis": {
+   "cx": 0.4692,
+   "cy": 0.4998,
+   "w": 0.758,
+   "src": "orig",
+   "editeLe": 1794059400999
+  },
+  "reptiles-et-amphibiens_vipere-a-cornes": {
+   "cx": 0.408,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059403567
+  },
+  "reptiles-et-amphibiens_crotale-diamantin": {
+   "cx": 0.4399,
+   "cy": 0.4998,
+   "w": 0.7342,
+   "src": "orig",
+   "editeLe": 1794059406416
+  },
+  "reptiles-et-amphibiens_couleuvre-a-collier": {
+   "cx": 0.5765,
+   "cy": 0.4998,
+   "w": 0.7193,
+   "src": "orig",
+   "editeLe": 1794059408859
   }
  }
 }

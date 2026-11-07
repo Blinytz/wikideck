@@ -92297,6 +92297,27 @@
    "w": 0.6057,
    "src": "orig",
    "editeLe": 1794067722633
+  },
+  "oeuvres-musicales_concerto-d-aranjuez": {
+   "cx": 0.4987,
+   "cy": 0.613,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067728411
+  },
+  "oeuvres-musicales_bachianas-brasileiras": {
+   "cx": 0.4404,
+   "cy": 0.6803,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794067730638
+  },
+  "oeuvres-musicales_gloria-poulenc": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4854,
+   "src": "orig",
+   "editeLe": 1794067732620
   }
  }
 }

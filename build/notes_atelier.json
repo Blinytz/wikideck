@@ -84646,6 +84646,34 @@
    "w": 0.5967,
    "src": "orig",
    "editeLe": 1794063573766
+  },
+  "races-de-cheval_frison-cheval": {
+   "cx": 0.4957,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794063576372
+  },
+  "races-de-cheval_pure-race-espagnole": {
+   "cx": 0.4379,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063578326
+  },
+  "races-de-cheval_lipizzan": {
+   "cx": 0.5595,
+   "cy": 0.5515,
+   "w": 0.4944,
+   "src": "orig",
+   "editeLe": 1794063580566
+  },
+  "races-de-cheval_akhal-teke": {
+   "cx": 0.4649,
+   "cy": 0.471,
+   "w": 0.717,
+   "src": "orig",
+   "editeLe": 1794063583843
   }
  }
 }

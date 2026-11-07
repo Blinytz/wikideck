@@ -80712,6 +80712,27 @@
    "w": 0.5983,
    "src": "orig",
    "editeLe": 1794059099640
+  },
+  "oiseaux_dromaius": {
+   "cx": 0.4587,
+   "cy": 0.4163,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059102241
+  },
+  "oiseaux_kiwi-austral": {
+   "cx": 0.5912,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794059105655
+  },
+  "oiseaux_casoar-a-casque": {
+   "cx": 0.5007,
+   "cy": 0.4722,
+   "w": 0.6564,
+   "src": "orig",
+   "editeLe": 1794059109328
   }
  }
 }

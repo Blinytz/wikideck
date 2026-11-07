@@ -90204,6 +90204,34 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794066951091
+  },
+  "styles-architecturaux_architecture-de-la-grece-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7631,
+   "src": "orig",
+   "editeLe": 1794066952823
+  },
+  "styles-architecturaux_architecture-romaine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7609,
+   "src": "orig",
+   "editeLe": 1794066954355
+  },
+  "styles-architecturaux_architecture-byzantine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5741,
+   "src": "orig",
+   "editeLe": 1794066956171
+  },
+  "styles-architecturaux_art-roman": {
+   "cx": 0.5026,
+   "cy": 0.4692,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066958716
   }
  }
 }

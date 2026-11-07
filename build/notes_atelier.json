@@ -87096,6 +87096,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064662285
+  },
+  "grands-peintres_johannes-vermeer": {
+   "cx": 0.5,
+   "cy": 0.5496,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064665027
+  },
+  "grands-peintres_diego-velasquez": {
+   "cx": 0.5,
+   "cy": 0.4046,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064668150
+  },
+  "grands-peintres_francisco-de-goya": {
+   "cx": 0.5,
+   "cy": 0.4483,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064670925
   }
  }
 }

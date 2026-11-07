@@ -93347,6 +93347,41 @@
    "w": 0.4939,
    "src": "orig",
    "editeLe": 1794068102427
+  },
+  "instruments-de-musique_basson": {
+   "cx": 0.397,
+   "cy": 0.6242,
+   "w": 0.4589,
+   "src": "orig",
+   "editeLe": 1794068104589
+  },
+  "instruments-de-musique_saxophone": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068106510
+  },
+  "instruments-de-musique_trompette": {
+   "cx": 0.4495,
+   "cy": 0.5001,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068109418
+  },
+  "instruments-de-musique_cor-d-harmonie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068111248
+  },
+  "instruments-de-musique_trombone-instrument": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068112184
   }
  }
 }

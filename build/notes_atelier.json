@@ -80019,6 +80019,27 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058627902
+  },
+  "mammiferes_koala": {
+   "cx": 0.4653,
+   "cy": 0.4285,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058630800
+  },
+  "mammiferes_kangourou-roux": {
+   "cx": 0.5427,
+   "cy": 0.4998,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794058633193
+  },
+  "mammiferes_wallaby": {
+   "cx": 0.4019,
+   "cy": 0.4817,
+   "w": 0.6015,
+   "src": "orig",
+   "editeLe": 1794058637134
   }
  }
 }

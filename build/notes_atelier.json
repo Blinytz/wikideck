@@ -82175,6 +82175,41 @@
    "w": 0.7232,
    "src": "orig",
    "editeLe": 1794059793705
+  },
+  "insectes_apis-mellifera": {
+   "cx": 0.4443,
+   "cy": 0.5002,
+   "w": 0.7243,
+   "src": "orig",
+   "editeLe": 1794059796174
+  },
+  "insectes_bourdon-terrestre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059798061
+  },
+  "insectes_vespula-vulgaris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059799896
+  },
+  "insectes_vespa-crabro": {
+   "cx": 0.5119,
+   "cy": 0.5012,
+   "w": 0.6584,
+   "src": "orig",
+   "editeLe": 1794059801932
+  },
+  "insectes_vespa-velutina": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.724,
+   "src": "orig",
+   "editeLe": 1794059803663
   }
  }
 }

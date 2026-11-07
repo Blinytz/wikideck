@@ -79774,6 +79774,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058527886
+  },
+  "mammiferes_puma": {
+   "cx": 0.5189,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058531212
+  },
+  "mammiferes_lynx-boreal": {
+   "cx": 0.4987,
+   "cy": 0.3992,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058534175
+  },
+  "mammiferes_ocelot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058536152
   }
  }
 }

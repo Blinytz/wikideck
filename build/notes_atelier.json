@@ -80215,6 +80215,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058778144
+  },
+  "mammiferes_morse-animal": {
+   "cx": 0.5567,
+   "cy": 0.5002,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794058781011
+  },
+  "mammiferes_suricate": {
+   "cx": 0.4362,
+   "cy": 0.4998,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794058784887
+  },
+  "mammiferes_furet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794058787562
   }
  }
 }

@@ -80957,6 +80957,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794059186746
+  },
+  "oiseaux_chardonneret-elegant": {
+   "cx": 0.3678,
+   "cy": 0.5866,
+   "w": 0.5989,
+   "src": "orig",
+   "editeLe": 1794059188531
+  },
+  "oiseaux_coucou-gris": {
+   "cx": 0.4987,
+   "cy": 0.347,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059191194
+  },
+  "oiseaux_pic-epeiche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059193159
+  },
+  "oiseaux_pic-vert": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794059195126
   }
  }
 }

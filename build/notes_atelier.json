@@ -81041,6 +81041,27 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794059225104
+  },
+  "oiseaux_quetzal-resplendissant": {
+   "cx": 0.4747,
+   "cy": 0.371,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059227620
+  },
+  "oiseaux_dinde-domestique": {
+   "cx": 0.4443,
+   "cy": 0.5,
+   "w": 0.7237,
+   "src": "orig",
+   "editeLe": 1794059229593
+  },
+  "oiseaux_bec-en-sabot-du-nil": {
+   "cx": 0.4667,
+   "cy": 0.4998,
+   "w": 0.8129,
+   "src": "orig",
+   "editeLe": 1794059233814
   }
  }
 }

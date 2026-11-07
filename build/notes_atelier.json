@@ -84786,6 +84786,27 @@
    "w": 0.7234,
    "src": "orig",
    "editeLe": 1794063648346
+  },
+  "races-de-cheval_oldenbourg-cheval": {
+   "cx": 0.5815,
+   "cy": 0.4834,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063652144
+  },
+  "races-de-cheval_lusitanien-cheval": {
+   "cx": 0.4989,
+   "cy": 0.5287,
+   "w": 0.5979,
+   "src": "orig",
+   "editeLe": 1794063654968
+  },
+  "races-de-cheval_marwari-cheval": {
+   "cx": 0.5407,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063657721
   }
  }
 }

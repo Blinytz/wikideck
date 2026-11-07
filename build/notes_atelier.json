@@ -82707,6 +82707,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794062292827
+  },
+  "dinosaures-celebres_therizinosaurus": {
+   "cx": 0.3982,
+   "cy": 0.5002,
+   "w": 0.6131,
+   "src": "orig",
+   "editeLe": 1794062300549
+  },
+  "dinosaures-celebres_pachycephalosaurus": {
+   "cx": 0.6297,
+   "cy": 0.4675,
+   "w": 0.5053,
+   "src": "orig",
+   "editeLe": 1794062303322
   }
  }
 }

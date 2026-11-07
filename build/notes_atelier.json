@@ -83253,6 +83253,27 @@
    "w": 0.7262,
    "src": "orig",
    "editeLe": 1794062597491
+  },
+  "creatures-prehistoriques_arthropleura": {
+   "cx": 0.5538,
+   "cy": 0.5869,
+   "w": 0.4663,
+   "src": "orig",
+   "editeLe": 1794062599952
+  },
+  "creatures-prehistoriques_meganeura": {
+   "cx": 0.5362,
+   "cy": 0.4998,
+   "w": 0.6821,
+   "src": "orig",
+   "editeLe": 1794062602718
+  },
+  "creatures-prehistoriques_anomalocaris": {
+   "cx": 0.4508,
+   "cy": 0.5214,
+   "w": 0.5047,
+   "src": "orig",
+   "editeLe": 1794062605805
   }
  }
 }

@@ -83925,6 +83925,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063248034
+  },
+  "races-de-chien_berger-de-beauce": {
+   "cx": 0.4463,
+   "cy": 0.488,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063252201
+  },
+  "races-de-chien_berger-picard": {
+   "cx": 0.5196,
+   "cy": 0.5297,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063255075
   }
  }
 }

@@ -95524,6 +95524,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069169078
+  },
+  "auteurs-modernes_anna-akhmatova": {
+   "cx": 0.4926,
+   "cy": 0.3417,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069171338
+  },
+  "auteurs-modernes_bertolt-brecht": {
+   "cx": 0.5004,
+   "cy": 0.5002,
+   "w": 0.7877,
+   "src": "orig",
+   "editeLe": 1794069174144
+  },
+  "auteurs-modernes_stefan-zweig": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794069177280
   }
  }
 }

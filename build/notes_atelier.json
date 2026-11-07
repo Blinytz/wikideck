@@ -79382,6 +79382,20 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794058053945
+  },
+  "vehicules-celebres_eurostar": {
+   "cx": 0.3628,
+   "cy": 0.4998,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794058058575
+  },
+  "vehicules-celebres_citroen-ds": {
+   "cx": 0.5226,
+   "cy": 0.5003,
+   "w": 0.7276,
+   "src": "orig",
+   "editeLe": 1794058062114
   }
  }
 }

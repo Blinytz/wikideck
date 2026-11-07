@@ -86942,6 +86942,41 @@
    "w": 0.8131,
    "src": "orig",
    "editeLe": 1794064583130
+  },
+  "mineraux-et-pierres_moldavite": {
+   "cx": 0.5,
+   "cy": 0.4917,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064586470
+  },
+  "mineraux-et-pierres_jais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064588236
+  },
+  "mineraux-et-pierres_quartz-rose": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064589610
+  },
+  "mineraux-et-pierres_azurite-mineral": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064591235
+  },
+  "mineraux-et-pierres_mica": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064593287
   }
  }
 }

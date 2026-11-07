@@ -89896,6 +89896,27 @@
    "w": 0.4935,
    "src": "orig",
    "editeLe": 1794066811566
+  },
+  "architectes_ieoh-ming-pei": {
+   "cx": 0.4896,
+   "cy": 0.5,
+   "w": 0.7164,
+   "src": "orig",
+   "editeLe": 1794066833863
+  },
+  "architectes_alvar-aalto": {
+   "cx": 0.486,
+   "cy": 0.4998,
+   "w": 0.7246,
+   "src": "orig",
+   "editeLe": 1794066837262
+  },
+  "architectes_louis-kahn-architecte": {
+   "cx": 0.4888,
+   "cy": 0.5099,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794066839304
   }
  }
 }

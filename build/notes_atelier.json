@@ -90057,6 +90057,34 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794066896496
+  },
+  "architectes_georges-eugene-haussmann": {
+   "cx": 0.5695,
+   "cy": 0.4062,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794066900132
+  },
+  "architectes_charles-garnier-architecte": {
+   "cx": 0.4961,
+   "cy": 0.3585,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066902581
+  },
+  "architectes_victor-horta": {
+   "cx": 0.5168,
+   "cy": 0.5453,
+   "w": 0.5553,
+   "src": "orig",
+   "editeLe": 1794066904815
+  },
+  "architectes_louis-sullivan": {
+   "cx": 0.5241,
+   "cy": 0.5,
+   "w": 0.7751,
+   "src": "orig",
+   "editeLe": 1794066906635
   }
  }
 }

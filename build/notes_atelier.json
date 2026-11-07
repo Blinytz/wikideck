@@ -93284,6 +93284,41 @@
    "w": 0.6204,
    "src": "orig",
    "editeLe": 1794068072093
+  },
+  "instruments-de-musique_sitar": {
+   "cx": 0.479,
+   "cy": 0.5,
+   "w": 0.6698,
+   "src": "orig",
+   "editeLe": 1794068075178
+  },
+  "instruments-de-musique_banjo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794068077112
+  },
+  "instruments-de-musique_mandoline": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6113,
+   "src": "orig",
+   "editeLe": 1794068078969
+  },
+  "instruments-de-musique_balalaika": {
+   "cx": 0.4776,
+   "cy": 0.4857,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794068081691
+  },
+  "instruments-de-musique_oud": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7253,
+   "src": "orig",
+   "editeLe": 1794068083586
   }
  }
 }

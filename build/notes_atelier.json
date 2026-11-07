@@ -80180,6 +80180,27 @@
    "w": 0.8021,
    "src": "orig",
    "editeLe": 1794058760936
+  },
+  "mammiferes_narval": {
+   "cx": 0.622,
+   "cy": 0.5002,
+   "w": 0.6098,
+   "src": "orig",
+   "editeLe": 1794058765662
+  },
+  "mammiferes_beluga-cetace": {
+   "cx": 0.4544,
+   "cy": 0.5002,
+   "w": 0.7329,
+   "src": "orig",
+   "editeLe": 1794058768630
+  },
+  "mammiferes_phoque-commun": {
+   "cx": 0.603,
+   "cy": 0.4998,
+   "w": 0.6895,
+   "src": "orig",
+   "editeLe": 1794058771730
   }
  }
 }

@@ -89259,6 +89259,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066550246
+  },
+  "sculptures-celebres_les-bourgeois-de-calais": {
+   "cx": 0.5489,
+   "cy": 0.4859,
+   "w": 0.5976,
+   "src": "orig",
+   "editeLe": 1794066553023
+  },
+  "sculptures-celebres_discobole": {
+   "cx": 0.5,
+   "cy": 0.3217,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066555103
+  },
+  "sculptures-celebres_laocoon": {
+   "cx": 0.5,
+   "cy": 0.4618,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066556955
   }
  }
 }

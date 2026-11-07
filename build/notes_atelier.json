@@ -86235,6 +86235,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794064318092
+  },
+  "plantes-cultivees_cannelle": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064367561
+  },
+  "plantes-cultivees_piment": {
+   "cx": 0.5,
+   "cy": 0.4062,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064369742
   }
  }
 }

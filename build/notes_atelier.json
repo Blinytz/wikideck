@@ -97050,6 +97050,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794070067842
+  },
+  "personnages-litterature_harpagon": {
+   "cx": 0.4958,
+   "cy": 0.3193,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070071863
+  },
+  "personnages-litterature_don-juan": {
+   "cx": 0.4926,
+   "cy": 0.3636,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070074623
+  },
+  "personnages-litterature_gargantua": {
+   "cx": 0.5074,
+   "cy": 0.3772,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794070078356
   }
  }
 }

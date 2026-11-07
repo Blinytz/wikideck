@@ -83386,6 +83386,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794062698162
+  },
+  "races-de-chien_golden-retriever": {
+   "cx": 0.4291,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794062703027
+  },
+  "races-de-chien_berger-allemand": {
+   "cx": 0.4206,
+   "cy": 0.5268,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794062704967
+  },
+  "races-de-chien_malinois-chien": {
+   "cx": 0.5287,
+   "cy": 0.5,
+   "w": 0.7676,
+   "src": "orig",
+   "editeLe": 1794062706931
+  },
+  "races-de-chien_border-collie": {
+   "cx": 0.5247,
+   "cy": 0.5,
+   "w": 0.5597,
+   "src": "orig",
+   "editeLe": 1794062708574
   }
  }
 }

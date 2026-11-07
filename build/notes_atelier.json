@@ -90862,6 +90862,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067187476
+  },
+  "mode-et-couturiers_iris-van-herpen": {
+   "cx": 0.5602,
+   "cy": 0.3519,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067190383
+  },
+  "grands-compositeurs_claudio-monteverdi": {
+   "cx": 0.5393,
+   "cy": 0.3804,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067193014
+  },
+  "grands-compositeurs_antonio-vivaldi": {
+   "cx": 0.4869,
+   "cy": 0.3947,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067195954
+  },
+  "grands-compositeurs_jean-sebastien-bach": {
+   "cx": 0.5,
+   "cy": 0.3116,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067198507
   }
  }
 }

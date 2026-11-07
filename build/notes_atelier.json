@@ -97498,6 +97498,27 @@
    "w": 0.8016,
    "src": "orig",
    "editeLe": 1794070227771
+  },
+  "mouvements-litteraires_nouveau-roman": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7566,
+   "src": "orig",
+   "editeLe": 1794070229808
+  },
+  "mouvements-litteraires_oulipo": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.703,
+   "src": "orig",
+   "editeLe": 1794070231943
+  },
+  "mouvements-litteraires_negritude": {
+   "cx": 0.4823,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794070235378
   }
  }
 }

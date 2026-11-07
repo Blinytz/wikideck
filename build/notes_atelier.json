@@ -92465,6 +92465,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067790750
+  },
+  "musique-populaire_the-rolling-stones": {
+   "cx": 0.5,
+   "cy": 0.4424,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067792695
+  },
+  "musique-populaire_jimi-hendrix": {
+   "cx": 0.5,
+   "cy": 0.4106,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067795432
+  },
+  "musique-populaire_aretha-franklin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8141,
+   "src": "orig",
+   "editeLe": 1794067799007
   }
  }
 }

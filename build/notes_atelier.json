@@ -81069,6 +81069,20 @@
    "w": 0.6564,
    "src": "orig",
    "editeLe": 1794059235855
+  },
+  "oiseaux_gypaete-barbu": {
+   "cx": 0.4313,
+   "cy": 0.4998,
+   "w": 0.6112,
+   "src": "orig",
+   "editeLe": 1794059241605
+  },
+  "oiseaux_macareux-moine": {
+   "cx": 0.4667,
+   "cy": 0.4447,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059244297
   }
  }
 }

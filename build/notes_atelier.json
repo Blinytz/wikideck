@@ -82987,6 +82987,27 @@
    "w": 0.6034,
    "src": "orig",
    "editeLe": 1794062440211
+  },
+  "dinosaures-celebres_patagotitan": {
+   "cx": 0.5069,
+   "cy": 0.4998,
+   "w": 0.6113,
+   "src": "orig",
+   "editeLe": 1794062486216
+  },
+  "dinosaures-celebres_pentaceratops": {
+   "cx": 0.5442,
+   "cy": 0.4674,
+   "w": 0.5622,
+   "src": "orig",
+   "editeLe": 1794062488242
+  },
+  "dinosaures-celebres_euoplocephalus": {
+   "cx": 0.3665,
+   "cy": 0.4548,
+   "w": 0.5238,
+   "src": "orig",
+   "editeLe": 1794062491496
   }
  }
 }

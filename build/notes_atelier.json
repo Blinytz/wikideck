@@ -97533,6 +97533,20 @@
    "w": 0.7289,
    "src": "orig",
    "editeLe": 1794070245217
+  },
+  "mouvements-litteraires_realisme-magique": {
+   "cx": 0.6347,
+   "cy": 0.5,
+   "w": 0.5355,
+   "src": "orig",
+   "editeLe": 1794070247181
+  },
+  "mouvements-litteraires_futurisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070249145
   }
  }
 }

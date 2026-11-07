@@ -92094,6 +92094,48 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794067633336
+  },
+  "oeuvres-musicales_concerto-pour-violon-no-2-de-mendelssohn": {
+   "cx": 0.4483,
+   "cy": 0.5292,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794067634881
+  },
+  "oeuvres-musicales_libertango": {
+   "cx": 0.5113,
+   "cy": 0.5057,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794067636433
+  },
+  "oeuvres-musicales_take-the-a-train": {
+   "cx": 0.5,
+   "cy": 0.6075,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067638327
+  },
+  "oeuvres-musicales_maple-leaf-rag": {
+   "cx": 0.5569,
+   "cy": 0.4696,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794067640205
+  },
+  "oeuvres-musicales_musique-de-star-wars": {
+   "cx": 0.3024,
+   "cy": 0.5519,
+   "w": 0.46,
+   "src": "orig",
+   "editeLe": 1794067642360
+  },
+  "oeuvres-musicales_messe-de-notre-dame": {
+   "cx": 0.375,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067644052
   }
  }
 }

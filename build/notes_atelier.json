@@ -92829,6 +92829,27 @@
    "w": 0.5562,
    "src": "full",
    "editeLe": 1794067946276
+  },
+  "musique-populaire_alt-j": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794067950222
+  },
+  "musique-populaire_elton-john": {
+   "cx": 0.5992,
+   "cy": 0.5,
+   "w": 0.6528,
+   "src": "orig",
+   "editeLe": 1794067952152
+  },
+  "musique-populaire_abba": {
+   "cx": 0.4977,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794067956434
   }
  }
 }

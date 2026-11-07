@@ -77268,6 +77268,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794055000351
+  },
+  "conquete-spatiale_viking-1": {
+   "cx": 0.5387,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055003572
+  },
+  "conquete-spatiale_mars-pathfinder": {
+   "cx": 0.488,
+   "cy": 0.4958,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055007759
   }
  }
 }

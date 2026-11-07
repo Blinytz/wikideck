@@ -91548,6 +91548,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067422097
+  },
+  "grands-compositeurs_krzysztof-penderecki": {
+   "cx": 0.4442,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794067423836
+  },
+  "grands-compositeurs_leonard-bernstein": {
+   "cx": 0.5,
+   "cy": 0.5559,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067425885
+  },
+  "grands-compositeurs_kurt-weill": {
+   "cx": 0.5,
+   "cy": 0.4337,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067427787
   }
  }
 }

@@ -83295,6 +83295,27 @@
    "w": 0.5545,
    "src": "orig",
    "editeLe": 1794062614720
+  },
+  "creatures-prehistoriques_dinornithiformes": {
+   "cx": 0.396,
+   "cy": 0.5542,
+   "w": 0.6449,
+   "src": "orig",
+   "editeLe": 1794062616923
+  },
+  "creatures-prehistoriques_pyornis": {
+   "cx": 0.5358,
+   "cy": 0.4913,
+   "w": 0.5975,
+   "src": "orig",
+   "editeLe": 1794062619412
+  },
+  "creatures-prehistoriques_ammonoidea": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7219,
+   "src": "orig",
+   "editeLe": 1794062621477
   }
  }
 }

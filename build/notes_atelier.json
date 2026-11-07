@@ -90001,6 +90001,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066868574
+  },
+  "architectes_le-bernin": {
+   "cx": 0.5,
+   "cy": 0.4227,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066875169
+  },
+  "architectes_vitruve": {
+   "cx": 0.5,
+   "cy": 0.4123,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066877894
+  },
+  "architectes_bramante": {
+   "cx": 0.5,
+   "cy": 0.3726,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066879875
   }
  }
 }

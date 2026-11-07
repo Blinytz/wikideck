@@ -81853,6 +81853,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059650681
+  },
+  "poissons-et-vie-marine_sphyraena": {
+   "cx": 0.6074,
+   "cy": 0.5241,
+   "w": 0.5982,
+   "src": "orig",
+   "editeLe": 1794059652568
+  },
+  "poissons-et-vie-marine_poisson-pierre": {
+   "cx": 0.5173,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059655849
+  },
+  "poissons-et-vie-marine_etoile-de-mer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059657766
   }
  }
 }

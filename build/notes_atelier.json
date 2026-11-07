@@ -80327,6 +80327,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058886962
+  },
+  "mammiferes_hydrochoerus-hydrochaeris": {
+   "cx": 0.5212,
+   "cy": 0.5002,
+   "w": 0.7206,
+   "src": "orig",
+   "editeLe": 1794058889693
+  },
+  "mammiferes_chat-nom-vernaculaire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058891548
+  },
+  "mammiferes_vache": {
+   "cx": 0.7223,
+   "cy": 0.5622,
+   "w": 0.5436,
+   "src": "orig",
+   "editeLe": 1794058894644
+  },
+  "mammiferes_cochon-nain": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7911,
+   "src": "orig",
+   "editeLe": 1794058896655
   }
  }
 }

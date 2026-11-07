@@ -77310,6 +77310,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055023838
+  },
+  "conquete-spatiale_hayabusa-sonde-spatiale": {
+   "cx": 0.487,
+   "cy": 0.4998,
+   "w": 0.6122,
+   "src": "orig",
+   "editeLe": 1794055027599
+  },
+  "conquete-spatiale_gaia-satellite": {
+   "cx": 0.544,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055030662
   }
  }
 }

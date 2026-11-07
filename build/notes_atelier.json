@@ -84989,6 +84989,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063758593
+  },
+  "races-de-cheval_cob-gypsy": {
+   "cx": 0.4712,
+   "cy": 0.4688,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063761336
+  },
+  "races-de-cheval_suffolk-punch": {
+   "cx": 0.4503,
+   "cy": 0.4948,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063764129
   }
  }
 }

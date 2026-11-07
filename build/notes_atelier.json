@@ -94803,6 +94803,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068880816
+  },
+  "auteurs-classiques_henryk-sienkiewicz": {
+   "cx": 0.4926,
+   "cy": 0.3865,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068883243
+  },
+  "auteurs-modernes_marcel-proust": {
+   "cx": 0.4926,
+   "cy": 0.3649,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068885588
+  },
+  "auteurs-modernes_franz-kafka": {
+   "cx": 0.4926,
+   "cy": 0.3994,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068887671
+  },
+  "auteurs-modernes_james-joyce": {
+   "cx": 0.4926,
+   "cy": 0.376,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068889842
   }
  }
 }

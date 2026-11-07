@@ -89511,6 +89511,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066661613
+  },
+  "sculptures-celebres_lion-de-belfort": {
+   "cx": 0.4458,
+   "cy": 0.5,
+   "w": 0.6489,
+   "src": "orig",
+   "editeLe": 1794066663637
+  },
+  "sculptures-celebres_oiseau-dans-l-espace": {
+   "cx": 0.5,
+   "cy": 0.3239,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066666178
+  },
+  "sculptures-celebres_nana-niki-de-saint-phalle": {
+   "cx": 0.5,
+   "cy": 0.4814,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066668374
+  },
+  "sculptures-celebres_balloon-dog": {
+   "cx": 0.5,
+   "cy": 0.4676,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066670568
   }
  }
 }

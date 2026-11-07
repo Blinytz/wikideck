@@ -81244,6 +81244,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794059347201
+  },
+  "oiseaux_grue-cendree": {
+   "cx": 0.4431,
+   "cy": 0.4187,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059352030
+  },
+  "oiseaux_aigrette-garzette": {
+   "cx": 0.3934,
+   "cy": 0.5002,
+   "w": 0.7193,
+   "src": "orig",
+   "editeLe": 1794059354981
+  },
+  "oiseaux_spatule-blanche": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059356794
   }
  }
 }

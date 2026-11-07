@@ -84611,6 +84611,27 @@
    "w": 0.7305,
    "src": "orig",
    "editeLe": 1794063559324
+  },
+  "races-de-chat_european-shorthair": {
+   "cx": 0.4044,
+   "cy": 0.5,
+   "w": 0.6746,
+   "src": "orig",
+   "editeLe": 1794063562697
+  },
+  "races-de-chat_singapura": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1794063565082
+  },
+  "races-de-chat_burmilla": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7243,
+   "src": "orig",
+   "editeLe": 1794063567059
   }
  }
 }

@@ -93823,6 +93823,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068463632
+  },
+  "auteurs-classiques_miguel-de-cervantes": {
+   "cx": 0.4926,
+   "cy": 0.4214,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068466873
+  },
+  "auteurs-classiques_moliere": {
+   "cx": 0.4958,
+   "cy": 0.3771,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068470320
+  },
+  "auteurs-classiques_jean-racine": {
+   "cx": 0.4926,
+   "cy": 0.5057,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068473652
   }
  }
 }

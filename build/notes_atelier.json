@@ -81650,6 +81650,27 @@
    "w": 0.5328,
    "src": "orig",
    "editeLe": 1794059570507
+  },
+  "reptiles-et-amphibiens_pogona-vitticeps": {
+   "cx": 0.3874,
+   "cy": 0.4998,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059574011
+  },
+  "reptiles-et-amphibiens_triton-alpestre": {
+   "cx": 0.5256,
+   "cy": 0.5002,
+   "w": 0.7111,
+   "src": "orig",
+   "editeLe": 1794059576928
+  },
+  "reptiles-et-amphibiens_rhinella-marina": {
+   "cx": 0.471,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794059579370
   }
  }
 }

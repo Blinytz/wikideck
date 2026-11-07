@@ -83827,6 +83827,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794063162766
+  },
+  "races-de-chien_spitz-japonais": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063164676
+  },
+  "races-de-chien_spitz-nain": {
+   "cx": 0.5,
+   "cy": 0.5447,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063166637
+  },
+  "races-de-chien_epagneul-nain-continental-papillon": {
+   "cx": 0.5222,
+   "cy": 0.4802,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063169712
+  },
+  "races-de-chien_lhassa-apso": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063172297
   }
  }
 }

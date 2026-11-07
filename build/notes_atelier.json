@@ -88258,6 +88258,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794065312293
+  },
+  "tableaux-celebres_la-joconde": {
+   "cx": 0.5,
+   "cy": 0.3353,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066037723
+  },
+  "tableaux-celebres_la-cene-leonard-de-vinci": {
+   "cx": 0.5237,
+   "cy": 0.5153,
+   "w": 0.5021,
+   "src": "orig",
+   "editeLe": 1794066041660
+  },
+  "tableaux-celebres_la-naissance-de-venus-botticelli": {
+   "cx": 0.4874,
+   "cy": 0.4959,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794066043536
   }
  }
 }

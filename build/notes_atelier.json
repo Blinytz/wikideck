@@ -91282,6 +91282,48 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794067325847
+  },
+  "grands-compositeurs_john-williams-compositeur": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067327637
+  },
+  "grands-compositeurs_richard-strauss": {
+   "cx": 0.5,
+   "cy": 0.356,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067329440
+  },
+  "grands-compositeurs_johann-strauss-ii": {
+   "cx": 0.5,
+   "cy": 0.4613,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067331306
+  },
+  "grands-compositeurs_samuel-barber": {
+   "cx": 0.4681,
+   "cy": 0.5453,
+   "w": 0.5165,
+   "src": "orig",
+   "editeLe": 1794067333044
+  },
+  "grands-compositeurs_guillaume-de-machaut": {
+   "cx": 0.7401,
+   "cy": 0.2808,
+   "w": 0.3795,
+   "src": "orig",
+   "editeLe": 1794067334782
+  },
+  "grands-compositeurs_josquin-des-pres": {
+   "cx": 0.5,
+   "cy": 0.3757,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067336320
   }
  }
 }

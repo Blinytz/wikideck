@@ -87075,6 +87075,27 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794064652503
+  },
+  "grands-peintres_le-caravage": {
+   "cx": 0.5074,
+   "cy": 0.4338,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064657254
+  },
+  "grands-peintres_pierre-paul-rubens": {
+   "cx": 0.5,
+   "cy": 0.4048,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064659408
+  },
+  "grands-peintres_rembrandt": {
+   "cx": 0.5039,
+   "cy": 0.4638,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064662285
   }
  }
 }

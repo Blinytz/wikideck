@@ -79354,6 +79354,20 @@
    "w": 0.6828,
    "src": "orig",
    "editeLe": 1794058038168
+  },
+  "vehicules-celebres_antonov-an-225-mriya": {
+   "cx": 0.4325,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058045004
+  },
+  "vehicules-celebres_transsiberien": {
+   "cx": 0.6061,
+   "cy": 0.5413,
+   "w": 0.6415,
+   "src": "orig",
+   "editeLe": 1794058047367
   }
  }
 }

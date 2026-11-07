@@ -88230,6 +88230,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794065298787
+  },
+  "grands-peintres_fernando-botero": {
+   "cx": 0.5118,
+   "cy": 0.4834,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794065304094
+  },
+  "grands-peintres_utamaro": {
+   "cx": 0.5342,
+   "cy": 0.4521,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794065306871
+  },
+  "grands-peintres_tsugouharu-foujita": {
+   "cx": 0.4927,
+   "cy": 0.3637,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794065309348
   }
  }
 }

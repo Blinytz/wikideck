@@ -79319,6 +79319,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058014767
+  },
+  "vehicules-celebres_supermarine-spitfire": {
+   "cx": 0.4055,
+   "cy": 0.4998,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794058019217
+  },
+  "vehicules-celebres_airbus-a380": {
+   "cx": 0.4194,
+   "cy": 0.5004,
+   "w": 0.7121,
+   "src": "orig",
+   "editeLe": 1794058025106
   }
  }
 }

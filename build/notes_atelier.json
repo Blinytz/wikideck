@@ -85027,10 +85027,31 @@
   },
   "arbres_olivier": {
    "cx": 0.5668,
-   "cy": 0.5453,
+   "cy": 0.5452,
    "w": 0.7056,
    "src": "orig",
-   "editeLe": 1794063778462
+   "editeLe": 1794063784348
+  },
+  "arbres_hetre-commun": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063786095
+  },
+  "arbres_bouleau": {
+   "cx": 0.5044,
+   "cy": 0.5002,
+   "w": 0.679,
+   "src": "orig",
+   "editeLe": 1794063790377
+  },
+  "arbres_pin-sylvestre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063792493
   }
  }
 }

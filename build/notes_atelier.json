@@ -86102,6 +86102,20 @@
    "w": 0.5653,
    "src": "orig",
    "editeLe": 1794064276205
+  },
+  "champignons_oreille-de-judas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8048,
+   "src": "orig",
+   "editeLe": 1794064281805
+  },
+  "champignons_saccharomyces-cerevisiae": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6589,
+   "src": "orig",
+   "editeLe": 1794064284515
   }
  }
 }

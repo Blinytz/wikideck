@@ -94537,6 +94537,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068769638
+  },
+  "auteurs-classiques_joseph-conrad": {
+   "cx": 0.4926,
+   "cy": 0.4368,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068776414
+  },
+  "auteurs-classiques_jack-london": {
+   "cx": 0.4926,
+   "cy": 0.3825,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068779204
+  },
+  "auteurs-classiques_arthur-conan-doyle": {
+   "cx": 0.4926,
+   "cy": 0.4477,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068781395
+  },
+  "auteurs-classiques_robert-louis-stevenson": {
+   "cx": 0.4926,
+   "cy": 0.3769,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068783355
   }
  }
 }

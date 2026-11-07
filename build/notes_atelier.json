@@ -89854,6 +89854,34 @@
    "w": 0.5562,
    "src": "orig",
    "editeLe": 1794066796535
+  },
+  "architectes_walter-gropius": {
+   "cx": 0.5,
+   "cy": 0.412,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066799516
+  },
+  "architectes_frank-gehry": {
+   "cx": 0.5,
+   "cy": 0.4038,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066801955
+  },
+  "architectes_renzo-piano": {
+   "cx": 0.4651,
+   "cy": 0.5234,
+   "w": 0.6677,
+   "src": "orig",
+   "editeLe": 1794066805105
+  },
+  "architectes_norman-foster-architecte": {
+   "cx": 0.5553,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794066807481
   }
  }
 }

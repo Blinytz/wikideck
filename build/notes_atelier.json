@@ -93907,6 +93907,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068501032
+  },
+  "auteurs-classiques_alexandre-pouchkine": {
+   "cx": 0.4926,
+   "cy": 0.4568,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794068504511
+  },
+  "auteurs-classiques_victor-hugo": {
+   "cx": 0.4926,
+   "cy": 0.4407,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068507250
+  },
+  "auteurs-classiques_alexandre-dumas": {
+   "cx": 0.4926,
+   "cy": 0.4355,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068509739
   }
  }
 }

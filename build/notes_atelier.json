@@ -82371,6 +82371,34 @@
    "w": 0.6873,
    "src": "orig",
    "editeLe": 1794059898265
+  },
+  "insectes_luciola": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059900122
+  },
+  "insectes_criquet-migrateur": {
+   "cx": 0.489,
+   "cy": 0.5866,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794059902312
+  },
+  "insectes_tettigonia-viridissima": {
+   "cx": 0.4044,
+   "cy": 0.5,
+   "w": 0.5831,
+   "src": "orig",
+   "editeLe": 1794059904969
+  },
+  "insectes_acheta-domesticus": {
+   "cx": 0.4062,
+   "cy": 0.5002,
+   "w": 0.8125,
+   "src": "orig",
+   "editeLe": 1794059907599
   }
  }
 }

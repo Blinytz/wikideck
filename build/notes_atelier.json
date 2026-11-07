@@ -91170,6 +91170,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067289718
+  },
+  "grands-compositeurs_cesar-franck": {
+   "cx": 0.5,
+   "cy": 0.4011,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067291681
+  },
+  "grands-compositeurs_modeste-moussorgski": {
+   "cx": 0.4974,
+   "cy": 0.3939,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067294037
+  },
+  "grands-compositeurs_nikolai-rimski-korsakov": {
+   "cx": 0.5,
+   "cy": 0.4105,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067296502
+  },
+  "grands-compositeurs_jean-sibelius": {
+   "cx": 0.5026,
+   "cy": 0.329,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067298895
   }
  }
 }

@@ -79935,6 +79935,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058593974
+  },
+  "mammiferes_coyote": {
+   "cx": 0.4893,
+   "cy": 0.3521,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058597441
+  },
+  "mammiferes_hyene-tachetee": {
+   "cx": 0.4799,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794058599723
+  },
+  "mammiferes_lycaon-animal": {
+   "cx": 0.5213,
+   "cy": 0.4723,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058602596
   }
  }
 }

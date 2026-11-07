@@ -85276,6 +85276,34 @@
    "w": 0.7334,
    "src": "orig",
    "editeLe": 1794063905704
+  },
+  "arbres_hevea": {
+   "cx": 0.5,
+   "cy": 0.4711,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063907953
+  },
+  "arbres_chene-liege": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794063909894
+  },
+  "arbres_houx": {
+   "cx": 0.454,
+   "cy": 0.4906,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794063911930
+  },
+  "arbres_corylus-avellana": {
+   "cx": 0.4594,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794063913988
   }
  }
 }

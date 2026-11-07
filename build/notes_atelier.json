@@ -88650,6 +88650,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066276416
+  },
+  "tableaux-celebres_le-printemps-botticelli": {
+   "cx": 0.5224,
+   "cy": 0.4796,
+   "w": 0.6304,
+   "src": "orig",
+   "editeLe": 1794066280146
+  },
+  "tableaux-celebres_la-dame-a-l-hermine": {
+   "cx": 0.5,
+   "cy": 0.4817,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066282361
+  },
+  "tableaux-celebres_la-vierge-aux-rochers": {
+   "cx": 0.5,
+   "cy": 0.6173,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066284256
+  },
+  "tableaux-celebres_melencolia-i": {
+   "cx": 0.4908,
+   "cy": 0.5367,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794066287420
   }
  }
 }

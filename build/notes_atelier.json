@@ -78080,6 +78080,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794056706597
+  },
+  "astronautes-et-cosmonautes_pedro-duque": {
+   "cx": 0.5027,
+   "cy": 0.4356,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056710166
+  },
+  "astronautes-et-cosmonautes_frank-de-winne": {
+   "cx": 0.4174,
+   "cy": 0.3542,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056713581
   }
  }
 }

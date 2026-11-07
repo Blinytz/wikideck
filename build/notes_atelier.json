@@ -90442,6 +90442,48 @@
    "w": 0.7943,
    "src": "orig",
    "editeLe": 1794067035849
+  },
+  "mode-et-couturiers_coco-chanel": {
+   "cx": 0.4333,
+   "cy": 0.3483,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067038796
+  },
+  "mode-et-couturiers_christian-dior": {
+   "cx": 0.4869,
+   "cy": 0.3301,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067041427
+  },
+  "mode-et-couturiers_yves-saint-laurent": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067043480
+  },
+  "mode-et-couturiers_karl-lagerfeld": {
+   "cx": 0.5,
+   "cy": 0.324,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067045494
+  },
+  "mode-et-couturiers_giorgio-armani": {
+   "cx": 0.5299,
+   "cy": 0.5414,
+   "w": 0.4006,
+   "src": "orig",
+   "editeLe": 1794067047603
+  },
+  "mode-et-couturiers_gianni-versace": {
+   "cx": 0.5791,
+   "cy": 0.4998,
+   "w": 0.6749,
+   "src": "orig",
+   "editeLe": 1794067050325
   }
  }
 }

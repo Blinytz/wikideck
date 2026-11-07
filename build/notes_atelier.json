@@ -82420,6 +82420,27 @@
    "w": 0.7044,
    "src": "orig",
    "editeLe": 1794059916636
+  },
+  "insectes_zygoptera": {
+   "cx": 0.567,
+   "cy": 0.4998,
+   "w": 0.7383,
+   "src": "orig",
+   "editeLe": 1794059919020
+  },
+  "insectes_cicadidae": {
+   "cx": 0.5145,
+   "cy": 0.4998,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059922437
+  },
+  "insectes_halyomorpha-halys": {
+   "cx": 0.5,
+   "cy": 0.5094,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059924285
   }
  }
 }

@@ -87467,6 +87467,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064897730
+  },
+  "grands-peintres_nicolas-poussin": {
+   "cx": 0.4926,
+   "cy": 0.5224,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064900614
+  },
+  "grands-peintres_jean-honore-fragonard": {
+   "cx": 0.5395,
+   "cy": 0.3447,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064903584
+  },
+  "grands-peintres_antoine-watteau": {
+   "cx": 0.4926,
+   "cy": 0.3934,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064906170
   }
  }
 }

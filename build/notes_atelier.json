@@ -86487,6 +86487,48 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794064440152
+  },
+  "plantes-cultivees_laitue-cultivee": {
+   "cx": 0.6191,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794064442156
+  },
+  "plantes-cultivees_artichaut": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064444014
+  },
+  "plantes-cultivees_asperge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064445520
+  },
+  "plantes-cultivees_poireau": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7212,
+   "src": "orig",
+   "editeLe": 1794064446849
+  },
+  "plantes-cultivees_pasteque": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7944,
+   "src": "orig",
+   "editeLe": 1794064448373
+  },
+  "plantes-cultivees_ananas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064449750
   }
  }
 }

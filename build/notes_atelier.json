@@ -92367,6 +92367,41 @@
    "w": 0.6153,
    "src": "orig",
    "editeLe": 1794067752564
+  },
+  "oeuvres-musicales_les-chariots-de-feu-bande-originale": {
+   "cx": 0.5104,
+   "cy": 0.499,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794067755536
+  },
+  "oeuvres-musicales_concerto-pour-piano-de-clara-schumann": {
+   "cx": 0.5,
+   "cy": 0.6999,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794067757340
+  },
+  "oeuvres-musicales_das-jahr-fanny-mendelssohn": {
+   "cx": 0.5783,
+   "cy": 0.4741,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067759065
+  },
+  "oeuvres-musicales_psaume-24-boulanger": {
+   "cx": 0.6185,
+   "cy": 0.6046,
+   "w": 0.4179,
+   "src": "orig",
+   "editeLe": 1794067761198
+  },
+  "oeuvres-musicales_spiegel-im-spiegel": {
+   "cx": 0.5906,
+   "cy": 0.3229,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067763400
   }
  }
 }

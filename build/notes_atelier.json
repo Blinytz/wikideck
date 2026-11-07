@@ -83141,6 +83141,27 @@
    "w": 0.6085,
    "src": "orig",
    "editeLe": 1794062551806
+  },
+  "creatures-prehistoriques_lystrosaurus": {
+   "cx": 0.487,
+   "cy": 0.4998,
+   "w": 0.625,
+   "src": "orig",
+   "editeLe": 1794062554882
+  },
+  "creatures-prehistoriques_gorgonops": {
+   "cx": 0.3697,
+   "cy": 0.4765,
+   "w": 0.5322,
+   "src": "orig",
+   "editeLe": 1794062558061
+  },
+  "creatures-prehistoriques_mammouth-laineux": {
+   "cx": 0.5007,
+   "cy": 0.4998,
+   "w": 0.8134,
+   "src": "orig",
+   "editeLe": 1794062561332
   }
  }
 }

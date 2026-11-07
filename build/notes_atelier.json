@@ -93795,6 +93795,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068421270
+  },
+  "auteurs-classiques_geoffrey-chaucer": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068422885
+  },
+  "auteurs-classiques_francois-rabelais": {
+   "cx": 0.5,
+   "cy": 0.3964,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068424496
+  },
+  "auteurs-classiques_michel-de-montaigne": {
+   "cx": 0.5,
+   "cy": 0.4012,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068426041
+  },
+  "auteurs-classiques_william-shakespeare": {
+   "cx": 0.4926,
+   "cy": 0.4202,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068429370
   }
  }
 }

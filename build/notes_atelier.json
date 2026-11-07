@@ -88524,6 +88524,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066215204
+  },
+  "tableaux-celebres_le-triomphe-de-la-mort-brueghel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794066218148
+  },
+  "tableaux-celebres_venus-d-urbin": {
+   "cx": 0.4774,
+   "cy": 0.4998,
+   "w": 0.7803,
+   "src": "orig",
+   "editeLe": 1794066221660
   }
  }
 }

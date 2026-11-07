@@ -88419,6 +88419,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066164856
+  },
+  "tableaux-celebres_guernica-picasso": {
+   "cx": 0.3949,
+   "cy": 0.5,
+   "w": 0.4847,
+   "src": "orig",
+   "editeLe": 1794066168449
+  },
+  "tableaux-celebres_la-persistance-de-la-memoire": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066172615
+  },
+  "tableaux-celebres_le-fils-de-l-homme-magritte": {
+   "cx": 0.5,
+   "cy": 0.3842,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066174352
   }
  }
 }

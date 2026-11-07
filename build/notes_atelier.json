@@ -93335,11 +93335,18 @@
    "editeLe": 1794068087660
   },
   "instruments-de-musique_clarinette": {
-   "cx": 0.4792,
-   "cy": 0.5,
+   "cx": 0.449,
+   "cy": 0.5002,
    "w": 0.7238,
    "src": "orig",
-   "editeLe": 1794068089592
+   "editeLe": 1794068098543
+  },
+  "instruments-de-musique_hautbois": {
+   "cx": 0.5379,
+   "cy": 0.6406,
+   "w": 0.4939,
+   "src": "orig",
+   "editeLe": 1794068102427
   }
  }
 }

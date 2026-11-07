@@ -94614,6 +94614,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068801411
+  },
+  "auteurs-classiques_marivaux": {
+   "cx": 0.5108,
+   "cy": 0.386,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794068803524
+  },
+  "auteurs-classiques_gerard-de-nerval": {
+   "cx": 0.4926,
+   "cy": 0.5461,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068807135
+  },
+  "auteurs-classiques_alphonse-daudet": {
+   "cx": 0.4926,
+   "cy": 0.4682,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068809799
   }
  }
 }

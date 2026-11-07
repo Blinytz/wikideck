@@ -85990,6 +85990,34 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794064240199
+  },
+  "champignons_hericium-erinaceus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064242788
+  },
+  "champignons_ganoderme-luisant": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064244628
+  },
+  "champignons_cordyceps": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7207,
+   "src": "orig",
+   "editeLe": 1794064246826
+  },
+  "champignons_armillaria": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794064249347
   }
  }
 }

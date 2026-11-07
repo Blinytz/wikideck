@@ -96891,11 +96891,39 @@
    "editeLe": 1794069916870
   },
   "personnages-litterature_gollum": {
-   "cx": 0.5,
-   "cy": 0.5,
+   "cx": 0.594,
+   "cy": 0.5002,
    "w": 0.6962,
    "src": "orig",
-   "editeLe": 1794069993324
+   "editeLe": 1794069999173
+  },
+  "personnages-litterature_harry-potter": {
+   "cx": 0.5203,
+   "cy": 0.5453,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794070000885
+  },
+  "personnages-litterature_hermione-granger": {
+   "cx": 0.5301,
+   "cy": 0.54,
+   "w": 0.5971,
+   "src": "orig",
+   "editeLe": 1794070002744
+  },
+  "personnages-litterature_ron-weasley": {
+   "cx": 0.44,
+   "cy": 0.5,
+   "w": 0.7166,
+   "src": "orig",
+   "editeLe": 1794070004420
+  },
+  "personnages-litterature_daenerys-targaryen": {
+   "cx": 0.5645,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794070006337
   }
  }
 }

@@ -95405,6 +95405,27 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794069124354
+  },
+  "auteurs-modernes_jean-genet": {
+   "cx": 0.4926,
+   "cy": 0.4984,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069126857
+  },
+  "auteurs-modernes_nathalie-sarraute": {
+   "cx": 0.5298,
+   "cy": 0.5002,
+   "w": 0.6944,
+   "src": "orig",
+   "editeLe": 1794069129440
+  },
+  "auteurs-modernes_alain-robbe-grillet": {
+   "cx": 0.5606,
+   "cy": 0.5002,
+   "w": 0.7261,
+   "src": "orig",
+   "editeLe": 1794069132693
   }
  }
 }

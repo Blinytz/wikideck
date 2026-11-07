@@ -84562,6 +84562,34 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794063542480
+  },
+  "races-de-chat_savannah-chat": {
+   "cx": 0.4604,
+   "cy": 0.4507,
+   "w": 0.5985,
+   "src": "orig",
+   "editeLe": 1794063545627
+  },
+  "races-de-chat_chausie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063547848
+  },
+  "races-de-chat_peterbald": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.785,
+   "src": "orig",
+   "editeLe": 1794063549868
+  },
+  "races-de-chat_donskoy-chat": {
+   "cx": 0.5224,
+   "cy": 0.5069,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063552166
   }
  }
 }

@@ -93123,6 +93123,62 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068033655
+  },
+  "musique-populaire_celine-dion": {
+   "cx": 0.5,
+   "cy": 0.3673,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068035318
+  },
+  "musique-populaire_david-guetta": {
+   "cx": 0.5,
+   "cy": 0.4183,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068036771
+  },
+  "musique-populaire_jean-michel-jarre": {
+   "cx": 0.5,
+   "cy": 0.368,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068038334
+  },
+  "musique-populaire_miriam-makeba": {
+   "cx": 0.5,
+   "cy": 0.39,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068039857
+  },
+  "musique-populaire_youssou-n-dour": {
+   "cx": 0.5,
+   "cy": 0.3232,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068041571
+  },
+  "musique-populaire_oum-kalthoum": {
+   "cx": 0.5593,
+   "cy": 0.521,
+   "w": 0.6487,
+   "src": "orig",
+   "editeLe": 1794068042998
+  },
+  "musique-populaire_khaled-chanteur": {
+   "cx": 0.5117,
+   "cy": 0.4041,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794068044428
+  },
+  "musique-populaire_celia-cruz": {
+   "cx": 0.5,
+   "cy": 0.4482,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068045800
   }
  }
 }

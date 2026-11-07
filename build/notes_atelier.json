@@ -92157,6 +92157,27 @@
    "w": 0.5562,
    "src": "orig",
    "editeLe": 1794067656913
+  },
+  "oeuvres-musicales_te-deum-charpentier": {
+   "cx": 0.5,
+   "cy": 0.3893,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067658749
+  },
+  "oeuvres-musicales_tafelmusik-telemann": {
+   "cx": 0.4366,
+   "cy": 0.6117,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794067663258
+  },
+  "oeuvres-musicales_canon-de-pachelbel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067665101
   }
  }
 }

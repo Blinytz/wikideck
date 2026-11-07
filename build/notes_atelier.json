@@ -95629,6 +95629,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069221460
+  },
+  "auteurs-modernes_arthur-miller": {
+   "cx": 0.4926,
+   "cy": 0.3701,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069223891
+  },
+  "auteurs-modernes_eugene-o-neill": {
+   "cx": 0.4926,
+   "cy": 0.3591,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069226057
+  },
+  "auteurs-modernes_james-baldwin-ecrivain": {
+   "cx": 0.5499,
+   "cy": 0.3241,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794069228944
   }
  }
 }

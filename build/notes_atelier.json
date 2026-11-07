@@ -84702,6 +84702,34 @@
    "w": 0.5438,
    "src": "orig",
    "editeLe": 1794063593589
+  },
+  "races-de-cheval_percheron": {
+   "cx": 0.4433,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794063595603
+  },
+  "races-de-cheval_trait-belge": {
+   "cx": 0.5447,
+   "cy": 0.4998,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794063598217
+  },
+  "races-de-cheval_clydesdale": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063600179
+  },
+  "races-de-cheval_haflinger": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063602042
   }
  }
 }

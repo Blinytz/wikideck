@@ -86319,6 +86319,48 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794064387078
+  },
+  "plantes-cultivees_citron": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794064388603
+  },
+  "plantes-cultivees_fraise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794064390160
+  },
+  "plantes-cultivees_melon-plante": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6109,
+   "src": "orig",
+   "editeLe": 1794064392320
+  },
+  "plantes-cultivees_courge": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.678,
+   "src": "orig",
+   "editeLe": 1794064394141
+  },
+  "plantes-cultivees_aubergine": {
+   "cx": 0.5239,
+   "cy": 0.5202,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794064395880
+  },
+  "plantes-cultivees_concombre": {
+   "cx": 0.5076,
+   "cy": 0.494,
+   "w": 0.6327,
+   "src": "orig",
+   "editeLe": 1794064397368
   }
  }
 }

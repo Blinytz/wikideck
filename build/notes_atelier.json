@@ -80166,6 +80166,20 @@
    "w": 0.6523,
    "src": "orig",
    "editeLe": 1794058743550
+  },
+  "mammiferes_orque": {
+   "cx": 0.448,
+   "cy": 0.4998,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794058758065
+  },
+  "mammiferes_grand-dauphin": {
+   "cx": 0.5512,
+   "cy": 0.5002,
+   "w": 0.8021,
+   "src": "orig",
+   "editeLe": 1794058760936
   }
  }
 }

@@ -87502,6 +87502,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064911146
+  },
+  "grands-peintres_gustave-moreau": {
+   "cx": 0.5074,
+   "cy": 0.4317,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064916219
+  },
+  "grands-peintres_leonard-de-vinci": {
+   "cx": 0.4926,
+   "cy": 0.3917,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064919502
+  },
+  "grands-peintres_jan-van-eyck": {
+   "cx": 0.5072,
+   "cy": 0.3972,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794064922119
   }
  }
 }

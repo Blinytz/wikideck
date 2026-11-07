@@ -79671,11 +79671,32 @@
    "editeLe": 1794058395636
   },
   "noeuds_n-ud-de-ride": {
+   "cx": 0.5049,
+   "cy": 0.5156,
+   "w": 0.6118,
+   "src": "full",
+   "editeLe": 1794058405061
+  },
+  "noeuds_n-ud-de-laguis": {
+   "cx": 0.456,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058407367
+  },
+  "noeuds_n-ud-de-galere": {
+   "cx": 0.456,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794058409572
+  },
+  "noeuds_n-ud-de-jambe-de-chien": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.8143,
    "src": "full",
-   "editeLe": 1794058397739
+   "editeLe": 1794058411405
   }
  }
 }

@@ -85215,11 +85215,25 @@
    "editeLe": 1794063877754
   },
   "arbres_sapin": {
+   "cx": 0.638,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063890113
+  },
+  "arbres_pin-parasol": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7274,
+   "src": "orig",
+   "editeLe": 1794063891954
+  },
+  "arbres_araucaria": {
    "cx": 0.5,
    "cy": 0.5,
    "w": 0.7241,
    "src": "orig",
-   "editeLe": 1794063879025
+   "editeLe": 1794063893674
   }
  }
 }

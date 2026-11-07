@@ -91380,6 +91380,27 @@
    "w": 0.5056,
    "src": "orig",
    "editeLe": 1794067352100
+  },
+  "grands-compositeurs_jean-baptiste-pergolese": {
+   "cx": 0.5,
+   "cy": 0.395,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067354530
+  },
+  "grands-compositeurs_niccolo-paganini": {
+   "cx": 0.5,
+   "cy": 0.4273,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067356534
+  },
+  "grands-compositeurs_gaetano-donizetti": {
+   "cx": 0.5,
+   "cy": 0.4806,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067359766
   }
  }
 }

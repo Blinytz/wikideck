@@ -90162,6 +90162,27 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794066933539
+  },
+  "architectes_diebedo-francis-kere": {
+   "cx": 0.4987,
+   "cy": 0.3603,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066936679
+  },
+  "architectes_kengo-kuma": {
+   "cx": 0.6173,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794066939931
+  },
+  "architectes_shigeru-ban": {
+   "cx": 0.5013,
+   "cy": 0.3371,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066942377
   }
  }
 }

@@ -84674,6 +84674,34 @@
    "w": 0.717,
    "src": "orig",
    "editeLe": 1794063583843
+  },
+  "races-de-cheval_quarter-horse": {
+   "cx": 0.5465,
+   "cy": 0.5066,
+   "w": 0.6628,
+   "src": "orig",
+   "editeLe": 1794063586502
+  },
+  "races-de-cheval_appaloosa": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7003,
+   "src": "orig",
+   "editeLe": 1794063588391
+  },
+  "races-de-cheval_mustang-cheval": {
+   "cx": 0.4416,
+   "cy": 0.5027,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794063591417
+  },
+  "races-de-cheval_shire-cheval": {
+   "cx": 0.4164,
+   "cy": 0.4856,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794063593589
   }
  }
 }

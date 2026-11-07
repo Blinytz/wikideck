@@ -94775,6 +94775,34 @@
    "w": 0.7402,
    "src": "orig",
    "editeLe": 1794068871508
+  },
+  "auteurs-classiques_james-fenimore-cooper": {
+   "cx": 0.4619,
+   "cy": 0.4771,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794068873936
+  },
+  "auteurs-classiques_louisa-may-alcott": {
+   "cx": 0.4926,
+   "cy": 0.362,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068876044
+  },
+  "auteurs-classiques_august-strindberg": {
+   "cx": 0.4926,
+   "cy": 0.5444,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068878486
+  },
+  "auteurs-classiques_adam-mickiewicz": {
+   "cx": 0.4926,
+   "cy": 0.381,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068880816
   }
  }
 }

@@ -91198,6 +91198,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067298895
+  },
+  "grands-compositeurs_edvard-grieg": {
+   "cx": 0.4843,
+   "cy": 0.3432,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067301410
+  },
+  "grands-compositeurs_giacomo-puccini": {
+   "cx": 0.4987,
+   "cy": 0.3379,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067303601
+  },
+  "grands-compositeurs_gioachino-rossini": {
+   "cx": 0.5,
+   "cy": 0.4127,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067305973
+  },
+  "grands-compositeurs_georges-bizet": {
+   "cx": 0.5,
+   "cy": 0.4118,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067308334
   }
  }
 }

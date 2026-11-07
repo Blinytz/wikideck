@@ -82672,6 +82672,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794062279743
+  },
+  "dinosaures-celebres_compsognathus": {
+   "cx": 0.477,
+   "cy": 0.4779,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794062282080
+  },
+  "dinosaures-celebres_archaeopteryx": {
+   "cx": 0.6221,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794062284347
+  },
+  "dinosaures-celebres_deinonychus": {
+   "cx": 0.4231,
+   "cy": 0.4943,
+   "w": 0.6205,
+   "src": "orig",
+   "editeLe": 1794062287825
   }
  }
 }

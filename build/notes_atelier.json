@@ -95083,6 +95083,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069009001
+  },
+  "auteurs-modernes_terry-pratchett": {
+   "cx": 0.4926,
+   "cy": 0.3507,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069011124
+  },
+  "auteurs-modernes_neil-gaiman": {
+   "cx": 0.4926,
+   "cy": 0.4041,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069013678
+  },
+  "auteurs-modernes_douglas-adams": {
+   "cx": 0.5288,
+   "cy": 0.5002,
+   "w": 0.6985,
+   "src": "orig",
+   "editeLe": 1794069016685
   }
  }
 }

@@ -87112,11 +87112,25 @@
    "editeLe": 1794064685963
   },
   "grands-peintres_francisco-de-goya": {
-   "cx": 0.5,
-   "cy": 0.4483,
-   "w": 0.8143,
+   "cx": 0.4905,
+   "cy": 0.4116,
+   "w": 0.8957,
    "src": "orig",
-   "editeLe": 1794064670925
+   "editeLe": 1794064689239
+  },
+  "grands-peintres_jacques-louis-david": {
+   "cx": 0.5054,
+   "cy": 0.3344,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794064691984
+  },
+  "grands-peintres_eugene-delacroix": {
+   "cx": 0.4942,
+   "cy": 0.4534,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064694770
   }
  }
 }

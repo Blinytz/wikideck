@@ -89280,6 +89280,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066556955
+  },
+  "sculptures-celebres_colonne-sans-fin": {
+   "cx": 0.3621,
+   "cy": 0.4998,
+   "w": 0.7242,
+   "src": "orig",
+   "editeLe": 1794066561888
+  },
+  "sculptures-celebres_le-baiser-brancusi": {
+   "cx": 0.5,
+   "cy": 0.4835,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066563891
+  },
+  "sculptures-celebres_homme-qui-marche-i": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794066566012
+  },
+  "sculptures-celebres_bronzes-de-riace": {
+   "cx": 0.5,
+   "cy": 0.3433,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066567987
+  },
+  "sculptures-celebres_buste-de-nefertiti": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794066569801
   }
  }
 }

@@ -93063,10 +93063,24 @@
   },
   "musique-populaire_claude-francois": {
    "cx": 0.5,
-   "cy": 0.4831,
+   "cy": 0.3019,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794068012273
+   "editeLe": 1794068019559
+  },
+  "musique-populaire_renaud": {
+   "cx": 0.5,
+   "cy": 0.4419,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068021327
+  },
+  "musique-populaire_jean-jacques-goldman": {
+   "cx": 0.5,
+   "cy": 0.3692,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068023292
   }
  }
 }

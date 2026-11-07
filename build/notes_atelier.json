@@ -87054,6 +87054,27 @@
    "w": 0.9802,
    "src": "orig",
    "editeLe": 1794064644548
+  },
+  "grands-peintres_titien": {
+   "cx": 0.4886,
+   "cy": 0.3267,
+   "w": 0.4179,
+   "src": "orig",
+   "editeLe": 1794064647493
+  },
+  "grands-peintres_jerome-bosch": {
+   "cx": 0.5013,
+   "cy": 0.3006,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064650226
+  },
+  "grands-peintres_pieter-brueghel-l-ancien": {
+   "cx": 0.3777,
+   "cy": 0.2448,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794064652503
   }
  }
 }

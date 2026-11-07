@@ -91058,6 +91058,69 @@
    "w": 0.6366,
    "src": "orig",
    "editeLe": 1794067254475
+  },
+  "grands-compositeurs_george-gershwin": {
+   "cx": 0.4566,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067256504
+  },
+  "grands-compositeurs_aaron-copland": {
+   "cx": 0.4712,
+   "cy": 0.3,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067258887
+  },
+  "grands-compositeurs_olivier-messiaen": {
+   "cx": 0.4921,
+   "cy": 0.421,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067261270
+  },
+  "grands-compositeurs_john-cage": {
+   "cx": 0.5367,
+   "cy": 0.4417,
+   "w": 0.6221,
+   "src": "orig",
+   "editeLe": 1794067263147
+  },
+  "grands-compositeurs_philip-glass": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7143,
+   "src": "orig",
+   "editeLe": 1794067264751
+  },
+  "grands-compositeurs_steve-reich": {
+   "cx": 0.5,
+   "cy": 0.2807,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067266340
+  },
+  "grands-compositeurs_arvo-part": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067267736
+  },
+  "grands-compositeurs_ennio-morricone": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7228,
+   "src": "orig",
+   "editeLe": 1794067269291
+  },
+  "grands-compositeurs_hans-zimmer": {
+   "cx": 0.5,
+   "cy": 0.3682,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067270693
   }
  }
 }

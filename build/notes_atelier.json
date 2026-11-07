@@ -88321,6 +88321,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066127679
+  },
+  "tableaux-celebres_les-menines": {
+   "cx": 0.5,
+   "cy": 0.6706,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066130912
+  },
+  "tableaux-celebres_la-liberte-guidant-le-peuple": {
+   "cx": 0.5065,
+   "cy": 0.4689,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066134400
+  },
+  "tableaux-celebres_le-radeau-de-la-meduse": {
+   "cx": 0.4976,
+   "cy": 0.4998,
+   "w": 0.741,
+   "src": "orig",
+   "editeLe": 1794066136936
   }
  }
 }

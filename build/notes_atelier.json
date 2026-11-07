@@ -84485,6 +84485,34 @@
    "w": 0.7609,
    "src": "orig",
    "editeLe": 1794063507563
+  },
+  "races-de-chat_manx-chat": {
+   "cx": 0.4185,
+   "cy": 0.4998,
+   "w": 0.6111,
+   "src": "orig",
+   "editeLe": 1794063511001
+  },
+  "races-de-chat_korat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794063513063
+  },
+  "races-de-chat_devon-rex": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063514836
+  },
+  "races-de-chat_cornish-rex": {
+   "cx": 0.607,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063518041
   }
  }
 }

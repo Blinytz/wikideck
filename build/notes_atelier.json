@@ -93025,6 +93025,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068003343
+  },
+  "musique-populaire_adele": {
+   "cx": 0.5,
+   "cy": 0.4105,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068005251
+  },
+  "musique-populaire_shakira": {
+   "cx": 0.4877,
+   "cy": 0.52,
+   "w": 0.5552,
+   "src": "orig",
+   "editeLe": 1794068006803
+  },
+  "musique-populaire_bts-groupe": {
+   "cx": 0.5,
+   "cy": 0.424,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068008209
+  },
+  "musique-populaire_charles-trenet": {
+   "cx": 0.5455,
+   "cy": 0.5,
+   "w": 0.7184,
+   "src": "orig",
+   "editeLe": 1794068009661
+  },
+  "musique-populaire_dalida": {
+   "cx": 0.5,
+   "cy": 0.4831,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068011165
+  },
+  "musique-populaire_claude-francois": {
+   "cx": 0.5,
+   "cy": 0.4831,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068012273
   }
  }
 }

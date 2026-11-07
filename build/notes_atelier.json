@@ -79165,6 +79165,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794057943723
+  },
+  "vehicules-celebres_wright-flyer": {
+   "cx": 0.5525,
+   "cy": 0.439,
+   "w": 0.5821,
+   "src": "orig",
+   "editeLe": 1794057946849
+  },
+  "vehicules-celebres_bleriot-xi": {
+   "cx": 0.5613,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794057949259
+  },
+  "vehicules-celebres_lz-127-graf-zeppelin": {
+   "cx": 0.5485,
+   "cy": 0.4998,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794057952289
   }
  }
 }

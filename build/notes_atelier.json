@@ -82273,6 +82273,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059827333
+  },
+  "insectes_sphinx-tete-de-mort": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8136,
+   "src": "orig",
+   "editeLe": 1794059830629
+  },
+  "insectes_moro-sphinx": {
+   "cx": 0.5687,
+   "cy": 0.5841,
+   "w": 0.5974,
+   "src": "orig",
+   "editeLe": 1794059833242
+  },
+  "insectes_morpho-helenor": {
+   "cx": 0.5094,
+   "cy": 0.5079,
+   "w": 0.5438,
+   "src": "orig",
+   "editeLe": 1794059834952
+  },
+  "insectes_attacus-atlas": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059836761
   }
  }
 }

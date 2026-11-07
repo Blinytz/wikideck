@@ -80404,6 +80404,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794058915589
+  },
+  "mammiferes_raton-laveur": {
+   "cx": 0.4763,
+   "cy": 0.4801,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794058918423
+  },
+  "mammiferes_mephitis-mephitis": {
+   "cx": 0.548,
+   "cy": 0.5847,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058921588
+  },
+  "mammiferes_porc-epic": {
+   "cx": 0.56,
+   "cy": 0.5002,
+   "w": 0.814,
+   "src": "orig",
+   "editeLe": 1794058924803
   }
  }
 }

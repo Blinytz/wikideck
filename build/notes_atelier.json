@@ -80670,6 +80670,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059058183
+  },
+  "oiseaux_condor-des-andes": {
+   "cx": 0.3836,
+   "cy": 0.4753,
+   "w": 0.5985,
+   "src": "orig",
+   "editeLe": 1794059060458
+  },
+  "oiseaux_vautour-fauve": {
+   "cx": 0.5813,
+   "cy": 0.5662,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059063962
   }
  }
 }

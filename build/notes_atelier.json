@@ -94999,6 +94999,34 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794068981756
+  },
+  "auteurs-modernes_italo-calvino": {
+   "cx": 0.4926,
+   "cy": 0.481,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794068984484
+  },
+  "auteurs-modernes_toni-morrison": {
+   "cx": 0.4926,
+   "cy": 0.3405,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068986668
+  },
+  "auteurs-modernes_maya-angelou": {
+   "cx": 0.4926,
+   "cy": 0.3512,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068989009
+  },
+  "auteurs-modernes_kurt-vonnegut": {
+   "cx": 0.4926,
+   "cy": 0.3442,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068990966
   }
  }
 }

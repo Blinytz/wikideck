@@ -86844,6 +86844,62 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794064562041
+  },
+  "mineraux-et-pierres_jaspe": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794064563522
+  },
+  "mineraux-et-pierres_quartz-mineral-b": {
+   "cx": 0.5525,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794064565056
+  },
+  "mineraux-et-pierres_pechblende": {
+   "cx": 0.5525,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794064566079
+  },
+  "mineraux-et-pierres_beryl": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794064567597
+  },
+  "mineraux-et-pierres_corindon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064569176
+  },
+  "mineraux-et-pierres_olivine": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7889,
+   "src": "orig",
+   "editeLe": 1794064570717
+  },
+  "mineraux-et-pierres_feldspath": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794064571928
+  },
+  "mineraux-et-pierres_labradorite": {
+   "cx": 0.5,
+   "cy": 0.5253,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064573946
   }
  }
 }

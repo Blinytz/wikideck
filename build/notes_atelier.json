@@ -87208,6 +87208,20 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794064768894
+  },
+  "grands-peintres_paul-gauguin": {
+   "cx": 0.5643,
+   "cy": 0.4212,
+   "w": 0.7402,
+   "src": "orig",
+   "editeLe": 1794064772185
+  },
+  "grands-peintres_vincent-van-gogh": {
+   "cx": 0.5074,
+   "cy": 0.4302,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794064775819
   }
  }
 }

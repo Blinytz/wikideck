@@ -79130,6 +79130,20 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794057929396
+  },
+  "vehicules-celebres_normandie-paquebot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7885,
+   "src": "orig",
+   "editeLe": 1794057931726
+  },
+  "vehicules-celebres_queen-mary-2": {
+   "cx": 0.512,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794057934503
   }
  }
 }

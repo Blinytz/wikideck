@@ -95545,6 +95545,34 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794069177280
+  },
+  "auteurs-modernes_gunter-grass": {
+   "cx": 0.4926,
+   "cy": 0.3697,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069179557
+  },
+  "auteurs-modernes_erich-maria-remarque": {
+   "cx": 0.4926,
+   "cy": 0.2698,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069181735
+  },
+  "auteurs-modernes_robert-musil": {
+   "cx": 0.4926,
+   "cy": 0.4426,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069183929
+  },
+  "auteurs-modernes_paul-celan": {
+   "cx": 0.4926,
+   "cy": 0.4466,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069186031
   }
  }
 }

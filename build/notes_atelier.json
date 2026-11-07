@@ -94432,6 +94432,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068725796
+  },
+  "auteurs-classiques_alfred-de-vigny": {
+   "cx": 0.4958,
+   "cy": 0.4234,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068728685
+  },
+  "auteurs-classiques_theophile-gautier": {
+   "cx": 0.4926,
+   "cy": 0.4026,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068731129
+  },
+  "auteurs-classiques_prosper-merimee": {
+   "cx": 0.4926,
+   "cy": 0.388,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068734141
+  },
+  "auteurs-classiques_lord-byron": {
+   "cx": 0.4926,
+   "cy": 0.4006,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068736440
   }
  }
 }

@@ -96714,6 +96714,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069874387
+  },
+  "personnages-litterature_dracula": {
+   "cx": 0.5,
+   "cy": 0.3311,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069875949
+  },
+  "personnages-litterature_monstre-de-frankenstein": {
+   "cx": 0.4604,
+   "cy": 0.5,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794069877656
+  },
+  "personnages-litterature_l-etrange-cas-du-docteur-jekyll-et-de-mister-hyde": {
+   "cx": 0.5,
+   "cy": 0.3532,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069879666
+  },
+  "personnages-litterature_le-portrait-de-dorian-gray": {
+   "cx": 0.5,
+   "cy": 0.4,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069881640
+  },
+  "personnages-litterature_robinson-crusoe": {
+   "cx": 0.5,
+   "cy": 0.4953,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069883163
   }
  }
 }

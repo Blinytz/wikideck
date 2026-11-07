@@ -83274,6 +83274,27 @@
    "w": 0.5047,
    "src": "orig",
    "editeLe": 1794062605805
+  },
+  "creatures-prehistoriques_trilobita": {
+   "cx": 0.4904,
+   "cy": 0.5002,
+   "w": 0.5772,
+   "src": "orig",
+   "editeLe": 1794062608609
+  },
+  "creatures-prehistoriques_gastornis": {
+   "cx": 0.5997,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794062611531
+  },
+  "creatures-prehistoriques_phorusrhacos": {
+   "cx": 0.4664,
+   "cy": 0.4635,
+   "w": 0.5545,
+   "src": "orig",
+   "editeLe": 1794062614720
   }
  }
 }

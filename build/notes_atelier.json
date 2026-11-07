@@ -77632,6 +77632,34 @@
    "w": 0.7224,
    "src": "orig",
    "editeLe": 1794055265304
+  },
+  "astronautes-et-cosmonautes_charles-duke": {
+   "cx": 0.4947,
+   "cy": 0.3351,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055267707
+  },
+  "astronautes-et-cosmonautes_john-young-astronaute": {
+   "cx": 0.5,
+   "cy": 0.3535,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055269777
+  },
+  "astronautes-et-cosmonautes_eugene-cernan": {
+   "cx": 0.484,
+   "cy": 0.3731,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055272644
+  },
+  "astronautes-et-cosmonautes_harrison-schmitt": {
+   "cx": 0.5,
+   "cy": 0.4087,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055276223
   }
  }
 }

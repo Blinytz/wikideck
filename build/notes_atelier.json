@@ -78122,6 +78122,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794056725361
+  },
+  "astronautes-et-cosmonautes_albert-ii-singe": {
+   "cx": 0.5,
+   "cy": 0.36,
+   "w": 0.7736,
+   "src": "orig",
+   "editeLe": 1794056728297
+  },
+  "astronautes-et-cosmonautes_animal-dans-l-espace": {
+   "cx": 0.5172,
+   "cy": 0.5,
+   "w": 0.7139,
+   "src": "orig",
+   "editeLe": 1794056730271
+  },
+  "aviateurs-celebres_wilbur-wright": {
+   "cx": 0.5013,
+   "cy": 0.3581,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794056732889
   }
  }
 }

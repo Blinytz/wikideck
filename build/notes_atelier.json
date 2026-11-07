@@ -97575,6 +97575,27 @@
    "w": 0.5562,
    "src": "orig",
    "editeLe": 1794070276523
+  },
+  "mouvements-litteraires_libertin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070279361
+  },
+  "mouvements-litteraires_renaissance-de-harlem": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794070282627
+  },
+  "mouvements-litteraires_litterature-postmoderne": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6167,
+   "src": "orig",
+   "editeLe": 1794070284562
   }
  }
 }

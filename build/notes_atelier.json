@@ -84331,6 +84331,41 @@
    "w": 0.7237,
    "src": "orig",
    "editeLe": 1794063432874
+  },
+  "races-de-chat_ragdoll": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063434921
+  },
+  "races-de-chat_british-shorthair": {
+   "cx": 0.5014,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063436744
+  },
+  "races-de-chat_chartreux-chat": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063438755
+  },
+  "races-de-chat_norvegien-chat": {
+   "cx": 0.5188,
+   "cy": 0.5,
+   "w": 0.6535,
+   "src": "orig",
+   "editeLe": 1794063440915
+  },
+  "races-de-chat_abyssin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063442881
   }
  }
 }

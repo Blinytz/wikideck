@@ -96777,6 +96777,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794069891638
+  },
+  "personnages-litterature_quasimodo-personnage": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069893578
+  },
+  "personnages-litterature_le-comte-de-monte-cristo": {
+   "cx": 0.4769,
+   "cy": 0.417,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794069895241
+  },
+  "personnages-litterature_capitaine-nemo": {
+   "cx": 0.5,
+   "cy": 0.2348,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069896677
+  },
+  "personnages-litterature_phileas-fogg": {
+   "cx": 0.5,
+   "cy": 0.3778,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069898288
+  },
+  "personnages-litterature_cyrano-de-bergerac-rostand": {
+   "cx": 0.5,
+   "cy": 0.3855,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069899994
+  },
+  "personnages-litterature_alice-alice-au-pays-des-merveilles": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794069901586
   }
  }
 }

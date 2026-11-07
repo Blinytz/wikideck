@@ -96483,6 +96483,34 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794069781480
+  },
+  "oeuvres-litteraires_les-raisins-de-la-colere": {
+   "cx": 0.5,
+   "cy": 0.5435,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069783215
+  },
+  "oeuvres-litteraires_1984-roman": {
+   "cx": 0.5,
+   "cy": 0.5633,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069784892
+  },
+  "oeuvres-litteraires_la-ferme-des-animaux": {
+   "cx": 0.5044,
+   "cy": 0.5506,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794069787261
+  },
+  "oeuvres-litteraires_le-meilleur-des-mondes": {
+   "cx": 0.5039,
+   "cy": 0.4503,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069791583
   }
  }
 }

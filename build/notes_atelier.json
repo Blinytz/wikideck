@@ -77016,6 +77016,20 @@
    "w": 0.6118,
    "src": "orig",
    "editeLe": 1794054756025
+  },
+  "conquete-spatiale_apollo-11": {
+   "cx": 0.4893,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054761825
+  },
+  "conquete-spatiale_apollo-13": {
+   "cx": 0.5307,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054767732
   }
  }
 }

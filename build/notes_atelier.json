@@ -96499,18 +96499,32 @@
    "editeLe": 1794069784892
   },
   "oeuvres-litteraires_la-ferme-des-animaux": {
-   "cx": 0.5866,
-   "cy": 0.5519,
+   "cx": 0.552,
+   "cy": 0.5512,
    "w": 0.6729,
    "src": "orig",
-   "editeLe": 1794069798678
+   "editeLe": 1794069803352
   },
   "oeuvres-litteraires_le-meilleur-des-mondes": {
    "cx": 0.5039,
    "cy": 0.4503,
    "w": 0.8143,
    "src": "orig",
-   "editeLe": 1794069791583
+   "editeLe": 1794069804947
+  },
+  "oeuvres-litteraires_fahrenheit-451": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794069806653
+  },
+  "oeuvres-litteraires_le-seigneur-des-anneaux": {
+   "cx": 0.465,
+   "cy": 0.6648,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794069808311
   }
  }
 }

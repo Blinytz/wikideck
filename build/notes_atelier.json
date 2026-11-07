@@ -85206,6 +85206,20 @@
    "w": 0.6729,
    "src": "orig",
    "editeLe": 1794063876239
+  },
+  "arbres_charme-commun": {
+   "cx": 0.5,
+   "cy": 0.4669,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794063877754
+  },
+  "arbres_sapin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794063879025
   }
  }
 }

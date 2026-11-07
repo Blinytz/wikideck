@@ -90386,6 +90386,20 @@
    "w": 0.7142,
    "src": "orig",
    "editeLe": 1794067008500
+  },
+  "styles-architecturaux_architecture-khmere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794067016029
+  },
+  "styles-architecturaux_architecture-japonaise": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067018177
   }
  }
 }

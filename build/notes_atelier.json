@@ -95377,6 +95377,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069114383
+  },
+  "auteurs-modernes_jean-giono": {
+   "cx": 0.4926,
+   "cy": 0.4417,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069116425
+  },
+  "auteurs-modernes_jean-cocteau": {
+   "cx": 0.4926,
+   "cy": 0.4163,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069118270
+  },
+  "auteurs-modernes_samuel-beckett": {
+   "cx": 0.4926,
+   "cy": 0.4141,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069120333
+  },
+  "auteurs-modernes_eugene-ionesco": {
+   "cx": 0.5038,
+   "cy": 0.5832,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794069124354
   }
  }
 }

@@ -92738,6 +92738,34 @@
    "w": 0.7057,
    "src": "orig",
    "editeLe": 1794067903975
+  },
+  "musique-populaire_ravi-shankar": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794067906489
+  },
+  "musique-populaire_bjork": {
+   "cx": 0.5,
+   "cy": 0.4297,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067910772
+  },
+  "musique-populaire_chuck-berry": {
+   "cx": 0.5,
+   "cy": 0.3046,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067912297
+  },
+  "musique-populaire_b-b-king": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7451,
+   "src": "orig",
+   "editeLe": 1794067913713
   }
  }
 }

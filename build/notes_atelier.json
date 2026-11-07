@@ -96924,6 +96924,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794070006337
+  },
+  "personnages-litterature_aslan-narnia": {
+   "cx": 0.5067,
+   "cy": 0.5306,
+   "w": 0.9866,
+   "src": "orig",
+   "editeLe": 1794070011498
+  },
+  "personnages-litterature_cthulhu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070013934
+  },
+  "personnages-litterature_conan-le-barbare": {
+   "cx": 0.5,
+   "cy": 0.5302,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794070015784
   }
  }
 }

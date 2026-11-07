@@ -92885,6 +92885,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067965118
+  },
+  "musique-populaire_the-clash": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067966710
+  },
+  "musique-populaire_sex-pistols": {
+   "cx": 0.3888,
+   "cy": 0.3872,
+   "w": 0.4275,
+   "src": "orig",
+   "editeLe": 1794067968154
+  },
+  "musique-populaire_ramones": {
+   "cx": 0.5,
+   "cy": 0.4632,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067969703
+  },
+  "musique-populaire_the-cure": {
+   "cx": 0.5031,
+   "cy": 0.5,
+   "w": 0.7125,
+   "src": "orig",
+   "editeLe": 1794067971115
+  },
+  "musique-populaire_joy-division": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067973064
+  },
+  "musique-populaire_depeche-mode": {
+   "cx": 0.6212,
+   "cy": 0.5698,
+   "w": 0.4538,
+   "src": "orig",
+   "editeLe": 1794067974848
   }
  }
 }

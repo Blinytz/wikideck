@@ -77590,6 +77590,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055234665
+  },
+  "astronautes-et-cosmonautes_scott-carpenter": {
+   "cx": 0.488,
+   "cy": 0.4292,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055236649
+  },
+  "astronautes-et-cosmonautes_james-lovell": {
+   "cx": 0.5067,
+   "cy": 0.3539,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055238619
+  },
+  "astronautes-et-cosmonautes_frank-borman": {
+   "cx": 0.508,
+   "cy": 0.4103,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055241961
   }
  }
 }

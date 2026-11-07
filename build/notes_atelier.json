@@ -84177,6 +84177,41 @@
    "w": 0.7359,
    "src": "orig",
    "editeLe": 1794063385137
+  },
+  "races-de-chien_welsh-corgi-pembroke": {
+   "cx": 0.4952,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794063387530
+  },
+  "races-de-chien_bobtail": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063389777
+  },
+  "races-de-chien_bearded-collie": {
+   "cx": 0.457,
+   "cy": 0.4999,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794063392202
+  },
+  "races-de-chien_bouvier-australien": {
+   "cx": 0.6012,
+   "cy": 0.5,
+   "w": 0.5673,
+   "src": "orig",
+   "editeLe": 1794063394360
+  },
+  "races-de-chien_australian-kelpie": {
+   "cx": 0.4242,
+   "cy": 0.5158,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794063396184
   }
  }
 }

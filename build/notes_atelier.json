@@ -95027,6 +95027,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068990966
+  },
+  "auteurs-modernes_philip-k-dick": {
+   "cx": 0.4926,
+   "cy": 0.381,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068993185
+  },
+  "auteurs-modernes_isaac-asimov": {
+   "cx": 0.4926,
+   "cy": 0.3286,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068995549
+  },
+  "auteurs-modernes_ray-bradbury": {
+   "cx": 0.4926,
+   "cy": 0.4135,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068997655
+  },
+  "auteurs-modernes_arthur-c-clarke": {
+   "cx": 0.4926,
+   "cy": 0.3759,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068999409
   }
  }
 }

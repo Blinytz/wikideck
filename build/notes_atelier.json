@@ -79872,6 +79872,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794058561955
+  },
+  "mammiferes_girafe": {
+   "cx": 0.5533,
+   "cy": 0.4457,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058565501
+  },
+  "mammiferes_okapi": {
+   "cx": 0.516,
+   "cy": 0.4419,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058569304
   }
  }
 }

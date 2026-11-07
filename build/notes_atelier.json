@@ -77149,6 +77149,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794054839248
+  },
+  "conquete-spatiale_rosetta-sonde-spatiale": {
+   "cx": 0.499,
+   "cy": 0.4999,
+   "w": 0.6104,
+   "src": "orig",
+   "editeLe": 1794054843991
+  },
+  "conquete-spatiale_parker-sonde-spatiale": {
+   "cx": 0.5,
+   "cy": 0.4067,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794054846025
+  },
+  "conquete-spatiale_ariane-5": {
+   "cx": 0.5816,
+   "cy": 0.5142,
+   "w": 0.526,
+   "src": "orig",
+   "editeLe": 1794054850703
   }
  }
 }

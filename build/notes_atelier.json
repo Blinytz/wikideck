@@ -96819,6 +96819,62 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794069901586
+  },
+  "personnages-litterature_chapelier-fou-comics": {
+   "cx": 0.5,
+   "cy": 0.4948,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069903169
+  },
+  "personnages-litterature_peter-pan": {
+   "cx": 0.5,
+   "cy": 0.2747,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069904631
+  },
+  "personnages-litterature_capitaine-crochet": {
+   "cx": 0.5,
+   "cy": 0.4184,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069906263
+  },
+  "personnages-litterature_tarzan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069907754
+  },
+  "personnages-litterature_un-chant-de-noel": {
+   "cx": 0.5,
+   "cy": 0.4087,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069909330
+  },
+  "personnages-litterature_oliver-twist": {
+   "cx": 0.5,
+   "cy": 0.6183,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069910826
+  },
+  "personnages-litterature_long-john-silver": {
+   "cx": 0.5,
+   "cy": 0.3885,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069912172
+  },
+  "personnages-litterature_frodon-sacquet": {
+   "cx": 0.5168,
+   "cy": 0.3411,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794069913790
   }
  }
 }

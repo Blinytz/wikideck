@@ -81699,6 +81699,27 @@
    "w": 0.8048,
    "src": "orig",
    "editeLe": 1794059587669
+  },
+  "poissons-et-vie-marine_requin-bouledogue": {
+   "cx": 0.5413,
+   "cy": 0.5083,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059590774
+  },
+  "poissons-et-vie-marine_scyliorhinidae": {
+   "cx": 0.5047,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794059593162
+  },
+  "poissons-et-vie-marine_manta-genre": {
+   "cx": 0.5512,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794059596424
   }
  }
 }

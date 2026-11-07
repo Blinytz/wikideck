@@ -88839,6 +88839,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794066370296
+  },
+  "tableaux-celebres_raboteurs-de-parquet": {
+   "cx": 0.4694,
+   "cy": 0.5002,
+   "w": 0.7627,
+   "src": "orig",
+   "editeLe": 1794066377614
+  },
+  "tableaux-celebres_le-dejeuner-des-canotiers": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.8035,
+   "src": "orig",
+   "editeLe": 1794066381177
+  },
+  "tableaux-celebres_un-bar-aux-folies-bergere": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8102,
+   "src": "orig",
+   "editeLe": 1794066383146
+  },
+  "tableaux-celebres_la-classe-de-danse-degas-paris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794066384937
   }
  }
 }

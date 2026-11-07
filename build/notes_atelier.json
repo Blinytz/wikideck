@@ -79284,6 +79284,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794057994728
+  },
+  "vehicules-celebres_hermione-fregate-1779": {
+   "cx": 0.484,
+   "cy": 0.4998,
+   "w": 0.7512,
+   "src": "orig",
+   "editeLe": 1794057998566
+  },
+  "vehicules-celebres_mary-celeste": {
+   "cx": 0.5212,
+   "cy": 0.4498,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794058000587
   }
  }
 }

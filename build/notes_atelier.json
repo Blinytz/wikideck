@@ -93179,6 +93179,55 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794068045800
+  },
+  "musique-populaire_carlos-santana": {
+   "cx": 0.5028,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794068046939
+  },
+  "musique-populaire_antonio-carlos-jobim": {
+   "cx": 0.5,
+   "cy": 0.386,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068048957
+  },
+  "musique-populaire_carlos-gardel": {
+   "cx": 0.5,
+   "cy": 0.4902,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068050513
+  },
+  "musique-populaire_paco-de-lucia": {
+   "cx": 0.5667,
+   "cy": 0.5,
+   "w": 0.7057,
+   "src": "orig",
+   "editeLe": 1794068052102
+  },
+  "musique-populaire_charlie-parker": {
+   "cx": 0.5054,
+   "cy": 0.5041,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794068053700
+  },
+  "musique-populaire_django-reinhardt": {
+   "cx": 0.5,
+   "cy": 0.42,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794068055273
+  },
+  "instruments-de-musique_piano": {
+   "cx": 0.5821,
+   "cy": 0.5155,
+   "w": 0.5633,
+   "src": "orig",
+   "editeLe": 1794068056782
   }
  }
 }

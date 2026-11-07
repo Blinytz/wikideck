@@ -82833,6 +82833,27 @@
    "w": 0.614,
    "src": "orig",
    "editeLe": 1794062376867
+  },
+  "dinosaures-celebres_coelophysis": {
+   "cx": 0.4758,
+   "cy": 0.4134,
+   "w": 0.6139,
+   "src": "orig",
+   "editeLe": 1794062379056
+  },
+  "dinosaures-celebres_ceratosaurus": {
+   "cx": 0.4071,
+   "cy": 0.4822,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794062381889
+  },
+  "dinosaures-celebres_torosaurus": {
+   "cx": 0.4085,
+   "cy": 0.4632,
+   "w": 0.618,
+   "src": "orig",
+   "editeLe": 1794062384250
   }
  }
 }

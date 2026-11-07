@@ -82623,6 +82623,20 @@
    "w": 0.6582,
    "src": "orig",
    "editeLe": 1794062252553
+  },
+  "dinosaures-celebres_brachiosaurus": {
+   "cx": 0.5712,
+   "cy": 0.5002,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794062256894
+  },
+  "dinosaures-celebres_diplodocus": {
+   "cx": 0.5111,
+   "cy": 0.5296,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794062262885
   }
  }
 }

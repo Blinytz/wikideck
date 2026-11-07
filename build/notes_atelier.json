@@ -93991,6 +93991,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068535508
+  },
+  "auteurs-classiques_ivan-tourgueniev": {
+   "cx": 0.4926,
+   "cy": 0.4172,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068538151
+  },
+  "auteurs-classiques_fiodor-dostoievski": {
+   "cx": 0.4926,
+   "cy": 0.4459,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068540748
+  },
+  "auteurs-classiques_leon-tolstoi": {
+   "cx": 0.4926,
+   "cy": 0.3354,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068543389
+  },
+  "auteurs-classiques_gustave-flaubert": {
+   "cx": 0.4926,
+   "cy": 0.4119,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068545776
   }
  }
 }

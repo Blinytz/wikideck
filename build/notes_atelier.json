@@ -91632,6 +91632,55 @@
    "w": 0.6153,
    "src": "orig",
    "editeLe": 1794067447688
+  },
+  "oeuvres-musicales_symphonie-no-9-de-beethoven": {
+   "cx": 0.4331,
+   "cy": 0.6866,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794067449473
+  },
+  "oeuvres-musicales_le-sacre-du-printemps": {
+   "cx": 0.5067,
+   "cy": 0.6589,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067450979
+  },
+  "oeuvres-musicales_les-quatre-saisons": {
+   "cx": 0.4989,
+   "cy": 0.4755,
+   "w": 0.7153,
+   "src": "orig",
+   "editeLe": 1794067452614
+  },
+  "oeuvres-musicales_rhapsody-in-blue": {
+   "cx": 0.5,
+   "cy": 0.3213,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067454128
+  },
+  "oeuvres-musicales_bolero-ravel": {
+   "cx": 0.5,
+   "cy": 0.3213,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067455186
+  },
+  "oeuvres-musicales_requiem-mozart": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067457012
+  },
+  "oeuvres-musicales_la-flute-enchantee": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067458026
   }
  }
 }

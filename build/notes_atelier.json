@@ -91933,6 +91933,48 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794067579630
+  },
+  "oeuvres-musicales_danses-hongroises": {
+   "cx": 0.5014,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794067581414
+  },
+  "oeuvres-musicales_symphonie-no-5-de-mahler": {
+   "cx": 0.5141,
+   "cy": 0.6225,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067583476
+  },
+  "oeuvres-musicales_concerto-pour-piano-no-2-de-rachmaninov": {
+   "cx": 0.3909,
+   "cy": 0.6602,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794067585191
+  },
+  "oeuvres-musicales_symphonie-no-7-de-chostakovitch": {
+   "cx": 0.7097,
+   "cy": 0.443,
+   "w": 0.4179,
+   "src": "orig",
+   "editeLe": 1794067586839
+  },
+  "oeuvres-musicales_le-chateau-de-barbe-bleue": {
+   "cx": 0.5455,
+   "cy": 0.6607,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794067588560
+  },
+  "oeuvres-musicales_pierrot-lunaire": {
+   "cx": 0.5,
+   "cy": 0.6548,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067591157
   }
  }
 }

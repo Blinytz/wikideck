@@ -86571,6 +86571,48 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794064458709
+  },
+  "mineraux-et-pierres_diamant": {
+   "cx": 0.5,
+   "cy": 0.451,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064501229
+  },
+  "mineraux-et-pierres_rubis": {
+   "cx": 0.4346,
+   "cy": 0.5519,
+   "w": 0.5978,
+   "src": "orig",
+   "editeLe": 1794064502970
+  },
+  "mineraux-et-pierres_saphir": {
+   "cx": 0.3339,
+   "cy": 0.5054,
+   "w": 0.4944,
+   "src": "orig",
+   "editeLe": 1794064504504
+  },
+  "mineraux-et-pierres_emeraude": {
+   "cx": 0.404,
+   "cy": 0.4878,
+   "w": 0.658,
+   "src": "orig",
+   "editeLe": 1794064505927
+  },
+  "mineraux-et-pierres_amethyste": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794064507461
+  },
+  "mineraux-et-pierres_topaze-mineral": {
+   "cx": 0.5,
+   "cy": 0.4906,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794064509306
   }
  }
 }

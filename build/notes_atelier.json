@@ -80586,6 +80586,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794059008696
+  },
+  "mammiferes_serval": {
+   "cx": 0.4577,
+   "cy": 0.5002,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794059012187
+  },
+  "mammiferes_fossa-animal": {
+   "cx": 0.5267,
+   "cy": 0.5035,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794059015412
   }
  }
 }

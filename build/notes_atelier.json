@@ -94383,6 +94383,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794068708595
+  },
+  "auteurs-classiques_donatien-alphonse-francois-de-sade": {
+   "cx": 0.5641,
+   "cy": 0.5002,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1794068711865
+  },
+  "auteurs-classiques_daniel-defoe": {
+   "cx": 0.4926,
+   "cy": 0.4119,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068714320
+  },
+  "auteurs-classiques_henry-fielding": {
+   "cx": 0.4926,
+   "cy": 0.3283,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068716546
+  },
+  "auteurs-classiques_laurence-sterne": {
+   "cx": 0.4926,
+   "cy": 0.4073,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794068718762
   }
  }
 }

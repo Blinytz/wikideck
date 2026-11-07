@@ -77723,6 +77723,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794055345679
+  },
+  "astronautes-et-cosmonautes_mae-jemison": {
+   "cx": 0.5,
+   "cy": 0.3382,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055347847
+  },
+  "astronautes-et-cosmonautes_guion-bluford": {
+   "cx": 0.516,
+   "cy": 0.4503,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055349954
+  },
+  "astronautes-et-cosmonautes_kathryn-d-sullivan": {
+   "cx": 0.5,
+   "cy": 0.5187,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794055352258
   }
  }
 }

@@ -84828,6 +84828,20 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794063667698
+  },
+  "races-de-cheval_morgan-cheval": {
+   "cx": 0.5385,
+   "cy": 0.4998,
+   "w": 0.7495,
+   "src": "orig",
+   "editeLe": 1794063670476
+  },
+  "races-de-cheval_ardennais-cheval": {
+   "cx": 0.3876,
+   "cy": 0.4998,
+   "w": 0.7254,
+   "src": "orig",
+   "editeLe": 1794063676198
   }
  }
 }

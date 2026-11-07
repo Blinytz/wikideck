@@ -92948,6 +92948,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794067984183
+  },
+  "musique-populaire_guns-n-roses": {
+   "cx": 0.4874,
+   "cy": 0.5,
+   "w": 0.761,
+   "src": "orig",
+   "editeLe": 1794067986349
+  },
+  "musique-populaire_red-hot-chili-peppers": {
+   "cx": 0.4497,
+   "cy": 0.5,
+   "w": 0.4655,
+   "src": "orig",
+   "editeLe": 1794067988337
+  },
+  "musique-populaire_oasis-groupe": {
+   "cx": 0.5,
+   "cy": 0.5648,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067990264
+  },
+  "musique-populaire_coldplay": {
+   "cx": 0.5,
+   "cy": 0.473,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067991992
+  },
+  "musique-populaire_eminem": {
+   "cx": 0.5,
+   "cy": 0.3806,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794067993533
   }
  }
 }

@@ -96028,6 +96028,34 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794069450403
+  },
+  "auteurs-modernes_allen-ginsberg": {
+   "cx": 0.4926,
+   "cy": 0.4547,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069452904
+  },
+  "auteurs-modernes_charles-bukowski": {
+   "cx": 0.4679,
+   "cy": 0.4998,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794069456815
+  },
+  "auteurs-modernes_heinrich-boll": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794069459622
+  },
+  "auteurs-modernes_patrick-suskind": {
+   "cx": 0.4926,
+   "cy": 0.3998,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794069461918
   }
  }
 }

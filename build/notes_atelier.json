@@ -80887,6 +80887,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059160093
+  },
+  "oiseaux_grand-corbeau": {
+   "cx": 0.447,
+   "cy": 0.4547,
+   "w": 0.6983,
+   "src": "orig",
+   "editeLe": 1794059167097
+  },
+  "oiseaux_pie-bavarde": {
+   "cx": 0.5558,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794059169073
+  },
+  "oiseaux_geai-des-chenes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7424,
+   "src": "orig",
+   "editeLe": 1794059171206
   }
  }
 }

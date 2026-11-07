@@ -79732,6 +79732,27 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794058512333
+  },
+  "noeuds_pomme-de-touline": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.4071,
+   "src": "orig",
+   "editeLe": 1794058513808
+  },
+  "mammiferes_lion": {
+   "cx": 0.5,
+   "cy": 0.4236,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058517439
+  },
+  "mammiferes_tigre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058519595
   }
  }
 }

@@ -80355,6 +80355,27 @@
    "w": 0.7911,
    "src": "orig",
    "editeLe": 1794058896655
+  },
+  "mammiferes_mouton": {
+   "cx": 0.5375,
+   "cy": 0.5002,
+   "w": 0.7634,
+   "src": "orig",
+   "editeLe": 1794058900909
+  },
+  "mammiferes_chevre": {
+   "cx": 0.4426,
+   "cy": 0.5002,
+   "w": 0.7017,
+   "src": "orig",
+   "editeLe": 1794058903673
+  },
+  "mammiferes_cheval": {
+   "cx": 0.5373,
+   "cy": 0.4888,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794058907369
   }
  }
 }

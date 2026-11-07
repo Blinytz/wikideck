@@ -77114,6 +77114,34 @@
    "w": 0.6867,
    "src": "orig",
    "editeLe": 1794054822636
+  },
+  "conquete-spatiale_cassini-huygens": {
+   "cx": 0.5367,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794054827137
+  },
+  "conquete-spatiale_new-horizons": {
+   "cx": 0.4444,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794054829927
+  },
+  "conquete-spatiale_curiosity-astromobile": {
+   "cx": 0.4604,
+   "cy": 0.5402,
+   "w": 0.4045,
+   "src": "orig",
+   "editeLe": 1794054831902
+  },
+  "conquete-spatiale_exploration-de-mars-par-perseverance": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794054833713
   }
  }
 }

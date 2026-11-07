@@ -81265,6 +81265,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794059356794
+  },
+  "oiseaux_serin-des-canaries": {
+   "cx": 0.6066,
+   "cy": 0.4998,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794059360492
+  },
+  "oiseaux_nestor-kea": {
+   "cx": 0.4925,
+   "cy": 0.4998,
+   "w": 0.7687,
+   "src": "orig",
+   "editeLe": 1794059365816
   }
  }
 }

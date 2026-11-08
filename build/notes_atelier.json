@@ -97638,6 +97638,20 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794158185339
+  },
+  "genres-litteraires_haiku": {
+   "cx": 0.5671,
+   "cy": 0.5502,
+   "w": 0.7119,
+   "src": "orig",
+   "editeLe": 1794158192988
+  },
+  "genres-litteraires_ballade": {
+   "cx": 0.5263,
+   "cy": 0.5002,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794158195915
   }
  }
 }

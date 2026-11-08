@@ -99171,6 +99171,20 @@
    "w": 0.7679,
    "src": "orig",
    "editeLe": 1794159227307
+  },
+  "religions-du-monde_bouddhisme-mahayana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159228982
+  },
+  "religions-du-monde_bouddhisme-tibetain": {
+   "cx": 0.5,
+   "cy": 0.4998,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159232406
   }
  }
 }

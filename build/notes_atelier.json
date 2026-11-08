@@ -99045,6 +99045,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794159127669
+  },
+  "religions-du-monde_christianisme": {
+   "cx": 0.4569,
+   "cy": 0.5002,
+   "w": 0.7075,
+   "src": "orig",
+   "editeLe": 1794159134394
+  },
+  "religions-du-monde_islam": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7252,
+   "src": "orig",
+   "editeLe": 1794159136796
+  },
+  "religions-du-monde_hindouisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159138701
+  },
+  "religions-du-monde_bouddhisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.764,
+   "src": "orig",
+   "editeLe": 1794159140711
+  },
+  "religions-du-monde_judaisme": {
+   "cx": 0.4873,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159143455
   }
  }
 }

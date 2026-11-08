@@ -97932,6 +97932,20 @@
    "w": 0.5161,
    "src": "orig",
    "editeLe": 1794158383264
+  },
+  "philosophes_epictete": {
+   "cx": 0.4995,
+   "cy": 0.4153,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158386692
+  },
+  "philosophes_lao-tseu": {
+   "cx": 0.468,
+   "cy": 0.3791,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158390118
   }
  }
 }

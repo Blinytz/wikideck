@@ -99633,6 +99633,27 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794159486293
+  },
+  "fetes-religieuses_hanoucca": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159487808
+  },
+  "fetes-religieuses_pourim": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7627,
+   "src": "orig",
+   "editeLe": 1794159489777
+  },
+  "fetes-religieuses_souccot": {
+   "cx": 0.4638,
+   "cy": 0.4995,
+   "w": 0.611,
+   "src": "orig",
+   "editeLe": 1794159495027
   }
  }
 }

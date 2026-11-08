@@ -100767,6 +100767,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794160783240
+  },
+  "mythologie-nordique_thor": {
+   "cx": 0.4998,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794160787015
+  },
+  "mythologie-nordique_loki": {
+   "cx": 0.5619,
+   "cy": 0.5002,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794160790611
   }
  }
 }

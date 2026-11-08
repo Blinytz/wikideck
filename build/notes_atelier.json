@@ -99227,6 +99227,20 @@
    "w": 0.5429,
    "src": "orig",
    "editeLe": 1794159260500
+  },
+  "religions-du-monde_manicheisme-religion": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6243,
+   "src": "orig",
+   "editeLe": 1794159262741
+  },
+  "religions-du-monde_religion-de-l-egypte-antique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7424,
+   "src": "orig",
+   "editeLe": 1794159266465
   }
  }
 }

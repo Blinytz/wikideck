@@ -101105,11 +101105,25 @@
    "editeLe": 1794160968483
   },
   "mythologie-egyptienne_re": {
-   "cx": 0.4926,
+   "cx": 0.5074,
    "cy": 0.4539,
    "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794160971782
+   "editeLe": 1794160980195
+  },
+  "mythologie-egyptienne_osiris": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794160984086
+  },
+  "mythologie-egyptienne_isis": {
+   "cx": 0.5103,
+   "cy": 0.3377,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794160985925
   }
  }
 }

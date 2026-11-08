@@ -97841,6 +97841,20 @@
    "w": 0.5976,
    "src": "orig",
    "editeLe": 1794158332386
+  },
+  "philosophes_aristote": {
+   "cx": 0.5521,
+   "cy": 0.5034,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158339183
+  },
+  "philosophes_rene-descartes": {
+   "cx": 0.4991,
+   "cy": 0.473,
+   "w": 0.9853,
+   "src": "full",
+   "editeLe": 1794158343529
   }
  }
 }

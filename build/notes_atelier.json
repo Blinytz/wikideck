@@ -98436,6 +98436,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794158692074
+  },
+  "philosophes_emmanuel-levinas": {
+   "cx": 0.5074,
+   "cy": 0.496,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158697121
+  },
+  "philosophes_paul-ric-ur": {
+   "cx": 0.4926,
+   "cy": 0.4621,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158700237
+  },
+  "philosophes_roland-barthes": {
+   "cx": 0.489,
+   "cy": 0.5002,
+   "w": 0.6833,
+   "src": "orig",
+   "editeLe": 1794158703321
   }
  }
 }

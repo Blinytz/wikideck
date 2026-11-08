@@ -97757,6 +97757,20 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794158270428
+  },
+  "genres-litteraires_dystopie": {
+   "cx": 0.5053,
+   "cy": 0.4485,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794158273630
+  },
+  "genres-litteraires_pamphlet": {
+   "cx": 0.5385,
+   "cy": 0.4662,
+   "w": 0.7402,
+   "src": "orig",
+   "editeLe": 1794158278054
   }
  }
 }

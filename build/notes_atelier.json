@@ -99374,6 +99374,20 @@
    "w": 0.673,
    "src": "orig",
    "editeLe": 1794159362942
+  },
+  "textes-sacres_tripitaka": {
+   "cx": 0.5369,
+   "cy": 0.4932,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159372290
+  },
+  "textes-sacres_sutra-du-lotus": {
+   "cx": 0.5556,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159375010
   }
  }
 }

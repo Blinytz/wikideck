@@ -99913,6 +99913,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794160133241
+  },
+  "croyances-et-notions-sacrees_mandala": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160142804
+  },
+  "croyances-et-notions-sacrees_om": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160146529
+  },
+  "croyances-et-notions-sacrees_mana-spiritualite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794160148550
   }
  }
 }

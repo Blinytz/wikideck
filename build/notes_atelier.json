@@ -99339,6 +99339,20 @@
    "w": 0.5598,
    "src": "orig",
    "editeLe": 1794159336381
+  },
+  "textes-sacres_hadith": {
+   "cx": 0.5999,
+   "cy": 0.529,
+   "w": 0.5669,
+   "src": "orig",
+   "editeLe": 1794159341742
+  },
+  "textes-sacres_veda": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6425,
+   "src": "orig",
+   "editeLe": 1794159346884
   }
  }
 }

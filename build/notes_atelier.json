@@ -101194,6 +101194,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161008534
+  },
+  "mythologie-egyptienne_geb": {
+   "cx": 0.636,
+   "cy": 0.5002,
+   "w": 0.6104,
+   "src": "orig",
+   "editeLe": 1794161014637
+  },
+  "mythologie-egyptienne_shou": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161016533
+  },
+  "mythologie-egyptienne_tefnout": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.608,
+   "src": "orig",
+   "editeLe": 1794161018411
+  },
+  "mythologie-egyptienne_nephtys": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.725,
+   "src": "orig",
+   "editeLe": 1794161020000
+  },
+  "mythologie-egyptienne_maat": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161022183
   }
  }
 }

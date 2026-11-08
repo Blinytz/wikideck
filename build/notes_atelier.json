@@ -97911,6 +97911,27 @@
    "w": 0.8142,
    "src": "orig",
    "editeLe": 1794158374659
+  },
+  "philosophes_diogene-de-sinope": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.798,
+   "src": "orig",
+   "editeLe": 1794158377474
+  },
+  "philosophes_zenon-de-kition": {
+   "cx": 0.4827,
+   "cy": 0.2985,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158380281
+  },
+  "philosophes_plotin": {
+   "cx": 0.4981,
+   "cy": 0.3417,
+   "w": 0.5161,
+   "src": "orig",
+   "editeLe": 1794158383264
   }
  }
 }

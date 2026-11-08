@@ -17,7 +17,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
   const suite = tirage.map((t, i) => ({ ...t, i })).sort((a, b) => ORDRE[a.carte.rarete] - ORDRE[b.carte.rarete] || a.i - b.i);
   const ov = document.createElement('div');
   ov.className = 'ov2';
-  const marque = `<div class="pk-marque"><div class="k-mono">W</div><div class="pk-nom">${esc(nom)}</div><div class="pk-nb">${suite.length} CARTES</div></div>`;
+  const marque = `<div class="pk-marque"><div class="k-mono">W</div><div class="pk-nom">${esc(nom)}</div><div class="pk-nb">${suite.length} CARTE${suite.length > 1 ? 'S' : ''}</div></div>`;
   ov.innerHTML = `
     <div class="ov2-voile"></div>
     <div class="ov2-fx"></div>

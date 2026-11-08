@@ -197,6 +197,8 @@ function rendreAccueil() {
         ${defi.gagne ? '<span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span>' : `<span class="tag"><i class="ph-fill ph-fire"></i>Série de ${SERIE_DEFI[cdj.rarete]}</span>${htmlPerles(SERIE_DEFI[cdj.rarete], defi.suite)}`}
         <p>${esc(phrase(cdj.description))}</p></div>
     </button>
+    ${htmlTicketBloc()}
+    ${htmlFragBande()}
     <div class="duo">
       <button class="bloc pressable">
         <div class="haut"><span class="surtitre">Série</span><i class="ph-fill ph-fire" style="color:#ff9f5a;font-size:20px"></i></div>
@@ -221,7 +223,8 @@ function rendreAccueil() {
     compter($('#v-pct'), 'pct', Math.round(pct * 100)); compter($('#v-n'), 'n', n);
     $('#anneau-col').style.strokeDashoffset = 2 * Math.PI * 22 * (1 - pct);
   });
-  majMinuteur(); clearInterval(window.__min); window.__min = setInterval(majMinuteur, 1000);
+  majMinuteur(); majDemain(); clearInterval(window.__min); window.__min = setInterval(() => { majMinuteur(); majDemain(); }, 1000);
+  $('#ticket').addEventListener('click', ouvrirTicket);
   $('#essai').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; tete = b.dataset.r; z.querySelectorAll('#essai button').forEach((x) => x.classList.toggle('actif', x === b)); });
   $('#ouvrir')?.addEventListener('click', lancer);
   const pk = $('#paquets'), hero = $('.orbite');
@@ -254,8 +257,7 @@ async function lancer() {
   const t = tirer();
   await ouvrirPaquet(t);
   paquets--;
-  t.forEach(({ carte }) => { possede.set(carte.id, (possede.get(carte.id) || 0) + 1); historique.unshift(carte); });
-  historique.length = Math.min(historique.length, 14);
+  acquerir(t.map((x) => x.carte));
   rendreAccueil();
 }
 
@@ -463,6 +465,180 @@ function gagnerMinutes(m) {
   fin -= m * 60e3;
   const g = document.createElement('div'); g.className = 'gain'; g.innerHTML = `<i class="ph-bold ph-timer"></i>−${fmtMin(m)}`;
   document.body.append(g); setTimeout(() => g.remove(), 1200);
+}
+
+// ---------- fragments : un doublon = un fragment de sa rareté ; 10 fragments = une carte qui manque ----------
+const PRIX_FORGE = 10;
+const frag = (() => { try { const f = JSON.parse(localStorage.getItem('wikideck-essai-fragments')); if (f) return f; } catch {} return { commune: 7, rare: 4, epique: 9, mythique: 2, legendaire: 1, pantheon: 0 }; })();
+const sauverFrag = () => { try { localStorage.setItem('wikideck-essai-fragments', JSON.stringify(frag)); } catch {} };
+const manquantes = (r) => toutes().filter((c) => c.rarete === r && !possede.has(c.id));
+function acquerir(cartes) {
+  let n = 0;
+  for (const c of cartes) {
+    if (possede.has(c.id)) { frag[c.rarete] = (frag[c.rarete] || 0) + 1; n++; }
+    else possede.set(c.id, 1);
+    historique.unshift(c);
+  }
+  historique.length = Math.min(historique.length, 14);
+  sauverFrag();
+  if (n) setTimeout(() => toast('ph-diamonds-four', `+${n} fragment${n > 1 ? 's' : ''}`), 250);
+}
+function htmlFragBande() {
+  const pret = RARETES.some((r) => (frag[r] || 0) >= PRIX_FORGE && manquantes(r).length);
+  return `<button class="bloc frag-bande pressable${pret ? ' pret' : ''}" data-frag>
+    <div class="haut"><span class="surtitre">Fragments</span>${pret ? '<span class="tag or"><i class="ph-fill ph-hammer"></i>Forge</span>' : '<i class="ph-bold ph-arrow-right"></i>'}</div>
+    <div class="fb-rangee">${RARETES.map((r) => `<div class="fb${(frag[r] || 0) >= PRIX_FORGE ? ' plein' : ''}" style="--rar:var(--r-${r});--p:${Math.min(1, (frag[r] || 0) / PRIX_FORGE)}">${iconeRarete(r)}<b>${frag[r] || 0}</b><i></i></div>`).join('')}</div>
+  </button>`;
+}
+function ouvrirFragments() {
+  vibrer(); son('tap');
+  const f = document.createElement('div'); f.className = 'fiche frags';
+  document.body.append(f); document.documentElement.style.overflow = 'hidden';
+  const fermer = () => { f.remove(); document.documentElement.style.overflow = ''; RENDUS[ecran](); };
+  const rendre = () => {
+    f.innerHTML = `<div class="barre-f"><button class="retour" id="fx"><i class="ph-bold ph-x"></i></button><span class="surtitre">Fragments</span><span style="width:40px"></span></div>
+      <div class="fr-grille">${RARETES.map((r) => { const m = manquantes(r).length, n = frag[r] || 0, ok = n >= PRIX_FORGE && m; return `<div class="bloc fr-tuile${ok ? ' pret' : ''}" style="--rar:var(--r-${r})">
+        <div class="fr-gemme">${iconeRarete(r)}</div>
+        <div class="fr-nom">${NOMS[r]}</div>
+        <div class="fr-compte"><b>${fr(n)}</b><span>/ ${PRIX_FORGE}</span></div>
+        <div class="fr-jauge">${Array.from({ length: PRIX_FORGE }, (_, k) => `<i class="${k < n ? 'on' : ''}"></i>`).join('')}</div>
+        <button class="btn2 ${ok ? 'or' : 'fantome'} petit" data-forger="${r}" ${ok ? '' : 'disabled'}><i class="ph-fill ph-hammer"></i>Forger</button>
+        <span class="fr-manque">${m ? `${fr(m)} à découvrir` : 'Complet'}</span>
+      </div>`; }).join('')}</div>`;
+    cascade($('.fr-grille', f));
+    $('#fx', f).addEventListener('click', () => { son('tap'); fermer(); });
+    f.querySelectorAll('[data-forger]').forEach((b) => b.addEventListener('click', async () => {
+      const r = b.dataset.forger, pool = manquantes(r);
+      if ((frag[r] || 0) < PRIX_FORGE || !pool.length) return;
+      frag[r] -= PRIX_FORGE; sauverFrag();
+      son('achat'); vibrer([15, 30, 15]);
+      const c = hasard(pool);
+      await ouvrirPaquet([{ carte: c, neuve: true }], { nom: 'Forge' });
+      acquerir([c]); rendre();
+    }));
+  };
+  rendre();
+}
+document.addEventListener('click', (e) => { if (e.target.closest('[data-frag]')) ouvrirFragments(); });
+
+// ---------- ticket à gratter : 9 cases, 3 à gratter, chaque case est un lot ----------
+const A_GRATTER = 3;
+const LOTS = [
+  [20, { t: 'temps', h: 1 }], [12, { t: 'temps', h: 2 }], [8, { t: 'temps', h: 3 }], [4, { t: 'temps', h: 6 }], [1, { t: 'temps', h: 12 }],
+  [15, { t: 'frag', r: 'commune' }], [10, { t: 'frag', r: 'rare' }], [6, { t: 'frag', r: 'epique' }], [3, { t: 'frag', r: 'mythique' }], [1.5, { t: 'frag', r: 'legendaire' }], [.5, { t: 'frag', r: 'pantheon' }],
+  [14, { t: 'carte' }], [5, { t: 'paquet' }],
+];
+const rngDe = (s) => { let a = Math.floor(hash(s) * 4294967295) >>> 0; return () => { a = (a + 0x6D2B79F5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; };
+function tirerLot(rng) {
+  let x = rng() * LOTS.reduce((s, [p]) => s + p, 0), l = LOTS[0][1];
+  for (const [p, lot] of LOTS) { x -= p; if (x <= 0) { l = lot; break; } }
+  l = { ...l };
+  if (l.t === 'frag') { const y = rng(); l.n = y < .55 ? 1 : y < .85 ? 2 : 3; }
+  if (l.t === 'carte') { let y = rng() * 100; l.r = RARETES.find((r) => (y -= CHANCES[r]) <= 0) || 'commune'; }
+  return l;
+}
+let ticket = (() => { try { const t = JSON.parse(localStorage.getItem('wikideck-essai-ticket')); if (t?.jour === JOUR) return t; } catch {} return null; })();
+const sauverTicket = () => { try { localStorage.setItem('wikideck-essai-ticket', JSON.stringify(ticket)); } catch {} };
+function leTicket() {
+  if (!ticket) { const rng = rngDe(JOUR + 'ticket'); ticket = { jour: JOUR, cases: Array.from({ length: 9 }, () => tirerLot(rng)), choisies: [], grattees: [] }; sauverTicket(); }
+  return ticket;
+}
+const estGros = (l) => (l.t === 'temps' && l.h >= 6) || ((l.t === 'frag' || l.t === 'carte') && RANG(l.r) >= 3) || l.t === 'paquet';
+function htmlLot(l) {
+  if (l.t === 'temps') return `<div class="tk-lot l-temps"><i class="ph-fill ph-timer"></i><b>−${l.h} h</b></div>`;
+  if (l.t === 'frag') return `<div class="tk-lot l-frag" style="--rar:var(--r-${l.r})">${iconeRarete(l.r)}<b>×${l.n}</b></div>`;
+  if (l.t === 'carte') return `<div class="tk-lot l-carte" style="--rar:var(--r-${l.r})"><span class="tk-dos">W</span><b>${NOMS[l.r]}</b></div>`;
+  return `<div class="tk-lot l-paquet"><span class="tk-pk">W</span><b>Paquet</b></div>`;
+}
+const miniLot = (l) => (l.t === 'temps' ? '<i class="ph-fill ph-timer" style="color:#9fd8ff"></i>' : l.t === 'frag' ? iconeRarete(l.r) : l.t === 'carte' ? `<i class="ph-fill ph-cards" style="color:var(--r-${l.r})"></i>` : '<i class="ph-fill ph-package" style="color:var(--or)"></i>');
+const minuit = () => { const d = new Date(); d.setHours(24, 0, 0, 0); return d.getTime(); };
+function htmlTicketBloc() {
+  const tk = leTicket(), n = tk.grattees.length, fait = n >= A_GRATTER;
+  return `<button class="bloc ticket-bloc pressable${fait ? ' fait' : ''}" id="ticket">
+    <div class="tb-mini">${tk.cases.map((l, i) => (tk.grattees.includes(i) ? `<i class="vu">${miniLot(l)}</i>` : `<i style="--k:${i}"></i>`)).join('')}</div>
+    <div class="droite"><span class="surtitre">Ticket du jour</span><h3>${fait ? 'Gratté' : `${A_GRATTER - n} à gratter`}</h3>
+      ${fait ? '<span class="tag"><i class="ph-bold ph-clock"></i><span class="tk-demain-v"></span></span>' : htmlPerles(A_GRATTER, n)}</div>
+  </button>`;
+}
+function majDemain() { const s = fmtTemps(Math.max(0, Math.round((minuit() - Date.now()) / 1000))); document.querySelectorAll('.tk-demain-v').forEach((e) => (e.textContent = s)); }
+function peindreFeuille(cv) {
+  const r = cv.getBoundingClientRect(), d = Math.min(2, devicePixelRatio || 1);
+  cv.width = Math.max(1, Math.round(r.width * d)); cv.height = Math.max(1, Math.round(r.height * d));
+  const g = cv.getContext('2d', { willReadFrequently: true }), w = cv.width, h = cv.height;
+  const lg = g.createLinearGradient(0, 0, w, h);
+  [[0, '#fff3c2'], [.32, '#d6a447'], [.52, '#fbe6a6'], [.78, '#b47d28'], [1, '#efcb78']].forEach(([o, c]) => lg.addColorStop(o, c));
+  g.fillStyle = lg; g.fillRect(0, 0, w, h);
+  for (let k = 0; k < (w * h) / 30; k++) { g.fillStyle = Math.random() < .5 ? '#ffffff26' : '#5a3a081c'; g.fillRect(Math.random() * w, Math.random() * h, d, d); }
+  g.font = `${Math.round(h * .46)}px 'Instrument Serif', serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
+  g.fillStyle = '#7a4f1260'; g.fillText('W', w / 2, h / 2 + d * 1.5); g.fillStyle = '#fff8dd70'; g.fillText('W', w / 2, h / 2 - d);
+}
+function ouvrirTicket() {
+  vibrer(); son('tap');
+  const tk = leTicket();
+  const f = document.createElement('div'); f.className = 'fiche ticket';
+  f.innerHTML = `<div class="barre-f"><button class="retour" id="tx"><i class="ph-bold ph-x"></i></button><span class="surtitre">Ticket du jour</span><span style="width:40px"></span></div>
+    <div class="tk-slots" id="tk-slots"></div>
+    <div class="tk-carton"><div class="tk-grille">${tk.cases.map((l, i) => `<div class="tk-case" data-i="${i}" style="${l.r ? `--rar:var(--r-${l.r})` : ''}">${htmlLot(l)}<canvas class="tk-feuille"></canvas></div>`).join('')}</div></div>
+    <div class="tk-bas" id="tk-bas"></div>`;
+  document.body.append(f); document.documentElement.style.overflow = 'hidden';
+  const caseEl = (i) => f.querySelector(`.tk-case[data-i="${i}"]`);
+  const fini = () => tk.grattees.length >= A_GRATTER;
+  const enAttente = () => tk.grattees.map((i) => tk.cases[i]).filter((l) => l.t === 'carte' && l.id && !l.recu);
+  const encaisser = () => { const l = enAttente(); if (!l.length) return []; const cs = l.map((x) => toutes().find((c) => c.id === x.id)).filter(Boolean); l.forEach((x) => (x.recu = true)); sauverTicket(); return cs; };
+  const fermer = () => { clearInterval(tic); const cs = encaisser(); if (cs.length) acquerir(cs); f.remove(); document.documentElement.style.overflow = ''; RENDUS[ecran](); };
+  $('#tx', f).addEventListener('click', () => { son('tap'); fermer(); });
+  const majSlots = () => { $('#tk-slots', f).innerHTML = Array.from({ length: A_GRATTER }, (_, k) => { const l = tk.cases[tk.grattees[k]]; return l ? `<div class="tk-slot plein${estGros(l) ? ' gros' : ''}" style="${l.r ? `--rar:var(--r-${l.r})` : ''}">${htmlLot(l)}</div>` : '<div class="tk-slot"></div>'; }).join(''); };
+  const majBas = () => {
+    const b = $('#tk-bas', f);
+    if (!fini()) { b.innerHTML = ''; return; }
+    const att = enAttente();
+    b.innerHTML = `${att.length ? `<button class="btn2 or" id="tk-ouvrir"><i class="ph-bold ph-cards"></i>Ouvrir</button>` : ''}<span class="tk-demain"><i class="ph-bold ph-clock"></i><span class="tk-demain-v"></span></span>`;
+    majDemain();
+    $('#tk-ouvrir', f)?.addEventListener('click', async () => {
+      const t = enAttente().map((x) => ({ carte: toutes().find((c) => c.id === x.id), neuve: x.neuve })).filter((x) => x.carte);
+      await ouvrirPaquet(t, { nom: 'Ticket' });
+      acquerir(encaisser()); majBas();
+    });
+  };
+  const appliquer = (l) => {
+    if (l.t === 'temps') gagnerMinutes(l.h * 60);
+    else if (l.t === 'frag') { frag[l.r] = (frag[l.r] || 0) + l.n; sauverFrag(); }
+    else if (l.t === 'paquet') { paquets++; toast('ph-cards', '+1 paquet'); }
+    else { const pool = toutes().filter((c) => c.rarete === l.r); const c = hasard(pool.length ? pool : toutes()); l.id = c.id; l.neuve = !possede.has(c.id); }
+  };
+  const devoilerReste = () => tk.cases.forEach((_, i) => { if (!tk.grattees.includes(i)) setTimeout(() => caseEl(i).classList.add('manque'), 80 * i); });
+  const finir = (i) => {
+    if (tk.grattees.includes(i)) return;
+    tk.grattees.push(i); const l = tk.cases[i]; appliquer(l); sauverTicket();
+    const el = caseEl(i); el.classList.add('vu'); if (estGros(l)) el.classList.add('jackpot');
+    son(estGros(l) ? 'palier' : 'juste'); vibrer(estGros(l) ? [20, 40, 60] : 15);
+    majSlots();
+    if (fini()) setTimeout(() => { devoilerReste(); majBas(); }, 700);
+  };
+  const refus = (i) => { const el = caseEl(i); el.classList.remove('non'); void el.offsetWidth; el.classList.add('non'); vibrer([10, 30, 10]); son('faux'); };
+  const peut = (i) => !tk.grattees.includes(i) && (tk.choisies.includes(i) || tk.choisies.length < A_GRATTER);
+  f.querySelectorAll('.tk-case').forEach((el) => {
+    const i = +el.dataset.i, cv = el.querySelector('canvas');
+    if (tk.grattees.includes(i)) { el.classList.add('vu'); if (estGros(tk.cases[i])) el.classList.add('jackpot'); return; }
+    if (fini()) { el.classList.add('manque'); return; }
+    const g = cv.getContext('2d', { willReadFrequently: true });
+    let bas = false, prec = null, coups = 0;
+    const pt = (e) => { const r = cv.getBoundingClientRect(); return [(e.clientX - r.left) * cv.width / r.width, (e.clientY - r.top) * cv.height / r.height]; };
+    const trait = (a, b) => { g.globalCompositeOperation = 'destination-out'; g.lineCap = g.lineJoin = 'round'; g.lineWidth = cv.width * .24; g.beginPath(); g.moveTo(...a); g.lineTo(...b); g.stroke(); };
+    const ratio = () => { const dt = g.getImageData(0, 0, cv.width, cv.height).data; let v = 0, n = 0; for (let k = 3; k < dt.length; k += 52) { n++; if (dt[k] < 40) v++; } return v / n; };
+    cv.addEventListener('pointerdown', (e) => {
+      if (!peut(i)) return refus(i);
+      if (!tk.choisies.includes(i)) { tk.choisies.push(i); sauverTicket(); }
+      bas = true; cv.setPointerCapture(e.pointerId); prec = pt(e); trait(prec, [prec[0] + 1, prec[1]]);
+    });
+    cv.addEventListener('pointermove', (e) => { if (!bas) return; const p = pt(e); trait(prec, p); prec = p; if (++coups % 7 === 0) { vibrer(3); if (ratio() > .5) { bas = false; finir(i); } } });
+    const lever = () => { if (bas && ratio() > .5) finir(i); bas = false; };
+    cv.addEventListener('pointerup', lever); cv.addEventListener('pointercancel', lever);
+  });
+  requestAnimationFrame(() => f.querySelectorAll('.tk-case:not(.vu):not(.manque) canvas').forEach(peindreFeuille));
+  document.fonts?.ready.then(() => f.querySelectorAll('.tk-case:not(.vu):not(.manque) canvas').forEach((cv) => { const i = +cv.parentElement.dataset.i; if (!tk.choisies.includes(i)) peindreFeuille(cv); }));
+  const tic = setInterval(majDemain, 1000);
+  majSlots(); majBas();
 }
 
 // ---------- collection ----------
@@ -681,12 +857,11 @@ function rendreBoutique() {
   const z = $('#boutique');
   const offres = offresDuMoment();
   const prochaine = (Math.floor(Date.now() / ROTATION) + 1) * ROTATION;
-  const doublons = [...possede.values()].reduce((s, q) => s + Math.max(0, q - 1), 0);
   z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div>${htmlSolde()}</div>
     <div class="rotation"><i class="ph-fill ph-arrows-clockwise"></i><span>Nouveaux paquets dans</span><b class="chiffre" id="fin-offre">${fmtTemps(Math.round((prochaine - Date.now()) / 1000))}</b></div>
     <div class="offres">${offres.map(htmlOffre).join('')}</div>
-    <div class="section-titre"><h2>Doublons</h2></div>
-    <div class="bloc vente"><div><b>${fr(doublons)} cartes</b><span>+${fr(doublons * 180)} ◆</span></div><button class="btn2 fantome petit" id="tout-vendre" ${doublons ? '' : 'disabled'}><i class="ph ph-coins"></i>Tout vendre</button></div>`;
+    <div class="section-titre"><h2>Fragments</h2></div>
+    ${htmlFragBande()}`;
   cascade(z);
   clearInterval(window.__offre);
   window.__offre = setInterval(() => { const e = $('#fin-offre'); if (!e) return; const s = Math.round((prochaine - Date.now()) / 1000); if (s <= 0) { achats.clear(); toast('ph-arrows-clockwise', 'Nouveaux paquets'); return rendreBoutique(); } e.textContent = fmtTemps(s); }, 1000);
@@ -699,12 +874,10 @@ function rendreBoutique() {
       son('achat'); vibrer(15); majSolde(-o.prix); achats.set(o.cle, (achats.get(o.cle) || 0) + 1);
       const t = tirerOffre(o);
       await ouvrirPaquet(t, { nom: o.titre });
-      t.forEach(({ carte }) => { possede.set(carte.id, (possede.get(carte.id) || 0) + 1); historique.unshift(carte); });
-      historique.length = Math.min(historique.length, 14);
+      acquerir(t.map((x) => x.carte));
       rendreBoutique();
     });
   });
-  $('#tout-vendre')?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(doublons * 180); for (const [id, q] of possede) if (q > 1) possede.set(id, 1); toast('ph-diamond', `+${fr(doublons * 180)}`); rendreBoutique(); });
   compter($('.solde-v', z), 'solde', solde, 1);
 }
 
@@ -714,9 +887,12 @@ function rendrePlus() {
   const chevron = (v = '') => `<span class="val">${v}</span><i class="ph ph-caret-right"></i>`;
   $('#plus').innerHTML = `<div class="grand-titre"><div><h1>Plus</h1></div></div>
     <div class="bloc groupe">${r('ph-fire', 'Série', chevron('12 j'), '#ff9f5a')}${r('ph-target', 'Objectifs', chevron('3/5'), 'var(--vert)')}${r('ph-clock-counter-clockwise', 'Historique', chevron())}</div>
+    <div class="bloc groupe">${r('ph-ticket', 'Ticket du jour', chevron(), 'var(--or)', 'r-ticket')}${r('ph-diamonds-four', 'Fragments', chevron(), '#b79cff', 'r-frag')}</div>
     <div class="bloc groupe">${r('ph-speaker-high', 'Sons', `<span class="interrupteur${sonActif() ? ' on' : ''}"></span>`, '#6ea8ff', 'r-son')}${r('ph-bell', 'Notifications', chevron('activées'), '#b79cff')}</div>
     <div class="bloc groupe">${r('ph-user-circle', 'Compte Éclats', chevron('connecté'))}${r('ph-gear-six', 'Réglages', chevron())}</div>`;
   cascade($('#plus'));
+  $('#r-ticket').addEventListener('click', ouvrirTicket);
+  $('#r-frag').addEventListener('click', ouvrirFragments);
   $('#r-son').addEventListener('click', () => { activerSon(!sonActif()); $('#r-son .interrupteur').classList.toggle('on', sonActif()); son('epingle'); vibrer(); });
 }
 

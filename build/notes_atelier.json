@@ -99738,6 +99738,27 @@
    "w": 0.6851,
    "src": "orig",
    "editeLe": 1794159536650
+  },
+  "fetes-religieuses_fete-dieu": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794159540891
+  },
+  "fetes-religieuses_laylat-al-qadr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159542967
+  },
+  "fetes-religieuses_ganesh-chaturthi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7924,
+   "src": "orig",
+   "editeLe": 1794159544760
   }
  }
 }

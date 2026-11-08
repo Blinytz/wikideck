@@ -97897,6 +97897,20 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158366655
+  },
+  "philosophes_democrite": {
+   "cx": 0.4926,
+   "cy": 0.374,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158370708
+  },
+  "philosophes_epicure": {
+   "cx": 0.4606,
+   "cy": 0.4135,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794158374659
   }
  }
 }

@@ -98247,6 +98247,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158583434
+  },
+  "philosophes_donna-haraway": {
+   "cx": 0.4926,
+   "cy": 0.4324,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158585891
+  },
+  "philosophes_thales": {
+   "cx": 0.4932,
+   "cy": 0.4405,
+   "w": 0.673,
+   "src": "orig",
+   "editeLe": 1794158589344
+  },
+  "philosophes_anaximandre": {
+   "cx": 0.4926,
+   "cy": 0.4432,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158592659
   }
  }
 }

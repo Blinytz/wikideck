@@ -97701,6 +97701,20 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794158220065
+  },
+  "genres-litteraires_autobiographie": {
+   "cx": 0.4993,
+   "cy": 0.3424,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158225179
+  },
+  "genres-litteraires_roman-epistolaire": {
+   "cx": 0.5,
+   "cy": 0.6141,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158227764
   }
  }
 }

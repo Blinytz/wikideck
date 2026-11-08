@@ -100067,6 +100067,34 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794160260004
+  },
+  "dieux-et-figures-mythologiques-grecques_artemis": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160262175
+  },
+  "dieux-et-figures-mythologiques-grecques_dionysos": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160264489
+  },
+  "dieux-et-figures-mythologiques-grecques_demeter": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160266194
+  },
+  "dieux-et-figures-mythologiques-grecques_hermes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160268290
   }
  }
 }

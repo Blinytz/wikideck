@@ -101390,6 +101390,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161086165
+  },
+  "mythologie-hindoue_brahma": {
+   "cx": 0.5,
+   "cy": 0.3486,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161088045
+  },
+  "mythologie-hindoue_vishnou": {
+   "cx": 0.5253,
+   "cy": 0.3412,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161092254
   }
  }
 }

@@ -97995,6 +97995,20 @@
    "w": 0.6106,
    "src": "orig",
    "editeLe": 1794158421873
+  },
+  "philosophes_al-ghazali": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.5093,
+   "src": "orig",
+   "editeLe": 1794158424995
+  },
+  "philosophes_ibn-khaldoun": {
+   "cx": 0.4879,
+   "cy": 0.5002,
+   "w": 0.8123,
+   "src": "orig",
+   "editeLe": 1794158430331
   }
  }
 }

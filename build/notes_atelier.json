@@ -99717,6 +99717,27 @@
    "w": 0.7244,
    "src": "orig",
    "editeLe": 1794159527702
+  },
+  "fetes-religieuses_jour-des-morts-mexique": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159530082
+  },
+  "fetes-religieuses_vendredi-saint": {
+   "cx": 0.518,
+   "cy": 0.4998,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159534095
+  },
+  "fetes-religieuses_chavouot": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6851,
+   "src": "orig",
+   "editeLe": 1794159536650
   }
  }
 }

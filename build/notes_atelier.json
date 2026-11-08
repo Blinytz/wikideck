@@ -97855,6 +97855,27 @@
    "w": 0.9853,
    "src": "full",
    "editeLe": 1794158343529
+  },
+  "philosophes_karl-marx": {
+   "cx": 0.4924,
+   "cy": 0.4405,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158346168
+  },
+  "philosophes_hypatie": {
+   "cx": 0.5058,
+   "cy": 0.5196,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158349616
+  },
+  "philosophes_socrate": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158352139
   }
  }
 }

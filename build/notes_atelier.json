@@ -101334,6 +101334,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161064743
+  },
+  "mythologie-egyptienne_taouret": {
+   "cx": 0.4938,
+   "cy": 0.3487,
+   "w": 0.3909,
+   "src": "orig",
+   "editeLe": 1794161069414
+  },
+  "mythologie-egyptienne_min-dieu": {
+   "cx": 0.6669,
+   "cy": 0.3758,
+   "w": 0.4589,
+   "src": "orig",
+   "editeLe": 1794161071943
+  },
+  "mythologie-egyptienne_montou": {
+   "cx": 0.5,
+   "cy": 0.4109,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161074561
   }
  }
 }

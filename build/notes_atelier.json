@@ -97624,6 +97624,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794158176494
+  },
+  "genres-litteraires_poesie": {
+   "cx": 0.4926,
+   "cy": 0.3617,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158181537
+  },
+  "genres-litteraires_sonnet": {
+   "cx": 0.5259,
+   "cy": 0.515,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794158185339
   }
  }
 }

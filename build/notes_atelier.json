@@ -101355,6 +101355,41 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161074561
+  },
+  "mythologie-egyptienne_hapy": {
+   "cx": 0.5054,
+   "cy": 0.2409,
+   "w": 0.5056,
+   "src": "orig",
+   "editeLe": 1794161077135
+  },
+  "mythologie-egyptienne_heqet": {
+   "cx": 0.5267,
+   "cy": 0.425,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161079807
+  },
+  "mythologie-egyptienne_nefertoum": {
+   "cx": 0.5,
+   "cy": 0.4406,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161081663
+  },
+  "mythologie-egyptienne_oupouaout": {
+   "cx": 0.4989,
+   "cy": 0.3535,
+   "w": 0.4597,
+   "src": "orig",
+   "editeLe": 1794161083615
+  },
+  "mythologie-egyptienne_apis": {
+   "cx": 0.5053,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161086165
   }
  }
 }

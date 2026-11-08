@@ -99458,6 +99458,20 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794159420089
+  },
+  "textes-sacres_kojiki": {
+   "cx": 0.3669,
+   "cy": 0.4952,
+   "w": 0.4942,
+   "src": "orig",
+   "editeLe": 1794159424745
+  },
+  "textes-sacres_sefer-hazohar": {
+   "cx": 0.5241,
+   "cy": 0.5018,
+   "w": 0.6297,
+   "src": "orig",
+   "editeLe": 1794159427294
   }
  }
 }

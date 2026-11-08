@@ -99472,6 +99472,27 @@
    "w": 0.6297,
    "src": "orig",
    "editeLe": 1794159427294
+  },
+  "textes-sacres_bardo-thodol": {
+   "cx": 0.4994,
+   "cy": 0.5002,
+   "w": 0.7185,
+   "src": "orig",
+   "editeLe": 1794159431482
+  },
+  "textes-sacres_manuscrits-de-la-mer-morte": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159434835
+  },
+  "textes-sacres_vulgate": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794159436745
   }
  }
 }

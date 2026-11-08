@@ -101229,6 +101229,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161022183
+  },
+  "mythologie-egyptienne_sobek": {
+   "cx": 0.5,
+   "cy": 0.2066,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161024462
+  },
+  "mythologie-egyptienne_khnoum": {
+   "cx": 0.4931,
+   "cy": 0.4465,
+   "w": 0.4571,
+   "src": "orig",
+   "editeLe": 1794161026373
+  },
+  "mythologie-egyptienne_khonsou": {
+   "cx": 0.1749,
+   "cy": 0.396,
+   "w": 0.2849,
+   "src": "orig",
+   "editeLe": 1794161029210
+  },
+  "mythologie-egyptienne_apophis": {
+   "cx": 0.7183,
+   "cy": 0.3758,
+   "w": 0.4589,
+   "src": "orig",
+   "editeLe": 1794161031078
   }
  }
 }

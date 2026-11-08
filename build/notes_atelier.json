@@ -100949,6 +100949,27 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794160886468
+  },
+  "mythologie-nordique_nornes": {
+   "cx": 0.5057,
+   "cy": 0.4127,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794160889452
+  },
+  "mythologie-nordique_siegfried-mythologie": {
+   "cx": 0.4873,
+   "cy": 0.4998,
+   "w": 0.6563,
+   "src": "orig",
+   "editeLe": 1794160892602
+  },
+  "mythologie-nordique_fafnir": {
+   "cx": 0.4994,
+   "cy": 0.5002,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794160895692
   }
  }
 }

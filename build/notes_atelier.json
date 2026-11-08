@@ -99703,6 +99703,20 @@
    "w": 0.7235,
    "src": "orig",
    "editeLe": 1794159519732
+  },
+  "fetes-religieuses_kumbh-mela": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.709,
+   "src": "orig",
+   "editeLe": 1794159525216
+  },
+  "fetes-religieuses_norouz": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1794159527702
   }
  }
 }

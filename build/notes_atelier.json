@@ -97680,6 +97680,27 @@
    "w": 0.7403,
    "src": "orig",
    "editeLe": 1794158209746
+  },
+  "genres-litteraires_vaudeville": {
+   "cx": 0.4813,
+   "cy": 0.5195,
+   "w": 0.9262,
+   "src": "orig",
+   "editeLe": 1794158214110
+  },
+  "genres-litteraires_farce-theatre": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7473,
+   "src": "orig",
+   "editeLe": 1794158216215
+  },
+  "genres-litteraires_essai": {
+   "cx": 0.4998,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794158220065
   }
  }
 }

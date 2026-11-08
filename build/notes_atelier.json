@@ -100893,6 +100893,27 @@
    "w": 0.6208,
    "src": "orig",
    "editeLe": 1794160856375
+  },
+  "mythologie-nordique_vidar": {
+   "cx": 0.5017,
+   "cy": 0.4161,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794160859132
+  },
+  "mythologie-nordique_vali-fils-d-odin": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794160862281
+  },
+  "mythologie-nordique_forseti-dieu": {
+   "cx": 0.5341,
+   "cy": 0.4564,
+   "w": 0.4935,
+   "src": "orig",
+   "editeLe": 1794160866249
   }
  }
 }

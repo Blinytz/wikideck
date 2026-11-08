@@ -100011,6 +100011,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794160220728
+  },
+  "dieux-et-figures-mythologiques-grecques_erebe": {
+   "cx": 0.5,
+   "cy": 0.4656,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160230804
+  },
+  "dieux-et-figures-mythologiques-grecques_zeus": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160234891
   }
  }
 }

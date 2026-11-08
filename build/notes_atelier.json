@@ -99857,6 +99857,41 @@
    "w": 0.6107,
    "src": "orig",
    "editeLe": 1794159593139
+  },
+  "croyances-et-notions-sacrees_arbre-de-vie": {
+   "cx": 0.5113,
+   "cy": 0.502,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160107430
+  },
+  "croyances-et-notions-sacrees_chamanisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7958,
+   "src": "orig",
+   "editeLe": 1794160110226
+  },
+  "croyances-et-notions-sacrees_animisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7232,
+   "src": "orig",
+   "editeLe": 1794160112689
+  },
+  "croyances-et-notions-sacrees_dharma": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160115042
+  },
+  "croyances-et-notions-sacrees_ch-i-spiritualite": {
+   "cx": 0.5,
+   "cy": 0.6248,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160117235
   }
  }
 }

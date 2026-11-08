@@ -100298,6 +100298,27 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794160428278
+  },
+  "dieux-et-figures-mythologiques-grecques_eros": {
+   "cx": 0.4631,
+   "cy": 0.5002,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794160433154
+  },
+  "dieux-et-figures-mythologiques-grecques_pan": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.739,
+   "src": "orig",
+   "editeLe": 1794160436109
+  },
+  "dieux-et-figures-mythologiques-grecques_asclepios": {
+   "cx": 0.4926,
+   "cy": 0.3389,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794160439445
   }
  }
 }

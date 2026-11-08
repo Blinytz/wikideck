@@ -101264,6 +101264,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161032990
+  },
+  "mythologie-egyptienne_bes": {
+   "cx": 0.5333,
+   "cy": 0.302,
+   "w": 0.5562,
+   "src": "orig",
+   "editeLe": 1794161042119
+  },
+  "mythologie-egyptienne_nekhbet": {
+   "cx": 0.5,
+   "cy": 0.4028,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161044204
+  },
+  "mythologie-egyptienne_ouadjet": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794161045919
+  },
+  "mythologie-egyptienne_serket": {
+   "cx": 0.2561,
+   "cy": 0.4434,
+   "w": 0.4172,
+   "src": "orig",
+   "editeLe": 1794161049012
   }
  }
 }

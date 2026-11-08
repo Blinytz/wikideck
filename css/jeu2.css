@@ -22,3 +22,7 @@
 .barre-d { display: flex; align-items: center; gap: 8px; }
 .installer span { font-size: 13px; font-weight: 600; }
 .installer i { color: var(--texte); }
+
+/* l'ancien style donne à sa racine la hauteur de l'écran (règle du <body> d'origine) :
+   sur les calques et les écrans secondaires, cela ajoutait un écran vide sous la page */
+#overlays.ancien, .sec-corps.ancien { min-height: 0; }

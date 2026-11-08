@@ -99409,6 +99409,20 @@
    "w": 0.7093,
    "src": "orig",
    "editeLe": 1794159383026
+  },
+  "textes-sacres_livre-de-mormon": {
+   "cx": 0.5001,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159385073
+  },
+  "textes-sacres_livre-des-morts-des-anciens-egyptiens": {
+   "cx": 0.5074,
+   "cy": 0.5,
+   "w": 0.6829,
+   "src": "orig",
+   "editeLe": 1794159387197
   }
  }
 }

@@ -99654,6 +99654,20 @@
    "w": 0.611,
    "src": "orig",
    "editeLe": 1794159495027
+  },
+  "fetes-religieuses_divali": {
+   "cx": 0.5154,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159499599
+  },
+  "fetes-religieuses_holi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159502129
   }
  }
 }

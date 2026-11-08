@@ -99843,6 +99843,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159587672
+  },
+  "croyances-et-notions-sacrees_destin": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8004,
+   "src": "orig",
+   "editeLe": 1794159590760
+  },
+  "croyances-et-notions-sacrees_axis-mundi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159593139
   }
  }
 }

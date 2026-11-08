@@ -97806,6 +97806,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794158300110
+  },
+  "genres-litteraires_satire": {
+   "cx": 0.4897,
+   "cy": 0.5053,
+   "w": 0.6118,
+   "src": "orig",
+   "editeLe": 1794158304586
+  },
+  "genres-litteraires_roman-gothique": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794158308154
   }
  }
 }

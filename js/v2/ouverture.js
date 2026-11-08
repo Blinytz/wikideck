@@ -13,10 +13,12 @@ const vibrer = (m) => { try { navigator.vibrate?.(m); } catch {} };
 const phrase = (d) => { const s = (d || '').replace(/\s*\([^)]*\)/g, '').replace(/\s+/g, ' ').trim(); const m = s.match(/^.{50,240}?[.!?](\s|$)/); return m ? m[0].trim() : (s.length > 220 ? s.slice(0, 220) + '…' : s); };
 
 // tirage = [{ carte, neuve }] ; renvoie une promesse résolue à la fermeture
-export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
+// options d'essai : `direct` saute la déchirure ; `avant(r, ctx)` joue une anticipation avant le retournement ;
+// `effet(r, ctx)` remplace l'effet de révélation (s'il renvoie undefined, l'effet habituel est joué)
+export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant = null, effet: effetPerso = null, classe = '' } = {}) {
   const suite = tirage.map((t, i) => ({ ...t, i })).sort((a, b) => ORDRE[a.carte.rarete] - ORDRE[b.carte.rarete] || a.i - b.i);
   const ov = document.createElement('div');
-  ov.className = 'ov2';
+  ov.className = 'ov2' + (classe ? ' ' + classe : '');
   const marque = `<div class="pk-marque"><div class="k-mono">W</div><div class="pk-nom">${esc(nom)}</div><div class="pk-nb">${suite.length} CARTE${suite.length > 1 ? 'S' : ''}</div></div>`;
   ov.innerHTML = `
     <div class="ov2-voile"></div>
@@ -37,6 +39,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
   const toile = creerToile(ov);
 
   return new Promise((fin) => {
+    if (direct) queueMicrotask(() => { ov.querySelector('.pk-boite').remove(); afficherPile(); verrou = false; prendre(); });
     const scene = ov.querySelector('.ov2-scene');
     const compte = ov.querySelector('.ov2-compte');
     const passer = ov.querySelector('.ov2-btn');
@@ -130,11 +133,13 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       el.addEventListener('retournee', (e) => { if (!e.detail.dos && !revelee) reveler(); });
       brancherLancer(el, s);
     }
-    function retourner() {
+    async function retourner() {
       if (verrou || revelee) return;
+      if (avant) { verrou = true; manip.verrouiller(true); await avant(suite[n].carte.rarete, contexte()); verrou = false; manip.verrouiller(false); }
       manip.retourner(); son('retourne');
       reveler();
     }
+    const contexte = () => ({ ov, fxBox, toile, el: carteEl(n), slot: slot(n), scene, ajouter, onde, flash, attendre, son, vibrer });
     async function reveler() {
       if (revelee) return;
       revelee = true; verrou = true;
@@ -143,7 +148,8 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
       const t = suite[n], el = carteEl(n);
       await attendre(240);   // la face apparaît à mi-retournement
       if (t.neuve) el.querySelector('.k-in').insertAdjacentHTML('beforeend', '<span class="k-neuve">Nouvelle</span>');
-      const fini = effet(t.carte.rarete);
+      const perso = effetPerso?.(t.carte.rarete, contexte());
+      const fini = perso !== undefined ? perso : effet(t.carte.rarete);
       legende.innerHTML = `<span class="tag">${esc(t.carte.collection)}</span><p>${esc(phrase(t.carte.description))}</p>`;
       legende.classList.add('vue');
       await fini;
@@ -202,7 +208,7 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck' } = {}) {
     // ---------- effets ----------
     function nettoyerFx() {
       ov.classList.remove('sombre');
-      fxBox.querySelectorAll('.fx-halo, .fx-rayons').forEach((x) => x.animate([{ opacity: getComputedStyle(x).opacity }, { opacity: 0 }], { duration: 300, fill: 'forwards' }).finished.then(() => x.remove()));
+      fxBox.querySelectorAll('.fx-halo, .fx-rayons, .fx-perso').forEach((x) => x.animate([{ opacity: getComputedStyle(x).opacity }, { opacity: 0 }], { duration: 300, fill: 'forwards' }).finished.then(() => x.remove()));
     }
     const ajouter = (cls, vars = {}) => {
       const x = document.createElement('div');

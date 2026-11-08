@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0f">
+<title>WikiDeck · banc d'essai des effets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=swap">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<link rel="stylesheet" href="../css/design.css">
+<link rel="stylesheet" href="../css/ouverture2.css">
+<link rel="stylesheet" href="../css/ecrans2.css">
+<link rel="stylesheet" href="../css/effets.css">
+<style>
+  body { background: var(--fond); color: var(--texte); margin: 0; font-family: var(--sans); }
+  .banc { max-width: 1180px; margin: 0 auto; padding: max(18px, env(safe-area-inset-top)) 16px 60px; }
+  .banc-tete { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; justify-content: space-between; margin-bottom: 18px; }
+  .banc-tete h1 { font: 400 40px/1 var(--serif); margin: 0; }
+  .paquets-essai { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+  .paquets-essai .btn2 { width: 100%; }
+  .tout { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 22px; }
+  .tout .surtitre { margin-right: 4px; }
+  .rangees { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 14px; }
+  .rang { padding: 18px 16px 16px; display: flex; flex-direction: column; align-items: center; gap: 14px; position: relative; overflow: hidden; }
+  .rang::before { content: ''; position: absolute; inset: 0; background: radial-gradient(80% 50% at 50% 0%, color-mix(in srgb, var(--rar) 18%, transparent), transparent 70%); pointer-events: none; }
+  .rang > * { position: relative; }
+  .rang h2 { display: flex; align-items: center; gap: 8px; font: 400 26px/1 var(--serif); margin: 0; align-self: flex-start; }
+  .rang h2 .rar-ico { font-size: 20px; }
+  .rang .k { --w: min(72vw, 250px); }
+  .choix { align-self: stretch; display: flex; flex-direction: column; gap: 8px; }
+  .ligne { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .ligne > .surtitre { width: 76px; flex: none; }
+  .puce.on { background: var(--texte); color: var(--encre); box-shadow: none; }
+  .puce.ref.on { background: #ffffff2a; color: var(--texte); box-shadow: 0 0 0 1px #ffffff55 inset; }
+  .rang .btn2 { align-self: stretch; height: 44px; }
+</style>
+</head>
+<body class="v2">
+<div class="banc">
+  <div class="banc-tete"><h1>Banc d'essai</h1><span class="surtitre">Effets des cartes</span></div>
+  <div class="paquets-essai">
+    <button class="btn2 fantome" id="p-ref"><i class="ph-bold ph-cards"></i>Paquet actuel</button>
+    <button class="btn2 or" id="p-essai"><i class="ph-bold ph-sparkle"></i>Paquet d'essai</button>
+  </div>
+  <div class="tout" id="tout"></div>
+  <div class="rangees" id="rangees"></div>
+</div>
+
+<script type="module">
+import { htmlCarte, brancherManipulation, RARETES, NOMS, iconeRarete } from '../js/v2/carte.js';
+import { ouvrirPaquet } from '../js/v2/ouverture.js';
+import { AMBIANCES, alea } from '../js/v2/particules.js';
+import { son } from '../js/v2/son.js';
+
+const BASE = '../';
+const $ = (s, r = document) => r.querySelector(s);
+const RANG = (r) => RARETES.indexOf(r);
+const COUL = { commune: '#d6d3dc', rare: '#cfdbe8', epique: '#b69cff', mythique: '#ff8fd6', legendaire: '#f2c66d', pantheon: '#ffffff' };
+const CHOIX_CARTES = {
+  commune: ['oiseaux', 'Moineau domestique'], rare: ['monarques-anglais-et-britanniques', "Élisabeth Ire d'Angleterre"], epique: ['fleurs', 'Tournesol'],
+  mythique: ['sites-antiques', 'Sphinx de Gizeh'], legendaire: ['grands-peintres', 'Léonard de Vinci (peintre)'], pantheon: ['scientifiques-celebres', 'Albert Einstein'],
+};
+const HABILLAGES = {
+  commune: ['Gravure', 'Argentique'], rare: ['Acier brossé', 'Verre'], epique: ['Cristal', 'Néon'],
+  mythique: ['Holo', 'Opale'], legendaire: ['Or massif', "Feuille d'or"], pantheon: ['Cosmos', 'Prisme'],
+};
+const REVELATIONS = [['actuel', 'Actuelle'], ['aura', 'Aura'], ['cinema', 'Cinéma']];
+
+// ---------- cartes ----------
+const idx = await (await fetch(BASE + 'data/collections.json')).json();
+const cartes = {};
+await Promise.all(RARETES.map(async (r) => {
+  const [slug, nom] = CHOIX_CARTES[r];
+  const col = idx.collections.find((c) => c.slug === slug);
+  const data = (await (await fetch(BASE + col.fichier)).json()).cartes;
+  const c = data.find((x) => x.nom === nom) || data.find((x) => x.rarete === r);
+  cartes[r] = { ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl, total: col.nbCartes };
+}));
+
+// ---------- sélection (gardée sur cet appareil) ----------
+let sel = (() => { try { return JSON.parse(localStorage.getItem('wikideck-banc-effets')) || {}; } catch { return {}; } })();
+for (const r of RARETES) sel[r] = { hab: 'actuel', rev: 'actuel', tension: false, ...sel[r] };
+const sauver = () => { try { localStorage.setItem('wikideck-banc-effets', JSON.stringify(sel)); } catch {} };
+const appliquerClasses = (actif = true) => {
+  document.body.className = 'v2';
+  if (actif) for (const r of RARETES) if (sel[r].hab !== 'actuel') document.body.classList.add(`c-${r}-${sel[r].hab}`);
+};
+
+// ---------- découvertes ----------
+const DUREE_TENSION = { commune: 0, rare: 600, epique: 1000, mythique: 1500, legendaire: 2000, pantheon: 2800 };
+async function tension(r, ctx) {
+  const d = DUREE_TENSION[r]; if (!d) return;
+  const c = COUL[r], k = RANG(r);
+  ctx.slot.style.setProperty('--c', c); ctx.slot.style.setProperty('--d', d + 'ms');
+  ctx.slot.classList.add('tension');
+  if (k >= 3) ctx.ov.classList.add('sombre');
+  // la carte tremble de plus en plus fort
+  const pas = 40, img = [];
+  for (let i = 0; i <= pas; i++) { const a = (i / pas) ** 2 * (2 + k * 1.3); img.push({ transform: `translate(${alea(-a, a).toFixed(1)}px, ${alea(-a, a).toFixed(1)}px) rotate(${alea(-a, a) * .25}deg)` }); }
+  ctx.el.animate(img, { duration: d, easing: 'linear' });
+  // la lumière converge vers la carte
+  const { x, y } = ctx.toile.centre, n = Math.round(d / 18);
+  for (let i = 0; i < n; i++) {
+    const a = Math.random() * 6.28, R = alea(150, 320), ret = Math.random() * d / 1000 * .55, t = d / 1000 - ret;
+    ctx.toile.ajouter({ x: x + Math.cos(a) * R, y: y + Math.sin(a) * R, vx: -Math.cos(a) * R / (t * 60), vy: -Math.sin(a) * R / (t * 60), frein: 1, r: alea(.8, 2.4), duree: t, fin: .9, couleur: i % 3 ? c : '#fff', lueur: 10, retard: ret });
+  }
+  for (let t = 0; t < d; t += 260) setTimeout(() => ctx.vibrer(6 + k * 3), t);
+  await ctx.attendre(d);
+  ctx.slot.classList.remove('tension');
+  ctx.flash(k >= 4 ? 700 : 350, k >= 4 ? .85 : .4);
+}
+function aura(r, ctx) {
+  const c = COUL[r], k = RANG(r);
+  if (!k) { ctx.el.animate([{ filter: 'brightness(1.6)' }, { filter: 'none' }], { duration: 500 }); return ctx.attendre(150); }
+  son(r); ctx.vibrer(k >= 3 ? [30, 40, 60] : 20);
+  ctx.ajouter('fx-perso fx-pilier', { '--c': c, '--k': k });
+  ctx.onde(c); if (k >= 3) ctx.onde('#ffffff', .2);
+  ctx.slot.style.setProperty('--c', c); ctx.slot.style.setProperty('--k', k); ctx.slot.classList.add('aura');
+  ctx.el.animate([{ scale: 1 }, { scale: 1.07, offset: .3 }, { scale: 1 }], { duration: 800, easing: 'cubic-bezier(.2,1.3,.4,1)' });
+  const { x, y } = ctx.toile.centre;
+  for (let i = 0; i < 18 * k; i++) ctx.toile.ajouter({ x: x + alea(-150, 150), y: y + alea(40, 260), vx: alea(-.2, .2), vy: alea(-1.8, -.4), frein: 1, r: alea(.8, 2.6), duree: alea(1.6, 3.2), couleur: i % 4 ? c : '#fff', lueur: 12, scint: alea(4, 12), retard: alea(0, 1.2) });
+  if (k >= 4) { ctx.ov.classList.add('sombre'); ctx.flash(500, .35); }
+  return ctx.attendre(350 + k * 260);
+}
+function cinema(r, ctx) {
+  const c = COUL[r], k = RANG(r);
+  ctx.ajouter('fx-perso fx-fondart', { '--img': getComputedStyle(ctx.el).getPropertyValue('--img') });
+  if (!k) return ctx.attendre(150);
+  son(r); AMBIANCES[r]?.(ctx.toile);
+  if (k >= 2) { const t = ctx.ajouter('fx-perso fx-titre', { '--c': c }); t.textContent = ctx.el.querySelector('.k-nom').textContent; }
+  if (k >= 3) { ctx.ajouter('fx-perso fx-flare', { '--c': c }); ctx.vibrer([30, 40, 60]); }
+  if (k >= 4) { ctx.flash(k === 5 ? 1000 : 500, k === 5 ? 1 : .4); ctx.onde(c); }
+  return ctx.attendre(400 + k * 320);
+}
+const REV = { aura, cinema };
+const optionsEssai = () => ({
+  avant: (r, ctx) => (sel[r].tension ? tension(r, ctx) : null),
+  effet: (r, ctx) => (REV[sel[r].rev] ? REV[sel[r].rev](r, ctx) : undefined),
+});
+
+// ---------- interface ----------
+const tirage = () => RARETES.map((r) => ({ carte: cartes[r], neuve: true }));
+$('#p-ref').addEventListener('click', async () => { appliquerClasses(false); await ouvrirPaquet(tirage(), { nom: 'Actuel' }); appliquerClasses(); });
+$('#p-essai').addEventListener('click', async () => { appliquerClasses(); await ouvrirPaquet(tirage(), { nom: 'Essai', ...optionsEssai() }); });
+
+function rendreTout() {
+  $('#tout').innerHTML = `<span class="surtitre">Tout</span>${[['actuel', 'Actuel'], ['a', 'Habillage A'], ['b', 'Habillage B']].map(([v, l]) => `<button class="puce" data-tout="${v}">${l}</button>`).join('')}
+    ${REVELATIONS.map(([v, l]) => `<button class="puce" data-tout-rev="${v}">${l}</button>`).join('')}
+    <button class="puce" data-tout-tension><i class="ph-bold ph-lightning"></i>Anticipation</button>`;
+  $('#tout').querySelectorAll('[data-tout]').forEach((b) => b.addEventListener('click', () => { RARETES.forEach((r) => (sel[r].hab = b.dataset.tout)); maj(); }));
+  $('#tout').querySelectorAll('[data-tout-rev]').forEach((b) => b.addEventListener('click', () => { RARETES.forEach((r) => (sel[r].rev = b.dataset.toutRev)); maj(); }));
+  $('[data-tout-tension]').addEventListener('click', () => { const v = !RARETES.every((r) => sel[r].tension); RARETES.forEach((r) => (sel[r].tension = v)); maj(); });
+}
+function rendreRangees() {
+  $('#rangees').innerHTML = RARETES.map((r) => `<section class="bloc rang" style="--rar:var(--r-${r})" data-r="${r}">
+    <h2>${iconeRarete(r)}${NOMS[r]}</h2>
+    <div class="scene-carte">${htmlCarte(cartes[r], { image: 'full' })}</div>
+    <div class="choix">
+      <div class="ligne" data-l="hab"><span class="surtitre">Habillage</span>${[['actuel', 'Actuel'], ['a', HABILLAGES[r][0]], ['b', HABILLAGES[r][1]]].map(([v, l]) => `<button class="puce${v === 'actuel' ? ' ref' : ''}" data-v="${v}">${l}</button>`).join('')}</div>
+      <div class="ligne" data-l="rev"><span class="surtitre">Révélation</span>${REVELATIONS.map(([v, l]) => `<button class="puce${v === 'actuel' ? ' ref' : ''}" data-v="${v}">${l}</button>`).join('')}</div>
+      <div class="ligne" data-l="tension"><span class="surtitre">Avant</span><button class="puce" data-v="1"${r === 'commune' ? ' disabled' : ''}><i class="ph-bold ph-lightning"></i>Anticipation</button></div>
+    </div>
+    <button class="btn2 fantome" data-reveler><i class="ph-bold ph-play"></i>Révéler</button>
+  </section>`).join('');
+  document.querySelectorAll('.rang').forEach((s) => {
+    const r = s.dataset.r;
+    brancherManipulation($('.k', s));
+    s.querySelectorAll('[data-l] .puce').forEach((b) => b.addEventListener('click', () => {
+      const l = b.parentElement.dataset.l;
+      if (l === 'tension') sel[r].tension = !sel[r].tension; else sel[r][l] = b.dataset.v;
+      son('tap'); maj();
+    }));
+    $('[data-reveler]', s).addEventListener('click', async () => { appliquerClasses(); await ouvrirPaquet([{ carte: cartes[r], neuve: true }], { nom: NOMS[r], direct: true, ...optionsEssai() }); });
+  });
+}
+function maj() {
+  sauver(); appliquerClasses();
+  for (const r of RARETES) {
+    const s = $(`.rang[data-r="${r}"]`);
+    s.querySelectorAll('[data-l="hab"] .puce').forEach((b) => b.classList.toggle('on', b.dataset.v === sel[r].hab));
+    s.querySelectorAll('[data-l="rev"] .puce').forEach((b) => b.classList.toggle('on', b.dataset.v === sel[r].rev));
+    $('[data-l="tension"] .puce', s).classList.toggle('on', sel[r].tension);
+  }
+  document.querySelectorAll('[data-tout]').forEach((b) => b.classList.toggle('on', RARETES.every((r) => sel[r].hab === b.dataset.tout)));
+  document.querySelectorAll('[data-tout-rev]').forEach((b) => b.classList.toggle('on', RARETES.every((r) => sel[r].rev === b.dataset.toutRev)));
+  $('[data-tout-tension]').classList.toggle('on', RARETES.every((r) => r === 'commune' || sel[r].tension));
+}
+rendreTout(); rendreRangees(); maj();
+</script>
+</body>
+</html>

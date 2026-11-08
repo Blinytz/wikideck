@@ -1,8 +1,8 @@
 // Particules sur toile : chaque grain a sa taille, sa vitesse, son poids, sa durée
 // et son scintillement ; aucune ne suit le pointeur. Une ambiance par rareté.
 
-const alea = (a, b) => a + Math.random() * (b - a);
-const choix = (t) => t[Math.floor(Math.random() * t.length)];
+export const alea = (a, b) => a + Math.random() * (b - a);
+export const choix = (t) => t[Math.floor(Math.random() * t.length)];
 
 export function creerToile(parent) {
   const c = document.createElement('canvas');
@@ -71,7 +71,7 @@ export function creerToile(parent) {
 }
 
 /* ---------- ambiances par rareté ---------- */
-function gerbe(fx, n, { vmin, vmax, couleurs, formes = ['rond'], rmin = 1.2, rmax = 3.5, ay = .03, frein = .95, duree = [.8, 1.6], lueur = 10, scint = 0, retard = 0, dx = 0, dy = 0, ...autres }) {
+export function gerbe(fx, n, { vmin, vmax, couleurs, formes = ['rond'], rmin = 1.2, rmax = 3.5, ay = .03, frein = .95, duree = [.8, 1.6], lueur = 10, scint = 0, retard = 0, dx = 0, dy = 0, ...autres }) {
   const { x, y } = fx.centre;
   for (let i = 0; i < n; i++) {
     const a = Math.random() * Math.PI * 2, v = alea(vmin, vmax);

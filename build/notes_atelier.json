@@ -99759,6 +99759,34 @@
    "w": 0.7924,
    "src": "orig",
    "editeLe": 1794159544760
+  },
+  "fetes-religieuses_fete-de-la-saint-patrick": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159549566
+  },
+  "croyances-et-notions-sacrees_temps-du-reve": {
+   "cx": 0.5124,
+   "cy": 0.5,
+   "w": 0.7167,
+   "src": "orig",
+   "editeLe": 1794159551437
+  },
+  "croyances-et-notions-sacrees_karma": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.76,
+   "src": "orig",
+   "editeLe": 1794159553008
+  },
+  "croyances-et-notions-sacrees_samsara": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159554653
   }
  }
 }

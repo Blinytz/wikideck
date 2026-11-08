@@ -99591,6 +99591,48 @@
    "w": 0.7241,
    "src": "orig",
    "editeLe": 1794159476052
+  },
+  "fetes-religieuses_aid-al-adha": {
+   "cx": 0.486,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159477890
+  },
+  "fetes-religieuses_mawlid": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7755,
+   "src": "orig",
+   "editeLe": 1794159479415
+  },
+  "fetes-religieuses_achoura": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159480940
+  },
+  "fetes-religieuses_pessa-h": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159482861
+  },
+  "fetes-religieuses_yom-kippour": {
+   "cx": 0.5,
+   "cy": 0.5698,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159484610
+  },
+  "fetes-religieuses_roch-hachana": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159486293
   }
  }
 }

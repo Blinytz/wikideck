@@ -86,12 +86,16 @@ async function demarrer() {
 
   poserHabillages();
   await demarrerSynchro();
-  // remise à zéro unique de la file de paquets (demandée le 08/11/2026 : plus de 200 en attente)
-  etat.correctifs ??= {};
-  if (!etat.correctifs.paquets20261108) {
-    etat.correctifs.paquets20261108 = { avant: etat.paquets?.prets ?? 0, le: Date.now() };
-    etat.paquets = { progression: 0, lastTs: Date.now(), prets: 0, ouverts: etat.paquets?.ouverts || 0 };
-    if (etat.station) etat.station.lastTick = Date.now();
+  // remise à zéro unique de toute la partie (demandée le 08/11/2026), sauf les Éclats :
+  // ils appartiennent au registre commun, et leur file d'envoi doit partir intacte
+  const correctifs = etat.correctifs || {};
+  if (!correctifs.remiseAZero20261108) {
+    const maintenant = Date.now();
+    correctifs.remiseAZero20261108 = { le: maintenant, prets: etat.paquets?.prets ?? 0, cartes: Object.keys(etat.cartes || {}).length, config: etat.configUtilisateur || {} };
+    correctifs.paquets20261108 ??= { le: maintenant };
+    const garde = { serveur: etat.serveur, eclats: etat.eclats || 0, eclatsAttente: etat.eclatsAttente || [], correctifs };
+    for (const k of Object.keys(etat)) delete etat[k];
+    Object.assign(etat, { version: 1, creeLe: maintenant, cartes: {}, paquets: null, station: null, configUtilisateur: {}, prefs: { afficherVides: true } }, garde);
     sauvegarderMaintenant();
   }
   initEclats();

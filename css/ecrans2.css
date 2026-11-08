@@ -487,3 +487,23 @@ body[data-ecran="accueil"] #ambiance { opacity: 1; }
 .fr-jauge i.on { background: var(--rar); box-shadow: 0 0 6px color-mix(in srgb, var(--rar) 60%, transparent); }
 .fr-tuile .btn2 { width: 100%; height: 38px; margin-top: 4px; }
 .fr-manque { font: 500 11px var(--mono); color: var(--texte-3); }
+
+/* ---------- doublons : vendre ou fragmenter ---------- */
+.echange { margin: 0 0 16px; padding: 14px; border-radius: 18px; background: #ffffff08; box-shadow: 0 0 0 1px var(--ligne) inset; }
+.ech-tete { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 12px; }
+.ech-tete b { font: 600 15px var(--mono); }
+.ech-choix { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.ech { display: flex; flex-direction: column; align-items: center; gap: 5px; padding: 14px 8px 12px; border: 0; border-radius: 16px; cursor: pointer; color: var(--texte); background: #ffffff0a; box-shadow: 0 0 0 1px var(--ligne) inset; transition: background .2s, box-shadow .2s; }
+.ech > i { font-size: 24px; }
+.ech .rar-ico { font-size: 22px; }
+.ech b { font: 600 16px var(--mono); }
+.ech span { font: 600 10px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--texte-3); }
+#fv > i, #db-vendre > i { color: var(--or); filter: drop-shadow(0 0 8px #f2c66d77); }
+#fv b, #db-vendre b { color: var(--or); }
+#fx2 b { color: var(--rar); }
+#db-frag > i { color: #b79cff; filter: drop-shadow(0 0 8px #b79cff77); }
+#db-frag b { color: #b79cff; }
+.ech:hover:not(:disabled) { background: #ffffff12; box-shadow: 0 0 0 1px var(--ligne-forte) inset; }
+.ech:disabled { opacity: .35; cursor: default; }
+.doublons-b { display: flex; flex-direction: column; gap: 14px; padding: 16px; margin-bottom: 30px; }
+.doublons-b .rar-detail { display: flex; flex-wrap: wrap; gap: 6px; }

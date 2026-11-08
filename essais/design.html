@@ -467,21 +467,23 @@ function gagnerMinutes(m) {
   document.body.append(g); setTimeout(() => g.remove(), 1200);
 }
 
-// ---------- fragments : un doublon = un fragment de sa rareté ; 10 fragments = une carte qui manque ----------
+// ---------- fragments : un doublon s'échange (au choix) contre 1 fragment de sa rareté ; 10 fragments = une carte qui manque ----------
 const PRIX_FORGE = 10;
 const frag = (() => { try { const f = JSON.parse(localStorage.getItem('wikideck-essai-fragments')); if (f) return f; } catch {} return { commune: 7, rare: 4, epique: 9, mythique: 2, legendaire: 1, pantheon: 0 }; })();
 const sauverFrag = () => { try { localStorage.setItem('wikideck-essai-fragments', JSON.stringify(frag)); } catch {} };
 const manquantes = (r) => toutes().filter((c) => c.rarete === r && !possede.has(c.id));
 function acquerir(cartes) {
-  let n = 0;
-  for (const c of cartes) {
-    if (possede.has(c.id)) { frag[c.rarete] = (frag[c.rarete] || 0) + 1; n++; }
-    else possede.set(c.id, 1);
-    historique.unshift(c);
-  }
+  for (const c of cartes) { possede.set(c.id, (possede.get(c.id) || 0) + 1); historique.unshift(c); }
   historique.length = Math.min(historique.length, 14);
-  sauverFrag();
-  if (n) setTimeout(() => toast('ph-diamonds-four', `+${n} fragment${n > 1 ? 's' : ''}`), 250);
+}
+const lesDoublons = () => toutes().filter((c) => (possede.get(c.id) || 0) > 1);
+function vendre(cartes) {
+  let v = 0; for (const c of cartes) { const q = possede.get(c.id) - 1; if (q > 0) { v += REVENTE[c.rarete] * q; possede.set(c.id, 1); } }
+  if (!v) return; son('pieces'); vibrer(15); majSolde(v); toast('ph-diamond', `+${fr(v)}`);
+}
+function fragmenter(cartes) {
+  let n = 0; for (const c of cartes) { const q = possede.get(c.id) - 1; if (q > 0) { frag[c.rarete] = (frag[c.rarete] || 0) + q; n += q; possede.set(c.id, 1); } }
+  if (!n) return; sauverFrag(); son('palier'); vibrer([15, 30, 15]); toast('ph-diamonds-four', `+${n} fragment${n > 1 ? 's' : ''}`);
 }
 function htmlFragBande() {
   const pret = RARETES.some((r) => (frag[r] || 0) >= PRIX_FORGE && manquantes(r).length);
@@ -686,7 +688,7 @@ function rendreUneCollection(slug) {
   const z = $('#collection');
   const k = col.cartes.filter((x) => possede.has(x.id)).length, p = k / col.cartes.length, cv = couverture(col);
   const parR = RARETES.map((r) => [r, col.cartes.filter((c) => c.rarete === r)]).filter(([, l]) => l.length);
-  const liste = col.cartes.filter((c) => filtre === 'toutes' || (filtre === 'possedees') === possede.has(c.id));
+  const liste = col.cartes.filter((c) => filtre === 'toutes' || (filtre === 'doublons' ? possede.get(c.id) > 1 : (filtre === 'possedees') === possede.has(c.id)));
   z.innerHTML = `<div class="col-hero" style="--img:url('${cv.imageUrl}');--t:${col.t.c};view-transition-name:couv"><div class="flou"></div>
       <div class="haut-hero"><button class="retour" id="ret"><i class="ph-bold ph-caret-left"></i></button><span class="tag teinte"><i class="ph-fill ${col.t.ic}"></i>${esc(col.theme)}</span></div>
       <h1>${esc(col.nom)}</h1>
@@ -696,7 +698,7 @@ function rendreUneCollection(slug) {
       <div class="jalons-pied"></div>
       <div class="rar-detail">${parR.map(([r, l]) => `<span style="color:var(--r-${r})">${iconeRarete(r)}${l.filter((c) => possede.has(c.id)).length}/${l.length}</span>`).join('')}</div>
     </div>
-    <div class="segment">${[['toutes', 'Toutes'], ['possedees', 'Possédées'], ['manquantes', 'Manquantes']].map(([v, l]) => `<button data-f="${v}" class="${v === filtre ? 'actif' : ''}">${l}</button>`).join('')}</div>
+    <div class="segment">${[['toutes', 'Toutes'], ['possedees', 'Possédées'], ['manquantes', 'Manquantes'], ...(col.cartes.some((c) => possede.get(c.id) > 1) ? [['doublons', 'Doublons']] : [])].map(([v, l]) => `<button data-f="${v}" class="${v === filtre ? 'actif' : ''}">${l}</button>`).join('')}</div>
     ${liste.length ? `<div class="grille">${liste.map((c) => possede.has(c.id)
       ? `<div class="cellule">${htmlCarte(c)}${possede.get(c.id) > 1 ? `<span class="quantite">×${possede.get(c.id)}</span>` : ''}</div>`
       : `<div class="absente"><b>${String(c.numero ?? '').padStart(3, '0')}</b>${iconeRarete(c.rarete)}</div>`).join('')}</div>`
@@ -730,16 +732,22 @@ function fiche(liste, i, source) {
         <span class="tag teinte" style="--t:${teinte(colDe(c)?.theme).c}"><i class="ph-fill ${teinte(colDe(c)?.theme).ic}"></i>${esc(c.collection)}</span>
         <div class="stats"><div><b>${c.pv}</b><span>PV</span></div><div><b>×${q}</b><span>Possédée</span></div><div><b>${fr(REVENTE[c.rarete])}</b><span>Revente</span></div></div>
         <p>${esc((c.description || '').split('\n')[0])}</p>
+        ${q > 1 ? `<div class="echange">
+          <div class="ech-tete"><span class="surtitre">Doublons</span><b>×${q - 1}</b></div>
+          <div class="ech-choix">
+            <button class="ech pressable" id="fv"><i class="ph-fill ph-diamond"></i><b>+${fr(REVENTE[c.rarete] * (q - 1))}</b><span>Vendre</span></button>
+            <button class="ech pressable" id="fx2">${iconeRarete(c.rarete)}<b>+${q - 1}</b><span>Fragmenter</span></button>
+          </div></div>` : ''}
         <div class="actions">
-          <a class="btn2 ${q > 1 ? '' : 'seul'}" href="${esc(c.lienWikipedia)}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>
-          ${q > 1 ? `<button class="btn2 fantome" id="fv"><i class="ph ph-coins"></i>Vendre ×${q - 1}</button>` : ''}
+          <a class="btn2 seul" href="${esc(c.lienWikipedia)}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>
         </div>
       </div>`;
     const k = $('.scene .k', f);
     if (sens) k.classList.add(sens > 0 ? 'entre-g' : 'entre-d');
     brancherManipulation(k);
     $('#ff', f).addEventListener('click', fermer);
-    $('#fv', f)?.addEventListener('click', () => { son('pieces'); vibrer(15); majSolde(REVENTE[c.rarete] * (q - 1)); toast('ph-diamond', `+${fr(REVENTE[c.rarete] * (q - 1))}`); possede.set(c.id, 1); remplir(); });
+    $('#fv', f)?.addEventListener('click', () => { vendre([c]); remplir(); });
+    $('#fx2', f)?.addEventListener('click', () => { fragmenter([c]); remplir(); });
     $('#fe', f)?.addEventListener('click', () => {
       son('epingle'); vibrer(10);
       if (vitrine.includes(c.id)) vitrine = vitrine.filter((x) => x !== c.id);
@@ -853,6 +861,22 @@ function detailOffre(o) {
   document.body.append(f); document.body.style.overflow = 'hidden';
   $('#ff', f).addEventListener('click', () => { son('tap'); f.remove(); document.body.style.overflow = ''; });
 }
+function htmlDoublons() {
+  const d = lesDoublons(), n = d.reduce((s, c) => s + possede.get(c.id) - 1, 0), v = d.reduce((s, c) => s + REVENTE[c.rarete] * (possede.get(c.id) - 1), 0);
+  return `<div class="section-titre"><h2>Doublons</h2>${n ? '<button class="lien" id="db-voir">Voir</button>' : ''}</div>
+    <div class="bloc doublons-b">
+      <div class="rar-detail">${RARETES.map((r) => { const k = d.filter((c) => c.rarete === r).reduce((s, c) => s + possede.get(c.id) - 1, 0); return k ? `<span style="color:var(--r-${r})">${iconeRarete(r)}${k}</span>` : ''; }).join('') || '<span>0</span>'}</div>
+      <div class="ech-choix">
+        <button class="ech pressable" id="db-vendre" ${n ? '' : 'disabled'}><i class="ph-fill ph-diamond"></i><b>+${fr(v)}</b><span>Tout vendre</span></button>
+        <button class="ech pressable" id="db-frag" ${n ? '' : 'disabled'}><i class="ph-fill ph-diamonds-four"></i><b>+${fr(n)}</b><span>Tout fragmenter</span></button>
+      </div>
+    </div>`;
+}
+function brancherDoublons(z, apres) {
+  $('#db-voir', z)?.addEventListener('click', () => { const d = lesDoublons().sort((a, b) => RANG(b.rarete) - RANG(a.rarete)); fiche(d, 0); });
+  $('#db-vendre', z)?.addEventListener('click', () => { vendre(lesDoublons()); apres(); });
+  $('#db-frag', z)?.addEventListener('click', () => { fragmenter(lesDoublons()); apres(); });
+}
 function rendreBoutique() {
   const z = $('#boutique');
   const offres = offresDuMoment();
@@ -860,9 +884,11 @@ function rendreBoutique() {
   z.innerHTML = `<div class="grand-titre"><div><h1>Boutique</h1></div>${htmlSolde()}</div>
     <div class="rotation"><i class="ph-fill ph-arrows-clockwise"></i><span>Nouveaux paquets dans</span><b class="chiffre" id="fin-offre">${fmtTemps(Math.round((prochaine - Date.now()) / 1000))}</b></div>
     <div class="offres">${offres.map(htmlOffre).join('')}</div>
+    ${htmlDoublons()}
     <div class="section-titre"><h2>Fragments</h2></div>
     ${htmlFragBande()}`;
   cascade(z);
+  brancherDoublons(z, rendreBoutique);
   clearInterval(window.__offre);
   window.__offre = setInterval(() => { const e = $('#fin-offre'); if (!e) return; const s = Math.round((prochaine - Date.now()) / 1000); if (s <= 0) { achats.clear(); toast('ph-arrows-clockwise', 'Nouveaux paquets'); return rendreBoutique(); } e.textContent = fmtTemps(s); }, 1000);
   z.querySelectorAll('.ob').forEach((el) => {

@@ -99199,6 +99199,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159246744
+  },
+  "religions-du-monde_vaudou": {
+   "cx": 0.4956,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159253026
+  },
+  "religions-du-monde_candomble": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159255230
+  },
+  "religions-du-monde_mouvement-rastafari": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6204,
+   "src": "orig",
+   "editeLe": 1794159257166
+  },
+  "religions-du-monde_temoins-de-jehovah": {
+   "cx": 0.4947,
+   "cy": 0.5,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794159260500
   }
  }
 }

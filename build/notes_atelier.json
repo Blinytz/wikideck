@@ -99493,6 +99493,27 @@
    "w": 0.6785,
    "src": "orig",
    "editeLe": 1794159436745
+  },
+  "textes-sacres_septante": {
+   "cx": 0.3883,
+   "cy": 0.4799,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794159440899
+  },
+  "fetes-religieuses_noel": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.606,
+   "src": "orig",
+   "editeLe": 1794159443313
+  },
+  "fetes-religieuses_paques": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794159445491
   }
  }
 }

@@ -101292,6 +101292,34 @@
    "w": 0.4172,
    "src": "orig",
    "editeLe": 1794161049012
+  },
+  "mythologie-egyptienne_anoukis": {
+   "cx": 0.565,
+   "cy": 0.5002,
+   "w": 0.6113,
+   "src": "orig",
+   "editeLe": 1794161052010
+  },
+  "mythologie-egyptienne_benou": {
+   "cx": 0.5,
+   "cy": 0.4328,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161054063
+  },
+  "mythologie-egyptienne_atoum": {
+   "cx": 0.5,
+   "cy": 0.4578,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161055984
+  },
+  "mythologie-egyptienne_aton": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161058303
   }
  }
 }

@@ -26,7 +26,9 @@
   .rang { padding: 18px 16px 16px; display: flex; flex-direction: column; align-items: center; gap: 14px; position: relative; overflow: hidden; }
   .rang::before { content: ''; position: absolute; inset: 0; background: radial-gradient(80% 50% at 50% 0%, color-mix(in srgb, var(--rar) 18%, transparent), transparent 70%); pointer-events: none; }
   .rang > * { position: relative; }
-  .rang h2 { display: flex; align-items: center; gap: 8px; font: 400 26px/1 var(--serif); margin: 0; align-self: flex-start; }
+  .rang-tete { align-self: stretch; display: flex; justify-content: space-between; align-items: center; }
+  .rang-tete .retour { background: #ffffff10; }
+  .rang h2 { display: flex; align-items: center; gap: 8px; font: 400 26px/1 var(--serif); margin: 0; }
   .rang h2 .rar-ico { font-size: 20px; }
   .rang .k { --w: min(72vw, 250px); }
   .choix { align-self: stretch; display: flex; flex-direction: column; gap: 8px; }
@@ -58,31 +60,42 @@ const BASE = '../';
 const $ = (s, r = document) => r.querySelector(s);
 const RANG = (r) => RARETES.indexOf(r);
 const COUL = { commune: '#d6d3dc', rare: '#cfdbe8', epique: '#b69cff', mythique: '#ff8fd6', legendaire: '#f2c66d', pantheon: '#ffffff' };
+// plusieurs cartes par rareté, pour juger l'effet sur des images différentes
 const CHOIX_CARTES = {
-  commune: ['oiseaux', 'Moineau domestique'], rare: ['monarques-anglais-et-britanniques', "Élisabeth Ire d'Angleterre"], epique: ['fleurs', 'Tournesol'],
-  mythique: ['sites-antiques', 'Sphinx de Gizeh'], legendaire: ['grands-peintres', 'Léonard de Vinci (peintre)'], pantheon: ['scientifiques-celebres', 'Albert Einstein'],
+  commune: [['oiseaux', 'Moineau domestique'], ['villes-du-monde', 'Marseille'], ['fleuves-mers-et-oceans', 'Rhin']],
+  rare: [['monarques-anglais-et-britanniques', "Élisabeth Ire d'Angleterre"], ['oiseaux', 'Huppe fasciée'], ['corps-celestes', 'Pluton']],
+  epique: [['fleurs', 'Tournesol'], ['corps-celestes', 'Vénus'], ['souverains-et-conquerants', 'Auguste']],
+  mythique: [['sites-antiques', 'Sphinx de Gizeh'], ['corps-celestes', 'Voie lactée'], ['grands-peintres', 'Michel-Ange'], ['souverains-et-conquerants', 'Cléopâtre']],
+  legendaire: [['corps-celestes', 'Terre'], ['dirigeants-contemporains', 'Nelson Mandela'], ['monuments-emblematiques', 'Tour Eiffel'], ['grands-peintres', 'Léonard de Vinci (peintre)']],
+  pantheon: [['scientifiques-celebres', 'Albert Einstein'], ['villes-du-monde', 'Paris'], ['corps-celestes', 'Soleil'], ['grands-compositeurs', 'Wolfgang Amadeus Mozart']],
 };
 const HABILLAGES = {
-  commune: ['Gravure', 'Argentique'], rare: ['Acier brossé', 'Verre'], epique: ['Cristal', 'Néon'],
-  mythique: ['Holo', 'Opale'], legendaire: ['Or massif', "Feuille d'or"], pantheon: ['Cosmos', 'Prisme'],
+  commune: ['Gravure', 'Argentique'], rare: ['Acier et verre', 'Verre'], epique: ['Cristal', 'Néon'],
+  mythique: ['Aurore opaline', 'Kaléidoscope'], legendaire: ['Or massif', "Feuille d'or"], pantheon: ['Lumière divine', 'Éclipse'],
 };
 const REVELATIONS = [['actuel', 'Actuelle'], ['aura', 'Aura'], ['cinema', 'Cinéma']];
 
 // ---------- cartes ----------
 const idx = await (await fetch(BASE + 'data/collections.json')).json();
-const cartes = {};
+const fichiers = new Map();
+const lire = (col) => (fichiers.has(col.slug) ? fichiers.get(col.slug) : (fichiers.set(col.slug, fetch(BASE + col.fichier).then((x) => x.json()).then((x) => x.cartes)), fichiers.get(col.slug)));
+const listes = {};
 await Promise.all(RARETES.map(async (r) => {
-  const [slug, nom] = CHOIX_CARTES[r];
-  const col = idx.collections.find((c) => c.slug === slug);
-  const data = (await (await fetch(BASE + col.fichier)).json()).cartes;
-  const c = data.find((x) => x.nom === nom) || data.find((x) => x.rarete === r);
-  cartes[r] = { ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl, total: col.nbCartes };
+  listes[r] = (await Promise.all(CHOIX_CARTES[r].map(async ([slug, nom]) => {
+    const col = idx.collections.find((c) => c.slug === slug); if (!col) return null;
+    const c = (await lire(col)).find((x) => x.nom === nom && x.rarete === r); if (!c) return null;
+    return { ...c, thumbUrl: BASE + c.thumbUrl, imageUrl: BASE + c.imageUrl, total: col.nbCartes };
+  }))).filter(Boolean);
 }));
+const rangCarte = {};
+const cartes = new Proxy({}, { get: (_, r) => listes[r][(rangCarte[r] || 0) % listes[r].length] });
 
 // ---------- sélection (gardée sur cet appareil) ----------
-let sel = (() => { try { return JSON.parse(localStorage.getItem('wikideck-banc-effets')) || {}; } catch { return {}; } })();
-for (const r of RARETES) sel[r] = { hab: 'actuel', rev: 'actuel', tension: false, ...sel[r] };
-const sauver = () => { try { localStorage.setItem('wikideck-banc-effets', JSON.stringify(sel)); } catch {} };
+// valeurs de départ : les choix retenus le 08/11 (révélation Cinéma partout, anticipation dès l'épique)
+const RETENUS = { commune: 'actuel', rare: 'a', epique: 'b', mythique: 'a', legendaire: 'a', pantheon: 'a' };
+let sel = (() => { try { return JSON.parse(localStorage.getItem('wikideck-banc-effets-2')) || {}; } catch { return {}; } })();
+for (const r of RARETES) sel[r] = { hab: RETENUS[r], rev: 'cinema', tension: RANG(r) >= 2, ...sel[r] };
+const sauver = () => { try { localStorage.setItem('wikideck-banc-effets-2', JSON.stringify(sel)); } catch {} };
 const appliquerClasses = (actif = true) => {
   document.body.className = 'v2';
   if (actif) for (const r of RARETES) if (sel[r].hab !== 'actuel') document.body.classList.add(`c-${r}-${sel[r].hab}`);
@@ -155,7 +168,7 @@ function rendreTout() {
 }
 function rendreRangees() {
   $('#rangees').innerHTML = RARETES.map((r) => `<section class="bloc rang" style="--rar:var(--r-${r})" data-r="${r}">
-    <h2>${iconeRarete(r)}${NOMS[r]}</h2>
+    <div class="rang-tete"><h2>${iconeRarete(r)}${NOMS[r]}</h2>${listes[r].length > 1 ? '<button class="retour" data-autre aria-label="Autre carte"><i class="ph-bold ph-shuffle"></i></button>' : ''}</div>
     <div class="scene-carte">${htmlCarte(cartes[r], { image: 'full' })}</div>
     <div class="choix">
       <div class="ligne" data-l="hab"><span class="surtitre">Habillage</span>${[['actuel', 'Actuel'], ['a', HABILLAGES[r][0]], ['b', HABILLAGES[r][1]]].map(([v, l]) => `<button class="puce${v === 'actuel' ? ' ref' : ''}" data-v="${v}">${l}</button>`).join('')}</div>
@@ -167,6 +180,10 @@ function rendreRangees() {
   document.querySelectorAll('.rang').forEach((s) => {
     const r = s.dataset.r;
     brancherManipulation($('.k', s));
+    $('[data-autre]', s)?.addEventListener('click', () => {
+      rangCarte[r] = (rangCarte[r] || 0) + 1; son('tap');
+      const z = $('.scene-carte', s); z.innerHTML = htmlCarte(cartes[r], { image: 'full' }); brancherManipulation($('.k', z));
+    });
     s.querySelectorAll('[data-l] .puce').forEach((b) => b.addEventListener('click', () => {
       const l = b.parentElement.dataset.l;
       if (l === 'tension') sel[r].tension = !sel[r].tension; else sel[r][l] = b.dataset.v;

@@ -29,7 +29,7 @@
 .c-commune-b .k.r-commune .k-cadre { box-shadow: 0 0 0 1px #efe6d633 inset; }
 
 /* ============ RARE ============ */
-/* A · Acier brossé : cadre métal strié, rivets, reflet net qui suit l'inclinaison */
+/* A · Acier et verre : cadre métal strié et rivets de l'acier, reflet irisé du verre */
 .c-rare-a .k.r-rare .k-cadre { padding: .32em; box-shadow: none;
   background: repeating-linear-gradient(90deg, #ffffff12 0 1px, transparent 1px 2px), repeating-linear-gradient(0deg, #00000014 0 1px, transparent 1px 3px),
     linear-gradient(135deg, #59616c, #eef2f6 20%, #8a939e 38%, #fbfcfd 52%, #6b7480 72%, #d5dbe2 88%, #7d8794);
@@ -40,7 +40,7 @@
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 100% 0 / .22em .22em no-repeat,
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 0 100% / .22em .22em no-repeat,
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 100% 100% / .22em .22em no-repeat; }
-.c-rare-a .k.r-rare .k-holo { opacity: .9; mix-blend-mode: overlay; background-image: linear-gradient(105deg, transparent 38%, #ffffff10 44%, #fffffff0 49.5%, #ffffff10 55%, transparent 61%), linear-gradient(105deg, transparent 62%, #ffffff60 64%, transparent 66%); }
+.c-rare-a .k.r-rare .k-holo { opacity: .6; mix-blend-mode: color-dodge; background-image: linear-gradient(115deg, transparent 40%, #ff8fd640 45%, #fde68a40 47%, #6ee7b740 49%, #67e8f940 51%, #a78bfa40 53%, transparent 58%); }
 .c-rare-a .k.r-rare .k-matiere { background: linear-gradient(transparent 55%, #11151bdd 82%); }
 .c-rare-a .k.r-rare .k-nom { background: linear-gradient(180deg, #ffffff, #b9c3cf 55%, #eef2f6); -webkit-background-clip: text; background-clip: text; color: transparent; filter: drop-shadow(0 1px 0 #000) drop-shadow(0 2px 10px #000a); }
 /* B · Verre : pleine image, panneau de verre dépoli, liseré qui réfracte */
@@ -72,23 +72,33 @@
 .c-epique-b .k.r-epique .k-rarnom { text-shadow: 0 0 .6em #b69cff; }
 
 /* ============ MYTHIQUE ============ */
-/* A · Holo : feuille arc-en-ciel sur toute la carte, trame pointillée, couleurs qui glissent */
-.c-mythique-a .k.r-mythique .k-holo { opacity: .5; mix-blend-mode: color-dodge;
-  background-image: radial-gradient(circle, #ffffff55 0 .55px, transparent 1px), repeating-linear-gradient(115deg, #ff5f9e30 0 1.2%, #ffd65f30 1.2% 2.4%, #5fffa830 2.4% 3.6%, #5fd3ff30 3.6% 4.8%, #b45fff30 4.8% 6%, #ff5f9e30 6% 7.2%),
-    linear-gradient(115deg, transparent 35%, #ffffff40 48%, transparent 60%);
-  background-size: 4px 4px, auto, auto; }
-.c-mythique-a .k.r-mythique:not(.manip) .k-holo { opacity: .35; }
-.c-mythique-a .k.r-mythique .k-cadre { padding: .26em; background: linear-gradient(135deg, #e5e7eb, #ff8fd6 15%, #f8fafc 28%, #67e8f9 42%, #f8fafc 55%, #fde68a 68%, #f8fafc 80%, #a78bfa 92%, #e5e7eb) 0 0 / 300% 300%; animation: glisse 5s linear infinite; }
-.c-mythique-a .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .26em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #0007, inset 0 0 1em #ff8fd633; pointer-events: none; }
-.c-mythique-a .k.r-mythique .k-face { box-shadow: 0 0 2em #ff8fd644, 0 0 3em #67e8f922, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
-/* B · Opale : nappes nacrées qui changent lentement de teinte, cadre de nacre */
-.c-mythique-b .k.r-mythique .k-holo { opacity: .8; mix-blend-mode: color-dodge; filter: blur(6px);
-  background-image: radial-gradient(28% 20% at 30% 30%, #ff8fd6aa, transparent), radial-gradient(25% 20% at 68% 38%, #67e8f9aa, transparent), radial-gradient(30% 22% at 42% 68%, #fde68a99, transparent), radial-gradient(22% 18% at 78% 74%, #a78bfaaa, transparent), radial-gradient(20% 16% at 20% 82%, #6ee7b799, transparent); }
-.c-mythique-b .k.r-mythique:not(.manip) .k-holo { animation: holo-repos 8s ease-in-out infinite alternate, opale 12s linear infinite; }
-.c-mythique-b .k.r-mythique.manip .k-holo { animation: opale 12s linear infinite; }
-.c-mythique-b .k.r-mythique .k-cadre { padding: .22em; background: linear-gradient(135deg, #fdf2f8, #e0f2fe 20%, #fef9c3 40%, #ede9fe 60%, #dcfce7 80%, #fdf2f8) 0 0 / 300% 300%; animation: glisse 9s linear infinite; }
-.c-mythique-b .k.r-mythique .k-nom { background: linear-gradient(100deg, #fff, #ffe4f5 25%, #e0f7ff 50%, #fffbe0 75%, #fff) 0 0 / 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none; filter: drop-shadow(0 2px 10px #000a); animation: glisse-nom 7s linear infinite; }
-.c-mythique-b .k.r-mythique .k-paillettes i { --pc: #fff !important; }
+/* A · Aurore opaline : nappes nacrées vives, bord irisé en rotation, halo qui change de couleur */
+@keyframes aurore-halo { 0%, 100% { box-shadow: 0 0 1.6em #ff8fd677, 0 0 3.5em #a78bfa33, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+  50% { box-shadow: 0 0 1.6em #67e8f977, 0 0 3.5em #6ee7b733, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; } }
+.c-mythique-a .k.r-mythique .k-face { animation: aurore-halo 6s ease-in-out infinite; }
+.c-mythique-a .k.r-mythique .k-holo { opacity: .7; mix-blend-mode: color-dodge; filter: blur(5px) saturate(1.4);
+  background-image: radial-gradient(26% 18% at 28% 28%, #ff8fd6cc, transparent), radial-gradient(24% 18% at 68% 34%, #67e8f9cc, transparent), radial-gradient(22% 16% at 52% 30%, #fde68a88, transparent),
+    radial-gradient(20% 16% at 78% 72%, #a78bfacc, transparent), radial-gradient(18% 14% at 18% 80%, #6ee7b7bb, transparent), radial-gradient(16% 12% at 60% 88%, #ff8fd6aa, transparent); }
+.c-mythique-a .k.r-mythique:not(.manip) .k-holo { animation: holo-repos 8s ease-in-out infinite alternate, opale 10s linear infinite; }
+.c-mythique-a .k.r-mythique.manip .k-holo { animation: opale 10s linear infinite; }
+.c-mythique-a .k.r-mythique .k-cadre { padding: .24em; box-shadow: none; animation: prisme 5s linear infinite;
+  background: conic-gradient(from var(--angle), #ff8fd6, #fde68a, #6ee7b7, #67e8f9, #a78bfa, #ff8fd6);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; filter: drop-shadow(0 0 .3em #ffffffaa); }
+.c-mythique-a .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .24em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #0008, inset 0 0 1.4em #ff8fd640, inset 0 0 2.4em #67e8f922; pointer-events: none; }
+.c-mythique-a .k.r-mythique .k-matiere { background: linear-gradient(transparent 52%, #1a0b2acc 80%, #0d0716); }
+.c-mythique-a .k.r-mythique .k-nom { background: linear-gradient(100deg, #ffd1ef, #fff6c9 20%, #c9fbe4 40%, #c8f3ff 60%, #e3d6ff 80%, #ffd1ef) 0 0 / 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none;
+  filter: drop-shadow(0 0 8px #ff8fd666) drop-shadow(0 2px 10px #000a); animation: glisse-nom 5s linear infinite; }
+/* B · Kaléidoscope : l'image reste nette au centre, l'irisation s'allume sur les bords selon l'angle */
+.c-mythique-b .k.r-mythique .k-holo { opacity: .75; mix-blend-mode: color-dodge;
+  background-image: conic-gradient(from 0deg at 50% 50%, #ff5f9e88, #ffd65f88, #5fffa888, #5fd3ff88, #b45fff88, #ff5f9e88), radial-gradient(circle, #ffffff70 0 .5px, transparent 1px);
+  background-size: auto, 3px 3px;
+  -webkit-mask: radial-gradient(62% 52% at 50% 42%, transparent 45%, #000 95%); mask: radial-gradient(62% 52% at 50% 42%, transparent 45%, #000 95%); }
+.c-mythique-b .k.r-mythique .k-cadre { padding: .3em; box-shadow: none; animation: glisse 6s linear infinite;
+  background: repeating-linear-gradient(45deg, #ffffff22 0 1px, transparent 1px 4px), linear-gradient(135deg, #dfe3ea, #ff8fd6 14%, #ffffff 26%, #67e8f9 40%, #ffffff 52%, #fde68a 66%, #ffffff 78%, #a78bfa 90%, #dfe3ea) 0 0 / 300% 300%;
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; }
+.c-mythique-b .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .3em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #000a, 0 0 0 2px #ffffff55; pointer-events: none; }
+.c-mythique-b .k.r-mythique .k-face { box-shadow: 0 0 2em #ff8fd655, 0 0 3.5em #67e8f933, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+.c-mythique-b .k.r-mythique .k-nom { color: #fff; text-shadow: -.04em 0 #ff8fd6, .04em 0 #67e8f9, 0 0 .6em #ffffff66, 0 2px 14px #000a; }
 
 /* ============ LÉGENDAIRE ============ */
 /* A · Or massif : cadre épais biseauté, coins Art déco, halo doré autour de la carte */
@@ -121,23 +131,48 @@
 .c-legendaire-b .k.r-legendaire .k-holo { opacity: .55; background-image: linear-gradient(115deg, transparent 30%, #f2c66d55 46%, #fff3c477 50%, #f2c66d55 54%, transparent 70%); }
 
 /* ============ PANTHÉON ============ */
-/* A · Cosmos : ciel étoilé en profondeur, nébuleuse qui dérive, halo derrière le sujet */
-.c-pantheon-a .k.r-pantheon .k-holo { opacity: 1; mix-blend-mode: screen; -webkit-mask: radial-gradient(28% 22% at 50% 42%, transparent 30%, #000 100%); mask: radial-gradient(28% 22% at 50% 42%, transparent 30%, #000 100%);
-  background-image: radial-gradient(circle, #fff 0 .9px, transparent 1.4px), radial-gradient(circle, #cdeefe 0 1.3px, transparent 2px), radial-gradient(circle, #ffd6f0 0 .7px, transparent 1.2px), radial-gradient(circle, #fff 0 1.8px, #9fd8ff66 2.4px, transparent 4px);
-  background-size: 23px 29px, 41px 37px, 17px 19px, 97px 89px; background-position: 0 0, 9px 13px, 4px 7px, 31px 17px; }
-.c-pantheon-a .k.r-pantheon:not(.manip) .k-holo { opacity: .8; }
-.c-pantheon-a .k.r-pantheon .k-matiere { background: radial-gradient(60% 40% at 20% 85%, #6d28d955, transparent 70%), radial-gradient(55% 40% at 85% 75%, #0ea5e955, transparent 70%), radial-gradient(70% 30% at 50% 100%, #ec489944, transparent 70%);
-  background-size: 140% 140%; animation: derive 14s ease-in-out infinite; }
-.c-pantheon-a .k.r-pantheon .k-art::before { content: ''; position: absolute; inset: -15%; z-index: -1; background: radial-gradient(circle at 50% 42%, #cdeefe66, #9fd8ff22 30%, transparent 55%); animation: respire 5s ease-in-out infinite; }
-.c-pantheon-a .k.r-pantheon .k-cadre { padding: .2em; box-shadow: none; background: linear-gradient(135deg, #fff, #cdeefe 25%, #fff3c9 50%, #e2d8ff 75%, #fff) 0 0 / 300% 300%; animation: glisse 7s linear infinite;
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; filter: drop-shadow(0 0 .4em #9fd8ff); }
-/* B · Prisme : bord prismatique en rotation, rayons divins derrière le sujet, diffraction intense */
-.c-pantheon-b .k.r-pantheon .k-cadre { padding: .26em; box-shadow: none; background: conic-gradient(from var(--angle), #ff6b6b, #f4c76a, #6ee7b7, #7dd3fc, #b69cff, #ff8fd6, #ff6b6b); animation: prisme 4s linear infinite;
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; filter: drop-shadow(0 0 .45em #ffffffaa); }
-.c-pantheon-b .k.r-pantheon .k-art::before { content: ''; position: absolute; inset: -40%; z-index: -1; background: repeating-conic-gradient(from var(--angle) at 50% 45%, #ffffff30 0 3deg, transparent 3deg 12deg);
-  -webkit-mask: radial-gradient(circle at 50% 45%, #000 10%, transparent 60%); mask: radial-gradient(circle at 50% 45%, #000 10%, transparent 60%); animation: prisme 40s linear infinite; }
-.c-pantheon-b .k.r-pantheon .k-holo { opacity: .38; background-image: repeating-linear-gradient(115deg, #ff6b6b66 0 1.5%, #f2c66d66 1.5% 3%, #6ee7b766 3% 4.5%, #7dd3fc66 4.5% 6%, #b69cff66 6% 7.5%, #ff8fd666 7.5% 9%), radial-gradient(circle, #ffffff80 0 .5px, transparent 1px); background-size: auto, 4px 4px; }
-.c-pantheon-b .k.r-pantheon .k-face { box-shadow: 0 0 1.5em #ffffff55, 0 0 3.5em #9fd8ff44, 0 0 5em #ff8fd622, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+/* A · Lumière divine : rayons doux qui tombent d'en haut, sujet rétroéclairé, poussière de lumière, cadre or blanc ciselé */
+@keyframes rayons-doux { 0%, 100% { transform: rotate(-4deg); opacity: .75; } 50% { transform: rotate(4deg); opacity: 1; } }
+@keyframes monte { from { translate: -50% 0; } to { translate: -50% -60%; } }
+.c-pantheon-a .k.r-pantheon .k-face { background: #0a0906; box-shadow: 0 0 1.8em #fff3c955, 0 0 4em #ffffff22, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+.c-pantheon-a .k.r-pantheon .k-fond { animation: none; filter: blur(calc(var(--w) * .1)) saturate(.6) sepia(.4) brightness(.35); }
+.c-pantheon-a .k.r-pantheon .k-art::before { content: ''; position: absolute; inset: -20%; z-index: -1; background: radial-gradient(circle at 50% 40%, #fff7e0aa, #fff3c944 25%, transparent 52%); animation: respire 6s ease-in-out infinite; }
+.c-pantheon-a .k.r-pantheon .k-art img { -webkit-mask: linear-gradient(#000 60%, transparent); mask: linear-gradient(#000 60%, transparent); }
+.c-pantheon-a .k.r-pantheon .k-matiere { background: linear-gradient(transparent 55%, #120e06dd 80%, #0a0906); }
+.c-pantheon-a .k.r-pantheon .k-matiere::before { content: ''; position: absolute; left: -30%; right: -30%; top: -25%; height: 95%; transform-origin: 50% 0; mix-blend-mode: screen; filter: blur(4px);
+  background: conic-gradient(from 0deg at 50% 0%, transparent 0 140deg, #fff6dc 150deg, transparent 160deg 164deg, #ffffffd0 171deg, transparent 178deg 182deg, #fff6dcf0 190deg, transparent 199deg 202deg, #ffffffc0 209deg, transparent 218deg);
+  -webkit-mask: linear-gradient(#000 20%, transparent 95%); mask: linear-gradient(#000 20%, transparent 95%); animation: rayons-doux 9s ease-in-out infinite; }
+.c-pantheon-a .k.r-pantheon .k-holo { opacity: .35; mix-blend-mode: soft-light; background-image: linear-gradient(115deg, transparent 35%, #fff 50%, transparent 65%); }
+.c-pantheon-a .k.r-pantheon .k-paillettes i { clip-path: none; border-radius: 50%; --pc: #fff3c9 !important; filter: blur(.6px) drop-shadow(0 0 4px #fff3c9); }
+.c-pantheon-a .k.r-pantheon .k-cadre { padding: .3em; box-shadow: none;
+  background: linear-gradient(135deg, #fffdf6, #d9cfb4 18%, #ffffff 34%, #c9bd9b 52%, #fffaf0 68%, #d6cba9 84%, #fffdf6) 0 0 / 250% 250%; animation: glisse 9s linear infinite;
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; }
+.c-pantheon-a .k.r-pantheon .k-face::after { content: ''; position: absolute; inset: .3em; z-index: 6; border-radius: calc(var(--w) * .035); box-shadow: 0 0 0 1px #3a3220, 0 0 0 2px #ffffffaa, inset 0 0 1.4em #000a; pointer-events: none; }
+.c-pantheon-a .k.r-pantheon .k-face::before { content: ''; position: absolute; inset: .8em; z-index: 6; pointer-events: none; --g: linear-gradient(#fffaf0, #fffaf0);
+  background: var(--g) 50% 0 / 2.4em 1px no-repeat, var(--g) 50% .3em / 1.2em 1px no-repeat, var(--g) 50% 100% / 2.4em 1px no-repeat, var(--g) 50% calc(100% - .3em) / 1.2em 1px no-repeat,
+    var(--g) 0 0 / 1.2em 1px no-repeat, var(--g) 0 0 / 1px 1.2em no-repeat, var(--g) 100% 0 / 1.2em 1px no-repeat, var(--g) 100% 0 / 1px 1.2em no-repeat,
+    var(--g) 0 100% / 1.2em 1px no-repeat, var(--g) 0 100% / 1px 1.2em no-repeat, var(--g) 100% 100% / 1.2em 1px no-repeat, var(--g) 100% 100% / 1px 1.2em no-repeat;
+  filter: drop-shadow(0 0 3px #fff3c9); opacity: .9; }
+.c-pantheon-a .k.r-pantheon .k-haut { top: 1.2em; left: 1.2em; right: 1.2em; }
+.c-pantheon-a .k.r-pantheon .k-bas { padding: 0 1.3em 1.35em; }
+.c-pantheon-a .k.r-pantheon .k-nom { font-style: normal; background: linear-gradient(180deg, #ffffff, #fff3c9 60%, #d9c68f); -webkit-background-clip: text; background-clip: text; color: transparent; animation: none; filter: drop-shadow(0 0 12px #fff3c977) drop-shadow(0 2px 8px #000a); }
+.c-pantheon-a .k.r-pantheon .k-rarnom { color: #fff3c9; text-shadow: 0 0 8px #fff3c9; }
+/* B · Éclipse : l'image dans une fenêtre en arche, une couronne de lumière tourne derrière, noir profond */
+.c-pantheon-b .k.r-pantheon .k-face { background: #030308; box-shadow: 0 0 1.5em #9fd8ff44, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+.c-pantheon-b .k.r-pantheon .k-fond { display: none; }
+.c-pantheon-b .k.r-pantheon .k-art { left: 1.1em; right: 1.1em; top: 1.1em; height: 58%; border-radius: 50% 50% .5em .5em / 34% 34% .5em .5em; overflow: hidden; box-shadow: 0 0 0 1px #ffffffcc, 0 0 0 .3em #030308, 0 0 0 calc(.3em + 1px) #ffffff44; }
+.c-pantheon-b .k.r-pantheon .k-art img { -webkit-mask: none; mask: none; }
+.c-pantheon-b .k.r-pantheon .k-face::before { content: ''; position: absolute; left: .45em; right: .45em; top: .45em; height: calc(58% + 1.3em); border-radius: 50% 50% .9em .9em / 34% 34% .9em .9em;
+  background: conic-gradient(from var(--angle), #ffffff, transparent 12%, #9fd8ff 25%, transparent 38%, #fff3c9 50%, transparent 62%, #e2d8ff 75%, transparent 88%, #ffffff); filter: blur(7px); animation: prisme 7s linear infinite; opacity: .9; }
+.c-pantheon-b .k.r-pantheon .k-matiere { background:
+  radial-gradient(1px 1px at 12% 74%, #fff, transparent), radial-gradient(1px 1px at 30% 86%, #fffc, transparent), radial-gradient(1.5px 1.5px at 47% 79%, #fff, transparent), radial-gradient(1px 1px at 66% 90%, #fffb, transparent),
+  radial-gradient(1.5px 1.5px at 84% 76%, #fff, transparent), radial-gradient(1px 1px at 92% 93%, #fffa, transparent), radial-gradient(1px 1px at 6% 92%, #fff9, transparent), radial-gradient(1px 1px at 5% 30%, #fffa, transparent), radial-gradient(1px 1px at 95% 22%, #fffa, transparent); }
+.c-pantheon-b .k.r-pantheon .k-haut { top: .6em; left: .6em; right: .6em; z-index: 7; }
+.c-pantheon-b .k.r-pantheon .k-holo { opacity: .3; mix-blend-mode: soft-light; background-image: linear-gradient(115deg, transparent 38%, #fff 50%, transparent 62%); }
+.c-pantheon-b .k.r-pantheon .k-cadre { box-shadow: 0 0 0 1px #ffffff40 inset; }
+.c-pantheon-b .k.r-pantheon .k-bas { text-align: center; padding: 0 1.1em 1em; }
+.c-pantheon-b .k.r-pantheon .k-nom { font-style: normal; color: #fff; background: none; animation: none; letter-spacing: .01em; filter: none; text-shadow: 0 0 .5em #9fd8ff88, 0 0 1.4em #9fd8ff44; }
+.c-pantheon-b .k.r-pantheon .k-pied { justify-content: center; gap: 1.2em; }
 
 /* ============ découvertes ============ */
 /* anticipation : le dos se charge de la couleur de la rareté avant de se retourner */

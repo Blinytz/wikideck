@@ -100858,6 +100858,20 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794160832654
+  },
+  "mythologie-nordique_bragi": {
+   "cx": 0.5038,
+   "cy": 0.5002,
+   "w": 0.6562,
+   "src": "orig",
+   "editeLe": 1794160842132
+  },
+  "mythologie-nordique_idunn": {
+   "cx": 0.5,
+   "cy": 0.5002,
+   "w": 0.6562,
+   "src": "orig",
+   "editeLe": 1794160844850
   }
  }
 }

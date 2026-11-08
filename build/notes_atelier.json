@@ -100046,6 +100046,27 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794160247928
+  },
+  "dieux-et-figures-mythologiques-grecques_ares": {
+   "cx": 0.4704,
+   "cy": 0.5002,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160253100
+  },
+  "dieux-et-figures-mythologiques-grecques_aphrodite": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160257027
+  },
+  "dieux-et-figures-mythologiques-grecques_apollon": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "full",
+   "editeLe": 1794160260004
   }
  }
 }

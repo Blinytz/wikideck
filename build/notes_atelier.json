@@ -99311,6 +99311,27 @@
    "w": 0.6691,
    "src": "orig",
    "editeLe": 1794159322259
+  },
+  "textes-sacres_nouveau-testament": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159325043
+  },
+  "textes-sacres_torah": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794159327118
+  },
+  "textes-sacres_talmud": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794159328828
   }
  }
 }

@@ -97785,6 +97785,20 @@
    "w": 0.6514,
    "src": "orig",
    "editeLe": 1794158287105
+  },
+  "genres-litteraires_fantastique": {
+   "cx": 0.4926,
+   "cy": 0.5648,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158292217
+  },
+  "genres-litteraires_roman-d-apprentissage": {
+   "cx": 0.5135,
+   "cy": 0.4919,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158296018
   }
  }
 }

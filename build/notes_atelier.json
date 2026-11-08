@@ -101152,6 +101152,34 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794160995211
+  },
+  "mythologie-egyptienne_hathor": {
+   "cx": 0.4813,
+   "cy": 0.4097,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160998133
+  },
+  "mythologie-egyptienne_sekhmet": {
+   "cx": 0.5,
+   "cy": 0.4422,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161000209
+  },
+  "mythologie-egyptienne_bastet": {
+   "cx": 0.5,
+   "cy": 0.4312,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161002457
+  },
+  "mythologie-egyptienne_ptah": {
+   "cx": 0.5,
+   "cy": 0.4172,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161004524
   }
  }
 }

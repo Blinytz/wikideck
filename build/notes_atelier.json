@@ -99682,6 +99682,27 @@
    "w": 0.7236,
    "src": "orig",
    "editeLe": 1794159509503
+  },
+  "fetes-religieuses_o-bon": {
+   "cx": 0.5047,
+   "cy": 0.5002,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159512873
+  },
+  "fetes-religieuses_baisakhi": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159517444
+  },
+  "fetes-religieuses_navratri": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794159519732
   }
  }
 }

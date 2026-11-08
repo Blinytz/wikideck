@@ -99514,6 +99514,27 @@
    "w": 0.7247,
    "src": "orig",
    "editeLe": 1794159445491
+  },
+  "fetes-religieuses_pentecote": {
+   "cx": 0.5013,
+   "cy": 0.5,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794159448607
+  },
+  "fetes-religieuses_ascension-fete": {
+   "cx": 0.535,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159452467
+  },
+  "fetes-religieuses_toussaint": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6404,
+   "src": "orig",
+   "editeLe": 1794159454857
   }
  }
 }

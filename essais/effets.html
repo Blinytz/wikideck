@@ -71,7 +71,7 @@ const CHOIX_CARTES = {
 };
 const HABILLAGES = {
   commune: ['Gravure', 'Argentique'], rare: ['Acier et verre', 'Verre'], epique: ['Cristal', 'Néon'],
-  mythique: ['Aurore opaline', 'Kaléidoscope'], legendaire: ['Or massif', "Feuille d'or"], pantheon: ['Lumière divine', 'Éclipse'],
+  mythique: ['Supernova', 'Aurore opaline'], legendaire: ['Or massif', "Feuille d'or"], pantheon: ['Lumière divine', 'Éclipse'],
 };
 const REVELATIONS = [['actuel', 'Actuelle'], ['aura', 'Aura'], ['cinema', 'Cinéma']];
 
@@ -91,11 +91,11 @@ const rangCarte = {};
 const cartes = new Proxy({}, { get: (_, r) => listes[r][(rangCarte[r] || 0) % listes[r].length] });
 
 // ---------- sélection (gardée sur cet appareil) ----------
-// valeurs de départ : les choix retenus le 08/11 (révélation Cinéma partout, anticipation dès l'épique)
-const RETENUS = { commune: 'actuel', rare: 'a', epique: 'b', mythique: 'a', legendaire: 'a', pantheon: 'a' };
-let sel = (() => { try { return JSON.parse(localStorage.getItem('wikideck-banc-effets-2')) || {}; } catch { return {}; } })();
+// valeurs de départ : les choix retenus le 08/11, revus le soir même (révélation Cinéma partout, anticipation dès l'épique)
+const RETENUS = { commune: 'actuel', rare: 'a', epique: 'b', mythique: 'a', legendaire: 'b', pantheon: 'b' };
+let sel = (() => { try { return JSON.parse(localStorage.getItem('wikideck-banc-effets-3')) || {}; } catch { return {}; } })();
 for (const r of RARETES) sel[r] = { hab: RETENUS[r], rev: 'cinema', tension: RANG(r) >= 2, ...sel[r] };
-const sauver = () => { try { localStorage.setItem('wikideck-banc-effets-2', JSON.stringify(sel)); } catch {} };
+const sauver = () => { try { localStorage.setItem('wikideck-banc-effets-3', JSON.stringify(sel)); } catch {} };
 const appliquerClasses = (actif = true) => {
   document.body.className = 'v2';
   if (actif) for (const r of RARETES) if (sel[r].hab !== 'actuel') document.body.classList.add(`c-${r}-${sel[r].hab}`);

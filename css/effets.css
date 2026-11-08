@@ -29,7 +29,7 @@
 .c-commune-b .k.r-commune .k-cadre { box-shadow: 0 0 0 1px #efe6d633 inset; }
 
 /* ============ RARE ============ */
-/* A · Acier et verre : cadre métal strié et rivets de l'acier, reflet irisé du verre */
+/* A · Acier et verre : cadre métal strié et rivets de l'acier, reflet de lumière discret */
 .c-rare-a .k.r-rare .k-cadre { padding: .32em; box-shadow: none;
   background: repeating-linear-gradient(90deg, #ffffff12 0 1px, transparent 1px 2px), repeating-linear-gradient(0deg, #00000014 0 1px, transparent 1px 3px),
     linear-gradient(135deg, #59616c, #eef2f6 20%, #8a939e 38%, #fbfcfd 52%, #6b7480 72%, #d5dbe2 88%, #7d8794);
@@ -40,7 +40,7 @@
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 100% 0 / .22em .22em no-repeat,
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 0 100% / .22em .22em no-repeat,
     radial-gradient(circle at 50% 35%, #fff 0 18%, #9aa3ae 45%, #3b4049 70%, transparent 74%) 100% 100% / .22em .22em no-repeat; }
-.c-rare-a .k.r-rare .k-holo { opacity: .6; mix-blend-mode: color-dodge; background-image: linear-gradient(115deg, transparent 40%, #ff8fd640 45%, #fde68a40 47%, #6ee7b740 49%, #67e8f940 51%, #a78bfa40 53%, transparent 58%); }
+.c-rare-a .k.r-rare .k-holo { opacity: .5; mix-blend-mode: soft-light; background-image: linear-gradient(115deg, transparent 38%, #ffffff60 46%, #ffffffb0 50%, #ffffff60 54%, transparent 62%); }
 .c-rare-a .k.r-rare .k-matiere { background: linear-gradient(transparent 55%, #11151bdd 82%); }
 .c-rare-a .k.r-rare .k-nom { background: linear-gradient(180deg, #ffffff, #b9c3cf 55%, #eef2f6); -webkit-background-clip: text; background-clip: text; color: transparent; filter: drop-shadow(0 1px 0 #000) drop-shadow(0 2px 10px #000a); }
 /* B · Verre : pleine image, panneau de verre dépoli, liseré qui réfracte */
@@ -72,34 +72,44 @@
 .c-epique-b .k.r-epique .k-rarnom { text-shadow: 0 0 .6em #b69cff; }
 
 /* ============ MYTHIQUE ============ */
-/* A · Aurore opaline : nappes nacrées vives, bord irisé en rotation, halo qui change de couleur */
-@keyframes aurore-halo { 0%, 100% { box-shadow: 0 0 1.6em #ff8fd677, 0 0 3.5em #a78bfa33, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
-  50% { box-shadow: 0 0 1.6em #67e8f977, 0 0 3.5em #6ee7b733, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; } }
-.c-mythique-a .k.r-mythique .k-face { animation: aurore-halo 6s ease-in-out infinite; }
-.c-mythique-a .k.r-mythique .k-holo { opacity: .7; mix-blend-mode: color-dodge; filter: blur(5px) saturate(1.4);
-  background-image: radial-gradient(26% 18% at 28% 28%, #ff8fd6cc, transparent), radial-gradient(24% 18% at 68% 34%, #67e8f9cc, transparent), radial-gradient(22% 16% at 52% 30%, #fde68a88, transparent),
-    radial-gradient(20% 16% at 78% 72%, #a78bfacc, transparent), radial-gradient(18% 14% at 18% 80%, #6ee7b7bb, transparent), radial-gradient(16% 12% at 60% 88%, #ff8fd6aa, transparent); }
+/* A · Supernova : fond assombri comme le néon, deux comètes irisées sur le bord, balayage nacré, nom irisé lumineux */
+@keyframes balaye { 0%, 55% { transform: translateX(-120%) skewX(-18deg); } 85%, 100% { transform: translateX(120%) skewX(-18deg); } }
+@keyframes supernova-halo { 0%, 100% { box-shadow: 0 0 1.4em #ff8fd699, 0 0 3.4em #ff8fd644, 0 0 5em #67e8f922, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+  50% { box-shadow: 0 0 1.4em #67e8f999, 0 0 3.4em #67e8f944, 0 0 5em #fde68a22, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; } }
+.c-mythique-a .k.r-mythique .k-face { animation: supernova-halo 5s ease-in-out infinite; }
+.c-mythique-a .k.r-mythique .k-matiere { background: radial-gradient(115% 85% at 50% 38%, transparent 42%, #0b0614e8), linear-gradient(transparent 52%, #140a24f0 84%); }
+.c-mythique-a .k.r-mythique .k-matiere::after { content: ''; position: absolute; inset: -10% 20%; mix-blend-mode: color-dodge; opacity: .75;
+  background: linear-gradient(90deg, transparent, #ff8fd655 25%, #fde68a77 42%, #ffffffaa 50%, #67e8f977 58%, #a78bfa55 75%, transparent); animation: balaye 4.5s ease-in-out infinite; }
+.c-mythique-a .k.r-mythique .k-holo { opacity: .55; mix-blend-mode: color-dodge; filter: blur(5px) saturate(1.5);
+  background-image: radial-gradient(24% 16% at 28% 30%, #ff8fd6aa, transparent), radial-gradient(22% 16% at 70% 36%, #67e8f9aa, transparent), radial-gradient(20% 14% at 50% 64%, #a78bfa99, transparent), radial-gradient(18% 13% at 80% 76%, #fde68a88, transparent); }
 .c-mythique-a .k.r-mythique:not(.manip) .k-holo { animation: holo-repos 8s ease-in-out infinite alternate, opale 10s linear infinite; }
 .c-mythique-a .k.r-mythique.manip .k-holo { animation: opale 10s linear infinite; }
-.c-mythique-a .k.r-mythique .k-cadre { padding: .24em; box-shadow: none; animation: prisme 5s linear infinite;
+.c-mythique-a .k.r-mythique .k-cadre { padding: .27em; box-shadow: none; animation: prisme 3.6s linear infinite;
+  background: conic-gradient(from var(--angle), transparent 0 18%, #ff8fd6 30%, #fde68a 38%, #ffffff 42%, transparent 50% 68%, #67e8f9 80%, #a78bfa 88%, #ffffff 92%, transparent 100%),
+    linear-gradient(135deg, #ff8fd633, #67e8f933);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude;
+  filter: drop-shadow(0 0 .35em #ff8fd6) drop-shadow(0 0 .7em #67e8f9); }
+.c-mythique-a .k.r-mythique .k-face::after { content: ''; position: absolute; inset: 0; z-index: 6; border-radius: inherit; box-shadow: 0 0 0 1px #ffffff26 inset, inset 0 0 2em #ff8fd630; pointer-events: none; }
+.c-mythique-a .k.r-mythique .k-paillettes i { --t: 6px !important; }
+.c-mythique-a .k.r-mythique .k-nom { background: linear-gradient(100deg, #ff9ad9, #ffe58a 20%, #8ff5c8 40%, #8fe3ff 60%, #c2a8ff 80%, #ff9ad9) 0 0 / 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none;
+  filter: drop-shadow(0 0 .25em #ffffffaa) drop-shadow(0 0 .7em #ff8fd6) drop-shadow(0 0 1.2em #67e8f988); animation: glisse-nom 4s linear infinite; }
+.c-mythique-a .k.r-mythique .k-rarnom { text-shadow: 0 0 .6em #ff8fd6; }
+/* B · Aurore opaline : nappes nacrées vives, bord irisé en rotation, halo qui change de couleur */
+@keyframes aurore-halo { 0%, 100% { box-shadow: 0 0 1.6em #ff8fd677, 0 0 3.5em #a78bfa33, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
+  50% { box-shadow: 0 0 1.6em #67e8f977, 0 0 3.5em #6ee7b733, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; } }
+.c-mythique-b .k.r-mythique .k-face { animation: aurore-halo 6s ease-in-out infinite; }
+.c-mythique-b .k.r-mythique .k-holo { opacity: .7; mix-blend-mode: color-dodge; filter: blur(5px) saturate(1.4);
+  background-image: radial-gradient(26% 18% at 28% 28%, #ff8fd6cc, transparent), radial-gradient(24% 18% at 68% 34%, #67e8f9cc, transparent), radial-gradient(22% 16% at 52% 30%, #fde68a88, transparent),
+    radial-gradient(20% 16% at 78% 72%, #a78bfacc, transparent), radial-gradient(18% 14% at 18% 80%, #6ee7b7bb, transparent), radial-gradient(16% 12% at 60% 88%, #ff8fd6aa, transparent); }
+.c-mythique-b .k.r-mythique:not(.manip) .k-holo { animation: holo-repos 8s ease-in-out infinite alternate, opale 10s linear infinite; }
+.c-mythique-b .k.r-mythique.manip .k-holo { animation: opale 10s linear infinite; }
+.c-mythique-b .k.r-mythique .k-cadre { padding: .24em; box-shadow: none; animation: prisme 5s linear infinite;
   background: conic-gradient(from var(--angle), #ff8fd6, #fde68a, #6ee7b7, #67e8f9, #a78bfa, #ff8fd6);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; filter: drop-shadow(0 0 .3em #ffffffaa); }
-.c-mythique-a .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .24em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #0008, inset 0 0 1.4em #ff8fd640, inset 0 0 2.4em #67e8f922; pointer-events: none; }
-.c-mythique-a .k.r-mythique .k-matiere { background: linear-gradient(transparent 52%, #1a0b2acc 80%, #0d0716); }
-.c-mythique-a .k.r-mythique .k-nom { background: linear-gradient(100deg, #ffd1ef, #fff6c9 20%, #c9fbe4 40%, #c8f3ff 60%, #e3d6ff 80%, #ffd1ef) 0 0 / 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none;
+.c-mythique-b .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .24em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #0008, inset 0 0 1.4em #ff8fd640, inset 0 0 2.4em #67e8f922; pointer-events: none; }
+.c-mythique-b .k.r-mythique .k-matiere { background: linear-gradient(transparent 52%, #1a0b2acc 80%, #0d0716); }
+.c-mythique-b .k.r-mythique .k-nom { background: linear-gradient(100deg, #ffd1ef, #fff6c9 20%, #c9fbe4 40%, #c8f3ff 60%, #e3d6ff 80%, #ffd1ef) 0 0 / 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: none;
   filter: drop-shadow(0 0 8px #ff8fd666) drop-shadow(0 2px 10px #000a); animation: glisse-nom 5s linear infinite; }
-/* B · Kaléidoscope : l'image reste nette au centre, l'irisation s'allume sur les bords selon l'angle */
-.c-mythique-b .k.r-mythique .k-holo { opacity: .75; mix-blend-mode: color-dodge;
-  background-image: conic-gradient(from 0deg at 50% 50%, #ff5f9e88, #ffd65f88, #5fffa888, #5fd3ff88, #b45fff88, #ff5f9e88), radial-gradient(circle, #ffffff70 0 .5px, transparent 1px);
-  background-size: auto, 3px 3px;
-  -webkit-mask: radial-gradient(62% 52% at 50% 42%, transparent 45%, #000 95%); mask: radial-gradient(62% 52% at 50% 42%, transparent 45%, #000 95%); }
-.c-mythique-b .k.r-mythique .k-cadre { padding: .3em; box-shadow: none; animation: glisse 6s linear infinite;
-  background: repeating-linear-gradient(45deg, #ffffff22 0 1px, transparent 1px 4px), linear-gradient(135deg, #dfe3ea, #ff8fd6 14%, #ffffff 26%, #67e8f9 40%, #ffffff 52%, #fde68a 66%, #ffffff 78%, #a78bfa 90%, #dfe3ea) 0 0 / 300% 300%;
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; }
-.c-mythique-b .k.r-mythique .k-face::after { content: ''; position: absolute; inset: .3em; z-index: 6; border-radius: calc(var(--w) * .04); box-shadow: 0 0 0 1px #000a, 0 0 0 2px #ffffff55; pointer-events: none; }
-.c-mythique-b .k.r-mythique .k-face { box-shadow: 0 0 2em #ff8fd655, 0 0 3.5em #67e8f933, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
-.c-mythique-b .k.r-mythique .k-nom { color: #fff; text-shadow: -.04em 0 #ff8fd6, .04em 0 #67e8f9, 0 0 .6em #ffffff66, 0 2px 14px #000a; }
-
 /* ============ LÉGENDAIRE ============ */
 /* A · Or massif : cadre épais biseauté, coins Art déco, halo doré autour de la carte */
 .c-legendaire-a .k.r-legendaire .k-cadre { padding: .48em;
@@ -116,9 +126,7 @@
 .c-legendaire-a .k.r-legendaire .k-bas { padding: 1.4em 1.4em 1.35em; }
 .c-legendaire-a .k.r-legendaire .k-face { box-shadow: 0 0 1.8em #f2c66d55, 0 0 4em #f2c66d22, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
 .c-legendaire-a .k.r-legendaire .k-holo { opacity: .6; }
-/* B · Feuille d'or : pleine image, éclats d'or posés à la main, titre en dorure qui brille */
-.c-legendaire-b .k.r-legendaire .k-art { height: 100%; }
-.c-legendaire-b .k.r-legendaire .k-art img { -webkit-mask: linear-gradient(#000 58%, transparent 92%); mask: linear-gradient(#000 58%, transparent 92%); }
+/* B · Feuille d'or : éclats d'or posés à la main, double filet doré, titre en dorure qui brille */
 .c-legendaire-b .k.r-legendaire .k-matiere { background:
   radial-gradient(.5em .32em at 7% 9%, #f8e1a1 60%, transparent 66%), radial-gradient(.3em .45em at 11% 14%, #f2c66d 60%, transparent 66%), radial-gradient(.22em .22em at 4% 18%, #fff4cc 60%, transparent 70%),
   radial-gradient(.45em .3em at 93% 7%, #f2c66d 60%, transparent 66%), radial-gradient(.25em .35em at 88% 12%, #f8e1a1 60%, transparent 66%),
@@ -160,9 +168,9 @@
 /* B · Éclipse : l'image dans une fenêtre en arche, une couronne de lumière tourne derrière, noir profond */
 .c-pantheon-b .k.r-pantheon .k-face { background: #030308; box-shadow: 0 0 1.5em #9fd8ff44, 0 calc(var(--w) * .08) calc(var(--w) * .16) calc(var(--w) * -.06) #000d; }
 .c-pantheon-b .k.r-pantheon .k-fond { display: none; }
-.c-pantheon-b .k.r-pantheon .k-art { left: 1.1em; right: 1.1em; top: 1.1em; height: 58%; border-radius: 50% 50% .5em .5em / 34% 34% .5em .5em; overflow: hidden; box-shadow: 0 0 0 1px #ffffffcc, 0 0 0 .3em #030308, 0 0 0 calc(.3em + 1px) #ffffff44; }
+.c-pantheon-b .k.r-pantheon .k-art { left: 1.1em; right: 1.1em; top: 1.1em; height: 58%; border-radius: 50% 50% .5em .5em / 34% 34% .5em .5em; overflow: hidden; }
 .c-pantheon-b .k.r-pantheon .k-art img { -webkit-mask: none; mask: none; }
-.c-pantheon-b .k.r-pantheon .k-face::before { content: ''; position: absolute; left: .45em; right: .45em; top: .45em; height: calc(58% + 1.3em); border-radius: 50% 50% .9em .9em / 34% 34% .9em .9em;
+.c-pantheon-b .k.r-pantheon .k-face::before { content: ''; position: absolute; left: .75em; right: .75em; top: .75em; height: calc(58% + .7em); border-radius: 50% 50% .7em .7em / 34% 34% .7em .7em;
   background: conic-gradient(from var(--angle), #ffffff, transparent 12%, #9fd8ff 25%, transparent 38%, #fff3c9 50%, transparent 62%, #e2d8ff 75%, transparent 88%, #ffffff); filter: blur(7px); animation: prisme 7s linear infinite; opacity: .9; }
 .c-pantheon-b .k.r-pantheon .k-matiere { background:
   radial-gradient(1px 1px at 12% 74%, #fff, transparent), radial-gradient(1px 1px at 30% 86%, #fffc, transparent), radial-gradient(1.5px 1.5px at 47% 79%, #fff, transparent), radial-gradient(1px 1px at 66% 90%, #fffb, transparent),

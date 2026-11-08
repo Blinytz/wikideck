@@ -97652,6 +97652,20 @@
    "w": 0.6785,
    "src": "orig",
    "editeLe": 1794158195915
+  },
+  "genres-litteraires_epopee": {
+   "cx": 0.4025,
+   "cy": 0.5187,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794158201888
+  },
+  "genres-litteraires_tragedie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158204190
   }
  }
 }

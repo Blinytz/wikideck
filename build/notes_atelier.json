@@ -100872,6 +100872,27 @@
    "w": 0.6562,
    "src": "orig",
    "editeLe": 1794160844850
+  },
+  "mythologie-nordique_njord": {
+   "cx": 0.4982,
+   "cy": 0.5002,
+   "w": 0.6085,
+   "src": "orig",
+   "editeLe": 1794160849100
+  },
+  "mythologie-nordique_skadi": {
+   "cx": 0.4927,
+   "cy": 0.5265,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794160853285
+  },
+  "mythologie-nordique_ull": {
+   "cx": 0.4997,
+   "cy": 0.5002,
+   "w": 0.6208,
+   "src": "orig",
+   "editeLe": 1794160856375
   }
  }
 }

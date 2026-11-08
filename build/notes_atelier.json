@@ -101124,6 +101124,34 @@
    "w": 0.5056,
    "src": "orig",
    "editeLe": 1794160985925
+  },
+  "mythologie-egyptienne_horus": {
+   "cx": 0.5,
+   "cy": 0.3752,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160987757
+  },
+  "mythologie-egyptienne_anubis": {
+   "cx": 0.5,
+   "cy": 0.2509,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160989462
+  },
+  "mythologie-egyptienne_seth": {
+   "cx": 0.5,
+   "cy": 0.2811,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160991136
+  },
+  "mythologie-egyptienne_thot": {
+   "cx": 0.464,
+   "cy": 0.2835,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794160995211
   }
  }
 }

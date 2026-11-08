@@ -22,6 +22,13 @@ import {
 
 const RAYON = 134, CIRC = 2 * Math.PI * RAYON;
 const htmlSolde = () => `<button class="solde pressable" data-aller="eclats"><i class="ph-fill ph-diamond"></i><span class="chiffre solde-v">${fr(etat.eclats || 0)}</span></button>`;
+const htmlInstaller = '<button class="solde installer pressable"><i class="ph-bold ph-download-simple"></i><span>Installer</span></button>';
+document.addEventListener('wikideck:installable', () => document.dispatchEvent(new Event('v2:rafraichir')));
+document.addEventListener('click', async (e) => {
+  if (!e.target.closest('.installer') || !window.invitePWA) return;
+  const inv = window.invitePWA; inv.prompt();
+  if ((await inv.userChoice).outcome === 'accepted') { window.invitePWA = null; document.querySelectorAll('.installer').forEach((b) => b.remove()); }
+});
 const htmlPerles = (n, k) => `<div class="perles">${Array.from({ length: n }, (_, i) => `<i class="${i < k ? 'on' : ''}"></i>`).join('')}</div>`;
 const carte = (id) => donnees.parId.get(id);
 
@@ -48,7 +55,7 @@ export function rendre(z) {
   const vedette = [...der].sort((a, b) => RANG(b.rarete) - RANG(a.rarete))[0];
   if (vedette) $('#ambiance').style.setProperty('--img', `url('${vedette.imageUrl}')`);
 
-  z.innerHTML = `<div class="barre"><div class="marque">Wiki<em>Deck</em></div>${htmlSolde()}</div>
+  z.innerHTML = `<div class="barre"><div class="marque">Wiki<em>Deck</em></div><div class="barre-d">${window.invitePWA ? htmlInstaller : ''}${htmlSolde()}</div></div>
     <div class="hero" id="hero">
       <div class="orbite">
         <svg viewBox="0 0 280 280"><defs><linearGradient id="degrade-or" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3c4"/><stop offset="1" stop-color="#e2b35a"/></linearGradient></defs>

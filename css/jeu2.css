@@ -17,3 +17,8 @@
 .serie-jour .barre2 > i { background: #ff9f5a; }
 .serie-jour .chiffre, .serie-pied { font-size: 12px; color: var(--texte-3); }
 .serie-pied { display: flex; align-items: center; gap: 4px; }
+
+/* bouton d'installation de l'appli (en-tête de l'accueil) */
+.barre-d { display: flex; align-items: center; gap: 8px; }
+.installer span { font-size: 13px; font-weight: 600; }
+.installer i { color: var(--texte); }

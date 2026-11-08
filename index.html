@@ -9,6 +9,12 @@
 <link rel="icon" href="icons/icone.svg" type="image/svg+xml">
 <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>
+// Chrome Android croit installée toute appli de blinytz.github.io dès qu'une l'est :
+// on capte l'invite d'installation pour la proposer nous-mêmes (bouton de l'accueil).
+addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); window.invitePWA = e; document.dispatchEvent(new Event('wikideck:installable')); });
+addEventListener('appinstalled', () => { window.invitePWA = null; document.querySelectorAll('.installer').forEach((b) => b.remove()); });
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=swap">

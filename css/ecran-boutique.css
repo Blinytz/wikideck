@@ -1,0 +1,21 @@
+/* Boutique v2 : compléments à css/ecrans2.css pour la vraie boutique
+   (remise, baisse, fin de chaque offre, confirmation en deux appuis). */
+
+.ob-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.ob-baisse { background: #66d19e1f; color: var(--vert, #66d19e); }
+.ob-info { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; }
+.ob-fin { display: inline-flex; align-items: center; gap: 5px; }
+.ob-fin i { font-size: 13px; }
+.ob.flash .ob-fin { color: var(--rouge); }
+.ob-remise { padding: 3px 8px; border-radius: 99px; background: var(--rouge); color: #fff; font: 700 11px var(--mono); }
+.pki-lettre { font: 400 52px/1 var(--serif); text-shadow: 0 2px 12px #000a; }
+.pki.grand .pki-lettre { font-size: 96px; }
+.ob.vedette .ob-ruban { background: var(--t); }
+
+/* premier appui : le bouton s'arme, le second confirme */
+.ob-pied .btn2.arme { background: linear-gradient(180deg, #fff1cf, #f2c66d); box-shadow: 0 0 0 2px #f2c66d inset, 0 10px 30px -8px #f2c66daa; }
+.ob-pied .btn2.arme .ob-lib { font-size: 0; }
+.ob-pied .btn2.arme .ob-lib::after { content: 'Confirmer'; font: 600 14px var(--sans); }
+.ech.arme { background: #f2c66d1f; box-shadow: 0 0 0 1.5px var(--or) inset; }
+.ech.arme span { font-size: 0; }
+.ech.arme span::after { content: 'Confirmer'; font: 600 10px var(--sans); letter-spacing: .1em; color: var(--or); }

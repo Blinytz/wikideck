@@ -3,48 +3,51 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#12121c">
+<meta name="theme-color" content="#0b0b0f">
 <title>WikiDeck</title>
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icons/icone.svg" type="image/svg+xml">
 <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
-<link rel="stylesheet" href="css/app.css">
-<link rel="stylesheet" href="css/ouverture.css">
-<link rel="stylesheet" href="css/jeu.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&family=Instrument+Serif:ital@0;1&display=swap">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<link rel="stylesheet" href="css/design.css">
+<link rel="stylesheet" href="css/ouverture2.css">
+<link rel="stylesheet" href="css/ecrans2.css">
+<link rel="stylesheet" href="css/effets.css">
+<link rel="stylesheet" href="css/ancien.css">
+<link rel="stylesheet" href="css/ecran-questions.css">
+<link rel="stylesheet" href="css/ecran-collection.css">
+<link rel="stylesheet" href="css/ecran-boutique.css">
+<link rel="stylesheet" href="css/jeu2.css">
 </head>
-<body>
-<header id="entete">
-  <div class="titre-app">Wiki<span>Deck</span></div>
-  <button id="chip-eclats" title="Éclats">
-    <span class="gemme">◆</span><span id="eclats-total">0</span>
-  </button>
-</header>
+<body class="v2" data-ecran="accueil">
+<div id="attente">
+  <div class="sceau"><svg viewBox="0 0 112 112"><circle cx="56" cy="56" r="54"/></svg><span class="w">W</span></div>
+  <div class="nom">Wiki<em>Deck</em></div>
+</div>
+<div id="ambiance"></div>
 
-<main id="contenu">
-  <section id="ecran-accueil" class="ecran"></section>
-  <section id="ecran-questions" class="ecran"></section>
-  <section id="ecran-collection" class="ecran"></section>
-  <section id="ecran-boutique" class="ecran"></section>
-  <section id="ecran-plus" class="ecran"></section>
-  <section id="ecran-historique" class="ecran"></section>
-  <section id="ecran-serie" class="ecran"></section>
-  <section id="ecran-objectifs" class="ecran"></section>
-  <section id="ecran-station" class="ecran"></section>
-  <section id="ecran-eclats" class="ecran"></section>
-  <section id="ecran-reglages" class="ecran"></section>
-  <div id="chargement">Chargement des collections…</div>
-</main>
+<div class="page">
+  <section class="ecran actif" id="accueil"></section>
+  <section class="ecran" id="questions"></section>
+  <section class="ecran" id="collection"></section>
+  <section class="ecran" id="boutique"></section>
+  <section class="ecran" id="plus"></section>
+  <section class="ecran" id="secondaire"></section>
+</div>
 
-<nav id="navbar">
-  <button data-ecran="accueil" class="actif"><span class="ico">🎁</span>Accueil</button>
-  <button data-ecran="questions"><span class="ico">❓</span>Questions</button>
-  <button data-ecran="collection"><span class="ico">🃏</span>Collection</button>
-  <button data-ecran="boutique"><span class="ico">🛒</span>Boutique</button>
-  <button data-ecran="plus"><span class="ico">☰</span>Plus</button>
+<nav class="onglets2" id="onglets">
+  <button data-aller="accueil" class="actif"><i class="ph-fill ph-house"></i><span>Accueil</span></button>
+  <button data-aller="questions"><i class="ph ph-lightbulb"></i><span>Questions</span><b class="pastille"></b></button>
+  <button data-aller="collection"><i class="ph ph-cards-three"></i><span>Collection</span></button>
+  <button data-aller="boutique"><i class="ph ph-storefront"></i><span>Boutique</span></button>
+  <button data-aller="plus"><i class="ph ph-dots-three-circle"></i><span>Plus</span></button>
 </nav>
 
-<div id="overlays"></div>
-<script type="module" src="js/app.js"></script>
+<div id="overlays" class="ancien"></div>
+<script type="module" src="js/v2/jeu.js"></script>
 </body>
 </html>

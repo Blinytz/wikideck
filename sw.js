@@ -1,12 +1,19 @@
-// Service worker — hors-ligne complet.
+// Service worker : hors-ligne complet.
 // Stratégie : network-first avec repli cache pour tout GET même-origine.
 // Tout ce qui est servi (shell, data/*.json, images) est mis en cache au vol,
 // donc l'app reste 100% fonctionnelle hors-ligne après la première visite.
 
-const CACHE = 'wikideck-v11-icone-or';
+const CACHE = 'wikideck-v12-refonte';
 
+// coquille de la v2 (index.html) et de l'ancienne interface (ancien.html)
 const COQUILLE = [
-  './', './index.html', './manifest.json', './css/app.css', './css/ouverture.css', './css/jeu.css',
+  './', './index.html', './ancien.html', './manifest.json',
+  './css/design.css', './css/ouverture2.css', './css/ecrans2.css', './css/effets.css', './css/ancien.css',
+  './css/ecran-questions.css', './css/ecran-collection.css', './css/ecran-boutique.css', './css/jeu2.css',
+  './css/app.css', './css/ouverture.css', './css/jeu.css',
+  './js/v2/jeu.js', './js/v2/commun.js', './js/v2/carte.js', './js/v2/ouverture.js', './js/v2/particules.js', './js/v2/son.js',
+  './js/v2/effets.js', './js/v2/fiche.js', './js/v2/fragments.js', './js/v2/mecaniques.js',
+  './js/v2/ecrans/accueil.js', './js/v2/ecrans/questions.js', './js/v2/ecrans/collection.js', './js/v2/ecrans/boutique.js', './js/v2/ecrans/plus.js',
   './js/app.js', './js/etat.js', './js/config.js', './js/donnees.js',
   './js/ui.js', './js/eclats.js', './js/carte.js', './js/paquets.js',
   './js/vente.js', './js/station.js', './js/station-m1.js',
@@ -22,12 +29,16 @@ const COQUILLE = [
   './icons/icon-192.png', './icons/icon-512.png',
 ];
 
+// Pages sert tout en max-age=600 : addAll remplirait le cache neuf de copies
+// périmées. Chaque fichier est donc relu au réseau (cache: 'reload').
 self.addEventListener('install', (ev) => {
-  ev.waitUntil(
-    caches.open(CACHE)
-      .then(c => c.addAll(COQUILLE))
-      .then(() => self.skipWaiting())
-  );
+  ev.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    await Promise.all(COQUILLE.map(async (f) => {
+      try { const r = await fetch(new Request(f, { cache: 'reload' })); if (r.ok) await c.put(f, r); } catch {}
+    }));
+    await self.skipWaiting();
+  })());
 });
 
 self.addEventListener('activate', (ev) => {
@@ -64,7 +75,8 @@ self.addEventListener('fetch', (ev) => {
     // pour ne jamais servir un module périmé après une mise à jour.
     const image = url.pathname.includes('/images/');
     try {
-      const rep = await fetch(req, image ? {} : { cache: 'no-cache' });
+      // une requête de navigation ne se clone pas avec un autre mode de cache : on la reconstruit depuis l'URL
+      const rep = image ? await fetch(req) : await fetch(new Request(req.url, { cache: 'no-cache', credentials: 'same-origin' }));
       if (rep.ok) {
         const copie = rep.clone();
         caches.open(CACHE).then(c => c.put(req, copie));

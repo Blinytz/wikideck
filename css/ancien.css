@@ -1,0 +1,892 @@
+/* Ancienne feuille de style, confinée aux écrans secondaires (historique, série, objectifs, Éclats, réglages)
+   et à leurs fenêtres. Générée depuis app.css, ouverture.css et jeu.css. */
+@keyframes apparition { from { opacity: 0; transform: translateY(6px); } }
+@keyframes rotation-holo { to { --angle-holo: 360deg; } }
+@keyframes balayage {
+  0% { background-position: 130% 0, 0 0; }
+  100% { background-position: -130% 0, 0 0; }
+}
+@keyframes pulsation-mythique {
+  0%, 100% { box-shadow: 0 12px 34px #000a, 0 0 16px #ff5cd044; }
+  50% { box-shadow: 0 12px 34px #000a, 0 0 34px #ff5cd07a; }
+}
+@keyframes tremblement {
+  0%, 100% { transform: rotate(-3deg) scale(1); }
+  50% { transform: rotate(3deg) scale(1.06); }
+}
+@keyframes apparition-badge { from { transform: scale(0); } }
+@keyframes arrivee-carte {
+  from { transform: translateY(26px) scale(.92); opacity: 0; }
+}
+@keyframes eclair { from { opacity: 1; } to { opacity: 0; } }
+@keyframes respire { 50% { opacity: .45; } }
+@keyframes flotte { 50% { transform: translateY(-8px) rotate(-1deg); } }
+@keyframes halo-pulse { 50% { box-shadow: 0 0 40px var(--halo), 0 0 90px var(--halo); } }
+@keyframes arrivee-dos { from { transform: translateY(30px) scale(.6); opacity: 0; } }
+@keyframes reflet { from { background-position: 120% 0; } to { background-position: -40% 0; } }
+@keyframes pulse-violet { to { box-shadow: 0 0 50px #b05cff, 0 0 110px #b05cff99; } }
+@keyframes tremble { 25% { transform: translate(-3px, 2px) rotate(-1deg); } 75% { transform: translate(3px, -2px) rotate(1deg); } }
+@keyframes faisceau { from { opacity: 0; } }
+@keyframes descente { from { transform: translateY(-110vh); } 80% { transform: translateY(8px); } }
+@keyframes fissure { to { stroke-dashoffset: 0; } }
+@keyframes vortex { from { transform: rotate(0) scale(.1); opacity: 0; } to { transform: rotate(720deg) scale(1.2); opacity: .9; } }
+@keyframes aspire { 60% { transform: scale(.85) rotate(-8deg); } 100% { transform: scale(1.05); } }
+@keyframes grave { from { opacity: 0; transform: translateY(-14px) scale(1.8); } }
+@keyframes tampon { from { transform: rotate(14deg) scale(2.6); opacity: 0; } }
+@keyframes toast-entre { from { opacity: 0; transform: translate(-50%, 16px); } }
+@property --angle-holo { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
+@scope (.ancien) {
+/* ---- css/app.css ---- */
+/* WikiDeck — thème sombre gacha, mobile-first (360-430 px). */
+
+:scope {
+  --fond: #12121c;
+  --fond-2: #1b1b2a;
+  --fond-3: #242438;
+  --texte: #eceaf6;
+  --texte-doux: #9a97b0;
+  --accent: #7c5cff;
+  --accent-2: #46c8ff;
+  --or: #ffd166;
+  --danger: #ff5c7a;
+  --rayon: 14px;
+  --nav-h: 62px;
+  --entete-h: 54px;
+
+  --c-commune: #8a93a6;
+  --c-rare: #4aa8ff;
+  --c-epique: #b05cff;
+  --c-mythique: #ff5cd0;
+  --c-legendaire: #ffd166;
+  --c-pantheon: #ffffff;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+:scope { margin: 0; padding: 0; }
+:scope {
+  background: var(--fond);
+  color: var(--texte);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100dvh;
+  overscroll-behavior-y: none;
+}
+
+/* ---------- entête ---------- */
+#entete {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 20;
+  height: calc(var(--entete-h) + env(safe-area-inset-top));
+  padding: env(safe-area-inset-top) 14px 0;
+  display: flex; align-items: center; justify-content: space-between;
+  background: linear-gradient(180deg, #191927 0%, #16162280 100%);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid #ffffff12;
+}
+.titre-app { font-weight: 800; font-size: 18px; letter-spacing: .3px; }
+.titre-app span {
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+#chip-eclats {
+  display: flex; align-items: center; gap: 5px;
+  background: var(--fond-3); color: var(--texte);
+  border: 1px solid #ffffff1c; border-radius: 999px;
+  padding: 6px 12px; font-size: 14px; font-weight: 700; cursor: pointer;
+}
+#chip-eclats .gemme { color: var(--accent-2); }
+#chip-eclats small { color: var(--texte-doux); font-weight: 600; }
+
+/* ---------- structure ---------- */
+#contenu {
+  padding: calc(var(--entete-h) + env(safe-area-inset-top) + 10px) 12px
+           calc(var(--nav-h) + env(safe-area-inset-bottom) + 14px);
+  max-width: 560px; margin: 0 auto;
+}
+.ecran { display: none; }
+.ecran.visible { display: block; animation: apparition .18s ease-out; }
+
+
+#chargement { text-align: center; padding: 60px 0; color: var(--texte-doux); }
+
+.carte-panneau {
+  background: var(--fond-2);
+  border: 1px solid #ffffff10;
+  border-radius: var(--rayon);
+  padding: 16px;
+  margin-bottom: 14px;
+}
+.carte-panneau h2 { margin: 0 0 8px; font-size: 16px; }
+.texte-doux { color: var(--texte-doux); font-size: 14px; margin: 6px 0; }
+
+.bandeau-alerte {
+  background: #4d3a10; border: 1px solid #ffd16640; color: #ffe4a3;
+  border-radius: 10px; padding: 10px 12px; font-size: 13px; margin-bottom: 12px;
+}
+
+/* ---------- navigation basse ---------- */
+#navbar {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 20;
+  height: calc(var(--nav-h) + env(safe-area-inset-bottom));
+  padding-bottom: env(safe-area-inset-bottom);
+  display: grid; grid-template-columns: repeat(5, 1fr);
+  background: #161622f2; backdrop-filter: blur(10px);
+  border-top: 1px solid #ffffff12;
+}
+#navbar button {
+  background: none; border: none; color: var(--texte-doux);
+  font-size: 11px; font-weight: 600; cursor: pointer;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 3px; padding: 6px 0;
+}
+#navbar button .ico { font-size: 20px; filter: grayscale(.6) opacity(.7); }
+#navbar button.actif { color: var(--texte); }
+#navbar button.actif .ico { filter: none; transform: scale(1.08); }
+
+/* ---------- boutons & formulaires ---------- */
+.btn {
+  background: var(--fond-3); color: var(--texte);
+  border: 1px solid #ffffff20; border-radius: 10px;
+  padding: 10px 16px; font-size: 14px; font-weight: 700; cursor: pointer;
+}
+.btn:active { transform: scale(.97); }
+.btn-primaire {
+  background: linear-gradient(135deg, var(--accent), #5a3df0);
+  border-color: transparent;
+}
+.btn-danger { background: #3a1622; border-color: var(--danger); color: var(--danger); }
+.btn-discret { font-size: 12px; padding: 7px 12px; color: var(--texte-doux); margin-top: 10px; }
+.rangee-boutons { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
+
+.ligne-pref { display: flex; gap: 10px; align-items: center; font-size: 14px; padding: 6px 0; }
+.ligne-param { display: block; padding: 8px 0; border-top: 1px solid #ffffff0d; }
+.ligne-param .nom-param { font-family: monospace; font-size: 13px; color: var(--accent-2); }
+.ligne-param input {
+  width: 100%; margin: 6px 0 4px;
+  background: var(--fond); color: var(--texte);
+  border: 1px solid #ffffff22; border-radius: 8px; padding: 8px 10px; font-size: 15px;
+}
+.ligne-param .aide-param { display: block; font-size: 12px; color: var(--texte-doux); }
+.zone-danger { border-color: #ff5c7a30; }
+
+/* réglages — sections de paramètres */
+.section-params {
+  background: #ffffff06; border: 1px solid #ffffff10; border-radius: 10px;
+  margin: 8px 0; padding: 2px 12px;
+}
+.section-params summary {
+  cursor: pointer; font-weight: 700; font-size: 13px; padding: 9px 0;
+  display: flex; align-items: center; gap: 8px;
+}
+.badge-surcharge {
+  background: #7c5cff33; color: var(--accent-2); border: 1px solid #7c5cff55;
+  font-size: 10px; font-weight: 700; border-radius: 999px; padding: 2px 8px;
+}
+.puce-surcharge { color: var(--accent); margin-left: 4px; }
+.ligne-param.surchargee input { border-color: var(--accent); }
+.rappel-defaut { display: block; color: #6e6b85; font-style: normal; margin-top: 2px; }
+.champ-filtre { width: 100%; margin: 4px 0 10px; }
+.choix-fenetre { gap: 6px; margin-top: 8px; }
+.choix-fenetre .btn { margin-top: 0; }
+.actif-fenetre { border-color: var(--accent); color: var(--texte); }
+
+/* ---------- images de cartes / placeholder ---------- */
+.img-carte {
+  position: relative; overflow: hidden; border-radius: 8px;
+  background:
+    radial-gradient(120% 100% at 20% 0%, hsl(var(--h) 60% 38%) 0%, transparent 60%),
+    linear-gradient(160deg, hsl(var(--h) 45% 30%), hsl(calc(var(--h) + 50) 50% 18%));
+  display: flex; align-items: center; justify-content: center;
+}
+.img-carte .initiale {
+  font-size: 34px; font-weight: 800; color: #ffffff70; user-select: none;
+}
+.img-carte img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover; opacity: 0; transition: opacity .2s;
+}
+.img-carte.chargee img { opacity: 1; }
+.img-carte.chargee .initiale { visibility: hidden; }
+
+/* ---------- écran Collection ---------- */
+.entete-ecran {
+  display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+  margin: 2px 2px 12px;
+}
+.entete-ecran h2 { margin: 0; font-size: 18px; flex: 1; }
+.entete-ecran .btn-retour { margin: 0; padding: 5px 10px; }
+
+.liste-collections { display: flex; flex-direction: column; gap: 8px; }
+.ligne-collection {
+  background: var(--fond-2); border: 1px solid #ffffff10;
+  border-radius: 12px; padding: 12px 14px; cursor: pointer;
+  text-align: left; color: var(--texte); width: 100%;
+}
+.ligne-collection:active { transform: scale(.99); }
+.ligne-collection.complet { border-color: var(--or); }
+.infos-collection { display: flex; justify-content: space-between; gap: 8px; }
+.nom-collection { font-weight: 700; font-size: 14px; }
+.compte-collection { color: var(--texte-doux); font-size: 13px; white-space: nowrap; }
+.barre-progression {
+  height: 5px; background: #ffffff12; border-radius: 3px; margin-top: 8px;
+  overflow: hidden;
+}
+.barre-progression div {
+  height: 100%; border-radius: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+}
+
+.grille-cartes {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;
+}
+.case-carte {
+  position: relative; border-radius: 10px; padding: 6px 6px 8px;
+  background: var(--fond-2); border: 1px solid #ffffff14;
+  color: var(--texte); cursor: pointer; text-align: center;
+  display: flex; flex-direction: column; gap: 5px;
+}
+.case-carte .img-carte { aspect-ratio: 1; width: 100%; }
+.case-carte .nom-case {
+  font-size: 11px; font-weight: 600; line-height: 1.25;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden; min-height: 2.5em;
+}
+.case-vide {
+  aspect-ratio: .78; align-items: center; justify-content: center;
+  background: #ffffff06; border: 1px dashed #ffffff18;
+  color: #ffffff20; font-size: 26px; font-weight: 800; cursor: default;
+}
+.point-rarete {
+  position: absolute; top: 10px; left: 10px; width: 10px; height: 10px;
+  border-radius: 50%; background: var(--couleur-rarete, var(--c-commune));
+  box-shadow: 0 0 6px var(--couleur-rarete, transparent);
+}
+.badge-quantite {
+  position: absolute; top: 6px; right: 6px; z-index: 3;
+  background: #000c; color: var(--or); border: 1px solid var(--or);
+  font-size: 11px; font-weight: 800; border-radius: 999px; padding: 2px 7px;
+}
+
+.rarete-commune    { --couleur-rarete: var(--c-commune); }
+.rarete-rare       { --couleur-rarete: var(--c-rare); }
+.rarete-epique     { --couleur-rarete: var(--c-epique); }
+.rarete-mythique   { --couleur-rarete: var(--c-mythique); }
+.rarete-legendaire { --couleur-rarete: var(--c-legendaire); }
+.rarete-pantheon   { --couleur-rarete: var(--c-pantheon); }
+
+/* ---------- carte à collectionner (recto/verso) ---------- */
+.overlay-carte {
+  position: fixed; inset: 0; z-index: 50;
+  display: flex; align-items: center; justify-content: center;
+}
+.fond-overlay { position: absolute; inset: 0; background: #000000c9; }
+.contenu-overlay {
+  position: relative; display: flex; flex-direction: column;
+  align-items: center; gap: 10px; padding: 16px; width: 100%; max-width: 380px;
+  max-height: 100dvh; overflow-y: auto;
+}
+.astuce-carte { color: var(--texte-doux); font-size: 12px; margin: 0; }
+
+.carte-jeu {
+  width: min(78vw, 300px); aspect-ratio: 63 / 88;
+  perspective: 1100px; cursor: pointer; -webkit-user-select: none; user-select: none;
+}
+.carte-interieur {
+  position: relative; width: 100%; height: 100%;
+  transform-style: preserve-3d; transition: transform .55s cubic-bezier(.4,.1,.2,1);
+}
+.carte-jeu.dos-visible .carte-interieur { transform: rotateY(180deg); }
+.carte-face {
+  position: absolute; inset: 0; backface-visibility: hidden;
+  border-radius: 16px; overflow: hidden;
+  display: flex; flex-direction: column;
+  border: 3px solid var(--couleur-rarete, var(--c-commune));
+  background: linear-gradient(165deg, #232336, #17171f 70%);
+  box-shadow: 0 12px 34px #000a;
+}
+.carte-verso { transform: rotateY(180deg); align-items: center; justify-content: center; gap: 14px; }
+
+.entete-carte {
+  display: flex; justify-content: space-between; align-items: center; gap: 8px;
+  padding: 10px 12px 6px;
+}
+.nom-carte { font-weight: 800; font-size: 15px; line-height: 1.15; }
+.pv-carte { color: var(--texte); font-size: 12px; white-space: nowrap; }
+.pv-carte b { font-size: 17px; color: var(--couleur-rarete, var(--texte)); }
+.carte-recto .illustration { margin: 0 10px; aspect-ratio: 4 / 3; }
+.carte-recto .illustration .initiale { font-size: 52px; }
+.ligne-rarete {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 12px 0; gap: 8px;
+}
+.badge-rarete {
+  font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .8px;
+  color: #101018; background: var(--couleur-rarete, var(--c-commune));
+  padding: 3px 9px; border-radius: 999px;
+}
+.collection-carte { font-size: 10px; color: var(--texte-doux); text-align: right; }
+.desc-carte {
+  font-size: 11px; line-height: 1.45; color: #cfccdf;
+  padding: 8px 12px 12px; overflow: hidden; flex: 1;
+  display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical;
+}
+
+/* verso : logo Wikipedia stylisé */
+.logo-wiki {
+  font-family: Georgia, 'Times New Roman', serif; font-size: 84px; font-weight: 700;
+  color: var(--texte); z-index: 2; text-shadow: 0 4px 18px #0009;
+}
+.cercle-verso {
+  position: absolute; width: 190px; height: 190px; border-radius: 50%;
+  border: 2px solid var(--couleur-rarete, #ffffff30); opacity: .5;
+}
+.cercle-verso::before {
+  content: ''; position: absolute; inset: 14px; border-radius: 50%;
+  border: 1px dashed #ffffff30;
+}
+.lien-wiki {
+  position: absolute; bottom: 22px; z-index: 2;
+  color: var(--accent-2); font-size: 13px; font-weight: 700;
+  text-decoration: none; background: #ffffff10; border: 1px solid #ffffff22;
+  padding: 8px 14px; border-radius: 999px;
+}
+
+/* ---------- effets par rareté ---------- */
+.brillance { position: absolute; inset: 0; pointer-events: none; z-index: 2; }
+
+/* rare : reflet métallique discret qui balaie */
+.rarete-rare .brillance {
+  background: linear-gradient(115deg, transparent 42%, #9ed2ff2e 50%, transparent 58%);
+  background-size: 260% 100%;
+  animation: balayage 4.5s ease-in-out infinite;
+}
+/* épique : balayage violet plus marqué + halo */
+.rarete-epique .carte-face { box-shadow: 0 12px 34px #000a, 0 0 22px #b05cff44; }
+.rarete-epique .brillance {
+  background: linear-gradient(115deg, transparent 38%, #d9a5ff4d 50%, transparent 62%);
+  background-size: 240% 100%;
+  animation: balayage 3.4s ease-in-out infinite;
+}
+/* mythique : double balayage rose + pulsation du halo */
+.rarete-mythique .carte-face {
+  animation: pulsation-mythique 2.6s ease-in-out infinite;
+}
+.rarete-mythique .brillance {
+  background:
+    linear-gradient(115deg, transparent 35%, #ff9de84d 47%, transparent 60%),
+    linear-gradient(245deg, transparent 40%, #ffd1f333 52%, transparent 64%);
+  background-size: 220% 100%, 260% 100%;
+  animation: balayage 2.8s ease-in-out infinite;
+}
+/* légendaire : holographique complet — arc-en-ciel mouvant + scintillement */
+.rarete-legendaire .carte-face {
+  border: 3px solid transparent;
+  background:
+    linear-gradient(165deg, #232336, #17171f 70%) padding-box,
+    conic-gradient(from var(--angle-holo, 0deg),
+      #ffd166, #ff5cd0, #7c5cff, #46c8ff, #6dff9e, #ffd166) border-box;
+  animation: rotation-holo 5s linear infinite;
+  box-shadow: 0 12px 34px #000a, 0 0 30px #ffd16650;
+}
+.rarete-legendaire .brillance {
+  background:
+    linear-gradient(115deg,
+      #ff5cd01f 0%, #7c5cff24 18%, #46c8ff1f 36%,
+      #6dff9e1c 54%, #ffd16624 72%, #ff5cd01f 100%),
+    radial-gradient(140% 60% at 50% -10%, #ffffff2b, transparent 55%);
+  background-size: 300% 100%, 100% 100%;
+  mix-blend-mode: screen;
+  animation: balayage 3.2s linear infinite;
+}
+
+
+
+
+
+/* ---------- écran Paquets ---------- */
+.btn-large { width: 100%; padding: 14px; font-size: 16px; margin-top: 6px; }
+.centre { text-align: center; }
+.panneau-chargement { text-align: center; }
+.zone-progres { position: relative; width: 180px; margin: 10px auto; }
+.anneau-progres { width: 100%; transform: rotate(-90deg); }
+.anneau-fond, .anneau-valeur { fill: none; stroke-width: 7; }
+.anneau-fond { stroke: #ffffff14; }
+.anneau-valeur {
+  stroke: url(#degrade-anneau), var(--accent);
+  stroke: var(--accent);
+  stroke-linecap: round;
+  stroke-dasharray: 283;
+  transition: stroke-dashoffset .9s linear;
+  filter: drop-shadow(0 0 6px #7c5cff88);
+}
+.centre-progres {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.paquet-emoji { font-size: 40px; }
+#pct-paquet { font-weight: 800; font-size: 18px; margin-top: 2px; }
+
+/* ---------- révélation de paquet ---------- */
+.overlay-ouverture {
+  position: fixed; inset: 0; z-index: 60;
+  background: radial-gradient(120% 100% at 50% 0%, #1d1d31, #0b0b12 70%);
+  display: flex; align-items: center; justify-content: center;
+}
+.scene-ouverture {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; width: 100%; height: 100%; padding: 20px; position: relative;
+  overflow-y: auto;
+}
+.paquet-a-ouvrir {
+  font-size: 110px; background: none; border: none; cursor: pointer;
+  animation: tremblement 1.6s ease-in-out infinite;
+  filter: drop-shadow(0 10px 30px #7c5cff66);
+}
+
+.compteur-ouverture { color: var(--texte-doux); font-weight: 700; }
+.badge-nouvelle {
+  background: linear-gradient(90deg, var(--or), #ffb14e); color: #241a00;
+  font-weight: 900; font-size: 12px; letter-spacing: 1px;
+  padding: 4px 14px; border-radius: 999px;
+  animation: apparition-badge .4s cubic-bezier(.2,1.6,.4,1);
+}
+
+.conteneur-revelation .carte-jeu { animation: arrivee-carte .35s ease-out; }
+
+
+/* halo d'ambiance selon la rareté révélée + flash à la révélation */
+.scene-ouverture.aura-rare       { background: radial-gradient(80% 60% at 50% 45%, #4aa8ff22, transparent 70%); }
+.scene-ouverture.aura-epique     { background: radial-gradient(80% 60% at 50% 45%, #b05cff2e, transparent 70%); }
+.scene-ouverture.aura-mythique   { background: radial-gradient(80% 60% at 50% 45%, #ff5cd033, transparent 70%); }
+.scene-ouverture.aura-legendaire { background: radial-gradient(80% 60% at 50% 45%, #ffd16640, transparent 70%); }
+.scene-ouverture.flash::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(60% 45% at 50% 45%, #ffffffd9, transparent 70%);
+  animation: eclair .55s ease-out forwards;
+}
+
+
+/* bilan de fin de paquet */
+.bilan-ouverture h2 { margin: 6px 0 0; }
+.grille-bilan {
+  display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px;
+  width: 100%; max-width: 420px;
+}
+.mini-carte {
+  position: relative; background: var(--fond-2);
+  border: 1.5px solid var(--couleur-rarete, #ffffff18);
+  border-radius: 8px; padding: 4px; text-align: center;
+  display: flex; flex-direction: column; gap: 3px;
+}
+.mini-carte .img-carte { aspect-ratio: 1; }
+.mini-carte .img-carte .initiale { font-size: 18px; }
+.nom-mini {
+  font-size: 8.5px; font-weight: 600; line-height: 1.2; min-height: 2.4em;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.rarete-mini { font-size: 7.5px; color: var(--couleur-rarete); font-weight: 800; text-transform: uppercase; }
+.pastille-nouvelle {
+  position: absolute; top: -5px; right: -5px; color: var(--or);
+  font-size: 14px; text-shadow: 0 0 6px #000;
+}
+
+/* ---------- Éclats ---------- */
+.ligne-eclats {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin: 4px 0 10px;
+}
+.total-eclats { font-size: 26px; font-weight: 800; }
+.total-eclats .gemme { color: var(--accent-2); margin-right: 4px; }
+/* Champ de saisie compact (filtre des réglages) */
+.champ-conso {
+  flex: 1; min-width: 110px;
+  background: var(--fond); color: var(--texte);
+  border: 1px solid #ffffff22; border-radius: 10px; padding: 10px 12px; font-size: 15px;
+}
+
+/* Barème de vente des doublons : une valeur fixe par rareté */
+.liste-bareme { list-style: none; margin: 4px 0 0; padding: 0; }
+.ligne-bareme {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 10px; padding: 9px 2px; border-bottom: 1px solid #ffffff10;
+}
+.ligne-bareme:last-child { border-bottom: none; }
+.ligne-bareme b { color: var(--or); font-size: 16px; font-variant-numeric: tabular-nums; }
+
+/* ---------- Station de Recherche ---------- */
+.entete-station { padding: 12px 14px; }
+.vitesse-totale {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-weight: 700; font-size: 15px; margin-bottom: 10px;
+}
+.vitesse-totale b { font-size: 22px; color: var(--or); }
+.boosts-modules { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+.chip-module {
+  background: var(--fond-3); color: var(--texte-doux);
+  border: 1px solid #ffffff18; border-radius: 10px;
+  padding: 8px 4px; font-size: 11px; font-weight: 700; cursor: pointer;
+  display: flex; flex-direction: column; gap: 2px; align-items: center;
+}
+.chip-module b { font-size: 14px; color: var(--texte); }
+.chip-module.actif { border-color: var(--accent); background: #7c5cff22; color: var(--texte); }
+
+.annonce-fenetre {
+  background: #ffffff0a; border: 1px dashed #ffffff22; border-radius: 10px;
+  padding: 8px 12px; font-size: 13px; color: var(--texte-doux); margin: 4px 0 12px;
+}
+.bloc-signal { margin-bottom: 14px; }
+.libelle-jauge {
+  display: flex; justify-content: space-between; font-size: 13px;
+  color: var(--texte-doux); margin-bottom: 5px;
+}
+.jauge-signal, .jauge-energie {
+  height: 16px; background: #0d0d16; border: 1px solid #ffffff14;
+  border-radius: 999px; overflow: hidden;
+}
+.jauge-signal div {
+  height: 100%; border-radius: 999px;
+  background: linear-gradient(90deg, #2b6b8f, var(--accent-2));
+  transition: width .9s linear;
+  box-shadow: 0 0 10px #46c8ff66;
+}
+.jauge-energie div {
+  height: 100%; border-radius: 999px;
+  background: linear-gradient(90deg, #7a5c10, var(--or));
+  transition: width .9s linear;
+}
+.ligne-boost-m1 { font-size: 13px; color: var(--texte-doux); margin-top: 8px; }
+.ligne-boost-m1 b { color: var(--or); font-size: 16px; margin: 0 4px; }
+
+.ligne-curseur {
+  display: flex; align-items: center; gap: 10px; padding: 7px 0;
+}
+.nom-curseur { width: 52px; font-size: 13px; font-weight: 700; color: var(--accent-2); }
+.valeur-curseur { width: 44px; text-align: right; font-size: 13px; font-weight: 700; }
+.ligne-curseur input[type=range] {
+  flex: 1; appearance: none; height: 6px; border-radius: 3px;
+  background: #ffffff1c; outline: none;
+}
+.ligne-curseur input[type=range]::-webkit-slider-thumb {
+  appearance: none; width: 26px; height: 26px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  border: 2px solid #fff3; cursor: pointer;
+}
+.curseur-energie input[type=range]::-webkit-slider-thumb {
+  background: linear-gradient(135deg, #b8860b, var(--or));
+}
+
+/* Station — Module 2 */
+.ligne-regime-flux { font-size: 14px; margin: 4px 0 10px; }
+.ligne-regime-flux b { color: var(--accent-2); }
+.ligne-regime-flux small { color: var(--texte-doux); }
+.jauge-tension, .jauge-file, .jauge-stock {
+  height: 12px; background: #0d0d16; border: 1px solid #ffffff14;
+  border-radius: 999px; overflow: hidden; margin-bottom: 12px;
+}
+.jauge-tension div {
+  height: 100%; background: linear-gradient(90deg, #3f8f4f, #d9a624, #cf4444);
+  transition: width .9s linear;
+}
+.jauge-file div {
+  height: 100%; background: linear-gradient(90deg, #2b6b8f, var(--accent-2));
+  transition: width .9s linear;
+}
+.jauge-stock div {
+  height: 100%; background: linear-gradient(90deg, #5a3df0, var(--accent));
+  transition: width .9s linear;
+}
+
+/* Station — Module 3 */
+.panneau-indice h3 { margin: 0; font-size: 15px; }
+.panneau-indice h3 small { color: var(--texte-doux); font-size: 10px; font-weight: 600; }
+.entete-indice {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: 8px;
+}
+.entete-indice > b { font-size: 18px; color: var(--accent-2); }
+.graphe-indice {
+  width: 100%; height: 74px; background: #0d0d16;
+  border: 1px solid #ffffff10; border-radius: 8px; display: block;
+}
+.courbe-indice {
+  fill: none; stroke: var(--accent-2); stroke-width: 1.6;
+  stroke-linejoin: round;
+}
+.ligne-mm { stroke: #ffffff38; stroke-dasharray: 4 4; stroke-width: 1; }
+.ligne-portefeuille { font-size: 13px; color: var(--texte-doux); margin: 8px 0; }
+.gain { color: #6dff9e; }
+.perte { color: var(--danger); }
+.rangee-trading { display: flex; gap: 8px; align-items: center; }
+.champ-pct {
+  width: 64px; background: var(--fond); color: var(--texte);
+  border: 1px solid #ffffff22; border-radius: 8px; padding: 8px; font-size: 15px;
+  text-align: right;
+}
+.champ-pct.large { width: 100%; text-align: left; }
+.pct-symbole { color: var(--texte-doux); }
+.btn-mini { flex: 1; padding: 9px 6px; font-size: 13px; }
+.liste-echeances { margin: 6px 0 0; padding-left: 16px; font-size: 13px; }
+.liste-echeances li { margin-bottom: 9px; line-height: 1.4; }
+.detail-echeance { color: var(--texte-doux); font-size: 12px; }
+.ligne-histo { color: var(--texte-doux); }
+.titre-histo { font-size: 13px; margin: 12px 0 2px; color: var(--texte-doux); }
+.liste-boosts { margin: 10px 0 0; padding-left: 16px; font-size: 13px; }
+.liste-boosts li { color: var(--or); margin-bottom: 4px; }
+.liste-boosts li.texte-doux { color: var(--texte-doux); }
+
+/* vente de doublons (détail de carte) */
+.panneau-vente { width: 100%; text-align: center; }
+.btn-vendre {
+  width: 100%; padding: 12px; font-size: 15px; font-weight: 800;
+  background: linear-gradient(135deg, #1d3a4d, #14506b);
+  color: var(--texte); border: 1px solid var(--accent-2); border-radius: 12px;
+  cursor: pointer;
+}
+.btn-vendre small { display: block; font-weight: 600; color: var(--texte-doux); margin-top: 2px; }
+.note-vente { color: var(--texte-doux); font-size: 11px; margin: 8px 0 0; }
+/* Pantheon : au-dessus du legendaire, cadre arc-en-ciel plus vif et plus rapide, lueur blanche */
+.rarete-pantheon .carte-face {
+  border: 4px solid transparent;
+  background:
+    linear-gradient(165deg, #2a2a40, #17171f 70%) padding-box,
+    conic-gradient(from var(--angle-holo, 0deg),
+      #ffffff, #ff5c8a, #ffd166, #6dff9e, #46c8ff, #b05cff, #ffffff) border-box;
+  animation: rotation-holo 2.6s linear infinite;
+  box-shadow: 0 12px 34px #000a, 0 0 38px #ffffff70, 0 0 70px #b05cff40;
+}
+.rarete-pantheon .brillance {
+  background:
+    linear-gradient(115deg,
+      #ffffff26 0%, #ff5c8a22 16%, #ffd16628 32%, #6dff9e22 48%,
+      #46c8ff26 64%, #b05cff22 80%, #ffffff26 100%),
+    radial-gradient(140% 60% at 50% -10%, #ffffff3a, transparent 55%);
+  background-size: 300% 100%, 100% 100%;
+  mix-blend-mode: screen;
+  animation: balayage 2.2s linear infinite;
+}
+.rarete-pantheon .badge-rarete {
+  background: linear-gradient(90deg, #ffffff, #ffd166, #ff5c8a, #46c8ff, #ffffff);
+}
+
+/* ---- css/ouverture.css ---- */
+/* Ouverture v2 : déchirure, halos, une animation par rareté, récapitulatif. */
+.ouv { overflow: hidden; transition: background .6s; }
+.ouv-toile { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 5; }
+.ouv-scene {
+  position: relative; z-index: 2; width: 100%; height: 100%; padding: 20px 16px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; overflow-y: auto;
+}
+.ouv-astuce { color: var(--texte-doux); font-size: 13px; margin: 0; animation: respire 1.8s ease-in-out infinite; }
+
+
+.ouv-paquet {
+  --dechire: 0; position: relative; width: min(220px, 60vw); aspect-ratio: 5 / 7.4;
+  touch-action: none; user-select: none; cursor: grab; outline: none;
+  filter: drop-shadow(0 18px 40px #7c5cff55);
+  animation: flotte 2.4s ease-in-out infinite;
+}
+
+.ouv-paquet-haut, .ouv-paquet-corps { position: absolute; left: 0; right: 0; }
+.ouv-paquet-haut {
+  top: 0; height: 16%; border-radius: 14px 14px 0 0;
+  background: linear-gradient(150deg, #8d70ff, #5bd0ff);
+  transform-origin: 0 100%;
+  transform: rotate(calc(var(--dechire) * -14deg)) translateY(calc(var(--dechire) * -6px));
+  transition: transform .1s;
+}
+.ouv-paquet-corps {
+  top: 16%; bottom: 0; border-radius: 0 0 14px 14px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; color: #fff;
+  background-image: repeating-linear-gradient(135deg, #ffffff10 0 8px, transparent 8px 16px), linear-gradient(150deg, #7c5cff, #46c8ff 60%, #ff5cd0);
+}
+.ouv-paquet-logo { font: 900 64px Georgia, serif; text-shadow: 0 4px 18px #0006; }
+.ouv-paquet-titre { font-weight: 800; letter-spacing: 1px; text-transform: uppercase; font-size: 13px; }
+.ouv-paquet-nb { font-size: 12px; opacity: .85; }
+.ouv-dechirure {
+  position: absolute; left: 0; top: 16%; height: 3px; width: calc(var(--dechire) * 100%);
+  background: #fff; box-shadow: 0 0 12px #fff, 0 0 26px #46c8ff;
+}
+.ouv-paquet.ouvert { animation: none; }
+.ouv-paquet.ouvert .ouv-paquet-haut { transition: transform .5s ease-in, opacity .5s; transform: translate(60%, -160%) rotate(-40deg); opacity: 0; }
+.ouv-paquet.ouvert .ouv-paquet-corps { transition: transform .5s .15s ease-in, opacity .5s .15s; transform: translateY(40%) scale(.9); opacity: 0; }
+
+.ouv-compteur { color: var(--texte-doux); font-weight: 700; font-size: 13px; }
+.ouv-scene-carte { position: relative; cursor: pointer; --halo: #fff; }
+.ouv-scene-carte .carte-jeu { animation: arrivee-carte .35s ease-out; }
+.ouv-scene-carte .carte-jeu.dos-visible .carte-face { box-shadow: 0 0 24px var(--halo), 0 0 60px var(--halo); }
+.ouv-scene-carte.halo-commune .carte-jeu.dos-visible .carte-face { box-shadow: 0 0 10px #8a93a688; }
+.ouv-scene-carte.halo-mythique .carte-jeu.dos-visible .carte-face,
+.ouv-scene-carte.halo-legendaire .carte-jeu.dos-visible .carte-face { animation: halo-pulse 1.4s ease-in-out infinite; }
+
+
+.ouv-rangee { display: flex; gap: 6px; flex-wrap: wrap; justify-content: center; max-width: 420px; }
+.ouv-dos {
+  width: 38px; aspect-ratio: 5 / 7; border-radius: 6px; overflow: hidden;
+  background: linear-gradient(150deg, #2a2050, #12233a); border: 1.5px solid var(--halo);
+  box-shadow: 0 0 10px var(--halo); animation: arrivee-dos .4s backwards ease-out;
+  transition: transform .2s;
+}
+
+.ouv-dos.courante { transform: translateY(-6px); box-shadow: 0 0 18px var(--halo); }
+.ouv-dos.revelee { box-shadow: none; }
+.ouv-dos .img-carte { width: 100%; height: 100%; border-radius: 0; }
+.ouv-dos .img-carte .initiale { font-size: 14px; }
+
+/* commune : retournement simple */
+.carte-jeu.anim-retourne .carte-interieur { transition: transform .55s cubic-bezier(.3, 1.3, .5, 1); }
+/* rare : reflet lumineux qui balaie la carte */
+.carte-jeu.anim-reflet .carte-recto::after {
+  content: ''; position: absolute; inset: 0; border-radius: inherit; pointer-events: none;
+  background: linear-gradient(105deg, transparent 35%, #ffffffb0 50%, transparent 65%);
+  background-size: 250% 100%; animation: reflet 1s .35s ease-out both;
+}
+
+/* épique : pause, halo violet pulsé */
+.ouv-scene-carte.pulse .carte-face { animation: pulse-violet .35s ease-in-out 2 alternate; }
+
+/* mythique : la carte tremble, éclat de lumière */
+.carte-jeu.anim-tremble { animation: tremble .09s linear infinite; }
+
+.ouv.eclat::after {
+  content: ''; position: absolute; inset: 0; z-index: 4; pointer-events: none;
+  background: radial-gradient(60% 50% at 50% 45%, #fff, #ffffff00 70%); animation: eclair .6s ease-out forwards;
+}
+/* légendaire : écran assombri, faisceau doré, la carte descend du haut */
+.ouv.assombri { background: #030306; }
+.ouv.assombri .ouv-rangee, .ouv.assombri .ouv-astuce, .ouv.assombri .ouv-passer { opacity: .15; transition: opacity .4s; }
+.ouv-scene-carte.faisceau::before {
+  content: ''; position: absolute; left: 50%; top: -100vh; bottom: -20px; width: 160%; transform: translateX(-50%);
+  background: linear-gradient(to bottom, #ffd16600, #ffd16655 40%, #ffd166aa 85%, #ffd16600);
+  clip-path: polygon(40% 0, 60% 0, 100% 100%, 0 100%); filter: blur(6px); animation: faisceau 1.4s ease-out both;
+}
+
+.carte-jeu.anim-descente { animation: descente 1.3s cubic-bezier(.2, .8, .3, 1) both; }
+
+/* panthéon : paquet figé, écran fissuré, cosmos, vortex, explosion, nom gravé */
+.ouv.bloque { cursor: wait; }
+.ouv.bloque .ouv-passer { visibility: hidden; }
+.ouv.fige .ouv-scene { filter: grayscale(1) contrast(1.2); transition: filter .4s; }
+.ouv-fissures { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 6; pointer-events: none; }
+.ouv-fissures path {
+  fill: none; stroke: #fff; stroke-width: 1.5; vector-effect: non-scaling-stroke; stroke-dasharray: 200; stroke-dashoffset: 200;
+  filter: drop-shadow(0 0 3px #fff); animation: fissure 1.1s ease-in forwards;
+}
+.ouv-fissures path:nth-child(2n) { animation-delay: .25s; }
+.ouv-fissures path:nth-child(3n) { animation-delay: .5s; }
+
+.ouv.cosmos {
+  background:
+    radial-gradient(1px 1px at 12% 22%, #fff, transparent), radial-gradient(1px 1px at 72% 18%, #fff, transparent),
+    radial-gradient(1.5px 1.5px at 35% 70%, #fff, transparent), radial-gradient(1px 1px at 86% 64%, #fff, transparent),
+    radial-gradient(1px 1px at 52% 40%, #fff, transparent), radial-gradient(1.5px 1.5px at 20% 88%, #fff, transparent),
+    radial-gradient(60% 50% at 30% 30%, #5b2a9a, transparent), radial-gradient(70% 60% at 75% 70%, #12436e, transparent), #05030c;
+}
+.ouv.cosmos .ouv-rangee, .ouv.cosmos .ouv-compteur, .ouv.cosmos .ouv-astuce { opacity: 0; transition: opacity .5s; }
+.ouv-scene-carte.vortex::before {
+  content: ''; position: absolute; inset: -60%; z-index: -1; border-radius: 50%;
+  background: conic-gradient(#ff5c7a, #ffa94d, #ffd166, #3ddc97, #46c8ff, #7c5cff, #ff5cd0, #ff5c7a);
+  filter: blur(18px); animation: vortex 1.6s ease-in forwards;
+}
+
+.ouv-scene-carte.vortex .carte-jeu { animation: aspire 1.6s ease-in both; }
+
+.ouv-grave {
+  position: absolute; left: 50%; top: -48px; transform: translateX(-50%); white-space: nowrap; z-index: 3;
+  font: 800 26px Georgia, serif; letter-spacing: 2px;
+}
+.ouv-grave span {
+  display: inline-block; animation: grave .45s backwards cubic-bezier(.2, 1.6, .4, 1);
+  background: linear-gradient(90deg, #ff5c7a, #ffd166, #3ddc97, #46c8ff, #ff5cd0); -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+
+/* tampon « Nouvelle » */
+.ouv-tampon {
+  position: absolute; top: 18%; right: -14px; z-index: 3; transform: rotate(14deg);
+  font: 900 18px/1 system-ui, sans-serif; letter-spacing: 2px; text-transform: uppercase; color: #ff5c7a;
+  border: 3px solid #ff5c7a; border-radius: 8px; padding: 6px 10px; background: #12121ccc;
+  animation: tampon .35s cubic-bezier(.2, 1.8, .4, 1) both;
+}
+
+/* récapitulatif */
+.ouv-recap { width: 100%; max-width: 440px; display: flex; flex-direction: column; gap: 12px; align-items: stretch; margin: auto 0; }
+.ouv-recap h2 { text-align: center; margin: 0; }
+.ouv-recap h3 { margin: 6px 0 0; font-size: 14px; color: var(--texte-doux); }
+.ouv-progres { display: flex; flex-direction: column; gap: 8px; }
+.ouv-ligne { display: grid; grid-template-columns: 1fr auto auto; gap: 2px 10px; align-items: baseline; font-size: 13px; }
+.ouv-ligne .barre-progression { grid-column: 1 / -1; }
+.ouv-ligne b { color: #3ddc97; }
+.ouv-ligne.declenchee b { color: var(--or); }
+.barre-progression.resonance > div { background: linear-gradient(90deg, #7c5cff, #ff5cd0); }
+
+/* cartes lues, historique, vente groupée */
+.indicateur-lue { position: absolute; bottom: 3px; left: 3px; font-size: 10px; background: #000a; color: #3ddc97; border-radius: 99px; padding: 0 5px; }
+.filtres { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+.filtre { background: var(--fond-2); border: 1px solid #ffffff1a; color: var(--texte); border-radius: 999px; padding: 5px 12px; font: inherit; font-size: 13px; cursor: pointer; }
+.filtre.actif { background: var(--accent); border-color: var(--accent); }
+.entree-histo { background: var(--fond-2); border-radius: 12px; padding: 10px; margin-bottom: 10px; }
+.entree-histo .tete { display: flex; justify-content: space-between; gap: 8px; font-size: 12.5px; color: var(--texte-doux); margin-bottom: 8px; }
+.entree-histo .tete b { color: var(--texte); }
+.histo-cartes { display: grid; grid-template-columns: repeat(auto-fill, minmax(58px, 1fr)); gap: 6px; }
+.histo-cartes .mini-carte { cursor: pointer; font: inherit; color: inherit; }
+.resonance-col { font-size: 12px; color: var(--texte-doux); display: flex; gap: 8px; align-items: center; }
+.resonance-col .barre-progression { flex: 1; }
+.panneau-vente-groupee { background: var(--fond-2); border-radius: 12px; padding: 12px; margin-bottom: 12px; display: flex; flex-direction: column; gap: 8px; }
+
+.ouv-scene-carte .lien-wiki { display: none; }
+.ouv-scene:has(.ouv-grave) .ouv-compteur { visibility: hidden; }
+
+/* ---- css/jeu.css ---- */
+/* Écrans de jeu : accueil, questions, boutique, série, objectifs, menu. */
+.ligne-inventaire { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid #ffffff10; }
+.ligne-inventaire:last-of-type { border-bottom: 0; }
+.ligne-accueil { cursor: pointer; }
+.ligne-accueil h2 { margin-bottom: 4px; }
+#btn-ouvrir { margin-top: 10px; width: 100%; }
+
+.propositions { display: flex; flex-direction: column; gap: 10px; }
+.proposition { display: flex; justify-content: space-between; align-items: center; width: 100%; text-align: left; cursor: pointer; font: inherit; color: inherit; border: 1px solid #ffffff14; }
+.proposition.qdj { border-color: var(--or); margin-bottom: 12px; }
+.enonce { font-size: 18px; line-height: 1.35; margin: 8px 0 14px; }
+#form-rep { display: flex; flex-direction: column; gap: 10px; }
+#saisie { font: inherit; font-size: 17px; padding: 12px 14px; border-radius: 12px; border: 1px solid #ffffff24; background: var(--fond); color: var(--texte); }
+.verdict.bon { border: 1px solid #3ddc97; }
+.verdict.faux { border: 1px solid #ff5c7a; }
+.verdict .gain { font-size: 22px; font-weight: 800; color: #3ddc97; }
+
+.offre { display: flex; flex-direction: column; gap: 8px; }
+.offre.vide { align-items: center; }
+.offre.flash { border: 1px solid #ffa94d; }
+.offre-tete, .offre-pied { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.offre-prix { display: flex; gap: 8px; align-items: baseline; }
+.offre-prix s { color: var(--texte-doux); }
+.offre-prix .remise { color: #3ddc97; font-weight: 800; }
+.pastille-flash { background: #ffa94d; color: #241400; font-weight: 800; font-size: 11px; padding: 2px 8px; border-radius: 99px; }
+
+.chiffres-serie { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center; }
+.chiffres-serie b { display: block; font-size: 22px; }
+.chiffres-serie span { font-size: 11px; color: var(--texte-doux); }
+.calendrier { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; }
+.calendrier .jour { aspect-ratio: 1; display: grid; place-items: center; border-radius: 8px; background: var(--fond); font-size: 12px; color: var(--texte-doux); }
+.calendrier .valide { background: #3ddc97; color: #062016; font-weight: 800; }
+.calendrier .gele { background: #46c8ff; color: #04202c; font-weight: 800; }
+.calendrier .manque { background: #ff5c7a33; color: #ff5c7a; }
+.calendrier .aujourdhui { outline: 2px solid var(--accent); }
+
+.objectif { display: flex; flex-direction: column; gap: 6px; }
+.objectif-tete { display: flex; justify-content: space-between; gap: 10px; }
+.objectif.fini { flex-direction: row; justify-content: space-between; opacity: .6; }
+
+.menu-plus { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.entree-plus { display: flex; flex-direction: column; align-items: center; gap: 6px; font: inherit; font-weight: 700; color: inherit; cursor: pointer; border: 0; padding: 22px 10px; }
+.entree-plus .ico { font-size: 26px; }
+
+.toast {
+  position: fixed; left: 50%; bottom: calc(var(--nav-h, 62px) + 14px); transform: translateX(-50%); z-index: 90;
+  max-width: min(92vw, 420px); background: #2a2440; color: var(--texte); border: 1px solid var(--accent);
+  border-radius: 12px; padding: 10px 14px; font-size: 13.5px; box-shadow: 0 8px 30px #0008;
+  animation: toast-entre .3s ease-out; transition: opacity .5s, transform .5s;
+}
+.toast.sort { opacity: 0; transform: translate(-50%, 10px); }
+
+.recap-raretes { max-width: 420px; width: 92vw; display: flex; flex-direction: column; gap: 8px; }
+.mention-fiche { color: var(--texte-doux); font-size: 12px; text-align: center; margin: 0; }
+
+}

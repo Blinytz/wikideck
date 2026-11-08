@@ -1,0 +1,4 @@
+/* Écran Questions (v2) : compléments à css/ecrans2.css (correction du verdict). */
+#questions .verdict { flex-wrap: wrap; }
+.q-actions { display: flex; gap: 8px; margin-left: auto; flex: none; }
+.q-corr { color: var(--texte-2); }

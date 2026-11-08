@@ -1,0 +1,21 @@
+/* Écran Collection (v2) : compléments à css/ecrans2.css. */
+
+/* Résonance d'une collection, sous la barre de progression */
+.col-hero .resonance { display: flex; align-items: center; gap: 8px; margin-top: 4px; height: 34px; padding: 0 12px; border-radius: 99px; background: #0005; color: var(--texte-2); }
+.col-hero .resonance > i { font-size: 16px; color: #b79cff; flex: none; }
+.col-hero .resonance .lib { font: 600 12px var(--sans); }
+.col-hero .resonance .barre2 { flex: 1; min-width: 40px; background: #ffffff1f; }
+.col-hero .resonance .barre2 > i { background: linear-gradient(90deg, #7c5cff, #ff5cd0); }
+.col-hero .resonance .chiffre { font: 500 11px var(--mono); color: var(--texte-2); }
+.col-hero .resonance .etat { flex: 1; font: 500 11px var(--mono); color: var(--texte-3); text-align: right; }
+.col-hero .resonance.pause > i { color: var(--texte-3); }
+.col-hero .resonance .offertes { display: inline-flex; align-items: center; gap: 4px; font: 500 11px var(--mono); color: var(--or); }
+.col-hero .resonance .offertes i { font-size: 13px; }
+
+/* le segment accueille 3 à 5 filtres */
+#collection .segment { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 1fr; }
+#collection .segment.n5 button { font-size: 12px; }
+#collection .segment button { white-space: nowrap; padding: 0 4px; }
+
+/* carte possédée jamais lue */
+.cellule .non-lue { position: absolute; top: -3px; right: -3px; z-index: 6; width: 10px; height: 10px; border-radius: 50%; background: var(--or); box-shadow: 0 0 0 2px var(--fond), 0 0 10px #f2c66d99; pointer-events: none; }

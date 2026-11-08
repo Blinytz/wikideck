@@ -1,0 +1,37 @@
+name: Publication du site
+# Remplace la publication « legacy » de GitHub Pages : chaque envoi de l'atelier
+# annulait la construction en cours, et le site ne se mettait à jour qu'après
+# cinq minutes sans aucun envoi. Ici, une publication commencée va toujours au
+# bout ; pendant qu'elle tourne, seul le dernier envoi attend son tour.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Estampille de version (relue par l'appli pour se recharger)
+        run: |
+          printf '{"version":"%s","date":"%s"}\n' "$GITHUB_SHA" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > version.json
+          rm -rf build tests sql supabase conception .github
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploiement
+        uses: actions/deploy-pages@v4

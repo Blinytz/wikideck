@@ -18,6 +18,8 @@ const crochets = [];
 export function surReponse(fn) { crochets.push(fn); }
 export function definirSource(liste) { source = liste.filter(q => q.actif !== false); }
 export function nbQuestions() { return source.length; }
+/* Toute la banque (défi de la carte du jour, v2) : lecture seule. */
+export function toutesQuestions() { return source; }
 export function themesQuestions() { return [...new Set(source.map(q => q.theme).filter(Boolean))].sort(); }
 
 function q() {

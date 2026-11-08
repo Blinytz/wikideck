@@ -1,0 +1,19 @@
+/* WikiDeck v2 : styles propres au vrai jeu (en plus de design.css, ecrans2.css, effets.css). */
+
+/* ---------- écrans secondaires (ancienne interface confinée) ---------- */
+.sec-titre { display: flex; align-items: center; gap: 12px; }
+.sec-corps { padding-bottom: 120px; }
+
+/* ---------- accueil ---------- */
+.inventaire2 { display: flex; flex-direction: column; padding: 6px; margin-bottom: 28px; }
+.inv-ligne { display: flex; align-items: center; gap: 14px; padding: 10px; border: 0; border-radius: 16px; background: none; color: var(--texte); text-align: left; cursor: pointer; }
+.inv-ligne + .inv-ligne { box-shadow: 0 -1px 0 var(--ligne); }
+.inv-pk { flex: none; width: 34px; height: 44px; border-radius: 7px; display: grid; place-items: center; background: linear-gradient(140deg, #fff3c2, #d6a447 45%, #fbe6a6 62%, #b47d28); box-shadow: 0 0 16px -4px #f2c66d99; }
+.inv-pk .k-mono { font: 400 20px/1 var(--serif); color: #3a2706; }
+.inv-nom { flex: 1; font: 500 15px var(--sans); }
+.inv-ligne > i { color: var(--texte-3); }
+.serie-jour { display: flex; align-items: center; gap: 8px; }
+.serie-jour .barre2 { flex: 1; }
+.serie-jour .barre2 > i { background: #ff9f5a; }
+.serie-jour .chiffre, .serie-pied { font-size: 12px; color: var(--texte-3); }
+.serie-pied { display: flex; align-items: center; gap: 4px; }

@@ -99150,6 +99150,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159215795
+  },
+  "religions-du-monde_sunnisme": {
+   "cx": 0.4988,
+   "cy": 0.5002,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794159220568
+  },
+  "religions-du-monde_chiisme": {
+   "cx": 0.3997,
+   "cy": 0.5,
+   "w": 0.57,
+   "src": "orig",
+   "editeLe": 1794159224772
+  },
+  "religions-du-monde_theravada": {
+   "cx": 0.5285,
+   "cy": 0.5,
+   "w": 0.7679,
+   "src": "orig",
+   "editeLe": 1794159227307
   }
  }
 }

@@ -98018,11 +98018,25 @@
    "editeLe": 1794158433439
   },
   "philosophes_nicolas-machiavel": {
-   "cx": 0.4926,
-   "cy": 0.3956,
+   "cx": 0.4927,
+   "cy": 0.3718,
    "w": 0.9853,
    "src": "orig",
-   "editeLe": 1794158436757
+   "editeLe": 1794158442302
+  },
+  "philosophes_thomas-hobbes": {
+   "cx": 0.4926,
+   "cy": 0.4853,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158445474
+  },
+  "philosophes_baruch-spinoza": {
+   "cx": 0.4926,
+   "cy": 0.3904,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158447845
   }
  }
 }

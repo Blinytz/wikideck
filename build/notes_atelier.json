@@ -98940,6 +98940,27 @@
    "w": 0.793,
    "src": "orig",
    "editeLe": 1794159054746
+  },
+  "figures-religieuses_georges-de-lydda": {
+   "cx": 0.5007,
+   "cy": 0.3419,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794159062066
+  },
+  "figures-religieuses_valentin-de-terni": {
+   "cx": 0.5074,
+   "cy": 0.3752,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794159065603
+  },
+  "figures-religieuses_john-wesley": {
+   "cx": 0.5296,
+   "cy": 0.3932,
+   "w": 0.8142,
+   "src": "orig",
+   "editeLe": 1794159069461
   }
  }
 }

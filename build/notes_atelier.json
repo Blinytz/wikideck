@@ -100984,6 +100984,20 @@
    "w": 0.5438,
    "src": "orig",
    "editeLe": 1794160904445
+  },
+  "mythologie-nordique_hod": {
+   "cx": 0.3805,
+   "cy": 0.5002,
+   "w": 0.6206,
+   "src": "orig",
+   "editeLe": 1794160909177
+  },
+  "mythologie-nordique_mimir": {
+   "cx": 0.4926,
+   "cy": 0.4881,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794160912043
   }
  }
 }

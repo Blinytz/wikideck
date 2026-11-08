@@ -99101,6 +99101,20 @@
    "w": 0.6833,
    "src": "orig",
    "editeLe": 1794159173466
+  },
+  "religions-du-monde_shintoisme": {
+   "cx": 0.5534,
+   "cy": 0.5002,
+   "w": 0.7244,
+   "src": "orig",
+   "editeLe": 1794159178282
+  },
+  "religions-du-monde_jainisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6096,
+   "src": "orig",
+   "editeLe": 1794159180454
   }
  }
 }

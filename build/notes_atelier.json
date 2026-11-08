@@ -98408,6 +98408,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158678407
+  },
+  "philosophes_daniel-dennett": {
+   "cx": 0.5074,
+   "cy": 0.4558,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158681838
+  },
+  "philosophes_peter-singer": {
+   "cx": 0.4926,
+   "cy": 0.4539,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158684572
+  },
+  "philosophes_alain-philosophe": {
+   "cx": 0.4926,
+   "cy": 0.3798,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158687939
   }
  }
 }

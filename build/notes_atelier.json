@@ -99262,6 +99262,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159278957
+  },
+  "religions-du-monde_religion-de-la-rome-antique": {
+   "cx": 0.548,
+   "cy": 0.5017,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159284871
+  },
+  "religions-du-monde_religion-nordique-ancienne": {
+   "cx": 0.4664,
+   "cy": 0.5,
+   "w": 0.6202,
+   "src": "orig",
+   "editeLe": 1794159287379
+  },
+  "religions-du-monde_druzes": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7231,
+   "src": "orig",
+   "editeLe": 1794159290648
   }
  }
 }

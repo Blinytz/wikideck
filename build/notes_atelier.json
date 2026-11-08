@@ -99934,6 +99934,27 @@
    "w": 0.6204,
    "src": "orig",
    "editeLe": 1794160148550
+  },
+  "croyances-et-notions-sacrees_totemisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794160150237
+  },
+  "croyances-et-notions-sacrees_ange": {
+   "cx": 0.3846,
+   "cy": 0.5002,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794160153665
+  },
+  "croyances-et-notions-sacrees_resurrection": {
+   "cx": 0.5208,
+   "cy": 0.5,
+   "w": 0.6065,
+   "src": "orig",
+   "editeLe": 1794160156629
   }
  }
 }

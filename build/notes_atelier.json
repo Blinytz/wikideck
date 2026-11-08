@@ -99423,6 +99423,20 @@
    "w": 0.6829,
    "src": "orig",
    "editeLe": 1794159387197
+  },
+  "textes-sacres_popol-vuh": {
+   "cx": 0.4896,
+   "cy": 0.5211,
+   "w": 0.7149,
+   "src": "orig",
+   "editeLe": 1794159394214
+  },
+  "textes-sacres_evangile": {
+   "cx": 0.4703,
+   "cy": 0.4956,
+   "w": 0.6729,
+   "src": "orig",
+   "editeLe": 1794159398452
   }
  }
 }

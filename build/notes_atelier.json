@@ -99668,6 +99668,20 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794159502129
+  },
+  "fetes-religieuses_vesak": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7227,
+   "src": "orig",
+   "editeLe": 1794159505081
+  },
+  "fetes-religieuses_nouvel-an-chinois": {
+   "cx": 0.5201,
+   "cy": 0.4998,
+   "w": 0.7236,
+   "src": "orig",
+   "editeLe": 1794159509503
   }
  }
 }

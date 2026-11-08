@@ -99388,6 +99388,27 @@
    "w": 0.7238,
    "src": "orig",
    "editeLe": 1794159375010
+  },
+  "textes-sacres_entretiens-de-confucius": {
+   "cx": 0.6277,
+   "cy": 0.5866,
+   "w": 0.5047,
+   "src": "orig",
+   "editeLe": 1794159378338
+  },
+  "textes-sacres_avesta": {
+   "cx": 0.4525,
+   "cy": 0.507,
+   "w": 0.5973,
+   "src": "orig",
+   "editeLe": 1794159380689
+  },
+  "textes-sacres_guru-granth-sahib": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7093,
+   "src": "orig",
+   "editeLe": 1794159383026
   }
  }
 }

@@ -99248,6 +99248,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159271095
+  },
+  "religions-du-monde_evangelisme": {
+   "cx": 0.5272,
+   "cy": 0.5002,
+   "w": 0.6913,
+   "src": "orig",
+   "editeLe": 1794159276642
+  },
+  "religions-du-monde_pentecotisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159278957
   }
  }
 }

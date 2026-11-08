@@ -97610,6 +97610,20 @@
    "w": 0.8143,
    "src": "full",
    "editeLe": 1794158167007
+  },
+  "genres-litteraires_conte": {
+   "cx": 0.5414,
+   "cy": 0.5305,
+   "w": 0.8264,
+   "src": "orig",
+   "editeLe": 1794158173043
+  },
+  "genres-litteraires_fable": {
+   "cx": 0.5427,
+   "cy": 0.3992,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158176494
   }
  }
 }

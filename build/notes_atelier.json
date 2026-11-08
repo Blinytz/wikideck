@@ -97729,6 +97729,20 @@
    "w": 0.6961,
    "src": "orig",
    "editeLe": 1794158236615
+  },
+  "genres-litteraires_fantasy": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794158254809
+  },
+  "genres-litteraires_roman-d-aventures": {
+   "cx": 0.514,
+   "cy": 0.3925,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158259598
   }
  }
 }

@@ -99801,6 +99801,34 @@
    "w": 0.5429,
    "src": "orig",
    "editeLe": 1794159563618
+  },
+  "croyances-et-notions-sacrees_yin-et-yang": {
+   "cx": 0.5002,
+   "cy": 0.4999,
+   "w": 0.5408,
+   "src": "orig",
+   "editeLe": 1794159565880
+  },
+  "croyances-et-notions-sacrees_sejour-des-morts": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.722,
+   "src": "orig",
+   "editeLe": 1794159567775
+  },
+  "croyances-et-notions-sacrees_enfer": {
+   "cx": 0.5,
+   "cy": 0.3832,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159569982
+  },
+  "croyances-et-notions-sacrees_paradis": {
+   "cx": 0.4958,
+   "cy": 0.5,
+   "w": 0.7236,
+   "src": "orig",
+   "editeLe": 1794159571945
   }
  }
 }

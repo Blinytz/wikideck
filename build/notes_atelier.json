@@ -97666,6 +97666,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794158204190
+  },
+  "genres-litteraires_comedie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158206913
+  },
+  "genres-litteraires_drame-romantique": {
+   "cx": 0.4953,
+   "cy": 0.493,
+   "w": 0.7403,
+   "src": "orig",
+   "editeLe": 1794158209746
   }
  }
 }

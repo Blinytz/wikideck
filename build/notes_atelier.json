@@ -99563,6 +99563,34 @@
    "w": 0.7233,
    "src": "orig",
    "editeLe": 1794159465504
+  },
+  "fetes-religieuses_chandeleur": {
+   "cx": 0.44,
+   "cy": 0.4983,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159470183
+  },
+  "fetes-religieuses_dimanche-des-rameaux": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6107,
+   "src": "orig",
+   "editeLe": 1794159472462
+  },
+  "fetes-religieuses_ramadan": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6345,
+   "src": "orig",
+   "editeLe": 1794159474406
+  },
+  "fetes-religieuses_aid-el-fitr": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7241,
+   "src": "orig",
+   "editeLe": 1794159476052
   }
  }
 }

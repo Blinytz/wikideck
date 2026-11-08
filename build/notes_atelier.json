@@ -101180,6 +101180,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161004524
+  },
+  "mythologie-egyptienne_amon": {
+   "cx": 0.5,
+   "cy": 0.3766,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161006556
+  },
+  "mythologie-egyptienne_nout": {
+   "cx": 0.5,
+   "cy": 0.3723,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161008534
   }
  }
 }

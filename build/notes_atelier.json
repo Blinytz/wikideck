@@ -101082,6 +101082,27 @@
    "w": 0.7429,
    "src": "orig",
    "editeLe": 1794160959413
+  },
+  "mythologie-nordique_rymr": {
+   "cx": 0.5457,
+   "cy": 0.5002,
+   "w": 0.5429,
+   "src": "orig",
+   "editeLe": 1794160963100
+  },
+  "mythologie-nordique_beowulf": {
+   "cx": 0.3551,
+   "cy": 0.5,
+   "w": 0.6086,
+   "src": "orig",
+   "editeLe": 1794160965716
+  },
+  "mythologie-nordique_grendel": {
+   "cx": 0.4995,
+   "cy": 0.5002,
+   "w": 0.7429,
+   "src": "orig",
+   "editeLe": 1794160968483
   }
  }
 }

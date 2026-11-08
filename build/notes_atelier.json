@@ -97876,6 +97876,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158352139
+  },
+  "philosophes_platon": {
+   "cx": 0.4926,
+   "cy": 0.4639,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158354577
+  },
+  "philosophes_heraclite": {
+   "cx": 0.4926,
+   "cy": 0.4456,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158356928
+  },
+  "philosophes_parmenide": {
+   "cx": 0.4882,
+   "cy": 0.4543,
+   "w": 1.0838,
+   "src": "orig",
+   "editeLe": 1794158359085
   }
  }
 }

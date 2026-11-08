@@ -97743,6 +97743,20 @@
    "w": 0.8957,
    "src": "orig",
    "editeLe": 1794158259598
+  },
+  "genres-litteraires_roman-historique": {
+   "cx": 0.4926,
+   "cy": 0.5487,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158263831
+  },
+  "genres-litteraires_utopie": {
+   "cx": 0.5137,
+   "cy": 0.4483,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158270428
   }
  }
 }

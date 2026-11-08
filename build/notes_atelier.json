@@ -99089,11 +99089,18 @@
    "editeLe": 1794159147168
   },
   "religions-du-monde_taoisme": {
-   "cx": 0.4937,
+   "cx": 0.4864,
    "cy": 0.5,
    "w": 0.6413,
    "src": "orig",
-   "editeLe": 1794159158572
+   "editeLe": 1794159169449
+  },
+  "religions-du-monde_confucianisme": {
+   "cx": 0.538,
+   "cy": 0.5002,
+   "w": 0.6833,
+   "src": "orig",
+   "editeLe": 1794159173466
   }
  }
 }

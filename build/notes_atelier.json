@@ -98135,6 +98135,20 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158513887
+  },
+  "philosophes_bertrand-russell": {
+   "cx": 0.4994,
+   "cy": 0.5236,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794158516751
+  },
+  "philosophes_ludwig-wittgenstein": {
+   "cx": 0.5074,
+   "cy": 0.4271,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158521598
   }
  }
 }

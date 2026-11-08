@@ -97771,6 +97771,20 @@
    "w": 0.7402,
    "src": "orig",
    "editeLe": 1794158278054
+  },
+  "genres-litteraires_chanson-de-geste": {
+   "cx": 0.4837,
+   "cy": 0.4665,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158282976
+  },
+  "genres-litteraires_roman-de-chevalerie": {
+   "cx": 0.5,
+   "cy": 0.5151,
+   "w": 0.6514,
+   "src": "orig",
+   "editeLe": 1794158287105
   }
  }
 }

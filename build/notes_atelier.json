@@ -98464,6 +98464,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158706817
+  },
+  "philosophes_theodor-w-adorno": {
+   "cx": 0.4676,
+   "cy": 0.5002,
+   "w": 0.7953,
+   "src": "orig",
+   "editeLe": 1794158713929
+  },
+  "philosophes_herbert-marcuse": {
+   "cx": 0.4926,
+   "cy": 0.3994,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158716649
+  },
+  "philosophes_antonio-gramsci": {
+   "cx": 0.4926,
+   "cy": 0.4169,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158720613
   }
  }
 }

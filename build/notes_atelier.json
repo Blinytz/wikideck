@@ -100242,6 +100242,20 @@
    "w": 0.8264,
    "src": "full",
    "editeLe": 1794160381958
+  },
+  "dieux-et-figures-mythologiques-grecques_gaia": {
+   "cx": 0.5009,
+   "cy": 0.305,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794160387071
+  },
+  "dieux-et-figures-mythologiques-grecques_ouranos": {
+   "cx": 0.5074,
+   "cy": 0.3468,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794160390431
   }
  }
 }

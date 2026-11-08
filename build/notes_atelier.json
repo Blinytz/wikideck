@@ -98226,6 +98226,27 @@
    "w": 0.9853,
    "src": "orig",
    "editeLe": 1794158573630
+  },
+  "philosophes_john-rawls-philosophe": {
+   "cx": 0.4926,
+   "cy": 0.5165,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158577176
+  },
+  "philosophes_martha-nussbaum": {
+   "cx": 0.4597,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794158580525
+  },
+  "philosophes_judith-butler": {
+   "cx": 0.4926,
+   "cy": 0.3631,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158583434
   }
  }
 }

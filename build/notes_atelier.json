@@ -99115,6 +99115,20 @@
    "w": 0.6096,
    "src": "orig",
    "editeLe": 1794159180454
+  },
+  "religions-du-monde_zoroastrisme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7235,
+   "src": "orig",
+   "editeLe": 1794159183717
+  },
+  "religions-du-monde_foi-baha-ie": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159186056
   }
  }
 }

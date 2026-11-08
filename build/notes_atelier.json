@@ -99353,6 +99353,20 @@
    "w": 0.6425,
    "src": "orig",
    "editeLe": 1794159346884
+  },
+  "textes-sacres_rig-veda": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794159351224
+  },
+  "textes-sacres_upanishad": {
+   "cx": 0.3251,
+   "cy": 0.5002,
+   "w": 0.6503,
+   "src": "orig",
+   "editeLe": 1794159357685
   }
  }
 }

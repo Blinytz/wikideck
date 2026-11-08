@@ -99290,6 +99290,27 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794159297181
+  },
+  "religions-du-monde_amish": {
+   "cx": 0.4609,
+   "cy": 0.5002,
+   "w": 0.7238,
+   "src": "orig",
+   "editeLe": 1794159304962
+  },
+  "textes-sacres_bible": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.6785,
+   "src": "orig",
+   "editeLe": 1794159307070
+  },
+  "textes-sacres_ancien-testament": {
+   "cx": 0.4517,
+   "cy": 0.5,
+   "w": 0.6691,
+   "src": "orig",
+   "editeLe": 1794159309211
   }
  }
 }

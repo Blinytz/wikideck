@@ -97715,6 +97715,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794158227764
+  },
+  "genres-litteraires_roman-policier": {
+   "cx": 0.4479,
+   "cy": 0.4127,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158232321
+  },
+  "genres-litteraires_science-fiction": {
+   "cx": 0.4999,
+   "cy": 0.5002,
+   "w": 0.6961,
+   "src": "orig",
+   "editeLe": 1794158236615
   }
  }
 }

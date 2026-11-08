@@ -99535,6 +99535,34 @@
    "w": 0.6404,
    "src": "orig",
    "editeLe": 1794159454857
+  },
+  "fetes-religieuses_epiphanie": {
+   "cx": 0.4964,
+   "cy": 0.5002,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794159458193
+  },
+  "fetes-religieuses_careme": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7219,
+   "src": "orig",
+   "editeLe": 1794159460157
+  },
+  "fetes-religieuses_mardi-gras": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7247,
+   "src": "orig",
+   "editeLe": 1794159463120
+  },
+  "fetes-religieuses_assomption": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.7233,
+   "src": "orig",
+   "editeLe": 1794159465504
   }
  }
 }

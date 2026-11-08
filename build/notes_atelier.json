@@ -101320,6 +101320,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794161058303
+  },
+  "mythologie-egyptienne_mout": {
+   "cx": 0.5733,
+   "cy": 0.489,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161062666
+  },
+  "mythologie-egyptienne_neith": {
+   "cx": 0.5,
+   "cy": 0.5,
+   "w": 0.8143,
+   "src": "orig",
+   "editeLe": 1794161064743
   }
  }
 }

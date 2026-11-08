@@ -86,6 +86,14 @@ async function demarrer() {
 
   poserHabillages();
   await demarrerSynchro();
+  // remise à zéro unique de la file de paquets (demandée le 08/11/2026 : plus de 200 en attente)
+  etat.correctifs ??= {};
+  if (!etat.correctifs.paquets20261108) {
+    etat.correctifs.paquets20261108 = { avant: etat.paquets?.prets ?? 0, le: Date.now() };
+    etat.paquets = { progression: 0, lastTs: Date.now(), prets: 0, ouverts: etat.paquets?.ouverts || 0 };
+    if (etat.station) etat.station.lastTick = Date.now();
+    sauvegarderMaintenant();
+  }
   initEclats();
   if (config.get('stationActive')) initStation();
   const changements = reconcilierCatalogue();

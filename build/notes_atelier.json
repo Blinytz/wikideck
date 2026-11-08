@@ -97953,6 +97953,20 @@
    "w": 0.8143,
    "src": "orig",
    "editeLe": 1794158394284
+  },
+  "philosophes_mencius": {
+   "cx": 0.4926,
+   "cy": 0.6565,
+   "w": 0.9853,
+   "src": "orig",
+   "editeLe": 1794158400958
+  },
+  "philosophes_nagarjuna": {
+   "cx": 0.4933,
+   "cy": 0.3592,
+   "w": 0.8957,
+   "src": "orig",
+   "editeLe": 1794158405649
   }
  }
 }

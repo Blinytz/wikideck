@@ -8,6 +8,7 @@ import { config } from './config.js';
 import { donnees } from './donnees.js';
 import { acquerir } from './acquisition.js';
 import { valeurReference } from './eclats.js';
+import { noter } from './paquets.js';
 
 export const TYPES = {
   collection: 'Collection', theme: 'Thème', duo: 'Duo', grand: 'Grand paquet',
@@ -109,8 +110,9 @@ export function ajouterSpecial(type, params = parametresAleatoires(type), source
   sauvegarder();
 }
 
-export function ajouterStandard(n = 1) {
+export function ajouterStandard(n = 1, source = 'recompense') {
   etat.paquets.prets += n;
+  noter(source, { n });
   sauvegarder();
 }
 

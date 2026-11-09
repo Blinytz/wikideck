@@ -18,6 +18,7 @@ export function rendre(z) {
       ${r('ph-fire', 'Série', chevron(`${se.longueur} j`), '#ff9f5a', 'data-aller="serie"')}
       ${r('ph-target', 'Objectifs', chevron(), 'var(--vert)', 'data-aller="objectifs"')}
       ${r('ph-clock-counter-clockwise', 'Historique', chevron(), 'var(--texte-2)', 'data-aller="historique"')}
+      ${r('ph-package', 'Paquets', chevron(), 'var(--or)', 'data-aller="paquets"')}
     </div>
     <div class="bloc groupe">
       ${r('ph-diamonds-four', 'Fragments', chevron(nbDoublons() ? `${fr(nbDoublons())} doublons` : ''), '#b79cff', 'id="r-frag"')}

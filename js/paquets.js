@@ -9,6 +9,17 @@ import { vitesseTotale, rejouerStation } from './station.js';
 
 // Point d'entrée UNIQUE de la vitesse : produit des boosts des 3 modules de
 // la Station de Recherche (chacun ≥ 1).
+/* Journal des paquets : chaque gain (temps ou paquet) et chaque ouverture, avec sa source.
+   sec : temps retiré au minuteur (négatif s'il est rendu) ; n : paquets prêts en plus ou en moins. */
+const MAX_JOURNAL = 400;
+export function noter(src, { sec = 0, n = 0 } = {}) {
+  if (!sec && !n) return;
+  const j = (etat.journalPaquets ??= []);
+  j.push({ t: Date.now(), src, ...(sec ? { sec: Math.round(sec) } : {}), ...(n ? { n } : {}) });
+  if (j.length > MAX_JOURNAL) j.splice(0, j.length - MAX_JOURNAL);
+}
+export const journalPaquets = () => etat.journalPaquets || [];
+
 export function getVitesseTotale() {
   return config.get('stationActive') ? vitesseTotale() : 1;
 }
@@ -27,6 +38,11 @@ export function initPaquets() {
 export function rattraperPaquets() {
   const p = etat.paquets;
   if (!p) return;
+  const avant = p.prets;
+  try { avancer(p); } finally { if (p.prets > avant) noter('minuteur', { n: p.prets - avant }); }
+  sauvegarder();
+}
+function avancer(p) {
   const duree = config.get('dureeBaseSecondes');
   if (!config.get('stationActive')) {
     // Station désactivée : vitesse fixe ×1, simple temps écoulé.
@@ -34,7 +50,6 @@ export function rattraperPaquets() {
     p.progression += Math.max(0, (maintenant - (p.lastTs || maintenant)) / 1000) / duree;
     while (p.progression >= 1) { p.prets += 1; p.progression -= 1; }
     p.lastTs = maintenant;
-    sauvegarder();
     return;
   }
   rejouerStation((dt, vitesse) => {
@@ -45,17 +60,17 @@ export function rattraperPaquets() {
     }
   });
   p.lastTs = Date.now();
-  sauvegarder();
 }
 
 /* Gain (ou retrait, si négatif) de temps sur le paquet passif en cours ;
    le surplus déborde sur les paquets suivants, sans plafond. */
-export function crediterTemps(secondes) {
+export function crediterTemps(secondes, source = 'temps') {
   initPaquets();
-  const p = etat.paquets;
+  const p = etat.paquets, avant = p.prets;
   p.progression += secondes / config.get('dureeBaseSecondes');
   while (p.progression >= 1) { p.prets += 1; p.progression -= 1; }
   while (p.progression < 0 && p.prets > 0) { p.prets -= 1; p.progression += 1; }
+  noter(source, { sec: secondes, n: p.prets - avant });
   sauvegarder();
 }
 
@@ -79,5 +94,6 @@ export function ouvrirPaquet() {
   if (p.prets < 1) return null;
   p.prets -= 1;
   p.ouverts += 1;
+  noter('ouverture', { n: -1 });
   return acquerir(tirerIds(config.get('tailleDuPaquet')), { source: 'passif', type: 'standard' });
 }

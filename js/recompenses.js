@@ -22,7 +22,7 @@ export function prendreNotifs() { return notifs.splice(0); }
  */
 export function donner(r, motif) {
   const dons = [];
-  if (r.paquets) { ajouterStandard(r.paquets); dons.push(`${r.paquets} paquet${r.paquets > 1 ? 's' : ''}`); }
+  if (r.paquets) { ajouterStandard(r.paquets, motif || 'recompense'); dons.push(`${r.paquets} paquet${r.paquets > 1 ? 's' : ''}`); }
   for (const s of r.speciaux || []) {
     const sp = typeof s === 'string' ? { type: s } : s;
     if (sp.params) ajouterSpecial(sp.type, sp.params);

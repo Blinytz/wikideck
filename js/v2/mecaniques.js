@@ -181,9 +181,9 @@ export function gratter(i) {
   if (tk.grattees.includes(i)) return null;
   tk.grattees.push(i);
   const l = tk.cases[i];
-  if (l.t === 'temps') crediterTemps(l.h * 3600);
+  if (l.t === 'temps') crediterTemps(l.h * 3600, 'ticket');
   else if (l.t === 'frag') fragments()[l.r] += l.n;
-  else if (l.t === 'paquet') ajouterStandard(1);
+  else if (l.t === 'paquet') ajouterStandard(1, 'ticket');
   else {
     const pool = actives().filter((c) => c.rarete === l.r);
     const c = hasard(pool.length ? pool : actives());

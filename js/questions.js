@@ -184,7 +184,7 @@ export function commencerQuestionDuJour() {
 function appliquer(entree, signe) {
   // signe = +1 applique, -1 annule (pour la correction)
   const etatQ = q();
-  if (entree.correct) crediterTemps(signe * entree.gain * 60);
+  if (entree.correct) crediterTemps(signe * entree.gain * 60, signe < 0 ? 'correction' : entree.qdj ? 'qdj' : 'question');
   if (!entree.qdj) etatQ.suite = signe > 0 ? entree.suiteApres : entree.suiteAvant;
   for (const fn of crochets) fn(entree, signe);
 }

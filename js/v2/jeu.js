@@ -14,7 +14,6 @@ import { chargerQuestions } from '../source-questions.js';
 import { demarrerSynchro } from '../synchro.js';
 import { vider } from '../portefeuille.js';
 import { rendreEcranHistorique } from '../ecran-historique.js';
-import { rendreEcranSerie } from '../ecran-serie.js';
 import { rendreEcranObjectifs } from '../ecran-objectifs.js';
 import { rendreEcranEclats, majEclatsUI } from '../ecran-eclats.js';
 import { rendreEcranReglages } from '../ecran-reglages.js';
@@ -27,11 +26,13 @@ import * as questions from './ecrans/questions.js';
 import * as collection from './ecrans/collection.js';
 import * as boutique from './ecrans/boutique.js';
 import * as plus from './ecrans/plus.js';
+import * as serie2 from './ecrans/serie.js';
+import * as journal from './ecrans/journal.js';
 
 const PRINCIPAUX = { accueil, questions, collection, boutique, plus };
 // écrans secondaires : l'ancienne interface, confinée (css/ancien.css), sous l'onglet Plus
 const SECONDAIRES = {
-  historique: ['Historique', rendreEcranHistorique], serie: ['Série', rendreEcranSerie], objectifs: ['Objectifs', rendreEcranObjectifs],
+  historique: ['Historique', rendreEcranHistorique], serie: ['Série', serie2.rendre, true], paquets: ['Paquets', journal.rendre, true], objectifs: ['Objectifs', rendreEcranObjectifs],
   eclats: ['Éclats', rendreEcranEclats], reglages: ['Réglages', rendreEcranReglages],
 };
 
@@ -40,9 +41,9 @@ export const ecranActif = () => ecran;
 
 function rendre(nom = ecran, options = {}) {
   if (PRINCIPAUX[nom]) return PRINCIPAUX[nom].rendre($(`#${nom}`), options);
-  const [titre, fn] = SECONDAIRES[nom];
+  const [titre, fn, v2] = SECONDAIRES[nom];
   const z = $('#secondaire');
-  z.innerHTML = `<div class="grand-titre sec-titre"><button class="retour" id="sec-retour" aria-label="Retour"><i class="ph-bold ph-caret-left"></i></button><h1>${titre}</h1></div><div class="ancien sec-corps" id="ecran-${nom}"></div>`;
+  z.innerHTML = `<div class="grand-titre sec-titre"><button class="retour" id="sec-retour" aria-label="Retour"><i class="ph-bold ph-caret-left"></i></button><h1>${titre}</h1></div><div class="${v2 ? '' : 'ancien '}sec-corps" id="ecran-${nom}"></div>`;
   $('#sec-retour', z).addEventListener('click', () => aller('plus'));
   fn($(`#ecran-${nom}`, z), options);
 }

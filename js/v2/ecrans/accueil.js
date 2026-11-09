@@ -6,6 +6,7 @@ import { donnees } from '../../donnees.js';
 import { config } from '../../config.js';
 import { initPaquets, secondesRestantes, ouvrirPaquet } from '../../paquets.js';
 import { inventaire, ouvrirSpecial, libelle } from '../../speciaux.js';
+import { visuelPaquet, daPaquet } from './boutique.js';
 import { s as serie, bonnesDuJour, prochainPalier } from '../../serie.js';
 import { questionDuJour, estCorrecte } from '../../questions.js';
 import { historique } from '../../acquisition.js';
@@ -71,7 +72,7 @@ export function rendre(z) {
       <div class="prochain"><i class="ph-fill ph-timer"></i><span id="minuteur">${fmtTemps(Math.round(secondesRestantes()))}</span></div>
     </div>
     ${inv.length ? `<div class="section-titre"><h2>Inventaire</h2><span class="surtitre">${inv.length}</span></div>
-    <div class="bloc inventaire2">${inv.map((x) => `<button class="inv-ligne pressable" data-uid="${esc(x.uid)}"><span class="inv-pk"><span class="k-mono">W</span></span><span class="inv-nom">${esc(x.type === 'mystere' ? 'Mystère' : libelle(x))}</span><i class="ph-bold ph-arrow-right"></i></button>`).join('')}</div>` : ''}
+    <div class="bloc inventaire2">${inv.map((x) => `<button class="inv-ligne pressable" data-uid="${esc(x.uid)}">${visuelPaquet(x, 'mini')}<span class="inv-nom">${esc(x.type === 'mystere' ? 'Mystère' : libelle(x))}</span><i class="ph-bold ph-arrow-right"></i></button>`).join('')}</div>` : ''}
     ${qdj && !qdj.faite ? `<button class="bloc qdj pressable" data-aller="questions" style="--t:${tq.c}">
       <div class="ligne1"><span class="tag or"><i class="ph-fill ph-star"></i>Question du jour</span><span class="tag"><i class="ph-bold ph-timer"></i>−${Math.round(config.get('gainQuestionDuJour') / 60)} h</span></div>
       <div class="q">${esc(qdj.question)}</div>
@@ -125,9 +126,11 @@ export function rendre(z) {
   orb.addEventListener('pointermove', (e) => { const r = pk.getBoundingClientRect(); pk.classList.add('tilt'); pk.style.setProperty('--ry', `${((e.clientX - r.left) / r.width - .5) * 26}deg`); pk.style.setProperty('--rx', `${(.5 - (e.clientY - r.top) / r.height) * 26}deg`); });
   orb.addEventListener('pointerleave', () => { pk.classList.remove('tilt'); pk.style.setProperty('--rx', '0deg'); pk.style.setProperty('--ry', '0deg'); });
   z.querySelectorAll('[data-uid]').forEach((b) => b.addEventListener('click', async () => {
+    const p = inventaire().find((x) => x.uid === b.dataset.uid), da = p && daPaquet(p);
     const r = ouvrirSpecial(b.dataset.uid); if (!r) return;
     vibrer(12);
-    await ouvrir(tirageDe(r), { nom: r.titre });
+    await ouvrir(tirageDe(r), { nom: r.mystere ? 'Mystère' : (da?.titre || r.titre), da });
+    if (r.mystere) toast('ph-question', r.titre);
     if (r.eclats) toast('ph-diamond', `+${fr(r.eclats)}`);
     rendre(z);
   }));

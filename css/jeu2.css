@@ -90,3 +90,41 @@
 .jp-tps.neg { color: var(--rouge); }
 .jp-n { display: inline-flex; align-items: center; gap: 4px; font: 600 14px var(--mono); color: var(--vert); min-width: 44px; justify-content: flex-end; }
 .jp-n.neg { color: var(--texte-3); }
+
+/* inventaire : la miniature reprend l'habillage du paquet (couleur du thème, images, lettre, icône) */
+.pki.mini { width: 40px; height: 58px; padding: 4px; border-radius: 7px; flex: none; }
+.pki.mini::after, .pki.mini .pki-haut, .pki.mini .pki-nom { display: none; }
+.pki.mini .pki-ic { font-size: 19px; }
+.pki.mini .pki-lettre { font-size: 28px; }
+.pki.t-mystere { background: radial-gradient(90% 60% at 50% 40%, #3a3346, #121016 75%); }
+.pki.t-inedit .pki-ic, .pki.t-plancher .pki-ic, .pki.t-grand .pki-ic, .pki.t-mystere .pki-ic { color: var(--t); }
+
+/* ouverture d'un paquet spécial : son habillage sur l'emballage */
+.pk.da .pk-part {
+  background:
+    linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%,
+    radial-gradient(90% 60% at 50% 45%, color-mix(in srgb, var(--t) 30%, #2b2835), #141218 78%),
+    #141218;
+  box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--t) 55%, transparent) inset;
+}
+.pk-fond { position: absolute; inset: 0; opacity: .55; }
+.pk-fond .pki-img, .pk-fond .pki-mosaique { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.pk-fond .pki-mosaique { display: grid; grid-template-columns: 1fr 1fr; }
+.pk-fond .pki-mosaique img { width: 100%; height: 100%; object-fit: cover; }
+.pk-fond::after { content: ''; position: absolute; inset: 0; background: linear-gradient(#14121866, #141218cc 55%, color-mix(in srgb, var(--t) 35%, #141218) 100%); }
+.pk.da .pk-sous { font: 600 11px var(--sans); letter-spacing: .32em; text-transform: uppercase; color: var(--t); }
+.pk.da .pk-marque { gap: 24px; }
+.pk.da .k-mono { color: var(--t); box-shadow: 0 0 0 1px color-mix(in srgb, var(--t) 70%, transparent), 0 0 0 .22em #0e0d12, 0 0 0 calc(.22em + 1px) color-mix(in srgb, var(--t) 30%, transparent), 0 0 2em color-mix(in srgb, var(--t) 30%, transparent); }
+.pk.da .k-mono i { font-size: .8em; }
+.pk.da .pk-nom { color: color-mix(in srgb, var(--t) 70%, #fff); }
+.pk.t-sommet .pk-part { background: linear-gradient(115deg, transparent 30%, #ffffff55 45%, transparent 60%) 0 0 / 250% 100%, linear-gradient(160deg, #7a5517, #f8e1a1 30%, #c48f2c 55%, #fff4cc 75%, #9a6b1f); }
+.pk.t-sommet .pk-nom, .pk.t-sommet .pk-sous, .pk.t-sommet .pk-nb { color: #3a2706; }
+.pk.t-mystere .pk-part { background: linear-gradient(115deg, transparent 30%, #ffffff14 45%, transparent 60%) 0 0 / 250% 100%, radial-gradient(90% 60% at 50% 40%, #3a3346, #121016 75%); }
+/* Duo : les deux thèmes, chacun sa moitié */
+.pki.t-duo { background: linear-gradient(135deg, color-mix(in srgb, var(--t) 30%, #141218) 0 50%, color-mix(in srgb, var(--t2) 30%, #141218) 50% 100%); }
+.pki-duo { display: flex; gap: 2px; align-items: center; justify-content: center; }
+.pki-duo i { font-size: .8em; }
+.pki.mini .pki-duo i { font-size: 13px; }
+.pk.t-duo .pk-part { background: linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%, linear-gradient(135deg, color-mix(in srgb, var(--t) 28%, #141218) 0 50%, color-mix(in srgb, var(--t2) 28%, #141218) 50% 100%); }
+.pk.t-duo .k-mono { display: flex; gap: .1em; }
+.pk.t-duo .k-mono i { font-size: .55em; }

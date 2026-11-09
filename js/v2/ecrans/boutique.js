@@ -59,6 +59,7 @@ function decrire(o) {
       const [a, b] = p.slugs || [];
       d.titre = `${nomCol(a)} et ${nomCol(b)}`; d.slugs = [a, b];
       d.t = teinte(donnees.collections.find((c) => c.slug === a)?.theme);
+      d.t2 = teinte(donnees.collections.find((c) => c.slug === b)?.theme);
       const ia = idsCol(a), ib = idsCol(b);
       d.ids = [...new Set([...ia, ...ib])]; d.chances = melange([[.5, parts(ia)], [.5, parts(ib)]]); break;
     }
@@ -83,22 +84,38 @@ function decrire(o) {
 
 const vitrines = (d, n = 4) => d.cartes.filter((c) => possede(c.id)).sort((a, b) => RANG(b.rarete) - RANG(a.rarete) || b.pv - a.pv).slice(0, n);
 
-function htmlVisuel(d, grand = false) {
+/* Fond illustré d'un paquet : cartes déjà possédées de son thème, de ses collections ou de sa lettre
+   (jamais une carte qu'on n'a pas : le contenu reste secret). */
+function fondDe(d, grand = false) {
   const src = (c) => esc(grand ? c.imageUrl : c.thumbUrl);
-  let fond = '', ic = '';
   if (d.type === 'theme' || d.type === 'duo') {
     const im = d.type === 'duo' ? vitrinesDuo(d) : vitrines(d, 4);
-    if (im.length) fond = `<div class="pki-mosaique">${im.map((c) => `<img src="${src(c)}" alt="" loading="lazy">`).join('')}</div>`;
+    if (im.length) return `<div class="pki-mosaique">${im.map((c) => `<img src="${src(c)}" alt="" loading="lazy">`).join('')}</div>`;
   } else if (d.type === 'collection' || d.type === 'initiale') {
     const im = vitrines(d, 1)[0];
-    if (im) fond = `<img class="pki-img" src="${src(im)}" alt="" loading="lazy">`;
+    if (im) return `<img class="pki-img" src="${src(im)}" alt="" loading="lazy">`;
   }
-  if (!fond) ic = d.type === 'initiale' ? `<span class="pki-ic pki-lettre">${esc(d.titre)}</span>` : `<i class="ph-fill ${d.t.ic} pki-ic"></i>`;
-  return `<div class="pki t-${d.type}${grand ? ' grand' : ''}" style="--t:${d.t.c}">${fond}<div class="pki-voile"></div>
+  return '';
+}
+
+function htmlVisuel(d, grand = false, classe = '') {
+  const fond = fondDe(d, grand);
+  // la lettre d'un paquet Initiale se voit toujours, même sur une image
+  const ic = d.type === 'initiale' ? `<span class="pki-ic pki-lettre">${esc(d.titre)}</span>`
+    : fond ? '' : d.type === 'duo' && d.t2 ? `<span class="pki-ic pki-duo"><i class="ph-fill ${d.t.ic}" style="color:${d.t.c}"></i><i class="ph-fill ${d.t2.ic}" style="color:${d.t2.c}"></i></span>`
+    : `<i class="ph-fill ${d.t.ic} pki-ic"></i>`;
+  return `<div class="pki t-${d.type}${grand ? ' grand' : ''}${classe ? ' ' + classe : ''}" style="--t:${d.t.c};--t2:${(d.t2 || d.t).c}">${fond}<div class="pki-voile"></div>
     <div class="pki-haut"><span class="k-mono">W</span></div>${ic}
     <div class="pki-nom">${esc(d.titre)}</div></div>`;
 }
 // duo : la plus belle carte possédée de chaque collection
+/* Visuel et habillage d'un paquet spécial de l'inventaire (même forme qu'une offre : {type, params}). */
+export const visuelPaquet = (p, classe = '') => htmlVisuel(decrire(p), false, classe);
+export function daPaquet(p) {
+  const d = decrire(p);
+  return { type: p.type, c: d.t.c, c2: (d.t2 || d.t).c, ic: d.t.ic, ic2: d.t2?.ic, sous: d.sous, titre: d.titre, lettre: p.type === 'initiale' ? d.titre : null, fond: fondDe(d, true) };
+}
+
 function vitrinesDuo(d) {
   const out = [];
   for (const slug of d.slugs || []) {
@@ -235,10 +252,11 @@ export function rendre(z, options = {}) {
         const res = acheter(o.uid);
         if (!res.ok) { son('faux'); toast('ph-warning', res.raison === 'solde insuffisant' ? 'Solde insuffisant' : 'Offre disparue'); return; }
         son('achat'); vibrer(15);
-        const uid = inventaire().at(-1)?.uid;
-        const r = uid && ouvrirSpecial(uid);
+        const p = inventaire().at(-1), da = p && daPaquet(p);
+        const r = p && ouvrirSpecial(p.uid);
         if (r) {
-          await ouvrir(tirageDe(r), { nom: r.titre });
+          await ouvrir(tirageDe(r), { nom: r.mystere ? 'Mystère' : (da?.titre || r.titre), da });
+          if (r.mystere) toast('ph-question', r.titre);
           if (r.eclats) toast('ph-diamond', `+${fr(r.eclats)}`);
         }
       } finally {

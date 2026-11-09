@@ -15,16 +15,19 @@ const phrase = (d) => { const s = (d || '').replace(/\s*\([^)]*\)/g, '').replace
 // tirage = [{ carte, neuve }] ; renvoie une promesse résolue à la fermeture
 // options d'essai : `direct` saute la déchirure ; `avant(r, ctx)` joue une anticipation avant le retournement ;
 // `effet(r, ctx)` remplace l'effet de révélation (s'il renvoie undefined, l'effet habituel est joué)
-export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant = null, effet: effetPerso = null, classe = '' } = {}) {
+export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant = null, effet: effetPerso = null, classe = '', da = null } = {}) {
   const suite = tirage.map((t, i) => ({ ...t, i })).sort((a, b) => ORDRE[a.carte.rarete] - ORDRE[b.carte.rarete] || a.i - b.i);
   const ov = document.createElement('div');
   ov.className = 'ov2' + (classe ? ' ' + classe : '');
-  const marque = `<div class="pk-marque"><div class="k-mono">W</div><div class="pk-nom">${esc(nom)}</div><div class="pk-nb">${suite.length} CARTE${suite.length > 1 ? 'S' : ''}</div></div>`;
+  // habillage d'un paquet spécial : couleur de son thème, images de ses cartes, lettre ou icône
+  const mono = da ? (da.lettre ? esc(da.lettre) : da.ic2 ? `<i class="ph-fill ${da.ic}" style="color:${da.c}"></i><i class="ph-fill ${da.ic2}" style="color:${da.c2}"></i>` : `<i class="ph-fill ${da.ic}"></i>`) : 'W';
+  const fond = da?.fond ? `<div class="pk-fond">${da.fond}</div>` : '';
+  const marque = `${fond}<div class="pk-marque">${da && da.sous !== nom ? `<div class="pk-sous">${esc(da.sous)}</div>` : ''}<div class="k-mono">${mono}</div><div class="pk-nom">${esc(nom)}</div><div class="pk-nb">${suite.length} CARTE${suite.length > 1 ? 'S' : ''}</div></div>`;
   ov.innerHTML = `
     <div class="ov2-voile"></div>
     <div class="ov2-fx"></div>
     <div class="ov2-scene">
-      <div class="pk-boite"><div class="pk">
+      <div class="pk-boite"><div class="pk${da ? ` da t-${da.type}` : ''}"${da ? ` style="--t:${da.c};--t2:${da.c2 || da.c}"` : ''}>
         <div class="pk-part pk-corps">${marque}</div>
         <div class="pk-part pk-haut">${marque}</div>
         <svg class="pk-trace"><polyline/></svg>

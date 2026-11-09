@@ -20,6 +20,7 @@ import { crediterEclats } from '../portefeuille.js';
 import { toutesQuestions, estCorrecte } from '../questions.js';
 import { jourDeJeu } from '../jour.js';
 import { compterBonne } from '../serie.js';
+import { noterRatee, annulerRatee } from './banco.js';
 import { RARETES } from './carte.js';
 
 const RANG = (r) => RARETES.indexOf(r);
@@ -119,6 +120,7 @@ export function repondreDefi(q, saisie) {
   const d = defi(), c = carteDuJour();
   const ok = estCorrecte(q, saisie);
   d.derniere = { id: q.id, ok, scoreAvant: d.score, pts: pointsDe(q) };
+  if (!ok) noterRatee(q.id, d.jour);
   return compter(d, c, ok, d.score, d.derniere.pts);
 }
 function compter(d, c, ok, scoreAvant, [gain, perte]) {
@@ -139,6 +141,7 @@ export function corrigerDefi() {
   const d = defi(), c = carteDuJour(), x = d.derniere;
   if (!x || x.ok || !c) return null;
   x.ok = true;
+  annulerRatee(x.id, d.jour);
   return compter(d, c, true, x.scoreAvant, x.pts);
 }
 

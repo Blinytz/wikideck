@@ -7,6 +7,7 @@ import { config } from '../../config.js';
 import { initPaquets, secondesRestantes, ouvrirPaquet } from '../../paquets.js';
 import { inventaire, ouvrirSpecial, libelle } from '../../speciaux.js';
 import { visuelPaquet, daPaquet } from './boutique.js';
+import { htmlBlocBanco, brancherBanco } from '../banco-ui.js';
 import { s as serie, bonnesDuJour, prochainPalier } from '../../serie.js';
 import { questionDuJour, estCorrecte } from '../../questions.js';
 import { historique } from '../../acquisition.js';
@@ -84,6 +85,7 @@ export function rendre(z) {
         ${d.gagne ? '<span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span>' : `<span class="tag"><i class="ph-fill ph-target"></i>${d.score} / ${CIBLE_DEFI[cdj.rarete]}</span>${htmlJauge(d.score, CIBLE_DEFI[cdj.rarete])}`}
         <p>${esc(phrase(cdj.description))}</p></div>
     </button>` : ''}
+    ${htmlBlocBanco()}
     ${htmlTicketBloc()}
     ${htmlFragBande()}
     <div class="duo">
@@ -121,6 +123,7 @@ export function rendre(z) {
     rendre(z);
   };
   $('#ouvrir', z)?.addEventListener('click', lancer);
+  brancherBanco(z, () => rendre(z));
   const pk = $('#paquets', z), orb = $('.orbite', z);
   pk.addEventListener('click', lancer);
   orb.addEventListener('pointermove', (e) => { const r = pk.getBoundingClientRect(); pk.classList.add('tilt'); pk.style.setProperty('--ry', `${((e.clientX - r.left) / r.width - .5) * 26}deg`); pk.style.setProperty('--rx', `${(.5 - (e.clientY - r.top) / r.height) * 26}deg`); });

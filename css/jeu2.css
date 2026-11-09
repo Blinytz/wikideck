@@ -128,3 +128,44 @@
 .pk.t-duo .pk-part { background: linear-gradient(115deg, transparent 30%, #ffffff1c 45%, transparent 60%) 0 0 / 250% 100%, linear-gradient(135deg, color-mix(in srgb, var(--t) 28%, #141218) 0 50%, color-mix(in srgb, var(--t2) 28%, #141218) 50% 100%); }
 .pk.t-duo .k-mono { display: flex; gap: .1em; }
 .pk.t-duo .k-mono i { font-size: .55em; }
+
+/* Banco et Super Banco : deux tuiles sur l'accueil */
+.banco-duo { margin-bottom: 14px; }
+.banco-t { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; text-align: left; --b: #f2c66d; }
+.banco-t.superBanco { --b: #ff7fc3; }
+.banco-t .haut { display: flex; justify-content: space-between; align-items: center; width: 100%; }
+.banco-t .haut i { color: var(--b); font-size: 20px; }
+.bt-nom { font: 400 26px/1 var(--serif); color: color-mix(in srgb, var(--b) 75%, #fff); }
+.banco-t.pret { box-shadow: 0 0 0 1px color-mix(in srgb, var(--b) 45%, transparent) inset, 0 0 30px -12px var(--b); }
+.banco-t.pret .tag { background: color-mix(in srgb, var(--b) 18%, transparent); color: var(--b); }
+.banco-t.ferme { opacity: .55; }
+.banco-t.fait .tag { color: var(--vert); }
+.banco-t.non { animation: rechute .45s; }
+
+/* partie */
+.banco-f { --b: #f2c66d; background: radial-gradient(120% 60% at 50% 0%, color-mix(in srgb, var(--b) 22%, #0b0b0f), #0b0b0f 70%); }
+.banco-f.superBanco { --b: #ff7fc3; }
+.bk-tete { text-align: center; padding: 4px 16px 6px; }
+.bk-tete h2 { margin: 0 0 12px; font: 400 44px/1 var(--serif); color: color-mix(in srgb, var(--b) 80%, #fff); text-shadow: 0 0 30px color-mix(in srgb, var(--b) 50%, transparent); }
+.bk-perles { display: flex; justify-content: center; gap: 6px; }
+.bk-perles i { width: 10px; height: 10px; border-radius: 50%; background: #ffffff1c; }
+.bk-perles i.ok { background: var(--vert); box-shadow: 0 0 8px #5ee0a888; }
+.bk-perles i.ko { background: var(--rouge); }
+.bk-perles i.cour { box-shadow: 0 0 0 1.5px var(--b) inset; }
+.bk-num { font: 500 12px var(--mono); color: var(--texte-3); }
+.banco-f .verdict { flex-wrap: wrap; }
+.banco-f .verdict .txt { min-width: 120px; }
+.bk-paliers { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; margin-top: 18px; }
+.bk-pal { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 8px 0 7px; border-radius: 12px; background: #ffffff08; opacity: .45; transition: opacity .3s, box-shadow .3s; }
+.bk-pal .rar-ico { width: 18px; height: 18px; }
+.bk-pal .bk-n { font: 600 12px var(--mono); color: var(--texte-3); }
+.bk-pal b { font: 600 12px var(--mono); }
+.bk-pal.on { opacity: 1; background: color-mix(in srgb, var(--rar) 14%, transparent); box-shadow: 0 0 0 1px color-mix(in srgb, var(--rar) 55%, transparent) inset; }
+.bk-fin { text-align: center; padding-top: 10px; }
+.bk-fin h3 { margin: 6px 0 4px; font: 400 40px/1 var(--serif); }
+.bk-fin.total h3 { color: var(--b); text-shadow: 0 0 30px var(--b); }
+.bk-gains { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 18px 0 22px; }
+.bk-gains span { display: inline-flex; align-items: center; gap: 6px; padding: 8px 12px; border-radius: 99px; background: color-mix(in srgb, var(--rar) 14%, transparent); box-shadow: 0 0 0 1px color-mix(in srgb, var(--rar) 45%, transparent) inset; font: 500 13px var(--sans); }
+.bk-gains .rar-ico { width: 16px; height: 16px; }
+.bk-gains b { font: 600 13px var(--mono); }
+.bk-fin .btn2 { margin-top: 18px; min-width: 140px; }

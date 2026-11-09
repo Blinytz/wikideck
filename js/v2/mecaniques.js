@@ -19,6 +19,7 @@ import { valeurVente } from '../eclats.js';
 import { crediterEclats } from '../portefeuille.js';
 import { toutesQuestions, estCorrecte } from '../questions.js';
 import { jourDeJeu } from '../jour.js';
+import { compterBonne } from '../serie.js';
 import { RARETES } from './carte.js';
 
 const RANG = (r) => RARETES.indexOf(r);
@@ -123,6 +124,7 @@ export function repondreDefi(q, saisie) {
 function compter(d, c, ok, scoreAvant, [gain, perte]) {
   const delta = ok ? gain : -perte;
   d.score = Math.max(0, scoreAvant + delta);
+  if (ok) compterBonne(d.jour);
   d.record = Math.max(d.record, d.score);
   let resultat = null;
   if (ok && !d.gagne && d.score >= CIBLE_DEFI[c.rarete]) {

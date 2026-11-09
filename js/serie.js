@@ -1,5 +1,5 @@
-// Série quotidienne (spec §4) : 10 bonnes réponses par jour de jeu (hors
-// question du jour), paliers récompensés, Gels consommés automatiquement.
+// Série quotidienne (spec §4) : 10 bonnes réponses par jour de jeu (questions,
+// question du jour et défi de la carte du jour), paliers récompensés, Gels consommés automatiquement.
 
 import { etat, sauvegarder } from './etat.js';
 import { config } from './config.js';
@@ -79,11 +79,16 @@ export function traiterJours() {
 
 export function bonnesDuJour() { return s().jours[jourDeJeu()] || 0; }
 
-surReponse((entree, signe) => {
-  if (entree.qdj || !entree.correct) return;
+/* Une bonne réponse de plus (ou de moins, sur correction) pour le jour donné.
+   Comptent : l'écran Questions, la question du jour et le défi de la carte du jour. */
+export function compterBonne(jour, signe = 1) {
   const e = s();
-  const n = (e.jours[entree.jour] || 0) + signe;
-  e.jours[entree.jour] = Math.max(0, n);
-  if (n >= config.get('bonnesParJour')) valider(entree.jour);
+  const n = (e.jours[jour] || 0) + signe;
+  e.jours[jour] = Math.max(0, n);
+  if (n >= config.get('bonnesParJour')) valider(jour);
   sauvegarder();
+}
+
+surReponse((entree, signe) => {
+  if (entree.correct) compterBonne(entree.jour, signe);
 });

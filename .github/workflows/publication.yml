@@ -35,3 +35,6 @@ jobs:
           path: .
       - id: deploiement
         uses: actions/deploy-pages@v4
+        with:
+          # 3,3 Go d'images : la recopie côté GitHub dépasse parfois les 10 min par défaut
+          timeout: 1800000

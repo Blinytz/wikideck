@@ -105,14 +105,18 @@ export function questionDefi() {
   let pool = banque.filter((q) => !d.vues.includes(q.id));
   if (!pool.length) { d.vues = []; pool = banque; }
   const q = hasard(pool);
-  d.vues.push(q.id); sauvegarder();
+  d.vues.push(q.id); d.derniere = null; sauvegarder();
   return q;
 }
 /* Réponse au défi : renvoie { ok, suite, gagne, resultat } ; la carte est ajoutée à la victoire. */
 export function repondreDefi(q, saisie) {
   const d = defi(), c = carteDuJour();
   const ok = estCorrecte(q, saisie);
-  d.suite = ok ? d.suite + 1 : 0;
+  d.derniere = { id: q.id, ok, suiteAvant: d.suite };
+  return compter(d, c, ok, d.suite);
+}
+function compter(d, c, ok, suiteAvant) {
+  d.suite = ok ? suiteAvant + 1 : 0;
   d.record = Math.max(d.record, d.suite);
   let resultat = null;
   if (ok && !d.gagne && d.suite >= SERIE_DEFI[c.rarete]) {
@@ -121,6 +125,13 @@ export function repondreDefi(q, saisie) {
   }
   sauvegarder();
   return { ok, suite: d.suite, gagne: d.gagne, resultat };
+}
+/* « J'avais bon » : la dernière réponse refusée compte finalement comme juste. */
+export function corrigerDefi() {
+  const d = defi(), c = carteDuJour(), x = d.derniere;
+  if (!x || x.ok || !c) return null;
+  x.ok = true;
+  return compter(d, c, true, x.suiteAvant);
 }
 
 /* ---------------- ticket à gratter ---------------- */

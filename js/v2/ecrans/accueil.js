@@ -16,7 +16,7 @@ import { ouvrir, tirageDe } from '../effets.js';
 import { fiche, vitrine } from '../fiche.js';
 import { htmlFragBande } from '../fragments.js';
 import {
-  possede, fragments, defi, carteDuJour, questionDefi, repondreDefi, SERIE_DEFI,
+  possede, fragments, defi, carteDuJour, questionDefi, repondreDefi, corrigerDefi, SERIE_DEFI,
   ticket, A_GRATTER, estGros, choisirCase, gratter, encaisserTicket, cartesEnAttente,
 } from '../mecaniques.js';
 
@@ -194,16 +194,21 @@ function ouvrirDefi(c, zAccueil) {
       e.preventDefault();
       if (!inp.value.trim() || inp.disabled) return;
       inp.disabled = true; bt.disabled = true;
-      const r = repondreDefi(q, inp.value);
-      $('#dq', f).classList.add(r.ok ? 'juste' : 'faux');
+      montrer(repondreDefi(q, inp.value));
+    });
+    const montrer = (r) => {
+      const dq = $('#dq', f); dq.classList.remove('juste', 'faux'); void dq.offsetWidth;
+      dq.classList.add(r.ok ? 'juste' : 'faux');
       majSuite(!r.ok);
       if (r.resultat) { setTimeout(() => gagner(r.resultat), 500); return; }
       vibrer(r.ok ? 20 : [30, 40, 30]); son(r.ok ? 'juste' : 'faux');
       const v = $('#dvd', f); v.className = `verdict vu ${r.ok ? 'ok' : 'ko'}`;
-      v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${r.ok ? `${r.suite} / ${N}` : 'Série perdue'}</span></div><button class="btn2 petit" id="ds">${r.ok ? 'Suivante' : 'Recommencer'}</button>`;
+      v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${r.ok ? `${r.suite} / ${N}` : 'Série perdue'}</span></div>
+        <div class="q-actions">${r.ok ? '' : '<button class="btn2 fantome petit q-corr" id="dcorr">J’avais bon</button>'}<button class="btn2 petit" id="ds">${r.ok ? 'Suivante' : 'Recommencer'}</button></div>`;
       $('#ds', f).addEventListener('click', () => { son('tap'); poser(); });
+      $('#dcorr', f)?.addEventListener('click', () => { const r2 = corrigerDefi(); if (r2) montrer(r2); });
       $('#ds', f).focus({ preventScroll: true });
-    });
+    };
   };
   poser();
 }

@@ -30,9 +30,41 @@ function parId(id) { return source.find(x => x.id === id); }
 /* ---------- validation ---------- */
 const ARTICLES = /^(le|la|les|l|un|une|des|du|de|d|au|aux|the|a|an)\s+/;
 export function normaliser(s) {
-  return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+  return enChiffres(String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[’'`]/g, ' ').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim()
-    .replace(ARTICLES, '').replace(ARTICLES, '');
+    .replace(ARTICLES, '').replace(ARTICLES, ''));
+}
+
+/* Nombres écrits en lettres -> chiffres, des deux côtés (« Six » = « 6 »,
+   « quatre-vingt-dix-sept » = « 97 », « deux mille trois » = « 2003 »). */
+const UNITES = { zero: 0, un: 1, une: 1, deux: 2, trois: 3, quatre: 4, cinq: 5, six: 6, sept: 7, huit: 8, neuf: 9, dix: 10,
+  onze: 11, douze: 12, treize: 13, quatorze: 14, quinze: 15, seize: 16, vingt: 20, vingts: 20, trente: 30, quarante: 40,
+  cinquante: 50, soixante: 60, septante: 70, huitante: 80, octante: 80, nonante: 90 };
+const MULTIPLES = { cent: 100, cents: 100, mille: 1000, million: 1e6, millions: 1e6, milliard: 1e9, milliards: 1e9 };
+const estNombre = (m) => m in UNITES || m in MULTIPLES;
+function valeur(mots) {
+  let total = 0, cour = 0;
+  for (const m of mots) {
+    if (m === 'et') continue;
+    if (m in UNITES) {
+      const v = UNITES[m];
+      // quatre-vingt(s) : 4 x 20
+      if (v === 20 && cour % 100 === 4) cour += 76; else cour += v;
+    } else if (MULTIPLES[m] === 100) cour = (cour || 1) * 100;
+    else { total += (cour || 1) * MULTIPLES[m]; cour = 0; }
+  }
+  return total + cour;
+}
+function enChiffres(s) {
+  const mots = s.split(' '), out = [];
+  for (let i = 0; i < mots.length;) {
+    if (!estNombre(mots[i])) { out.push(mots[i++]); continue; }
+    let j = i;
+    while (j < mots.length && (estNombre(mots[j]) || (mots[j] === 'et' && estNombre(mots[j + 1] || '')))) j++;
+    out.push(String(valeur(mots.slice(i, j))));
+    i = j;
+  }
+  return out.join(' ');
 }
 function levenshtein(a, b) {
   const m = a.length, n = b.length;

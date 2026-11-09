@@ -26,3 +26,8 @@
 /* l'ancien style donne à sa racine la hauteur de l'écran (règle du <body> d'origine) :
    sur les calques et les écrans secondaires, cela ajoutait un écran vide sous la page */
 #overlays.ancien, .sec-corps.ancien { min-height: 0; }
+
+/* clavier ouvert : de la place pour remonter la question au-dessus du clavier */
+.page::after, .fiche::after { content: ''; display: block; height: var(--clavier, 0px); }
+.q-carte { scroll-margin-top: 14px; }
+.fiche .q-carte { scroll-margin-top: calc(64px + env(safe-area-inset-top)); }

@@ -131,10 +131,30 @@ async function demarrer() {
 
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).catch((e) => console.warn('Service worker non enregistré :', e));
   surveillerVersion();
+  suivreClavier();
   window.gachaDebug = { etat, donnees, sauvegarderMaintenant, aller };
   sauvegarderMaintenant();
 
   setTimeout(() => { $('#attente').classList.add('parti'); setTimeout(() => $('#attente')?.remove(), 500); }, Math.max(0, 700 - (performance.now() - debut)));
+}
+
+/* Clavier du téléphone : il recouvre le bas de l'écran sans le redimensionner.
+   On mesure la place qu'il prend et on remonte la question juste au-dessus du champ. */
+function suivreClavier() {
+  const vv = window.visualViewport;
+  if (!vv) return;
+  let attente = null;
+  const caler = () => {
+    const clavier = Math.max(0, Math.round(innerHeight - vv.height - vv.offsetTop));
+    document.documentElement.style.setProperty('--clavier', `${clavier}px`);
+    const champ = document.activeElement;
+    if (clavier < 80 || champ?.tagName !== 'INPUT') return;
+    const carte = champ.closest('.fiche, .ecran')?.querySelector('.q-carte');
+    if (carte) { clearTimeout(attente); attente = setTimeout(() => carte.scrollIntoView({ block: 'start', behavior: 'smooth' }), 60); }
+  };
+  vv.addEventListener('resize', caler);
+  document.addEventListener('focusin', (e) => { if (e.target.tagName === 'INPUT') setTimeout(caler, 350); });
+  document.addEventListener('focusout', () => setTimeout(caler, 100));
 }
 
 /* Une appli installée garde le code de son premier lancement : on relit l'estampille

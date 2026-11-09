@@ -417,12 +417,12 @@ body[data-ecran="accueil"] #ambiance { opacity: 1; }
 .ticket-bloc .perles i { width: 9px; height: 9px; }
 .ticket-bloc .perles i.on { background: var(--or); box-shadow: 0 0 8px #f2c66d99; }
 .tb-mini { position: relative; display: grid; grid-template-columns: repeat(3, 28px); gap: 4px; padding: 8px; border-radius: 14px; background: linear-gradient(150deg, #2c2313, #110d07); box-shadow: 0 0 0 1px #f2c66d40 inset, 0 12px 26px -10px #000; transform: rotate(-5deg); }
-.tb-mini i { position: relative; overflow: hidden; width: 28px; height: 28px; border-radius: 7px; display: grid; place-items: center; font-size: 15px; background: linear-gradient(135deg, #fff3c2, #d6a447 40%, #fbe6a6 58%, #b47d28); }
-.tb-mini i .rar-ico { font-size: 13px; }
-.tb-mini i.vu { background: #0b0b0f; box-shadow: 0 0 0 1px #ffffff1a inset; }
-.ticket-bloc:not(.fait) .tb-mini i:not(.vu)::after { content: ''; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 30%, #ffffffaa 50%, transparent 70%); translate: -130% 0; animation: reflet 3.4s ease-in-out infinite; animation-delay: calc(var(--k, 0) * 70ms); }
+.tb-mini > i { position: relative; overflow: hidden; width: 28px; height: 28px; border-radius: 7px; display: grid; place-items: center; font-size: 15px; background: linear-gradient(135deg, #fff3c2, #d6a447 40%, #fbe6a6 58%, #b47d28); }
+.tb-mini > i .rar-ico { font-size: 13px; }
+.tb-mini > i.vu { background: #0b0b0f; box-shadow: 0 0 0 1px #ffffff1a inset; }
+.ticket-bloc:not(.fait) .tb-mini > i:not(.vu)::after { content: ''; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 30%, #ffffffaa 50%, transparent 70%); translate: -130% 0; animation: reflet 3.4s ease-in-out infinite; animation-delay: calc(var(--k, 0) * 70ms); }
 @keyframes reflet { 0%, 55% { translate: -130% 0; } 85%, 100% { translate: 130% 0; } }
-.ticket-bloc.fait .tb-mini i:not(.vu) { filter: brightness(.45) saturate(.5); }
+.ticket-bloc.fait .tb-mini > i:not(.vu) { filter: brightness(.45) saturate(.5); }
 
 .fiche.ticket { background: radial-gradient(120% 60% at 50% 0%, #3a2b10, var(--fond) 72%); }
 .tk-slots { display: flex; justify-content: center; gap: 12px; margin: 4px 0 20px; }

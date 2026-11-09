@@ -249,6 +249,8 @@ function peindreFeuille(cv) {
   g.font = `${Math.round(h * .46)}px 'Instrument Serif', serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
   g.fillStyle = '#7a4f1260'; g.fillText('W', w / 2, h / 2 + dp * 1.5); g.fillStyle = '#fff8dd70'; g.fillText('W', w / 2, h / 2 - dp);
 }
+// part de la case à découvrir avant qu'elle ne se révèle : le joueur la gratte presque entièrement
+const SEUIL_GRATTE = .92;
 function ouvrirTicket(zAccueil) {
   vibrer(); son('tap');
   const tk = ticket();
@@ -299,8 +301,8 @@ function ouvrirTicket(zAccueil) {
       if (!choisirCase(i)) return refus(i);
       bas = true; try { cv.setPointerCapture(e.pointerId); } catch {} prec = pt(e); trait(prec, [prec[0] + 1, prec[1]]);
     });
-    cv.addEventListener('pointermove', (e) => { if (!bas) return; const p = pt(e); trait(prec, p); prec = p; if (++coups % 7 === 0) { vibrer(3); if (ratio() > .5) { bas = false; finir(i); } } });
-    const lever = () => { if (bas && ratio() > .5) finir(i); bas = false; };
+    cv.addEventListener('pointermove', (e) => { if (!bas) return; const p = pt(e); trait(prec, p); prec = p; if (++coups % 7 === 0) { vibrer(3); if (ratio() > SEUIL_GRATTE) { bas = false; finir(i); } } });
+    const lever = () => { if (bas && ratio() > SEUIL_GRATTE) finir(i); bas = false; };
     cv.addEventListener('pointerup', lever); cv.addEventListener('pointercancel', lever);
   });
   const peindre = () => f.querySelectorAll('.tk-case:not(.vu):not(.manque) canvas').forEach(peindreFeuille);

@@ -16,7 +16,7 @@ import { ouvrir, tirageDe } from '../effets.js';
 import { fiche, vitrine } from '../fiche.js';
 import { htmlFragBande } from '../fragments.js';
 import {
-  possede, fragments, defi, carteDuJour, questionDefi, repondreDefi, corrigerDefi, SERIE_DEFI,
+  possede, fragments, defi, carteDuJour, questionDefi, repondreDefi, corrigerDefi, CIBLE_DEFI, pointsDe,
   ticket, A_GRATTER, estGros, choisirCase, gratter, encaisserTicket, cartesEnAttente,
 } from '../mecaniques.js';
 
@@ -29,6 +29,7 @@ document.addEventListener('click', async (e) => {
   const inv = window.invitePWA; inv.prompt();
   if ((await inv.userChoice).outcome === 'accepted') { window.invitePWA = null; document.querySelectorAll('.installer').forEach((b) => b.remove()); }
 });
+const htmlJauge = (score, cible) => `<div class="jauge-defi"><i style="width:${Math.min(100, score / cible * 100)}%"></i></div>`;
 const htmlPerles = (n, k) => `<div class="perles">${Array.from({ length: n }, (_, i) => `<i class="${i < k ? 'on' : ''}"></i>`).join('')}</div>`;
 const carte = (id) => donnees.parId.get(id);
 
@@ -77,9 +78,9 @@ export function rendre(z) {
       <div class="aller"><span class="tag teinte"><i class="ph-fill ${tq.ic}"></i>${esc(qdj.theme || '')}</span><i class="ph-bold ph-arrow-right"></i></div>
     </button>` : ''}
     ${cdj ? `<button class="bloc carte-jour pressable${d.gagne ? ' gagnee' : ''}" id="cdj" style="--t:${tc.c};--rar:var(--r-${cdj.rarete})">
-      <div class="${d.gagne ? '' : 'voile'}" style="--p:${Math.max(.12, d.suite / SERIE_DEFI[cdj.rarete])}">${htmlCarte(cdj)}</div>
+      <div class="${d.gagne ? '' : 'voile'}" style="--p:${Math.max(.12, d.score / CIBLE_DEFI[cdj.rarete])}">${htmlCarte(cdj)}</div>
       <div class="droite"><span class="surtitre">Carte du jour</span><h3>${esc(cdj.nom)}</h3>
-        ${d.gagne ? '<span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span>' : `<span class="tag"><i class="ph-fill ph-fire"></i>Série de ${SERIE_DEFI[cdj.rarete]}</span>${htmlPerles(SERIE_DEFI[cdj.rarete], d.suite)}`}
+        ${d.gagne ? '<span class="tag gagne"><i class="ph-fill ph-check-circle"></i>Gagnée</span>' : `<span class="tag"><i class="ph-fill ph-target"></i>${d.score} / ${CIBLE_DEFI[cdj.rarete]}</span>${htmlJauge(d.score, CIBLE_DEFI[cdj.rarete])}`}
         <p>${esc(phrase(cdj.description))}</p></div>
     </button>` : ''}
     ${htmlTicketBloc()}
@@ -152,20 +153,20 @@ export function tic(z) {
 /* ---------------- carte du jour : le défi ---------------- */
 function ouvrirDefi(c, zAccueil) {
   vibrer(); son('tap');
-  const N = SERIE_DEFI[c.rarete], d = defi();
+  const N = CIBLE_DEFI[c.rarete], d = defi();
   const { f, fermer } = ouvrirFeuille('defi', { surFermeture: () => rendre(zAccueil) });
   f.style.setProperty('--img', `url('${c.thumbUrl}')`);
   f.style.setProperty('--rar', `var(--r-${c.rarete})`);
   f.innerHTML = `<div class="flou"></div>
     <div class="barre-f"><button class="retour" id="dx" aria-label="Fermer"><i class="ph-bold ph-x"></i></button><span class="surtitre">Carte du jour</span><span class="record"><i class="ph-fill ph-trophy"></i>${d.record}</span></div>
-    <div class="defi-scene voile" style="--p:${Math.max(.08, d.suite / N)}">${htmlCarte(c, { image: 'full' })}</div>
-    <div class="defi-suite"><b id="dn">${d.suite}</b><span>/ ${N}</span>${htmlPerles(N, d.suite)}</div>
+    <div class="defi-scene voile" style="--p:${Math.max(.08, d.score / N)}">${htmlCarte(c, { image: 'full' })}</div>
+    <div class="defi-suite"><b id="dn">${d.score}</b><span>/ ${N}</span>${htmlJauge(d.score, N)}</div>
     <div class="defi-corps" id="dc"></div>`;
   $('#dx', f).addEventListener('click', () => { son('tap'); fermer(); });
   const majSuite = (ko) => {
-    $('.defi-scene', f).style.setProperty('--p', Math.max(.08, defi().suite / N));
-    $('#dn', f).textContent = defi().suite;
-    $('.defi-suite .perles', f).outerHTML = htmlPerles(N, defi().suite);
+    $('.defi-scene', f).style.setProperty('--p', Math.max(.08, defi().score / N));
+    $('#dn', f).textContent = defi().score;
+    $('.defi-suite .jauge-defi', f).outerHTML = htmlJauge(defi().score, N);
     $('.record', f).innerHTML = `<i class="ph-fill ph-trophy"></i>${defi().record}`;
     if (ko) { const sc = $('.defi-scene', f); sc.classList.remove('rechute'); void sc.offsetWidth; sc.classList.add('rechute'); }
   };
@@ -183,7 +184,7 @@ function ouvrirDefi(c, zAccueil) {
     const t = teinte(q.theme);
     dc.style.setProperty('--t', t.c);
     dc.innerHTML = `<div class="bloc q-carte" id="dq">
-        <div class="meta"><span class="tag teinte"><i class="ph-fill ${t.ic}"></i>${esc(q.theme || '')}</span><span class="diff">${[1, 2, 3, 4, 5].map((k) => `<i class="${k <= q.difficulte ? 'on' : ''}"></i>`).join('')}</span></div>
+        <div class="meta"><span class="tag teinte"><i class="ph-fill ${t.ic}"></i>${esc(q.theme || '')}</span><span class="pts-defi"><b>+${pointsDe(q)[0]}</b><span>−${pointsDe(q)[1]}</span><span class="diff">${[1, 2, 3, 4, 5].map((k) => `<i class="${k <= q.difficulte ? 'on' : ''}"></i>`).join('')}</span></span></div>
         <p class="q-texte">${esc(q.question)}</p></div>
       <form class="q-form" id="df"><input id="dr" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="send" placeholder="Réponse"><button disabled aria-label="Valider"><i class="ph-bold ph-arrow-up"></i></button></form>
       <div class="verdict" id="dvd"></div>`;
@@ -203,8 +204,8 @@ function ouvrirDefi(c, zAccueil) {
       if (r.resultat) { setTimeout(() => gagner(r.resultat), 500); return; }
       vibrer(r.ok ? 20 : [30, 40, 30]); son(r.ok ? 'juste' : 'faux');
       const v = $('#dvd', f); v.className = `verdict vu ${r.ok ? 'ok' : 'ko'}`;
-      v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${r.ok ? `${r.suite} / ${N}` : 'Série perdue'}</span></div>
-        <div class="q-actions">${r.ok ? '' : '<button class="btn2 fantome petit q-corr" id="dcorr">J’avais bon</button>'}<button class="btn2 petit" id="ds">${r.ok ? 'Suivante' : 'Recommencer'}</button></div>`;
+      v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(q.reponse)}</b><span>${r.delta >= 0 ? '+' : '−'}${Math.abs(r.delta)} · ${r.score} / ${N}</span></div>
+        <div class="q-actions">${r.ok ? '' : '<button class="btn2 fantome petit q-corr" id="dcorr">J’avais bon</button>'}<button class="btn2 petit" id="ds">Suivante</button></div>`;
       $('#ds', f).addEventListener('click', () => { son('tap'); poser(); });
       $('#dcorr', f)?.addEventListener('click', () => { const r2 = corrigerDefi(); if (r2) montrer(r2); });
       $('#ds', f).focus({ preventScroll: true });

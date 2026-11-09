@@ -80,10 +80,15 @@ export function fragmenter(cartes) {
 }
 
 /* ---------------- carte du jour : le défi ---------------- */
-export const SERIE_DEFI = { commune: 3, rare: 5, epique: 8, mythique: 10, legendaire: 12, pantheon: 15 };
+/* Défi en points : chaque question rapporte ou retire selon son niveau (1 à 5),
+   le score ne descend pas sous zéro ; la carte est gagnée à la cible. */
+export const CIBLE_DEFI = { commune: 10, rare: 20, epique: 30, mythique: 40, legendaire: 50, pantheon: 60 };
+export const POINTS_DEFI = { 1: [1, 10], 2: [3, 7], 3: [5, 5], 4: [7, 5], 5: [10, 5] };
+export const pointsDe = (q) => POINTS_DEFI[q?.difficulte] || POINTS_DEFI[3];
 export function defi() {
   const j = jourDeJeu();
-  if (etat.defi?.jour !== j) etat.defi = { jour: j, id: null, suite: 0, record: 0, gagne: false, vues: [] };
+  if (etat.defi?.jour !== j) etat.defi = { jour: j, id: null, score: 0, record: 0, gagne: false, vues: [] };
+  etat.defi.score ??= 0;
   return etat.defi;
 }
 /* La carte du jour : tirée de façon stable dans les cartes qu'on n'a pas. */
@@ -112,26 +117,27 @@ export function questionDefi() {
 export function repondreDefi(q, saisie) {
   const d = defi(), c = carteDuJour();
   const ok = estCorrecte(q, saisie);
-  d.derniere = { id: q.id, ok, suiteAvant: d.suite };
-  return compter(d, c, ok, d.suite);
+  d.derniere = { id: q.id, ok, scoreAvant: d.score, pts: pointsDe(q) };
+  return compter(d, c, ok, d.score, d.derniere.pts);
 }
-function compter(d, c, ok, suiteAvant) {
-  d.suite = ok ? suiteAvant + 1 : 0;
-  d.record = Math.max(d.record, d.suite);
+function compter(d, c, ok, scoreAvant, [gain, perte]) {
+  const delta = ok ? gain : -perte;
+  d.score = Math.max(0, scoreAvant + delta);
+  d.record = Math.max(d.record, d.score);
   let resultat = null;
-  if (ok && !d.gagne && d.suite >= SERIE_DEFI[c.rarete]) {
+  if (ok && !d.gagne && d.score >= CIBLE_DEFI[c.rarete]) {
     d.gagne = true;
     resultat = acquerir([c.id], { source: 'defi', type: 'carte-du-jour' });
   }
   sauvegarder();
-  return { ok, suite: d.suite, gagne: d.gagne, resultat };
+  return { ok, delta, score: d.score, gagne: d.gagne, resultat };
 }
 /* « J'avais bon » : la dernière réponse refusée compte finalement comme juste. */
 export function corrigerDefi() {
   const d = defi(), c = carteDuJour(), x = d.derniere;
   if (!x || x.ok || !c) return null;
   x.ok = true;
-  return compter(d, c, true, x.suiteAvant);
+  return compter(d, c, true, x.scoreAvant, x.pts);
 }
 
 /* ---------------- ticket à gratter ---------------- */

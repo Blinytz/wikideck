@@ -119,3 +119,7 @@
 .recap-grille .k:nth-child(5) { animation-delay: 240ms; }
 .recap-grille .k:nth-child(6) { animation-delay: 300ms; }
 .recap-grille .k:nth-child(7) { animation-delay: 360ms; }
+
+/* lien vers l'article, sous la légende de la carte révélée */
+.ov2-wiki { pointer-events: auto; display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 16px; border-radius: 99px; background: #ffffff14; box-shadow: 0 0 0 1px #ffffff22 inset; color: var(--texte); font: 600 13px var(--sans); text-decoration: none; }
+.ov2-wiki:active { transform: scale(.96); }

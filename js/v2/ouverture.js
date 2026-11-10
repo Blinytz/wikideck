@@ -5,6 +5,7 @@
 import { htmlCarte, brancherManipulation, RARETES, esc } from './carte.js';
 import { creerToile, AMBIANCES } from './particules.js';
 import { son } from './son.js';
+import { marquerLue } from '../acquisition.js';
 
 const ORDRE = Object.fromEntries(RARETES.map((r, i) => [r, i]));
 const COULEURS = { rare: '#cfdbe8', epique: '#b69cff', mythique: '#ff8fd6', legendaire: '#f2c66d', pantheon: '#ffffff' };
@@ -56,18 +57,25 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant =
     const bande = () => ({ h: pk.offsetHeight, w: pk.offsetWidth, min: pk.offsetHeight * .06, max: pk.offsetHeight * .3 });
     const local = (e) => { const r = pk.getBoundingClientRect(); return { x: e.clientX - r.left, y: e.clientY - r.top }; };
     const dessinerTrace = () => trace.setAttribute('points', pts.map((p) => `${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' '));
-    pk.addEventListener('pointerdown', (e) => {
-      if (fait) return;
+    // Le geste se prend sur tout l'écran : on coupe un paquet en partant de l'extérieur,
+    // le doigt entre par le bord gauche, à hauteur du haut du paquet, et continue vers la droite.
+    let depart = null;
+    ov.addEventListener('pointerdown', (e) => {
+      if (fait || pts || e.target.closest('button')) return;
       const b = bande(), p = local(e);
-      if (p.y > b.max + b.h * .12 || p.x > b.w * .35) { secouer(); return; }
+      const dansHaut = p.y > -b.h * .15 && p.y < b.max + b.h * .12;
+      if (!dansHaut || p.x > b.w * .35) { if (e.target.closest('.pk')) secouer(); return; }
+      depart = e.pointerId;
       pts = [{ x: Math.max(0, p.x), y: Math.min(b.max, Math.max(b.min, p.y)) }];
       pk.classList.add('trace'); boite.classList.add('tenu');
-      try { pk.setPointerCapture(e.pointerId); } catch {}
+      try { ov.setPointerCapture(e.pointerId); } catch {}
     });
-    pk.addEventListener('pointermove', (e) => {
-      if (!pts || fait) return;
+    ov.addEventListener('pointermove', (e) => {
+      if (!pts || fait || e.pointerId !== depart) return;
       const b = bande(), p = local(e), der = pts.at(-1);
-      if (p.x <= der.x + 1) return;   // la déchirure n'avance que vers la droite
+      if (p.x <= der.x + 1) return;   // la déchirure n'avance que vers la droite (hors du paquet : rien à couper)
+      // tant que le doigt est encore à gauche du paquet, la coupe démarre au bord, à sa hauteur
+      if (der.x === 0 && pts.length === 1 && p.x > 0) pts[0].y = Math.min(b.max, Math.max(b.min, p.y));
       pts.push({ x: Math.min(b.w, p.x), y: Math.min(b.max, Math.max(b.min, p.y)) });
       dessinerTrace();
       if (p.x >= b.w * .97) dechirer();
@@ -78,8 +86,8 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant =
       pts = null; pk.classList.remove('trace'); boite.classList.remove('tenu'); trace.setAttribute('points', '');
       if (avance < 20) secouer();
     };
-    pk.addEventListener('pointerup', lacher);
-    pk.addEventListener('pointercancel', lacher);
+    ov.addEventListener('pointerup', (e) => { if (e.pointerId === depart) lacher(); });
+    ov.addEventListener('pointercancel', (e) => { if (e.pointerId === depart) lacher(); });
     function secouer() { pk.classList.remove('secoue'); void pk.offsetWidth; pk.classList.add('secoue'); }
 
     async function dechirer() {
@@ -153,7 +161,9 @@ export function ouvrirPaquet(tirage, { nom = 'WikiDeck', direct = false, avant =
       if (t.neuve) el.querySelector('.k-in').insertAdjacentHTML('beforeend', '<span class="k-neuve">Nouvelle</span>');
       const perso = effetPerso?.(t.carte.rarete, contexte());
       const fini = perso !== undefined ? perso : effet(t.carte.rarete);
-      legende.innerHTML = `<span class="tag">${esc(t.carte.collection)}</span><p>${esc(phrase(t.carte.description))}</p>`;
+      legende.innerHTML = `<span class="tag">${esc(t.carte.collection)}</span><p>${esc(phrase(t.carte.description))}</p>
+        ${t.carte.lienWikipedia ? `<a class="ov2-wiki" href="${esc(t.carte.lienWikipedia)}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Wikipédia</a>` : ''}`;
+      legende.querySelector('.ov2-wiki')?.addEventListener('click', () => { marquerLue(t.carte.id); son('tap'); });
       legende.classList.add('vue');
       await fini;
       verrou = false;

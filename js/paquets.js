@@ -41,7 +41,9 @@ export function rattraperPaquets() {
   if (!p) return;
   const avant = p.prets;
   try { avancer(p); } finally { if (p.prets > avant) noter('minuteur', { n: p.prets - avant }); }
-  sauvegarder();
+  // l'horloge avance toute seule : on n'enregistre que si un paquet est sorti
+  // (sinon chaque seconde « modifiait » la partie et l'appareil écrasait le serveur)
+  if (p.prets !== avant) sauvegarder();
 }
 function avancer(p) {
   const duree = config.get('dureeBaseSecondes');

@@ -20,9 +20,33 @@ let synchroEnCours = false;
 // distante, lue avant ce geste, ne doit pas l'écraser (ticket gratté deux fois, 11/11/2026)
 let modifPendant = false;
 
+// Empreinte de ce que le joueur a fait, sans ce qui bouge tout seul (horloge du minuteur,
+// solde relu dans le registre commun, données de synchro) : seule une vraie action date la partie.
+const VOLATILS = new Set(['serveur', 'eclats', 'eclatsAttente', 'lastTs', 'progression', 'lastTick']);
+function empreinte() {
+  const s = JSON.stringify(etat, (k, v) => (VOLATILS.has(k) ? undefined : v));
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) h = Math.imul(h ^ s.charCodeAt(i), 16777619);
+  return `${s.length}:${h >>> 0}`;
+}
+let derniere = empreinte();
+
+let fusionne = false;   // la copie du serveur a été complétée par des gains de cet appareil
 function remplacerEtat(nouveau) {
+  fusionne = false;
+  // Filet : ce que cet appareil a gagné ne disparaît pas avec la copie du serveur
+  // (même partie seulement : après une remise à zéro, rien n'est repris).
+  const local = { creeLe: etat.creeLe, cartes: { ...(etat.cartes || {}) }, defi: etat.defi, lues: { ...(etat.lues || {}) } };
   for (const k of Object.keys(etat)) delete etat[k];
   Object.assign(etat, nouveau);
+  if (local.creeLe && local.creeLe === etat.creeLe) {
+    etat.cartes ??= {};
+    for (const [id, q] of Object.entries(local.cartes)) if (q > 0 && !(etat.cartes[id] > 0)) { etat.cartes[id] = q; fusionne = true; }
+    const nLues = Object.keys(etat.lues || {}).length;
+    etat.lues = { ...local.lues, ...(etat.lues || {}) };
+    if (Object.keys(etat.lues).length !== nLues) fusionne = true;
+    if (local.defi?.gagne && local.defi.jour === etat.defi?.jour && !etat.defi.gagne) { etat.defi = local.defi; fusionne = true; }
+  }
 }
 
 async function envoyer() {
@@ -42,7 +66,10 @@ async function envoyer() {
 // démarrage connecté, l'état le plus récemment modifié gagne
 surSauvegarde(() => {
   if (!etat.serveur?.actif) return;
+  const e = empreinte();
+  if (e === derniere) return;   // rien de joué depuis le dernier enregistrement
   if (synchroEnCours) { modifPendant = true; return; }
+  derniere = e;
   etat.serveur.modifieLe = Date.now();
   clearTimeout(minuterie);
   minuterie = setTimeout(envoyer, DELAI_ENVOI);
@@ -83,6 +110,9 @@ export async function demarrerSynchro() {
       if (!change) await ecrireEtat(etat);
     }
     synchroEnCours = false;
+    // la partie qu'on garde (serveur, ou appareil + actions faites pendant la lecture) devient la référence ;
+    // si l'appareil a gagné quelque chose que le serveur n'avait pas, la fusion est renvoyée
+    derniere = change && fusionne ? null : empreinte();
     sauvegarderMaintenant();
     await vider();   // aligne le compteur d'Éclats sur le registre commun
   } catch (e) {

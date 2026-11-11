@@ -38,7 +38,14 @@ export function compter(el, cle, vers, dur = 900) {
   const pas = (t) => { const p = Math.min(1, (t - t0) / dur), e = 1 - (1 - p) ** 3; el.innerHTML = fr(de + (vers - de) * e) + suffixe; if (p < 1) requestAnimationFrame(pas); };
   requestAnimationFrame(pas);
 }
-export function toast(ic, txt) { const t = document.createElement('div'); t.className = 'toast'; t.innerHTML = `<i class="ph-fill ${ic}"></i>${txt}`; document.body.append(t); setTimeout(() => t.remove(), 2500); }
+// les toasts s'empilent au lieu de se recouvrir : plusieurs gains d'un coup restent tous lisibles
+export function toast(ic, txt, duree = 2500) {
+  let pile = document.getElementById('toasts');
+  if (!pile) { pile = document.createElement('div'); pile.id = 'toasts'; document.body.append(pile); }
+  const t = document.createElement('div'); t.className = 'toast'; t.innerHTML = `<i class="ph-fill ${ic}"></i><span>${txt}</span>`;
+  t.style.animationDuration = `${duree}ms`;
+  pile.append(t); setTimeout(() => t.remove(), duree);
+}
 
 // navigation entre écrans : jeu.js écoute cet événement
 export const aller = (nom, options) => document.dispatchEvent(new CustomEvent('v2:aller', { detail: { nom, options } }));

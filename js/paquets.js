@@ -17,6 +17,7 @@ export function noter(src, { sec = 0, n = 0 } = {}) {
   const j = (etat.journalPaquets ??= []);
   j.push({ t: Date.now(), src, ...(sec ? { sec: Math.round(sec) } : {}), ...(n ? { n } : {}) });
   if (j.length > MAX_JOURNAL) j.splice(0, j.length - MAX_JOURNAL);
+  if (n > 0) document.dispatchEvent(new CustomEvent('wikideck:paquet', { detail: { src, n } }));
 }
 export const journalPaquets = () => etat.journalPaquets || [];
 

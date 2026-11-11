@@ -148,7 +148,7 @@ export function tic(z) {
   const m = $('#minuteur', z);
   if (!m) return;
   const prets = p.prets, avant = +(z.dataset.prets ?? prets);
-  if (prets !== avant) { if (prets > avant) { son('palier'); toast('ph-cards', 'Nouveau paquet'); } return rendre(z); }
+  if (prets !== avant) { if (prets > avant) son('palier'); return rendre(z); }
   m.textContent = fmtTemps(Math.round(secondesRestantes()));
   const a = $('#arc', z), t = $('#tete-arc', z), pr = Math.max(0, Math.min(1, p.progression));
   if (a) a.style.strokeDashoffset = CIRC * (1 - pr);

@@ -86,6 +86,13 @@ async function demarrer() {
   for (const col of donnees.collections) for (const c of col.cartes) { c.total = col.nbCartes; c.imageUrl = abs(c.imageUrl); c.thumbUrl = abs(c.thumbUrl); }
 
   poserHabillages();
+  // chaque gain dit d'où il vient : récompenses (série, objectifs…) et paquets gagnés par le temps
+  document.addEventListener('wikideck:notif', (e) => toast('ph-gift', e.detail, 4500));
+  const ORIGINES = { minuteur: 'Minuteur', question: 'Questions', qdj: 'Question du jour', ticket: 'Ticket', temps: 'Temps' };
+  document.addEventListener('wikideck:paquet', (e) => {
+    const { src, n } = e.detail;
+    if (ORIGINES[src]) toast('ph-package', `+${n} paquet${n > 1 ? 's' : ''} · ${ORIGINES[src]}`, 4500);
+  });
   await demarrerSynchro();
   // remise à zéro unique de toute la partie (demandée le 08/11/2026), sauf les Éclats :
   // ils appartiennent au registre commun, et leur file d'envoi doit partir intacte
@@ -99,6 +106,12 @@ async function demarrer() {
     Object.assign(etat, { version: 1, creeLe: maintenant, cartes: {}, paquets: null, station: null, configUtilisateur: {}, prefs: { afficherVides: true } }, garde);
     sauvegarderMaintenant();
   }
+  // marques « lue » posées par le simple affichage des fiches (bug corrigé le 11/11/2026) : effacées une fois
+  if (!etat.correctifs?.lues20261111) {
+    etat.correctifs = { ...(etat.correctifs || {}), lues20261111: { le: Date.now(), effacees: Object.keys(etat.lues || {}).length } };
+    etat.lues = {};
+    sauvegarderMaintenant();
+  }
   initEclats();
   if (config.get('stationActive')) initStation();
   const changements = reconcilierCatalogue();
@@ -110,7 +123,6 @@ async function demarrer() {
   document.addEventListener('v2:aller', (e) => aller(e.detail.nom, e.detail.options));
   document.addEventListener('wikideck:aller', (e) => aller(e.detail));
   document.addEventListener('v2:rafraichir', () => rendre());
-  document.addEventListener('wikideck:notif', (e) => toast('ph-bell', e.detail));
   document.addEventListener('gacha:eclats-changes', majSolde);
 
   rendre('accueil');

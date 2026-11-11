@@ -19,7 +19,6 @@ export function fiche(liste, i = 0, source, { surFermeture } = {}) {
   const remplir = (sens) => {
     const c = liste[i], q = quantite(c.id), epinglee = vitrine().includes(c.id);
     const t = teinte(donnees.colDe.get(c.id)?.theme);
-    if (q) marquerLue(c.id);
     f.style.setProperty('--img', `url('${c.thumbUrl}')`);
     f.innerHTML = `<div class="flou"></div>
       <div class="barre-f"><button class="retour" id="ff" aria-label="Fermer"><i class="ph-bold ph-x"></i></button><span class="pos">${liste.length > 1 ? `${i + 1} / ${liste.length}` : ''}</span>
@@ -42,6 +41,8 @@ export function fiche(liste, i = 0, source, { surFermeture } = {}) {
           ${c.lienWikipedia ? `<a class="btn2 seul" href="${esc(c.lienWikipedia)}" target="_blank" rel="noopener"><i class="ph-bold ph-book-open-text"></i>Lire</a>` : ''}
         </div>
       </div>`;
+    // « lue » veut dire : l'article a été ouvert, pas seulement la fiche affichée
+    $('.actions a', f)?.addEventListener('click', () => marquerLue(c.id));
     const k = $('.scene .k', f);
     if (sens) k.classList.add(sens > 0 ? 'entre-g' : 'entre-d');
     brancherManipulation(k);

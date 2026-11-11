@@ -8,7 +8,7 @@ import { config } from './config.js';
 import { donnees } from './donnees.js';
 
 export const SOURCES = {
-  passif: 'Paquet passif', questions: 'Questions', boutique: 'Boutique',
+  passif: 'Paquet', questions: 'Questions', boutique: 'Boutique',
   recompense: 'Récompense', resonance: 'Résonance',
 };
 

@@ -817,7 +817,7 @@
 .barre-progression.resonance > div { background: linear-gradient(90deg, #7c5cff, #ff5cd0); }
 
 /* cartes lues, historique, vente groupée */
-.indicateur-lue { position: absolute; bottom: 3px; left: 3px; font-size: 10px; background: #000a; color: #3ddc97; border-radius: 99px; padding: 0 5px; }
+.indicateur-lue { position: absolute; top: 3px; left: 3px; font-size: 10px; background: #000a; color: #3ddc97; border-radius: 99px; padding: 0 5px; }
 .filtres { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
 .filtre { background: var(--fond-2); border: 1px solid #ffffff1a; color: var(--texte); border-radius: 999px; padding: 5px 12px; font: inherit; font-size: 13px; cursor: pointer; }
 .filtre.actif { background: var(--accent); border-color: var(--accent); }

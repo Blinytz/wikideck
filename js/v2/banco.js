@@ -5,7 +5,9 @@
 //   « J'avais bon » annule l'entrée qu'avait faite cette réponse.
 // - Banco du jour : les ratées de la veille, 10 au plus, complétées si besoin par le carnet
 //   du Super Banco. Une réussite au Banco ne sort pas la question du Super Banco.
-// - Super Banco : 10 questions du carnet, dès qu'il en compte 10 ; une réussite l'en sort.
+// - Super Banco : 10 questions du carnet, dès qu'il en compte 10, prises en tête de pile.
+//   Une première réussite marque la question et la renvoie en fin de pile ; une seconde
+//   réussite (sans erreur entre les deux) la sort du carnet. Une erreur efface la marque.
 // - Un essai de chaque par jour de jeu ; gains par paliers cumulés (fragments).
 
 import { etat, sauvegarder } from '../etat.js';
@@ -24,7 +26,7 @@ const banque = () => new Map(toutesQuestions().map((q) => [q.id, q]));
 function carnets() {
   const c = (etat.carnets ??= {});
   c.jours ??= {};   // jour de jeu -> { id: nombre de ratés ce jour-là }
-  c.super ??= {};   // id -> { n: ratés, depuis }
+  c.super ??= {};   // id -> { n: ratés, depuis, pos: rang dans la pile (horodatage), justes: 0 | 1 }
   // seuls la veille et le jour même servent : le reste est oublié
   const garder = new Set([jourDeJeu(), decalerJour(jourDeJeu(), -1)]);
   for (const j of Object.keys(c.jours)) if (!garder.has(j)) delete c.jours[j];
@@ -36,8 +38,9 @@ export function noterRatee(id, jour = jourDeJeu()) {
   const c = carnets();
   const j = (c.jours[jour] ??= {});
   j[id] = (j[id] || 0) + 1;
-  const s = (c.super[id] ??= { n: 0, depuis: Date.now() });
+  const s = (c.super[id] ??= { n: 0, depuis: Date.now(), pos: Date.now() });
   s.n += 1;
+  s.justes = 0;   // une erreur efface la première réussite
   sauvegarder();
 }
 /* « J'avais bon » : la réponse n'était pas une erreur, on retire ce qu'elle avait ajouté. */
@@ -51,6 +54,8 @@ export function annulerRatee(id, jour = jourDeJeu()) {
 
 const valides = (ids, b = banque()) => ids.filter((id) => b.has(id));
 export const carnetSuper = () => valides(Object.keys(carnets().super));
+// la pile du Super Banco : les plus anciennes d'abord ; une question marquée repart à la fin
+const pile = () => { const c = carnets().super; return carnetSuper().sort((a, b) => (c[a].pos || c[a].depuis) - (c[b].pos || c[b].depuis)); };
 export const rateesVeille = () => valides(Object.keys(carnets().jours[decalerJour(jourDeJeu(), -1)] || {}));
 
 // écran Questions et question du jour (le moteur annonce chaque réponse et chaque correction)
@@ -81,7 +86,7 @@ function preparer(cle) {
       ids = veille.length ? [...veille, ...complement] : [];
     } else {
       const c = carnetSuper();
-      ids = c.length >= TAILLE ? melanger(c).slice(0, TAILLE) : [];
+      ids = c.length >= TAILLE ? melanger(pile().slice(0, TAILLE)) : [];
     }
     if (!ids.length) return p;   // rien à jouer aujourd'hui (pas de ratées hier / carnet trop court)
     p.ids = ids;
@@ -99,9 +104,9 @@ export function repondre(cle, saisie) {
   if (!q || p.fini) return null;
   const ok = estCorrecte(q, saisie);
   p.rep.push({ id: q.id, ok, saisie });
-  appliquer(cle, q.id, ok, +1);
+  const etape = appliquer(cle, q.id, ok, +1);
   sauvegarder();
-  return { ok, q, score: score(p), reste: p.ids.length - p.rep.length };
+  return { ok, q, etape, score: score(p), reste: p.ids.length - p.rep.length };
 }
 /* « J'avais bon / faux » sur la dernière réponse, tant que la partie n'est pas close. */
 export function corriger(cle) {
@@ -109,21 +114,28 @@ export function corriger(cle) {
   if (!r || p.fini) return null;
   appliquer(cle, r.id, r.ok, -1);
   r.ok = !r.ok;
-  appliquer(cle, r.id, r.ok, +1);
+  const etape = appliquer(cle, r.id, r.ok, +1);
   sauvegarder();
-  return { ok: r.ok, q: banque().get(r.id), score: score(p), reste: p.ids.length - p.rep.length };
+  return { ok: r.ok, q: banque().get(r.id), etape, score: score(p), reste: p.ids.length - p.rep.length };
 }
 function appliquer(cle, id, ok, signe) {
-  const jour = partie(cle).jour;
-  if (ok) {
-    compterBonne(jour, signe);
-    if (cle === 'superBanco') {
-      const c = carnets();
-      if (signe > 0) { partie(cle).sortis ??= {}; partie(cle).sortis[id] = c.super[id]; delete c.super[id]; }
-      else if (partie(cle).sortis?.[id]) { c.super[id] = partie(cle).sortis[id]; delete partie(cle).sortis[id]; }
-    }
-  } else if (signe > 0) noterRatee(id, jour);
+  const p = partie(cle), jour = p.jour, sup = cle === 'superBanco', c = carnets();
+  // Super Banco : l'entrée d'avant la réponse, pour pouvoir l'annuler (« J'avais bon / faux »)
+  if (sup && signe > 0) { p.avant ??= {}; p.avant[id] = c.super[id] ? { ...c.super[id] } : null; }
+  if (ok) compterBonne(jour, signe);
+  else if (signe > 0) noterRatee(id, jour);
   else annulerRatee(id, jour);
+  if (!sup) return null;
+  if (signe < 0) {
+    if (p.avant && id in p.avant) { if (p.avant[id]) c.super[id] = { ...p.avant[id] }; else delete c.super[id]; delete p.avant[id]; }
+    return null;
+  }
+  if (!ok) return null;   // noterRatee a déjà compté l'erreur et effacé la marque
+  const e = c.super[id];
+  if (!e) return null;
+  if (e.justes >= 1) { delete c.super[id]; return 'sortie'; }
+  e.justes = 1; e.pos = Date.now();
+  return 'marquee';
 }
 
 /* Fin de partie : gains des paliers atteints, cumulés. */

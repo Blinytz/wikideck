@@ -175,3 +175,5 @@
 #toasts .toast { position: relative; left: auto; top: auto; translate: none; max-width: 100%; border-radius: 22px; animation-name: toast-pile; }
 #toasts .toast span { line-height: 1.3; }
 @keyframes toast-pile { from { opacity: 0; transform: translateY(-14px); } 10%, 88% { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-8px); } }
+.bk-etape { display: inline-flex; align-items: center; gap: 5px; margin-top: 4px; font: 600 12px var(--mono); color: var(--b); }
+.bk-etape.sortie { color: var(--vert); }

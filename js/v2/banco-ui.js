@@ -103,7 +103,7 @@ export function ouvrirBanco(cle, surFermeture) {
     entete();
     $('.bk-paliers', f).outerHTML = htmlPaliers(r.score);
     const v = $('#bv', f); v.className = `verdict vu ${r.ok ? 'ok' : 'ko'}`;
-    v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(r.q.reponse)}</b></div>
+    v.innerHTML = `<div class="ico"><i class="ph-bold ${r.ok ? 'ph-check' : 'ph-x'}"></i></div><div class="txt"><b>${esc(r.q.reponse)}</b>${r.etape === 'marquee' ? '<span class="bk-etape"><i class="ph-fill ph-bookmark-simple"></i>1 / 2</span>' : r.etape === 'sortie' ? '<span class="bk-etape sortie"><i class="ph-fill ph-check-circle"></i>2 / 2</span>' : ''}</div>
       <div class="q-actions"><button class="btn2 fantome petit q-corr" id="bcorr">${r.ok ? 'J’avais faux' : 'J’avais bon'}</button><button class="btn2 petit" id="bsuiv">${r.reste ? 'Suivante' : 'Résultat'}</button></div>`;
     $('#bsuiv', f).addEventListener('click', () => { son('tap'); poser(); });
     $('#bcorr', f).addEventListener('click', () => montrer(corriger(cle)));

@@ -255,8 +255,9 @@ function peindreFeuille(cv) {
   g.font = `${Math.round(h * .46)}px 'Instrument Serif', serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
   g.fillStyle = '#7a4f1260'; g.fillText('W', w / 2, h / 2 + dp * 1.5); g.fillStyle = '#fff8dd70'; g.fillText('W', w / 2, h / 2 - dp);
 }
-// part de la case à découvrir avant qu'elle ne se révèle : le joueur la gratte presque entièrement
-const SEUIL_GRATTE = .92;
+// la case ne se valide que grattée en entier : on ne compte que la partie visible
+// (les coins arrondis sont hors de vue) et on tolère seulement les liserés des bords
+const SEUIL_GRATTE = .985;
 function ouvrirTicket(zAccueil) {
   vibrer(); son('tap');
   const tk = ticket();
@@ -302,13 +303,23 @@ function ouvrirTicket(zAccueil) {
     let bas = false, prec = null, coups = 0;
     const pt = (e) => { const r = cv.getBoundingClientRect(); return [(e.clientX - r.left) * cv.width / r.width, (e.clientY - r.top) * cv.height / r.height]; };
     const trait = (a, b) => { g.globalCompositeOperation = 'destination-out'; g.lineCap = g.lineJoin = 'round'; g.lineWidth = cv.width * .24; g.beginPath(); g.moveTo(...a); g.lineTo(...b); g.stroke(); };
-    const ratio = () => { const dt = g.getImageData(0, 0, cv.width, cv.height).data; let v = 0, n = 0; for (let k = 3; k < dt.length; k += 52) { n++; if (dt[k] < 40) v++; } return v / n; };
+    const ratio = () => {
+      const w = cv.width, h = cv.height, dt = g.getImageData(0, 0, w, h).data;
+      const ray = 16 * w / cv.getBoundingClientRect().width, pas = 3;
+      let v = 0, n = 0;
+      for (let y = 0; y < h; y += pas) for (let x = 0; x < w; x += pas) {
+        const cx = x < ray ? ray : x > w - ray ? w - ray : x, cy = y < ray ? ray : y > h - ray ? h - ray : y;
+        if ((x - cx) ** 2 + (y - cy) ** 2 > ray * ray) continue;   // coin arrondi, invisible
+        n++; if (dt[(y * w + x) * 4 + 3] < 40) v++;
+      }
+      return v / n;
+    };
     cv.addEventListener('pointerdown', (e) => {
       if (!choisirCase(i)) return refus(i);
       bas = true; try { cv.setPointerCapture(e.pointerId); } catch {} prec = pt(e); trait(prec, [prec[0] + 1, prec[1]]);
     });
-    cv.addEventListener('pointermove', (e) => { if (!bas) return; const p = pt(e); trait(prec, p); prec = p; if (++coups % 7 === 0) { vibrer(3); if (ratio() > SEUIL_GRATTE) { bas = false; finir(i); } } });
-    const lever = () => { if (bas && ratio() > SEUIL_GRATTE) finir(i); bas = false; };
+    cv.addEventListener('pointermove', (e) => { if (!bas) return; const p = pt(e); trait(prec, p); prec = p; if (++coups % 4 === 0) { vibrer(3); if (ratio() >= SEUIL_GRATTE) { bas = false; finir(i); } } });
+    const lever = () => { if (bas && ratio() >= SEUIL_GRATTE) finir(i); bas = false; };
     cv.addEventListener('pointerup', lever); cv.addEventListener('pointercancel', lever);
   });
   const peindre = () => f.querySelectorAll('.tk-case:not(.vu):not(.manque) canvas').forEach(peindreFeuille);

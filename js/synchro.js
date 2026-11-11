@@ -16,6 +16,9 @@ const DELAI_ENVOI = 4000;
 let minuterie = null;
 let envoiEnCours = false;
 let synchroEnCours = false;
+// un geste du joueur pendant la lecture du serveur (retour au premier plan) : la copie
+// distante, lue avant ce geste, ne doit pas l'écraser (ticket gratté deux fois, 11/11/2026)
+let modifPendant = false;
 
 function remplacerEtat(nouveau) {
   for (const k of Object.keys(etat)) delete etat[k];
@@ -38,7 +41,8 @@ async function envoyer() {
 // chaque changement, même hors ligne, date l'état de l'appareil : au prochain
 // démarrage connecté, l'état le plus récemment modifié gagne
 surSauvegarde(() => {
-  if (synchroEnCours || !etat.serveur?.actif) return;
+  if (!etat.serveur?.actif) return;
+  if (synchroEnCours) { modifPendant = true; return; }
   etat.serveur.modifieLe = Date.now();
   clearTimeout(minuterie);
   minuterie = setTimeout(envoyer, DELAI_ENVOI);
@@ -50,6 +54,7 @@ export async function demarrerSynchro() {
   etat.serveur ??= {};
   let change = false;
   synchroEnCours = true;
+  modifPendant = false;
   try {
     const distant = await lireEtat();
     if (!distant) {
@@ -68,7 +73,7 @@ export async function demarrerSynchro() {
     } else {
       const distantMaj = distant.etat?.serveur?.modifieLe || 0;
       const localMaj = etat.serveur.modifieLe || 0;
-      if (distantMaj >= localMaj || !etat.serveur.actif) {
+      if ((distantMaj >= localMaj && !modifPendant) || !etat.serveur.actif) {
         remplacerEtat(distant.etat);
         change = true;
       }

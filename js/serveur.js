@@ -14,14 +14,20 @@ export const SERVEUR = {
 };
 const CLE_SESSION = 'eclats_session';
 
+// La session est partagée : une autre application peut la renouveler à tout moment
+// (le jeton de renouvellement d'avant devient alors invalide). On relit donc toujours
+// la copie commune plutôt que de garder la sienne en mémoire.
 let session = null;
-try { session = JSON.parse(localStorage.getItem(CLE_SESSION) || 'null'); } catch { session = null; }
+const lireStockee = () => { try { return JSON.parse(localStorage.getItem(CLE_SESSION) || 'null'); } catch { return null; } };
+const relire = () => { session = lireStockee(); return session; };
+relire();
+window.addEventListener?.('storage', (e) => { if (e.key === CLE_SESSION) relire(); });
 
 function sauverSession(s) {
   session = s;
   try { s ? localStorage.setItem(CLE_SESSION, JSON.stringify(s)) : localStorage.removeItem(CLE_SESSION); } catch {}
 }
-export function estConnecte() { return !!session?.access_token; }
+export function estConnecte() { relire(); return !!session?.access_token; }
 export function utilisateur() { return session?.user || null; }
 
 export async function connexion(email, motDePasse) {
@@ -37,23 +43,38 @@ export async function connexion(email, motDePasse) {
 }
 export function deconnexion() { sauverSession(null); }
 
-async function rafraichir() {
-  if (!session?.refresh_token) return false;
-  const r = await fetch(`${SERVEUR.url}/auth/v1/token?grant_type=refresh_token`, {
-    method: 'POST',
-    headers: { apikey: SERVEUR.anonKey, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ refresh_token: session.refresh_token }),
-  });
-  if (!r.ok) { sauverSession(null); return false; }
-  sauverSession(await r.json());
-  return true;
+/* Renouvellement : un seul à la fois ; on ne se déconnecte que si le serveur refuse
+   vraiment le jeton ET qu'aucune autre application n'a renouvelé la session entre-temps. */
+let renouvellement = null;
+function rafraichir(jetonRefuse) {
+  return (renouvellement ??= (async () => {
+    const s = relire();
+    if (!s?.refresh_token) return false;
+    if (jetonRefuse && s.access_token !== jetonRefuse) return true;   // déjà renouvelée ailleurs
+    let r;
+    try {
+      r = await fetch(`${SERVEUR.url}/auth/v1/token?grant_type=refresh_token`, {
+        method: 'POST',
+        headers: { apikey: SERVEUR.anonKey, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ refresh_token: s.refresh_token }),
+      });
+    } catch { return false; }   // réseau : on garde la session
+    if (r.ok) { sauverSession(await r.json()); return true; }
+    const apres = lireStockee();
+    if (apres?.refresh_token && apres.refresh_token !== s.refresh_token) { session = apres; return true; }
+    if (r.status === 400 || r.status === 401) sauverSession(null);
+    return false;
+  })().finally(() => { renouvellement = null; }));
 }
 
 async function appel(chemin, options = {}, deja = false) {
+  relire();
+  // jeton expiré (ou presque) : renouvelé avant l'appel plutôt qu'après un refus
+  if (session?.expires_at && session.expires_at * 1000 < Date.now() + 30e3) await rafraichir();
   const entetes = { apikey: SERVEUR.anonKey, 'Content-Type': 'application/json', ...(options.headers || {}) };
   if (session?.access_token) entetes.Authorization = `Bearer ${session.access_token}`;
   const r = await fetch(`${SERVEUR.url}${chemin}`, { ...options, headers: entetes });
-  if (r.status === 401 && !deja && await rafraichir()) return appel(chemin, options, true);
+  if (r.status === 401 && !deja && await rafraichir(entetes.Authorization?.slice(7))) return appel(chemin, options, true);
   const texte = await r.text();
   if (!r.ok) {
     let m = `Erreur ${r.status}`;

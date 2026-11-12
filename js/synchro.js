@@ -124,14 +124,15 @@ export async function demarrerSynchro() {
 }
 
 export async function chargerQuestionsServeur() {
-  if (!estConnecte()) return definirSource([]);
+  const enCache = () => { try { definirSource(JSON.parse(localStorage.getItem('wikideck-questions-cache') || '[]')); } catch { definirSource([]); } };
+  if (!estConnecte()) return enCache();
   try {
     const q = await lireQuestions();
     definirSource(q);
     try { localStorage.setItem('wikideck-questions-cache', JSON.stringify(q)); } catch {}
   } catch (e) {
     // hors ligne : dernière copie reçue
-    try { definirSource(JSON.parse(localStorage.getItem('wikideck-questions-cache') || '[]')); } catch { definirSource([]); }
+    enCache();
   }
 }
 

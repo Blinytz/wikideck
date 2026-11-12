@@ -12,6 +12,7 @@ import { traiterJours } from '../serie.js';
 import { verifierObjectifs } from '../objectifs.js';
 import { chargerQuestions } from '../source-questions.js';
 import { demarrerSynchro } from '../synchro.js';
+import { nbQuestions } from '../questions.js';
 import { vider } from '../portefeuille.js';
 import { rendreEcranHistorique } from '../ecran-historique.js';
 import { rendreEcranObjectifs } from '../ecran-objectifs.js';
@@ -139,7 +140,8 @@ async function demarrer() {
 
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState !== 'visible') return;
-    demarrerSynchro().finally(() => { tickPaquets(); traiterJours(); vider(); majSolde(); rendre(); });
+    // banque vide (session perdue ou réseau absent au lancement) : nouvel essai au retour
+    demarrerSynchro().then(() => (nbQuestions() ? null : chargerQuestions())).finally(() => { tickPaquets(); traiterJours(); vider(); majSolde(); rendre(); });
   });
 
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).catch((e) => console.warn('Service worker non enregistré :', e));
